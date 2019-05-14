@@ -1,0 +1,37 @@
+# Big Series Batting Averages
+## 
+### 
+Batting averages for the first four
+games:
+Boston — AB H Pet.
+Foster 4 3 .750
+Lewis 14 7 .500
+Cady 5 2 .400
+Speaker 12 4 .333
+Hooper 16 4 .250
+Hoblitzel 15 5 .333
+Gardner 14 3 .214
+Shore 5 1 .200
+Barry 14 2 .142
+Scott 13 1 .091
+Thomas 3 0 .000
+Leonard 3 0 .000
+Henriksen 2 0 .000
+Carrigan 2 0 .000
+Ruth 1 0 .000
+.Tanvrin 1 0 .000
+Team 124 32 .258
+Philadelphia— AB II Pet.
+Luderus 14 5 .350
+Chalmers 3 1 .333
+Hancroft 14 3 .214
+Burns 12 2 .167
+Alexander 6 1 .167
+Cravath 13 2 .154
+Stock 14 2 .143
+Whitted 11 1 .091
+Paskert 15 1 .066
+Niehoff 12 0 .000
+Mayer 3 0 .000
+Byrne 1 0 .000
+Teams 118 18 .152

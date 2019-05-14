@@ -1,0 +1,5 @@
+# TIME-TABLE.
+## 
+### 
+j * Daily except Sunday,
+t Saturdays only.

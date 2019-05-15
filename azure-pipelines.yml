@@ -10,10 +10,18 @@ pool:
   vmImage: 'ubuntu-latest'
 
 steps:
-- script: echo Hello, world!
-  displayName: 'Run a one-line script'
 
-- script: |
-    echo Add other tasks to build, test, and deploy your project.
-    echo See https://aka.ms/yaml
-  displayName: 'Run a multi-line script'
+- task: InstallSSHKey@0
+  inputs:
+    knownHostsEntry: 'github.com,192.30.253.113 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGEYsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8xhHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RKrTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUFFAaQ=='
+    sshPublicKey: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDLdZTXcK+KGQFa9TgVSVlLpPOlzCOsfFfKKSDxG3PoWIVRHUKiugIK8oCPMUGYS2E4Vh8pzSK49nldKDS3LGl4Hk563BVXqiEoh/eBxFe0mCSJcKRTW7fvBhED1/2IqHCXSxjM3Ij8F04voN1rSqACnIsnjSsCbyV1tobV2WCOeb4G6UdwLno/tZq3jHaUO8MxyVV+HgNOgZyHnJsBPsb+k4JOcwps8WoNOYpXPXbtw9BNiZmGXdGj34Ge+3aLzKdpK69osLVo3yTEcXV6DYfNHI5YuRVQjmpK9u5UEc0pEbfpkrBkS771ctispzCRiS/nN6ryCD6IcdzSD9ptGr3d'
+    sshKeySecureFile: 'tsd_bb_rsa'
+
+- task: CmdLine@2
+  inputs:
+    script: |
+      git remote add origin git@bitbucket.org:thestanforddaily/archives-text.git
+      touch test.txt
+      git add -A
+      git commit -m "test"
+      git push -f origin master

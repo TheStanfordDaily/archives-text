@@ -7,6 +7,7 @@ years = os.listdir(".")
 for year in filter(os.path.isdir, years):
     if not re.match(r'^\d{4}$', year):
         continue
+    print(year)
     for month in os.listdir(year):
         if not os.path.isdir(os.path.join(year, month)): continue
         for day in os.listdir(os.path.join(year, month)):

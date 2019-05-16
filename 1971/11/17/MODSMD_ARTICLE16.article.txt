@@ -1,0 +1,114 @@
+# Statistics Prof 'Faces' Data
+## 
+### GEORGE DOBBINS 
+A picture is worth a thousand words, a
+Chinese philosopher once said. According to
+Statistics Professor Herman Chernoff, it is
+worth quite a few numbers as well.
+Chernoff has devised a method of analyzing
+numerical data by expressing it as
+computer-drawn human faces. He assigns each
+number to a specific facial feature.
+He feels that a person can look at a lot of
+facially-ex pressed data all at once and come to
+reliable conclusions both quickly and
+efficiently. Mathematical analysis takes more
+time.
+The professor admits that his faces are not
+as accurate as numbers, but, "You can quickly
+look at the face and get an overview of what's
+going on, and the main object of this is just to
+give you a quick overview; it's not a precise
+instrument."
+Vary Variables
+Presently, he is only able to assign 18
+"variables," or different types of data to each
+of his faces, although he emphasizes that,
+"This was the simplest face I could draw; if
+you wanted to put ears or hair on, you could
+easily get up to 36 variables."
+Chernoff adds, "The beautiful thing about
+this is that it is the reverse of what's been
+going on. We talk about artificial intelligence,
+having the computers do the thinking for us,
+but here we've used not the computer's ability
+to think, but its brute power to draw faces for
+us and leave the thinking to people. . ..
+"Basically, I think the advantage of this is
+that it's easier for people to look at the faces
+to detect whatever regularities there are
+because of the emotional impact, whereas
+looking at the numbers is psychologically more
+difficult, even for someone who is trained to
+look at numbers.
+
+"Recently, my secretary had a job trying to
+separate two groups of faces. For one group,
+her description was, These faces look like
+they're smiling but tense.' The ability of
+people to describe things in this manner gives
+them greater flexibility than a computer
+program has."
+Mineral Project Screens
+Chernoff has conducted eight research
+projects using the computer face program. One
+project conerned an analysis of the mineral
+content of various core sampels taken from a
+Colorado mountainside. Each of 53 samples
+was represented by a row of twelve percentage
+numbers or "variables," which were to be fed
+into the computer.
+Professor Chernoff let one number
+represent the upper half outline of the face,
+another, the lower half, a third, the mouth, etc.
+The computer faces made it immediately
+obvious where major changes in mineral
+composition occurred in the mountainside.
+In this case, the system was proven to be
+both convenient and effective, but in research
+conducted for the Stanford Law School, the
+results were not positive.
+Law School Study
+The study involved 17 convicted
+murderers, about half of whom had received
+death sentences, and the other half life. The
+students hoped to discover whether such
+factors as the number of defense attorneys, or
+prosecutors, the victim or defendant's race,
+kinds of pleas or other variables could make
+any significant difference in the outcome.
+Unfortunately the study was inconclusive.
+"The law school case was a more difficult
+case partly because all of the variables were
+yes/no and partly because I hadn't seriously
+thought out the objectives to be attained, and
+possibly because there is no very dominant
+
+message in the data," states Professor
+Chernoff. "With the geological data, I just
+threw it into the computer and the faces told a
+story."
+Wide Use of Technique
+The professor's technique has also been
+used on botanical data for classifying flowers,
+on marine biological data, on a study of
+electrocardiograms aimed at identifying
+potential heart victims and on an analysis of
+rock samples from data supplied by geologists
+at Clemson University.
+This research is supported by an ONR
+(Office of Naval Research) basic research
+contract in stastistics. The current major
+emphasis of this project concerns research on
+cluster analysis, pattern recognition and other
+theoretical problems involving high
+dimensional multivariate data.
+When asked if he gets bored by studying
+only faces Chernoff responds, "Faces are
+extremely powerful devices, but you can use
+other things.. .. Some of my colleagues want
+to know when I'll be using the female body,
+but I'm not that ambitious. Seriously, the face
+is easy to draw and it has a lot of richness to it.
+I don't see much point in going beyond the
+face.

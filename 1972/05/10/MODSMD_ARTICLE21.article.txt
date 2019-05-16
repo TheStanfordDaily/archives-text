@@ -1,0 +1,15 @@
+# Baseball Standings
+## 
+### 
+Southern Division
+W L Pet. W L
+use 12 3 .800 37 11
+Stanford 8 7 .533 35 15
+Cal 7 8 .467 31 19
+UCLA 3 12 .200 30 30
+Northern Division
+W L Pet. W L
+WSU 11 4 .733 25 11
+Oregon 11 4 .733 20 12
+Washington 5 9 .357 11 18
+OSU 2 12 .167 12 20

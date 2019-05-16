@@ -1,0 +1,124 @@
+# AI Goal: A 'Thinking' Machine
+## 
+### STEVEN G. UNGAR First of a two-part series 
+A source of both irritation and pride to the
+working scientist is the popular myth that he is
+different.
+To the great mass of the lay public including a
+surprisingly large percentage of the Stanford
+community, he is, at best, a doddering, eccentric
+genius in a white coat who thinks in equations and
+who can't remember his wife's name;and at worst, he
+is an evil egomaniac, bent on either the destruction or
+the conquest of the world, depending on his current
+mood.
+The truth, of course, is that scientists, as a group,
+aren't very, different from any other group of
+academics. They have headaches and ulcers, go to the
+movies, watch television, listen to records, visit art
+galleries, sleep, eat, love, pay taxes and die.
+But if there is any group of scientists at Stanford
+who suffers more than usual from an unflattering
+stereotype, it is probably the Artificial Intelligence
+Project.
+For this group is engaged in that most scarifying of
+tasks: Making a machine that can think.
+In The Hills
+The Stanford laboratory is housed in a modern,
+well-lit facility, set in the hills behind the campus
+complete with the requisite volley-ball court out
+front.
+The seventy-five staff members (of whom
+twenty-seven are graduate students pursuing an
+advanced degree) come from fields as diverse as
+computer science, mathematics, music, and
+psychiatry.
+Unlike Mary Shelley's pioneer experimenter in
+artificial intelligence, these men are not likely to be
+destroyed by their creation. Machines that perform
+Chopin, teach neurotic children to talk, or play with
+
+blocks are, one must admit, at least superficially
+benign.
+Nevertheless, the Artificial Intelligence Project has
+suffered in the past from a bad press.
+"Our burn rate," says Lester Earnest, Executive
+Director of the AI Project, "is about 8 0%."
+What particularly burned Mr. Earnest and others at
+the project was an article which appeared in a recent
+issue of "Life" Magazine. Among other things, the
+article quoted (falsely) a graduate student to the
+effect that, whereas they hadn't gotten the machine
+to experience orgasm as yet, they were working on it.
+Sensationalism
+This kind of unsought publicity, in which the
+sensational is emphasized and the scientific ignored,
+has made the workers at the AI Project rather
+sensitive about public relations. In a nation that feels
+itself threatened more and more by unthinking
+machines, the idea of a thinking machine is chilling.
+Tales of HAL 9 000 computers becoming psychotic
+anthropomorphic robots on a rampage, or
+super-computers making men into little more than
+mindless slaves, are the only contact that most people
+have with the concept of artificial intelligence.
+In fact, at this point, the science of artificial
+intelligence is so primitive that a computer that can
+merely understand spoken English is still only a
+science fiction writer's dream. "There is no basis for a
+statement that we will have machines as intelligent as
+people in three years, or fifteen years, or fifty years,
+or any definite time," says AI Project Director John
+McCarthy.
+"Fundamental questions have yet to be solved,
+and even to be formulated. Once this is done—and it
+might happen quickly or not for a long time—it might
+be possible to predict a schedule of development."
+If some operational anthropomorphic super-brain
+were to be developed in the near future, it's not likely
+
+that it would come out of Stanford. The AI Project
+devotes most of its energies to defining those basic
+questions that must be asked before one can hope to
+find an answer.
+In artificial intelligence these questions fall into
+the general categories of heuristics, representation,
+and relation to the outside world.
+Heuristics is the study of how thinking actually
+occurs. For instance, a three-year old child can easily
+recognize a picture of its mother, but what is the
+procedure followed by the three-year old mind that
+enables it to do this, and how can we get a machine
+to do the same thing?
+Modern computers are whizzes at complex
+mathematical processing, but the algorithms (i.e.,
+step-by-step procedures) for computing a square root
+are child's play compared to instructing a machine to
+recognize a person from a photograph, a task which is
+child's play for a human.
+Representation is the problem of storing
+obtainable information in a usable form. The
+philosophic roots of this question go back to Plato:
+How does one represent the real world?
+Clearly the answer depends on what one is looking
+for.
+The position and velocity of a particle is an
+excellent representation for some kinds of physics
+problems. But whereas it will tell you how fast a
+billiard ball is moving, it will not tell you what its
+color is.
+And if you are dealing with living organisms or
+other complex entities, it tells you pitifully little
+about emotions, attitudes and intentions.
+What is the rule that relates the positions and
+velocities of the particles making up a hungry lion to
+the fact that the lion is hungry? What color is hunger?
+
+
+Daily photo by Steven Ungar
+BUTTERFINGER—The television camera is the "eye," and the steel-fingered
+mechanical arm is the "hand," in the hand-eye project at Stanford's Artificial
+Intelligence Laboratory. The intermediary between "hand" and "eye" is the
+computer "brain" that uses the information provided by the television camera to
+direct the mechanical are to perform various manipulative tasks. The objective is
+basic knowledge in how computers can be made to use visual information.

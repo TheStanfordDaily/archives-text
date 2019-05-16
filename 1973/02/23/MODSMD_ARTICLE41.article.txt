@@ -1,0 +1,27 @@
+# BASEBALL STATISTICS
+## 
+### 
+Batting
+Player Games At Bats Hits RBl's Avg.
+Lucich 9 28 11 6 .385
+Block 13 13 5 4 .383
+Hampton 9 34 13 4 .382
+Hannaford 7 20 7 1 .350
+O'Brien 9 26 9 3 .346
+LaMoure 5 15 5 4 .333
+Nelson 8 23 5 1 .217
+Johnson 9 33 7 2 .212
+Reece 6 16 2 3 .125
+Orizzi 5 16 2 1 .125
+Aguirre 6 13 1 2 .077
+Pitching
+Player W L Innings Strikeouts ERA
+Shaw 2 0 13 9 0.00
+DiPietro 1 0 10 7 0.00
+Grolle 0 0 9 11 0.00
+Arthur 1 0 8 5 1.13
+Goldstein 1 0 6 3 1.50
+Peterson 1 0 11 9 1 -64
+Dudley 1 0 5 5 5.40
+Higgins 0 1 9 5 6.00
+Bielanski 0 1 6-1/3 3 7.11

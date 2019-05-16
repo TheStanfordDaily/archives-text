@@ -1,0 +1,98 @@
+# GPS stiffens space station
+## 
+### Akash Garg Contributing writer 
+As designs for space stations
+become increasingly larger, main
+taining stability is a major problem.
+Massive space stations have a ten
+dency to vibrate easily and go
+through violent oscillations.
+Although adding rigidity to the
+space station would increase stabili
+ty, more rigid space stations would
+be less cost-effective. Using a flexi
+ble structure can allow space sta
+tions to be lighter and larger at the
+same time without sacrificing any
+thing but stability.
+Dr. Harrison 'league, a former
+doctoral student at Stanford, has
+developed a control system that
+uses signals from the Global Posi
+tioning System (the Department of
+Defense's satellite navigation sys
+tem) to maintain stability on large,
+flexible structures, such as space sta
+tions.
+Teague's system uses GPS
+receivers attached to different por
+tions of the space station that detect
+movements with centimeter-level
+accuracy. If movement is detected,
+the system fires compressed air
+thrusters to reverse the movement
+and stabilize the structure. The sys
+tem has the ability to make a flexi
+ble structure behave as if it were a
+rigid body.
+"I think it's amazing that we can
+obtain centimeter-level accuracy
+using signals coming from 20,(XX)
+miles away," said l eague.
+league also developed proce
+dures that could control highly deli
+cate motions such as docking and
+
+undocking of capsules because
+these processes can cause major
+changes in the dynamic properties
+of space structures.
+In order to test his system,
+l eague constructed a large flexible
+structure consisting of three 100-
+pound aluminum blocks connected
+by two long elastic aluminum tubes
+in a straight line. Each block had
+two arms containing a GPS sensor
+and four compressed air thrusters.
+The structure was supported by 12
+threads from an overhead crane.
+The test structure could simulate
+many motions, including free rota
+tion in the horizontal plane.
+Because the test area was
+indoors, league had to use anten
+nas that simulated a GPS satellite.
+The receivers sent the data from the
+antennas to a computer that con
+tained a detailed model of the test
+structure. The computer calculated
+
+the timing and (Juration of the air
+blasts necessary to stabilize the
+structure.
+league has done demonstrations
+where he has moved the structure in
+the horizontal plane while rotating
+it in the center by 35 degrees. The
+structure, although very flexible,
+behaves like a rigid body even dui
+ing the most rapid movement.
+Another test involved manually
+moving one of the arms and then
+letting the system stabilize itself
+Almost immediately, the thrusters
+moved the arm hack into its proper
+position.
+Space stations are not the only
+structures that could benefit from
+league's stabilization system
+"There are many land-based flexi
+ble structures such as bridges that
+could use this system to analyze
+movements in the structures and
+possibly find flaws," l eague said.
+
+
+Courtesy of htlp //www lelarid Stanford edu/-hteague
+GPS-based stabilization system at work on a moving model.

@@ -1,0 +1,192 @@
+# In CCRMA, karma will catch up with you, others
+## 
+### ANNA NORTH INTERMISSION STAFF WRITER 
+When I arrive at the Knoll, the enormous stone
+edifice that houses Stanford's Center for Comput
+er Research in Music and Acoustics (CCRMA),
+the first thing I find is a locked door. Once 1 get past
+that — using my considerable ingenuity and the
+combination printed next to the keypad — I find
+the first floor deserted. The halls are dark, the
+doors are shut. Some of the signs have been ripped
+away. A floor plan of the building is cryptic and un
+enlightening. Climbing the Gothic spiral staircase,
+1 come to a conclusion — CCRMA must be hiding
+something.
+Sure, the second floor puts up a good front.
+There's a comfy-looking lounge area with some
+couches and a foosball table. And in the ballroom,
+where I expect to find Mr. Boddy with a candle
+stick in his skull, there's only music Prof. Jonathan
+Berger.
+Berger is involved in all three of CCRMA's
+
+c»
+main activities —
+teaching, research,
+and composing.
+When I arrive, he's
+decidedly un-sinis
+ter, chatting amiably
+with a student about
+an upcoming pro
+ject. As soon as he
+starts his lecture,
+however, my suspi
+cions return. This is
+Music 151, "Psy
+chophysics and Cog-
+
+nitive Psychology for Musicians." Today's topic:
+subliminal messages.
+To be fair, these messages are more properly
+called "figure-ground ambiguities." They're the
+musical equivalent of that popular optical illusion
+that can look like either two faces or a vase. Just as
+the vase might hide from us in the picture — be
+cause our brains perceive it as background — dif
+ferent melodies can hide within the same piece of
+music.
+That's where the computer part comes in. It's
+not called CCRMA (and that's pronounced
+'karma') for nothing. In addition to the traditional
+piano and parquet floor, this ballroom comes
+equipped with a desktop, a laptop, two monitors, a
+television and what appears to be an elaborate
+mixing station. Bergcr goes to town.
+First he plays a piece that sounds a lot like a her
+ald call in a royal robot court. Just like the faces and
+vases illusion, there are two "pictures" here — can
+we hear what they are'.' Those more musically in
+clined than 1 soon pick them out: "Twinkle Twin
+kle Little Star" and "Mary Had a Little Lamb.'
+But all those microprocessors aren't here for
+nursery rhymes. Now Bergcr plays a Bach prelude
+and asks his students to listen for melodic patterns.
+Here some CCRMA software comes into play.
+Using a MIDI player, Berger speeds the prelude
+up to a tempo of 2(X) beats per minute, making it
+easier for the students to hear melodic groupings in
+the music.
+They soon find a four-measure pattern that ap
+pears to repeat throughout the piece. But on the
+final repetition, the fourth measure is missing. A
+mystery is afoot — but not for long. Playing the
+piece even faster, Berger reveals another four
+measure pattern, hiding under the first like the
+vase in the picture. This one resolves nicely at the
+end rather than leaving the audience hanging.
+Bach snuck it in — it doesn't start until the fourth
+bar. But he must have known what he was doing;
+listening to the fugue he wrote as a companion to
+the prelude, we hear it repeated once again.
+I ponder the mind-control possibilities of such
+
+hidden musical codes, but Berger seems more in
+terested what they say about our perception.
+Composers, he says, have always had some under
+standing the physical and psychological effects of
+their music. CCRMA's work can enhance this un
+derstanding. He mentions an ongoing project in
+which he and colleagues take electrocardiograms
+of subjects listening to music and then convert
+their changing heart patterns into sound signals.
+The conversion allows Berger to make music out
+of the very act of listening — at least as impressive
+as mind-control, if less nefarious.
+After the lecture, Berger takes me on a tour of
+the building. Our first stop is the lounge, in which
+even the foosball table is a high-tech instrument.
+Wired with motion and location sensors, it can turn
+a game into a musical performance with a different
+sound attributed to each player. Lest I think
+CCRMA is all child's play, he next takes me to Stu
+dio D. Here a system of six speakers allows exper
+iments with "ambisonics," or the locations of
+sound in physical space.
+Then Berger leads me down to the dungeon
+that is the first floor. 1 remember all the closed
+doors, and my heart flutters a little at the prospect
+of a secret laboratory or a crypt for dead com
+posers. Instead, Berger shows me Studios A and B.
+These are two rooms that, connected by audio
+hookup, constitute what he calls "a free-floating
+noise-free acoustical space." This space is what
+keeps CCRMA in the dilapidated Knoll. Or so
+Berger says.
+Looking at the digital mixing board, with
+switches that can be controlled by mouse, and at
+the state-of-the-art recording equipment, I'm im
+pressed but not convinced. Surely this old mansion
+has more to it than prelude patterns and a nice
+sound system. Perhaps a sound-controlled cold fu
+sion reactor. Or a secret orchestra of evil robots.
+Turns out CCRMA does have a bit of the sci-fi.
+Berger's currently working on a project to make
+cells sing. Using M ATLAB, he hopes to map data
+about the state of a cell — its temperature, for in
+stance — into "vocal-like sounds." Doctors will
+then be able to diagnose cancer by listening, just as
+a mechanic with her ear to the hood might notice
+the telltale flapping of a bad fan belt.
+My last stop, and final chance to uncover the
+CCRMA secret, is a trailer out back, where grad
+uate students do much of their day-to-day work.
+Here I meet Roberto Segnini, a soft-spoken, de
+cidedly non-robotic type who introduces me to
+CCRMA's fuzzier side — composing.
+Of course, even the fuzzy stuff here isn't all that
+fuzzy. Segnini describes a recent project called the
+Sound Kitchen, in which he and two fellow stu
+
+dents created music from chemical reactions.
+Changes in an electrolyte solution produced
+changes in the voltage of a battery, which were
+picked up by a device called a microcontroller
+and translated into sound. What kind of sound?
+Well, to call it music would be a bit of a stretch. In
+its most euphonious moments, it sounds like the
+monster's theme from a fifties sci-fi soundtrack.
+And at its least, it sounds like that monster's roar
+ing — played backwards.
+This doesn't bother Segnini. For him, composi
+tion is about "connecting with the now, the time in
+which you live." That means taking advantage of
+all available technology, and "that may clash with
+perceptions of what is aesthetically pleasant." His
+next project: an interactive opera game in which
+players control the action with their voices. Such a
+game might, he admits "stretch the boundaries"
+of conventional listenability. "I also look at beau
+ty," he says, "but it's a different way."
+Leaving the trailers, 1 realize I've plumbed the
+depths of CCRMA without finding a single dead
+body, cache of contraband or top-secret lab. Per
+haps I've misjudged; perhaps the Knoll is merely
+a place where top-notch faculty and students use
+state-of-the-art computing tools to explore the in
+tersections between science and art.
+Then I look up at the building one last time. I
+realize there's one place I haven't been — the
+third floor. Prof. Berger says it's condemned, ren
+dered unsafe by the earthquake damage. Then he
+tells me Stanford's President Richard Lyman orig
+inally commissioned the building as his private
+residence. A decaying mansion, a condemned
+floor, a dead president — I can't help imagining
+Lyman's ghost wandering those darkened halls.
+So next time you walk by the Knoll on a dark
+night, listen for the sounds of a departed soul. If
+you hear the strains of Bach wafting through the
+night air, he might be practicing a prelude. If the
+music sounds more electronic, maybe he's experi
+menting with the MIDI player. And if a strange as
+sortment of beeps and whirrs emanates from the
+stone walls, don't be too alarmed — he's probably
+playing foosball.
+
+
+
+
+This is not Prof. Jonathan Berger or Weird Al, but
+Music Prof. Mark Applebaum.

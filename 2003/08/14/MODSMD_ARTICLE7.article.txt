@@ -1,0 +1,44 @@
+# Hacking spree strikes campus
+## 
+### CAMILLE RICKETTS EDITORIAL STAFF 
+Three waves of hacker attacks have allect
+ed nearly 3,000 Stanford computers since July
+31, exploiting a Microsoft Windows vulnera
+bility called "RP(I buffer overflow" that allows
+hackers to take control of entire systems. In
+formation Technology Systems and Services is
+asking students to instill new security software
+to prevent any further spread of infection.
+Campus computers running Microsoft
+Windows NT, 2000 and XP are susceptible to
+attack, in addition to any home computers
+that dial into Stanford or connect by broad
+band lines.
+ITSS Director Cedric Bennett said the Uni
+versity believes the infections might be attrib
+uted to laptops brought from outside campus
+and plugged into the network. The laptop
+
+users were probably not aware that their sys
+tems carried the virus at the time, he added.
+Microsoft announced the existence of the
+Windows vulnerability on July 16, simultane
+ously releasing a patch, or update, that would
+prevent attacks and infection.
+"Any unpatched system that was running
+011 the network and not protected by other
+means, like a firewall, was likely to be attacked,
+including clusters and home machines," Ben
+nett said. "Not all ll' addresses were
+attacked — but that is only a matter of time."
+The only way to repair a compromised sys
+tem is to reformat the hard drive, download
+the patch and then reinstall any backed-up
+data or applications.
+"There are no surgical approaches for
+most of these exploits," Bennett said. "The in-
+
+
+LINDSAY COIEMAN/The Stanford Daily
+Nearly 3,000 computers have fallen victim to campus-wide hacker attacks that target a vulnera
+bility in the Windows operating system. Students are urged to update their anti-virus software.

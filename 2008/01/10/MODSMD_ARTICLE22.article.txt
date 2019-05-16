@@ -1,0 +1,67 @@
+# CAMPUS LIFE
+## Software aids creation of digital worlds Computer Science team simplifies 3-D creation 
+### ROBERT TOEWS 
+Videogame players have Stanford
+researchers to thank for the latest in
+novation in 3-D design. Last month,
+the Virtual Worlds Group — a re
+search group in the Computer Sci
+ence department — released a soft
+ware program called Dryad that facil
+itates the creation of three-dimen
+sional trees for use in virtual worlds
+and games.
+High-quality three-dimensional
+content can be found in games such as
+World of Warcraft or online social
+communities like Second Life. The
+process of creating this content is gen
+erally extremely difficult.
+"There is a very, very tiny commu
+nity of people around the world who
+are skilled at creating three-dimen
+sional objects, and they are the ones
+who do it all," said Computer Science
+Assistant Prof. Vladlen Koltun. head
+of the project."[This] is one of the rea
+sons why you don't see three-dimen
+sional content on the Web; because
+nobody can create it."
+The developers of Dryad aim to
+make 3-D content creation — specifi
+
+cally. the creation of trees — more ac
+cessible to individuals with no special
+training. The software allows users to
+intuitively "create" trees by visually
+navigating to them. Dryad allows the
+user to explore a multi-dimensional
+design space as if it were a city map.
+"What's especially cool about
+Dryad is the fact that as users pick out
+good trees, their choices are used to
+guide the choices of future users," said
+Daniel Gibson '09. who worked ex
+tensively on the project.
+Since not all trees are equally de
+sirable. Dryad has a built-in mathe
+matical model that leads users toward
+trees that have some resemblance to
+trees that have proven popular with
+other users.
+The Dryad program is but the
+first of a series of modeling tools the
+Virtual Worlds Group plans to cre
+ate in order to allow casual users to
+design high-quality 3-D content.The
+group decided to start with trees
+rather than, for instance, houses or
+people, because the trees of the real
+world have been catalogued and cat
+egorized particularly thoroughly by
+botanists.
+Dryad can be downloaded for
+free at http://dryad.stanford.edu.
+
+Contact Robert Toews at rtoews@stan
+ford.edu.

@@ -1,0 +1,37 @@
+# CPPC on-line security can be breached easily
+## 
+### Adam Kemezis Contributing writer 
+students who register with the Career
+Planning and Placement Center may be giv
+ing personal information to more people
+than they think, due to a glitch in the CPPC 's
+network security.
+Although the security issue is resolved
+when files are cleared each day, the personal
+files of a student registering for interview
+bids are open for several hours to anyone who
+knows where to look.
+Since the beginning of last quarter, stu
+dents looking for jobs have been able to regis
+ter for the CPPC's On-Campus Recruiting
+Program using the World Wide Web.
+Students using the system access the
+CPPC's web page and fill in a form that asks
+
+(or basic personal information, including so
+cial security numbers, as well as details of
+academic, extracurricular and workplace ex
+perience.
+This information is then stored in a file on
+the network which is temporarily accessible
+to anyone who has a Leland account and
+knows the name of the file and directory.
+The person who has accessed the account
+can then read and change information in
+cluded in the file. A list of those registration
+forms filled out in any given day is offered to
+whoever logs in.
+Lance Choy, assistant director of the
+CPPC, said he was unaware of the problem
+but would try to correct it immediately.
+Despite the few hours when a file is acces-

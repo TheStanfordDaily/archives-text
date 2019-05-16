@@ -1,0 +1,96 @@
+# Science&Technology
+## The
+						idiot's guide Mastering thy inbox 
+### 
+Moving into college can be daunting, but setting up your e-mail
+shouldn't have to be.
+Stanford provides students a vast array of options for getting
+"@stanford.edu" e-mail. Students can choose between two protocols, as
+well as a number of clients, for retrieving their mail. They can use their
+browser, a program such as Outlook or even another mail service such
+as Gmail. Best of all, Stanford's upgraded 500 MB storage space offers
+plenty of room for all of your e-mail and images, too!
+
+POP, IMAP? What Gives?
+The internet is governed by protocols that tell your computer how to
+get the content you want. E-mail gives users a choice of protocols,
+either the Post Office Protocol (POP), or the Internet Mail Application
+Protocol (IMAP).
+When you set up your e-mail program, you will need to tell it which
+protocol to use. Not all internet protocols are created equal.
+POP, which stores your e-mail locally on your computer, is the most
+common protocol, but is also the most outdated. Although POP allows
+you to read your mail when you are offline, your mailbox won't follow
+you from computer to computer.
+For students who want their e-mail available in more than one place
+— such as on the Web, at home and at school — IMAP is the protocol
+of choice. IMAP stores all of your mail and folders on Stanford's serv
+er, and, as a result, your inbox and folders follow you across computers
+and e-mail programs.
+Choosing a Client
+Most Stanford students start out using "Webmail" because it requires
+only a browser. Located at http://webmail.Stanford.edu, Stanford's
+Webmail is less than ideal. Slow and finicky, it often gets confused if you
+use your browser's "Back" button. Even worse, scrolling through your
+inbox is a chore, and requires you to wait for pages to reload. Lastly,
+POP and Webmail don?t always play together nicely and POP users
+may find much of their inbox missing.
+Gmail: Webmail on Steroids
+Those who absolutely love browser-based e-mail should consider
+using Google's "Gmail," which is faster, friendlier and cooler than
+Stanford's Webmail. Sign up for Gmail at http://Gmail.com, then go to
+http://stanfordyou.stanford.edu and forward all incoming mail from
+your Stanford account to your Gmail account. Lastly, tell Gmail about
+your Stanford address in "Settings"-> "Accounts"->" Add another
+email address." Now, you can send and receive mail from within Gmail
+and it will still look like it originated from your Stanford account.
+The Stand-Alone Option
+I prefer a stand-alone e-mail client. These dedicated e-mail pro
+grams are designed to give you total control of your inbox. Windows
+users should download the free "Mozilla Thunderbird" at
+http://mozilla.org. By far the best client for Windows, Thunderbird is
+richer in features and more intuitive than others such as Outlook
+Express. In particular,Thunderbird offers inline e-mail searching and
+an impressive spam filter that not only kills off junk mail, but also
+improves its accuracy with use.
+Eudora is another option for students. Although better than
+Outlook Express, Eudora has barely changed over the years and
+lacks the innovative features found in Mozilla Thunderbird.
+Mac users already have an excellent client that comes free with
+their operating system. Since they introduced OSX, Apple has includ
+ed "Mail.app," a solid, feature-rich program with inline searching and
+spam-filtering. Best of all, Mail.app users can benefit from the easy-to
+use look and feel characteristic of all Apple software.
+For Linux users, I recommend Mozilla Thunderbird over the alterna
+tive "Evolution," which is too eerily similar to Outlook Express.
+Configure Your Client
+After you install an email client, it's time to configure it. Using
+Mozilla Thunderbird with IMAP on Windows, go to Tools-> Account
+Settings and click "Add Account." Follow the prompts to enter your
+name and Stanford email address ( your_SUNet_lD@stanford.edu).
+When prompted for an incoming server, check the IMAP box and
+enter "your_SUNet_lD.pobox.stanford.edu." For the outgoing server,
+type "smtp.stanford.edu." Follow the prompts and click "Finished."
+You?re not done yet! Add encryption by going to "Account Settings"
+and clicking on "Server Settings" in the left pane. On the right pane
+check the box entitled "Use Secure Authentication (SSL)." Click
+"OK" and your inbox should be there waiting.
+To configure other clients, go to http://mail.Stanford.edu and click
+on "Configuring your e-mail program."
+Next column, we will explore how to get the most out of the advanced
+features in your e-mail client. Enjoy your new mailbox!
+
+Andrew Leifer is a Junior studying physics and is founder of
+Boulder Computing.com, a small computer consulting firm.
+More Information
+• http://email.stanford.edu: Stanford's Page for Everything E-mail
+related. Includes tutorials
+• http://mozilla.org: Home of the free Mozilla Thunderbird Mail Gient
+• http://gmail.com: Google's excellent online Gmail program that can
+work with your Stanford Account
+• http://webmail.stanford.edu: Stanford's mediocre Webmail program
+• http://stanfordyou.stanford.edu: E-mail forwarding preferences
+
+
+Andrew
+Leifer

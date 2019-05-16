@@ -1,0 +1,45 @@
+# RESEARCH
+## Researchers use DNA as digital data storage 
+### MATT BETTONVILLE DESK EDITOR 
+Stanford researchers have developed a
+way to use DNA as rewritable digital data
+storage. Keeping data in cells could have
+widespread applications in future studies,
+according to the team, which was led by
+post-doctoral researcher Jerome Bonnet
+and Drew Endy, an assistant professor of
+bioengineering.
+"It's a tool to study processes where
+you need to track history of cells," Bonnet
+said.
+"Most of the questions in biology are
+
+questions about history," said Ton Sub
+soontorn, a graduate student who worked
+on the research team. "You ask, 'Why does
+this cell become a cancer cell?' and 'Why
+does this cell stay a normal cell?'"
+Just as a computer chip stores data by
+flipping an electrical bit or magnetic field
+on or off, the DNA system flips the orien
+tation of a section of DNA to indicate an
+on-or-off bit.
+The team's research involved establish
+ing precise control over two enzymes
+integrase and excisionase that work in
+opposition to manipulate proteins within
+bacterial cells. The team built on previous
+
+research that showed how to irreversibly
+flip a stretch of DNA about 500 base pairs
+in length.
+"We needed to reliably flip the se
+quence back and forth, over and over, in
+order to create a fully reusable binary data
+register," Bonnet said. "So we needed
+something different."
+The team had lots of early success flip
+ping the sequence in either direction inde
+pendently, but struggled to make both sys
+tems work within the same cell to create
+re-writable data. Endy said that the chal-

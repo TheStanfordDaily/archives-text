@@ -1,0 +1,125 @@
+# No rewards without RISC
+## 
+### GREG NOVICK 
+In the late '70s and early '80s,
+processor technology researchers
+were intensely working in the field
+of very large scale integration de
+sign, looking for ways to place as
+many transistors as possible on a
+chip. Out of such research came
+the technology which is today
+known as RISC — Reduced In
+struction Set Computer.
+Such processors include a set of
+simple, highly optimized instruc
+tions, the low-level binary opera
+tions that a computer processor
+performs to execute programs.
+Researchers at IBM, LC-
+Berkeley and Stanford were the
+first to produce RISC processors.
+Current University President John
+Ilennessy led RISC research at
+Stanford.
+"There was all this work going
+on in computer architecture that
+was focused on the notion of rais
+ing hardware up to the level of
+software," Hennessy recalled.
+"Ilaving worked on optimizing
+compilers, our view was quite dif
+ferent — that we could take the
+compiler right down to the level of
+hardware," he said. Compilers are
+software applicaitons which trans
+late programming languages such
+as C into instructions the comput
+er can understand.
+This notion stands in contrast to
+the idea behind Complex Instruc-
+
+Hon Set Computer processors.
+CISC instructions tend to be more
+complex and perform more tasks
+in a single instruction. For exam
+ple, a single CISC instruction
+might require lour individual
+RISC instructions to perform the
+same operation.
+The benefit of having simpler
+instructioiis is seen in RISC's use of
+a technique called "pipelining,"
+which allows each instruction to be
+executed in about the same
+amount of time.
+In RISC, instructions can be
+broken down into smaller stages
+that can each be executed by a par
+ticular part of the processor. So
+while one instruction may be read
+ing inputs, another instruction c an
+be using the part of the processor
+that performs logical operations.
+111st n id i< >iis are executec 1 piece
+by-piece in the pipeline in I his as
+sembly-line fashion, allowing for
+one instruction to complete execu
+tion per processor cycle.
+While, today, the Intel xS(>
+processor line is the only rem.lin
+ing major CISC architecture,
+many claim that the difference be
+tween RISC and CISC has been
+blurred over time. CISC proces
+sors now tend to incorporate the
+traditional!) RISC-based feature
+of pipelining and seem to offer
+performance levels equivalent to
+RISC 1 processors.
+Ilennessy points out, however,
+
+thai the ( ISC . architecture ideolo
+gy behind the processor is st ill pre
+sent. "II you look at the modern
+implementations... of I lie xBf). the\
+take the [complex] instruction sei
+and translate it into micro-instruc
+tions, to these things tliev call
+micro-ops, which are basicalh
+RISC I instructions."
+Recent advances in processor
+
+at( hitecture have allowed lor great
+gains in processing power. Sym
+metric multi-threading, for exam
+ple, utilizes the pipeline feature ol
+modern processors to advance the
+processing ol threads by executing
+instructions from different threads
+at the same time, as opposed to
+classic threading in which threads
+alternately dominate the pi c>cessor
+
+for small intervals of time.
+Value prediction is another ad
+vance that yields greater process
+ing power. Using this technology,
+a processor uses previous values
+of memory to predict what the
+value of a certain memory address
+will be upon its next access. I his
+system prevents the time-expen
+sive memory access from being
+
+performed lor each individual in
+struct ion.
+Some element of RISC, technol
+ogyliesat the heart of most proces
+sors in use today. RISC] chip
+power Apple computers, Sui
+workstations and servers, Hewlett
+Packard printers, WebTV boxe
+and even Nintendo and IMaySta
+tion game systems.
+

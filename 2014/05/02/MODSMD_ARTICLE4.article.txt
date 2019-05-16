@@ -1,0 +1,54 @@
+# RESEARCH
+## Researchers develop tool for neural imaging 
+### JULIA TURAN CONTRIBUTING WRITER 
+Two teams of Stanford scientists have
+created long-sought-after neuroscience
+tools that allow researchers to observe
+living neurons signal to each other in re
+al time.
+The studies, led by postdoctoral
+scholars Francois St-Pierre (from Assis
+tant Professor of Pediatrics Michael
+Lin's lab) and Yiyang Gong (from Associ
+ate Professor of Biology Mark
+Schnitzer's lab), were published April 22
+in "Nature Neuroscience" and "Nature
+Communications," respectively.
+Both studies featured the use of fluo
+rescent protein voltage sensors, which
+
+can be inserted into specific groups of
+brain cells and which emit light when the
+nerves fire off signals. These sensors of
+fer faster kinetics and higher brightness
+than preexisting imaging tools.
+Existing methods to detect signaling
+between neurons make use of genetical
+ly-encoded fluorescent calcium indica
+tors, which do not provide a direct read
+out of membrane potential changes.
+Limitations of calcium imaging include
+an inability to track individual action po
+tentials in many fast-spiking cell types,
+which affects the accuracy of the report
+ing of neuronal activity.
+The high-fidelity optical reporting of
+fered by these newly-developed protein
+voltage sensors allow for monitoring of
+
+genetically-defined neuronal circuits
+without the requirement of direct chem
+ical access.
+"The challenge of voltage sensing has
+always been to get a sensor that is bright
+enough and has high enough dynamic
+range in response to voltage in the phys
+iological range," Lin explained.
+In addition to high speed and high
+spatial resolution, the sensor itself needs
+to respond quickly to membrane poten
+tial changes.
+One technique scientists use to study
+electrical signaling is patch clamping,
+which allows for the study of single or
+multiple ion channels in excitable cells.

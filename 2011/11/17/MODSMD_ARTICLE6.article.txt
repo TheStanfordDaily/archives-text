@@ -1,0 +1,37 @@
+# RESEARCH
+## Algorithm predicts cancer patient outcome 
+### MARSHALL WATKINS 
+Stanford researchers recently developed a
+computer model capable of both analyzing mi
+croscopic breast cancer images and offering pa
+tients a prognosis with unprecedented accuracy
+and consistency.
+The Computational Pathologist system (C-
+Path) is able to classify the types of cancer cells
+present in a patient and the level of aggression
+of the cells. The system also identifies key fea
+tures in tumor tissue that may indicate chances
+
+of survival. The model's computer analyses
+were a significant improvement in statistical ac
+curacy over those carried out by human pathol
+ogists using the same data.
+Stanford researchers trained the computer
+model using tumor tissue images from 248
+breast cancer patients whose survival data for
+the subsequent five years were known to the re
+searchers. C-Path examined 6,642 features in
+the cancer image before independently identi
+fying the most critical factors in determining
+survivability. The researchers then created a
+
+scoring system to predict patient outcome.
+C-Path also identified structural features in
+the tumor tissue images as more important than
+previously thought by pathologists in determin
+ing patient outcome.
+"We built a model based on features of the
+stroma the microenvironment between can
+cer cells that was a stronger predictor of out
+come than one built exclusively from features
+of [cancerous] epithelial cells," said Andrew

@@ -1,0 +1,129 @@
+# Stanford Engineering
+## Nanotechnology: Smaller is Better 
+### 
+Of all the amazing technologies
+for seeing inside the body, one of the
+most versatile may be yet to come.
+Photoacoustic imaging (PAI) can
+produce instant three-dimensional
+images for diagnosis of diseases such
+as cancer and atherosclerosis. At
+
+Stanford, researchers led by electri
+cal engineering Professor Butrus
+•'Pierre" Khuri-Yakub are develop
+ing innovations to deliver PAl's full
+potential as a multipurpose, sensi
+tive, and safe imaging tool.
+In part because of advances
+
+Khuri-Yakub is pursuing in collabo
+ration with students and colleagues
+at Stanford Engineering and at the
+medical school. PAI is beginning to
+look like it can offer many of the
+best attributes of many other diag
+nostic imaging technologies. Each
+existing technology has its limita
+tions. so new technologies are still
+needed. For example, computerized
+tomography scans can penetrate
+deep into the body but involve
+exposing patients to a level of harm
+ful radiation. Ultrasound has very
+high resolution but also produces a
+very artifact-riddled image.
+But PAI has very high resolution,
+penetrates as deep as three centime
+ters below the skin, produces a clear
+image, can distinguish among differ
+ent tissues and is safe, Khuri-Yakub
+says. It can show, for example,
+where there is an abundance of oxy
+genated blood, which is often an
+indicator of tumors. Compared to
+some kinds of imaging. PAI is also
+relatively inexpensive.
+There are two opportunities to
+optimize PAI. and Khuri-Yakub's
+group is pursuing both. One is to
+improve the transducers. To do that,
+Khuri-Yakub has cast aside the
+piezoelectric materials that have tra
+ditionally been used. Instead he
+makes arrays in silicon using tech
+niques familiar in making microelec
+
+tronics. Khuri-Yakub's chips are
+called Capacitive Micromachined
+Ultrasonic Transducers, or CMUTs.
+There are several advantages to
+rummaging in the semiconductor
+industry's seemingly bottomless bag of
+manufacturing tricks. By making
+arrays of transducers in different geo
+metric arrangements, for example,
+Khuri-Yakub can create sensors for a
+wide variety of tasks. An array of trans
+ducers produced on a flexible sheet of
+silicon could be wrapped around a
+catheter like the rubber grip on a pen.
+In that arrangement, the transducers
+can "see" on all sides of the catheter. If
+a doctor inserted a laser-equipped
+catheter into a major artery in a
+patient, the transducers could image
+the plaque buildup on the walls.
+In addition, the CMUTs can eas
+ily be integrated with silicon com
+puter chips that can amplify and
+process the signals, says Omer
+Oralkan, a postdoctoral researcher
+in the group. CMUTs can also be
+fashioned to be sensitive to a wider
+range of frequencies than can piezo
+electric transducers. National
+Semiconductor has been making the
+chips for free for the group.
+What makes nanoparticles—liny
+gold balls 300 billionths of a meter in
+diameter —so special is that they can
+be fine-tuned in three important
+ways. First, researchers can attach
+
+proteins to them that are the exact
+match for proteins in tissues of inter
+est, such as tumors. When such
+nanoparticles arc injected, they will
+link up only with cancer cells. When
+they show up in a photoacoustic
+image, radiologists will he able to
+clearly sec where the tumor is.
+Second, researchers can enhance
+the nanoparticles to produce better
+image clarity. Materials science and
+engineering Assistant Professor
+Mark Brongcrsma, who is making
+the nanoparticles, can put a variety
+of chemical coatings on them to pre
+dispose them to absorb specific fre
+quencies of laser light They are
+then especially prone to heating and
+therefore producing sound.
+Finally, the nanoparticles can also
+be crafted to resonate at particular
+ultrasound frequencies. This would
+make them especially well suited in
+systems that combine photoacoustic
+imaging with ultrasound imaging.
+Khuri-Yakub's CMUTs can do such
+double-duty. Experiments using the
+nanoparticles as a photoacoustic
+"contrast agent" have begun in the
+lab of Sam Gambhir. a professor of
+radiology in the School of Medicine.
+While the research, both in nan
+otechnology and microelectronics,
+looks promising, the real benefit will
+come when the technology can reach
+patients.

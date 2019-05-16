@@ -1,0 +1,141 @@
+# Will Sacramento go the way of Atlantis?
+## 
+### 
+oes California's deteriorating infrastruc-
+Iture pose too great a risk to residents?
+JGov. Arnold Schwarzenegger seems to
+J think so. It's about time residents and
+legislators did. too.
+On Friday, Schwarzenegger cut through the state's
+financial and political red tape by declaring a state of
+emergency, hoping to speed up repairs on 24 levees
+across the state. Skeptics claim that the governor is
+merely attempting to terminate the environmental
+considerations that would otherwise accompany infra
+structure repairs. But Schwarzenegger contends that
+the threat is real: "Our levees are very vulnerable," he
+said. "They are only one big earthquake or major
+storm away from a major Katrina-like disaster."
+Facing so ominous a prediction, Californians may
+wonder why they are so endangered by faulty levees.
+How could the state's engineers design a system in
+which the next "big one" could destroy the capital?
+Enter a chorus of grumbling from the graves of the
+creators of California's water systems. "It wasn't sup
+posed to be this way." they would posthumously argue,
+taking exception to the implication that their work was
+either reckless or overly bold.
+Catastrophes like the flooding of New Orleans
+have clued citizens in to a harsh reality: they too may
+fall vulnerable to an engineering failure in the wake of
+a natural disaster. Unfortunately, though, there are
+two reactions we haven't seen. Katrina has not encour
+aged greater public understanding of the risks accom
+panying civil engineering projects (funded with tax
+dollars). It has also failed to provoke the public to par
+ticipate by determining acceptable risk levels and re
+quiring legislators to be responsible trustees of these
+systems.
+
+What's the result? Too many potential catastrophes
+— like the possible repeat of a New Orleans-scale
+flood in Sacramento.
+Part of the problem is that modern risk-assessment
+practices are largely unknown to citizens, who in turn
+have little say in, or understanding of, many of the
+projects confronting their local governments. While
+average Americans generally have distorted views of
+what is and is not risky to start with, their ignorance on
+how the government and engineers weigh a develop
+ment's risks and benefits introduces new risks, beyond
+the scope of engineers.
+Over the past decades, researchers have developed
+increasingly sophisticated means to assess risks when
+designing systems that need to withstand floods and
+quakes. Using these method - much to the chagrin of
+most MS&E 120 students are based on statistics and
+probability - is far more systematic than a popular vote
+in determining what category hurricane a town's lev
+ees should withstand. Proponents claim that employ
+ing them will produce a better outcome than basing
+decisions on the whims of emotional citizens —
+whether they like it or not. Though mathematical,
+these methods are relatively simple.
+One way to assess exposure to risk, well known to
+
+those students using Stats 60 to appease that nagging
+math GER, is to calculate the "expected value" of the
+magnitude of a disaster, which means multiplying an
+event's likelihood by the numerical measure of that
+event's impact, and adding these values together.
+As a fictional example, say we knew a rainstorm
+was going to hit Stanford campus. There is a 45 per
+cent chance of it dropping 1 inch of rain, a 45 percent
+chance of 2 inches and a 10 percent chance of 3 inch
+es. The "expected value" of the rainstorm destined to
+hit Stanford will then be about 1.65 inches, or the sum
+of 0.45*1 + 0.45*2 + 0.10*3. This knowledge would
+help engineers decide how big a rainstorm and what
+level of flooding they need to plan for when building
+on campus.
+Many engineers favor this method because it takes
+into account the potential for catastrophe. Let's adapt
+the previous example, assuming that instead of a 10
+percent chance of a 3-inch rainstorm there was a 10
+percent chance of a mind-boggling 6-inch rainstorm.
+This would bring our expected value up to a magni
+tude of about 1.95 inches, indicating that Stanford
+should spend more time and effort fortifying vulnera
+ble sites on campus to be prepared for a reasonably
+likely disaster.
+Not all common means of anticipating risks take
+into account worst-case scenarios, however. Common
+parlance for people who work in water engineering is
+the notion of the "100-year flood." Many engineered
+water systems, like levees, are built to withstand a hy
+pothetical "100-year flood."
+To determine what a river's 100-year flood is,scien
+tists collect data on the highest flow measured on a
+given river at any single time each year. Using this
+data, they construct a probability distribution and de-
+
+fine the 100-year flood as a flow rate that has a 1 per
+cent chance of being reached in a given year. Likewise,
+a 10-year flood corresponds to a flow rate with a 10
+percent chance of being reached in a given year, and a
+500-year flood is that which has a 0.2 percent chance of
+being reached in a year.
+However,since the 100-year flood is based on prob
+ability rather than certainty, there is rarely exactly one
+100-year flood every 100 years. In a real estate devel
+oper's dream, the 100-year flood on,say, the American
+River in Sacramento might not occur for 150 years,
+keeping his profits from buildings in its floodplain
+flowing uninterrupted. In the corresponding night
+mare, a wet year could produce five 100-year floods,
+leaving in its wake water-logged apartments and a trip
+for our developer to bankruptcy court.
+This method of assessing risk does not consider
+how disastrous the consequences will be if, for exam
+ple, the 100-year flood is exceeded.The 100-year flood
+and the levees built to withstand it will be the same re
+gardless of whether the 200-year flood is negligibly
+bigger or gigantic enough to lay waste to the city.
+Californians. take note: it is based on these calcula
+tions that your dams are designed and levees are built.
+Upon hearing this, Californians start to grumble.'if
+these methods of assessing risk are so great," they de
+mand, "then why did the Sacramento Area Flood Con
+trol Agency, before Katrina,say Sacramento had only
+one-third the flood protection of New Orleans? That's
+not okay!"
+It's like our deceased early 20th century water en
+gineers posthumously lamented — this wasn't how it
+was supposed to be.
+
+\Can what happened in Orleans really happen hereP Or WiLL the sa\!e California yet againPl
+
+
+Jen
+Graham
+Significant Figures

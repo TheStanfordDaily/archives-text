@@ -1,0 +1,137 @@
+# Information security is broken-but we can fix it!
+## 
+### Omar Diab 
+The Sons of Liberty could not
+have caused the American
+Revolution if they could not
+communicate privately.
+Nowadays, secure communica
+tion is more complicated than just
+locking the doors and whispering.
+With the advent of the World Wide
+Web, the way people communicate
+has fundamentally changed. Now,
+communication happens not just
+across the room but also across the
+world.
+I think that people ought to care
+more about security, but the true
+reason that most people shrug pri
+vacy without a fight is not that they
+don't care about it; it's that tools to
+secure communication online are
+not readily accessible to the gener
+al, non-technical public.
+It's just too much of a pain to se
+cure your online activity, and it
+shouldn't be that way.
+If you have doubts on the impor
+tance of information security, think
+again. For one, the protection of
+free speech depends on it; it is diffi
+cult to be a political dissenter in a
+strong surveillance state like China,
+for instance.
+While that opinion may border
+too much on paranoia, it's also a
+matter of protecting your personal
+information from fraud and identity
+theft. Many argue they have noth
+ing to hide, but conveniently forget
+that they do wish to hide their bank
+account numbers, and don't want
+the local cybei'-bully to read their
+significant others' love letters.
+The problem lies in the mecha
+nisms for facilitating secure com
+munication. On one level, some of
+
+the technological approaches to se
+curity are flawed because of the as
+sumptions they rest on (that's an
+other, nerdier discussion), but I
+think most people fail to adopt secu
+rity measures because the tools are
+too plain difficult to use.
+For instance, take email. Email
+on its own is a fundamentally inse
+cure protocol that is, it's not con
+fidential, since you could intercept a
+message as it is in transit; it doesn't
+guarantee the sender or receiver
+are who they claim they are; and
+you can't necessarily even be sure
+that what you receive is what the
+sender actually sent, since someone
+can intercept the message and
+tamper with it.
+There are two ways to deal with
+this conundrum. For one, you could
+just not use email (yeah, right). But
+thankfully, there exists the Pretty
+Good Privacy (PGP) program that
+provides a suite of tools that allow
+you to effectively secure all of the
+above issues with email.
+"That sounds great, Omar!" you
+may exclaim, but using it is not triv
+ial. First, you have to know about
+PGP That already cuts out over
+90% of all people in the United
+States from even thinking about
+having effective email security.
+And even then, you have to in
+stall a PGP implementation on your
+computer and figure out how to use
+it with your email client (if that's
+even possible it's not if you use
+the Gmail web interface, for in
+stance). You then are confronted
+with making and publishing public
+and private keys, something that I
+only learned about while doing my
+
+computer science degree at Stan
+ford.
+My question is: why isn't there
+just a "secure email" button? It's
+not technologically infeasible; in
+fact, every relevant tool already ex
+ists. But neither Windows nor Mac
+OSX come with the ability to com
+municate securely preinstalled (the
+Linux geeks like me can figure it
+out ourselves), and almost none of
+the popular email services like
+Gmail or Yahoo provide this func
+tionality out of the box.
+I think that they all really should,
+and this is just one example of many
+things to be done to improve com
+puter security. Companies seem to
+be moving in this direction. The Ap
+ple iPhone sS's fingerprint sensor
+may have been thwarted already, but
+it's a step in making security as easy
+a swipe of a finger. I'm hoping that
+technologies like public-key cryptog
+raphy will one day put passwords on
+the chopping block.
+Since Edward Snowden re
+vealed the tip of the enormous ice
+berg of NSA surveillance on both
+the American people and govern
+ments throughout the world, the
+American public made has little ef
+fort to prevent future surveillance.
+Stanford students and Silicon Val
+ley giants, heed my call: you are the
+heroes this world needs, and the
+ones it deserves. Now would be a
+great time to create the secure in
+frastructure this world needs for
+the defense of freedom and privacy
+everywhere.
+
+Contact OmarDiab at odiab@stan
+ford.edu

@@ -1,0 +1,120 @@
+# Disaster prevention: copy your files
+## 
+### Mark Rogowsky Senior staff writer 
+Take this newspaper with you
+and head immediately for your
+computer. Find as many spare
+floppy disks as you can gather and
+start copying all the files you
+would hate to lose on those flop
+pies.
+If you don't have any spare
+disks, by all means go out and pick
+some up immediately. Some of you
+might also need a backup program
+to preserve the files that are too
+large to fit on a single disk. Try
+HD Backup (free with every hard
+drive equipped Mac), it will do for
+now.
+Why is Computer Corner treat
+ing its readers like 4-year-olds
+today? Simple. Friday night the
+file server here at The Daily came
+crashing down along with better
+than two years' worth of data.
+Because the paper lacked backups
+of most of the files, they are gone
+for good.
+Granted, most of you won't
+
+lose 100-plus mega
+bytes of informa
+tion like we did. If
+you lose even one
+third of your hard
+disk, though, it will
+probably be quite
+traumatic for you.
+Backing up is
+not a glamorous
+thing to do. Having
+
+to resort to swapping floppies for
+an hour after getting used to a
+speedy hard disk is never going to
+be anyone's idea of a fun way to
+spend a Friday night. I know that.
+I also know that trying in vain
+for an entire weekend to retrieve
+important files is even less fun —
+sort of like having a dentist pull
+out 11 of your less important
+teeth with pliers.
+Our crash occurred during a
+process known as disk defragmen
+tation. When your hard drive is
+new and empty, files are stored on
+it neatly, in contiguous sections of
+the disk. If the computer wants a
+file, it usually has to go to only one
+
+place to pick it up.
+That's fast and
+efficient.
+In time, however,
+your files become
+fragmented —
+that is pieces of a
+single file are
+stored all over
+your drive. It's
+analogous to pick-
+
+ing up the "Full Moon Fever"
+album and having part of "You're
+So Bad" and part of "Free Fallin' "
+on the same track.
+Anyway, to defragment our
+disk, I used Disk Express by a
+company called Alsoft. Do not ever
+use this program. The risky way it
+moves data was no doubt a con
+tributing factor to the severity of
+our crash.
+Optimization is better left to a
+little program called Speed Disk,
+part of a phenomenal new package
+called Norton Utilities for the
+Macintosh. This collection of soft
+ware ($99 at Computerware),
+includes a data recovery program,
+
+the Norton Disk Doctor; a special
+INIT called Lifesaver that makes
+data recovery go much faster
+Speed Disk, the optimizer; Fast
+Find, a desk accessory that is to
+Apple's Find File what the Ferrari
+is to the go-kart; and several oth
+ers niceties.
+The Lifesaver INIT (a small
+program that runs whenever you
+start you Mac), is installed on
+your system and takes a snapshot
+of what your drive is supposed to
+look like at periodic intervals.
+Then, in the event of a crash, Nor
+ton is much more likely to be able
+to put your drive together again.
+Symantec Utilities for the Mac
+intosh and Mac Tools Deluxe pro
+vide a similar suite of programs to
+Norton — and are comparably
+priced. While none of the three
+was able to adequately undo our
+nightmare here, one of them
+should be on your "must buy" list.
+Consider it an insurance policy
+for your computer.
+

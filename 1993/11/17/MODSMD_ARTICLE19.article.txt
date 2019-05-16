@@ -1,0 +1,214 @@
+# Science
+## War simulations linked via global network Military to benefit by planning strategies on 'virtual battlefield' 
+### Kevin Armstrong 
+While students currently play
+the war simulation game "Bolo"
+across the campus network, top
+military officials may soon be
+able to play a similar version of
+the game on a global scale to plan
+strategies and conduct mock bat
+tles.
+David Cheriton, a professor of
+computer science, and several
+doctoral candidates under his
+tutelage are developing software
+techniques that will allow this
+game to take place on a global
+scale, drawing participants from
+all over the world onto a single
+"virtual battlefield."
+The simulation will be de
+signed to run over a global com
+puter network hooked up to all
+branches of the military, and will
+eventually allow military officials
+in different corners of the globe
+to exchange ideas and test out
+tactics with each other while sit
+ting at their computers.
+For example, the system
+would allow a simulated fighter
+jet in California to "land" on a
+virtual aircraft carrier being
+"piloted" in Virginia, and take off
+again to fly a mission against a
+tank "driven" by someone sitting
+at a computer in Germany.
+In addition, further refine
+ment of the virtual battlefield
+could bring design teams togeth
+er in a "virtual factory" from
+across the country or allow plan
+et-sized games of "Super Bolo."
+Cheriton's previous network
+ing research, which he conducted
+with funds from the government
+group ARPA, the Advanced
+Research Project Agency, led to a
+proposal for IBM to develop a set
+of "open architecture" protocols
+for distributed, or networked,
+systems.
+These protocols are similar to
+the system software on a person
+al computer. But instead of han
+dling the operation of one single
+computer, the "open architec
+
+ture" allows each computer to
+accomplish one part of a task and
+relay that to other computers on
+the network.
+'Virtual' military
+This type of system would pro
+vide a simulator network and
+allow the creation of a "virtual
+world" on the network.
+Simulators on the network
+would be free to explore and
+interact with other simulators in
+the "world," which would mean
+that battles could be fought from
+different physical locations on
+the same virtual battlefield. For
+example, the Air Force could
+scramble a squadron of bombers
+to attack a Marine regiment
+being landed by the Navy.
+Currently, such interbranch
+exercises are limited because they
+are both costly and dangerous to
+implement physically. Distribut
+ed simulations could increase
+that frequency.
+In 1990, the potential of dis
+tributed simulation was proved
+through a test run by DARPA,
+the defense arm of ARPA. The
+test was a battle training exercise
+in which Navy ship simulators in
+Virginia, Army tank simulators
+in Kentucky, Marine helicopter
+simulators in Alabama and con
+trol simulators in Washington
+were linked together to perform
+the exercise.
+Existing hardware compo
+nents — from cockpit-type simu
+lators to video screens — were
+linked through the simulation
+network.
+Several months later, in front
+of the Senate Armed Services
+Committee, an interactive re-cre
+ation of a Gulf War battle was
+staged.
+Using historical evidence gath
+ered hours after the battle from
+tank crewmen involved in the
+fighting, an interactive "free
+play" environment was devel
+oped, allowing the battle to be re
+enacted, altered and examined
+
+from various points of view.
+Smoothing out problems
+Despite its successful test
+runs, the simulator network pro
+totype still contains a few glitches
+that need to be worked out.
+Graduate students Hugh Hol
+brook and Sandeep Singhal are
+working under Cheriton to solve
+problems with latency, the time
+lag associated with data trans
+mission over long distances and
+data compression, the need to
+reduce transmitted codes to
+squeeze through lines of limited
+bandwidth.
+According to Singhal, the trick
+to solving these problems is to cre
+ate smarter algorithms capable of
+dealing with fewer coded instruc
+tions because "transmitting more
+data is not necessarily better."
+By reducing the amount of
+
+data sent per element, not only is
+the transmission time decreased
+but the number of elements
+coded increases.
+One way to reduce these trans
+missions may be to forecast an
+element's position and send data
+only when a change is noted,
+rather than continuously.
+Holbrook said that within the
+"open architecture" structure
+there will be many elements that
+will need to recognize and identi
+fy each other for a distributed
+simulation to function.
+Each element representing a
+simulator is responsible for relay
+ing its position to the other ele
+ments involved. There are several
+ways to do this, Holbrook said.
+Two inefficient approaches
+involve sending information to
+either one other element at a
+time by unicast or by sending a
+
+broadcast to every element, or
+node, regardless of whether or
+not it needs the data.
+The solution currently under
+consideration transmits informa
+tion to only a specific subset of
+the elements involved — those
+that require the information.
+This method of directed broad
+cast is called a multicast.
+Non-military uses
+While the main impetus for
+developing distributed simula
+tions currently comes from the
+military, commercial applications
+may also be developed.
+When linked with developing
+virtual reality displays, distribut
+ed simulations may also help cre
+ate educational applications such
+as nationwide classrooms, or
+spawn entertainment possibili
+ties from the fledgling "Bolo."
+
+In addition, a virtual factory
+could be created to revolutionize
+design and production by allow
+ing new products to be shaped
+and created by design team mem
+bers thousands of miles apart,
+then tested and evaluated before
+ever being tooled.
+Such a process, while it seems
+distant now, will cut costs of trav
+el and prototype construction
+immensely.
+This research could bring dis
+tributed network simulations
+into the realm of mainstream
+computer technology in the same
+way that "windows" in personal
+computer systems came to domi
+nate the market today.
+These simulations will eventu
+ally enhance collective problem
+solving in areas such a» design,
+manufacturing, education and
+war fighting, among others.
+
+
+Dongmin Shim — Daily

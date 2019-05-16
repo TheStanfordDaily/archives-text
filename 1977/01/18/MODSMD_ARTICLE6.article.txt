@@ -1,0 +1,118 @@
+# New computer launched
+## 
+### Steve Schiller Staff writer 
+Although plagued by high demand
+and long system response times, Low
+Overhead Time Sharing (LOTS) has
+been operating with "no real disas
+ters" since the beginning of the quar
+ter, according to Manager Ralph Gorin.
+Located in the Stanford Center for
+Research and Development in Teach
+ing (SCRDT) building, the facility pre
+sently operates a Digital Equipment
+Corporation (DEC) System 2040
+through 30 terminals.
+LOTS was established "for teaching,
+unsponsored research, and general
+computing by faculty and students,"
+according to a memo by LOTS Director
+John McCarthy.
+The provost's office funded the op
+eration for fiscal year 1976-77 with a
+budget of $190,000, which includes
+start-up costs, machine amortization,
+and this school year's operation, said
+Gorin.
+Funds for LOTS
+The funds for LOTS came from cut
+ting the computing budgets of indi
+vidual departments. The budgets were
+formerly used to pay for student in
+structional accounts with the Stanford
+Center for Information Processing
+(SCIP). Since there is no charge to use
+LOTS, students in computing courses
+based in the new operation have no
+need for accounts.
+Several computer science, electrical
+engineering and education courses
+have converted from using SCIP to
+LOTS starting this quarter and more
+are planning to switch spring quarter.
+Response time, which is the length
+of time a user must wait to receive a
+response after a command to the
+machine, is unacceptably long on
+LOTS because part of the computer has
+not been delivered, according to Go
+rin.
+Smaller capacity
+Instead of a capacity for about
+256,000 computer words, the machine
+has a capacity of 128,000 computer
+words. As a result, the computer de
+pends to a large extent on its external
+magnetic disc to hold information.
+Storage and retrieval on the disc is
+more time-consuming than on the
+machine's internal memory. Thus.
+
+"the disc is getting a big workout,"
+said Gorin.
+The slow response situation has also
+served to decrease throughout the
+volume of processing over a specific
+time. However, Gorin expects that the
+first week of February will see the in
+stallation of the remainder of the
+memory.
+A further problem with the new sys
+tem involves software (programs) bor
+rowed from other campus computers,
+such as the Artificial Intelligence
+Laboratory machine or the SCDP sys
+tem.
+Different language
+Although the DEC 2040 is similar to
+some other campus systems, the
+adopted programs are not written in its
+computer language. Therefore, the
+borrowed programs mush first run
+through a translator, called a compati
+bility mode, before entering the core.
+The translation process adds further to
+run time.
+During tests of a new software pac
+kage last Wednesday, the machine
+"crashed" (broke down) and remained
+inoperative for seven hours. Gorin
+admitted that the cause remains un
+known.
+Gorin expects 16 additional termi
+nals to be available by late March, with
+the total number of terminals rising to
+64 by the end of summer quarter. Ten
+tative plans call for ten to be located in
+Cedar Hall and an undetermined
+number in the to-be-completed Ter
+man Engineering building. However,
+the need for low-cost communication
+is a major obstacle to such plans.
+An "eventual goal" calls for termi
+nals to be located in dormitories; how
+ever, technical and financial consider
+ations prevent such installations this
+academic year, according to Gorin.
+LOTS is an interactive system,
+where the user "modifies the behavior
+Michael Roberts, deputy director of
+SCIP. said that computer scientists on
+campus have been debating the rela
+tive merits of the batch and interactive
+modes as teaching tools.
+Gorin thinks "interaction is an effec
+tive teaching tool," claiming that stu
+dents learn more rapidly and
+thoroughly by solving problems in
+teractively.

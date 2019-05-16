@@ -1,0 +1,42 @@
+# New software counters growing campus spam
+## 
+### SHIRIN SHARIF CONTRIBUTING WRITER 
+Faced with rapidly increasing
+amounts of'unsolicited elect ronic: ad
+vertising, the University's Informa
+tion and lechnology Systems and
+Services department recently imple
+mented a filtering system for all Stan
+ford e-mail ac counts. The software is
+designed to detect "spam," unsolicit
+ed e-mail that urges users to invest in
+various items such as rape repellents
+and Viagra.
+The anti-spam filter was imple
+mented on Dec. 19. It scans all of'the
+approximately 35,000 Stanford e
+mail accounts but does not look at
+messages forwarded to non-Stan
+ford accounts such as Yahoo or I lot
+
+mail, which make up about one
+third of the e-mail passing through
+the University's server.
+Ihe software — called I'lire Mes
+sage and produced by the vendor
+ActiveState — scans all incoming
+messages and compares their con
+tents with common words and
+phrases used by spammers. If a
+match is made, the mail is delivered
+with a |SPAM:#I tag added to its
+subject line. The number of"#"
+signs indicate how certain the sys
+tem is that your email qualifies as
+spam, lb get one "#" the system
+must bess percent <ertain that it has
+found spam. Kacli "#" after that is
+another 5 to 10 percent of certainty.
+
+
+GINA HSIEH/The Stanford Daily

@@ -1,0 +1,98 @@
+# Bug unlocks the secret behind automatic gates
+## 
+### Garth Patil Contributing Writer 
+Q: How do the antoinatie gates around eam
+l>iis work (like the ones behind the Quad and
+behind the Bookstore), and i.s there any way to
+triek them into opening?
+A: I'm not sure it there are fundamental ethi
+eal issues in revealing the scientific nature ol
+the eampus' automatic gates if the intent of
+the question is to find out liovv to deceive the
+g;iles into opening even if you aren't sup
+posed to have access. But I've always lived by
+the philosophy that if there is a way to trick
+the system or circumvent authority, then it is
+my responsibility to execute it. In that spirit,
+I'll gladly dispense the information but
+remind people that il isn't my fault if you get
+caught spinning donuts on the rosetta stone
+of the Main Quad in your Trans Am at 3 a.m.
+Everyone on campus has probably wit
+nessed the subject of this week's question.
+I he gates consist of a small box that has a slot
+for a key card or tokens and a black-and
+white striped bar that raises and lowers when
+vehicles pass through. These barriers are
+placed around Stanford to restrict vehicle
+access to certain areas and buildings on cam
+pus. Probably the most well known of these
+gates is the one directly behind Memorial
+Church along Duena Mall that prohibits cars
+from entering the Quad and library portions
+of campus.
+If you've ever observed one of these gates
+in action, you already know that they raise
+when someone inserts a card or token in the
+box, HI 11 they also automatically open when
+a vehicle on the restricted access side of the
+barrier pulls up to it.
+Now. the explanation of the first activation
+of the gate (by card or token) is obvious, but
+the seemingly magical activation of the gate
+from the other side is the mystery. If you look
+closely on the ground, you'll see that the
+pavement has been cut and modified, and
+there is possibly something buried beneath
+the surface of the road.
+So, does it work bv detecting weight? Well
+you can test this one out with a bunch of your
+friends. It should only take about eight
+friends standing closely together behind the
+gate to generate a half-ton of force on the
+sensor. Did it work? No? Need more friends?
+Well, you could stack the entire football
+team on the sensor and it still wouldn't raise
+the gate.
+
+Buried in the pavement is an inductor, or
+a coil of wire with a current running through
+it that produces magnetic field lines along the
+core of the coil. When you drive over the
+inductor with a car, its frame effectively acts
+as another coil that interrupts the field of the
+sensor coil and changes the voltage in that
+coil. This phenomenon is known as mutual
+inductance. When the coil beneath the road
+detects that voltage change, it raises the gate.
+Metal detectors that you might use to
+search for treasure on the beach work in very
+much the same way but are much more sensi
+tive.
+To fool these gates into opening when
+you're on the other side, you don't need a car
+to pull up to the gate on the other side and
+then back up as you enter. You just need to
+place some type of coil on the other side of
+the gate. Figuring out what kind of coil to use
+might take a little trial and error on your part,
+but usually a bicycle frame or a long, heavy
+duty extension cord coiled and plugged into
+itself will work fine. Keep in mind that the
+plane of the coil has to be parallel to the road
+for it to work, which is why the gate doesn't
+open when you ride your bicycle over the
+sensor.
+It's probably this easy-to-trick mechanism
+that has prompted the University to start
+installing something that I refer to as the
+"Robo Bollard." a moving post that is acti
+vated by a radio signal created by a garage
+door opener-type device. This means that
+vehicles must have a special radio to pass the
+barrier regardless of which direction they are
+going. Is there a way to trick those? Perhaps
+another week. ...
+
+
+Gautani Deshpande Daily

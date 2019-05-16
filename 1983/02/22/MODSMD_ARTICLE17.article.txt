@@ -1,0 +1,257 @@
+# Computer facility offers non-academic diversion
+## 
+### LISA LYNCH Staff writer 
+There is a lot you might not
+know about LOTS.
+In the wee wee hours of the
+morning, a Stanford student
+hunches over a LOTS terminal
+designing an intricate com
+puter program. But instead of a
+plethora of BASIC or FORTRAN
+the computer screen holds the
+description of ... a dormitory
+in Wilbur?
+"You are standing outside of
+a dormitory," the computer
+says."I see bike racks and a
+trash can. What you wanna do,
+Lou ?"
+The perceptive student types
+"TAKE TRASH CAN" into the
+terminal. He is playing RIN
+CONADA, one of several
+Stanford-designed computer
+games that are available to
+LOTS users.
+
+Although primarily intended
+as a research and learning cen
+ter, LOTS has many student
+designed diversions. These in
+clude games that were never
+intended to be anything but di
+verting, as well as many pro
+grams that started off with offi
+cial uses and have been "mod
+ified" by hackers. The mail file,
+the "finger plan" program, and
+the computer bulletin board all
+serve dual purposes — they
+allow computer science stu
+dents, professors and TAs to
+talk shop, but also allow LOTS
+users to send each other love
+letters, debate about the mor
+ality of Lot in the Old Testa
+ment, and spy on other unsus
+pecting hackers.
+Stuart Reges, assistant to the
+chairman of the computer sci
+ence department, said that
+programs such as the finger
+plan, which can tell a user
+where he can find his friend or
+TA when they are not at LOTS,
+have been given a new per
+spective by student users.
+"For example, my finger
+plan, in addition to telling
+
+where someone might try to
+find me, lists my New Year's
+resolutions and some of my
+favorite quotes," Reges said.
+The finger plan of a user named
+D. Denethor begins with the
+phrase "A Long Time Ago In A
+Galaxy Far Far Away . . and
+concludes with a star-wars type
+battle scene complete with
+asterisk-and-question-mark
+battleships.
+"The finger plan program is a
+basic one that was designed by
+the computer company,"
+Reges said. "It's interesting to
+see what happens when these
+programs are put into the
+hands of students."
+Computer mail, originally in
+tended to provide interaction
+between students and TAs, has
+grown into an art form. Stu
+dents have learned that they
+can be as poetic as they wish on
+the black-and-grey screen, and
+that they can communicate
+with other users who they
+normally wouldn't see or
+the black-and-gray screen, and
+person. Alan Weindorf, a Lar
+kin freshman in computer sci
+ence, explained how he met
+Terry Akana through the com
+puter.
+"I have an account on LOTS
+A," Weindorf said, "and my
+code name is F. FUR. I went to
+open an account on LOTS B
+with the same code name and I
+found out it was already taken.
+So I wrote the girl who used it a
+letter asking why she was F.
+FUR."
+
+"Furry represents my rabbit,
+Florence," Akana wrote back.
+"I'd use 'bunny' but someone
+already has it." She asked Alan
+why he had chosen the name.
+"My name is furry because I
+am furry," Weindorf re
+sponded. "Not to the extent of
+Florence, mind you, but I can't
+complain."
+Don Porter, a Madera
+freshman, estimates that he
+sends mail to about 15 or 20
+people, mostly in the form of
+"meaningless messages."
+"The computer asks you what
+the subject of the letter is," he
+said, "and you can type in any
+thing — for example, 'The Life
+style Of The Banana.' Then I'll
+just send someone whatever I
+can think of. I'm sending my TA
+the poem "Jabberwocky"
+stanza by stanza." Porter
+added that he mostly sends
+mail to people he has met out
+side of LOTS, and that he never
+gets back as many letters as he
+sends.
+Both Porter and Weindorf
+said that in addition to the mail
+file, the "finger' program al
+lows users to determine
+whether or not they can send
+mail directly to someone at
+LOTS. When a student types in
+the name of someone they
+want to finger, the computer
+tells if they are at LOTS at that
+time. If they are, using the
+"send" program, any message
+sent to them will interrupt their
+program and flash across their
+screen. "It's a great way to get
+people mad at you," Weindorf
+said.
+A more extensive version of
+the finger program is AYEWBF,
+an abbreviation for "all you
+ever wanted in a background
+fork." The AYEWBF program is
+
+basically a spy program; the
+user lists all of the students he
+would ever want to finger and
+the computer automatically
+checks for them everytime the
+program is run. In fact, the
+computer continues to search
+for them the entire time the
+user is at the terminal — a
+"background fork" program is
+one that runs continuously in
+the background while the ter
+minal is being used.
+AYEWBF also allows the user
+to set an "alarm" that flashes
+across the screen at a specific
+time, to lock the terminal so
+that only the user's password
+can open it again, and to
+"stare" at specific people on
+the spy list. "Staring" involves
+constantly monitoring another
+user and reporting what they
+are doing on the computer.
+"AYEWBF can be a lot of
+fun," said Reges. "Unfortu
+nately, since it is continuously
+running, it also wastes time on
+an already overloaded system.
+Max Scheder/Dailv
+
+We're thinking of discontinu
+ing the program."
+Other drains on LOTS that
+are officially discouraged in
+clude the playing of computer
+games. Both Stanford
+designed and nationally-used
+computer games are available
+for LOTS users, but there are
+strict limits as to how they can
+be used.
+"There are three things
+which limit the use of games at
+LOTS," Reges said. "First of all,
+no one can use the games from
+dial-in terminals. We had to say
+this because high school stu
+dents were dialing in and play
+ing games on the LOTS system.
+Also, no one can play games if
+there are people waiting to use
+the terminals. And if the load
+becomes too high, the games
+are automatically shut off."
+In spite of limits, game
+playing at LOTS is still a popu
+lar pastime. A favorite game is
+called LUGI. Designed by a
+Stanford student, LUGI is an
+adventure game where the
+player must try to escape from
+the land of Lugi carrying as
+
+much treasure as possible.
+Weindorf, who plays the game
+fairly often, said that a descrip
+tion of one of the rooms that
+players must pass through
+sounds suspiciously like a de
+scription of I OTS.
+According to Weindorf, Rin
+conada Adventure, designed
+as a CS 106 final project by
+Mark Moss, is somewhat frus
+trating. The object of the game
+is to score as many points as
+possible — but there is no way
+to score. The player travels
+through the dorm only to find
+that most of the rooms are
+closed and locked. The game
+is pointless," complained
+Weindorf.
+Reges himself is designing a
+three-dimensional tic-tai - toe
+game. "I've finished the
+graphic, hut I haven t gotten it
+perfect," he said Even though
+he enjoys playing games him
+self, Reges admitted that they
+are a potential problem be
+cause of their popularity. "This
+is the sort of thing that LOTS
+doesn't like to see," he admit
+ted.
+
+
+
+Max Stheder/Daily

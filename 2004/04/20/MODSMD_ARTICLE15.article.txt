@@ -1,0 +1,204 @@
+# TeamSpace = collaboration
+## Stanford's latest collaboration tool 
+### SU FEN LEE CONTRIBUTING WRITER 
+With Team Space, individuals
+working on group projects, papers,
+presentations, even software pro
+grams, need no longer crowd around
+a single computer, mouse and key
+board. Nor will they face the frus
+tration of having to deal with over
+written or overlapping changes when
+working concurrently but on sepa
+rate machines.
+"The long-term vision is to deploy
+Teamspaces across campus in resi
+dence hall computer clusters to offer
+students a value-add beyond basic
+individual computing," said Clara
+Shih, a senior majoring in computer
+science who has been working on the
+project since fall last year.
+Team Space consists of two large
+flat-panel displays and a server
+which acts as a "group desktop."
+Students working on group pro
+jects can download and install the
+Team Space software onto their lap
+tops for immediate connectivity to
+the other laptops and to the
+workspace.
+Group members can concurrent
+ly work on the same paper, project
+or presentation on the big screen.
+They can also instantaneously
+share and unshare a document,
+image or URL with any number of
+people working in the Team Space,
+including the group desktop shown
+on the big screens.
+One important feature of
+Team Space is pointer redirection.
+To gain control of the public desktop
+mouse pointer, the user just needs to
+push his or her own pointer up above
+the top of his or her own screen and
+it will reappear at the bottom of the
+public desktop screen.
+Another key function is fileshar
+ing. Users can drag and drop docu
+ments, URLs and other files to and
+from all the Team Space computers,
+which appear in the Team Space win
+dow much like a buddy list "interac
+tive filesharing. Individual users can
+also send and receive files from
+their computer to the public group
+desktop displayed on the large
+flat-panel screen.
+Future enhancements include
+enabling "cutting and pasting" to
+and from laptops to public desk
+tops. (Currently the user must save
+his or her work before sending it up
+to the public machine.) Participants
+from the user studies this week will
+also be asked for their suggestions on
+further improvements.
+Right now, the Team Space setup
+is located in the southeast corner of
+the Meyer Library lobby on the first
+floor. This installation is being paid
+
+for by Stanford Academic Comput
+ing, with matching funds from a
+Stanford School of Engineering
+Dean's Grant. It will be officially
+launched to the public on Monday,
+April 26.
+Throughout this week, user
+studies will be conducted to test
+the software and user interface.
+Two types of studies will be con
+ducted. In the first type, partici
+pants will work in a team with
+three strangers to perform an as
+signed task. This involves build
+ing a PowerPoint presentation
+using components from each
+person's laptop. The assigned
+task serves as a control, while
+differences in usage across dif
+ferent people and backgrounds
+will be observed.
+Pre-established teams who are
+currently working on a group pro
+ject will be invited for the second
+type of study. They will be observed
+while using Team Space technology
+to work on their current group pro
+ject, paper or presentation.
+Team Space is a project super
+vised by Profs. Armando Fox and
+Terry Winograd from the Comput
+er Science Department. They be
+lieve that changes in Stanford's aca
+demic expectations and programs
+are creating the need for collabora
+tive learning spaces.
+"For example, courses in Stan
+ford's Program in Writing and
+Rhetoric and design courses of
+fered by the Center for Design Re
+search both require group collabo
+ration and problem solving among
+student teams," Fox said. "By devel
+oping interactive team workspaces,
+we can nurture and support these
+programmatic ideals being devel
+oped in the classroom."
+According to Fox, "A typical un
+dergraduate student spends only 15-
+18 hours a week in the classroom.
+Far more time is spent in technology
+spaces such as those in libraries and
+residences, where learning, research,
+and course project collaboration
+take place."
+"Reflecting national trends, 99
+percent of Stanford students own
+computers and more than 60 percent
+own laptops, relegating computer
+clusters to providing high-end ser
+vices such as printing and multime
+dia rather than e-mail or other tradi
+tional applications." Fox said. "Sur
+vey results gathered from the 11,000
+residential students also reveal a
+strong desire for collaborative
+spaces enhanced by technology de
+signed to further group interaction,"
+he added.
+Shih was looking fora Computer
+Science research project towards the
+
+end of last summer. She wanted to
+do something that could make a di
+rect impact on society.
+"So much of CS research, though
+exciting and useful, is very far re
+moved from the average user," Shih
+said. "It was difficult finding the
+right professor and right team, but as
+soon as I came across Armando
+Fox's I knew my search had come to
+a successful end."
+After Shih agreed to spearhead
+Team Space, Fox and Winograd
+formed a new team under their su
+pervision, comprising Shih, Jeph
+Raymakers, a former CS doctoral
+student now working at Microsoft,
+and Andy Szybalski, a senior major
+ing in CS.
+At that time. Prof. Fox had also
+forged a close partnership with
+David Futey, associate director of
+Stanford Academic Computing,
+and Richard Holeton, head of Resi
+dential Computing, to work in col
+laboration with the University ad
+ministration to make Team Space
+available to Stanford students.
+
+The Team Space project not
+only involves Stanford faculty,
+staff and students. John Barton,
+formerly with Hewlett Packard
+labs, helped incubate the idea and
+code its early versions. Maria
+Crone, a doctoral student from the
+Swedish Royal Institute of Tech
+nology, is currently helping with
+the user studies.
+Shih serves a dual technical and
+management role.
+"Aside from ensuring progress
+along all fronts, I am also helping
+to run the user studies with Maria,
+managing the timeline, deadlines
+and schedule, and responsible for
+the human subjects protocol appli
+cation process," Shih said, "and as
+a CS major, I also roll up my
+sleeves for some of the bug fixes
+and plan to continue development
+on the software."
+"I definitely think of it as "my
+project" and intend to continue
+work on it as long as there is work to
+be done and I am at Stanford."
+Shih added.
+
+
+WAYNE LI / The Stanford Daily

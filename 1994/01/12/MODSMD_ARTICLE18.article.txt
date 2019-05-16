@@ -1,0 +1,86 @@
+# Computer programs evolve by natural selection
+## 
+### Steve Balt Staff writer 
+Faced with an "all-nighter" assignment in their
+computer programming class, many students might
+try an unorthodox strategy: taking a long look out the
+window.
+And for John Koza, a consulting professor of com
+puter science, this appeal to nature has opened up a
+new world. Koza has developed an insightful, "natu
+ral" way for computer programmers to tackle difficult
+problems.
+Called genetic programming (GP) because it mim
+ics genetic evolution in the natural world, this new
+design tool allows computer scientists to write sophis
+ticated programs that cannot be constructed efficient
+ly with current techniques.
+The new technique is based on the idea of evolution
+bv natural selection, which Charles Darwin proposed
+more than a century ago as the source of variability in
+the structures of living organisms.
+Koza has extended this analogy into the realm of
+computer programming, arguing that the structure of
+a computer program can arise from the selective forces
+it encounters during its own "evolution.
+Programs generated with GP are subjected to a
+seemingly haphazard process of computerized evolu
+tion which selects optimal programs out of a popula
+
+tion of poorly performing programs. In contrast, con
+ventional programming methods often subdivide and
+analyze problems before a program is even written.
+"GP evolves programs that are good at whatever
+you want them to do," Koza said.
+To design a GP program, the programmer must
+provide a description of the problem environment, as
+well as a "fitness measure"— what it means to be suc
+cessful (or not) at solving the problem.
+A population of random computer programs is gen
+erated, and each program is tested in solving the prob
+lem. The most successful, or fit, programs are allowed
+to "reproduce" and propagate into a new generation of
+programs.
+In addition, pairs of these highly qualified pro
+grams undergo "sexual recombination," in which frag
+ments of the programs are swapped and the "off
+spring" are introduced into the next generation.
+After several generations of "breeding," a more
+advanced program, which solves the problem well, is
+developed.
+"It's an unintelligent process," Koza said Indeed,
+the cycling of generations is automatic, making the
+programmer's task significantly easier.
+And while the "best" resulting program is often
+quite elaborate, this complexity is usually not a liabil
+ity. "Products of (natural) evolution are complicated,
+too," Koza added
+
+GP can succeed in solving a wide range of problems
+where other programming techniques have failed.
+Koza and others have employed GP successfully in
+several areas including control engineering, the design
+of game-plaving strategies, digital image compression,
+and the generation of equations to fit numerical data
+Simon Handley, a graduate student in computer
+science, is using GP to design a program to determine
+features of protein structures from their amino acid
+sequences — a problem that biologists have been
+struggling with for years.
+In addition, genetic programming overcomes the
+limitations of other common programming
+paradigms, such as genetic algorithms and neural net
+works With GP, "you get programs that are expressed
+in terms of the natural variables of the problem,"
+Koza explained.
+When other methods are implemented, the result
+can be a series of binary digits, coefficient values or
+matrices of numbers, which must undergo further
+processing.
+The relative simplicity of GP "has very high hack
+appeal," said .lames Rice, Koza's assistant researcher
+And because GP can solve practical problems that
+arise in many real-world situations, there has been
+considerable industrial and academic interest Koza
+boasts a mailing list of nearly 600 genetic program
+mers worldwide

@@ -1,0 +1,35 @@
+# RESEARCH
+## Researchers crack video Captcha security system 
+### ALICE PHILLIPS DESK EDITOR 
+Researchers at the Stanford Security Tab an
+nounced last week that they have developed a means
+of consistently cracking NuCaptcha's video Captcha
+identity verification system.
+Video Captcha streams display slightly distorted
+letters in motion, which website programmers can
+then embed and ask users to type out while visiting a
+site to prove that the user is a human and not an auto
+mated program, or 'bot.' The researchers were able to
+devise a method by which a bot also frequently
+used to create automated email accounts for spam
+ming successfully passed the Captcha security test
+for over 90 percent of challenges faced.
+"How fun would it be to interact with [a] robot on
+Twitter or Facebook?" former Security Lab re
+searcher Elie Bursztein wrote in an email to The Daily.
+Bursztein was a post-doctoral research fellow in the
+lab while the video Captcha research took place.
+The Security Lab team used a combination of mo
+tion tracking, image analysis and machine-learning al
+gorithms to crack the video Captcha system. Accord
+ing to a blog post that Bursztein wrote chronicling the
+team's efforts, motion tracking allowed the team to
+isolate frames of the video Captcha in order to track
+and analyze the words displayed.
+Image analysis was used to determine which ob
+jects in the frame were the most interesting, focusing
+on objects that fit the expected width-height ratio for
+Captcha text and displayed more edges or corners
+
+
+OLLIE KHAKWANI/The Stanford Daily

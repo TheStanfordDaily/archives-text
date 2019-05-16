@@ -1,0 +1,51 @@
+# Computers help protein research
+## 
+### KEVIN MONTAGUE 
+A team of scientists at Stanford, trying to
+gain information on how protein molecules
+work, has developed a computer system that
+uses nuclear magnetic resonance (NMR) spec
+troscopy and artificial intelligence to analyze
+protein molecules as they exist in nature.
+This is the first time that NMR and artificial
+intelligence have been used jointly in the study
+of protein molecules.
+The expert system, called Protean, was
+developed as a joint effort by scientists at the
+Stanford Magnetic Resonance Laboratory
+(SMRL) and the Stanford Knowlege Systems
+Laboratory, in an effort to use computers to
+mimic human reasoning powers. Using data
+
+from NMR. which was discovered by former
+Stanford Prof. Felix Bloch, in concert with ar
+tificial intelligence, it has given scientists the
+clearest picturc yet of a protein molecule.
+The study of protein molecules is important
+to scientists in understanding how biological
+systems work.
+"Protean is the name of an expert system."
+said medical student Olivier Lichtarge, one of
+the scientists involved in the project. "It
+belongs to a class of computer programs which
+are buill so thai they can perform specialized
+tasks as well or better than what a human
+could do.
+"We try to extract from human experts what
+it is that they do so well and encode it into a
+computer system," said Lichtarge.
+
+Oleg Jardetsky, director of SMRL, said,
+"There are some major kinds of questions that
+should be answerable using this system. . . .
+Protean allows you to look at the binding of
+other molecules to the proteins."
+Jardetzky explained that proteins, which are
+composed of amino acids, work by binding
+other molecules to the amino acids. After bin
+ding, the protein can perform a number of
+functions, such as molecule splitting, synthe
+sis or transport, depending on the "specificity"
+of the protein.
+Jardetzky said scientists are also interested
+in examining folding in the molecular

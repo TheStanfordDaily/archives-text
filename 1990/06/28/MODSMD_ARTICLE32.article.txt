@@ -1,0 +1,112 @@
+# New network quickens communication links
+## 
+### Connie Chang 
+This summer, Stanford, in col
+laboration with Pacific Bell, will
+be the first to test a new high
+speed, fiber-optic data transmis
+sion system that promises users
+rapid access to distant super
+computers and information re
+sources.
+Bill Yundt, director of Stan
+ford's Networking and Commu
+nication systems, called the
+Switched Multimegabit Data
+Service a "new approach by the
+telephone companies to support
+high-speed data transmission
+over telephone facilities." He
+said the increased speed could
+be a boon to researchers.
+The service utilizes digital
+transmission techniques, which
+are the same as those used by
+the telephone system to carry
+calls across the country. The
+current campus networking sys
+tem is based on Ethernet which
+connects to the outside world
+using lines that run at a speed
+of 1.5 million bits per second.
+The speed of the new digital
+technologies is 44.5 million bits
+per second and future improve
+ments are expected to deliver
+speeds from 150 million to more
+than 1 billion bits per second.
+Currently, a single Stanford
+user with a powerful IBM PC,
+Macintosh or engineering
+workstation can interact with
+other computers at speeds as
+high as a million bits per second.
+However, if, for example, two
+people try to access the Cray
+supercomputer at NASA-Ames
+concurrently, each trying to send
+a million bits per second over a
+line incapable of handling the
+combined load, one or both are
+forced to slow down. Just a few
+high-speed applications can clog
+the network, rendering it un
+usable. Higher speed links
+promise the only relief.
+The trial will connect multiple
+
+experimental locations on the
+Stanford campus to each other
+and, by fiber-optics, to the
+Pacific Bell research and devel
+opment labs in San Ramon —
+over 25 miles away.
+When used to carry voice, the
+high-speed digital transmission
+channels are divided into many
+smaller subchannels of fixed
+size, one for each conversation.
+When used for transmitting
+data, the high-speed transmis
+sion channel may be divided
+among its users according to the
+speed at which they are able to
+transmit data.
+The service promises long
+distance improvements since
+people will no longer have to
+drive to a work station to access
+a supercomputer. "A lot of time
+is spent with people traveling to
+remote supercomputers and
+high-speed workstations that
+are connected to them, instead
+of having the efficiency and con
+venience of being able to work
+from their office," Yundt said.
+The data service could expand
+the capabilities of the Stanford
+computer network, SUNet, to
+include computers throughout
+the Bay Area and aid in campus
+interactions. Yundt said, "In the
+short term, it [the new technol
+ogy] would be most useful for
+the connections between Hop
+kins Marine Station, or other
+affiliated off-campus offices,
+and the Stanford main campus."
+It will also include experi
+ments in areas such as image
+compression and medical image
+transmission conducted by
+Robert Gray, a professor of elec
+trical engineering. This technol
+ogy would allow a doctor at
+Stanford Medical Center to
+transfer a radiogram or other
+clinical outputs routinely over
+the network to another doctor
+at another location, such as the
+Veterans' Administration
+Hospital.

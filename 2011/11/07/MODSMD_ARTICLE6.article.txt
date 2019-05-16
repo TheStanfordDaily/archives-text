@@ -1,0 +1,69 @@
+# RESEARCH
+## OpenSim simulates human movement with robotics 
+### ALEXIS GARDUNO 
+Stanford researchers have devel
+oped an open-source, human-in
+spired robotics technology that sim
+ulates human movement and can be
+scaled to match individual body
+sizes, ages and genders.
+The technology, known as Open-
+Sim, is now on display at the Leonar
+do Technology Museum in Salt Lake
+City, Utah.
+Open Sim simulates muscle mo
+tion in a similar way to popular ani
+mations of people in movies or in
+video games. Its muscular-skeletal
+simulations differ from other virtual
+worlds as they are based on interdis
+ciplinary developments in math,
+physics, anatomy and physiology.
+Because the software requires ex
+tensive knowledge of these fields, it
+is targeted toward biomechanical
+scientists, clinicians and other devel
+opers.
+Professor of orthopedic surgery
+Scott Delp developed Open Sim in
+2007. He said his long-term goal is to
+create simulation tools that could be
+applied to address important clinical
+problems.
+Delp developed the project as
+
+part of SimTK, an online host for
+software from the National Institute
+of Health's Center for Biomedical
+Computation at Stanford (Sim-
+Bios), which allotted money to fund
+the Open Sim project.
+According to Delp, one of the re
+searchers' objectives was to "help
+biomedical researchers understand
+biological form and function as they
+create novel drugs, synthetic tissues,
+medical devices and surgical inter
+ventions."
+Scientists have already used the
+tool to benefit patients. For example,
+researchers used Open Sim to esti
+mate how knee and hip joints are
+loaded during everyday movements.
+"This helped us understand how
+osteoarthritis [abnormal and accel
+erated degeneration of the cartilage
+in the joint] develops and determine
+better ways to prevent it," wrote
+Open Sim product manager Jennifer
+Hicks in an email to The Daily.
+Delp and his associates created
+Open Sim to act as a middleman be
+tween the large quantities of data,
+biomechanical simulation and later
+medical application.
+
+
+Courtesy of Scott Delp and Edith Arnold
+Researchers who developed the Open Sim technology to model movement
+are showcasing their progress at the Leonardo Technology Museum.

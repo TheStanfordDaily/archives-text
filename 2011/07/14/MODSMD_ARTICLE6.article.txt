@@ -1,0 +1,62 @@
+# ACADEMICS
+## Lecture-streaming software released as open source code 
+### KRISTIAN BAILEY 
+Researchers from the Department of
+Electrical Engineering recently released
+open-source code to their ClassX program,
+which allows real-time online streaming of
+lectures and public access to recordings that
+would otherwise require expensive class
+room equipment to produce.
+ClassX, used in nine Stanford classrooms
+this past spring, allows live streaming in high
+resolution and lets students zoom in, tilt and
+pan to any specific area of the room. It also
+provides video synchronization with lecture
+slides and allows students to review the
+videos as long as the professor chooses to
+keep them online without the large stor
+age requirements typically associated with
+high-resolution video.
+The project is the result of a year and a
+half of development by electrical engineer
+ing professor Bernd Girod, second-year
+electrical engineering graduate students
+Sherif Halawa and Derek Pang, and Ngai-
+Man Cheung, who was an electrical engi
+neering post-doctoral scholar during the
+project.
+"Our goal is to work on developing an
+open contribution from other researchers,
+developers and educators in building an
+open, cost-effective and state-of-the-art edu
+cation-viewing system for the general pub
+lic," Pang said.
+The groundwork for the program, devel
+oped by Girod and researchers in their
+Image, Video and Multimedia Systems
+group (IVMS) began in fall 2009, when
+ClassX was tested in two Stanford courses. It
+was offered in nine classes total during the
+2009-10 academic year and grew to cover 22
+courses in 2010-11. The program has been
+used in 25 Stanford courses to date.
+Computer science professor Stephen
+Cooper, who used ClassX in his CSIO6B
+class, says his students enjoyed the program.
+Cooper's winter CSIO6A class requested the
+program too late in the quarter to use it, but
+his spring quarter CSIO6B course did run
+with ClassX.
+Other professors who used the program
+expressed some reservations.
+"It's a very good first step, but it needs
+considerable improvement," said chemical
+engineering professor Chaitan Khosla, who
+utilized the program in his E2O course. "If
+the University is motivated about making
+this a success, they should be putting much
+more resources into this."
+IVMS's decision to release the ClassX
+code to the public could address both of
+Khosla's concerns.

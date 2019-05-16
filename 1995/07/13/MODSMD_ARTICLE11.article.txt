@@ -1,0 +1,492 @@
+# My specialist... my computer screen
+## Stanford pioneers the use of remote videoconferencing technology in medicine 
+### Story by Steven Kasapi 
+The hours of waiting in a specialist's
+office after weeks of delay may soon
+be as quaint as the drills and ham
+mers of last century's medics. Telemedi
+cine, the linking of medical sites by high
+speed telecommunication networks, is
+rapidly changing the way we see doctors,
+with Stanford at the forefront.
+"Our goal is to implement telemedicine
+for different uses," said Jana Katz, product
+manager at the Stanford Medical School.
+Stanford became involved in telemedi
+cine in October 1993.
+There are already dozens of telemedi
+cine programs in the United States. How
+ever, most are run by the military or the
+prison system or operate in rural commu
+nities where enormous distances or haz
+ardous conditions make access to special
+ists difficult.
+Stanford, however, chose to focus on
+urban sites. The goal is to make telemedi
+cine work medically, economically and
+
+technologically.
+"Our program is research- and service
+oriented," said Jana Katz, telemedicine
+program manager at the Stanford Hospi
+tal.
+"We're taking a critical look at cost-ef
+fectiveness and seed costs," she added.
+Telegraphs, telephones and radio have
+been used to transmit medical information
+for decades, but digital and telecommuni
+cations technology has matured rapidly.
+High-quality video, audio and data links
+are becoming inexpensive and practical
+ways to share medical information.
+In principle, doctors can now listen to,
+watch and supervise examinations of pa
+tients anywhere in the world that telecom
+munications technologies can reach.
+A typical session
+During a typical telemedicine session re
+cently, Dr. Chris Barnard, a Stanford der
+matologist, examined a patient referred to
+him by a practitioner in San Jose. The pa
+tient appeared on a 24-inch television mon
+itor about eight feet in front of Barnard.
+The patient watched another video screen
+showing an image of Barnard, also cap
+tured by a video camera mounted on the
+monitor.
+
+"It's not quite TV quality," Katz cau
+tioned, but she added that it is not as rough
+as what one might expect from real-time
+computer imaging.
+Barnard asked the patient questions
+and gives instructions to the doctor on site
+in San Jose. The patient seems relaxed Jok
+ing occasionally with Barnard and the
+other doctor.
+A high-resolution camera, calibrated for
+color fidelity and light sensitivity, captured
+detailed images of the patient's mouth,
+neck and chin. The images are transmitted
+immediately to Stanford and displayed on a
+computer screen in front of Barnard, who
+studied the photographic-quality images as
+part of his diagnosis.
+Measurements from almost any medical
+equipment can be transferred digitally to
+the specialist and stored at both Stanford
+and the remote site and included in the pa
+tient's medical record.
+"We've tested all the equipment," said
+
+Barnard. "We've gone through many dif
+ferent cameras. The hardware issues have
+been addressed, and we're at a very suc
+cessful level in terms of getting an afford
+able system in place."
+Stanford currently has four remote
+sites. Each site was chosen to explore dif
+ferent aspects of telemedicine, Katz ex
+plained.
+Drew Medical Clinic in East Palo Alto
+uses telemedicine to provide treatment to
+patients who are either reluctant or unable
+to come to Stanford for treatment. Many
+clients are from minority backgrounds and
+have very low income. Cultural and lan
+guage barriers and lack of adequate trans
+portation can make it difficult for some
+East Palo Alto residents to visit Stanford
+Hospital. Telemedicine, it is hoped, will
+provide inexpensive and easy access to
+Stanford specialists.
+At the San Jose Medical Group, physi
+cians also consult specialists at Stanford by
+telemedicine. Although they have their
+own specialists, the San Jose Medical
+Group now offers consultation with Stan
+ford specialists using telemedicine, elimi
+nating the standard wait of several weeks
+for a regular consultation.
+The third site, located in Singapore, will
+
+mostly be used for sharing information be
+tween doctors, Katz said. There are no
+plans to use it to diagnose patients remote
+ly. .
+In all locations, a crucial goal is "to ex
+tend consultation while making it cost ef
+fective," Katz said.
+Lytton Gardens site
+Stanford's fourth and most recent
+telemedicine site is Lytton Gardens, a Palo
+Alto nursing home. Like the other sites,
+Lytton Gardens is primarily concerned
+with improving clients' access to Stan
+ford's medical specialists.
+"One of the concerns for all nursing
+homes is the physician's time and atten
+tion," said Vera Goupille, the chief execu
+tive officer of Lytton Gardens.
+"We're always interested in improving
+our relations with physicians," Goupille
+said. "There are also patients in hospitals
+who might be served just as well by a nurs-
+
+ing home using telemedicine. Right now
+we're looking at doing liver transplant pa
+tients and some others."
+Patients who are stable but still need
+routine monitoring are well suited to
+telemedicine, Goupille said. Nurses or pri
+mary care doctors in the nursing home
+would provide immediate care, with spe
+cialists available for regular monitoring
+and immediate consultation, if needed.
+"This is the first time in the country this
+has been tried by a nursing home," said
+Jonathan Wilson, project manager at Lyt
+ton Gardens.
+"There's been a lot of reluctance by pa
+tients here to go back and forth to a hospi
+tal," Wilson said. "They usually go by am
+bulance even if it's not an emergency be
+cause it's the best mode of transportation.
+That's very costly for the patient, inconve
+nient, and scary for some people. I think
+having the option to do a lot of that here is
+much better for the patient."
+According to Goupille, patient and staff
+response has been very positive.
+"They get to see the physicians and are
+able to communicate," she said. "If there is
+any reluctance, it's before anyone has actu
+ally seen or used it. As soon as the staff or
+patients see the quality of the pictures,
+
+[any concern I just sort of melts."
+The teleniedicine equipment at Lytton
+Gardens is similar to that at the other three
+remote sites and at Stanford. A high-end
+personal computer controls the video and
+data acquisition using software written by
+md/tv inc., of Orlando, Florida. Daou Sys
+tems Inc. of San Diego and Hewlett
+Packard provided the hardware.
+High-speed digital communication is
+provided by six Integrated Services Digital
+Network (ISDN) lines, each operating at
+about 1.5 million bits per second. At maxi
+mum speed using all six lines simultane
+ously, the entire Bible could be transmitted
+in less than five seconds. The ISDN lines
+are being paid for by Calßen, a fund creat
+ed by Pacific Bell.
+The separate ISDN lines are combined
+and the digital information compressed by
+a unit called a CODEC (for coder / de
+coder). Four of these lines are combined to
+carry the video signal while the other two
+
+will eventually be used to transfer data
+taken using medical equipment at Lytton
+Gardens to the center at the Stanford Hos
+pital.
+No medical instruments are used in the
+room while Lytton Gardens' needs are still
+being evaluated, although an electrocar
+diograph (ECG), a device used to record the
+electrical activity of the heart, is a likely ad
+dition.
+"We're still in the developmental stage,
+but our plan is to use it in monitoring
+transplant patients and perhaps other pa
+tients who need to be monitored on a regu
+lar basis," said Goupille.
+Although most of the technical issues
+have been resolved, ways of organizing doc
+tors to consult for Lytton Gardens by
+telemedicine still has to be worked out.
+"We're ready," said Goupille. "We're
+waiting for Stanford to work out their
+schedule. It's the logistics of the scheduling
+now, and getting the routine down for
+physicians to incorporate this into their
+day, and access to the room. We are ready
+and we could do it tomorrow."
+The first teledermatology session at
+Lytton Gardens will take place next Tues
+day, said Barnard. "For Lytton Gardens
+the only thing I need to work out is who will
+be the primary care provider."
+Like many nursing homes, Lytton Gar
+dens makes use of a number of doctors dis
+tributed throughout the community. In
+this pilot project, Barnard said, the prima
+ry care provider must be properly trained
+to avoid false diagnoses.
+The instruments used in telemedicine
+are standard technology, but taking mean
+ngful video images requires high-quality
+equipment, carefully controlled lighting,
+and an operator who is trained in how to
+use the camera.
+"You need to get a very sensitive cam
+era," said Kai Yamaguchi, an intern and re
+cent Stanford graduate who helped set up
+the Lytton Gardens facility. "If they're not
+used right, there's no way to get an accu
+rate diagnosis."
+"The accuracy of diagnosing over
+telemedicine equipment has been shown to
+be as effective as looking at protected Ko
+dachromes (color slide film)," added
+Barnard. Dermatologists are often trained
+using images on Kodachromes, and board
+exams often include making diagnoses
+from protected Kodachromes.
+Barnard together with second-year
+medical student Ming Cheng and Dr.
+
+Susan Schwetter are simultaneously creat
+ing a database of patients treated during
+the telemedicine sessions. Cheng enters
+data on the patient including relevant, med
+ical information such as images and other
+data taken during the session. The data
+base will then be used to check the diagno
+sis during the telemedicine with a later di
+agnosis by another doctor using the same
+images. Preliminary tests have shown that
+diagnoses during the telemedicine sessions
+agree well with subsequent diagnoses,
+Barnard said.
+Future of telemedicine
+Although much of the focus in telemedi
+cine is on real-time video and data transfer,
+not all telemedicine will be conducted live.
+The most practical form telemedicine takes
+may be more like fast electronic mail than
+like live conversation.
+"There are two mechanisms for
+telemedicine," Barnard said. "One is a live
+teleconsultation where we actually have
+the patient or the patient's physician at the
+remote site and we do the consultation live.
+The other is asynchronous consultation,
+where the images are captured at the local
+site and sent to our workstation back at
+Stanford. Probably the greatest savings are
+going to be in doing asynchronous consul
+tation."
+The advantage of asynchronous
+telemedicine is that doctors can consult a
+patient's records within their own sched
+ule, much like voice mail or electronic mail
+is used today.
+"If you 're doing a live consultation, they
+have to have a scheduled time slot. The pa
+tient, the referring physician and the spe
+cialist all have to be there at the same time.
+That is most likely the biggest disruption to
+the schedule," Barnard said.
+Barnard suggests that a telemedicine as
+sistant could run most of the session with
+the patient and the specialist, with the pri
+mary doctor arriving near the end of the
+session for consultation and feedback.
+Another issue in diagnosing a patient by
+telemedicine is the loss of touch and feel,
+often important in diagnosing skin disor
+ders and lesions.
+"I'm really relying on history and visual
+inspection. I don't have the ability to feel
+the skin," Barnard said.
+"Visual inspection and history provide
+more than 90 percent of the information I
+need," he continued. However, the other 10
+percent may require that the patient come
+
+to the hospital for an examination.
+Some doctors also fear that the personal
+contact between doctor and patient may be
+lost. But, as Goupille pointed out, that loss
+of contact may be a blessing for some pa
+tients.
+"Studies have shown that the patients
+have more control," said Goupille.
+"They're in their own territory. In some
+ways it equalizes the playing field. It makes
+up for some of the lost touch and feel. You
+can adjust the screen to make the person
+close up or far away. There is a distance be
+tween the patient and the doctor which can
+be a comfort."
+
+'If there is any reluctance,
+it's before anyone has actu
+ally seen or used it. As
+soon as the staff or patients
+see the quality of the pic
+tures, [any concern] just
+sort of melts.'
+— Vera Goupille
+
+The current Stanford facilities are pilot
+projects, mostly paid by donations from the
+manufacturers of the equipment. Al
+though costs are declining quickly, a typi
+cal telemedicine site would be prohibitively
+expensive for many private institutions
+without substantial donations.
+"We just don't happen to have $150,000
+sitting around," said Goupille. "We may
+find at the end of this study, as the technol
+ogy evolves, that we don't need to spend
+that amount. Would we do it at the end if
+we still have to spend some money? We'd
+have to look at what the tradeoff is, but I
+don't think that we're going to get a free
+ride forever."
+Wilson agreed. "If you include all the
+costs of laying the lines, plus all the hard
+ware and software, plus all the time consul
+tants have been working to fix all the
+glitches, it would really add up. The contri
+butions have been invaluable."
+"I think that by going through this,
+we're making it possible for other organi
+zations to do this in a couple of years," he
+added.
+
+Acceptance into the medical infrastruc
+ture is another major hurdle for telemedi
+cine. Insurance companies, for example,
+don't yet include telemedicine in their cov
+erage.
+Issues of liability also need to be re
+solved. Barnard describes the arrangement
+between Stanford and the San Jose Medical
+Group as one possible model.
+"Our agreement with San Jose is that
+we share the liability with both providers,
+but the primary care provider has the final
+word. Our current agreement is basically
+shared liability, with the specialist acting
+as a consultant."
+Before insurance companies will accept
+telemedicine as valid treatment, Barnard
+said, hospitals must show that telemedi
+cine is both efficient and reliable. "The
+point of our the research is to show this is a
+cost effective system. . . .The main thing is
+it has to be more cost-effective than cur
+rent medicine."
+Educational and peer-to-peer conferenc
+ing are promising and less problematic
+uses of telemedicine. Continuing medical
+education, or CME, is an important part of
+every practicing doctor's career which
+could greatly benefit from widespread use
+of telemedicine.
+"TeIeCME is made more possible
+through the use of telemedicine," Barnard
+points out. "The idea would be to hold a
+large teleconference between two institu
+tions, or to archive a lot of cases."
+Information in the form of pictures and
+measurements is already being stored in
+telemedicine sessions so it can be made
+available to other institutions.
+"We're talking about a huge database,"
+Barnard added. "Instead of libraries full of
+books, we're talking about lots and lots of
+cases that aren't photographed or recorded
+except in medical records. I really believe
+it's possible for everyone to learn to use
+telemedicine as part of their training, re
+gardless of their specialty."
+Cheng agreed, saying, "The more expo
+sure I can get as a student to something
+that will be in use in the future, the better."
+The current medical system, however, is
+not designed to allow treatment of patients
+across the country. Currently a doctor is li
+censed to practice state-by-state, so a doc
+tor in California can only treat patients in
+California.
+"In Texas, they are working on getting a
+limited license for doctors who want to
+work outside of Texas," Barnard noted.
+
+Already, doctors must pass national
+exams before beginning their practice.
+Another critical element for telemedi
+cine is fast data transfer. Without high
+data rates, video images become choppy
+and captured images are slow to transfer.
+Efforts are also underway to build the in
+frastructure, but even in technologically
+advanced regions like the Bay Area, high
+speed ISDN lines are expensive.
+Although hardware and software costs
+are decreasing, high-speed telecommunica
+tions network may take longer to mature.
+Strong government support will be crucial
+if telemedicine is to be affordable and use
+ful, especially in rural areas.
+Impact on Stanford Students
+Despite the Stanford Hospital's pioneer
+ing work, Stanford students will not treat
+ed by telemedicine in the near future.
+"Cowell [Student Health Center] has
+been mentioned as a possible site," said
+Katz, "but not seriously explored."
+Dr. Ira Freedman, director of Cowell
+Student Health Services, concurs.
+"We nave no plans to participate in a
+telemedicine program," he said, stressing,
+however, that Cowell is keenly monitoring
+the growth of telemedicine.
+"It's a potential for primary care in gen
+eral, and we're one of the sites that's close
+ly watching that kind of thing," he said.
+
+Telemedicine on the Internet:
+The Telemedicine Information Ex
+change — http://tie.telemed.org/
+Telemedicine Resources and Services —
+http://naftalab.bus.utexas.edu/nafta
+7/tmpage.html
+Telemedicine Newsgroup —
+sci.med.telemedicine
+Telemedicine Conferences:
+International Telemedicine and Na
+tional Productivity Review Technolo
+gies Symposium and Exhibition
+Organized by:
+Advanced Planning Exchange, Inc.
+112 Cinnaminson Avenue
+Palmyra, NJ 08065
+Contact:
+John R. Weber, V.P. Marketing
+phone (609)786-099
+fax (609)829-2306
+102043.2731 @compuserve.com
+
+
+Doctor Chris Barnard uses telecommuni
+cations technology to treat patients in
+other cities.
+
+Henry Hsu — Daily
+
+
+Dermatologist Chris Barnard (I) and
+medical student David Ming Cheng talk
+to a patient in San Jose from a room in
+Stanford Hospital. An image of the pa
+tient's skin appears on the computer to
+aid in diagnosis.
+
+Henry Hsu — Daily

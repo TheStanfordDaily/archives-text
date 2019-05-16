@@ -1,0 +1,56 @@
+# OFF CAMPUS
+## Calif. reviews voting systems 
+### TAMARA BARTLETT DAILY CALIFORNIA (U-WIRE) 
+BERKELEY, Calif. — Two professors, one each
+from the University of California-Berkeley and
+Davis campuses,were chosen earlier this month to
+lead an independent review of voting machines
+used in California elections.
+ITie review, which has been called the "top to
+bottom review," will review every part of the vot
+ing system from the hardware to software and
+every piece used,said Nicole Winger, a spokesper
+son for California Secretary of State Debra
+Bowen.
+David Wagner, an assistant professor of electri
+cal engineering and computer science at UC
+Berkeley, and Matthew Bishop, a computer sci
+ence professor at UC Davis, were named the prin
+ciple investigators for the review.
+Both Wagner and Bishop said they do not want
+to speak about the project at this time.
+Winger said the review is expected to start to
+wards the end of the week of May 14 and is sched
+uled to end in July.
+The review will first begin with a document re
+view of the machines.which will examine the man
+ufacturer's documentation that is given when ap
+proving a particular vendor. Winger said.
+
+Following the document review, the investiga
+tors will perform a source code review to identify
+any security vulnerabilities in the voting machine
+system.
+The final stage will then be the "red-team test
+ing." which Winger described as an "open-ended,
+hands-on effort to find any errors in software."
+Winger said the comprehensive review process
+is designed to trace any flaws in the voting systems
+that could potentially cause errors in the elections.
+"The teams (conducting the review) are look
+ing for vulnerabilities that could affect the accura
+cy or reliability of elections in California," Winger
+said.
+Fight voting systems have been slated to un
+dergo the review including models from Diebold
+and Sequoia systems.
+Winger said the independent, comprehensive
+review is very unique.as it has not been performed
+in California before and she said she was not fa
+miliar with any other states' secretary of state's of
+fices that had conducted a similar review.
+In choosing the review's leaders. Winger said
+Bishop and Wagner were selected due to their
+level of experience in the computer sciences field.
+" ITiey're highly respected experts with sound
+reputations," she said.

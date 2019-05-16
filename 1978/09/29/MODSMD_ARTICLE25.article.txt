@@ -1,0 +1,259 @@
+# Science
+## New robot helps quadriplegics meet needs 
+### Ingrid Wickelgren Editorial staff 
+A robotic arm developed at the
+Veterans Administration Medical
+Center in Palo Alto can feed,
+wash and groom quadriplegics in
+response to their one-word com
+mands, allowing these disabled
+people to become more indepen
+dent.
+"Are you my mother?" asks
+the electronic voice after the pa
+tient has said his name and, in
+doing so, turned on the com
+puter. But the robot is asleep. In
+fact, it is snoring. To wake up the
+robot, the patient will say
+"ready" and then "attention."
+Once the robot is awake, it will
+move into "home position,"
+from which it can perform a vari
+ety of tasks such as shaving the
+patient, brushing his teeth with
+an electronic toothbrush, was
+hing and drying his face, feeding
+him soup and turning on other
+appliances such as a lamp or a
+radio.
+"This robot is the only one (of
+its type) in the country that has
+been proved reliable in extensive
+clinical tests and is ready to go
+out into the home and vocational
+setting," said Joy Hammel, re
+search occupational therapist on
+the project.
+Two Stanford students, Bob
+Crigler and David Lees, received
+master's degrees in mechanical
+engineering while working on the
+project. Crigler and Lees
+programmed all the software
+developed over the last year-and
+a-half, according to Lees. This
+recent software has made the
+robot much more user-friendly
+and has brought it to the testing
+stage.
+The robot was evaluated clini
+cally using 20 patients in the VA
+
+Hospital's spinal chord injury
+ward. "The response from
+patients has been great," Ham
+mel said.
+Each patient was asked both
+before and after using the system
+whether he would like to have it
+in his home. Before using the
+robot, 17 said "maybe" and
+three said "no." After using the
+robot, 19 said "yes" and one said
+"maybe," according to Hammel.
+A "high level" quadriplegic
+has no use of his or her arms or
+legs and is dependent in every
+way, according to Hammel.
+Quadriplegics usually need
+around-the-clock assistance, but
+by using the robot they only need
+an attendant for a couple of
+hours, Hammel said.
+The quadriplegic does with a
+mouthstick what most people do
+with their hands (i.e. turn the
+pages of a book or type on a
+keyboard). The robot hands the
+mouthstick to the quadriplegic
+when asked. Movement of the
+mouth is a key motor skill for
+quadriplegics — one of the few
+available to them, according to
+Hammel.
+Most quadriplegics also have
+control over their voice. That is
+why developers of the robot
+made their computer system
+voice-activated, Hammel said.
+Before the robot is used by the
+patient, he must train the com
+puter to recognize his voices.
+This training consists of repeat
+ing the 60 words in the robot's
+vocabulary twice and takes about
+10 minutes, according to Ham
+mel.
+The robot does its tasks using a
+human prosthetic arm with a cy
+lindrical grip so it can grab
+various objects ranging from
+razors to washcloths. It can
+move multiple joints at once and
+
+is able to open doors like those
+attached to refrigerators and mi
+crowave ovens, two things that
+most robot arms cannot do,
+Hammel said.
+The arm must perform a very
+complicated sequence of actions
+to do many of the tasks the quad
+riplegic asks it to do. For in
+stance, to feed the patient a bowl
+of soup, the arm must open the
+refrigerator and microwave oven
+doors, grip the bowl, put the
+bowl in the microwave, shut the
+microwave door, set the timer
+and turn on the oven. It must also
+know when the soup is done in
+order to retrieve it from the mi
+crowave. It then feeds the patient
+when the patient says "use."
+The robot can perform an
+amazing variety of tasks, but it is
+not capable of thought. It
+assumes that all of its utensils
+and appliances are in precisely
+determined locations.
+"Everything in the robot's envi
+
+ronment must be very
+structured," Hammel said. The
+robot arm operates in a fixed lo
+cation; it is not on a mobile base.
+The robot is run by an Interna
+tional Business Machines Corp.
+PC/AT computer and a robot
+controller in its back. It utilizes a
+Puma 260 industrial arm made by
+Westinghouse Electric Corp. and
+was programmed in a language
+called Turbo Pascal, according to
+Hammel.
+The robot's new name is
+DeVAR. an acronym for Desktop
+Vocational Assistant Robot, be
+cause the robot will soon be able
+to perform many tasks — such as
+propping up a book or handing
+over a pen — that are needed in a
+job setting. It will incorporate
+these vocational tasks with the
+daily living activities. For in
+stance, it could serve the quad
+riplegic lunch iri the middle of the
+work day, Hammel said.
+The robot decreases the cost of
+
+daily care for the quadriplegic
+enormously, according to Ham
+mel. She said the robot costs
+about $5 per hour to run, while
+an attendant is usually paid be
+tween $11 and $20 per hour.
+The entire robot system costs
+about $43,000 and the arm itself
+costs $35,000, Hammel said. The
+project was funded by a grant
+provided by theVA system.
+Everything in the system, from
+the computer to the toothpaste,
+is available commercially, except
+the software, according to Ham
+mel. "But even the software is
+public domain so anyone can use
+it," Hammel said. She added,
+though, that developing such a
+system requires a lot of robotics
+training.
+
+The robot can
+perform a variety
+of tasks, including
+shaving the
+patient and
+brushing his
+teeth.
+
+The major problem that Ham
+mel and Lees forsee in marketing
+the robot is the speed at which
+computer technology becomes
+obsolete. "By the time we have it
+marketed, it will be old," Ham
+mel said. IBM has already come
+out with a new computer system
+that replaces the PC/AT line.
+The dilemma the developers
+will have to face will be when to
+stop developing it and get it out
+
+in the marketplace, Hammel
+said. Lees, who is still working
+on the project for his doctorate,
+wants to expand the robot s (unc
+tions to include more skills appli
+cable to the home environment,
+such as answering a telephone,
+as well as those that are specifi
+cally vocational functions.
+"We are going to push to get
+the system out into different test
+ing environments by late Decem
+ber," Hammel said. The robot
+will first be used outside the
+hospital probably at a San Jose
+school where disabled people are
+trained to do computer program
+ming.
+The San Jose school will evalu
+ate the system for eight weeks,
+after which they will have the
+choice of buying it, according to
+Hammel. Hammel said that there
+are currently three robotic arms,
+but they are proposing to build 10
+more to test around the country.
+Larry Leifer, associate profes
+sor of mechanical engineering at
+Stanford, has headed the project
+since it began four years ago, ac
+cording to Hammel. Lees said
+that the idea for the project was
+conceived in the late 1970s when
+Leifer first heard of this type of
+robot arm. Leifer then gave some
+of his students a class project to
+see if they could program the arm
+to help quadriplegics with daily
+tasks.
+A similar robotic arm on a
+movable base is being developed
+by two other Stanford mechani
+cal engineers, Machiel Van Der
+Loos and Stefan Michalowski.
+This robot will have features that
+the fixed arm does not. For in
+stance, it will be able to see color
+and detect differences in materi
+als like paper and glass. It will
+take another 10 years to com
+plete. however, Hammel said.
+
+
+Benjamin Tong/Daily
+A robot, designed to help quadriplegics with daily tasks, puts a soup
+bowl into a refrigerator.

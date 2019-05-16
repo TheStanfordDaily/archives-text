@@ -1,0 +1,165 @@
+# Setting the record straight: the history of Cisco
+## Focal Point 
+### 
+Computing, networking and
+world-wide-web applica
+tions are now commodities
+that affect almost all aspects of our
+lives. Twenty to 30 years have
+passed since the invention ol
+many of the underlying tec hnolo
+gies leading up to this information
+revolution.
+We are beginning to try to gain
+some historical perspective on the
+people and the settings that gave
+rise to these ideas, along with the
+extraordinarily successful indus
+tries that pace the marketplace for
+derived commercial products.
+Source materials for these histories
+are often shaded by company mar
+keters trying to extol a company's
+virtues during startup, garnering
+investment capital and moving to
+ward public stock offerings.
+Erequently, public attention is
+focused only on the people who
+became rich and famous as a result
+of a startup (e.g., Marc Audi eesen
+of Netscape or Len Bosack and
+
+Sanely I.erner of Cisco Systems)
+rather than the true inventors.
+In the history of networking,
+Boh Kahn, Vint Cert and Boh
+Metcalfe have properly gotten
+credit for the invention and de
+velopment of the early
+ARPANET (late 1900s), the Eth
+ernet (mid-19705) and the earl\
+Internet (1980s). I here is anoth
+er part of this story though that
+remains muddled in the public
+view — the invention ol commer
+cial Internet router technologies
+(1980s) that make possible the in -
+credible network of networks
+comprising the modern Internet
+and which fueled the meteoric
+success of (lisco Systems.
+I he origin of Internet routers
+and Cisco Systems is a uniquely
+Stanford story and reflects the
+power of Stanford as an incubator
+for new technologies. Thus, it is
+important to get the record
+straight about what really hap
+pened so the Stanford community
+can learn from this process.
+Computer networking at Stan
+ford has a long and productive
+history. I he Stanford AI Labora
+tory was among the first of the 64
+
+nodes on the ARPANET in the
+late 19605. The SUM EX-AIM
+project in the Medical School was
+added in 1974 and became the
+first non-DoD node on the
+ARPANET.
+Many experiments were done
+in (he tnid-to-late 1970s to inter
+connect larger numbers of ma
+chines, but these efforts changed
+fundamentally in early 1980,
+
+The origin of Internet routers
+and Cisco Systems is a uniquely
+Stanford story and reflects the
+power of Stanford as an incuba
+tor for new technologies.
+
+when Xerox Corporation grant
+ed Stanford (along with MI I and
+Carnegie Mellon University) ac
+cess to their Ethernet technology.
+I he Ethernet design (by Metcalfe
+and Boggs) was an extraordinari
+ly elegant solution to intercon
+
+necting machines and was adopt
+ed eagerly.
+Phis led innnediatek to the
+need lor "router technology" to
+interconnect not onlv machines
+on a given network segment, but
+to interconnect network segments
+
+with each other and the growing
+national Internet. The SI'MEX
+project initiated an effort to build
+a network router and Bill Yeager
+began to work on it.
+Yeager produced a stable
+PDI'l 1-based router by late 1981
+and then a Motorola 08000-based
+router by late 1982. I lie latter used
+experimental circuit boards, devel
+oped by And) Bechtolsheim in the
+Computer Science Department,
+that would later become the basis
+lor SUN Microsystems. Yeager's
+system could efficiently route pack
+ets for PUP, XNS, I Panel CHAOS
+net protocols among networks con
+nected to his router.
+We deployed these router svs
+tems widely at Stanford and at sev
+eral other universities for academ
+ic purposes. Phe overall network
+ing of the Stanford campus, based
+on the experimental networks de
+veloped by SUM EX and the AI
+Lab and Yeager's router, was
+funded by the Stanford Board ol
+I rustecs in 1985 and carried out
+by the Network Communications
+group in the central campus I I
+organization. Neither Len Bosack
+nor Sandy I.erner played any role
+
+in this internal development and
+deployment effort.
+By the time Bosack had access
+to the router source code in 1985,
+multiple-protocol routers were a
+relatively mature technology. The
+software was licensed by Bosack
+and Lerner on behallof Cisco S\s
+tcins in 1986 through the Stan
+ford OHice of lechnology Licens
+ing, and Yeager was named in the
+agreement document as the prin
+ciple developer / inventor. Bo
+sack's and Lerner s contributions
+lay in the important (and risky) re
+alization that this technology
+could he made into a commercial
+venture — and credit for that
+should not be denied.
+Still, Yeager was the Stanford
+researcher who created the tech
+nology leading to Cisco's found
+ing and success, even though he
+never benefited from that venture
+and has not receiv ed public recog
+nition for his contribution .
+As the people who played key
+roles in developing seminal infor
+mation technologies in the academ
+ic age and move on to other tasks.
+
+
+BILL YEAGER (left) and
+TOM RINDFLEISCH

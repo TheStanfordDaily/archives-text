@@ -1,0 +1,246 @@
+# Storing the Mona Lisa
+## Scientists explore a holographic future 
+### Steven Kasapi 
+In August of last year, researchers at
+Stanford demonstrated the first digital
+holographic storage device. Using off
+the-shelf optical components, the Stan
+ford group stored a digitized picture of
+the Mona Lisa holographically and read
+it back.
+Holographic data storage has been a
+dream since the 1960s because the
+potential payoff is enormous. Whole
+libraries of information could be stored
+in a crystal the size of a sugar cube and
+any part of it could be accessed in a frac
+tion of a second.
+But whether or not holographic stor
+age goes to market will depend strongly
+on how well it competes with existing
+storage technology.
+The information bottleneck
+Text, photographs, sound and video
+are rapidly consuming modern storage
+media and pushing even the fastest
+devices to their limits.
+Cable and phone companies will soon
+allow customers to view movies on
+demand. However, making thousands of
+videos, texts and songs available to mil
+lions of customers simultaneously is still
+a formidable challenge. Today's storage
+media are barely up to the task.
+Magnetic storage devices, the most
+common storage medium, record infor
+mation in small magnetic patches or
+"domains." Higher information density
+requires finer media, smaller distances
+between the readout head and the disk
+and new tricks to control the head posi
+tion very precisely.
+An optical compact disc encodes ones
+and zeros as reflecting and absorbing
+spots on a metalized disc. The spots on
+the disc are read by focusing a laser
+beam onto the disc and observing
+whether the beam is reflected or not.
+()w> of the advantages of optical com
+p; liscs is that they are easily and
+inexpensively mass-produced. The
+reflecting and absorbing spots are just
+peaks and valleys on the metal surface
+so copies of a master disk are simply
+stamped out.
+Although mass-produced optical
+compact discs cannot be modified, new
+optical media based on a phenomenon
+called the "magneto-optical effect" allow
+the information to be rewritten many
+times.
+Existing optical compact discs con
+tain about 40 million bytes per square
+centimeter while magnetic media con
+tain about one-sixth of that density.
+Magnetic media make up for the lower
+density by using several disks in a single
+sealed package. Although access times
+for optical media are slower than for
+magnetic disks, the gap will probably
+narrow as technology matures.
+Magnetic media density has been
+increasing steadily by 60 percent every
+year. According to Mark Kryder of the
+Research Center in Data Storage at
+Carnegie Mellon University, by the year
+2001 magnetic storage density should
+reach 160 megabytes per square inch.
+The information density in an optical
+disc is limited by how tightly light can be
+focused. Shorter wavelengths of light
+can be focused to smaller spots.
+Researchers at IBM Almaden Research
+Labs recently demonstrated a fivefold
+data density increase using short-wave
+length blue lasers.
+Magnetic and optical media will prob
+ably continue to evolve for the next 10
+years or so. As they reach their practical
+limits, however, new methods for stor
+ing data may find a market.
+Holographic data storage
+The tacky hologram trinkets in drug
+stores contain an enormous amount of
+
+information. Many views of the object
+are stored and reproduced by the holo
+gram. Theoretically, a hologram the size
+of a sugar cube can store thousands of
+gigabytes of information and allow data
+transfer rates of over 100 megabytes per
+second.
+To make a hologram, an object is illu
+minated by an expanded laser beam and
+a photographic plate is placed near the
+object. The diffuse light reflected from
+the object illuminates the plate while a
+second laser beam, expanded to cover
+the entire holographic plate, also illumi
+nates the photographic plate.
+The waves of light from the object
+and the expanded laser beam combine to
+form an intricate pattern of light and
+dark swirls called an interference pat
+tern. The interference pattern is record
+ed by the photographic plate.
+Developing the photographic plate
+creates dark patches where there was
+light and transparent patches where
+
+there was none. Shining an expanded
+laser beam through the developed pho
+tographic plate "decodes" the wave
+information of the light from the origi
+nal object, reproducing the light from
+the original object.
+Non-digital holographic data storage
+has already been demonstrated. For
+example, researchers at Nippon Tele
+phone and Telegraph in Japan recorded
+simple animation in holographic crys
+tals.
+In an article in Science last year,
+Prof. Lambertus Hesselink of the Stan
+ford Electrical Engineering and Aero
+nautics and Astronautics Departments,
+his graduate student John Hensen and
+research associate Matt Bashau demon
+strated the first holographic system for
+storing and retrieving digital informa
+tion. In their experiment, a digitized
+image of the Mona Lisa was stored in a
+hologram and retrieved.
+Their apparatus stored "pages" of
+
+digital information in a crystal about the
+size of a sugar cube. Each page was cre
+ated by passing a beam of light through
+a device called a spatial light modulator,
+which consists of many pixels, each of
+which can be turned on or off to pass or
+block the incident light.
+The recording crystal was a material
+called iron-doped lithium niobate. Elec
+trons in this material migrate from
+regions of high light intensity to regions
+of low intensity during exposure, creat
+ing a pattern of electronic charge that
+reflects the holographic interference
+pattern. The pattern of charges in the
+crystal modifies the optical properties of
+the crystal, allowing it to store holo
+grams.
+The Stanford group's hologram con
+tained many pages of data. The trick
+was to record each page at a different
+angle. The process of encoding many
+pages in the same crystal is known as
+"multiplexing."
+
+To multiplex the different pages,
+Hesselink and his co-workers rotated
+the crystal slightly for each recorded
+page. A small section of crystal was able
+to hold 308 pages of data. In fact, only a
+small portion of the crystal — about
+1/100 th — was used.
+To read back the image, a laser beam
+was passed through the crystal to read
+out the information. For each angle of
+rotation a different two-dimensional
+pattern was reproduced corresponding
+to the original pattern created by the
+spatial light modulator.
+Hesselink and his collaborators used
+a two-dimensional array of detectors to
+detect the pattern and then passed the
+information to a computer which decod
+ed and displayed the image.
+The natural ability of holograms to
+recreate entire pages of data is one rea
+son they are potentially so fast. This
+"massive parallelism" is a unique fea
+ture of holographic storage.
+
+However, holographic data storage is
+prone to errors. Without any correction,
+the accuracy of the demonstrated sys
+tem is about one error in every thousand
+characters read. To overcome large inac
+curacies, several pixels were used to
+encode each bit of information, resulting
+in a loss of data capacity. Improvements
+in storage material and other optical
+components will improve the accuracy
+of the device.
+The pattern in the lithium niobate is
+also easily erased by the light used to
+read the holographic data. Fixing of the
+pattern is crucial in any real device, thus
+holography will probably only be suit
+able for read-only data storage.
+Writing to the lithium niobate crystal
+is also relatively slow. In Hesselink's
+experiment each frame took several sec
+onds and the entire recording process
+took several minutes. Readout was con
+siderably faster at about one-thirtieth of
+a second for each frame.
+
+Hesselink admitted that holographic
+data storage will probably not replace
+magnetic or optical disks in the near
+future. However, he stressed, future
+data storage systems requiring trillions
+of bytes of information storage will pre
+sent new problems for existing media.
+"As they start getting into terabytes
+(one thousand billion bytes), they are
+going to have problems," Hesselink
+pointed out. Although engineers can add
+more platters to magnetic storage
+devices, the system complexity will
+rapidly become prohibitive. Thus, Hes
+selink said, the need for new and more
+powerful data storage will emerge.
+The first commercial holographic
+storage devices might start appearing
+within the next three years, Hesselink
+predicted. It is likely that they will start
+showing up in high-capacity, read-only
+storage devices, such as "video-on
+demand" and on-line information sys
+tems.
+
+
+Source: Forbes Magazine Andrew Martinez-Fonts —Daily

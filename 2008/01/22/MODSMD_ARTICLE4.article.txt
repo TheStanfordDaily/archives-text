@@ -1,0 +1,30 @@
+# CS prof wins film award
+## Prof., collaborators to be recognized by Academy for special effects work 
+### KAMIL DADA STAFF WRITER 
+Computer Science Prof. Ron Fedkiw,
+along with collaborators Nick Ras
+niussen and Frank Losasso Petterson
+from the special effects firm Industrial
+Light and Magic (II.M). will bo awarded
+the Scientific and Engineering Award by
+the Academy of Motion Pictures Arts
+
+and Sciences for work on computer-gen
+erated fluids.
+The system uses a method of simulat
+ing low-viscosity fluids such as water and
+fire. Traditionally, computer graphic
+artists have used a series of blobs to rep
+resent water to varying degrees of suc
+cess — they sometimes appear as unre
+alistic. grainy surfaces. Another popular
+method has been to employ a method
+
+called the "level set method," which
+gives better surface representation, but
+does not render as well when broken
+down in smaller particles, such as a
+breaking wave.
+ITie team's innovative "particle level
+set method" uses a mix of particles and
+level sets, which allows artists to main

@@ -1,0 +1,82 @@
+# Hacker breaks into Stanford Ticket Office Server
+## 
+### MARK BOUCHER CONTRIBUTING WRITER 
+February, a hacker seeking
+anonymity in an Internet Relay ('.hat
+room broke into a Stanford Ticket ()f
+-fice server that stores roughly 32,000
+credit card numbers, fhe break-in
+prompted Stanford to warn credit
+card companies of potential fraud.
+However, the hacker apparently has
+not accessed or used any of the ac
+counts.
+fhe intruder gained access to the
+server in hopes of connecting anony
+mously to several Internet Relay ('.hat
+rooms.
+Eileen Walsh, director of the Stan
+ford News Service, said that evidence
+indicates that the hacker was using the
+computer only for anonymity in chat
+ting and was not even aware of the
+credit card numbers.
+The Compyter Security Office dis
+covered the intrusion 011 Feb. 14 and
+immediately took the server off line.
+The University notified both the Stan
+ford Police and the banks that issued
+the at-risk credit c ard numbers.
+I he University notified the banks
+because banks c an more easily moni
+tor unauthorized account use and are
+also more likely to have cardholders'
+correct names, addresses and phone
+numbers.
+fhe banks then notified their cus
+tomers. One Stanford staff member
+who had recently bought tickets
+
+through the Ticket Office said that her
+bank canceled the compromised
+number and issued a new number.
+"I was surprised when the [bank]
+called me," she said, "it was kind of
+weird because I didn't know what was
+going on."
+Li/ I'ung, a spokeswoman for Visa,
+said in The Palo Alto Daily News that
+each bank handles this type of situa
+tion differently. Some banks give
+their customers new numbers, but
+others just absorb any fraudulent ex
+pense.
+The Computer Security Office, a
+division of Information Technology
+Systems and Services, continues to in
+vestigate the incident.
+Because the investigation is ongo
+ing, the Security ()flice refused to dis
+close any leads on the hacker's identi
+ty. It also refused to discuss the techni
+cal details of the breach in security and
+how it was discovered.
+fhe server, which also stores event
+and ticketing information for Lively
+Arts at Stanford, has gone back online
+with significantly enhanced security.
+Stanford is currently reviewing its
+procedures for credit card security
+and management on all c ampus com
+puters. 'I"his is the first known case at
+Stanford in which credit card infor
+mation has been compromised.
+The Athletic Ticket Office uses a
+separate computer system for its tick
+eting and was not affected by this
+break-in.
+
+
+LUCAS MUNOZ/The Stanford Daily
+Sophomore Jon Dunn buys tickets at the Stanford ticket office. Last Febrary, the tick
+et office experienced a major breach of security.

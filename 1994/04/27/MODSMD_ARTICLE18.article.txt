@@ -1,0 +1,181 @@
+# Science
+## University introduces new computer-networking system Application designed to replace outmoded Folio program 
+### Michael Slemmer Editorial staff 
+Stanford students will now have
+access to an enhanced version of the com
+puter program Folio — used since 1983
+for such applications as searching the
+library's card catalog and registering for
+courses.
+Software engineers at the Stanford
+Data Center developed the improved
+application, named "Portfolio," to allow
+more extensive use of the University's
+networking capabilities for information
+retrieval and storage, according to John
+Sack, director of the Data Center.
+In doing this, the University is enter
+ing a new realm of computerization and
+connectivity, said Ann Mueller, the cen
+ter's technical manager. "Most universi
+ties have campus-wide information sys
+tems that are accessible on the Internet
+(a global computer network).
+"Using Portfolio will give students
+access to literally thousands of other uni
+versities' networks," she said, adding
+that such data as phone directories and
+course listings are often available on
+these networks.
+'Growing pains'
+In addition to the innovations brought
+about by the new networking software,
+Sack said one of the University's primary
+motivations for developing Portfolio was
+the outmoded standard currently in use.
+"Folio was experiencing growing
+pains," he said, referring to the old sys
+tem implemented on a mainframe com
+puter which, while able to provide quick
+and secure access to data, made the pro
+cess of adding information difficult and
+costly.
+As a result, action-oriented applica
+tions like Axess — which allows students
+to input at their leisure such personal
+information as their courses and address
+es — are both difficult to implement and
+are user-unfriendly.
+Folio is also limited in its ability to use
+
+certain types of data — text and multi
+media files in particular, Sack said.
+In addition, Sack said that "all of the
+information must be located at the center
+of the system." This causes problems
+because the mainframe running the Folio
+network then places severe limitations on
+the number and types of functions which
+can be built into the applications.
+For example, the current system lim
+its the types of searching a user might
+perform on data contained within Folio,
+Sack said. It also limits the students who
+can use the service at a given time.
+Axess, for example, can handle only 50
+users at once — causing problems when
+deadlines near and students need to reg
+ister for classes.
+Though the Data Center has improved
+somewhat on the Folio application in its
+10-year lifetime by connecting it to new
+functions like Axess, the basic nature of
+the system has limited its evolution.
+A new standard
+Portfolio, the newly implemented
+data-retrieval system which was made
+available to students over the network
+just last Thursday, will improve signifi
+cantly on many of the computerized func
+tions made tedious and difficult by Folio.
+The first major improvement included
+in the new system is the fact that it main
+tains databases of documents — contain
+ing text or other data — and can auto
+matically search for information through
+the documents themselves or through
+brief descriptions supplied with the data.
+By including the site-licensed docu
+ment viewer "Common Ground" in Port
+folio, students should be able to view doc
+uments created in a wide variety of for
+mats.
+But according to Sack, the real innova
+tion here is that students and adminis
+trators will be able to post documents on
+the Portfolio network. "When we did
+hands-on testing of the system last year,
+most of the people who tried out Portfolio
+told us they would like to see this feature
+
+included," he said.
+"Basically, we are making it possible
+for people to publish information on-line
+instead of . . . posting fliers all over cam
+pus," Sack added.
+Another improvement in the new soft
+ware is the fact that it can be run direct
+ly from the student's computer. The cen
+ter is developing versions of Portfolio for
+Macintoshes as well as other types of
+computer.
+According to Sack, this change speeds
+up information access because the com
+puting workload is shared between the
+University's computer system, which
+stores the data on the network, and the
+student's computer, which acts as a
+client.
+Previously, he said, the computing for
+Folio was done almost exclusively by the
+mainframe computer.
+In developing Portfolio, the data cen
+ter also sought to improve the existing
+software for searching through informa
+tion available on the network. "It's like
+going on a treasure hunt," Sack said,
+referring to the difficulties involved in
+searching through data without such a
+software tool.
+"If you know something exists, with
+out knowing its location it's almost
+impossible to find it,"he said, adding that
+Portfolio should alleviate these difficul
+ties when students want to search
+through documents posted by the Uni
+versity and other students.
+By creating a collection of resources
+that is managed in this way, Sack said the
+Data Center hopes Portfolio will improve
+student data access by a large margin.
+Connecting to the world
+The new software's usefulness does
+not stop at Stanford's borders but poten
+tially could provide students access to
+information stored throughout the
+world.
+"It's absolutely amazing the variety
+and wealth of information that's avail
+able across the Internet," Mueller said.
+
+"We're trying to make it easier for people
+to navigate the information explosion."
+Though in its current form, Portfolio
+does not provide full access to worldwide
+resources, Sack said that soon it will
+include an interface like the one current
+ly available through Mosaic — a program
+which allows users to navigate the Inter
+net through a series of "pages" which
+contain information as well as links to
+other pages.
+However, the area within Portfolio
+which will eventually allow students to
+search for information off-campus will
+never be as reliable as on-campus data
+
+retrieval, Sack warned.
+But "Portfolio should aid students in
+navigating around the pitfalls in the
+Internet," he added.
+Currently, there are about 329 docu
+ments available to students on Portfolio
+— containing information such as the
+administrative handbook and the Univer
+sity alcohol policy.
+According to Sack, the number of
+documents is constantly growing, but
+with the new search and retrieval
+resources provided by Portfolio, "find
+ing the data you need should be easier
+than ever."

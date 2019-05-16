@@ -1,0 +1,126 @@
+# Stanford labs develop artificial intelligence systems
+## 
+### Alan Wiemann 
+An application of digital com
+puters that has received con
+siderable attention at Stanford
+is artificial intelligence.
+Artificial intelligence is the
+part of computer science that
+uses programming techniques
+to produce what is considered
+intelligent activity. Re
+searchers developing these in
+telligent systems work from the
+accepted premise that in
+telligence can be sufficiently
+simulated by processing sym
+bols. such as words, sentences
+and mathematical formulae.
+The artificial intelligence
+laboratory at Stanford has
+spawned a variety of expert sys
+tems that are currently being
+used in fields as diverse as med
+icine, engineering, and corn
+
+puter science itself.
+Generally, an expert system
+is a computer program, or col
+lection of programs, that "con
+verses" with an individual and
+gives advice, draws con
+clusions, and makes diagnoses.
+One such system is the in
+teractive MYCIN program, cur
+rently in use at the Stanford Uni
+versity School of Medicine,
+which diagnoses infectious dis
+eases, prescribes treatment,
+and explains its conclusions.
+The ability of the system to
+explain its reasoning is essen
+tial in determining the correct
+ness of its conclusions. That
+way, the doctor using the sys
+tem may ask the computer
+questions to determine how it
+made its diagnosis.
+If he feels that the system has
+
+reached an incorrect con
+clusion, the doctor can correct
+the system and. in effect, teach
+the system a new reasoning
+step.
+The SACON program, anoth
+er system, acts as a consultant
+to structural engineersto assist
+them in using a complex struc
+tural simulation program.
+This system was constructed
+trom EMYCIN, which is a
+skeletal version of MYCIN.
+The EMYCIN program con
+tains the control structure of an
+intelligent system but without
+the knowledge base.
+* The successful implementa
+tion of SACON from this general
+program is especially impor
+tant because it demonstrates
+that the technology of these con
+sultation systems may be ex
+tended to fields beyond medi
+
+cine and engineering: re
+searchers at the artificial in
+telligence laboratory have used
+this technology to produce a sys
+tem that is an expert in creating
+expert systems.
+This program, called RLL,
+enables the user to create a lan
+guage that will represent the in
+formation in a particular knowl
+edge base so that it will be un
+derstandable to an intelligent
+system.
+The majority of expert sys
+tems produced to date are rule
+based systems. This means they
+rely on a large number of "if
+then" rules and heuristic pro
+gramming techniques to engage
+in intelligent activity.
+But Michael Genesereth. pro
+fessor of computer science at
+Stanford, is currently re
+searching a divergent tech
+
+nique, that of giving an in
+telligent system deep, theo
+retical knowledge.
+His particular application is
+the development of a system
+that will be able to "debug," or
+detect faults in, a computer.
+The system will rely upon the
+oretical knowledge of the struc
+ture and function of digital com
+puters.
+Other foci of research include
+intelligent robotics, computer
+vision and learning.
+In the field of learning,
+Douglas Lenat, professor of
+computer science at Stanford,
+has developed a program which
+is an exper.t in mathematics.
+His program is able to make
+conjectures and invent new con
+cepts
+
+
+Computers then and now: Charles Babbage's calculating machine circa 1830 and integrated circuit of today
+

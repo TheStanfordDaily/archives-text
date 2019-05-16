@@ -1,0 +1,134 @@
+# STUDENT LIFE
+## CS senior identifies bug in Adobe Flash Player 
+### SARAH MOORE 
+Stanford computer scientist
+Feross Aboukhadijeh 'll recently
+discovered a bug in the widely used
+Adobe Flash Player that allowed
+malicious websites access to a
+Flash user's webcam and micro
+phone.
+
+According to Aboukhadijeh,
+two weeks after initial attempts to
+contact Adobe and inform it of the
+bug, Aboukhadijeh had received
+no responses. Unaware that the
+Adobe employee he emailed was
+on a period of leave, Aboukhadijeh
+posted about his discovery on his
+website feross.org onTues., Oct. 18.
+Through Adobe Product Secu
+rity Incident Response Team
+(PSIRT) monitoring activities,
+Adobe became aware of this post
+and the problem and fixed the glitch
+within two days of becoming aware
+of the bug, Aboukhadijeh said.
+Before the bug was fixed, these
+attacks on Flash were possible be
+cause the software has access to a
+user's webcam and microphone. As
+privacy settings can be changed on
+line, an attacker could trick a Flash
+user into changing his or her set
+tings.
+
+In a technique known as "click
+jacking," the attacker could put the
+settings in an invisible window and
+place that window over a part of
+the site, for example a game, where
+the user would be making many
+clicks and unknowingly changing
+settings via the invisible window.
+"So you play this game where
+you click some buttons, and if you
+do enough clicks, then you actually
+changed your settings and allowed
+whatever website did this attack to
+access your webcam and do what
+ever they want with it,"
+Aboukhadijeh said.
+There are many potential mali
+cious uses for exploiting such bugs.
+"Let's say you're a dissident in a
+country with a repressive govern
+ment and you're trying to browse
+the Internet to share information
+about what's going on in your coun
+try," Aboukhadijeh said. "If you
+land on some website and that web
+site's been ordered by the govern
+ment to install this attack code on
+their site, and you think you're look
+ing at this new site, but really you're
+turning on this camera so then the
+
+government can have pictures of
+everyone who's browsing a particu
+lar site. And who knows what would
+happen to those people."
+Both Aboukhadijeh and
+Adobe's Senior Director of Product
+
+Security & Privacy Brad Arkin inde
+pendently said that they did not
+have any evidence to suggest that
+the bug had been exploited before it
+was fixed. However, the potential
+for an attacker to gather video and
+audio without conscious user con
+sent prompted Adobe to address
+the issue once it came to the compa
+ny's attention.
+"The incident-response process
+was immediately put into action,
+and the affected product team was
+notified," Arkin said in an email to
+The Daily. "Proper triaging of the
+vulnerability was performed, and
+the issue was resolved with a change
+to the Flash Player Settings Manag
+er SWF file hosted on the Adobe
+website."
+
+Users do not need to update
+Flash or take any other action for
+this increased protection, as the
+issue stemmed only from Adobe's
+website and not the software.
+
+Adobe had seen this problem
+with Flash in 2008, which is what led
+Aboukhadijeh to the discovery.
+While taking CS 155 Computer and
+Network Security last spring,
+Aboukhadijeh learned about these
+"clickjacking" bugs. This quarter,
+while doing his own research, he
+learned about the Flash problem
+from two years previous and discov
+ered that the glitch had indeed not
+been fixed.
+
+Adobe Flash Player is not the
+only software with the potential for
+this type of bug. Essentially, any soft
+ware one installs on his or her com
+puter carries this capability as plug
+ins can have virtually complete ac
+cess to one's computer.
+"Any kind of software that you
+use where you might want to share
+or there's an ability to share stuff
+with other people, then you have to
+worry about whether the privacy
+settings are what you want," said
+professor of computer science Alex
+Aiken. "There's an opportunity for
+people to come in and try to confuse
+you and fool you."
+
+Contact Sarah Moore at smoore6
+@stanford.edu.

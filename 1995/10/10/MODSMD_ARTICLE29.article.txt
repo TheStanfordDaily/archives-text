@@ -1,0 +1,72 @@
+# Tresidder, Meyer clusters get new safety net
+## 
+### Perry Chen 
+Several weeks ago, Stanford began testing a
+new Macintosh program called MacLeland to
+improve access and security for SUNet services
+such as e-mail.
+The University is currently testing the pro
+gram in selected campus clusters — including
+Meyer Library and Tresidder Union. If all goes
+well, the program will be available to the entire
+Stanford community by winter quarter.
+Tony Navarrete, manager of Stanford's Net
+work Integration Services, called Maclx?land
+"just a piece of a larger effort to make net
+worked-based services more available to the
+Stanford community."
+Among its features, MacLeland will provide
+security for users' e-mail passwords and person
+al data. Many students use programs like Axess
+and Netscape through SUNet. The problem,
+Navarrete explained, i.s that the information can
+be tapped into and read by other people.
+If installed, MacLeland will both encrypt this
+
+data and require user authentication in order to
+access it. "This feature helps to address the
+major security issue that the Internet propos
+es," Navarrete said.
+Another service MacLeland will offer is
+increased access to the Leland file system. Right
+now, when using SUNet services, people must
+type in commands through the Unix operating
+system in order to find specific documents or
+programs. This method often becomes cumber
+some and confusing for those without comput
+er experience.
+Navarrete said MacLeland "adds a graphical
+user interface on top of the Unix environment."
+This feature means that users can access and
+share files by merely "clicking and dragging"
+icons.
+MacLeland's third major function will be to
+restrict access to Stanford's public clusters to
+members of the Stanford community. Navar
+rete said this will he done by combining the cur
+rent diverse administration tools that make up
+SUNet.
+
+Currently, users are required to give a login
+name and password for some services, like e
+mail and Axess, but not for others, like
+Netscape. MacLeland would integrate these
+services together so that the user would only
+have to login once to be able to use all the dif
+ferent services. Those with accounts would not
+have to log in multiple times while those with
+out an account could not access SUNet.
+For PC users, development of a Windows ver
+sion of Maclx'land is also underway. Navarrete
+hopes to begin testing it by January 1996, with a
+112 ull release ready by September 19%. Both these
+versions, he asserts, will be "a big first step
+toward making the distributive computing envi
+ronment a lot easier for the average person."
+MacLeland i.s based on software initially
+develoj>ed by the Digital Equipment Corpora
+tion, said Navarrete.
+In April, work began to alter MacLeland for
+the University and improve its features. During
+the summer, a group of faculty, staff and stu
+dents tested early versions of MacLeland.

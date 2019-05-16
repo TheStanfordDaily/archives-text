@@ -1,0 +1,69 @@
+# TECH NEWS
+## Alumni plan new Google alternative 
+### STEPHANIE FAGLIANO STAFF WRITER 
+Stanford alumni Anand Raj ar am an and
+Venky Harinarayan are working to develop
+and launch "Kosmix "a new search engine they
+hope will compete with Google. The co
+founders claim that their product, which ap
+plies a new kind of technology that allows users
+to define categories for their search to narrow
+down results, is an improvement upon Google,
+which presents results based on the popularity
+of Web sites.
+Computer Science Prof. Gio Wiederhold
+said that the creation of a categorically-based
+search engine is no easy task.
+"Categorization narrows the search indeed."
+he said. "But since the Web is not pre-catego
+rized, much processing is needed to determine
+the context of a Web page and then categorize it
+as well as possible."
+Wiederhold added that the logistics of select
+ing a search category may lead to variations in
+search results.
+"People use very different categorizations"
+he said. "And one person's category — say or
+ganizing cars by their maximum speed — does
+little for another person, who goes by style. And
+within style there'd be many different views. The
+search engine must avoid imposing its catego
+rization on the users-if it does it will look like a
+bureaucracy."
+Computer Science Prof. Bill Dally said that
+the new search engine would be easy to get on
+line, but its popularity is, in some respects, out of
+the co-founders' hands.
+"Launching a new search engine can be done
+very quickly" he said. "If they have access to a
+server and very high-bandwidth Internet access,
+they should be able to offer the service in a few
+weeks — assuming that their development is al
+ready done. Whether it catches on and how long
+it takes if it does is anyone's guess. It's hard to
+predict how users will react to a new offering."
+Students interested in working on their own
+search engines can find plenty of classes at Stan
+ford to prepare them for the task.
+" There are many CS classes that deal with as
+pects of search, databases and Internet tech
+nologies" Dally said. "Our algorithms classes
+cover the fundamentals on which all search en
+gines are based, and our database classes cover
+more detailed techniques for indexing and
+searching data."
+Wiederhold reminded ambitious students
+that attending these classes does not guarantee
+the creation of a successful search engine.
+"The classes can only give the background."
+he said. "It is up to inventors to try to apply the
+theory to the messy real world."
+Wiederhold also warned that it is impractical
+to imagine courses specifically designed to im
+prove Internet searches.
+"Before you'd have the curriculum organ
+ized it would be obsolete." he said. "None of the
+references I collected in earlier years for my
+CS73 seminar are relevant anymore. There
+might be a place for a book, if it doesn't exist yet:
+'Web Searching for Dummies,' but that should

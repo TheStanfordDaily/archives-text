@@ -1,0 +1,138 @@
+# SCIENCE
+## ONCOCIN : doctors' new colleague takes no coffee breaks 
+### ALEX TARG 
+A new kind of doctor has been making the
+rounds of Stanford Hospital's cancer unit
+lately. The doctor works as a consultant and
+is sought after at all hours of day and night
+for decades of medical experience, infallible
+memory, and encyclopedic knowledge of
+diseases, symptoms and treatments. This
+prodigy is named ONCOCIN and the doctor
+is a computer.
+ONCOCIN is an experimental computer
+system which helps watch over thirty pa
+tients suffering from Hodgkin's Disease and
+Non-Hodgkin's Lymphoma. Medical doc
+tors feed ONCOCIN reports on a patient's
+progress, and it analyzes the new data to
+determine what the next step in treatment
+should be. It then draws on its memory and
+322 logical rules of diagnoses to generate a
+print-out describing an optimal treatment
+program based on the patient's updated
+status.
+This type of analysis is difficult for a person
+to carry out without the aid of ONCOCIN
+because the efficiency of treatment relies
+upon subtle changes in chemotherapy and
+x-ray exposure which are designed to kill
+cancers while minimizing ill effects to the
+healthy portions of the patient's body.
+Treatments cannot be thoroughly worked
+out ahead of time. Future drug and radiation
+dosages should be derived from past reac
+
+tions to therapy and are not governed by
+hard and fast rules.
+Busy physicians in a ward typically use
+many different complex patient treatment
+programs, known as protocols. Each pro
+tocol is over 50 pages long and the details of
+an individual patient's case can easily be for
+gotten. ONCOCIN not only suggests treat
+ments but is also capable of explaining its
+reasoning step by step when asked.
+ONCOCIN is a product of the Stanford
+University Medical Experimental
+Computer-Artificial Intelligence in Medicine
+(SUMEX-AIM) facility located at the Medical
+School. Two huge interlocking computer
+systems, one at Rutgers University and the
+other nestled beneath the Medical School
+are the primary workhorses of the facility.
+The SUMEX-AIM research program runs on
+an annual budget of over 1.5 million dollars,
+according to project director Dr. Edward Pat
+terman.
+According to Patterman, "SUMEX is the
+only center of its kind in the world and virtu
+ally all major advances in the field of com
+puter assisted diagnoses have been made
+here."
+The SUMEX programs are called "expert
+systems." The name is derived from the pro
+grams,' use of rules gleaned directly from
+studies of professional experts' thought
+
+processes and tactics used in solving prob
+lems, said Patterman.
+The facility got its start in 1974 under
+loshua Lederberg and has been expanding
+ever since in response to the growing need
+for computers in medicine. Patterman ex
+plains this trend as a symptom of "the
+amount of information practicing physicians
+need to confront each day is so large that
+computers are needed to analyze and access
+it. We get about six calls each day from
+M.D.'s around the world seeking aid from
+the SUMEX facility. There is a great deal of
+information out there which needs to be put
+together and made sense of."
+
+Miriam Bischott, chief programmer of the
+ONCOCIN project describes the program as
+focusing on human engineering, a special
+effort to make the programs easy to use. This
+is accomplished partly by having ONCOCIN
+display facsimiles of the data forms which
+therapists filled out before ONCOCIN was
+developed. Because of this feature,
+therapists still enter data in a familiar man
+ner.
+According to Bischoff, one of the great
+advantages that ONCOCIN has over older
+computer programs of a 'book keeping'
+variety which act as electronic libraries or
+passive storehouses of information is that it
+
+can create solutions to therapeutic prob
+lems even when insufficient data is given to
+rigorously justify them. It does this through
+educated guesswork, in the same way that a
+good physician might.
+According to Dr. Edward Shortliffe who
+holds both a Ph.D. in mecial information
+sciences and an M.D. from Stanford, SUMEX
+programs work with "uncertainty factors."
+These factors yield recommendations to
+physicians that avoid simplistic black-and
+white terms in favor of various shades of
+gray. The programs are designed to take into
+account all available evidence that might
+either buttress or cast doubt upon the valid
+ity of a given medical hypothesis.
+The physician can question the computer
+as to exactly how and why it weighted the
+evidence as it did to reach its conclusions.
+When a patient's well-being hinges on a cor
+rect diagnoses, such explanatory features
+make the program a more valuable tool be
+cause the physician can be certain that the
+diagnosis is a reasonable one and not a re
+sult of any "bugs" in the computer program.
+Patterman said that physician response to
+the system has been good, and since it was
+designed as a flexible tool, it is easy to
+change and improve it in the future. How
+ever, Dr. ONCOCIN still has yet to develop a
+taste for golf.
+
+
+'ONCOCIN not only
+suggests treatments,
+but is also capable of
+explaining its reason
+ing step by step when
+asked. . /

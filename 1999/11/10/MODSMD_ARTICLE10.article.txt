@@ -1,0 +1,100 @@
+# Panel of experts discusses security
+## 
+### Amy Christeson 
+What is the government's role in
+computer surveillance? Do people
+have the right to a private conversa
+tion or can the government access
+any information it wants?
+These questions and more were
+addressed in a two-hour panel dis
+cussion sponsored by the Law
+School's Program in Law, Science
+and Technology, the Computer Sci
+ence Department and the Associa
+tion for Computing Machinery last
+night.
+The sponsors hoped to publicize
+the implications that the Federal In
+trusion Detection Network (FID-
+Net) would have. FIDNet is part of
+an executive order issued by Presi
+dent Clinton earlier this year. It is a
+set of "new technology tools, capa
+bilities or legal authorities" designed
+to "prosecute violations of the law."
+
+Scott Charney, Whitfield Diffie
+and Marc Rotenburg debated while
+John Markoff moderated the event
+held in Kresge auditorium. Markoff,
+a West Coast correspondent for The
+New York Times, began the discus
+sion by saying that "we are encom
+passed in an emerging global net
+work." This leads, he said, to "new
+challenges for law enforcement and
+new threats to civil liberties."
+One of these issues is the method
+that the government should use to
+protect information. "The U.S. gov
+ernment and NASA get hacked all
+of the time," Charney said.
+I le cited a figure that government
+information is illegally accessed
+more than 2(X),(KH) times a year and
+feels "it is irresponsible for the gov
+ernment to not protect its informa
+tion."
+Charney, who used to work for
+the Department of Justice as the
+
+Chief of the Computer Crime and
+Intellectual Property Section, feels
+that "the broad increase in use of
+networks leaves trails wherever we
+go." He feels that the use of packet
+sniffers, which trail hackers and cre
+ate profiles, can be very helpful in
+stopping intrusions. I le sees FIDNet
+as a useful tool. Diffie, on the other
+hand, feels that the debate between
+passive versus "counterattack" mea
+sures is fundamental to solving the
+challenges.
+The panelists also discussed how
+appropriate FIDNet is in solving the
+new challenges. Diffie, developer of
+public key cryptography, which is
+the basis of modern electronic com
+merce, sees FIDNet as "yet another
+disagreement in a large framework
+of disagreement." Diffie feels that
+"this argument is going to go on for
+quite awhile, and I am hoping to
+drag it out at least until I retire."
+
+Rotenburg paralleled tracking
+computer use to detect any unusual
+acts to the use of phone taps. Phone
+taps, though, are heavily regulated,
+and Diffie thinks that "broad-spread
+indiscriminate searches" are a
+threat. Rotenburg said the funda
+mental question is "why is it a pro
+ject for the National Security Coun
+cil when citizens try to access non
+military information?"
+Rotenburg testifies before Con
+gress on issues including encryption
+policy, computer security and com
+munications privacy. He is the Di
+rector of the Electronic Privacy In
+formation Center in Washington,
+DC.
+Securing federal networks and
+protecting intelligence brings up
+civil liberty questions "not on the
+need for protection, but the scope of
+authority and types of checks and ac
+countability," Rotenburg said.

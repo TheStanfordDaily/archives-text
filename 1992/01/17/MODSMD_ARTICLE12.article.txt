@@ -1,0 +1,103 @@
+# Read my lips: No typing required
+## 
+### Craig Kersemeier 
+A Stanford professor hopes
+that his research into a new way
+of making computers understand
+speech may make typing a thing
+of the past.
+David Stork, a consulting asso
+ciate professor in electrical engi
+neering, is working to combine
+visual cues with sound to improve
+computers' speech recognition.
+Current speech-recognition
+systems use only acoustic input.
+Sounds such as the "n" in knee
+and the "m" in me have similar
+acoustic patterns and create prob
+lems for computers. People differ
+entiate such sounds by watching
+how the speaker shapes them.
+For example, the mouth com
+pletely closes while making the
+"m" sound, but remains open
+while forming the "n" sound.
+So Stork, also a senior research
+scientist at Ricoh California
+Research Center in Menlo Park,
+and electrical engineering gradu
+ate students Greg Wolf and Earl
+Levine, hope to make a computer
+simulate the human process of
+recognition.
+"Systems that recognize only
+acoustic input seem to have
+'peaked' at around 80 percent
+accuracy," Stork said. "While con
+
+tinued work on improving these
+systems could squeeze a little
+more accuracy out of them, by
+adding another source of input we
+open up a whole new area of
+improvement."
+In Stork's lip-reading system,
+fluorescent dots strategically
+placed on the lips and chin enable
+a computer to "see" a person's
+facial movements through a cam
+era.
+Stork said he believes this type
+of lip-reading system would be
+especially useful for pilots,
+enabling them to make verbal
+commands while their hands are
+occupied.
+It could also be helpful in high
+noise environments, such as fac
+tories, where speech can be
+drowned out by background
+sounds.
+Another advantage of Stork's
+system would be that it does not
+have to be configured for each
+user. Systems that can only hear
+must be trained to recognize each
+user's voice patterns, often an
+expensive process.
+But the facial movements used
+to create sound vary among dif
+ferent people less than the sound
+patterns themselves. As a result,
+a computer that can "see" and
+recognize visual patterns of
+
+As a result, a com
+puter that can 'see'
+and recognize visual
+patterns of speech
+could theoretically
+understand any
+speaker without indi
+vidualized training.
+
+speech could theoretically under
+stand any speaker without indi
+vidualized training, Stork said.
+Stork hopes to increase the
+system's vocabulary during the
+next few years. He also plans to
+dispense with the fluorescent
+dots; instead, the computer will
+be able to recognize the actual
+shapes of the mouth.
+His dream is that an improved
+speech-recognition system will
+become part of a larger artificial
+intelligence system, like that of
+HAL in the movie "2001: A Space
+Odyssey."
+"If anyone wants to make a
+HAL, they'll have to use lip read
+ing," he said.

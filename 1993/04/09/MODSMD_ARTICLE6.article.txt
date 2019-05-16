@@ -1,0 +1,55 @@
+# Prying eyes? Private e-mail messages are accessible to network administrators
+## 
+### Ajai Chari Staff writer 
+If telephone operators were able to listen
+in and record every phone conversation
+that went through their switchboards,
+most people would probably feel their pri
+vacy was being violated.
+In a similar way though, that is how the
+University's electronic mail system works:
+every message that remains on the network
+for more than 24 hours is recorded and
+then stored for a year, and network admin
+istrators have easy access to these mes
+sages.
+But work has started on implementing
+new systems that will resolve many privacy
+problems, according to Dennis Michael, the
+system administrator for the University's
+e-mail network.
+Three new systems are in development,
+he said, to address three major security
+problems: the issue of backups, administra
+tors' access and password cracking.
+Necessary backups
+The University's e-mail system is de
+signed to make a backup and store mes
+sages for a year — even those that are later
+deleted — that have been on the network
+for more than 24 hours, Michael said.
+It is a necessity, Michael said, because of
+the system's computer format. Occasional
+ly, the data on one or two of the hard disks
+that run the e-mail network are lost each
+year due to events such as power shortages,
+fires and disk failures caused by mechanical
+aging.
+Michael said no exceptions could be
+made for individuals who do not want back
+ups made, because it would be too compli
+cated to ask each one of the 17,000 users if
+
+he or she wanted a backup. Everything is
+automatically copied, regardless of the in
+formation and user, he said.
+Theoretically, he said, someone could
+gain access to e-mail files by going to the
+Center for Educational Research at Stan
+ford, where the backups are stored.
+However, he emphasized that the files
+are very secure — only the system adminis
+trators, the fire department and the police
+department have the authority to access
+the equipment.
+And this summer, he added, a new sys-

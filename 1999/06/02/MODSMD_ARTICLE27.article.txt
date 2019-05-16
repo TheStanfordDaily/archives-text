@@ -1,0 +1,63 @@
+# New print system designed eases computer use for PCs
+## 
+### Kimberly Downs Staff writer 
+• Last week saw the release of a new PC printing ac
+count system from Residential Computing. Available for
+printing to residential laser printers, the new system sig
+nificantly improves printing support for Windows users
+;|nd provides a foundation for future improvements to
+Residential computing services.
+Prior to this new software printing from a Windows PC'
+Required two steps. A person would first have to print
+their document from within the Windows operating sys
+tem. They would then have to log into a web page where
+ihev could release their print job to the printer and au
+thorize that their Stanford Card Plan be charged for it.
+"The new process is better because to streamlines this
+process." said Brad Andrews, assistant director of soft
+ware development at Residential Computing.
+Under the new system, a small print utility, called
+PDnotifv. runs on P(' users'computers and waits for them
+to print a document. Once a printer receives a job from
+their printer, the printer talks to the computer directly
+through PDnotify.
+This direct communication allows for the authentica
+tion of the person's identity to be automatically done
+through PC 'Leland, which eliminates step one.
+Authorization of the charge to PC users Stanford ( ard
+Plan account is handled by PDnotify in the form of a box
+that pops up and asks users if they are sure they want to
+print and charge their account.
+This eliminates the time-consuming process in step
+
+two of logging into a Web page and releasing the print job
+each time the person wants to print. It also obviates the
+importance of logging into and out of PCLeland each
+time a person uses a Windows P('
+Marc Reyhner, a senior and RC'(' in Soto, said the new
+printing system is "a definite improvement over the old
+system," and that he wishes it had been available to him
+when he was a freshman.
+PDnotify for the Mac. which w ill replace MacAuthen
+ticator, is currently under testing and will be ready for the
+residence clusters and incoming students by the end o! the
+summer.
+Andrews noted that MacAuthenticator is not current
+ly below par with respect to PDnotify and will be re
+placed. because it does not use MacLeland for identity au
+thentication.
+The new printing system is the culmination of Resi
+dential Computing's long-standing desire to provide stu
+dents with a simple and powerful networked printing sys
+tem.
+The main objectives of the system were to bring to
+campus the ease of use for Windows PC' networked print
+ing that lias existed for years with Man networked print
+ing and to link the printing system with the PC/ MacLe
+land campus security infrastructure.
+()nce PDnotify for the Mac is finished, there will be a
+standard printing scheme across campus for all Mac and
+Windows PC users. In the future ResComp hopes to
+adapt the system for greater campus wide use, including
+the ability of campus guests to charge printing services to
+a credit card or other alternative method of payment.

@@ -1,0 +1,178 @@
+# FEATURES
+## PROFILE Boahen's brainchild 
+### MADELINE SIDES 
+When was the last time
+your smartphone
+outsmarted you?
+Did it scan a barcode
+on a billboard, re
+mind you to do your laundry or rec
+ognize a new song on the radio? Re
+cent advances in technology make
+it seem like our computers and
+phones could quickly surpass our
+brains' computing power, if they
+haven't already. But Kwabena Boa
+hen, associate professor of bioengi
+neering, would quickly argue that
+there are faults in that belief.
+Boahen is the leader of the Neu
+rogrid project in neuromorphic en
+gineering at Stanford, where re
+searchers are working to create a
+computer system that works more
+like the human brain efficiently
+and with energy consciousness.
+"There is a certain elegance that
+I see in the brain that I want to be
+able to capture," Boahen said.
+A human brain generates infor
+mation traffic 1,000 times greater
+than the global Internet, yet it is
+able to operate on 10 watts of
+power. Current computers would
+require about 10 megawatts of en
+ergy to compute like our brains do,
+according to Boahen.
+"Right now, when we model the
+brain with a computer it is very inef
+ficient, and it takes a supercomput
+er to carry out the computations,"
+Boahen said. "With Neurogrid, we
+are not trying to build a new kind of
+supercomputer. We are creating a
+machine that solves just one kind of
+problem."
+That problem is how to efficient
+ly model and study the human
+brain.
+
+Neurogrid is a collection of sili
+con chips with transistors that di
+rectly simulate the electrical cur
+rent flowing across a neuron's
+membrane in the brain. The transis
+tors are connected, modeling neu
+ron interactions and networks. The
+hardware is coupled with three lay
+ers of software, allowing re
+searchers to model different cells in
+
+the brain and their electrical activi
+ty. Just 16 small chips assembled on
+a board can simulate 1 million neu
+rons.
+
+Boahen has been working at
+Stanford since 2006, but his interest
+in the intersection of computing
+and neuroscience came from influ
+ences far earlier in his life.
+
+"I was one of those guys who was
+always hacking stuff as a kid," Boa
+hen said. "I got my first computer
+when I was a teenager, more like a
+glorified calculator really. But I did
+n't want to take it apart, it was in
+timidating."
+He turned to the library to figure
+out how computers work and came
+to realize that they were actually
+quite inefficient.
+"I thought it was so ridiculous:
+you start with ones and zeros and
+you have to constantly go fetch
+things from the memory," Boahen
+said. "So I thought there had to be a
+better way than all of that, but at the
+time I didn't really know much
+about how the brain worked."
+When Boahen was an under
+graduate in electrical engineering
+at Johns Hopkins University, the
+scientific world was interested in
+neural networks, or how neurons in
+the brain interact and communicate
+signals. He found this area of neuro
+science intriguing, and this interest
+stayed with him through his studies
+at the California Institute of Tech
+nology and work at the University
+of Pennsylvania to his position at
+Stanford. He considers the devel
+opment and implementation of
+neuromorphic technologies to be
+his true professional calling and
+plans to dedicate his career to the
+field.
+
+Boahen and his team recently
+received a Transformative Re
+search Project award from the Na
+tional Institutes of Health to re
+search potential applications for
+Neurogrid technologies. He be
+lieves that neuromorphic engineer
+ing could be useful in the healthcare
+field, namely for improving the use
+
+of artificial limbs. Boahen cited the
+many survivors of foreign wars who
+return home with serious injuries or
+lost limbs as potential beneficiaries
+of this technology.
+With this grant, Boahen and his
+team will work during the next five
+years to develop a chip that receives
+signals from the human brain and
+transmits them to wirelessly control
+a robotic prosthetic limb. The com
+putation required for these tasks is
+complex, and for such a chip to be
+implanted into a patient's brain, it
+must have extensive computing ca
+pabilities in a small, energy-effi
+cient package. This is where Neuro
+grid technology comes into play
+Boahen's theoretical developments
+in neuromorphic devices would
+allow patients to live more inde
+pendently, giving them high-pow
+ered technology in the most effi
+cient form possible.
+Boahen's research is inspira
+tional to many at Stanford, and the
+potential applications of his work
+touch many disciplines.
+"[The lab's work is] paving the
+way for novel computation models
+that might help us overcome the
+memory bandwidth limitation
+faced today in general purpose
+computing," said second-year elec
+trical engineering master's student
+Swadesh Choudhary, who works in
+Boahen's lab.
+
+"He strives for perfection in
+everything he does and motivates
+his students to do the same,"
+Choudhary added.
+While his list of accomplish
+ments is long even early in his ca
+reer and the implications of his re
+search are potentially life changing
+for many, Boahen remains ground
+ed in the spirit of pure scientific in
+quiry.
+"Me, I'm just curious, I like the
+intellectual challenge," he said.
+"Figuring out how stuff works ...
+that's satisfying."
+
+Contact Madeline Sides at msides@
+stanford.edu.
+
+
+Courtesy of Kwabena Boahen

@@ -1,0 +1,29 @@
+# NEWS BRIEFS
+## Stanford co-develops autonomous underwater robot software 
+### DAILY NEWS STAFF — Aaron Sekhri 
+Stanford and Monterey Bay Aquarium Research
+Institute (MBARI) engineers have created a new way
+for autonomous underwater vehicles (AUVs) to take
+photographs deep below the surface of the ocean.
+New software developed by Sarah Houts, a doctor
+al candidate in aerospace robotics, allows AUVs shaped
+like large torpedoes to navigate ravines, canyons and
+other difficult underwater routes autonomously. Before
+the implementation of the new software, the AUV had
+to be operated by a human researcher remotely steer
+ing it from a ship.
+Houts' biggest challenge was devising a system for
+the AUV to be able to anticipate possible obstacles and
+avoid them safely. Using data about the AUV's altitude,
+speed and direction at any given moment allowed her
+to bypass this problem.
+Engineers from Stanford and MBARI tested the
+software by sending an AUV over a underwater cliff in
+Monterey Bay. Another test is scheduled for early next
+month.
+AUVs are used to take photographs the ocean floor
+to monitor the state of sea beds, which often have a sig
+nificant impact on the research of climate scientists and
+marine biologists.
+Houts' next challenge is to prepare an AUV that can
+take iceberg samples, which is made additionally com-

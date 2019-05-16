@@ -1,0 +1,69 @@
+# 'Happy 99 EXE' worms its way onto campus
+## 
+### Jane Morril Contributing writer 
+A new computer worm known as "Happy99EXE"
+is assaulting computers at Stanford, the campus com
+puter security office announced last month.
+Each time an e-mail is sent from an infected com
+puter, the worm sends an additional message as an at
+tachment. The attachment contains a copy of the
+worm without the user's knowledge. The problem was
+first reported to the computer office on February 19.
+"Happy99EXE" is a worm, not a virus, which dis
+tinguishes the area of the computer it infects. Unlike
+viruses, worms do not infect programs or files but
+rather penetrate the computer's memory from a com
+puter network and attach themselves to files sent with
+in the network.
+"A virus needs a host to live, for example an oper
+ating system," said Stephen Hansen, director of the
+campus computer security office. "A worm sits around
+and waits for you to send an e-mail. It is different from
+a virus because it does not replicate itself."
+The worm attaches itself to e-mails, appearing as a
+file named "Happy99EXE" in the e-mail or as a sepa
+rate attachment. It is disguised under a program enti
+tled "Happy New Year 1999," which shows a firework
+display when executed.
+The worm infects only Windows 95 and 98, and will
+not affect Macintoshes if sent to them.
+"Happy99EXE" was first posted on the Internet in
+several newsgroups, and then some users began to
+transmit it via e-mail. Infected computers can send the
+
+worm
+to others when
+4 1 •*!
+
+the worm either at
+
+taches itself to an e-mail
+
+sent by the user or infiltrates the users ad
+
+dress book and sends itself to these recipients on its
+own.
+In order to avoid this and other worms or viruses,
+the computer security office advises users to open only
+files they requested. Those who receive an unrequest
+ed attachment should verify its authenticity and scan it
+for viruses before opening it. If the file is not verified,
+it should be trashed immediately.
+"In any of these cases, whether we are dealing with
+worms or viruses, there is a problem that will continue
+to grow as long as people click on files without verify
+ing where they came from," Hansen said.
+An even newer virus was reported Monday to com
+puter security. Hansen said this virus is believed to
+have originated in Bulgaria.
+"T his one claims to have some pictures attached to
+it, but when you click on the attachment it says 'in
+valid,' " Hansen said. "In actuality, the program is in
+stalling itself and giving this message. Computer users
+must be extra cautious, as this virus is too new to be de
+tected in a virus check."
+Users should contact the campus computer securi
+ty office to report any possible viruses they receive. In
+the case of "Happv99EXE," they should also notify
+the person who sent the worm through e-mail.
+

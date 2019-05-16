@@ -1,0 +1,47 @@
+# RESEARCH
+## Online tracking report prompts scrutiny of online advertising industry's promises 
+### KRISTIAN DAVIS BAILEY 
+Two recent reports from Stanford Security Lab
+(SSL) researchers have fueled an ongoing debate over
+privacy issues in the largely self-regulated online adver
+tising industry.
+
+The findings, released June 12 and June 19, respec
+tively stated that some online advertising companies
+contradict their privacy policies after consumers choose
+to "opt-out" of tracking and that Epic Marketplace, an
+other online advertising firm, was "history stealing"
+from users. All the agencies involved participate in the
+Network Advertising Initiative, a cooperative of online
+advertisers that has self-regulated the industry since
+1999.
+
+"[One] reason I think self-regulation is falling apart
+is that we identified eight companies with privacy poli
+cies that might be interpreted to be in conflict with their
+current business practices," said Jonathan Mayer, a sec
+ond-year graduate student in computer science and law,
+who is on the SSL research team and authored the two
+reports. "It's important to note that these are privacy
+
+representations that the companies chose to make
+themselves beyond what NAI requires."
+Epic Marketplace did not respond to requests for
+comment but decried the bias of the term "history steal
+ing" in a blog post, writing, "this type of data collection
+occurs in virtually every web transaction."
+According to Mayer's report, Epic Marketplace uses
+a number of quick and complex algorithms that deter
+mine whether users have visited specific sites, like
+Groupon and Starbucks. It even searches for specific
+history, like viewing pages about pregnancy and fertili
+ty at the Mayo Clinic or bad credit and debt relief at the
+Federal Trade Commission (FTC).
+NIA, which also did not respond to requests for com
+ment, requires its members to stop delivering ads target
+ed to the consumer based on his browsing patterns when
+he opts out; it does not require them to cease "third
+party tracking," which involves collecting information
+like the quantitative effectiveness of the ad or whether
+agencies delivered the number of ads their clients
+

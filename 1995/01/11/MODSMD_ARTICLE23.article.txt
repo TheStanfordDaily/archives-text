@@ -1,0 +1,215 @@
+# Science
+## 'Seeing' invisible objects Photons detect matter in the 'dark' 
+### Julie Sauer Editorial staff 
+Instead of relying on their senses
+to gather information about the
+physical world, scientists at Stan
+ford and the University of Inns
+bruck are using a single photon for
+interaction-free measurement.
+These measurements use quan
+tum mechanical properties of a pho
+ton to detect an object without ever
+'seeing" the object.
+The experiments ensure that
+there is a single photon in the mea
+suring apparatus by directing a
+high-energy ultraviolet laser
+through a special crystal that con
+verts the single ultraviolet photon
+into two identical photons that have
+lower energy.
+"For every photon in you get two
+photons out that are carbon copies
+of each other," said Mark Kasevich,
+assistant professor of physics at
+Stanford.
+After the conversion of the high
+energy photon into the two lower
+energy photons, a photon detector
+'clicks', thereby signaling the pres
+ence of a photon in the apparatus.
+Kasevich and his colleagues at
+University of Innsbruck have
+increased the efficiency of interac
+tion-free measurement over that of
+previously existing methods.
+Avshalom Elitzur and Lev Vaid
+man of Tel Aviv University devel
+oped the first method of object
+detection using a device called a
+Mach-Zehnder interferometer. The
+interferometer uses a beam-splitter
+—like a half-silvered mirror— to
+divide a photon into two different
+pathways.
+The sets of waves can interfere
+constructively and emerge at detec
+tor one or interfere destructively at
+detector two.
+"In keeping with the traditional
+interpretation of quantum mechan
+ics, the photon bounces off" the mir
+
+ror and hits the beam-splitter. The
+same photon is in two places at once,
+with a 50 percent probability of find
+ing it in each arm," Kasevich said.
+"We hope that quantum mechanics
+allows us to recover the wave inter
+ference pattern, and it does," he
+added.
+With no object present in the
+interferometer, the photon always
+emerges at the first detector where
+constructive interference occurs.
+However, with an object present
+there are three possible outcomes of
+the experiment. Half of the time the
+photon will hit the object and be
+absorbed by it, thereby detecting the
+object by interacting with it.
+Twenty-five percent of the out
+comes will show the photon arriving
+at detector two, proving that the
+object is present in this arm of the
+interferometer. The object must be
+present to disturb the destructive
+interference that would otherwise
+prevent the photon from emerging
+at the second detector.
+The third outcome — that the
+photon hits detector one— also
+occurs with probability of 25 per
+cent. This is the usually expected
+outcome if there were no object pre
+sent, and it provides no information
+on whether the object is present or
+absent from the second arm of the
+apparatus.
+The overall efficiency of this
+Elitzer-Vaidman method is only
+about 33 percent, and interaction
+free measurement is only successful
+25 percent of the time.
+"It's a nice thought experiment,
+because it highlights the possibility
+of making a detection without ever
+interacting with something . . .
+that's what experiments like this
+are designed to highlight. It's a
+bizarre aspect of quantum mechan
+ics, one of the fundamental aspects
+of it," Kasevich explained. "Now the
+question is can you make the effi
+ciency equal one. That's what our
+
+work was," he added.
+The Innsbruck-Stanford group's
+first experiment included a configu
+ration of two mirrors, one on either
+side of a beam-splitter mirror. The
+beam splitter reflects 99.99 percent
+of incident light (photons) and
+transmits only .01 percent.
+The researchers introduced a
+photon into the first compartment
+of the measuring apparatus. Each
+time the photon hits the beam-split
+ting mirror, a small amount of the
+photon's path interferes construc
+tively with the photon already in the
+second compartment.
+This is the same quantum
+mechanical property that allows the
+photon to be in two places at once in
+the Elitzer-Vaidman experiment.
+When the Stanford-Innsbruck
+researchers placed an object in the
+first compartment, however, the
+photon was absorbed and construc
+tive interference failed. As a result,
+there is nearly zero chance for the
+photon to be transmitted into com
+partment two.
+"The key thing here is the con
+structive interference," Kasevich
+said. If there is no object, you have a
+resonance effect where the little bit
+of probability transmitted by the
+beam-splitter interferes construc
+tively with the photon already in the
+second compartment, he said.
+"When the [object] is present,"
+he continued, "there is no construc
+tive interference." The photon is
+absorbed by the object and there is
+no chance for it to occur in the sec
+ond compartment.
+In addition to thus method, Kase
+vich and his colleagues are also test
+ing a second method of interaction
+free measurement that involves
+polarizing photons.
+Photons can be polarized by
+passing them through a series of
+plates positioned at a specific angle
+that ensures that light is almost
+completely transmitted through the
+
+plates. However, each plate deflects
+a small amount of the incident light
+that is not correctly polarized to
+pass through the plates.
+A sequence of the plates effec
+tively reflects light of the wrong
+polarization, so when the photon
+emerges it has a different orienta
+tion than it had before entering the
+stack of plates.
+Researchers use a series of polar
+ization-sensitive plates that rotate
+the plane of photon polarization.
+After passing through a series of
+these plates, the photon is rotated
+by 90 degrees — from vertical to
+horizontal — and the horizontal
+
+beam emerges at the first detector.
+This method requires photons
+that are originally polarized vertical
+ly. The photon is rotated, passes
+through a beam-splitter, and then is
+recombined.
+"You can put the light and the
+photon back together so it is at
+exactly the same polarization state,"
+Kasevich said. However, when an
+object is inserUn:! in the apparatus,
+the polarized photon can no longer
+rotate back to its original position.
+As a result, the photon emerges
+at a different detector. This indi
+cates the presence of the object
+without ever 'looking' at it.
+
+The team's work is purely theo
+retical. "I wouldn't speculate on
+applications," Kasevich advised.
+"The importance of our work is that
+it sharpens our understanding of
+basic quantum mechanics."
+Interaction-free measurement
+"runs completely counter to any
+thing we have in our classical
+physics experiments," Kasevich
+added. "If you want to detect some
+thing [in classical experiments], you
+look at it. By the nature of looking at
+it, you're interacting with it."
+Kasevich and his group have sub
+mitted a paper on the subject of
+their research for publication.
+
+
+Andrew Martinez-Fonts —Daily

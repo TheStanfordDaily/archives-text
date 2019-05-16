@@ -1,0 +1,90 @@
+# Features
+## Computer viruses imperil the health of American industry 
+### Jock Friedly Staff writer 
+A computer panic sweeping the country in
+recent months hit the Stanford campus last
+week, and students and administrators alike
+are worried.
+Computer viruses, small programs that act
+much like human viruses, have infected many
+thousands of computers around the country,
+in companies, laboratories, universities and
+homes.
+The viruses that have been discovered vary
+in design and consequence, but according to
+one lecturer in computer science, Steve Fisher,
+"a virus can do almost anything." And he
+adds, viruses potentially pose a "very serious"
+problem to the nation.
+"To imagine that there's some sanctity to
+the distribution of software is . .. ridiculous,"
+said Chuck Cole, deputy computer security
+manager of nearby Lawrence Livermore Na
+tional Laboratory
+Dozens of viruses have been made, some
+harmless such as the strain contaminating
+computers around the Stanford campus.
+Others can sit like time bombs in the com
+puter, waiting for the right moment to erase
+important files.
+The virus that infiltrated Stanford was first
+found last week in the Tresidder Union Mac
+intosh II cluster, which is used mostly by
+students in the lower division computer sci
+ence classes.
+The virus, named nVIR, has three known
+strains. One of these randomly deletes files
+
+from infected disks. The particular strain
+found in over a dozen computers at Tresidder,
+however, is not thought to be harmful, ac
+cording to campus computer specialist Lance
+Nakata.
+Nakata, who discovered the problem last
+week after he received a tip via electronic
+mail, detroyed nVIR by using an anti-virus
+program called a "vaccine," an analogue to
+protection against human viruses.
+Before he cured Tresidder of the virus, it
+had already infected an untold number of
+students' disks and had subsequently spread
+through some of Meyer's new Macintosh II
+computers. An unsuspecting student probably
+carried a contaminated disk from Tresidder
+to Meyer, extending the contagion, Nakata
+
+said.
+Stanford is not the only university feeling
+the wrath of viruses. George Washington Uni
+versity was hit by an epidemic of the IBM
+virus called "Brain."
+According to a computer specialist at George
+Washington University, the particular Brain
+strain that hit the campus was not written
+to cause harm. Nonetheless, any virus poses
+danger by its very nature as a contagious
+disease, he addei.
+Self-replication is the primary function of
+any virus, and translated into effect, this
+means a virus can write over some pre-existing
+data in order to make room for itself. Often
+the virus erases crucial information, regard
+less of its benign intentions.
+The Brain virus spread like wildfire, infect
+ing an estimated 100,000 disks across the
+country, according to Time magazine.
+The Brain virus was created by two Pakis
+tani brothers who own a computer software
+business that sells pirated software. Ironically,
+they decided to to punish their own customers
+— many of whom were Americans — for
+buying illegal software they themselves sold.
+In an eerie reminder of the dangers of
+viruses, they had hidden the words "WEL
+COME TO THE DUNGEON" in the code of
+the virus. The address and names of the au
+thors also appear in the message so that people
+who have uncovered the infectious program
+can send away for the antidote.
+Although the particular nVIR strain that
+

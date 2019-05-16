@@ -1,0 +1,65 @@
+# RESEARCH
+## Universities team for open-source Robot Operating System 
+### ANN TYLER MOSES 
+Two years ago, computer science graduate
+student Morgan Quigley had an idea: an open
+source programming framework for robots
+that would improve collaboration between
+researchers. Now, his Robot Operating System
+(ROS) has caught the attention of universities
+and research groups worldwide.
+Menlo Park-based research group Willow
+Garage has taken the lead on the project, while
+teams from universities such as Carnegie
+Mellon, USC, MIT and the Technical University
+of Munich are also developing ROS.
+ROS allows robotics developers to unify the
+
+functions of a single robot and easily share and
+build upon fellow researchers' innovations.
+The idea first occurred to Quigley in 2007,
+when he served as a teaching assistant for a
+class in which students wrote programs in hopes
+of combining them at the end of the course.
+"It was hard to do that without some sort of
+framework or overall architecture," he said.
+"Someone could write a program that does
+object recognition and someone could write a
+code to pick up the object, but unless [the pro
+grammers] have actually thought about the
+architecture, those two programs can't talk to
+each other very easily."
+According to Quigley's advisor, computer
+
+science Prof. Andrew Ng, ROS allows for "a
+deeper level of integration of software from
+traditionally separate areas."
+For example, a robot currently employed in
+the Stanford Artificial Intelligence Lab was
+equipped to find and retrieve a stapler. This
+simple task required, among many other appli
+cations, computational vision (to find the sta
+pler) and robotic manipulation (to grasp it)
+two strategies developed in isolation from each
+other.
+Before ROS, these two functions would
+have worked in opposition or at best alongside
+each other; with ROS, the process of picking up
+the stapler gives the robot a better sense of its
+
+visual location and vice versa each maneu
+ver aids the function of the other.
+In addition, ROS allows multiple teams to
+work simultaneously on one robot coopera
+tion that was previously difficult in the robotics
+world due to the lack of a common platform.
+Now, roboticists can use ROS to share and
+reuse programs, and thus devote all of their
+energy to innovation.
+"The grand goal of the whole enterprise is
+to be able to integrate all these various sub
+fields of artificial intelligence into one working
+platform, so one physical robot can run the
+
+
+BECCA DEL MONTE/The Stanford Daily

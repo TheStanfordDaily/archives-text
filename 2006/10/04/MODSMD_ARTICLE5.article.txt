@@ -1,0 +1,30 @@
+# TECHNOLOGY
+## Spam deletion causes problems with Webmail 
+### RAHUL KANAKIA STAFF WRITER 
+Information Technology Systems and Services (ITSS) began
+deleting spam-tagged messages rather than delivering them
+yesterday afternoon to counteract problems with Webmail
+caused by a mysterious spike in message volume, a move that
+left some students wary.
+The spam deletion program, which was scheduled to start
+later this year, only deletes messages coded [SPAM:#####]. Ac
+cording to Nancy Ware, ITSS project manager, the number of
+"#"s in the message tag is directly proportional to how confi
+dent the software is that the message is actually spam.
+"TTiis designation means the certainty factor of the e-mail
+being a spam message is in the 90 to 99 percent range," Ware
+said. "When the central Stanford mail gateway servers receive
+the inbound message, it is sorted through this filter. Any mes
+sage that is coded at this level will be discarded prior to any pro
+cessing or forwarding.Therefore, these messages will never be
+received by the pobox servers and delivered to your e-mail ad
+dress."
+This measure was taken in response to reports of e-mail
+problems, beginning on Sept. 27, which included an inability to
+check or receive messages, delays in receiving e-mail and blank
+screens or lack of connection while using Webmail.
+Despite an e-mail, sent to campus RCCs, that described the
+new program, many students were previously unaware of the
+
+
+MICHAEL RAMM/The Stanford Daily

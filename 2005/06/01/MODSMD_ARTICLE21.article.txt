@@ -1,0 +1,136 @@
+# Racing against the clock
+## without a driver 
+### ROSE JENKINS CONTRIBUTING WRITER 
+"Drivers not required."
+That's the motto adopted by the Stanford
+Racing team and printed on the side of
+"Stanley," the Volkswagen S.U.V. Touareg
+that's been modified to drive without human
+guidance. Fiut there's much more to Stanley
+than its motto, which is a twist on the "Dri
+vers wanted" slogan of Volkswagen. The
+drive-by-wire vehicle boasts seven comput
+ers in its trunk and a host of other safety and
+perceptual features that its design team
+
+hopes will propel its success in a 175-mile
+race called the DARPA Grand Challenge.
+The second-annual race, hosted by the
+Defense Advanced Research Projects
+Agency, or DARPA, is designed to develop
+autonomous robot vehicle technologies for
+military purposes and is offering a $2 million
+prize to the first car to make it across a
+course in the Mojave Desert in less than 10
+hours. In the 2(M)4 race, the frontrunner, an
+entry from Carnegie Mellon University,
+went eight miles before crashing. However,
+this year more and better-prepared teams
+seem to be interested in the Challenge.
+
+The Stanford Racing Team first started
+developing Stanley in June 2004. under the
+leadership of Sebastian Thrun, associate pro
+fessor of computer science and head of the
+Stanford's Artificial Intelligence Labs.
+In early April of this year, Stanley's cre
+ators were notified that they were one of 118
+out of the 195 entries to receive a site visit.
+Today, they will find out if they are one of the
+40 teams to pass the second-to-last stage of
+screening. Race day. October 8, will see just
+20 cars competing.
+To date, Stanley has logged 200 miles of
+autonomous driving time, some of it on the
+Mojave Desert route from the 2004 DARPA
+Challenge. This year's path won't be an
+nounced until two hours before the race,
+though DARPA organizers have said that it
+is in Southern California.
+Stanley is a standard gray Touareg, donat
+ed by Volkswagen and customized for drive
+by-wire navigation and steering by Volkswa
+gen of America's Electronics Research Lab
+oratory in Palo Alto, one of the Stanford
+Racing team's major collaborators. Its major
+physical additions are oversized wheels, rein
+forced bumpers and a protective plate on the
+underside of Stanley's body Unlike some of
+the golf carts, utility vehicles and other ma
+chines that are among Stanley's competitors,
+it is completely legal for driving on streets.
+"That was an important design constraint
+to facilitate the testing of the robot," said Ve
+hicle Lead Cedric Dupont of Volkswagen in
+a press release.
+Members of the Stanford Racing team
+have equipped Stanley with a GPS system
+and sensors that can pinpoint its location
+within two miles. Lasers give the car a vision
+span of four car lengths ahead, while radar
+allows it to search for further obstacles as it
+reaches race speeds of up to 35 mph
+Additionally, stereo-vision cameras take
+pictures of the course that are used to deter
+mine the optimal driving course by the seven
+Pentium M laptops in the trunk, which have
+their own shocks and back-up networks. The
+computers are also hooked up to an elec
+tronic break, throttle and steering system.
+And the whole car, electronics and all. is
+powered by a turbo diesel engine that will
+
+run on a single tank of gas.
+The most important component of Stan
+ley's design is the sophisticated software,
+which essentially drives the car. A computer
+algorithm analyzes input from the sensors to
+evaluate alternative paths for the car as
+often as 10 times a second.
+The first prototype of the car emerged from
+a computer science class offered in fall quarter
+of this year tided "DARPA Grand Challenge."
+Most of the 40 some students involved in the
+Stanford Racing team, who range from under
+graduates to doctoral candidates, got involved
+with the team through that course.
+According to David Stavens, a doctoral
+candidate in computer science, Stanley also
+benefited from projects completed in the
+winter quarter computer science class "In
+troduction to Computer Vision."
+Aside from encompassing students from
+all over the School of Engineering, the Stan
+ford Racing Team includes eight Stanford
+professors, a post-doctoral researcher and 17
+external members from all over the Bay
+Area. The team is supported not only by
+Volkswagen, but also by Mohr Davidow
+Ventures (a local venture capital firm) and
+Android, as well as by secondary contribu
+tors Intel, Honeywell andTYZX.
+While a strong performance in the Grand
+Challenge is the Stanford Racing Team's first
+goal, the hope is that the expertise developed
+in building Stanley can be used in improving
+the systems of commercial vehicles.
+"After the contest, we are interested in
+adapting Stanley's technology into safety
+systems for commercial passenger cars,"
+Stavens said.
+Many new cars already feature automat
+ed features such as anti-lock brakes, adap
+tive cruise control and electronic parking
+aids. The knowledge needed to create obsta
+cle-avoidance and lane-keeping technolo
+gies could come from the team's experience
+building Stanley. The car itself would have
+an extra set of reflexes.
+"'lTie result," Stavens explained, "would
+be a vehicle that watches what a human does,
+reacting periodically and harmoniously with
+the driver to address specific perceived safe
+ty concerns."
+
+
+JOSEPH BERGEN/The Stanford Daily

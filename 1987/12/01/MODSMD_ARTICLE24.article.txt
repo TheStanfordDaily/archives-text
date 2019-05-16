@@ -1,0 +1,284 @@
+# Science
+## Doctors apply computers to diagnosis and treatment Artificial intelligence adapts to medicine 
+### Michael Yang 
+A computer can't, by itself,
+cure a sick person, but it can help
+a doctor treat the person's
+disease.
+Using artificial intelligence
+(Al) techniques, Stanford scien
+tists have created computer pro
+grams that can act as medical ex
+perts or consultants. Such
+"medical expert systems" can
+perform tasks ranging from
+diagnosing diseases to helping
+doctors in surgery.
+One Stanford program can tell
+a doctor how to treat a cancer pa
+tient. The program, called On
+cocin, monitors a patient's condi
+tion by asking the physician
+questions about the patient, the
+treatment the patient has
+received and the results of any
+tests performed on the patient.
+Based on this information, the
+program aids in the administering
+of chemotherapy, often a com
+plex and difficult task.
+Oncocin is one of the largest
+medical Al projects at Stanford.
+It was developed by Charlotte
+Jacobs, a professor in the Oncol
+ogy Department at the Medical
+School. Oncocin has a large
+database of knowledge that is
+„ updated constantly with the most
+current research results, accord
+ing to an article in Stanford
+\ Medicine magazine.
+Stanford plays a large role in
+'the development of expert sys
+tems worldwide. Another impor
+tant medical expert system,
+developed at Stanford in the mid
+► 19705, recommends therapies for
+'patients with bacterial infections.
+J As part of his doctoral disser
+tation, Edward Shortliffe, an as
+sociate professor of medicine at
+the Medical School, worked with
+computer scientist
+<Bruce Buchanan to design the
+which they named
+'^Mycin.
+And the program has been
+
+quite successful so far.
+"Eminent infectious disease
+experts agreed with Mycin's
+judgement more often than they
+agreed with each other's," said
+Stanford computer scientist Ed
+ward Feigenbaum, who helped
+develop one of the first expert
+systems in the 19605.
+"For blood infections and
+meningitis infections, Mycin is a
+world-class expert," Feigen
+baum said.
+Mycin interacts with its user to
+acquire the data if needs. It
+evaluates this clinical informa
+tion while considering the many
+diagnostic and therapy rules it
+knows concerning infectious
+diseases, trying to narrow down
+the diagnostic possibilities and
+prescribe an effective antibiotic
+treatment.
+Mycin asks the user only what
+is necessary. Once it has come
+up with a minimal set of possibili
+ties, Mycin uses its therapy rules
+to prescribe a treatment that will
+cover all potential diseases.
+An example of such a therapy
+rule is, "If the site of the disease
+culture is blood, and the organ
+ism is rod-shaped, then there is
+evidence that the organism is
+Pseudomonas-Aeruginosa.''
+Mycin also explains the basis
+for its decisions. That gives the
+physician reason to accept or
+reject its recommendations. For
+instance, the physician may ask
+Mycin, "Why did you ask me
+that?" "How did you arrive at
+that conclusion?" or "Why did
+you not consider this?" Mycin
+answers these questions to create
+confidence in the user, Feigen
+baum said.
+"Computer systems do not
+now — nor will they soon —
+have a sufficiently complete un
+derstanding of medicine's techni
+cal, clinical and social considera
+tions to approach the richness
+and flexibility of human ex
+pertise," Shortliffe said in a
+
+recent Scientific American arti
+cle about advanced computing
+for medicine.
+Ultimately, expert systems re
+quire "the common sense and
+judgement of an experienced
+health-care worker," Shortliffe
+said. There are still many aspects
+of human problem-solving that
+cannot be modeled in a computer
+program.
+Mycin's collection of rules —
+its knowledge base — can be
+separated from its logical compo
+nent. With a different knowledge
+base, the logical part of Mycin
+called Emycin, can be applied to
+an area of expertise other than in
+fectious diseases.
+Scientists combined a data
+base of knowledge about lung
+diseases with the Mycin program
+to produce an expert system
+called Puff. Puff interprets physi
+ological tests of lung patients at
+Pacific Medical Center in San
+Francisco, according to an article
+
+in Stanford Medicine magazine.
+Some mechanical devices now
+under development may soon be
+incorporated with future Stan
+ford medical expert systems.
+One of these devices, called
+Data Glove, consists of a special
+glove worn on the human hand
+with sensors to detect hand and
+finger movements in three
+dimensional space. The glove,
+combining the precision, control
+and agility of the hand, can be
+used to simulate situations, such
+as in surgery, where coordinated
+hand movements play a key role.
+The revolutionary aspect of
+Data Glove, made by VPL Re
+search, Inc., is that it is not lim
+ited to two dimensions. Existing
+devices, such as the mouse used
+with the Apple Macintosh com
+puter. are limited in this respect,
+according to a recent Scientific
+American article.
+Another device, a helmet with
+a visual display, will allow
+
+astronauts inside a space station
+to control the "sight" of a robot
+outside the station and see what
+it "sees." The astronaut wears
+the helmet and when he turns his
+head, the robot's camera eyes
+swing in the same direction, ac
+cording to the Scientific Ameri
+can article.
+The helmet was created at the
+Ames Research Center of NASA
+at Moffett Field, near San Jose.
+The space-station helmet and
+glove would allow scientists to
+research subjects ranging from
+surgical technique to chemistry
+in new ways. Using these
+devices, the scientist only need
+gesture with his hand to select an
+option of the program, turn his
+head to view an object from a dif
+ferent angle, or reach out to ma
+nipulate objects.
+Scientists can use the helmet in
+conjunction with the glove to vis
+ually model systems they are
+researching. Chemists can study
+the binding of molecules or doc
+tors can study surgical tech
+niques in three dimensions in
+stead of by typed commands on a
+keyboard or manipulations of a
+two-dimensional device like the
+mouse, the Scientific American
+article said.
+Such tools, used in conjunc
+tion with an expert system,
+would allow a student to perform
+surgery on an electronic cadaver
+instead of on a real patient. The
+expert system would provide in
+formation on particular organs as
+the student required it, according
+to Joseph Rosen, a professor in
+the Surgery Department at Stan
+ford Medical School.
+"Even more advanced would
+be an expert system which
+monitors the students' actions,
+acting as a professor and provid
+ing advice, assistance, or even
+indicating mistakes," Rosen
+said.
+Expert systems will be used in
+more and more areas of knowl
+
+edge gathering and processing.
+People using such systems must
+be able to easily interact with the
+computer. The easiest way to in
+teract is in the way one interacts
+with the natural world.
+Expert systems are easier to
+use if there is "a greater degree
+of interaction between man and
+machine," according to Scien
+tific American. A more natural
+environment, such as the one
+provided by the helmet-and
+glove combination, will increase
+the usefulness of sophisticated
+computers.
+Much of the research to
+develop expert systems at Stan
+ford takes place at the Knowl
+edge Systems Laboratory (KSL).
+KSL is a unique entity, collabo
+rating with many different disci
+plines. Among the various
+groups involved in KSL's proj
+ects are the Chemistry, Bio
+physics and Civil Engineering de
+partments, a group at Stanford
+Linear Accelerator Center, bio
+statisticians at the Medical
+School and outside companies.
+KSL researchers say they be
+lieve that working with hard,
+real-world problems is the best
+way to observe the limitations of
+current technology and emerge
+with new and innovative ways to
+do things.
+"Working with hard problems
+produces solutions to hard prob
+lems," said KSL Research Asso
+ciate Craig Cornelius.
+Expert systems, once
+developed, can be incredibly use
+ful tools, researchers say.
+However, the process of devel
+oping them can be very difficult.
+Building an expert system's
+knowledge base — a process
+known as "knowledge engineer
+ing" — requires an enormous
+amount of effort, depending on
+the size of the knowledge base.
+Cornelius acts as a "knowledge
+engineer" in the construction of
+expert systems.
+
+
+The Data Glove illustrated here could he used by surgeons-in-training to
+operate on an electronic cadaver instead of on a real patient.

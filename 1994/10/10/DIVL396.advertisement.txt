@@ -1,0 +1,30 @@
+# Adv. 41 Page 13
+## 
+### 
+ASSU Fee Refunds
+Warning: Fill out your refund request conscienciously! Certain
+groups (Legal Counseling, SURE. Speakers Bureau, Stanford in
+Government and others) will deny you their services if you
+request a refund from them! If you later find you need their
+services, you will be unable to obtain them, e\'en hy repaying
+what you refunded!
+Note These instnictions are for students with a Leland (Stanford
+e-mail) account. However, you do not necessarily need a Leland
+account to apply for a fee refund
+Instructions For Filing An ASSU Refund Request:
+1) Log in to cardinal (.Stanford edu):
+- It you will he applying from a dorm cluster, use a communications
+program such as Mac Samson or MaclP. and type "cardinal" at the "Host
+Name" prompt Log in with your Leland username and password
+- If you are applying from the Tressider or Meyer LaIR, log in to a
+computer with your Leland username and password A welcoming
+window will appear on the screen. Click on it Select "Log in to
+C ardinal" and login again with your Leland username and password
+- If you are dialing into the network with a modem, type "cardinal" at the
+"tip" prompt and press enter
+2) At the prompt ("elainel2-"elaine22- ".etc ) type:
+telnet assu-serve 1234
+and press enter.
+3) Follow the on-screen instructions to complete your refund request
+The deadline to complete a fee refund for autumn quarter
+is Friday, October 14th at 5:59pm. No exceptions!

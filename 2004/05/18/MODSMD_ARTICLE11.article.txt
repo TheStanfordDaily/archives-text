@@ -1,0 +1,254 @@
+# Injecting a new spin on electronics
+## 
+### SU FEN LEE CONTRIBUTING WRITER 
+"Research and development in
+data storage utilizing magnetic ma
+terials and electron spin properties
+seeks to eventually make hard
+drives obsolete by creating a low
+cost, high density nonvolatile all
+purpose memory," said Roger
+Wang, a spintronics researcher at
+IBM Almaden Center. Wang is also
+a Stanford graduate student in elec
+trical engineering.
+"The concept of using electron
+spin as a bit carrier as opposed to
+electron charge would result in
+much lower current densities, dras
+tically reducing power consump
+tion, while also vastly improving
+speed," he added.
+Spintronics, or spin-based elec
+tronics, is the study of using elec
+trons' magnetic state, in addition to
+their charged state. Conventional
+electronic devices use electrons as
+electrical charge carriers in semi
+conductors such as silicon. Spin
+tronics, however, focuses on the
+magnetic alignment of individual
+electrons. An electron's magnetic
+state is characterized by its spin —
+either "up" or "down". Aligning the
+spin states of electrons in material
+means that the material can be mag
+netized. Furthermore, by applying a
+magnetic field to this material, the
+movement of its constituent elec
+trons can also be changed.
+Another interesting thought is
+possibly exploiting spin coherence
+— flipping one spin will flip anoth
+er spin at the same time. This would
+make instantaneous communica
+tion and sensing over a finite dis
+tance a possibility.
+According to Wang, one of the
+major issues facing silicon technolo
+gy today is its heavy power con
+sumption. Just last week, Intel an
+nounced that it will discontinue its
+Pentium 4 architecture line of de
+velopment due to power consump
+tion and energy efficiency limits.
+Wang acknowledged the silicon
+industry's ability to overcome the
+numerous challenges of shrinking
+device sizes for higher densities and
+speed. He said that he believed,
+however, that eventually, sizes will
+reach the atomic scale where quan
+tum theory dominates.
+"The potential to utilize electron
+spin [a quantum property] in semi
+conductor technology certainly
+represents an opportunity for de
+vice physicists," he said.
+"Spintronics spans a broad range
+of research and studying the spin
+property of an electron is intriguing
+scientifically," Wang added.
+For practical applications, de
+vices based on electron spin have
+already made an impact in magnet
+ic storage and sensing.
+For example, the giant magne
+toresistance (OMR) head intro
+duced in 1997 has resulted in a dras
+tic increase in hard drive data densi
+ty. Motorola and IBM are now ac
+tively working on nonvolatile Mag
+netic RAM as a commercial prod
+uct in the near future.
+Just three weeks ago, IBM Al
+maden Research Center and Stan
+
+ford University announced the for
+mation of SpinAps, the IBM-Stan
+ford Spintronic Science and Appli
+cations Center.
+Collaboration between Stanford
+and IBM in this emerging field,
+however, is nothing new.
+"The formation of SpinAps is a
+continuation of the growing inter
+action between IBM Almaden Re
+search and Stanford University
+concerning research involving elec
+tron spin," Wang said.
+Dr. Stuart S. P. Parkin, one of
+the major pioneers of the current
+GMR read head, has been actively
+pursuing collaboration with Stan
+ford for spin-related research.
+Parkin is an IBM Fellow and cour
+tesy professor of applied physics at
+Stanford.
+Two students working with
+Parkin have recently graduated
+from Stanford with a doctorate in
+Applied Physics. Both conducted
+nearly all of their research at IBM
+Almaden under Dr. Parkin's super
+vision.
+Wang is one of several graduate
+students who conduct research at
+IBM Almaden with Parkin. They
+come from departments such as
+Physics and Materials Science and
+Engineering.
+There are other Stanford stu
+dents who are involved in SpinAps
+but do not work directly at Al
+maden. These students work on
+campus under the guidance of Prof.
+Shoucheng Zhang and Prof. James
+Harris. Zhang is professor in the
+Physics Department, while Harris is
+a professor in the Electrical Engi
+neering Department. Both of
+them, along with Dr. Parkin, are the
+co-directors of SpinAps.
+One such student is Seth Bank, a
+graduate student in electrical engi
+neering. He works at the Hansen
+Experimental Physics Laboratory.
+Part of Prof. Harris' research group,
+he grows high quality gallium ar
+senide heterostructures used for
+optical detection of spin.
+Over at IBM Almaden, Wang
+works on developing methods to
+demonstrate spin injection into
+semiconductors, and spin detection,
+"all as stepping-stones to develop a
+spintronic device," Wang said.
+"My research involves growing
+magnetic films and oxide materials
+on semiconductors to form tunnel
+spin injectors," Wang said. "We use
+these structures to inject spin polar
+ized electrons [a current of elec
+trons with primarily one spin] into
+the semiconductor, and also to de
+tect the spin polarization of a cur
+rent extracted from the semicon
+ductor."
+"Our final goal is to develop a
+solid state spin device that can per
+form functions similar to standard
+transistors," he added.
+On any given day, Wang could
+be growing materials and film lay
+ers for characterization and mea
+surement, or building and main
+taining a magnet / cryostat setup for
+magnetic measurements at a range
+of temperatures.
+He could also be taking the mea
+surements himself, which can be
+optical measurements for detecting
+
+spin injection or magnetoresistive
+measurements for spin filtering ef
+fects — changes in current or resis
+tance of a junction device due to
+magnetic alignment of metal films.
+Wang is currently studying for
+his doctoral degree in electrical en
+gineering and plans to finish his
+doctorate in spintronics-related re
+search. While Wang's role may
+seem like that of a typical graduate
+student researcher, he has the
+unique opportunity of working with
+industry researchers, in addition to
+professors and fellow students.
+"I spend all my time at IBM, ex
+cept when taking courses at Stan
+ford," Wang said. "All my work is
+done at IBM with both IBM em
+ployees and other Stanford stu
+dents."
+Apart from individual assign
+ments, Wang also gets to work as
+part of a team. "Each project usual
+ly involves two or three people.
+When I began here, I had a mentor
+to work with. Even though we are
+each assigned to be responsible for
+certain projects, several projects
+overlap both in theoretical concepts
+and experimental instruments."
+"My projects tend to involve
+magnetic materials, semiconduc
+tors, and both electrical and optical
+measurements," Wang said. "I
+work with IBM employees who are
+experts in optics and optical experi
+mental equipment, while Dr.
+Parkin is the expert in magnetic ma
+
+terials and growth."
+When Wang entered Stanford in
+2001, he was searching fora poten
+tial research group. His areas of in
+terest included "organic wires/
+electronics, spintronics, biotech,
+and in general any nanotechnology
+material or application," Wang
+said.
+He learnt from Harris that
+Parkin was looking for more stu
+dents to work on a variety of pro
+jects related to spintronics at IBM
+Almaden.
+"I took the opportunity right
+away, since my personal goal is to
+be involved with industrial research
+and development rather than
+academia," Wang said. He began in
+the summer after his first year, in
+June 2002 and has been working at
+IBM Almaden ever since.
+Wang said he felt that the con
+cept of a solid state spin-based
+semiconductor device has a much
+longer path to practical application.
+"The research remains at an
+early stage of development focus
+ing on spin injection and detec
+tion," Wang said. "Even a single,
+operating transistor-like spin de
+vice still remains theory rather than
+reality."
+"Realistically," he added, "a
+working solid state spintronics de
+vice, unlike in sensing and memory
+applications, remains decades away
+from becoming a practical commer
+cial product."
+
+
+ARON HEGYI/The Stanford Daily

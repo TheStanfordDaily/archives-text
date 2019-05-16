@@ -1,0 +1,94 @@
+# New microchip will aid search for extra-terrestrials
+## 
+### INGRID WICKELGREN Staff writer 
+In search of extraterrestrial life, Stan
+ford engineers have developed a micro
+chip that will expand their capacity to
+detect artificial signals within and beyond
+this galaxy, according to Stanford scien
+tist Ivan Linscott.
+The chip was developed by a team of
+Stanford electrical engineering graduate
+students led by Linscott, advised by Prof.
+Allen Peterson and funded by NASA for
+the last five years as part of their Search
+for Extraterrestrial Intelligence (SETI)
+program, Linscott said.
+He said that the chip will be used in a
+one-year-old machine thai ieads informa-
+
+tion from radio waves from an antenna in
+the Mojave desert.
+Because of the vast quantities of noise
+created by gaseous clouds, cosmic debris
+and the 300 billion stars that make up
+this galaxy, a high-performance, special
+purpose computer is needed to process
+the samples and identify the artificial sig
+nals. said Linscott. senior research asso
+ciate in the radioscience group of the
+Space Telecommunication and Radios
+cience Laboratory at Stanford.
+The system, called a multichannel spec
+trum analyzer (MCSA), monitors waves in
+the microwave region of the spectrum,
+the region with the least interference and
+in which they believe extraterrestrials are
+likely to send their signals, according to
+
+Linscott.
+Linscott said the current MCSA model,
+without the new chip, simultaneously
+monitors 72.000 one-hertz wide chan
+nels. The new chip, called a SETI Digital
+Signal Processing (DSP) Engine, will in
+crease the number to 10 million chan
+nels, still only a tiny fraction of the total
+"microwave window." which is 10 billion
+hertz wide.
+One-hertz wide signals are monitored
+In order to distinguish between natural
+noise and artificial signals. The most nar
+row of natural signals has a range of fre
+quencies 1,000 times broader than an ar
+tificial signal. A one-hertz wide signal
+would probably be from an artificial
+source, Linscott said.
+
+The new chip requires only 78 boards
+as opposed to the 2.000 boards necessary
+for the current model. It is 8 millimeters
+squared in area, contains 34,000 transis
+tors, and can perform 80 million arith
+metic operationss per second, according
+to Bryn Eckroot. a graduate student on
+the SETI DSP Engine design team.
+The new chip is a technological
+breakthrough and will give scientists
+great capabilities in resource exploration,
+medical imaging and failure analysis.
+Linscott said.
+MCSA has not yet pickec up any ex
+traterrestrial signals, but it did success
+fully detect an artificial signal from the
+Pioneer 10 spacecraft outside the solar
+system, according to Linscott.
+
+Linscott said scientists haven't yet
+scratched the surface In their search for
+extraterrestrial life, but "we're building a
+new machine to do some serious mining.
+It's virgin ground and who knows what
+we'll find, but 1 think we have a pretty
+good chance (of detecting extraterrestrial
+signals)."
+Linscott said the cost of chip produc
+tion was minimal for SETI. because a pro
+gram for integrated systems supported by
+the Department of Defense actually con
+structed the chip. "It was a huge expense
+for them.'' he said. "I don't know how
+much it cost the taxpayer, but it was
+cheap for us." he said. Peterson said
+Stanford receives about *500,000 per
+vear from NASA for SETI activities.

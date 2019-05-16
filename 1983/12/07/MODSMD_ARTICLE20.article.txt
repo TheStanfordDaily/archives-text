@@ -1,0 +1,124 @@
+# Viewpoint: Ellen Germain
+## LOTS: the big non-sleep 
+### 
+The name is Spade. Sandra Spade.
+It was turning into a really weird
+quarter. My roommates barely
+recognized me anymore, and I only
+saw people who had accounts at
+LOTS. I sent them all mail, but no
+one ever answered. It was turning
+into a weird quarter.
+I had escaped real all-nighters up
+until then, but that night it was in
+evitable. It was the final program,
+and it was the night before Big
+Game. I thought I'd just wheel on
+over to CERAS, fix up the program
+and be out by midnight. I was still
+naive back then.
+The place was busy, considering it
+was a Friday night. I logged on — no
+queue — and started in on my pro
+gram.
+I worked steadily for about an
+hour. I could hear the hum of com
+puters and hackers all around me. I
+came to the crucial moment — my
+first attempt to execute. With steady
+fingers I typed in "exe
+PROG4.FOR." Then I sat back and
+waited.
+The load was only 5.17, but it
+wasn't compiling. My hands grew
+clammy, I got a sick feeling in my
+stomach. Too many Grandma's Big
+Chocolate Chip Cookies. Finally,
+characters began to appear on my
+screen. As I desperately tried to
+focus on the wavering green letters,
+a cold fear clutched at my middle.
+These were errors — massive, un
+traceable, insoluble errors. And I
+had never learned to use the
+FORTRAN debugger.
+There it was — the irrefutable
+evidence was on my screen for
+anyone to see. My program had
+crashed; I had failed. One-hundred
+seventeen fatal errors and 209 warn
+ings. But no one was going to say I
+was a quitter. I gritted my teeth,
+took another swig of Dr. Pepper and
+got to work.
+
+People began to disappear. I saw
+them leave, furtively, heads down.
+Cowards. They couldn't deal with
+LOTS after midnight. Soon there
+were only 12 of us left. Twelve of
+us — and a dog. It was sleeping un
+derneath a table. I kicked it. I hate
+sleeping dogs. Besides, nothing
+should sleep at LOTS. Computers
+aren't for weaklings. If you can't
+hack it, drop. And I mean you,
+sweetie.
+
+This guy was wandering around,
+beer in hand. He leaned over my
+shoulder and said, "FORTRAN, eh?"
+"What's it to you?" I snarled.
+"I used to know FORTRAN.
+Maybe I could help you. Let's see."
+He started going over my program.
+The guy was obviously
+drunk — why else would he be at
+LOTS at 2 a.m. when he didn't even
+have an account? I knew he
+didn't — I'd seen him trying to log
+on earlier. No dice, but hell, if he
+wanted to be a sucker....
+We tried it from every angle. We
+changed parameters, eliminated
+subroutines, and put in extra WRITE
+statements. Nothing. Somewhere
+between the program and the out
+put file '■ was screwing up. The guy
+
+got tired and left. Three of the 12
+people left. The dog left. It was 3:30
+a.m.
+I had one more card to play, and
+then I was going to throw in the
+towel. I changed the bounds on an
+array. Exited — it Cd ne back with
+PR0G4.F0R.32. My sk allocation
+was filling up faster titan I had ever
+seen before. It was expunging every
+five minutes. Things were getting in
+tense. I typed "exe PROG4.FOR"
+
+and waited.
+The bastard ran. It compiled. It ex
+ecuted, it sent to an output file. It
+ran. I was too tired to celebrate. I
+got a printout of the program, a
+PHC O of my execution and split. I
+left without a backwards glance — I
+had no pity for those poor slobs still
+hacking away. They deserved it.
+Computers aren't for weaklings. If
+you can't hack it, drop.
+I got on my bicycle and rode
+home under a full mor i. It was 4
+a.m., but my program was done.
+And tomorrow was Big Game. I was
+ready. I was free. I was a computer
+goddess.
+(Ellen Germain is a senior in En
+glish.)
+
+"MAYBE THINGS ARE LOOKING UP— THE LEADERS ARE TALKIN6 ABOUT STOI A WAR
+FOR EVERY TWO THEY START-"
+

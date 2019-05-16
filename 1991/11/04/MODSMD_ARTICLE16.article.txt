@@ -1,0 +1,56 @@
+# Computer virus found at The New York Times by President Kennedy
+## 
+### 
+The following letter, written on Oct. 25,
+1991, was published in yesterday's edi
+tions of The New York Times.
+I write to warn you that there is a
+computer virus loose at The New York
+Times; I know you will want to learn
+how it works.
+The virus looks for a news article con
+taining the word "Stanford." It then
+searches the rest of the text to deter
+mine further whether or not the article
+has a generally negative cast. If it reach
+es that determination, it attaches ver
+sions of the following text to the article:
+"... is an additional embarrassment
+for Stanford, which already faces the
+loss of millions of dollars in Federal
+money for improperly using research-
+
+related money to buy items like furni
+ture and flowers for the home of its
+president, Donald Kennedy, who recent
+ly announced his retirement at the end
+of the current academic year."
+The most recent instance came in
+connection with an Oct. 23 news article
+about a physician at Lucile Packard
+Children's Hospital at Stanford who
+turned out after his death to have been
+married to three women.
+The viral recognition program is
+apparently so subtle that it immediately
+detected in this report the relationship
+between polygamy and Federal indirect
+cost reimbursement policy, and added
+the above quoted passage to the article.
+More severe tests, however, are wait
+ing in the wings. Can the virus work in
+the sports section? Will we see, in a mat
+ter of weeks, this addition to a report on
+a Stanford-UCLA football game:
+"The last-minute failure of Stanford's
+'prevent' defense against the passing of
+UCLA's Maddox was yet another excru
+ciating embarrassment for Donald
+
+Kennedy and his accountants, whose
+'prevent' defense had earlier allowed
+Stanford to charge flowers and furniture
+for the president's residence...
+I can hardly wait.
+Donald Kennedy
+University President

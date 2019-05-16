@@ -1,0 +1,80 @@
+# Newslines
+## Annotations on the Internet Report details expanded communication capabilities 
+### 
+As battle for control over the Internet rages on in
+Washington, D.C., three Stanford computer scientists
+have presented a new data structure that increases the
+possibilities of sharing information on-line.
+A technical report published by doctoral student
+Martin Roscheisen, master's student Christian Mo
+gensen and Computer Science Prof. Terry Winograd
+describes a method called "Com Mentor" for users to
+exchange annotations and reviews about documents
+on the Internet.
+The report is part of a larger initiative called the
+Stanford Integrated Digital Library Project (SIDL), a
+four-year project set to begin in October. The goal of
+the project is to create a "universal" library including
+everything from personal information collections to
+databases shared by scientists and scholars.
+The paper is titled "A Platform for Third-Party
+Value-Added Information Providers: Architecture,
+Protocols, and Usage Examples" — but it is more than
+a mouthful of jargon. Three interesting prospects for
+Com Mentor, according to senior research scientist An
+dreas Paepcke, are annotations, guided tours and rat
+ings.
+Annotations allow third-party information to be ac
+cessed independent of the publisher. This allows arbi
+trary reviews and comments by others to appear si
+multaneously with a World Wide Web document. Ex
+amples of annotations include reviews of a product
+along with the advertisement or comments by scholars
+on important documents.
+"A professor could annotate a document with clari
+fications," said Paepcke.
+The Web is an extension of the Internet which al
+lows users to publish text, graphics and other materi
+al on-line.
+Guided tours provide a means for users to create
+their own links between Web documents. Links are
+used currently by publishers to grant easy access to
+
+other Web pages. A guided tour allows the user to cre
+ate a personal link to other related documents.
+As an example, Paepcke noted, "Martin has created
+a guided tour of impressionist art by linking annota
+tions from the outside," independent of the publisher.
+In terms of censorship capability, ratings provide a
+more personal solution to the current debate. Docu
+ments on the Internet can be rated by independent
+third parties. The rating precedes the document as
+"meta-information." Users can set their Web browsers
+to only view certain rating classifications.
+Instead of a single all-encompassing ratings sys
+tem, "voluntary ratings would be adopted," said
+Roscheisen.
+Ratings would be determined by many different
+companies while parents configure their Web
+browsers to their chosen rating company. Pornogra
+phy can be rated on one hand by Playboy and on the
+other by antiporn activists.
+"The parents can choose whatever perspective they
+want," said Roscheisen.
+The solution would then be for companies to rate
+the documents and for users to configure their on-line
+browsers.
+"The problem is [that] ratings are very subjective,"
+Paepcke said. Parents can lock out documents with
+certain ratings to prevent their children from viewing
+those pages. Programs like Net Nanny and Surf Watch
+provide a mechanism for blocking certain information;
+those programs can be adapted to use the ratings pro
+vided by Com Mentor.
+Other possibilities with the new data structure, ac
+cording to the technical report abstract, include
+"structured discussion about paper drafts, collabora
+tive filtering, seals of approval, tours, shared 'hot lists'
+with section-based visibility control, usage indicators,
+co-presence and value-added trails."
+—John Yung

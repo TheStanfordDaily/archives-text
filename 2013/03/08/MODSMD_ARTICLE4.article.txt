@@ -1,0 +1,58 @@
+# UNIVERSITY
+## HENNESSY, INDUSTRIALIST LOOK TO FUTURE OF COMPUTING 
+### MILES BENNETT-SMITH EDITOR IN CHIEF 
+After seven years as a professor in the elec
+trical engineering department, President John
+Hennessy took a sabbatical from Stanford in
+1984 to found MIPS Computer Systems Inc. and
+commercialize his work with RISC processing.
+The company went public shortly thereafter and
+enjoyed great success as the pioneer of MIPS
+architecture. Sir Hossein Yassaie is the CEO of
+Imagination Technologies Group, which ac
+quired what is now called MIPS Technologies
+last year to use in future CPU development.
+The Daily sat down with both Hennessy and
+Yassaie to talk about the acquisition as well as
+the history of MIPS and the realities of informa
+tion technology and startup companies.
+The Stanford Daily (TSD): Can you just ex
+plain a little bit about how things happened
+with the early days of your company and
+what led up to this point with the MIPS tech
+nology?
+John Hennessy (JH): The MIPS [Micro
+processor without Interlocked Pipeline Stages]
+architecture had its roots in a research project
+here at Stanford started in the early 1980s with
+
+the simple question: What would the age of sin
+gle chip CPUs mean for how we should design
+processors? Stanford, together with Berkeley
+and IBM, really ... stumbled upon an incredible
+discovery about a better way to design instruc
+tion sets for modern computers than had been
+previously thought about.
+And I say "stumbled upon" because really
+what happened was the constraints of having to
+fit a processor with the limited number of tran
+sistors at that time meant that we had to rethink
+the whole process of how to design the interface
+between the software system and the hardware
+system. That's what led to the fundamental dis
+covery, but I think it wasn't until some years lat
+er that people really realized how fundamental it
+was.
+In fact, in the beginning there was a lot of
+skepticism. The IBM project was kept secret for
+many years, and people didn't know about it.
+And it became very easy for many people in the
+industry to say, "This is a bunch of crazy aca
+demics here this isn't really a great idea." It
+had to prove itself over time.
+We started the company not because we
+wanted to be entrepreneurs. We were, in fact, re-
+
+
+IAN GARCIA-DOTY/The Stanford Daily
+President John Hennessy, who led the team that invented the MIPS framework in the '80s, said that the chip architecture is uniquely suited to emerging and mobile computing markets due to its energy and cost efficiency.

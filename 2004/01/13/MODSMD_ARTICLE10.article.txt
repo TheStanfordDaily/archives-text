@@ -1,0 +1,107 @@
+# Game theory boy goes to the grocery store
+## 
+### ROBBIE YAN I GOT GAME [THEORY] 
+While Christmas shopping at
+Wal-Mart this winter vaca
+tion, I suddenly stumbled
+upon an insight for my inau
+gural column for The Daily this quarter.
+Having stuffed my shopping cart with food,
+clothing and electronic gadgets, I arrived at
+one end of the shopping mall. Walking to
+ward the other end, I searched for the
+check-out counter with the smallest num
+ber of customers in line (obviously, one
+should consider the number of check-out
+items rather than the number of people in
+queue. For the purpose of illustration, how
+ever, let's assume we want to minimize the
+latter.)
+After passing by a few lanes, I thought to
+myself: suppose I keep walking. For every
+single counter I arrive at, I can make the de
+cision whether to stop at the end of the line
+there and wait, or to abandon that counter,
+hoping to find another one with fewer cus
+tomers in line. Assuming that I'm not al
+
+lowed to go back to any counter that I've
+previously passed by and that without
+glasses, I cannot see the number of cus
+tomers in the lanes that I haven't passed by
+yet, how should I make my decision so that
+I can most likely check-out at a counter
+with the fewest customers in line? Let's as
+sume further that the number of customers
+in line is static, meaning that they don't
+change as I walk from one end of the mall
+to the other.
+Obviously, it doesn't seem wise to start
+queuing at the very first lane that I en
+counter because I'm forgoing the opportu
+nity to see the rest of the lanes in the mall
+and therefore possibly missing out on lanes
+that have only one or two customers. On
+the other hand, it's probably a bad idea to
+be overly cautious and wait until I almost
+reach the other end of the mall before mak
+ing a final decision. In this scenario, my
+choices will be extremely limited since I
+cannot turn around: Henceforth, the prob
+lem boils down to the following: When I
+reach a lane, after examining the number of
+customers in line, should I join them in
+
+waiting or leave them for a possibly more
+time-saving lane? By doing the former, I'm
+at the risk of forgoing possibly better lanes;
+by doing the latter, I'm at the risk of aban
+doning the best lane that I will ever see.
+Readers familiar with my column last
+quarter might start questioning how this ar
+ticle is in any way related to my usual topic
+of dating and marriage after all, my col
+umn is titled "I Got Game [Theory]." Well,
+here it comes.
+Finding the right partner is like walking
+past an array of counters. The quality of
+each potential mate you pass by corre
+sponds to the "quality" of each lane, char
+acterized by the number of customers wait
+ing in that lane. The restriction that you are
+not allowed to turn around more or less
+corresponds to the fact that after parting
+with someone, it will be very hard to date
+that person.
+So adapting some preliminary conclu
+sions on counter-selection that we arrived
+at to dating, we can see that it's probably
+unwise to jump on the first dating opportu
+nity and be really serious about it. On the
+
+other hand, nor is it a good idea to wait until
+you are 50 before you start making your de
+cisions on dating.
+Both of these problems, counter-selec
+tion and mate-selection, can be abstracted
+as variations of a one-pass search through
+an array for its maximum element. There
+are many other real-life examples that fit
+this model. For instance, consider the case
+when you try to find parking space in a
+long, narrow parking lot situated by a
+restaurant, your destination.
+On the one hand, you want to park as
+close to the restaurant as possible; but on
+the other hand, if you keep forgoing empty
+spaces until you are too close to the restau
+rant, you might be out of luck. Solutions to
+such problems require a probabilistic un
+derstanding of the situation specifically,
+we would need to model the payoffs of dif
+ferent actions taken. Stay tuned for some
+real mathematics next week.
+
+Robbie Yan hopes you didn't read this arti
+cle because it was the first one you saw. You
+can reach him at xyan@stanford.edu

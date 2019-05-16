@@ -1,0 +1,114 @@
+# The
+						logic is fuzzy, but the results are real
+## 
+### Nick Strauss Staff writer 
+No, fuzzy logic is not Stanford's lat
+est interdisciplinary mqjor between the
+English and Computer Science depart
+ments. Rather, it is a new approach to
+computer control. Already, everything
+from washing machines to automotive
+transmissions has seen the application
+of this concept.
+First coined in 1965 by U.C. Berke
+ley Professor Lotfi A. Zadeh, fuzzy
+logic approaches common sense deci
+sions differently than traditional, bina
+ry, logic. Instead of forcing yes or no
+decisions, fuzzy logic electronically
+simulates the imprecise nature of
+human thinking.
+As explained in recent issues of
+Electronic Design and EDN, a fuzzy
+logic computer must perform several
+steps to reach a decision.
+'Fuzzification' is the key to fuzzy
+logic. The human mind thinks of
+things as vague degrees: very hot, hot,
+somewhat hot or not hot. To a tradi
+tional computer, something is either
+hot or not hot. Fuzzy logic approxi
+mates the human thought through
+'variable set membership'.
+The fuzzifier might define 95 degrees
+as a 100 percent member of the "hot
+set." Seventy would be 50 percent hot,
+and so forth until 40 is 1 percent hot.
+A variable may have differing
+degrees of membership in several over
+
+lapping sets. For example, each of the
+above temperatures may also belong to
+a "cold" set, in which 75 degrees might
+be a 20 percent member and 40, a 90
+percent member.
+After the incoming information
+(temperature in the example) is turned
+into fuzzy set 'membership' data, the
+fuzzy logic processor goes to work and
+calculates the corresponding response.
+Seventy degrees, known to the pro
+cessor as 30 percent cold and 45 per
+cent hot, might have an output of 30
+percent 'heater—on', and 55 percent
+'cooler—on'. In current fuzzy applica
+tions, this step is performed by tradi
+tional computer chips with special pro
+gramming.
+The 'defuzzifier' has the final task
+of turning the fuzzy output into a set of
+instructions for the device controlled
+by the fuzzy system. The output of the
+last step might require the computer to
+run the cooler, but with the fan on a
+low speed setting.
+With sufficiently clever program
+ming, traditional, binary logic can
+mimic the nature of fuzzy logic. The
+work required, however, is prohibitive
+ly expensive for use in consumer elec
+tronics.
+Since fuzzy logic can achieve smooth
+results with little effort, it has been
+popping up in hundreds of applica
+tions, primarily consumer electronics.
+Camera auto focus, washing machine
+water level control, automotive trans
+
+mission, cruise control and traffic light
+control, all use some form of fuzziness.
+The range of applications for fuzzy
+logic are fairly limited. Controlling
+physical apparatus under difficult con
+ditions is the ideal environment for
+fuzzy logic devices.
+Though an American invention, the
+past five years have seen the fuzzy logic
+market dominated by Japanese elec
+tronics firms. Ironically, most have been
+using control chips produced by Motoro
+la, an American chip manufacturer.
+In response to this Japanese domi
+nation, many American firms are now
+beginning to investigate fuzzy logic.
+Whirlpool and Otis Elevator are among
+the U.S. firms now marketing products
+with fuzzy logic electronics.
+Aptronix, a San Jose firm, is cooper
+ating with Motorola in developing cus
+tom 'fuzzyprocessors'. Aptronix has
+developed Fide, a program which devel
+ops and encodes fuzzy logic rules easily
+using standard PC computers.
+Perhaps more important to Ameri
+can industry than production of new
+fuzzy logic chips is the increasing
+acceptance of fuzziness. American
+industry has been reluctant to embrace
+this technology.
+Some analysts feel that unpleasant
+connotations from the word "fuzzy"
+are to blame, perhaps if "encoded ana
+log set reproduction processing" had
+been the term coined by Zadeh, things
+would have been different.

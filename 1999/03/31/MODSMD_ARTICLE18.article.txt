@@ -1,0 +1,74 @@
+# Science
+## The
+						science behind the crispest papers Bug researches amazing clarity of laser printers 
+### Garth Patil Contributing writer 
+Q: How does a laser printer work? And why is the
+paper warm when it conies out?
+A: Almost 18 years ago, my family bought our first per
+sonal computer: an IBM PC desktop machine with a
+monochrome monitor, external tape drive (the kind
+that records data on the same cassette tapes that you put
+in a Walkman) and a dot matrix printer whose grinding
+and whining sounds would send the dog into fits.
+The exposed mechanism and the routine service we
+had to perform on that printer meant that it was very
+clear how the printer worked. It simply pushed pins in a
+specific sequence through an inked ribbon and onto the
+paper. This simple mechanism was noisy and had a res
+olution that was limited by the size of the pins in the
+printer head. Although dot matrix printers are still in
+occasional use for printing on carbon copy forms today,
+for the most part, they have been replaced by more ele
+gant laser printers.
+So how does a laser printer produce such high quali
+ty printing so quickly? I polled a group of my friends,
+and 1 came up with answers like: "a high power laser
+burns the image onto the paper" and "there are a few
+really fast monkeys inside the printer that paint dots
+wherever a laser points." Not convinced that my
+friends' answers were the whole story. I decided to do
+some research of my own.
+Assuming that the process was some kind of patent
+ed magic, 1 didn't think I'd find much. But it turns out
+that laser printers are actually very simple. Here's how
+they work:
+Printing commands from the computer are transmit
+ted to the printer in a language called Post Script. Fonts
+or typefaces that are specified in the document are also
+loaded into the printer's memory.
+This data is then processed by the printer into light
+signals and motion control signals for aiming light onto
+the paper. This process is called raster image processing
+or RlPing.
+Then the true magic begins. A laser beam (or in
+some cases an array of light emitting diodes) is aimed at
+a rotating drum using a polygonal mirror. The beam
+shines on the drum one dot at a time. The laser is on
+where dots will appear and off where there will be white
+
+space. The rotating drum is coated with a material with
+a negative electrostatic charge, and its light sensitivity
+causes it to change to a positive charge when the laser
+shines on it.
+Toner, a fine powder containing magnetic particles,
+is drawn from the toner cartridge to another roller that
+has a magnet inside it. This roller is in contact with the
+rotating drum, and negatively charged toner particles
+are attracted to the positively charged areas on the
+drum as it and the roller rotate. This latent image on the
+drum is now ready to be printed on paper.
+The paper is pulled from the tray and passes between
+the drum and a wire that is positively charged. The
+charge on the wire attracts the negatively charged toner
+particles away from the drum and onto the paper. At
+this point the image is on the paper and is almost ready
+to be in your hands.
+Finally, the paper passes through two rollers that are
+heated to about 150 degrees Celsius (302 degrees
+Farenheit). This bonds and cures the toner to the paper
+so it doesn't fall off when you pull it out of the printer.
+It also explains why the paper is warm when it comes
+out.
+
+
+Gautam Deshpande — Daily

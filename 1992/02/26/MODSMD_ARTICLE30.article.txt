@@ -1,0 +1,124 @@
+# Science
+## Robotic insects pester artificial intelligence community Brooks' silicon bugs shake foundations of field 
+### Marcos J. Polanco 
+A small creature lurks under the corner table, lis
+tening to your conversation. Hearing nothing for sev
+eral minutes, it darts out from darkness in the direc
+tion of your voice, then races back into the shadows,
+ready to terrorize the next unsuspecting victim.
+With nothing more than a motor, wheels, a micro
+phone, a light sensor, and some silicon brains, Com
+puter Science Prof. Rodney A. Brooks has created a
+being with behavior virtually indistinguishable from
+that of your average mouse.
+From his laboratory at MIT, Brooks has likewise
+been shaking the foundations of artificial intelligence
+research, forcing the scientific community to rethink
+some of the field's basic assumptions. At a lecture
+last week in Jordan Hall, he treated the packed audi
+ence to his insights into machine "reasoning."
+Brooks, who once taught at Stanford, was fasci
+nated by the idea that a bee with a few hundred neu
+rons operating at a turtlelian pace could meet its
+objectives — feed, mate, fly in windy conditions —
+while a supercomputer imbued with deductive rea
+soning algorithms cannot even butter toast.
+While some of his robots, such as six-legged
+Genghis, resemble insects, Brooks is quick to point
+out that he is not attempting to explain the mechan
+ics of insect, or human, behavior. "A lot of what I do
+is inspired by certain aspects of biology," he said,
+"but we are not claiming to model biology."
+In his "subsumption architecture," various units
+pursue their own objectives with little traditional
+centralized control. In this deceptively simple
+approach, a robot's higher-level function — such as
+seeking pizza — does not need to explicitly state the
+lower-level mechanics of moving a leg up, then for
+ward, and so on.
+Depending on the environment, some functions
+may inhibit others, for example suppressing the
+desire to chase the Domino's delivery boy for the
+more pressing need to return home for a battery
+recharge.
+The interplay between these layers can result in
+quite sophisticated "emergent behavior" — actions
+that appear intelligent but are actually just the result
+of several simple mechanical actions.
+Once, Brooks outfitted Genghis with infrared sen
+sors and instructed it to seek out the heat source.
+
+A robot could wait until you
+were in class and then go about
+vacuuming your room, all the
+while avoiding your roommates'
+piles of clothes.
+
+From this simple directive, Brooks explains, "to an
+outside observer it [appears] as though this robot is a
+predator, [yet] the intentions and goals of the system
+are not explicitly represented inside the machine."
+In effect, the appearance of rationality in Brooks'
+robots is only in the mind of the observer. His robots
+are reactive, with little intervening logic between
+perception and action. They completely sidestep the
+issue of building an internal, cohesive model of the
+world.
+This method flies in the face of the last two
+decades of artificial intelligence research, and
+although some are supportive, the reaction from the
+research community can range from faint praise to
+outright hostility.
+Asked about his opinion of Brooks' work, Nils J.
+Nilsson, a Stanford computer science professor and
+former director of artificial intelligence research at
+SRI International, told Scientific American: "Those
+who will not reason perish in the act: those who will
+not act, perish for that reason." (Our apologies to
+W.H. Auden).
+Brooks concedes that human-level sophistication
+may not be achievable by extensions of his architec
+ture.
+While Brooks' robots admittedly fail to reason —
+the one programmed to seek out body heat is equally
+adept at walking into flamethrowers — they cannot
+be accused of failing to act. One of Brooks' numerous
+robots has spent the better part of its life picking up
+empty soda cans with no understanding of the act's
+environmental implications.
+Rather than wiling away the hours trying to
+achieve consciousness, Brooks' robots just act like
+they know what they are doing — even though they
+don't have the first clue. "To us," he said, "the key
+aspect of intelligence is the dynamics of interaction
+
+with the environment, without having to build a
+complex system with complex representations of the
+world. You can't have disembodied intelligence."
+Even Brooks' detractors readily admit that his
+vision has been helpful to artificial intelligence
+research. Nilsson said Brooks has "taught us that
+interactions with the environment can be an impor
+tant part of the computation needed to control the
+robot."
+Applications for Brooks' type of robots abound.
+He believes they would make for excellent planetary
+rovers. Rather than sending one massive, expensive
+contraption, NASA could send hundreds of small
+
+explorers on dozens of tasks, worrying little if a few
+trip down Venusian gorges.
+Closer to home, a robot could wait until you were
+in class and then go about vacuuming your room, all
+the while avoiding your roommates' piles of clothes.
+The future could bring tiny, all-silicon robots. The
+sensors and logic are already made from this cheap
+material, as are solar power cells. Advanced tech
+nologies can even etch the mechanics of the robot
+onto silicon wafers, opening the door to mass-pro
+duced, disposable robots. An army of them could
+scrub your dishes before getting drained themselves.
+Happily, they never think.
+
+
+Eric Yoon — Daily

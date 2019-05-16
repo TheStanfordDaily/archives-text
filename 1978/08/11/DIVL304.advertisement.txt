@@ -1,0 +1,15 @@
+# Adv. 33 Page 10
+## 
+### 
+j 1
+; SUMMER VISITOR'S GUIDE
+; Conferees arid visitors can pick up a Visitor's 5
+t Guide at the following locations: r
+i Stern Hall Stanford Daily
+| Crothers Hall Office j
+! Wilbur Hall Post Office
+i; Florence Moore Tresidder j
+!l Hall Memorial Union j
+i Lagunita Court Engineering !
+Mirrielees Apts. Corner i
+if

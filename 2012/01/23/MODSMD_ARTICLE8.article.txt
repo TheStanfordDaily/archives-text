@@ -1,0 +1,105 @@
+# RESEARCH
+## Algorithm maps cancer trajectory 
+### SARAH MOORE 
+Researchers at the Stanford
+University School of Medicine have
+developed a mathematical algo
+rithm to help predict the severity of
+bladder cancer.
+The results were published on
+line Mondayjan. 16, in the Proceed
+ings of the National Academy of
+Sciences, and may influence treat
+ment plans for patients with blad
+der cancer.
+"There were two main findings,"
+said Chad Tang, a medical student
+who contributed to the study. The
+researchers "divided up the bladder
+cancer into different subtypes,
+which have different prognostic im
+plications. Second, one of the mark
+ers they used was a robust predictor
+of clinical outcomes."
+Before applying the algorithm,
+the team also researched bladder
+cancer stem cells.
+"The algorithm was originally
+published in the context of predict
+ing genes in development and dif
+ferentiation," said co-author De
+bashis Sahoo, instructor at the
+Pathology Stem Cell Center. "What
+we have now is an application to
+cancer."
+The work with the algorithm
+
+started approximately two years
+ago after a 2009 paper identified
+three different types of bladder can
+cer: basal, intermediate and differ
+entiated. These subgroups are iden
+tified by markers of the keratin
+(KRT) protein family. The basal
+subtype is marked by KRTI4, inter
+mediate is identified by KRTS and
+differentiated is identified by
+KRT2O.
+The most severe cases of bladder
+cancer are consistently related to
+the basal subgroup. This knowledge
+will allow doctors to plan the treat
+ment of patients diagnosed with this
+type of cancer.
+"The clinician has to remove
+the bladder in the case of certain
+patients because of the progress of
+the cancer, and the way they do it
+now is based on state and the grade
+of the cancer, which is very subjec
+tive," Sahoo said. "This would be
+the first time that a molecular mark
+er, which is very objective, can guide
+the clinician."
+Removing the bladder is a com
+plicated operation. Markers identi
+fied by this algorithm will provide
+better indication of whether sur
+gery is necessary when compared to
+traditional methods.
+"I was motivated to do research
+
+where I could use my expertise in
+computer science to contribute to
+healthcare, in particular cancer,"
+Sahoo said. "Some of the relatives
+in my family were victims of can
+cer."
+Tang cited intellectual interest as
+motivating his involvement.
+"I got involved because I was in
+terested in cancer and biology,"
+Tang said. "I knew the post docs
+pretty well, and I was really interest
+ed in stem cell studies."
+The study will motivate further
+research on the subject.
+"So far, breast cancer is the only
+kind with a similar way of subtyp
+ing," said Keith Chan, assistant pro
+fessor at the Baylor College of
+Medicine and a co-author of the
+2009 paper. "Hopefully we can ex
+tend it to other types of cancer and
+provide better prognostic informa
+tion for the patients."
+"The next step is to try to move it
+to a prospective clinical trial to vali
+date its results," Chan said. "The
+second thing is to try to understand
+the biology of these cells, so we can
+target them. That's what we're
+working on right now."
+
+Contact Sarah Moore at smoore6@
+stanford.edu.

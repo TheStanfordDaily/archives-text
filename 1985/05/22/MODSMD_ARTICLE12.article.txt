@@ -1,0 +1,74 @@
+# Science
+## Proposed computer uses light to process data 
+### CHRIS HAQQ 
+Imagine sitting down with a personal robot that can
+converse with you about the latest baseball game while it
+searches databases to find and read references for your
+term paper. The robot might interrupt you to tell you that
+it had spotted the pizza delivery car, and then remind you
+of where you last left your wallet.
+It such a robot were to exist, it would have to rely on
+flexible, high-speed computer programs important to ar
+tificial intelligence, machine vision and communication.
+With current computer hardware, these programs will not
+work quickly, if at all.
+However, researchers at Stanford, led by Electrical En
+gineering Prof. Joseph Goodman, and other groups
+around the country are beginning to develop hardware
+with the potential to make the high-speed programs
+feasible.
+The new hardware uses beams of light instead of elec
+trical connections. In the long term, optical computers
+may be able to execute a trillion functions per second, a
+rate 5,000 times faster than that of current machines.
+The Very Large Scale Integration (VLSI) of high-speed
+electronic gates — the diodes and transistors etched in
+silicon or gallium arsenide — is expected to lead to a se
+vere crisis in the engineering of faster devices.
+The crunch is expected to occur in the movement of
+electrons between the high-speed gates. This is due to the
+small size of the conducting elements, which increases
+resistance to electron flow. The time needed to charge the
+chip also slows down electron movement.
+As a result, the speed of electron movement in current
+computers is far below the speed of light.
+Not only is the actual speed of transmission several or
+ders of magnitude slower, but electromagnetic effects in
+current computers can also lead to what electronics desig
+ners call crosstalk, or noise.
+
+When electrons move through a wire, they create a
+magnetic field. This field can in turn influence other elec
+trons in other wires, disturbing their movement. This phe
+nomenon, known as "inductance," gives rise to the noise.
+According to Goodman, optical connections have two
+special advantages. One is that light beams are not suscep
+tible to inductance. There is no crosstalk.
+The other advantage is that light photons, unlike elec
+trons, can pass through each other without interference.
+An ordinary optical lens is a familiar example of this,
+Goodman explained. A point of light on one side of the
+lens comes into focus at a specific point on the opposite
+side. If a second point of light is added at a different posi
+tion, it will come into focus on the opposite side in a dif
+ferent place.
+Thus, an optical computer theoretically could route
+many connections through each other using a single lens.
+Taking advantage of this optical flexibility would free
+computer architecture from the current constraint of
+having gates connect only to nearest neighbors.
+Not only conventional connections between elements of
+a computer are susceptible to optical innovation. The
+gates that process the communicated signals may be
+redesigned as well.
+New gates would depend on "optical bistability," a
+recently discovered property of certain materials.
+Some materials are differentially transparent to light of
+different wavelengths, or colors. For example, a material
+might transmit red, yellow and blue light, but little or no
+light of other colors.
+More rarely, some materials — those with optical bis
+tability — will change their transparency when they are
+subject to a special condition. In the second state of such
+materials, transparency might now peak at orange, green
+

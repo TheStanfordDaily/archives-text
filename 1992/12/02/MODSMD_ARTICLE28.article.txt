@@ -1,0 +1,174 @@
+# Science
+## Professor adds the third dimension to computer imaging It's all a matter of perspective, Levoy says 
+### Jim Morris 
+Imagine slicing off the top of a per
+son's head, examining the malignant
+tumor within and then conducting
+surgery — all without touching the
+patient. A process called volume render
+ing has made such actions possible.
+A pioneer in this field, Stanford Asst.
+Prof. Marc Levoy was one of a few scien
+tists around the nation in the late '80s
+who developed an algorithm to convert
+data produced by computed tomograpy
+(CAT) scans and magnetic resonance
+imaging into 3-D images that could be
+displayed on a computer.
+
+When these images
+become real-time,
+scientists will be able
+through their
+objects and explore
+the intricate details at
+the touch of a joy
+stick.
+
+According to the San Jose Mercury
+News, about 200 clinics across the nation
+will be using this technology next year to
+conduct radiotactic surgery in order to
+kill malignant brain tumors.
+Levoy became interested in computer
+graphics as a student of architecture at
+Cornell University in 1971. He wanted to
+find an easier way to draw a cube with
+various sections removed and then reat
+tached on the outside. "I thought a com
+puter would be able to draw it, so I
+grabbed my FORTRAN manual and gave
+it try," recounted Levoy.
+The problem was harder than he
+thought, but it sparked an interest in
+computer graphics that has lasted two
+decades. In 1988 he received his Ph.D. in
+computer science at the University of
+North Carolina at Chapel Hill.
+For his Ph.D. dissertation, Levoy for
+mulated a method to visualize complex
+objects by converting a sequence of two
+dimensional slices of an object into one
+three-dimensional object inside a com
+
+puter's memory. The computer could
+then "render" the object from a sequence
+of viewpoints, creating a movie which
+would show the object slowly rotating on
+the screen.
+Using his algorithm, a chemist could
+make a volume rendering of an intricate
+molecule or a doctor could make a 3-D
+image of a patient's brain. Both render
+ings give the researchers a better medi
+um with which to visualize their data.
+Levoy's algorithm renders a 2-D pro
+jection from a hypothetical 3-D object
+through a series of steps.
+First the computer reads in a series of
+cross—sectional images of an object. One
+example is a compilation of CAT slices
+from a human cranium. For each cross
+section, the algorithm converts each
+pixel in the slice into a corresponding
+voxel, or "volume pixel," located in a
+hypothetical 3-D space. The voxel is
+stored as a vector in the computer's
+memory.
+Each voxel is assigned two defining
+factors: a color and an opacity. The color
+depends on the dataset being visualized.
+For example, a voxel representing a point
+on a human cranium would be designat
+ed bone white.
+An opacity is assigned to each voxel by
+the data set. Ninety percent opacity will
+make a voxel opaque, while a 10 percent
+opacity will make the voxel almost trans
+parent.
+If a doctor wanted to look at the brain
+tissue of patient, for example, he would
+have the cranium rendered invisible with
+a low opacity and the brain tissue ren
+dered visible with higher opacities
+according to their location.
+"I would liken this process to visualiz
+ing an object with a colored mold of Jello.
+Where the fruit is would be areas of high
+opacity and different colors would be the
+different kinds of Jello mixed in," Levoy
+said.
+The algorithm next uses the vectors to
+construct a 'reflection plane' for each
+voxel. These planes act as little mirrors
+that reflect light rays from an imaginary
+light source. A smooth object will have
+voxels with parallel mirrors, while a
+rough object will have voxels with ran
+domly-oriented mirrors.
+The computer calculates the final 2-D
+projection by tracing the "reflections"
+from the hypothetical 3-D object. The
+programmer positions an imaginary
+light source so that the reflections will
+create a complete image of the object.
+
+The computer traces a ray from each
+pixel on the computer screen to each
+voxel on the 3-D object. The faster that
+these rays can trace the object, the faster
+the projection can be generated.
+The process is repeated to make
+another projection from a different
+perspective. Finally, all the projections
+are displayed in rapid succession, cre
+ating a slowly rotating object on the
+screen.
+So far, this process is limited, said
+Levoy, because rendering the final pro
+jections requires expensive computer
+equipment and time. Presently, a high
+powered workstation using the most
+advanced algorithm requires about a
+
+minute to produce one image.
+"These techniques won't be practical
+until the images can be generated in real
+time (30 frames per second) for the doc
+tor to instantly view," he remarked.
+Levoy believes that better viewing for
+mats are on the horizon. "The technolo
+gy is there, it's just a matter of time."
+When the images become real-time, sci
+entists will be able to "fly" through the
+object and explore the intricate details at
+the touch of a joystick.
+Levoy has published many ways to
+speed up the process of visualization,
+such as more efficient ray tracing and
+""gaze-directed" volume rendering.
+The latter approach involves using a
+
+head-mounted eye movement tracker to
+determine where a subject is "gazing.'
+The program then generates a more
+detailed image of that particular area,
+while spending less time on areas outside
+the field of vision.
+Even if these tactics are used, Levoy
+thinks that it will still be a year or two
+before real-time, or instantaneous, vol
+ume rendering is available.
+Currently, Levoy is pursuing new
+research in the area of 3-D laser scan
+ners. Levoy was appointed a Presidential
+Young Investigator in 1991, an honor
+that gives him $500,000 over five years
+to work on projects with "no strings
+attached."
+
+
+Al Green — Daily
+Marc Levov displays one of his 'renderings' of a human head constructed from a series of two-dimensional CAT scans. His
+programs can display a hypothetical object from any perspective, an ability that will be invaluable in constructing virtual real
+ities. Over 200 clinics across the nation will soon be using these images to destroy brain tumors.

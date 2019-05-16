@@ -1,0 +1,160 @@
+# A
+						message to St. Nick: A new system in our stocking
+## 
+### Mark Rogowsky Senior staff writer 
+The pervasive theme of the Computer
+Corner Christmas Wish List is that you
+can never have enough power. In the com
+ing paragraphs, I will tell you what I want
+for my personal Macintosh use and for
+our system here at The Daily.
+Keep in mind, that the wish list is just
+that. There is no delusion that any or all
+of it will be fulfilled. With that caveat, let
+me begin:
+'Next, please'
+As anyone with a Macintosh network
+knows, Apple Share servers are not exact
+ly speed demons. In order to get high per
+formance from your file server, you need
+to blow about six grand on a Ilfx and still
+your saddled with a 68030 processor and
+Apple's dreadful implementation of
+SCSI.
+Imagine if you could get a 68040-based
+machine with a SCSI-2 interface to serve
+as your network repository. Imagine if
+the machine was UNIX-based, supported
+true multitasking and could be used as a
+nifty workstation in the off hours when
+the server wasn't busy. Now for the best
+part.
+
+Imagine you could buy this machine
+for $3,300 at your friendly neighborhood
+Bookstore.
+Guess what? You can . . . sort of. The
+machine is made by Next, Inc. and since
+Motorola began volume shipments of the
+040 yesterday, it should be available with
+in a few weeks. Unfortunately, there isn't
+yet an Apple Share clone that runs on the
+Next.
+We here at the Wish List hope someone
+writes one soon — and sells it for under
+$1,000.
+Two score and seven . . .
+Meanwhile back in Cupertino, the
+Apple engineers are hard at work on an
+040 machine of their own that will run
+almost all existing Mac software. Sadly, it
+will probably not be ready until next sum
+mer and will undoubtedly set you back
+about $7,000 — enough to buy two Nexts
+and a decent VCR.
+More exciting for the typical Macin
+tosh user is System 7, that wonderful
+operating system upgrade that promises
+to revolutionize the way we use comput
+ers. It's already way behind schedule and
+Apple's not promising it before June.
+That doesn't mean we can't keep our
+fingers crossed for an earlier delivery.
+
+Apparently, the beta ver
+sion is rock solid — nearly
+as much so as the new Sys
+tem 6.0.7, which is giving
+Ilsi and Classic users
+nuyor headaches.
+Not only will System 7
+give us a new finder that
+actually finds files (it can
+even tell our dog-slow
+servers to search locally),
+it will let loose a flood of
+1 A • A
+
+upgrades from companies that are hold
+ing back revisions until Apple gives
+birth to its new baby.
+Microsoft has rewritten everything,
+including Word and Excel. They've also
+put together a database that promises to
+shake up the market.
+If and when seven-oh ships, the Mac
+will once again be the hot software plat
+form. It will do things Windows-users can
+only dream about. And, while the Next is
+still sexy, there are a couple million Macs
+out there and a couple thousand Jobs
+boxes.
+The $2 billion quarter
+No, not a numismatists dream, instead
+Computer Corner hopes Apple hits the
+jackpot with the Classic, Ilsi and the
+
+soon-to-be-released LC
+and makes a ton of money.
+If the dough rolls in, the
+heads will stop rolling
+back on the Apple campus.
+A stable Apple is much
+more likely to be a produc
+tive Apple than one that's
+constantly reorganizing
+and forcing upper-level
+managers to resign.
+Recently, it has come to
+
+light that a bunch of geniuses upstairs
+tried to kill the LC at every turn. This is
+the computer that's going to sell by the
+boatload since education, business and
+home users are all clamoring for it. But it
+didn't fit with some marketing wizards'
+notion of how the Mac line should shake
+out and almost never saw the light of day.
+Fortunately, a cadre of Apple employ
+ees, in the spirit of the firm's early days,
+worked on the project in secret and
+impressed the right people at the right
+time when they got it finished. Thanks to
+them, it's coming our way.
+The bigger Apple is, the more capable
+it will be of providing customer support
+and service, designing newer and better
+products, and serving as an innovator,
+helping to keep the computer industry
+
+strong.
+'No problem, pal'
+Most of you are probably more than a
+little tired of seeing the bomb icon and
+those six dreaded words: "Sorry, a system
+error has occurred."
+Wouldn't you feel a little better if the
+Mac occasionally just let you know that
+everything was A-OK in RAM City? While
+that feature isn't likely to be implemented
+soon, there is something you can do today.
+Using a number of programs including
+Fedit, Symantec Utilities for the Macin
+tosh and CE Software's Heap Fixer, you
+can increase the size of your system heap.
+All those INITs and desk accessories
+you have running take up a chunk of
+memory and the system has to keep track
+of them. Sometimes it fails to do so and
+gives up the ghost. A lot of crashes are
+caused by an "overflow" in the heap mem
+ory.
+Assuming you've got enough RAM (it's
+down to about $40 per one-megabyte
+SIMM), allot an extra 300-400K to the old
+heap. You won't notice any difference,
+except when your Mac stops crashing.
+
+Mark Rogowsky is The Daily's computer
+systems manager.
+

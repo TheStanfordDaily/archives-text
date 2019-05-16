@@ -1,0 +1,65 @@
+# Big Fix may be big risk, say RCCs
+## 
+### DAVID HERBERT DESK EDITOR 
+Residential Computing is en
+couraging students to install its anti
+virus program, Big Fix. but some
+Residential Computing Coordina
+tors are wary of the new software,
+which tracks and stores information
+from client computers.
+Big Fix manages Microsoft Win
+dows and Symantec Antivirus, up
+dating system patches and keeping
+virus definition current. According
+to Richard Holeton, head of
+ResC'omp, Stanford's Information
+Technology Systems and Services
+chose to employ the commercial
+program after an attack on the Uni
+versity's network in August 2003
+that left 7,000 computers infected
+and caused $900,000 worth of pro
+ductivity losses.
+The failure of students, faculty
+and staff to update their anti-virus
+programs made the network vulner
+able to attack in that case, he said.
+But Big Fix has some worried
+about privacy issues. The program
+has the ability to track a variety of
+information from computers, rang
+ing from a client machine's serial
+number, model type and IP address
+to the versions of Windows and
+Symantec running.
+In an effort to allay privacy con
+cerns, ITSS has stressed on its Web
+site's frequently asked questions
+page that the "Big Fix will permit
+authorized staff to collect certain
+data about your computer . . . but
+does not collect data files from your
+computer." Holeton added that
+only a small subset of information is
+being collected.
+But some RCCs are discourag
+ing their residents from installing
+the Big Fix program.
+"The program has the ability to
+track a ridiculous amount of infor
+mation," said senior Jamie Fitzger
+ald. a RCC in Eucalipto. "The
+worry is that if the school was sub
+poenaed or sued, they might turn
+over the data they've collected, or
+maybe even use it themselves. I'm
+not recommending people down
+load the program, especially since
+Windows updates itself automati
+cally."
+According to the ITSS Web site,
+the information collection is in fact
+"subject to University policies, laws
+and subpoena power."
+Qther RCCs said they alert stu-

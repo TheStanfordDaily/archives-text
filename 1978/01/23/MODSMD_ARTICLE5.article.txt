@@ -1,0 +1,97 @@
+# Prof urges improved computer safeguards
+## 
+### Richard Bowditch 
+The national standard for protecting com
+puter information from theft is inadequate,
+Assoc. Electrical Engineering Prof. Martin
+Hellman has charged.
+Hellman said the coding method adopted
+by the National Bureau of Standards, called
+the data encryption standard (DES), will not
+keep data secure from unauthorized use,
+and said the bureau maintains the in
+adequate standard because it has "been in
+filtrated by the National Security Agency
+(NSA)," which does not want to lose the
+ability to examine private data.
+For this reason, Hellman said, the bureau
+has ignored the fact that he, along with
+graduate students Whitfield Diffie and Ralph
+Merkle, have developed a virtually unbreak
+able system for limiting access to computer
+files.
+Concern
+The increasing use of computers has
+caused concern about theft of sensitive in
+formation, and coding or encryption is a way
+of safeguarding the data.
+As Hellman noted in a speech outline
+?[iven to the Daily, "The non-military need
+or encryption was great enough for IBM to
+institute a research etfort in 1968, and for the
+National Bureau of Standards to promulgate
+(the) . . . DES in 1976."
+
+But Hellman and Diffie maintain the DES
+56-bit key, a string of 56 "o"sand 'T'swhich
+tells the computer how to encode and de
+code data, could be broken by what they call
+"brute force" alone. They said a wealthy
+agency or corporation could build a
+machine to search all the possible 100 billion
+keys for the correct one.
+When the two men sent their comments
+on the system to the bureau, NBS officials
+replied to all except the criticism of the key's
+vulnerability. '
+'Schizophrenic'
+Of the NSA, Hellman wrote, . . it is
+schizophrenic — trying to give our military
+and diplomatic corps the best possible
+codes, but trying to keep them from other
+countries. It would therefore resist a pub
+licly available cipher that it cannot break."
+Hellman and his associates' work has itself
+been scrutinized by the NSA. Their method
+also offers a means of generating a unique
+digital signature.
+In July, the Institute of Electrical and Elec
+tronic Engineers received a letter from
+Joseph Meyer, a NSA employee, charging
+that some of the Institute's members' publi
+cations and some presentations scheduled
+for an information theory symposium last
+November could be prosecuted under the
+Arms Export Control Act.
+
+In his letter, Meyer cited three publica
+tions containing articles by Hellman on cryp
+tography. "It was quite clear he was refering
+to me," said Hellman.
+Denial
+Through spokesperson Norman
+Boardman, the NSA has denied any know
+ledge of or hand in the letter. Science
+magazine quotes Boardman as saying, "I can
+state for the agency that we had nothing to
+do with that letter. . . . Meyer wrote that
+letter as a private citizen. But with respect to
+any letter of that nature this agency would
+not prompt anyone to do it."
+Hellman said his initial reaction to the NSA
+statement was that the agency had put
+Meyer up to it, but "it may be that he did
+write the letter as a citizen, in which case he
+might be as much of an embarassment to the
+NSA as he is a nuisance to us."
+However, the question of legality has not
+yet been resolved. According to staff coun
+sel Mike Hudnall, the regulations were
+examined with respect to Hellman's appear
+ance at the November symposium, and
+Hellman did speak there. But because of
+questions about whether Stanford could
+legally support two of the professor's
+graduate students, he read their papers for
+them, although the students were available
+for questions.

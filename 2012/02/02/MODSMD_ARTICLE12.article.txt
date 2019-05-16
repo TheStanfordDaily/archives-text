@@ -1,0 +1,115 @@
+# SEARCHING THE STACKS
+## PROFILE 
+### CHRIS FREDERICK 
+Picture yourself in a li
+brary. As you walk down
+row after row of books,
+panic begins to set in. If
+this were the moment
+for a casual stroll through the
+stacks, breathing in the smell of
+weathered pages and perusing an
+intriguingly titled volume, per
+haps you would enjoy the sight of
+such grandeur, but at this mo
+ment, all you can think about is
+the 10-page paper you have due
+lpmorrow and how you have no
+lllea where to find your next
+I source.
+This is where Search Works en
+ters the picture.
+' "One of the primary functions
+>M a library is to enable people to
+discover information that might
+be useful," said Tom Cramer '94,
+associate director of digital li
+brary systems and services at
+Stanford.
+This is an especially demand
+ing job at Stanford, a university
+with collections made of 6,825,821
+information resources. To organ
+ize such a vast quantity of infor
+mation, librarians have needed to
+collaborate and think creatively.
+The result is Search Works, Stan
+ford's next-generation library cat
+alog.
+At the heart of Search Works is
+Blacklight, a software project de
+veloped at the University of Vir
+ginia. Blacklight is powered by
+Apache Solr and Apache Lucene,
+the same open-source search en
+gine software used by Netflix and
+Ticketmaster. While Stanford was
+the first university outside of Vir
+ginia to adopt Blacklight, about
+eight other universities, including
+Columbia, Johns Hopkins and the
+University of Wisconsin, now use
+the project.
+At first, libraries relied on
+commercial software, which often
+simply replicated the traditional
+card catalog in an online form.
+These commercial solutions
+proved inadequate, however, so li
+
+braries decided to collaborate and
+create new software for them
+selves. This approach matches the
+historical behavior of libraries, ac
+cording to Cramer.
+"There are more books than li
+brarians in the world, and labor is
+expensive, so libraries have been
+very good about figuring out how
+to share and cooperate with each
+other for centuries," he said.
+Search Works debuted in the
+fall of 2010. It took three years
+and a team of about 16 people to
+produce a replacement for the
+previous catalog, Socrates. While
+developing Search Works, the
+team made a special effort to con
+sider the unique needs of the
+Stanford community. For exam
+ple, Chris Bourg, assistant Univer
+sity librarian for public services,
+drew from her experience work
+ing with undergraduates while a
+graduate student at Stanford.
+"I represent the scholar's
+point of view, the student's point
+of view," Bourg M.A. '9B Ph.D. 'O3
+said.
+A feature Search Works has
+that Socrates lacked is relevancy
+ranking, which makes results ap
+pear in order of their relevance to
+a search. Because Search Works is
+open-source, librarians can tweak
+the ranking to suit an academic
+environment.
+"For example, journal titles
+show up higher in the list than
+they would otherwise; they get a
+little boost," Bourg said.
+A student who runs a search
+using the keyword "science,"
+therefore, will find the journal Sci
+ence included near the top of the
+results.
+Faceted search, another im
+portant feature, allows users to
+limit their search to particular
+kinds of items. For example, a user
+can search only for videos located
+in the music library.
+"If you look at the interface, it
+has a similar feel to Amazon or
+Zappos, or other kinds of online
+

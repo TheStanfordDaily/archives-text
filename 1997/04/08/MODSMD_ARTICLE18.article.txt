@@ -1,0 +1,53 @@
+# Axess, some databases reside on Forsythe, not 'on' MacSamson
+## 
+### 
+In The Daily's Friday article about
+the forthcoming availability of Axess via
+the World Wide Web, it used somewhat
+misleading terminology. It referred to
+the current incarnation of Axess as being
+available "on Mac Samson." Mac Samson
+may indeed be the application used by
+most on-campus students to get to
+Axess, but it is merely a tool, not the
+actual system itself.
+The actual Axess application is "on"
+Forsythe. Forsythe is an IBM mainframe
+system which (as the editorial in the
+same issue pointed out) supports many
+University administrative and financial
+functions, as well as a large number of
+research databases.
+The Forsythe system is a "host," and
+
+Mac Samson is one of many programs that
+can be used as a "client" to connect to the
+system via the telnet protocol. Mac Sa
+mson can be used to connect to other host
+systems, including the shared UNIX sys
+tems like the Elaines and the Amys.
+When most people connect to
+Forsythe, they enter Folio, a front end
+that provides a menu to select one of the
+databases. Most students are mainly
+familiar with Axess (for student infor
+mation) and Socrates (the library cata
+log). Folio also provides access to many
+other useful and interesting databases
+and services, including:
+• Lexis-Nexis, full-text access to busi
+ness and legal information and general
+news from many periodicals.
+• Econlit, a bibliography of economics
+literature (journals and other publica
+tions)
+• Quotations, a database of quota
+tions. (Find out who said what!)
+To access these databases, type
+"select" and then the database name
+
+(e.g., "select econlit") once you have
+logged on to Folio. To see a full list of all
+available databases, simply type "select."
+Olivia C. Williamson
+Systems analyst, University Libraries

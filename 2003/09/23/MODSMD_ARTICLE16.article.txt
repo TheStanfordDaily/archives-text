@@ -1,0 +1,92 @@
+# USC cracks down on cheating
+## School uses Stanford software to detect plagiarized assignments 
+### LAUREN BONIFACIO THE DAILY TROJAN 
+(U-WIRE) - An Internet-based plagiarism detector
+has caught several University of Southern California
+computer science students cheating, making the USC
+School of Engineering's number of academic dishonesty
+violations the second highest out of all departments in
+the university.
+
+The large number of engineering violations does not
+reflect the students' predisposition to cheat, but the ease
+with which cheaters in the discipline are caught, said
+USC Computer Science Prof. Michael Crowley.
+Crowley estimated that cheating occurs in classes
+throughout the university on levels similar to those in his
+computer science classes.
+"But for computer science, it's much easier to mea
+sure whether someone has cheated or not," he said.
+Crowley uses MOSS, or Measure of Software Simi
+larity, to detect plagiarism. With MOSS, professors send
+in a batch of student assignments. They then receive a re
+port on the similarities between assignments.
+MOSS leaves it up to the professor to decide whether
+the similarities reflect collaboration between students. It
+recognizes the programming languages C, C++, Java,
+Pascal, Ada, ML, Lisp and Scheme.
+"They know me well" at the office of student judicial
+affairs and community standards, he said.
+"[MOSS] can do things that are practically impossible
+for a human to do," Crowley said.
+Although the total number of academic dishonesty
+violations reported to the university has remained
+steady in recent years, the number of Internet-related vi
+olations is on the rise, said Christine Wozniak, assistant
+director of the office of student judicial affairs and com
+munity standards.
+There were 152 general academic dishonesty cases
+last year, 151 in 2001-02 and 148 in 2000-01.
+Crowley said he gave students a programming assign
+ment about three years ago and MOSS detected plagia
+
+rism in 28 assignments out of about 70.
+Curbing cheating throughout the university requires
+the commitment of professors, Crowley said.
+"The faculty has to care," Crowley said. "Some of the
+research faculty don't want to teach anyway, so they do
+it in a minimalist fashion. Luckily, there are not too many
+of those."
+When Crowley reminds his students he will be using
+MOSS, he said he sees few violations. But after a few se
+mesters, some students forget.
+MOSS is an effective deterrent for cheaters, said se
+nior Hunter Francoeur, a computer science and comput
+er engineering student.
+"Think about it. How hard is it to copy text from
+someone else's computer to your computer?" Francoeur
+said. "It's easy, but with MOSS it's too risky."
+Cheating may happen more frequently outside of the
+engineering school, Francoeur added.
+"The most cheating I have ever seen has been in my
+[general education classes]," Francoeur said. "Engineer
+ing work requires you to write your own code and come
+up with your own equations, whereas other disciplines
+require you to come up with a multiple choice answer."
+With bigger classes and smaller staffs at universities
+nationwide, it would be difficult to catch cheating stu
+dents without a systemized tool, said Alex Aiken, a Stan
+ford University computer science professor who devel
+oped MOSS.
+"The cost of cheating has gone down and the effort
+required to cheat has gone down," Aiken said.
+While teaching at UC Berkeley in 1994, Aiken devel
+oped the system, which compares the structures and
+styles in students' computer programming codes.
+The major difference between Aiken's and other plagia
+rism detectors is that he made his available on the Inter
+net, he said.
+Expanding MOSS-like services to essays and re
+search papers would be more problematic because stu
+dents could be plagiarizing from several million loca
+tions across the Internet, Aiken said.
+MOSS-like services can compare unique phrases in a
+student's writing to others in the companies' databases.
+And many companies that sell ready-made papers to stu
+dents also deal with college and university faculty, pro
+fessors said.
+
+
+ADRIAN GAITAN/The Stanford Daily
+Sing, sing a sona ...
+Sophomore Grant Patterson and freshman Leslie Finger sign upror Talisman during yesterday's activities fair.

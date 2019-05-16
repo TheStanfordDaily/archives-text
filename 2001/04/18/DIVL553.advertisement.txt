@@ -1,0 +1,16 @@
+# Adv. 24 Page 14
+## 
+### 
+2001 Karel deLeeuw Memorial Lecture
+Searching for the Shortest Network:
+A. IVlath Lecture for the Public
+There are many situations in which one would like to connect a collection of points in some metric space hy a network having the
+minimum possible total length. Such problems have a long and distinguished history, and occur in such areas as the design and
+analysis of telecommunications, networks, and heating and air-conditioning duct systems, algorithms for molecular phylogentics,
+and the layout of circuits on VSLI chips, to name a few. In this talk, we survey what is known and what is not known about this
+problem, and how it has been impacted by current developments in theoretical computer science.
+Ronald Graham
+University of California, San Diego
+April 19, 2001
+4:15 p.m., Building 420, Room 04
+For details, contact John Esposito, esposito@math.stanford.edu, (650) 723-0925

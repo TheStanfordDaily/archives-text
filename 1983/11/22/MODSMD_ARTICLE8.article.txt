@@ -1,0 +1,154 @@
+# Science
+## Doctors use computers as partners 
+### DAMON KORONAKOS 
+If you've ever taken CS-105 or 106, you
+probably yearn for an intelligent comput
+er like HAL from 2001 or the WOPR from
+War Games. An intelligent computer
+seems like a fantastic idea around 2 a.m.
+when you're still struggling to make LOTS
+understand what you want it to do. You
+begin to appreciate that computers are ef
+ficient but stupid and mechanical, relying
+completely on the reason of human
+operators.
+Researchers here at Stanford Medical
+Center and SUMEX-AIM (Stanford Uni
+versity Medical Experimental Computer-
+Artificial Intelligence in Medicine) are
+reversing the situation. They design com
+puter systems that advise and guide their
+human operators: physicians attempting
+to make diagnoses.
+♦ In his recent lecture, Medical Artificial
+Intelligence: the Search for a Byte of
+Knowledge, Dr. Edward Shortliffe, assis
+tant professor of medicine, described the
+application of artificial intelligence (or Al)
+techniques to medical problems. "Our
+goal is to capture the experience and
+judgment of an expert clinician inside a
+computer," said Shortliffe. "We are
+trying to foster a new symbiotic relation
+ship between physician and computer,"
+to create an electronic medical consultant
+with creative judgment, he said.
+In his lecture, Shortliffe described Al as
+"the study of ideas that enable computers
+to do the things that make humans seem
+intelligent." Using Al techniques,
+Shortliffe and his colleagues teach the
+computer to perform exclusively
+"human-like" activities, not just unwieldy
+calculations.
+These programs impart the ability to
+reason symbolically (manipulating
+abstract symbols rather than numbers
+alone), the ability to learn and apply new
+knowledge, and the ability to communi
+cate and answer questions in the lan
+guage of the human operator.
+
+Physicians' expectations for a
+computer-based clinical consultation sys
+tem dictate the use of Al techniques.
+Physicians need more than a passive
+storehouse of medical information; they
+want a system that can make subjective
+medical decisions. They want an "expert"
+system that can learn new information au
+tomatically when interacting with medical
+staff, and apply this knowledge to future
+cases.
+An ideal system should make in
+ferences and create solutions to
+therapeutic problems (even when insuffi
+cient data is available to rigorously justify
+them), display its own understanding and
+explain its reasoning. Artificial intelli
+gence methods make all this possible.
+Physicians, however, do not require
+the machine to be right all the time; they
+accept that a system which truly emulates
+a human being will make mistakes.
+The INTERNIST program developed at
+the University of Pittsburgh makes com
+petent diagnoses in the entire field of in
+ternal medicine and neurology. INTER
+NIST scans electronic disease "tables"
+when making its decisions. Each entry in
+the table includes disease symptoms,
+pointers to other diseases which often af
+flict the patient simultaneously, and other
+manifestations of disease.
+Each parameter in the disease descrip
+tion is assigned a "strength number"
+which gives a quantitative estimate of
+symptom frequency and probability.
+Symptoms are described exactly by a spe
+cial encoding scheme. "Abdominal
+pain," for example, has eight different
+codes corresponding to eight separate
+abdominal regions.
+INTERNIST proved its competence in a
+study conducted at Massachusetts Gen
+eral Hospital. It was able to correctly
+diagnose 21 out of 43 patients picked ran
+domly from the hospital, not quite as well
+as the hospital staff. This is an incredible
+accomplishment, since each patient
+
+could suffer from a wide variety of
+diseases.
+The MYCIN and ONCOCIN programs
+developed at Stanford take a different ap
+proach to diagnosis. They use logical
+rules of diagnosis rather than an ad-hoc
+numerical scoring system. These "rules"
+include information physicians learn
+during their medical training, such as
+complicated descriptions of bacterial be
+havior and enzyme mechanisms.
+However, rules also encompass many
+things which may seem trivial. The com
+puter is painfully unaware of seemingly
+obvious definitional rules, such as If the
+patient is a male, he cannot be pregnant.
+When making decisions people employ
+many such unwritten assumptions, which
+must be described explicitly to the com
+puter.
+The MYCIN program helps diagnose
+meningitis and related diseases. MYCIN
+interrogates the physician when search
+ing for a diagnosis but will also answer
+questions from the physician. If the
+physician challenges the computer's in
+quiry with "Why do you ask that?,"
+MYCIN explains why its question is im
+portant, types out the relevant rules in its
+memory, and cites literature references
+to justify its train of "thought."
+After hearing MYCIN'S diagnosis, the
+doctor might ask "How did you decide to
+treat for this particular disease?." MYCIN
+might reply "The patient's X-rays were
+particularly pertinent in making my deci
+sion," and would continue to explain its
+reasoning.
+After reaching a reasonable diagnosis
+with the physician, MYCIN asks for more
+information about the patient's history,
+allergies, and condition. It examines the
+patient's entire record to suggest a good
+therapy strategy. Although MYCIN deals
+with a limited number of diseases, it has
+proven itself as competent as the Stan
+ford faculty within its specialty.
+
+
+BUT DOES IT MAKE HOUSE CALLS?: Computers located at
+the SUMEX-AIM office of the Medical Center are being
+
+programmed in an experiment that will use computer tech
+nology to help doctors diagnose diseases such as diabetes.

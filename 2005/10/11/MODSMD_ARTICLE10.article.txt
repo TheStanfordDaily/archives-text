@@ -1,0 +1,93 @@
+# NATION
+## New Intel chip allows faster server processing 
+### MATTHEW FORDAHL ASSOCIATED PRESS 
+SAN JOSE, Calif. — Months ear
+lier than expected but still half a year
+behind its competition, Intel Corp.
+has started shipping server multi
+processors that have two computing
+engines on a single chip.
+The new dual-core Xeon chips for
+two-processor servers promise up to
+a 50 percent improvement over sys
+tems with two single-core proces
+sors, said Shannon Poulin, director of
+product marketing at Intel's Server
+Platform Group.
+Both Intel and Advanced Micro
+Devices Inc. launched dual-core
+chips this year as a way of gaining
+performance while controlling
+power consumption. AMD initially
+focused on servers while Intel
+started with chips for desktop com
+puters.
+As a result, the new Xeon is arriving
+about six months after AMD's dual
+core Opteron chip made its debut.
+"We are very committed to en
+abling the industry for dual- and
+multi-core, and that's why we were
+taking a very measured approach to
+getting these out there and putting
+them in platforms," Poulin said.
+But Intel's hand was forced when
+it decided to switch from releasing
+higher-frequency chips to those with
+two or more computing engines, said
+Gordon Haff, an analyst at the re
+search firm Illuminata.
+"Intel did not sit back and inten
+tionally plan to roll out first a dual
+core desktop and then a server," he
+said. "It's what their technology
+forced them to do when Intel decided
+to accelerate dual-core develop
+ment."
+
+AMD has managed to make in
+roads in servers, which are used for
+Web sites, applications and storage.
+Its market share jumped from 7.4
+percent in the first quarter to 11.2
+percent in the second, according to
+Mercury' Research.
+Intel still dominates with an 88.8
+percent share in so-called xB6
+servers. It also plans to price its
+chips aggressively — at or lower
+than single-core server chips. The
+new Xeons cost $1,043 each when
+bought in volume.
+Intel originally intended to
+launch the dual-core Xeon early
+next year but was able to move earli
+er than expected. Poulin credited
+"exquisite engineering," though
+AMD said its larger rival rushed be
+cause of the stiff competition.
+"We've been keeping the chair
+warm and we welcome them to the
+party we started back in April,"
+said Patrick Patla, AMD's director
+of server and workstation market
+ing.
+As has been the case with Intel's
+desktop dual-core processors, AMD
+claims its chips were designed from
+the start with dual-core use in mind.
+Intel, AMD claims, took existing
+chips and bolted them together.
+"It's pretty much a no-show from
+a performance and technology per
+spective," Patla said. "Intel is talking
+a good story about next-generation
+architectures, but they haven't really
+done anything about it."
+Intel's chips will benefit from an
+ability to handle two tasks, or
+threads, at once using a technology
+called Hyper-Threading. As a result,
+a two-core Xeon chip in a two
+processor server can execute eight
+threads.

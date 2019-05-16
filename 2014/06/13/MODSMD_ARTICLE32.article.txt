@@ -1,0 +1,190 @@
+# NEWS
+## ACADEMICS CS Department battles cheating 
+### KYLIE JUE DESK EDITOR 
+Originally published on June
+3, 2011
+It's 11 p.m. Your program is
+crashing, and the assignment is due
+at midnight. You know where your
+error is, but you don't know how to
+fix it. A simple Google search pulls
+up tons of working code, but copying
+that directly into your program
+would be violating the Honor Code.
+Yet it seems like there are always
+some students who give in to the
+temptation.
+Stanford's Office of Community
+Standards' annual case reports
+demonstrate a steady increase in
+the number of Honor Code viola
+tions in computer science (CS) each
+year.
+However, the enrollment in CS
+classes has also risen significantly
+over the last five years. In the 2013-
+14 academic year, over 1,500 stu
+dents took CS 106A: Programming
+Methodology, the first course of the
+introductory programming series
+in the CS department, and comput
+er science has grown into the
+largest major on campus.
+"Enrollments are on the rise,"
+said Mehran Sahami '92 M.5.'93
+Ph.D. '99, professor of computer sci
+ence and associate chair of educa
+tion for the CS department. "If you
+imagine the same percentage of
+Honor Code violations is taking
+place but now the enrollment in the
+class is twice what it used to be,
+you're going to see twice as many vi
+olations."
+A measure of software similarity
+Few students realize that each
+assignment they submit is run
+through a program called Measure
+of Software Similarity (Moss). Moss
+is used to detect similarities be
+tween code submissions, and is con
+sidered a standard across most U.S.
+institutions. Used by computer sci
+ence departments worldwide, Moss
+was developed by Stanford comput
+er science professor Alex Aiken.
+Developed 20 years ago during
+Aiken's time as a professor at UC-
+Berkeley, Moss is designed to cut
+down the manual labor of searching
+for plagiarism. However, Aiken em
+phasized that Moss is not a system
+for detecting plagiarism directly.
+"What Moss detects is similari
+ty," Aiken said. "Why the code is
+similar is a human judgment that
+has to be made."
+
+Since code might be similar for
+various reasons, including shared li
+braries or starter code provided for
+the course, an instructor much
+check to see whether or not the sim
+ilarity returned by Moss constitutes
+plagiarism. Moss simply helps pro
+fessors determine which programs
+should be flagged with a higher pri
+ority for further review.
+"It's kind of smart about what
+'the same' means. It knows, for ex
+ample, that if you go through and
+change all the variable names, it
+doesn't matter," Aiken said. "It
+knows some things about program
+ming that allow it to make some
+judgments about when two things
+are really the same and when
+they're not."
+Aiken explained that Stanford
+uses Moss to compare submissions
+not only against other students'
+work in the class, but also against
+code available online and submis
+sions from previous years and quar
+ters. The program looks for aspects
+such as similar structure, identical
+bugs and other unusual commonali
+ties.
+According to Stanford computer
+science lecturer Julie Zelenski 'B9
+M.S. '96, Moss also accounts for al
+gorithms used by a significant num
+ber of students.
+"It also knows how to recognize
+when something is just so idiomatic
+that everyone did it the same way,"
+Zelenski said.
+Zelenski also explained that
+since the introductory classes are so
+large, a graduate student has been
+hired to build tools to manage the lo
+gistics of finding high-priority
+matches in Moss for 106A and 1068
+before passing the data on to the
+course instructor.
+Computer science lecturer
+Marty Stepp also spoke about the
+importance of having a teaching as
+sistant (TA) to examine the Moss re
+sults first.
+"He does all of that part for us,
+basically gets [the MOSS results] all
+ready for us to look over, produces a
+nice executive summary for us of
+the data and places it in front of us in
+an easy way for us to examine,"
+Stepp said. "We look over the top
+matches and decide which ones are
+concerning to us, and that works re
+ally well because he can help us have
+a faster turnaround."
+Stepp also emphasized that the
+student does not play a role in decid
+ing whether or not a case should be
+pursued.
+"The instructor should make
+
+that decision so it's important to
+note that his role has nothing to do
+with innocence," Stepp said. "[The
+TA] doesn't make that call for us. We
+wouldn't ever farm that out to a
+third party."
+Stepp also explained that al
+though the section leading program
+plays a large role in grading assign
+ments for students in 106A and
+1068, section leaders are not re
+sponsible for looking for plagiarism.
+Instead, they are told to contact the
+instructor if misconduct is suspect
+ed, and according to Stepp, most of
+the time section leaders do not have
+the experience to accurately recog
+
+nize an Honor Code violation.
+Dealing with violations
+If a violation is discovered, stu
+dents usually have two options:
+choosing the Early Resolution Op
+tion (ERO) or allowing the case to
+go to a hearing.
+When a case is brought to the Of
+fice of Community Standards, a stu
+dent is assigned a judicial officer to
+advocate for the student. If the case
+moves to trial and eventually a hear
+ing, a panel of five students and one
+faculty member determines
+whether or not the student's actions
+constitute a violation of the Honor
+
+Code. If a student is found guilty by
+a five-to-one vote, the panel assigns
+a sanction to the student.
+
+According to Stanford's Office of
+Community Standards, standard
+first-time sanctions are usually a
+quarter of suspension and 40 hours
+of community service unless the
+panel finds that another response is
+more appropriate.
+First instituted in 2009, the ERO
+gives students the opportunity to
+immediately accept responsibility
+for their actions and skip the judicial
+hearing process. Zelenski explained
+
+
+VICTOR XU/The Stanford Daily

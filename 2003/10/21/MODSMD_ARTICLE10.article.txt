@@ -1,0 +1,79 @@
+# Rebuilding Ita solus potitus imperio Ancient Romulus; condita urbs Rome Conditoris nomine appellata
+## FORMA VRBIS ROMAE 
+### GEOFF KOCH 
+New technology is shedding light on an old mystery about third century imperial
+Rome.
+The Stanford Digital Forma Urbis Romae Project is relying on a combination of so
+phisticated algorithms and old-fashioned field work to solve the Forma Urbis Romae,
+or Marble Plan an archaeological jigsaw puzzle made up of more than 1,000 pieces.
+Marc Levoy, project director, said the work of computer science doctoral student
+David Koller illustrates the team's momentum.
+"David has found half a dozen matches between map fragments in the last six
+months more than archaeologists have found in the last decade using manual meth
+ods," said Levoy.
+With funding from the National Science Foundation and the Paul Allen Founda
+tion for the Arts and staff who write code working along others who study ancient cul
+ture, the Stanford Digital Forma Urbis Romae Project is far from ordinary. But so is
+the Marble Plan.
+At a time in Rome when gladiator games reigned as entertainment and Christians
+were a small persecuted segment of the population, the Marble Plan measured 60 feet
+by 43 feet and hung in one of city's grandest temples, Templum Pacis. Famous monu
+ments, commercial infrastructure, and even lesser-known neighborhoods and back al
+leys all were etched into its huge surface. Red paint that filled the etchings made the
+details of the map stand out starkly against the white marble.
+Public buildings did not fare well through the decline and fall of the Roman Em
+pire. Over the years, sections of the map were stripped from the temple walls used in
+the construction of other buildings or fired in kilns to make lime. Today only 10 to 15
+percent of the map survives, existing in 1,186 pieces.
+At the core of the project is the work of Levoy and his students to assemble three
+dimensional digital models of each of the map fragments and write algorithms that
+find out how these fragments fit together. The project's Web site says that "[o]ur pri
+mary technological aim ... is to 'solve the map.' "
+Before work on assembling the puzzle could begin, the computer science crowd
+had to do some field work of its own. In June 1999, a group of Stanford students and
+faculty visited Rome and digitized every known piece of the map using lasers scanners
+and digital cameras.
+While the team left Rome with a huge digital archive 8 billion polygons and
+6,000 color images, occupying 40 gigabytes it was not always easy to collect the
+data. A paper presented by Levoy in the spring of 2000 at a conference for computer
+graphics professionals lists problems ranging from tedium to property rights to damp
+and dusty working conditions.
+Four years later, work on this data is yielding results.
+"During our trip to Rome in June [2003], David presented new matches to archae
+ologists there," said Levoy. "He confirmed the matches in a dramatic reopening of the
+sealed crates containing the fragments."
+Levoy described the excitement of one archaeologist who saw how a fragment that
+he had excavated two years ago locked together with its mate, just as Koller predicted
+it would.
+"He yelled for everyone else to come over, saying 'Ragazzi, attacca!' ('Guys, it
+fits!')."
+Unfortunately, full assembly of the map may never happen. The existing data rep
+resent a mere fraction of the original monument and it may prove impossible ever to
+capture exact three-dimensional representations of the fragments due to the chal
+lenges in calibrating laser scanners. Sophisticated scanning equipment, jagged frag
+ment edges and dank working conditions do not always mix.
+Yet this issue of deviant data has created a research opportunity in its own right.
+Earlier this month, Levoy, along with graduate students Leslie Ikemoto and Natasha
+Gelfand, presented "A Hierarchical Method for Aligning Warped Meshes" at the
+Fourth International Conference on three-dimensional Imaging and Modeling in
+Banff, Canada. The paper explored ways to compensate for calibration errors that
+occur in collecting data with a digital scanner, the academic equivalent of making
+lemonade when the data yields lemons.
+While research on the algorithms continues, one part of the project is undeniably
+successful. The preliminary database of the Marble Plan offers a striking way for mu
+seum curators and weekend Indiana Jones types to see fragments of ancient Rome on
+their computer desktops.
+With detailed digital photos and comprehensive descriptive text, the database em
+bodies the collaboration between the classics and computer science pros.
+Thanks to the work of Ikemoto and Gelfand, good three-dimensional models exist
+for more than half of the fragments. A quick installation of a program called QSplat
+written by Szymon Rusinkiewicz a Princeton computer science professor who
+earned his doctoral degree at Stanford in 2001 allows users to rotate, zoom and ad
+just the lighting of realistic models of the fragments.
+Roller's calendar is already filling up to talk about his research results. He will present at
+a U.S. conference in January and at two conferences in Italy later in the spring.
+"The conference in Rome in March has been organized partly around his findings,"
+said Levoy. "It will be a busy year for him."
+
+
+ARON HEGYI/The Stanford Daily

@@ -1,0 +1,235 @@
+# Pacific 10 Statistics
+## 
+### 
+Total Offense
+Game
+Plays Yds Avg
+1. USC 208 1344 448.0
+2. Wash. 233 1280 426.7
+3. WSU 265 1632 408.0
+4. Ore. 209 1166 388.7
+5. UCLA 224 1047 349.0
+6.ASU 215 994 331.3
+7. OSU 220 946 315.3
+8. Stan. 215 871 290.3
+9. Cal. 191 820 273.3
+10. Ariz. 263 1072 268.0
+Rushing Offense
+Game
+Plays Yds Avg
+1. USC 135 803 267.7
+2. Ariz. 202 681 170.3
+3. Wash. 120 468 156.0
+4. WSU 163 604 151.0
+5. Ore. 114 424 141.3
+6.ASU 135 409 136.3
+7. UCLA 133 380 126.7
+8. Cal. 95 276 92.0
+9. OSU 127 233 77.7
+10. Stan. 99 199 66.3
+Passing Offense
+PC-PA TD Pet Avg
+1. Wash. 66-113 5 .584 270.7
+2. WSU 61-102 10 .598 257.0
+3. Ore. 56-95 8 .589 247.3
+4. OSU 49-93 3 .527 237.7
+5. Stan. 70-116 1 .603 224.0
+6. UCLA 55-91 4 .604 222.3
+7. ASU 38-80 6 .475 195.0
+8. Cal. 47-96 3 .490 181.3
+9. USC 43-73 8 .589 180.3
+10. Ariz. 26-61 1 .426 97.8
+Scoring Offense
+G Pts Avg
+1. USC 3 121 40.3
+2. WSU 4 157 39.3
+3. Ore. 3 96 32.0
+4. Wash. 3 74 24.7
+5. ASU 3 66 22.0
+6. OSU 3 60 20.0
+7. UCLA 3 57 19.0
+8. Ariz. 4 59 14.8
+9. Cal. 3 42 14.0
+10. Stan. 3 37 12.3
+Total Defense
+Game
+G Plays Yds Avg
+1. USC 3 196 713 237.7
+2. Stan. 3 196 831 277.0
+3. Wash. 3 198 919 306.3
+4. Ariz. 4 282 1344 336.0
+5. OSU 3 220 1051 350.3
+6. Ore. 3 224 1056 352.0
+7. UCLA 3 206 1069 356.3
+8. WSU 4 313 1533 383.3
+9. ASU 3 235 1191 397.0
+10. Cal. 3 260 1265 421.7
+Rushing Defense
+Game
+Plays Yds Avg
+1. USC 91 147 49.0
+2. WSU 141 235 58.8
+3. Ore. 95 202 67.3
+4. ASU 81 227 75.7
+5. OSU 105 266 88.7
+6. Stan. 121 322 107.3
+7. Wash. 113 328 109.3
+8. UCLA 122 524 174.7
+9. Ariz. 180 750 187.5
+10. Cal. 148 617 205.7
+yds = yards
+avg = average
+pc = passes completed
+pa = passes attempted
+pet = percentage
+g = games
+pts = points
+td = touchdowns
+no = number
+xp = extra points
+fg = field goals
+
+Passing Defense
+Game
+PC-PA TD Pet Avg
+I.Ariz. 58-100 1 .580 148.5
+2. Stan. 39-75 2 .520 169.7
+3. UCLA 49-84 1 .583 181.7
+4. USC 53-105 3 .505 188.7
+5. Wash. 41-85 2 .482 197.0
+6. Cal. 57-112 6 .509 216.0
+7. OSU 62-115 6 .539 261.7
+8. Ore. 75-129 3 .581 284.7
+9. ASU 85-154 3 .552 321.3
+10. WSU 103-172 5 .599 324.5
+Scoring Defense
+G Pts Avg
+1. USC 3 27 9.0
+2. Wash. 3 35 11.7
+3. Ariz. 4 47 11.8
+4. Ore. 3 43 14.3
+5. WSU 4 74 18.5
+6. Stan. 3 56 18.7
+7. ASU 3 57 19.0
+8. UCLA 3 73 24.3
+9. Cal. 3 80 27.7
+10. OSU 3 87 29.0
+
+Punt Returns
+No Yds Avg
+1. USC 6 100 16.7
+2.ASU 12 144 12.0
+3. Ore. 9 99 11.0
+4. Stan. 9 86 9.6
+5. Ariz. 10 54 5.4
+6. OSU 8 38 4.8
+7. Cal. 7 24 3.4
+8. Wash. 8 18 2.3
+8. UCLA 4 9 2.3
+10. WSU 6 12 2.0
+Kickoff Returns
+No Yds Avg
+1. Stan. 10 227 22.7
+2. CaJ. 14 279 19.9
+2. ASU 9 179 19.9
+4. Ariz. 9 173 19.2
+5. UCLA 15 280 18.7
+6. OSU 11 191 17.4
+7. Ore. 5 86 17.2
+8. Wash. 8 136 17.0
+8. USC 7 119 17.0
+10. WSU 11 164 14.9
+
+Total Offense
+Game
+Plays Yds Avg
+1. Conklin, Wash. 121 799 266.3
+2. Gossen, WSU 86 746 248.7
+3. Musgrave, Ore. 93 679 226.3
+4. B.Johnson, UCLA 106 647 215.7
+5. Justin, ASU 38 376 188.0
+6. Schichtle, OSU 109 525 175.0
+7. Taylor, Cal. 102 484 161.3
+8. Marinovich, USC 78 461 153.7
+9. G.Lewis, Wash. 71 364 121.3
+10. Veal, Ariz. 102 471 117.8
+Passing
+TD Avg Rat.
+1. Gossen, WSU 6 234.3 201.5
+2. Justin, ASU 4 125.3 180.0
+3. Musgrave, Ore. 8 235.7 155.4
+4. Marinovich, USC 6 152.7 137.7
+5. Garcia, WSU 4 107.3 137.2
+6. Conklin, Wash. 5 264.3 133.7
+7. B.Johnson, UCLA 4 218.3 128.3
+8. Schichtle, OSU 3 198.3 116.9
+9. Taylor, Cal. 3 158.3 108.6
+10. Veal, Ariz. 1 87.8 107.1
+Rushing
+Game
+No Yds TD Avg
+I.G.Lewis, Wash. 71 364 0 121.3
+2. Ervins, USC 46 328 2 109.3
+3. Berry, Ore. 25 181 1 90.5
+4. Broussard, WSU 75 321 1 80.3
+5. Chaffey, OSU 60 228 2 76.0
+6. Wallace, Cal. 49 194 1 64.7
+7. Winsley, ASU 35 185 1 61.7
+8. Emanuel, USC 34 176 1 58.7
+9. B.Brown, UCLA 55 172 0 57.3
+10. Wills, UCLA 38 160 0 53.3
+Receiving
+No Yds TD Avg
+1. Eschelman, Stan. 20 100 0 5.0
+1. Stallworth, WSU 20 387 4 19.4
+3. Riley, Wash. 14 283 0 20.2
+4. Berry, Ore. 9 125 0 13.9
+5. Ames, Wash. 12 107 1 8.9
+6. Ross, OSU 11 88 0 8.0
+6. G.Lewis, Wash. 11 87 1 7.9
+8. Five tied with 10
+Kickoff Returns
+No Yds Avg
+1. K.Williams, UCLA 6 146 24.3
+2. Greer, Cal. 10 238 23.8
+3. Scott, Stan. 5 117 23.4
+4. Cahoon, ASU 6 123 20.5
+5. B.Brown, UCLA 7 137 19.6
+6. Bates, Ariz. 6 101 16.8
+7. Thompson, OSU 7 117 16.7
+Punt Returns
+No Yds Avg
+1. Gulfford, ASU 10 120 12.0
+2. Obee, Ore. 9 99 11.0
+3. D.Lewis, Ariz. 7 46 6.6
+4. Grant Stan. 5 29 5.8
+5. Hubbard, OSU 7 38 5.4
+6. Treggs, Cal. 7 24 3.4
+7. Mincy, Wash. 5 4 0.8
+Scoring
+G TD XP FG Pts
+I.Hanson, WSU 4 0 17 8 41
+2. Stallworth, WSU 4 6 0 0 36
+2. Broussard, WSU 4 6 0 0 36
+4. Pfaff, Ariz. 4 0 5 8 29
+5. McCallum, Ore. 3 0 77 28
+6. McCallum, Wash. 3 0 8 6 26
+7. Bussanich, OSU 3 0 6 6 24
+8. Rodriguez, USC 3 0 16 2 22
+9. Three tied with 3 3 0 0 18
+Interceptions
+No Yds TD
+1. Horton, Ore. 3 51 0
+I.LaDuke, ASU 3 15 0
+1. Oldham, Ore. 3 5 0
+I.Noble, WSU 2 63 1
+5. Stokes, ASU 2 20 0
+5. Parrish, Cal. 2 16 0
+5. Huff, OSU 2 9 0
+5. Beck, OSU 2 0 0
+5. Diggs, WSU 2 27 0
+5. Ricard, WSU 2 15 0
+5. D.Lewis, Ariz. 2 2 0
+
+
+

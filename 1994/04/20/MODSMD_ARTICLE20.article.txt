@@ -1,0 +1,241 @@
+# Science
+## Silicon chips help increase understanding of the brain Researchers analyze neural activity by probing the brain's surface, growing nerve cells on chips Probing the brain 
+### Bryan Johnson Staff writer 
+Often referred to as the "brains"
+behind modern technology, integrated
+circuits will soon be built into almost
+everything from toys to toasters. At
+Stanford, these tiny chips also may soon
+help to shed light on the operation of the
+most complex circuitry of all: the human
+brain.
+A group of scientists and engineers
+working under Electrical Engineering
+Prof. Gregory Kovacs is currently using
+these chips to explore the interactions
+between neurons — the cells which
+make up the brain. In doing this, they
+hope to improve the understanding of
+how these billions of cells interact, and
+thus explain how the brain processes
+information and reacts to outside stim
+uli. '
+Integrated circuits are in many ways
+ideal for investigating cellular interac
+tions, since they are smaller and cheap
+er than other electronic technologies.
+They are also generally more reliable.
+This is a key factor if permanent
+implantable neural sensors are ever to
+be used, since the chips could not be
+replaced easily in the brain.
+
+The group has been working on elec
+tronic interfaces to nerves for several
+years, but the members have recently
+come up with the two new projects
+involving neurons which follow two very
+different strategies.
+Probing the neurons
+The first project involves designing
+and manufacturing tiny electronic
+probes to be inserted directly into the
+surface layers of the brain.
+
+Each probe consists of several
+electrodes arranged on two or more
+sharp tines, which are inserted into
+
+the brain with the top of the probe glued
+to a large substrate, such as a printed
+circuit board. The electrodes are then
+used to pick up the signals sent among
+neurons through the intracellular medi
+um — the area between cells.
+Some of the signal-processing circuit
+ry may be put on the same chip with the
+probe as the experiment continues. This
+change would enable more computation
+to be done by the implant itself, reduc
+ing the need for a wire tether to trans
+mit data back to a central computer.
+Using these electrodes should yield
+new and interesting results, since most
+investigations into the brain in the past
+have used one large electrode, according
+to David Kewley, a Caltech graduate
+student working on the project. The
+electrodes are also spaced both in
+rini| terms of depth into
+
+implanted in the brain.
+
+Varying the spacing of the tines produces
+
+multiple images of activity in the brain.
+
+the brain and in
+
+lateral separation, creating anoth
+er advantage over previous techniques.
+Many parts of the brain are in layers
+depending on their function. Probes
+which place electrodes at different
+depths can observe how different parts
+of the brain process the same informa
+tion.
+The lateral separation between the
+tines of each probe will allow
+researchers to examine how neurons in
+the same layer of the brain process dif
+ferent information.
+Since the probes are only about one to
+1 1/2 millimeters long, only the surface
+of the brain will be able to be explored
+using this technique.
+The first batch of 15 probes for the
+group's experiment has just been manu
+factured and will soon undergo testing
+to ready them for insertion into test
+
+animals.
+Each one is slightly different
+and can function independently of
+the others. This stage of the experi
+ment may not take place for a while,
+however. According to Kewly, "we are
+
+pushing things farther than what we
+know we can do." Unanticipated prob
+lems are virtually certain.
+Eventually, the goal of the project is
+to employ permanent implants, in
+which probes could be inserted into ani
+mals, which would then recover from
+surgery and "go about business."
+Problems with the technique
+Although the group hopes for suc
+cess, there are several problems which
+must be overcome to perfect the pro
+cess.
+Because the body is in many ways a
+hostile environment for implants, espe
+cially those involving electronics, one of
+the main obstacles to electronically
+monitoring neural activity is separating
+the individual signals out of the general
+electronic noise of the brain's intracellu
+lar medium. Since each electrode
+
+Researchers plan to use miniature probes like this one to
+measure neural activity at the brain's surface. The probes will
+eventually be designed so that they can be permanently
+
+receives a signal from each surrounding
+neuron, separation is often very diffi
+cult.
+The use of many tiny electrodes helps
+to solve this problem. Rows of electrodes
+can act like arrays of stereo receivers,
+providing multiple images of the brain's
+activity.
+By using computer-processing tech
+niques the signal from each nearby neu
+ron can be identified.
+However, even if the individual sig
+nals can be isolated, interpreting these
+signals remains formidable. An analo
+gous task might be attempting to under
+stand an incoming fax simply by listen
+ing to the high-pitched tone transmitted
+by a fax machine.
+Growing neurons on chips
+In the other project, cells are grown
+onto a "petri dish chip" which contains
+an array of tiny electrodes. This allows
+the electrodes to observe the cellular
+interactions in a more controlled envi
+ronment.
+Currently, the neurons being grown
+on chips are derived from the sub
+thalmic tissue of a mouse or from neu
+roblastoma — cancer-derived cells
+which are neuron-like. However, since
+the cells are not actual neurons, there is
+no direct connection between their
+activity and that of a brain
+Instead, the project is geared toward
+examining the cells' reactions to various
+stimuli.
+One potential use of this kind of chip
+lies in detecting changes in the neurons'
+activity when they are exposed to differ
+ent substances.
+For example, dying neurons exhibit
+changes in their activity patterns, and in
+addition shrivel away from the surface
+of the chip, changing the electrical
+impedance seen by the electrodes. Both
+of these effects would be potentially
+detectable using the technology being
+developed by the group.
+The type of biosensor the group is
+developing would be able to detect any
+
+0.5 r^rn
+
+neurotoxins simply by being able to tell
+when the cells are being affected.
+Neurotoxins can inhibit neuron activ
+ity in a number of different ways, and
+conventional chemical sensors have to
+test for every known substance sepa
+rately.
+The electrodes can also be used to
+stimulate the neurons and observe their
+reactions. Thus scientists could study
+the behavior of live "neural networks,"
+rather than being restricted to those
+modeled in a computer.
+However, the project is still in the
+early stages, so it will be quite some time
+before any practical devices are devel
+oped.
+"A lot of infrastructure is involved in
+the set-up" of a project like this, said
+David Borkholder, one of the graduate
+students working on the project.
+According to Borkholder, the main
+work to date has involved developing
+ways to culture the neurons on the chips
+and developing the basic chip design.
+Currently, the entire experiment must
+be kept in an incubator used to culture
+the cells.
+Immediate goals include developing
+electrodes with tiny spikes to project up
+into the cells, and developing smaller
+electrodes, so that it might be possible to
+have them fit entirely beneath a single
+cell. Such changes would greatly
+increase signal quality.
+In all of these experiments, the elec
+trodes can only provide insight into the
+signals sent through the intracellular
+medium. Much of the information pro
+cessing takes place inside the neurons
+themselves, and these processes cannot
+be directly observed with the probes cur
+rently in use.
+Though actual implementation of the
+experimental results derived from tests
+with individual groups of neurons is still
+in the future, the research may one day
+provide important clues about the inter
+nal structure of the brain — knowledge
+which may help bring what is now mere
+ly science fiction into reality.
+
+
+
+Jeff Sorrentino — Daily

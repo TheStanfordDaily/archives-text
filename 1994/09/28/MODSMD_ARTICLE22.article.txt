@@ -1,0 +1,85 @@
+# Beyond Dervish:
+## Many robotics projects thriving at Stanford 
+### Julie Sauer Editorial staff 
+Stanford's robotics research
+facilities emphasize making robots
+autonomous and dexterous so they
+can perform minute and delicate
+tasks.
+"The quest is taking a machine
+and giving it more intelligence and
+autonomy," said James Kuffner,
+Ph.D. student in the computer sci
+ence robotics lab. "The challenge of
+programming is to come up with a
+control algorithm to translate a task
+into a series of motor actions," Kuffn
+er added.
+This process is called path plan
+ning; it describes the problem of
+making a car travel from point A to
+point B or making a robot arm
+move from one configuration to the
+next.
+Robotics programmers try to
+make machines 'smarter' using
+compiex computations that enable
+robots to perform tasks that are
+effortless for humans.
+Robots differ from computers in
+that robots must orient themselves
+in a three dimensional world.
+"Computers interact in a virtual
+world, while robots interact in a
+real world," Kuffner explained,
+adding that robots must sense their
+surroundings and anticipate how to
+act in varying circumstances.
+In the Aeronautics and Astro
+nautics robotics lab, researchers
+emphasize cooperation between
+humans and robots. "What our lab
+is trying to do is to work on human
+
+robot teams," said Ph.D. student
+David Meer. The lab would like to
+develop human-robot interactions
+at a high level, so the human could
+direct the robot in general task
+specification, Meer said.
+Astronauts, for example, must
+now move space shuttle robot arms
+one joint at a time. The process is
+slow and limits the tasks that can
+be accomplished this way. Instead,
+researchers want to make robots
+more autonomous, so the machines
+could perform tasks like catching
+the Hubble space telescope.
+Researchers in the robotics field,
+or the field of 'artificial intelli
+gence,' generally split into two
+camps. Those who subscribe to
+strong artificial intelligence (AI)
+believe that "complex and intelli
+gent behavior will emerge from
+simple systems," Kuffner said.
+"They think that the intelligence of
+computers will surpass that of
+humans."
+On the other hand, proponents
+of weak AI believe that humans can
+build tools to aid the progress of sci
+ence, but they cannot build a
+machine that will have original
+thought.
+"In [the field of] AI you are hum
+bled by the power of the human
+brain," Kuffner said.
+Making 'thinking' robots is not
+the goal of the aero-astro lab either,
+Meer said, adding that "until the
+technology catches up to where
+humans can be replaced by comput
+ers, that [thinking robots] is not
+what we want."

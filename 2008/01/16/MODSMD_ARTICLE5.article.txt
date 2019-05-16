@@ -1,0 +1,46 @@
+# SCIENCE & TECH
+## Student develops anti-spam program New filter is more user-friendly than alternatives 
+### ANDREA SY CONTRIBUTING WRITER 
+If regular filters can't stop spam
+from taking over your inbox, computer
+science graduate student David Erick
+son has got your back with Default Off
+Email (DOEmail), which Erickson de
+veloped in tandem with Associate Pro
+fessor of Computer Science and Elec
+trical Engineering Nick McKeown.
+DOEmail is a free anti-spam tool
+that is similar to a buddy list for instant
+messengers and allows users to broad
+ly categorize received mail. There are
+three basic groups: a list for people you
+want mail from, a list for people you
+don't want mail from and the unknown
+for all uncategorized addresses.
+Emails received and classified
+under "unknown" generate an auto-re
+
+sponse from DOEmail — a form is
+sent back to the sender in order to ver
+ify that the sender is human. The
+sender then has three weeks to re
+spond.
+According to Erickson. DOEmail
+can help users regain control of their
+in boxes.
+"Spam is a serious problem — 74 to
+95 percent of email received is spam,
+and DOEmail is a simple solution that
+gives a lot of power to the user," he
+said. DOEmail includes options that
+allow users to micromanage their spam
+control or to merely set broad filters
+and let the program do the rest.
+According to Erickson, who com
+pleted his undergraduate education at
+the University of Utah, these options
+set DOEmail apart from other sys
+tems.
+When asked to compare other anti
+spam tools like content filtering with
+his project, Erickson responded that

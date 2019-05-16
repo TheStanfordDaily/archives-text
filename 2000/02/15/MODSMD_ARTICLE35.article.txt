@@ -1,0 +1,165 @@
+# Big future coming for these tiny micro-devices
+## 
+### PADMA SUNDARAM 
+Small can indeed he beautiful.
+Especially when we're talking
+about fabricating tiny electro-me
+chanical structures. Researchers in
+the Ultrasonics Group of the Elec
+trical Engineering Department
+have developed tiny little devices
+called capacitive micro-machined
+ultrasonic transducers (CMUTs).
+"This new technology has a
+wide array of applications ranging
+from under-water last cameras to
+real-time medical imaging to
+micro-machined printer jet
+heads," said Electrical Engineer
+ing Prof. Butrus (Pierre) Khuri-
+Yakub, who oversees the group.
+The underlying principle of the
+CMUT is this. Imagine that you
+have two electrically charged metal
+plates, one of which is fixed. If you
+change the charge on one of them,
+then the other one moves closer or
+farther depending on the polarity
+of the charge. Now what il you
+made the mobile plate lighter than
+the fixed one and kept alternating
+the polarity of the charge applied?
+The lighter plate will start vibrat
+ing and emit ultrasonic waves —
+that is, vibrations too fast for us to
+hear. CMUTs can thus be used as
+ultrasonic transducers, which con
+vert acoustic energy to electrical
+energy and vice-versa.
+Applications for the new trans
+ducers include flow sensing, non
+destructive testing of structures
+and developing more efficient ink
+jet heads for printers. The mass
+produced transducers can also be
+applied to existing fluid ultra
+sound technologies, such as med
+ical imaging. This would allow re
+searchers to realize less expensive
+and more efficient equipment.
+"We can now detect defects in
+materials without the need for
+physical contact, which is required
+by most of today's ultrasonic in
+spection systems," said Sean
+Hansen, a doctoral student work
+ing in the group. Conventional
+testing systems require fluid cou
+pling, immersion or contact with
+
+the sample. '! his breakthrough en
+ables new applications of ultrason
+ic inspection, such as the ability to
+detect flaws in moving parts.
+Conventionally, ultrasound is
+generated using a piezo-electric
+transducer. A piezo-electric device
+simply consists of a crystal which
+when deformed develops electric
+charges. The reverse is also true.
+That is, by subjecting the crystal to
+an alternating electric field, we can
+make it vibrate and emit sound
+waves.
+Researchers have conventional
+ly found it difficult to work with ul
+trasound because ultrasonic sig
+nals weaken rapidly. In order for
+these new devices to operate at
+high frequencies, they must be
+much smaller than today's piezo
+electric transducers that can oper
+ate only at low ultrasonic frequen
+cies.
+"MUTsoflera low cost, high ef
+ficiency alternative to piezo-elec
+tric devices. That's our promise,"
+Khuri-Yakub said.
+In order to produce these tiny
+devices, micro-machining technol
+ogy is required. Micro-machining
+is simply manufacture of silicon
+structures that have dimensions of
+the order of micrometers. Micro
+machined ultrasonic transducers
+can emit and receive airborne ul
+trasound waves at frequencies
+much higher than current ultra
+sonic transducers.
+It is possible to fabricate arrays
+of such devices using a simple
+micro-machining process. These
+arrays consist of hundreds of tiny
+transducers, each about as wide as
+a human hair and 100 times thin
+ner than a sheet of paper. The ar
+rays can be used to generate and
+detect ultrasound.
+CMUTs offer a more efficient
+alternative to piezo-electric de
+vices used in medical imaging ap
+plications. Ihe piezo-electric crys
+
+tal lias to be placed in contact with
+the person and then moved to
+look at the desired organ. But
+what if a surgeon could insert a
+tiny little detector into the artery
+during a critical operation? This
+would give him an inside view of
+the patient's body, which he other
+wise would have to only imagine.
+It is not possible to achieve this
+using a piezo-electric device.
+CMUTs are ideal for such applica
+tions.
+"This technology will enable
+real-time three-dimensional med
+ical imaging systems in the fu
+ture," Khuri-Yakub said. "It also
+offers improved image quality, re
+duced cabling requirements and
+low cost disposable probes. With
+the addition of on-chip electron
+ics, these transducers represent
+the most promising technology for
+realizing high-quality, real-time
+three-dimensional imaging sys
+tems."
+By coupling two CMUTs to
+gether, tiny on-chip transformers
+can also be realized. This is benefi
+cial since conventional transform
+ers are bulky and cumbersome to
+interface with on-chip electronics.
+"Pierre and I are really excited
+about the prospects of this new de
+vice," said Mohammed If. Badi, a
+doctoral student working under
+Khuri-Yakub. "Its key is its versa
+tility in that depending on how it's
+engineered, it can be anything
+from a simple filter to au amplifi
+er. This is definitely a revolution
+ary idea."
+The new technology has
+opened up a wide range of new
+applications that were previously
+not possible. "We are very excited,
+there is definitely a lot of cool stuff
+going on here," said Dr. ArifSanli
+Ergun, a Research Associate who
+is currently working on finding
+new detection techniques for
+CMUTs.
+

@@ -1,0 +1,110 @@
+# Bug explains automatic gates and the Jack in the Box drive-thru
+## 
+### Jessen Yu Staff writer 
+Q, How do the automatic gates
+, around campus work r
+
+A.lf you've ever set foot on
+• Stanford's campus, you've
+probably seen these gates all
+over the place — they look like
+toll booths, with the exception
+that only the privileged few who
+have special access cards can
+open them.
+If you don't have a card, you
+can't drive onto the main cam
+pus because of those little flimsy
+plastic arms that are apparently
+robust enough to keep your
+2,000-pound car from getting
+through.
+To a driver intent on illegally
+entering onto the main campus,
+say, to take a driving tour of the
+Main Quad, these gates provide a
+
+significant barrier. But if you
+ever somehow "accidentally" find
+yourself in a car on the inside of
+a gate, you may have noticed that
+it's not nearly as hard to get out.
+Whenever a large vehicle
+approaches the gate from the
+inside, it pops open and then
+shuts again after the vehicle has
+made its way out.
+As a bicyclist, you may have
+also ridden through one of these
+gates at some point and seen it
+jump hesitantly, as if it weren't
+sure whether you're a car or not.
+Given these two facts, most
+people jump to the conclusion
+that the gates are hooked up to
+pressure plates. If you look at the
+ground inside of these gates, you
+
+will find that there is a large sec
+tion that has been cut, where
+something has obviously been
+buried underneath the pavement.
+The problem with the pres
+sure plate theory, however, is
+that even with five people stand
+ing on the inside, the gate will
+not open. However, many a
+lighter golf cart has passed
+through without any trouble.
+So what's going on? Under
+neath the pavement is the same
+technology used in drive
+through restaurants and traffic
+intersections — a large, inverted
+metal detector.
+The metal detector is essen
+tially a coil of wire, buried under
+ground and wired in a circuit
+
+called an LC circuit. An alternat
+ing current passes through the
+circuit at a frequency dependent
+on a certain characteristic of the
+coil called its inductance.
+The inductance of the coil
+determines how the wire loop
+creates a magnetic field based on
+the current passing through it.
+As the inductance changes, so
+does the frequency of the alter
+nating current.
+One way to change the induc
+tance of the coil is to place a
+large metal plate over it, such as
+a car. The magnetic field gener
+ated by the coil interacts with
+the car, changing its induc
+tance, which can then be detect
+ed by a change of frequency in
+
+the LC circuit.
+A metal plate is not the only
+way to a fleet the inductance of the
+coil. Any object which can mutu
+ally induct with the coil will work.
+For instance, another inductor, or
+coil of wire, will work. An exten
+sion cord, coiled and plugged into
+itself provides a perfect inductor
+to set off the pate.
+I tried this the other night
+with three of my friends.
+Although we couldn't set off the
+gate by weight, when we tossed
+the extension cord onto the
+plate, the gate popped open,
+which we found hilarious.
+When we tried it at Jack in
+the Box at 3 a.m., they weren't
+nearly as amused.
+

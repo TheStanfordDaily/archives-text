@@ -1,0 +1,49 @@
+# CAMPUS LIFE
+## More servers added to speed up Course Work Academic Computing increase number of servers 
+### STEPHANIE FAGLIANO STAFF WRITER 
+Several changes are being made to
+Course Work, Stanford's academic ad
+ministration site, to make it faster and
+easier to use.
+Academic Computing, a division of
+Stanford University Libraries and Aca
+demic Information Resources (SU
+LAIR), is responsible for maintaining
+this site. According to Lois Brooks,
+technical manager of Academic Com
+puting, Course Work's major goal is ef
+ficiency.
+"Our goal is to log everyone in as
+fast as we can" Brooks said. "While we
+have gotten better over the quarter, we
+are exploring additional ways to im
+prove login performance."
+One of these improvements has
+been the addition of servers.
+"Additional servers were added to
+the production environment in re
+sponse to the login issues experienced
+during the first three weeks of winter
+quarter," Brooks said. "Doubling the
+total numbers of Course Work servers
+will help spread the distribution of
+login attempts, thereby reducing the
+likelihood of slow login process from
+reoccurring."
+The Course Work team has worked
+hard to improve the speed and utility of
+the site. There are also steps every stu
+dent can take to help prevent the login
+process from slowing.
+"Please do not login multiple times,"
+was Brooks' first piece of advice.
+"Whenever possible,students are en
+couraged to access Course Work during
+non-peak hours." Brooks said. "Stu
+dents are also encouraged to log out of
+Course Work after they are done using
+the system so Course Work connections
+can be made available to other users.
+"Finally, when students are on the
+WebAuth page after logging in to
+Course Work, they should click the link

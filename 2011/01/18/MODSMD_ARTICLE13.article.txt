@@ -1,0 +1,106 @@
+# DON'T FOLLOW ME
+## 
+### JAMES LANCASTER 
+Until recently, Internet users
+concerned with their privacy
+could do little to protect them
+selves from third-party track
+ing while surfing the Web. But
+thanks to the work of two Stanford re
+searchers, Jonathan Mayer and Arvind
+Narayanan, users can now opt out of track
+ing that compiles information about their in
+terests and preferences for online advertis
+ers.
+Behavioral advertising, which involves
+tracking online consumers' browsing histo
+ries, seeks to present ads that are targeted to
+the interests of individual consumers. Mayer,
+a graduate student in law and computer sci
+ence, says users are becoming increasingly
+concerned about the presence of behavioral
+advertising.
+"These sites get information about users
+by tracking the places they visit," he said.
+"Users feel a real privacy concern."
+
+Last August, Mayer and Narayanan, who
+is a post-doctoral researcher, set out to create
+software that would allow users to indicate
+they don't want to be tracked as they surf the
+Web. Do Not Track, the product of their
+work, is already in use by thousands who
+have installed Adblock Plus or NoScript, two
+free, popular Firefox add-ons that use the
+software.
+The technology behind Do Not Track is
+fairly simple, Mayer says. The software works
+by appending a custom header to HTTP re
+quests sent by Web browsers. Each time the
+user visits a site, this header indicates that the
+user doesn't want to be tracked. Currently,
+however, compliance with header requests is
+voluntary: websites are not required to re
+spond to users' requests.
+For Mayer and Narayanan, this is the
+biggest challenge for Do Not Track. Though
+the software was noted in the Federal Trade
+Commission's report on Web privacy last
+November, there is debate as to whether sites
+should be required to comply with the soft
+ware's requests.
+
+Mayer says addressing these policy con
+siderations is currently the duo's main goal.
+"The technology's actually dead simple,"
+he said. "The challenges at this point are cer
+tainly more on the policy side."
+Online advertisers are the main oppo
+nents of Do Not Track, he said, adding that
+claims of the software's ability to destroy the
+online advertising industry are unfounded,
+especially since behavioral advertising repre
+sents a small portion of the online ad market.
+"Contextual, demographic and search
+engine ads actually account for the vast ma
+jority of online ads," he said. "The idea that
+Do Not Track would wipe out the market is
+difficult to believe."
+Mayer added that advertisers could re
+spect users' privacy while still tailoring ads to
+the specific interests and preferences of con
+sumers. He said that interest-based advertis
+ing without tracking could be achieved by
+having users initially indicate their interests
+to their browser. The first time users
+launched Do Not Track, they could also se
+lect their interests from a list provided by
+
+their browser.
+"We really think this is a great solution to
+the problem," he said. "It's definitely possible
+to get analytics for advertising without third
+party tracking."
+Mayer maintained that Do Not Track
+provides a choice for both parties involved.
+Sites that don't wish to suspend third-party
+tracking, he said, could refuse the user's re
+quest, but only after informing the user. Con
+sumers would thus be aware when sites were
+tracking them.
+"This is ultimately about choice and trans
+parency," he said. "It truly is a very practical
+technology."
+Mayer is optimistic about the outlook of
+Do Not Track and plans to continue to ex
+pose its feasibility.
+"We're really excited about what we've
+created," he said. "Do Not Track has the abil
+ity to make a meaningful impact in the pro
+tection of online privacy."
+
+Contact James Lancaster at jlancaster@stan
+ford.edu.
+
+Stanford researchers develop
+anti-tracking software

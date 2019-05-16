@@ -1,0 +1,84 @@
+# SLAC Scientists discover maximum speed for hard drive storage slower than expected
+## 
+### LISE MARKEN 
+Scientists at the Stanford Linear Accelerator
+Center (SLAC) have demonstrated the limits of
+computer storage speed in an experiment far-re
+moved from normal computer hard drives. The
+experiment used the linear accelerator to simulate
+computer storage with beams of electrons fired at
+magnetic recording material.
+In a discovery with implications for future
+computer storage capacity, Stanford researchers
+found that the highest speed at which magnets can
+reliably be made to switch poles is about 1 .(XX)
+times slower than theorized. Since magnetic-pole
+switching is fundamental to how computers
+record information, their findings will impact the
+development of computer hard-drive technology.
+Researchers at the Stanford Synchrotron Ra
+diation Laboratory (SSRL) simulated the process
+of switching magnetic poles that occurs in a com
+puter's hard drive. The accelerator produced a
+beam of electrons that was used to act like a hard
+drive's writing head, while magnetic detectors
+simulated the hard drive.
+In a computer, the writing head contains an
+electric current that creates a series of magnetic
+impulses. These impulses arrange the poles of mi
+
+croscopic magnets on a disk's surface in one of
+two directions, producing the binary code that
+computers use to store information.
+Because the linear accelerator is able to pro
+duce extremely short magnetic impulses of only
+two picoseconds — in other words, two trillionths
+of a second — researchers were able to explore
+the limits of magnetic pole switching. The experi
+ment showed that the behavior of the magnets on
+the recording surface becomes random — and
+therefore useless for recording purposes — at
+speeds up to 1,000 times slower than the re
+searchers expected.
+The speeds reached in the linear accelerator
+are well beyond current computer technology, so
+little has been discovered about the upper limit of
+computer data recording until now.
+"People have done a lot of research on the size
+limits of computing technology but less on the
+speed limits because they can't be reached tech
+nologically," said Deputy Director of the Stan
+ford Synchrotron Radiation Laboratory Joachim
+Stohr. "We used a two-mile long [linear accelera
+tor! to reach these speeds. No one has a clue how
+to get up to these speeds inside a computer, so it
+hasn't been studied as much. The physical limit
+that this experiment discovered may be hard to
+
+reach technologically."
+Stohr explained that there is an important differ
+ence between processing speed and storage speed.
+"Text editing, for example, happens in the
+memory of the computer," he said. "It's saved
+electronically on a silicon chip, not magnetically.
+When you want to save a document, on the other
+hand, you say 'save' and the computer writes it to
+the hard drive magnetically. Our experiment had
+to do with data storage speed."
+Though this experiment doesn't have direct
+implications for the limits of computer speeds, it
+does have consequences for the understanding of
+data recording in general and could lead to other
+technological innovations. Heat-assisted record
+ing, where a portion of the recording material is
+heated to increase the speed at which its magnets
+can switch poles, is one example of future tech
+nology the research might lead to.
+According to Stohr, this experiment was a highly
+unusual and innovative use of the linear accelerator.
+"The linear accelerator is built for high energy
+physics," he said. "It's not typically used for study
+ing the materials used in technology today. This
+was a unique way to use a tool of high energy
+physics for an experiment that addresses techno
+logical questions."

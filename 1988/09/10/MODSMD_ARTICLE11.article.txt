@@ -1,0 +1,111 @@
+# Pacific 10 Statistics
+## 
+### 
+Rushing Offense
+Game
+Plays Yds Avg
+1. WSU 62 373 373.0
+2. UCLA 49 315 315.0
+3. USC 53 229 229.0
+4. OSU 45 200 200.0
+5. Ariz. 32 171 171.0
+Passing Offense
+PC-PA TD Pet Avg
+1. USC 22-34 2 .647 273.0
+2. WSU 21-29 1 .724 228.0
+3. UCLA 21-28 4 .750 223.0
+4. OSU 26-40 1 .650 218.3
+5. Ariz. 6-14 0 .429 67.0
+Scoring Offense
+G Pts Avg
+1. UCLA 1 59 59.0
+2. WSU 1 44 44.0
+3. USC 1 34 34.0
+4. Ariz. 1 24 24.0
+5. OSU 1 13 13.0
+
+Rushing Defense
+Game
+Plays Yds Avg
+1. UCLA 34 37 37.0
+2. USC 28 65 65.0
+3. WSU 29 117 117.0
+4. OSU 32 171 171.0
+5. Ariz. 45 200 200.0
+Passing Defense
+Game
+PC-PA TD Pet Avg
+1. OSU 6-14 0 .429 67.0
+2. WSU 22-34 0 .647 186.0
+3. USC 15-29 1 .517 188.0
+4. UCLA 17-32 0 .531 197.0
+5. Ariz. 26-40 1 .650 218.0
+Scoring Defense
+G Pts Avg
+1. UCLA 1 6 6.0
+2. USC 1 7 7.0
+2. WSU 1 7 7.0
+4. Ariz. 1 13 13.0
+5. OSU 1 24 24.0
+
+Passing
+PC-PA TD Yds
+1. Peete, USC 21-33 1 271.0
+2. Rosenbach, WSU 21-21 1 228.0
+3. Wilhelm, OSU 26-40 1 218.0
+4. Aikman, UCLA 13-17 3 155.0
+5. Watters, Ariz. 4-7 0 39.0
+6. San Jose, UCLA 2-2 0 32.0
+7. Veal, Ariz. 2-7 0 28.0
+8. Caragher, UCLA 4-5 1 19.0
+9. Bonds, UCLA 1-4 0 17.0
+10. Sperle, USC 1-1 1 2.0
+Rushing
+Game
+No Yds TD Avg
+1. Broussard, WSU 27 173 2 173.0
+2. Ball, UCLA 17 122 0 122.0
+3. Swinton, WSU 17 116 0 116.0
+4. Taylor, OSU 20 88 0 88.0
+5. Holt, USC 18 86 1 86.0
+6. Wills, UCLA 9 81 2 81.0
+7. Washington, Ariz. 12 70 0 70.0
+8. Chaffey, OSU 14 60 0 60.0
+9. Thompson, UCLA 11 55 0 55.0
+10. Rosenbach, WSU 8 52 3 52.0
+Receiving
+No Yds TD Avg
+1. Affholter, USC 7 74 0 10.6
+2. Wellsandt, WSU 5 80 0 16.0
+2. Stallworth, WSU 5 53 1 10.6
+2. Thomas, OSU 5 31 0 6.2
+2. Nicholson, OSU 5 28 0 5.6
+6. Galbraith, USC 4 60 0 15.0
+6. Farr, UCLA 4 59 0 14.8
+6. Green, UCLA 4 47 0 11.8
+6. Wood, WSU 4 47 0 11.8
+Scoring
+G TD XP FG Pts
+1. Rosenbach, WSU 1 3 0 0 18
+2 Broussard, WSU 1 2 0 0 12
+2. Emanuel, USC 1 2 0 0 12
+2. Estwick, UCLA 1 2 0 0 12
+2. Wills, UCLA 1 2 0 0 12
+6. Velasco, UCLA 10 6 1 9
+7. Hanson, WSU 10 5 1 8
+7. Rodriguez, USC 1 0 2 2 8
+9. Bussanich, OSU 10 12 7
+
+
+yds = yards
+avg = average
+pc = passes completed
+pa = passes attempted
+pct = percentage
+g = games
+pts = points
+td = touchdowns
+no = number
+xp = extra points
+fg = field goals
+

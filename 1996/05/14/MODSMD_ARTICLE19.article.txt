@@ -1,0 +1,132 @@
+# The
+						Science Bug
+## The
+						Bug explains how refrigerators really work 
+### Jessen Yu Contributing writer 
+QmHow do refrigerators work ?
+A They make things cold. That's it.
+• Next question.
+Q 9 No, really, where does all the heat
+go ? C'mon, tell me!
+A OK. Fine. But it's not going to be
+• pretty. Basically, the cooling pail
+• of a refrigerator has three parts, a
+compressor, a condenser and an evapora
+tor. These parts are linked in a cycle, and
+they all act on a coolant. In the first com
+mercially viable refrigerators, ammonia
+was the coolant. The bad thing about using
+ammonia as the coolant was that if any
+thing went wrong with the refrigerator, the
+ammonia smelled really bad and if enough
+of it got out, it could kill.
+
+Later, refrigerator makers switched to
+synthetic chemicals for coolants. The most
+well-known of these chemicals were the
+freons. Freons are typically colorless, odor
+less, nonflammable, noncorrosive and only
+toxic in very high quantities. The use of
+freons, and other chlorofluorocarbons
+came under attack recently because of con
+cerns over their effects on the ozone layer.
+This was a big deal because if the ozone
+layer disappeared, then air conditioning
+would be the least of our problems. Today,
+many refrigerator manufacturers have
+switched to chemicals which pose less of a
+threat.
+But back to the refrigeration part. Since
+the refrigeration process is a cycle, it's hard
+to say where it starts. It's sort of like saying
+that "Bankrupt" is the first space on the
+Wheel of Fortune. Arbitrarily, I'll start
+with the compressor.
+The aptly named compressor compress
+es the coolant to a high pressure. If you
+remember your chemistry, this increase in
+pressure causes the temperature of the
+coolant to go up. The compressed coolant is
+then forced into the condenser, which is the
+
+assembly of tubes on the back of your
+refrigerator. The air around the back of
+your refrigerator serves to remove some of
+the heat from the coolant passing through
+the condenser.
+The coolant is then pushed through a
+valve into an area of much lower pressure,
+the evaporator. This special valve between
+the condenser and the evaporator keeps the
+pressures in the two sections different.
+Since the coolant is now at a lower pres
+sure, it cools down drastically. The evapo
+rator leads the coolant through the inside of
+the refrigerator. Here, the coolant absorbs
+heat and then passes into the compressor
+again.
+It seems so simple, right? The coolant
+absorbs heat from inside the refrigerator,
+gets pressurized, releases the heat into a
+warmer area outside the refrigerator, gets
+depressurized, goes back into the refrigera
+tor and absorbs more heat, to start the pro
+cess over again. Well, yeah, basically that's
+it.
+That's not all, though! If I were teaching
+you the basics of refrigerator repair, that's
+where I would stop. But I'm not, and I
+
+promised it would get messy.
+Theoretically you might be wondering,
+why do we need to plug the refrigerator into
+the wall? Why does it take energy to move
+heat from inside the refrigerator to outside
+the refrigerator, but not to do the opposite?
+The answer lies in thermodynamics.
+The first law of thermodynamics says that
+energy is conserved. Almost everyone
+knows this one. The second law is the one
+we really need to be concerned about. It
+says that the entropy of a system never goes
+down. Of course, this means nothing to you
+if you don't know what entropy is.
+Entropy is a measure of disorder. This
+seems like a pretty stupid idea because dis
+order seems like a pretty hard thing to mea
+sure. I mean, who's to judge what's disor
+dered and what's not? Just because my
+papers, books and other personal belong
+ings are scattered around the floor, it
+doesn't mean I'm any less of a person! Give
+a guy a break, people!
+Sorry. Really, though, scientists have
+developed the concept of entropy to explain
+why certain things happen and other
+things don't. Consider a glass of hot water
+
+with some ice cubes in it. Obviously, the ice
+cubes will melt and cool the water. But why
+doesn't warm water spontaneously convert
+itself into hot water and ice? This is because
+there is less order in the warm water. In the
+case of the hot water and ice cubes, the dif
+ference in temperature between the ice and
+water represents an ordering of energy.
+Heat Ls transferred from the water to the
+ice cubes to reduce the order in the system.
+So, just moving heat from inside your
+refrigerator to the outside decreases
+entropy and this is bad. The refrigerator
+gets around this by adding more heat to
+outside the refrigerator than it takes from
+the inside. This increases the entropy out
+side the refrigerator more than the amount
+of entropy lost from the transfer of heat out
+of the refrigerator. That's also why the
+refrigerator needs an external source of
+power.
+If you didn't understand that, that's all
+right. It's just a disordered mess of words to
+me, too.
+

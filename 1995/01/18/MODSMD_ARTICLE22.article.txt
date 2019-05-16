@@ -1,0 +1,213 @@
+# Science
+## 'Social Interface' helps PC users Computer scientists and communicators collaborate at Microsoft 
+### Dev Nag 
+How many times have you
+pounded your keyboard in frustra
+tion over an incomprehensible pro
+gram that might as well be in bina
+ry? How many people are scared of
+Unix outside of e-mail? Why are
+computers so hard to use? After all,
+they were made for people, right?
+Wrong, say Stanford Communi
+cations professors Clifford Nass and
+Byron Reeves. And in response,
+they have introduced an entirely
+new concept to the world of
+computing — the social user inter
+face (SUI, pronounced 'soo-wee').
+Focusing more on the user than
+
+has any previous interface, the SUI
+integrates aspects of social experi
+ence into a computer environment.
+So promising is this approach to
+computer-user interactions that Bill
+Gates, CEO of Microsoft, personally
+demonstrated on implementation of
+the SUI in the form of the much
+hailed Bob program at a recent Con
+sumer Electronics Show.
+Nass describes the threefold evo
+lution of SUI interfaces. "It started
+with Unix and DOS," he said. These
+operating systems are entirely text
+based, or command-line interfaces
+(CLIs). A prompt was the extent of
+user-friendliness, and graphics were
+limited to rudimentary ASCII art.
+
+Then, in 1984, the introduction
+of the Macintosh was a "revolution
+— the graphical user interface
+(GUI, pronounced 'gooey') came
+along," Nass said. The GUI began a
+whole new era of computing, incor
+porating both the Macintosh series
+of computers and the Windows pro
+grams from Microsoft.
+With a visual "desktop" and a
+mouse to track the position of a cur
+sor on the screen, users were treat
+ed to a comfortable, picturesque
+environment. "And now we have
+SUI," Nass said. "This is meant to
+be the radical new interface — it's
+meant to supplant GUI," he
+explained.
+
+Traditionally, computer science
+has viewed social interfaces as tools
+for the ignorant. For example, some
+PC and Unix advocates denigrate
+the Macintosh environment, the
+platform currently closest to the
+SUI, as limited and inferior.
+Extensive research conducted by
+Nass and Reeves, however, demon
+strated that thus view was misguid
+ed. "Humans {ire experts at being
+social. They're not born to be
+experts at computing," Nass said.
+"So if a computer program can be
+social, people can automatically be
+experts."
+This idea was so attractive that
+Microsoft and other computer com
+panies showed an immediate inter
+est in applying it to their products.
+With the aid of Reeves and Nass,
+Microsoft has created its manifesta
+tion of SUI, inauspiciously named
+Bob.
+Bob looks like an ordinary house.
+Or a castle. Or even an artsy New
+York post-modern apartment,
+"which I dislike intensely," Nass
+said. The style depends on the pref
+erences of the user; there are 12
+characters from which to choose a
+guide. "You can customize the room
+style, character, even personality,"
+Nass said.
+Incredibly, Bob will have no
+menus, no online help, and no
+instruction manual ... no instruc
+tion manual? "You can't get lost,"
+said Nass. "Your character will pro
+pose your four or five most common
+programs if that happens. And
+there's only one person to go to."
+The preliminary reaction to Bob
+has been very encouraging. "It's
+radically different," Nass attested.
+"Even Mac users thought it was eas
+ier." Few can deny that the intuitive
+dasign is certainly more helpful for
+novices, and even experts have
+praised the environment's novelty
+and direct approach.
+"When experienced users try out
+new applications, our research has
+shown that they find SUI more
+
+effective than traditional inter
+faces," Nass explained. Such users
+become comfortable with SUI pro
+grams much faster than with CLI or
+GUI programs. "The interface
+reflects fundamental social rules fol
+lowed in regular daily life," he
+added. "The characters behave like
+a person would behave."
+Microsoft had already discovered
+that a character-based environment
+would Ix 3 more effective than GUIs
+and CLIs, but they had no system
+atic understanding of the principles
+behind SUIs.
+"They had a project going, and
+then [the designers] heard Byron
+and I speak," Nass said. "They real
+ized that we had the theory they
+needed behind the product." The
+Microsoft designers approached
+Nass and Reeves later, and the pro
+ject immediately benefited from
+their research experience.
+And Bill Gates is impressed
+enough to take the researcher's
+strategy even further than Bob's
+development. Rather than introduc
+ing Bob as a single program,
+Microsoft plans to implement the
+SUI philosophy into its Windows
+line.
+"Microsoft is more interested
+than ever in the social interface,"
+Nass said — as are a number of
+other companies which have teamed
+up with Nass and Reeves to form an
+SUI consortium. In return for con
+sulting with approximately 20 com
+panies about the SUI and related
+topics, Nass and Reeves "receive
+funding for their basic research.
+Other technologies that will be
+integrated with SUI include inter
+
+active television and database sys
+tems. "It's extremely likely that
+the Internet will have some [SUI]
+front ends. I suspect it's eventual
+ly going to appear in all communi
+cation technologies," Nass predict
+ed.
+The evolution of the interfaces
+seems to be heading towards a vir
+tual reality (VR) type of platform.
+"Certainly full-blown SUI would
+mean a fully-intelligent, fully
+social, fully-natural environment,"
+Nass affirmed. "So that would
+mean pure VR with the social and
+intelligent additions. And I have no
+prediction as to when that will be —
+probably much later than anyone
+thinks."
+Nass is surprised by the results
+and admits that they are somewhat
+bizarre. "We find these experiments
+unbelievable," he admitted. "We're
+amazed that they work, because
+they're so counterintuitive."
+One might expect people to treat
+computers as machines or house
+hold appliances, but the relationship
+turns out to be a bit more personal.
+"People aren't aware that they do
+this," Nass said. "Ask anyone if they
+are social with computers, and
+they'll say no."
+Nass plans to continue working
+with Microsoft after the March
+release date of Bob.
+He has studied various forms of
+responses to media for almost a
+decade, and computers are only a
+subset of his research. "We're inter
+ested in communication technolo
+gies in general," he said, "not just
+computers. They tend to be among
+the most interesting, though."
+
+
+-courtesy of Microsoft
+Bob's Social Interface includes characters that converse' with the user and act as guides to the pro
+gram. The 'home' environment offers a choice of room styles that can be altered to suit the user's taste.
+Other programs and applications can be accessed through the rooms.
+
+
+-courtesy of Microsoft
+Microsoft's Bob program for home PCs offers a new user-friendly
+interface to facilitate home computing.

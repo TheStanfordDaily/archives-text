@@ -1,0 +1,51 @@
+# Worm burrows into servers
+## 
+### CORINA YEN CONTRIBUTING WRITER 
+A virus-like worm attacked the Internet world
+wide last weekend — and hit Stanford's servers —
+slowing Internet traffic and overwhelming the
+world's digital pipelines. According to Stanford's
+Director of Information Security Services, Ced
+Bennett, the worm was first detected the evening of
+Jan. 24, and at one point, Stanford's network was
+being hit with nearly 400,000 attempts per minute
+from the Internet due to the worm's monopolizing
+bandwidth.
+The MS SQL Server worm created a generalized
+distributed denial of service (DdoS) that did not
+allow access or slowed normal access to Web sites.
+The worm, also known as "W32.Slammer" and
+"Sapphire," attacked MS SQL Server systems. It
+caused problems all over the world, ranging from
+computer failures at Korea Telecom Freetel that
+left millions of Internet users in South Korea with
+out service, to the inability of most of Bank of Amer
+ica's ATMs to process transactions, the Associated
+Press reported.
+At Stanford, many Stanford Hospital servers and
+several University servers that use MS SQL Server
+
+had problems. SQL Server is only used on a few
+Stanford servers, though, because it is not a part of
+a default Windows installation.
+The most widely felt effects were reduced access
+to web servers and other network services.
+"There were no related problems with individ
+ual computers in [my dorm]," said Residential
+Computer Coordinator Eric Boyes, a senior. "The
+noticeable effect was that the entire Internet slowed
+to a crawl nation wide... Stanford residents felt the
+same slowdown that the rest of the world experi
+enced."
+The SQL worm attacked a known vulnerability
+of Microsoft database software, SQL Server 2000.
+Upon successful infection of a system, the worm
+replicated itself and used the new host to search for
+other computers and to launch additional attacks
+over the network, according to Bennett. The attack
+was non-destructive to local machines.
+"It didn't affect that many machines, that wasn't
+a major problem," Bennett said. "[But] it was af
+fecting our traffic. Most people saw they couldn't
+get to Web sites because they were acting like they
+were broken. There was so much traffic they

@@ -1,0 +1,145 @@
+# Providing crucial connections
+## Stanford nerve chips offer technology for artificial limbs 
+### Joanna Sosinska Staff writer 
+It won't happen overnight. It
+might not even happen in
+several years, but the progress
+is overwhelming, and the possi
+bilities, say Stanford research
+ers, are astounding.
+What is it? It is a silicon chip
+containing living nerve tissue
+which may eventually lead to a
+bionic person.
+For the past two years, a
+group of Stanford researchers
+from the fields of biology, med
+icine and electrical engineering
+have been working on the
+"nerve chip project." The project
+raises the possibility of using
+microchips to repair damaged
+nerves.
+Bernard Widrow, professor of
+electrical engineering and pres
+ident of the International
+Neural Network Society com
+ments, "For now, we are trying
+to build an interface between a
+peripheral nerve in an am
+putated stump and a prosthesis
+(an artificial limb)."
+The task is horribly compli
+cated by the fact that the nerve
+has thousands of signals that
+must be translated effectively
+into a few useful signals. To
+make matters worse, the human
+body has an estimated 10 billion
+neurons, all interconnected.
+On Jan. 15 at the Interna
+tional Joint Conference on
+Neural Networks in Washing
+ton, D.C., Widrow presented his
+team's research. A year ago, the
+Stanford research group im
+planted a microchip in the foot
+nerve of a rat, to create com
+munication links between an ar
+tificial network and the nervous
+system.
+
+The human body
+has an estimated
+10 billion neurons
+in a complicated
+network.
+
+After a year, the experiment
+was a huge success but on a
+tiny scale. Individual nerve
+fibers about 4 millionths of a
+meter in diameter connected
+again from the ends of the nerve
+and grew through holes at one
+end of the silicon chip. The holes
+were about 1 millimeter by 3.6
+millimeters.
+Scientists were able to trans
+mit and received signals from
+the chip through a computer
+acting as a neural network. The
+artificial network models the
+highly complex network of nerve
+cells in the nervous system.
+The team someday hopes to
+apply this technology to a sys
+tem that can electronically con
+trol a human prosthesis by
+relaying messages normally sent
+to the limb from the brain.
+But the big problem is that
+"the nerves in the limb and the
+prosthesis do not reconnect cor
+rectly," says Greg Kovacs, a
+Stanford medical student and a
+doctoral candidate in electrical
+engineering who designed the
+chip. After the reattachment,
+the electronic signals from the
+brain get "scrambled" in the
+damaged area, adds Kovacs.
+The microchip, in connection
+with the neural network, is re
+sponsible for decoding this input
+
+and sending out the proper in
+formation to the robotic limb.
+"Thousands of signals are sent
+to the chip, but we want to pick
+out only about 10 to 100 of
+them, the most important
+ones," says Widrow, "and make
+them work."
+A type of glove, similar to the
+one manufactured by Nintendo
+for use with video games, could
+actually serve as a "artificial
+learning system" for a patient
+with a prosthetic hand. It con
+tains sensors that follow the ar
+ticulation of various joints in
+the positions of the fingers.
+"By placing the gloves on both
+the healthy and the damaged
+hands, the brain is able to learn
+to adjust for the error signals,"
+explains Widrow. But, he cau
+tions, "You could never obtain
+the exquisite control of the nat
+ural hand."
+"We're not there yet," em
+phasizes Dr. Joseph Rosen, a
+plastic surgeon in the Stanford
+School of Medicine who is part
+of the nerve chip project team.
+"We would like to take a patient
+with nerve injuries and utilize
+the natural control signals
+(decoded by the chip) in con
+trolling prosthesis. . . but we are
+working towards a goal that
+could take a decade, even two
+decades, to realize," Rosen says.
+"The initial results are
+promising but it's a long-term
+project that when complete will
+be of major importance," Rosen
+says. But even if now it is only
+a single chip in a single nerve,
+in a few years it could be several
+chips together creating a man
+machine "bionic" interface.
+The research project is funded
+by the Department of Veterans
+Affairs.

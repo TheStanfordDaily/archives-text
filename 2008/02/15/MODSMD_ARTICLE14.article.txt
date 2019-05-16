@@ -1,0 +1,24 @@
+# SCIENCE & TECH
+## Program advances 3-D images Program creates models using advanced algorithm 
+### NIKHIL KAMAT 
+Photographers may now he able to
+do more than print their work: they can
+instantly turn it into navigable virtual 3-
+O worlds. Stanford computer scientists
+have come a step closer to realizing this
+goal through the development of an
+algorithm that can render accurate
+three-dimensional models from ordi
+nary photographs.
+ITie Make3d algorithm, developed
+by Computer Science Prof. Andrew Ng
+and postdoctoral student Ashutosh
+Saxena. uses data from a large set of
+carefully analyzed images taken from
+all across campus to relate the relative
+depth of objects in various circum
+stances to properties of the two-dimen
+sional image, ITiis depth data is then
+used to extrapolate the relative posi
+tions and shapes of objects in new pho
+tographs introduced to the algorithm.

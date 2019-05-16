@@ -1,0 +1,46 @@
+# Delivery droid avoids the Noid
+## 
+### Jennifer Cho Staff writer 
+As Stanford students grit their teeth and look
+up up their grades on Axess, they may wonder if
+they accomplished anything at all last quarter.
+One group of dedicated students, however, will not
+have to worry. If nothing else, they taught a robot
+how to deliver a pizza.
+C 5222: Autonomous Systems is one of a hand
+ful of classes in the country in which undergradu
+ates and graduate students can learn how to pro
+gram a robot using the computer language LISP.
+Offered every fall quarter, the class, taught by
+Prof. Mike Genesereth, teaches students the fun
+damentals of programming "autonomous sys
+tems," physical systems that operate without
+human assistance.
+Using Macintosh Powerbooks and two identical
+Nomad 100 mobile robots, students learned how to
+program basic robot behaviors, culminating in the
+final project: the robot pizza delivery competition.
+During the competition, four of five program
+ming teams squared off in two semifinal rounds,
+culminating in a final matchup between the top
+two teams.
+Placing the two robots at opposite ends of a
+symmetrical maze made of white cardboard boxes,
+the teams started their programs as the robots re
+ceived "pizza orders" via radio modem from a cen
+tral dispatch computer.
+The two robots then competed with each other
+to find their way around the maze in order to pick
+up and deliver the most "pizzas," represented by
+numbered notecards, in the shortest amount of
+time.
+"The robots had a representation of the world
+in the form of a map given to them five minutes be
+fore the competition began," teaching assistant
+Illah Nourbakhsh explained. "The programs de
+signed by students work for any map."
+
+
+Michael Tsai Daily
+lllah Nourbakhsh demonstrates the Nomad 100, the robot used in
+the Computer Science 222 "pizza delivery" competition.

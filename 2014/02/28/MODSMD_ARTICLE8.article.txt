@@ -1,0 +1,50 @@
+# OPINION
+## How to stop 10,000 students from snooping through your files 
+### Emma Pierson 
+Every Stanford student is given a
+computer account which allows
+them to store and manipulate
+files using Stanford's computers. After
+inspecting this system, known as AFS,
+I suspected it might be possible for
+anyone with an account to do two
+things:
+
+1. Rapidly harvest the Stanford
+email address of every single student
+(and many alumni), enabling them to
+potentially spam tens of thousands of
+people.
+
+2. Read the filenames for ex
+ample, "meganfox.jpg" that every
+student had stored in the home direc
+tories of their Stanford accounts (un
+less the students had know-how to ex
+plicitly make those filenames private; I
+describe how to do this at the end of
+the article).
+While for obvious reasons I'll skip
+the technical details of how one could
+
+do this, I wrote to Stanford's IT servic
+es (ITS) and they confirmed this was
+the case. This is not ITS's fault: they
+didn't design AFS (Carnegie Mellon
+did) and fixing an established system is
+hard. When I wrote to ITS, they re
+sponded rapidly and professionally,
+convincing me that there was no easy
+fix.
+I would nonetheless suggest that
+this system is worth modifying be
+cause both the email addresses and
+the filenames invite abuses.
+Firstly, people have attempted to
+harvest student emails in the past, and
+unscrupulous ASSU candidates, start
+up founders or anyone who's ever
+used the phrase "FORWARD WIDELY"
+might do it in the future. One could al
+so sell the addresses to a spam list.
+(Stanford does use an anti-spam sys-

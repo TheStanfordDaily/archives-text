@@ -1,0 +1,44 @@
+# LAB WATCH
+## 
+### Rollin Hu Editorial staff 
+Traditional supercomputers to dis
+appear within the decade
+
+John Hennessy, professor of computer science and
+dean of the School of Engineering, predicts that with
+in the next five to 10 years, traditional supercomputers
+will become obsolete. In a talk given Nov. l l ) at the
+
+SC'97 conference in San Jose, he claimed that "the last bastion of
+non-microprocessor computing, the vector-based supercomputers,
+will vanish."
+"Vector-based" supercomputers, like the famous Cray machines,
+have been used since the l l )5()s to perform tasks that require extraor
+dinarily fast processing speeds. However, new microprocessor tech
+nology has improved to the extent where desktop machines may soon
+be able to perform the tasks that only supercomputers can complete
+now.
+In fact, improvements in microprocessors have already made the
+large mainframe computers, once the core of industry computing,
+obsolete. According to Hennessy. vector-based supercomputers will
+be the next to go.
+As microprocessor-based computers attain faster and faster pro
+cessing speeds, they are able to do a higher proportion of computing
+jobs. Basically, that means the user can get more computing bang for
+their buck using microprocessor-based computers. Eventually,
+demand for vector-based supercomputers will tall dramatically as
+consumers find that most of their needs can be accommodated by the
+more cost-effective microprocessor computers.
+"Most importantly, the price-performance gap between the two
+types of machines is closing at a compounding rate," Hennessy said.
+Already, microprocessor-based computer users get more than twice
+the processing power per dollar than vector-based supercomputer
+users. Hennessy predicts that soon, the ratio may approach five times
+the processing power per dollar.
+Another problem that traditional supercomputers face is the lack
+of commercial software. Most supercomputers rely on customized
+software, which can often be extremely expensive. In order to maxi
+mize profits, most software companies prefer to create software for
+larger markets, so the relatively small number of supercomputei users
+are often left out of the commercial software market. As ;i result.
+

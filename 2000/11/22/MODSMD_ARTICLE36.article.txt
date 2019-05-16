@@ -1,0 +1,190 @@
+# a
+						weekly look at science and techology at Stanford Innovation
+## Virtual reality draws closer with haptics 
+### JEFFREY TAM CONTRIBUTING WRITER 
+Willi cameras flashing around him,
+Oussama Khatib moved his hand on a
+small joystick-like knob, causing a large ro
+botic arm to emulate the motion of his
+hand.
+1 fere on the first floor of the Gales (lom
+puter Science Building, Khatib, a professor
+of computer science and head of the Stan
+lord Robotic Manipulation Group, was
+demonstrating the latest advances in ro
+botics lo a group of visiting high school
+teachers from Bermuda.
+I he visitors were awed time after time
+as Khatib gave demonstrations of his
+newest toys. Even Computer Science
+Prol. Eric Roberts, who was leading the
+teachers around and who had probabK
+seen many of the demonstrations before,
+was fascinated.
+After the demonstration, Khatib dis
+cussed recent innovations in robotics, no
+tably in the area of haptics.
+Haptics is a sub-field of robotics thai
+deals with mechanic ally simulated physical
+feedback that will c ause the user of a robot
+ic system lo "feel." For example, in one
+demonstration on the first floor of Gates,
+the user can manipulate a metal knob to
+move a ball around several polygons on a
+computer screen. The user feels resistance
+from the metal tip that simulates how il
+would feel if the user were physically mov
+ing his lingers around polygons. When the
+user moves the computer ball around a
+cylinder, the user's fingers can leel the
+smooth surface of the cylinder. When he
+moves the ball around an octagon, lie feels
+the ridge at each corner of the octagon.
+According to Khatib, advances in the
+three-dimensional computer graphics en
+vironment, as well as the natural maturity
+of research in the field of haptics, have
+
+come together to cre
+ate some promising
+developments within
+the last five years.
+Kenneth Salis
+bury, a professor in
+computer science
+and co-director of
+the Center for Ad
+vanced 1 ethnology
+in Surgery at Stan
+ford, noted, "The
+advent of haptic in
+terface technologies
+in the last five years
+have inspired people
+[to come up with
+new ways to use this
+technology]."
+Khatib envisions
+the day when haptics
+technology will be
+advanced enough for
+astronauts lo be able
+lo train doing con
+struction work in
+space. Astronauts will
+be using simulated
+tools and materials
+that feel as if they
+were being used in
+space. Or, for that
+matter, what il an as
+tronaut could control
+a robot In feeling the
+same forces as the
+robot?
+While such so
+phisticated systems
+may not exisi fora
+long while, haptic
+
+technology will soon he used in medicine.
+Groups ill Stanford have been working to
+create haptic simulations so that doctors
+c an train by doing mock surgeries.
+
+Already, companies such as H I Med
+ical Systems, located in (laithersburg,
+Maryland, have developed haptic systems
+where nurses can train lot putting
+
+catheters into arms
+lor intravenous fluid
+injections. A trainee
+applies a catheter to a
+rubber arm. The
+catheter is attached
+to a mechanical sys
+tem that simulates
+the pressure that the
+trainee would feel if
+he were indeed in
+jecting the catheter
+into a real arm. ()n a
+computer screen, he
+can also see the arm
+as il would look with
+the catheter being
+applied.
+Stanford's Cen
+ter for Advanced
+Technology in
+Surgery is also at
+tempting to simulate
+the feel of soli tissue
+using haptics. Even
+tually, doctors will be
+able to simulate per
+forming endoscopic
+surgeries. Endoscop
+ic surgeries are surg
+eries performed non
+invasively; instead,
+small holes are drilled
+into the site of the
+surgery. This type of
+surgery minimizes
+patient recovery time.
+Salisbury de
+scribed two models
+for emulating the feel
+of soft tissue currently
+
+being perfected.
+One is the "spring and math" model.
+Soft tissue is simulated on the computer
+using several virtual weighted balls that art
+
+connected to each other through a series of
+springs. Depending on the tissue being
+simulated, the weight <>l the balls and the
+elasticities of the springs are adjusted to ac
+count for differences in each human
+organ.
+Another model is the "volumetric
+model, where human tissue and organs are
+simulated by many little virtual blobs put
+together. Kacli blob is like- )ell-C), and has
+its elasticity and weight preset l>\ the com
+puter so that it ac ts like a little piece of the
+appropriate organ.
+There are several problems with apply
+ing these techniques, however. Francois
+Conti, a doctoral student in computer sci
+ence and a member ol Khatib's group, ex
+plained that it was difficult to compute
+what elasticities these little springs or blobs
+should be set at without testing them with a
+real organ.
+While organs removed from humans
+have been used for testing, (lonti noted, "A
+dead liver isn't like a real liver.'' He said
+that, when touched or manipulated, dead
+samples react differently from live organs.
+Accurately simulating the texture of soft
+tissue in real time is another problem that
+researchers face. Simulating the feel ol
+polygon edges is one thing; simulating live
+tissue is quite another.
+Nevertheless, Salisbury is confident that
+these obstacles are onl\ temporal*) and
+cautiously predicted th.it an evaluation
+stage endoscopic singer) trainer will be
+possible in four or five years.
+Kliatib is also excited about future
+prospects in the field. "Haptics one of
+those projects that bring people in from
+medicine, computer science, biomec han
+ics." With the development of the Bio-X
+program at Stanford, he sees progress ac -
+celerating in the next few vears.
+

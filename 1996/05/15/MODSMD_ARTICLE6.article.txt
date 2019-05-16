@@ -1,0 +1,34 @@
+# Stanford researchers develop computer program to track DNA
+## Genome mapping gets easier 
+### Yvette Delahoussaye Contributing writer 
+Focus on Science
+
+Researchers at the Stanford Human Genome
+Center have developed a computer program that can
+map the human genome quicker and more efficient
+ly than other programs currently in use.
+"Mapper," as the program is called, keeps track of
+where unique sequences of DNA occur and how close
+they are to each other. By using these sequences as
+reference points, the entire human genome can be
+mapped out and show the location of genes on the 23
+human chromosomes. The map can be continually
+updated as more sequence information comes in.
+"These maps have better resolution in local areas
+
+than the available whole genome maps," Genetics
+Prof. David Cox, co-director of the center, said in a
+statement. Other programs in use today can calcu
+late the general arrangement of genes on a chromo
+some, but Mapper can pinpoint the exact location of
+genes, provided that enough local "landmarks" are
+known, he said.
+"The real power of this program is that aside from
+generating maps for us here, it's also available on the
+World Wide Web, so any scientist can use it," Cox
+said. "They can take DNA that they are interested in
+and, using the same chemicals that we used, send in
+a bar code of their data, and within five minutes they
+will get e-mail showing where on the human genome
+the DNA is located.
+"Mapping the human genome is like trying to

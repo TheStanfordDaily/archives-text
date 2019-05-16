@@ -1,0 +1,112 @@
+# You'll meet your soulmate at Stanford 8 times out of 10
+## 
+### ROBBIE YAN I GOT GAME [THEORY] 
+G What's my chance of meeting Mr../ Ms. Right at
+Stanford?
+A I'm confident that an overwhelming majority of
+/I Stanford undergraduates, one time or another
+/ ■ during their four years at this world-renowned
+-JL. institution, must have asked the above ques
+tion. After all, according to a nationwide survey conducted
+by the Independent Women's Forum, an organization pro
+moting the "political freedom and economic liberty" of
+women, 63 percent women enter college hoping to find then
+future husbands there. The case for male Stanford under
+graduates is even more obvious: Many of us turned down
+MIT and Caltech to matriculate here to keep that very
+chance above zero.
+In order to tackle this question, however, we need to un
+derstand what exactly the question is asking for. Let's start
+by making a few key assumptions. Dismissing the belief pop
+ularized by Hollywood films that for each individual on
+earth, there is one and only one breathing soul destined to
+be his or her significant other, we will assume that there ex
+ists a group of people that could be deemed as the right
+match for each person. Let's call this group of people, the
+"ones." How a suitor spots the "ones" is, of course, by ap
+plying the fourth Axiom that I developed in the last column,
+as follows:
+Suppose the length of the feature list is some big number,
+say, 1,000. (Recall that the feature list is the universal list of at
+tributes based on which people evaluate each other. The list in
+cludes attributes like height, weight, appearance, humor and
+money.) Furthermore, assume that there is a method by which
+we could quantify each person's value for each of the attribut
+
+es in the feature list. For certain attributes, this would be sim
+ple: for instance, a 5-foot-nine, 160-pound man would have 5-
+foot-9 for his height attribute and 160 pounds for his weight at
+tribute. For other less-quantifiable attributes such as appear
+ance and humor, however, an assignment of values to them
+would be difficult. For the purpose of illustration, however,
+let's assume that we could develop a mapping from the set of
+all humors to the set of all real numbers, and a mapping from
+the set of all facial appearances to the set of all real numbers.
+With the above model in place, we can completely
+characterize every male and female with a 1,000-compo
+nent vector. A more poetic albeit mathematical way to
+say this is that each person is a point in a 1,000-dimen
+sional real space. Hence, the essential activity that Alice
+performs when she is seeking a boyfriend is staring at this
+1,000-dimensional space and assigning each point in this
+space a score by dot-multiplying the weight vector and
+the score vector for that point (Axiom Three). When the
+score for a point passes a certain threshold, the person
+that corresponds to that point becomes one of the "ones"
+for Alice. Therefore, for each person, we have a set of
+points in the 1,000-dimensional space that compose the
+set of the "ones." Let's call these points the "special
+points." The question then becomes, given a randomly
+chosen Stanford undergraduate Bob, what fraction of his
+"special points" corresponds to Stanford undergradu
+ates? And if that fraction is non-zero, what is the proba
+bility that he will ever meet one of the "ones" that ap
+peared at Stanford?
+
+The first question turns out to be extremely difficult to
+answer. As its value varies drastically from individual to
+individual, we shall not discuss the computation of it. It is
+safe, however, to assume that the fraction is non-zero.
+This is justified by the fact that Stanford undergraduates
+more or less share many common values, interests and
+goals. It would be pretty hard to find a student here that
+has no strong romantic interest in anybody else on cam
+pus. To answer the second question, let's assume that for
+
+each Stanford student, on the average, one out of every
+300 students falls into the "ones." So given the 6,000-per
+son student body here, there are about 20 people that
+would be almost perfect-matches for you.
+So we have transformed the question one more time: The
+chance for a randomly chosen Stanford undergraduate to
+meet his or her Mr. or Ms. Right is equivalent to the proba
+bility for the student to run into any of these 20 people ram
+bling around campus.
+In order to compute the probability that one will meet
+any of the 20 special people, we need to analyze how many
+people, on the average, each Stanford student will meet
+and interact with beyond acquaintance during his or her
+four-year undergraduate career. Assume that each stu
+dent lives in a different 80-person dorm each year and par
+ticipates in one extra-curricular activity that involves 20
+other people. Also assume that each student takes four
+classes per quarter and gets to know five people in each
+class pretty well. In addition, each Stanford student also
+meets 10 other students each quarter via parties, football
+games, fountain-hopping and bike clashes, etc. Through
+out a student's four-year stay at Stanford, then, he or she
+would meet 920 people. Cutting that in half, each student
+interacts with 460 potential mates.
+The probability that any one of the 20 special people
+would fall into this 460-person circle is one minus the prob
+ability that none of them falls into this 460-person group,
+which is 20 460
+6000 = .2153.
+Hence, the probability that a randomly chosen Stanford
+student would meet any of his or her 20 special "ones" is
+1 - .2153 = .7847 = 78.47 percent
+Voila, the probability that you will meet your future sig
+nificant other on this campus is 78.47 percent. Go figure.
+
+Is Robbie Yan one of your 20 "ones?" If so, you can email him
+at xyan@stanford. edu.

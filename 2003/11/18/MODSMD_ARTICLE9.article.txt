@@ -1,0 +1,80 @@
+# Computing Lite
+## 
+### NAVANIT ARAKERI 
+You woke up this morning to the sound of your computer's fan, an inor
+ganic hum, indicating that all is well with your beloved three-year-old, a ma
+chine you built with your own hands. Now, imagine a future where your com
+puter doesn't even have a processor, let alone a fan. Yes, the days of the
+dumb terminal may not be that far off. Your "computer" would be plugged
+into the wall like any other appliance, and the processing would be taken care
+of at a far away site, humoring viruses and trojans for you, while keeping up
+with innumerable updates.
+So you need to edit the latest masterpiece you shot while you were lying
+wasted in your friend's room? Not a problem, all you need to do is log on to
+the nearest mainframe, and pull up the latest photo editing software. All the
+major software will be available at your fingertips at any time of the day, up
+dated, maintained and serviced by a third party. This model, known as Util
+ity Computing or On-demand Computing is emerging as a technology worth
+paying attention to.
+Utility Computing is being touted as "the next big thing," and not without
+good reason, IBM and HP are both pouring funds into R&D programs that
+are looking to make utility computing a reality. Admittedly, most of the ini
+tial research is going into high-performance commercial computing, where a
+company would be able to tap into the enormous potential of a supercom
+puter being hosted and maintained at a remote site. However, the corporate
+backers envision a future where everyday users and small businesses would
+open up their computing environments to On-Demand Computing.
+This concept isn't entirely new, and it seems like the natural next step in
+high-performance computing. It merely puts the burden of maintaining and
+supporting a corporate network on a third party, so that users may concen
+trate more on the business and entertainment aspects. In fact, early comput
+ing environments were built in exactly the same manner, utilizing large main
+frames as power-horses for performing tasks that users would transfer to it
+via dumb terminals with primitive user interfaces. However the personal
+computer market exploded when chipmakers flooded the market with inex
+pensive and powerful processors. The idea of consumers controlling and
+using computing power ("Hey, what you do in your free time ... ") proved
+too irresistible, and the dumb terminal concept got left behind.
+The model does make a lot of sense in this era, when security and relia
+bility are in high demand. A centralized, controlled environment allows for
+increased security and results in increases in reliability (so you can play that
+latest "Quake" release in peace). Whether users will trust third-party ser
+vice providers to handle and process sensitive data (your dog's eating habits,
+for example) is an interesting question. The major players appear to be re
+lying on the;success- of existing models in banking and investment to push
+thetidea that anonymity and security can be maintained. A number of com
+panies are already buying into the idea, mainly to handle wild swings in re
+quired computing power due to seasonal variation in customer demand for
+their services.
+The war over this form of computing revolves around the three largest
+backers of this technology: IBM, HP and Sun Microsystems. All three are
+pushing versions of On-Demand Computing, each according to the biases of
+their existing services. IBM and HP are focused on infrastructure tools and
+managed services. Sun is pouring energy into "virtualizing" hardware re
+sources. All of these models allow customers to scale their computing re
+sources dynamically to cope with fluctuating workloads. They also allow a
+switch to real time, pay-as-you-go models, instead of requiring fixed initial
+investments in IT infrastructure.
+Proposed pricing schemes for utility computing offer rich areas for de
+bate. Sun Microsystems is pushing an idea where users would pay based on
+Sun "power units". A power unit measures how much work a single proces
+sor can perform in one second. Hewlett-Packard, on the other hand, is ex
+perimenting with a concept it calls the "computon," a single representative
+measure of computing, storage and networking use. Both these schemes,
+along with others in development, may face challenges in consumer adoption
+rates and comfort levels. Imagine receiving an itemized bill, similar to your
+cellular phone bill, detailing the time and amount of computing power you
+used every month. This fine-grained approach to pricing will allow budget
+conscious consumers (read: students) and businesses to manage resources in
+a more efficient and cost-effective manner.
+With utility computing, the major vendors are taking the natural step in
+the evolution of computing, and there seems to be little doubt that this envi
+ronment will eventually be the standard. However, lack of standardization
+and challenging pricing and implementation hurdles may make this technol
+ogy slow to catch on. Which version will emerge victorious, as a dominant
+and ubiquitous approach, remains a question that will only be answered in
+the future. Until then, we shall continue to be distracted by scratchy drives
+and humming fans. Here's to a good night's sleep.
+
+
+ARON HEGYI/The Stanford Daily

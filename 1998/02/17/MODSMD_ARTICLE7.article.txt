@@ -1,0 +1,106 @@
+# Tales from the crypt
+## 
+### Govind Dandekar 
+Every time you access your telnet ac
+count, type in "pine" and start firing off
+e-mails to your friends at home about
+how you hate your roommate, you im
+plicitly assume that the e-mail you are
+sending is secure. This assumption, how
+ever, is not true.
+According to Martin Hellman. profes
+sor emeritus of electrical engineering.
+"Anything confidential Stanford stu
+dents send over e-mail, unless properly
+encrypted, is very vulnerable."
+Although you may not realize it. en
+cryption technology, a field which Hell
+man revolutionized, is fundamental to
+the convenience and security of ad
+vanced technology.
+Encryption is needed "for electronic
+banking, e-mail and cellular phone con
+versations." Hellman said. "The Internet
+is extremely insecure in terms of just data
+flowing over it. but it it's encrypted, then
+it can be quite secure."
+Hellman is considered to be a great pi
+oneer in the field ot cryptology He said
+his initial interest was inextricabK linked
+to his childhiH>d in the Bronx in the
+19505.
+"In some sense, it goes back to when I
+was a little kid ... and [my family] moved
+from a predominantly Jewish neighbor
+htHKl to a predominantly Irish-Catholic
+neighborhiHKl I wanted a Christmas tree
+
+and Christmas presents... but I couldn't be
+like them. I was fundamentally different."
+The disposition of the pariah stayed
+with Hellman when he began his work in
+cryptography.
+"When I first started working with
+cryptography in the early N7(h. my col
+leagues almost uniformly told me that 1
+was foolish to do that because the NSA
+has a multibillion dollar budget, and
+you'll never discover anything they don't
+know."he said.
+Rather than being scared by the warn
+ings. they made cryptography interesting
+to Hellman.
+"In some ways." he reflected. "I should
+thank the kids who beat me up... I would
+have been scared to do it otherwise."
+The beginnings of his interest in this
+field blossomed immediately after he
+completed his doctoral studies at Stan
+ford. In I%<S. he was hired by IBM to
+conduct research in New York While
+there, he realized the company was
+spending SI million a year researching
+cryptography. It must be a worthwhile
+field, he thought.
+Hellman s groundbreaking work oc
+curred when he was working together with
+researchers Whitfield Diffey and Ralph
+Merkle at Stanford. According to Hell
+man. the mam contribution of this remark
+able team was that it made cryptography
+"a legitimate area for academic research."
+The main technical contribution ere
+
+ated by Hellman and his colleagues is the
+Public Key Cryptography (PKC) system
+"We can think of a normal crypto
+graphic system as being a mathematiza
+tion of a strong box." Hellman said "You
+need to knou the key to encipher data
+and to decipher data .. PKC is like a
+mathematization of a different kind of
+lock Instead of using the same combina
+tion to lock and unlock. \*h\ not use dif
+ferent combinations to lock and unlock?"
+According to Hellman. the biggest
+problem with a conventional crypto
+graphic system was ke\ distribution. An
+other problem was that organizations
+such as the military used couriers to
+transfer keys. Couriers, he said, are often
+problematic because they are very ex
+pensive and slow
+"If you make your enciphering key
+public and make the deciphering key se
+cret. you get privacy without couriers."
+Hellman said "Anyone who wants to
+send you a message looks up your enci
+phering key. scrambles the message with
+that and sends it to you."
+It is general accepted that the PKC sys
+tem revolutionized and simplified en
+cryption technology. Ihe benefit of this
+system is that anyone could send a secure,
+publicly-encrypted message and only the
+receiver can privately decipher it. Con
+versely. if you make your enciphering key

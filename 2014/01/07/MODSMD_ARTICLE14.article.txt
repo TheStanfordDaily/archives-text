@@ -1,0 +1,177 @@
+# OPINIONS
+## OP-ED Locked into Bitcoin 
+### Raven Jiang – Raven Jiang '15 
+A huge part of the appeal of
+Bitcoin is its promise of being
+decentralized yet secure, but
+what happens when the system re
+quires fundamental adjustments?
+In traditional monetary sys
+tems, a credible government is nec
+essary to guarantee the value of fiat
+currency. Across the political spec
+trum, from the anti-establishment
+online movements to more tradi
+tional libertarians, there are groups
+of people who believe that the cen
+tral authority represents a single
+point of failure in the economy, al
+lowing corrupt or incompetent gov
+ernments to devalue existing mon
+ey to the detriment of the people.
+The dramatic rise in the price of
+gold over the past decade can be
+partly attributed to this desire for a
+non-inflationary currency. As for
+mer Congressman Ron Paul puts it,
+"Gold is the ultimate money."
+With Bitcoin, we seem to have fi
+nally discovered digital gold. Like
+gold, the supply is finite and not
+subjected to intentional increases
+by political entities. The amount of
+gold is presently limited by the
+Earth's composition while the num
+ber of bitcoins is bounded mathe
+matically to 21 million. Therefore
+bitcoins and gold are both naturally
+deflationary their values tend to
+increase over time. The inventor of
+Bitcoin even used the term "min
+ing" to describe the process in
+which new coins are computed. Un
+like gold, Bitcoin is vastly more
+functional as a currency. The peer
+to-peer network handling Bitcoin
+transactions allows fast, pseudony
+mous, and cryptographically veri
+fied payments all without the in
+volvement of any monetary author
+ities. Bitcoins do not require trust
+in traditional institutions, but mere
+ly trust in the open source mathe
+matical algorithms.
+So is this the freedom that cy
+berlibertarians have long fanta
+sized about? If we are merely talk
+ing about freedom from govern
+mental control, then the answer is
+yes, eventually. While governments
+presently exert control over Bitcoin
+by targeting exchanges and physi
+cal infrastructures that power Bit
+coin, these leverages diminish over
+time as the economy becomes more
+self-contained. If people outgrow
+the constant need to convert BTC
+into USD and anonymization of Bit
+coin transactions become routine,
+then it seems inevitable that moni
+toring financial transactions will be
+come increasingly impractical for
+governments. Forget fiscal policies
+and taxation the government
+needs to first prove that your
+wealth exists. That may well be the
+libertarian idea of paradise.
+But is that really freedom? Or
+are we are simply the subjects of a
+new, subtler master? Instead of a
+flawed, but democratic govern
+ment, we place our trust in an algo
+rithm from an anonymous creator
+the same individual whom some
+believe owns 4.7 percent of all Bit
+coins that will ever exist.
+In the peer-to-peer transaction
+network, the rules of Bitcoin are en
+forced purely by majority consen
+sus of the nodes. No one has any re
+al idea what the hard limit and the
+designed deflation would mean for a
+significantly sized economy, or how
+the extreme inequality in accumu
+lated Bitcoin wealth would serve to
+influence and perhaps distort socie-
+
+We seem to
+have discovered
+digital gold.
+
+ty, especially since these pockets of
+wealth can never be overcome due
+to the hard cap. Within the Bitcoin
+community, the canned response to
+questions about the hard limit is
+that each Bitcoin is divisible down
+to eight decimal places and there
+fore there will be more than enough
+units of currency to go around. The
+fallacy in this line of thinking is ob
+vious when we look at legacy prob
+lems such as the exhaustion of IPv4
+addresses.
+A separate but related problem
+is that of lost bitcoins. Due to en
+cryption, it is not hard for individu
+als to irreversibly lose access to
+their bitcoins by accident. There
+are many precautions one can take
+in backing up encryption keys, but
+humans errors will always exist.
+Since the encryption used to pro
+tect the wallet is impervious to
+cracking (or there would be far
+greater problems at hand), these
+coins are lost forever. Therefore,
+the final number of Bitcoins is not
+just capped at 21 million but ever
+decreasing, placing yet another lim
+it on the flexibility of Bitcoin as a
+global currency.
+If Bitcoin truly intends to go
+mainstream, it must look to address
+these issues in the long term. How
+ever, the decentralized design
+makes it nigh impossible for anyone
+to make adjustments to the under
+lying system. Yet if Bitcoin is to be
+come more than just a temporary
+asset bubble, there are numerous
+conceivable systemic changes that
+may be required as scalability lim
+its of the system are tested by
+growing demands. For such
+changes to be successfully imple
+mented, some form of committee or
+central authority must emerge to
+fulfil that role.
+There have been limited at
+tempts at this in the form of Bitcoin
+Improvement Proposals (BIP).
+Suggested changes to the network
+are put into mining clients as BIPs,
+allowing individual miners to vote in
+favor of or against the proposal as
+part of the mining process. The
+problem with BIPs is that they are
+never adopted in practice because
+any protocol change requires more
+than 51 percent of the miners in the
+network to vote positively as a
+technical and not merely procedur
+al necessity. Think about how hard
+it is to get bills passed in Congress
+and combine that with the low vot
+ing turnout of most modern democ
+racies. That is no way to run an
+economy.
+If it proves to be technically in
+feasible for a credible and potent
+Bitcoin authority to emerge, then
+investors and their wealth may ulti
+mately be locked into the unchang
+ing algorithm. Let us hope that
+Satoshi Nakamoto, unlike the cre
+ators of the Internet Protocol, got it
+right the first time.

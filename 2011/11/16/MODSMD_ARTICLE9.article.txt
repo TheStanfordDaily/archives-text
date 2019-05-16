@@ -1,0 +1,141 @@
+# HEALTH
+## Lucile Packard takes data in STRIDE 
+### JOSEE SMITH 
+A team at the Lucile Packard
+Children's Hospital has adopted a
+new approach to storing patients'
+electronic medical records (EMR)
+called the Stanford Translational
+Research Integrated Database En
+vironment (STRIDE), according to
+a perspective paper published in the
+New England Journal of Medicine.
+
+This new method allows doctors
+to compare their current patients
+with previous patients with similar
+symptoms and factors, and helps to
+determine the best step to take
+when issuing a treatment, according
+to the team. Physicians are no
+longer solely reliant on past experi
+ences or forced to sift through the
+hundreds of pages contained in a
+chart for a single patient, said
+Christopher Longhurst, chief med
+ical information officer at the Chil
+dren's hospital and a co-author of
+the paper.
+"Wouldn't it be great if comput
+ers stored the data and helped you
+understand how to help other pa
+tients?" said Longhurst, who is also
+an architect of the Children's hospi
+tal EMR system. He added that
+doctors are now able to help current
+patients by looking at other patients
+that have been admitted with simi
+lar symptoms.
+Longhurst said that a current
+challenge for doctors is that pub
+lished evidence is available for
+fewer than 20 percent of decisions
+made, which forces doctors to rely
+instead on their own experience
+and anecdotal advice from their
+peers. This is especially true in pedi
+
+atrics because less information is
+published in medical research liter
+ature in that area, he added.
+
+According to the paper, this new
+method of storing and accessing in
+formation was put to the test when
+a 13-year-old girl was admitted to
+the hospital with inflammation of
+both the kidneys and pancreas as a
+result of lupus a rare condition
+that did not have any clinical trials
+or medical literature to offer up a
+best course of action.
+
+Jennifer Frankovich, who led the
+medical team, said that because of
+the girl's risk for thrombosis a
+formation of a blood clot inside a
+blood vessel that obstructs the flow
+of blood the team realized that
+the girl would require anticoagula
+tion drugs to prevent blood clots.
+She added, however, that the team
+thought the use of drugs could lead
+to internal bleeding, and was unable
+to find studies pertaining to the girl's
+situation and related risks.
+The team then turned to
+STRIDE and the hospital's elec
+tronic medical record to view a co
+hort of pediatric patients with the
+girl's condition that had been treat
+ed by clinicians at the Children's
+hospital between Oct. 2004 and July
+2009, according to Frankovich. Of
+the 98 patients in the cohort, 10 de
+veloped thrombosis.
+After a statistical analysis of the
+data which took less than four
+hours the team was able to deter
+mine that the risk for blood clots was
+much higher in patients with inflam
+mation in the kidneys and pancreas,
+and decided to give the patient anti
+coagulants within 24 hours of admis-
+
+sion, according to the paper.
+"I envision that this is going to be
+the future of all medicine that
+most institutions are going to use
+electronic records," Frankovich
+said. "We are working toward mak
+ing these records accessible for clin
+ical research. It is a major change in
+how we process medicine."
+
+Frankovich also said that be
+cause a doctor cannot look at a pa
+tient's chart without permission, the
+new platform is working to
+anonymize patient records by re
+moving all personal information
+
+such as names and birthdates
+with the hope of increasing the num
+ber of records that can be refer
+enced in patient care.
+"However, [STRIDE] doesn't
+supplement the need for medical tri
+als," she said. "Obtaining the infor
+mation doesn't tell you if a certain
+treatment is better or worse. You
+still have to interpret the informa
+tion with caution."
+
+Longhurst also referenced Pa
+tients Like Me, a social networking
+health site founded in Silicon Valley,
+which enables patients with unusual
+diseases to log in and share their
+data and outcomes with other pa
+tients. He said systems like STRIDE
+and Patients Like Me help to gener
+ate a large warehouse of data and
+req anduire the active participation
+of patients, but allow everyone to
+better understand medical informa
+tion.
+"Shouldn't data act like that?" he
+asked.
+
+Contact Josee Smith at jsmithll
+@stanford.edu.

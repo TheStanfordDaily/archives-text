@@ -1,0 +1,47 @@
+# New Webmail makes debut
+## 
+### CAMILLE RICKETTS EDITORIAL STAFF 
+Promising faster speeds,
+greater reliability and additional
+features, the third version of
+Stanford Webmail, known as
+I MAP, was bunched by Informa
+tion Technology Systems and
+Services on Aug. 21. The new sys
+tem is designed to increase effi
+ciency for both students and ad
+ministrators.
+"The old system ran on one
+very powerful machine and it
+couldn't handle the huge load
+at all," said Susan Feng, techni
+cal manager at ITSS. "The new
+Webmail server consists of
+three machines and it is a lot
+more stable."
+According to Tom Cramer, di
+rector of technology infrastruc
+ture at ITSS, the three machines
+
+used to run the new version of
+Webmail are also less expensive
+for the University. He added that
+the new platform is very scalable
+and will allow for greater capacity
+if it is ever needed in the future.
+The service uses both open
+source and open standard tech
+nologies, according to the Web
+mail Web site. The general soft
+ware used for Webmail is called
+the Internet Messaging Program,
+which allows access to both POPS
+and IMAP accounts. ITSS cus
+tomized the general program to
+fit the University's needs.
+ITSS took recommendations
+from individuals and groups all
+over campus in engineering the
+new system. Cramer said the
+number one complaint with the
+previous Webmail system was the

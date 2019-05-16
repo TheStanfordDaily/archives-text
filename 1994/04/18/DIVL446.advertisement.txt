@@ -1,0 +1,33 @@
+# Adv. 33 Page 9
+## 
+### 
+ASSU REFUNDS\
+ASSU Fee Refunds are currently available for
+all registered Stanford students.
+WARNING Fill out your request conscientiously several groups (Legal
+Counseling, Stanford In Government, SURE Escort and others) can and will
+refuse to provide their services to students who requested a refund from them 1 If
+you later find you need these services, you M ill not he able to obtain them even by
+repaying w hat you refunded 1 The refund program provides info on most groups
+INSTRUCTIONS:
+Telnet to "assu-serve 1234" from any networked computer Contrary 10 previous information.
+>ou do not ncccssnrih need a Lcland account Fee Refunds apologi/cs for any confusion this
+misinformation ma> have caused
+If you have a I.eland account, you can apply in one of (he following nays:
+If you will be appl> ing from a dorm cluster, use a communications program such as Mac Samson
+or MaclP. t>pc the name of an elainc server at the "Host Name" prompi (ex "elaine 12". "elaine22".
+etc ) and then login with your Lcland user name and password At the elainc prompt
+("elaine I2~>*\ "clainc22->". cic ) type "telnet assu-serve 1234" and press enter
+If vou are applv ing from the Trcssidcr or Meyer LaIR login to a computer with your Lcland user
+name and password A welcoming window will appear in Ihc upper left-hand corner of your
+screen Click on it Select "Login lo Cardinal (for c-mail. etc )" and login again with vour Lcland
+password Ai the Cardinal prompt. t>pc "telnet assu-serve 1234" and press enter
+Whether or not you have a Lcland account, you can applv in one of the follow ing w ays:
+If you arc dialing into the network with a modem (using (415) 4 t )X-144() or other number), type
+"assu-scrvc 1234" at the "tip" prompt and press enter
+At anv Unix prompt on a networked computer. t>pe "telnet assu-scrvc 1234" and press enter
+Follow on-screen instructions to complete your refund request: program is self-explanatory.
+Note: Requests from Autumn and Winter quarters carry over automatically; you do
+not need to request again if you received your check last quarter.
+THE DEADUNE FOR REFUND REQUESTS IS APRIL 22nd, 12AM.
+For anv questions, contact Ben Tittle. Fee Refund Coordinator, via E-mail assure assu-serve ,

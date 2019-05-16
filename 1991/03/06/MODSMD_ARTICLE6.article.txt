@@ -1,0 +1,43 @@
+# Advanced computer systems will bring improvements, kill Macbeth
+## 
+### Jason Bloomstein Senior staff writer 
+After cautiously examining other schools' com
+puter use, Academic Information Resources is now
+finalizing the transition from mainframes to work
+stations, meaning more power for Stanford's com
+puter users — and new costs and headaches for AIR.
+The retirement this June of Macbeth — the last of
+the four mainframe computers used since the mid
+1980s — will mark a trend away from time sharing
+and toward distributed computing.
+The mainframes were named after each of Shake
+speare's great tragedies — Macbeth, Hamlet, Othello
+and Lear.
+Under both time sharing and distributed comput
+ing, all files are stored on a central computer so users
+can work from any remote terminal. But with time
+sharing, all application programs, such as compilers
+and spreadsheets, are also stored on one mainframe
+and are shared by all users.
+Distributed programming places copies of soft
+
+ware applications on powerful remote terminals
+called workstations, that — like personal computers
+— allow users to access their own copy of software.
+This substantially speeds up computing because
+all users don't share one program. Personal files can
+still be accessed from any available workstation on
+campus or — by logging into a remote network —
+across the nation.
+In addition, workstations support more "friendly"
+environments, including the use of windows, graph
+ics and icons in programs.
+For the large number of students who use Mac
+beth exclusively to communicate via electronic mail,
+the loss of the mainframe will force them to switch
+machines.
+AIR provides two alternatives: getting an account
+on an existing mainframe running the widely used
+but complicated operating system UNIX, which
+Gorin recommends serious computer enthusiasts
+choose. Another possibility is using "Pop server," a

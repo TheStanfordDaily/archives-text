@@ -1,0 +1,130 @@
+# a
+						weekly at science and techology at stanford Innovation
+## Big Brother could be reading your e-mails 
+### ABIGAIL PHILLIPS 
+Every day, more than 1.4 billion e-mail
+messages are exchanged over the Internet.
+It's a heftv amount ot material, and that's
+\vh\ the Federal Bureau ot Investigation is
+so proud ot its new e-mail wiretapping tool,
+C.arnivore.
+Carnivore was so named because it
+can quickly get to the "meat" ot this
+morass of e-mail and online messages.
+But tor civil liberties groups, it's another
+bite ot the meal that a rapacious govern
+ment-industry machine is making ot in
+dividual privacy.
+Carnivore is to e-mail what phone taps
+are to telephone conversations. Hie signif
+icant difference is that, while a phone tap is
+placed on a single phone line. ('.arnivore is
+installed on an Interne* Sen ice Provider
+network and so has access to the communi
+cations ot all members ot the ISP who com
+municate over this network — criminal
+suspects .jiul bvstanders alike.
+()f course, the FBI is quick to note that
+the Carnivore svstem will be configured
+only to retrieve the e-mail ot .1 particulai
+target of investigation, t low-ever, the tear
+of both privacy groups and legislators is
+
+that its use will not be thus constrained.
+The black box
+Carnivore was developed b\ FBI engi
+neers in .111 effort to c reate .1 tool that could
+accommodate growing demand for Inter
+net surveillance in the fate of the more
+than 1.4 billion e-mail messages that are ex
+changed daily over the Internet. I he sys
+tem is a black box, essentially a standard PC
+running Microsoft's Windows 2000 oper
+ating sy stem, that is designed to work on
+ISP networks.
+W hen the box is connected to an ISP
+network station, Carnivore's software
+scans and sorts the bundles of data that
+pass through the ISP network. The soft
+ware filters out communications to or
+from the- target ot investigation and dis
+cards the remainder.
+According to Donald M. Kerr, director of
+the FBl's laboratory division, searches are
+limited to an e-mail's sender and recipient
+lines; in other words, they don't include sub
+ject hi lcs or message content, and Web ac
+tivity is only monitored insofar as this in
+volves e-mail-like communications such as
+Web-based e-mail and instant messaging.
+Nonetheless, the software is capable of
+
+screening all elements ot network traffic
+including Web brow sing.
+Moreover, it is c apable of searching tlu
+
+content of communications, the mere pos
+sibility of which is frightening 111 a Big
+Brother sort ot way. ()f c ourse. should the
+systc-ni run up against an enc ry pted mes
+sage. it won't be able to learn much.
+Getting the court order
+As with any wiretap, the FBI must ob
+
+tain a court order before it can implement
+Carnivore to tap the electronic communi
+cations of a target of criminal investigation.
+While layv enforcement must pass
+through a fairly rigorous legal process for
+permission to tap a phone, no such spec ific
+laws exist (though there are proposals) for
+approving yviretaps on Internet-based
+communications. As a result, there is some
+debate over what rules govern e-mail y\ ire
+tapping, and the conclusion inevitably
+tends toward weaker regulation.
+An investigator yvho seeks to tap a sus
+pect's phone must submit to a two-step ap
+proval process. First, the investigator needs
+approval from a senior Justice Department
+official. I hen the investigator must
+demonstrate in court that there is proba
+ble c ause' that the suspect in question com
+mitted or is committing a serious crime as
+defined In law. If the judge finds that prob
+able cause exists, the judge will likely ap
+prove a court order for the tap.
+1 lowever. the process is less arduous tor
+an investigator who merely yvants to find
+out u hat numbers a suspect is dialing from
+his phone 01 from what numbers the sus
+pect receives calls. In this situation, the in
+vestigator only needs to show that such in
+
+formation is pertinent to Ins investigation.
+The FBI has argued that use of Carni
+vore to record e-mail senders and recipi
+ents warrants onl\ such permission as is
+necessan under law for intercepting di
+aled phone numbers. And. indeed, the
+trend so far has been to assume that the
+more demanding requirements for phone
+taps do not appl\ to e-mail wiretaps.
+ISP compliance
+Most Internet Service Providers have
+been cooperative with requests to install e
+mail wiretaps, according to the FBl's Cyber
+Fcchnologv Section. However, there have
+been a few notable exceptions. When
+Farthlink. a popul.tr national ISI *. received
+a court order in Dec., 1999. requiring use
+of aw iretapping device to record commu
+nications from a particular account, the
+compam balked.
+Instead. Farthlitik ottered to use its own
+svstems to supph the government with the
+information in question. 1 hough the gov
+ernment initialh agreed to the compro
+mise. i! later issued a second court order
+compelling I arthlink to allow law enforce-
+

@@ -1,0 +1,64 @@
+# Computers provide quicker drug testing
+## 
+### Mark Wang 
+It may soon be possible to
+predict the effects of drugs on
+the human body before they
+are actually tested on animals
+or humans, according to a
+Stanford neurologist.
+Using a computer, a drug's
+compatibility with a neuron
+can be checked by comparing
+its molecular structure against
+that of the cell's receptor,
+according to Dr. Stephen Per
+outka, assistant professor of
+neurology.
+A receptor is the section of a
+brain cell which receives
+incoming information.
+"Our goal was to see if we
+can predict whether a drug will
+work or not from its chemical
+structure, at least as a starting
+point — and it's working," Per
+outka said.
+So far, Peroutka's work
+allows the molecular structure
+of a particular neuron to be
+entered into a computer. That
+pattern is then screened
+against a list of 10 million
+drugs and their molecular
+
+structures.
+The computer returns a list
+of all drugs that might react
+with the neuron in question.
+Peroutka said he intends to
+adapt the program so that the
+name of a drug can be entered
+into the computer instead, and
+the computer could output a
+list of all parts of the brain and
+body that the drug will affect.
+"So far, our data indicate
+that this may be possible," Per
+outka said.
+Computer screening
+tremendously reduces the
+amount of work and expense
+that is required by traditional
+drug screening methods. The
+current laboratory tests, which
+must be repeated many times,
+may only be done at a rate of
+about five per hour.
+In comparison, Peroutka's
+screening program checks 10
+million drugs in less than three
+hours.
+The laboratory method is
+slightly more accurate, but
+practically speaking, it cannot

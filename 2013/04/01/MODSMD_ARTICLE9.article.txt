@@ -1,0 +1,122 @@
+# RESEARCH
+## Med School profs track drug interactions through search engines 
+### JUSTINE MOORE DESK EDITOR 
+A research team headed by two
+School of Medicine professors has
+developed a new method for track
+ing adverse drug interactions using
+queries from Internet search en
+gines like Google and Bing. The
+team's discovery offers an alterna
+tive to the Food and Drug Adminis
+tration's (FDA) Adverse Event Re
+porting System (AERS).
+According to Nicholas Tatonetti
+M.S. 'l2 Ph.D. 'l2, a co-author of
+the study and a professor of bio
+medical informatics at Columbia
+University, AERS is unreliable and
+incomplete in monitoring drug
+drug interactions. Tatonetti specifi
+cally alleged that AERS has "too
+much noise, too much bias and lots
+of missing points."
+He predicted that search logs
+
+will eventually become the "great
+est resource" in monitoring drug
+safety, since they collect data from
+millions of patients reporting how
+they feel in a "completely honest
+fashion."
+"There's no clinician or physi
+cian or drug company filtering re
+sults before they become available
+for research. It's a person at their
+computer, trying to explain how
+they feel," Tatonetti said. "That
+honest info is much more powerful
+than anything that the FDA or
+some drug company could collect
+about a drug."
+Tatonetti and Russ Altman
+Ph.D. 'B9 M.D. '9O, a co-author and
+professor of bioengineering, genet
+ics and medicine, had collaborated
+on a previous study examining the
+interaction between paroxetine, an
+antidepressant, and pravastatin, a
+statin, using data from AERS.
+
+The study reported that when
+taken together, the drugs could
+cause hyperglycemia. Altman and
+Tatonetti validated this finding
+through a mouse model and an
+analysis of electronic records from
+hospitals around the country.
+The discovery prompted the re
+searchers to investigate other ways
+to track drug-drug interactions,
+something they discussed with Er
+ic Horvitz Ph.D. '9l M.D. '94, a co
+author and the director of Mi
+crosoft Research Redmond, at the
+2011 retreat for Stanford's gradu
+ate program in biomedical infor
+matics.
+"We were literally sitting
+around a campfire, wondering,
+'Could we have seen this in Inter
+net search logs?"' reflected Nigam
+Shah, a co-author and a professor
+of medicine.
+Horvitz, who was a keynote
+
+speaker at the conference, brought
+the idea back to his colleagues at
+Microsoft. They immediately "be
+gan pursuing methods and tech
+niques that might let us turn the
+web into a sensor network for pub
+lic health."
+A new research team was
+formed to conduct a second study,
+using 82 million search queries
+from over six million unique users
+to examine whether or not users
+who searched both "paroxetine"
+and "pravastatin" were also likely
+to search for "hyperglycemia" or
+any of its symptoms. The search
+queries were obtained from Mi
+crosoft, who had gained permission
+from some Internet Explorer users
+to record searches on Bing, Google
+and Yahoo.
+While the researchers knew of
+the adverse interaction between
+paroxetine and pravastatin, they
+
+were unsure of whether or not this
+would be reflected in the search
+logs.
+"This is noisy information in
+that people can search on drugs for
+all sorts of things," Horvitz said.
+"There could be a lot of false posi
+tives and false negatives for diag
+nosing the people taking these
+drugs. In the large-scale analyses,
+you hope that the signal can wash
+over the noise and still impart some
+significant information."
+The researchers did ultimately
+find significant information, with
+one of 10 users who searched for
+"paroxetine" and "pravastatin" also
+searching for "hyperglycemia" or
+one of its symptoms. By compari
+son, only one of 20 users who
+searched for "paroxetine" or
+"pravastatin" alone searched for

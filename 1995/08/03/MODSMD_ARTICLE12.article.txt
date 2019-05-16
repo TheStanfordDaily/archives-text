@@ -1,0 +1,132 @@
+# Missile technology adapted to blast away tumors
+## 
+### Steven Kasapi Contributing writer 
+A group at the Stanford Med
+ical Center has combined precise
+image tracking, robot control and
+X-ray surgery to treat patients
+with previously inoperable brain
+and neck tumors. They can track a
+tumor so accurately that sur
+rounding tissue is unharmed by
+their intense X-ray beam — with
+out requiring physical restraint of
+the patient.
+The technique, known as com
+puter-mediated stereotaxic radio
+surgery (CMSR), involves track
+ing the head and neck using X-ray
+images taken during an operation
+and comparing them to a stored
+three-dimensional X-ray "map" of
+the patient.
+"It's a very simple algorithm
+that came out of cruise missile
+technology," explained Richard
+Cox, a radiation physicist at the
+Medical Center working on the
+project.
+A CAT (Computer Axial To
+
+mography) scan of the region to be
+treated forms the map which
+guides the X-ray beam. The CAT
+scan itself is a series of X-ray slices
+combined by a computer to form a
+three-dimensional model of part
+of the patient's body.
+The key to accurate tracking of
+the tumor is careful matching of
+bone images in the CAT scan to X
+ray images taken during surgery.
+Using the bones as markers, small
+motions of the patient can be reli
+ably measured and tracked, and
+even small tumors can be pin
+pointed and killed.
+"In many respects it's more
+akin to conventional surgery than
+to conventional radiation," said
+Dr. John Adler, a Stanford neuro
+surgeon in charge of the project.
+Other forms of stereotaxic ra
+diosurgery seem barbaric in com
+parison. To keep patients from
+moving during conventional ra
+diosurgery, their heads are rigidly
+bolted into a frame by screws
+which penetrate their skulls.
+Until recently, this was the only
+
+option for patients requiring in
+tense radiosurgery.
+Tuesday morning, a patient un
+derwent CMRS for a tumor deep
+in his brain. He entered the oper
+ating room wearing street clothes.
+Adler and several other doctors
+and technicians positioned him on
+the operating table, fixing his
+head lightly in a brace to keep him
+from moving out of the range of
+the imagine system.
+A large, folded robot arm pro
+truding diagonally from one cor
+ner of the room held the X-ray
+source. The source consisted of a
+small linear electron accelerator
+with an X-ray tube on one end.
+X-rays are high-energy light
+particles that destroy living tissue
+in large doses. They are produced
+when the fast electrons from the
+accelerator smash into a target,
+creating a fine, high-energy beam
+which acts as the "scalpel" in ra
+diosurgery.
+Once the patient's head was
+manually positioned in the imag
+ing system in Tuesday's opera
+
+tion, the computer took over.
+Mounted on the roof, two X-ray
+sources — similar to those used by
+dentists for dental X-rays — pro
+jected images of his head onto
+plates that were read into the com-
+
+puter system.
+The control
+ling computer
+compared the
+two images
+taken by the X
+ray cameras to
+the correspond
+ing projections
+calculated from
+the stored CAT
+scan. The com
+puter then cal
+culated the pa
+tient's head po
+sition to within
+a fraction of a
+millimeter.
+Armed with
+the exact tumor
+location, the
+computer
+gracefully posi-
+
+tioned the robot arm holding the
+X-ray source. The first position
+pointed from the floor up toward
+the patient's head at a precarious
+
+
+Courtesy John LeSchofs / Stanford Visual Arts Services
+Neurosurgery Prof. John Adler, left, and Radiation
+Oncology Prof. Steven Hancock demonstrate the
+new "stereotactic" cancer surgery technique on
+patient Mike Murray of Princeton, N.J.

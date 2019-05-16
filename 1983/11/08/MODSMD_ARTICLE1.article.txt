@@ -1,0 +1,89 @@
+# FBI investigating Stanford computer break-in
+## 
+### LISA LYNCH Senior staff writer 
+Ronald Austin, the UCLA sophomore
+who infiltrated a Defense Department
+computer network, has been connected
+to a recent FBI-investigated intrusion
+into the University's computer system.
+Austin, 19, was arrested Nov. 2 and
+has been charged by the Los Angeles
+district attorney with cracking computer
+systems operated by 14 military, private
+and university research instutions. They
+were all linked by ARPANET (Advanced
+Research Projects Agency Network), a
+computer network that, although run
+by the Defense Department, does not
+contain any military or classified infor
+mation.
+"ARPANET is about as miltary as a
+telephone," explained Brian Reid, assis
+tant professor of electrical engineering
+
+and assistant professor at Stanford
+Electronics Lab. "You can try to call the
+Pentagon on it, sure, but you'll get
+about as much access as if you picked
+up a phone and dialed.'
+Although Austin has not been formal
+ly indicted for infiltration of the Stan
+ford computer system, Albert Al
+bergate, a press spokesman for the Los
+Angeles District Attorney's Office, said
+a report prepared for the DA's office
+proved that Austin broke into the Stan
+ford system.
+"Austin did infiltrate Stanford,''
+Abelard said. "We don't have enough
+evidence to press criminal charges, but
+it is certainly possible we may charge
+him with the Stanford situation it
+damage has been done."
+Reid said he discovered in mid-
+September that someone was illegally
+
+using the Stanford system.
+"One morning, just around dawn, I
+was at my terminal and I noticed some
+one else was using the system," Reid
+said. When he discovered no one in the
+University was using the computer at
+that time, and that the user name he
+had seen belonged to a person no
+longer affiliated with Stanford, Reid
+realized there was an intruder on the
+system.
+Reid said he contacted the FBI almost
+immediately to investigate the situation.
+"I decided that if I was going to get
+something done I might as well start at
+the top," he said.
+He then gathered 10 Stanford com
+puter science students and set a trap for
+the mystery invader. The intruder had
+initially set a trap for Stanford hackers,
+gaining access to the system with their
+
+unwitting aid.
+"Basically, the guy had planted what
+is known as a 'Trojan Horse' program/
+said Glen Trewitt, one of the students
+who helped set the trap. "It works the
+same as your classic Trojan Horse.,"
+said Trewitt. "He replaced one of our
+routine programs that we run every day
+with a program that fulfills the same
+function, but in addition it gives the in
+truder the same power as whoever runs
+the program," For example, Trevitt ex
+plained, if he unsuspectingly ran the
+"Trojan Horse" program, the intruder
+would gain the same access to the sys
+tem that Trewitt had.
+Reid and the 10 students, once thev
+became aware ol what the invade
+was doing, allowed him to use
+
+
+Brian Reid

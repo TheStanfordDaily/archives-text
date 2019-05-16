@@ -1,0 +1,80 @@
+# New computer warnings in place
+## Stanford takes new messures to secure Leland accounts 
+### Jason Engleman Contributing writer 
+Computer hackers beware. The University has
+been stepping up efforts to fight off hackers who at
+tempt to steal the passwords of Leland system
+users.
+Incidents of password stealing at Stanford have
+been rising recently.
+"We probably find a sniffer on the average of
+one or two a day," said Stephen Hansen, the Uni
+versity's computer security officer.
+Many people telneting into their Leland system
+accounts have probably noticed a message reading,
+"Warning: This session is not secure: your pass
+word is at risk." This message appears when the
+user has not installed Kerberos protection software
+to protect his or her password from computer hack
+ers.
+When the message is presented, users are given
+the link to a Stanford University Web site explain
+ing the warning. The site says that during a telnet
+session, users are sending their passwords over in
+secure phone lines. Unscrambled passwords can be
+stolen by hackers.
+University policy dictates harsh punishments
+
+for password thieves. Stanford's Computer and
+Network Usage Policy dietates "sniffers" will be
+subject to "disciplinary action up to and including
+discharge, dismissal, expulsion and/or legal ac
+tion."
+According to Hansen, most of these hackers
+tend to be high school students. Often, hackers are
+simply looking to "hide their tracks when they're
+being obnoxious on" the Internet.
+According to Hansen, the worst thing password
+stealers can accomplish is deleting all of the victim's
+files.
+"We had a grad student who lost everything,"
+Hansen said. It is impossible to put a dollar figure
+on such a loss, but Hansen said, "figure what two
+quarters of Stanford tuition is worth."
+Once someone steals your password, "they are
+you," Hansen said.
+"We've been trying to tell people" about the im
+portance of Kerberos protection, but "there's still a
+fairly large segment of the community that is log
+ging in an insecure fashion," he said.
+Stanford provides software that can help Le
+land system users protect their telnet sessions from
+hackers. This software uses Kerberos security to
+encrypt a user's password, so it does not travel over
+
+the network in a readable fashion.
+By visiting http://www.stanlord.edu/ group/itss
+ccs/security//leland-warning.html and installing
+MaeLeland or PC-Leland,Leland system users can
+ensure that their passwords will not fall prey to
+hackers.
+According to Dennis Michael, manager of the
+Leland system, the Kerheros protection software is
+not complicated, takes a few minutes to install and
+is easy to use.
+Michael emphasized the importance of in
+stalling the software, since if a hacker steals a pass
+word, he or she can "read your mail, look at your
+files, or use your account for other purposes,"
+Michael said.
+Dragomir Angelov, Lambda Nu resident com
+puter consultant, agrees that installing the Ker
+beros protection programs are well worth the ef
+fort. Installing the programs is "self-explanatory
+and very easy," Angelov said.
+"All RCCs are supposed to give away compact
+discs at the beginning of the year with that pro
+gram," he said.
+According to Hansen, within 6 months it will be
+impossible for Leland system users to login without
+installing the Kerberos protection software.

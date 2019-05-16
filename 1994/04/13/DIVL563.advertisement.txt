@@ -1,0 +1,32 @@
+# Adv. 35 Page 12
+## 
+### 
+ASSUREFUNDS
+ASSU Fee Refunds are currently available for
+all registered Stanford students.
+WARNING Fill out your request conscientiously several groups (Legal
+Counseling, Stanford In Government, SURE Escort and others) can and will
+refuse to provide their services to students who requested a refund from them' If
+you later find you need these services, you will not be able to obtain them even by
+repaying what you refunded* The refund program provides info on most groups
+INSTRUCTIONS:
+Telnet to "assu-serve 1234" from any networked computer Contrary to previous information.
+>ou do not necessarily need a Leland account Fee Refunds apologizes for any confusion this
+misinformation may have caused
+If you have a Leland account, you can apply in one of the following ways:
+If you will be applying from a dorm cluster, use a communications program such as MacSainson
+or MaclP. type the name of an elainc server at the "Host Name" prompt (cx "elainel2", "elaine22".
+etc ) and then login with your Leland user name and password At the elainc prompt
+("elainel2~>", "clainc22~>". etc ) type "telnet assu-scrvc 1234" and press enter
+If you arc applying from the Tressidcr or Meyer Lalß. login to a computer with your Leland user
+name and password A welcoming window will appear in the upper left-hand corner of your
+screen Click on it Select "Login to Cardinal (for e-mail, etc )" and login again with \our Leland
+password At the Cardinal prompt, type "telnet assu-serve 1234" and press enter
+Whether or not you have a Leland account, you can apply in one of the following ways:
+If you are dialing into the network with a modem (using (415) 498-1440 or other number), type
+"assu-serve 1234" at the "tip" prompt and press enter
+At any Unix prompt on a networked computer, type "telnet assu-serv e 1234" and press enter
+Follow on-screen instructions to complete your refund request: program is self-explanatory.
+Note: Requests from Autumn and Winter quarters carry over automatically; you do
+not need to request again if you received your check last quarter.
+THE DEADUNE FOR REFUND REQUESTS IS AF-RIL 22nd, 12AM.

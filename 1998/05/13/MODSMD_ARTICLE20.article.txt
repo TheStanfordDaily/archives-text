@@ -1,0 +1,54 @@
+# Lab Watch
+## 
+### Saurabh Prakash Editorial staff 
+Who would have thought that the same copper
+telephone lines that allow someone in Kalamazoo,
+Mich, to "touch someone" in Delhi. Texas could pro
+vide enough bandwidth to deliver megabits of com
+puter data as well as high-quality television program
+ming?
+Thanks to research performed by John Cioffi,
+associate professor of electrical engineering, telecom
+munications companies are transforming copper net
+works into superfast highways for information. The
+same wires cursed for inducing Internet data bottle
+necks may sewn help ease the congestion.
+The technology Cioffi pioneered, called discrete
+multi-tone (DMT), multiplies capacity on existing
+copper networks so that data travels 30 to 50 times
+faster than present rates.
+Though Cioffi developed the technique in 1993.
+industry has been slow to rally around the standard.
+Only two months ago, a consortium including
+Microsoft, Intel, Compaq, GTE and four of the five
+Baby Bells approved a technology derived from Ciof
+fi's DMT, called G. ADSL Lite. "It took a while, but I
+think everyone is now on the same page." Cioffi said.
+Cioffi's work commenccd in 1986 when he began
+working on a method to transmit digital television sig
+nals via copper telephone lines.
+After three years of research, Cioffi developed a
+solution — squeeze more capacity out of copper by
+adjusting the transmission to compensate for the
+quality of the line. DMT-equipped modems sample
+the line 10 to 100 times a second and adjust the fre
+quency of the signal accordingly.
+"No two phone lines are exactly alike," Cioffi said.
+"They're different lengths, some have radio-signal
+noise, impulse noise, crosstalk noise, etc. DMT uses
+intelligent modems that learn about the line, tell each
+other about it and change their signal accordingly."
+By 1993, the industry could not ignore Cioffi's
+DMT. Cioffi's idea attracted so much interest that
+Texas Instruments purchased a start-up founded by
+Cioffi for $450 million.
+Stanford also stands to gain from Cioffi's succcss.
+The Office of Technology Licensing (OTL), which
+has applied for four DMT patents, expects to earn
+millions in future royalties.
+"We hope that this | technology] will bring in
+between $20 and $30 million more in royalty income
+over time, which would make it the second or third
+largest revenue generator that we have had to date,"
+said Katharine Ku, director of OTL.
+

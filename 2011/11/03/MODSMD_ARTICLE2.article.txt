@@ -1,0 +1,58 @@
+# RESEARCH
+## CS team develops RAMcloud Researchers improve value data storage 
+### ILEANA NAJARRO 
+A team led by John Ousterhout,
+professor of computer science, re
+cently completed a vital stage in the
+development of RAMCloud, a key
+value data storage system that will
+improve performance levels of cur
+rent storage technology tenfold
+and open up possibilities for future
+networking sites and web applica
+tions.
+
+RAMCloud builds upon exist
+ing large data storage systems, like
+those used by Google and Face
+book, and aims to enable users to
+store and recover more data at
+lower latency speeds. According to
+Ryan Stutsman, a computer science
+graduate student working on the
+project, this type of technology is a
+relatively new experimentation.
+"Using RAM for this kind of ap
+proach is only recently becoming
+practical as the size of RAM has
+been scaling up over the years and
+it's now able to hold large data
+sets," Stutsman said.
+Ousterhout came up with the
+initial idea for the project in early
+2009, after looking at how network
+ing and search engine sites were
+storing memory and data. With the
+help of Mendel Rosenblum, associ
+ate professor of computer science
+and electrical engineering, the idea
+grew into the current project, which
+is based on both professors' inter
+est in exploring a low latent storage
+system.
+"We made the decision that, if
+we were to do a company, we might
+have to do something different. But
+as research we would try to build
+something that would be fast and
+have the lowest latency possible
+and start from there," Rosenblum
+said. "That led to the idea that we
+would put everything in memory
+and call it RAMCloud."
+
+The project's planning stage
+lasted for nine months, until late
+fall of 2009 when up to 10 students
+and numerous faculty began direct
+ly contributing to coding and or-

@@ -1,0 +1,88 @@
+# Math problem solution won't endanger codes
+## 
+### Bill Beyda 
+The recent solution of a
+3000-year-old mathematical
+problem, determining wheth
+er a given large number is
+prime, has shed new light on
+the nature of mathematical
+truth, as well as prematurely
+raising concern for the security
+of important secret codes.
+A team of Europeans used a
+new method of Leonard
+Adelman and Robert Rumely
+of the University of Southern
+California and Carl Pomerance
+of the University of Georgia to
+show that a 97-digit number
+was prime in 77 seconds. Pre
+viously it would have taken at
+least 100 years for a computer
+to do this.
+A prime number is divisible
+only by one and itself. One way
+to see if a number is prime is to
+look for other factors by trying
+all possible candidates. How
+ever, this takes a long time,
+even on fast computers.
+
+Rapid tests for primality ex
+isted before, but could only in
+dicate if a number was likely to
+be prime. Some mathemati
+cians speculated that absolute
+certainty on such questions
+might be beyond reach, a situ
+ation not unlike that in the
+physical sciences, as
+Pomerance noted in a recent
+paper.
+However, the new algorithm
+can determine without a doubt
+if a number is prime — without
+the tedious process of factor
+ing.
+"It's a beautiful piece of
+mathematics," said Donald
+Knuth, professor of computer
+science at here. "Until this
+method, we could tell within a
+second or two whether or not a
+97-digit number was prime
+with a large degree of certain
+ty, but we couldn't be sure,"
+Knuth said. "This method is a
+sure proof."
+Factoring is thought to be so
+
+difficult that several secret
+codes were designed so that
+breaking the code involved
+factoring large numbers. These
+codes may include those used
+by the federal government as
+well as a "public key system"
+developed by Adelman and
+others at MIT. Early accounts of
+the new algorithm speculated
+that these codes might no
+longer be secure.
+"Nobody knows for sure
+what our nation's top diplo
+matic codes are," said Martin ■
+Hellman, professor of elec- .
+trical engineering here, and "
+pioneer in public key codes.
+"Many think they're based on
+large numbers as factors. But
+prime number determination
+is a much simpler task than fac
+toring."
+Though primality testing can
+now be done rapidly, it appears "
+we are far from a fast method
+for factoring, which is impor
+tant in coding.

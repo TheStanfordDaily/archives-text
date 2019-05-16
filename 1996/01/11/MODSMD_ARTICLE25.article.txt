@@ -1,0 +1,105 @@
+# Grads start on-line used car service
+## 
+### Jennifer Brinsky 
+Thanks to two recent Stanford graduates,
+the hectic days of dealing with used car sales
+men are over.
+Sani El-Fishawy and Robert Mardjuki,
+recent graduates in electrical engineering, along
+with El-Fishawy's brother, Karim, recently cre
+ated Classifieds2ooo (http://www.classi
+fieds2ooo.com), a World Wide Web home page
+which allows people in the Bay Area to buy and
+sell vehicles on-line.
+"Our goal," explained Sani El-Fishawy,
+"was to be able to have anyone sit down at a
+computer and easily be able to use Classi
+fieds2ooo to find any car they want."
+The revolutionary aspect of Classi
+fieds2ooo lies in its use of a full relational
+database, which makes it different from other
+on-line classified advertising. While some
+newspapers put their classifieds on-line, the
+buyer still must sort through pages of text to
+find what he or she is looking for. With Clas
+sifieds2ooo, though, the power of an Oracle
+database backs the site, cutting out this sift
+ing through text.
+With a few clicks on an on-line form, a user
+can enter information about the kind of vehi
+cle he or she wants to buy or sell and (-lassi
+fieds2ooo will automatically match up buyers
+and sellers.
+"Our users are thrilled to discover that
+they can instantly find exactly what they are
+looking for. Users can easily issue powerful
+
+queries such as 'Japanese hatchbacks built
+after 1990, priced below $15,000, fewer than
+100,000 miles, with air conditioning' all with
+a few clicks on a very simple form," Sani El-
+Fishawy explained.
+Then, every morning, Classifieds2ooo's
+"Cool Notify" service consults the database
+and informs the user via e-mail of all the vehi
+cles with his or her specifications which hit
+the market that day.
+Classifieds2ooo is an especially great
+resource for students, said Sani El-Fishawy.
+Not only do users not have to waste hours
+sorting through pages of classifieds, but
+advertising on-line is free as compared to $30
+or $40 in a local newspaper.
+As Karim El-Fishawy explained, the high
+number of schools was one reason for starting
+Classifieds2ooo in the Bay area. The El-
+Fishawy brothers and Mardjuki said they felt
+the response in the area would be positive
+because of the number of college students and
+the high-tech industry of the Silicon Valley.
+"Everyone," says Karim El-Fishawy, "has
+access to the Web here."
+Since its arrival on the Net on Oct. 1, the
+response to Classifieds2ooo has been astound
+ing. The El-Fishawys and Mardjuki receive
+dozens of letters each day from people who
+love the page, which is rewarding for them,
+and thousands of queries have been coming m
+every week.
+"Classifieds2ooo belongs to the buyer,"
+said Sani El-Fishawv "Our crn.-il iv:»« in
+
+full use of the computer to do everything for
+[the buyer 1."
+Included on the page are also advertise
+ments for several local dealerships. The page
+asks consumers to rate dealers from which
+they buy, and only those deemed reputable
+are allowed to advertise.
+Eventually the El-Fishawys and Mardjuki
+intend to generate revenue from advertising,
+but Sani El-Fishawy emphasized that "buyer
+feedback will continue to guide the develop
+ment of the system."
+The idea for Classifieds2ooo began as a
+vision of using the Web to buy and sell used
+skis on-line. They dropped that plan in
+favor of selling used cars. Eventually, they
+plan to have Classifieds2ooo encompass
+everything from real estate to roommate
+searches.
+"The Internet is a very powerful tool," said
+Karim El-Fishawy, who handles the market
+ing aspect of the page, "that can be utilized to
+revolutionize shopping."
+Based on the incredible response in the Bay
+Area to Classifieds2ooo, its three developers
+have plans to expand. Los Angeles, Boston
+and New York are the three spots Sani and
+Karim El-Fishawy and Mardjuki hope to
+reach next with Classifieds2ooo.
+"Our vision is that within a year anyone
+using the Internet to buy, sell or rent goods or
+services anywhere in the country will come
+first to Classifieds2ooo," said Sani El-
+Fish nwy.

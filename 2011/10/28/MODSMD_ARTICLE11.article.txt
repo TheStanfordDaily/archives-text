@@ -1,0 +1,134 @@
+# WORLD AND NATION
+## Cyberwar begins to gain ground As technologies advance, nations must draft new boundaries 
+### MARSHALL WATKINS 
+The Stuxnet virus that successfully crippled
+Iran's nuclear weapons program in June 2010 was
+a confirmation and demonstration of the increas
+ing abilities and sophistication of cyberwarfare
+tactics, according to University sources familiar
+with the subject.
+
+Eran Kahana, a fellow at the Stanford Center
+for Computers and the Law, described the Stuxnet
+attack as unique in its complexity. The virus is
+"cleverer than anything we've ever seen," he said,
+adding that the attack utilized "unprecedented
+target acquisition."
+
+Stuxnet targeted Siemens Industry, Inc. indus
+trial equipment most commonly used in the urani
+um enrichment processes.The virus used four pre
+viously unknown flaws in the Windows operating
+system to reprogram the equipment, and is con
+sidered to have set back Iran's nuclear program by
+five years. The virus' objective was so clearly de
+fined to the point that it seems "very unlikely that
+it was designed to do anything else," according to
+Kahana.
+
+Professor John Mitchell of the Computer Sci
+ence Department said that Stuxnet marked a new
+breed of viruses, as it was designed to attack phys
+ical infrastructures rather than obtain information
+from the target system, and because it showed the
+extent to which complex systems such as Iran's
+nuclear program are vulnerable to concerted,
+determined and well-resourced attacks.
+
+While the complexity of the virus would com
+plicate attempts to replicate Stuxnet, Mitchell said
+that the virus' reproduction and adaptation would
+be "possible with only limited resources." In re
+cent months, several examples of malicious soft
+ware that shared coding and behavioral character
+istics with Stuxnet have been uncovered.
+
+Kahana noted that the complexity and objec
+tive of the virus made it likely that Stuxnet's cre
+ators had at least co-operated with nation-states
+and that they may have been implementing
+state policy. Western nations such as the United
+States, United Kingdom and Israel currently pos
+sess the most advanced cyberwarfare capabilities
+with intelligence agencies in these countries
+frequently collaborating on cyber tactics but
+competing nations, such as China and Russia, have
+been quick to invest heavily in the field.
+
+Both China and Russia have been accused of
+deploying cyberwarfare tactics against foreign
+governments, with Russia allegedly launching a
+2007 cyberattack on Estonia that crippled not only
+government systems but also private entities, such
+as banks and newspapers.
+
+The Pentagon announced in May 2011 that cy
+berattacks against the United States would be
+considered acts of war, against which the United
+States could retaliate fully. However, the U.S. gov
+ernment is still formulating a comprehensive pol
+icy towards cyberwarfare and has thus far publicly
+focused on defensive measures. The existing poli
+cy has "more to do with political views than [cur
+rent] technologies," Mitchell said, who believes it
+will inevitably be developed further.
+Mitchell noted that the proliferation of cyber
+warfare tactics might lead to widespread industri
+al espionage initiated by private firms and nation
+states alike, and the anonymity of cyberspace
+might encourage states to leverage new resources
+on behalf of domestic firms.
+
+The recent discovery of a keylogger virus on
+U.S. military drone control systems while ap
+parently not an incident that endangers critical in
+formation — demonstrates what some consider
+to be underinvestment in cybersecurity by the
+United States.
+
+The virus records the communication between
+drone pilots and troops on the ground; the servers
+that control the drones, however, run disconnect
+ed from the Internet, thus limiting the virus' abili
+ty to disseminate any information it acquires. Mil
+itary network specialists have not been able to re
+
+move the virus, even after system-wide restarts
+and memory erasure, which are likely caused by
+self-regenerating measures programmed into the
+virus and a lack of defensive mechanisms built
+into the military systems.
+
+The United States' vulnerability to cyberattack
+remains to be seen, according to Mitchell. Even
+with an advanced intelligence community seeking
+to defeat cyberwarfare tactics, certain civilian sec
+tors such as electricity and water supply net
+works may be at particular risk of cyberattacks,
+especially after the Stuxnet attack exposed vul
+nerabilities that would allow malicious programs
+to take control of physical equipment.
+Complicating attempts to defend against cyber
+attacks is the "evolving arms race" to find new
+means of delivering viruses to target systems,
+Mitchell said. While both the Stuxnet virus and the
+keylogger virus found on drone networks were
+likely introduced by flash drives, hackers continue
+to find means of delivery designed to avoid de
+fense mechanisms built into current systems.
+Even as cybersabotage and cyberwarfare be
+come more effective, governments struggle to de
+fine to define acceptable cybertactics and targets.
+"There are ongoing efforts to regulate cyber
+warfare," Kahana said.
+
+While cyberwarfare is likely to be more broad
+ly utilized in the future, any such attacks suffer
+from limitations of technology.
+"Cyberwarfare doesn't directly kill people,"
+Mitchell said. And thus, it may become more com-
+
+
+SERENITY NGUYEN/The Stanford Daily
+Cyberwarfare succesfully crippled Iranian nuclear program, opening the door for similar viruses that
+target infrastructure. Similar attacks successfully targeted U.S. drones.

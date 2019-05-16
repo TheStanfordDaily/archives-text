@@ -1,0 +1,246 @@
+# ESSENCE OF MATTER
+## 
+### Joel Sheinmel 
+THE AUTHOR OFFERS $2500 TO THE FIRST READER WHO CAN FIND A FAL
+LACY IN THE LOGIC THAT PROPOSES AN ELECTRON MOVE AT THE VELOCITY
+OF LIGHT IN AN ELECTRON BEAM IN CONFLICT WITH CURRENT THEORY.
+Readers wishing to respond should address their correspondence to the writer
+at, 14 Tollridge Ct., San Mateo, Ca., 94402.
+Albert Schweitzer in his essay, Renunciation of Thought, wrote: "The organized political,
+social and religious associations of our time are at work to induce individual man not to
+arrive at his convictions by his own thinking but to take as his own such convictions as
+they keep ready made for him." — "His self confidence is also diminished through the
+pressure exercised upon him by the huge and daily increasing mass of knowledge. He is
+no longer in a position to take in all the new discoveries that are constantly announced;
+he has to accept them as fact although he does not understand them. This being his rela
+tion to scientific truth he is tempted to acquiece in the idea that in matters of thought his
+judgement cannot be trusted.
+Possibly humans are willing to follow the instruction of institutional leaders blindly as it
+appears to offer the greatest maximization of worldly opportunity. Yet do we really wish
+to be robots, regurgitating on command the data the institutions have given us? And, do
+undergraduate students of physics wish to accept blindly the postulates of quantum me
+chanics that renounce cause and effect asking them to accept and undeterminably
+world, a situation both Einstein and Schroedinger found untenable?
+In the following article I call upon your innate love of reason to commence the casting out
+of a current Rube Goldberg physics that on reflection makes little sense. Consider: that
+the current physics would have you believe light does not have a single identity, rather it
+is sometimes particle and sometimes wave; that there is one field theory to describe the
+world of macro bodies (gravity) and three different field theories (electromagnetism, nu
+clear and weak fields) needed to describe micro bodies; that matter itself has no expla
+nation and we must incorporate vague terms such as mass, quantum number, charge,
+and.undeterminability. You can buy into this abstraction or you can think, and when you
+do you will begin to recognize the folley and the following work presented by this writer
+will start to make sense.
+
+PART I - AN ERROR PHYSICISTS
+MIGHT RATHER HIDE
+It is not possible in this short article to both tear down and
+reconstruct a full picture of a new physics that could replace our
+current system. In recognition that human nature is such that often
+we are unable to accept a new idea until we can discern an error
+in a previously held conviction, part 1 is written to discredit current
+dogma without providing new structure to replace it. In part 3 the
+reader is provided with some of the building blocks of the new the
+ory. However, pragmatic considerations do not allow herein a
+complete discussion of all adjustments in physical law for a fully
+harmonious system.
+Magnetic field strength can be determined by measuring the force
+on an electron beam (or current carrying wire) that is placed within
+a magnetic field. The experimental derived formula is:
+F <r BIL Sin 0
+where, F = force
+B = magnetic field strength
+I = current flow
+L = beam or wire length in the field
+d = the angle the current flow makes with the magnetic
+lines of force.
+When d is 90 degrees F cc BIL. In 1856 Wilhelm Weber and
+Rudolph Kohlrausch measured the proportionality constant in this
+equation and found it to be equal to 1/c, where c was the velocity
+of light. Following this measurement the magnetic force equation
+was written:
+F = BIL/c
+For a while the finding of the velocity of light in the magnetic force
+equation was a great mystery to physicists. However, not long
+thereafter this confusion was felt to be unmuddled by Maxwell.
+Maxwell's equations showed the velocity of light was the neces
+sary speed of propogation for electric and magnetic fields to main
+tain a steady state. Vet propogation of electromagnetic waves at
+the speed of light was not the cause for the velocity of light in the
+denominator of the magnetic force equation, rather it was a con
+sequence of it.
+Why then does a velocity term show up in the denominator of the
+magnetic force equation? Assume an electron beam is turned on
+and fires 3x 10 20 electrons/sec into space. 3x 10 20 elecetrons/sec
+is the current in the beam, since current equals charges/sec. Fur
+ther assume that the velocity of the electrons in this beam is
+3xl0 9 cm/sec (10% the speed of light). Then in 1 second 3xl0 20
+electrons are spread out along a line in space 3x 10 9 cm long.
+Now let us further assume 10 cm of this beam passes at right
+angles to the magnetic lines of force through a magnetic field. The
+number of beam electrons (charges) in the magnetic field will be
+given by the concentration of electrons in the beam (charges/cm)
+times the length (in cm) of the beam running through the field. We
+have defined the length of the beam in the field (10 cm) and we
+
+can calculate the electron concentration in the beam by dividing
+the current (charges/sec) by velocity (cm/sec) to obtain
+charges/cm. Substituting values we obtain:
+# of electrons in the magnetic field (v = 3xl0 9 cm/sec) equals
+[3xl0 20 electrons/sec (l)/3x 10 9 cm/sec (v)] x 10 cm
+10 1 Electrons
+If we hold the beam intensity (I) constant, but assume the electron
+velocity in the beam is now 6xl0 9 cm/sec (twice the initial
+velocity), we find the number of electrons passing through our 10
+cm magnetic field has become half as great.
+# of electrons in the magnetic field (v = 6 x 10 9 cm/sec) equals
+|3x 10 20 electrons/sec (l)/6x10 9 cm/sec (v)] x 10 cm (L) =
+.sxl0 12 electrons
+Physicists concluded the force on a beam moving through a mag
+netic field was proportional to current intensity and beam length
+within the magnetic field, since both effected the number of
+moving electrons within the magnetic field at any instant.
+However as has been shown above, for a given current intensity
+the faster electrons travel in the beam the more spread out the
+electrons become, and the fewer in a given length (L) of the beam.
+That is, if the force on the beam is proportional to those terms
+(intensity and beam length within the field) that increase the num
+ber of electrons in the field, this same force should be inversely
+proportional to velocity, which decreases the number of electrons
+in the beam interval within the field. The proportionality constant
+Wilhelm Weber and Rudolph Kohlrausch calculated as needed in
+the denominator of the magnetic force equation was electron
+velocity and this velocity was found to equal the velocity of light.
+What difference does it make why a term is present as long as it is
+accounted for? An electron moving at the speed of light creates
+major problems for physicists. We mention two.
+1. If electrons move at the speed of light they must be a form of
+electromagnetic radiation. This has dire consequences for
+quantum mechanics.
+2. According to special relativity a particle, such as an electron,
+cannot move at the speed of light at which speed it would ac
+quire infinite mass. Experiments in accelerators thought to con
+firm this theory would need to be re-evaluated. For physicists
+who might read this article we offer a clue. What constitutes a
+particle needs to be re-examined along with the abstract con
+cept of mass.
+An electron traveling at the speed of light is traveling 137 times
+faster than the assumed orbital velocity of an electron in a ground
+state hydrogen atom whose momentum (mass-velocity product)
+has been accurately measured. If this electron were also moving
+at the speed of light, its mass would need to be 137 times smaller
+than currently assumed for its momentum to match the measured
+value. The curious reader might ask, hasn't electron mass ever
+been directly measured? The answer is no. Masses are never
+measured directly, only implied from momentum changes.
+However, J.J. Thompson was thought to have successfully mea
+
+sured the electron charge to mass ratio in 1897. When subse
+quently Robert Millikan measured electron charge 14 years later it v
+was believed the electron mass could be calculated.
+The problem was that J.J. Thompson began by comparing force
+equations for electric and magnetic fields not knowing that the
+magnetic field force equation required an electron velocity term in
+its denominator. His conclusions would have been quite different
+had he known. This raises a third problem for physicists. All cur
+rent particle physics rests on J.J. Thompson's experiment and
+subsequent deduction.
+In light of the problems physicists would face if the error in the in
+terpretation of the magnetic field force equation were commonly
+known, it might be preferred this mistake in our physics remain
+hidden.
+PART 2 - BACKGROUND ON
+GENERAL RELATIVITY
+In Part 1 we delineated an error in the magnetic field force equa
+tion and suggested electrons travel at the speed of light. Is it pos
+sible to consider an electron moving at the speed of light similar to
+electromagnetic radiation, and if this is true would not the electron
+be a form of electromagnetic radiation? Before exploring this pos
+sibility we need to provide the reader with a brief understanding of
+general relativity theory.
+General relativity was advanced by Albert Einstein as a field the
+ory superseding the Newtonian law of gravity and is now accepted
+by modern science as a more correct interpretation for observed
+macro world events. Its geometric statement of space, curved
+spacetime, can be described easily by an illustration.
+Picture yourself on a flat golf green about to putt a ball far from the
+hole. We add to your difficulty by making this golf green friction
+less at the moment you putt, i.e. when you putt, if your direction is
+not perfect the ball will continue past the hole and run on until off
+the green on the other side. This green is analagous to a perfectly
+flat space, where a body floats forever in a straight line uni
+nfluenced by the space through which it moves.
+Now let us change the topography of the green on which you
+would putt. We retain its characteristic to turn frictionless at the in
+stant you strike your ball, but shape it like a funnel with the golf
+hole designating the center. We additionally make the funnel's
+curvature steepest nearest the hole and decrease the curvature
+as we move further from center allowing it to become almost flat at
+large distances. As you putt your ball on this second green we will
+assume you have lined up your putt poorly so that the ball does
+not move in a straight line toward the hole. In this scenario three
+alternatives are possible. You could have putted your ball slowly
+allowing for the curvature of the funnel shaped green to correct for
+your misdirected putt, thus bringing it to the hole. Next, you could
+have putted your ball fast, so fast that the ball's speed carried it
+past the hole allowing it to move to areas where the funnel was al
+most flat and, thereafter, to continue on its outward journey ex
+periencing negligible effects from the funnel's curvature. Lastly,
+you could have putted your ball at an intermediate speed, a speed
+that caused your ball to move past the hole, but not sufficiently
+fast to escape the highly curved sections of the funnel. This ball
+would continue to fall around the hole without ever dropping in.
+Einstein described space similar to this funnel shaped golf green,
+with the topography of space dependent on the distribution of mat
+ter and energy contained within it. In our solar system the sun
+represents a large center hole in the funnel, the planets, while also
+creating their own smaller holes, additionally are golf balls falling
+at intermediate speed around the central sun hole. The planets
+closest the sun, where the sun's tunnel is steepest, have orbits
+that are highly curved. Those planets far from the sun move in the
+more open orbits characteristic of the sun's funnel at greater dis
+tance.
+Time enters the picture when we consider the speed at which you
+putt your ball. The ball curves less when you putt fast across the
+funnel green. Actually the ball's rate of fall as it crosses any point
+on the funnel is independent of speed. With more speed the ball
+moves much further for a given quantity of fall and its path
+becomes straighter.
+Einstein, in describing how a body would move through space,
+needed to account for both where in the funnel the body was and
+at what rate of speed the body was moving relative to any holes in
+its vicinity. His simultaneous accounting for both was to stipulate a
+body moves through spacetime and it is spacetime, not space that
+is curved.
+A second illustration may clarify Einstein's concept further. A
+baseball pitcher throws a ball to his catcher. The ball moves
+through the spacetime curvature present a few feet above the
+earth s surface. Here it is not the sun, but the earth that is the
+major contributor to the spacetime curvature in which the ball
+travels. If the ball is thrown slowly, the pitcher will have to give it a
+slight upward arc to allow it to cross the plate within the strike
+zone. If the ball is thrown fast, it will appear to move in a perfectly
+straight line, although we know, if the catcher moved much further
+back, the ball would eventually fall to the ground no matter how
+fast a mortal pitcher could throw it. We cannot describe the ball's
+motion in terms of only space geometry. If we said only space was
+curved, the curve of the ball on its flight would be independent of
+velocity. A fast ball and a slow ball would both curve equally
+(travel along the same arc) on the way to the catcher, although the
+fast ball would arrive sooner. The fusion of space and time into a
+spacetime continuum was first put forth by the German math
+matician Hermann Minkowski in 1907 shortly after reading his
+former pupil s paper on special relativity. Einstein's great achieve
+ment, and the one he was most proud of, was to recognize the
+ability to describe gravitational fields in terms of the curvature of
+spacetime.
+Einstein s causality for the relative motion of a body in space dif
+fered from the Newtonian concept developed more than 200
+years earlier. In Newtonian mechanics all space was flat and a
+gravitational attraction, such as provided by the sun, acted at a
+distance and held the planets in their orbits. It was as if there was
+an invisible rope between the sun and the planets that prevented
+the planets from leaving the solar system. For Newton, a pull from
+the sun caused the planets to change direction or accelerate. In
+general relativity theory the planets did not experience an ac
+celeration in moving around the sun, rather they moved in straight

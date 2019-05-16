@@ -1,0 +1,87 @@
+# CS department fights plagiarism
+## Faculty cites high enrollments, detection tools for rise in cases 
+### KYLIE JUE DESK EDITOR 
+It's 11 p.m. Your program is
+crashing, and the assignment is
+due at midnight. You know where
+your error is, but you don't know
+how to fix it. A simple Google
+search pulls up tons of working
+code, but copying that directly
+into your program would be vio
+lating the Honor Code.
+Yet it seems like there are al
+ways some students who give in to
+the temptation.
+Stanford's Office of Communi
+ty Standards' annual case reports
+demonstrate a steady increase in
+the number of Honor Code viola
+tions in computer science (CS)
+each year.
+However, the enrollment in
+CS classes has also risen signifi
+cantly over the last five years. In
+the 2013-14 academic year, over
+1,500 students took CS 106A:
+Programming Methodology, the
+first course of the introductory
+programming series in the CS
+department, and computer sci
+ence has grown into the largest
+major on campus.
+"Enrollments are on the
+rise," said Mehran Sahami '92
+M.S. '93 Ph.D. '99, professor of
+computer science and associate
+chair of education for the CS de
+partment. "If you imagine the
+same percentage of Honor Code
+violations is taking place but now
+the enrollment in the class is
+twice what it used to be, you're
+going to see twice as many viola
+tions."
+
+Moss: a measure of software
+similarity
+Few students realize that each
+assignment they submit is run
+through a program called Meas
+ure of Software Similarity (Moss).
+Moss is used to detect similarities
+between code submissions, and is
+considered a standard across
+most U.S. institutions. Used by
+computer science departments
+worldwide, Moss was developed
+by Stanford computer science
+professor Alex Aiken.
+Developed 20 years ago dur
+ing Aiken's time as a professor at
+UC-Berkeley, Moss is designed to
+cut down the manual labor of
+searching for plagiarism. Howev
+er, Aiken emphasized that Moss is
+not a system for detecting plagia
+rism directly.
+"What Moss detects is similar
+ity," Aiken said. "Why the code is
+similar is a human judgment that
+has to be made."
+Since code might be similar for
+various reasons, including shared
+libraries or starter code provided
+for the course, an instructor much
+check to see whether or not the
+similarity returned by Moss con
+stitutes plagiarism. Moss simply
+helps professors determine which
+programs should be flagged with
+a higher priority for further re
+view.
+"It's kind of smart about what
+'the same' means. It knows, for
+example, that if you go through
+and change all the variable
+names, it doesn't matter," Aiken

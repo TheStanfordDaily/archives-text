@@ -1,0 +1,151 @@
+# Science
+## Genomic scientists pioneer DNA chip technology Biochips can monitor the expression of 100,000 genes simultaneously 
+### Ellen Licking 
+Imagine all the genetic infor
+mation needed to encode a
+human being, all 100,000 genes
+in the genome, arrayed on a chip
+no bigger than a thumbnail.
+Next imagine monitoring the
+expression of these 100,000
+genes simultaneously.
+Although it may sound like
+something from Michael Crich
+ton's latest science fiction novel,
+researchers in the Biochemistry
+department at the Stanford Med
+ical Center, in conjunction with
+scientists at the local biotech
+companies Affymetrix and Syn
+teni, are working to make this
+biochip a reality.
+Advances in genomics, a new
+area of biology that focuses on
+mapping, sequencing and analyz
+ing entire genomes, have necessi
+tated the development of DNA
+chip technology.
+The entire human genome is
+predicted to be sequenced by the
+year 2003, and the genome of
+baker's yeast was finished last
+December. "Knowing the
+sequence of an organism is just the
+first step in understanding how its
+genes actually function," said post
+doctoral fellow Mark Schena.
+Growth and development are
+
+complex processes regulated by
+messenger RNAs, transcripts that
+contain information for making
+proteins and the proteins them
+selves. The blueprints for these
+molecules are encoded by an
+organism's genes. To better
+understand genetic regulation,
+sophisticated analytical tools like
+DNA chips have been developed.
+Currently, two different DNA
+expression chips exist. The origi
+nal biochip, developed in 1993,
+was the brainchild of scientists at
+Affymetrix. Called an oligonu
+cleotide array, it is a glass chip
+densely packed with oligonu
+cleotides, or short regions of
+DNA, which specifically recog
+nize different genes.
+The amount of space required
+for one 25-base tag is minute: The
+information occupies an area of
+only 50 square micrometers This
+means there is enough space for
+65,000 different oligos on a 2
+square centimeter chip.
+The second chip, known as
+the DNA microarray, was origi
+nally developed in the Brown lab
+at the Stanford Medical Center
+as a method for parallel genotyp
+ing en masse.
+Like the oligonucleotide array,
+the DNA microarray is made of
+glass and displays thousands of
+
+different nucleic acid sequences in
+a highly compressed area. Instead
+of using oligos, entire coding
+regions of genes or cDNAs, are
+printed on the DNA microarray.
+Despite this basic difference,
+both chips were designed to allow
+researchers to quantify ihe
+expression levels of many genes
+sun ultaneously
+A pooi of messenger KNA iso
+lated from a biological sample
+can be labeled with a fluorescent
+dye and used to probe the chip
+under very stringent conditions.
+Messages present in the sample
+will specifically bind to their cog
+nate DNAs on the chip.
+When the chip is exposed to a
+specific wavelength of light, the
+mRNA-cDNA complexes fluoresce
+with an intensity that reflects the
+abundance of the particular inRNA
+in the sample population. The
+more highly expressed the mRNA,
+the brighter the spot on the chip.
+Different mRNAs will be
+expressed at higher levels under
+some conditions relative to others.
+As a result, mRNA pools harvest
+ed from samples exposed to differ
+ent environmental conditions can
+be screened and compared. This
+information can be used to deter
+mine which factors increase the
+expression of specific target genes
+
+and which factors do not.
+For instance, a scientist inter
+ested m heat-inducible genes could
+screen a DNA chip using samples
+collected at low and high tempera
+tures. By comparing the two
+expression profiles, it would be
+possible to find all the heat
+inducible genes in a given genome.
+These DNA microarrays are
+produced using high-speed robot
+ic printing and require very little
+sample material. Only two micro
+liters of sample, a volume smaller
+than the head of a pin, are
+required to manufacture multiple
+DNA chips. Although the chips
+are currently made of glass, any
+solid surface to which DNA
+adheres could be used.
+"The technology behind biolog
+ical chips is evolving rapidly,"
+Schena said "Ultimately we don't
+know what form the chip will
+take When we started this pro
+ject, we started with the idea
+the genome DNA chip — and
+worked backwards to achieve the
+goal as rapidly as possible. The
+result is a wedding of biological
+needs to available technology."
+Both chips were designed using
+principles routinely employed in
+the computer industry: parallel
+
+
+Courtosy of Joo Doßisi
+Gene expression monitored on a DNA microarray. The more highly
+expressed the mRNA, the brighter the spot on the chip.

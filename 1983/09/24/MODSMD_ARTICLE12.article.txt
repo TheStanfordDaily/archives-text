@@ -1,0 +1,221 @@
+# Pacific-10 Statistics
+## 
+### 
+Team
+Total Offense
+Game
+Plays Yds Avg.
+UA 244 1368 456.0
+UW 157 879 439.5
+USC 142 847 423.5
+ASU 144 717 358.5
+UCLA 150 706 353.0
+OSU 216 1014 338.0
+UCB 218 957 319.0
+WSU 193 952 317.3
+SU 118 566 283.0
+UO 142 554 277.0
+Rushing Offense
+Game
+Plays Yds Avg.
+UA 156 616 205.3
+UW 89 392 196.0
+USC 88 381 190.5
+OSU 126 548 182.7
+ASU 75 213 106.5
+WSU 115 286 95.3
+UO 70 1 82 91.0
+UCLA 84 152 76.0
+UCB 98 215 71.7
+SU 45 43 21.5
+Passing Offense
+PA-PC TD Pet Yds
+UCU\ 66-40 3 .606 554
+SU 73-41 3 .562 523
+ASU 69-41 2 .594 504
+UA 88-55 4 .625 752
+UCB 120-63 2 .525 742
+UW 68-49 2 .721 487
+USC 54-33 4 .611 466
+WSU 78-44 3 .564 666
+UO 72-32 1 .444 372
+OSU 90-41 5 .456 466
+Scoring Offense
+G Pts Avg
+UA 3 133 44.3
+ASU 2 65 32.5
+UW 2 59 29.5
+USC 2 52 26.0
+OSU 3 67 22.3
+UCB 3 63 21.0
+UCLA 2 34 17.0
+WSU 3 50 16.7
+UO 2 21 10.5
+SU 2 21 10.5
+Total Defense
+Game
+G Plays Yds Avg
+UA 3 1 87 672 224.0
+ASU 2 143 552 276.0
+USC 2 150 577 288.5
+UCLA 2 139 613 306.5
+UW 2 141 628 314.0
+WSU 3 207 970 323.3
+UCB 3 229 989 329.7
+UO 2 144 705 352.5
+SU 2 157 846 423.0
+OSU 3 240 1354 451.3
+Rushing Defense
+Game
+Plays Yds Avg
+ASU 85 84 42.0
+UA 102 244 81.3
+UW 67 188 94.0
+UCB 128 284 94.7
+UCLA 87 235 117.5
+UO 94 280 140.0
+WSU 130 533 177.7
+USC 100 361 180.5
+OSU 122 595 198.3
+SU 120 610 305.0
+
+Passing Defense
+PA-PC TD Pet Yds
+use 50-23 1 .460 108.0
+SU 37-19 1 .514 118.0
+UA 85-43 1 .506 1 42.7
+WSU 77-43 3 .558 145.7
+UCLA 52-31 1 .596 189.0
+UO 50-36 5 .720 212.5
+UW 74-42 0 .568 220.0
+ASU 58-32 4 .552 234.0
+UCB 101-54 4 .535 235.0
+OSU 118-65 6 .551 253.0
+Scoring Defense
+G Pts Avg
+UA 3 12 4.0
+UW 2 24 12.0
+USC 2 29 14.5
+UCB 3 54 18.0
+ASU 2 38 19.0
+SU 2 44 22.0
+UCLA 2 45 22.5
+WSU 3 72 24.0
+UO 2 52 26.0
+OSU 3 97 32.3
+Punting
+No.
+No. Avg Ret.
+USC 6 46.3 3
+ASU 8 44.9 4
+Cal 24 43.5 11
+UO 16 40.2 6
+UA 9 39.4 2
+WSU 17 39.6 10
+OSU 17 37.8 13
+SU 16 39.4 11
+UW 6 29.2 0
+UCLA 10 37.3 6
+First Downs
+Rush Pass Pen Ttl
+UA 32 37 8 77
+OSU 30 17 9 56
+UW 26 26 2 54
+WSU 22 28 4 54
+UCB 12 34 4 50
+UCLA 16 26 3 45
+USC 17 23 3 43
+ASU 15 22 2 39
+UO 9 21 0 30
+SU 3 21 3 27
+Penalties
+No. Yds
+UCLA 7 50
+UW 9 65
+USC 14 110
+UO 14 125
+SU 15 160
+UA 19 149
+ASU 19 157
+OSU 20 177
+UCB 22 201
+WSU 25 188
+
+Individual
+Total Offense
+Game
+Plays Yds Avg
+Pelluer, UW 78 517 258.5
+Hons, ASU 77 481 240.5
+Neuheisel, UCLA 83 455 227.5
+Tunnicliffe, UA 87 634 211.3
+Gilbert, UCB 129 630 210.0
+Salisbury, USC 52 375 187.5
+Paye, SU 38 245 122.5
+Rypien, WSU 63 360 120.6
+Cottrell, SU 44 232 116.0
+Jorgensen, UO 49 216 108.0
+Passing
+PA-PC-PI TD Yds
+Pelluer, UW 65-48-1 2 480
+Hons, ASU 69-41-3 2 504
+Gilbert, UCB 110-61-5 2 718
+Neuheisel, UCLA 64-38-5 3 538
+Tunnicliffe, UA 76-46-3 4 645
+Salisbury, USC 46-28-1 4 397
+Cottrell, SU 40-21-1 1 263
+Paye, SU 33-20-2 2 260
+Jorgensen, UO 40-18-2 1 211
+Rypien, WSU 52-26-2 2 369
+Owens, UO 32-14-1 1 161
+Rushing
+Game
+No. YdsAvg TD
+Brewer, UA 34 24983.0 2
+Crutcher, USC 27 1 6482.0 1
+Hinds, UW 19 10954.5 2
+Harper, USC 21 10653.0 1
+Andrews, UCLA 23 10653.0 0
+Johnson, UA 45 1 5060.0 4
+Crawford, ASU 29 9848.0 2
+Holmes, OSU 33 13745.7 0
+Clack, ASU 21 8743.5 0
+Nelson, UCLA 24 8743.5 0
+Hunt, UW 21 8442.0 2
+Receiving
+No. Yds Avg TD
+Tolllver.SU 15 201 13.4 2
+Sherrard, UCLA 13 212 16.3 0
+Bark, UCB 17 213 12.5 0
+Dobyns, UA 15 208 13.9 0
+Stransky, UW 10 138 13.8 1
+Kern, ASU 10 101 10.1 0
+Michael, UW 10 91 9.1 0
+Horton, UA 14 275 19.6 2
+Hampton, UO ." 9 153 17.0 0
+Greene, UW 9 106 11.8 0
+Lewis, UCB 12 227 18.9 1
+Day, ASU 8 130 16.3 1
+Wright, ASU 8 123 15.4 0
+Pattison, UW 8 92 11.3 1
+Bergmann, UCLA 8 77 9.6 0
+McCall, UO 8 61 7.6 0
+Kickoff Returns
+No. Yds Avg
+Calvin, WSU 5 116 25.2
+Judge, UO 3 65 21.7
+Beavers, OSU 9 185 20.6
+Johnson, UO 3 56 18.7
+Henley.SU 5 88 17.6
+Garner, UCB 5 82 16.4
+Punt Returns
+No. Yds Avg
+Hunter, UA 14 175 12.5
+Barnes, UO 4 40 10.0
+Hopper, USC 6 55 9.2
+Onofrio, ASU 10 89 8.9
+Garner, UCB 10 75 7.5
+Burton, OSU 9 27 3.0
+Taylor, WSU 6 14 2.3
+Greene, UW 4 5 1.2
+

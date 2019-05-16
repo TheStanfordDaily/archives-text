@@ -1,0 +1,44 @@
+# Untitled Article
+## 
+### 
+The payoff to player I, i.e., the expected outcome for fixed pure strategies
+of / and //, is then
+v(i(x); z) = X [ w(.v, /(.v); z)dx. (J)
+Tiikoki.m 1. In a game satisfying 1, L\ ,7, for every mixed strategy /■'
+for I and every e > 0, there is a />urc strategy i(x) such that. /*>/' every z }
+v(F; z) < z(i(x); 2) + e. (~\)
+Proof. A mixed strategy / ; f<>r player /is a choice of A' functions [>\(x) t
+v
+. . , /;,(.v) >0, X] /M-v) = 1 l (, r each .v, />fx) specifying the proba
+-1« 1 A
+bility he chooses i with a given .v. Then v(F; z) — Ju l w(x, i; z)
+/-i
+I) l (x)dx. Divide the interval 0 < X < I into disjunct subintervals / 1,
+. . /„, nt[lj) <6, where sis chosen so that each continuous piece of each
+w(.v, i, z> varies by less than t o\'cr any interval of length <5. Now divide
+Ij into A" intervals Iji, .. ~ / ;V so that
+MUik) = Su I>i.(x)dx. (o)
+Then t lie pure strategy ?(.v) = k 011 f Jf:t j = I>l, k — 1, . . A' is the
+required approximation to F. For M
+- J*#-
+11 A
+D = o(/\" r) - r(i\.v); :) = E E (0
+/ = 1 A' = 1
+where
+Dj! = f n 7i'(x, k: z)lh(x)dx - ,/!,/• w(x, k; z)dx.
+x
+Hence, D < X S I^i>\ + '2MXRS, where C contains those js for
+j< C t 1
+which every w(a", c) for the given cis a single piece over Ij. The bound
+2MXRS fallows from the fact that there are at most XR j's not in C. For
+j e C,
+: Dj,\ <! I 'j, : fj Mx)dx - L Jk f,j k dx I< € m(Ij k ), (.">)
+where l \ L are the upper and lower bounds of ii'(x, k, z) over the interval
+Ij. Then
+o\< E < '"(/,) + 2MXI<b < € -112 2MXRS. (.(>)
+Since 0 is arbitrarily small, the proof is complete.
+HOW TO CLEAN UP AT POKER—This is a page from a report on the great American indoor
+sport, made by Dr. Richard Bellman, Stanford math professor, and Dr. David Blackwell, Howard
+University mathematician. This little gem is here presented in the form of easily comprehensible
+formulae. If properly clipped and prepared in the best cribnote form, it is guaranteed to improve
+your luck in those all-night sessions.

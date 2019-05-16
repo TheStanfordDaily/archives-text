@@ -1,0 +1,66 @@
+# STANFORD STATS
+## 
+### 
+HUSHING
+plays gain loss net avg
+Spence 8 66 3 63 7.88
+Smith 3 19 0 19 6.33
+Royse 19 96 4 92 4.84
+Craig 21 94 10 84 4.00
+Thurlow 24 111 22 89 3.71
+Barnes 17 66 3 63 3.71
+Fitzmorris 9 43 11 32 3.56
+DeLellis 17 58 1 57 3.35
+Steuber 9 29 0 29 3.22
+Cummings 9 26 0 26 2.89
+Babajian 15 41 1 40 2.67
+Lindskog 8 17 1 16 2.00
+Sargent 1 2 0 2 2.00
+Shroyer 1 2 0 2 2.00
+Butler 14 31 25 6 .43
+Sears 10 14 43 -29 -2.90
+Stanford 185 715 124 591 3.19
+Oppon’ts 177 893 62 831 4.69
+PASSING
+attcomp int pet yds
+Sears 32 16 2 .500 158
+Thurlow 21 10 1 .476 119
+Butler 26 12 2 .462 160
+Stanford 79 38 5 .481 437
+Oppon’ts 59 23 8 .390 323
+PASS RECEIVING
+caught yds td
+Honore 14 139 0
+Pursell 8 68 0
+Royse 5 112 1
+Barnes 2 30 0
+Patitucci 2 28 0
+Spence 2 80
+Lindskog 1 18 0
+Jessen 1 12 0
+Fraser 1 80
+Craig 17 0
+McCormick 17 1
+Stanford 38 437 3
+Opponents 23 323 0
+TOTAL OFFENSE
+rush pass total game
+net net net avg
+Thurlow 89 119 208 52.00
+Butler 6 160 166 41.50
+Sears 29 158 129 32.25
+Royse 92 0 92 30.67
+Craig 84 0 84 21.00
+Spence 63 0 63 15.75
+Barnes 63 0 63 15.75
+DeLellis 57 0 57 14.25
+Babajian 40 0 40 10.00
+Steuber 29 0 29 9.67
+Smith 19 0 19 9.50
+Fitzmorris 32 0 32 8.00
+Cummings 26 0 26 6.50
+Lindskog 16 0 16 4.00
+Sargent 2 0 2 0.50
+Shroyer 2 0 2 0.50
+Stanford 591 437 1028 257.00
+Oppon’ts 831 323 1154 288.50

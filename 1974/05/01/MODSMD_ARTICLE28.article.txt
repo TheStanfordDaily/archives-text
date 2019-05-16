@@ -1,0 +1,33 @@
+# LEAGUE BASEBALL STATISTICS
+## 
+### 
+BATTER AVG AB R H 2B 3B HR RBI
+Robinson .407 27 4 11 2 0 0 2
+Lucich .378 37 9 14 4 0 5 11
+Davis, S. .300 40 6 12 2 0 0 4
+Hampton .293 41 5 12 0 0 3 10
+Baker .279 43 9 12 1 0 1 5
+Hannaford .265 34 1 9 0 0 0 2
+Sullivan .250 36 3 9 1 0 3 11
+Lamoure .211 19 4 4 0 0 0 0
+Bei .167 24 4 4 0 0 0 0
+Anderson .167 60 1 0 0 0 0
+Burtchaell .154 130 2 0 0 0 0
+Pitchford .091 11 1 1 0 0 0 1
+Crosby .000 1 0 0 0 0 0 0
+Morton .000 2 0 0 0 0 0 0
+Lockwood .000 3 0 0 0 0 0 0
+Egusa .000 6 0 0 0 0 0 0
+Bernhardt .000 90 0 0 o*o 0
+STANFORD .259 352 46 91 10 0 12 46
+OPPONENTS .262 362 52 95 16 4 9 50
+PITCHER W-L ERA IP H ER BB SO
+Arthur 1-1 1.52 23-2/3 13 4 8 16
+Frost 0-2 2.91 21-2/3 24 7 6 16
+Williamson 2-1 3.22 22-1/3 20 8 8 20
+Yandle 1-0 3.77 14-1/3 15 6 11 9
+Stotz 1-0 3.86 2-1/3 2 1 2 1
+Hittner 1-1 11.57 9-1/3 15 12 13 5
+Caldwell 0-1 19.29 2-1/3 6 5 1 0
+STANFORD 6 6 4.03 96 95 43 49 67
+OPPONENTS 6-6 3.73 94 91 39 38 57

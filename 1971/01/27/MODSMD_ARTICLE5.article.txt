@@ -1,0 +1,164 @@
+# Busy Life For A Bright Machine
+## 
+### STEVEN G. UNGAR 
+(Second of a two-part Series)
+Artificial intelligence has been
+defined as making a computer do what
+a human does when the human is
+behaving intelligently. This definition is
+sufficiently vague to be useful in
+describing the variety of experiments
+now being pursued at the Artificial
+Intelligence Project of the Depart ment
+of Computer Science, located in the
+hills behind Stanford.
+At the heart of the experimental
+work of the AI Project are two
+computers hooked together to provide
+about 130,000 words of core storage,
+less than that of the big IBM 360/67 at
+the Computation Center Campus
+Facility, but large nonetheless. The AI
+Project computer operates in the
+.time-share mode, which means that
+many people can use it simultaneously.
+Input takes place through typewriter
+keyboards that are hooked to large
+television-like displays which the
+computer uses to communicate with
+the experimenter. In addition, there are
+numerous television monitors,
+mechanical arms, and other gadgets
+usf'd for diverse experiments. The walls
+of the room are covered with
+computer-generated portraits of girl
+friends, graduate students, peace signs,
+and an occasional Playmate.
+Man or Machine?
+Ol all the experiments in progress,
+probably none strikes so strong an
+anthropomorphic chord as the
+hand-eye project, which is an attempt
+
+to make the computer manipulate
+objects in meaningful way. The "hand"
+part of the experiment is a mechanical
+arm with a motor driven elbow, wrist
+and two fingers; the "eye" isa television
+camera. Right now the computer is
+being programmed to manipulate
+blocks in order to play "Instant
+Insanity." The arm picks up a block,
+moves it to where the TV camera can
+see it, rotates the block so that the
+computer can determine the color on
+each side, and then stacks the blocks in
+such a way that four colors are
+displayed on each side of the stack.
+The machine must be able to
+recognize that the object the arm Is
+holding is a block, that it has colored
+sides, what the colors are (it does thus
+by using a filter wheel, the same way
+the Surveyor probe took "color"
+pictures of the moon), and what the
+correct orientation is for each block in
+order to solve the puzzle. In addition, it
+must direct the arm to move the blocks
+in order to examine them, and then to
+stack them.
+At this point, it takes the computer
+about ten minutes to play a complete
+game of "Instant Insanity," which must
+impress anyone who has spent hours
+vainly trying to do the same thing. But,
+most of the computer's time is spent in
+manipulation of the blocks—determin
+ing the correct solution takes only
+seconds. The arm is painfully slow and
+distressingly clumsy. A movie made
+about the hand-eye project several
+years ago was entitled "Butterfinger,"
+
+and even now, after much
+improvement, the machine plays with
+reinforced blocks since the hand has a
+tendency to occasionally miss the edge
+it was aiming for and smash the block
+with one of its steel fingers.
+Improvement Planned
+A second arm is being readied that
+will be much faster, more accurate, and
+probably gentler, than the arm now in
+use. The new arm, designed as an ME
+degree thesis by Victor Scheinman, a
+1 969 Stanford alumnus, will be capable
+of moving an object from any part of
+the playing surface to any other, with
+any orientation, in just a few seconds.
+A third arm that Will have a
+five-fingered hand and eighteen degrees
+of freedom (as opposed to the present
+six) is now in the planning stage.
+A project similar to the
+block-stacking machine, in its
+usefulness to artificial intelligence
+research if in no other way, is a
+computer-driven car. While perhaps a
+precursor of more elegant machines,
+the present vehicle is not exactly a
+Ferrari: it looks like a steel table on
+perabulator-wheels, with a television
+camera mounted on a mast in its
+center, and a radio transceiver for
+communication with the computer.
+Several years ago the car was made
+to follow a white line at about five
+miles per hour; it is hoped that soon it
+will be able to maneuver about in the
+laboratory parking lot. The computer is
+learning to distinguish between objects
+(to be avoided) and shadows (to be run
+
+over). The practical applications are
+obvious, but the real value of the car is
+what it can teach experimenters about
+representation of visual information in
+the computer.
+Mechanical Rythym
+A somewhat different approach to
+artificial intelligence is that of
+Professors John Chowning and Leland
+Smith of the Music Department, who
+are using the computer to study the
+performance of music. The computer is
+given various pieces of information
+necessary for it to play a piece:
+instrumentation, tempo, duration and
+pitch of each note, attack and loudness
+of each note, and any variations from
+mathematical exactitude that the
+performer cares to use. The computer
+generates the sounds by use of a
+digital-to-analog converter (a machine
+that takes the "digital" representation
+of information in a machine and
+converts it to "analog" representation,
+such as an electric current to drive a
+loudspeaker). Profs. Chowning and
+Smith are learning how to "play" the
+computer as one would play any
+musical instrument. An important
+byproduct is deeper insight into the
+nature of music and of musical
+performance.
+Psychiatrists Kenneth Colby and
+Franklin Hilf are using the machine for
+research in theoretical psychiatry. One
+of their projects involves the use of the
+computer as a psychiatric interviewer,
+in which the computer, communicating
+
+
+Daily photo hy Steve Unga
+OOPS—The mechanical arm just misses stacking the last block (arrow).

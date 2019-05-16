@@ -1,0 +1,55 @@
+# Russia Outplays Stanford In Computer Chess Match
+## 
+### 
+Stanford computer experts
+have lost a chess match, played
+entirely by computer, to a team
+of Russians at the Institute of
+Physics in Moscow.
+The Russians took two of the
+four games played in the series,
+which began in November 1966.
+The other two games ended in
+draws, after 37 and 39 moves.
+Stanford played its end of the
+contests on an IBM 7090 com
+puter, while the Muscovites used
+their M2O, a machine compar
+able in speed and power to the
+IBM 704, a much earlier IBM
+model.
+Prof. John McCarthy, head of
+the computer science depart
+ment, explained the reasons for
+Stanford's defeat.
+"The Russians have two var
+iants of their program," he
+
+stated, one of which is more
+powerful. This was the one used
+in the two Russian victories.
+This second program is better,
+he noted, because it investigates
+more possible moves. McCarthy
+also said that the Russians have
+a "more sophisticated method of
+choosing moves."
+Their system consists of look
+ing for aggressive moves. Stan
+ford's program, on the other
+hand, sets up a scoring system
+for moves, looks at all those
+possible, and then investigates
+further only those with the top
+four scores.
+McCarthy, along with Alan
+Kotok, Charles Niessen, and
+Michael Lieberman, wrote the
+program used by Stanford in
+1962, at MIT.
+At present, there are other
+programs in the U.S. which take
+the same approach to selecting
+moves as the Russians' does.
+McCarthy considers this method
+superior.

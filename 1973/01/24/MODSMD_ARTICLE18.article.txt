@@ -1,0 +1,341 @@
+# Library Automation At Stanford: Progress Report
+## 
+### 
+Fallowing is a report to the community on Project
+BALLOTS by David C. Weber and Allen B. Veaner of
+the University Libraries staff.
+Why libraries need computers
+The "information explosion" which universities have
+helped create in recent decades has inundated libraries
+and research centers with so many new publications that
+traditional manual systems are becoming increasingly
+unable to handle the load.
+Libraries are in large measure still using many of the
+basic techniques devised over the last 2,600 years. These
+techniques were considered moderately adequate until
+the Second World War. But library systems now are
+inconvenient of access, slow in response, difficult to use,
+frustrating in complexity, and unresponsive to changing
+needs.
+Problem of huge files
+Files have grown so large that they are virtually
+becoming unmanageable and many libraries have
+seriously considered ceasing to add to their card catalogs
+and starting afresh for new acquisitions with some
+degree of automation.
+* Ohio State University has announced that its card
+catalog will be closed and replaced by computer-oriented
+bibliographic services in 1976.
+* The Library of Congress has predicted that, at the
+present rate of growth, by 1980 its own public catalog
+will contain some 32,000,000 cards—a tile so vast that
+its manageability is questionable.
+* Even at Stanford, which is the nation's eighth
+largest research library, the various catalogs available to
+the public are estimated to contain some ten million
+cards.
+To create this major bibliographic tool-key to the
+millions of bibliographic units at Stanford—requires
+many formalized activities and functions which are
+routine and which do not require interpretive, scholarly,
+or qualitative judgments. Many of these lunctions are
+almost ideally suited to machine processing.
+More cost, less service
+Constantly rising costs are another factor in the
+libraries' desire to turn to computers. Labor costs go up
+5 to 6 percent each year, whereas the cost of computer
+transactions goes up at only half that rate.
+It is thus clear that at some point in the future the
+University should be paying increasingly less for library
+services under a machine system than if it stuck with thu
+tried and tested manual process with its ever increasing
+complexities and frustrations.
+And at the same time a machine system is a more
+powerful instrument for giving full, very precise, and
+more rapid access to local and national library resources.
+Library collections double in size about every 16
+years. Even in periods of social unrest or economic
+dislocation, the spiral of publishing and communication
+activity continues upwards.
+Unfortunately, when a library doubles in size, the
+effort required to maintain an equivalent level of service
+more than doubles-and therein lies the rub.
+The large research library at times seems to resemble
+a dinosaur or a book museum. In the one instance, it is
+slow and ponderous, not terribly adaptive or responsive
+to changes in environment. In the other, it grows and
+accumulates material relentlessly~yct the adequacy of
+its services diminishes as it increases in size because it is
+so difficult to access anything within a reasonable time.
+Modernization and service improvement needed
+The situation may be aggravated by the apparent
+increase of interest in interdisciplinary or multidiscipli
+nary studies which runs counter to pressures for physical
+decentralization of libraries. The scholar in urban prob
+lems has to shuttle between the Main Library, the Law
+Library, the Jackson Library of Business, and perhaps
+the Engineering and Art libraries.
+If lie is unable to determine from some central place
+(or better yet, from his own office, department, or
+laboratory) whether one library or another possesses a
+book and also whether that book is available for use, he
+may give up in all but the most pressing searches.
+In frustration, potential library users may turn to
+other services or devices for their information needs—
+perhaps building a personal library, long distance tele
+phone conversations with colleagues, costly and time
+consuming conferences, purchase of commercial inform
+ation service, or the multiplication of branch libraries.
+Students, and particularly graduate students, research
+staff and faculty are now increasingly critical of the
+ability of libraries to respond to current needs. Yet the
+library is still a major and essential component in a huge
+network of information processing; it too must be
+brought into the 20th century.
+Efforts to make this change at Stanford began more
+than six years ago in the Stanford library automation
+project. Involving 100 people and nearly $2 million to
+date, it is called Project BALLOTS-for Bibliographic
+Automation of Large Library Operations using a Time
+sharing System. One ot the most advanced library
+automation projects in the country, it still will require
+several more years to complete. (See table.)
+What BALLOTS can do for you
+Computer terminals will aid you in 1973 and later
+years to borrow books, search for publications you need,
+determine what the library has on a subject for your
+interest, and determine if a bibliographic citation that
+interests you is now in the Stanford Library and if so,
+where it is and whether it is in use.
+This effort is the result of computer programs written
+to operate television-like terminals that arc now in the
+Main Library and will be added in Meyer and other
+major library branches in the course of the next two to
+four years. (Any typewriter terminal on campus can
+already search the BALLOTS-MARC file, which consists
+of current Library of Congress catalog data.)
+The library staff will be able to help you with your
+searches during 1973-4; it is expected that public use of
+the TV-like terminals may start as early as 1974.
+
+How BALLOTS works
+Using terminals with cathode ray tubes, popularly
+called "CRT's," library staff now conducts searches of
+bibliographic files, enters commands and tells the com
+puter to format data for purchase orders, sort the orders
+alphabetically by vendor, and print them overnight.
+The computer will also print messages notifying
+faculty or student requesters that their materials have
+arrived. Search commands will find Library of Congress
+bibliographic data if available, and if not available, will
+eventually enable the staff to create their own data on
+the spot.
+Similarly, commands entered at the terminal will
+instruct the computer to properly format desired biblio
+graphic data, sort it in batches for the main and
+departmental libraries, and within each batch, print out
+the complete set of library cards already sorted in
+correct alphabetical filing sequence.
+The magnitude of this operation is appreciated when
+it is realized that the typical large research library
+prepares between half a million and a million cards each
+year—a job which in the manual system is not very
+interesting and is susceptible to error.
+In circulation, data collection devices and machine
+readable identification cards will speed circulation tran
+sactions and virtually eliminate the nuisance of filling
+out charge cards by hand.
+In summary the system will aid processing of roman
+alphabet material acquired, and items the catalog listing
+of which can be transliterated. There will be a consider
+able time period before a sufficiently large fraction of
+the library's holdings is contained in machine-readable
+fdes to make automatic search rewarding to the general
+user.
+This time varies depending upon discipline. In the
+sciences, it might be as short as two to five years. In the
+humanities perhaps as much as 30 to 50 years, or until
+such time as technological breakthroughs provide in
+expensive, reliable conversion to machine-readable form
+of massive bibliographic files-a prospect which docs not
+seem imminent at this writing.
+Unfortunately, a majority of the use of the library by
+scientists involves the search for journal articles and
+these will not be included in the initial implementation
+of the system because of the expense of buying and
+processing machine-readable data bases.
+Typically, lists in machine-readable form for journal
+citations covering a broad subject cost from
+$10,000-25,000 each year, more than that to store
+locally, and still more to convert them to internal
+
+machine formats like SPIRES so that they can be run
+against search programs. (SPIRES—the Stanford Public
+Information REtrieval System-is a computer-based,
+generalized information system. See Campus Report
+Oct. 11, 1972 p. 1-2.)
+Thus from the point of view of general patron search
+of the library catalog, we must consider that BALLOTS
+piovides a benefit of increasing utility over a period of
+years.
+The Meyer Library represents an exception in that all
+its holdings (except journalarticles) will included in
+the on-line catalog. The Meyer catalog is now printed,
+bound, and distributed in book form to several locations
+on campus.
+Computer applications in bibliographic data
+In 1965, the Library of Congress started a develop
+ment program to apply computer technology to the
+creation and distribution of its large pool of biblio
+graphic data.
+Known as the MARC Project (Machine Readable
+Cataloging), this effort eventually resulted in establish
+ment of a national and international standard for
+creating magnetic tapes containing all the information
+normally found on printed Library of Congress cards
+cards which form the backbone of the cataloging system
+in nearly every major research library in North America.
+For several years now the Library of Congress has
+been distributing weekly magnetic tapes containing
+machine readable bibliographic records for currently
+catalogued books. The service began with English lan
+guage books and late in the current fiscal year will be
+extended to French titles, to be followed by titles in
+other romance languages and in German.
+The MARC tapes form one of the foundations of the
+BALLOTS system. But BALLOTS also will permit
+libraries at Stanford to create their own bibliographic
+records for items not yet represented in the MARC
+service. Machine readable bibliographic records from
+MARC now make it possible for staff of the Stanford
+Libraries to:
+1. Search the files for information on a book,
+whether the information is known precisely or
+imprecisely.
+2. Create purchase orders for books without the
+requirement to retype the data.
+3. Have the computer print catalog cards without the
+requirement for any further typing or
+proofreading.
+
+(This space paid for by News and Publications)
+4. Sort the cards by computer (before they are*
+printed), resulting in the saving of the human labor
+which would otherwise be necessary to sort the
+close to one million cards prepared each year at
+Stanford.
+5. Notify interested library patrons that requested
+books have arrived and are available for use.
+These are just a few of the major activities which
+Project BALLOTS now performs.
+Computer access will, however, allow the user of the
+Meyer Library to determine whether the Meyer Library
+has the book and whether it is on the shelf. It thus
+provides a more up-to-date inventory than found in the
+printed catalog which is now cumulated every other year
+and provided with quarterly supplements.
+There are many others, such as preparing spine labels
+which permits books to be identified and shelved
+together in the stacks, gathering statistics, and upgrading
+or otherwise editing existing bibliographic data. In the
+near future the system will provide the capability to post
+and update control files applicable to ordered items
+(such as change of titles, delay in publication, etc.).
+BALLOTS: An advanced, on-line facility
+Research and development into computer applica
+tions has been under way in North American research
+libraries for two decades and especially during the last
+seven years. Most of the applications have been to
+circulation and technical processes, while nearly all have
+relied upon the conventional batch processing com
+puting environment. t
+The BALLOTS system now becoming operational at
+Stanford is substantially different from these earlier
+efforts.
+Since its inception BALLOTS has been oriented
+toward on-line data processing, an approach which is
+being found increasingly practical by other library
+systems as well. BALLOTS employs technology and
+software far more complex than that required for batch
+operations. The complexity of on-line operations in
+comparison with batch (or "off-line") operations tor the
+bibliographic work done at Stanford has been estimated
+to range from 10 to 50 times greater.
+The development of an on-line system is possible only
+in a computer environment characterized by great
+intellectual strength and extensive experience. The Stan
+ford University Libraries are fortunate to be able to
+work in a university environment characterized by this
+competence and degree of excellence.
+Basically, an on-line system permits a transaction to
+be conducted and brought to a relatively immediate
+conclusion, whereas a batch system requires all transac
+tions to be deferred (i.e., batched) for a processing job in
+the computer and its printer.
+The Library is a very transaction-oriented system. At
+Stanford the total number of transactions of all types is
+about 2,000,000 per year, or an average of about 8,000
+each day.
+When a library transaction is being conducted, the
+patron or the staff member usually needs an immediate,
+or at least a rapid, response. When a student or faculty
+member cannot find a desired book on the shelf, he
+wants to know now whether it is charged to some other
+user-not tomorrow or next week.
+When an acquisition librarian receives a book pur
+chase request, he has to know at once whether the book
+has already been ordered—not a week or a day later.
+Thus, the library operation is typically an on-line
+manual system. The availability of on-line expertise at
+Stanford plus the possibility of obtaining external giant
+monies to fund development work combined to in
+fluence the direction of the development effort toward
+an advanced, on-line facility. (See accompanying story
+on The people-andprograms-behind BALLOTS.)
+What BALLOTS will do for the library staff and users
+One way to envision what BALLOTS will do is to
+look at some of the limitations of current manual
+systems. Take book circulation, for instance.
+At present, Stanford library users must write their
+names, addresses, and all the book information onto a
+card for each book they desire to charge out. The charge
+card is in two parts—one goes with the book and the
+other is filed by call number so the location ol each
+book can be known.
+This system obviously has two inconveniences: one
+for the patron and one for the library staff. Much of the
+patron's time is consumed writing repetitive information
+which could easily be recorded by data collection
+devices and machine-readable identification cards, one
+for the book and one for the patron.
+Much staff time is consumed arranging and filing
+charge cards and the work is subject to human error.
+Furthermore, in the manual system, in order to find out
+which books are overdue, one must run through the
+whole file even including cards for books which are not
+overdue.
+Book purchasing is another area of potential change
+through automation. When a book is recommended for
+purchase, very often the exact title is not known, the
+author's name may be incomplete or misspelled, or
+authorship may even be attributed to the wrong organi
+zation or person.
+The control file for books on order contains a few
+tens of thousands of copies of purchase orders; these
+copies are on 3"x5" slips, which makes them difficult to
+search and hard to maintain in file.
+It is economically prohibitive in a manual system to
+maintain outstanding order files in several sequences to
+account for variations. Typically, a copy of a purchase
+order is filed in only one location in the file; therefore,
+the required information on an ordered title can be
+found in only one place in the file.
+Furthermore, the file itself is available in only one
+location a serious geographic limitation to the flow of
+bibliographic information in the academic community.
+Consider next the problem of searching for a book in
+a manual file such as a conventional card catalog.
+The typical card catalog is arranged in "dictionary"
+form, with authors, titles, subjects, and corporate bodies
+all interfiled in one alphabet. Suppose, as is not
+unreasonable, that a library user or staff member needs

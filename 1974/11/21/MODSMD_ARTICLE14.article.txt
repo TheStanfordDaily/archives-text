@@ -1,0 +1,212 @@
+# Features
+## No Board, No Money, No Dice Computer Monopoly-You Can't Lie, Cheat Or Steal 
+### PATTY FELS 
+It is 1 a.m. on a Monday morning and most
+campus buildings have been empty since early
+evening. But in the Durand Labs, three
+students have been hunched over an IBM 360
+computer terminal for two intense hours.
+Computer freaks trying to calculate pi to
+the billionth place? Frantic students
+desperately finishing a problem set, due
+before noon? Not quite. And yet their
+conversation sounds strangely familiar:
+"All right, all right. I'll sell you Baltic. But
+I still can't understand why you want the
+purples so much."
+"Probably because he's counting on getting
+Boardwalk and then he'll have the whole
+
+corner."
+"No one ever gets Boardwalk and Park
+Place with this fuckin' computer."
+Obviously, this is no ordinary program.
+These three people are playing what is known
+to the computer as "fctOOO.watorv.
+monopoly on syslO." To the layman, it is
+simply Computer Monopoly.
+Why play Monopoly on a computer rather
+than in the traditional method? For one thing,
+it's faster. There is no game board to set up,
+no money to distribute, no property deeds to
+shuffle through. A simple carriage return
+substitutes for a roll of the dice, and the
+computer automatically moves the player and
+tells him where he has landed:
+
+LISA , you are on *** GO * * *
+and have $l5OO
+WHAT IS YOUR MOVE?
+You roll: 5 4
+You land on CONNECTICUT AVE
+Computer Monopoly is also simpler. The
+computer does everything. It keeps track of
+property and money, and can list a player's
+financial assets and property holdings on
+request.
+There are drawbacks, of course. Cheating is
+almost non-existent since the computer
+automatically subtracts rent from a player
+who lands on someone else's property:
+
+TOM , you are on COMMUNITY CHEST
+and have $1350
+GLtNH 0
+Is the hlch bidder et $ 150
+W HAS J U7O
+GLENN , you arc on ELECTRIC CO end have S So'<
+WHAT IS YOUR MOVE?
+You roll: 3 2
+You land on COMMUNITY CHEST
+PICK A COMMUNITY CHEST CARD.
+RECEIVE FOR SERVICES $25.
+PAT , you are on INCOME TAX and have $ A7O
+WHAT IS YOUR MOVE?
+You roll : 2 6
+You land on ELECTRIC CO
+You own It. How convenient
+MIKE , you are on TENNESSEE AVE and have $ <26
+WHAT IS YOUR MOVE?
+You roll: 3 3 DOUBLES
+You land on ILLINOIS AVE
+It Is owned by PAT
+YOU PAY % 20
+MIKE HAS $ 806
+MIKE , you are on ILLINOIS AVE and have $ <O6
+WHAT IS YOUR MOVE?
+You rbll: 6 3
+You land on COMMUNITY CHEST
+PICK A COMMUNITY CHEST CARD.
+GO TO JAIL. 00 NOT PASS GO. 00 NOT COLLECT <2OO
+GLENN , you are on COMMUNITY CHEST and have $ 529
+WHAT IS YOUR MOVE?
+You roll: 1 3
+You land on KENTUCKY AVE
+You nay buy It for $ 220
+BUY? y
+GLENN HAS $ 309
+PAT , you are on ELECTRIC CO and have < 690
+WHAT IS YOUR MOVE?
+You roll: 2 1
+You land on PARR - PENSY RR
+You nay buy It for $ 200
+BUY? y
+PAT HAS $ 290
+MIKE . you have been In JAIL for 0 turns.
+YOU MAY "PAY" $5O TO GET OUT OR "ROLL" FOR DOUBLES.
+(OTHER OPTIONS ALSO VALID)
+WHAT IS YOUR MOVE? pay
+MIKE HAS $ 756
+MIKE / you are on JUST VISITING and have < 756
+WHAT IS YOUR MOVE?
+You ro11: 1 5
+You land on 5T JAMES PLACE
+
+KEEPING SCORE—Computerized monopoly
+eliminates some of the classic arguments of
+the game by telling players what they own,
+what they owe, and when they are broke. But
+with this printout there are no dice, money,
+tokens, playing boards or Community Chest
+cards in the computer's version of the famous
+game and no mess to clean up afterward.
+
+WHAT IS YOUR MOVE?
+You roll 1 1 *** DOUBLES ***
+You land on NEW YORK AVE
+It is owned by MIKE
+You pay $l6
+TOM HAS $1334
+And, naturally, there are never any of
+Monopoly's most-cherished arguments
+whether a dice roll on the rug should count,
+whether the Free Parking space carries a cash
+reward, who gets the Scotty and who gets the
+battleship, etc.
+But there is something addictive about the
+game. Something more than convenience.
+Computer Monopoly has an effervescent
+quality as players realize that they are playing
+a game without a board, tokens, or paper
+money.
+The only evidence that the game ever
+existed is the 19-foot printout that will be
+torn off the computer at the end.
+The game also becomes strangely
+whimsical. The computer is a machine,
+programmed to print out specific responses.
+But this is hard to remember when one needs
+to mortgage and gets this cherry greeting:
+WELCOME TO THE FRIENDLY LOAN
+COMPANY!
+Equally irritating is the computer's
+dispassionate statement when you misjudge
+your net worth after landing on the income
+tax square:
+You land on INCOME TAX
+You can pay S2OQ or
+10% of your net worth
+YOU MUST DECIDE BEFORE YOU ADD
+UP THE VALUE OF YOUR PROPERTIES.
+NET WORTH IS THE SUM OF WHAT YOU
+PAID FOR EVERYTHING YOU OWN, PLUS
+YOUR CASH. TO PAY $2OO REPLY YES.
+Y€S.
+YES/NO? Yes
+Too bad. You were worth $1720.
+Sometimes the computer even appears to
+gloat a bit:
+You roll: 5 2
+You land on BOARDWALK
+It is owned by TOM
+WITH A HOTEL!
+
+YOU PAY $2OOO
+Finally, there is the Computer's relentless
+refusal to recognize last-chance pleas from , 0
+those who have mortgaged everything they
+have:
+r t
+TYPE THE NAMES OF THE PROPERTIES
+YOU WISH TO MORTGAGE.
+PROPERTY? park place
+Sorry, MIKE ,
+vou don't own PARK PLACE
+PROPERTY? give me a break
+Name not recognized. Try again or type
+"DONE" or "DISPLAY."
+PROPERTY? please, i've got a wife and two
+kids.
+Name not recognized. Try again or type
+"DONE" or "DISPLAY."
+Perhaps the computer's most human trait is
+what programmers call a "bug." For example,
+occasionally someone will run out of money
+and the computer won't catch it for a turn or
+so. Then, all of a sudden, it will appear to
+remember and swear at itself:
+###
+-%
+TOM LISA MIKE
+187 -339 527
+LISA OWES THE BANK $339
+Superstition has it that the computer .
+inevitably takes revenge on the person who
+caused the mistake. In this game, the
+unfortunate Lisa landed on Park Place and .
+mortgaged all her property to pay the rent.
+On the next roll of the dice, she threw double
+ones and landed on Boardwalk, wiping her out.
+By 1:30, Tom has all the property on the
+board. The computer types out:
+CONGRATULATIONS, TOM
+YOU ARE THE WINNER
+Now the real disadvantages of Computer
+Monopoly become apparent. There is no
+board to overturn, no money to throw, no
+mess to force the winner to clean up.
+The disgruntled losers must settle for
+loudly slamming the door as they leave the lab ■-
+with an unsatisfied desire for revengeance
+and the eerie feeling that the computer is
+laughing at them.

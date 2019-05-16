@@ -1,0 +1,26 @@
+# Varsity Baseball Statistics
+## 
+### 
+PLAYER POS AB R H 2B SB HR RBI AVG.
+Jeff Rohlfing RF 31 3 16 4 0 0 6 .516
+Russ Tweet SS 24 4 9 1 1 1 2 .375
+Bob Gallagher CF 33 4 10 3 0 0 2 .303
+Bob Boone 3B 32 2 8 1 0 0 7 .250
+Mike Schomaker C-EF 33 4 8 0 0 0 3 .242
+Mark Marquess IB 33 571000 .212
+Mike Ewing LF 10 1 2 0 0 0 2 .200
+Phil Keller P-LF 11 1 2 0 0 0 2 .181
+Mike Ammirato 2B 30 5 5 1 0 0 2 .166
+Bob Edie C 8210000 .125
+Others 24 5 5 0 0 0 0 .208
+Stanford Totals 269 33 73 11 1 1 26 .271
+Opponent Totals 266 16 46 4 0 1 13 .173
+PITCHER G GSCG W-L IP H R ER SO BB ERA
+Harvey Shank ... 2 2 2 2-0 18 6 4 1 17 2 0.50
+Rod Poteete 3 2 2 2-0 20 14 2 2 20 2 0.90
+Sandy Vance 3 3 1 2-1 20 12 3 3 22 7 1.35
+Phil Keller 2 2 0 2 0 14 12 5 4 21 6 2.44
+Frank Klinger .. 200 0-0 22203 1 0.00
+Bob Sharpe 1 0 0 00 2 0 0 0 1 0 0.00
+Stanford Totals.. 9 9 5 8-1 77 46 16 10 84 18 1.14
+Opponent Totals. 9 9 2 1-8 72 73 33 -26 41 32 3.37

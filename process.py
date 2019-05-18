@@ -3,6 +3,8 @@ import os
 import re
 import shutil
 
+MAX_TITLE_LENGTH = 70
+
 years = os.listdir(".")
 for year in filter(os.path.isdir, years):
     if not re.match(r'^\d{4}$', year):
@@ -18,7 +20,7 @@ for year in filter(os.path.isdir, years):
                 file_path = os.path.join(year, month, day, filename)
                 with open(file_path, "r") as file:
                     _, title = file.readline().split("# ")
-                title = title.strip()
+                title = title.strip()[:MAX_TITLE_LENGTH]
                 encoded_title = base64.urlsafe_b64encode(title.encode("utf-8")).decode("utf-8")
                 new_path = os.path.join(year, month, day, filename)
                 new_filename = filename

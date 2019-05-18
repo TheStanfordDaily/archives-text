@@ -31,4 +31,4 @@ steps:
 - task: Bash@3
   inputs:
     targetType: 'filePath'
-    filePath: upload.sh
+    filePath: 'upload.sh'

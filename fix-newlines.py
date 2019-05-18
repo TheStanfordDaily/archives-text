@@ -1,4 +1,3 @@
-import xml.etree.ElementTree as ET
 import os
 import re
 import fileinput
@@ -14,7 +13,6 @@ def get_files():
                 if not os.path.isdir(os.path.join(year, month, day)): continue
             files = [os.path.join(year, month, day, file) for file in os.listdir(os.path.join(year, month, day))]
             yield files
-            return
 
 
 for files in get_files():

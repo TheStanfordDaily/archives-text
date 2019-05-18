@@ -5,6 +5,8 @@ from git import Repo
 def sync_with_git_repo(folder_path, repo_name):
     print("Syncing with git repo...", folder_path, repo_name)
     repo = Repo.init(folder_path)
+    repo.config_writer().set_value("user", "name", "The Stanford Daily Bot").release()
+    repo.config_writer().set_value("user", "email", "tech@stanforddaily.com").release()
     origin = repo.create_remote('origin', f"git@bitbucket.org:thestanforddaily/{repo_name}.git")
     repo.git.add(A=True)
     repo.index.commit("Updates")

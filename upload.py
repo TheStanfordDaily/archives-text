@@ -10,7 +10,7 @@ def sync_with_git_repo(folder_path, repo_name):
     origin = repo.create_remote('origin', f"git@bitbucket.org:thestanforddaily/{repo_name}.git")
     repo.git.add(A=True)
     repo.index.commit("Updates")
-    repo.git.push("--force", "origin", "master")
+    repo.git.push("--force", "origin", "HEAD:master")
 
 for century in filter(os.path.isdir, os.listdir(".")):
     if not re.match(r'^\d{2}xx$', century):

@@ -17,11 +17,6 @@ steps:
     addToPath: true
     architecture: 'x64'
 
-- task: CmdLine@2
-  inputs:
-    script: |
-      python3 -m pip install -r requirements.txt
-
 - task: PythonScript@0
   inputs:
     scriptSource: 'filePath'
@@ -33,7 +28,7 @@ steps:
     sshPublicKey: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDLdZTXcK+KGQFa9TgVSVlLpPOlzCOsfFfKKSDxG3PoWIVRHUKiugIK8oCPMUGYS2E4Vh8pzSK49nldKDS3LGl4Hk563BVXqiEoh/eBxFe0mCSJcKRTW7fvBhED1/2IqHCXSxjM3Ij8F04voN1rSqACnIsnjSsCbyV1tobV2WCOeb4G6UdwLno/tZq3jHaUO8MxyVV+HgNOgZyHnJsBPsb+k4JOcwps8WoNOYpXPXbtw9BNiZmGXdGj34Ge+3aLzKdpK69osLVo3yTEcXV6DYfNHI5YuRVQjmpK9u5UEc0pEbfpkrBkS771ctispzCRiS/nN6ryCD6IcdzSD9ptGr3d'
     sshKeySecureFile: 'id_rsa'
 
-- task: PythonScript@0
+- task: Bash@3
   inputs:
-    scriptSource: 'filePath'
-    scriptPath: 'upload.py'
+    targetType: 'filePath'
+    filePath: upload.sh

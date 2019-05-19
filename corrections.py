@@ -2,16 +2,16 @@ import xml.etree.ElementTree as ET
 import os
 import re
 import fileinput
-import tqdm
+from tqdm import tqdm
 
 PATH = "./stanford-text-corrections/stanford"
 
 def create_corrections():
     years = os.listdir(PATH)
     for year in filter(os.path.isdir, years):
-        tqdm.tqdm.write(year)
         for directory in os.listdir(os.path.join(PATH, year)):
             for (dirname, year, month, day) in re.findall(r'((\d{4})(\d{2})(\d{2})-\d{2})', directory):
+                tqdm.write(dirname) 
                 path = os.path.join(PATH, year, dirname + ".dir", f"stanford{dirname}-changes.log")
                 with open(path) as f:
                     xml = f.read()
@@ -25,7 +25,7 @@ def create_corrections():
                     for textCorrectedLine in textCorrectedBlock:
                         oldTextValue = textCorrectedLine.findtext("OldTextValue")
                         newTextValue = textCorrectedLine.findtext("NewTextValue").strip()
-                        corrections.append((oldTextValue, newTextValue))
+                        corrections[oldTextValue] = newTextValue
                 yield files, corrections
 
 for files, corrections in tqdm.tqdm(create_corrections()):
@@ -34,5 +34,8 @@ for files, corrections in tqdm.tqdm(create_corrections()):
     with fileinput.input(files=(files), inplace=True) as f:
         for line in f:
             if line.strip() in corrections:
+                print(corrections[line.strip()])
+                del corrections[line.strip()]
+            else:
                 print(line)
     break

@@ -10,7 +10,7 @@ def create_corrections():
     for year in filter(os.path.isdir, years):
         for directory in os.listdir(os.path.join(PATH, year)):
             for (dirname, year, month, day) in re.findall(r'((\d{4})(\d{2})(\d{2})-\d{2})', directory):
-                path = os.path.join("./corrections", year, dirname + ".dir", f"stanford{dirname}-changes.log")
+                path = os.path.join(PATH, year, dirname + ".dir", f"stanford{dirname}-changes.log")
                 with open(path) as f:
                     xml = f.read()
                 tree = ET.fromstring("<root>" + xml + "</root>")

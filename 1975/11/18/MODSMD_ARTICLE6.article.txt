@@ -3,15 +3,15 @@
 ### 
 Station City Frequency Format
 KQED* San Francisco 88.5 Stereo Variety Programming,
-I Jazz, Talk, Classical
-, KPFB* Berkeley 89.3 Stereo Variety Programming,
+Jazz, Talk, Classical
+KPFB* Berkeley 89.3 Stereo Variety Programming,
 Jazz, Rock, Folk, Talk
-1 KPOO* San Francisco 89.5 Mono Variety Programming,
+KPOO* San Francisco 89.5 Mono Variety Programming,
 Reggae, Jazz, 3rd World
-I KFJC* Los Altos Hills 89.7 Stereo Progressive Rock
+KFJC* Los Altos Hills 89.7 Stereo Progressive Rock
 KZSU* Stanford 90.1 Stereo Progressive Rock
 KSJS* San Jose 90.7 Stereo Progressive Rock
-> KCSM* San Mateo 91.1 Stereo Variety Programming,
+KCSM* San Mateo 91.1 Stereo Variety Programming,
 Middle-of-the-Road
 KKUP* Cupertino 91.5 Mono Classical
 KALW* San Francisco 91.7 Stereo Variety Programming,
@@ -34,7 +34,7 @@ KCBS San Francisco 98.9 Stereo Light Rock
 KNAI San Francisco 99.7 Stereo Total News
 KBAY San Jose 100.3 Stereo Beautiful Music
 KTIM San Rafael 100.9 Stereo Progressive Rock
-KlOl San Francisco 101.3 Stereo Light Top 40/M.O.R.
+K101 San Francisco 101.3 Stereo Light Top 40/M.O.R.
 KDFC San Francisco 102.1 Stereo Classical
 KRE Berkeley 102.9 Stereo Jazz, Soul, Blues
 KSFX San Francisco 103.7 Stereo Disco
@@ -42,9 +42,9 @@ KFOG San Francisco 104.5 Stereo Beautiful Music
 KFMR Fremont 104.9 Mono Variety Programming,
 Religious, Spanish
 KBRG San Francisco 105.3 Stereo Multilanguage
-KARA Santa Clara 105.7 Stereo Top4o/oldies
-KlO6 San Francisco 106.1 Stereo Top4o/oidies
+KARA Santa Clara 105.7 Stereo Top 40/Oldies
+K106 San Francisco 106.1 Stereo Top 40/Oldies
 KEZR San Jose 106.5 Stereo Top 40
-KM PX San Francisco 106.9 Stereo Big Bands
+KMPX San Francisco 106.9 Stereo Big Bands
 KSOL San Mateo 107.7 Stereo Soul, Disco
 *Non-comrnercial Radio Station

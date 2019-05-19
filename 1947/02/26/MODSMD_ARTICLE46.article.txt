@@ -39,29 +39,29 @@ Dokes 2 3 .400 i
 Phi Kappa 0 5 .000!
 
 LEAGUE VI
-""Shysters 5 0 1.000
+*Shysters 5 0 1.000
 Kappa Sigs 4 1 .800
-ATO ....3 2 .600
-Encina 4E- 2 3 .400
+ATO 3 2 .600
+Encina 4E 2 3 .400
 Delta Chi 1 4 .200
 Toyon No. 1 0 5 .000
 LEAGUE VII
 *DU's No. 1 5 0 1.000
 Zetes No. 1 4 1 .800
 Phi Delta Phi 2 3 .400
-Encina IE 2 3 .400
+Encina 1E 2 3 .400
 Encina Rockets 1 4 .200
 Theta Chi 1 4 .200
 LEAGUE VIII
 *DU's No. 2 5 0 1.000
 AKL's 3 2 .600
-Encina 2E 3 2 .G00
+Encina 2E 3 2 .600
 Zetes No. 2 2 3 .400
 Theta Xi 2 3 .400
 Alpha Sigma Phi 0 5 .000
 LEAGUE IX
-"finciha 5E 5 0 1,000
-Phi Delta No. 2 4 1 .800
+*Encina 5E 5 0 1,000
+Phi Delts No. 2 4 1 .800
 Phi Kapps 3 2 .600
 Encina 2W 2 3 .400
 Toyon No. 2 1 4 .200

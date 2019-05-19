@@ -99,68 +99,68 @@ Student Honor Societies:
 H I Quadrangle Club (Men). 7 3 1.660 1.531 2.084 1.581
 -I Skull & Snakes (Men).. 26 4 1.454 1.307 1.589 1.469
 -1 Circle "S" Society (Men) 33 5 1.436 1.463 1.457 1.397
--2 Scalpers (Soph. Men)... 21 6 1.377 1.578 1.418 1.112
+-2 Scalpers (Soph. Men) 21 6 1.377 1.578 1.418 1.112
 Sponsors :
-43 Encina 14 1 1.886 1.888 1.959 1.805
++3 Encina 14 1 1.886 1.888 1.959 1.805
 +2 Roble 6 2 1.740 1.797 1.667 1.759
-Athletic 7 cams (Men) :
-41 Freshman Tennis 13 1 1.571 1.543 1.682 1.481
-41 University Track 66 2 1.546 1.557 1.658 1.422
+Athletic Teams (Men) :
++1 Freshman Tennis 13 1 1.571 1.543 1.682 1.481
++1 University Track 66 2 1.546 1.557 1.658 1.422
 -1 Freshman Track 48 3 1.493 1.489 1.479 1.513
--1 University Football .... 41 4 1.411 1.400 1.373 1.465
--2 University Baseball .... 40 5 1.372 1*376 1.388 1.351
--2 University Basketball .. 19 6 1.360 1.430 1.392 1.245
+-1 University Football 41 4 1.411 1.400 1.373 1.465
+-2 University Baseball 40 5 1.372 1.376 1.388 1.351
+-2 University Basketball 19 6 1.360 1.430 1.392 1.245
 -2 University Tennis 18 7 1.358 1.310 1.388 1.381
--2 Freshman Basketball ... 18 8 1.352 1.180 1.400 1.442
+-2 Freshman Basketball 18 8 1.352 1.180 1.409 1.442
 -2 Freshman Football 53 9 1.320 1.225 1.338 1.400
 -3 Freshman Baseball 17 10 1.239 1.135 1.196 1.367
 Athletic Teams (Women):
-+5 Archery 3 \ 2.187 2.321 2.420 1.844
-4-4 Basketball 0 2 2.067 1.992 2.101 2.100
++5 Archery 3 1 2.187 2.321 2.420 1.844
++4 Basketball 9 2 2.067 1.992 2.101 2.100
 +4 Hockey 14 3 2.044 1.826 2.148 2.187
-42 Tennis 3 4 1.778 1.818 1.891 1.638
-i-2 Swimming 10 5 1.755 1.731 1.733 1.801
-Ha tin (j Clubs:
-4-2 Los Arcos 24 1 1.693 1.604 1.758 1.722
-+ 1 El Toro 31 2 1.599 1.484 1.656 1.649
-4-1 El Cuadrt 25 3 1.593 1.582 1.653 1.439
-+ 1 ICI Capitan 22 4 1.557 1.516 1.586 1.572
++2 Tennis 3 4 1.778 1.818 1.891 1.638
++2 Swimming 10 5 1.755 1.731 1.733 1.801
+Eating Clubs:
++2 Los Arcos 24 1 1.693 1.604 1.758 1.722
++1 El Toro 31 2 1.599 1.484 1.656 1.649
++1 El Cuadro 25 3 1.593 1.582 1.653 1.439
++1 El Capitan 22 4 1.557 1.516 1.586 1.572
 -1 Breakers 31 5 1.510 1.438 1.581 1.517
--1 El Tig re 27 6 1.407 1.517 1.452 1.533!
--2 El Campo 30 7 1.338 1.298 1.404 1.311;
+-1 El Tigre 27 6 1.497 1.517 1.452 1.533
+-2 El Campo 30 7 1.338 1.298 1.404 1.311
 Sororities:
-13 Kappa Kappa Gamma... 31 1 1.951 1.889 2.040 1.9091
-43 Sigma Kappa 7 2 1.882 1.888 1.970 1.788
-4-3 Alpha Phi 25 3 1.880 1.768 1.956 .1.885
-+2 Kappa Alpha Tlieta 34 4 1.827 1.945 1.841 1.713!
-42 Alpha Omicron Pi 16 5 1.826 1.928 1.661 1.879
-1 2 Delta Delta Delta 19 6 1.812 1.716 1.855 1.8601
-2 Chi Omega 23 7 1.770 1.635 1.842 1.800
-12 Delta Gamma 33 8 1.768 1.663 1.787 1.813
-4 2 Pi Beta Phi 25 9 1.696 1.544 1.677 1.846
++3 Kappa Kappa Gamma 31 1 1.951 1.889 2.040 1.909
++3 Sigma Kappa 7 2 1.882 1.888 1.970 1.788
++3 Alpha Phi 25 3 1.880 1.768 1.956 1.885
++2 Kappa Alpha Theta 34 4 1.827 1.945 1.841 1.713
++2 Alpha Omicron Pi 16 5 1.826 1.928 1.661 1.879
++2 Delta Delta Delta 19 6 1.812 1.716 1.855 1.860
++2 Chi Omega 23 7 1.779 1.635 1.842 1.800
++2 Delta Gamma 33 8 1.768 1.663 1.787 1.813
++2 Pi Beta Phi 25 9 1.696 1.544 1.677 1.846
 -1 Gamma Phi Beta 20 10 1.482 1.570 1.478 1.429
-J'raternities:
-1 Alpha Kappa Lambda... 30 1 1.670 1.642 1.622 1.720!
-'1 Phi Gamma Delta 31 2 1.613 1.674 1.531 1.628 j
-il Delta Chi 31 3 1.550 1.545 1.704 1.405 i
--1 Sigma Alpha Fpsilon ... 34 4 1.534 1.545 1.510 1.5421
--1 Delta Upsilon 29 5 1.529 1.634 1.401 1.473
--1 Sigma Chi 32 6 1.490 1.510 1.486 1.501 |
--1 Zcta Psi 36 7 1.471 1.538 1.463 1.421
--1 Alpha Delta Phi 28 8 1.463 1.525 1.346 1.4961
--1 Sigma \'u 36 9 1.434 1.401 1.485 1.422
+Fraternities:
++1 Alpha Kappa Lambda 30 1 1.670 1.642 1.622 1.729
++1 Phi Gamma Delta 31 2 1.613 1.674 1.531 1.628
++1 Delta Chi 31 3 1.550 1.545 1.704 1.405
+-1 Sigma Alpha Epsilon 34 4 1.534 1.545 1.510 1.542
+-1 Delta Upsilon 29 5 1.529 1.634 1.491 1.473
+-1 Sigma Chi 32 6 1.499 1.510 1.486 1.501
+-1 Zeta Psi 36 7 1.471 1.538 1.463 1.421
+-1 Alpha Delta Phi 28 8 1.463 1.525 1.346 1.496
+-1 Sigma Nu 36 9 1.434 1.401 1.485 1.422
 -1 Kappa Alpha 25 10 1.433 1.395 1.499 1.414
-1 Delta Tan Delta 38 11 1.429 1.446 1.466 1.386
--1 Phi Sigma Kappa 29 11 1.420 1.365 1.347 1.585
--1 Alpha Tan Omega 31 12 1.404 1.389 1.404 1.415
--2 Alpha Sigma Phi 26 13 1.388 1.372 1.395 1.395 l
--2 Tlieta Xi 40 14 1.387 1.341 1.405 1.413!
+-1 Delta Tau Delta 38 11 1.429 1.446 1.466 1.386
+-1 Phi Sigma Kappa 29 11 1.429 1.365 1.347 1.585
+-1 Alpha Tau Omega 31 12 1.404 1.389 1.404 1.415
+-2 Alpha Sigma Phi 26 13 1.388 1.372 1.395 1.395
+-2 Theta Xi 40 14 1.387 1.341 1.405 1.413
 -2 Chi Psi 33 15 1.381 1.385 1.388 1.371
-• 2 Phi Kappa Sigma 26 16 1..344 1.325 1.332 1.367
-• 2 Tlieta Chi 35 17 1.340 1.235 1.308 1.388;
+-2 Phi Kappa Sigma 26 16 1.344 1.325 1.332 1.367
+-2 Theta Chi 35 17 1.340 1.235 1.398 1.388
 -2 Phi Kappa Psi 32 18 1.333 1.271 1.294 1.413
--2 Tlieta Delta Chi :.. 25 10 1.322 1.235 1.377 1.250
--2 Beta Tlieta Pi 30 20 1.319 1.310 1.364 1.284
-2 Delta Kappa Fpsilon ... 30 21 1.298 1.258 1.164 1.459
+-2 Theta Delta Chi 25 19 1.322 1.235 1.377 1.250
+-2 Beta Theta Pi 30 20 1.319 1.310 1.364 1.284
+-2 Delta Kappa Epsilon 30 21 1.298 1.258 1.164 1.459
 -2 Kappa Sigma 33 22 1.272 1.249 1.326 1.250
--2 Phi Delta Tlieta 36 23 1.265 1.259 1.282 1.257
+-2 Phi Delta Theta 36 23 1.265 1.259 1.282 1.257

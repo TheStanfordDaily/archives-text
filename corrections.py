@@ -27,7 +27,7 @@ def create_corrections():
                         newTextValue = textCorrectedLine.findtext("NewTextValue").strip()
                         corrections[oldTextValue] = newTextValue
                 if len(corrections) > 0: 
-		    yield files, corrections
+                    yield files, corrections
 
 for files, corrections in tqdm(create_corrections()):
     for file in files:

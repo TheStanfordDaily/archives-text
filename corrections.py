@@ -28,7 +28,7 @@ def create_corrections():
                         corrections[oldTextValue] = newTextValue
                 yield files, corrections
 
-for files, corrections in tqdm.tqdm(create_corrections()):
+for files, corrections in tqdm(create_corrections()):
     if len(corrections) == 0:
         continue
     with fileinput.input(files=(files), inplace=True) as f:

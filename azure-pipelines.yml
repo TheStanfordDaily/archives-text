@@ -22,6 +22,10 @@ steps:
     scriptSource: 'filePath'
     scriptPath: 'process.py'
 
+- task: CmdLine@2
+  inputs:
+    script: 'rm -rf .git'
+
 - task: PublishBuildArtifacts@1
   inputs:
     PathtoPublish: '.'

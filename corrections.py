@@ -34,11 +34,9 @@ for files, corrections in tqdm(create_corrections()):
         print(file)
         with open(file, "r") as f:
             lines = f.readlines()
-        with open("out", "w") as f:
-            prefix = "#"
+        with open(file, "w") as f:
             for line in lines:
                 if line.strip() in corrections:
                     f.write(corrections[line.strip()] + "\n")
                 else:
                     f.write(line)
-        raise Exception("test")

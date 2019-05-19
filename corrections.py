@@ -2,6 +2,7 @@ import xml.etree.ElementTree as ET
 import os
 import re
 import fileinput
+from tqdm import tqdm
 
 PATH = "./stanford-text-corrections/stanford"
 
@@ -26,10 +27,10 @@ def create_corrections():
                         corrections.append((oldTextValue, newTextValue))
                 yield files, corrections
 
-for files, corrections in create_corrections():
-    print(files, corrections)
+for files, corrections in tqdm(create_corrections()):
+    if len(corrections) == 0:
+        continue
     with fileinput.input(files=(files), inplace=True) as f:
         for line in f:
             if line.strip() in corrections:
                 print(line)
-    break

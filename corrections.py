@@ -23,19 +23,22 @@ def create_corrections():
                     blockID = textCorrectedBlock.attrib["blockID"]
                     corrections = {} 
                     for textCorrectedLine in textCorrectedBlock:
-                        oldTextValue = textCorrectedLine.findtext("OldTextValue")
+                        oldTextValue = textCorrectedLine.findtext("OldTextValue").strip()
                         newTextValue = textCorrectedLine.findtext("NewTextValue").strip()
                         corrections[oldTextValue] = newTextValue
-                yield files, corrections
+                if len(corrections) > 0: 
+		    yield files, corrections
 
 for files, corrections in tqdm(create_corrections()):
-    if len(corrections) == 0:
-        continue
-    with fileinput.input(files=(files), inplace=True) as f:
-        for line in f:
-            if line.strip() in corrections:
-                print(corrections[line.strip()])
-                del corrections[line.strip()]
-            else:
-                print(line)
-    break
+    for file in files:
+        print(file)
+        with open(file, "r") as f:
+            lines = f.readlines()
+        with open("out", "w") as f:
+            prefix = "#"
+            for line in lines:
+                if line.strip() in corrections:
+                    f.write(corrections[line.strip()] + "\n")
+                else:
+                    f.write(line)
+        raise Exception("test")

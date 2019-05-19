@@ -82,7 +82,7 @@ steps:
       century: 19xx
       decade: 194x
       
- - task: Bash@3
+- task: Bash@3
   timeoutInMinutes: 0
   inputs:
     targetType: 'filePath'

@@ -121,7 +121,7 @@ REQTS BABS any ma|or. priority to Dec grads.
 LOCATIONS Los Angeles, Orange Counties. Phoenix
 BURROUGHS CORP . Mission Viejo. CA
 REQTS BS/MS EE ME ,CS
-LOCATION Southern CA
+LOCATION: Southern CA.
 HEWLETT-PACKARD CO., Palo Alto, CA
 REQTS BS/MS ChE, Chem, C.E., M E.. Envir. Eng
 LOCATIONS CA.. CO . ID , MASS , N.J OR PA
@@ -135,7 +135,7 @@ ROLM CORP , Santa Clara
 REQTS BS/MS PhD E E
 LOCATION Santa Clara
 UNION CARBIDE CORP . New York, N Y
-REQTS PhD, Post Doc Mat Sci
+REQTS: PhD, Post Doc: Mat. Sci.
 LOCATION N J NY . Ohio. Wost VA
 WILTON CO Mt View, CA
 REQTS BS E E.
@@ -153,23 +153,23 @@ Computer Programming
 LOCATION: San Francisco, CA
 HUGHES AIRCRAFT CO., Los Angeles, CA
 REQTS Missile Systems GP: BS/MS/PhD E E , ME, A A , C.S. Location Canoga
-Park. CA . Radar Systems Gp. & Electro Optical and Data Systems Qp
+Park, CA.; Radar Systems Gp. & Electro-Optical and Data Systems Gp:
 BS/MS E E„ C.S, ME E . PhD E E Location Culver City, CA.. Ground Sys
 tems GP: BS/MS/PhD E E . C.S. Location Fullerton: Microelectronic pro
-ductsdiv BS'MS/PhD EE Physics Location Newport Beach, CA Space and
-Communications Gp. BS/MS/PhD E E M E . BS/MS A A , C.S. Location El
-Segundo Electron Dynamics D(v. BS/MS/PhD Physics, E E , M.E., ChE,
-Metallurgy Engr Location Torrance, Test Engineering Dept. BS/ME E E.,
-ME, I E . C.S . BS Electrical Tech , Mlg Engr Location Tucson, AZ
-OCCIDENTAL RESEARCH CORP , Irvine CA.
-REOTS MS/PhD Chem — Organic, inorganic, physical, analytical, ChE , P.E.
-LOCATION Southern CA
-SCHLUMBERGER TECH CORP — JOHNSTON DIV., Houston
-REQTS BS ME, P.E
-LOCATION Nationwide
-UNION CARBIDE CORP „ New York
-REQTS PhD, Post Doc Mat Sci
-LOCATION N J , N Y , Ohio, W VA
-UNION ELECTRIC CO , St Louis, MO
-REQTS MS O R.. I E , Math. Stat.
-LOCATION St Louis, MO
+ducts div.: BS/MS/PhD: E.E., Physics. Location: Newport Beach, CA. Space and
+Communications Gp.: BS/MS/PhD: E.E., M.E., BS/MS: A.A., C.S. Location: El
+Segundo; Electron Dynamics Div.: BS/MS/PhD: Physics, E.E., M.E., ChE,
+Metallurgy Engr. Location: Torrance; Test Engineering Dept.: BS/MS: E.E.,
+M.E., I.E., C.S., BS: Electrical Tech., Mfg. Engr. Location: Tucson, AZ.
+OCCIDENTAL RESEARCH CORP., Irvine, CA.
+REQTS: MS/PhD: Chem. — Organic, inorganic, physical, analytical, ChE., P.E.
+LOCATION: Southern CA.
+SCHLUMBERGER TECH. CORP. — JOHNSTON DIV., Houston
+REQTS: BS: M.E., P.E.
+LOCATION: Nationwide
+UNION CARBIDE CORP., New York
+REQTS: PhD, Post Doc: Mat. Sci.
+LOCATION: N.J., N.Y., Ohio, W. VA.
+UNION ELECTRIC CO., St. Louis, MO.
+REQTS: MS: O.R., I.E., Math, Stat.
+LOCATION: St. Louis, MO.

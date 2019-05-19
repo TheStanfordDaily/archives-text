@@ -21,7 +21,7 @@ def create_corrections():
                 files = [os.path.join(year, month, day, file) for file in os.listdir(os.path.join(year, month, day))]
                 for textCorrectedBlock in tree:
                     blockID = textCorrectedBlock.attrib["blockID"]
-                    corrections = []
+                    corrections = {} 
                     for textCorrectedLine in textCorrectedBlock:
                         oldTextValue = textCorrectedLine.findtext("OldTextValue")
                         newTextValue = textCorrectedLine.findtext("NewTextValue").strip()

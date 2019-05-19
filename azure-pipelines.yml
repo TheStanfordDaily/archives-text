@@ -22,12 +22,18 @@ steps:
     scriptSource: 'filePath'
     scriptPath: 'process.py'
 
+- task: InstallSSHKey@0
+  inputs:
+    knownHostsEntry: 'bitbucket.org,104.192.143.1 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAubiN81eDcafrgMeLzaFPsw2kNvEcqTKl/VqLat/MaB33pZy0y3rJZtnqwR2qOOvbwKZYKiEO1O6VqNEBxKvJJelCq0dTXWT5pbO2gDXC6h6QDXCaHo6pOHGPUy+YBaGQRGuSusMEASYiWunYN0vCAI8QaXnWMXNMdFP3jHAJH0eDsoiGnLPBlBp4TNm6rYI74nMzgz3B9IikW4WVK+dc8KZJZWYjAuORU3jc1c/NPskD2ASinf8v3xnfXeukU0sJ5N6m5E8VLjObPEO+mN2t/FZTMZLiFqPWc/ALSqnMnnhwrNi2rbfg/rd/IpL8Le3pSBne8+seeFVBoGqzHM9yXw=='
+    sshPublicKey: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDLdZTXcK+KGQFa9TgVSVlLpPOlzCOsfFfKKSDxG3PoWIVRHUKiugIK8oCPMUGYS2E4Vh8pzSK49nldKDS3LGl4Hk563BVXqiEoh/eBxFe0mCSJcKRTW7fvBhED1/2IqHCXSxjM3Ij8F04voN1rSqACnIsnjSsCbyV1tobV2WCOeb4G6UdwLno/tZq3jHaUO8MxyVV+HgNOgZyHnJsBPsb+k4JOcwps8WoNOYpXPXbtw9BNiZmGXdGj34Ge+3aLzKdpK69osLVo3yTEcXV6DYfNHI5YuRVQjmpK9u5UEc0pEbfpkrBkS771ctispzCRiS/nN6ryCD6IcdzSD9ptGr3d'
+    sshKeySecureFile: 'id_rsa'
+
 - task: CmdLine@2
   inputs:
-    script: 'rm -rf .git'
-
-- task: PublishBuildArtifacts@1
-  inputs:
-    PathtoPublish: '.'
-    ArtifactName: 'drop'
-    publishLocation: 'Container'
+    script: |
+      git config --global user.email "tech@stanforddaily.com"
+      git config --global user.name "The Stanford Daily Bot"
+      git remote add bitbucket git@bitbucket.org:thestanforddaily/archives-text.git
+      git add -A
+      git commit -m "Update files"
+      git push -f bitbucket HEAD:master

@@ -1,0 +1,990 @@
+# Kasparov even at 2-2 with Deep Junior
+## 
+### ALI ALEMOZAFAR EDITORIAL STAFF 
+The third and fourth install
+ments of the chess game between
+man and machine brought unex
+pected results. Having lost to
+IBM's Deep Junior computer pro
+gram last Thursday, Garry Kas
+parov fought to a draw on Sunday,
+setting the score at 2-2 in the six
+game chess series.
+A fatal move by Kasparov cost
+the former world chess champion
+the game last Thursday. He domi
+nated through the opening stage
+and looked likely to win, or at least
+draw, before making a catastroph
+ic error.
+
+Kasparov said he lost the
+game when he blundered be
+cause of fatigue.
+"Kasparov had missed a spec
+tacular checkmate variation that
+caused him to lose another pawn
+and the game," said Dutch chess
+columnist Mig Greengard in an
+online report.
+Akin to the first game in the
+match, Kasparov played an unex
+pected move to force Deep Junior
+to abandon its "opening book."
+Despite dominating the board, he
+faced an almost flawless defense
+from the computer program.
+" This is exactly how Grandmas
+ters most often lose to computer
+programs," Greegarnd said. "They
+
+get excellent posi
+tions and then
+watch them un
+ravel against near
+perfect computer
+defense."
+At a press con
+ference, Kas
+parov admitted to
+feeling despon-
+
+dent following the loss. The
+world's top-ranked player was un
+happy at being tied with his com
+puter opponent, feeling he had
+played a better game throughout
+the match.
+Despite his defeat in game
+three, Kasparov faced his oppo
+nent with stern optimism last Sun
+
+day in game four.
+Deep Junior played with
+white pieces and moved first,
+putting Kasparov on the defen
+sive. Kasparov repelled the com
+puter's attacks until neither
+player could make progress, re
+sulting in a draw.
+Sunday's game lasted about five
+hours and 61 moves, making it the
+longest of the series. The others
+had been about four hours or less.
+Kasparov hopes to capture the
+match by winning the fifth game,
+in which the computer will play
+with black pieces, and getting at
+least a draw in the sixth, the Asso
+
+
+Kasporov
+ciated Press said.
+"Game 1 and Game 3 showed
+that Deep Junior has significant
+problems with the black pieces,"
+Kasparov said.
+Having lost to IBM's Deep
+Blue in 1997, Kasparov has been
+keen on evening the score for
+over six years.
+Unlike Deep Blue, which was
+a custom-built supercomputer,
+Deep Junior is computer code
+that runs on standard hardware.
+The team that designed Deep Ju
+nior said their program employs
+a more sophisticated move-selec
+tion algorithm, considering only
+
+the strongest possible positions
+in detail.
+"The Artificial] Intelligence]
+chess game tries to enumerate
+every single possible move from
+the current configuration of the
+board," said Pedram Keyani, a
+Stanford computer science grad
+uate student. "Then it builds a
+huge game tree and does a deep
+search to find the best possible
+move."
+IBM's Shay Bushinsky, who co
+designed Deep Junior with Amir
+Ban, said "behind [Deep Junior] is
+the accumulation of a lot of effort,
+and this is the epitome of what we
+are doing."
+Feng-hsiung Hsu, one of the
+principle designers of Deep Blue,
+claims Kasparov's current oppo
+nent has significant shortcomings.
+
+He predicts that Kasparov will
+beat Deep Junior.
+"Deep Junior has serious prob
+lems with positional play and it is
+not clear that they can compensate
+by changing the [opening] book,"
+Hsu told New Scientist.
+The match is sanctioned by the
+World Chess Federation, which
+will pay Kasparov $500,000 for
+playing and another $300,000 if
+he beats Deep Junior.
+Deep Junior, a three-time
+world champion, won the last of
+ficial world chess championship
+for computers in July. It has not
+lost a match against a human in
+two years.
+The match will further un
+ravel as Kasparov and Deep Ju
+nior go at it once again today for
+game five.
+The third and fourth install
+ments of the chess game between
+man and machine brought unex
+pected results. Having lost to
+IBM's Deep Junior computer pro
+gram last Thursday, Garry Kas
+parov fought to a draw on Sunday,
+setting the score at 2-2 in the six
+game chess series.
+A fatal move by Kasparov cost
+the former world chess champion
+the game last Thursday. He domi
+nated through the opening stage
+and looked likely to win, or at least
+draw, before making a catastroph
+ic error.
+
+Kasparov said he lost the
+game when he blundered be
+cause of fatigue.
+"Kasparov had missed a spec
+tacular checkmate variation that
+caused him to lose another pawn
+and the game," said Dutch chess
+columnist Mig Greengard in an
+online report.
+Akin to the first game in the
+match, Kasparov played an unex
+pected move to force Deep Junior
+to abandon its "opening book."
+Despite dominating the board, he
+faced an almost flawless defense
+from the computer program.
+" This is exactly how Grandmas
+ters most often lose to computer
+programs," Greegarnd said. "They
+
+get excellent posi
+tions and then
+watch them un
+ravel against near
+perfect computer
+defense."
+At a press con
+ference, Kas
+parov admitted to
+feeling despon-
+
+dent following the loss. The
+world's top-ranked player was un
+happy at being tied with his com
+puter opponent, feeling he had
+played a better game throughout
+the match.
+Despite his defeat in game
+three, Kasparov faced his oppo
+nent with stern optimism last Sun
+
+day in game four.
+Deep Junior played with
+white pieces and moved first,
+putting Kasparov on the defen
+sive. Kasparov repelled the com
+puter's attacks until neither
+player could make progress, re
+sulting in a draw.
+Sunday's game lasted about five
+hours and 61 moves, making it the
+longest of the series. The others
+had been about four hours or less.
+Kasparov hopes to capture the
+match by winning the fifth game,
+in which the computer will play
+with black pieces, and getting at
+least a draw in the sixth, the Asso
+
+
+Kasporov
+ciated Press said.
+"Game 1 and Game 3 showed
+that Deep Junior has significant
+problems with the black pieces,"
+Kasparov said.
+Having lost to IBM's Deep
+Blue in 1997, Kasparov has been
+keen on evening the score for
+over six years.
+Unlike Deep Blue, which was
+a custom-built supercomputer,
+Deep Junior is computer code
+that runs on standard hardware.
+The team that designed Deep Ju
+nior said their program employs
+a more sophisticated move-selec
+tion algorithm, considering only
+
+the strongest possible positions
+in detail.
+"The Artificial] Intelligence]
+chess game tries to enumerate
+every single possible move from
+the current configuration of the
+board," said Pedram Keyani, a
+Stanford computer science grad
+uate student. "Then it builds a
+huge game tree and does a deep
+search to find the best possible
+move."
+IBM's Shay Bushinsky, who co
+designed Deep Junior with Amir
+Ban, said "behind [Deep Junior] is
+the accumulation of a lot of effort,
+and this is the epitome of what we
+are doing."
+Feng-hsiung Hsu, one of the
+principle designers of Deep Blue,
+claims Kasparov's current oppo
+nent has significant shortcomings.
+
+He predicts that Kasparov will
+beat Deep Junior.
+"Deep Junior has serious prob
+lems with positional play and it is
+not clear that they can compensate
+by changing the [opening] book,"
+Hsu told New Scientist.
+The match is sanctioned by the
+World Chess Federation, which
+will pay Kasparov $500,000 for
+playing and another $300,000 if
+he beats Deep Junior.
+Deep Junior, a three-time
+world champion, won the last of
+ficial world chess championship
+for computers in July. It has not
+lost a match against a human in
+two years.
+The match will further un
+ravel as Kasparov and Deep Ju
+nior go at it once again today for
+game five.
+The third and fourth install
+ments of the chess game between
+man and machine brought unex
+pected results. Having lost to
+IBM's Deep Junior computer pro
+gram last Thursday, Garry Kas
+parov fought to a draw on Sunday,
+setting the score at 2-2 in the six
+game chess series.
+A fatal move by Kasparov cost
+the former world chess champion
+the game last Thursday. He domi
+nated through the opening stage
+and looked likely to win, or at least
+draw, before making a catastroph
+ic error.
+
+Kasparov said he lost the
+game when he blundered be
+cause of fatigue.
+"Kasparov had missed a spec
+tacular checkmate variation that
+caused him to lose another pawn
+and the game," said Dutch chess
+columnist Mig Greengard in an
+online report.
+Akin to the first game in the
+match, Kasparov played an unex
+pected move to force Deep Junior
+to abandon its "opening book."
+Despite dominating the board, he
+faced an almost flawless defense
+from the computer program.
+" This is exactly how Grandmas
+ters most often lose to computer
+programs," Greegarnd said. "They
+
+get excellent posi
+tions and then
+watch them un
+ravel against near
+perfect computer
+defense."
+At a press con
+ference, Kas
+parov admitted to
+feeling despon-
+
+dent following the loss. The
+world's top-ranked player was un
+happy at being tied with his com
+puter opponent, feeling he had
+played a better game throughout
+the match.
+Despite his defeat in game
+three, Kasparov faced his oppo
+nent with stern optimism last Sun
+
+day in game four.
+Deep Junior played with
+white pieces and moved first,
+putting Kasparov on the defen
+sive. Kasparov repelled the com
+puter's attacks until neither
+player could make progress, re
+sulting in a draw.
+Sunday's game lasted about five
+hours and 61 moves, making it the
+longest of the series. The others
+had been about four hours or less.
+Kasparov hopes to capture the
+match by winning the fifth game,
+in which the computer will play
+with black pieces, and getting at
+least a draw in the sixth, the Asso
+
+
+Kasporov
+ciated Press said.
+"Game 1 and Game 3 showed
+that Deep Junior has significant
+problems with the black pieces,"
+Kasparov said.
+Having lost to IBM's Deep
+Blue in 1997, Kasparov has been
+keen on evening the score for
+over six years.
+Unlike Deep Blue, which was
+a custom-built supercomputer,
+Deep Junior is computer code
+that runs on standard hardware.
+The team that designed Deep Ju
+nior said their program employs
+a more sophisticated move-selec
+tion algorithm, considering only
+
+the strongest possible positions
+in detail.
+"The Artificial] Intelligence]
+chess game tries to enumerate
+every single possible move from
+the current configuration of the
+board," said Pedram Keyani, a
+Stanford computer science grad
+uate student. "Then it builds a
+huge game tree and does a deep
+search to find the best possible
+move."
+IBM's Shay Bushinsky, who co
+designed Deep Junior with Amir
+Ban, said "behind [Deep Junior] is
+the accumulation of a lot of effort,
+and this is the epitome of what we
+are doing."
+Feng-hsiung Hsu, one of the
+principle designers of Deep Blue,
+claims Kasparov's current oppo
+nent has significant shortcomings.
+
+He predicts that Kasparov will
+beat Deep Junior.
+"Deep Junior has serious prob
+lems with positional play and it is
+not clear that they can compensate
+by changing the [opening] book,"
+Hsu told New Scientist.
+The match is sanctioned by the
+World Chess Federation, which
+will pay Kasparov $500,000 for
+playing and another $300,000 if
+he beats Deep Junior.
+Deep Junior, a three-time
+world champion, won the last of
+ficial world chess championship
+for computers in July. It has not
+lost a match against a human in
+two years.
+The match will further un
+ravel as Kasparov and Deep Ju
+nior go at it once again today for
+game five.
+The third and fourth install
+ments of the chess game between
+man and machine brought unex
+pected results. Having lost to
+IBM's Deep Junior computer pro
+gram last Thursday, Garry Kas
+parov fought to a draw on Sunday,
+setting the score at 2-2 in the six
+game chess series.
+A fatal move by Kasparov cost
+the former world chess champion
+the game last Thursday. He domi
+nated through the opening stage
+and looked likely to win, or at least
+draw, before making a catastroph
+ic error.
+
+Kasparov said he lost the
+game when he blundered be
+cause of fatigue.
+"Kasparov had missed a spec
+tacular checkmate variation that
+caused him to lose another pawn
+and the game," said Dutch chess
+columnist Mig Greengard in an
+online report.
+Akin to the first game in the
+match, Kasparov played an unex
+pected move to force Deep Junior
+to abandon its "opening book."
+Despite dominating the board, he
+faced an almost flawless defense
+from the computer program.
+" This is exactly how Grandmas
+ters most often lose to computer
+programs," Greegarnd said. "They
+
+get excellent posi
+tions and then
+watch them un
+ravel against near
+perfect computer
+defense."
+At a press con
+ference, Kas
+parov admitted to
+feeling despon-
+
+dent following the loss. The
+world's top-ranked player was un
+happy at being tied with his com
+puter opponent, feeling he had
+played a better game throughout
+the match.
+Despite his defeat in game
+three, Kasparov faced his oppo
+nent with stern optimism last Sun
+
+day in game four.
+Deep Junior played with
+white pieces and moved first,
+putting Kasparov on the defen
+sive. Kasparov repelled the com
+puter's attacks until neither
+player could make progress, re
+sulting in a draw.
+Sunday's game lasted about five
+hours and 61 moves, making it the
+longest of the series. The others
+had been about four hours or less.
+Kasparov hopes to capture the
+match by winning the fifth game,
+in which the computer will play
+with black pieces, and getting at
+least a draw in the sixth, the Asso
+
+
+Kasporov
+ciated Press said.
+"Game 1 and Game 3 showed
+that Deep Junior has significant
+problems with the black pieces,"
+Kasparov said.
+Having lost to IBM's Deep
+Blue in 1997, Kasparov has been
+keen on evening the score for
+over six years.
+Unlike Deep Blue, which was
+a custom-built supercomputer,
+Deep Junior is computer code
+that runs on standard hardware.
+The team that designed Deep Ju
+nior said their program employs
+a more sophisticated move-selec
+tion algorithm, considering only
+
+the strongest possible positions
+in detail.
+"The Artificial] Intelligence]
+chess game tries to enumerate
+every single possible move from
+the current configuration of the
+board," said Pedram Keyani, a
+Stanford computer science grad
+uate student. "Then it builds a
+huge game tree and does a deep
+search to find the best possible
+move."
+IBM's Shay Bushinsky, who co
+designed Deep Junior with Amir
+Ban, said "behind [Deep Junior] is
+the accumulation of a lot of effort,
+and this is the epitome of what we
+are doing."
+Feng-hsiung Hsu, one of the
+principle designers of Deep Blue,
+claims Kasparov's current oppo
+nent has significant shortcomings.
+
+He predicts that Kasparov will
+beat Deep Junior.
+"Deep Junior has serious prob
+lems with positional play and it is
+not clear that they can compensate
+by changing the [opening] book,"
+Hsu told New Scientist.
+The match is sanctioned by the
+World Chess Federation, which
+will pay Kasparov $500,000 for
+playing and another $300,000 if
+he beats Deep Junior.
+Deep Junior, a three-time
+world champion, won the last of
+ficial world chess championship
+for computers in July. It has not
+lost a match against a human in
+two years.
+The match will further un
+ravel as Kasparov and Deep Ju
+nior go at it once again today for
+game five.
+The third and fourth install
+ments of the chess game between
+man and machine brought unex
+pected results. Having lost to
+IBM's Deep Junior computer pro
+gram last Thursday, Garry Kas
+parov fought to a draw on Sunday,
+setting the score at 2-2 in the six
+game chess series.
+A fatal move by Kasparov cost
+the former world chess champion
+the game last Thursday. He domi
+nated through the opening stage
+and looked likely to win, or at least
+draw, before making a catastroph
+ic error.
+
+Kasparov said he lost the
+game when he blundered be
+cause of fatigue.
+"Kasparov had missed a spec
+tacular checkmate variation that
+caused him to lose another pawn
+and the game," said Dutch chess
+columnist Mig Greengard in an
+online report.
+Akin to the first game in the
+match, Kasparov played an unex
+pected move to force Deep Junior
+to abandon its "opening book."
+Despite dominating the board, he
+faced an almost flawless defense
+from the computer program.
+" This is exactly how Grandmas
+ters most often lose to computer
+programs," Greegarnd said. "They
+
+get excellent posi
+tions and then
+watch them un
+ravel against near
+perfect computer
+defense."
+At a press con
+ference, Kas
+parov admitted to
+feeling despon-
+
+dent following the loss. The
+world's top-ranked player was un
+happy at being tied with his com
+puter opponent, feeling he had
+played a better game throughout
+the match.
+Despite his defeat in game
+three, Kasparov faced his oppo
+nent with stern optimism last Sun
+
+day in game four.
+Deep Junior played with
+white pieces and moved first,
+putting Kasparov on the defen
+sive. Kasparov repelled the com
+puter's attacks until neither
+player could make progress, re
+sulting in a draw.
+Sunday's game lasted about five
+hours and 61 moves, making it the
+longest of the series. The others
+had been about four hours or less.
+Kasparov hopes to capture the
+match by winning the fifth game,
+in which the computer will play
+with black pieces, and getting at
+least a draw in the sixth, the Asso
+
+
+Kasporov
+ciated Press said.
+"Game 1 and Game 3 showed
+that Deep Junior has significant
+problems with the black pieces,"
+Kasparov said.
+Having lost to IBM's Deep
+Blue in 1997, Kasparov has been
+keen on evening the score for
+over six years.
+Unlike Deep Blue, which was
+a custom-built supercomputer,
+Deep Junior is computer code
+that runs on standard hardware.
+The team that designed Deep Ju
+nior said their program employs
+a more sophisticated move-selec
+tion algorithm, considering only
+
+the strongest possible positions
+in detail.
+"The Artificial] Intelligence]
+chess game tries to enumerate
+every single possible move from
+the current configuration of the
+board," said Pedram Keyani, a
+Stanford computer science grad
+uate student. "Then it builds a
+huge game tree and does a deep
+search to find the best possible
+move."
+IBM's Shay Bushinsky, who co
+designed Deep Junior with Amir
+Ban, said "behind [Deep Junior] is
+the accumulation of a lot of effort,
+and this is the epitome of what we
+are doing."
+Feng-hsiung Hsu, one of the
+principle designers of Deep Blue,
+claims Kasparov's current oppo
+nent has significant shortcomings.
+
+He predicts that Kasparov will
+beat Deep Junior.
+"Deep Junior has serious prob
+lems with positional play and it is
+not clear that they can compensate
+by changing the [opening] book,"
+Hsu told New Scientist.
+The match is sanctioned by the
+World Chess Federation, which
+will pay Kasparov $500,000 for
+playing and another $300,000 if
+he beats Deep Junior.
+Deep Junior, a three-time
+world champion, won the last of
+ficial world chess championship
+for computers in July. It has not
+lost a match against a human in
+two years.
+The match will further un
+ravel as Kasparov and Deep Ju
+nior go at it once again today for
+game five.
+The third and fourth install
+ments of the chess game between
+man and machine brought unex
+pected results. Having lost to
+IBM's Deep Junior computer pro
+gram last Thursday, Garry Kas
+parov fought to a draw on Sunday,
+setting the score at 2-2 in the six
+game chess series.
+A fatal move by Kasparov cost
+the former world chess champion
+the game last Thursday. He domi
+nated through the opening stage
+and looked likely to win, or at least
+draw, before making a catastroph
+ic error.
+
+Kasparov said he lost the
+game when he blundered be
+cause of fatigue.
+"Kasparov had missed a spec
+tacular checkmate variation that
+caused him to lose another pawn
+and the game," said Dutch chess
+columnist Mig Greengard in an
+online report.
+Akin to the first game in the
+match, Kasparov played an unex
+pected move to force Deep Junior
+to abandon its "opening book."
+Despite dominating the board, he
+faced an almost flawless defense
+from the computer program.
+" This is exactly how Grandmas
+ters most often lose to computer
+programs," Greegarnd said. "They
+
+get excellent posi
+tions and then
+watch them un
+ravel against near
+perfect computer
+defense."
+At a press con
+ference, Kas
+parov admitted to
+feeling despon-
+
+dent following the loss. The
+world's top-ranked player was un
+happy at being tied with his com
+puter opponent, feeling he had
+played a better game throughout
+the match.
+Despite his defeat in game
+three, Kasparov faced his oppo
+nent with stern optimism last Sun
+
+day in game four.
+Deep Junior played with
+white pieces and moved first,
+putting Kasparov on the defen
+sive. Kasparov repelled the com
+puter's attacks until neither
+player could make progress, re
+sulting in a draw.
+Sunday's game lasted about five
+hours and 61 moves, making it the
+longest of the series. The others
+had been about four hours or less.
+Kasparov hopes to capture the
+match by winning the fifth game,
+in which the computer will play
+with black pieces, and getting at
+least a draw in the sixth, the Asso
+
+
+Kasporov
+ciated Press said.
+"Game 1 and Game 3 showed
+that Deep Junior has significant
+problems with the black pieces,"
+Kasparov said.
+Having lost to IBM's Deep
+Blue in 1997, Kasparov has been
+keen on evening the score for
+over six years.
+Unlike Deep Blue, which was
+a custom-built supercomputer,
+Deep Junior is computer code
+that runs on standard hardware.
+The team that designed Deep Ju
+nior said their program employs
+a more sophisticated move-selec
+tion algorithm, considering only
+
+the strongest possible positions
+in detail.
+"The Artificial] Intelligence]
+chess game tries to enumerate
+every single possible move from
+the current configuration of the
+board," said Pedram Keyani, a
+Stanford computer science grad
+uate student. "Then it builds a
+huge game tree and does a deep
+search to find the best possible
+move."
+IBM's Shay Bushinsky, who co
+designed Deep Junior with Amir
+Ban, said "behind [Deep Junior] is
+the accumulation of a lot of effort,
+and this is the epitome of what we
+are doing."
+Feng-hsiung Hsu, one of the
+principle designers of Deep Blue,
+claims Kasparov's current oppo
+nent has significant shortcomings.
+
+He predicts that Kasparov will
+beat Deep Junior.
+"Deep Junior has serious prob
+lems with positional play and it is
+not clear that they can compensate
+by changing the [opening] book,"
+Hsu told New Scientist.
+The match is sanctioned by the
+World Chess Federation, which
+will pay Kasparov $500,000 for
+playing and another $300,000 if
+he beats Deep Junior.
+Deep Junior, a three-time
+world champion, won the last of
+ficial world chess championship
+for computers in July. It has not
+lost a match against a human in
+two years.
+The match will further un
+ravel as Kasparov and Deep Ju
+nior go at it once again today for
+game five.
+The third and fourth install
+ments of the chess game between
+man and machine brought unex
+pected results. Having lost to
+IBM's Deep Junior computer pro
+gram last Thursday, Garry Kas
+parov fought to a draw on Sunday,
+setting the score at 2-2 in the six
+game chess series.
+A fatal move by Kasparov cost
+the former world chess champion
+the game last Thursday. He domi
+nated through the opening stage
+and looked likely to win, or at least
+draw, before making a catastroph
+ic error.
+
+Kasparov said he lost the
+game when he blundered be
+cause of fatigue.
+"Kasparov had missed a spec
+tacular checkmate variation that
+caused him to lose another pawn
+and the game," said Dutch chess
+columnist Mig Greengard in an
+online report.
+Akin to the first game in the
+match, Kasparov played an unex
+pected move to force Deep Junior
+to abandon its "opening book."
+Despite dominating the board, he
+faced an almost flawless defense
+from the computer program.
+" This is exactly how Grandmas
+ters most often lose to computer
+programs," Greegarnd said. "They
+
+get excellent posi
+tions and then
+watch them un
+ravel against near
+perfect computer
+defense."
+At a press con
+ference, Kas
+parov admitted to
+feeling despon-
+
+dent following the loss. The
+world's top-ranked player was un
+happy at being tied with his com
+puter opponent, feeling he had
+played a better game throughout
+the match.
+Despite his defeat in game
+three, Kasparov faced his oppo
+nent with stern optimism last Sun
+
+day in game four.
+Deep Junior played with
+white pieces and moved first,
+putting Kasparov on the defen
+sive. Kasparov repelled the com
+puter's attacks until neither
+player could make progress, re
+sulting in a draw.
+Sunday's game lasted about five
+hours and 61 moves, making it the
+longest of the series. The others
+had been about four hours or less.
+Kasparov hopes to capture the
+match by winning the fifth game,
+in which the computer will play
+with black pieces, and getting at
+least a draw in the sixth, the Asso
+
+
+Kasporov
+ciated Press said.
+"Game 1 and Game 3 showed
+that Deep Junior has significant
+problems with the black pieces,"
+Kasparov said.
+Having lost to IBM's Deep
+Blue in 1997, Kasparov has been
+keen on evening the score for
+over six years.
+Unlike Deep Blue, which was
+a custom-built supercomputer,
+Deep Junior is computer code
+that runs on standard hardware.
+The team that designed Deep Ju
+nior said their program employs
+a more sophisticated move-selec
+tion algorithm, considering only
+
+the strongest possible positions
+in detail.
+"The Artificial] Intelligence]
+chess game tries to enumerate
+every single possible move from
+the current configuration of the
+board," said Pedram Keyani, a
+Stanford computer science grad
+uate student. "Then it builds a
+huge game tree and does a deep
+search to find the best possible
+move."
+IBM's Shay Bushinsky, who co
+designed Deep Junior with Amir
+Ban, said "behind [Deep Junior] is
+the accumulation of a lot of effort,
+and this is the epitome of what we
+are doing."
+Feng-hsiung Hsu, one of the
+principle designers of Deep Blue,
+claims Kasparov's current oppo
+nent has significant shortcomings.
+
+He predicts that Kasparov will
+beat Deep Junior.
+"Deep Junior has serious prob
+lems with positional play and it is
+not clear that they can compensate
+by changing the [opening] book,"
+Hsu told New Scientist.
+The match is sanctioned by the
+World Chess Federation, which
+will pay Kasparov $500,000 for
+playing and another $300,000 if
+he beats Deep Junior.
+Deep Junior, a three-time
+world champion, won the last of
+ficial world chess championship
+for computers in July. It has not
+lost a match against a human in
+two years.
+The match will further un
+ravel as Kasparov and Deep Ju
+nior go at it once again today for
+game five.

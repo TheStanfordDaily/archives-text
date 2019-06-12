@@ -1,0 +1,875 @@
+# RESEARCH
+## Researchers crack video Captcha security system 
+### ALICE PHILLIPS DESK EDITOR 
+Researchers at the Stanford Security Tab an
+nounced last week that they have developed a means
+of consistently cracking NuCaptcha's video Captcha
+identity verification system.
+Video Captcha streams display slightly distorted
+letters in motion, which website programmers can
+then embed and ask users to type out while visiting a
+site to prove that the user is a human and not an auto
+mated program, or 'bot.' The researchers were able to
+devise a method by which a bot also frequently
+used to create automated email accounts for spam
+ming successfully passed the Captcha security test
+for over 90 percent of challenges faced.
+"How fun would it be to interact with [a] robot on
+Twitter or Facebook?" former Security Lab re
+searcher Elie Bursztein wrote in an email to The Daily.
+Bursztein was a post-doctoral research fellow in the
+lab while the video Captcha research took place.
+The Security Lab team used a combination of mo
+tion tracking, image analysis and machine-learning al
+gorithms to crack the video Captcha system. Accord
+ing to a blog post that Bursztein wrote chronicling the
+team's efforts, motion tracking allowed the team to
+isolate frames of the video Captcha in order to track
+and analyze the words displayed.
+Image analysis was used to determine which ob
+jects in the frame were the most interesting, focusing
+on objects that fit the expected width-height ratio for
+Captcha text and displayed more edges or corners
+
+
+OLLIE KHAKWANI/The Stanford Daily
+than other objects in the frame (due
+to the Captcha letters' independent
+rotation). The objects were then
+cross-referenced with other inter
+esting objects across numerous
+frames, leaving the computer with
+many different iterations of the
+same Captcha.
+The letters in the Captcha can be
+deciphered in one of three ways: by
+trivial separation if a frame exists
+with no crossover, by a computer
+ized "voting decision" to determine
+the most probable set of letters or by
+using motion tracking to analyze
+which points on the Captcha object
+move together through separate
+frames, which can then be mapped
+out into the individual letters.
+Matthieu Martin, a researcher at
+the Security Lab, wrote in an email
+
+to The Daily that he added video el
+ements into Decaptcha, the soft
+ware that the lab had previously
+used to break simple image and
+audio Captchas, in order to crack
+video Captchas.
+In his blog post, Bursztein em
+phasized that cracking a video
+Captcha was more difficult than
+cracking a simple image Captcha
+due to the incorporation of motion
+tracking. He noted, however, that
+once the motion tracking was in
+place the program's accuracy
+was higher due to being able to ref
+erence multiple iterations of the
+same Captcha.
+"No single Captcha will defend
+against every possible attack," Nu-
+Captcha, the software development
+company that created both the sim
+ple image Captcha and the video
+Captcha authentication systems,
+wrote in a statement responding to
+the research team's blog post. "Our
+strategy is to develop a collection of
+responses and, as appropriate, to de
+
+ploy them to individual users in
+stead of presenting a single rigid de
+fense,"
+In the statement, NuCaptcha
+said that the research had suggest
+ed ways of improving Captcha sys
+tems, including altering the appear
+ance of each letter in adjacent
+frames of the Captcha and varying
+the length of a code string that lies
+behind the Captcha's appearance
+in the video stream. The Stanford
+team offered their research to Nu-
+Captcha several weeks in advance
+of public disclosure.
+"In my opinion . . . their
+biggest flaw was to use the same
+kind of protection image Captchas
+use (lines, distortion, etc.)," Martin
+wrote. "They should concentrate
+on video based protections, but I'm
+pretty sure [Burzstein] had this dis
+cussion with Nucaptcha's team al
+ready."
+
+Contact Alice Phillips at alicepl@
+stanford.edu.
+Researchers at the Stanford Security Tab an
+nounced last week that they have developed a means
+of consistently cracking NuCaptcha's video Captcha
+identity verification system.
+Video Captcha streams display slightly distorted
+letters in motion, which website programmers can
+then embed and ask users to type out while visiting a
+site to prove that the user is a human and not an auto
+mated program, or 'bot.' The researchers were able to
+devise a method by which a bot also frequently
+used to create automated email accounts for spam
+ming successfully passed the Captcha security test
+for over 90 percent of challenges faced.
+"How fun would it be to interact with [a] robot on
+Twitter or Facebook?" former Security Lab re
+searcher Elie Bursztein wrote in an email to The Daily.
+Bursztein was a post-doctoral research fellow in the
+lab while the video Captcha research took place.
+The Security Lab team used a combination of mo
+tion tracking, image analysis and machine-learning al
+gorithms to crack the video Captcha system. Accord
+ing to a blog post that Bursztein wrote chronicling the
+team's efforts, motion tracking allowed the team to
+isolate frames of the video Captcha in order to track
+and analyze the words displayed.
+Image analysis was used to determine which ob
+jects in the frame were the most interesting, focusing
+on objects that fit the expected width-height ratio for
+Captcha text and displayed more edges or corners
+
+
+OLLIE KHAKWANI/The Stanford Daily
+than other objects in the frame (due
+to the Captcha letters' independent
+rotation). The objects were then
+cross-referenced with other inter
+esting objects across numerous
+frames, leaving the computer with
+many different iterations of the
+same Captcha.
+The letters in the Captcha can be
+deciphered in one of three ways: by
+trivial separation if a frame exists
+with no crossover, by a computer
+ized "voting decision" to determine
+the most probable set of letters or by
+using motion tracking to analyze
+which points on the Captcha object
+move together through separate
+frames, which can then be mapped
+out into the individual letters.
+Matthieu Martin, a researcher at
+the Security Lab, wrote in an email
+
+to The Daily that he added video el
+ements into Decaptcha, the soft
+ware that the lab had previously
+used to break simple image and
+audio Captchas, in order to crack
+video Captchas.
+In his blog post, Bursztein em
+phasized that cracking a video
+Captcha was more difficult than
+cracking a simple image Captcha
+due to the incorporation of motion
+tracking. He noted, however, that
+once the motion tracking was in
+place the program's accuracy
+was higher due to being able to ref
+erence multiple iterations of the
+same Captcha.
+"No single Captcha will defend
+against every possible attack," Nu-
+Captcha, the software development
+company that created both the sim
+ple image Captcha and the video
+Captcha authentication systems,
+wrote in a statement responding to
+the research team's blog post. "Our
+strategy is to develop a collection of
+responses and, as appropriate, to de
+
+ploy them to individual users in
+stead of presenting a single rigid de
+fense,"
+In the statement, NuCaptcha
+said that the research had suggest
+ed ways of improving Captcha sys
+tems, including altering the appear
+ance of each letter in adjacent
+frames of the Captcha and varying
+the length of a code string that lies
+behind the Captcha's appearance
+in the video stream. The Stanford
+team offered their research to Nu-
+Captcha several weeks in advance
+of public disclosure.
+"In my opinion . . . their
+biggest flaw was to use the same
+kind of protection image Captchas
+use (lines, distortion, etc.)," Martin
+wrote. "They should concentrate
+on video based protections, but I'm
+pretty sure [Burzstein] had this dis
+cussion with Nucaptcha's team al
+ready."
+
+Contact Alice Phillips at alicepl@
+stanford.edu.
+Researchers at the Stanford Security Tab an
+nounced last week that they have developed a means
+of consistently cracking NuCaptcha's video Captcha
+identity verification system.
+Video Captcha streams display slightly distorted
+letters in motion, which website programmers can
+then embed and ask users to type out while visiting a
+site to prove that the user is a human and not an auto
+mated program, or 'bot.' The researchers were able to
+devise a method by which a bot also frequently
+used to create automated email accounts for spam
+ming successfully passed the Captcha security test
+for over 90 percent of challenges faced.
+"How fun would it be to interact with [a] robot on
+Twitter or Facebook?" former Security Lab re
+searcher Elie Bursztein wrote in an email to The Daily.
+Bursztein was a post-doctoral research fellow in the
+lab while the video Captcha research took place.
+The Security Lab team used a combination of mo
+tion tracking, image analysis and machine-learning al
+gorithms to crack the video Captcha system. Accord
+ing to a blog post that Bursztein wrote chronicling the
+team's efforts, motion tracking allowed the team to
+isolate frames of the video Captcha in order to track
+and analyze the words displayed.
+Image analysis was used to determine which ob
+jects in the frame were the most interesting, focusing
+on objects that fit the expected width-height ratio for
+Captcha text and displayed more edges or corners
+
+
+OLLIE KHAKWANI/The Stanford Daily
+than other objects in the frame (due
+to the Captcha letters' independent
+rotation). The objects were then
+cross-referenced with other inter
+esting objects across numerous
+frames, leaving the computer with
+many different iterations of the
+same Captcha.
+The letters in the Captcha can be
+deciphered in one of three ways: by
+trivial separation if a frame exists
+with no crossover, by a computer
+ized "voting decision" to determine
+the most probable set of letters or by
+using motion tracking to analyze
+which points on the Captcha object
+move together through separate
+frames, which can then be mapped
+out into the individual letters.
+Matthieu Martin, a researcher at
+the Security Lab, wrote in an email
+
+to The Daily that he added video el
+ements into Decaptcha, the soft
+ware that the lab had previously
+used to break simple image and
+audio Captchas, in order to crack
+video Captchas.
+In his blog post, Bursztein em
+phasized that cracking a video
+Captcha was more difficult than
+cracking a simple image Captcha
+due to the incorporation of motion
+tracking. He noted, however, that
+once the motion tracking was in
+place the program's accuracy
+was higher due to being able to ref
+erence multiple iterations of the
+same Captcha.
+"No single Captcha will defend
+against every possible attack," Nu-
+Captcha, the software development
+company that created both the sim
+ple image Captcha and the video
+Captcha authentication systems,
+wrote in a statement responding to
+the research team's blog post. "Our
+strategy is to develop a collection of
+responses and, as appropriate, to de
+
+ploy them to individual users in
+stead of presenting a single rigid de
+fense,"
+In the statement, NuCaptcha
+said that the research had suggest
+ed ways of improving Captcha sys
+tems, including altering the appear
+ance of each letter in adjacent
+frames of the Captcha and varying
+the length of a code string that lies
+behind the Captcha's appearance
+in the video stream. The Stanford
+team offered their research to Nu-
+Captcha several weeks in advance
+of public disclosure.
+"In my opinion . . . their
+biggest flaw was to use the same
+kind of protection image Captchas
+use (lines, distortion, etc.)," Martin
+wrote. "They should concentrate
+on video based protections, but I'm
+pretty sure [Burzstein] had this dis
+cussion with Nucaptcha's team al
+ready."
+
+Contact Alice Phillips at alicepl@
+stanford.edu.
+Researchers at the Stanford Security Tab an
+nounced last week that they have developed a means
+of consistently cracking NuCaptcha's video Captcha
+identity verification system.
+Video Captcha streams display slightly distorted
+letters in motion, which website programmers can
+then embed and ask users to type out while visiting a
+site to prove that the user is a human and not an auto
+mated program, or 'bot.' The researchers were able to
+devise a method by which a bot also frequently
+used to create automated email accounts for spam
+ming successfully passed the Captcha security test
+for over 90 percent of challenges faced.
+"How fun would it be to interact with [a] robot on
+Twitter or Facebook?" former Security Lab re
+searcher Elie Bursztein wrote in an email to The Daily.
+Bursztein was a post-doctoral research fellow in the
+lab while the video Captcha research took place.
+The Security Lab team used a combination of mo
+tion tracking, image analysis and machine-learning al
+gorithms to crack the video Captcha system. Accord
+ing to a blog post that Bursztein wrote chronicling the
+team's efforts, motion tracking allowed the team to
+isolate frames of the video Captcha in order to track
+and analyze the words displayed.
+Image analysis was used to determine which ob
+jects in the frame were the most interesting, focusing
+on objects that fit the expected width-height ratio for
+Captcha text and displayed more edges or corners
+
+
+OLLIE KHAKWANI/The Stanford Daily
+than other objects in the frame (due
+to the Captcha letters' independent
+rotation). The objects were then
+cross-referenced with other inter
+esting objects across numerous
+frames, leaving the computer with
+many different iterations of the
+same Captcha.
+The letters in the Captcha can be
+deciphered in one of three ways: by
+trivial separation if a frame exists
+with no crossover, by a computer
+ized "voting decision" to determine
+the most probable set of letters or by
+using motion tracking to analyze
+which points on the Captcha object
+move together through separate
+frames, which can then be mapped
+out into the individual letters.
+Matthieu Martin, a researcher at
+the Security Lab, wrote in an email
+
+to The Daily that he added video el
+ements into Decaptcha, the soft
+ware that the lab had previously
+used to break simple image and
+audio Captchas, in order to crack
+video Captchas.
+In his blog post, Bursztein em
+phasized that cracking a video
+Captcha was more difficult than
+cracking a simple image Captcha
+due to the incorporation of motion
+tracking. He noted, however, that
+once the motion tracking was in
+place the program's accuracy
+was higher due to being able to ref
+erence multiple iterations of the
+same Captcha.
+"No single Captcha will defend
+against every possible attack," Nu-
+Captcha, the software development
+company that created both the sim
+ple image Captcha and the video
+Captcha authentication systems,
+wrote in a statement responding to
+the research team's blog post. "Our
+strategy is to develop a collection of
+responses and, as appropriate, to de
+
+ploy them to individual users in
+stead of presenting a single rigid de
+fense,"
+In the statement, NuCaptcha
+said that the research had suggest
+ed ways of improving Captcha sys
+tems, including altering the appear
+ance of each letter in adjacent
+frames of the Captcha and varying
+the length of a code string that lies
+behind the Captcha's appearance
+in the video stream. The Stanford
+team offered their research to Nu-
+Captcha several weeks in advance
+of public disclosure.
+"In my opinion . . . their
+biggest flaw was to use the same
+kind of protection image Captchas
+use (lines, distortion, etc.)," Martin
+wrote. "They should concentrate
+on video based protections, but I'm
+pretty sure [Burzstein] had this dis
+cussion with Nucaptcha's team al
+ready."
+
+Contact Alice Phillips at alicepl@
+stanford.edu.
+Researchers at the Stanford Security Tab an
+nounced last week that they have developed a means
+of consistently cracking NuCaptcha's video Captcha
+identity verification system.
+Video Captcha streams display slightly distorted
+letters in motion, which website programmers can
+then embed and ask users to type out while visiting a
+site to prove that the user is a human and not an auto
+mated program, or 'bot.' The researchers were able to
+devise a method by which a bot also frequently
+used to create automated email accounts for spam
+ming successfully passed the Captcha security test
+for over 90 percent of challenges faced.
+"How fun would it be to interact with [a] robot on
+Twitter or Facebook?" former Security Lab re
+searcher Elie Bursztein wrote in an email to The Daily.
+Bursztein was a post-doctoral research fellow in the
+lab while the video Captcha research took place.
+The Security Lab team used a combination of mo
+tion tracking, image analysis and machine-learning al
+gorithms to crack the video Captcha system. Accord
+ing to a blog post that Bursztein wrote chronicling the
+team's efforts, motion tracking allowed the team to
+isolate frames of the video Captcha in order to track
+and analyze the words displayed.
+Image analysis was used to determine which ob
+jects in the frame were the most interesting, focusing
+on objects that fit the expected width-height ratio for
+Captcha text and displayed more edges or corners
+
+
+OLLIE KHAKWANI/The Stanford Daily
+than other objects in the frame (due
+to the Captcha letters' independent
+rotation). The objects were then
+cross-referenced with other inter
+esting objects across numerous
+frames, leaving the computer with
+many different iterations of the
+same Captcha.
+The letters in the Captcha can be
+deciphered in one of three ways: by
+trivial separation if a frame exists
+with no crossover, by a computer
+ized "voting decision" to determine
+the most probable set of letters or by
+using motion tracking to analyze
+which points on the Captcha object
+move together through separate
+frames, which can then be mapped
+out into the individual letters.
+Matthieu Martin, a researcher at
+the Security Lab, wrote in an email
+
+to The Daily that he added video el
+ements into Decaptcha, the soft
+ware that the lab had previously
+used to break simple image and
+audio Captchas, in order to crack
+video Captchas.
+In his blog post, Bursztein em
+phasized that cracking a video
+Captcha was more difficult than
+cracking a simple image Captcha
+due to the incorporation of motion
+tracking. He noted, however, that
+once the motion tracking was in
+place the program's accuracy
+was higher due to being able to ref
+erence multiple iterations of the
+same Captcha.
+"No single Captcha will defend
+against every possible attack," Nu-
+Captcha, the software development
+company that created both the sim
+ple image Captcha and the video
+Captcha authentication systems,
+wrote in a statement responding to
+the research team's blog post. "Our
+strategy is to develop a collection of
+responses and, as appropriate, to de
+
+ploy them to individual users in
+stead of presenting a single rigid de
+fense,"
+In the statement, NuCaptcha
+said that the research had suggest
+ed ways of improving Captcha sys
+tems, including altering the appear
+ance of each letter in adjacent
+frames of the Captcha and varying
+the length of a code string that lies
+behind the Captcha's appearance
+in the video stream. The Stanford
+team offered their research to Nu-
+Captcha several weeks in advance
+of public disclosure.
+"In my opinion . . . their
+biggest flaw was to use the same
+kind of protection image Captchas
+use (lines, distortion, etc.)," Martin
+wrote. "They should concentrate
+on video based protections, but I'm
+pretty sure [Burzstein] had this dis
+cussion with Nucaptcha's team al
+ready."
+
+Contact Alice Phillips at alicepl@
+stanford.edu.
+Researchers at the Stanford Security Tab an
+nounced last week that they have developed a means
+of consistently cracking NuCaptcha's video Captcha
+identity verification system.
+Video Captcha streams display slightly distorted
+letters in motion, which website programmers can
+then embed and ask users to type out while visiting a
+site to prove that the user is a human and not an auto
+mated program, or 'bot.' The researchers were able to
+devise a method by which a bot also frequently
+used to create automated email accounts for spam
+ming successfully passed the Captcha security test
+for over 90 percent of challenges faced.
+"How fun would it be to interact with [a] robot on
+Twitter or Facebook?" former Security Lab re
+searcher Elie Bursztein wrote in an email to The Daily.
+Bursztein was a post-doctoral research fellow in the
+lab while the video Captcha research took place.
+The Security Lab team used a combination of mo
+tion tracking, image analysis and machine-learning al
+gorithms to crack the video Captcha system. Accord
+ing to a blog post that Bursztein wrote chronicling the
+team's efforts, motion tracking allowed the team to
+isolate frames of the video Captcha in order to track
+and analyze the words displayed.
+Image analysis was used to determine which ob
+jects in the frame were the most interesting, focusing
+on objects that fit the expected width-height ratio for
+Captcha text and displayed more edges or corners
+
+
+OLLIE KHAKWANI/The Stanford Daily
+than other objects in the frame (due
+to the Captcha letters' independent
+rotation). The objects were then
+cross-referenced with other inter
+esting objects across numerous
+frames, leaving the computer with
+many different iterations of the
+same Captcha.
+The letters in the Captcha can be
+deciphered in one of three ways: by
+trivial separation if a frame exists
+with no crossover, by a computer
+ized "voting decision" to determine
+the most probable set of letters or by
+using motion tracking to analyze
+which points on the Captcha object
+move together through separate
+frames, which can then be mapped
+out into the individual letters.
+Matthieu Martin, a researcher at
+the Security Lab, wrote in an email
+
+to The Daily that he added video el
+ements into Decaptcha, the soft
+ware that the lab had previously
+used to break simple image and
+audio Captchas, in order to crack
+video Captchas.
+In his blog post, Bursztein em
+phasized that cracking a video
+Captcha was more difficult than
+cracking a simple image Captcha
+due to the incorporation of motion
+tracking. He noted, however, that
+once the motion tracking was in
+place the program's accuracy
+was higher due to being able to ref
+erence multiple iterations of the
+same Captcha.
+"No single Captcha will defend
+against every possible attack," Nu-
+Captcha, the software development
+company that created both the sim
+ple image Captcha and the video
+Captcha authentication systems,
+wrote in a statement responding to
+the research team's blog post. "Our
+strategy is to develop a collection of
+responses and, as appropriate, to de
+
+ploy them to individual users in
+stead of presenting a single rigid de
+fense,"
+In the statement, NuCaptcha
+said that the research had suggest
+ed ways of improving Captcha sys
+tems, including altering the appear
+ance of each letter in adjacent
+frames of the Captcha and varying
+the length of a code string that lies
+behind the Captcha's appearance
+in the video stream. The Stanford
+team offered their research to Nu-
+Captcha several weeks in advance
+of public disclosure.
+"In my opinion . . . their
+biggest flaw was to use the same
+kind of protection image Captchas
+use (lines, distortion, etc.)," Martin
+wrote. "They should concentrate
+on video based protections, but I'm
+pretty sure [Burzstein] had this dis
+cussion with Nucaptcha's team al
+ready."
+
+Contact Alice Phillips at alicepl@
+stanford.edu.
+Researchers at the Stanford Security Tab an
+nounced last week that they have developed a means
+of consistently cracking NuCaptcha's video Captcha
+identity verification system.
+Video Captcha streams display slightly distorted
+letters in motion, which website programmers can
+then embed and ask users to type out while visiting a
+site to prove that the user is a human and not an auto
+mated program, or 'bot.' The researchers were able to
+devise a method by which a bot also frequently
+used to create automated email accounts for spam
+ming successfully passed the Captcha security test
+for over 90 percent of challenges faced.
+"How fun would it be to interact with [a] robot on
+Twitter or Facebook?" former Security Lab re
+searcher Elie Bursztein wrote in an email to The Daily.
+Bursztein was a post-doctoral research fellow in the
+lab while the video Captcha research took place.
+The Security Lab team used a combination of mo
+tion tracking, image analysis and machine-learning al
+gorithms to crack the video Captcha system. Accord
+ing to a blog post that Bursztein wrote chronicling the
+team's efforts, motion tracking allowed the team to
+isolate frames of the video Captcha in order to track
+and analyze the words displayed.
+Image analysis was used to determine which ob
+jects in the frame were the most interesting, focusing
+on objects that fit the expected width-height ratio for
+Captcha text and displayed more edges or corners
+
+
+OLLIE KHAKWANI/The Stanford Daily
+than other objects in the frame (due
+to the Captcha letters' independent
+rotation). The objects were then
+cross-referenced with other inter
+esting objects across numerous
+frames, leaving the computer with
+many different iterations of the
+same Captcha.
+The letters in the Captcha can be
+deciphered in one of three ways: by
+trivial separation if a frame exists
+with no crossover, by a computer
+ized "voting decision" to determine
+the most probable set of letters or by
+using motion tracking to analyze
+which points on the Captcha object
+move together through separate
+frames, which can then be mapped
+out into the individual letters.
+Matthieu Martin, a researcher at
+the Security Lab, wrote in an email
+
+to The Daily that he added video el
+ements into Decaptcha, the soft
+ware that the lab had previously
+used to break simple image and
+audio Captchas, in order to crack
+video Captchas.
+In his blog post, Bursztein em
+phasized that cracking a video
+Captcha was more difficult than
+cracking a simple image Captcha
+due to the incorporation of motion
+tracking. He noted, however, that
+once the motion tracking was in
+place the program's accuracy
+was higher due to being able to ref
+erence multiple iterations of the
+same Captcha.
+"No single Captcha will defend
+against every possible attack," Nu-
+Captcha, the software development
+company that created both the sim
+ple image Captcha and the video
+Captcha authentication systems,
+wrote in a statement responding to
+the research team's blog post. "Our
+strategy is to develop a collection of
+responses and, as appropriate, to de
+
+ploy them to individual users in
+stead of presenting a single rigid de
+fense,"
+In the statement, NuCaptcha
+said that the research had suggest
+ed ways of improving Captcha sys
+tems, including altering the appear
+ance of each letter in adjacent
+frames of the Captcha and varying
+the length of a code string that lies
+behind the Captcha's appearance
+in the video stream. The Stanford
+team offered their research to Nu-
+Captcha several weeks in advance
+of public disclosure.
+"In my opinion . . . their
+biggest flaw was to use the same
+kind of protection image Captchas
+use (lines, distortion, etc.)," Martin
+wrote. "They should concentrate
+on video based protections, but I'm
+pretty sure [Burzstein] had this dis
+cussion with Nucaptcha's team al
+ready."
+
+Contact Alice Phillips at alicepl@
+stanford.edu.
+Researchers at the Stanford Security Tab an
+nounced last week that they have developed a means
+of consistently cracking NuCaptcha's video Captcha
+identity verification system.
+Video Captcha streams display slightly distorted
+letters in motion, which website programmers can
+then embed and ask users to type out while visiting a
+site to prove that the user is a human and not an auto
+mated program, or 'bot.' The researchers were able to
+devise a method by which a bot also frequently
+used to create automated email accounts for spam
+ming successfully passed the Captcha security test
+for over 90 percent of challenges faced.
+"How fun would it be to interact with [a] robot on
+Twitter or Facebook?" former Security Lab re
+searcher Elie Bursztein wrote in an email to The Daily.
+Bursztein was a post-doctoral research fellow in the
+lab while the video Captcha research took place.
+The Security Lab team used a combination of mo
+tion tracking, image analysis and machine-learning al
+gorithms to crack the video Captcha system. Accord
+ing to a blog post that Bursztein wrote chronicling the
+team's efforts, motion tracking allowed the team to
+isolate frames of the video Captcha in order to track
+and analyze the words displayed.
+Image analysis was used to determine which ob
+jects in the frame were the most interesting, focusing
+on objects that fit the expected width-height ratio for
+Captcha text and displayed more edges or corners
+
+
+OLLIE KHAKWANI/The Stanford Daily
+than other objects in the frame (due
+to the Captcha letters' independent
+rotation). The objects were then
+cross-referenced with other inter
+esting objects across numerous
+frames, leaving the computer with
+many different iterations of the
+same Captcha.
+The letters in the Captcha can be
+deciphered in one of three ways: by
+trivial separation if a frame exists
+with no crossover, by a computer
+ized "voting decision" to determine
+the most probable set of letters or by
+using motion tracking to analyze
+which points on the Captcha object
+move together through separate
+frames, which can then be mapped
+out into the individual letters.
+Matthieu Martin, a researcher at
+the Security Lab, wrote in an email
+
+to The Daily that he added video el
+ements into Decaptcha, the soft
+ware that the lab had previously
+used to break simple image and
+audio Captchas, in order to crack
+video Captchas.
+In his blog post, Bursztein em
+phasized that cracking a video
+Captcha was more difficult than
+cracking a simple image Captcha
+due to the incorporation of motion
+tracking. He noted, however, that
+once the motion tracking was in
+place the program's accuracy
+was higher due to being able to ref
+erence multiple iterations of the
+same Captcha.
+"No single Captcha will defend
+against every possible attack," Nu-
+Captcha, the software development
+company that created both the sim
+ple image Captcha and the video
+Captcha authentication systems,
+wrote in a statement responding to
+the research team's blog post. "Our
+strategy is to develop a collection of
+responses and, as appropriate, to de
+
+ploy them to individual users in
+stead of presenting a single rigid de
+fense,"
+In the statement, NuCaptcha
+said that the research had suggest
+ed ways of improving Captcha sys
+tems, including altering the appear
+ance of each letter in adjacent
+frames of the Captcha and varying
+the length of a code string that lies
+behind the Captcha's appearance
+in the video stream. The Stanford
+team offered their research to Nu-
+Captcha several weeks in advance
+of public disclosure.
+"In my opinion . . . their
+biggest flaw was to use the same
+kind of protection image Captchas
+use (lines, distortion, etc.)," Martin
+wrote. "They should concentrate
+on video based protections, but I'm
+pretty sure [Burzstein] had this dis
+cussion with Nucaptcha's team al
+ready."
+
+Contact Alice Phillips at alicepl@
+stanford.edu.

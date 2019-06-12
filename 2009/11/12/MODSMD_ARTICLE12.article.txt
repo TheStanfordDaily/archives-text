@@ -1,0 +1,957 @@
+# SCIENCE & TECH
+## Lab invents mind reading system Machine reads electric signals, aids communication for paralyzed 
+### IVY NGUYEN 
+The Neural Prosthetic Systems
+(NPS) Laboratory at Stanford has
+developed a system that enables users
+to type 15 words a minute using their
+minds. Though this communication
+prosthesis technology is still in its trial
+stages, researchers behind the system
+hope to one day use it to aid severely
+paralyzed patients in communication.
+Communication prosthesis works
+by reading electrical signals in the
+brain associated with movement,
+interpreting those neural signals with
+statistics and mathematical algo
+rithms on custom-designed chips. The
+computer signals then tap out a mes
+sage on a keyboard.
+This method bypasses injured
+spinal cords and can one day enable
+paralyzed patients to guide a comput
+er cursor, move a prosthetic arm or
+even stimulate the muscles them
+selves.
+"We take sensory information into
+the brain, the brain does some pro
+cessing, and then it is shipped onto
+the motor output stages," said electri
+cal engineering Prof. Krishna Shenoy
+in a presentation available on
+Stanford University's You Tube chan
+nel. Shenoy leads the lab that con
+ducts this research.
+"If that last link is broken, we
+might build effectively a bypass," he
+continued.
+The neural signals are read using a
+4 mm x 4 mm silicon-based electrode
+array surgically implanted into the
+premotor or motor cortex areas of
+the brain that control movement
+that is comprised of 100 1-mm long
+electrodes that penetrate only the
+outermost layer of the brain, called
+the cerebral cortex. Each electrode
+allows the communication prosthesis
+system to read the neural signal com
+ing from the tip of the electrode, sim
+ilar to what a neurosurgeon does
+when he probes surrounding areas of
+a brain tumor before removing it.
+"Take those neural signals out,
+and if you're looking at a keyboard,
+we can predict in real time, very rap
+idly— in fact, beat your own single
+finger typing speed exactly the let
+ters you would like to type and hit,"
+Shenoy explained.
+While the research in communica
+tion prosthesis is promising, many
+questions still need to be resolved
+before it can improve the system.
+One such question is how to interpret
+the signals recorded in the brain.
+Though some research teams argue
+that the signals relate directly to mus
+cle contractions, others believe that
+
+these signals are more abstract
+parameters that outline the direction
+of the reach of the velocity of the
+movement.
+"Until that controversy is
+resolved, we're fairly sure we're not
+doing the best job we can in interpret
+ing neurological signals," said
+Research Associate Mark
+Churchland.
+Human Applications
+Most of the trials with invasive
+communication prostheses have been
+performed on rhesus monkeys, with
+only a small number of tests using
+human subjects. In the studies per
+formed on human subjects, patients
+were able to perform tasks such as
+move a cursor on a computer screen
+to open an e-mail, play a computer
+game and drive a wheelchair up to 20
+feet.
+"These things are real, and they do
+work, but they're very experimental,"
+Churchland said. "None of these
+patients got any real benefits."
+No patients were able to use their
+prosthesis without the supervision of
+a doctor and the research team, espe
+cially because they needed to be con
+nected via cable to a computer. Still,
+the researchers of the NPS Lab
+express hope that the technology can
+one day aid severely disabled individ
+uals.
+"Other patients suffering from
+Lou Gehrig's disease and so forth are
+not even able to blink their eyes to
+communicate," Shenoy explained.
+"We aim to try to help provide new
+treatment options for these most
+severely disabled patients with it also
+being in mind that we could help less
+disabled people still severely dis
+abled, perhaps with an arm amputa-
+
+tion, but less so."
+"It's great we're doing devices
+from a basic science perspective, but
+it would be really nice to translate
+that into a clinical benefit for
+patients," said fellow researcher and
+computer science graduate student
+Vikash Gilja.
+Worth the Wait
+If the system becomes more
+robust, it may also benefit less severe
+ly disabled individuals. Mechanical
+engineering graduate student Angelo
+Szychowski, who suffers from Spinal
+Muscular Atrophy that leaves him
+unable to type, said this system has
+potential features that the voice
+detection system he uses currently
+lacks.
+"The problem the voice detection
+system I use is it has poor recogni
+tion," Szychowski said. "My biggest
+frustration has been with doing math.
+Voice detection does not do that well,
+so I have difficulties doing my p-sets
+as a result."
+Though Szychowski is not com
+pletely paralyzed like the patients the
+research team had in mind, he under
+stands the importance of having the
+ability to communicate.
+"I know I would not be going to
+Stanford right now if I weren't able to
+interact with my computer and type
+out my assignments and talk to peo
+ple," Szychowski said. "It's a huge lim
+itation to someone if they don't have
+that ability. Even imperfect technolo
+gy that only offers 15 words per
+minute would still be a huge benefit
+for someone who could not commu
+nicate at all."
+
+Contact Ivy Nguyen at iknguyen@stan
+ford.edu.
+
+The Neural Prosthetic Systems
+(NPS) Laboratory at Stanford has
+developed a system that enables users
+to type 15 words a minute using their
+minds. Though this communication
+prosthesis technology is still in its trial
+stages, researchers behind the system
+hope to one day use it to aid severely
+paralyzed patients in communication.
+Communication prosthesis works
+by reading electrical signals in the
+brain associated with movement,
+interpreting those neural signals with
+statistics and mathematical algo
+rithms on custom-designed chips. The
+computer signals then tap out a mes
+sage on a keyboard.
+This method bypasses injured
+spinal cords and can one day enable
+paralyzed patients to guide a comput
+er cursor, move a prosthetic arm or
+even stimulate the muscles them
+selves.
+"We take sensory information into
+the brain, the brain does some pro
+cessing, and then it is shipped onto
+the motor output stages," said electri
+cal engineering Prof. Krishna Shenoy
+in a presentation available on
+Stanford University's You Tube chan
+nel. Shenoy leads the lab that con
+ducts this research.
+"If that last link is broken, we
+might build effectively a bypass," he
+continued.
+The neural signals are read using a
+4 mm x 4 mm silicon-based electrode
+array surgically implanted into the
+premotor or motor cortex areas of
+the brain that control movement
+that is comprised of 100 1-mm long
+electrodes that penetrate only the
+outermost layer of the brain, called
+the cerebral cortex. Each electrode
+allows the communication prosthesis
+system to read the neural signal com
+ing from the tip of the electrode, sim
+ilar to what a neurosurgeon does
+when he probes surrounding areas of
+a brain tumor before removing it.
+"Take those neural signals out,
+and if you're looking at a keyboard,
+we can predict in real time, very rap
+idly— in fact, beat your own single
+finger typing speed exactly the let
+ters you would like to type and hit,"
+Shenoy explained.
+While the research in communica
+tion prosthesis is promising, many
+questions still need to be resolved
+before it can improve the system.
+One such question is how to interpret
+the signals recorded in the brain.
+Though some research teams argue
+that the signals relate directly to mus
+cle contractions, others believe that
+
+these signals are more abstract
+parameters that outline the direction
+of the reach of the velocity of the
+movement.
+"Until that controversy is
+resolved, we're fairly sure we're not
+doing the best job we can in interpret
+ing neurological signals," said
+Research Associate Mark
+Churchland.
+Human Applications
+Most of the trials with invasive
+communication prostheses have been
+performed on rhesus monkeys, with
+only a small number of tests using
+human subjects. In the studies per
+formed on human subjects, patients
+were able to perform tasks such as
+move a cursor on a computer screen
+to open an e-mail, play a computer
+game and drive a wheelchair up to 20
+feet.
+"These things are real, and they do
+work, but they're very experimental,"
+Churchland said. "None of these
+patients got any real benefits."
+No patients were able to use their
+prosthesis without the supervision of
+a doctor and the research team, espe
+cially because they needed to be con
+nected via cable to a computer. Still,
+the researchers of the NPS Lab
+express hope that the technology can
+one day aid severely disabled individ
+uals.
+"Other patients suffering from
+Lou Gehrig's disease and so forth are
+not even able to blink their eyes to
+communicate," Shenoy explained.
+"We aim to try to help provide new
+treatment options for these most
+severely disabled patients with it also
+being in mind that we could help less
+disabled people still severely dis
+abled, perhaps with an arm amputa-
+
+tion, but less so."
+"It's great we're doing devices
+from a basic science perspective, but
+it would be really nice to translate
+that into a clinical benefit for
+patients," said fellow researcher and
+computer science graduate student
+Vikash Gilja.
+Worth the Wait
+If the system becomes more
+robust, it may also benefit less severe
+ly disabled individuals. Mechanical
+engineering graduate student Angelo
+Szychowski, who suffers from Spinal
+Muscular Atrophy that leaves him
+unable to type, said this system has
+potential features that the voice
+detection system he uses currently
+lacks.
+"The problem the voice detection
+system I use is it has poor recogni
+tion," Szychowski said. "My biggest
+frustration has been with doing math.
+Voice detection does not do that well,
+so I have difficulties doing my p-sets
+as a result."
+Though Szychowski is not com
+pletely paralyzed like the patients the
+research team had in mind, he under
+stands the importance of having the
+ability to communicate.
+"I know I would not be going to
+Stanford right now if I weren't able to
+interact with my computer and type
+out my assignments and talk to peo
+ple," Szychowski said. "It's a huge lim
+itation to someone if they don't have
+that ability. Even imperfect technolo
+gy that only offers 15 words per
+minute would still be a huge benefit
+for someone who could not commu
+nicate at all."
+
+Contact Ivy Nguyen at iknguyen@stan
+ford.edu.
+
+The Neural Prosthetic Systems
+(NPS) Laboratory at Stanford has
+developed a system that enables users
+to type 15 words a minute using their
+minds. Though this communication
+prosthesis technology is still in its trial
+stages, researchers behind the system
+hope to one day use it to aid severely
+paralyzed patients in communication.
+Communication prosthesis works
+by reading electrical signals in the
+brain associated with movement,
+interpreting those neural signals with
+statistics and mathematical algo
+rithms on custom-designed chips. The
+computer signals then tap out a mes
+sage on a keyboard.
+This method bypasses injured
+spinal cords and can one day enable
+paralyzed patients to guide a comput
+er cursor, move a prosthetic arm or
+even stimulate the muscles them
+selves.
+"We take sensory information into
+the brain, the brain does some pro
+cessing, and then it is shipped onto
+the motor output stages," said electri
+cal engineering Prof. Krishna Shenoy
+in a presentation available on
+Stanford University's You Tube chan
+nel. Shenoy leads the lab that con
+ducts this research.
+"If that last link is broken, we
+might build effectively a bypass," he
+continued.
+The neural signals are read using a
+4 mm x 4 mm silicon-based electrode
+array surgically implanted into the
+premotor or motor cortex areas of
+the brain that control movement
+that is comprised of 100 1-mm long
+electrodes that penetrate only the
+outermost layer of the brain, called
+the cerebral cortex. Each electrode
+allows the communication prosthesis
+system to read the neural signal com
+ing from the tip of the electrode, sim
+ilar to what a neurosurgeon does
+when he probes surrounding areas of
+a brain tumor before removing it.
+"Take those neural signals out,
+and if you're looking at a keyboard,
+we can predict in real time, very rap
+idly— in fact, beat your own single
+finger typing speed exactly the let
+ters you would like to type and hit,"
+Shenoy explained.
+While the research in communica
+tion prosthesis is promising, many
+questions still need to be resolved
+before it can improve the system.
+One such question is how to interpret
+the signals recorded in the brain.
+Though some research teams argue
+that the signals relate directly to mus
+cle contractions, others believe that
+
+these signals are more abstract
+parameters that outline the direction
+of the reach of the velocity of the
+movement.
+"Until that controversy is
+resolved, we're fairly sure we're not
+doing the best job we can in interpret
+ing neurological signals," said
+Research Associate Mark
+Churchland.
+Human Applications
+Most of the trials with invasive
+communication prostheses have been
+performed on rhesus monkeys, with
+only a small number of tests using
+human subjects. In the studies per
+formed on human subjects, patients
+were able to perform tasks such as
+move a cursor on a computer screen
+to open an e-mail, play a computer
+game and drive a wheelchair up to 20
+feet.
+"These things are real, and they do
+work, but they're very experimental,"
+Churchland said. "None of these
+patients got any real benefits."
+No patients were able to use their
+prosthesis without the supervision of
+a doctor and the research team, espe
+cially because they needed to be con
+nected via cable to a computer. Still,
+the researchers of the NPS Lab
+express hope that the technology can
+one day aid severely disabled individ
+uals.
+"Other patients suffering from
+Lou Gehrig's disease and so forth are
+not even able to blink their eyes to
+communicate," Shenoy explained.
+"We aim to try to help provide new
+treatment options for these most
+severely disabled patients with it also
+being in mind that we could help less
+disabled people still severely dis
+abled, perhaps with an arm amputa-
+
+tion, but less so."
+"It's great we're doing devices
+from a basic science perspective, but
+it would be really nice to translate
+that into a clinical benefit for
+patients," said fellow researcher and
+computer science graduate student
+Vikash Gilja.
+Worth the Wait
+If the system becomes more
+robust, it may also benefit less severe
+ly disabled individuals. Mechanical
+engineering graduate student Angelo
+Szychowski, who suffers from Spinal
+Muscular Atrophy that leaves him
+unable to type, said this system has
+potential features that the voice
+detection system he uses currently
+lacks.
+"The problem the voice detection
+system I use is it has poor recogni
+tion," Szychowski said. "My biggest
+frustration has been with doing math.
+Voice detection does not do that well,
+so I have difficulties doing my p-sets
+as a result."
+Though Szychowski is not com
+pletely paralyzed like the patients the
+research team had in mind, he under
+stands the importance of having the
+ability to communicate.
+"I know I would not be going to
+Stanford right now if I weren't able to
+interact with my computer and type
+out my assignments and talk to peo
+ple," Szychowski said. "It's a huge lim
+itation to someone if they don't have
+that ability. Even imperfect technolo
+gy that only offers 15 words per
+minute would still be a huge benefit
+for someone who could not commu
+nicate at all."
+
+Contact Ivy Nguyen at iknguyen@stan
+ford.edu.
+
+The Neural Prosthetic Systems
+(NPS) Laboratory at Stanford has
+developed a system that enables users
+to type 15 words a minute using their
+minds. Though this communication
+prosthesis technology is still in its trial
+stages, researchers behind the system
+hope to one day use it to aid severely
+paralyzed patients in communication.
+Communication prosthesis works
+by reading electrical signals in the
+brain associated with movement,
+interpreting those neural signals with
+statistics and mathematical algo
+rithms on custom-designed chips. The
+computer signals then tap out a mes
+sage on a keyboard.
+This method bypasses injured
+spinal cords and can one day enable
+paralyzed patients to guide a comput
+er cursor, move a prosthetic arm or
+even stimulate the muscles them
+selves.
+"We take sensory information into
+the brain, the brain does some pro
+cessing, and then it is shipped onto
+the motor output stages," said electri
+cal engineering Prof. Krishna Shenoy
+in a presentation available on
+Stanford University's You Tube chan
+nel. Shenoy leads the lab that con
+ducts this research.
+"If that last link is broken, we
+might build effectively a bypass," he
+continued.
+The neural signals are read using a
+4 mm x 4 mm silicon-based electrode
+array surgically implanted into the
+premotor or motor cortex areas of
+the brain that control movement
+that is comprised of 100 1-mm long
+electrodes that penetrate only the
+outermost layer of the brain, called
+the cerebral cortex. Each electrode
+allows the communication prosthesis
+system to read the neural signal com
+ing from the tip of the electrode, sim
+ilar to what a neurosurgeon does
+when he probes surrounding areas of
+a brain tumor before removing it.
+"Take those neural signals out,
+and if you're looking at a keyboard,
+we can predict in real time, very rap
+idly— in fact, beat your own single
+finger typing speed exactly the let
+ters you would like to type and hit,"
+Shenoy explained.
+While the research in communica
+tion prosthesis is promising, many
+questions still need to be resolved
+before it can improve the system.
+One such question is how to interpret
+the signals recorded in the brain.
+Though some research teams argue
+that the signals relate directly to mus
+cle contractions, others believe that
+
+these signals are more abstract
+parameters that outline the direction
+of the reach of the velocity of the
+movement.
+"Until that controversy is
+resolved, we're fairly sure we're not
+doing the best job we can in interpret
+ing neurological signals," said
+Research Associate Mark
+Churchland.
+Human Applications
+Most of the trials with invasive
+communication prostheses have been
+performed on rhesus monkeys, with
+only a small number of tests using
+human subjects. In the studies per
+formed on human subjects, patients
+were able to perform tasks such as
+move a cursor on a computer screen
+to open an e-mail, play a computer
+game and drive a wheelchair up to 20
+feet.
+"These things are real, and they do
+work, but they're very experimental,"
+Churchland said. "None of these
+patients got any real benefits."
+No patients were able to use their
+prosthesis without the supervision of
+a doctor and the research team, espe
+cially because they needed to be con
+nected via cable to a computer. Still,
+the researchers of the NPS Lab
+express hope that the technology can
+one day aid severely disabled individ
+uals.
+"Other patients suffering from
+Lou Gehrig's disease and so forth are
+not even able to blink their eyes to
+communicate," Shenoy explained.
+"We aim to try to help provide new
+treatment options for these most
+severely disabled patients with it also
+being in mind that we could help less
+disabled people still severely dis
+abled, perhaps with an arm amputa-
+
+tion, but less so."
+"It's great we're doing devices
+from a basic science perspective, but
+it would be really nice to translate
+that into a clinical benefit for
+patients," said fellow researcher and
+computer science graduate student
+Vikash Gilja.
+Worth the Wait
+If the system becomes more
+robust, it may also benefit less severe
+ly disabled individuals. Mechanical
+engineering graduate student Angelo
+Szychowski, who suffers from Spinal
+Muscular Atrophy that leaves him
+unable to type, said this system has
+potential features that the voice
+detection system he uses currently
+lacks.
+"The problem the voice detection
+system I use is it has poor recogni
+tion," Szychowski said. "My biggest
+frustration has been with doing math.
+Voice detection does not do that well,
+so I have difficulties doing my p-sets
+as a result."
+Though Szychowski is not com
+pletely paralyzed like the patients the
+research team had in mind, he under
+stands the importance of having the
+ability to communicate.
+"I know I would not be going to
+Stanford right now if I weren't able to
+interact with my computer and type
+out my assignments and talk to peo
+ple," Szychowski said. "It's a huge lim
+itation to someone if they don't have
+that ability. Even imperfect technolo
+gy that only offers 15 words per
+minute would still be a huge benefit
+for someone who could not commu
+nicate at all."
+
+Contact Ivy Nguyen at iknguyen@stan
+ford.edu.
+
+The Neural Prosthetic Systems
+(NPS) Laboratory at Stanford has
+developed a system that enables users
+to type 15 words a minute using their
+minds. Though this communication
+prosthesis technology is still in its trial
+stages, researchers behind the system
+hope to one day use it to aid severely
+paralyzed patients in communication.
+Communication prosthesis works
+by reading electrical signals in the
+brain associated with movement,
+interpreting those neural signals with
+statistics and mathematical algo
+rithms on custom-designed chips. The
+computer signals then tap out a mes
+sage on a keyboard.
+This method bypasses injured
+spinal cords and can one day enable
+paralyzed patients to guide a comput
+er cursor, move a prosthetic arm or
+even stimulate the muscles them
+selves.
+"We take sensory information into
+the brain, the brain does some pro
+cessing, and then it is shipped onto
+the motor output stages," said electri
+cal engineering Prof. Krishna Shenoy
+in a presentation available on
+Stanford University's You Tube chan
+nel. Shenoy leads the lab that con
+ducts this research.
+"If that last link is broken, we
+might build effectively a bypass," he
+continued.
+The neural signals are read using a
+4 mm x 4 mm silicon-based electrode
+array surgically implanted into the
+premotor or motor cortex areas of
+the brain that control movement
+that is comprised of 100 1-mm long
+electrodes that penetrate only the
+outermost layer of the brain, called
+the cerebral cortex. Each electrode
+allows the communication prosthesis
+system to read the neural signal com
+ing from the tip of the electrode, sim
+ilar to what a neurosurgeon does
+when he probes surrounding areas of
+a brain tumor before removing it.
+"Take those neural signals out,
+and if you're looking at a keyboard,
+we can predict in real time, very rap
+idly— in fact, beat your own single
+finger typing speed exactly the let
+ters you would like to type and hit,"
+Shenoy explained.
+While the research in communica
+tion prosthesis is promising, many
+questions still need to be resolved
+before it can improve the system.
+One such question is how to interpret
+the signals recorded in the brain.
+Though some research teams argue
+that the signals relate directly to mus
+cle contractions, others believe that
+
+these signals are more abstract
+parameters that outline the direction
+of the reach of the velocity of the
+movement.
+"Until that controversy is
+resolved, we're fairly sure we're not
+doing the best job we can in interpret
+ing neurological signals," said
+Research Associate Mark
+Churchland.
+Human Applications
+Most of the trials with invasive
+communication prostheses have been
+performed on rhesus monkeys, with
+only a small number of tests using
+human subjects. In the studies per
+formed on human subjects, patients
+were able to perform tasks such as
+move a cursor on a computer screen
+to open an e-mail, play a computer
+game and drive a wheelchair up to 20
+feet.
+"These things are real, and they do
+work, but they're very experimental,"
+Churchland said. "None of these
+patients got any real benefits."
+No patients were able to use their
+prosthesis without the supervision of
+a doctor and the research team, espe
+cially because they needed to be con
+nected via cable to a computer. Still,
+the researchers of the NPS Lab
+express hope that the technology can
+one day aid severely disabled individ
+uals.
+"Other patients suffering from
+Lou Gehrig's disease and so forth are
+not even able to blink their eyes to
+communicate," Shenoy explained.
+"We aim to try to help provide new
+treatment options for these most
+severely disabled patients with it also
+being in mind that we could help less
+disabled people still severely dis
+abled, perhaps with an arm amputa-
+
+tion, but less so."
+"It's great we're doing devices
+from a basic science perspective, but
+it would be really nice to translate
+that into a clinical benefit for
+patients," said fellow researcher and
+computer science graduate student
+Vikash Gilja.
+Worth the Wait
+If the system becomes more
+robust, it may also benefit less severe
+ly disabled individuals. Mechanical
+engineering graduate student Angelo
+Szychowski, who suffers from Spinal
+Muscular Atrophy that leaves him
+unable to type, said this system has
+potential features that the voice
+detection system he uses currently
+lacks.
+"The problem the voice detection
+system I use is it has poor recogni
+tion," Szychowski said. "My biggest
+frustration has been with doing math.
+Voice detection does not do that well,
+so I have difficulties doing my p-sets
+as a result."
+Though Szychowski is not com
+pletely paralyzed like the patients the
+research team had in mind, he under
+stands the importance of having the
+ability to communicate.
+"I know I would not be going to
+Stanford right now if I weren't able to
+interact with my computer and type
+out my assignments and talk to peo
+ple," Szychowski said. "It's a huge lim
+itation to someone if they don't have
+that ability. Even imperfect technolo
+gy that only offers 15 words per
+minute would still be a huge benefit
+for someone who could not commu
+nicate at all."
+
+Contact Ivy Nguyen at iknguyen@stan
+ford.edu.
+
+The Neural Prosthetic Systems
+(NPS) Laboratory at Stanford has
+developed a system that enables users
+to type 15 words a minute using their
+minds. Though this communication
+prosthesis technology is still in its trial
+stages, researchers behind the system
+hope to one day use it to aid severely
+paralyzed patients in communication.
+Communication prosthesis works
+by reading electrical signals in the
+brain associated with movement,
+interpreting those neural signals with
+statistics and mathematical algo
+rithms on custom-designed chips. The
+computer signals then tap out a mes
+sage on a keyboard.
+This method bypasses injured
+spinal cords and can one day enable
+paralyzed patients to guide a comput
+er cursor, move a prosthetic arm or
+even stimulate the muscles them
+selves.
+"We take sensory information into
+the brain, the brain does some pro
+cessing, and then it is shipped onto
+the motor output stages," said electri
+cal engineering Prof. Krishna Shenoy
+in a presentation available on
+Stanford University's You Tube chan
+nel. Shenoy leads the lab that con
+ducts this research.
+"If that last link is broken, we
+might build effectively a bypass," he
+continued.
+The neural signals are read using a
+4 mm x 4 mm silicon-based electrode
+array surgically implanted into the
+premotor or motor cortex areas of
+the brain that control movement
+that is comprised of 100 1-mm long
+electrodes that penetrate only the
+outermost layer of the brain, called
+the cerebral cortex. Each electrode
+allows the communication prosthesis
+system to read the neural signal com
+ing from the tip of the electrode, sim
+ilar to what a neurosurgeon does
+when he probes surrounding areas of
+a brain tumor before removing it.
+"Take those neural signals out,
+and if you're looking at a keyboard,
+we can predict in real time, very rap
+idly— in fact, beat your own single
+finger typing speed exactly the let
+ters you would like to type and hit,"
+Shenoy explained.
+While the research in communica
+tion prosthesis is promising, many
+questions still need to be resolved
+before it can improve the system.
+One such question is how to interpret
+the signals recorded in the brain.
+Though some research teams argue
+that the signals relate directly to mus
+cle contractions, others believe that
+
+these signals are more abstract
+parameters that outline the direction
+of the reach of the velocity of the
+movement.
+"Until that controversy is
+resolved, we're fairly sure we're not
+doing the best job we can in interpret
+ing neurological signals," said
+Research Associate Mark
+Churchland.
+Human Applications
+Most of the trials with invasive
+communication prostheses have been
+performed on rhesus monkeys, with
+only a small number of tests using
+human subjects. In the studies per
+formed on human subjects, patients
+were able to perform tasks such as
+move a cursor on a computer screen
+to open an e-mail, play a computer
+game and drive a wheelchair up to 20
+feet.
+"These things are real, and they do
+work, but they're very experimental,"
+Churchland said. "None of these
+patients got any real benefits."
+No patients were able to use their
+prosthesis without the supervision of
+a doctor and the research team, espe
+cially because they needed to be con
+nected via cable to a computer. Still,
+the researchers of the NPS Lab
+express hope that the technology can
+one day aid severely disabled individ
+uals.
+"Other patients suffering from
+Lou Gehrig's disease and so forth are
+not even able to blink their eyes to
+communicate," Shenoy explained.
+"We aim to try to help provide new
+treatment options for these most
+severely disabled patients with it also
+being in mind that we could help less
+disabled people still severely dis
+abled, perhaps with an arm amputa-
+
+tion, but less so."
+"It's great we're doing devices
+from a basic science perspective, but
+it would be really nice to translate
+that into a clinical benefit for
+patients," said fellow researcher and
+computer science graduate student
+Vikash Gilja.
+Worth the Wait
+If the system becomes more
+robust, it may also benefit less severe
+ly disabled individuals. Mechanical
+engineering graduate student Angelo
+Szychowski, who suffers from Spinal
+Muscular Atrophy that leaves him
+unable to type, said this system has
+potential features that the voice
+detection system he uses currently
+lacks.
+"The problem the voice detection
+system I use is it has poor recogni
+tion," Szychowski said. "My biggest
+frustration has been with doing math.
+Voice detection does not do that well,
+so I have difficulties doing my p-sets
+as a result."
+Though Szychowski is not com
+pletely paralyzed like the patients the
+research team had in mind, he under
+stands the importance of having the
+ability to communicate.
+"I know I would not be going to
+Stanford right now if I weren't able to
+interact with my computer and type
+out my assignments and talk to peo
+ple," Szychowski said. "It's a huge lim
+itation to someone if they don't have
+that ability. Even imperfect technolo
+gy that only offers 15 words per
+minute would still be a huge benefit
+for someone who could not commu
+nicate at all."
+
+Contact Ivy Nguyen at iknguyen@stan
+ford.edu.
+

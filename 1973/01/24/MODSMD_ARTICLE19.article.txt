@@ -1,0 +1,745 @@
+# Here's the timetable for Project BALLOTS from now through 1974
+## 
+### 
+Following in chronological order is a list ot the
+BALLOTS modules, with a brief summary of what each
+is designed to accomplish:
+1. BALLOTS-MARC
+Makes available for searching, ordering and cata
+loging, titles based upon a weekly Library ot
+Congress data tape service, MARC (MAchine
+Readable Cataloging). Produces purchase orders,
+file slips, spine labels, and catalog cards. This
+module is now operational.
+2. MARC-IPF (In Process File)
+Establishes fde of all outstanding book orders in
+MARC data base. Available spring 1973.
+3. CDF (Catalog Data File)
+Establishes permanent, machine-readable catalog
+of all ro'man alphabet material Stanford University
+Libraries adds to its library collections. Late spring
+1973.
+4. Purchase Order and Original Cataloging
+Extends system to include purchasing for all
+roman alphabet titles acquired, and cataloging for
+material not included in Library of Congress
+MARC tape service. (Cyrillic titles are transliter
+ated, but Arabic, Hebrew and Oriental languages
+are handled manually.) Summer 1973.
+5. Inventory Files
+
+Makes entire Meyer Library Book Catalog available
+for on-line searching at CRT or typewriter termi
+nals. Fall 1973.
+6. Receipt of Non-Purchase Order Material
+Accommodates library's acquisition of materials
+by gift, exchange, deposit, and approval or blanket
+orders. Winter 1974.
+7. Book Catalog
+Eliminates present punched card method of
+producing Meyer Library Book Catalog. Winter
+1974.
+8. Standing Order & OP
+Accommodates acquisition of material received on
+standing order and handles procurement of out of
+print (OP) titles. Spring 1974.
+9. Automatic Claiming and Canceling
+Puts follow-up for undelivered items under review
+of computer programs; allows for cancellation of
+an order or change of vendor. Late Spring 1974.
+10. Circulation
+Automates lending activity in the Meyer Library
+when appropriate, dependable hardware becomes
+available. Summer or Fall 1974 is probable.
+11. Reserve Processing
+Handles ordering and processing of reserve materi
+als in the Meyer Library. Fall 1974.
+Following in chronological order is a list ot the
+BALLOTS modules, with a brief summary of what each
+is designed to accomplish:
+1. BALLOTS-MARC
+Makes available for searching, ordering and cata
+loging, titles based upon a weekly Library ot
+Congress data tape service, MARC (MAchine
+Readable Cataloging). Produces purchase orders,
+file slips, spine labels, and catalog cards. This
+module is now operational.
+2. MARC-IPF (In Process File)
+Establishes fde of all outstanding book orders in
+MARC data base. Available spring 1973.
+3. CDF (Catalog Data File)
+Establishes permanent, machine-readable catalog
+of all ro'man alphabet material Stanford University
+Libraries adds to its library collections. Late spring
+1973.
+4. Purchase Order and Original Cataloging
+Extends system to include purchasing for all
+roman alphabet titles acquired, and cataloging for
+material not included in Library of Congress
+MARC tape service. (Cyrillic titles are transliter
+ated, but Arabic, Hebrew and Oriental languages
+are handled manually.) Summer 1973.
+5. Inventory Files
+
+Makes entire Meyer Library Book Catalog available
+for on-line searching at CRT or typewriter termi
+nals. Fall 1973.
+6. Receipt of Non-Purchase Order Material
+Accommodates library's acquisition of materials
+by gift, exchange, deposit, and approval or blanket
+orders. Winter 1974.
+7. Book Catalog
+Eliminates present punched card method of
+producing Meyer Library Book Catalog. Winter
+1974.
+8. Standing Order & OP
+Accommodates acquisition of material received on
+standing order and handles procurement of out of
+print (OP) titles. Spring 1974.
+9. Automatic Claiming and Canceling
+Puts follow-up for undelivered items under review
+of computer programs; allows for cancellation of
+an order or change of vendor. Late Spring 1974.
+10. Circulation
+Automates lending activity in the Meyer Library
+when appropriate, dependable hardware becomes
+available. Summer or Fall 1974 is probable.
+11. Reserve Processing
+Handles ordering and processing of reserve materi
+als in the Meyer Library. Fall 1974.
+Following in chronological order is a list ot the
+BALLOTS modules, with a brief summary of what each
+is designed to accomplish:
+1. BALLOTS-MARC
+Makes available for searching, ordering and cata
+loging, titles based upon a weekly Library ot
+Congress data tape service, MARC (MAchine
+Readable Cataloging). Produces purchase orders,
+file slips, spine labels, and catalog cards. This
+module is now operational.
+2. MARC-IPF (In Process File)
+Establishes fde of all outstanding book orders in
+MARC data base. Available spring 1973.
+3. CDF (Catalog Data File)
+Establishes permanent, machine-readable catalog
+of all ro'man alphabet material Stanford University
+Libraries adds to its library collections. Late spring
+1973.
+4. Purchase Order and Original Cataloging
+Extends system to include purchasing for all
+roman alphabet titles acquired, and cataloging for
+material not included in Library of Congress
+MARC tape service. (Cyrillic titles are transliter
+ated, but Arabic, Hebrew and Oriental languages
+are handled manually.) Summer 1973.
+5. Inventory Files
+
+Makes entire Meyer Library Book Catalog available
+for on-line searching at CRT or typewriter termi
+nals. Fall 1973.
+6. Receipt of Non-Purchase Order Material
+Accommodates library's acquisition of materials
+by gift, exchange, deposit, and approval or blanket
+orders. Winter 1974.
+7. Book Catalog
+Eliminates present punched card method of
+producing Meyer Library Book Catalog. Winter
+1974.
+8. Standing Order & OP
+Accommodates acquisition of material received on
+standing order and handles procurement of out of
+print (OP) titles. Spring 1974.
+9. Automatic Claiming and Canceling
+Puts follow-up for undelivered items under review
+of computer programs; allows for cancellation of
+an order or change of vendor. Late Spring 1974.
+10. Circulation
+Automates lending activity in the Meyer Library
+when appropriate, dependable hardware becomes
+available. Summer or Fall 1974 is probable.
+11. Reserve Processing
+Handles ordering and processing of reserve materi
+als in the Meyer Library. Fall 1974.
+Following in chronological order is a list ot the
+BALLOTS modules, with a brief summary of what each
+is designed to accomplish:
+1. BALLOTS-MARC
+Makes available for searching, ordering and cata
+loging, titles based upon a weekly Library ot
+Congress data tape service, MARC (MAchine
+Readable Cataloging). Produces purchase orders,
+file slips, spine labels, and catalog cards. This
+module is now operational.
+2. MARC-IPF (In Process File)
+Establishes fde of all outstanding book orders in
+MARC data base. Available spring 1973.
+3. CDF (Catalog Data File)
+Establishes permanent, machine-readable catalog
+of all ro'man alphabet material Stanford University
+Libraries adds to its library collections. Late spring
+1973.
+4. Purchase Order and Original Cataloging
+Extends system to include purchasing for all
+roman alphabet titles acquired, and cataloging for
+material not included in Library of Congress
+MARC tape service. (Cyrillic titles are transliter
+ated, but Arabic, Hebrew and Oriental languages
+are handled manually.) Summer 1973.
+5. Inventory Files
+
+Makes entire Meyer Library Book Catalog available
+for on-line searching at CRT or typewriter termi
+nals. Fall 1973.
+6. Receipt of Non-Purchase Order Material
+Accommodates library's acquisition of materials
+by gift, exchange, deposit, and approval or blanket
+orders. Winter 1974.
+7. Book Catalog
+Eliminates present punched card method of
+producing Meyer Library Book Catalog. Winter
+1974.
+8. Standing Order & OP
+Accommodates acquisition of material received on
+standing order and handles procurement of out of
+print (OP) titles. Spring 1974.
+9. Automatic Claiming and Canceling
+Puts follow-up for undelivered items under review
+of computer programs; allows for cancellation of
+an order or change of vendor. Late Spring 1974.
+10. Circulation
+Automates lending activity in the Meyer Library
+when appropriate, dependable hardware becomes
+available. Summer or Fall 1974 is probable.
+11. Reserve Processing
+Handles ordering and processing of reserve materi
+als in the Meyer Library. Fall 1974.
+Following in chronological order is a list ot the
+BALLOTS modules, with a brief summary of what each
+is designed to accomplish:
+1. BALLOTS-MARC
+Makes available for searching, ordering and cata
+loging, titles based upon a weekly Library ot
+Congress data tape service, MARC (MAchine
+Readable Cataloging). Produces purchase orders,
+file slips, spine labels, and catalog cards. This
+module is now operational.
+2. MARC-IPF (In Process File)
+Establishes fde of all outstanding book orders in
+MARC data base. Available spring 1973.
+3. CDF (Catalog Data File)
+Establishes permanent, machine-readable catalog
+of all ro'man alphabet material Stanford University
+Libraries adds to its library collections. Late spring
+1973.
+4. Purchase Order and Original Cataloging
+Extends system to include purchasing for all
+roman alphabet titles acquired, and cataloging for
+material not included in Library of Congress
+MARC tape service. (Cyrillic titles are transliter
+ated, but Arabic, Hebrew and Oriental languages
+are handled manually.) Summer 1973.
+5. Inventory Files
+
+Makes entire Meyer Library Book Catalog available
+for on-line searching at CRT or typewriter termi
+nals. Fall 1973.
+6. Receipt of Non-Purchase Order Material
+Accommodates library's acquisition of materials
+by gift, exchange, deposit, and approval or blanket
+orders. Winter 1974.
+7. Book Catalog
+Eliminates present punched card method of
+producing Meyer Library Book Catalog. Winter
+1974.
+8. Standing Order & OP
+Accommodates acquisition of material received on
+standing order and handles procurement of out of
+print (OP) titles. Spring 1974.
+9. Automatic Claiming and Canceling
+Puts follow-up for undelivered items under review
+of computer programs; allows for cancellation of
+an order or change of vendor. Late Spring 1974.
+10. Circulation
+Automates lending activity in the Meyer Library
+when appropriate, dependable hardware becomes
+available. Summer or Fall 1974 is probable.
+11. Reserve Processing
+Handles ordering and processing of reserve materi
+als in the Meyer Library. Fall 1974.
+Following in chronological order is a list ot the
+BALLOTS modules, with a brief summary of what each
+is designed to accomplish:
+1. BALLOTS-MARC
+Makes available for searching, ordering and cata
+loging, titles based upon a weekly Library ot
+Congress data tape service, MARC (MAchine
+Readable Cataloging). Produces purchase orders,
+file slips, spine labels, and catalog cards. This
+module is now operational.
+2. MARC-IPF (In Process File)
+Establishes fde of all outstanding book orders in
+MARC data base. Available spring 1973.
+3. CDF (Catalog Data File)
+Establishes permanent, machine-readable catalog
+of all ro'man alphabet material Stanford University
+Libraries adds to its library collections. Late spring
+1973.
+4. Purchase Order and Original Cataloging
+Extends system to include purchasing for all
+roman alphabet titles acquired, and cataloging for
+material not included in Library of Congress
+MARC tape service. (Cyrillic titles are transliter
+ated, but Arabic, Hebrew and Oriental languages
+are handled manually.) Summer 1973.
+5. Inventory Files
+
+Makes entire Meyer Library Book Catalog available
+for on-line searching at CRT or typewriter termi
+nals. Fall 1973.
+6. Receipt of Non-Purchase Order Material
+Accommodates library's acquisition of materials
+by gift, exchange, deposit, and approval or blanket
+orders. Winter 1974.
+7. Book Catalog
+Eliminates present punched card method of
+producing Meyer Library Book Catalog. Winter
+1974.
+8. Standing Order & OP
+Accommodates acquisition of material received on
+standing order and handles procurement of out of
+print (OP) titles. Spring 1974.
+9. Automatic Claiming and Canceling
+Puts follow-up for undelivered items under review
+of computer programs; allows for cancellation of
+an order or change of vendor. Late Spring 1974.
+10. Circulation
+Automates lending activity in the Meyer Library
+when appropriate, dependable hardware becomes
+available. Summer or Fall 1974 is probable.
+11. Reserve Processing
+Handles ordering and processing of reserve materi
+als in the Meyer Library. Fall 1974.
+Following in chronological order is a list ot the
+BALLOTS modules, with a brief summary of what each
+is designed to accomplish:
+1. BALLOTS-MARC
+Makes available for searching, ordering and cata
+loging, titles based upon a weekly Library ot
+Congress data tape service, MARC (MAchine
+Readable Cataloging). Produces purchase orders,
+file slips, spine labels, and catalog cards. This
+module is now operational.
+2. MARC-IPF (In Process File)
+Establishes fde of all outstanding book orders in
+MARC data base. Available spring 1973.
+3. CDF (Catalog Data File)
+Establishes permanent, machine-readable catalog
+of all ro'man alphabet material Stanford University
+Libraries adds to its library collections. Late spring
+1973.
+4. Purchase Order and Original Cataloging
+Extends system to include purchasing for all
+roman alphabet titles acquired, and cataloging for
+material not included in Library of Congress
+MARC tape service. (Cyrillic titles are transliter
+ated, but Arabic, Hebrew and Oriental languages
+are handled manually.) Summer 1973.
+5. Inventory Files
+
+Makes entire Meyer Library Book Catalog available
+for on-line searching at CRT or typewriter termi
+nals. Fall 1973.
+6. Receipt of Non-Purchase Order Material
+Accommodates library's acquisition of materials
+by gift, exchange, deposit, and approval or blanket
+orders. Winter 1974.
+7. Book Catalog
+Eliminates present punched card method of
+producing Meyer Library Book Catalog. Winter
+1974.
+8. Standing Order & OP
+Accommodates acquisition of material received on
+standing order and handles procurement of out of
+print (OP) titles. Spring 1974.
+9. Automatic Claiming and Canceling
+Puts follow-up for undelivered items under review
+of computer programs; allows for cancellation of
+an order or change of vendor. Late Spring 1974.
+10. Circulation
+Automates lending activity in the Meyer Library
+when appropriate, dependable hardware becomes
+available. Summer or Fall 1974 is probable.
+11. Reserve Processing
+Handles ordering and processing of reserve materi
+als in the Meyer Library. Fall 1974.
+Following in chronological order is a list ot the
+BALLOTS modules, with a brief summary of what each
+is designed to accomplish:
+1. BALLOTS-MARC
+Makes available for searching, ordering and cata
+loging, titles based upon a weekly Library ot
+Congress data tape service, MARC (MAchine
+Readable Cataloging). Produces purchase orders,
+file slips, spine labels, and catalog cards. This
+module is now operational.
+2. MARC-IPF (In Process File)
+Establishes fde of all outstanding book orders in
+MARC data base. Available spring 1973.
+3. CDF (Catalog Data File)
+Establishes permanent, machine-readable catalog
+of all ro'man alphabet material Stanford University
+Libraries adds to its library collections. Late spring
+1973.
+4. Purchase Order and Original Cataloging
+Extends system to include purchasing for all
+roman alphabet titles acquired, and cataloging for
+material not included in Library of Congress
+MARC tape service. (Cyrillic titles are transliter
+ated, but Arabic, Hebrew and Oriental languages
+are handled manually.) Summer 1973.
+5. Inventory Files
+
+Makes entire Meyer Library Book Catalog available
+for on-line searching at CRT or typewriter termi
+nals. Fall 1973.
+6. Receipt of Non-Purchase Order Material
+Accommodates library's acquisition of materials
+by gift, exchange, deposit, and approval or blanket
+orders. Winter 1974.
+7. Book Catalog
+Eliminates present punched card method of
+producing Meyer Library Book Catalog. Winter
+1974.
+8. Standing Order & OP
+Accommodates acquisition of material received on
+standing order and handles procurement of out of
+print (OP) titles. Spring 1974.
+9. Automatic Claiming and Canceling
+Puts follow-up for undelivered items under review
+of computer programs; allows for cancellation of
+an order or change of vendor. Late Spring 1974.
+10. Circulation
+Automates lending activity in the Meyer Library
+when appropriate, dependable hardware becomes
+available. Summer or Fall 1974 is probable.
+11. Reserve Processing
+Handles ordering and processing of reserve materi
+als in the Meyer Library. Fall 1974.
+Following in chronological order is a list ot the
+BALLOTS modules, with a brief summary of what each
+is designed to accomplish:
+1. BALLOTS-MARC
+Makes available for searching, ordering and cata
+loging, titles based upon a weekly Library ot
+Congress data tape service, MARC (MAchine
+Readable Cataloging). Produces purchase orders,
+file slips, spine labels, and catalog cards. This
+module is now operational.
+2. MARC-IPF (In Process File)
+Establishes fde of all outstanding book orders in
+MARC data base. Available spring 1973.
+3. CDF (Catalog Data File)
+Establishes permanent, machine-readable catalog
+of all ro'man alphabet material Stanford University
+Libraries adds to its library collections. Late spring
+1973.
+4. Purchase Order and Original Cataloging
+Extends system to include purchasing for all
+roman alphabet titles acquired, and cataloging for
+material not included in Library of Congress
+MARC tape service. (Cyrillic titles are transliter
+ated, but Arabic, Hebrew and Oriental languages
+are handled manually.) Summer 1973.
+5. Inventory Files
+
+Makes entire Meyer Library Book Catalog available
+for on-line searching at CRT or typewriter termi
+nals. Fall 1973.
+6. Receipt of Non-Purchase Order Material
+Accommodates library's acquisition of materials
+by gift, exchange, deposit, and approval or blanket
+orders. Winter 1974.
+7. Book Catalog
+Eliminates present punched card method of
+producing Meyer Library Book Catalog. Winter
+1974.
+8. Standing Order & OP
+Accommodates acquisition of material received on
+standing order and handles procurement of out of
+print (OP) titles. Spring 1974.
+9. Automatic Claiming and Canceling
+Puts follow-up for undelivered items under review
+of computer programs; allows for cancellation of
+an order or change of vendor. Late Spring 1974.
+10. Circulation
+Automates lending activity in the Meyer Library
+when appropriate, dependable hardware becomes
+available. Summer or Fall 1974 is probable.
+11. Reserve Processing
+Handles ordering and processing of reserve materi
+als in the Meyer Library. Fall 1974.
+Following in chronological order is a list ot the
+BALLOTS modules, with a brief summary of what each
+is designed to accomplish:
+1. BALLOTS-MARC
+Makes available for searching, ordering and cata
+loging, titles based upon a weekly Library ot
+Congress data tape service, MARC (MAchine
+Readable Cataloging). Produces purchase orders,
+file slips, spine labels, and catalog cards. This
+module is now operational.
+2. MARC-IPF (In Process File)
+Establishes fde of all outstanding book orders in
+MARC data base. Available spring 1973.
+3. CDF (Catalog Data File)
+Establishes permanent, machine-readable catalog
+of all ro'man alphabet material Stanford University
+Libraries adds to its library collections. Late spring
+1973.
+4. Purchase Order and Original Cataloging
+Extends system to include purchasing for all
+roman alphabet titles acquired, and cataloging for
+material not included in Library of Congress
+MARC tape service. (Cyrillic titles are transliter
+ated, but Arabic, Hebrew and Oriental languages
+are handled manually.) Summer 1973.
+5. Inventory Files
+
+Makes entire Meyer Library Book Catalog available
+for on-line searching at CRT or typewriter termi
+nals. Fall 1973.
+6. Receipt of Non-Purchase Order Material
+Accommodates library's acquisition of materials
+by gift, exchange, deposit, and approval or blanket
+orders. Winter 1974.
+7. Book Catalog
+Eliminates present punched card method of
+producing Meyer Library Book Catalog. Winter
+1974.
+8. Standing Order & OP
+Accommodates acquisition of material received on
+standing order and handles procurement of out of
+print (OP) titles. Spring 1974.
+9. Automatic Claiming and Canceling
+Puts follow-up for undelivered items under review
+of computer programs; allows for cancellation of
+an order or change of vendor. Late Spring 1974.
+10. Circulation
+Automates lending activity in the Meyer Library
+when appropriate, dependable hardware becomes
+available. Summer or Fall 1974 is probable.
+11. Reserve Processing
+Handles ordering and processing of reserve materi
+als in the Meyer Library. Fall 1974.
+Following in chronological order is a list ot the
+BALLOTS modules, with a brief summary of what each
+is designed to accomplish:
+1. BALLOTS-MARC
+Makes available for searching, ordering and cata
+loging, titles based upon a weekly Library ot
+Congress data tape service, MARC (MAchine
+Readable Cataloging). Produces purchase orders,
+file slips, spine labels, and catalog cards. This
+module is now operational.
+2. MARC-IPF (In Process File)
+Establishes fde of all outstanding book orders in
+MARC data base. Available spring 1973.
+3. CDF (Catalog Data File)
+Establishes permanent, machine-readable catalog
+of all ro'man alphabet material Stanford University
+Libraries adds to its library collections. Late spring
+1973.
+4. Purchase Order and Original Cataloging
+Extends system to include purchasing for all
+roman alphabet titles acquired, and cataloging for
+material not included in Library of Congress
+MARC tape service. (Cyrillic titles are transliter
+ated, but Arabic, Hebrew and Oriental languages
+are handled manually.) Summer 1973.
+5. Inventory Files
+
+Makes entire Meyer Library Book Catalog available
+for on-line searching at CRT or typewriter termi
+nals. Fall 1973.
+6. Receipt of Non-Purchase Order Material
+Accommodates library's acquisition of materials
+by gift, exchange, deposit, and approval or blanket
+orders. Winter 1974.
+7. Book Catalog
+Eliminates present punched card method of
+producing Meyer Library Book Catalog. Winter
+1974.
+8. Standing Order & OP
+Accommodates acquisition of material received on
+standing order and handles procurement of out of
+print (OP) titles. Spring 1974.
+9. Automatic Claiming and Canceling
+Puts follow-up for undelivered items under review
+of computer programs; allows for cancellation of
+an order or change of vendor. Late Spring 1974.
+10. Circulation
+Automates lending activity in the Meyer Library
+when appropriate, dependable hardware becomes
+available. Summer or Fall 1974 is probable.
+11. Reserve Processing
+Handles ordering and processing of reserve materi
+als in the Meyer Library. Fall 1974.
+Following in chronological order is a list ot the
+BALLOTS modules, with a brief summary of what each
+is designed to accomplish:
+1. BALLOTS-MARC
+Makes available for searching, ordering and cata
+loging, titles based upon a weekly Library ot
+Congress data tape service, MARC (MAchine
+Readable Cataloging). Produces purchase orders,
+file slips, spine labels, and catalog cards. This
+module is now operational.
+2. MARC-IPF (In Process File)
+Establishes fde of all outstanding book orders in
+MARC data base. Available spring 1973.
+3. CDF (Catalog Data File)
+Establishes permanent, machine-readable catalog
+of all ro'man alphabet material Stanford University
+Libraries adds to its library collections. Late spring
+1973.
+4. Purchase Order and Original Cataloging
+Extends system to include purchasing for all
+roman alphabet titles acquired, and cataloging for
+material not included in Library of Congress
+MARC tape service. (Cyrillic titles are transliter
+ated, but Arabic, Hebrew and Oriental languages
+are handled manually.) Summer 1973.
+5. Inventory Files
+
+Makes entire Meyer Library Book Catalog available
+for on-line searching at CRT or typewriter termi
+nals. Fall 1973.
+6. Receipt of Non-Purchase Order Material
+Accommodates library's acquisition of materials
+by gift, exchange, deposit, and approval or blanket
+orders. Winter 1974.
+7. Book Catalog
+Eliminates present punched card method of
+producing Meyer Library Book Catalog. Winter
+1974.
+8. Standing Order & OP
+Accommodates acquisition of material received on
+standing order and handles procurement of out of
+print (OP) titles. Spring 1974.
+9. Automatic Claiming and Canceling
+Puts follow-up for undelivered items under review
+of computer programs; allows for cancellation of
+an order or change of vendor. Late Spring 1974.
+10. Circulation
+Automates lending activity in the Meyer Library
+when appropriate, dependable hardware becomes
+available. Summer or Fall 1974 is probable.
+11. Reserve Processing
+Handles ordering and processing of reserve materi
+als in the Meyer Library. Fall 1974.
+Following in chronological order is a list ot the
+BALLOTS modules, with a brief summary of what each
+is designed to accomplish:
+1. BALLOTS-MARC
+Makes available for searching, ordering and cata
+loging, titles based upon a weekly Library ot
+Congress data tape service, MARC (MAchine
+Readable Cataloging). Produces purchase orders,
+file slips, spine labels, and catalog cards. This
+module is now operational.
+2. MARC-IPF (In Process File)
+Establishes fde of all outstanding book orders in
+MARC data base. Available spring 1973.
+3. CDF (Catalog Data File)
+Establishes permanent, machine-readable catalog
+of all ro'man alphabet material Stanford University
+Libraries adds to its library collections. Late spring
+1973.
+4. Purchase Order and Original Cataloging
+Extends system to include purchasing for all
+roman alphabet titles acquired, and cataloging for
+material not included in Library of Congress
+MARC tape service. (Cyrillic titles are transliter
+ated, but Arabic, Hebrew and Oriental languages
+are handled manually.) Summer 1973.
+5. Inventory Files
+
+Makes entire Meyer Library Book Catalog available
+for on-line searching at CRT or typewriter termi
+nals. Fall 1973.
+6. Receipt of Non-Purchase Order Material
+Accommodates library's acquisition of materials
+by gift, exchange, deposit, and approval or blanket
+orders. Winter 1974.
+7. Book Catalog
+Eliminates present punched card method of
+producing Meyer Library Book Catalog. Winter
+1974.
+8. Standing Order & OP
+Accommodates acquisition of material received on
+standing order and handles procurement of out of
+print (OP) titles. Spring 1974.
+9. Automatic Claiming and Canceling
+Puts follow-up for undelivered items under review
+of computer programs; allows for cancellation of
+an order or change of vendor. Late Spring 1974.
+10. Circulation
+Automates lending activity in the Meyer Library
+when appropriate, dependable hardware becomes
+available. Summer or Fall 1974 is probable.
+11. Reserve Processing
+Handles ordering and processing of reserve materi
+als in the Meyer Library. Fall 1974.
+Following in chronological order is a list ot the
+BALLOTS modules, with a brief summary of what each
+is designed to accomplish:
+1. BALLOTS-MARC
+Makes available for searching, ordering and cata
+loging, titles based upon a weekly Library ot
+Congress data tape service, MARC (MAchine
+Readable Cataloging). Produces purchase orders,
+file slips, spine labels, and catalog cards. This
+module is now operational.
+2. MARC-IPF (In Process File)
+Establishes fde of all outstanding book orders in
+MARC data base. Available spring 1973.
+3. CDF (Catalog Data File)
+Establishes permanent, machine-readable catalog
+of all ro'man alphabet material Stanford University
+Libraries adds to its library collections. Late spring
+1973.
+4. Purchase Order and Original Cataloging
+Extends system to include purchasing for all
+roman alphabet titles acquired, and cataloging for
+material not included in Library of Congress
+MARC tape service. (Cyrillic titles are transliter
+ated, but Arabic, Hebrew and Oriental languages
+are handled manually.) Summer 1973.
+5. Inventory Files
+
+Makes entire Meyer Library Book Catalog available
+for on-line searching at CRT or typewriter termi
+nals. Fall 1973.
+6. Receipt of Non-Purchase Order Material
+Accommodates library's acquisition of materials
+by gift, exchange, deposit, and approval or blanket
+orders. Winter 1974.
+7. Book Catalog
+Eliminates present punched card method of
+producing Meyer Library Book Catalog. Winter
+1974.
+8. Standing Order & OP
+Accommodates acquisition of material received on
+standing order and handles procurement of out of
+print (OP) titles. Spring 1974.
+9. Automatic Claiming and Canceling
+Puts follow-up for undelivered items under review
+of computer programs; allows for cancellation of
+an order or change of vendor. Late Spring 1974.
+10. Circulation
+Automates lending activity in the Meyer Library
+when appropriate, dependable hardware becomes
+available. Summer or Fall 1974 is probable.
+11. Reserve Processing
+Handles ordering and processing of reserve materi
+als in the Meyer Library. Fall 1974.

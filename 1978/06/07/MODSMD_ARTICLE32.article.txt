@@ -1,0 +1,723 @@
+# Optacon improvements aid blind students to read
+## 
+### Gretchen Frantz 
+With the help of an instrument developed by
+the Voice Communication Project blind people
+will be able to increase their access to printed
+material and reading speed. This instrument will
+transform printed words into synthetic speech,
+so the blind person will listen rather than read.
+Telesensory Systems Inc. (TSI), of Palo Alto,
+has been perfecting its Voice Communication
+Project and hopes to begin marketing the pro
+duct next year. The Voice Communication Pro
+ject expands upon the Optacon (optical to tac
+tile conversion), a device which made it possible
+to read any printed material without first trans
+cribing it to Braille.
+Paul Liniack, Reading Systems manager at TSI
+explained that the Optacon is a tape recorder
+sized instrument which the blind person uses
+with two hands. The right hand usually controls
+a scanner which is passed over each line of print.
+The forefinger of the left hand is placed on a
+tactile pad consisting of 144 pins arranged into
+six rows of 24, he said.
+As the page is scanned, the pins are raised to
+resemble the letter viewed by the camera in the
+scanner. Using this method, the blind person
+can read up to ninety words a minute, he said.
+Several variations of the Optacon can be used
+to read computer terminals and typewriters.
+Speech Plus, a talking calculator for blind
+people with a vocabulary of 24 words, was its
+next development. It uses the simulated
+speech, but is limited by a finite vocabulary.
+The Voice Communication Project is invent
+ing the capacity for an infinite simulated voc
+abulary. The Optacon scanner would relay
+printed words to a computer which would con
+vert the text into phonems (the basic unit of
+speech). The phonems would be converted into
+wave forms which would be emitted from the
+computer as a sound based on that wave form.
+Senior Eric Dorsey, an electrical engineering
+major, is helping with the project. "The objec
+tive is to develop a vocal track model," he said.
+"We talk into a microphone to find out the
+
+wave forms of different sounds and try to extract
+the wave forms," he said.
+Each wave form corresponds to a phonem.
+The wave form of each phonem is coded into a
+PDPII computer which can translate the waves
+into a sound output.
+The sound waves produced by human speech
+and the sound waves produced by the computer
+are identical so the words can be recognized."
+"The computer has a flat-toned voice," Dor
+sey said. "We are working on getting the proper
+inflections at the ends of sentences and the
+proper pausing between words," he said.
+"The PDPII computer is large and vey costly.
+Right now it is impractical for blind people,"
+Dorsey said.
+"We are trying to develop a microcomputer,
+which would do the same thing, but cost only
+$10,000. This would be portable and reasonable
+for schools and companies," Dorsey explained.
+"The problem is compressing the wave form
+into a manageable size," he said.
+The Voice Communication Project instrument
+would more than double the reading speed ob
+tained with the Optacon. It would be possible to
+read 200 words a minute, according to Dorsey.
+"It takes less training to use, so there is that
+advantage," Dorsey said. To use the Optacon,
+the blind person must learn to identify the feel
+of each letter.
+"For nonsense phonems, such as TSI, the
+computer would spell out the letters," Dorsey
+said.
+TSI began in Stanford's electrical engineering
+labs. Professor John Linville, executive head of
+electrical engineering department, began re
+search on the Optacon as a supplement for his
+blind daughter's reading needs, as it was dif
+ficult to get materials transcribed into Braille
+quickly.
+Dr. James Meindl, Dr. J. Stephen Brugler, and
+Dr. James Bliss aided him and finally produced
+the Optacon. They formed an independent
+company to manufacture and sell products for
+the physically handicapped (TSI).
+With the help of an instrument developed by
+the Voice Communication Project blind people
+will be able to increase their access to printed
+material and reading speed. This instrument will
+transform printed words into synthetic speech,
+so the blind person will listen rather than read.
+Telesensory Systems Inc. (TSI), of Palo Alto,
+has been perfecting its Voice Communication
+Project and hopes to begin marketing the pro
+duct next year. The Voice Communication Pro
+ject expands upon the Optacon (optical to tac
+tile conversion), a device which made it possible
+to read any printed material without first trans
+cribing it to Braille.
+Paul Liniack, Reading Systems manager at TSI
+explained that the Optacon is a tape recorder
+sized instrument which the blind person uses
+with two hands. The right hand usually controls
+a scanner which is passed over each line of print.
+The forefinger of the left hand is placed on a
+tactile pad consisting of 144 pins arranged into
+six rows of 24, he said.
+As the page is scanned, the pins are raised to
+resemble the letter viewed by the camera in the
+scanner. Using this method, the blind person
+can read up to ninety words a minute, he said.
+Several variations of the Optacon can be used
+to read computer terminals and typewriters.
+Speech Plus, a talking calculator for blind
+people with a vocabulary of 24 words, was its
+next development. It uses the simulated
+speech, but is limited by a finite vocabulary.
+The Voice Communication Project is invent
+ing the capacity for an infinite simulated voc
+abulary. The Optacon scanner would relay
+printed words to a computer which would con
+vert the text into phonems (the basic unit of
+speech). The phonems would be converted into
+wave forms which would be emitted from the
+computer as a sound based on that wave form.
+Senior Eric Dorsey, an electrical engineering
+major, is helping with the project. "The objec
+tive is to develop a vocal track model," he said.
+"We talk into a microphone to find out the
+
+wave forms of different sounds and try to extract
+the wave forms," he said.
+Each wave form corresponds to a phonem.
+The wave form of each phonem is coded into a
+PDPII computer which can translate the waves
+into a sound output.
+The sound waves produced by human speech
+and the sound waves produced by the computer
+are identical so the words can be recognized."
+"The computer has a flat-toned voice," Dor
+sey said. "We are working on getting the proper
+inflections at the ends of sentences and the
+proper pausing between words," he said.
+"The PDPII computer is large and vey costly.
+Right now it is impractical for blind people,"
+Dorsey said.
+"We are trying to develop a microcomputer,
+which would do the same thing, but cost only
+$10,000. This would be portable and reasonable
+for schools and companies," Dorsey explained.
+"The problem is compressing the wave form
+into a manageable size," he said.
+The Voice Communication Project instrument
+would more than double the reading speed ob
+tained with the Optacon. It would be possible to
+read 200 words a minute, according to Dorsey.
+"It takes less training to use, so there is that
+advantage," Dorsey said. To use the Optacon,
+the blind person must learn to identify the feel
+of each letter.
+"For nonsense phonems, such as TSI, the
+computer would spell out the letters," Dorsey
+said.
+TSI began in Stanford's electrical engineering
+labs. Professor John Linville, executive head of
+electrical engineering department, began re
+search on the Optacon as a supplement for his
+blind daughter's reading needs, as it was dif
+ficult to get materials transcribed into Braille
+quickly.
+Dr. James Meindl, Dr. J. Stephen Brugler, and
+Dr. James Bliss aided him and finally produced
+the Optacon. They formed an independent
+company to manufacture and sell products for
+the physically handicapped (TSI).
+With the help of an instrument developed by
+the Voice Communication Project blind people
+will be able to increase their access to printed
+material and reading speed. This instrument will
+transform printed words into synthetic speech,
+so the blind person will listen rather than read.
+Telesensory Systems Inc. (TSI), of Palo Alto,
+has been perfecting its Voice Communication
+Project and hopes to begin marketing the pro
+duct next year. The Voice Communication Pro
+ject expands upon the Optacon (optical to tac
+tile conversion), a device which made it possible
+to read any printed material without first trans
+cribing it to Braille.
+Paul Liniack, Reading Systems manager at TSI
+explained that the Optacon is a tape recorder
+sized instrument which the blind person uses
+with two hands. The right hand usually controls
+a scanner which is passed over each line of print.
+The forefinger of the left hand is placed on a
+tactile pad consisting of 144 pins arranged into
+six rows of 24, he said.
+As the page is scanned, the pins are raised to
+resemble the letter viewed by the camera in the
+scanner. Using this method, the blind person
+can read up to ninety words a minute, he said.
+Several variations of the Optacon can be used
+to read computer terminals and typewriters.
+Speech Plus, a talking calculator for blind
+people with a vocabulary of 24 words, was its
+next development. It uses the simulated
+speech, but is limited by a finite vocabulary.
+The Voice Communication Project is invent
+ing the capacity for an infinite simulated voc
+abulary. The Optacon scanner would relay
+printed words to a computer which would con
+vert the text into phonems (the basic unit of
+speech). The phonems would be converted into
+wave forms which would be emitted from the
+computer as a sound based on that wave form.
+Senior Eric Dorsey, an electrical engineering
+major, is helping with the project. "The objec
+tive is to develop a vocal track model," he said.
+"We talk into a microphone to find out the
+
+wave forms of different sounds and try to extract
+the wave forms," he said.
+Each wave form corresponds to a phonem.
+The wave form of each phonem is coded into a
+PDPII computer which can translate the waves
+into a sound output.
+The sound waves produced by human speech
+and the sound waves produced by the computer
+are identical so the words can be recognized."
+"The computer has a flat-toned voice," Dor
+sey said. "We are working on getting the proper
+inflections at the ends of sentences and the
+proper pausing between words," he said.
+"The PDPII computer is large and vey costly.
+Right now it is impractical for blind people,"
+Dorsey said.
+"We are trying to develop a microcomputer,
+which would do the same thing, but cost only
+$10,000. This would be portable and reasonable
+for schools and companies," Dorsey explained.
+"The problem is compressing the wave form
+into a manageable size," he said.
+The Voice Communication Project instrument
+would more than double the reading speed ob
+tained with the Optacon. It would be possible to
+read 200 words a minute, according to Dorsey.
+"It takes less training to use, so there is that
+advantage," Dorsey said. To use the Optacon,
+the blind person must learn to identify the feel
+of each letter.
+"For nonsense phonems, such as TSI, the
+computer would spell out the letters," Dorsey
+said.
+TSI began in Stanford's electrical engineering
+labs. Professor John Linville, executive head of
+electrical engineering department, began re
+search on the Optacon as a supplement for his
+blind daughter's reading needs, as it was dif
+ficult to get materials transcribed into Braille
+quickly.
+Dr. James Meindl, Dr. J. Stephen Brugler, and
+Dr. James Bliss aided him and finally produced
+the Optacon. They formed an independent
+company to manufacture and sell products for
+the physically handicapped (TSI).
+With the help of an instrument developed by
+the Voice Communication Project blind people
+will be able to increase their access to printed
+material and reading speed. This instrument will
+transform printed words into synthetic speech,
+so the blind person will listen rather than read.
+Telesensory Systems Inc. (TSI), of Palo Alto,
+has been perfecting its Voice Communication
+Project and hopes to begin marketing the pro
+duct next year. The Voice Communication Pro
+ject expands upon the Optacon (optical to tac
+tile conversion), a device which made it possible
+to read any printed material without first trans
+cribing it to Braille.
+Paul Liniack, Reading Systems manager at TSI
+explained that the Optacon is a tape recorder
+sized instrument which the blind person uses
+with two hands. The right hand usually controls
+a scanner which is passed over each line of print.
+The forefinger of the left hand is placed on a
+tactile pad consisting of 144 pins arranged into
+six rows of 24, he said.
+As the page is scanned, the pins are raised to
+resemble the letter viewed by the camera in the
+scanner. Using this method, the blind person
+can read up to ninety words a minute, he said.
+Several variations of the Optacon can be used
+to read computer terminals and typewriters.
+Speech Plus, a talking calculator for blind
+people with a vocabulary of 24 words, was its
+next development. It uses the simulated
+speech, but is limited by a finite vocabulary.
+The Voice Communication Project is invent
+ing the capacity for an infinite simulated voc
+abulary. The Optacon scanner would relay
+printed words to a computer which would con
+vert the text into phonems (the basic unit of
+speech). The phonems would be converted into
+wave forms which would be emitted from the
+computer as a sound based on that wave form.
+Senior Eric Dorsey, an electrical engineering
+major, is helping with the project. "The objec
+tive is to develop a vocal track model," he said.
+"We talk into a microphone to find out the
+
+wave forms of different sounds and try to extract
+the wave forms," he said.
+Each wave form corresponds to a phonem.
+The wave form of each phonem is coded into a
+PDPII computer which can translate the waves
+into a sound output.
+The sound waves produced by human speech
+and the sound waves produced by the computer
+are identical so the words can be recognized."
+"The computer has a flat-toned voice," Dor
+sey said. "We are working on getting the proper
+inflections at the ends of sentences and the
+proper pausing between words," he said.
+"The PDPII computer is large and vey costly.
+Right now it is impractical for blind people,"
+Dorsey said.
+"We are trying to develop a microcomputer,
+which would do the same thing, but cost only
+$10,000. This would be portable and reasonable
+for schools and companies," Dorsey explained.
+"The problem is compressing the wave form
+into a manageable size," he said.
+The Voice Communication Project instrument
+would more than double the reading speed ob
+tained with the Optacon. It would be possible to
+read 200 words a minute, according to Dorsey.
+"It takes less training to use, so there is that
+advantage," Dorsey said. To use the Optacon,
+the blind person must learn to identify the feel
+of each letter.
+"For nonsense phonems, such as TSI, the
+computer would spell out the letters," Dorsey
+said.
+TSI began in Stanford's electrical engineering
+labs. Professor John Linville, executive head of
+electrical engineering department, began re
+search on the Optacon as a supplement for his
+blind daughter's reading needs, as it was dif
+ficult to get materials transcribed into Braille
+quickly.
+Dr. James Meindl, Dr. J. Stephen Brugler, and
+Dr. James Bliss aided him and finally produced
+the Optacon. They formed an independent
+company to manufacture and sell products for
+the physically handicapped (TSI).
+With the help of an instrument developed by
+the Voice Communication Project blind people
+will be able to increase their access to printed
+material and reading speed. This instrument will
+transform printed words into synthetic speech,
+so the blind person will listen rather than read.
+Telesensory Systems Inc. (TSI), of Palo Alto,
+has been perfecting its Voice Communication
+Project and hopes to begin marketing the pro
+duct next year. The Voice Communication Pro
+ject expands upon the Optacon (optical to tac
+tile conversion), a device which made it possible
+to read any printed material without first trans
+cribing it to Braille.
+Paul Liniack, Reading Systems manager at TSI
+explained that the Optacon is a tape recorder
+sized instrument which the blind person uses
+with two hands. The right hand usually controls
+a scanner which is passed over each line of print.
+The forefinger of the left hand is placed on a
+tactile pad consisting of 144 pins arranged into
+six rows of 24, he said.
+As the page is scanned, the pins are raised to
+resemble the letter viewed by the camera in the
+scanner. Using this method, the blind person
+can read up to ninety words a minute, he said.
+Several variations of the Optacon can be used
+to read computer terminals and typewriters.
+Speech Plus, a talking calculator for blind
+people with a vocabulary of 24 words, was its
+next development. It uses the simulated
+speech, but is limited by a finite vocabulary.
+The Voice Communication Project is invent
+ing the capacity for an infinite simulated voc
+abulary. The Optacon scanner would relay
+printed words to a computer which would con
+vert the text into phonems (the basic unit of
+speech). The phonems would be converted into
+wave forms which would be emitted from the
+computer as a sound based on that wave form.
+Senior Eric Dorsey, an electrical engineering
+major, is helping with the project. "The objec
+tive is to develop a vocal track model," he said.
+"We talk into a microphone to find out the
+
+wave forms of different sounds and try to extract
+the wave forms," he said.
+Each wave form corresponds to a phonem.
+The wave form of each phonem is coded into a
+PDPII computer which can translate the waves
+into a sound output.
+The sound waves produced by human speech
+and the sound waves produced by the computer
+are identical so the words can be recognized."
+"The computer has a flat-toned voice," Dor
+sey said. "We are working on getting the proper
+inflections at the ends of sentences and the
+proper pausing between words," he said.
+"The PDPII computer is large and vey costly.
+Right now it is impractical for blind people,"
+Dorsey said.
+"We are trying to develop a microcomputer,
+which would do the same thing, but cost only
+$10,000. This would be portable and reasonable
+for schools and companies," Dorsey explained.
+"The problem is compressing the wave form
+into a manageable size," he said.
+The Voice Communication Project instrument
+would more than double the reading speed ob
+tained with the Optacon. It would be possible to
+read 200 words a minute, according to Dorsey.
+"It takes less training to use, so there is that
+advantage," Dorsey said. To use the Optacon,
+the blind person must learn to identify the feel
+of each letter.
+"For nonsense phonems, such as TSI, the
+computer would spell out the letters," Dorsey
+said.
+TSI began in Stanford's electrical engineering
+labs. Professor John Linville, executive head of
+electrical engineering department, began re
+search on the Optacon as a supplement for his
+blind daughter's reading needs, as it was dif
+ficult to get materials transcribed into Braille
+quickly.
+Dr. James Meindl, Dr. J. Stephen Brugler, and
+Dr. James Bliss aided him and finally produced
+the Optacon. They formed an independent
+company to manufacture and sell products for
+the physically handicapped (TSI).
+With the help of an instrument developed by
+the Voice Communication Project blind people
+will be able to increase their access to printed
+material and reading speed. This instrument will
+transform printed words into synthetic speech,
+so the blind person will listen rather than read.
+Telesensory Systems Inc. (TSI), of Palo Alto,
+has been perfecting its Voice Communication
+Project and hopes to begin marketing the pro
+duct next year. The Voice Communication Pro
+ject expands upon the Optacon (optical to tac
+tile conversion), a device which made it possible
+to read any printed material without first trans
+cribing it to Braille.
+Paul Liniack, Reading Systems manager at TSI
+explained that the Optacon is a tape recorder
+sized instrument which the blind person uses
+with two hands. The right hand usually controls
+a scanner which is passed over each line of print.
+The forefinger of the left hand is placed on a
+tactile pad consisting of 144 pins arranged into
+six rows of 24, he said.
+As the page is scanned, the pins are raised to
+resemble the letter viewed by the camera in the
+scanner. Using this method, the blind person
+can read up to ninety words a minute, he said.
+Several variations of the Optacon can be used
+to read computer terminals and typewriters.
+Speech Plus, a talking calculator for blind
+people with a vocabulary of 24 words, was its
+next development. It uses the simulated
+speech, but is limited by a finite vocabulary.
+The Voice Communication Project is invent
+ing the capacity for an infinite simulated voc
+abulary. The Optacon scanner would relay
+printed words to a computer which would con
+vert the text into phonems (the basic unit of
+speech). The phonems would be converted into
+wave forms which would be emitted from the
+computer as a sound based on that wave form.
+Senior Eric Dorsey, an electrical engineering
+major, is helping with the project. "The objec
+tive is to develop a vocal track model," he said.
+"We talk into a microphone to find out the
+
+wave forms of different sounds and try to extract
+the wave forms," he said.
+Each wave form corresponds to a phonem.
+The wave form of each phonem is coded into a
+PDPII computer which can translate the waves
+into a sound output.
+The sound waves produced by human speech
+and the sound waves produced by the computer
+are identical so the words can be recognized."
+"The computer has a flat-toned voice," Dor
+sey said. "We are working on getting the proper
+inflections at the ends of sentences and the
+proper pausing between words," he said.
+"The PDPII computer is large and vey costly.
+Right now it is impractical for blind people,"
+Dorsey said.
+"We are trying to develop a microcomputer,
+which would do the same thing, but cost only
+$10,000. This would be portable and reasonable
+for schools and companies," Dorsey explained.
+"The problem is compressing the wave form
+into a manageable size," he said.
+The Voice Communication Project instrument
+would more than double the reading speed ob
+tained with the Optacon. It would be possible to
+read 200 words a minute, according to Dorsey.
+"It takes less training to use, so there is that
+advantage," Dorsey said. To use the Optacon,
+the blind person must learn to identify the feel
+of each letter.
+"For nonsense phonems, such as TSI, the
+computer would spell out the letters," Dorsey
+said.
+TSI began in Stanford's electrical engineering
+labs. Professor John Linville, executive head of
+electrical engineering department, began re
+search on the Optacon as a supplement for his
+blind daughter's reading needs, as it was dif
+ficult to get materials transcribed into Braille
+quickly.
+Dr. James Meindl, Dr. J. Stephen Brugler, and
+Dr. James Bliss aided him and finally produced
+the Optacon. They formed an independent
+company to manufacture and sell products for
+the physically handicapped (TSI).
+With the help of an instrument developed by
+the Voice Communication Project blind people
+will be able to increase their access to printed
+material and reading speed. This instrument will
+transform printed words into synthetic speech,
+so the blind person will listen rather than read.
+Telesensory Systems Inc. (TSI), of Palo Alto,
+has been perfecting its Voice Communication
+Project and hopes to begin marketing the pro
+duct next year. The Voice Communication Pro
+ject expands upon the Optacon (optical to tac
+tile conversion), a device which made it possible
+to read any printed material without first trans
+cribing it to Braille.
+Paul Liniack, Reading Systems manager at TSI
+explained that the Optacon is a tape recorder
+sized instrument which the blind person uses
+with two hands. The right hand usually controls
+a scanner which is passed over each line of print.
+The forefinger of the left hand is placed on a
+tactile pad consisting of 144 pins arranged into
+six rows of 24, he said.
+As the page is scanned, the pins are raised to
+resemble the letter viewed by the camera in the
+scanner. Using this method, the blind person
+can read up to ninety words a minute, he said.
+Several variations of the Optacon can be used
+to read computer terminals and typewriters.
+Speech Plus, a talking calculator for blind
+people with a vocabulary of 24 words, was its
+next development. It uses the simulated
+speech, but is limited by a finite vocabulary.
+The Voice Communication Project is invent
+ing the capacity for an infinite simulated voc
+abulary. The Optacon scanner would relay
+printed words to a computer which would con
+vert the text into phonems (the basic unit of
+speech). The phonems would be converted into
+wave forms which would be emitted from the
+computer as a sound based on that wave form.
+Senior Eric Dorsey, an electrical engineering
+major, is helping with the project. "The objec
+tive is to develop a vocal track model," he said.
+"We talk into a microphone to find out the
+
+wave forms of different sounds and try to extract
+the wave forms," he said.
+Each wave form corresponds to a phonem.
+The wave form of each phonem is coded into a
+PDPII computer which can translate the waves
+into a sound output.
+The sound waves produced by human speech
+and the sound waves produced by the computer
+are identical so the words can be recognized."
+"The computer has a flat-toned voice," Dor
+sey said. "We are working on getting the proper
+inflections at the ends of sentences and the
+proper pausing between words," he said.
+"The PDPII computer is large and vey costly.
+Right now it is impractical for blind people,"
+Dorsey said.
+"We are trying to develop a microcomputer,
+which would do the same thing, but cost only
+$10,000. This would be portable and reasonable
+for schools and companies," Dorsey explained.
+"The problem is compressing the wave form
+into a manageable size," he said.
+The Voice Communication Project instrument
+would more than double the reading speed ob
+tained with the Optacon. It would be possible to
+read 200 words a minute, according to Dorsey.
+"It takes less training to use, so there is that
+advantage," Dorsey said. To use the Optacon,
+the blind person must learn to identify the feel
+of each letter.
+"For nonsense phonems, such as TSI, the
+computer would spell out the letters," Dorsey
+said.
+TSI began in Stanford's electrical engineering
+labs. Professor John Linville, executive head of
+electrical engineering department, began re
+search on the Optacon as a supplement for his
+blind daughter's reading needs, as it was dif
+ficult to get materials transcribed into Braille
+quickly.
+Dr. James Meindl, Dr. J. Stephen Brugler, and
+Dr. James Bliss aided him and finally produced
+the Optacon. They formed an independent
+company to manufacture and sell products for
+the physically handicapped (TSI).
+With the help of an instrument developed by
+the Voice Communication Project blind people
+will be able to increase their access to printed
+material and reading speed. This instrument will
+transform printed words into synthetic speech,
+so the blind person will listen rather than read.
+Telesensory Systems Inc. (TSI), of Palo Alto,
+has been perfecting its Voice Communication
+Project and hopes to begin marketing the pro
+duct next year. The Voice Communication Pro
+ject expands upon the Optacon (optical to tac
+tile conversion), a device which made it possible
+to read any printed material without first trans
+cribing it to Braille.
+Paul Liniack, Reading Systems manager at TSI
+explained that the Optacon is a tape recorder
+sized instrument which the blind person uses
+with two hands. The right hand usually controls
+a scanner which is passed over each line of print.
+The forefinger of the left hand is placed on a
+tactile pad consisting of 144 pins arranged into
+six rows of 24, he said.
+As the page is scanned, the pins are raised to
+resemble the letter viewed by the camera in the
+scanner. Using this method, the blind person
+can read up to ninety words a minute, he said.
+Several variations of the Optacon can be used
+to read computer terminals and typewriters.
+Speech Plus, a talking calculator for blind
+people with a vocabulary of 24 words, was its
+next development. It uses the simulated
+speech, but is limited by a finite vocabulary.
+The Voice Communication Project is invent
+ing the capacity for an infinite simulated voc
+abulary. The Optacon scanner would relay
+printed words to a computer which would con
+vert the text into phonems (the basic unit of
+speech). The phonems would be converted into
+wave forms which would be emitted from the
+computer as a sound based on that wave form.
+Senior Eric Dorsey, an electrical engineering
+major, is helping with the project. "The objec
+tive is to develop a vocal track model," he said.
+"We talk into a microphone to find out the
+
+wave forms of different sounds and try to extract
+the wave forms," he said.
+Each wave form corresponds to a phonem.
+The wave form of each phonem is coded into a
+PDPII computer which can translate the waves
+into a sound output.
+The sound waves produced by human speech
+and the sound waves produced by the computer
+are identical so the words can be recognized."
+"The computer has a flat-toned voice," Dor
+sey said. "We are working on getting the proper
+inflections at the ends of sentences and the
+proper pausing between words," he said.
+"The PDPII computer is large and vey costly.
+Right now it is impractical for blind people,"
+Dorsey said.
+"We are trying to develop a microcomputer,
+which would do the same thing, but cost only
+$10,000. This would be portable and reasonable
+for schools and companies," Dorsey explained.
+"The problem is compressing the wave form
+into a manageable size," he said.
+The Voice Communication Project instrument
+would more than double the reading speed ob
+tained with the Optacon. It would be possible to
+read 200 words a minute, according to Dorsey.
+"It takes less training to use, so there is that
+advantage," Dorsey said. To use the Optacon,
+the blind person must learn to identify the feel
+of each letter.
+"For nonsense phonems, such as TSI, the
+computer would spell out the letters," Dorsey
+said.
+TSI began in Stanford's electrical engineering
+labs. Professor John Linville, executive head of
+electrical engineering department, began re
+search on the Optacon as a supplement for his
+blind daughter's reading needs, as it was dif
+ficult to get materials transcribed into Braille
+quickly.
+Dr. James Meindl, Dr. J. Stephen Brugler, and
+Dr. James Bliss aided him and finally produced
+the Optacon. They formed an independent
+company to manufacture and sell products for
+the physically handicapped (TSI).

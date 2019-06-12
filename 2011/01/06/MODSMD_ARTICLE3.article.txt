@@ -1,0 +1,829 @@
+# SNAPSHOT OF THE FUTURE
+## Researcher making strides in high-tech photography 
+### ERIN INMAN STAFF WRITER 
+Imagine taking pictures at a soccer game.
+Currently photographers have two main op
+tions: set the camera to sports mode or manu
+ally adjust its settings to create a good shot. But
+what if you could buy an app for your camera
+whose sole purpose is to keep the soccer ball in
+focus?
+This camera industry revolution one
+that might lead to app stores for cameras
+could be made possible by
+the Stanford Comput- mtI —
+er Graphics Labo
+ratory's cur-
+
+rent research in computational photography.
+Computational photography, a term coined
+by professor of computer science and electri
+cal engineering Marc Levoy, refers to the use
+of "sensing strategies or algorithmic tech
+niques to enhance or extend the capabilities of
+digital photography."
+Such enhancements include high dynamic
+range (HDR), panoramas and all-focus imag
+ing. HDR preserves detail in the brightest and
+dimmest areas of a photograph, panoramas
+stitch together a scene only a wide-angle lens
+could capture and all-focus imaging pre
+serves camera focus at all depths of a
+scene.
+While these enhancements
+are possible on a computer pro
+gram such as Photoshop, relying
+solely on a computer program pro
+vides no immediate feedback on the
+device, according to Andrew Adams
+Ph.D. '11, a lab assistant and graduate
+student in computer science.
+"Perhaps the panorama is missing a
+corner," Adams said. "You realize this
+only after the computer program
+stitches the shots together."
+Additionally, when taking a burst of
+pictures, the images are slow to acquire.
+According to Adams, however, an al
+gorithm in the camera could change
+camera settings faster than a human
+hand.
+Due to the limitations of
+immediate feedback and time, the
+lab creates algorithms capable of
+producing raw images of similar
+quality to those of photo editing
+programs.
+
+Adams presented the example of an indoor
+party, a scene with not much light. The perfect
+shot necessitates a fusion between two differ
+ent shots: one short, low exposure and one long
+exposure. An algorithm, he said, can take both
+shots successively and fuse the images into one
+raw image.
+He also gave the example of an individual
+taking pictures with a long exposure in a set
+ting bound to yield blur. According to Adams,
+an algorithm could take eight successive shots
+and save only the least blurred.
+Adams noted how cameras, although noto
+rious for being the "most übiquitous comput
+ers out there," are currently not programming
+friendly.
+Levoy agreed, adding that researchers out
+side of the industry are "clueless as to how ex
+isting camera modes [night, sports, portrait,
+etc.] work."
+"The camera industry creates beautiful pic
+tures, but they're mysterious," Adams said.
+Since no open-source camera existed, the
+Stanford lab drew on the financial support of
+Nokia, Adobe Systems, Kodak and Hewlett-
+Packard, to create the Frakencamera. The
+camera, featuring Linux operating systems, al
+lows the lab to create and test their own algo
+rithms.
+Currently the lab plans to distribute Frak
+encameras to other universities to "push the
+API out there and see what people can do,"
+Adams said.
+While Frakencamera serves the purpose
+of developing algorithms in the research in
+dustry, it specifically is not seen as the future
+of the camera industry. Instead, the lab hopes
+to "influence industry partners to open their
+cameras' interfaces," Levoy said.
+Although computational photography has
+caught on for open-source consumer cell
+
+
+Courtesy of Marc Levoy
+Using algorithms, professor Marc Levoy and his team are developing photographic features that can keep an image in focus at all depths
+of a scene.
+
+
+Courtesy of Marc Levoy
+phone cameras, as evidenced by a
+look at the iTunes app store, Levoy
+acknowledged that the camera in
+dustry has yet to embrace the tech
+nology.
+While companies have adopted
+computational photography tricks
+such as HDR and panorama modes
+into closed-source cameras, an
+open-source camera has yet to be
+announced, let alone made available
+to consumers.
+
+Contact Erin Inman at einman@stan
+ford.edu.
+Imagine taking pictures at a soccer game.
+Currently photographers have two main op
+tions: set the camera to sports mode or manu
+ally adjust its settings to create a good shot. But
+what if you could buy an app for your camera
+whose sole purpose is to keep the soccer ball in
+focus?
+This camera industry revolution one
+that might lead to app stores for cameras
+could be made possible by
+the Stanford Comput- mtI —
+er Graphics Labo
+ratory's cur-
+
+rent research in computational photography.
+Computational photography, a term coined
+by professor of computer science and electri
+cal engineering Marc Levoy, refers to the use
+of "sensing strategies or algorithmic tech
+niques to enhance or extend the capabilities of
+digital photography."
+Such enhancements include high dynamic
+range (HDR), panoramas and all-focus imag
+ing. HDR preserves detail in the brightest and
+dimmest areas of a photograph, panoramas
+stitch together a scene only a wide-angle lens
+could capture and all-focus imaging pre
+serves camera focus at all depths of a
+scene.
+While these enhancements
+are possible on a computer pro
+gram such as Photoshop, relying
+solely on a computer program pro
+vides no immediate feedback on the
+device, according to Andrew Adams
+Ph.D. '11, a lab assistant and graduate
+student in computer science.
+"Perhaps the panorama is missing a
+corner," Adams said. "You realize this
+only after the computer program
+stitches the shots together."
+Additionally, when taking a burst of
+pictures, the images are slow to acquire.
+According to Adams, however, an al
+gorithm in the camera could change
+camera settings faster than a human
+hand.
+Due to the limitations of
+immediate feedback and time, the
+lab creates algorithms capable of
+producing raw images of similar
+quality to those of photo editing
+programs.
+
+Adams presented the example of an indoor
+party, a scene with not much light. The perfect
+shot necessitates a fusion between two differ
+ent shots: one short, low exposure and one long
+exposure. An algorithm, he said, can take both
+shots successively and fuse the images into one
+raw image.
+He also gave the example of an individual
+taking pictures with a long exposure in a set
+ting bound to yield blur. According to Adams,
+an algorithm could take eight successive shots
+and save only the least blurred.
+Adams noted how cameras, although noto
+rious for being the "most übiquitous comput
+ers out there," are currently not programming
+friendly.
+Levoy agreed, adding that researchers out
+side of the industry are "clueless as to how ex
+isting camera modes [night, sports, portrait,
+etc.] work."
+"The camera industry creates beautiful pic
+tures, but they're mysterious," Adams said.
+Since no open-source camera existed, the
+Stanford lab drew on the financial support of
+Nokia, Adobe Systems, Kodak and Hewlett-
+Packard, to create the Frakencamera. The
+camera, featuring Linux operating systems, al
+lows the lab to create and test their own algo
+rithms.
+Currently the lab plans to distribute Frak
+encameras to other universities to "push the
+API out there and see what people can do,"
+Adams said.
+While Frakencamera serves the purpose
+of developing algorithms in the research in
+dustry, it specifically is not seen as the future
+of the camera industry. Instead, the lab hopes
+to "influence industry partners to open their
+cameras' interfaces," Levoy said.
+Although computational photography has
+caught on for open-source consumer cell
+
+
+Courtesy of Marc Levoy
+Using algorithms, professor Marc Levoy and his team are developing photographic features that can keep an image in focus at all depths
+of a scene.
+
+
+Courtesy of Marc Levoy
+phone cameras, as evidenced by a
+look at the iTunes app store, Levoy
+acknowledged that the camera in
+dustry has yet to embrace the tech
+nology.
+While companies have adopted
+computational photography tricks
+such as HDR and panorama modes
+into closed-source cameras, an
+open-source camera has yet to be
+announced, let alone made available
+to consumers.
+
+Contact Erin Inman at einman@stan
+ford.edu.
+Imagine taking pictures at a soccer game.
+Currently photographers have two main op
+tions: set the camera to sports mode or manu
+ally adjust its settings to create a good shot. But
+what if you could buy an app for your camera
+whose sole purpose is to keep the soccer ball in
+focus?
+This camera industry revolution one
+that might lead to app stores for cameras
+could be made possible by
+the Stanford Comput- mtI —
+er Graphics Labo
+ratory's cur-
+
+rent research in computational photography.
+Computational photography, a term coined
+by professor of computer science and electri
+cal engineering Marc Levoy, refers to the use
+of "sensing strategies or algorithmic tech
+niques to enhance or extend the capabilities of
+digital photography."
+Such enhancements include high dynamic
+range (HDR), panoramas and all-focus imag
+ing. HDR preserves detail in the brightest and
+dimmest areas of a photograph, panoramas
+stitch together a scene only a wide-angle lens
+could capture and all-focus imaging pre
+serves camera focus at all depths of a
+scene.
+While these enhancements
+are possible on a computer pro
+gram such as Photoshop, relying
+solely on a computer program pro
+vides no immediate feedback on the
+device, according to Andrew Adams
+Ph.D. '11, a lab assistant and graduate
+student in computer science.
+"Perhaps the panorama is missing a
+corner," Adams said. "You realize this
+only after the computer program
+stitches the shots together."
+Additionally, when taking a burst of
+pictures, the images are slow to acquire.
+According to Adams, however, an al
+gorithm in the camera could change
+camera settings faster than a human
+hand.
+Due to the limitations of
+immediate feedback and time, the
+lab creates algorithms capable of
+producing raw images of similar
+quality to those of photo editing
+programs.
+
+Adams presented the example of an indoor
+party, a scene with not much light. The perfect
+shot necessitates a fusion between two differ
+ent shots: one short, low exposure and one long
+exposure. An algorithm, he said, can take both
+shots successively and fuse the images into one
+raw image.
+He also gave the example of an individual
+taking pictures with a long exposure in a set
+ting bound to yield blur. According to Adams,
+an algorithm could take eight successive shots
+and save only the least blurred.
+Adams noted how cameras, although noto
+rious for being the "most übiquitous comput
+ers out there," are currently not programming
+friendly.
+Levoy agreed, adding that researchers out
+side of the industry are "clueless as to how ex
+isting camera modes [night, sports, portrait,
+etc.] work."
+"The camera industry creates beautiful pic
+tures, but they're mysterious," Adams said.
+Since no open-source camera existed, the
+Stanford lab drew on the financial support of
+Nokia, Adobe Systems, Kodak and Hewlett-
+Packard, to create the Frakencamera. The
+camera, featuring Linux operating systems, al
+lows the lab to create and test their own algo
+rithms.
+Currently the lab plans to distribute Frak
+encameras to other universities to "push the
+API out there and see what people can do,"
+Adams said.
+While Frakencamera serves the purpose
+of developing algorithms in the research in
+dustry, it specifically is not seen as the future
+of the camera industry. Instead, the lab hopes
+to "influence industry partners to open their
+cameras' interfaces," Levoy said.
+Although computational photography has
+caught on for open-source consumer cell
+
+
+Courtesy of Marc Levoy
+Using algorithms, professor Marc Levoy and his team are developing photographic features that can keep an image in focus at all depths
+of a scene.
+
+
+Courtesy of Marc Levoy
+phone cameras, as evidenced by a
+look at the iTunes app store, Levoy
+acknowledged that the camera in
+dustry has yet to embrace the tech
+nology.
+While companies have adopted
+computational photography tricks
+such as HDR and panorama modes
+into closed-source cameras, an
+open-source camera has yet to be
+announced, let alone made available
+to consumers.
+
+Contact Erin Inman at einman@stan
+ford.edu.
+Imagine taking pictures at a soccer game.
+Currently photographers have two main op
+tions: set the camera to sports mode or manu
+ally adjust its settings to create a good shot. But
+what if you could buy an app for your camera
+whose sole purpose is to keep the soccer ball in
+focus?
+This camera industry revolution one
+that might lead to app stores for cameras
+could be made possible by
+the Stanford Comput- mtI —
+er Graphics Labo
+ratory's cur-
+
+rent research in computational photography.
+Computational photography, a term coined
+by professor of computer science and electri
+cal engineering Marc Levoy, refers to the use
+of "sensing strategies or algorithmic tech
+niques to enhance or extend the capabilities of
+digital photography."
+Such enhancements include high dynamic
+range (HDR), panoramas and all-focus imag
+ing. HDR preserves detail in the brightest and
+dimmest areas of a photograph, panoramas
+stitch together a scene only a wide-angle lens
+could capture and all-focus imaging pre
+serves camera focus at all depths of a
+scene.
+While these enhancements
+are possible on a computer pro
+gram such as Photoshop, relying
+solely on a computer program pro
+vides no immediate feedback on the
+device, according to Andrew Adams
+Ph.D. '11, a lab assistant and graduate
+student in computer science.
+"Perhaps the panorama is missing a
+corner," Adams said. "You realize this
+only after the computer program
+stitches the shots together."
+Additionally, when taking a burst of
+pictures, the images are slow to acquire.
+According to Adams, however, an al
+gorithm in the camera could change
+camera settings faster than a human
+hand.
+Due to the limitations of
+immediate feedback and time, the
+lab creates algorithms capable of
+producing raw images of similar
+quality to those of photo editing
+programs.
+
+Adams presented the example of an indoor
+party, a scene with not much light. The perfect
+shot necessitates a fusion between two differ
+ent shots: one short, low exposure and one long
+exposure. An algorithm, he said, can take both
+shots successively and fuse the images into one
+raw image.
+He also gave the example of an individual
+taking pictures with a long exposure in a set
+ting bound to yield blur. According to Adams,
+an algorithm could take eight successive shots
+and save only the least blurred.
+Adams noted how cameras, although noto
+rious for being the "most übiquitous comput
+ers out there," are currently not programming
+friendly.
+Levoy agreed, adding that researchers out
+side of the industry are "clueless as to how ex
+isting camera modes [night, sports, portrait,
+etc.] work."
+"The camera industry creates beautiful pic
+tures, but they're mysterious," Adams said.
+Since no open-source camera existed, the
+Stanford lab drew on the financial support of
+Nokia, Adobe Systems, Kodak and Hewlett-
+Packard, to create the Frakencamera. The
+camera, featuring Linux operating systems, al
+lows the lab to create and test their own algo
+rithms.
+Currently the lab plans to distribute Frak
+encameras to other universities to "push the
+API out there and see what people can do,"
+Adams said.
+While Frakencamera serves the purpose
+of developing algorithms in the research in
+dustry, it specifically is not seen as the future
+of the camera industry. Instead, the lab hopes
+to "influence industry partners to open their
+cameras' interfaces," Levoy said.
+Although computational photography has
+caught on for open-source consumer cell
+
+
+Courtesy of Marc Levoy
+Using algorithms, professor Marc Levoy and his team are developing photographic features that can keep an image in focus at all depths
+of a scene.
+
+
+Courtesy of Marc Levoy
+phone cameras, as evidenced by a
+look at the iTunes app store, Levoy
+acknowledged that the camera in
+dustry has yet to embrace the tech
+nology.
+While companies have adopted
+computational photography tricks
+such as HDR and panorama modes
+into closed-source cameras, an
+open-source camera has yet to be
+announced, let alone made available
+to consumers.
+
+Contact Erin Inman at einman@stan
+ford.edu.
+Imagine taking pictures at a soccer game.
+Currently photographers have two main op
+tions: set the camera to sports mode or manu
+ally adjust its settings to create a good shot. But
+what if you could buy an app for your camera
+whose sole purpose is to keep the soccer ball in
+focus?
+This camera industry revolution one
+that might lead to app stores for cameras
+could be made possible by
+the Stanford Comput- mtI —
+er Graphics Labo
+ratory's cur-
+
+rent research in computational photography.
+Computational photography, a term coined
+by professor of computer science and electri
+cal engineering Marc Levoy, refers to the use
+of "sensing strategies or algorithmic tech
+niques to enhance or extend the capabilities of
+digital photography."
+Such enhancements include high dynamic
+range (HDR), panoramas and all-focus imag
+ing. HDR preserves detail in the brightest and
+dimmest areas of a photograph, panoramas
+stitch together a scene only a wide-angle lens
+could capture and all-focus imaging pre
+serves camera focus at all depths of a
+scene.
+While these enhancements
+are possible on a computer pro
+gram such as Photoshop, relying
+solely on a computer program pro
+vides no immediate feedback on the
+device, according to Andrew Adams
+Ph.D. '11, a lab assistant and graduate
+student in computer science.
+"Perhaps the panorama is missing a
+corner," Adams said. "You realize this
+only after the computer program
+stitches the shots together."
+Additionally, when taking a burst of
+pictures, the images are slow to acquire.
+According to Adams, however, an al
+gorithm in the camera could change
+camera settings faster than a human
+hand.
+Due to the limitations of
+immediate feedback and time, the
+lab creates algorithms capable of
+producing raw images of similar
+quality to those of photo editing
+programs.
+
+Adams presented the example of an indoor
+party, a scene with not much light. The perfect
+shot necessitates a fusion between two differ
+ent shots: one short, low exposure and one long
+exposure. An algorithm, he said, can take both
+shots successively and fuse the images into one
+raw image.
+He also gave the example of an individual
+taking pictures with a long exposure in a set
+ting bound to yield blur. According to Adams,
+an algorithm could take eight successive shots
+and save only the least blurred.
+Adams noted how cameras, although noto
+rious for being the "most übiquitous comput
+ers out there," are currently not programming
+friendly.
+Levoy agreed, adding that researchers out
+side of the industry are "clueless as to how ex
+isting camera modes [night, sports, portrait,
+etc.] work."
+"The camera industry creates beautiful pic
+tures, but they're mysterious," Adams said.
+Since no open-source camera existed, the
+Stanford lab drew on the financial support of
+Nokia, Adobe Systems, Kodak and Hewlett-
+Packard, to create the Frakencamera. The
+camera, featuring Linux operating systems, al
+lows the lab to create and test their own algo
+rithms.
+Currently the lab plans to distribute Frak
+encameras to other universities to "push the
+API out there and see what people can do,"
+Adams said.
+While Frakencamera serves the purpose
+of developing algorithms in the research in
+dustry, it specifically is not seen as the future
+of the camera industry. Instead, the lab hopes
+to "influence industry partners to open their
+cameras' interfaces," Levoy said.
+Although computational photography has
+caught on for open-source consumer cell
+
+
+Courtesy of Marc Levoy
+Using algorithms, professor Marc Levoy and his team are developing photographic features that can keep an image in focus at all depths
+of a scene.
+
+
+Courtesy of Marc Levoy
+phone cameras, as evidenced by a
+look at the iTunes app store, Levoy
+acknowledged that the camera in
+dustry has yet to embrace the tech
+nology.
+While companies have adopted
+computational photography tricks
+such as HDR and panorama modes
+into closed-source cameras, an
+open-source camera has yet to be
+announced, let alone made available
+to consumers.
+
+Contact Erin Inman at einman@stan
+ford.edu.
+Imagine taking pictures at a soccer game.
+Currently photographers have two main op
+tions: set the camera to sports mode or manu
+ally adjust its settings to create a good shot. But
+what if you could buy an app for your camera
+whose sole purpose is to keep the soccer ball in
+focus?
+This camera industry revolution one
+that might lead to app stores for cameras
+could be made possible by
+the Stanford Comput- mtI —
+er Graphics Labo
+ratory's cur-
+
+rent research in computational photography.
+Computational photography, a term coined
+by professor of computer science and electri
+cal engineering Marc Levoy, refers to the use
+of "sensing strategies or algorithmic tech
+niques to enhance or extend the capabilities of
+digital photography."
+Such enhancements include high dynamic
+range (HDR), panoramas and all-focus imag
+ing. HDR preserves detail in the brightest and
+dimmest areas of a photograph, panoramas
+stitch together a scene only a wide-angle lens
+could capture and all-focus imaging pre
+serves camera focus at all depths of a
+scene.
+While these enhancements
+are possible on a computer pro
+gram such as Photoshop, relying
+solely on a computer program pro
+vides no immediate feedback on the
+device, according to Andrew Adams
+Ph.D. '11, a lab assistant and graduate
+student in computer science.
+"Perhaps the panorama is missing a
+corner," Adams said. "You realize this
+only after the computer program
+stitches the shots together."
+Additionally, when taking a burst of
+pictures, the images are slow to acquire.
+According to Adams, however, an al
+gorithm in the camera could change
+camera settings faster than a human
+hand.
+Due to the limitations of
+immediate feedback and time, the
+lab creates algorithms capable of
+producing raw images of similar
+quality to those of photo editing
+programs.
+
+Adams presented the example of an indoor
+party, a scene with not much light. The perfect
+shot necessitates a fusion between two differ
+ent shots: one short, low exposure and one long
+exposure. An algorithm, he said, can take both
+shots successively and fuse the images into one
+raw image.
+He also gave the example of an individual
+taking pictures with a long exposure in a set
+ting bound to yield blur. According to Adams,
+an algorithm could take eight successive shots
+and save only the least blurred.
+Adams noted how cameras, although noto
+rious for being the "most übiquitous comput
+ers out there," are currently not programming
+friendly.
+Levoy agreed, adding that researchers out
+side of the industry are "clueless as to how ex
+isting camera modes [night, sports, portrait,
+etc.] work."
+"The camera industry creates beautiful pic
+tures, but they're mysterious," Adams said.
+Since no open-source camera existed, the
+Stanford lab drew on the financial support of
+Nokia, Adobe Systems, Kodak and Hewlett-
+Packard, to create the Frakencamera. The
+camera, featuring Linux operating systems, al
+lows the lab to create and test their own algo
+rithms.
+Currently the lab plans to distribute Frak
+encameras to other universities to "push the
+API out there and see what people can do,"
+Adams said.
+While Frakencamera serves the purpose
+of developing algorithms in the research in
+dustry, it specifically is not seen as the future
+of the camera industry. Instead, the lab hopes
+to "influence industry partners to open their
+cameras' interfaces," Levoy said.
+Although computational photography has
+caught on for open-source consumer cell
+
+
+Courtesy of Marc Levoy
+Using algorithms, professor Marc Levoy and his team are developing photographic features that can keep an image in focus at all depths
+of a scene.
+
+
+Courtesy of Marc Levoy
+phone cameras, as evidenced by a
+look at the iTunes app store, Levoy
+acknowledged that the camera in
+dustry has yet to embrace the tech
+nology.
+While companies have adopted
+computational photography tricks
+such as HDR and panorama modes
+into closed-source cameras, an
+open-source camera has yet to be
+announced, let alone made available
+to consumers.
+
+Contact Erin Inman at einman@stan
+ford.edu.
+Imagine taking pictures at a soccer game.
+Currently photographers have two main op
+tions: set the camera to sports mode or manu
+ally adjust its settings to create a good shot. But
+what if you could buy an app for your camera
+whose sole purpose is to keep the soccer ball in
+focus?
+This camera industry revolution one
+that might lead to app stores for cameras
+could be made possible by
+the Stanford Comput- mtI —
+er Graphics Labo
+ratory's cur-
+
+rent research in computational photography.
+Computational photography, a term coined
+by professor of computer science and electri
+cal engineering Marc Levoy, refers to the use
+of "sensing strategies or algorithmic tech
+niques to enhance or extend the capabilities of
+digital photography."
+Such enhancements include high dynamic
+range (HDR), panoramas and all-focus imag
+ing. HDR preserves detail in the brightest and
+dimmest areas of a photograph, panoramas
+stitch together a scene only a wide-angle lens
+could capture and all-focus imaging pre
+serves camera focus at all depths of a
+scene.
+While these enhancements
+are possible on a computer pro
+gram such as Photoshop, relying
+solely on a computer program pro
+vides no immediate feedback on the
+device, according to Andrew Adams
+Ph.D. '11, a lab assistant and graduate
+student in computer science.
+"Perhaps the panorama is missing a
+corner," Adams said. "You realize this
+only after the computer program
+stitches the shots together."
+Additionally, when taking a burst of
+pictures, the images are slow to acquire.
+According to Adams, however, an al
+gorithm in the camera could change
+camera settings faster than a human
+hand.
+Due to the limitations of
+immediate feedback and time, the
+lab creates algorithms capable of
+producing raw images of similar
+quality to those of photo editing
+programs.
+
+Adams presented the example of an indoor
+party, a scene with not much light. The perfect
+shot necessitates a fusion between two differ
+ent shots: one short, low exposure and one long
+exposure. An algorithm, he said, can take both
+shots successively and fuse the images into one
+raw image.
+He also gave the example of an individual
+taking pictures with a long exposure in a set
+ting bound to yield blur. According to Adams,
+an algorithm could take eight successive shots
+and save only the least blurred.
+Adams noted how cameras, although noto
+rious for being the "most übiquitous comput
+ers out there," are currently not programming
+friendly.
+Levoy agreed, adding that researchers out
+side of the industry are "clueless as to how ex
+isting camera modes [night, sports, portrait,
+etc.] work."
+"The camera industry creates beautiful pic
+tures, but they're mysterious," Adams said.
+Since no open-source camera existed, the
+Stanford lab drew on the financial support of
+Nokia, Adobe Systems, Kodak and Hewlett-
+Packard, to create the Frakencamera. The
+camera, featuring Linux operating systems, al
+lows the lab to create and test their own algo
+rithms.
+Currently the lab plans to distribute Frak
+encameras to other universities to "push the
+API out there and see what people can do,"
+Adams said.
+While Frakencamera serves the purpose
+of developing algorithms in the research in
+dustry, it specifically is not seen as the future
+of the camera industry. Instead, the lab hopes
+to "influence industry partners to open their
+cameras' interfaces," Levoy said.
+Although computational photography has
+caught on for open-source consumer cell
+
+
+Courtesy of Marc Levoy
+Using algorithms, professor Marc Levoy and his team are developing photographic features that can keep an image in focus at all depths
+of a scene.
+
+
+Courtesy of Marc Levoy
+phone cameras, as evidenced by a
+look at the iTunes app store, Levoy
+acknowledged that the camera in
+dustry has yet to embrace the tech
+nology.
+While companies have adopted
+computational photography tricks
+such as HDR and panorama modes
+into closed-source cameras, an
+open-source camera has yet to be
+announced, let alone made available
+to consumers.
+
+Contact Erin Inman at einman@stan
+ford.edu.

@@ -1,0 +1,1207 @@
+# e-mailing the night away milking more fun from your cluster
+## 
+### Amanda Green 
+E-mail, e-mail, e-mail. This campus
+is wonderfully computer oriented. If
+
+you weren't familiar with the imbe
+cilic machines before you came to
+campus, I'm sure you are now.
+
+And not only for word processing
+greeting words of all RCCs during
+Freshman Orientation is "Hello, my
+name is , go to the cluster and
+
+open an e-mail account." Good advice,
+
+too. It's hard to do anything on cam
+pus without e-mail. Most of us
+couldn't even print without it.
+For a good number of Stanfordites,
+however, their networking knowl
+edge is limited to these functions.
+
+Many students actually use the e
+mail part of their account, sending
+messages to far places, close friends,
+
+and errant professors. For those who
+are continually frustrated by elm, by the
+way, type "control-x control-c" at the end
+
+of the letter. It'll make your day so much
+brighter. Note to experienced elm users: try
+pine on the adelberts. Pine has a better editor.
+
+Confused yet? Of course, we're dealing
+with inherently confusing computers.
+All of the computers on campus are linked
+together by a lot of cables that closely resem
+ble phone lines. The cable itself is called eth
+ernet, and the invisible network that hooks all
+of Stanford's computers together is called
+SUNet. Even if Stanford students just had ac
+cess to SUNet, there would be fun things to do
+on rainy days.
+But SUNet is connected to the Internet,
+which is a bunch of ethernet and satellite con
+nections connecting small nets like SUNet
+into other small nets, and on and on until you
+have a connection to anywhere in the world
+with a networked computer.
+Now we can really have fun.
+Good clean fun
+You're probably sitting at your Mac Classic
+without enough memory to keep Word 2.0
+open and manage to eject the disk at the same
+time. But it has an ethernet card and there is a
+cable running from your computer to the
+fancy built-in ethernet connections available
+in most dorms these days. And the size of your
+computer matters not, because you can log
+into a computer bigger and faster than any
+sane person needs, and your Mac gives it or
+ders and it will actually listen.
+So what orders are you going to give it?
+You could browse your newgroups, play a
+few MUDs, FTP a few files to your account for
+reading, FTP a few gifts for your viewing plea
+sure, or talk to someone in another country.
+Still impressed by e-mail? I thought not.
+The best thing is, all these things are incred
+
+ibly easy to do. As long as you have an ac
+count, there are so many things on the Inter
+net to do that you could never be bored.
+First log into a station just like you would
+for e-mail. Cardinal, elaine, adelbert, your
+dorm NeXT, whatever. Well start small —
+with newsgroups — a variant on e-mail.
+Think of them as a bulletin board. News
+groups are theme-oriented, and there's a
+newsgroup out there for everyone.
+People send mail to the newsgroup, mak
+ing comments and asking questions and leav
+ing notes to friends. But all mail directly or in
+directly relates to one topic. When people
+read news, they see the file that everyone who
+
+Graphic by Dan Kim
+
+reads the newsgroup sends mail to. So it is
+possible to read about virtually any topic and
+see it discussed by people all across the coun
+try — and likely a few out of country too.
+Another way to be amused on e-mail is to
+search FTP sites (FTP is a process, not a
+thing). It is the process of bringing a file, ei
+ther made of text (ASCII) or symbols (binary)
+to your computer so to read it Binary files
+most likely mean pictures, which are always
+fun to use as wallpaper on your Mac windows.
+The easiest way for Mac users to search
+FTP sites is by the program Turbo Gopher,
+which is on most cluster machines. Anything
+found off Turbo Gopher can be put on disk if
+
+you want to move it to a different computer.
+Everything you ever needed is on FTP sites.
+All of Shakespeare's works are out there some
+where, for example. You can even FTP games
+to your account, if you know where to look.
+
+Human inspiration
+
+There are also ways to talk to real
+y people on the net in realtime (si-
+
+multaneously). There are many
+ways to talk but watch out — all
+
+are highly addictive.
+The easiest way is
+called talk-request.
+Many people have used
+
+v . x talk-request. You simply
+type "talk <address>" at the prompt. If the
+person is logged in at the same time, they get
+the message that you want to talk to them, and
+they respond with "talk <your address>." The
+screen divides in half, and you each type mer
+rily at each other.
+I hope you aren't impressed, because this
+really isn't impressive.
+Impressive is a talker, or IRC or a MUD.
+IRC is a huge "place" were people can go to
+chat. People from all over the world talk to
+each other about everything anonymous-
+
+I ly. The only drawback with IRC is that you
+112 need a client, or program that makes talk
+-1 ing easier. Without a client, you would have
+to know the IRC programming language. To
+find a client, ask your RCC or go to a cluster
+and ask the consultants.
+Another type of realtime communication
+is a MUD. There are thousands of MUDs,
+and a special client isn't necessary to use
+them because telnet can be used, which is
+built into accounts. A MUD is for more than
+socializing, though. It is a game, and the
+point is to advance your character by killing
+monsters, winning prizes and exploring. It is
+a computer game with real people wrapped
+up in it.
+To get a list of places to telnet to MUD, FTP
+off eskimo.com (FTP eskimo.com, search the
+directories, "get filename" type control-c,
+then "emacs filename" at your prompt.).
+Then type "telnet <address>" and you are
+there. MUDs have their own themes and in
+formation.
+If you are interested in something less de
+structive, but want to talk, talkers are stripped
+MUDs. They still have rooms, but the only
+purpose is to wander around a chit-chat
+rather than kill every monster you can find.
+One of the most popular is in England, called
+Foothills. To get to it, type "telnet
+marble.bu.edu 2010."
+So the next time you're trying to procrasti
+nate that problem set or paper, hop onto the
+net and surf your problems away. ■
+
+E-mail, e-mail, e-mail. This campus
+is wonderfully computer oriented. If
+
+you weren't familiar with the imbe
+cilic machines before you came to
+campus, I'm sure you are now.
+
+And not only for word processing
+greeting words of all RCCs during
+Freshman Orientation is "Hello, my
+name is , go to the cluster and
+
+open an e-mail account." Good advice,
+
+too. It's hard to do anything on cam
+pus without e-mail. Most of us
+couldn't even print without it.
+For a good number of Stanfordites,
+however, their networking knowl
+edge is limited to these functions.
+
+Many students actually use the e
+mail part of their account, sending
+messages to far places, close friends,
+
+and errant professors. For those who
+are continually frustrated by elm, by the
+way, type "control-x control-c" at the end
+
+of the letter. It'll make your day so much
+brighter. Note to experienced elm users: try
+pine on the adelberts. Pine has a better editor.
+
+Confused yet? Of course, we're dealing
+with inherently confusing computers.
+All of the computers on campus are linked
+together by a lot of cables that closely resem
+ble phone lines. The cable itself is called eth
+ernet, and the invisible network that hooks all
+of Stanford's computers together is called
+SUNet. Even if Stanford students just had ac
+cess to SUNet, there would be fun things to do
+on rainy days.
+But SUNet is connected to the Internet,
+which is a bunch of ethernet and satellite con
+nections connecting small nets like SUNet
+into other small nets, and on and on until you
+have a connection to anywhere in the world
+with a networked computer.
+Now we can really have fun.
+Good clean fun
+You're probably sitting at your Mac Classic
+without enough memory to keep Word 2.0
+open and manage to eject the disk at the same
+time. But it has an ethernet card and there is a
+cable running from your computer to the
+fancy built-in ethernet connections available
+in most dorms these days. And the size of your
+computer matters not, because you can log
+into a computer bigger and faster than any
+sane person needs, and your Mac gives it or
+ders and it will actually listen.
+So what orders are you going to give it?
+You could browse your newgroups, play a
+few MUDs, FTP a few files to your account for
+reading, FTP a few gifts for your viewing plea
+sure, or talk to someone in another country.
+Still impressed by e-mail? I thought not.
+The best thing is, all these things are incred
+
+ibly easy to do. As long as you have an ac
+count, there are so many things on the Inter
+net to do that you could never be bored.
+First log into a station just like you would
+for e-mail. Cardinal, elaine, adelbert, your
+dorm NeXT, whatever. Well start small —
+with newsgroups — a variant on e-mail.
+Think of them as a bulletin board. News
+groups are theme-oriented, and there's a
+newsgroup out there for everyone.
+People send mail to the newsgroup, mak
+ing comments and asking questions and leav
+ing notes to friends. But all mail directly or in
+directly relates to one topic. When people
+read news, they see the file that everyone who
+
+Graphic by Dan Kim
+
+reads the newsgroup sends mail to. So it is
+possible to read about virtually any topic and
+see it discussed by people all across the coun
+try — and likely a few out of country too.
+Another way to be amused on e-mail is to
+search FTP sites (FTP is a process, not a
+thing). It is the process of bringing a file, ei
+ther made of text (ASCII) or symbols (binary)
+to your computer so to read it Binary files
+most likely mean pictures, which are always
+fun to use as wallpaper on your Mac windows.
+The easiest way for Mac users to search
+FTP sites is by the program Turbo Gopher,
+which is on most cluster machines. Anything
+found off Turbo Gopher can be put on disk if
+
+you want to move it to a different computer.
+Everything you ever needed is on FTP sites.
+All of Shakespeare's works are out there some
+where, for example. You can even FTP games
+to your account, if you know where to look.
+
+Human inspiration
+
+There are also ways to talk to real
+y people on the net in realtime (si-
+
+multaneously). There are many
+ways to talk but watch out — all
+
+are highly addictive.
+The easiest way is
+called talk-request.
+Many people have used
+
+v . x talk-request. You simply
+type "talk <address>" at the prompt. If the
+person is logged in at the same time, they get
+the message that you want to talk to them, and
+they respond with "talk <your address>." The
+screen divides in half, and you each type mer
+rily at each other.
+I hope you aren't impressed, because this
+really isn't impressive.
+Impressive is a talker, or IRC or a MUD.
+IRC is a huge "place" were people can go to
+chat. People from all over the world talk to
+each other about everything anonymous-
+
+I ly. The only drawback with IRC is that you
+112 need a client, or program that makes talk
+-1 ing easier. Without a client, you would have
+to know the IRC programming language. To
+find a client, ask your RCC or go to a cluster
+and ask the consultants.
+Another type of realtime communication
+is a MUD. There are thousands of MUDs,
+and a special client isn't necessary to use
+them because telnet can be used, which is
+built into accounts. A MUD is for more than
+socializing, though. It is a game, and the
+point is to advance your character by killing
+monsters, winning prizes and exploring. It is
+a computer game with real people wrapped
+up in it.
+To get a list of places to telnet to MUD, FTP
+off eskimo.com (FTP eskimo.com, search the
+directories, "get filename" type control-c,
+then "emacs filename" at your prompt.).
+Then type "telnet <address>" and you are
+there. MUDs have their own themes and in
+formation.
+If you are interested in something less de
+structive, but want to talk, talkers are stripped
+MUDs. They still have rooms, but the only
+purpose is to wander around a chit-chat
+rather than kill every monster you can find.
+One of the most popular is in England, called
+Foothills. To get to it, type "telnet
+marble.bu.edu 2010."
+So the next time you're trying to procrasti
+nate that problem set or paper, hop onto the
+net and surf your problems away. ■
+
+E-mail, e-mail, e-mail. This campus
+is wonderfully computer oriented. If
+
+you weren't familiar with the imbe
+cilic machines before you came to
+campus, I'm sure you are now.
+
+And not only for word processing
+greeting words of all RCCs during
+Freshman Orientation is "Hello, my
+name is , go to the cluster and
+
+open an e-mail account." Good advice,
+
+too. It's hard to do anything on cam
+pus without e-mail. Most of us
+couldn't even print without it.
+For a good number of Stanfordites,
+however, their networking knowl
+edge is limited to these functions.
+
+Many students actually use the e
+mail part of their account, sending
+messages to far places, close friends,
+
+and errant professors. For those who
+are continually frustrated by elm, by the
+way, type "control-x control-c" at the end
+
+of the letter. It'll make your day so much
+brighter. Note to experienced elm users: try
+pine on the adelberts. Pine has a better editor.
+
+Confused yet? Of course, we're dealing
+with inherently confusing computers.
+All of the computers on campus are linked
+together by a lot of cables that closely resem
+ble phone lines. The cable itself is called eth
+ernet, and the invisible network that hooks all
+of Stanford's computers together is called
+SUNet. Even if Stanford students just had ac
+cess to SUNet, there would be fun things to do
+on rainy days.
+But SUNet is connected to the Internet,
+which is a bunch of ethernet and satellite con
+nections connecting small nets like SUNet
+into other small nets, and on and on until you
+have a connection to anywhere in the world
+with a networked computer.
+Now we can really have fun.
+Good clean fun
+You're probably sitting at your Mac Classic
+without enough memory to keep Word 2.0
+open and manage to eject the disk at the same
+time. But it has an ethernet card and there is a
+cable running from your computer to the
+fancy built-in ethernet connections available
+in most dorms these days. And the size of your
+computer matters not, because you can log
+into a computer bigger and faster than any
+sane person needs, and your Mac gives it or
+ders and it will actually listen.
+So what orders are you going to give it?
+You could browse your newgroups, play a
+few MUDs, FTP a few files to your account for
+reading, FTP a few gifts for your viewing plea
+sure, or talk to someone in another country.
+Still impressed by e-mail? I thought not.
+The best thing is, all these things are incred
+
+ibly easy to do. As long as you have an ac
+count, there are so many things on the Inter
+net to do that you could never be bored.
+First log into a station just like you would
+for e-mail. Cardinal, elaine, adelbert, your
+dorm NeXT, whatever. Well start small —
+with newsgroups — a variant on e-mail.
+Think of them as a bulletin board. News
+groups are theme-oriented, and there's a
+newsgroup out there for everyone.
+People send mail to the newsgroup, mak
+ing comments and asking questions and leav
+ing notes to friends. But all mail directly or in
+directly relates to one topic. When people
+read news, they see the file that everyone who
+
+Graphic by Dan Kim
+
+reads the newsgroup sends mail to. So it is
+possible to read about virtually any topic and
+see it discussed by people all across the coun
+try — and likely a few out of country too.
+Another way to be amused on e-mail is to
+search FTP sites (FTP is a process, not a
+thing). It is the process of bringing a file, ei
+ther made of text (ASCII) or symbols (binary)
+to your computer so to read it Binary files
+most likely mean pictures, which are always
+fun to use as wallpaper on your Mac windows.
+The easiest way for Mac users to search
+FTP sites is by the program Turbo Gopher,
+which is on most cluster machines. Anything
+found off Turbo Gopher can be put on disk if
+
+you want to move it to a different computer.
+Everything you ever needed is on FTP sites.
+All of Shakespeare's works are out there some
+where, for example. You can even FTP games
+to your account, if you know where to look.
+
+Human inspiration
+
+There are also ways to talk to real
+y people on the net in realtime (si-
+
+multaneously). There are many
+ways to talk but watch out — all
+
+are highly addictive.
+The easiest way is
+called talk-request.
+Many people have used
+
+v . x talk-request. You simply
+type "talk <address>" at the prompt. If the
+person is logged in at the same time, they get
+the message that you want to talk to them, and
+they respond with "talk <your address>." The
+screen divides in half, and you each type mer
+rily at each other.
+I hope you aren't impressed, because this
+really isn't impressive.
+Impressive is a talker, or IRC or a MUD.
+IRC is a huge "place" were people can go to
+chat. People from all over the world talk to
+each other about everything anonymous-
+
+I ly. The only drawback with IRC is that you
+112 need a client, or program that makes talk
+-1 ing easier. Without a client, you would have
+to know the IRC programming language. To
+find a client, ask your RCC or go to a cluster
+and ask the consultants.
+Another type of realtime communication
+is a MUD. There are thousands of MUDs,
+and a special client isn't necessary to use
+them because telnet can be used, which is
+built into accounts. A MUD is for more than
+socializing, though. It is a game, and the
+point is to advance your character by killing
+monsters, winning prizes and exploring. It is
+a computer game with real people wrapped
+up in it.
+To get a list of places to telnet to MUD, FTP
+off eskimo.com (FTP eskimo.com, search the
+directories, "get filename" type control-c,
+then "emacs filename" at your prompt.).
+Then type "telnet <address>" and you are
+there. MUDs have their own themes and in
+formation.
+If you are interested in something less de
+structive, but want to talk, talkers are stripped
+MUDs. They still have rooms, but the only
+purpose is to wander around a chit-chat
+rather than kill every monster you can find.
+One of the most popular is in England, called
+Foothills. To get to it, type "telnet
+marble.bu.edu 2010."
+So the next time you're trying to procrasti
+nate that problem set or paper, hop onto the
+net and surf your problems away. ■
+
+E-mail, e-mail, e-mail. This campus
+is wonderfully computer oriented. If
+
+you weren't familiar with the imbe
+cilic machines before you came to
+campus, I'm sure you are now.
+
+And not only for word processing
+greeting words of all RCCs during
+Freshman Orientation is "Hello, my
+name is , go to the cluster and
+
+open an e-mail account." Good advice,
+
+too. It's hard to do anything on cam
+pus without e-mail. Most of us
+couldn't even print without it.
+For a good number of Stanfordites,
+however, their networking knowl
+edge is limited to these functions.
+
+Many students actually use the e
+mail part of their account, sending
+messages to far places, close friends,
+
+and errant professors. For those who
+are continually frustrated by elm, by the
+way, type "control-x control-c" at the end
+
+of the letter. It'll make your day so much
+brighter. Note to experienced elm users: try
+pine on the adelberts. Pine has a better editor.
+
+Confused yet? Of course, we're dealing
+with inherently confusing computers.
+All of the computers on campus are linked
+together by a lot of cables that closely resem
+ble phone lines. The cable itself is called eth
+ernet, and the invisible network that hooks all
+of Stanford's computers together is called
+SUNet. Even if Stanford students just had ac
+cess to SUNet, there would be fun things to do
+on rainy days.
+But SUNet is connected to the Internet,
+which is a bunch of ethernet and satellite con
+nections connecting small nets like SUNet
+into other small nets, and on and on until you
+have a connection to anywhere in the world
+with a networked computer.
+Now we can really have fun.
+Good clean fun
+You're probably sitting at your Mac Classic
+without enough memory to keep Word 2.0
+open and manage to eject the disk at the same
+time. But it has an ethernet card and there is a
+cable running from your computer to the
+fancy built-in ethernet connections available
+in most dorms these days. And the size of your
+computer matters not, because you can log
+into a computer bigger and faster than any
+sane person needs, and your Mac gives it or
+ders and it will actually listen.
+So what orders are you going to give it?
+You could browse your newgroups, play a
+few MUDs, FTP a few files to your account for
+reading, FTP a few gifts for your viewing plea
+sure, or talk to someone in another country.
+Still impressed by e-mail? I thought not.
+The best thing is, all these things are incred
+
+ibly easy to do. As long as you have an ac
+count, there are so many things on the Inter
+net to do that you could never be bored.
+First log into a station just like you would
+for e-mail. Cardinal, elaine, adelbert, your
+dorm NeXT, whatever. Well start small —
+with newsgroups — a variant on e-mail.
+Think of them as a bulletin board. News
+groups are theme-oriented, and there's a
+newsgroup out there for everyone.
+People send mail to the newsgroup, mak
+ing comments and asking questions and leav
+ing notes to friends. But all mail directly or in
+directly relates to one topic. When people
+read news, they see the file that everyone who
+
+Graphic by Dan Kim
+
+reads the newsgroup sends mail to. So it is
+possible to read about virtually any topic and
+see it discussed by people all across the coun
+try — and likely a few out of country too.
+Another way to be amused on e-mail is to
+search FTP sites (FTP is a process, not a
+thing). It is the process of bringing a file, ei
+ther made of text (ASCII) or symbols (binary)
+to your computer so to read it Binary files
+most likely mean pictures, which are always
+fun to use as wallpaper on your Mac windows.
+The easiest way for Mac users to search
+FTP sites is by the program Turbo Gopher,
+which is on most cluster machines. Anything
+found off Turbo Gopher can be put on disk if
+
+you want to move it to a different computer.
+Everything you ever needed is on FTP sites.
+All of Shakespeare's works are out there some
+where, for example. You can even FTP games
+to your account, if you know where to look.
+
+Human inspiration
+
+There are also ways to talk to real
+y people on the net in realtime (si-
+
+multaneously). There are many
+ways to talk but watch out — all
+
+are highly addictive.
+The easiest way is
+called talk-request.
+Many people have used
+
+v . x talk-request. You simply
+type "talk <address>" at the prompt. If the
+person is logged in at the same time, they get
+the message that you want to talk to them, and
+they respond with "talk <your address>." The
+screen divides in half, and you each type mer
+rily at each other.
+I hope you aren't impressed, because this
+really isn't impressive.
+Impressive is a talker, or IRC or a MUD.
+IRC is a huge "place" were people can go to
+chat. People from all over the world talk to
+each other about everything anonymous-
+
+I ly. The only drawback with IRC is that you
+112 need a client, or program that makes talk
+-1 ing easier. Without a client, you would have
+to know the IRC programming language. To
+find a client, ask your RCC or go to a cluster
+and ask the consultants.
+Another type of realtime communication
+is a MUD. There are thousands of MUDs,
+and a special client isn't necessary to use
+them because telnet can be used, which is
+built into accounts. A MUD is for more than
+socializing, though. It is a game, and the
+point is to advance your character by killing
+monsters, winning prizes and exploring. It is
+a computer game with real people wrapped
+up in it.
+To get a list of places to telnet to MUD, FTP
+off eskimo.com (FTP eskimo.com, search the
+directories, "get filename" type control-c,
+then "emacs filename" at your prompt.).
+Then type "telnet <address>" and you are
+there. MUDs have their own themes and in
+formation.
+If you are interested in something less de
+structive, but want to talk, talkers are stripped
+MUDs. They still have rooms, but the only
+purpose is to wander around a chit-chat
+rather than kill every monster you can find.
+One of the most popular is in England, called
+Foothills. To get to it, type "telnet
+marble.bu.edu 2010."
+So the next time you're trying to procrasti
+nate that problem set or paper, hop onto the
+net and surf your problems away. ■
+
+E-mail, e-mail, e-mail. This campus
+is wonderfully computer oriented. If
+
+you weren't familiar with the imbe
+cilic machines before you came to
+campus, I'm sure you are now.
+
+And not only for word processing
+greeting words of all RCCs during
+Freshman Orientation is "Hello, my
+name is , go to the cluster and
+
+open an e-mail account." Good advice,
+
+too. It's hard to do anything on cam
+pus without e-mail. Most of us
+couldn't even print without it.
+For a good number of Stanfordites,
+however, their networking knowl
+edge is limited to these functions.
+
+Many students actually use the e
+mail part of their account, sending
+messages to far places, close friends,
+
+and errant professors. For those who
+are continually frustrated by elm, by the
+way, type "control-x control-c" at the end
+
+of the letter. It'll make your day so much
+brighter. Note to experienced elm users: try
+pine on the adelberts. Pine has a better editor.
+
+Confused yet? Of course, we're dealing
+with inherently confusing computers.
+All of the computers on campus are linked
+together by a lot of cables that closely resem
+ble phone lines. The cable itself is called eth
+ernet, and the invisible network that hooks all
+of Stanford's computers together is called
+SUNet. Even if Stanford students just had ac
+cess to SUNet, there would be fun things to do
+on rainy days.
+But SUNet is connected to the Internet,
+which is a bunch of ethernet and satellite con
+nections connecting small nets like SUNet
+into other small nets, and on and on until you
+have a connection to anywhere in the world
+with a networked computer.
+Now we can really have fun.
+Good clean fun
+You're probably sitting at your Mac Classic
+without enough memory to keep Word 2.0
+open and manage to eject the disk at the same
+time. But it has an ethernet card and there is a
+cable running from your computer to the
+fancy built-in ethernet connections available
+in most dorms these days. And the size of your
+computer matters not, because you can log
+into a computer bigger and faster than any
+sane person needs, and your Mac gives it or
+ders and it will actually listen.
+So what orders are you going to give it?
+You could browse your newgroups, play a
+few MUDs, FTP a few files to your account for
+reading, FTP a few gifts for your viewing plea
+sure, or talk to someone in another country.
+Still impressed by e-mail? I thought not.
+The best thing is, all these things are incred
+
+ibly easy to do. As long as you have an ac
+count, there are so many things on the Inter
+net to do that you could never be bored.
+First log into a station just like you would
+for e-mail. Cardinal, elaine, adelbert, your
+dorm NeXT, whatever. Well start small —
+with newsgroups — a variant on e-mail.
+Think of them as a bulletin board. News
+groups are theme-oriented, and there's a
+newsgroup out there for everyone.
+People send mail to the newsgroup, mak
+ing comments and asking questions and leav
+ing notes to friends. But all mail directly or in
+directly relates to one topic. When people
+read news, they see the file that everyone who
+
+Graphic by Dan Kim
+
+reads the newsgroup sends mail to. So it is
+possible to read about virtually any topic and
+see it discussed by people all across the coun
+try — and likely a few out of country too.
+Another way to be amused on e-mail is to
+search FTP sites (FTP is a process, not a
+thing). It is the process of bringing a file, ei
+ther made of text (ASCII) or symbols (binary)
+to your computer so to read it Binary files
+most likely mean pictures, which are always
+fun to use as wallpaper on your Mac windows.
+The easiest way for Mac users to search
+FTP sites is by the program Turbo Gopher,
+which is on most cluster machines. Anything
+found off Turbo Gopher can be put on disk if
+
+you want to move it to a different computer.
+Everything you ever needed is on FTP sites.
+All of Shakespeare's works are out there some
+where, for example. You can even FTP games
+to your account, if you know where to look.
+
+Human inspiration
+
+There are also ways to talk to real
+y people on the net in realtime (si-
+
+multaneously). There are many
+ways to talk but watch out — all
+
+are highly addictive.
+The easiest way is
+called talk-request.
+Many people have used
+
+v . x talk-request. You simply
+type "talk <address>" at the prompt. If the
+person is logged in at the same time, they get
+the message that you want to talk to them, and
+they respond with "talk <your address>." The
+screen divides in half, and you each type mer
+rily at each other.
+I hope you aren't impressed, because this
+really isn't impressive.
+Impressive is a talker, or IRC or a MUD.
+IRC is a huge "place" were people can go to
+chat. People from all over the world talk to
+each other about everything anonymous-
+
+I ly. The only drawback with IRC is that you
+112 need a client, or program that makes talk
+-1 ing easier. Without a client, you would have
+to know the IRC programming language. To
+find a client, ask your RCC or go to a cluster
+and ask the consultants.
+Another type of realtime communication
+is a MUD. There are thousands of MUDs,
+and a special client isn't necessary to use
+them because telnet can be used, which is
+built into accounts. A MUD is for more than
+socializing, though. It is a game, and the
+point is to advance your character by killing
+monsters, winning prizes and exploring. It is
+a computer game with real people wrapped
+up in it.
+To get a list of places to telnet to MUD, FTP
+off eskimo.com (FTP eskimo.com, search the
+directories, "get filename" type control-c,
+then "emacs filename" at your prompt.).
+Then type "telnet <address>" and you are
+there. MUDs have their own themes and in
+formation.
+If you are interested in something less de
+structive, but want to talk, talkers are stripped
+MUDs. They still have rooms, but the only
+purpose is to wander around a chit-chat
+rather than kill every monster you can find.
+One of the most popular is in England, called
+Foothills. To get to it, type "telnet
+marble.bu.edu 2010."
+So the next time you're trying to procrasti
+nate that problem set or paper, hop onto the
+net and surf your problems away. ■
+
+E-mail, e-mail, e-mail. This campus
+is wonderfully computer oriented. If
+
+you weren't familiar with the imbe
+cilic machines before you came to
+campus, I'm sure you are now.
+
+And not only for word processing
+greeting words of all RCCs during
+Freshman Orientation is "Hello, my
+name is , go to the cluster and
+
+open an e-mail account." Good advice,
+
+too. It's hard to do anything on cam
+pus without e-mail. Most of us
+couldn't even print without it.
+For a good number of Stanfordites,
+however, their networking knowl
+edge is limited to these functions.
+
+Many students actually use the e
+mail part of their account, sending
+messages to far places, close friends,
+
+and errant professors. For those who
+are continually frustrated by elm, by the
+way, type "control-x control-c" at the end
+
+of the letter. It'll make your day so much
+brighter. Note to experienced elm users: try
+pine on the adelberts. Pine has a better editor.
+
+Confused yet? Of course, we're dealing
+with inherently confusing computers.
+All of the computers on campus are linked
+together by a lot of cables that closely resem
+ble phone lines. The cable itself is called eth
+ernet, and the invisible network that hooks all
+of Stanford's computers together is called
+SUNet. Even if Stanford students just had ac
+cess to SUNet, there would be fun things to do
+on rainy days.
+But SUNet is connected to the Internet,
+which is a bunch of ethernet and satellite con
+nections connecting small nets like SUNet
+into other small nets, and on and on until you
+have a connection to anywhere in the world
+with a networked computer.
+Now we can really have fun.
+Good clean fun
+You're probably sitting at your Mac Classic
+without enough memory to keep Word 2.0
+open and manage to eject the disk at the same
+time. But it has an ethernet card and there is a
+cable running from your computer to the
+fancy built-in ethernet connections available
+in most dorms these days. And the size of your
+computer matters not, because you can log
+into a computer bigger and faster than any
+sane person needs, and your Mac gives it or
+ders and it will actually listen.
+So what orders are you going to give it?
+You could browse your newgroups, play a
+few MUDs, FTP a few files to your account for
+reading, FTP a few gifts for your viewing plea
+sure, or talk to someone in another country.
+Still impressed by e-mail? I thought not.
+The best thing is, all these things are incred
+
+ibly easy to do. As long as you have an ac
+count, there are so many things on the Inter
+net to do that you could never be bored.
+First log into a station just like you would
+for e-mail. Cardinal, elaine, adelbert, your
+dorm NeXT, whatever. Well start small —
+with newsgroups — a variant on e-mail.
+Think of them as a bulletin board. News
+groups are theme-oriented, and there's a
+newsgroup out there for everyone.
+People send mail to the newsgroup, mak
+ing comments and asking questions and leav
+ing notes to friends. But all mail directly or in
+directly relates to one topic. When people
+read news, they see the file that everyone who
+
+Graphic by Dan Kim
+
+reads the newsgroup sends mail to. So it is
+possible to read about virtually any topic and
+see it discussed by people all across the coun
+try — and likely a few out of country too.
+Another way to be amused on e-mail is to
+search FTP sites (FTP is a process, not a
+thing). It is the process of bringing a file, ei
+ther made of text (ASCII) or symbols (binary)
+to your computer so to read it Binary files
+most likely mean pictures, which are always
+fun to use as wallpaper on your Mac windows.
+The easiest way for Mac users to search
+FTP sites is by the program Turbo Gopher,
+which is on most cluster machines. Anything
+found off Turbo Gopher can be put on disk if
+
+you want to move it to a different computer.
+Everything you ever needed is on FTP sites.
+All of Shakespeare's works are out there some
+where, for example. You can even FTP games
+to your account, if you know where to look.
+
+Human inspiration
+
+There are also ways to talk to real
+y people on the net in realtime (si-
+
+multaneously). There are many
+ways to talk but watch out — all
+
+are highly addictive.
+The easiest way is
+called talk-request.
+Many people have used
+
+v . x talk-request. You simply
+type "talk <address>" at the prompt. If the
+person is logged in at the same time, they get
+the message that you want to talk to them, and
+they respond with "talk <your address>." The
+screen divides in half, and you each type mer
+rily at each other.
+I hope you aren't impressed, because this
+really isn't impressive.
+Impressive is a talker, or IRC or a MUD.
+IRC is a huge "place" were people can go to
+chat. People from all over the world talk to
+each other about everything anonymous-
+
+I ly. The only drawback with IRC is that you
+112 need a client, or program that makes talk
+-1 ing easier. Without a client, you would have
+to know the IRC programming language. To
+find a client, ask your RCC or go to a cluster
+and ask the consultants.
+Another type of realtime communication
+is a MUD. There are thousands of MUDs,
+and a special client isn't necessary to use
+them because telnet can be used, which is
+built into accounts. A MUD is for more than
+socializing, though. It is a game, and the
+point is to advance your character by killing
+monsters, winning prizes and exploring. It is
+a computer game with real people wrapped
+up in it.
+To get a list of places to telnet to MUD, FTP
+off eskimo.com (FTP eskimo.com, search the
+directories, "get filename" type control-c,
+then "emacs filename" at your prompt.).
+Then type "telnet <address>" and you are
+there. MUDs have their own themes and in
+formation.
+If you are interested in something less de
+structive, but want to talk, talkers are stripped
+MUDs. They still have rooms, but the only
+purpose is to wander around a chit-chat
+rather than kill every monster you can find.
+One of the most popular is in England, called
+Foothills. To get to it, type "telnet
+marble.bu.edu 2010."
+So the next time you're trying to procrasti
+nate that problem set or paper, hop onto the
+net and surf your problems away. ■
+
+E-mail, e-mail, e-mail. This campus
+is wonderfully computer oriented. If
+
+you weren't familiar with the imbe
+cilic machines before you came to
+campus, I'm sure you are now.
+
+And not only for word processing
+greeting words of all RCCs during
+Freshman Orientation is "Hello, my
+name is , go to the cluster and
+
+open an e-mail account." Good advice,
+
+too. It's hard to do anything on cam
+pus without e-mail. Most of us
+couldn't even print without it.
+For a good number of Stanfordites,
+however, their networking knowl
+edge is limited to these functions.
+
+Many students actually use the e
+mail part of their account, sending
+messages to far places, close friends,
+
+and errant professors. For those who
+are continually frustrated by elm, by the
+way, type "control-x control-c" at the end
+
+of the letter. It'll make your day so much
+brighter. Note to experienced elm users: try
+pine on the adelberts. Pine has a better editor.
+
+Confused yet? Of course, we're dealing
+with inherently confusing computers.
+All of the computers on campus are linked
+together by a lot of cables that closely resem
+ble phone lines. The cable itself is called eth
+ernet, and the invisible network that hooks all
+of Stanford's computers together is called
+SUNet. Even if Stanford students just had ac
+cess to SUNet, there would be fun things to do
+on rainy days.
+But SUNet is connected to the Internet,
+which is a bunch of ethernet and satellite con
+nections connecting small nets like SUNet
+into other small nets, and on and on until you
+have a connection to anywhere in the world
+with a networked computer.
+Now we can really have fun.
+Good clean fun
+You're probably sitting at your Mac Classic
+without enough memory to keep Word 2.0
+open and manage to eject the disk at the same
+time. But it has an ethernet card and there is a
+cable running from your computer to the
+fancy built-in ethernet connections available
+in most dorms these days. And the size of your
+computer matters not, because you can log
+into a computer bigger and faster than any
+sane person needs, and your Mac gives it or
+ders and it will actually listen.
+So what orders are you going to give it?
+You could browse your newgroups, play a
+few MUDs, FTP a few files to your account for
+reading, FTP a few gifts for your viewing plea
+sure, or talk to someone in another country.
+Still impressed by e-mail? I thought not.
+The best thing is, all these things are incred
+
+ibly easy to do. As long as you have an ac
+count, there are so many things on the Inter
+net to do that you could never be bored.
+First log into a station just like you would
+for e-mail. Cardinal, elaine, adelbert, your
+dorm NeXT, whatever. Well start small —
+with newsgroups — a variant on e-mail.
+Think of them as a bulletin board. News
+groups are theme-oriented, and there's a
+newsgroup out there for everyone.
+People send mail to the newsgroup, mak
+ing comments and asking questions and leav
+ing notes to friends. But all mail directly or in
+directly relates to one topic. When people
+read news, they see the file that everyone who
+
+Graphic by Dan Kim
+
+reads the newsgroup sends mail to. So it is
+possible to read about virtually any topic and
+see it discussed by people all across the coun
+try — and likely a few out of country too.
+Another way to be amused on e-mail is to
+search FTP sites (FTP is a process, not a
+thing). It is the process of bringing a file, ei
+ther made of text (ASCII) or symbols (binary)
+to your computer so to read it Binary files
+most likely mean pictures, which are always
+fun to use as wallpaper on your Mac windows.
+The easiest way for Mac users to search
+FTP sites is by the program Turbo Gopher,
+which is on most cluster machines. Anything
+found off Turbo Gopher can be put on disk if
+
+you want to move it to a different computer.
+Everything you ever needed is on FTP sites.
+All of Shakespeare's works are out there some
+where, for example. You can even FTP games
+to your account, if you know where to look.
+
+Human inspiration
+
+There are also ways to talk to real
+y people on the net in realtime (si-
+
+multaneously). There are many
+ways to talk but watch out — all
+
+are highly addictive.
+The easiest way is
+called talk-request.
+Many people have used
+
+v . x talk-request. You simply
+type "talk <address>" at the prompt. If the
+person is logged in at the same time, they get
+the message that you want to talk to them, and
+they respond with "talk <your address>." The
+screen divides in half, and you each type mer
+rily at each other.
+I hope you aren't impressed, because this
+really isn't impressive.
+Impressive is a talker, or IRC or a MUD.
+IRC is a huge "place" were people can go to
+chat. People from all over the world talk to
+each other about everything anonymous-
+
+I ly. The only drawback with IRC is that you
+112 need a client, or program that makes talk
+-1 ing easier. Without a client, you would have
+to know the IRC programming language. To
+find a client, ask your RCC or go to a cluster
+and ask the consultants.
+Another type of realtime communication
+is a MUD. There are thousands of MUDs,
+and a special client isn't necessary to use
+them because telnet can be used, which is
+built into accounts. A MUD is for more than
+socializing, though. It is a game, and the
+point is to advance your character by killing
+monsters, winning prizes and exploring. It is
+a computer game with real people wrapped
+up in it.
+To get a list of places to telnet to MUD, FTP
+off eskimo.com (FTP eskimo.com, search the
+directories, "get filename" type control-c,
+then "emacs filename" at your prompt.).
+Then type "telnet <address>" and you are
+there. MUDs have their own themes and in
+formation.
+If you are interested in something less de
+structive, but want to talk, talkers are stripped
+MUDs. They still have rooms, but the only
+purpose is to wander around a chit-chat
+rather than kill every monster you can find.
+One of the most popular is in England, called
+Foothills. To get to it, type "telnet
+marble.bu.edu 2010."
+So the next time you're trying to procrasti
+nate that problem set or paper, hop onto the
+net and surf your problems away. ■
+

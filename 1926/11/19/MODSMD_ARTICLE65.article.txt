@@ -1,0 +1,738 @@
+# STANFORD SQUAD
+## 
+### 
+No. Name Registered from Wght. Ht. Age Position Exp.
+1 Swan, Fred San Francisco 182 5-11 25 Guard 2
+2 Hyland, F. W. San Francisco 156 5-9 24 Half 1
+3 Rohesky, D. Bakersfield 180 5-11 20 Guard 0~
+4 Poulson, W. E. Beverly Hills 192 6-2 21 Tackle 2
+5 Millage, J. H. Phoenix, Ariz. 170 5-10 24 QB 0
+6 Price, Fred Long Beach 169 5-11 23 End 1
+7 Harris, Leo A. Santa Cruz 182 5-11 22 Tackle 2
+8 Freeman, Chris Bakersfield 184 % 6 21 Tackle 1
+9 Hill, Don K. Long Beach 163 5-10 22 Half 1
+11 Murphy, Mike Berkeley 166 5-5 21 Half 1
+12 Harder, Thjpo Bakersfield 179 5-10 19 End 0
+14 Shipkey, Ted Fullerton 176 5-11 22 End 2
+15 McCreery, J. H. Coronado Beach 174 5-11 24 Center 1
+16 Work, Thos. A. Pacific Grove 172 6-1 21 Half 1
+17 Greisser, A. H. Spokane, Wash 161 5-8 23 End 2
+18 Lewis, L. Portland, Ore. 172 5-10 20 QB 0
+19 Post, Eli Berkeley 178 20 QB 1
+20 Sims, Robert Long Beach 172 5-9 21 Half 0
+21 Symonds. N. M. Hinsdale, 111. 189 5-11 20 Guard 1
+22 Bogue, George San Mateo 191 5-1 20 Half 2
+23 Artman, Corwin Long Beach 212 6-2 19 Tackle 0
+24 Walker, Ed Wyatt, La. 180 5-10 25 End 2
+25 Vincenti, L. R. Pasadenia 155 5-10 20 End 0
+26 Patchett, E. L. San Luis Obispo 171 5-10 24 Fullback 1
+27 Garthwaite, J. Berkerely 155 5-8 22 Half 1
+28 Vermilya, R. San Mateo 181 21 Center 0
+29 Graves, Dave Los Angeles 174 6 23 Half 1
+30 Graham, Kenneth Pasadena 175 6-2 21 Center 1
+31 Wilton, Frank Huntington Park 156 5-9 21 Half 0
+32 Natcher, Stan Los Angeles 180 6 22 Center 0
+33 Leistncr, Hugo Palo Alto 170 5-11 24 Half 0
+34 Hoffman, C. Petaluma 185 6-2 23 Fullback 0
+35 Everett, Lyle Santa Rosa 192 6-3 22 Tackle 0
+36 Kazanjian, J. C. Fresno 185 5-11 22 Guard 0
+37 Trombetta, J. C. Stockton 164 5-7 21 Half 1
+38 Moomaw, Chet Huntington Beach 173 6 20 Tackle 0
+39 Fleishhacker, H. Menlo Park 209 6-4 18 Fullback 0
+40 Davidson, H. Sebastopol 184 5-11 21 End 2
+41 Worden, R. C. San Jose 170 5-11 20 End 0
+42 Sholes, Arlan Long Beach 198 5-10 25 Guard 2
+43 Young, R. E. Salt Lake City 185 6-V 2 20 QB 0
+44 Preston, J. B. Palo Alto 166 5-10 19 End 0
+45 Doyle, Morris Berkeley 210 6-4 17 Guard 0
+46 Joseph, Sam Los Angeles 175 5-10 20 Fullback 0
+47 Giflford, John P. Montezuma School 187 6 1 19 Tackle 0
+48 Sellman, Roland San Mateo 198 6-\'/ 2 21 Tackle 0
+49 Morley, V. A. Bakersfield 176 6 25 Guard 0
+10 Ingram, William Palo Alto 198 6 18 Guard 0
+No. Name Registered from Wght. Ht. Age Position Exp.
+1 Swan, Fred San Francisco 182 5-11 25 Guard 2
+2 Hyland, F. W. San Francisco 156 5-9 24 Half 1
+3 Rohesky, D. Bakersfield 180 5-11 20 Guard 0~
+4 Poulson, W. E. Beverly Hills 192 6-2 21 Tackle 2
+5 Millage, J. H. Phoenix, Ariz. 170 5-10 24 QB 0
+6 Price, Fred Long Beach 169 5-11 23 End 1
+7 Harris, Leo A. Santa Cruz 182 5-11 22 Tackle 2
+8 Freeman, Chris Bakersfield 184 % 6 21 Tackle 1
+9 Hill, Don K. Long Beach 163 5-10 22 Half 1
+11 Murphy, Mike Berkeley 166 5-5 21 Half 1
+12 Harder, Thjpo Bakersfield 179 5-10 19 End 0
+14 Shipkey, Ted Fullerton 176 5-11 22 End 2
+15 McCreery, J. H. Coronado Beach 174 5-11 24 Center 1
+16 Work, Thos. A. Pacific Grove 172 6-1 21 Half 1
+17 Greisser, A. H. Spokane, Wash 161 5-8 23 End 2
+18 Lewis, L. Portland, Ore. 172 5-10 20 QB 0
+19 Post, Eli Berkeley 178 20 QB 1
+20 Sims, Robert Long Beach 172 5-9 21 Half 0
+21 Symonds. N. M. Hinsdale, 111. 189 5-11 20 Guard 1
+22 Bogue, George San Mateo 191 5-1 20 Half 2
+23 Artman, Corwin Long Beach 212 6-2 19 Tackle 0
+24 Walker, Ed Wyatt, La. 180 5-10 25 End 2
+25 Vincenti, L. R. Pasadenia 155 5-10 20 End 0
+26 Patchett, E. L. San Luis Obispo 171 5-10 24 Fullback 1
+27 Garthwaite, J. Berkerely 155 5-8 22 Half 1
+28 Vermilya, R. San Mateo 181 21 Center 0
+29 Graves, Dave Los Angeles 174 6 23 Half 1
+30 Graham, Kenneth Pasadena 175 6-2 21 Center 1
+31 Wilton, Frank Huntington Park 156 5-9 21 Half 0
+32 Natcher, Stan Los Angeles 180 6 22 Center 0
+33 Leistncr, Hugo Palo Alto 170 5-11 24 Half 0
+34 Hoffman, C. Petaluma 185 6-2 23 Fullback 0
+35 Everett, Lyle Santa Rosa 192 6-3 22 Tackle 0
+36 Kazanjian, J. C. Fresno 185 5-11 22 Guard 0
+37 Trombetta, J. C. Stockton 164 5-7 21 Half 1
+38 Moomaw, Chet Huntington Beach 173 6 20 Tackle 0
+39 Fleishhacker, H. Menlo Park 209 6-4 18 Fullback 0
+40 Davidson, H. Sebastopol 184 5-11 21 End 2
+41 Worden, R. C. San Jose 170 5-11 20 End 0
+42 Sholes, Arlan Long Beach 198 5-10 25 Guard 2
+43 Young, R. E. Salt Lake City 185 6-V 2 20 QB 0
+44 Preston, J. B. Palo Alto 166 5-10 19 End 0
+45 Doyle, Morris Berkeley 210 6-4 17 Guard 0
+46 Joseph, Sam Los Angeles 175 5-10 20 Fullback 0
+47 Giflford, John P. Montezuma School 187 6 1 19 Tackle 0
+48 Sellman, Roland San Mateo 198 6-\'/ 2 21 Tackle 0
+49 Morley, V. A. Bakersfield 176 6 25 Guard 0
+10 Ingram, William Palo Alto 198 6 18 Guard 0
+No. Name Registered from Wght. Ht. Age Position Exp.
+1 Swan, Fred San Francisco 182 5-11 25 Guard 2
+2 Hyland, F. W. San Francisco 156 5-9 24 Half 1
+3 Rohesky, D. Bakersfield 180 5-11 20 Guard 0~
+4 Poulson, W. E. Beverly Hills 192 6-2 21 Tackle 2
+5 Millage, J. H. Phoenix, Ariz. 170 5-10 24 QB 0
+6 Price, Fred Long Beach 169 5-11 23 End 1
+7 Harris, Leo A. Santa Cruz 182 5-11 22 Tackle 2
+8 Freeman, Chris Bakersfield 184 % 6 21 Tackle 1
+9 Hill, Don K. Long Beach 163 5-10 22 Half 1
+11 Murphy, Mike Berkeley 166 5-5 21 Half 1
+12 Harder, Thjpo Bakersfield 179 5-10 19 End 0
+14 Shipkey, Ted Fullerton 176 5-11 22 End 2
+15 McCreery, J. H. Coronado Beach 174 5-11 24 Center 1
+16 Work, Thos. A. Pacific Grove 172 6-1 21 Half 1
+17 Greisser, A. H. Spokane, Wash 161 5-8 23 End 2
+18 Lewis, L. Portland, Ore. 172 5-10 20 QB 0
+19 Post, Eli Berkeley 178 20 QB 1
+20 Sims, Robert Long Beach 172 5-9 21 Half 0
+21 Symonds. N. M. Hinsdale, 111. 189 5-11 20 Guard 1
+22 Bogue, George San Mateo 191 5-1 20 Half 2
+23 Artman, Corwin Long Beach 212 6-2 19 Tackle 0
+24 Walker, Ed Wyatt, La. 180 5-10 25 End 2
+25 Vincenti, L. R. Pasadenia 155 5-10 20 End 0
+26 Patchett, E. L. San Luis Obispo 171 5-10 24 Fullback 1
+27 Garthwaite, J. Berkerely 155 5-8 22 Half 1
+28 Vermilya, R. San Mateo 181 21 Center 0
+29 Graves, Dave Los Angeles 174 6 23 Half 1
+30 Graham, Kenneth Pasadena 175 6-2 21 Center 1
+31 Wilton, Frank Huntington Park 156 5-9 21 Half 0
+32 Natcher, Stan Los Angeles 180 6 22 Center 0
+33 Leistncr, Hugo Palo Alto 170 5-11 24 Half 0
+34 Hoffman, C. Petaluma 185 6-2 23 Fullback 0
+35 Everett, Lyle Santa Rosa 192 6-3 22 Tackle 0
+36 Kazanjian, J. C. Fresno 185 5-11 22 Guard 0
+37 Trombetta, J. C. Stockton 164 5-7 21 Half 1
+38 Moomaw, Chet Huntington Beach 173 6 20 Tackle 0
+39 Fleishhacker, H. Menlo Park 209 6-4 18 Fullback 0
+40 Davidson, H. Sebastopol 184 5-11 21 End 2
+41 Worden, R. C. San Jose 170 5-11 20 End 0
+42 Sholes, Arlan Long Beach 198 5-10 25 Guard 2
+43 Young, R. E. Salt Lake City 185 6-V 2 20 QB 0
+44 Preston, J. B. Palo Alto 166 5-10 19 End 0
+45 Doyle, Morris Berkeley 210 6-4 17 Guard 0
+46 Joseph, Sam Los Angeles 175 5-10 20 Fullback 0
+47 Giflford, John P. Montezuma School 187 6 1 19 Tackle 0
+48 Sellman, Roland San Mateo 198 6-\'/ 2 21 Tackle 0
+49 Morley, V. A. Bakersfield 176 6 25 Guard 0
+10 Ingram, William Palo Alto 198 6 18 Guard 0
+No. Name Registered from Wght. Ht. Age Position Exp.
+1 Swan, Fred San Francisco 182 5-11 25 Guard 2
+2 Hyland, F. W. San Francisco 156 5-9 24 Half 1
+3 Rohesky, D. Bakersfield 180 5-11 20 Guard 0~
+4 Poulson, W. E. Beverly Hills 192 6-2 21 Tackle 2
+5 Millage, J. H. Phoenix, Ariz. 170 5-10 24 QB 0
+6 Price, Fred Long Beach 169 5-11 23 End 1
+7 Harris, Leo A. Santa Cruz 182 5-11 22 Tackle 2
+8 Freeman, Chris Bakersfield 184 % 6 21 Tackle 1
+9 Hill, Don K. Long Beach 163 5-10 22 Half 1
+11 Murphy, Mike Berkeley 166 5-5 21 Half 1
+12 Harder, Thjpo Bakersfield 179 5-10 19 End 0
+14 Shipkey, Ted Fullerton 176 5-11 22 End 2
+15 McCreery, J. H. Coronado Beach 174 5-11 24 Center 1
+16 Work, Thos. A. Pacific Grove 172 6-1 21 Half 1
+17 Greisser, A. H. Spokane, Wash 161 5-8 23 End 2
+18 Lewis, L. Portland, Ore. 172 5-10 20 QB 0
+19 Post, Eli Berkeley 178 20 QB 1
+20 Sims, Robert Long Beach 172 5-9 21 Half 0
+21 Symonds. N. M. Hinsdale, 111. 189 5-11 20 Guard 1
+22 Bogue, George San Mateo 191 5-1 20 Half 2
+23 Artman, Corwin Long Beach 212 6-2 19 Tackle 0
+24 Walker, Ed Wyatt, La. 180 5-10 25 End 2
+25 Vincenti, L. R. Pasadenia 155 5-10 20 End 0
+26 Patchett, E. L. San Luis Obispo 171 5-10 24 Fullback 1
+27 Garthwaite, J. Berkerely 155 5-8 22 Half 1
+28 Vermilya, R. San Mateo 181 21 Center 0
+29 Graves, Dave Los Angeles 174 6 23 Half 1
+30 Graham, Kenneth Pasadena 175 6-2 21 Center 1
+31 Wilton, Frank Huntington Park 156 5-9 21 Half 0
+32 Natcher, Stan Los Angeles 180 6 22 Center 0
+33 Leistncr, Hugo Palo Alto 170 5-11 24 Half 0
+34 Hoffman, C. Petaluma 185 6-2 23 Fullback 0
+35 Everett, Lyle Santa Rosa 192 6-3 22 Tackle 0
+36 Kazanjian, J. C. Fresno 185 5-11 22 Guard 0
+37 Trombetta, J. C. Stockton 164 5-7 21 Half 1
+38 Moomaw, Chet Huntington Beach 173 6 20 Tackle 0
+39 Fleishhacker, H. Menlo Park 209 6-4 18 Fullback 0
+40 Davidson, H. Sebastopol 184 5-11 21 End 2
+41 Worden, R. C. San Jose 170 5-11 20 End 0
+42 Sholes, Arlan Long Beach 198 5-10 25 Guard 2
+43 Young, R. E. Salt Lake City 185 6-V 2 20 QB 0
+44 Preston, J. B. Palo Alto 166 5-10 19 End 0
+45 Doyle, Morris Berkeley 210 6-4 17 Guard 0
+46 Joseph, Sam Los Angeles 175 5-10 20 Fullback 0
+47 Giflford, John P. Montezuma School 187 6 1 19 Tackle 0
+48 Sellman, Roland San Mateo 198 6-\'/ 2 21 Tackle 0
+49 Morley, V. A. Bakersfield 176 6 25 Guard 0
+10 Ingram, William Palo Alto 198 6 18 Guard 0
+No. Name Registered from Wght. Ht. Age Position Exp.
+1 Swan, Fred San Francisco 182 5-11 25 Guard 2
+2 Hyland, F. W. San Francisco 156 5-9 24 Half 1
+3 Rohesky, D. Bakersfield 180 5-11 20 Guard 0~
+4 Poulson, W. E. Beverly Hills 192 6-2 21 Tackle 2
+5 Millage, J. H. Phoenix, Ariz. 170 5-10 24 QB 0
+6 Price, Fred Long Beach 169 5-11 23 End 1
+7 Harris, Leo A. Santa Cruz 182 5-11 22 Tackle 2
+8 Freeman, Chris Bakersfield 184 % 6 21 Tackle 1
+9 Hill, Don K. Long Beach 163 5-10 22 Half 1
+11 Murphy, Mike Berkeley 166 5-5 21 Half 1
+12 Harder, Thjpo Bakersfield 179 5-10 19 End 0
+14 Shipkey, Ted Fullerton 176 5-11 22 End 2
+15 McCreery, J. H. Coronado Beach 174 5-11 24 Center 1
+16 Work, Thos. A. Pacific Grove 172 6-1 21 Half 1
+17 Greisser, A. H. Spokane, Wash 161 5-8 23 End 2
+18 Lewis, L. Portland, Ore. 172 5-10 20 QB 0
+19 Post, Eli Berkeley 178 20 QB 1
+20 Sims, Robert Long Beach 172 5-9 21 Half 0
+21 Symonds. N. M. Hinsdale, 111. 189 5-11 20 Guard 1
+22 Bogue, George San Mateo 191 5-1 20 Half 2
+23 Artman, Corwin Long Beach 212 6-2 19 Tackle 0
+24 Walker, Ed Wyatt, La. 180 5-10 25 End 2
+25 Vincenti, L. R. Pasadenia 155 5-10 20 End 0
+26 Patchett, E. L. San Luis Obispo 171 5-10 24 Fullback 1
+27 Garthwaite, J. Berkerely 155 5-8 22 Half 1
+28 Vermilya, R. San Mateo 181 21 Center 0
+29 Graves, Dave Los Angeles 174 6 23 Half 1
+30 Graham, Kenneth Pasadena 175 6-2 21 Center 1
+31 Wilton, Frank Huntington Park 156 5-9 21 Half 0
+32 Natcher, Stan Los Angeles 180 6 22 Center 0
+33 Leistncr, Hugo Palo Alto 170 5-11 24 Half 0
+34 Hoffman, C. Petaluma 185 6-2 23 Fullback 0
+35 Everett, Lyle Santa Rosa 192 6-3 22 Tackle 0
+36 Kazanjian, J. C. Fresno 185 5-11 22 Guard 0
+37 Trombetta, J. C. Stockton 164 5-7 21 Half 1
+38 Moomaw, Chet Huntington Beach 173 6 20 Tackle 0
+39 Fleishhacker, H. Menlo Park 209 6-4 18 Fullback 0
+40 Davidson, H. Sebastopol 184 5-11 21 End 2
+41 Worden, R. C. San Jose 170 5-11 20 End 0
+42 Sholes, Arlan Long Beach 198 5-10 25 Guard 2
+43 Young, R. E. Salt Lake City 185 6-V 2 20 QB 0
+44 Preston, J. B. Palo Alto 166 5-10 19 End 0
+45 Doyle, Morris Berkeley 210 6-4 17 Guard 0
+46 Joseph, Sam Los Angeles 175 5-10 20 Fullback 0
+47 Giflford, John P. Montezuma School 187 6 1 19 Tackle 0
+48 Sellman, Roland San Mateo 198 6-\'/ 2 21 Tackle 0
+49 Morley, V. A. Bakersfield 176 6 25 Guard 0
+10 Ingram, William Palo Alto 198 6 18 Guard 0
+No. Name Registered from Wght. Ht. Age Position Exp.
+1 Swan, Fred San Francisco 182 5-11 25 Guard 2
+2 Hyland, F. W. San Francisco 156 5-9 24 Half 1
+3 Rohesky, D. Bakersfield 180 5-11 20 Guard 0~
+4 Poulson, W. E. Beverly Hills 192 6-2 21 Tackle 2
+5 Millage, J. H. Phoenix, Ariz. 170 5-10 24 QB 0
+6 Price, Fred Long Beach 169 5-11 23 End 1
+7 Harris, Leo A. Santa Cruz 182 5-11 22 Tackle 2
+8 Freeman, Chris Bakersfield 184 % 6 21 Tackle 1
+9 Hill, Don K. Long Beach 163 5-10 22 Half 1
+11 Murphy, Mike Berkeley 166 5-5 21 Half 1
+12 Harder, Thjpo Bakersfield 179 5-10 19 End 0
+14 Shipkey, Ted Fullerton 176 5-11 22 End 2
+15 McCreery, J. H. Coronado Beach 174 5-11 24 Center 1
+16 Work, Thos. A. Pacific Grove 172 6-1 21 Half 1
+17 Greisser, A. H. Spokane, Wash 161 5-8 23 End 2
+18 Lewis, L. Portland, Ore. 172 5-10 20 QB 0
+19 Post, Eli Berkeley 178 20 QB 1
+20 Sims, Robert Long Beach 172 5-9 21 Half 0
+21 Symonds. N. M. Hinsdale, 111. 189 5-11 20 Guard 1
+22 Bogue, George San Mateo 191 5-1 20 Half 2
+23 Artman, Corwin Long Beach 212 6-2 19 Tackle 0
+24 Walker, Ed Wyatt, La. 180 5-10 25 End 2
+25 Vincenti, L. R. Pasadenia 155 5-10 20 End 0
+26 Patchett, E. L. San Luis Obispo 171 5-10 24 Fullback 1
+27 Garthwaite, J. Berkerely 155 5-8 22 Half 1
+28 Vermilya, R. San Mateo 181 21 Center 0
+29 Graves, Dave Los Angeles 174 6 23 Half 1
+30 Graham, Kenneth Pasadena 175 6-2 21 Center 1
+31 Wilton, Frank Huntington Park 156 5-9 21 Half 0
+32 Natcher, Stan Los Angeles 180 6 22 Center 0
+33 Leistncr, Hugo Palo Alto 170 5-11 24 Half 0
+34 Hoffman, C. Petaluma 185 6-2 23 Fullback 0
+35 Everett, Lyle Santa Rosa 192 6-3 22 Tackle 0
+36 Kazanjian, J. C. Fresno 185 5-11 22 Guard 0
+37 Trombetta, J. C. Stockton 164 5-7 21 Half 1
+38 Moomaw, Chet Huntington Beach 173 6 20 Tackle 0
+39 Fleishhacker, H. Menlo Park 209 6-4 18 Fullback 0
+40 Davidson, H. Sebastopol 184 5-11 21 End 2
+41 Worden, R. C. San Jose 170 5-11 20 End 0
+42 Sholes, Arlan Long Beach 198 5-10 25 Guard 2
+43 Young, R. E. Salt Lake City 185 6-V 2 20 QB 0
+44 Preston, J. B. Palo Alto 166 5-10 19 End 0
+45 Doyle, Morris Berkeley 210 6-4 17 Guard 0
+46 Joseph, Sam Los Angeles 175 5-10 20 Fullback 0
+47 Giflford, John P. Montezuma School 187 6 1 19 Tackle 0
+48 Sellman, Roland San Mateo 198 6-\'/ 2 21 Tackle 0
+49 Morley, V. A. Bakersfield 176 6 25 Guard 0
+10 Ingram, William Palo Alto 198 6 18 Guard 0
+No. Name Registered from Wght. Ht. Age Position Exp.
+1 Swan, Fred San Francisco 182 5-11 25 Guard 2
+2 Hyland, F. W. San Francisco 156 5-9 24 Half 1
+3 Rohesky, D. Bakersfield 180 5-11 20 Guard 0~
+4 Poulson, W. E. Beverly Hills 192 6-2 21 Tackle 2
+5 Millage, J. H. Phoenix, Ariz. 170 5-10 24 QB 0
+6 Price, Fred Long Beach 169 5-11 23 End 1
+7 Harris, Leo A. Santa Cruz 182 5-11 22 Tackle 2
+8 Freeman, Chris Bakersfield 184 % 6 21 Tackle 1
+9 Hill, Don K. Long Beach 163 5-10 22 Half 1
+11 Murphy, Mike Berkeley 166 5-5 21 Half 1
+12 Harder, Thjpo Bakersfield 179 5-10 19 End 0
+14 Shipkey, Ted Fullerton 176 5-11 22 End 2
+15 McCreery, J. H. Coronado Beach 174 5-11 24 Center 1
+16 Work, Thos. A. Pacific Grove 172 6-1 21 Half 1
+17 Greisser, A. H. Spokane, Wash 161 5-8 23 End 2
+18 Lewis, L. Portland, Ore. 172 5-10 20 QB 0
+19 Post, Eli Berkeley 178 20 QB 1
+20 Sims, Robert Long Beach 172 5-9 21 Half 0
+21 Symonds. N. M. Hinsdale, 111. 189 5-11 20 Guard 1
+22 Bogue, George San Mateo 191 5-1 20 Half 2
+23 Artman, Corwin Long Beach 212 6-2 19 Tackle 0
+24 Walker, Ed Wyatt, La. 180 5-10 25 End 2
+25 Vincenti, L. R. Pasadenia 155 5-10 20 End 0
+26 Patchett, E. L. San Luis Obispo 171 5-10 24 Fullback 1
+27 Garthwaite, J. Berkerely 155 5-8 22 Half 1
+28 Vermilya, R. San Mateo 181 21 Center 0
+29 Graves, Dave Los Angeles 174 6 23 Half 1
+30 Graham, Kenneth Pasadena 175 6-2 21 Center 1
+31 Wilton, Frank Huntington Park 156 5-9 21 Half 0
+32 Natcher, Stan Los Angeles 180 6 22 Center 0
+33 Leistncr, Hugo Palo Alto 170 5-11 24 Half 0
+34 Hoffman, C. Petaluma 185 6-2 23 Fullback 0
+35 Everett, Lyle Santa Rosa 192 6-3 22 Tackle 0
+36 Kazanjian, J. C. Fresno 185 5-11 22 Guard 0
+37 Trombetta, J. C. Stockton 164 5-7 21 Half 1
+38 Moomaw, Chet Huntington Beach 173 6 20 Tackle 0
+39 Fleishhacker, H. Menlo Park 209 6-4 18 Fullback 0
+40 Davidson, H. Sebastopol 184 5-11 21 End 2
+41 Worden, R. C. San Jose 170 5-11 20 End 0
+42 Sholes, Arlan Long Beach 198 5-10 25 Guard 2
+43 Young, R. E. Salt Lake City 185 6-V 2 20 QB 0
+44 Preston, J. B. Palo Alto 166 5-10 19 End 0
+45 Doyle, Morris Berkeley 210 6-4 17 Guard 0
+46 Joseph, Sam Los Angeles 175 5-10 20 Fullback 0
+47 Giflford, John P. Montezuma School 187 6 1 19 Tackle 0
+48 Sellman, Roland San Mateo 198 6-\'/ 2 21 Tackle 0
+49 Morley, V. A. Bakersfield 176 6 25 Guard 0
+10 Ingram, William Palo Alto 198 6 18 Guard 0
+No. Name Registered from Wght. Ht. Age Position Exp.
+1 Swan, Fred San Francisco 182 5-11 25 Guard 2
+2 Hyland, F. W. San Francisco 156 5-9 24 Half 1
+3 Rohesky, D. Bakersfield 180 5-11 20 Guard 0~
+4 Poulson, W. E. Beverly Hills 192 6-2 21 Tackle 2
+5 Millage, J. H. Phoenix, Ariz. 170 5-10 24 QB 0
+6 Price, Fred Long Beach 169 5-11 23 End 1
+7 Harris, Leo A. Santa Cruz 182 5-11 22 Tackle 2
+8 Freeman, Chris Bakersfield 184 % 6 21 Tackle 1
+9 Hill, Don K. Long Beach 163 5-10 22 Half 1
+11 Murphy, Mike Berkeley 166 5-5 21 Half 1
+12 Harder, Thjpo Bakersfield 179 5-10 19 End 0
+14 Shipkey, Ted Fullerton 176 5-11 22 End 2
+15 McCreery, J. H. Coronado Beach 174 5-11 24 Center 1
+16 Work, Thos. A. Pacific Grove 172 6-1 21 Half 1
+17 Greisser, A. H. Spokane, Wash 161 5-8 23 End 2
+18 Lewis, L. Portland, Ore. 172 5-10 20 QB 0
+19 Post, Eli Berkeley 178 20 QB 1
+20 Sims, Robert Long Beach 172 5-9 21 Half 0
+21 Symonds. N. M. Hinsdale, 111. 189 5-11 20 Guard 1
+22 Bogue, George San Mateo 191 5-1 20 Half 2
+23 Artman, Corwin Long Beach 212 6-2 19 Tackle 0
+24 Walker, Ed Wyatt, La. 180 5-10 25 End 2
+25 Vincenti, L. R. Pasadenia 155 5-10 20 End 0
+26 Patchett, E. L. San Luis Obispo 171 5-10 24 Fullback 1
+27 Garthwaite, J. Berkerely 155 5-8 22 Half 1
+28 Vermilya, R. San Mateo 181 21 Center 0
+29 Graves, Dave Los Angeles 174 6 23 Half 1
+30 Graham, Kenneth Pasadena 175 6-2 21 Center 1
+31 Wilton, Frank Huntington Park 156 5-9 21 Half 0
+32 Natcher, Stan Los Angeles 180 6 22 Center 0
+33 Leistncr, Hugo Palo Alto 170 5-11 24 Half 0
+34 Hoffman, C. Petaluma 185 6-2 23 Fullback 0
+35 Everett, Lyle Santa Rosa 192 6-3 22 Tackle 0
+36 Kazanjian, J. C. Fresno 185 5-11 22 Guard 0
+37 Trombetta, J. C. Stockton 164 5-7 21 Half 1
+38 Moomaw, Chet Huntington Beach 173 6 20 Tackle 0
+39 Fleishhacker, H. Menlo Park 209 6-4 18 Fullback 0
+40 Davidson, H. Sebastopol 184 5-11 21 End 2
+41 Worden, R. C. San Jose 170 5-11 20 End 0
+42 Sholes, Arlan Long Beach 198 5-10 25 Guard 2
+43 Young, R. E. Salt Lake City 185 6-V 2 20 QB 0
+44 Preston, J. B. Palo Alto 166 5-10 19 End 0
+45 Doyle, Morris Berkeley 210 6-4 17 Guard 0
+46 Joseph, Sam Los Angeles 175 5-10 20 Fullback 0
+47 Giflford, John P. Montezuma School 187 6 1 19 Tackle 0
+48 Sellman, Roland San Mateo 198 6-\'/ 2 21 Tackle 0
+49 Morley, V. A. Bakersfield 176 6 25 Guard 0
+10 Ingram, William Palo Alto 198 6 18 Guard 0
+No. Name Registered from Wght. Ht. Age Position Exp.
+1 Swan, Fred San Francisco 182 5-11 25 Guard 2
+2 Hyland, F. W. San Francisco 156 5-9 24 Half 1
+3 Rohesky, D. Bakersfield 180 5-11 20 Guard 0~
+4 Poulson, W. E. Beverly Hills 192 6-2 21 Tackle 2
+5 Millage, J. H. Phoenix, Ariz. 170 5-10 24 QB 0
+6 Price, Fred Long Beach 169 5-11 23 End 1
+7 Harris, Leo A. Santa Cruz 182 5-11 22 Tackle 2
+8 Freeman, Chris Bakersfield 184 % 6 21 Tackle 1
+9 Hill, Don K. Long Beach 163 5-10 22 Half 1
+11 Murphy, Mike Berkeley 166 5-5 21 Half 1
+12 Harder, Thjpo Bakersfield 179 5-10 19 End 0
+14 Shipkey, Ted Fullerton 176 5-11 22 End 2
+15 McCreery, J. H. Coronado Beach 174 5-11 24 Center 1
+16 Work, Thos. A. Pacific Grove 172 6-1 21 Half 1
+17 Greisser, A. H. Spokane, Wash 161 5-8 23 End 2
+18 Lewis, L. Portland, Ore. 172 5-10 20 QB 0
+19 Post, Eli Berkeley 178 20 QB 1
+20 Sims, Robert Long Beach 172 5-9 21 Half 0
+21 Symonds. N. M. Hinsdale, 111. 189 5-11 20 Guard 1
+22 Bogue, George San Mateo 191 5-1 20 Half 2
+23 Artman, Corwin Long Beach 212 6-2 19 Tackle 0
+24 Walker, Ed Wyatt, La. 180 5-10 25 End 2
+25 Vincenti, L. R. Pasadenia 155 5-10 20 End 0
+26 Patchett, E. L. San Luis Obispo 171 5-10 24 Fullback 1
+27 Garthwaite, J. Berkerely 155 5-8 22 Half 1
+28 Vermilya, R. San Mateo 181 21 Center 0
+29 Graves, Dave Los Angeles 174 6 23 Half 1
+30 Graham, Kenneth Pasadena 175 6-2 21 Center 1
+31 Wilton, Frank Huntington Park 156 5-9 21 Half 0
+32 Natcher, Stan Los Angeles 180 6 22 Center 0
+33 Leistncr, Hugo Palo Alto 170 5-11 24 Half 0
+34 Hoffman, C. Petaluma 185 6-2 23 Fullback 0
+35 Everett, Lyle Santa Rosa 192 6-3 22 Tackle 0
+36 Kazanjian, J. C. Fresno 185 5-11 22 Guard 0
+37 Trombetta, J. C. Stockton 164 5-7 21 Half 1
+38 Moomaw, Chet Huntington Beach 173 6 20 Tackle 0
+39 Fleishhacker, H. Menlo Park 209 6-4 18 Fullback 0
+40 Davidson, H. Sebastopol 184 5-11 21 End 2
+41 Worden, R. C. San Jose 170 5-11 20 End 0
+42 Sholes, Arlan Long Beach 198 5-10 25 Guard 2
+43 Young, R. E. Salt Lake City 185 6-V 2 20 QB 0
+44 Preston, J. B. Palo Alto 166 5-10 19 End 0
+45 Doyle, Morris Berkeley 210 6-4 17 Guard 0
+46 Joseph, Sam Los Angeles 175 5-10 20 Fullback 0
+47 Giflford, John P. Montezuma School 187 6 1 19 Tackle 0
+48 Sellman, Roland San Mateo 198 6-\'/ 2 21 Tackle 0
+49 Morley, V. A. Bakersfield 176 6 25 Guard 0
+10 Ingram, William Palo Alto 198 6 18 Guard 0
+No. Name Registered from Wght. Ht. Age Position Exp.
+1 Swan, Fred San Francisco 182 5-11 25 Guard 2
+2 Hyland, F. W. San Francisco 156 5-9 24 Half 1
+3 Rohesky, D. Bakersfield 180 5-11 20 Guard 0~
+4 Poulson, W. E. Beverly Hills 192 6-2 21 Tackle 2
+5 Millage, J. H. Phoenix, Ariz. 170 5-10 24 QB 0
+6 Price, Fred Long Beach 169 5-11 23 End 1
+7 Harris, Leo A. Santa Cruz 182 5-11 22 Tackle 2
+8 Freeman, Chris Bakersfield 184 % 6 21 Tackle 1
+9 Hill, Don K. Long Beach 163 5-10 22 Half 1
+11 Murphy, Mike Berkeley 166 5-5 21 Half 1
+12 Harder, Thjpo Bakersfield 179 5-10 19 End 0
+14 Shipkey, Ted Fullerton 176 5-11 22 End 2
+15 McCreery, J. H. Coronado Beach 174 5-11 24 Center 1
+16 Work, Thos. A. Pacific Grove 172 6-1 21 Half 1
+17 Greisser, A. H. Spokane, Wash 161 5-8 23 End 2
+18 Lewis, L. Portland, Ore. 172 5-10 20 QB 0
+19 Post, Eli Berkeley 178 20 QB 1
+20 Sims, Robert Long Beach 172 5-9 21 Half 0
+21 Symonds. N. M. Hinsdale, 111. 189 5-11 20 Guard 1
+22 Bogue, George San Mateo 191 5-1 20 Half 2
+23 Artman, Corwin Long Beach 212 6-2 19 Tackle 0
+24 Walker, Ed Wyatt, La. 180 5-10 25 End 2
+25 Vincenti, L. R. Pasadenia 155 5-10 20 End 0
+26 Patchett, E. L. San Luis Obispo 171 5-10 24 Fullback 1
+27 Garthwaite, J. Berkerely 155 5-8 22 Half 1
+28 Vermilya, R. San Mateo 181 21 Center 0
+29 Graves, Dave Los Angeles 174 6 23 Half 1
+30 Graham, Kenneth Pasadena 175 6-2 21 Center 1
+31 Wilton, Frank Huntington Park 156 5-9 21 Half 0
+32 Natcher, Stan Los Angeles 180 6 22 Center 0
+33 Leistncr, Hugo Palo Alto 170 5-11 24 Half 0
+34 Hoffman, C. Petaluma 185 6-2 23 Fullback 0
+35 Everett, Lyle Santa Rosa 192 6-3 22 Tackle 0
+36 Kazanjian, J. C. Fresno 185 5-11 22 Guard 0
+37 Trombetta, J. C. Stockton 164 5-7 21 Half 1
+38 Moomaw, Chet Huntington Beach 173 6 20 Tackle 0
+39 Fleishhacker, H. Menlo Park 209 6-4 18 Fullback 0
+40 Davidson, H. Sebastopol 184 5-11 21 End 2
+41 Worden, R. C. San Jose 170 5-11 20 End 0
+42 Sholes, Arlan Long Beach 198 5-10 25 Guard 2
+43 Young, R. E. Salt Lake City 185 6-V 2 20 QB 0
+44 Preston, J. B. Palo Alto 166 5-10 19 End 0
+45 Doyle, Morris Berkeley 210 6-4 17 Guard 0
+46 Joseph, Sam Los Angeles 175 5-10 20 Fullback 0
+47 Giflford, John P. Montezuma School 187 6 1 19 Tackle 0
+48 Sellman, Roland San Mateo 198 6-\'/ 2 21 Tackle 0
+49 Morley, V. A. Bakersfield 176 6 25 Guard 0
+10 Ingram, William Palo Alto 198 6 18 Guard 0
+No. Name Registered from Wght. Ht. Age Position Exp.
+1 Swan, Fred San Francisco 182 5-11 25 Guard 2
+2 Hyland, F. W. San Francisco 156 5-9 24 Half 1
+3 Rohesky, D. Bakersfield 180 5-11 20 Guard 0~
+4 Poulson, W. E. Beverly Hills 192 6-2 21 Tackle 2
+5 Millage, J. H. Phoenix, Ariz. 170 5-10 24 QB 0
+6 Price, Fred Long Beach 169 5-11 23 End 1
+7 Harris, Leo A. Santa Cruz 182 5-11 22 Tackle 2
+8 Freeman, Chris Bakersfield 184 % 6 21 Tackle 1
+9 Hill, Don K. Long Beach 163 5-10 22 Half 1
+11 Murphy, Mike Berkeley 166 5-5 21 Half 1
+12 Harder, Thjpo Bakersfield 179 5-10 19 End 0
+14 Shipkey, Ted Fullerton 176 5-11 22 End 2
+15 McCreery, J. H. Coronado Beach 174 5-11 24 Center 1
+16 Work, Thos. A. Pacific Grove 172 6-1 21 Half 1
+17 Greisser, A. H. Spokane, Wash 161 5-8 23 End 2
+18 Lewis, L. Portland, Ore. 172 5-10 20 QB 0
+19 Post, Eli Berkeley 178 20 QB 1
+20 Sims, Robert Long Beach 172 5-9 21 Half 0
+21 Symonds. N. M. Hinsdale, 111. 189 5-11 20 Guard 1
+22 Bogue, George San Mateo 191 5-1 20 Half 2
+23 Artman, Corwin Long Beach 212 6-2 19 Tackle 0
+24 Walker, Ed Wyatt, La. 180 5-10 25 End 2
+25 Vincenti, L. R. Pasadenia 155 5-10 20 End 0
+26 Patchett, E. L. San Luis Obispo 171 5-10 24 Fullback 1
+27 Garthwaite, J. Berkerely 155 5-8 22 Half 1
+28 Vermilya, R. San Mateo 181 21 Center 0
+29 Graves, Dave Los Angeles 174 6 23 Half 1
+30 Graham, Kenneth Pasadena 175 6-2 21 Center 1
+31 Wilton, Frank Huntington Park 156 5-9 21 Half 0
+32 Natcher, Stan Los Angeles 180 6 22 Center 0
+33 Leistncr, Hugo Palo Alto 170 5-11 24 Half 0
+34 Hoffman, C. Petaluma 185 6-2 23 Fullback 0
+35 Everett, Lyle Santa Rosa 192 6-3 22 Tackle 0
+36 Kazanjian, J. C. Fresno 185 5-11 22 Guard 0
+37 Trombetta, J. C. Stockton 164 5-7 21 Half 1
+38 Moomaw, Chet Huntington Beach 173 6 20 Tackle 0
+39 Fleishhacker, H. Menlo Park 209 6-4 18 Fullback 0
+40 Davidson, H. Sebastopol 184 5-11 21 End 2
+41 Worden, R. C. San Jose 170 5-11 20 End 0
+42 Sholes, Arlan Long Beach 198 5-10 25 Guard 2
+43 Young, R. E. Salt Lake City 185 6-V 2 20 QB 0
+44 Preston, J. B. Palo Alto 166 5-10 19 End 0
+45 Doyle, Morris Berkeley 210 6-4 17 Guard 0
+46 Joseph, Sam Los Angeles 175 5-10 20 Fullback 0
+47 Giflford, John P. Montezuma School 187 6 1 19 Tackle 0
+48 Sellman, Roland San Mateo 198 6-\'/ 2 21 Tackle 0
+49 Morley, V. A. Bakersfield 176 6 25 Guard 0
+10 Ingram, William Palo Alto 198 6 18 Guard 0
+No. Name Registered from Wght. Ht. Age Position Exp.
+1 Swan, Fred San Francisco 182 5-11 25 Guard 2
+2 Hyland, F. W. San Francisco 156 5-9 24 Half 1
+3 Rohesky, D. Bakersfield 180 5-11 20 Guard 0~
+4 Poulson, W. E. Beverly Hills 192 6-2 21 Tackle 2
+5 Millage, J. H. Phoenix, Ariz. 170 5-10 24 QB 0
+6 Price, Fred Long Beach 169 5-11 23 End 1
+7 Harris, Leo A. Santa Cruz 182 5-11 22 Tackle 2
+8 Freeman, Chris Bakersfield 184 % 6 21 Tackle 1
+9 Hill, Don K. Long Beach 163 5-10 22 Half 1
+11 Murphy, Mike Berkeley 166 5-5 21 Half 1
+12 Harder, Thjpo Bakersfield 179 5-10 19 End 0
+14 Shipkey, Ted Fullerton 176 5-11 22 End 2
+15 McCreery, J. H. Coronado Beach 174 5-11 24 Center 1
+16 Work, Thos. A. Pacific Grove 172 6-1 21 Half 1
+17 Greisser, A. H. Spokane, Wash 161 5-8 23 End 2
+18 Lewis, L. Portland, Ore. 172 5-10 20 QB 0
+19 Post, Eli Berkeley 178 20 QB 1
+20 Sims, Robert Long Beach 172 5-9 21 Half 0
+21 Symonds. N. M. Hinsdale, 111. 189 5-11 20 Guard 1
+22 Bogue, George San Mateo 191 5-1 20 Half 2
+23 Artman, Corwin Long Beach 212 6-2 19 Tackle 0
+24 Walker, Ed Wyatt, La. 180 5-10 25 End 2
+25 Vincenti, L. R. Pasadenia 155 5-10 20 End 0
+26 Patchett, E. L. San Luis Obispo 171 5-10 24 Fullback 1
+27 Garthwaite, J. Berkerely 155 5-8 22 Half 1
+28 Vermilya, R. San Mateo 181 21 Center 0
+29 Graves, Dave Los Angeles 174 6 23 Half 1
+30 Graham, Kenneth Pasadena 175 6-2 21 Center 1
+31 Wilton, Frank Huntington Park 156 5-9 21 Half 0
+32 Natcher, Stan Los Angeles 180 6 22 Center 0
+33 Leistncr, Hugo Palo Alto 170 5-11 24 Half 0
+34 Hoffman, C. Petaluma 185 6-2 23 Fullback 0
+35 Everett, Lyle Santa Rosa 192 6-3 22 Tackle 0
+36 Kazanjian, J. C. Fresno 185 5-11 22 Guard 0
+37 Trombetta, J. C. Stockton 164 5-7 21 Half 1
+38 Moomaw, Chet Huntington Beach 173 6 20 Tackle 0
+39 Fleishhacker, H. Menlo Park 209 6-4 18 Fullback 0
+40 Davidson, H. Sebastopol 184 5-11 21 End 2
+41 Worden, R. C. San Jose 170 5-11 20 End 0
+42 Sholes, Arlan Long Beach 198 5-10 25 Guard 2
+43 Young, R. E. Salt Lake City 185 6-V 2 20 QB 0
+44 Preston, J. B. Palo Alto 166 5-10 19 End 0
+45 Doyle, Morris Berkeley 210 6-4 17 Guard 0
+46 Joseph, Sam Los Angeles 175 5-10 20 Fullback 0
+47 Giflford, John P. Montezuma School 187 6 1 19 Tackle 0
+48 Sellman, Roland San Mateo 198 6-\'/ 2 21 Tackle 0
+49 Morley, V. A. Bakersfield 176 6 25 Guard 0
+10 Ingram, William Palo Alto 198 6 18 Guard 0
+No. Name Registered from Wght. Ht. Age Position Exp.
+1 Swan, Fred San Francisco 182 5-11 25 Guard 2
+2 Hyland, F. W. San Francisco 156 5-9 24 Half 1
+3 Rohesky, D. Bakersfield 180 5-11 20 Guard 0~
+4 Poulson, W. E. Beverly Hills 192 6-2 21 Tackle 2
+5 Millage, J. H. Phoenix, Ariz. 170 5-10 24 QB 0
+6 Price, Fred Long Beach 169 5-11 23 End 1
+7 Harris, Leo A. Santa Cruz 182 5-11 22 Tackle 2
+8 Freeman, Chris Bakersfield 184 % 6 21 Tackle 1
+9 Hill, Don K. Long Beach 163 5-10 22 Half 1
+11 Murphy, Mike Berkeley 166 5-5 21 Half 1
+12 Harder, Thjpo Bakersfield 179 5-10 19 End 0
+14 Shipkey, Ted Fullerton 176 5-11 22 End 2
+15 McCreery, J. H. Coronado Beach 174 5-11 24 Center 1
+16 Work, Thos. A. Pacific Grove 172 6-1 21 Half 1
+17 Greisser, A. H. Spokane, Wash 161 5-8 23 End 2
+18 Lewis, L. Portland, Ore. 172 5-10 20 QB 0
+19 Post, Eli Berkeley 178 20 QB 1
+20 Sims, Robert Long Beach 172 5-9 21 Half 0
+21 Symonds. N. M. Hinsdale, 111. 189 5-11 20 Guard 1
+22 Bogue, George San Mateo 191 5-1 20 Half 2
+23 Artman, Corwin Long Beach 212 6-2 19 Tackle 0
+24 Walker, Ed Wyatt, La. 180 5-10 25 End 2
+25 Vincenti, L. R. Pasadenia 155 5-10 20 End 0
+26 Patchett, E. L. San Luis Obispo 171 5-10 24 Fullback 1
+27 Garthwaite, J. Berkerely 155 5-8 22 Half 1
+28 Vermilya, R. San Mateo 181 21 Center 0
+29 Graves, Dave Los Angeles 174 6 23 Half 1
+30 Graham, Kenneth Pasadena 175 6-2 21 Center 1
+31 Wilton, Frank Huntington Park 156 5-9 21 Half 0
+32 Natcher, Stan Los Angeles 180 6 22 Center 0
+33 Leistncr, Hugo Palo Alto 170 5-11 24 Half 0
+34 Hoffman, C. Petaluma 185 6-2 23 Fullback 0
+35 Everett, Lyle Santa Rosa 192 6-3 22 Tackle 0
+36 Kazanjian, J. C. Fresno 185 5-11 22 Guard 0
+37 Trombetta, J. C. Stockton 164 5-7 21 Half 1
+38 Moomaw, Chet Huntington Beach 173 6 20 Tackle 0
+39 Fleishhacker, H. Menlo Park 209 6-4 18 Fullback 0
+40 Davidson, H. Sebastopol 184 5-11 21 End 2
+41 Worden, R. C. San Jose 170 5-11 20 End 0
+42 Sholes, Arlan Long Beach 198 5-10 25 Guard 2
+43 Young, R. E. Salt Lake City 185 6-V 2 20 QB 0
+44 Preston, J. B. Palo Alto 166 5-10 19 End 0
+45 Doyle, Morris Berkeley 210 6-4 17 Guard 0
+46 Joseph, Sam Los Angeles 175 5-10 20 Fullback 0
+47 Giflford, John P. Montezuma School 187 6 1 19 Tackle 0
+48 Sellman, Roland San Mateo 198 6-\'/ 2 21 Tackle 0
+49 Morley, V. A. Bakersfield 176 6 25 Guard 0
+10 Ingram, William Palo Alto 198 6 18 Guard 0
+No. Name Registered from Wght. Ht. Age Position Exp.
+1 Swan, Fred San Francisco 182 5-11 25 Guard 2
+2 Hyland, F. W. San Francisco 156 5-9 24 Half 1
+3 Rohesky, D. Bakersfield 180 5-11 20 Guard 0~
+4 Poulson, W. E. Beverly Hills 192 6-2 21 Tackle 2
+5 Millage, J. H. Phoenix, Ariz. 170 5-10 24 QB 0
+6 Price, Fred Long Beach 169 5-11 23 End 1
+7 Harris, Leo A. Santa Cruz 182 5-11 22 Tackle 2
+8 Freeman, Chris Bakersfield 184 % 6 21 Tackle 1
+9 Hill, Don K. Long Beach 163 5-10 22 Half 1
+11 Murphy, Mike Berkeley 166 5-5 21 Half 1
+12 Harder, Thjpo Bakersfield 179 5-10 19 End 0
+14 Shipkey, Ted Fullerton 176 5-11 22 End 2
+15 McCreery, J. H. Coronado Beach 174 5-11 24 Center 1
+16 Work, Thos. A. Pacific Grove 172 6-1 21 Half 1
+17 Greisser, A. H. Spokane, Wash 161 5-8 23 End 2
+18 Lewis, L. Portland, Ore. 172 5-10 20 QB 0
+19 Post, Eli Berkeley 178 20 QB 1
+20 Sims, Robert Long Beach 172 5-9 21 Half 0
+21 Symonds. N. M. Hinsdale, 111. 189 5-11 20 Guard 1
+22 Bogue, George San Mateo 191 5-1 20 Half 2
+23 Artman, Corwin Long Beach 212 6-2 19 Tackle 0
+24 Walker, Ed Wyatt, La. 180 5-10 25 End 2
+25 Vincenti, L. R. Pasadenia 155 5-10 20 End 0
+26 Patchett, E. L. San Luis Obispo 171 5-10 24 Fullback 1
+27 Garthwaite, J. Berkerely 155 5-8 22 Half 1
+28 Vermilya, R. San Mateo 181 21 Center 0
+29 Graves, Dave Los Angeles 174 6 23 Half 1
+30 Graham, Kenneth Pasadena 175 6-2 21 Center 1
+31 Wilton, Frank Huntington Park 156 5-9 21 Half 0
+32 Natcher, Stan Los Angeles 180 6 22 Center 0
+33 Leistncr, Hugo Palo Alto 170 5-11 24 Half 0
+34 Hoffman, C. Petaluma 185 6-2 23 Fullback 0
+35 Everett, Lyle Santa Rosa 192 6-3 22 Tackle 0
+36 Kazanjian, J. C. Fresno 185 5-11 22 Guard 0
+37 Trombetta, J. C. Stockton 164 5-7 21 Half 1
+38 Moomaw, Chet Huntington Beach 173 6 20 Tackle 0
+39 Fleishhacker, H. Menlo Park 209 6-4 18 Fullback 0
+40 Davidson, H. Sebastopol 184 5-11 21 End 2
+41 Worden, R. C. San Jose 170 5-11 20 End 0
+42 Sholes, Arlan Long Beach 198 5-10 25 Guard 2
+43 Young, R. E. Salt Lake City 185 6-V 2 20 QB 0
+44 Preston, J. B. Palo Alto 166 5-10 19 End 0
+45 Doyle, Morris Berkeley 210 6-4 17 Guard 0
+46 Joseph, Sam Los Angeles 175 5-10 20 Fullback 0
+47 Giflford, John P. Montezuma School 187 6 1 19 Tackle 0
+48 Sellman, Roland San Mateo 198 6-\'/ 2 21 Tackle 0
+49 Morley, V. A. Bakersfield 176 6 25 Guard 0
+10 Ingram, William Palo Alto 198 6 18 Guard 0
+No. Name Registered from Wght. Ht. Age Position Exp.
+1 Swan, Fred San Francisco 182 5-11 25 Guard 2
+2 Hyland, F. W. San Francisco 156 5-9 24 Half 1
+3 Rohesky, D. Bakersfield 180 5-11 20 Guard 0~
+4 Poulson, W. E. Beverly Hills 192 6-2 21 Tackle 2
+5 Millage, J. H. Phoenix, Ariz. 170 5-10 24 QB 0
+6 Price, Fred Long Beach 169 5-11 23 End 1
+7 Harris, Leo A. Santa Cruz 182 5-11 22 Tackle 2
+8 Freeman, Chris Bakersfield 184 % 6 21 Tackle 1
+9 Hill, Don K. Long Beach 163 5-10 22 Half 1
+11 Murphy, Mike Berkeley 166 5-5 21 Half 1
+12 Harder, Thjpo Bakersfield 179 5-10 19 End 0
+14 Shipkey, Ted Fullerton 176 5-11 22 End 2
+15 McCreery, J. H. Coronado Beach 174 5-11 24 Center 1
+16 Work, Thos. A. Pacific Grove 172 6-1 21 Half 1
+17 Greisser, A. H. Spokane, Wash 161 5-8 23 End 2
+18 Lewis, L. Portland, Ore. 172 5-10 20 QB 0
+19 Post, Eli Berkeley 178 20 QB 1
+20 Sims, Robert Long Beach 172 5-9 21 Half 0
+21 Symonds. N. M. Hinsdale, 111. 189 5-11 20 Guard 1
+22 Bogue, George San Mateo 191 5-1 20 Half 2
+23 Artman, Corwin Long Beach 212 6-2 19 Tackle 0
+24 Walker, Ed Wyatt, La. 180 5-10 25 End 2
+25 Vincenti, L. R. Pasadenia 155 5-10 20 End 0
+26 Patchett, E. L. San Luis Obispo 171 5-10 24 Fullback 1
+27 Garthwaite, J. Berkerely 155 5-8 22 Half 1
+28 Vermilya, R. San Mateo 181 21 Center 0
+29 Graves, Dave Los Angeles 174 6 23 Half 1
+30 Graham, Kenneth Pasadena 175 6-2 21 Center 1
+31 Wilton, Frank Huntington Park 156 5-9 21 Half 0
+32 Natcher, Stan Los Angeles 180 6 22 Center 0
+33 Leistncr, Hugo Palo Alto 170 5-11 24 Half 0
+34 Hoffman, C. Petaluma 185 6-2 23 Fullback 0
+35 Everett, Lyle Santa Rosa 192 6-3 22 Tackle 0
+36 Kazanjian, J. C. Fresno 185 5-11 22 Guard 0
+37 Trombetta, J. C. Stockton 164 5-7 21 Half 1
+38 Moomaw, Chet Huntington Beach 173 6 20 Tackle 0
+39 Fleishhacker, H. Menlo Park 209 6-4 18 Fullback 0
+40 Davidson, H. Sebastopol 184 5-11 21 End 2
+41 Worden, R. C. San Jose 170 5-11 20 End 0
+42 Sholes, Arlan Long Beach 198 5-10 25 Guard 2
+43 Young, R. E. Salt Lake City 185 6-V 2 20 QB 0
+44 Preston, J. B. Palo Alto 166 5-10 19 End 0
+45 Doyle, Morris Berkeley 210 6-4 17 Guard 0
+46 Joseph, Sam Los Angeles 175 5-10 20 Fullback 0
+47 Giflford, John P. Montezuma School 187 6 1 19 Tackle 0
+48 Sellman, Roland San Mateo 198 6-\'/ 2 21 Tackle 0
+49 Morley, V. A. Bakersfield 176 6 25 Guard 0
+10 Ingram, William Palo Alto 198 6 18 Guard 0

@@ -1,0 +1,451 @@
+# Floppy fundamentals
+## Computer Corner 
+### Richard Graves 
+Let's talk disks, diskettes, floppies and
+plastic pop tarts. Unless you have a tele
+porter, as in TRON, these are what you use
+to get data into and out of Macintosh com
+puters. IBM/Amiga/NeXT folks, as you know,
+are left out on this campus.
+There are three different flavors of
+diskettes. The original single-sided, 400K
+format was used by pre-Mac Plus machines.
+The most common format is double-sided,
+double-density, 800K.
+A few years ago, Apple rolled out the new
+FDHD drive. Realizing acronyms without
+vowels don't wash, Apple quickly renamed it
+the SuperDrive.
+SuperDrive can read 400K, 800K, IBM
+formatted and High Density (HD) diskettes.
+Generally, SE/30 and newer Macs have
+FDHDs.
+HDs have a second hole in addition to the
+one for the read-write tab. More importantly,
+they are different inside so they can store
+more data (1.4 megabytes).
+Problem: 800K drives in the old machines
+can't read HDs. They try to reformat them. If
+you do reinitialize an HD in an 800K drive,
+the format will eventually break down. You
+will again lose everything.
+Moral: never bring an HD near a non-
+SuperDrive Mac.
+Corollary to Moral: for now, while there
+are so many non-SuperDrive Macs around,
+L, ■
+
+don't use HDs. All Macs can read cheaper
+800K disks, so use them.
+Six ways to retrieve your disk
+1. Put Away (apple-Y), on System 7's File
+menu. Or drag the disk to the trash. Shut
+Down puts away all disks.
+2. Eject (apple-E), System 7's Special or
+System 6's File menu, or Eject button in
+Open/Save dialog. Unlike #1, this a) does not
+make the Mac forget about your disk and b)
+does not write housekeeping information.
+3. Apple-Shift-1 for the internal/upper
+disk, Apple-2 for the external/lower disk,
+Apple-0 for a third disk. Same as #2 but can
+be done any time, increasing the likelihood
+that something important has not been writ
+ten to disk.
+4. Restart your bombed Mac. Hold down
+the mouse button while starting up. It should
+spit out.
+5. Turn off the Mac. Put a straightened
+paper clip in the hole provided. If the disk
+doesn't come out easily, give up. Don't pry it
+out with a ruler, like some guy in Naranja did
+last year, or you'll have to buy a new one
+(drive, not ruler).
+6. Have someone with the tools and know
+how remove it from inside. Don't open an SE
+or Classic yourself unless you're prepared to
+emulate the Stadium Spectacular fireworks.
+Let's talk disks, diskettes, floppies and
+plastic pop tarts. Unless you have a tele
+porter, as in TRON, these are what you use
+to get data into and out of Macintosh com
+puters. IBM/Amiga/NeXT folks, as you know,
+are left out on this campus.
+There are three different flavors of
+diskettes. The original single-sided, 400K
+format was used by pre-Mac Plus machines.
+The most common format is double-sided,
+double-density, 800K.
+A few years ago, Apple rolled out the new
+FDHD drive. Realizing acronyms without
+vowels don't wash, Apple quickly renamed it
+the SuperDrive.
+SuperDrive can read 400K, 800K, IBM
+formatted and High Density (HD) diskettes.
+Generally, SE/30 and newer Macs have
+FDHDs.
+HDs have a second hole in addition to the
+one for the read-write tab. More importantly,
+they are different inside so they can store
+more data (1.4 megabytes).
+Problem: 800K drives in the old machines
+can't read HDs. They try to reformat them. If
+you do reinitialize an HD in an 800K drive,
+the format will eventually break down. You
+will again lose everything.
+Moral: never bring an HD near a non-
+SuperDrive Mac.
+Corollary to Moral: for now, while there
+are so many non-SuperDrive Macs around,
+L, ■
+
+don't use HDs. All Macs can read cheaper
+800K disks, so use them.
+Six ways to retrieve your disk
+1. Put Away (apple-Y), on System 7's File
+menu. Or drag the disk to the trash. Shut
+Down puts away all disks.
+2. Eject (apple-E), System 7's Special or
+System 6's File menu, or Eject button in
+Open/Save dialog. Unlike #1, this a) does not
+make the Mac forget about your disk and b)
+does not write housekeeping information.
+3. Apple-Shift-1 for the internal/upper
+disk, Apple-2 for the external/lower disk,
+Apple-0 for a third disk. Same as #2 but can
+be done any time, increasing the likelihood
+that something important has not been writ
+ten to disk.
+4. Restart your bombed Mac. Hold down
+the mouse button while starting up. It should
+spit out.
+5. Turn off the Mac. Put a straightened
+paper clip in the hole provided. If the disk
+doesn't come out easily, give up. Don't pry it
+out with a ruler, like some guy in Naranja did
+last year, or you'll have to buy a new one
+(drive, not ruler).
+6. Have someone with the tools and know
+how remove it from inside. Don't open an SE
+or Classic yourself unless you're prepared to
+emulate the Stadium Spectacular fireworks.
+Let's talk disks, diskettes, floppies and
+plastic pop tarts. Unless you have a tele
+porter, as in TRON, these are what you use
+to get data into and out of Macintosh com
+puters. IBM/Amiga/NeXT folks, as you know,
+are left out on this campus.
+There are three different flavors of
+diskettes. The original single-sided, 400K
+format was used by pre-Mac Plus machines.
+The most common format is double-sided,
+double-density, 800K.
+A few years ago, Apple rolled out the new
+FDHD drive. Realizing acronyms without
+vowels don't wash, Apple quickly renamed it
+the SuperDrive.
+SuperDrive can read 400K, 800K, IBM
+formatted and High Density (HD) diskettes.
+Generally, SE/30 and newer Macs have
+FDHDs.
+HDs have a second hole in addition to the
+one for the read-write tab. More importantly,
+they are different inside so they can store
+more data (1.4 megabytes).
+Problem: 800K drives in the old machines
+can't read HDs. They try to reformat them. If
+you do reinitialize an HD in an 800K drive,
+the format will eventually break down. You
+will again lose everything.
+Moral: never bring an HD near a non-
+SuperDrive Mac.
+Corollary to Moral: for now, while there
+are so many non-SuperDrive Macs around,
+L, ■
+
+don't use HDs. All Macs can read cheaper
+800K disks, so use them.
+Six ways to retrieve your disk
+1. Put Away (apple-Y), on System 7's File
+menu. Or drag the disk to the trash. Shut
+Down puts away all disks.
+2. Eject (apple-E), System 7's Special or
+System 6's File menu, or Eject button in
+Open/Save dialog. Unlike #1, this a) does not
+make the Mac forget about your disk and b)
+does not write housekeeping information.
+3. Apple-Shift-1 for the internal/upper
+disk, Apple-2 for the external/lower disk,
+Apple-0 for a third disk. Same as #2 but can
+be done any time, increasing the likelihood
+that something important has not been writ
+ten to disk.
+4. Restart your bombed Mac. Hold down
+the mouse button while starting up. It should
+spit out.
+5. Turn off the Mac. Put a straightened
+paper clip in the hole provided. If the disk
+doesn't come out easily, give up. Don't pry it
+out with a ruler, like some guy in Naranja did
+last year, or you'll have to buy a new one
+(drive, not ruler).
+6. Have someone with the tools and know
+how remove it from inside. Don't open an SE
+or Classic yourself unless you're prepared to
+emulate the Stadium Spectacular fireworks.
+Let's talk disks, diskettes, floppies and
+plastic pop tarts. Unless you have a tele
+porter, as in TRON, these are what you use
+to get data into and out of Macintosh com
+puters. IBM/Amiga/NeXT folks, as you know,
+are left out on this campus.
+There are three different flavors of
+diskettes. The original single-sided, 400K
+format was used by pre-Mac Plus machines.
+The most common format is double-sided,
+double-density, 800K.
+A few years ago, Apple rolled out the new
+FDHD drive. Realizing acronyms without
+vowels don't wash, Apple quickly renamed it
+the SuperDrive.
+SuperDrive can read 400K, 800K, IBM
+formatted and High Density (HD) diskettes.
+Generally, SE/30 and newer Macs have
+FDHDs.
+HDs have a second hole in addition to the
+one for the read-write tab. More importantly,
+they are different inside so they can store
+more data (1.4 megabytes).
+Problem: 800K drives in the old machines
+can't read HDs. They try to reformat them. If
+you do reinitialize an HD in an 800K drive,
+the format will eventually break down. You
+will again lose everything.
+Moral: never bring an HD near a non-
+SuperDrive Mac.
+Corollary to Moral: for now, while there
+are so many non-SuperDrive Macs around,
+L, ■
+
+don't use HDs. All Macs can read cheaper
+800K disks, so use them.
+Six ways to retrieve your disk
+1. Put Away (apple-Y), on System 7's File
+menu. Or drag the disk to the trash. Shut
+Down puts away all disks.
+2. Eject (apple-E), System 7's Special or
+System 6's File menu, or Eject button in
+Open/Save dialog. Unlike #1, this a) does not
+make the Mac forget about your disk and b)
+does not write housekeeping information.
+3. Apple-Shift-1 for the internal/upper
+disk, Apple-2 for the external/lower disk,
+Apple-0 for a third disk. Same as #2 but can
+be done any time, increasing the likelihood
+that something important has not been writ
+ten to disk.
+4. Restart your bombed Mac. Hold down
+the mouse button while starting up. It should
+spit out.
+5. Turn off the Mac. Put a straightened
+paper clip in the hole provided. If the disk
+doesn't come out easily, give up. Don't pry it
+out with a ruler, like some guy in Naranja did
+last year, or you'll have to buy a new one
+(drive, not ruler).
+6. Have someone with the tools and know
+how remove it from inside. Don't open an SE
+or Classic yourself unless you're prepared to
+emulate the Stadium Spectacular fireworks.
+Let's talk disks, diskettes, floppies and
+plastic pop tarts. Unless you have a tele
+porter, as in TRON, these are what you use
+to get data into and out of Macintosh com
+puters. IBM/Amiga/NeXT folks, as you know,
+are left out on this campus.
+There are three different flavors of
+diskettes. The original single-sided, 400K
+format was used by pre-Mac Plus machines.
+The most common format is double-sided,
+double-density, 800K.
+A few years ago, Apple rolled out the new
+FDHD drive. Realizing acronyms without
+vowels don't wash, Apple quickly renamed it
+the SuperDrive.
+SuperDrive can read 400K, 800K, IBM
+formatted and High Density (HD) diskettes.
+Generally, SE/30 and newer Macs have
+FDHDs.
+HDs have a second hole in addition to the
+one for the read-write tab. More importantly,
+they are different inside so they can store
+more data (1.4 megabytes).
+Problem: 800K drives in the old machines
+can't read HDs. They try to reformat them. If
+you do reinitialize an HD in an 800K drive,
+the format will eventually break down. You
+will again lose everything.
+Moral: never bring an HD near a non-
+SuperDrive Mac.
+Corollary to Moral: for now, while there
+are so many non-SuperDrive Macs around,
+L, ■
+
+don't use HDs. All Macs can read cheaper
+800K disks, so use them.
+Six ways to retrieve your disk
+1. Put Away (apple-Y), on System 7's File
+menu. Or drag the disk to the trash. Shut
+Down puts away all disks.
+2. Eject (apple-E), System 7's Special or
+System 6's File menu, or Eject button in
+Open/Save dialog. Unlike #1, this a) does not
+make the Mac forget about your disk and b)
+does not write housekeeping information.
+3. Apple-Shift-1 for the internal/upper
+disk, Apple-2 for the external/lower disk,
+Apple-0 for a third disk. Same as #2 but can
+be done any time, increasing the likelihood
+that something important has not been writ
+ten to disk.
+4. Restart your bombed Mac. Hold down
+the mouse button while starting up. It should
+spit out.
+5. Turn off the Mac. Put a straightened
+paper clip in the hole provided. If the disk
+doesn't come out easily, give up. Don't pry it
+out with a ruler, like some guy in Naranja did
+last year, or you'll have to buy a new one
+(drive, not ruler).
+6. Have someone with the tools and know
+how remove it from inside. Don't open an SE
+or Classic yourself unless you're prepared to
+emulate the Stadium Spectacular fireworks.
+Let's talk disks, diskettes, floppies and
+plastic pop tarts. Unless you have a tele
+porter, as in TRON, these are what you use
+to get data into and out of Macintosh com
+puters. IBM/Amiga/NeXT folks, as you know,
+are left out on this campus.
+There are three different flavors of
+diskettes. The original single-sided, 400K
+format was used by pre-Mac Plus machines.
+The most common format is double-sided,
+double-density, 800K.
+A few years ago, Apple rolled out the new
+FDHD drive. Realizing acronyms without
+vowels don't wash, Apple quickly renamed it
+the SuperDrive.
+SuperDrive can read 400K, 800K, IBM
+formatted and High Density (HD) diskettes.
+Generally, SE/30 and newer Macs have
+FDHDs.
+HDs have a second hole in addition to the
+one for the read-write tab. More importantly,
+they are different inside so they can store
+more data (1.4 megabytes).
+Problem: 800K drives in the old machines
+can't read HDs. They try to reformat them. If
+you do reinitialize an HD in an 800K drive,
+the format will eventually break down. You
+will again lose everything.
+Moral: never bring an HD near a non-
+SuperDrive Mac.
+Corollary to Moral: for now, while there
+are so many non-SuperDrive Macs around,
+L, ■
+
+don't use HDs. All Macs can read cheaper
+800K disks, so use them.
+Six ways to retrieve your disk
+1. Put Away (apple-Y), on System 7's File
+menu. Or drag the disk to the trash. Shut
+Down puts away all disks.
+2. Eject (apple-E), System 7's Special or
+System 6's File menu, or Eject button in
+Open/Save dialog. Unlike #1, this a) does not
+make the Mac forget about your disk and b)
+does not write housekeeping information.
+3. Apple-Shift-1 for the internal/upper
+disk, Apple-2 for the external/lower disk,
+Apple-0 for a third disk. Same as #2 but can
+be done any time, increasing the likelihood
+that something important has not been writ
+ten to disk.
+4. Restart your bombed Mac. Hold down
+the mouse button while starting up. It should
+spit out.
+5. Turn off the Mac. Put a straightened
+paper clip in the hole provided. If the disk
+doesn't come out easily, give up. Don't pry it
+out with a ruler, like some guy in Naranja did
+last year, or you'll have to buy a new one
+(drive, not ruler).
+6. Have someone with the tools and know
+how remove it from inside. Don't open an SE
+or Classic yourself unless you're prepared to
+emulate the Stadium Spectacular fireworks.
+Let's talk disks, diskettes, floppies and
+plastic pop tarts. Unless you have a tele
+porter, as in TRON, these are what you use
+to get data into and out of Macintosh com
+puters. IBM/Amiga/NeXT folks, as you know,
+are left out on this campus.
+There are three different flavors of
+diskettes. The original single-sided, 400K
+format was used by pre-Mac Plus machines.
+The most common format is double-sided,
+double-density, 800K.
+A few years ago, Apple rolled out the new
+FDHD drive. Realizing acronyms without
+vowels don't wash, Apple quickly renamed it
+the SuperDrive.
+SuperDrive can read 400K, 800K, IBM
+formatted and High Density (HD) diskettes.
+Generally, SE/30 and newer Macs have
+FDHDs.
+HDs have a second hole in addition to the
+one for the read-write tab. More importantly,
+they are different inside so they can store
+more data (1.4 megabytes).
+Problem: 800K drives in the old machines
+can't read HDs. They try to reformat them. If
+you do reinitialize an HD in an 800K drive,
+the format will eventually break down. You
+will again lose everything.
+Moral: never bring an HD near a non-
+SuperDrive Mac.
+Corollary to Moral: for now, while there
+are so many non-SuperDrive Macs around,
+L, ■
+
+don't use HDs. All Macs can read cheaper
+800K disks, so use them.
+Six ways to retrieve your disk
+1. Put Away (apple-Y), on System 7's File
+menu. Or drag the disk to the trash. Shut
+Down puts away all disks.
+2. Eject (apple-E), System 7's Special or
+System 6's File menu, or Eject button in
+Open/Save dialog. Unlike #1, this a) does not
+make the Mac forget about your disk and b)
+does not write housekeeping information.
+3. Apple-Shift-1 for the internal/upper
+disk, Apple-2 for the external/lower disk,
+Apple-0 for a third disk. Same as #2 but can
+be done any time, increasing the likelihood
+that something important has not been writ
+ten to disk.
+4. Restart your bombed Mac. Hold down
+the mouse button while starting up. It should
+spit out.
+5. Turn off the Mac. Put a straightened
+paper clip in the hole provided. If the disk
+doesn't come out easily, give up. Don't pry it
+out with a ruler, like some guy in Naranja did
+last year, or you'll have to buy a new one
+(drive, not ruler).
+6. Have someone with the tools and know
+how remove it from inside. Don't open an SE
+or Classic yourself unless you're prepared to
+emulate the Stadium Spectacular fireworks.

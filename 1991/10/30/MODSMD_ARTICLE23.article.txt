@@ -1,0 +1,1053 @@
+# Holograms to displace disks
+## 3-D data storage can speed, expand computer memory 
+### Andrew Neuschatz 
+Researchers in Stanford's Department of Elec
+trical Engineering have just about discovered how
+many computer disks can dance on the head of a
+pin.
+A team of researchers studying computer data
+storage is working on a way to store as many as 50
+million bits of data — the contents of about seven
+floppy disks — in a crystal rod one-eighth the size
+of a pin.
+The trick is the data are stored as holograms.
+Most people know holograms as 3-D pictures,
+like the dove£ and globes that hover inside credit
+cards. The same technology that has been used for
+years to store 3-D images is now being extended to
+store pictures of computer information.
+Since holograms are visual, a computer's bits
+
+(its smallest units of information) must
+
+be stored as a picture. To do this, a
+small electrical grid about one
+
+square inch — like a
+
+tiny television
+screen — dis
+plays the bits
+as a pattern
+of dark and
+light dots. A
+laser beam <
+is pointed
+
+through this
+display and into a
+
+pinpoint-sized crys
+tal where the picture
+is to be stored. At the
+same time, a second
+beam, called
+
+the refer
+ence beam, is (
+aimed at the
+
+display from a dif
+ferent angle.
+
+To retrieve the information, the
+reference beam alone is pointed at
+the crystal, and an image of the bit
+grid appears. Although the images
+would mean nothing to a human
+viewer, the computer can readily
+convert them back into bits in its
+memory.
+The Stanford team, headed by
+Professor Lambertus Hesselink,
+recently discovered a substance for
+the data holograms that allows
+greater storage than ever before.
+The material, strontium barium
+niobate (SBN), "accepts multiple
+images with reduced interference,"
+according to Hesselink. In other
+words, dozens of data holograms
+can be saved in one crystal rod and
+still be recalled separately.
+Before SBN was used, data from
+multiple images in a crystal would
+blur together. Now the interference
+
+is kept to a minimum, and 30 to 50 holograms can
+be superimposed in a single rod.
+For each hologram, a different phase, or partic
+ular light pattern, of reference beam is used. Each
+phase acts as a key to one page of the rod's mem
+ory: To recall it, the key phase is pointed in, and
+the page reappears.
+The team has recorded holograms in squares
+containing 250,000 bits and will soon attempt to
+store one million bits, or 128,000 bytes, in a single
+hologram. With up to 50 holograms, a rod might
+store up to 6.4 megabytes of data. The rods can be
+packed close together — thousands can fit in the
+space taken by conventional hard disk.
+One pair of lasers could read all the rods
+stored in a single holographic storage unit. How
+ever, no mechanical movement is necessary to
+align the lasers. "There are no moving parts in
+
+our current design," Hesselink said. Instead,
+to steer the lasers toward a particular rod,
+
+electromagnetic forces are used to bend the
+
+lasers' paths.
+Prof. Hesselink has
+
+been collaborat-
+
+ing on the pro
+ject with grad
+uate students
+Jeff Wilde
+and Muthu
+Jeganathan,
+as well as the
+
+■s/ Microelectron
+ics and Computer
+Technology Corpora
+tion of Austin, Tex.
+Several other Ameri-
+
+can and Japanese
+. companies are
+} also working on
+holographic data
+storage.
+
+In addition to storing data in
+extremely compact form, holographic
+storage increases the speed at which
+data can be recalled. Unlike conven
+tional disk drives which store and
+retrieve data one bit at a time, holo
+graphic storage systems retrieve whole
+pages of information at one time.
+"The big advantage," says Hes
+selink, "is that the transfer rate can be
+one hundred or a thousand times
+faster."
+Although consumer products
+that utilize holographic storage are at
+least five years away, it is easy to fore
+see the practical applications of such
+technology. For example, computers
+could store video much more easily if
+they had the ability to store and retrieve
+whole images at one time. A computer
+with holographic storage could function
+as a television, videocassette recorder
+and compact-disc player, opening up
+true multimedia computer use.
+
+
+
+Aaron Baker - Daily
+Researchers in Stanford's Department of Elec
+trical Engineering have just about discovered how
+many computer disks can dance on the head of a
+pin.
+A team of researchers studying computer data
+storage is working on a way to store as many as 50
+million bits of data — the contents of about seven
+floppy disks — in a crystal rod one-eighth the size
+of a pin.
+The trick is the data are stored as holograms.
+Most people know holograms as 3-D pictures,
+like the dove£ and globes that hover inside credit
+cards. The same technology that has been used for
+years to store 3-D images is now being extended to
+store pictures of computer information.
+Since holograms are visual, a computer's bits
+
+(its smallest units of information) must
+
+be stored as a picture. To do this, a
+small electrical grid about one
+
+square inch — like a
+
+tiny television
+screen — dis
+plays the bits
+as a pattern
+of dark and
+light dots. A
+laser beam <
+is pointed
+
+through this
+display and into a
+
+pinpoint-sized crys
+tal where the picture
+is to be stored. At the
+same time, a second
+beam, called
+
+the refer
+ence beam, is (
+aimed at the
+
+display from a dif
+ferent angle.
+
+To retrieve the information, the
+reference beam alone is pointed at
+the crystal, and an image of the bit
+grid appears. Although the images
+would mean nothing to a human
+viewer, the computer can readily
+convert them back into bits in its
+memory.
+The Stanford team, headed by
+Professor Lambertus Hesselink,
+recently discovered a substance for
+the data holograms that allows
+greater storage than ever before.
+The material, strontium barium
+niobate (SBN), "accepts multiple
+images with reduced interference,"
+according to Hesselink. In other
+words, dozens of data holograms
+can be saved in one crystal rod and
+still be recalled separately.
+Before SBN was used, data from
+multiple images in a crystal would
+blur together. Now the interference
+
+is kept to a minimum, and 30 to 50 holograms can
+be superimposed in a single rod.
+For each hologram, a different phase, or partic
+ular light pattern, of reference beam is used. Each
+phase acts as a key to one page of the rod's mem
+ory: To recall it, the key phase is pointed in, and
+the page reappears.
+The team has recorded holograms in squares
+containing 250,000 bits and will soon attempt to
+store one million bits, or 128,000 bytes, in a single
+hologram. With up to 50 holograms, a rod might
+store up to 6.4 megabytes of data. The rods can be
+packed close together — thousands can fit in the
+space taken by conventional hard disk.
+One pair of lasers could read all the rods
+stored in a single holographic storage unit. How
+ever, no mechanical movement is necessary to
+align the lasers. "There are no moving parts in
+
+our current design," Hesselink said. Instead,
+to steer the lasers toward a particular rod,
+
+electromagnetic forces are used to bend the
+
+lasers' paths.
+Prof. Hesselink has
+
+been collaborat-
+
+ing on the pro
+ject with grad
+uate students
+Jeff Wilde
+and Muthu
+Jeganathan,
+as well as the
+
+■s/ Microelectron
+ics and Computer
+Technology Corpora
+tion of Austin, Tex.
+Several other Ameri-
+
+can and Japanese
+. companies are
+} also working on
+holographic data
+storage.
+
+In addition to storing data in
+extremely compact form, holographic
+storage increases the speed at which
+data can be recalled. Unlike conven
+tional disk drives which store and
+retrieve data one bit at a time, holo
+graphic storage systems retrieve whole
+pages of information at one time.
+"The big advantage," says Hes
+selink, "is that the transfer rate can be
+one hundred or a thousand times
+faster."
+Although consumer products
+that utilize holographic storage are at
+least five years away, it is easy to fore
+see the practical applications of such
+technology. For example, computers
+could store video much more easily if
+they had the ability to store and retrieve
+whole images at one time. A computer
+with holographic storage could function
+as a television, videocassette recorder
+and compact-disc player, opening up
+true multimedia computer use.
+
+
+
+Aaron Baker - Daily
+Researchers in Stanford's Department of Elec
+trical Engineering have just about discovered how
+many computer disks can dance on the head of a
+pin.
+A team of researchers studying computer data
+storage is working on a way to store as many as 50
+million bits of data — the contents of about seven
+floppy disks — in a crystal rod one-eighth the size
+of a pin.
+The trick is the data are stored as holograms.
+Most people know holograms as 3-D pictures,
+like the dove£ and globes that hover inside credit
+cards. The same technology that has been used for
+years to store 3-D images is now being extended to
+store pictures of computer information.
+Since holograms are visual, a computer's bits
+
+(its smallest units of information) must
+
+be stored as a picture. To do this, a
+small electrical grid about one
+
+square inch — like a
+
+tiny television
+screen — dis
+plays the bits
+as a pattern
+of dark and
+light dots. A
+laser beam <
+is pointed
+
+through this
+display and into a
+
+pinpoint-sized crys
+tal where the picture
+is to be stored. At the
+same time, a second
+beam, called
+
+the refer
+ence beam, is (
+aimed at the
+
+display from a dif
+ferent angle.
+
+To retrieve the information, the
+reference beam alone is pointed at
+the crystal, and an image of the bit
+grid appears. Although the images
+would mean nothing to a human
+viewer, the computer can readily
+convert them back into bits in its
+memory.
+The Stanford team, headed by
+Professor Lambertus Hesselink,
+recently discovered a substance for
+the data holograms that allows
+greater storage than ever before.
+The material, strontium barium
+niobate (SBN), "accepts multiple
+images with reduced interference,"
+according to Hesselink. In other
+words, dozens of data holograms
+can be saved in one crystal rod and
+still be recalled separately.
+Before SBN was used, data from
+multiple images in a crystal would
+blur together. Now the interference
+
+is kept to a minimum, and 30 to 50 holograms can
+be superimposed in a single rod.
+For each hologram, a different phase, or partic
+ular light pattern, of reference beam is used. Each
+phase acts as a key to one page of the rod's mem
+ory: To recall it, the key phase is pointed in, and
+the page reappears.
+The team has recorded holograms in squares
+containing 250,000 bits and will soon attempt to
+store one million bits, or 128,000 bytes, in a single
+hologram. With up to 50 holograms, a rod might
+store up to 6.4 megabytes of data. The rods can be
+packed close together — thousands can fit in the
+space taken by conventional hard disk.
+One pair of lasers could read all the rods
+stored in a single holographic storage unit. How
+ever, no mechanical movement is necessary to
+align the lasers. "There are no moving parts in
+
+our current design," Hesselink said. Instead,
+to steer the lasers toward a particular rod,
+
+electromagnetic forces are used to bend the
+
+lasers' paths.
+Prof. Hesselink has
+
+been collaborat-
+
+ing on the pro
+ject with grad
+uate students
+Jeff Wilde
+and Muthu
+Jeganathan,
+as well as the
+
+■s/ Microelectron
+ics and Computer
+Technology Corpora
+tion of Austin, Tex.
+Several other Ameri-
+
+can and Japanese
+. companies are
+} also working on
+holographic data
+storage.
+
+In addition to storing data in
+extremely compact form, holographic
+storage increases the speed at which
+data can be recalled. Unlike conven
+tional disk drives which store and
+retrieve data one bit at a time, holo
+graphic storage systems retrieve whole
+pages of information at one time.
+"The big advantage," says Hes
+selink, "is that the transfer rate can be
+one hundred or a thousand times
+faster."
+Although consumer products
+that utilize holographic storage are at
+least five years away, it is easy to fore
+see the practical applications of such
+technology. For example, computers
+could store video much more easily if
+they had the ability to store and retrieve
+whole images at one time. A computer
+with holographic storage could function
+as a television, videocassette recorder
+and compact-disc player, opening up
+true multimedia computer use.
+
+
+
+Aaron Baker - Daily
+Researchers in Stanford's Department of Elec
+trical Engineering have just about discovered how
+many computer disks can dance on the head of a
+pin.
+A team of researchers studying computer data
+storage is working on a way to store as many as 50
+million bits of data — the contents of about seven
+floppy disks — in a crystal rod one-eighth the size
+of a pin.
+The trick is the data are stored as holograms.
+Most people know holograms as 3-D pictures,
+like the dove£ and globes that hover inside credit
+cards. The same technology that has been used for
+years to store 3-D images is now being extended to
+store pictures of computer information.
+Since holograms are visual, a computer's bits
+
+(its smallest units of information) must
+
+be stored as a picture. To do this, a
+small electrical grid about one
+
+square inch — like a
+
+tiny television
+screen — dis
+plays the bits
+as a pattern
+of dark and
+light dots. A
+laser beam <
+is pointed
+
+through this
+display and into a
+
+pinpoint-sized crys
+tal where the picture
+is to be stored. At the
+same time, a second
+beam, called
+
+the refer
+ence beam, is (
+aimed at the
+
+display from a dif
+ferent angle.
+
+To retrieve the information, the
+reference beam alone is pointed at
+the crystal, and an image of the bit
+grid appears. Although the images
+would mean nothing to a human
+viewer, the computer can readily
+convert them back into bits in its
+memory.
+The Stanford team, headed by
+Professor Lambertus Hesselink,
+recently discovered a substance for
+the data holograms that allows
+greater storage than ever before.
+The material, strontium barium
+niobate (SBN), "accepts multiple
+images with reduced interference,"
+according to Hesselink. In other
+words, dozens of data holograms
+can be saved in one crystal rod and
+still be recalled separately.
+Before SBN was used, data from
+multiple images in a crystal would
+blur together. Now the interference
+
+is kept to a minimum, and 30 to 50 holograms can
+be superimposed in a single rod.
+For each hologram, a different phase, or partic
+ular light pattern, of reference beam is used. Each
+phase acts as a key to one page of the rod's mem
+ory: To recall it, the key phase is pointed in, and
+the page reappears.
+The team has recorded holograms in squares
+containing 250,000 bits and will soon attempt to
+store one million bits, or 128,000 bytes, in a single
+hologram. With up to 50 holograms, a rod might
+store up to 6.4 megabytes of data. The rods can be
+packed close together — thousands can fit in the
+space taken by conventional hard disk.
+One pair of lasers could read all the rods
+stored in a single holographic storage unit. How
+ever, no mechanical movement is necessary to
+align the lasers. "There are no moving parts in
+
+our current design," Hesselink said. Instead,
+to steer the lasers toward a particular rod,
+
+electromagnetic forces are used to bend the
+
+lasers' paths.
+Prof. Hesselink has
+
+been collaborat-
+
+ing on the pro
+ject with grad
+uate students
+Jeff Wilde
+and Muthu
+Jeganathan,
+as well as the
+
+■s/ Microelectron
+ics and Computer
+Technology Corpora
+tion of Austin, Tex.
+Several other Ameri-
+
+can and Japanese
+. companies are
+} also working on
+holographic data
+storage.
+
+In addition to storing data in
+extremely compact form, holographic
+storage increases the speed at which
+data can be recalled. Unlike conven
+tional disk drives which store and
+retrieve data one bit at a time, holo
+graphic storage systems retrieve whole
+pages of information at one time.
+"The big advantage," says Hes
+selink, "is that the transfer rate can be
+one hundred or a thousand times
+faster."
+Although consumer products
+that utilize holographic storage are at
+least five years away, it is easy to fore
+see the practical applications of such
+technology. For example, computers
+could store video much more easily if
+they had the ability to store and retrieve
+whole images at one time. A computer
+with holographic storage could function
+as a television, videocassette recorder
+and compact-disc player, opening up
+true multimedia computer use.
+
+
+
+Aaron Baker - Daily
+Researchers in Stanford's Department of Elec
+trical Engineering have just about discovered how
+many computer disks can dance on the head of a
+pin.
+A team of researchers studying computer data
+storage is working on a way to store as many as 50
+million bits of data — the contents of about seven
+floppy disks — in a crystal rod one-eighth the size
+of a pin.
+The trick is the data are stored as holograms.
+Most people know holograms as 3-D pictures,
+like the dove£ and globes that hover inside credit
+cards. The same technology that has been used for
+years to store 3-D images is now being extended to
+store pictures of computer information.
+Since holograms are visual, a computer's bits
+
+(its smallest units of information) must
+
+be stored as a picture. To do this, a
+small electrical grid about one
+
+square inch — like a
+
+tiny television
+screen — dis
+plays the bits
+as a pattern
+of dark and
+light dots. A
+laser beam <
+is pointed
+
+through this
+display and into a
+
+pinpoint-sized crys
+tal where the picture
+is to be stored. At the
+same time, a second
+beam, called
+
+the refer
+ence beam, is (
+aimed at the
+
+display from a dif
+ferent angle.
+
+To retrieve the information, the
+reference beam alone is pointed at
+the crystal, and an image of the bit
+grid appears. Although the images
+would mean nothing to a human
+viewer, the computer can readily
+convert them back into bits in its
+memory.
+The Stanford team, headed by
+Professor Lambertus Hesselink,
+recently discovered a substance for
+the data holograms that allows
+greater storage than ever before.
+The material, strontium barium
+niobate (SBN), "accepts multiple
+images with reduced interference,"
+according to Hesselink. In other
+words, dozens of data holograms
+can be saved in one crystal rod and
+still be recalled separately.
+Before SBN was used, data from
+multiple images in a crystal would
+blur together. Now the interference
+
+is kept to a minimum, and 30 to 50 holograms can
+be superimposed in a single rod.
+For each hologram, a different phase, or partic
+ular light pattern, of reference beam is used. Each
+phase acts as a key to one page of the rod's mem
+ory: To recall it, the key phase is pointed in, and
+the page reappears.
+The team has recorded holograms in squares
+containing 250,000 bits and will soon attempt to
+store one million bits, or 128,000 bytes, in a single
+hologram. With up to 50 holograms, a rod might
+store up to 6.4 megabytes of data. The rods can be
+packed close together — thousands can fit in the
+space taken by conventional hard disk.
+One pair of lasers could read all the rods
+stored in a single holographic storage unit. How
+ever, no mechanical movement is necessary to
+align the lasers. "There are no moving parts in
+
+our current design," Hesselink said. Instead,
+to steer the lasers toward a particular rod,
+
+electromagnetic forces are used to bend the
+
+lasers' paths.
+Prof. Hesselink has
+
+been collaborat-
+
+ing on the pro
+ject with grad
+uate students
+Jeff Wilde
+and Muthu
+Jeganathan,
+as well as the
+
+■s/ Microelectron
+ics and Computer
+Technology Corpora
+tion of Austin, Tex.
+Several other Ameri-
+
+can and Japanese
+. companies are
+} also working on
+holographic data
+storage.
+
+In addition to storing data in
+extremely compact form, holographic
+storage increases the speed at which
+data can be recalled. Unlike conven
+tional disk drives which store and
+retrieve data one bit at a time, holo
+graphic storage systems retrieve whole
+pages of information at one time.
+"The big advantage," says Hes
+selink, "is that the transfer rate can be
+one hundred or a thousand times
+faster."
+Although consumer products
+that utilize holographic storage are at
+least five years away, it is easy to fore
+see the practical applications of such
+technology. For example, computers
+could store video much more easily if
+they had the ability to store and retrieve
+whole images at one time. A computer
+with holographic storage could function
+as a television, videocassette recorder
+and compact-disc player, opening up
+true multimedia computer use.
+
+
+
+Aaron Baker - Daily
+Researchers in Stanford's Department of Elec
+trical Engineering have just about discovered how
+many computer disks can dance on the head of a
+pin.
+A team of researchers studying computer data
+storage is working on a way to store as many as 50
+million bits of data — the contents of about seven
+floppy disks — in a crystal rod one-eighth the size
+of a pin.
+The trick is the data are stored as holograms.
+Most people know holograms as 3-D pictures,
+like the dove£ and globes that hover inside credit
+cards. The same technology that has been used for
+years to store 3-D images is now being extended to
+store pictures of computer information.
+Since holograms are visual, a computer's bits
+
+(its smallest units of information) must
+
+be stored as a picture. To do this, a
+small electrical grid about one
+
+square inch — like a
+
+tiny television
+screen — dis
+plays the bits
+as a pattern
+of dark and
+light dots. A
+laser beam <
+is pointed
+
+through this
+display and into a
+
+pinpoint-sized crys
+tal where the picture
+is to be stored. At the
+same time, a second
+beam, called
+
+the refer
+ence beam, is (
+aimed at the
+
+display from a dif
+ferent angle.
+
+To retrieve the information, the
+reference beam alone is pointed at
+the crystal, and an image of the bit
+grid appears. Although the images
+would mean nothing to a human
+viewer, the computer can readily
+convert them back into bits in its
+memory.
+The Stanford team, headed by
+Professor Lambertus Hesselink,
+recently discovered a substance for
+the data holograms that allows
+greater storage than ever before.
+The material, strontium barium
+niobate (SBN), "accepts multiple
+images with reduced interference,"
+according to Hesselink. In other
+words, dozens of data holograms
+can be saved in one crystal rod and
+still be recalled separately.
+Before SBN was used, data from
+multiple images in a crystal would
+blur together. Now the interference
+
+is kept to a minimum, and 30 to 50 holograms can
+be superimposed in a single rod.
+For each hologram, a different phase, or partic
+ular light pattern, of reference beam is used. Each
+phase acts as a key to one page of the rod's mem
+ory: To recall it, the key phase is pointed in, and
+the page reappears.
+The team has recorded holograms in squares
+containing 250,000 bits and will soon attempt to
+store one million bits, or 128,000 bytes, in a single
+hologram. With up to 50 holograms, a rod might
+store up to 6.4 megabytes of data. The rods can be
+packed close together — thousands can fit in the
+space taken by conventional hard disk.
+One pair of lasers could read all the rods
+stored in a single holographic storage unit. How
+ever, no mechanical movement is necessary to
+align the lasers. "There are no moving parts in
+
+our current design," Hesselink said. Instead,
+to steer the lasers toward a particular rod,
+
+electromagnetic forces are used to bend the
+
+lasers' paths.
+Prof. Hesselink has
+
+been collaborat-
+
+ing on the pro
+ject with grad
+uate students
+Jeff Wilde
+and Muthu
+Jeganathan,
+as well as the
+
+■s/ Microelectron
+ics and Computer
+Technology Corpora
+tion of Austin, Tex.
+Several other Ameri-
+
+can and Japanese
+. companies are
+} also working on
+holographic data
+storage.
+
+In addition to storing data in
+extremely compact form, holographic
+storage increases the speed at which
+data can be recalled. Unlike conven
+tional disk drives which store and
+retrieve data one bit at a time, holo
+graphic storage systems retrieve whole
+pages of information at one time.
+"The big advantage," says Hes
+selink, "is that the transfer rate can be
+one hundred or a thousand times
+faster."
+Although consumer products
+that utilize holographic storage are at
+least five years away, it is easy to fore
+see the practical applications of such
+technology. For example, computers
+could store video much more easily if
+they had the ability to store and retrieve
+whole images at one time. A computer
+with holographic storage could function
+as a television, videocassette recorder
+and compact-disc player, opening up
+true multimedia computer use.
+
+
+
+Aaron Baker - Daily
+Researchers in Stanford's Department of Elec
+trical Engineering have just about discovered how
+many computer disks can dance on the head of a
+pin.
+A team of researchers studying computer data
+storage is working on a way to store as many as 50
+million bits of data — the contents of about seven
+floppy disks — in a crystal rod one-eighth the size
+of a pin.
+The trick is the data are stored as holograms.
+Most people know holograms as 3-D pictures,
+like the dove£ and globes that hover inside credit
+cards. The same technology that has been used for
+years to store 3-D images is now being extended to
+store pictures of computer information.
+Since holograms are visual, a computer's bits
+
+(its smallest units of information) must
+
+be stored as a picture. To do this, a
+small electrical grid about one
+
+square inch — like a
+
+tiny television
+screen — dis
+plays the bits
+as a pattern
+of dark and
+light dots. A
+laser beam <
+is pointed
+
+through this
+display and into a
+
+pinpoint-sized crys
+tal where the picture
+is to be stored. At the
+same time, a second
+beam, called
+
+the refer
+ence beam, is (
+aimed at the
+
+display from a dif
+ferent angle.
+
+To retrieve the information, the
+reference beam alone is pointed at
+the crystal, and an image of the bit
+grid appears. Although the images
+would mean nothing to a human
+viewer, the computer can readily
+convert them back into bits in its
+memory.
+The Stanford team, headed by
+Professor Lambertus Hesselink,
+recently discovered a substance for
+the data holograms that allows
+greater storage than ever before.
+The material, strontium barium
+niobate (SBN), "accepts multiple
+images with reduced interference,"
+according to Hesselink. In other
+words, dozens of data holograms
+can be saved in one crystal rod and
+still be recalled separately.
+Before SBN was used, data from
+multiple images in a crystal would
+blur together. Now the interference
+
+is kept to a minimum, and 30 to 50 holograms can
+be superimposed in a single rod.
+For each hologram, a different phase, or partic
+ular light pattern, of reference beam is used. Each
+phase acts as a key to one page of the rod's mem
+ory: To recall it, the key phase is pointed in, and
+the page reappears.
+The team has recorded holograms in squares
+containing 250,000 bits and will soon attempt to
+store one million bits, or 128,000 bytes, in a single
+hologram. With up to 50 holograms, a rod might
+store up to 6.4 megabytes of data. The rods can be
+packed close together — thousands can fit in the
+space taken by conventional hard disk.
+One pair of lasers could read all the rods
+stored in a single holographic storage unit. How
+ever, no mechanical movement is necessary to
+align the lasers. "There are no moving parts in
+
+our current design," Hesselink said. Instead,
+to steer the lasers toward a particular rod,
+
+electromagnetic forces are used to bend the
+
+lasers' paths.
+Prof. Hesselink has
+
+been collaborat-
+
+ing on the pro
+ject with grad
+uate students
+Jeff Wilde
+and Muthu
+Jeganathan,
+as well as the
+
+■s/ Microelectron
+ics and Computer
+Technology Corpora
+tion of Austin, Tex.
+Several other Ameri-
+
+can and Japanese
+. companies are
+} also working on
+holographic data
+storage.
+
+In addition to storing data in
+extremely compact form, holographic
+storage increases the speed at which
+data can be recalled. Unlike conven
+tional disk drives which store and
+retrieve data one bit at a time, holo
+graphic storage systems retrieve whole
+pages of information at one time.
+"The big advantage," says Hes
+selink, "is that the transfer rate can be
+one hundred or a thousand times
+faster."
+Although consumer products
+that utilize holographic storage are at
+least five years away, it is easy to fore
+see the practical applications of such
+technology. For example, computers
+could store video much more easily if
+they had the ability to store and retrieve
+whole images at one time. A computer
+with holographic storage could function
+as a television, videocassette recorder
+and compact-disc player, opening up
+true multimedia computer use.
+
+
+
+Aaron Baker - Daily

@@ -1,0 +1,2193 @@
+# Researchers Discuss Uses Of Computers In Solving Complex Medical Problems
+## 
+### FRANK MARKOWITZ 
+Computers may hold the keys to a
+number of complex medical questions,
+ffom when a patient is suffering from
+glaucoma to what causes paranoia,
+medical researchers said here
+yesterday.
+Medical researchers from across the
+nation attended a day-long conference
+on the use of computers in medicine
+held in conjunction with the
+dedication of the Stanford University
+Medical Experimental Computer
+facility (SUMEX).
+Directed by Genetics Prof. Joshua
+Lederberg, a Nobel Laureate, a
+SUMEX project explores uses of
+artificial intelligence in many health
+fields, from psychiatry to
+ophthalmology.
+In artifical intelligence applications,
+the computer is used as an extension
+of the human brain, rather than simply
+as a calculator. By storing huge bodies
+of knowledge, constructing models
+and making complex decisions, the
+computer can become an invaluable
+aid to doctors.
+Computer Network
+The backbone of SUMEX is a
+Stanford PDP-10 computer connected
+by two networks to user terminals in
+50 cities. Through this network,
+researchers can share both facilities
+and knowledge.
+The use of computer-based
+consultation systems for diseases of
+the eye was discussed by Professors
+Saul Amarel and Casimir Kulikowski
+of Rutgers. Together with Dr. Afran
+Safir, an ophthalmologist at Mt. Sinai
+School of Medicine, they have
+developed a national computer
+network to diagnose and treat
+glaucoma.
+Glaucoma is a disease in which
+increased pressure within the eye
+impairs sight, sometimes leading to
+blindness. The disease most frequently
+strikes among those over 40.
+An elaborate computer model of
+glaucoma, which includes symptoms,
+their pathological causes and possible
+treatments, will soon be tested at three
+eye centers: Mount Sinai Hospital and
+Medical Center, New York;
+Washington University, St. Louis ; and
+Johns Hopkins University in
+Baltimore.
+Trying to simulate the
+tremendously complex, often
+
+instinctive thought processes of a
+physician making a diagnosis has its
+own problems, Julikowski noted.
+"Doctors rarely agree on the decision
+rules," he said.
+Another problem researchers face is
+in developing computer systems that
+briefly tell the physician why a
+prescribed treatment should be used,
+Computer Science Prof. Edward
+Feigenbaum said. Doctors will not
+accept a suggested treatment in a
+life-or-death situation "unless they
+[the systems] can explain
+themselves," he emphasized.
+Diseases of the mind may also
+eventually be cured with the aid of
+computers, suggested Dr. Kenneth
+Coiby, a UCLA psychiatrist and
+computer scientist. Colby spoke about
+his development of a computer
+of a paranoid patient.
+The computer simulates a paranoiac
+in such detail that it can actually be
+"interviewed" by a psychiatrist.
+During the interview, the "patient"
+even asks itself whether its
+interrogator "is incompetent, whether
+he's crazy, whether he's a sex fiend,"
+similar to the way a paranoiac would
+illogically suspect others of wanting to
+harm him.
+The "patient" can even withdraw
+by telling the interviewer, "I'm getting
+exhausted. I've got to go," Colby
+added, prompting laughter from his
+audience.
+Thoughts Understood
+Thus, psychiatrists can better
+understand the thought processes of a
+paranoiac, and attempt to discover the
+causes and treatments of the disease,
+Colby said. Using his computer model,
+Colby is working on a theory that
+paranoia is an extreme sensitivity
+caused by shame or humiliation.
+Appropriately using computer
+terminology, he admitted that he's
+ldoking at paranoia exclusively as a
+"software" disorder the result of
+psychological disturbances. Many
+other scientists are investigating
+possible "hardware" (biochemical)
+causes of mental disorders.
+But "at some level everything is
+chemical," he said.
+Colby forsees a need for
+experiments on the effects of
+humiliation on paranoid patients to
+test his theory. But noting that such
+experiments would be "extremely
+
+cruel," he asked, "Is it ethical to
+experiment on paranoid patients?"
+Two SUMEX projects based at
+Stanford were also discussed. A
+computer program which helps
+physicians choose the correct
+antibiotic to treat a bacterial infection
+has been developed by Doctors
+Stanley Cohen and Stanton Axline of
+the Medical School.
+Feigenbaum, Lederberg and
+
+Chemistry Prof. Carl Djerassi have
+created a system which will analyze
+unknown organic compounds found in
+the human body.
+The scientists hope that by
+studying the incidence of these
+compounds in healthy and sick bodies,
+they may eventually be able to
+identify diseases by determining the
+amounts of these compounds present
+in a patient.
+Computers may hold the keys to a
+number of complex medical questions,
+ffom when a patient is suffering from
+glaucoma to what causes paranoia,
+medical researchers said here
+yesterday.
+Medical researchers from across the
+nation attended a day-long conference
+on the use of computers in medicine
+held in conjunction with the
+dedication of the Stanford University
+Medical Experimental Computer
+facility (SUMEX).
+Directed by Genetics Prof. Joshua
+Lederberg, a Nobel Laureate, a
+SUMEX project explores uses of
+artificial intelligence in many health
+fields, from psychiatry to
+ophthalmology.
+In artifical intelligence applications,
+the computer is used as an extension
+of the human brain, rather than simply
+as a calculator. By storing huge bodies
+of knowledge, constructing models
+and making complex decisions, the
+computer can become an invaluable
+aid to doctors.
+Computer Network
+The backbone of SUMEX is a
+Stanford PDP-10 computer connected
+by two networks to user terminals in
+50 cities. Through this network,
+researchers can share both facilities
+and knowledge.
+The use of computer-based
+consultation systems for diseases of
+the eye was discussed by Professors
+Saul Amarel and Casimir Kulikowski
+of Rutgers. Together with Dr. Afran
+Safir, an ophthalmologist at Mt. Sinai
+School of Medicine, they have
+developed a national computer
+network to diagnose and treat
+glaucoma.
+Glaucoma is a disease in which
+increased pressure within the eye
+impairs sight, sometimes leading to
+blindness. The disease most frequently
+strikes among those over 40.
+An elaborate computer model of
+glaucoma, which includes symptoms,
+their pathological causes and possible
+treatments, will soon be tested at three
+eye centers: Mount Sinai Hospital and
+Medical Center, New York;
+Washington University, St. Louis ; and
+Johns Hopkins University in
+Baltimore.
+Trying to simulate the
+tremendously complex, often
+
+instinctive thought processes of a
+physician making a diagnosis has its
+own problems, Julikowski noted.
+"Doctors rarely agree on the decision
+rules," he said.
+Another problem researchers face is
+in developing computer systems that
+briefly tell the physician why a
+prescribed treatment should be used,
+Computer Science Prof. Edward
+Feigenbaum said. Doctors will not
+accept a suggested treatment in a
+life-or-death situation "unless they
+[the systems] can explain
+themselves," he emphasized.
+Diseases of the mind may also
+eventually be cured with the aid of
+computers, suggested Dr. Kenneth
+Coiby, a UCLA psychiatrist and
+computer scientist. Colby spoke about
+his development of a computer
+of a paranoid patient.
+The computer simulates a paranoiac
+in such detail that it can actually be
+"interviewed" by a psychiatrist.
+During the interview, the "patient"
+even asks itself whether its
+interrogator "is incompetent, whether
+he's crazy, whether he's a sex fiend,"
+similar to the way a paranoiac would
+illogically suspect others of wanting to
+harm him.
+The "patient" can even withdraw
+by telling the interviewer, "I'm getting
+exhausted. I've got to go," Colby
+added, prompting laughter from his
+audience.
+Thoughts Understood
+Thus, psychiatrists can better
+understand the thought processes of a
+paranoiac, and attempt to discover the
+causes and treatments of the disease,
+Colby said. Using his computer model,
+Colby is working on a theory that
+paranoia is an extreme sensitivity
+caused by shame or humiliation.
+Appropriately using computer
+terminology, he admitted that he's
+ldoking at paranoia exclusively as a
+"software" disorder the result of
+psychological disturbances. Many
+other scientists are investigating
+possible "hardware" (biochemical)
+causes of mental disorders.
+But "at some level everything is
+chemical," he said.
+Colby forsees a need for
+experiments on the effects of
+humiliation on paranoid patients to
+test his theory. But noting that such
+experiments would be "extremely
+
+cruel," he asked, "Is it ethical to
+experiment on paranoid patients?"
+Two SUMEX projects based at
+Stanford were also discussed. A
+computer program which helps
+physicians choose the correct
+antibiotic to treat a bacterial infection
+has been developed by Doctors
+Stanley Cohen and Stanton Axline of
+the Medical School.
+Feigenbaum, Lederberg and
+
+Chemistry Prof. Carl Djerassi have
+created a system which will analyze
+unknown organic compounds found in
+the human body.
+The scientists hope that by
+studying the incidence of these
+compounds in healthy and sick bodies,
+they may eventually be able to
+identify diseases by determining the
+amounts of these compounds present
+in a patient.
+Computers may hold the keys to a
+number of complex medical questions,
+ffom when a patient is suffering from
+glaucoma to what causes paranoia,
+medical researchers said here
+yesterday.
+Medical researchers from across the
+nation attended a day-long conference
+on the use of computers in medicine
+held in conjunction with the
+dedication of the Stanford University
+Medical Experimental Computer
+facility (SUMEX).
+Directed by Genetics Prof. Joshua
+Lederberg, a Nobel Laureate, a
+SUMEX project explores uses of
+artificial intelligence in many health
+fields, from psychiatry to
+ophthalmology.
+In artifical intelligence applications,
+the computer is used as an extension
+of the human brain, rather than simply
+as a calculator. By storing huge bodies
+of knowledge, constructing models
+and making complex decisions, the
+computer can become an invaluable
+aid to doctors.
+Computer Network
+The backbone of SUMEX is a
+Stanford PDP-10 computer connected
+by two networks to user terminals in
+50 cities. Through this network,
+researchers can share both facilities
+and knowledge.
+The use of computer-based
+consultation systems for diseases of
+the eye was discussed by Professors
+Saul Amarel and Casimir Kulikowski
+of Rutgers. Together with Dr. Afran
+Safir, an ophthalmologist at Mt. Sinai
+School of Medicine, they have
+developed a national computer
+network to diagnose and treat
+glaucoma.
+Glaucoma is a disease in which
+increased pressure within the eye
+impairs sight, sometimes leading to
+blindness. The disease most frequently
+strikes among those over 40.
+An elaborate computer model of
+glaucoma, which includes symptoms,
+their pathological causes and possible
+treatments, will soon be tested at three
+eye centers: Mount Sinai Hospital and
+Medical Center, New York;
+Washington University, St. Louis ; and
+Johns Hopkins University in
+Baltimore.
+Trying to simulate the
+tremendously complex, often
+
+instinctive thought processes of a
+physician making a diagnosis has its
+own problems, Julikowski noted.
+"Doctors rarely agree on the decision
+rules," he said.
+Another problem researchers face is
+in developing computer systems that
+briefly tell the physician why a
+prescribed treatment should be used,
+Computer Science Prof. Edward
+Feigenbaum said. Doctors will not
+accept a suggested treatment in a
+life-or-death situation "unless they
+[the systems] can explain
+themselves," he emphasized.
+Diseases of the mind may also
+eventually be cured with the aid of
+computers, suggested Dr. Kenneth
+Coiby, a UCLA psychiatrist and
+computer scientist. Colby spoke about
+his development of a computer
+of a paranoid patient.
+The computer simulates a paranoiac
+in such detail that it can actually be
+"interviewed" by a psychiatrist.
+During the interview, the "patient"
+even asks itself whether its
+interrogator "is incompetent, whether
+he's crazy, whether he's a sex fiend,"
+similar to the way a paranoiac would
+illogically suspect others of wanting to
+harm him.
+The "patient" can even withdraw
+by telling the interviewer, "I'm getting
+exhausted. I've got to go," Colby
+added, prompting laughter from his
+audience.
+Thoughts Understood
+Thus, psychiatrists can better
+understand the thought processes of a
+paranoiac, and attempt to discover the
+causes and treatments of the disease,
+Colby said. Using his computer model,
+Colby is working on a theory that
+paranoia is an extreme sensitivity
+caused by shame or humiliation.
+Appropriately using computer
+terminology, he admitted that he's
+ldoking at paranoia exclusively as a
+"software" disorder the result of
+psychological disturbances. Many
+other scientists are investigating
+possible "hardware" (biochemical)
+causes of mental disorders.
+But "at some level everything is
+chemical," he said.
+Colby forsees a need for
+experiments on the effects of
+humiliation on paranoid patients to
+test his theory. But noting that such
+experiments would be "extremely
+
+cruel," he asked, "Is it ethical to
+experiment on paranoid patients?"
+Two SUMEX projects based at
+Stanford were also discussed. A
+computer program which helps
+physicians choose the correct
+antibiotic to treat a bacterial infection
+has been developed by Doctors
+Stanley Cohen and Stanton Axline of
+the Medical School.
+Feigenbaum, Lederberg and
+
+Chemistry Prof. Carl Djerassi have
+created a system which will analyze
+unknown organic compounds found in
+the human body.
+The scientists hope that by
+studying the incidence of these
+compounds in healthy and sick bodies,
+they may eventually be able to
+identify diseases by determining the
+amounts of these compounds present
+in a patient.
+Computers may hold the keys to a
+number of complex medical questions,
+ffom when a patient is suffering from
+glaucoma to what causes paranoia,
+medical researchers said here
+yesterday.
+Medical researchers from across the
+nation attended a day-long conference
+on the use of computers in medicine
+held in conjunction with the
+dedication of the Stanford University
+Medical Experimental Computer
+facility (SUMEX).
+Directed by Genetics Prof. Joshua
+Lederberg, a Nobel Laureate, a
+SUMEX project explores uses of
+artificial intelligence in many health
+fields, from psychiatry to
+ophthalmology.
+In artifical intelligence applications,
+the computer is used as an extension
+of the human brain, rather than simply
+as a calculator. By storing huge bodies
+of knowledge, constructing models
+and making complex decisions, the
+computer can become an invaluable
+aid to doctors.
+Computer Network
+The backbone of SUMEX is a
+Stanford PDP-10 computer connected
+by two networks to user terminals in
+50 cities. Through this network,
+researchers can share both facilities
+and knowledge.
+The use of computer-based
+consultation systems for diseases of
+the eye was discussed by Professors
+Saul Amarel and Casimir Kulikowski
+of Rutgers. Together with Dr. Afran
+Safir, an ophthalmologist at Mt. Sinai
+School of Medicine, they have
+developed a national computer
+network to diagnose and treat
+glaucoma.
+Glaucoma is a disease in which
+increased pressure within the eye
+impairs sight, sometimes leading to
+blindness. The disease most frequently
+strikes among those over 40.
+An elaborate computer model of
+glaucoma, which includes symptoms,
+their pathological causes and possible
+treatments, will soon be tested at three
+eye centers: Mount Sinai Hospital and
+Medical Center, New York;
+Washington University, St. Louis ; and
+Johns Hopkins University in
+Baltimore.
+Trying to simulate the
+tremendously complex, often
+
+instinctive thought processes of a
+physician making a diagnosis has its
+own problems, Julikowski noted.
+"Doctors rarely agree on the decision
+rules," he said.
+Another problem researchers face is
+in developing computer systems that
+briefly tell the physician why a
+prescribed treatment should be used,
+Computer Science Prof. Edward
+Feigenbaum said. Doctors will not
+accept a suggested treatment in a
+life-or-death situation "unless they
+[the systems] can explain
+themselves," he emphasized.
+Diseases of the mind may also
+eventually be cured with the aid of
+computers, suggested Dr. Kenneth
+Coiby, a UCLA psychiatrist and
+computer scientist. Colby spoke about
+his development of a computer
+of a paranoid patient.
+The computer simulates a paranoiac
+in such detail that it can actually be
+"interviewed" by a psychiatrist.
+During the interview, the "patient"
+even asks itself whether its
+interrogator "is incompetent, whether
+he's crazy, whether he's a sex fiend,"
+similar to the way a paranoiac would
+illogically suspect others of wanting to
+harm him.
+The "patient" can even withdraw
+by telling the interviewer, "I'm getting
+exhausted. I've got to go," Colby
+added, prompting laughter from his
+audience.
+Thoughts Understood
+Thus, psychiatrists can better
+understand the thought processes of a
+paranoiac, and attempt to discover the
+causes and treatments of the disease,
+Colby said. Using his computer model,
+Colby is working on a theory that
+paranoia is an extreme sensitivity
+caused by shame or humiliation.
+Appropriately using computer
+terminology, he admitted that he's
+ldoking at paranoia exclusively as a
+"software" disorder the result of
+psychological disturbances. Many
+other scientists are investigating
+possible "hardware" (biochemical)
+causes of mental disorders.
+But "at some level everything is
+chemical," he said.
+Colby forsees a need for
+experiments on the effects of
+humiliation on paranoid patients to
+test his theory. But noting that such
+experiments would be "extremely
+
+cruel," he asked, "Is it ethical to
+experiment on paranoid patients?"
+Two SUMEX projects based at
+Stanford were also discussed. A
+computer program which helps
+physicians choose the correct
+antibiotic to treat a bacterial infection
+has been developed by Doctors
+Stanley Cohen and Stanton Axline of
+the Medical School.
+Feigenbaum, Lederberg and
+
+Chemistry Prof. Carl Djerassi have
+created a system which will analyze
+unknown organic compounds found in
+the human body.
+The scientists hope that by
+studying the incidence of these
+compounds in healthy and sick bodies,
+they may eventually be able to
+identify diseases by determining the
+amounts of these compounds present
+in a patient.
+Computers may hold the keys to a
+number of complex medical questions,
+ffom when a patient is suffering from
+glaucoma to what causes paranoia,
+medical researchers said here
+yesterday.
+Medical researchers from across the
+nation attended a day-long conference
+on the use of computers in medicine
+held in conjunction with the
+dedication of the Stanford University
+Medical Experimental Computer
+facility (SUMEX).
+Directed by Genetics Prof. Joshua
+Lederberg, a Nobel Laureate, a
+SUMEX project explores uses of
+artificial intelligence in many health
+fields, from psychiatry to
+ophthalmology.
+In artifical intelligence applications,
+the computer is used as an extension
+of the human brain, rather than simply
+as a calculator. By storing huge bodies
+of knowledge, constructing models
+and making complex decisions, the
+computer can become an invaluable
+aid to doctors.
+Computer Network
+The backbone of SUMEX is a
+Stanford PDP-10 computer connected
+by two networks to user terminals in
+50 cities. Through this network,
+researchers can share both facilities
+and knowledge.
+The use of computer-based
+consultation systems for diseases of
+the eye was discussed by Professors
+Saul Amarel and Casimir Kulikowski
+of Rutgers. Together with Dr. Afran
+Safir, an ophthalmologist at Mt. Sinai
+School of Medicine, they have
+developed a national computer
+network to diagnose and treat
+glaucoma.
+Glaucoma is a disease in which
+increased pressure within the eye
+impairs sight, sometimes leading to
+blindness. The disease most frequently
+strikes among those over 40.
+An elaborate computer model of
+glaucoma, which includes symptoms,
+their pathological causes and possible
+treatments, will soon be tested at three
+eye centers: Mount Sinai Hospital and
+Medical Center, New York;
+Washington University, St. Louis ; and
+Johns Hopkins University in
+Baltimore.
+Trying to simulate the
+tremendously complex, often
+
+instinctive thought processes of a
+physician making a diagnosis has its
+own problems, Julikowski noted.
+"Doctors rarely agree on the decision
+rules," he said.
+Another problem researchers face is
+in developing computer systems that
+briefly tell the physician why a
+prescribed treatment should be used,
+Computer Science Prof. Edward
+Feigenbaum said. Doctors will not
+accept a suggested treatment in a
+life-or-death situation "unless they
+[the systems] can explain
+themselves," he emphasized.
+Diseases of the mind may also
+eventually be cured with the aid of
+computers, suggested Dr. Kenneth
+Coiby, a UCLA psychiatrist and
+computer scientist. Colby spoke about
+his development of a computer
+of a paranoid patient.
+The computer simulates a paranoiac
+in such detail that it can actually be
+"interviewed" by a psychiatrist.
+During the interview, the "patient"
+even asks itself whether its
+interrogator "is incompetent, whether
+he's crazy, whether he's a sex fiend,"
+similar to the way a paranoiac would
+illogically suspect others of wanting to
+harm him.
+The "patient" can even withdraw
+by telling the interviewer, "I'm getting
+exhausted. I've got to go," Colby
+added, prompting laughter from his
+audience.
+Thoughts Understood
+Thus, psychiatrists can better
+understand the thought processes of a
+paranoiac, and attempt to discover the
+causes and treatments of the disease,
+Colby said. Using his computer model,
+Colby is working on a theory that
+paranoia is an extreme sensitivity
+caused by shame or humiliation.
+Appropriately using computer
+terminology, he admitted that he's
+ldoking at paranoia exclusively as a
+"software" disorder the result of
+psychological disturbances. Many
+other scientists are investigating
+possible "hardware" (biochemical)
+causes of mental disorders.
+But "at some level everything is
+chemical," he said.
+Colby forsees a need for
+experiments on the effects of
+humiliation on paranoid patients to
+test his theory. But noting that such
+experiments would be "extremely
+
+cruel," he asked, "Is it ethical to
+experiment on paranoid patients?"
+Two SUMEX projects based at
+Stanford were also discussed. A
+computer program which helps
+physicians choose the correct
+antibiotic to treat a bacterial infection
+has been developed by Doctors
+Stanley Cohen and Stanton Axline of
+the Medical School.
+Feigenbaum, Lederberg and
+
+Chemistry Prof. Carl Djerassi have
+created a system which will analyze
+unknown organic compounds found in
+the human body.
+The scientists hope that by
+studying the incidence of these
+compounds in healthy and sick bodies,
+they may eventually be able to
+identify diseases by determining the
+amounts of these compounds present
+in a patient.
+Computers may hold the keys to a
+number of complex medical questions,
+ffom when a patient is suffering from
+glaucoma to what causes paranoia,
+medical researchers said here
+yesterday.
+Medical researchers from across the
+nation attended a day-long conference
+on the use of computers in medicine
+held in conjunction with the
+dedication of the Stanford University
+Medical Experimental Computer
+facility (SUMEX).
+Directed by Genetics Prof. Joshua
+Lederberg, a Nobel Laureate, a
+SUMEX project explores uses of
+artificial intelligence in many health
+fields, from psychiatry to
+ophthalmology.
+In artifical intelligence applications,
+the computer is used as an extension
+of the human brain, rather than simply
+as a calculator. By storing huge bodies
+of knowledge, constructing models
+and making complex decisions, the
+computer can become an invaluable
+aid to doctors.
+Computer Network
+The backbone of SUMEX is a
+Stanford PDP-10 computer connected
+by two networks to user terminals in
+50 cities. Through this network,
+researchers can share both facilities
+and knowledge.
+The use of computer-based
+consultation systems for diseases of
+the eye was discussed by Professors
+Saul Amarel and Casimir Kulikowski
+of Rutgers. Together with Dr. Afran
+Safir, an ophthalmologist at Mt. Sinai
+School of Medicine, they have
+developed a national computer
+network to diagnose and treat
+glaucoma.
+Glaucoma is a disease in which
+increased pressure within the eye
+impairs sight, sometimes leading to
+blindness. The disease most frequently
+strikes among those over 40.
+An elaborate computer model of
+glaucoma, which includes symptoms,
+their pathological causes and possible
+treatments, will soon be tested at three
+eye centers: Mount Sinai Hospital and
+Medical Center, New York;
+Washington University, St. Louis ; and
+Johns Hopkins University in
+Baltimore.
+Trying to simulate the
+tremendously complex, often
+
+instinctive thought processes of a
+physician making a diagnosis has its
+own problems, Julikowski noted.
+"Doctors rarely agree on the decision
+rules," he said.
+Another problem researchers face is
+in developing computer systems that
+briefly tell the physician why a
+prescribed treatment should be used,
+Computer Science Prof. Edward
+Feigenbaum said. Doctors will not
+accept a suggested treatment in a
+life-or-death situation "unless they
+[the systems] can explain
+themselves," he emphasized.
+Diseases of the mind may also
+eventually be cured with the aid of
+computers, suggested Dr. Kenneth
+Coiby, a UCLA psychiatrist and
+computer scientist. Colby spoke about
+his development of a computer
+of a paranoid patient.
+The computer simulates a paranoiac
+in such detail that it can actually be
+"interviewed" by a psychiatrist.
+During the interview, the "patient"
+even asks itself whether its
+interrogator "is incompetent, whether
+he's crazy, whether he's a sex fiend,"
+similar to the way a paranoiac would
+illogically suspect others of wanting to
+harm him.
+The "patient" can even withdraw
+by telling the interviewer, "I'm getting
+exhausted. I've got to go," Colby
+added, prompting laughter from his
+audience.
+Thoughts Understood
+Thus, psychiatrists can better
+understand the thought processes of a
+paranoiac, and attempt to discover the
+causes and treatments of the disease,
+Colby said. Using his computer model,
+Colby is working on a theory that
+paranoia is an extreme sensitivity
+caused by shame or humiliation.
+Appropriately using computer
+terminology, he admitted that he's
+ldoking at paranoia exclusively as a
+"software" disorder the result of
+psychological disturbances. Many
+other scientists are investigating
+possible "hardware" (biochemical)
+causes of mental disorders.
+But "at some level everything is
+chemical," he said.
+Colby forsees a need for
+experiments on the effects of
+humiliation on paranoid patients to
+test his theory. But noting that such
+experiments would be "extremely
+
+cruel," he asked, "Is it ethical to
+experiment on paranoid patients?"
+Two SUMEX projects based at
+Stanford were also discussed. A
+computer program which helps
+physicians choose the correct
+antibiotic to treat a bacterial infection
+has been developed by Doctors
+Stanley Cohen and Stanton Axline of
+the Medical School.
+Feigenbaum, Lederberg and
+
+Chemistry Prof. Carl Djerassi have
+created a system which will analyze
+unknown organic compounds found in
+the human body.
+The scientists hope that by
+studying the incidence of these
+compounds in healthy and sick bodies,
+they may eventually be able to
+identify diseases by determining the
+amounts of these compounds present
+in a patient.
+Computers may hold the keys to a
+number of complex medical questions,
+ffom when a patient is suffering from
+glaucoma to what causes paranoia,
+medical researchers said here
+yesterday.
+Medical researchers from across the
+nation attended a day-long conference
+on the use of computers in medicine
+held in conjunction with the
+dedication of the Stanford University
+Medical Experimental Computer
+facility (SUMEX).
+Directed by Genetics Prof. Joshua
+Lederberg, a Nobel Laureate, a
+SUMEX project explores uses of
+artificial intelligence in many health
+fields, from psychiatry to
+ophthalmology.
+In artifical intelligence applications,
+the computer is used as an extension
+of the human brain, rather than simply
+as a calculator. By storing huge bodies
+of knowledge, constructing models
+and making complex decisions, the
+computer can become an invaluable
+aid to doctors.
+Computer Network
+The backbone of SUMEX is a
+Stanford PDP-10 computer connected
+by two networks to user terminals in
+50 cities. Through this network,
+researchers can share both facilities
+and knowledge.
+The use of computer-based
+consultation systems for diseases of
+the eye was discussed by Professors
+Saul Amarel and Casimir Kulikowski
+of Rutgers. Together with Dr. Afran
+Safir, an ophthalmologist at Mt. Sinai
+School of Medicine, they have
+developed a national computer
+network to diagnose and treat
+glaucoma.
+Glaucoma is a disease in which
+increased pressure within the eye
+impairs sight, sometimes leading to
+blindness. The disease most frequently
+strikes among those over 40.
+An elaborate computer model of
+glaucoma, which includes symptoms,
+their pathological causes and possible
+treatments, will soon be tested at three
+eye centers: Mount Sinai Hospital and
+Medical Center, New York;
+Washington University, St. Louis ; and
+Johns Hopkins University in
+Baltimore.
+Trying to simulate the
+tremendously complex, often
+
+instinctive thought processes of a
+physician making a diagnosis has its
+own problems, Julikowski noted.
+"Doctors rarely agree on the decision
+rules," he said.
+Another problem researchers face is
+in developing computer systems that
+briefly tell the physician why a
+prescribed treatment should be used,
+Computer Science Prof. Edward
+Feigenbaum said. Doctors will not
+accept a suggested treatment in a
+life-or-death situation "unless they
+[the systems] can explain
+themselves," he emphasized.
+Diseases of the mind may also
+eventually be cured with the aid of
+computers, suggested Dr. Kenneth
+Coiby, a UCLA psychiatrist and
+computer scientist. Colby spoke about
+his development of a computer
+of a paranoid patient.
+The computer simulates a paranoiac
+in such detail that it can actually be
+"interviewed" by a psychiatrist.
+During the interview, the "patient"
+even asks itself whether its
+interrogator "is incompetent, whether
+he's crazy, whether he's a sex fiend,"
+similar to the way a paranoiac would
+illogically suspect others of wanting to
+harm him.
+The "patient" can even withdraw
+by telling the interviewer, "I'm getting
+exhausted. I've got to go," Colby
+added, prompting laughter from his
+audience.
+Thoughts Understood
+Thus, psychiatrists can better
+understand the thought processes of a
+paranoiac, and attempt to discover the
+causes and treatments of the disease,
+Colby said. Using his computer model,
+Colby is working on a theory that
+paranoia is an extreme sensitivity
+caused by shame or humiliation.
+Appropriately using computer
+terminology, he admitted that he's
+ldoking at paranoia exclusively as a
+"software" disorder the result of
+psychological disturbances. Many
+other scientists are investigating
+possible "hardware" (biochemical)
+causes of mental disorders.
+But "at some level everything is
+chemical," he said.
+Colby forsees a need for
+experiments on the effects of
+humiliation on paranoid patients to
+test his theory. But noting that such
+experiments would be "extremely
+
+cruel," he asked, "Is it ethical to
+experiment on paranoid patients?"
+Two SUMEX projects based at
+Stanford were also discussed. A
+computer program which helps
+physicians choose the correct
+antibiotic to treat a bacterial infection
+has been developed by Doctors
+Stanley Cohen and Stanton Axline of
+the Medical School.
+Feigenbaum, Lederberg and
+
+Chemistry Prof. Carl Djerassi have
+created a system which will analyze
+unknown organic compounds found in
+the human body.
+The scientists hope that by
+studying the incidence of these
+compounds in healthy and sick bodies,
+they may eventually be able to
+identify diseases by determining the
+amounts of these compounds present
+in a patient.
+Computers may hold the keys to a
+number of complex medical questions,
+ffom when a patient is suffering from
+glaucoma to what causes paranoia,
+medical researchers said here
+yesterday.
+Medical researchers from across the
+nation attended a day-long conference
+on the use of computers in medicine
+held in conjunction with the
+dedication of the Stanford University
+Medical Experimental Computer
+facility (SUMEX).
+Directed by Genetics Prof. Joshua
+Lederberg, a Nobel Laureate, a
+SUMEX project explores uses of
+artificial intelligence in many health
+fields, from psychiatry to
+ophthalmology.
+In artifical intelligence applications,
+the computer is used as an extension
+of the human brain, rather than simply
+as a calculator. By storing huge bodies
+of knowledge, constructing models
+and making complex decisions, the
+computer can become an invaluable
+aid to doctors.
+Computer Network
+The backbone of SUMEX is a
+Stanford PDP-10 computer connected
+by two networks to user terminals in
+50 cities. Through this network,
+researchers can share both facilities
+and knowledge.
+The use of computer-based
+consultation systems for diseases of
+the eye was discussed by Professors
+Saul Amarel and Casimir Kulikowski
+of Rutgers. Together with Dr. Afran
+Safir, an ophthalmologist at Mt. Sinai
+School of Medicine, they have
+developed a national computer
+network to diagnose and treat
+glaucoma.
+Glaucoma is a disease in which
+increased pressure within the eye
+impairs sight, sometimes leading to
+blindness. The disease most frequently
+strikes among those over 40.
+An elaborate computer model of
+glaucoma, which includes symptoms,
+their pathological causes and possible
+treatments, will soon be tested at three
+eye centers: Mount Sinai Hospital and
+Medical Center, New York;
+Washington University, St. Louis ; and
+Johns Hopkins University in
+Baltimore.
+Trying to simulate the
+tremendously complex, often
+
+instinctive thought processes of a
+physician making a diagnosis has its
+own problems, Julikowski noted.
+"Doctors rarely agree on the decision
+rules," he said.
+Another problem researchers face is
+in developing computer systems that
+briefly tell the physician why a
+prescribed treatment should be used,
+Computer Science Prof. Edward
+Feigenbaum said. Doctors will not
+accept a suggested treatment in a
+life-or-death situation "unless they
+[the systems] can explain
+themselves," he emphasized.
+Diseases of the mind may also
+eventually be cured with the aid of
+computers, suggested Dr. Kenneth
+Coiby, a UCLA psychiatrist and
+computer scientist. Colby spoke about
+his development of a computer
+of a paranoid patient.
+The computer simulates a paranoiac
+in such detail that it can actually be
+"interviewed" by a psychiatrist.
+During the interview, the "patient"
+even asks itself whether its
+interrogator "is incompetent, whether
+he's crazy, whether he's a sex fiend,"
+similar to the way a paranoiac would
+illogically suspect others of wanting to
+harm him.
+The "patient" can even withdraw
+by telling the interviewer, "I'm getting
+exhausted. I've got to go," Colby
+added, prompting laughter from his
+audience.
+Thoughts Understood
+Thus, psychiatrists can better
+understand the thought processes of a
+paranoiac, and attempt to discover the
+causes and treatments of the disease,
+Colby said. Using his computer model,
+Colby is working on a theory that
+paranoia is an extreme sensitivity
+caused by shame or humiliation.
+Appropriately using computer
+terminology, he admitted that he's
+ldoking at paranoia exclusively as a
+"software" disorder the result of
+psychological disturbances. Many
+other scientists are investigating
+possible "hardware" (biochemical)
+causes of mental disorders.
+But "at some level everything is
+chemical," he said.
+Colby forsees a need for
+experiments on the effects of
+humiliation on paranoid patients to
+test his theory. But noting that such
+experiments would be "extremely
+
+cruel," he asked, "Is it ethical to
+experiment on paranoid patients?"
+Two SUMEX projects based at
+Stanford were also discussed. A
+computer program which helps
+physicians choose the correct
+antibiotic to treat a bacterial infection
+has been developed by Doctors
+Stanley Cohen and Stanton Axline of
+the Medical School.
+Feigenbaum, Lederberg and
+
+Chemistry Prof. Carl Djerassi have
+created a system which will analyze
+unknown organic compounds found in
+the human body.
+The scientists hope that by
+studying the incidence of these
+compounds in healthy and sick bodies,
+they may eventually be able to
+identify diseases by determining the
+amounts of these compounds present
+in a patient.
+Computers may hold the keys to a
+number of complex medical questions,
+ffom when a patient is suffering from
+glaucoma to what causes paranoia,
+medical researchers said here
+yesterday.
+Medical researchers from across the
+nation attended a day-long conference
+on the use of computers in medicine
+held in conjunction with the
+dedication of the Stanford University
+Medical Experimental Computer
+facility (SUMEX).
+Directed by Genetics Prof. Joshua
+Lederberg, a Nobel Laureate, a
+SUMEX project explores uses of
+artificial intelligence in many health
+fields, from psychiatry to
+ophthalmology.
+In artifical intelligence applications,
+the computer is used as an extension
+of the human brain, rather than simply
+as a calculator. By storing huge bodies
+of knowledge, constructing models
+and making complex decisions, the
+computer can become an invaluable
+aid to doctors.
+Computer Network
+The backbone of SUMEX is a
+Stanford PDP-10 computer connected
+by two networks to user terminals in
+50 cities. Through this network,
+researchers can share both facilities
+and knowledge.
+The use of computer-based
+consultation systems for diseases of
+the eye was discussed by Professors
+Saul Amarel and Casimir Kulikowski
+of Rutgers. Together with Dr. Afran
+Safir, an ophthalmologist at Mt. Sinai
+School of Medicine, they have
+developed a national computer
+network to diagnose and treat
+glaucoma.
+Glaucoma is a disease in which
+increased pressure within the eye
+impairs sight, sometimes leading to
+blindness. The disease most frequently
+strikes among those over 40.
+An elaborate computer model of
+glaucoma, which includes symptoms,
+their pathological causes and possible
+treatments, will soon be tested at three
+eye centers: Mount Sinai Hospital and
+Medical Center, New York;
+Washington University, St. Louis ; and
+Johns Hopkins University in
+Baltimore.
+Trying to simulate the
+tremendously complex, often
+
+instinctive thought processes of a
+physician making a diagnosis has its
+own problems, Julikowski noted.
+"Doctors rarely agree on the decision
+rules," he said.
+Another problem researchers face is
+in developing computer systems that
+briefly tell the physician why a
+prescribed treatment should be used,
+Computer Science Prof. Edward
+Feigenbaum said. Doctors will not
+accept a suggested treatment in a
+life-or-death situation "unless they
+[the systems] can explain
+themselves," he emphasized.
+Diseases of the mind may also
+eventually be cured with the aid of
+computers, suggested Dr. Kenneth
+Coiby, a UCLA psychiatrist and
+computer scientist. Colby spoke about
+his development of a computer
+of a paranoid patient.
+The computer simulates a paranoiac
+in such detail that it can actually be
+"interviewed" by a psychiatrist.
+During the interview, the "patient"
+even asks itself whether its
+interrogator "is incompetent, whether
+he's crazy, whether he's a sex fiend,"
+similar to the way a paranoiac would
+illogically suspect others of wanting to
+harm him.
+The "patient" can even withdraw
+by telling the interviewer, "I'm getting
+exhausted. I've got to go," Colby
+added, prompting laughter from his
+audience.
+Thoughts Understood
+Thus, psychiatrists can better
+understand the thought processes of a
+paranoiac, and attempt to discover the
+causes and treatments of the disease,
+Colby said. Using his computer model,
+Colby is working on a theory that
+paranoia is an extreme sensitivity
+caused by shame or humiliation.
+Appropriately using computer
+terminology, he admitted that he's
+ldoking at paranoia exclusively as a
+"software" disorder the result of
+psychological disturbances. Many
+other scientists are investigating
+possible "hardware" (biochemical)
+causes of mental disorders.
+But "at some level everything is
+chemical," he said.
+Colby forsees a need for
+experiments on the effects of
+humiliation on paranoid patients to
+test his theory. But noting that such
+experiments would be "extremely
+
+cruel," he asked, "Is it ethical to
+experiment on paranoid patients?"
+Two SUMEX projects based at
+Stanford were also discussed. A
+computer program which helps
+physicians choose the correct
+antibiotic to treat a bacterial infection
+has been developed by Doctors
+Stanley Cohen and Stanton Axline of
+the Medical School.
+Feigenbaum, Lederberg and
+
+Chemistry Prof. Carl Djerassi have
+created a system which will analyze
+unknown organic compounds found in
+the human body.
+The scientists hope that by
+studying the incidence of these
+compounds in healthy and sick bodies,
+they may eventually be able to
+identify diseases by determining the
+amounts of these compounds present
+in a patient.
+Computers may hold the keys to a
+number of complex medical questions,
+ffom when a patient is suffering from
+glaucoma to what causes paranoia,
+medical researchers said here
+yesterday.
+Medical researchers from across the
+nation attended a day-long conference
+on the use of computers in medicine
+held in conjunction with the
+dedication of the Stanford University
+Medical Experimental Computer
+facility (SUMEX).
+Directed by Genetics Prof. Joshua
+Lederberg, a Nobel Laureate, a
+SUMEX project explores uses of
+artificial intelligence in many health
+fields, from psychiatry to
+ophthalmology.
+In artifical intelligence applications,
+the computer is used as an extension
+of the human brain, rather than simply
+as a calculator. By storing huge bodies
+of knowledge, constructing models
+and making complex decisions, the
+computer can become an invaluable
+aid to doctors.
+Computer Network
+The backbone of SUMEX is a
+Stanford PDP-10 computer connected
+by two networks to user terminals in
+50 cities. Through this network,
+researchers can share both facilities
+and knowledge.
+The use of computer-based
+consultation systems for diseases of
+the eye was discussed by Professors
+Saul Amarel and Casimir Kulikowski
+of Rutgers. Together with Dr. Afran
+Safir, an ophthalmologist at Mt. Sinai
+School of Medicine, they have
+developed a national computer
+network to diagnose and treat
+glaucoma.
+Glaucoma is a disease in which
+increased pressure within the eye
+impairs sight, sometimes leading to
+blindness. The disease most frequently
+strikes among those over 40.
+An elaborate computer model of
+glaucoma, which includes symptoms,
+their pathological causes and possible
+treatments, will soon be tested at three
+eye centers: Mount Sinai Hospital and
+Medical Center, New York;
+Washington University, St. Louis ; and
+Johns Hopkins University in
+Baltimore.
+Trying to simulate the
+tremendously complex, often
+
+instinctive thought processes of a
+physician making a diagnosis has its
+own problems, Julikowski noted.
+"Doctors rarely agree on the decision
+rules," he said.
+Another problem researchers face is
+in developing computer systems that
+briefly tell the physician why a
+prescribed treatment should be used,
+Computer Science Prof. Edward
+Feigenbaum said. Doctors will not
+accept a suggested treatment in a
+life-or-death situation "unless they
+[the systems] can explain
+themselves," he emphasized.
+Diseases of the mind may also
+eventually be cured with the aid of
+computers, suggested Dr. Kenneth
+Coiby, a UCLA psychiatrist and
+computer scientist. Colby spoke about
+his development of a computer
+of a paranoid patient.
+The computer simulates a paranoiac
+in such detail that it can actually be
+"interviewed" by a psychiatrist.
+During the interview, the "patient"
+even asks itself whether its
+interrogator "is incompetent, whether
+he's crazy, whether he's a sex fiend,"
+similar to the way a paranoiac would
+illogically suspect others of wanting to
+harm him.
+The "patient" can even withdraw
+by telling the interviewer, "I'm getting
+exhausted. I've got to go," Colby
+added, prompting laughter from his
+audience.
+Thoughts Understood
+Thus, psychiatrists can better
+understand the thought processes of a
+paranoiac, and attempt to discover the
+causes and treatments of the disease,
+Colby said. Using his computer model,
+Colby is working on a theory that
+paranoia is an extreme sensitivity
+caused by shame or humiliation.
+Appropriately using computer
+terminology, he admitted that he's
+ldoking at paranoia exclusively as a
+"software" disorder the result of
+psychological disturbances. Many
+other scientists are investigating
+possible "hardware" (biochemical)
+causes of mental disorders.
+But "at some level everything is
+chemical," he said.
+Colby forsees a need for
+experiments on the effects of
+humiliation on paranoid patients to
+test his theory. But noting that such
+experiments would be "extremely
+
+cruel," he asked, "Is it ethical to
+experiment on paranoid patients?"
+Two SUMEX projects based at
+Stanford were also discussed. A
+computer program which helps
+physicians choose the correct
+antibiotic to treat a bacterial infection
+has been developed by Doctors
+Stanley Cohen and Stanton Axline of
+the Medical School.
+Feigenbaum, Lederberg and
+
+Chemistry Prof. Carl Djerassi have
+created a system which will analyze
+unknown organic compounds found in
+the human body.
+The scientists hope that by
+studying the incidence of these
+compounds in healthy and sick bodies,
+they may eventually be able to
+identify diseases by determining the
+amounts of these compounds present
+in a patient.
+Computers may hold the keys to a
+number of complex medical questions,
+ffom when a patient is suffering from
+glaucoma to what causes paranoia,
+medical researchers said here
+yesterday.
+Medical researchers from across the
+nation attended a day-long conference
+on the use of computers in medicine
+held in conjunction with the
+dedication of the Stanford University
+Medical Experimental Computer
+facility (SUMEX).
+Directed by Genetics Prof. Joshua
+Lederberg, a Nobel Laureate, a
+SUMEX project explores uses of
+artificial intelligence in many health
+fields, from psychiatry to
+ophthalmology.
+In artifical intelligence applications,
+the computer is used as an extension
+of the human brain, rather than simply
+as a calculator. By storing huge bodies
+of knowledge, constructing models
+and making complex decisions, the
+computer can become an invaluable
+aid to doctors.
+Computer Network
+The backbone of SUMEX is a
+Stanford PDP-10 computer connected
+by two networks to user terminals in
+50 cities. Through this network,
+researchers can share both facilities
+and knowledge.
+The use of computer-based
+consultation systems for diseases of
+the eye was discussed by Professors
+Saul Amarel and Casimir Kulikowski
+of Rutgers. Together with Dr. Afran
+Safir, an ophthalmologist at Mt. Sinai
+School of Medicine, they have
+developed a national computer
+network to diagnose and treat
+glaucoma.
+Glaucoma is a disease in which
+increased pressure within the eye
+impairs sight, sometimes leading to
+blindness. The disease most frequently
+strikes among those over 40.
+An elaborate computer model of
+glaucoma, which includes symptoms,
+their pathological causes and possible
+treatments, will soon be tested at three
+eye centers: Mount Sinai Hospital and
+Medical Center, New York;
+Washington University, St. Louis ; and
+Johns Hopkins University in
+Baltimore.
+Trying to simulate the
+tremendously complex, often
+
+instinctive thought processes of a
+physician making a diagnosis has its
+own problems, Julikowski noted.
+"Doctors rarely agree on the decision
+rules," he said.
+Another problem researchers face is
+in developing computer systems that
+briefly tell the physician why a
+prescribed treatment should be used,
+Computer Science Prof. Edward
+Feigenbaum said. Doctors will not
+accept a suggested treatment in a
+life-or-death situation "unless they
+[the systems] can explain
+themselves," he emphasized.
+Diseases of the mind may also
+eventually be cured with the aid of
+computers, suggested Dr. Kenneth
+Coiby, a UCLA psychiatrist and
+computer scientist. Colby spoke about
+his development of a computer
+of a paranoid patient.
+The computer simulates a paranoiac
+in such detail that it can actually be
+"interviewed" by a psychiatrist.
+During the interview, the "patient"
+even asks itself whether its
+interrogator "is incompetent, whether
+he's crazy, whether he's a sex fiend,"
+similar to the way a paranoiac would
+illogically suspect others of wanting to
+harm him.
+The "patient" can even withdraw
+by telling the interviewer, "I'm getting
+exhausted. I've got to go," Colby
+added, prompting laughter from his
+audience.
+Thoughts Understood
+Thus, psychiatrists can better
+understand the thought processes of a
+paranoiac, and attempt to discover the
+causes and treatments of the disease,
+Colby said. Using his computer model,
+Colby is working on a theory that
+paranoia is an extreme sensitivity
+caused by shame or humiliation.
+Appropriately using computer
+terminology, he admitted that he's
+ldoking at paranoia exclusively as a
+"software" disorder the result of
+psychological disturbances. Many
+other scientists are investigating
+possible "hardware" (biochemical)
+causes of mental disorders.
+But "at some level everything is
+chemical," he said.
+Colby forsees a need for
+experiments on the effects of
+humiliation on paranoid patients to
+test his theory. But noting that such
+experiments would be "extremely
+
+cruel," he asked, "Is it ethical to
+experiment on paranoid patients?"
+Two SUMEX projects based at
+Stanford were also discussed. A
+computer program which helps
+physicians choose the correct
+antibiotic to treat a bacterial infection
+has been developed by Doctors
+Stanley Cohen and Stanton Axline of
+the Medical School.
+Feigenbaum, Lederberg and
+
+Chemistry Prof. Carl Djerassi have
+created a system which will analyze
+unknown organic compounds found in
+the human body.
+The scientists hope that by
+studying the incidence of these
+compounds in healthy and sick bodies,
+they may eventually be able to
+identify diseases by determining the
+amounts of these compounds present
+in a patient.
+Computers may hold the keys to a
+number of complex medical questions,
+ffom when a patient is suffering from
+glaucoma to what causes paranoia,
+medical researchers said here
+yesterday.
+Medical researchers from across the
+nation attended a day-long conference
+on the use of computers in medicine
+held in conjunction with the
+dedication of the Stanford University
+Medical Experimental Computer
+facility (SUMEX).
+Directed by Genetics Prof. Joshua
+Lederberg, a Nobel Laureate, a
+SUMEX project explores uses of
+artificial intelligence in many health
+fields, from psychiatry to
+ophthalmology.
+In artifical intelligence applications,
+the computer is used as an extension
+of the human brain, rather than simply
+as a calculator. By storing huge bodies
+of knowledge, constructing models
+and making complex decisions, the
+computer can become an invaluable
+aid to doctors.
+Computer Network
+The backbone of SUMEX is a
+Stanford PDP-10 computer connected
+by two networks to user terminals in
+50 cities. Through this network,
+researchers can share both facilities
+and knowledge.
+The use of computer-based
+consultation systems for diseases of
+the eye was discussed by Professors
+Saul Amarel and Casimir Kulikowski
+of Rutgers. Together with Dr. Afran
+Safir, an ophthalmologist at Mt. Sinai
+School of Medicine, they have
+developed a national computer
+network to diagnose and treat
+glaucoma.
+Glaucoma is a disease in which
+increased pressure within the eye
+impairs sight, sometimes leading to
+blindness. The disease most frequently
+strikes among those over 40.
+An elaborate computer model of
+glaucoma, which includes symptoms,
+their pathological causes and possible
+treatments, will soon be tested at three
+eye centers: Mount Sinai Hospital and
+Medical Center, New York;
+Washington University, St. Louis ; and
+Johns Hopkins University in
+Baltimore.
+Trying to simulate the
+tremendously complex, often
+
+instinctive thought processes of a
+physician making a diagnosis has its
+own problems, Julikowski noted.
+"Doctors rarely agree on the decision
+rules," he said.
+Another problem researchers face is
+in developing computer systems that
+briefly tell the physician why a
+prescribed treatment should be used,
+Computer Science Prof. Edward
+Feigenbaum said. Doctors will not
+accept a suggested treatment in a
+life-or-death situation "unless they
+[the systems] can explain
+themselves," he emphasized.
+Diseases of the mind may also
+eventually be cured with the aid of
+computers, suggested Dr. Kenneth
+Coiby, a UCLA psychiatrist and
+computer scientist. Colby spoke about
+his development of a computer
+of a paranoid patient.
+The computer simulates a paranoiac
+in such detail that it can actually be
+"interviewed" by a psychiatrist.
+During the interview, the "patient"
+even asks itself whether its
+interrogator "is incompetent, whether
+he's crazy, whether he's a sex fiend,"
+similar to the way a paranoiac would
+illogically suspect others of wanting to
+harm him.
+The "patient" can even withdraw
+by telling the interviewer, "I'm getting
+exhausted. I've got to go," Colby
+added, prompting laughter from his
+audience.
+Thoughts Understood
+Thus, psychiatrists can better
+understand the thought processes of a
+paranoiac, and attempt to discover the
+causes and treatments of the disease,
+Colby said. Using his computer model,
+Colby is working on a theory that
+paranoia is an extreme sensitivity
+caused by shame or humiliation.
+Appropriately using computer
+terminology, he admitted that he's
+ldoking at paranoia exclusively as a
+"software" disorder the result of
+psychological disturbances. Many
+other scientists are investigating
+possible "hardware" (biochemical)
+causes of mental disorders.
+But "at some level everything is
+chemical," he said.
+Colby forsees a need for
+experiments on the effects of
+humiliation on paranoid patients to
+test his theory. But noting that such
+experiments would be "extremely
+
+cruel," he asked, "Is it ethical to
+experiment on paranoid patients?"
+Two SUMEX projects based at
+Stanford were also discussed. A
+computer program which helps
+physicians choose the correct
+antibiotic to treat a bacterial infection
+has been developed by Doctors
+Stanley Cohen and Stanton Axline of
+the Medical School.
+Feigenbaum, Lederberg and
+
+Chemistry Prof. Carl Djerassi have
+created a system which will analyze
+unknown organic compounds found in
+the human body.
+The scientists hope that by
+studying the incidence of these
+compounds in healthy and sick bodies,
+they may eventually be able to
+identify diseases by determining the
+amounts of these compounds present
+in a patient.
+Computers may hold the keys to a
+number of complex medical questions,
+ffom when a patient is suffering from
+glaucoma to what causes paranoia,
+medical researchers said here
+yesterday.
+Medical researchers from across the
+nation attended a day-long conference
+on the use of computers in medicine
+held in conjunction with the
+dedication of the Stanford University
+Medical Experimental Computer
+facility (SUMEX).
+Directed by Genetics Prof. Joshua
+Lederberg, a Nobel Laureate, a
+SUMEX project explores uses of
+artificial intelligence in many health
+fields, from psychiatry to
+ophthalmology.
+In artifical intelligence applications,
+the computer is used as an extension
+of the human brain, rather than simply
+as a calculator. By storing huge bodies
+of knowledge, constructing models
+and making complex decisions, the
+computer can become an invaluable
+aid to doctors.
+Computer Network
+The backbone of SUMEX is a
+Stanford PDP-10 computer connected
+by two networks to user terminals in
+50 cities. Through this network,
+researchers can share both facilities
+and knowledge.
+The use of computer-based
+consultation systems for diseases of
+the eye was discussed by Professors
+Saul Amarel and Casimir Kulikowski
+of Rutgers. Together with Dr. Afran
+Safir, an ophthalmologist at Mt. Sinai
+School of Medicine, they have
+developed a national computer
+network to diagnose and treat
+glaucoma.
+Glaucoma is a disease in which
+increased pressure within the eye
+impairs sight, sometimes leading to
+blindness. The disease most frequently
+strikes among those over 40.
+An elaborate computer model of
+glaucoma, which includes symptoms,
+their pathological causes and possible
+treatments, will soon be tested at three
+eye centers: Mount Sinai Hospital and
+Medical Center, New York;
+Washington University, St. Louis ; and
+Johns Hopkins University in
+Baltimore.
+Trying to simulate the
+tremendously complex, often
+
+instinctive thought processes of a
+physician making a diagnosis has its
+own problems, Julikowski noted.
+"Doctors rarely agree on the decision
+rules," he said.
+Another problem researchers face is
+in developing computer systems that
+briefly tell the physician why a
+prescribed treatment should be used,
+Computer Science Prof. Edward
+Feigenbaum said. Doctors will not
+accept a suggested treatment in a
+life-or-death situation "unless they
+[the systems] can explain
+themselves," he emphasized.
+Diseases of the mind may also
+eventually be cured with the aid of
+computers, suggested Dr. Kenneth
+Coiby, a UCLA psychiatrist and
+computer scientist. Colby spoke about
+his development of a computer
+of a paranoid patient.
+The computer simulates a paranoiac
+in such detail that it can actually be
+"interviewed" by a psychiatrist.
+During the interview, the "patient"
+even asks itself whether its
+interrogator "is incompetent, whether
+he's crazy, whether he's a sex fiend,"
+similar to the way a paranoiac would
+illogically suspect others of wanting to
+harm him.
+The "patient" can even withdraw
+by telling the interviewer, "I'm getting
+exhausted. I've got to go," Colby
+added, prompting laughter from his
+audience.
+Thoughts Understood
+Thus, psychiatrists can better
+understand the thought processes of a
+paranoiac, and attempt to discover the
+causes and treatments of the disease,
+Colby said. Using his computer model,
+Colby is working on a theory that
+paranoia is an extreme sensitivity
+caused by shame or humiliation.
+Appropriately using computer
+terminology, he admitted that he's
+ldoking at paranoia exclusively as a
+"software" disorder the result of
+psychological disturbances. Many
+other scientists are investigating
+possible "hardware" (biochemical)
+causes of mental disorders.
+But "at some level everything is
+chemical," he said.
+Colby forsees a need for
+experiments on the effects of
+humiliation on paranoid patients to
+test his theory. But noting that such
+experiments would be "extremely
+
+cruel," he asked, "Is it ethical to
+experiment on paranoid patients?"
+Two SUMEX projects based at
+Stanford were also discussed. A
+computer program which helps
+physicians choose the correct
+antibiotic to treat a bacterial infection
+has been developed by Doctors
+Stanley Cohen and Stanton Axline of
+the Medical School.
+Feigenbaum, Lederberg and
+
+Chemistry Prof. Carl Djerassi have
+created a system which will analyze
+unknown organic compounds found in
+the human body.
+The scientists hope that by
+studying the incidence of these
+compounds in healthy and sick bodies,
+they may eventually be able to
+identify diseases by determining the
+amounts of these compounds present
+in a patient.
+Computers may hold the keys to a
+number of complex medical questions,
+ffom when a patient is suffering from
+glaucoma to what causes paranoia,
+medical researchers said here
+yesterday.
+Medical researchers from across the
+nation attended a day-long conference
+on the use of computers in medicine
+held in conjunction with the
+dedication of the Stanford University
+Medical Experimental Computer
+facility (SUMEX).
+Directed by Genetics Prof. Joshua
+Lederberg, a Nobel Laureate, a
+SUMEX project explores uses of
+artificial intelligence in many health
+fields, from psychiatry to
+ophthalmology.
+In artifical intelligence applications,
+the computer is used as an extension
+of the human brain, rather than simply
+as a calculator. By storing huge bodies
+of knowledge, constructing models
+and making complex decisions, the
+computer can become an invaluable
+aid to doctors.
+Computer Network
+The backbone of SUMEX is a
+Stanford PDP-10 computer connected
+by two networks to user terminals in
+50 cities. Through this network,
+researchers can share both facilities
+and knowledge.
+The use of computer-based
+consultation systems for diseases of
+the eye was discussed by Professors
+Saul Amarel and Casimir Kulikowski
+of Rutgers. Together with Dr. Afran
+Safir, an ophthalmologist at Mt. Sinai
+School of Medicine, they have
+developed a national computer
+network to diagnose and treat
+glaucoma.
+Glaucoma is a disease in which
+increased pressure within the eye
+impairs sight, sometimes leading to
+blindness. The disease most frequently
+strikes among those over 40.
+An elaborate computer model of
+glaucoma, which includes symptoms,
+their pathological causes and possible
+treatments, will soon be tested at three
+eye centers: Mount Sinai Hospital and
+Medical Center, New York;
+Washington University, St. Louis ; and
+Johns Hopkins University in
+Baltimore.
+Trying to simulate the
+tremendously complex, often
+
+instinctive thought processes of a
+physician making a diagnosis has its
+own problems, Julikowski noted.
+"Doctors rarely agree on the decision
+rules," he said.
+Another problem researchers face is
+in developing computer systems that
+briefly tell the physician why a
+prescribed treatment should be used,
+Computer Science Prof. Edward
+Feigenbaum said. Doctors will not
+accept a suggested treatment in a
+life-or-death situation "unless they
+[the systems] can explain
+themselves," he emphasized.
+Diseases of the mind may also
+eventually be cured with the aid of
+computers, suggested Dr. Kenneth
+Coiby, a UCLA psychiatrist and
+computer scientist. Colby spoke about
+his development of a computer
+of a paranoid patient.
+The computer simulates a paranoiac
+in such detail that it can actually be
+"interviewed" by a psychiatrist.
+During the interview, the "patient"
+even asks itself whether its
+interrogator "is incompetent, whether
+he's crazy, whether he's a sex fiend,"
+similar to the way a paranoiac would
+illogically suspect others of wanting to
+harm him.
+The "patient" can even withdraw
+by telling the interviewer, "I'm getting
+exhausted. I've got to go," Colby
+added, prompting laughter from his
+audience.
+Thoughts Understood
+Thus, psychiatrists can better
+understand the thought processes of a
+paranoiac, and attempt to discover the
+causes and treatments of the disease,
+Colby said. Using his computer model,
+Colby is working on a theory that
+paranoia is an extreme sensitivity
+caused by shame or humiliation.
+Appropriately using computer
+terminology, he admitted that he's
+ldoking at paranoia exclusively as a
+"software" disorder the result of
+psychological disturbances. Many
+other scientists are investigating
+possible "hardware" (biochemical)
+causes of mental disorders.
+But "at some level everything is
+chemical," he said.
+Colby forsees a need for
+experiments on the effects of
+humiliation on paranoid patients to
+test his theory. But noting that such
+experiments would be "extremely
+
+cruel," he asked, "Is it ethical to
+experiment on paranoid patients?"
+Two SUMEX projects based at
+Stanford were also discussed. A
+computer program which helps
+physicians choose the correct
+antibiotic to treat a bacterial infection
+has been developed by Doctors
+Stanley Cohen and Stanton Axline of
+the Medical School.
+Feigenbaum, Lederberg and
+
+Chemistry Prof. Carl Djerassi have
+created a system which will analyze
+unknown organic compounds found in
+the human body.
+The scientists hope that by
+studying the incidence of these
+compounds in healthy and sick bodies,
+they may eventually be able to
+identify diseases by determining the
+amounts of these compounds present
+in a patient.
+Computers may hold the keys to a
+number of complex medical questions,
+ffom when a patient is suffering from
+glaucoma to what causes paranoia,
+medical researchers said here
+yesterday.
+Medical researchers from across the
+nation attended a day-long conference
+on the use of computers in medicine
+held in conjunction with the
+dedication of the Stanford University
+Medical Experimental Computer
+facility (SUMEX).
+Directed by Genetics Prof. Joshua
+Lederberg, a Nobel Laureate, a
+SUMEX project explores uses of
+artificial intelligence in many health
+fields, from psychiatry to
+ophthalmology.
+In artifical intelligence applications,
+the computer is used as an extension
+of the human brain, rather than simply
+as a calculator. By storing huge bodies
+of knowledge, constructing models
+and making complex decisions, the
+computer can become an invaluable
+aid to doctors.
+Computer Network
+The backbone of SUMEX is a
+Stanford PDP-10 computer connected
+by two networks to user terminals in
+50 cities. Through this network,
+researchers can share both facilities
+and knowledge.
+The use of computer-based
+consultation systems for diseases of
+the eye was discussed by Professors
+Saul Amarel and Casimir Kulikowski
+of Rutgers. Together with Dr. Afran
+Safir, an ophthalmologist at Mt. Sinai
+School of Medicine, they have
+developed a national computer
+network to diagnose and treat
+glaucoma.
+Glaucoma is a disease in which
+increased pressure within the eye
+impairs sight, sometimes leading to
+blindness. The disease most frequently
+strikes among those over 40.
+An elaborate computer model of
+glaucoma, which includes symptoms,
+their pathological causes and possible
+treatments, will soon be tested at three
+eye centers: Mount Sinai Hospital and
+Medical Center, New York;
+Washington University, St. Louis ; and
+Johns Hopkins University in
+Baltimore.
+Trying to simulate the
+tremendously complex, often
+
+instinctive thought processes of a
+physician making a diagnosis has its
+own problems, Julikowski noted.
+"Doctors rarely agree on the decision
+rules," he said.
+Another problem researchers face is
+in developing computer systems that
+briefly tell the physician why a
+prescribed treatment should be used,
+Computer Science Prof. Edward
+Feigenbaum said. Doctors will not
+accept a suggested treatment in a
+life-or-death situation "unless they
+[the systems] can explain
+themselves," he emphasized.
+Diseases of the mind may also
+eventually be cured with the aid of
+computers, suggested Dr. Kenneth
+Coiby, a UCLA psychiatrist and
+computer scientist. Colby spoke about
+his development of a computer
+of a paranoid patient.
+The computer simulates a paranoiac
+in such detail that it can actually be
+"interviewed" by a psychiatrist.
+During the interview, the "patient"
+even asks itself whether its
+interrogator "is incompetent, whether
+he's crazy, whether he's a sex fiend,"
+similar to the way a paranoiac would
+illogically suspect others of wanting to
+harm him.
+The "patient" can even withdraw
+by telling the interviewer, "I'm getting
+exhausted. I've got to go," Colby
+added, prompting laughter from his
+audience.
+Thoughts Understood
+Thus, psychiatrists can better
+understand the thought processes of a
+paranoiac, and attempt to discover the
+causes and treatments of the disease,
+Colby said. Using his computer model,
+Colby is working on a theory that
+paranoia is an extreme sensitivity
+caused by shame or humiliation.
+Appropriately using computer
+terminology, he admitted that he's
+ldoking at paranoia exclusively as a
+"software" disorder the result of
+psychological disturbances. Many
+other scientists are investigating
+possible "hardware" (biochemical)
+causes of mental disorders.
+But "at some level everything is
+chemical," he said.
+Colby forsees a need for
+experiments on the effects of
+humiliation on paranoid patients to
+test his theory. But noting that such
+experiments would be "extremely
+
+cruel," he asked, "Is it ethical to
+experiment on paranoid patients?"
+Two SUMEX projects based at
+Stanford were also discussed. A
+computer program which helps
+physicians choose the correct
+antibiotic to treat a bacterial infection
+has been developed by Doctors
+Stanley Cohen and Stanton Axline of
+the Medical School.
+Feigenbaum, Lederberg and
+
+Chemistry Prof. Carl Djerassi have
+created a system which will analyze
+unknown organic compounds found in
+the human body.
+The scientists hope that by
+studying the incidence of these
+compounds in healthy and sick bodies,
+they may eventually be able to
+identify diseases by determining the
+amounts of these compounds present
+in a patient.

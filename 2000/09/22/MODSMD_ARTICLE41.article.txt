@@ -1,0 +1,993 @@
+# Explaining the MP3 wave
+## 
+### JANE HU 
+M P3: Whodat?
+Without any sort of compression, it would lake
+10 megabytes to represent just one minute ol CI)
+quality music. Multiply iliis by about lour minutes
+for your average track, and you get 10 megabytes.
+Even if there weren't all this fuss over the ethics <>l
+Napster and its kith, would vou realh sit in front ol
+your computet lot the hours needed to download
+that monster?
+For most of us, the answer would be an emphat
+ic "no." Indeed, in the wake of great Napster de
+bate over the sharing of music over the Internet,
+the public has ceased to locus on the most impor
+tant technological leap that made music-sharing
+programs viable in the first place — the- MPEG-1
+Layer 3 (or, more commonly, MP3) compression
+standard.
+Development of MP3s
+The Motion Picture Experts Group audio stan
+dard is a high-complexity, high-compression and
+
+high audio quality algo
+rithm. The MPEG de
+velopers that work on
+standards for both
+audio and video systems
+saw the benefits of the
+digital representation of
+audio data. These ad
+vantages include high
+noise immunity, stabili
+ty, reproducibility and
+the efficient implemen
+tation of audio process
+ing functions through a
+computer.
+MPEG is a working
+group that was formed
+
+from the existing Joint Photographic Kxperts
+Group. lis goal is to devise <i suitable encoding
+sthenic for transmitting moving pictures and
+sound over various broadcast links and recording
+them in standard digital storage media. Since mov
+ing pictures are often accompanied In sound.
+MPEG also defined a standard for encoding audio
+information. In 1992, a standard for audio and
+video encoding was devised known as M PL( i-1.
+MPS stands for MPEG-1 Layer S. Layers repre
+sent a family of coding algorithms. Layer I has the
+lowest level of complexity. Layer 2 requires <i more
+complex encoder and decoder and is directed
+more towards applications where one encoder
+serves many decoders. Thus. Layer 2 is able to re
+move more signal redundancy than Layer I. Layer
+Sis again more complex and extracts more redun
+dancy and irrelevancy from the data. Ihe layers
+are backwards-compatible, meaning that any soft
+ware or hardware capable of decoding Layer S
+audio should also be able to decode Layers I and 2.
+
+The nitty-gritty of MPS compression
+Without am sort ol compression, it would hike
+10 megabytes to represent a minute ol (11) quality
+music. Hut by using MI'KG audio coding, the si/e
+can be shrunk clown In a factor of twelve without
+losing am ol the sound quality.
+Though Ml' 3 compression is considered 'lossy'
+because some data c annot be recovered alter com
+pression, the MIM,(. algorithm can achieve trans
+parent or perc eptuall\ lossless compression. Alter
+testing, it was concluded that expert listeners could
+not distinguish between coded and original audio
+dips even with a six to one compression ratio.
+M f\S compression is siu cess In I because it utilizes
+the concept ol auditor) masking. 1 his type of
+masking occurs when the presence of a strong
+audio signal makes weaker audio signals in the
+proximity imperceptible. 1 Ins non-linear and
+adaptive threshold of hearing (the level below
+which the human ear cannot differentiate between
+certain sound frequencies) varies with frequency,
+as well as among individuals.
+Whether a person hears a sound or not depends
+on the frequencx of the sound and whethet the am
+
+plitude is above or below
+thai person's hearing
+threshold at that fre
+quents . For example, in
+the vicinitv ola loud
+noise su< li as an airplane
+passing overhead or a
+train passing by, il is im
+possible to hear ordi
+nary conversations due
+to the distortions pre
+sent at the hearing
+thresholds of the indi
+viduals. Sounds that are
+inaudible due to dynam
+ic adaptation ol the
+hearing threshold are
+
+said to be masked.
+I his effect is particularly relevant to music . A
+loud ore hestra easily masks the sounds of some in
+dividual instruments playing softly. Similarly,
+when this orchestra is recorded, the masked in
+struments will not Ik- audible to the listener. A lin
+ear recording, in order to achieve efficiency,
+should discard the inaudible data and instead use
+ih.it space lo store other audible data. Drawing a
+parallel to digital audio compression, in order to
+achieve efficiency, an M I'M should drop the inaudi
+ble areas of data and, in that form of compression,
+save space.
+When sounds are digitized, the computer grabs
+all the sound and stores it as numbers. Lven if parts
+of the sound are beyond the range of human hear
+ing, thev're digitized anyway. MPS compresses the
+file by removing any numbers representing sounds
+bevond the range of human hearing.
+
+What makes MPS so special?
+So why has MPS emerged as
+the leading tool for Internet
+audio delivery? MPECi-1 Layer 3
+is defined as an open standard, so
+the specification is available to
+anyone interested in implement
+ing the standard. Since no single
+company owns the standard,
+
+public example source code is
+available and the format is well
+defined.
+Also, driven bv the demand for
+professional and, moreover, per
+sonal use. main MPS encoders
+and decoders are readily avail
+able for use. I his access simplifies
+the adoption of M PS tec hnologv.
+The widespread increase in
+usage of computers lasi enough
+to decode audio and with lasi In
+ternet access have both con
+tributed to the embracing of M PS
+music format.
+
+As data compression technolo
+gy advances, there are bound to
+be faster, higher-quality alterna
+tives to the M PS format. Real Ne
+tworks alreadv touts such a for
+mal, but has ac hieved nowhere
+near the übiquity of MPS.
+As of now, " M PS" is one of the
+most popular search keys on the
+Internet, surpassed only by the
+word "sex." According to a recent
+PL Magazine article, the MPS
+music marketplace reached the
+magic 10-million-user threshold
+in 1099 and continues to grow.
+M P3: Whodat?
+Without any sort of compression, it would lake
+10 megabytes to represent just one minute ol CI)
+quality music. Multiply iliis by about lour minutes
+for your average track, and you get 10 megabytes.
+Even if there weren't all this fuss over the ethics <>l
+Napster and its kith, would vou realh sit in front ol
+your computet lot the hours needed to download
+that monster?
+For most of us, the answer would be an emphat
+ic "no." Indeed, in the wake of great Napster de
+bate over the sharing of music over the Internet,
+the public has ceased to locus on the most impor
+tant technological leap that made music-sharing
+programs viable in the first place — the- MPEG-1
+Layer 3 (or, more commonly, MP3) compression
+standard.
+Development of MP3s
+The Motion Picture Experts Group audio stan
+dard is a high-complexity, high-compression and
+
+high audio quality algo
+rithm. The MPEG de
+velopers that work on
+standards for both
+audio and video systems
+saw the benefits of the
+digital representation of
+audio data. These ad
+vantages include high
+noise immunity, stabili
+ty, reproducibility and
+the efficient implemen
+tation of audio process
+ing functions through a
+computer.
+MPEG is a working
+group that was formed
+
+from the existing Joint Photographic Kxperts
+Group. lis goal is to devise <i suitable encoding
+sthenic for transmitting moving pictures and
+sound over various broadcast links and recording
+them in standard digital storage media. Since mov
+ing pictures are often accompanied In sound.
+MPEG also defined a standard for encoding audio
+information. In 1992, a standard for audio and
+video encoding was devised known as M PL( i-1.
+MPS stands for MPEG-1 Layer S. Layers repre
+sent a family of coding algorithms. Layer I has the
+lowest level of complexity. Layer 2 requires <i more
+complex encoder and decoder and is directed
+more towards applications where one encoder
+serves many decoders. Thus. Layer 2 is able to re
+move more signal redundancy than Layer I. Layer
+Sis again more complex and extracts more redun
+dancy and irrelevancy from the data. Ihe layers
+are backwards-compatible, meaning that any soft
+ware or hardware capable of decoding Layer S
+audio should also be able to decode Layers I and 2.
+
+The nitty-gritty of MPS compression
+Without am sort ol compression, it would hike
+10 megabytes to represent a minute ol (11) quality
+music. Hut by using MI'KG audio coding, the si/e
+can be shrunk clown In a factor of twelve without
+losing am ol the sound quality.
+Though Ml' 3 compression is considered 'lossy'
+because some data c annot be recovered alter com
+pression, the MIM,(. algorithm can achieve trans
+parent or perc eptuall\ lossless compression. Alter
+testing, it was concluded that expert listeners could
+not distinguish between coded and original audio
+dips even with a six to one compression ratio.
+M f\S compression is siu cess In I because it utilizes
+the concept ol auditor) masking. 1 his type of
+masking occurs when the presence of a strong
+audio signal makes weaker audio signals in the
+proximity imperceptible. 1 Ins non-linear and
+adaptive threshold of hearing (the level below
+which the human ear cannot differentiate between
+certain sound frequencies) varies with frequency,
+as well as among individuals.
+Whether a person hears a sound or not depends
+on the frequencx of the sound and whethet the am
+
+plitude is above or below
+thai person's hearing
+threshold at that fre
+quents . For example, in
+the vicinitv ola loud
+noise su< li as an airplane
+passing overhead or a
+train passing by, il is im
+possible to hear ordi
+nary conversations due
+to the distortions pre
+sent at the hearing
+thresholds of the indi
+viduals. Sounds that are
+inaudible due to dynam
+ic adaptation ol the
+hearing threshold are
+
+said to be masked.
+I his effect is particularly relevant to music . A
+loud ore hestra easily masks the sounds of some in
+dividual instruments playing softly. Similarly,
+when this orchestra is recorded, the masked in
+struments will not Ik- audible to the listener. A lin
+ear recording, in order to achieve efficiency,
+should discard the inaudible data and instead use
+ih.it space lo store other audible data. Drawing a
+parallel to digital audio compression, in order to
+achieve efficiency, an M I'M should drop the inaudi
+ble areas of data and, in that form of compression,
+save space.
+When sounds are digitized, the computer grabs
+all the sound and stores it as numbers. Lven if parts
+of the sound are beyond the range of human hear
+ing, thev're digitized anyway. MPS compresses the
+file by removing any numbers representing sounds
+bevond the range of human hearing.
+
+What makes MPS so special?
+So why has MPS emerged as
+the leading tool for Internet
+audio delivery? MPECi-1 Layer 3
+is defined as an open standard, so
+the specification is available to
+anyone interested in implement
+ing the standard. Since no single
+company owns the standard,
+
+public example source code is
+available and the format is well
+defined.
+Also, driven bv the demand for
+professional and, moreover, per
+sonal use. main MPS encoders
+and decoders are readily avail
+able for use. I his access simplifies
+the adoption of M PS tec hnologv.
+The widespread increase in
+usage of computers lasi enough
+to decode audio and with lasi In
+ternet access have both con
+tributed to the embracing of M PS
+music format.
+
+As data compression technolo
+gy advances, there are bound to
+be faster, higher-quality alterna
+tives to the M PS format. Real Ne
+tworks alreadv touts such a for
+mal, but has ac hieved nowhere
+near the übiquity of MPS.
+As of now, " M PS" is one of the
+most popular search keys on the
+Internet, surpassed only by the
+word "sex." According to a recent
+PL Magazine article, the MPS
+music marketplace reached the
+magic 10-million-user threshold
+in 1099 and continues to grow.
+M P3: Whodat?
+Without any sort of compression, it would lake
+10 megabytes to represent just one minute ol CI)
+quality music. Multiply iliis by about lour minutes
+for your average track, and you get 10 megabytes.
+Even if there weren't all this fuss over the ethics <>l
+Napster and its kith, would vou realh sit in front ol
+your computet lot the hours needed to download
+that monster?
+For most of us, the answer would be an emphat
+ic "no." Indeed, in the wake of great Napster de
+bate over the sharing of music over the Internet,
+the public has ceased to locus on the most impor
+tant technological leap that made music-sharing
+programs viable in the first place — the- MPEG-1
+Layer 3 (or, more commonly, MP3) compression
+standard.
+Development of MP3s
+The Motion Picture Experts Group audio stan
+dard is a high-complexity, high-compression and
+
+high audio quality algo
+rithm. The MPEG de
+velopers that work on
+standards for both
+audio and video systems
+saw the benefits of the
+digital representation of
+audio data. These ad
+vantages include high
+noise immunity, stabili
+ty, reproducibility and
+the efficient implemen
+tation of audio process
+ing functions through a
+computer.
+MPEG is a working
+group that was formed
+
+from the existing Joint Photographic Kxperts
+Group. lis goal is to devise <i suitable encoding
+sthenic for transmitting moving pictures and
+sound over various broadcast links and recording
+them in standard digital storage media. Since mov
+ing pictures are often accompanied In sound.
+MPEG also defined a standard for encoding audio
+information. In 1992, a standard for audio and
+video encoding was devised known as M PL( i-1.
+MPS stands for MPEG-1 Layer S. Layers repre
+sent a family of coding algorithms. Layer I has the
+lowest level of complexity. Layer 2 requires <i more
+complex encoder and decoder and is directed
+more towards applications where one encoder
+serves many decoders. Thus. Layer 2 is able to re
+move more signal redundancy than Layer I. Layer
+Sis again more complex and extracts more redun
+dancy and irrelevancy from the data. Ihe layers
+are backwards-compatible, meaning that any soft
+ware or hardware capable of decoding Layer S
+audio should also be able to decode Layers I and 2.
+
+The nitty-gritty of MPS compression
+Without am sort ol compression, it would hike
+10 megabytes to represent a minute ol (11) quality
+music. Hut by using MI'KG audio coding, the si/e
+can be shrunk clown In a factor of twelve without
+losing am ol the sound quality.
+Though Ml' 3 compression is considered 'lossy'
+because some data c annot be recovered alter com
+pression, the MIM,(. algorithm can achieve trans
+parent or perc eptuall\ lossless compression. Alter
+testing, it was concluded that expert listeners could
+not distinguish between coded and original audio
+dips even with a six to one compression ratio.
+M f\S compression is siu cess In I because it utilizes
+the concept ol auditor) masking. 1 his type of
+masking occurs when the presence of a strong
+audio signal makes weaker audio signals in the
+proximity imperceptible. 1 Ins non-linear and
+adaptive threshold of hearing (the level below
+which the human ear cannot differentiate between
+certain sound frequencies) varies with frequency,
+as well as among individuals.
+Whether a person hears a sound or not depends
+on the frequencx of the sound and whethet the am
+
+plitude is above or below
+thai person's hearing
+threshold at that fre
+quents . For example, in
+the vicinitv ola loud
+noise su< li as an airplane
+passing overhead or a
+train passing by, il is im
+possible to hear ordi
+nary conversations due
+to the distortions pre
+sent at the hearing
+thresholds of the indi
+viduals. Sounds that are
+inaudible due to dynam
+ic adaptation ol the
+hearing threshold are
+
+said to be masked.
+I his effect is particularly relevant to music . A
+loud ore hestra easily masks the sounds of some in
+dividual instruments playing softly. Similarly,
+when this orchestra is recorded, the masked in
+struments will not Ik- audible to the listener. A lin
+ear recording, in order to achieve efficiency,
+should discard the inaudible data and instead use
+ih.it space lo store other audible data. Drawing a
+parallel to digital audio compression, in order to
+achieve efficiency, an M I'M should drop the inaudi
+ble areas of data and, in that form of compression,
+save space.
+When sounds are digitized, the computer grabs
+all the sound and stores it as numbers. Lven if parts
+of the sound are beyond the range of human hear
+ing, thev're digitized anyway. MPS compresses the
+file by removing any numbers representing sounds
+bevond the range of human hearing.
+
+What makes MPS so special?
+So why has MPS emerged as
+the leading tool for Internet
+audio delivery? MPECi-1 Layer 3
+is defined as an open standard, so
+the specification is available to
+anyone interested in implement
+ing the standard. Since no single
+company owns the standard,
+
+public example source code is
+available and the format is well
+defined.
+Also, driven bv the demand for
+professional and, moreover, per
+sonal use. main MPS encoders
+and decoders are readily avail
+able for use. I his access simplifies
+the adoption of M PS tec hnologv.
+The widespread increase in
+usage of computers lasi enough
+to decode audio and with lasi In
+ternet access have both con
+tributed to the embracing of M PS
+music format.
+
+As data compression technolo
+gy advances, there are bound to
+be faster, higher-quality alterna
+tives to the M PS format. Real Ne
+tworks alreadv touts such a for
+mal, but has ac hieved nowhere
+near the übiquity of MPS.
+As of now, " M PS" is one of the
+most popular search keys on the
+Internet, surpassed only by the
+word "sex." According to a recent
+PL Magazine article, the MPS
+music marketplace reached the
+magic 10-million-user threshold
+in 1099 and continues to grow.
+M P3: Whodat?
+Without any sort of compression, it would lake
+10 megabytes to represent just one minute ol CI)
+quality music. Multiply iliis by about lour minutes
+for your average track, and you get 10 megabytes.
+Even if there weren't all this fuss over the ethics <>l
+Napster and its kith, would vou realh sit in front ol
+your computet lot the hours needed to download
+that monster?
+For most of us, the answer would be an emphat
+ic "no." Indeed, in the wake of great Napster de
+bate over the sharing of music over the Internet,
+the public has ceased to locus on the most impor
+tant technological leap that made music-sharing
+programs viable in the first place — the- MPEG-1
+Layer 3 (or, more commonly, MP3) compression
+standard.
+Development of MP3s
+The Motion Picture Experts Group audio stan
+dard is a high-complexity, high-compression and
+
+high audio quality algo
+rithm. The MPEG de
+velopers that work on
+standards for both
+audio and video systems
+saw the benefits of the
+digital representation of
+audio data. These ad
+vantages include high
+noise immunity, stabili
+ty, reproducibility and
+the efficient implemen
+tation of audio process
+ing functions through a
+computer.
+MPEG is a working
+group that was formed
+
+from the existing Joint Photographic Kxperts
+Group. lis goal is to devise <i suitable encoding
+sthenic for transmitting moving pictures and
+sound over various broadcast links and recording
+them in standard digital storage media. Since mov
+ing pictures are often accompanied In sound.
+MPEG also defined a standard for encoding audio
+information. In 1992, a standard for audio and
+video encoding was devised known as M PL( i-1.
+MPS stands for MPEG-1 Layer S. Layers repre
+sent a family of coding algorithms. Layer I has the
+lowest level of complexity. Layer 2 requires <i more
+complex encoder and decoder and is directed
+more towards applications where one encoder
+serves many decoders. Thus. Layer 2 is able to re
+move more signal redundancy than Layer I. Layer
+Sis again more complex and extracts more redun
+dancy and irrelevancy from the data. Ihe layers
+are backwards-compatible, meaning that any soft
+ware or hardware capable of decoding Layer S
+audio should also be able to decode Layers I and 2.
+
+The nitty-gritty of MPS compression
+Without am sort ol compression, it would hike
+10 megabytes to represent a minute ol (11) quality
+music. Hut by using MI'KG audio coding, the si/e
+can be shrunk clown In a factor of twelve without
+losing am ol the sound quality.
+Though Ml' 3 compression is considered 'lossy'
+because some data c annot be recovered alter com
+pression, the MIM,(. algorithm can achieve trans
+parent or perc eptuall\ lossless compression. Alter
+testing, it was concluded that expert listeners could
+not distinguish between coded and original audio
+dips even with a six to one compression ratio.
+M f\S compression is siu cess In I because it utilizes
+the concept ol auditor) masking. 1 his type of
+masking occurs when the presence of a strong
+audio signal makes weaker audio signals in the
+proximity imperceptible. 1 Ins non-linear and
+adaptive threshold of hearing (the level below
+which the human ear cannot differentiate between
+certain sound frequencies) varies with frequency,
+as well as among individuals.
+Whether a person hears a sound or not depends
+on the frequencx of the sound and whethet the am
+
+plitude is above or below
+thai person's hearing
+threshold at that fre
+quents . For example, in
+the vicinitv ola loud
+noise su< li as an airplane
+passing overhead or a
+train passing by, il is im
+possible to hear ordi
+nary conversations due
+to the distortions pre
+sent at the hearing
+thresholds of the indi
+viduals. Sounds that are
+inaudible due to dynam
+ic adaptation ol the
+hearing threshold are
+
+said to be masked.
+I his effect is particularly relevant to music . A
+loud ore hestra easily masks the sounds of some in
+dividual instruments playing softly. Similarly,
+when this orchestra is recorded, the masked in
+struments will not Ik- audible to the listener. A lin
+ear recording, in order to achieve efficiency,
+should discard the inaudible data and instead use
+ih.it space lo store other audible data. Drawing a
+parallel to digital audio compression, in order to
+achieve efficiency, an M I'M should drop the inaudi
+ble areas of data and, in that form of compression,
+save space.
+When sounds are digitized, the computer grabs
+all the sound and stores it as numbers. Lven if parts
+of the sound are beyond the range of human hear
+ing, thev're digitized anyway. MPS compresses the
+file by removing any numbers representing sounds
+bevond the range of human hearing.
+
+What makes MPS so special?
+So why has MPS emerged as
+the leading tool for Internet
+audio delivery? MPECi-1 Layer 3
+is defined as an open standard, so
+the specification is available to
+anyone interested in implement
+ing the standard. Since no single
+company owns the standard,
+
+public example source code is
+available and the format is well
+defined.
+Also, driven bv the demand for
+professional and, moreover, per
+sonal use. main MPS encoders
+and decoders are readily avail
+able for use. I his access simplifies
+the adoption of M PS tec hnologv.
+The widespread increase in
+usage of computers lasi enough
+to decode audio and with lasi In
+ternet access have both con
+tributed to the embracing of M PS
+music format.
+
+As data compression technolo
+gy advances, there are bound to
+be faster, higher-quality alterna
+tives to the M PS format. Real Ne
+tworks alreadv touts such a for
+mal, but has ac hieved nowhere
+near the übiquity of MPS.
+As of now, " M PS" is one of the
+most popular search keys on the
+Internet, surpassed only by the
+word "sex." According to a recent
+PL Magazine article, the MPS
+music marketplace reached the
+magic 10-million-user threshold
+in 1099 and continues to grow.
+M P3: Whodat?
+Without any sort of compression, it would lake
+10 megabytes to represent just one minute ol CI)
+quality music. Multiply iliis by about lour minutes
+for your average track, and you get 10 megabytes.
+Even if there weren't all this fuss over the ethics <>l
+Napster and its kith, would vou realh sit in front ol
+your computet lot the hours needed to download
+that monster?
+For most of us, the answer would be an emphat
+ic "no." Indeed, in the wake of great Napster de
+bate over the sharing of music over the Internet,
+the public has ceased to locus on the most impor
+tant technological leap that made music-sharing
+programs viable in the first place — the- MPEG-1
+Layer 3 (or, more commonly, MP3) compression
+standard.
+Development of MP3s
+The Motion Picture Experts Group audio stan
+dard is a high-complexity, high-compression and
+
+high audio quality algo
+rithm. The MPEG de
+velopers that work on
+standards for both
+audio and video systems
+saw the benefits of the
+digital representation of
+audio data. These ad
+vantages include high
+noise immunity, stabili
+ty, reproducibility and
+the efficient implemen
+tation of audio process
+ing functions through a
+computer.
+MPEG is a working
+group that was formed
+
+from the existing Joint Photographic Kxperts
+Group. lis goal is to devise <i suitable encoding
+sthenic for transmitting moving pictures and
+sound over various broadcast links and recording
+them in standard digital storage media. Since mov
+ing pictures are often accompanied In sound.
+MPEG also defined a standard for encoding audio
+information. In 1992, a standard for audio and
+video encoding was devised known as M PL( i-1.
+MPS stands for MPEG-1 Layer S. Layers repre
+sent a family of coding algorithms. Layer I has the
+lowest level of complexity. Layer 2 requires <i more
+complex encoder and decoder and is directed
+more towards applications where one encoder
+serves many decoders. Thus. Layer 2 is able to re
+move more signal redundancy than Layer I. Layer
+Sis again more complex and extracts more redun
+dancy and irrelevancy from the data. Ihe layers
+are backwards-compatible, meaning that any soft
+ware or hardware capable of decoding Layer S
+audio should also be able to decode Layers I and 2.
+
+The nitty-gritty of MPS compression
+Without am sort ol compression, it would hike
+10 megabytes to represent a minute ol (11) quality
+music. Hut by using MI'KG audio coding, the si/e
+can be shrunk clown In a factor of twelve without
+losing am ol the sound quality.
+Though Ml' 3 compression is considered 'lossy'
+because some data c annot be recovered alter com
+pression, the MIM,(. algorithm can achieve trans
+parent or perc eptuall\ lossless compression. Alter
+testing, it was concluded that expert listeners could
+not distinguish between coded and original audio
+dips even with a six to one compression ratio.
+M f\S compression is siu cess In I because it utilizes
+the concept ol auditor) masking. 1 his type of
+masking occurs when the presence of a strong
+audio signal makes weaker audio signals in the
+proximity imperceptible. 1 Ins non-linear and
+adaptive threshold of hearing (the level below
+which the human ear cannot differentiate between
+certain sound frequencies) varies with frequency,
+as well as among individuals.
+Whether a person hears a sound or not depends
+on the frequencx of the sound and whethet the am
+
+plitude is above or below
+thai person's hearing
+threshold at that fre
+quents . For example, in
+the vicinitv ola loud
+noise su< li as an airplane
+passing overhead or a
+train passing by, il is im
+possible to hear ordi
+nary conversations due
+to the distortions pre
+sent at the hearing
+thresholds of the indi
+viduals. Sounds that are
+inaudible due to dynam
+ic adaptation ol the
+hearing threshold are
+
+said to be masked.
+I his effect is particularly relevant to music . A
+loud ore hestra easily masks the sounds of some in
+dividual instruments playing softly. Similarly,
+when this orchestra is recorded, the masked in
+struments will not Ik- audible to the listener. A lin
+ear recording, in order to achieve efficiency,
+should discard the inaudible data and instead use
+ih.it space lo store other audible data. Drawing a
+parallel to digital audio compression, in order to
+achieve efficiency, an M I'M should drop the inaudi
+ble areas of data and, in that form of compression,
+save space.
+When sounds are digitized, the computer grabs
+all the sound and stores it as numbers. Lven if parts
+of the sound are beyond the range of human hear
+ing, thev're digitized anyway. MPS compresses the
+file by removing any numbers representing sounds
+bevond the range of human hearing.
+
+What makes MPS so special?
+So why has MPS emerged as
+the leading tool for Internet
+audio delivery? MPECi-1 Layer 3
+is defined as an open standard, so
+the specification is available to
+anyone interested in implement
+ing the standard. Since no single
+company owns the standard,
+
+public example source code is
+available and the format is well
+defined.
+Also, driven bv the demand for
+professional and, moreover, per
+sonal use. main MPS encoders
+and decoders are readily avail
+able for use. I his access simplifies
+the adoption of M PS tec hnologv.
+The widespread increase in
+usage of computers lasi enough
+to decode audio and with lasi In
+ternet access have both con
+tributed to the embracing of M PS
+music format.
+
+As data compression technolo
+gy advances, there are bound to
+be faster, higher-quality alterna
+tives to the M PS format. Real Ne
+tworks alreadv touts such a for
+mal, but has ac hieved nowhere
+near the übiquity of MPS.
+As of now, " M PS" is one of the
+most popular search keys on the
+Internet, surpassed only by the
+word "sex." According to a recent
+PL Magazine article, the MPS
+music marketplace reached the
+magic 10-million-user threshold
+in 1099 and continues to grow.
+M P3: Whodat?
+Without any sort of compression, it would lake
+10 megabytes to represent just one minute ol CI)
+quality music. Multiply iliis by about lour minutes
+for your average track, and you get 10 megabytes.
+Even if there weren't all this fuss over the ethics <>l
+Napster and its kith, would vou realh sit in front ol
+your computet lot the hours needed to download
+that monster?
+For most of us, the answer would be an emphat
+ic "no." Indeed, in the wake of great Napster de
+bate over the sharing of music over the Internet,
+the public has ceased to locus on the most impor
+tant technological leap that made music-sharing
+programs viable in the first place — the- MPEG-1
+Layer 3 (or, more commonly, MP3) compression
+standard.
+Development of MP3s
+The Motion Picture Experts Group audio stan
+dard is a high-complexity, high-compression and
+
+high audio quality algo
+rithm. The MPEG de
+velopers that work on
+standards for both
+audio and video systems
+saw the benefits of the
+digital representation of
+audio data. These ad
+vantages include high
+noise immunity, stabili
+ty, reproducibility and
+the efficient implemen
+tation of audio process
+ing functions through a
+computer.
+MPEG is a working
+group that was formed
+
+from the existing Joint Photographic Kxperts
+Group. lis goal is to devise <i suitable encoding
+sthenic for transmitting moving pictures and
+sound over various broadcast links and recording
+them in standard digital storage media. Since mov
+ing pictures are often accompanied In sound.
+MPEG also defined a standard for encoding audio
+information. In 1992, a standard for audio and
+video encoding was devised known as M PL( i-1.
+MPS stands for MPEG-1 Layer S. Layers repre
+sent a family of coding algorithms. Layer I has the
+lowest level of complexity. Layer 2 requires <i more
+complex encoder and decoder and is directed
+more towards applications where one encoder
+serves many decoders. Thus. Layer 2 is able to re
+move more signal redundancy than Layer I. Layer
+Sis again more complex and extracts more redun
+dancy and irrelevancy from the data. Ihe layers
+are backwards-compatible, meaning that any soft
+ware or hardware capable of decoding Layer S
+audio should also be able to decode Layers I and 2.
+
+The nitty-gritty of MPS compression
+Without am sort ol compression, it would hike
+10 megabytes to represent a minute ol (11) quality
+music. Hut by using MI'KG audio coding, the si/e
+can be shrunk clown In a factor of twelve without
+losing am ol the sound quality.
+Though Ml' 3 compression is considered 'lossy'
+because some data c annot be recovered alter com
+pression, the MIM,(. algorithm can achieve trans
+parent or perc eptuall\ lossless compression. Alter
+testing, it was concluded that expert listeners could
+not distinguish between coded and original audio
+dips even with a six to one compression ratio.
+M f\S compression is siu cess In I because it utilizes
+the concept ol auditor) masking. 1 his type of
+masking occurs when the presence of a strong
+audio signal makes weaker audio signals in the
+proximity imperceptible. 1 Ins non-linear and
+adaptive threshold of hearing (the level below
+which the human ear cannot differentiate between
+certain sound frequencies) varies with frequency,
+as well as among individuals.
+Whether a person hears a sound or not depends
+on the frequencx of the sound and whethet the am
+
+plitude is above or below
+thai person's hearing
+threshold at that fre
+quents . For example, in
+the vicinitv ola loud
+noise su< li as an airplane
+passing overhead or a
+train passing by, il is im
+possible to hear ordi
+nary conversations due
+to the distortions pre
+sent at the hearing
+thresholds of the indi
+viduals. Sounds that are
+inaudible due to dynam
+ic adaptation ol the
+hearing threshold are
+
+said to be masked.
+I his effect is particularly relevant to music . A
+loud ore hestra easily masks the sounds of some in
+dividual instruments playing softly. Similarly,
+when this orchestra is recorded, the masked in
+struments will not Ik- audible to the listener. A lin
+ear recording, in order to achieve efficiency,
+should discard the inaudible data and instead use
+ih.it space lo store other audible data. Drawing a
+parallel to digital audio compression, in order to
+achieve efficiency, an M I'M should drop the inaudi
+ble areas of data and, in that form of compression,
+save space.
+When sounds are digitized, the computer grabs
+all the sound and stores it as numbers. Lven if parts
+of the sound are beyond the range of human hear
+ing, thev're digitized anyway. MPS compresses the
+file by removing any numbers representing sounds
+bevond the range of human hearing.
+
+What makes MPS so special?
+So why has MPS emerged as
+the leading tool for Internet
+audio delivery? MPECi-1 Layer 3
+is defined as an open standard, so
+the specification is available to
+anyone interested in implement
+ing the standard. Since no single
+company owns the standard,
+
+public example source code is
+available and the format is well
+defined.
+Also, driven bv the demand for
+professional and, moreover, per
+sonal use. main MPS encoders
+and decoders are readily avail
+able for use. I his access simplifies
+the adoption of M PS tec hnologv.
+The widespread increase in
+usage of computers lasi enough
+to decode audio and with lasi In
+ternet access have both con
+tributed to the embracing of M PS
+music format.
+
+As data compression technolo
+gy advances, there are bound to
+be faster, higher-quality alterna
+tives to the M PS format. Real Ne
+tworks alreadv touts such a for
+mal, but has ac hieved nowhere
+near the übiquity of MPS.
+As of now, " M PS" is one of the
+most popular search keys on the
+Internet, surpassed only by the
+word "sex." According to a recent
+PL Magazine article, the MPS
+music marketplace reached the
+magic 10-million-user threshold
+in 1099 and continues to grow.

@@ -1,0 +1,878 @@
+# Hacking spree strikes campus
+## 
+### CAMILLE RICKETTS EDITORIAL STAFF 
+Three waves of hacker attacks have allect
+ed nearly 3,000 Stanford computers since July
+31, exploiting a Microsoft Windows vulnera
+bility called "RP(I buffer overflow" that allows
+hackers to take control of entire systems. In
+formation Technology Systems and Services is
+asking students to instill new security software
+to prevent any further spread of infection.
+Campus computers running Microsoft
+Windows NT, 2000 and XP are susceptible to
+attack, in addition to any home computers
+that dial into Stanford or connect by broad
+band lines.
+ITSS Director Cedric Bennett said the Uni
+versity believes the infections might be attrib
+uted to laptops brought from outside campus
+and plugged into the network. The laptop
+
+users were probably not aware that their sys
+tems carried the virus at the time, he added.
+Microsoft announced the existence of the
+Windows vulnerability on July 16, simultane
+ously releasing a patch, or update, that would
+prevent attacks and infection.
+"Any unpatched system that was running
+011 the network and not protected by other
+means, like a firewall, was likely to be attacked,
+including clusters and home machines," Ben
+nett said. "Not all ll' addresses were
+attacked — but that is only a matter of time."
+The only way to repair a compromised sys
+tem is to reformat the hard drive, download
+the patch and then reinstall any backed-up
+data or applications.
+"There are no surgical approaches for
+most of these exploits," Bennett said. "The in-
+
+
+LINDSAY COIEMAN/The Stanford Daily
+Nearly 3,000 computers have fallen victim to campus-wide hacker attacks that target a vulnera
+bility in the Windows operating system. Students are urged to update their anti-virus software.
+fected machine must be wiped
+clean and rebuilt, [which] can take
+up to four hours per machine or
+longer."
+More than 2,400 machines were
+infected in the first two waves of at
+tacks, .uul ITSS believes that at least
+500 more systems have been dam
+aged by the third exploit, known as
+the MS Blaster Worm, which struck
+Aug. 11. Bennett said it may take
+weeks before the bugs have been
+cleaned out of all campus computers.
+"These exploits are called stealth
+attacks because the) do not overtly
+do anything that might be noticed
+by the user, at first," Bennett said.
+"The idea, from the hacker's per
+spective, is to gain control of the ma
+chine so it can be used at a later
+time."
+Because the attacks are
+launched so deep within the oper
+ating system, it may be difficult for
+
+users to identify infection. Symp
+toms may Ix* as subtle as a disap
+pearance of the virus protection
+icon from a computer's desktop, or
+as obvious as continuous rebooting.
+ITSS said there is cause for concern
+if an exclamation mark appears on
+the Norton Antivirus icon or ifa file
+named update.exe exists in the
+root director) of the user's hard
+drive.
+'T his attack is primarily differ
+ent [from past attacks] in its sophis
+tication and its rapidity," Bennett
+said. "Several of the attacks did a
+great, deal to try to cover their
+tracks."
+"In most cases, [hackers] insert
+some code onto the machine to dis
+able any anti-virus software, and
+then open a 'back door,' like a spe
+cial phone number, that allows the
+hacker to call back later and take
+over the machine," Bennett said.
+"In some cases the exploit also ran
+the patch to fix the vulnerability to
+prevent some other hacker from
+gaining control."
+Although the hackers' intentions
+
+remain unclear, Bennett saiil it is
+possible they attacked campus com
+puters to collect personal or private
+information, or to inconvenience
+the Univei-sity by wiping out the
+disk drives.
+"Stanford has a very fast, open
+network," Bennett said. "It is open,
+rather than closed like many busi
+ness networks, because of the nature
+of an institution of higher education
+— sharing, communication and
+learning are all watchwords for us.
+"It is this openness that makes us
+potentially more vulnerable," he
+continued. "[But] there are ways to
+mitigate that vulnerability."
+ITSS is taking measures to slow
+the spread of these viruses and pre
+vent future strikes, urging campus
+users to continuously update their
+anti-virus software. New operating
+systems, including Windows XP,
+are usually designed to alert users
+when a new patch is available and
+help them load it, Bennett said. New
+vulnerability and patch alerts will
+also be provided at http://secure
+computing.stanford.edu.
+Three waves of hacker attacks have allect
+ed nearly 3,000 Stanford computers since July
+31, exploiting a Microsoft Windows vulnera
+bility called "RP(I buffer overflow" that allows
+hackers to take control of entire systems. In
+formation Technology Systems and Services is
+asking students to instill new security software
+to prevent any further spread of infection.
+Campus computers running Microsoft
+Windows NT, 2000 and XP are susceptible to
+attack, in addition to any home computers
+that dial into Stanford or connect by broad
+band lines.
+ITSS Director Cedric Bennett said the Uni
+versity believes the infections might be attrib
+uted to laptops brought from outside campus
+and plugged into the network. The laptop
+
+users were probably not aware that their sys
+tems carried the virus at the time, he added.
+Microsoft announced the existence of the
+Windows vulnerability on July 16, simultane
+ously releasing a patch, or update, that would
+prevent attacks and infection.
+"Any unpatched system that was running
+011 the network and not protected by other
+means, like a firewall, was likely to be attacked,
+including clusters and home machines," Ben
+nett said. "Not all ll' addresses were
+attacked — but that is only a matter of time."
+The only way to repair a compromised sys
+tem is to reformat the hard drive, download
+the patch and then reinstall any backed-up
+data or applications.
+"There are no surgical approaches for
+most of these exploits," Bennett said. "The in-
+
+
+LINDSAY COIEMAN/The Stanford Daily
+Nearly 3,000 computers have fallen victim to campus-wide hacker attacks that target a vulnera
+bility in the Windows operating system. Students are urged to update their anti-virus software.
+fected machine must be wiped
+clean and rebuilt, [which] can take
+up to four hours per machine or
+longer."
+More than 2,400 machines were
+infected in the first two waves of at
+tacks, .uul ITSS believes that at least
+500 more systems have been dam
+aged by the third exploit, known as
+the MS Blaster Worm, which struck
+Aug. 11. Bennett said it may take
+weeks before the bugs have been
+cleaned out of all campus computers.
+"These exploits are called stealth
+attacks because the) do not overtly
+do anything that might be noticed
+by the user, at first," Bennett said.
+"The idea, from the hacker's per
+spective, is to gain control of the ma
+chine so it can be used at a later
+time."
+Because the attacks are
+launched so deep within the oper
+ating system, it may be difficult for
+
+users to identify infection. Symp
+toms may Ix* as subtle as a disap
+pearance of the virus protection
+icon from a computer's desktop, or
+as obvious as continuous rebooting.
+ITSS said there is cause for concern
+if an exclamation mark appears on
+the Norton Antivirus icon or ifa file
+named update.exe exists in the
+root director) of the user's hard
+drive.
+'T his attack is primarily differ
+ent [from past attacks] in its sophis
+tication and its rapidity," Bennett
+said. "Several of the attacks did a
+great, deal to try to cover their
+tracks."
+"In most cases, [hackers] insert
+some code onto the machine to dis
+able any anti-virus software, and
+then open a 'back door,' like a spe
+cial phone number, that allows the
+hacker to call back later and take
+over the machine," Bennett said.
+"In some cases the exploit also ran
+the patch to fix the vulnerability to
+prevent some other hacker from
+gaining control."
+Although the hackers' intentions
+
+remain unclear, Bennett saiil it is
+possible they attacked campus com
+puters to collect personal or private
+information, or to inconvenience
+the Univei-sity by wiping out the
+disk drives.
+"Stanford has a very fast, open
+network," Bennett said. "It is open,
+rather than closed like many busi
+ness networks, because of the nature
+of an institution of higher education
+— sharing, communication and
+learning are all watchwords for us.
+"It is this openness that makes us
+potentially more vulnerable," he
+continued. "[But] there are ways to
+mitigate that vulnerability."
+ITSS is taking measures to slow
+the spread of these viruses and pre
+vent future strikes, urging campus
+users to continuously update their
+anti-virus software. New operating
+systems, including Windows XP,
+are usually designed to alert users
+when a new patch is available and
+help them load it, Bennett said. New
+vulnerability and patch alerts will
+also be provided at http://secure
+computing.stanford.edu.
+Three waves of hacker attacks have allect
+ed nearly 3,000 Stanford computers since July
+31, exploiting a Microsoft Windows vulnera
+bility called "RP(I buffer overflow" that allows
+hackers to take control of entire systems. In
+formation Technology Systems and Services is
+asking students to instill new security software
+to prevent any further spread of infection.
+Campus computers running Microsoft
+Windows NT, 2000 and XP are susceptible to
+attack, in addition to any home computers
+that dial into Stanford or connect by broad
+band lines.
+ITSS Director Cedric Bennett said the Uni
+versity believes the infections might be attrib
+uted to laptops brought from outside campus
+and plugged into the network. The laptop
+
+users were probably not aware that their sys
+tems carried the virus at the time, he added.
+Microsoft announced the existence of the
+Windows vulnerability on July 16, simultane
+ously releasing a patch, or update, that would
+prevent attacks and infection.
+"Any unpatched system that was running
+011 the network and not protected by other
+means, like a firewall, was likely to be attacked,
+including clusters and home machines," Ben
+nett said. "Not all ll' addresses were
+attacked — but that is only a matter of time."
+The only way to repair a compromised sys
+tem is to reformat the hard drive, download
+the patch and then reinstall any backed-up
+data or applications.
+"There are no surgical approaches for
+most of these exploits," Bennett said. "The in-
+
+
+LINDSAY COIEMAN/The Stanford Daily
+Nearly 3,000 computers have fallen victim to campus-wide hacker attacks that target a vulnera
+bility in the Windows operating system. Students are urged to update their anti-virus software.
+fected machine must be wiped
+clean and rebuilt, [which] can take
+up to four hours per machine or
+longer."
+More than 2,400 machines were
+infected in the first two waves of at
+tacks, .uul ITSS believes that at least
+500 more systems have been dam
+aged by the third exploit, known as
+the MS Blaster Worm, which struck
+Aug. 11. Bennett said it may take
+weeks before the bugs have been
+cleaned out of all campus computers.
+"These exploits are called stealth
+attacks because the) do not overtly
+do anything that might be noticed
+by the user, at first," Bennett said.
+"The idea, from the hacker's per
+spective, is to gain control of the ma
+chine so it can be used at a later
+time."
+Because the attacks are
+launched so deep within the oper
+ating system, it may be difficult for
+
+users to identify infection. Symp
+toms may Ix* as subtle as a disap
+pearance of the virus protection
+icon from a computer's desktop, or
+as obvious as continuous rebooting.
+ITSS said there is cause for concern
+if an exclamation mark appears on
+the Norton Antivirus icon or ifa file
+named update.exe exists in the
+root director) of the user's hard
+drive.
+'T his attack is primarily differ
+ent [from past attacks] in its sophis
+tication and its rapidity," Bennett
+said. "Several of the attacks did a
+great, deal to try to cover their
+tracks."
+"In most cases, [hackers] insert
+some code onto the machine to dis
+able any anti-virus software, and
+then open a 'back door,' like a spe
+cial phone number, that allows the
+hacker to call back later and take
+over the machine," Bennett said.
+"In some cases the exploit also ran
+the patch to fix the vulnerability to
+prevent some other hacker from
+gaining control."
+Although the hackers' intentions
+
+remain unclear, Bennett saiil it is
+possible they attacked campus com
+puters to collect personal or private
+information, or to inconvenience
+the Univei-sity by wiping out the
+disk drives.
+"Stanford has a very fast, open
+network," Bennett said. "It is open,
+rather than closed like many busi
+ness networks, because of the nature
+of an institution of higher education
+— sharing, communication and
+learning are all watchwords for us.
+"It is this openness that makes us
+potentially more vulnerable," he
+continued. "[But] there are ways to
+mitigate that vulnerability."
+ITSS is taking measures to slow
+the spread of these viruses and pre
+vent future strikes, urging campus
+users to continuously update their
+anti-virus software. New operating
+systems, including Windows XP,
+are usually designed to alert users
+when a new patch is available and
+help them load it, Bennett said. New
+vulnerability and patch alerts will
+also be provided at http://secure
+computing.stanford.edu.
+Three waves of hacker attacks have allect
+ed nearly 3,000 Stanford computers since July
+31, exploiting a Microsoft Windows vulnera
+bility called "RP(I buffer overflow" that allows
+hackers to take control of entire systems. In
+formation Technology Systems and Services is
+asking students to instill new security software
+to prevent any further spread of infection.
+Campus computers running Microsoft
+Windows NT, 2000 and XP are susceptible to
+attack, in addition to any home computers
+that dial into Stanford or connect by broad
+band lines.
+ITSS Director Cedric Bennett said the Uni
+versity believes the infections might be attrib
+uted to laptops brought from outside campus
+and plugged into the network. The laptop
+
+users were probably not aware that their sys
+tems carried the virus at the time, he added.
+Microsoft announced the existence of the
+Windows vulnerability on July 16, simultane
+ously releasing a patch, or update, that would
+prevent attacks and infection.
+"Any unpatched system that was running
+011 the network and not protected by other
+means, like a firewall, was likely to be attacked,
+including clusters and home machines," Ben
+nett said. "Not all ll' addresses were
+attacked — but that is only a matter of time."
+The only way to repair a compromised sys
+tem is to reformat the hard drive, download
+the patch and then reinstall any backed-up
+data or applications.
+"There are no surgical approaches for
+most of these exploits," Bennett said. "The in-
+
+
+LINDSAY COIEMAN/The Stanford Daily
+Nearly 3,000 computers have fallen victim to campus-wide hacker attacks that target a vulnera
+bility in the Windows operating system. Students are urged to update their anti-virus software.
+fected machine must be wiped
+clean and rebuilt, [which] can take
+up to four hours per machine or
+longer."
+More than 2,400 machines were
+infected in the first two waves of at
+tacks, .uul ITSS believes that at least
+500 more systems have been dam
+aged by the third exploit, known as
+the MS Blaster Worm, which struck
+Aug. 11. Bennett said it may take
+weeks before the bugs have been
+cleaned out of all campus computers.
+"These exploits are called stealth
+attacks because the) do not overtly
+do anything that might be noticed
+by the user, at first," Bennett said.
+"The idea, from the hacker's per
+spective, is to gain control of the ma
+chine so it can be used at a later
+time."
+Because the attacks are
+launched so deep within the oper
+ating system, it may be difficult for
+
+users to identify infection. Symp
+toms may Ix* as subtle as a disap
+pearance of the virus protection
+icon from a computer's desktop, or
+as obvious as continuous rebooting.
+ITSS said there is cause for concern
+if an exclamation mark appears on
+the Norton Antivirus icon or ifa file
+named update.exe exists in the
+root director) of the user's hard
+drive.
+'T his attack is primarily differ
+ent [from past attacks] in its sophis
+tication and its rapidity," Bennett
+said. "Several of the attacks did a
+great, deal to try to cover their
+tracks."
+"In most cases, [hackers] insert
+some code onto the machine to dis
+able any anti-virus software, and
+then open a 'back door,' like a spe
+cial phone number, that allows the
+hacker to call back later and take
+over the machine," Bennett said.
+"In some cases the exploit also ran
+the patch to fix the vulnerability to
+prevent some other hacker from
+gaining control."
+Although the hackers' intentions
+
+remain unclear, Bennett saiil it is
+possible they attacked campus com
+puters to collect personal or private
+information, or to inconvenience
+the Univei-sity by wiping out the
+disk drives.
+"Stanford has a very fast, open
+network," Bennett said. "It is open,
+rather than closed like many busi
+ness networks, because of the nature
+of an institution of higher education
+— sharing, communication and
+learning are all watchwords for us.
+"It is this openness that makes us
+potentially more vulnerable," he
+continued. "[But] there are ways to
+mitigate that vulnerability."
+ITSS is taking measures to slow
+the spread of these viruses and pre
+vent future strikes, urging campus
+users to continuously update their
+anti-virus software. New operating
+systems, including Windows XP,
+are usually designed to alert users
+when a new patch is available and
+help them load it, Bennett said. New
+vulnerability and patch alerts will
+also be provided at http://secure
+computing.stanford.edu.
+Three waves of hacker attacks have allect
+ed nearly 3,000 Stanford computers since July
+31, exploiting a Microsoft Windows vulnera
+bility called "RP(I buffer overflow" that allows
+hackers to take control of entire systems. In
+formation Technology Systems and Services is
+asking students to instill new security software
+to prevent any further spread of infection.
+Campus computers running Microsoft
+Windows NT, 2000 and XP are susceptible to
+attack, in addition to any home computers
+that dial into Stanford or connect by broad
+band lines.
+ITSS Director Cedric Bennett said the Uni
+versity believes the infections might be attrib
+uted to laptops brought from outside campus
+and plugged into the network. The laptop
+
+users were probably not aware that their sys
+tems carried the virus at the time, he added.
+Microsoft announced the existence of the
+Windows vulnerability on July 16, simultane
+ously releasing a patch, or update, that would
+prevent attacks and infection.
+"Any unpatched system that was running
+011 the network and not protected by other
+means, like a firewall, was likely to be attacked,
+including clusters and home machines," Ben
+nett said. "Not all ll' addresses were
+attacked — but that is only a matter of time."
+The only way to repair a compromised sys
+tem is to reformat the hard drive, download
+the patch and then reinstall any backed-up
+data or applications.
+"There are no surgical approaches for
+most of these exploits," Bennett said. "The in-
+
+
+LINDSAY COIEMAN/The Stanford Daily
+Nearly 3,000 computers have fallen victim to campus-wide hacker attacks that target a vulnera
+bility in the Windows operating system. Students are urged to update their anti-virus software.
+fected machine must be wiped
+clean and rebuilt, [which] can take
+up to four hours per machine or
+longer."
+More than 2,400 machines were
+infected in the first two waves of at
+tacks, .uul ITSS believes that at least
+500 more systems have been dam
+aged by the third exploit, known as
+the MS Blaster Worm, which struck
+Aug. 11. Bennett said it may take
+weeks before the bugs have been
+cleaned out of all campus computers.
+"These exploits are called stealth
+attacks because the) do not overtly
+do anything that might be noticed
+by the user, at first," Bennett said.
+"The idea, from the hacker's per
+spective, is to gain control of the ma
+chine so it can be used at a later
+time."
+Because the attacks are
+launched so deep within the oper
+ating system, it may be difficult for
+
+users to identify infection. Symp
+toms may Ix* as subtle as a disap
+pearance of the virus protection
+icon from a computer's desktop, or
+as obvious as continuous rebooting.
+ITSS said there is cause for concern
+if an exclamation mark appears on
+the Norton Antivirus icon or ifa file
+named update.exe exists in the
+root director) of the user's hard
+drive.
+'T his attack is primarily differ
+ent [from past attacks] in its sophis
+tication and its rapidity," Bennett
+said. "Several of the attacks did a
+great, deal to try to cover their
+tracks."
+"In most cases, [hackers] insert
+some code onto the machine to dis
+able any anti-virus software, and
+then open a 'back door,' like a spe
+cial phone number, that allows the
+hacker to call back later and take
+over the machine," Bennett said.
+"In some cases the exploit also ran
+the patch to fix the vulnerability to
+prevent some other hacker from
+gaining control."
+Although the hackers' intentions
+
+remain unclear, Bennett saiil it is
+possible they attacked campus com
+puters to collect personal or private
+information, or to inconvenience
+the Univei-sity by wiping out the
+disk drives.
+"Stanford has a very fast, open
+network," Bennett said. "It is open,
+rather than closed like many busi
+ness networks, because of the nature
+of an institution of higher education
+— sharing, communication and
+learning are all watchwords for us.
+"It is this openness that makes us
+potentially more vulnerable," he
+continued. "[But] there are ways to
+mitigate that vulnerability."
+ITSS is taking measures to slow
+the spread of these viruses and pre
+vent future strikes, urging campus
+users to continuously update their
+anti-virus software. New operating
+systems, including Windows XP,
+are usually designed to alert users
+when a new patch is available and
+help them load it, Bennett said. New
+vulnerability and patch alerts will
+also be provided at http://secure
+computing.stanford.edu.
+Three waves of hacker attacks have allect
+ed nearly 3,000 Stanford computers since July
+31, exploiting a Microsoft Windows vulnera
+bility called "RP(I buffer overflow" that allows
+hackers to take control of entire systems. In
+formation Technology Systems and Services is
+asking students to instill new security software
+to prevent any further spread of infection.
+Campus computers running Microsoft
+Windows NT, 2000 and XP are susceptible to
+attack, in addition to any home computers
+that dial into Stanford or connect by broad
+band lines.
+ITSS Director Cedric Bennett said the Uni
+versity believes the infections might be attrib
+uted to laptops brought from outside campus
+and plugged into the network. The laptop
+
+users were probably not aware that their sys
+tems carried the virus at the time, he added.
+Microsoft announced the existence of the
+Windows vulnerability on July 16, simultane
+ously releasing a patch, or update, that would
+prevent attacks and infection.
+"Any unpatched system that was running
+011 the network and not protected by other
+means, like a firewall, was likely to be attacked,
+including clusters and home machines," Ben
+nett said. "Not all ll' addresses were
+attacked — but that is only a matter of time."
+The only way to repair a compromised sys
+tem is to reformat the hard drive, download
+the patch and then reinstall any backed-up
+data or applications.
+"There are no surgical approaches for
+most of these exploits," Bennett said. "The in-
+
+
+LINDSAY COIEMAN/The Stanford Daily
+Nearly 3,000 computers have fallen victim to campus-wide hacker attacks that target a vulnera
+bility in the Windows operating system. Students are urged to update their anti-virus software.
+fected machine must be wiped
+clean and rebuilt, [which] can take
+up to four hours per machine or
+longer."
+More than 2,400 machines were
+infected in the first two waves of at
+tacks, .uul ITSS believes that at least
+500 more systems have been dam
+aged by the third exploit, known as
+the MS Blaster Worm, which struck
+Aug. 11. Bennett said it may take
+weeks before the bugs have been
+cleaned out of all campus computers.
+"These exploits are called stealth
+attacks because the) do not overtly
+do anything that might be noticed
+by the user, at first," Bennett said.
+"The idea, from the hacker's per
+spective, is to gain control of the ma
+chine so it can be used at a later
+time."
+Because the attacks are
+launched so deep within the oper
+ating system, it may be difficult for
+
+users to identify infection. Symp
+toms may Ix* as subtle as a disap
+pearance of the virus protection
+icon from a computer's desktop, or
+as obvious as continuous rebooting.
+ITSS said there is cause for concern
+if an exclamation mark appears on
+the Norton Antivirus icon or ifa file
+named update.exe exists in the
+root director) of the user's hard
+drive.
+'T his attack is primarily differ
+ent [from past attacks] in its sophis
+tication and its rapidity," Bennett
+said. "Several of the attacks did a
+great, deal to try to cover their
+tracks."
+"In most cases, [hackers] insert
+some code onto the machine to dis
+able any anti-virus software, and
+then open a 'back door,' like a spe
+cial phone number, that allows the
+hacker to call back later and take
+over the machine," Bennett said.
+"In some cases the exploit also ran
+the patch to fix the vulnerability to
+prevent some other hacker from
+gaining control."
+Although the hackers' intentions
+
+remain unclear, Bennett saiil it is
+possible they attacked campus com
+puters to collect personal or private
+information, or to inconvenience
+the Univei-sity by wiping out the
+disk drives.
+"Stanford has a very fast, open
+network," Bennett said. "It is open,
+rather than closed like many busi
+ness networks, because of the nature
+of an institution of higher education
+— sharing, communication and
+learning are all watchwords for us.
+"It is this openness that makes us
+potentially more vulnerable," he
+continued. "[But] there are ways to
+mitigate that vulnerability."
+ITSS is taking measures to slow
+the spread of these viruses and pre
+vent future strikes, urging campus
+users to continuously update their
+anti-virus software. New operating
+systems, including Windows XP,
+are usually designed to alert users
+when a new patch is available and
+help them load it, Bennett said. New
+vulnerability and patch alerts will
+also be provided at http://secure
+computing.stanford.edu.
+Three waves of hacker attacks have allect
+ed nearly 3,000 Stanford computers since July
+31, exploiting a Microsoft Windows vulnera
+bility called "RP(I buffer overflow" that allows
+hackers to take control of entire systems. In
+formation Technology Systems and Services is
+asking students to instill new security software
+to prevent any further spread of infection.
+Campus computers running Microsoft
+Windows NT, 2000 and XP are susceptible to
+attack, in addition to any home computers
+that dial into Stanford or connect by broad
+band lines.
+ITSS Director Cedric Bennett said the Uni
+versity believes the infections might be attrib
+uted to laptops brought from outside campus
+and plugged into the network. The laptop
+
+users were probably not aware that their sys
+tems carried the virus at the time, he added.
+Microsoft announced the existence of the
+Windows vulnerability on July 16, simultane
+ously releasing a patch, or update, that would
+prevent attacks and infection.
+"Any unpatched system that was running
+011 the network and not protected by other
+means, like a firewall, was likely to be attacked,
+including clusters and home machines," Ben
+nett said. "Not all ll' addresses were
+attacked — but that is only a matter of time."
+The only way to repair a compromised sys
+tem is to reformat the hard drive, download
+the patch and then reinstall any backed-up
+data or applications.
+"There are no surgical approaches for
+most of these exploits," Bennett said. "The in-
+
+
+LINDSAY COIEMAN/The Stanford Daily
+Nearly 3,000 computers have fallen victim to campus-wide hacker attacks that target a vulnera
+bility in the Windows operating system. Students are urged to update their anti-virus software.
+fected machine must be wiped
+clean and rebuilt, [which] can take
+up to four hours per machine or
+longer."
+More than 2,400 machines were
+infected in the first two waves of at
+tacks, .uul ITSS believes that at least
+500 more systems have been dam
+aged by the third exploit, known as
+the MS Blaster Worm, which struck
+Aug. 11. Bennett said it may take
+weeks before the bugs have been
+cleaned out of all campus computers.
+"These exploits are called stealth
+attacks because the) do not overtly
+do anything that might be noticed
+by the user, at first," Bennett said.
+"The idea, from the hacker's per
+spective, is to gain control of the ma
+chine so it can be used at a later
+time."
+Because the attacks are
+launched so deep within the oper
+ating system, it may be difficult for
+
+users to identify infection. Symp
+toms may Ix* as subtle as a disap
+pearance of the virus protection
+icon from a computer's desktop, or
+as obvious as continuous rebooting.
+ITSS said there is cause for concern
+if an exclamation mark appears on
+the Norton Antivirus icon or ifa file
+named update.exe exists in the
+root director) of the user's hard
+drive.
+'T his attack is primarily differ
+ent [from past attacks] in its sophis
+tication and its rapidity," Bennett
+said. "Several of the attacks did a
+great, deal to try to cover their
+tracks."
+"In most cases, [hackers] insert
+some code onto the machine to dis
+able any anti-virus software, and
+then open a 'back door,' like a spe
+cial phone number, that allows the
+hacker to call back later and take
+over the machine," Bennett said.
+"In some cases the exploit also ran
+the patch to fix the vulnerability to
+prevent some other hacker from
+gaining control."
+Although the hackers' intentions
+
+remain unclear, Bennett saiil it is
+possible they attacked campus com
+puters to collect personal or private
+information, or to inconvenience
+the Univei-sity by wiping out the
+disk drives.
+"Stanford has a very fast, open
+network," Bennett said. "It is open,
+rather than closed like many busi
+ness networks, because of the nature
+of an institution of higher education
+— sharing, communication and
+learning are all watchwords for us.
+"It is this openness that makes us
+potentially more vulnerable," he
+continued. "[But] there are ways to
+mitigate that vulnerability."
+ITSS is taking measures to slow
+the spread of these viruses and pre
+vent future strikes, urging campus
+users to continuously update their
+anti-virus software. New operating
+systems, including Windows XP,
+are usually designed to alert users
+when a new patch is available and
+help them load it, Bennett said. New
+vulnerability and patch alerts will
+also be provided at http://secure
+computing.stanford.edu.

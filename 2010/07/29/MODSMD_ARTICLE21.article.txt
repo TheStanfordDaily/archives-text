@@ -1,0 +1,687 @@
+# OPINIONS
+## OH! SWEET NUTHIN' Cory Doctorow 
+### Roseann Cima 
+Anew website has gone viral. It's called
+"I write like," and you can find it at
+http://iwl.me. Enter any text and it tells
+you which, of the works of 50 famous authors,
+the writing is most similar to. The software was
+developed by a Russian computer program
+mer, living in Montenegro, who claims it uses
+a simple Bayesian algorithm (like a spam fil
+ter!) to determine likeness. Among the fea
+tures considered are: vocabulary, sentence
+length and the frequency of commas or peri
+ods. It is an excellent toy.
+I discovered I write my column like
+Margaret Atwood and was flattered. "Good
+job!" the HTML badge said. I thought so too.
+Then, I read that someone found that Mel
+Gibson drunkenly rants like Margaret
+Atwood. Who, in turn, is supposed to write
+like Stephen King (she tweeted this result her
+self). I discovered that Madonna's preteen
+daughter has been proven to blog like
+Vonnegut, which made me choke a little, and
+finally, I discovered I write my emails like
+David Foster Wallace and was flattered. Good
+job, Rosie. Good job.
+With the exception of the "Dan Brown"
+result, which has inspired the indignation of
+many a netizen, the website is vacuously vali
+dating. The creator said he wanted to encour
+age people to write more, and he's probably
+
+succeeded in this. But he also seems to want
+people to write better: your result comes with
+a link to "On Writing," by Stephen King. I'm
+sure many find this confusing. I've just been
+patted on the back for writing like James
+Joyce, why would I bother with pointers from
+a pop novelist?
+First I thought that the application could be
+made much more valuable very easily, without
+altering the algorithm. Similarity is subjective,
+and the software is certainly picking out some
+thing. If we extended the database to include a
+few classes of writing other than The Best, the
+majority of text might gravitate to the more
+ordinary genres. If we included Lourdes' fash
+ion blog, for example, my best friends' 9th
+grade Xanga entries would likely be much
+more "like" it than the writing of J. D.
+Salinger. There could even be an option to add
+your writing to the database whenever you
+analyze it, filling out a short survey on the
+work when was it written, is it published,
+the age of the author, that kind of thing. Sure
+it'd probably be less popular, but under these
+conditions, if your writing turned up as "David
+Foster Wallace" and not "67 percent of emails
+between friends aged 18-30," that might mean
+something. And many people who considered
+themselves excellent writers, but were ana
+lyzed to be ordinary, would rise to the chal-
+
+lenge and work to "beat" the program.
+I thought for a while about how satisfying it
+would be to have that badge, which you could
+tack onto your C.V. along with your SAT and
+IQ scores. Take that. New Yorker, I'd say.
+Reject the fiction I submitted in high school
+will you? Well, I wrote that story like Proust,
+and some statistics, somewhere, say so! It has
+
+similar words, punctuation and sentence
+length. So ...
+So style just isn't an indicator of real quali
+ty. The best writers are also great thinkers.
+And style is only valuable so far as it serves the
+author's message. "I write like" has no way of
+knowing whether my subplots, metaphors or
+motifs constructively interact with my overall
+concept. I'm not saying it's impossible, but this
+definitely looks like the wrong tree to me. If
+Holden Caulfield was real, if he had written
+"Catcher in the Rye" as an account of his
+experience, it wouldn't be a great work of lit
+erature. It would be the journal of a relatively
+ordinary, troubled youth. A different message,
+but, to "I write like," an identical style. As it is,
+"Catcher" is a forceful exploration of authen
+ticity and identity. The first-person voice con
+fronts the issue of perspective. It adopts a con
+versational, introspective tone, because that
+feels authentic while consciously being an arti
+fice. And the narrator is the way he is because
+the people most actively reflective about these
+issues are self-obsessed, obnoxious teenagers.
+If I, instead of Lourdes, had written, "so
+I'm gonna bring my camera to East London
+and take pictures of cool looking people and
+come off as weird cuz I'm gonna ask people to
+like stand still so I can take pics of them ..."
+in an epistolary novel, it might come close to
+qualifying as a work truly in the style of
+Salinger. But "I write like" wouldn't know it.
+
+Write like Rosie? Let her know at rcima@
+stanford.edu.
+
+"I write like" has no way of
+knowing whether my
+subplots, metaphors or
+motifs constructively
+interact with my overall
+concept.
+
+Anew website has gone viral. It's called
+"I write like," and you can find it at
+http://iwl.me. Enter any text and it tells
+you which, of the works of 50 famous authors,
+the writing is most similar to. The software was
+developed by a Russian computer program
+mer, living in Montenegro, who claims it uses
+a simple Bayesian algorithm (like a spam fil
+ter!) to determine likeness. Among the fea
+tures considered are: vocabulary, sentence
+length and the frequency of commas or peri
+ods. It is an excellent toy.
+I discovered I write my column like
+Margaret Atwood and was flattered. "Good
+job!" the HTML badge said. I thought so too.
+Then, I read that someone found that Mel
+Gibson drunkenly rants like Margaret
+Atwood. Who, in turn, is supposed to write
+like Stephen King (she tweeted this result her
+self). I discovered that Madonna's preteen
+daughter has been proven to blog like
+Vonnegut, which made me choke a little, and
+finally, I discovered I write my emails like
+David Foster Wallace and was flattered. Good
+job, Rosie. Good job.
+With the exception of the "Dan Brown"
+result, which has inspired the indignation of
+many a netizen, the website is vacuously vali
+dating. The creator said he wanted to encour
+age people to write more, and he's probably
+
+succeeded in this. But he also seems to want
+people to write better: your result comes with
+a link to "On Writing," by Stephen King. I'm
+sure many find this confusing. I've just been
+patted on the back for writing like James
+Joyce, why would I bother with pointers from
+a pop novelist?
+First I thought that the application could be
+made much more valuable very easily, without
+altering the algorithm. Similarity is subjective,
+and the software is certainly picking out some
+thing. If we extended the database to include a
+few classes of writing other than The Best, the
+majority of text might gravitate to the more
+ordinary genres. If we included Lourdes' fash
+ion blog, for example, my best friends' 9th
+grade Xanga entries would likely be much
+more "like" it than the writing of J. D.
+Salinger. There could even be an option to add
+your writing to the database whenever you
+analyze it, filling out a short survey on the
+work when was it written, is it published,
+the age of the author, that kind of thing. Sure
+it'd probably be less popular, but under these
+conditions, if your writing turned up as "David
+Foster Wallace" and not "67 percent of emails
+between friends aged 18-30," that might mean
+something. And many people who considered
+themselves excellent writers, but were ana
+lyzed to be ordinary, would rise to the chal-
+
+lenge and work to "beat" the program.
+I thought for a while about how satisfying it
+would be to have that badge, which you could
+tack onto your C.V. along with your SAT and
+IQ scores. Take that. New Yorker, I'd say.
+Reject the fiction I submitted in high school
+will you? Well, I wrote that story like Proust,
+and some statistics, somewhere, say so! It has
+
+similar words, punctuation and sentence
+length. So ...
+So style just isn't an indicator of real quali
+ty. The best writers are also great thinkers.
+And style is only valuable so far as it serves the
+author's message. "I write like" has no way of
+knowing whether my subplots, metaphors or
+motifs constructively interact with my overall
+concept. I'm not saying it's impossible, but this
+definitely looks like the wrong tree to me. If
+Holden Caulfield was real, if he had written
+"Catcher in the Rye" as an account of his
+experience, it wouldn't be a great work of lit
+erature. It would be the journal of a relatively
+ordinary, troubled youth. A different message,
+but, to "I write like," an identical style. As it is,
+"Catcher" is a forceful exploration of authen
+ticity and identity. The first-person voice con
+fronts the issue of perspective. It adopts a con
+versational, introspective tone, because that
+feels authentic while consciously being an arti
+fice. And the narrator is the way he is because
+the people most actively reflective about these
+issues are self-obsessed, obnoxious teenagers.
+If I, instead of Lourdes, had written, "so
+I'm gonna bring my camera to East London
+and take pictures of cool looking people and
+come off as weird cuz I'm gonna ask people to
+like stand still so I can take pics of them ..."
+in an epistolary novel, it might come close to
+qualifying as a work truly in the style of
+Salinger. But "I write like" wouldn't know it.
+
+Write like Rosie? Let her know at rcima@
+stanford.edu.
+
+"I write like" has no way of
+knowing whether my
+subplots, metaphors or
+motifs constructively
+interact with my overall
+concept.
+
+Anew website has gone viral. It's called
+"I write like," and you can find it at
+http://iwl.me. Enter any text and it tells
+you which, of the works of 50 famous authors,
+the writing is most similar to. The software was
+developed by a Russian computer program
+mer, living in Montenegro, who claims it uses
+a simple Bayesian algorithm (like a spam fil
+ter!) to determine likeness. Among the fea
+tures considered are: vocabulary, sentence
+length and the frequency of commas or peri
+ods. It is an excellent toy.
+I discovered I write my column like
+Margaret Atwood and was flattered. "Good
+job!" the HTML badge said. I thought so too.
+Then, I read that someone found that Mel
+Gibson drunkenly rants like Margaret
+Atwood. Who, in turn, is supposed to write
+like Stephen King (she tweeted this result her
+self). I discovered that Madonna's preteen
+daughter has been proven to blog like
+Vonnegut, which made me choke a little, and
+finally, I discovered I write my emails like
+David Foster Wallace and was flattered. Good
+job, Rosie. Good job.
+With the exception of the "Dan Brown"
+result, which has inspired the indignation of
+many a netizen, the website is vacuously vali
+dating. The creator said he wanted to encour
+age people to write more, and he's probably
+
+succeeded in this. But he also seems to want
+people to write better: your result comes with
+a link to "On Writing," by Stephen King. I'm
+sure many find this confusing. I've just been
+patted on the back for writing like James
+Joyce, why would I bother with pointers from
+a pop novelist?
+First I thought that the application could be
+made much more valuable very easily, without
+altering the algorithm. Similarity is subjective,
+and the software is certainly picking out some
+thing. If we extended the database to include a
+few classes of writing other than The Best, the
+majority of text might gravitate to the more
+ordinary genres. If we included Lourdes' fash
+ion blog, for example, my best friends' 9th
+grade Xanga entries would likely be much
+more "like" it than the writing of J. D.
+Salinger. There could even be an option to add
+your writing to the database whenever you
+analyze it, filling out a short survey on the
+work when was it written, is it published,
+the age of the author, that kind of thing. Sure
+it'd probably be less popular, but under these
+conditions, if your writing turned up as "David
+Foster Wallace" and not "67 percent of emails
+between friends aged 18-30," that might mean
+something. And many people who considered
+themselves excellent writers, but were ana
+lyzed to be ordinary, would rise to the chal-
+
+lenge and work to "beat" the program.
+I thought for a while about how satisfying it
+would be to have that badge, which you could
+tack onto your C.V. along with your SAT and
+IQ scores. Take that. New Yorker, I'd say.
+Reject the fiction I submitted in high school
+will you? Well, I wrote that story like Proust,
+and some statistics, somewhere, say so! It has
+
+similar words, punctuation and sentence
+length. So ...
+So style just isn't an indicator of real quali
+ty. The best writers are also great thinkers.
+And style is only valuable so far as it serves the
+author's message. "I write like" has no way of
+knowing whether my subplots, metaphors or
+motifs constructively interact with my overall
+concept. I'm not saying it's impossible, but this
+definitely looks like the wrong tree to me. If
+Holden Caulfield was real, if he had written
+"Catcher in the Rye" as an account of his
+experience, it wouldn't be a great work of lit
+erature. It would be the journal of a relatively
+ordinary, troubled youth. A different message,
+but, to "I write like," an identical style. As it is,
+"Catcher" is a forceful exploration of authen
+ticity and identity. The first-person voice con
+fronts the issue of perspective. It adopts a con
+versational, introspective tone, because that
+feels authentic while consciously being an arti
+fice. And the narrator is the way he is because
+the people most actively reflective about these
+issues are self-obsessed, obnoxious teenagers.
+If I, instead of Lourdes, had written, "so
+I'm gonna bring my camera to East London
+and take pictures of cool looking people and
+come off as weird cuz I'm gonna ask people to
+like stand still so I can take pics of them ..."
+in an epistolary novel, it might come close to
+qualifying as a work truly in the style of
+Salinger. But "I write like" wouldn't know it.
+
+Write like Rosie? Let her know at rcima@
+stanford.edu.
+
+"I write like" has no way of
+knowing whether my
+subplots, metaphors or
+motifs constructively
+interact with my overall
+concept.
+
+Anew website has gone viral. It's called
+"I write like," and you can find it at
+http://iwl.me. Enter any text and it tells
+you which, of the works of 50 famous authors,
+the writing is most similar to. The software was
+developed by a Russian computer program
+mer, living in Montenegro, who claims it uses
+a simple Bayesian algorithm (like a spam fil
+ter!) to determine likeness. Among the fea
+tures considered are: vocabulary, sentence
+length and the frequency of commas or peri
+ods. It is an excellent toy.
+I discovered I write my column like
+Margaret Atwood and was flattered. "Good
+job!" the HTML badge said. I thought so too.
+Then, I read that someone found that Mel
+Gibson drunkenly rants like Margaret
+Atwood. Who, in turn, is supposed to write
+like Stephen King (she tweeted this result her
+self). I discovered that Madonna's preteen
+daughter has been proven to blog like
+Vonnegut, which made me choke a little, and
+finally, I discovered I write my emails like
+David Foster Wallace and was flattered. Good
+job, Rosie. Good job.
+With the exception of the "Dan Brown"
+result, which has inspired the indignation of
+many a netizen, the website is vacuously vali
+dating. The creator said he wanted to encour
+age people to write more, and he's probably
+
+succeeded in this. But he also seems to want
+people to write better: your result comes with
+a link to "On Writing," by Stephen King. I'm
+sure many find this confusing. I've just been
+patted on the back for writing like James
+Joyce, why would I bother with pointers from
+a pop novelist?
+First I thought that the application could be
+made much more valuable very easily, without
+altering the algorithm. Similarity is subjective,
+and the software is certainly picking out some
+thing. If we extended the database to include a
+few classes of writing other than The Best, the
+majority of text might gravitate to the more
+ordinary genres. If we included Lourdes' fash
+ion blog, for example, my best friends' 9th
+grade Xanga entries would likely be much
+more "like" it than the writing of J. D.
+Salinger. There could even be an option to add
+your writing to the database whenever you
+analyze it, filling out a short survey on the
+work when was it written, is it published,
+the age of the author, that kind of thing. Sure
+it'd probably be less popular, but under these
+conditions, if your writing turned up as "David
+Foster Wallace" and not "67 percent of emails
+between friends aged 18-30," that might mean
+something. And many people who considered
+themselves excellent writers, but were ana
+lyzed to be ordinary, would rise to the chal-
+
+lenge and work to "beat" the program.
+I thought for a while about how satisfying it
+would be to have that badge, which you could
+tack onto your C.V. along with your SAT and
+IQ scores. Take that. New Yorker, I'd say.
+Reject the fiction I submitted in high school
+will you? Well, I wrote that story like Proust,
+and some statistics, somewhere, say so! It has
+
+similar words, punctuation and sentence
+length. So ...
+So style just isn't an indicator of real quali
+ty. The best writers are also great thinkers.
+And style is only valuable so far as it serves the
+author's message. "I write like" has no way of
+knowing whether my subplots, metaphors or
+motifs constructively interact with my overall
+concept. I'm not saying it's impossible, but this
+definitely looks like the wrong tree to me. If
+Holden Caulfield was real, if he had written
+"Catcher in the Rye" as an account of his
+experience, it wouldn't be a great work of lit
+erature. It would be the journal of a relatively
+ordinary, troubled youth. A different message,
+but, to "I write like," an identical style. As it is,
+"Catcher" is a forceful exploration of authen
+ticity and identity. The first-person voice con
+fronts the issue of perspective. It adopts a con
+versational, introspective tone, because that
+feels authentic while consciously being an arti
+fice. And the narrator is the way he is because
+the people most actively reflective about these
+issues are self-obsessed, obnoxious teenagers.
+If I, instead of Lourdes, had written, "so
+I'm gonna bring my camera to East London
+and take pictures of cool looking people and
+come off as weird cuz I'm gonna ask people to
+like stand still so I can take pics of them ..."
+in an epistolary novel, it might come close to
+qualifying as a work truly in the style of
+Salinger. But "I write like" wouldn't know it.
+
+Write like Rosie? Let her know at rcima@
+stanford.edu.
+
+"I write like" has no way of
+knowing whether my
+subplots, metaphors or
+motifs constructively
+interact with my overall
+concept.
+
+Anew website has gone viral. It's called
+"I write like," and you can find it at
+http://iwl.me. Enter any text and it tells
+you which, of the works of 50 famous authors,
+the writing is most similar to. The software was
+developed by a Russian computer program
+mer, living in Montenegro, who claims it uses
+a simple Bayesian algorithm (like a spam fil
+ter!) to determine likeness. Among the fea
+tures considered are: vocabulary, sentence
+length and the frequency of commas or peri
+ods. It is an excellent toy.
+I discovered I write my column like
+Margaret Atwood and was flattered. "Good
+job!" the HTML badge said. I thought so too.
+Then, I read that someone found that Mel
+Gibson drunkenly rants like Margaret
+Atwood. Who, in turn, is supposed to write
+like Stephen King (she tweeted this result her
+self). I discovered that Madonna's preteen
+daughter has been proven to blog like
+Vonnegut, which made me choke a little, and
+finally, I discovered I write my emails like
+David Foster Wallace and was flattered. Good
+job, Rosie. Good job.
+With the exception of the "Dan Brown"
+result, which has inspired the indignation of
+many a netizen, the website is vacuously vali
+dating. The creator said he wanted to encour
+age people to write more, and he's probably
+
+succeeded in this. But he also seems to want
+people to write better: your result comes with
+a link to "On Writing," by Stephen King. I'm
+sure many find this confusing. I've just been
+patted on the back for writing like James
+Joyce, why would I bother with pointers from
+a pop novelist?
+First I thought that the application could be
+made much more valuable very easily, without
+altering the algorithm. Similarity is subjective,
+and the software is certainly picking out some
+thing. If we extended the database to include a
+few classes of writing other than The Best, the
+majority of text might gravitate to the more
+ordinary genres. If we included Lourdes' fash
+ion blog, for example, my best friends' 9th
+grade Xanga entries would likely be much
+more "like" it than the writing of J. D.
+Salinger. There could even be an option to add
+your writing to the database whenever you
+analyze it, filling out a short survey on the
+work when was it written, is it published,
+the age of the author, that kind of thing. Sure
+it'd probably be less popular, but under these
+conditions, if your writing turned up as "David
+Foster Wallace" and not "67 percent of emails
+between friends aged 18-30," that might mean
+something. And many people who considered
+themselves excellent writers, but were ana
+lyzed to be ordinary, would rise to the chal-
+
+lenge and work to "beat" the program.
+I thought for a while about how satisfying it
+would be to have that badge, which you could
+tack onto your C.V. along with your SAT and
+IQ scores. Take that. New Yorker, I'd say.
+Reject the fiction I submitted in high school
+will you? Well, I wrote that story like Proust,
+and some statistics, somewhere, say so! It has
+
+similar words, punctuation and sentence
+length. So ...
+So style just isn't an indicator of real quali
+ty. The best writers are also great thinkers.
+And style is only valuable so far as it serves the
+author's message. "I write like" has no way of
+knowing whether my subplots, metaphors or
+motifs constructively interact with my overall
+concept. I'm not saying it's impossible, but this
+definitely looks like the wrong tree to me. If
+Holden Caulfield was real, if he had written
+"Catcher in the Rye" as an account of his
+experience, it wouldn't be a great work of lit
+erature. It would be the journal of a relatively
+ordinary, troubled youth. A different message,
+but, to "I write like," an identical style. As it is,
+"Catcher" is a forceful exploration of authen
+ticity and identity. The first-person voice con
+fronts the issue of perspective. It adopts a con
+versational, introspective tone, because that
+feels authentic while consciously being an arti
+fice. And the narrator is the way he is because
+the people most actively reflective about these
+issues are self-obsessed, obnoxious teenagers.
+If I, instead of Lourdes, had written, "so
+I'm gonna bring my camera to East London
+and take pictures of cool looking people and
+come off as weird cuz I'm gonna ask people to
+like stand still so I can take pics of them ..."
+in an epistolary novel, it might come close to
+qualifying as a work truly in the style of
+Salinger. But "I write like" wouldn't know it.
+
+Write like Rosie? Let her know at rcima@
+stanford.edu.
+
+"I write like" has no way of
+knowing whether my
+subplots, metaphors or
+motifs constructively
+interact with my overall
+concept.
+
+Anew website has gone viral. It's called
+"I write like," and you can find it at
+http://iwl.me. Enter any text and it tells
+you which, of the works of 50 famous authors,
+the writing is most similar to. The software was
+developed by a Russian computer program
+mer, living in Montenegro, who claims it uses
+a simple Bayesian algorithm (like a spam fil
+ter!) to determine likeness. Among the fea
+tures considered are: vocabulary, sentence
+length and the frequency of commas or peri
+ods. It is an excellent toy.
+I discovered I write my column like
+Margaret Atwood and was flattered. "Good
+job!" the HTML badge said. I thought so too.
+Then, I read that someone found that Mel
+Gibson drunkenly rants like Margaret
+Atwood. Who, in turn, is supposed to write
+like Stephen King (she tweeted this result her
+self). I discovered that Madonna's preteen
+daughter has been proven to blog like
+Vonnegut, which made me choke a little, and
+finally, I discovered I write my emails like
+David Foster Wallace and was flattered. Good
+job, Rosie. Good job.
+With the exception of the "Dan Brown"
+result, which has inspired the indignation of
+many a netizen, the website is vacuously vali
+dating. The creator said he wanted to encour
+age people to write more, and he's probably
+
+succeeded in this. But he also seems to want
+people to write better: your result comes with
+a link to "On Writing," by Stephen King. I'm
+sure many find this confusing. I've just been
+patted on the back for writing like James
+Joyce, why would I bother with pointers from
+a pop novelist?
+First I thought that the application could be
+made much more valuable very easily, without
+altering the algorithm. Similarity is subjective,
+and the software is certainly picking out some
+thing. If we extended the database to include a
+few classes of writing other than The Best, the
+majority of text might gravitate to the more
+ordinary genres. If we included Lourdes' fash
+ion blog, for example, my best friends' 9th
+grade Xanga entries would likely be much
+more "like" it than the writing of J. D.
+Salinger. There could even be an option to add
+your writing to the database whenever you
+analyze it, filling out a short survey on the
+work when was it written, is it published,
+the age of the author, that kind of thing. Sure
+it'd probably be less popular, but under these
+conditions, if your writing turned up as "David
+Foster Wallace" and not "67 percent of emails
+between friends aged 18-30," that might mean
+something. And many people who considered
+themselves excellent writers, but were ana
+lyzed to be ordinary, would rise to the chal-
+
+lenge and work to "beat" the program.
+I thought for a while about how satisfying it
+would be to have that badge, which you could
+tack onto your C.V. along with your SAT and
+IQ scores. Take that. New Yorker, I'd say.
+Reject the fiction I submitted in high school
+will you? Well, I wrote that story like Proust,
+and some statistics, somewhere, say so! It has
+
+similar words, punctuation and sentence
+length. So ...
+So style just isn't an indicator of real quali
+ty. The best writers are also great thinkers.
+And style is only valuable so far as it serves the
+author's message. "I write like" has no way of
+knowing whether my subplots, metaphors or
+motifs constructively interact with my overall
+concept. I'm not saying it's impossible, but this
+definitely looks like the wrong tree to me. If
+Holden Caulfield was real, if he had written
+"Catcher in the Rye" as an account of his
+experience, it wouldn't be a great work of lit
+erature. It would be the journal of a relatively
+ordinary, troubled youth. A different message,
+but, to "I write like," an identical style. As it is,
+"Catcher" is a forceful exploration of authen
+ticity and identity. The first-person voice con
+fronts the issue of perspective. It adopts a con
+versational, introspective tone, because that
+feels authentic while consciously being an arti
+fice. And the narrator is the way he is because
+the people most actively reflective about these
+issues are self-obsessed, obnoxious teenagers.
+If I, instead of Lourdes, had written, "so
+I'm gonna bring my camera to East London
+and take pictures of cool looking people and
+come off as weird cuz I'm gonna ask people to
+like stand still so I can take pics of them ..."
+in an epistolary novel, it might come close to
+qualifying as a work truly in the style of
+Salinger. But "I write like" wouldn't know it.
+
+Write like Rosie? Let her know at rcima@
+stanford.edu.
+
+"I write like" has no way of
+knowing whether my
+subplots, metaphors or
+motifs constructively
+interact with my overall
+concept.
+

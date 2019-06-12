@@ -1,0 +1,955 @@
+# Pilot program brings wireless access
+## 
+### ANDREW HENDEL CONTRIBUTING WRITER 
+As part of a one-year pilot program
+to determine whether Stanford will in
+vest in a full campus wireless network,
+wireless Internet access points were re
+cently installed in Wilbur Hall, Stern
+Hall and the Cowell Cluster in a pro
+gram sponsored by ResComp and Aca
+demic Computing. 3Com and Cisco
+have donated wireless cards to lend to
+students for one year in those areas as
+part of the test program.
+The access points allow students
+with laptops to connect to the Internet
+remotely from neighboring court
+yards, dining halls and common
+rooms.
+As part of Stanford's expanding web
+of wireless availability, the new access
+points join existing ones at Tresidder
+Union, the Main Quad, Meyer Library,
+
+the Law School, Terman and many
+other locations.
+3Com provided the equipment for
+Wilbur Hall, and Cisco and Informa
+tion Technology Systems and Services
+funded the access points in Stern I fall.
+T he pilot project will determine
+whether it is worth investing in access
+points for other dorms as well as which
+company's equipment works better.
+"Wireless is a rapidly growing tech
+nology sector, although the interest is
+less than what is typically found in a
+commercial setting, probably because
+Stanford is so widely wired already,"
+said Phil Reese, director of networking
+systems in ITSS. "In any case, there is a
+lot of interest and ResComp wanted to
+see if there would he value in deploying
+a few residences."
+About 1,600 students, a quarter of
+the undergraduate student body, are
+in the range of one of the University's
+
+provided wireless Internet access
+points, and t lie success or failure of the
+pilot project will help determine the fu
+ture of wireless at Stanford. ITSS will
+get feedback from resident fellows, res
+ident assistants and individual students
+from Wilbur and Stern I lalls.
+ResComp and Academic Comput
+ing chose Stern and Wilbur for the
+pilot program because these halls pre
+sent a wide variety of difficulties as well
+as opportunities for wireless Internet.
+A high number of students, especial
+ly freshmen, stand to gain from the
+newfound accessibility. In addition,
+numerous obstructions will test the
+wireless signal's strength.
+"As for extending the pilots campus
+wide, at least insofar as the residences
+are concerned, this is a matter of inter
+est," said Richard Holeton, head of
+ResComp. "Do students want it?
+We in Residential Computing
+think they do and will.
+"And money? We do not have
+funding to pursue this, and cur
+rently most departments are
+being asked to cut their budgets.
+The costs include the wireless ac
+cess points themselves, wiring to
+hook them into the existing net
+work, installation and enclosures,
+and maintenance, replacement
+and upgrade. A very rough guess
+for extending wireless throughout
+the residences is $750,000."
+In order for there to be cam
+pus-wide wireless access, individ
+ual departments and graduate
+schools are going to have to fund
+them, because ITSS does not have
+the money to foot the bill.
+Aside from the cost, the growth
+of wireless access is limited by the
+sheer size of Stanford's campus.
+Access points have a radius of 200
+to 500 feet, and in areas with lots of
+obstructions such as concrete
+walls, the range can be smaller.
+Also, the success of Stanford's
+wired Internet access makes wire
+less less necessary.
+"Most other universities have a
+wireless deployment in place or
+rolling out this school year," Reese
+said. "Stanford is far from the lore
+front in the roll out, probably be
+cause the wireline network has
+been so prevalent for some time.
+Other schools are using wireless to
+provide this network connectivity,
+avoiding the large infrastructure
+costs that a wireline network re
+quires."
+To take advantage of wireless
+Web access, students have to reg
+ister their laptop by adding the
+hardware Ethernet address of
+their wireless cards into the
+"Comments to your RCC" field
+on the In-Room Connection
+Form accessible on the Internet.
+Students need to already have an
+in-room network connection,
+which costs $10 a month, but
+there is no additional charge for
+wireless.
+Students in Stern and Wilbur
+can buy a wireless card or borrow
+one fora year from their RCC.
+Students with desktops can use
+wireless if they have a wireless
+card; however, ITSS recommends
+that students do not because the
+wired Internet connection is
+faster, more reliable and more se
+cure.
+Wireless access, however, does
+allow students to use the Internet
+remotely for study groups, tutor
+ing sessions and office hours.
+As part of a one-year pilot program
+to determine whether Stanford will in
+vest in a full campus wireless network,
+wireless Internet access points were re
+cently installed in Wilbur Hall, Stern
+Hall and the Cowell Cluster in a pro
+gram sponsored by ResComp and Aca
+demic Computing. 3Com and Cisco
+have donated wireless cards to lend to
+students for one year in those areas as
+part of the test program.
+The access points allow students
+with laptops to connect to the Internet
+remotely from neighboring court
+yards, dining halls and common
+rooms.
+As part of Stanford's expanding web
+of wireless availability, the new access
+points join existing ones at Tresidder
+Union, the Main Quad, Meyer Library,
+
+the Law School, Terman and many
+other locations.
+3Com provided the equipment for
+Wilbur Hall, and Cisco and Informa
+tion Technology Systems and Services
+funded the access points in Stern I fall.
+T he pilot project will determine
+whether it is worth investing in access
+points for other dorms as well as which
+company's equipment works better.
+"Wireless is a rapidly growing tech
+nology sector, although the interest is
+less than what is typically found in a
+commercial setting, probably because
+Stanford is so widely wired already,"
+said Phil Reese, director of networking
+systems in ITSS. "In any case, there is a
+lot of interest and ResComp wanted to
+see if there would he value in deploying
+a few residences."
+About 1,600 students, a quarter of
+the undergraduate student body, are
+in the range of one of the University's
+
+provided wireless Internet access
+points, and t lie success or failure of the
+pilot project will help determine the fu
+ture of wireless at Stanford. ITSS will
+get feedback from resident fellows, res
+ident assistants and individual students
+from Wilbur and Stern I lalls.
+ResComp and Academic Comput
+ing chose Stern and Wilbur for the
+pilot program because these halls pre
+sent a wide variety of difficulties as well
+as opportunities for wireless Internet.
+A high number of students, especial
+ly freshmen, stand to gain from the
+newfound accessibility. In addition,
+numerous obstructions will test the
+wireless signal's strength.
+"As for extending the pilots campus
+wide, at least insofar as the residences
+are concerned, this is a matter of inter
+est," said Richard Holeton, head of
+ResComp. "Do students want it?
+We in Residential Computing
+think they do and will.
+"And money? We do not have
+funding to pursue this, and cur
+rently most departments are
+being asked to cut their budgets.
+The costs include the wireless ac
+cess points themselves, wiring to
+hook them into the existing net
+work, installation and enclosures,
+and maintenance, replacement
+and upgrade. A very rough guess
+for extending wireless throughout
+the residences is $750,000."
+In order for there to be cam
+pus-wide wireless access, individ
+ual departments and graduate
+schools are going to have to fund
+them, because ITSS does not have
+the money to foot the bill.
+Aside from the cost, the growth
+of wireless access is limited by the
+sheer size of Stanford's campus.
+Access points have a radius of 200
+to 500 feet, and in areas with lots of
+obstructions such as concrete
+walls, the range can be smaller.
+Also, the success of Stanford's
+wired Internet access makes wire
+less less necessary.
+"Most other universities have a
+wireless deployment in place or
+rolling out this school year," Reese
+said. "Stanford is far from the lore
+front in the roll out, probably be
+cause the wireline network has
+been so prevalent for some time.
+Other schools are using wireless to
+provide this network connectivity,
+avoiding the large infrastructure
+costs that a wireline network re
+quires."
+To take advantage of wireless
+Web access, students have to reg
+ister their laptop by adding the
+hardware Ethernet address of
+their wireless cards into the
+"Comments to your RCC" field
+on the In-Room Connection
+Form accessible on the Internet.
+Students need to already have an
+in-room network connection,
+which costs $10 a month, but
+there is no additional charge for
+wireless.
+Students in Stern and Wilbur
+can buy a wireless card or borrow
+one fora year from their RCC.
+Students with desktops can use
+wireless if they have a wireless
+card; however, ITSS recommends
+that students do not because the
+wired Internet connection is
+faster, more reliable and more se
+cure.
+Wireless access, however, does
+allow students to use the Internet
+remotely for study groups, tutor
+ing sessions and office hours.
+As part of a one-year pilot program
+to determine whether Stanford will in
+vest in a full campus wireless network,
+wireless Internet access points were re
+cently installed in Wilbur Hall, Stern
+Hall and the Cowell Cluster in a pro
+gram sponsored by ResComp and Aca
+demic Computing. 3Com and Cisco
+have donated wireless cards to lend to
+students for one year in those areas as
+part of the test program.
+The access points allow students
+with laptops to connect to the Internet
+remotely from neighboring court
+yards, dining halls and common
+rooms.
+As part of Stanford's expanding web
+of wireless availability, the new access
+points join existing ones at Tresidder
+Union, the Main Quad, Meyer Library,
+
+the Law School, Terman and many
+other locations.
+3Com provided the equipment for
+Wilbur Hall, and Cisco and Informa
+tion Technology Systems and Services
+funded the access points in Stern I fall.
+T he pilot project will determine
+whether it is worth investing in access
+points for other dorms as well as which
+company's equipment works better.
+"Wireless is a rapidly growing tech
+nology sector, although the interest is
+less than what is typically found in a
+commercial setting, probably because
+Stanford is so widely wired already,"
+said Phil Reese, director of networking
+systems in ITSS. "In any case, there is a
+lot of interest and ResComp wanted to
+see if there would he value in deploying
+a few residences."
+About 1,600 students, a quarter of
+the undergraduate student body, are
+in the range of one of the University's
+
+provided wireless Internet access
+points, and t lie success or failure of the
+pilot project will help determine the fu
+ture of wireless at Stanford. ITSS will
+get feedback from resident fellows, res
+ident assistants and individual students
+from Wilbur and Stern I lalls.
+ResComp and Academic Comput
+ing chose Stern and Wilbur for the
+pilot program because these halls pre
+sent a wide variety of difficulties as well
+as opportunities for wireless Internet.
+A high number of students, especial
+ly freshmen, stand to gain from the
+newfound accessibility. In addition,
+numerous obstructions will test the
+wireless signal's strength.
+"As for extending the pilots campus
+wide, at least insofar as the residences
+are concerned, this is a matter of inter
+est," said Richard Holeton, head of
+ResComp. "Do students want it?
+We in Residential Computing
+think they do and will.
+"And money? We do not have
+funding to pursue this, and cur
+rently most departments are
+being asked to cut their budgets.
+The costs include the wireless ac
+cess points themselves, wiring to
+hook them into the existing net
+work, installation and enclosures,
+and maintenance, replacement
+and upgrade. A very rough guess
+for extending wireless throughout
+the residences is $750,000."
+In order for there to be cam
+pus-wide wireless access, individ
+ual departments and graduate
+schools are going to have to fund
+them, because ITSS does not have
+the money to foot the bill.
+Aside from the cost, the growth
+of wireless access is limited by the
+sheer size of Stanford's campus.
+Access points have a radius of 200
+to 500 feet, and in areas with lots of
+obstructions such as concrete
+walls, the range can be smaller.
+Also, the success of Stanford's
+wired Internet access makes wire
+less less necessary.
+"Most other universities have a
+wireless deployment in place or
+rolling out this school year," Reese
+said. "Stanford is far from the lore
+front in the roll out, probably be
+cause the wireline network has
+been so prevalent for some time.
+Other schools are using wireless to
+provide this network connectivity,
+avoiding the large infrastructure
+costs that a wireline network re
+quires."
+To take advantage of wireless
+Web access, students have to reg
+ister their laptop by adding the
+hardware Ethernet address of
+their wireless cards into the
+"Comments to your RCC" field
+on the In-Room Connection
+Form accessible on the Internet.
+Students need to already have an
+in-room network connection,
+which costs $10 a month, but
+there is no additional charge for
+wireless.
+Students in Stern and Wilbur
+can buy a wireless card or borrow
+one fora year from their RCC.
+Students with desktops can use
+wireless if they have a wireless
+card; however, ITSS recommends
+that students do not because the
+wired Internet connection is
+faster, more reliable and more se
+cure.
+Wireless access, however, does
+allow students to use the Internet
+remotely for study groups, tutor
+ing sessions and office hours.
+As part of a one-year pilot program
+to determine whether Stanford will in
+vest in a full campus wireless network,
+wireless Internet access points were re
+cently installed in Wilbur Hall, Stern
+Hall and the Cowell Cluster in a pro
+gram sponsored by ResComp and Aca
+demic Computing. 3Com and Cisco
+have donated wireless cards to lend to
+students for one year in those areas as
+part of the test program.
+The access points allow students
+with laptops to connect to the Internet
+remotely from neighboring court
+yards, dining halls and common
+rooms.
+As part of Stanford's expanding web
+of wireless availability, the new access
+points join existing ones at Tresidder
+Union, the Main Quad, Meyer Library,
+
+the Law School, Terman and many
+other locations.
+3Com provided the equipment for
+Wilbur Hall, and Cisco and Informa
+tion Technology Systems and Services
+funded the access points in Stern I fall.
+T he pilot project will determine
+whether it is worth investing in access
+points for other dorms as well as which
+company's equipment works better.
+"Wireless is a rapidly growing tech
+nology sector, although the interest is
+less than what is typically found in a
+commercial setting, probably because
+Stanford is so widely wired already,"
+said Phil Reese, director of networking
+systems in ITSS. "In any case, there is a
+lot of interest and ResComp wanted to
+see if there would he value in deploying
+a few residences."
+About 1,600 students, a quarter of
+the undergraduate student body, are
+in the range of one of the University's
+
+provided wireless Internet access
+points, and t lie success or failure of the
+pilot project will help determine the fu
+ture of wireless at Stanford. ITSS will
+get feedback from resident fellows, res
+ident assistants and individual students
+from Wilbur and Stern I lalls.
+ResComp and Academic Comput
+ing chose Stern and Wilbur for the
+pilot program because these halls pre
+sent a wide variety of difficulties as well
+as opportunities for wireless Internet.
+A high number of students, especial
+ly freshmen, stand to gain from the
+newfound accessibility. In addition,
+numerous obstructions will test the
+wireless signal's strength.
+"As for extending the pilots campus
+wide, at least insofar as the residences
+are concerned, this is a matter of inter
+est," said Richard Holeton, head of
+ResComp. "Do students want it?
+We in Residential Computing
+think they do and will.
+"And money? We do not have
+funding to pursue this, and cur
+rently most departments are
+being asked to cut their budgets.
+The costs include the wireless ac
+cess points themselves, wiring to
+hook them into the existing net
+work, installation and enclosures,
+and maintenance, replacement
+and upgrade. A very rough guess
+for extending wireless throughout
+the residences is $750,000."
+In order for there to be cam
+pus-wide wireless access, individ
+ual departments and graduate
+schools are going to have to fund
+them, because ITSS does not have
+the money to foot the bill.
+Aside from the cost, the growth
+of wireless access is limited by the
+sheer size of Stanford's campus.
+Access points have a radius of 200
+to 500 feet, and in areas with lots of
+obstructions such as concrete
+walls, the range can be smaller.
+Also, the success of Stanford's
+wired Internet access makes wire
+less less necessary.
+"Most other universities have a
+wireless deployment in place or
+rolling out this school year," Reese
+said. "Stanford is far from the lore
+front in the roll out, probably be
+cause the wireline network has
+been so prevalent for some time.
+Other schools are using wireless to
+provide this network connectivity,
+avoiding the large infrastructure
+costs that a wireline network re
+quires."
+To take advantage of wireless
+Web access, students have to reg
+ister their laptop by adding the
+hardware Ethernet address of
+their wireless cards into the
+"Comments to your RCC" field
+on the In-Room Connection
+Form accessible on the Internet.
+Students need to already have an
+in-room network connection,
+which costs $10 a month, but
+there is no additional charge for
+wireless.
+Students in Stern and Wilbur
+can buy a wireless card or borrow
+one fora year from their RCC.
+Students with desktops can use
+wireless if they have a wireless
+card; however, ITSS recommends
+that students do not because the
+wired Internet connection is
+faster, more reliable and more se
+cure.
+Wireless access, however, does
+allow students to use the Internet
+remotely for study groups, tutor
+ing sessions and office hours.
+As part of a one-year pilot program
+to determine whether Stanford will in
+vest in a full campus wireless network,
+wireless Internet access points were re
+cently installed in Wilbur Hall, Stern
+Hall and the Cowell Cluster in a pro
+gram sponsored by ResComp and Aca
+demic Computing. 3Com and Cisco
+have donated wireless cards to lend to
+students for one year in those areas as
+part of the test program.
+The access points allow students
+with laptops to connect to the Internet
+remotely from neighboring court
+yards, dining halls and common
+rooms.
+As part of Stanford's expanding web
+of wireless availability, the new access
+points join existing ones at Tresidder
+Union, the Main Quad, Meyer Library,
+
+the Law School, Terman and many
+other locations.
+3Com provided the equipment for
+Wilbur Hall, and Cisco and Informa
+tion Technology Systems and Services
+funded the access points in Stern I fall.
+T he pilot project will determine
+whether it is worth investing in access
+points for other dorms as well as which
+company's equipment works better.
+"Wireless is a rapidly growing tech
+nology sector, although the interest is
+less than what is typically found in a
+commercial setting, probably because
+Stanford is so widely wired already,"
+said Phil Reese, director of networking
+systems in ITSS. "In any case, there is a
+lot of interest and ResComp wanted to
+see if there would he value in deploying
+a few residences."
+About 1,600 students, a quarter of
+the undergraduate student body, are
+in the range of one of the University's
+
+provided wireless Internet access
+points, and t lie success or failure of the
+pilot project will help determine the fu
+ture of wireless at Stanford. ITSS will
+get feedback from resident fellows, res
+ident assistants and individual students
+from Wilbur and Stern I lalls.
+ResComp and Academic Comput
+ing chose Stern and Wilbur for the
+pilot program because these halls pre
+sent a wide variety of difficulties as well
+as opportunities for wireless Internet.
+A high number of students, especial
+ly freshmen, stand to gain from the
+newfound accessibility. In addition,
+numerous obstructions will test the
+wireless signal's strength.
+"As for extending the pilots campus
+wide, at least insofar as the residences
+are concerned, this is a matter of inter
+est," said Richard Holeton, head of
+ResComp. "Do students want it?
+We in Residential Computing
+think they do and will.
+"And money? We do not have
+funding to pursue this, and cur
+rently most departments are
+being asked to cut their budgets.
+The costs include the wireless ac
+cess points themselves, wiring to
+hook them into the existing net
+work, installation and enclosures,
+and maintenance, replacement
+and upgrade. A very rough guess
+for extending wireless throughout
+the residences is $750,000."
+In order for there to be cam
+pus-wide wireless access, individ
+ual departments and graduate
+schools are going to have to fund
+them, because ITSS does not have
+the money to foot the bill.
+Aside from the cost, the growth
+of wireless access is limited by the
+sheer size of Stanford's campus.
+Access points have a radius of 200
+to 500 feet, and in areas with lots of
+obstructions such as concrete
+walls, the range can be smaller.
+Also, the success of Stanford's
+wired Internet access makes wire
+less less necessary.
+"Most other universities have a
+wireless deployment in place or
+rolling out this school year," Reese
+said. "Stanford is far from the lore
+front in the roll out, probably be
+cause the wireline network has
+been so prevalent for some time.
+Other schools are using wireless to
+provide this network connectivity,
+avoiding the large infrastructure
+costs that a wireline network re
+quires."
+To take advantage of wireless
+Web access, students have to reg
+ister their laptop by adding the
+hardware Ethernet address of
+their wireless cards into the
+"Comments to your RCC" field
+on the In-Room Connection
+Form accessible on the Internet.
+Students need to already have an
+in-room network connection,
+which costs $10 a month, but
+there is no additional charge for
+wireless.
+Students in Stern and Wilbur
+can buy a wireless card or borrow
+one fora year from their RCC.
+Students with desktops can use
+wireless if they have a wireless
+card; however, ITSS recommends
+that students do not because the
+wired Internet connection is
+faster, more reliable and more se
+cure.
+Wireless access, however, does
+allow students to use the Internet
+remotely for study groups, tutor
+ing sessions and office hours.
+As part of a one-year pilot program
+to determine whether Stanford will in
+vest in a full campus wireless network,
+wireless Internet access points were re
+cently installed in Wilbur Hall, Stern
+Hall and the Cowell Cluster in a pro
+gram sponsored by ResComp and Aca
+demic Computing. 3Com and Cisco
+have donated wireless cards to lend to
+students for one year in those areas as
+part of the test program.
+The access points allow students
+with laptops to connect to the Internet
+remotely from neighboring court
+yards, dining halls and common
+rooms.
+As part of Stanford's expanding web
+of wireless availability, the new access
+points join existing ones at Tresidder
+Union, the Main Quad, Meyer Library,
+
+the Law School, Terman and many
+other locations.
+3Com provided the equipment for
+Wilbur Hall, and Cisco and Informa
+tion Technology Systems and Services
+funded the access points in Stern I fall.
+T he pilot project will determine
+whether it is worth investing in access
+points for other dorms as well as which
+company's equipment works better.
+"Wireless is a rapidly growing tech
+nology sector, although the interest is
+less than what is typically found in a
+commercial setting, probably because
+Stanford is so widely wired already,"
+said Phil Reese, director of networking
+systems in ITSS. "In any case, there is a
+lot of interest and ResComp wanted to
+see if there would he value in deploying
+a few residences."
+About 1,600 students, a quarter of
+the undergraduate student body, are
+in the range of one of the University's
+
+provided wireless Internet access
+points, and t lie success or failure of the
+pilot project will help determine the fu
+ture of wireless at Stanford. ITSS will
+get feedback from resident fellows, res
+ident assistants and individual students
+from Wilbur and Stern I lalls.
+ResComp and Academic Comput
+ing chose Stern and Wilbur for the
+pilot program because these halls pre
+sent a wide variety of difficulties as well
+as opportunities for wireless Internet.
+A high number of students, especial
+ly freshmen, stand to gain from the
+newfound accessibility. In addition,
+numerous obstructions will test the
+wireless signal's strength.
+"As for extending the pilots campus
+wide, at least insofar as the residences
+are concerned, this is a matter of inter
+est," said Richard Holeton, head of
+ResComp. "Do students want it?
+We in Residential Computing
+think they do and will.
+"And money? We do not have
+funding to pursue this, and cur
+rently most departments are
+being asked to cut their budgets.
+The costs include the wireless ac
+cess points themselves, wiring to
+hook them into the existing net
+work, installation and enclosures,
+and maintenance, replacement
+and upgrade. A very rough guess
+for extending wireless throughout
+the residences is $750,000."
+In order for there to be cam
+pus-wide wireless access, individ
+ual departments and graduate
+schools are going to have to fund
+them, because ITSS does not have
+the money to foot the bill.
+Aside from the cost, the growth
+of wireless access is limited by the
+sheer size of Stanford's campus.
+Access points have a radius of 200
+to 500 feet, and in areas with lots of
+obstructions such as concrete
+walls, the range can be smaller.
+Also, the success of Stanford's
+wired Internet access makes wire
+less less necessary.
+"Most other universities have a
+wireless deployment in place or
+rolling out this school year," Reese
+said. "Stanford is far from the lore
+front in the roll out, probably be
+cause the wireline network has
+been so prevalent for some time.
+Other schools are using wireless to
+provide this network connectivity,
+avoiding the large infrastructure
+costs that a wireline network re
+quires."
+To take advantage of wireless
+Web access, students have to reg
+ister their laptop by adding the
+hardware Ethernet address of
+their wireless cards into the
+"Comments to your RCC" field
+on the In-Room Connection
+Form accessible on the Internet.
+Students need to already have an
+in-room network connection,
+which costs $10 a month, but
+there is no additional charge for
+wireless.
+Students in Stern and Wilbur
+can buy a wireless card or borrow
+one fora year from their RCC.
+Students with desktops can use
+wireless if they have a wireless
+card; however, ITSS recommends
+that students do not because the
+wired Internet connection is
+faster, more reliable and more se
+cure.
+Wireless access, however, does
+allow students to use the Internet
+remotely for study groups, tutor
+ing sessions and office hours.
+As part of a one-year pilot program
+to determine whether Stanford will in
+vest in a full campus wireless network,
+wireless Internet access points were re
+cently installed in Wilbur Hall, Stern
+Hall and the Cowell Cluster in a pro
+gram sponsored by ResComp and Aca
+demic Computing. 3Com and Cisco
+have donated wireless cards to lend to
+students for one year in those areas as
+part of the test program.
+The access points allow students
+with laptops to connect to the Internet
+remotely from neighboring court
+yards, dining halls and common
+rooms.
+As part of Stanford's expanding web
+of wireless availability, the new access
+points join existing ones at Tresidder
+Union, the Main Quad, Meyer Library,
+
+the Law School, Terman and many
+other locations.
+3Com provided the equipment for
+Wilbur Hall, and Cisco and Informa
+tion Technology Systems and Services
+funded the access points in Stern I fall.
+T he pilot project will determine
+whether it is worth investing in access
+points for other dorms as well as which
+company's equipment works better.
+"Wireless is a rapidly growing tech
+nology sector, although the interest is
+less than what is typically found in a
+commercial setting, probably because
+Stanford is so widely wired already,"
+said Phil Reese, director of networking
+systems in ITSS. "In any case, there is a
+lot of interest and ResComp wanted to
+see if there would he value in deploying
+a few residences."
+About 1,600 students, a quarter of
+the undergraduate student body, are
+in the range of one of the University's
+
+provided wireless Internet access
+points, and t lie success or failure of the
+pilot project will help determine the fu
+ture of wireless at Stanford. ITSS will
+get feedback from resident fellows, res
+ident assistants and individual students
+from Wilbur and Stern I lalls.
+ResComp and Academic Comput
+ing chose Stern and Wilbur for the
+pilot program because these halls pre
+sent a wide variety of difficulties as well
+as opportunities for wireless Internet.
+A high number of students, especial
+ly freshmen, stand to gain from the
+newfound accessibility. In addition,
+numerous obstructions will test the
+wireless signal's strength.
+"As for extending the pilots campus
+wide, at least insofar as the residences
+are concerned, this is a matter of inter
+est," said Richard Holeton, head of
+ResComp. "Do students want it?
+We in Residential Computing
+think they do and will.
+"And money? We do not have
+funding to pursue this, and cur
+rently most departments are
+being asked to cut their budgets.
+The costs include the wireless ac
+cess points themselves, wiring to
+hook them into the existing net
+work, installation and enclosures,
+and maintenance, replacement
+and upgrade. A very rough guess
+for extending wireless throughout
+the residences is $750,000."
+In order for there to be cam
+pus-wide wireless access, individ
+ual departments and graduate
+schools are going to have to fund
+them, because ITSS does not have
+the money to foot the bill.
+Aside from the cost, the growth
+of wireless access is limited by the
+sheer size of Stanford's campus.
+Access points have a radius of 200
+to 500 feet, and in areas with lots of
+obstructions such as concrete
+walls, the range can be smaller.
+Also, the success of Stanford's
+wired Internet access makes wire
+less less necessary.
+"Most other universities have a
+wireless deployment in place or
+rolling out this school year," Reese
+said. "Stanford is far from the lore
+front in the roll out, probably be
+cause the wireline network has
+been so prevalent for some time.
+Other schools are using wireless to
+provide this network connectivity,
+avoiding the large infrastructure
+costs that a wireline network re
+quires."
+To take advantage of wireless
+Web access, students have to reg
+ister their laptop by adding the
+hardware Ethernet address of
+their wireless cards into the
+"Comments to your RCC" field
+on the In-Room Connection
+Form accessible on the Internet.
+Students need to already have an
+in-room network connection,
+which costs $10 a month, but
+there is no additional charge for
+wireless.
+Students in Stern and Wilbur
+can buy a wireless card or borrow
+one fora year from their RCC.
+Students with desktops can use
+wireless if they have a wireless
+card; however, ITSS recommends
+that students do not because the
+wired Internet connection is
+faster, more reliable and more se
+cure.
+Wireless access, however, does
+allow students to use the Internet
+remotely for study groups, tutor
+ing sessions and office hours.

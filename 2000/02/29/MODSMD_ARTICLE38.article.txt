@@ -1,0 +1,771 @@
+# WIDGETS
+## Not your father's robot 
+### NINA CANN-WOODE 
+Although humans have always been
+adept at learning about unknown objects
+by using their sense of touch, robots have
+been confined to operate in structured
+environments and are thus not equipped
+with the capability to learn about objects
+previously unknown to them.
+Enter Marvin, the two-fingered robot
+ic "hand" and brainchild of Mechanical
+Engineering Prof. Mark Cutkosky and a
+lew talented technicians in the Dex-
+
+trous Manipulation Laboratory.
+Unlike most current robots, Marvin
+
+uses the technology of tactile sensing
+to gather data about objects in re-
+
+mote locations.
+Among other things, Cutkosky
+is director of the Dextrous Manip
+ulation Lab and co-director of the
+
+Stanford Integrated Manufactur
+ing Association. He began work in the
+Design Division of the Department of
+Mechanical Engineering in 1985 after
+working for several years in the Robot
+ics Institute at Carnegie-Mellon Uni
+versity.
+Since then, Cutkosky has focused his
+efforts primarily on computer-aided
+concurrent engineering — which pro
+vides support for people using computa
+tional programs to collaborate 011 design
+and manufacturing projects — and dex
+trous manipulation (tactile manipulation
+by robotic and teleoperated hands).
+Marvin is the culmination of years of
+research in the latter.
+Mimicking the human process of ex
+ploration, Marvin's exploratory proce
+dure consists of a sequence of phases in
+which fingers alternately manipulate
+and explore an object's surface using two
+active lingers and a "palm," or stationary
+surface.
+
+"During the manipulation phase," the
+lab's Weh site summarizes, "the two ac
+tive lingers grasp the object asd rotate it,
+using rolling contacts to increase the
+workspace. During the exploratory
+phases, one linger and the palm stably
+grasp the object while the third lingerex
+plores by rolling and sliding over the ob
+ject's surface."
+Another of the lab's projects, the
+"Mini-Sprawl," simulates the move
+ments of a living organism. At first
+
+glance, the cockroach-like machine ap
+pears only to be a complex jumble of
+wires and circuits.
+But with a bounce and a whir, the
+Mini-Sprawl comes to life as a highly ad
+vanced robot with the capacity to per
+form with much greater robustness in
+unstructured environments than most of
+today's robots. This gives the Mini-
+
+Sprawl an advantage in exploring un
+known terrains.
+I he Mini-Sprawl is one type of lobot
+in a series of biomuuetic robots, 01 ro
+bots that mimic life or imitate biologic <il
+systems. This new generation of ma
+chines is substantially more compliant
+and stable than traditional robots and
+incorporates new developments in ma
+terials, fabrication techniques, sensors
+and activators.
+
+The Mini-Sprawl is the middle child
+in a family of robots built bv the lab.
+
+"Sprawlita" and "Sprawl" are re-
+
+spectively the smallest and
+largest of the three.
+
+"These projects are a continua
+tion of work begun in the past,"
+said Cutkosky. Sprawl was com
+pleted over a period of two and a
+
+hall weeks last summer, while
+Mini-Sprawl look three davs last
+fall and Sprawlita onlv a few davs in
+
+/ January.
+"The same circuitr) and code were
+used in both of these projects, and that
+is why they took much less time."
+Cutkosky said.
+
+The potential applications of Marvin
+and Sprawl are numerous, ranging from
+sea floor probings to exploration of plan
+etary surfaces.
+Incorporating the tactile manipula
+tion technology used in Marvin. Sprawl
+might one clay be used in a mission to
+Mars to efficiently collect data lioni the
+Red Planet's surface.
+"Field geologists determine and cate
+gorize locks in part bv their texture."
+said Cutkosky. "If you had a Mars rovei
+like Sprawl that examined texture in un
+structured environments and sent data
+back to Earth, field geologists would pos
+sibly be able to identify any rocks that
+may have had water running over
+them."
+
+
+A Robotic
+Exploratory Procedure
+Although humans have always been
+adept at learning about unknown objects
+by using their sense of touch, robots have
+been confined to operate in structured
+environments and are thus not equipped
+with the capability to learn about objects
+previously unknown to them.
+Enter Marvin, the two-fingered robot
+ic "hand" and brainchild of Mechanical
+Engineering Prof. Mark Cutkosky and a
+lew talented technicians in the Dex-
+
+trous Manipulation Laboratory.
+Unlike most current robots, Marvin
+
+uses the technology of tactile sensing
+to gather data about objects in re-
+
+mote locations.
+Among other things, Cutkosky
+is director of the Dextrous Manip
+ulation Lab and co-director of the
+
+Stanford Integrated Manufactur
+ing Association. He began work in the
+Design Division of the Department of
+Mechanical Engineering in 1985 after
+working for several years in the Robot
+ics Institute at Carnegie-Mellon Uni
+versity.
+Since then, Cutkosky has focused his
+efforts primarily on computer-aided
+concurrent engineering — which pro
+vides support for people using computa
+tional programs to collaborate 011 design
+and manufacturing projects — and dex
+trous manipulation (tactile manipulation
+by robotic and teleoperated hands).
+Marvin is the culmination of years of
+research in the latter.
+Mimicking the human process of ex
+ploration, Marvin's exploratory proce
+dure consists of a sequence of phases in
+which fingers alternately manipulate
+and explore an object's surface using two
+active lingers and a "palm," or stationary
+surface.
+
+"During the manipulation phase," the
+lab's Weh site summarizes, "the two ac
+tive lingers grasp the object asd rotate it,
+using rolling contacts to increase the
+workspace. During the exploratory
+phases, one linger and the palm stably
+grasp the object while the third lingerex
+plores by rolling and sliding over the ob
+ject's surface."
+Another of the lab's projects, the
+"Mini-Sprawl," simulates the move
+ments of a living organism. At first
+
+glance, the cockroach-like machine ap
+pears only to be a complex jumble of
+wires and circuits.
+But with a bounce and a whir, the
+Mini-Sprawl comes to life as a highly ad
+vanced robot with the capacity to per
+form with much greater robustness in
+unstructured environments than most of
+today's robots. This gives the Mini-
+
+Sprawl an advantage in exploring un
+known terrains.
+I he Mini-Sprawl is one type of lobot
+in a series of biomuuetic robots, 01 ro
+bots that mimic life or imitate biologic <il
+systems. This new generation of ma
+chines is substantially more compliant
+and stable than traditional robots and
+incorporates new developments in ma
+terials, fabrication techniques, sensors
+and activators.
+
+The Mini-Sprawl is the middle child
+in a family of robots built bv the lab.
+
+"Sprawlita" and "Sprawl" are re-
+
+spectively the smallest and
+largest of the three.
+
+"These projects are a continua
+tion of work begun in the past,"
+said Cutkosky. Sprawl was com
+pleted over a period of two and a
+
+hall weeks last summer, while
+Mini-Sprawl look three davs last
+fall and Sprawlita onlv a few davs in
+
+/ January.
+"The same circuitr) and code were
+used in both of these projects, and that
+is why they took much less time."
+Cutkosky said.
+
+The potential applications of Marvin
+and Sprawl are numerous, ranging from
+sea floor probings to exploration of plan
+etary surfaces.
+Incorporating the tactile manipula
+tion technology used in Marvin. Sprawl
+might one clay be used in a mission to
+Mars to efficiently collect data lioni the
+Red Planet's surface.
+"Field geologists determine and cate
+gorize locks in part bv their texture."
+said Cutkosky. "If you had a Mars rovei
+like Sprawl that examined texture in un
+structured environments and sent data
+back to Earth, field geologists would pos
+sibly be able to identify any rocks that
+may have had water running over
+them."
+
+
+A Robotic
+Exploratory Procedure
+Although humans have always been
+adept at learning about unknown objects
+by using their sense of touch, robots have
+been confined to operate in structured
+environments and are thus not equipped
+with the capability to learn about objects
+previously unknown to them.
+Enter Marvin, the two-fingered robot
+ic "hand" and brainchild of Mechanical
+Engineering Prof. Mark Cutkosky and a
+lew talented technicians in the Dex-
+
+trous Manipulation Laboratory.
+Unlike most current robots, Marvin
+
+uses the technology of tactile sensing
+to gather data about objects in re-
+
+mote locations.
+Among other things, Cutkosky
+is director of the Dextrous Manip
+ulation Lab and co-director of the
+
+Stanford Integrated Manufactur
+ing Association. He began work in the
+Design Division of the Department of
+Mechanical Engineering in 1985 after
+working for several years in the Robot
+ics Institute at Carnegie-Mellon Uni
+versity.
+Since then, Cutkosky has focused his
+efforts primarily on computer-aided
+concurrent engineering — which pro
+vides support for people using computa
+tional programs to collaborate 011 design
+and manufacturing projects — and dex
+trous manipulation (tactile manipulation
+by robotic and teleoperated hands).
+Marvin is the culmination of years of
+research in the latter.
+Mimicking the human process of ex
+ploration, Marvin's exploratory proce
+dure consists of a sequence of phases in
+which fingers alternately manipulate
+and explore an object's surface using two
+active lingers and a "palm," or stationary
+surface.
+
+"During the manipulation phase," the
+lab's Weh site summarizes, "the two ac
+tive lingers grasp the object asd rotate it,
+using rolling contacts to increase the
+workspace. During the exploratory
+phases, one linger and the palm stably
+grasp the object while the third lingerex
+plores by rolling and sliding over the ob
+ject's surface."
+Another of the lab's projects, the
+"Mini-Sprawl," simulates the move
+ments of a living organism. At first
+
+glance, the cockroach-like machine ap
+pears only to be a complex jumble of
+wires and circuits.
+But with a bounce and a whir, the
+Mini-Sprawl comes to life as a highly ad
+vanced robot with the capacity to per
+form with much greater robustness in
+unstructured environments than most of
+today's robots. This gives the Mini-
+
+Sprawl an advantage in exploring un
+known terrains.
+I he Mini-Sprawl is one type of lobot
+in a series of biomuuetic robots, 01 ro
+bots that mimic life or imitate biologic <il
+systems. This new generation of ma
+chines is substantially more compliant
+and stable than traditional robots and
+incorporates new developments in ma
+terials, fabrication techniques, sensors
+and activators.
+
+The Mini-Sprawl is the middle child
+in a family of robots built bv the lab.
+
+"Sprawlita" and "Sprawl" are re-
+
+spectively the smallest and
+largest of the three.
+
+"These projects are a continua
+tion of work begun in the past,"
+said Cutkosky. Sprawl was com
+pleted over a period of two and a
+
+hall weeks last summer, while
+Mini-Sprawl look three davs last
+fall and Sprawlita onlv a few davs in
+
+/ January.
+"The same circuitr) and code were
+used in both of these projects, and that
+is why they took much less time."
+Cutkosky said.
+
+The potential applications of Marvin
+and Sprawl are numerous, ranging from
+sea floor probings to exploration of plan
+etary surfaces.
+Incorporating the tactile manipula
+tion technology used in Marvin. Sprawl
+might one clay be used in a mission to
+Mars to efficiently collect data lioni the
+Red Planet's surface.
+"Field geologists determine and cate
+gorize locks in part bv their texture."
+said Cutkosky. "If you had a Mars rovei
+like Sprawl that examined texture in un
+structured environments and sent data
+back to Earth, field geologists would pos
+sibly be able to identify any rocks that
+may have had water running over
+them."
+
+
+A Robotic
+Exploratory Procedure
+Although humans have always been
+adept at learning about unknown objects
+by using their sense of touch, robots have
+been confined to operate in structured
+environments and are thus not equipped
+with the capability to learn about objects
+previously unknown to them.
+Enter Marvin, the two-fingered robot
+ic "hand" and brainchild of Mechanical
+Engineering Prof. Mark Cutkosky and a
+lew talented technicians in the Dex-
+
+trous Manipulation Laboratory.
+Unlike most current robots, Marvin
+
+uses the technology of tactile sensing
+to gather data about objects in re-
+
+mote locations.
+Among other things, Cutkosky
+is director of the Dextrous Manip
+ulation Lab and co-director of the
+
+Stanford Integrated Manufactur
+ing Association. He began work in the
+Design Division of the Department of
+Mechanical Engineering in 1985 after
+working for several years in the Robot
+ics Institute at Carnegie-Mellon Uni
+versity.
+Since then, Cutkosky has focused his
+efforts primarily on computer-aided
+concurrent engineering — which pro
+vides support for people using computa
+tional programs to collaborate 011 design
+and manufacturing projects — and dex
+trous manipulation (tactile manipulation
+by robotic and teleoperated hands).
+Marvin is the culmination of years of
+research in the latter.
+Mimicking the human process of ex
+ploration, Marvin's exploratory proce
+dure consists of a sequence of phases in
+which fingers alternately manipulate
+and explore an object's surface using two
+active lingers and a "palm," or stationary
+surface.
+
+"During the manipulation phase," the
+lab's Weh site summarizes, "the two ac
+tive lingers grasp the object asd rotate it,
+using rolling contacts to increase the
+workspace. During the exploratory
+phases, one linger and the palm stably
+grasp the object while the third lingerex
+plores by rolling and sliding over the ob
+ject's surface."
+Another of the lab's projects, the
+"Mini-Sprawl," simulates the move
+ments of a living organism. At first
+
+glance, the cockroach-like machine ap
+pears only to be a complex jumble of
+wires and circuits.
+But with a bounce and a whir, the
+Mini-Sprawl comes to life as a highly ad
+vanced robot with the capacity to per
+form with much greater robustness in
+unstructured environments than most of
+today's robots. This gives the Mini-
+
+Sprawl an advantage in exploring un
+known terrains.
+I he Mini-Sprawl is one type of lobot
+in a series of biomuuetic robots, 01 ro
+bots that mimic life or imitate biologic <il
+systems. This new generation of ma
+chines is substantially more compliant
+and stable than traditional robots and
+incorporates new developments in ma
+terials, fabrication techniques, sensors
+and activators.
+
+The Mini-Sprawl is the middle child
+in a family of robots built bv the lab.
+
+"Sprawlita" and "Sprawl" are re-
+
+spectively the smallest and
+largest of the three.
+
+"These projects are a continua
+tion of work begun in the past,"
+said Cutkosky. Sprawl was com
+pleted over a period of two and a
+
+hall weeks last summer, while
+Mini-Sprawl look three davs last
+fall and Sprawlita onlv a few davs in
+
+/ January.
+"The same circuitr) and code were
+used in both of these projects, and that
+is why they took much less time."
+Cutkosky said.
+
+The potential applications of Marvin
+and Sprawl are numerous, ranging from
+sea floor probings to exploration of plan
+etary surfaces.
+Incorporating the tactile manipula
+tion technology used in Marvin. Sprawl
+might one clay be used in a mission to
+Mars to efficiently collect data lioni the
+Red Planet's surface.
+"Field geologists determine and cate
+gorize locks in part bv their texture."
+said Cutkosky. "If you had a Mars rovei
+like Sprawl that examined texture in un
+structured environments and sent data
+back to Earth, field geologists would pos
+sibly be able to identify any rocks that
+may have had water running over
+them."
+
+
+A Robotic
+Exploratory Procedure
+Although humans have always been
+adept at learning about unknown objects
+by using their sense of touch, robots have
+been confined to operate in structured
+environments and are thus not equipped
+with the capability to learn about objects
+previously unknown to them.
+Enter Marvin, the two-fingered robot
+ic "hand" and brainchild of Mechanical
+Engineering Prof. Mark Cutkosky and a
+lew talented technicians in the Dex-
+
+trous Manipulation Laboratory.
+Unlike most current robots, Marvin
+
+uses the technology of tactile sensing
+to gather data about objects in re-
+
+mote locations.
+Among other things, Cutkosky
+is director of the Dextrous Manip
+ulation Lab and co-director of the
+
+Stanford Integrated Manufactur
+ing Association. He began work in the
+Design Division of the Department of
+Mechanical Engineering in 1985 after
+working for several years in the Robot
+ics Institute at Carnegie-Mellon Uni
+versity.
+Since then, Cutkosky has focused his
+efforts primarily on computer-aided
+concurrent engineering — which pro
+vides support for people using computa
+tional programs to collaborate 011 design
+and manufacturing projects — and dex
+trous manipulation (tactile manipulation
+by robotic and teleoperated hands).
+Marvin is the culmination of years of
+research in the latter.
+Mimicking the human process of ex
+ploration, Marvin's exploratory proce
+dure consists of a sequence of phases in
+which fingers alternately manipulate
+and explore an object's surface using two
+active lingers and a "palm," or stationary
+surface.
+
+"During the manipulation phase," the
+lab's Weh site summarizes, "the two ac
+tive lingers grasp the object asd rotate it,
+using rolling contacts to increase the
+workspace. During the exploratory
+phases, one linger and the palm stably
+grasp the object while the third lingerex
+plores by rolling and sliding over the ob
+ject's surface."
+Another of the lab's projects, the
+"Mini-Sprawl," simulates the move
+ments of a living organism. At first
+
+glance, the cockroach-like machine ap
+pears only to be a complex jumble of
+wires and circuits.
+But with a bounce and a whir, the
+Mini-Sprawl comes to life as a highly ad
+vanced robot with the capacity to per
+form with much greater robustness in
+unstructured environments than most of
+today's robots. This gives the Mini-
+
+Sprawl an advantage in exploring un
+known terrains.
+I he Mini-Sprawl is one type of lobot
+in a series of biomuuetic robots, 01 ro
+bots that mimic life or imitate biologic <il
+systems. This new generation of ma
+chines is substantially more compliant
+and stable than traditional robots and
+incorporates new developments in ma
+terials, fabrication techniques, sensors
+and activators.
+
+The Mini-Sprawl is the middle child
+in a family of robots built bv the lab.
+
+"Sprawlita" and "Sprawl" are re-
+
+spectively the smallest and
+largest of the three.
+
+"These projects are a continua
+tion of work begun in the past,"
+said Cutkosky. Sprawl was com
+pleted over a period of two and a
+
+hall weeks last summer, while
+Mini-Sprawl look three davs last
+fall and Sprawlita onlv a few davs in
+
+/ January.
+"The same circuitr) and code were
+used in both of these projects, and that
+is why they took much less time."
+Cutkosky said.
+
+The potential applications of Marvin
+and Sprawl are numerous, ranging from
+sea floor probings to exploration of plan
+etary surfaces.
+Incorporating the tactile manipula
+tion technology used in Marvin. Sprawl
+might one clay be used in a mission to
+Mars to efficiently collect data lioni the
+Red Planet's surface.
+"Field geologists determine and cate
+gorize locks in part bv their texture."
+said Cutkosky. "If you had a Mars rovei
+like Sprawl that examined texture in un
+structured environments and sent data
+back to Earth, field geologists would pos
+sibly be able to identify any rocks that
+may have had water running over
+them."
+
+
+A Robotic
+Exploratory Procedure
+Although humans have always been
+adept at learning about unknown objects
+by using their sense of touch, robots have
+been confined to operate in structured
+environments and are thus not equipped
+with the capability to learn about objects
+previously unknown to them.
+Enter Marvin, the two-fingered robot
+ic "hand" and brainchild of Mechanical
+Engineering Prof. Mark Cutkosky and a
+lew talented technicians in the Dex-
+
+trous Manipulation Laboratory.
+Unlike most current robots, Marvin
+
+uses the technology of tactile sensing
+to gather data about objects in re-
+
+mote locations.
+Among other things, Cutkosky
+is director of the Dextrous Manip
+ulation Lab and co-director of the
+
+Stanford Integrated Manufactur
+ing Association. He began work in the
+Design Division of the Department of
+Mechanical Engineering in 1985 after
+working for several years in the Robot
+ics Institute at Carnegie-Mellon Uni
+versity.
+Since then, Cutkosky has focused his
+efforts primarily on computer-aided
+concurrent engineering — which pro
+vides support for people using computa
+tional programs to collaborate 011 design
+and manufacturing projects — and dex
+trous manipulation (tactile manipulation
+by robotic and teleoperated hands).
+Marvin is the culmination of years of
+research in the latter.
+Mimicking the human process of ex
+ploration, Marvin's exploratory proce
+dure consists of a sequence of phases in
+which fingers alternately manipulate
+and explore an object's surface using two
+active lingers and a "palm," or stationary
+surface.
+
+"During the manipulation phase," the
+lab's Weh site summarizes, "the two ac
+tive lingers grasp the object asd rotate it,
+using rolling contacts to increase the
+workspace. During the exploratory
+phases, one linger and the palm stably
+grasp the object while the third lingerex
+plores by rolling and sliding over the ob
+ject's surface."
+Another of the lab's projects, the
+"Mini-Sprawl," simulates the move
+ments of a living organism. At first
+
+glance, the cockroach-like machine ap
+pears only to be a complex jumble of
+wires and circuits.
+But with a bounce and a whir, the
+Mini-Sprawl comes to life as a highly ad
+vanced robot with the capacity to per
+form with much greater robustness in
+unstructured environments than most of
+today's robots. This gives the Mini-
+
+Sprawl an advantage in exploring un
+known terrains.
+I he Mini-Sprawl is one type of lobot
+in a series of biomuuetic robots, 01 ro
+bots that mimic life or imitate biologic <il
+systems. This new generation of ma
+chines is substantially more compliant
+and stable than traditional robots and
+incorporates new developments in ma
+terials, fabrication techniques, sensors
+and activators.
+
+The Mini-Sprawl is the middle child
+in a family of robots built bv the lab.
+
+"Sprawlita" and "Sprawl" are re-
+
+spectively the smallest and
+largest of the three.
+
+"These projects are a continua
+tion of work begun in the past,"
+said Cutkosky. Sprawl was com
+pleted over a period of two and a
+
+hall weeks last summer, while
+Mini-Sprawl look three davs last
+fall and Sprawlita onlv a few davs in
+
+/ January.
+"The same circuitr) and code were
+used in both of these projects, and that
+is why they took much less time."
+Cutkosky said.
+
+The potential applications of Marvin
+and Sprawl are numerous, ranging from
+sea floor probings to exploration of plan
+etary surfaces.
+Incorporating the tactile manipula
+tion technology used in Marvin. Sprawl
+might one clay be used in a mission to
+Mars to efficiently collect data lioni the
+Red Planet's surface.
+"Field geologists determine and cate
+gorize locks in part bv their texture."
+said Cutkosky. "If you had a Mars rovei
+like Sprawl that examined texture in un
+structured environments and sent data
+back to Earth, field geologists would pos
+sibly be able to identify any rocks that
+may have had water running over
+them."
+
+
+A Robotic
+Exploratory Procedure

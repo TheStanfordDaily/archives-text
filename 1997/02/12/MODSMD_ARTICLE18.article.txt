@@ -1,0 +1,713 @@
+# Science
+## Researchers develop Intelligent Observer robot Robot autonomously collects visual data and adapts to environment 
+### Akash Garg 
+In"The Empire Strikes Back,"
+the Empire sends out thousands
+of probe droids all across the
+galaxy to find the Rebels.
+These probe droids may seem
+like science fiction, but at the
+Stanford Robotics Laboratory,
+Computer Science Prof. Jean-
+Claude Latombe and his team of
+researchers have been working
+on developing an "intelligent"
+robot that can gather, collect
+and transmit data in complex
+environments, similar to the
+probe droids featured in "Star
+Wars."
+The Stanford Robotics Labo
+ratory was opened in the mid
+-1960s as an extension of the
+Stanford Hand-Eye Project,
+itself an outgrowth of the Uni
+versity's Artificial Intelligence
+Laboratory.
+Most of the research conduct
+ed in the lab is aimed at making
+robots more autonomous and
+self-sufficient.
+Latombe's team has devel
+oped a robot that can intelligent
+ly gather visual data from its
+surrounding environment and
+create a virtual world accessible
+over the Internet.
+"The Intelligent Observer's
+
+primary mission is to gather
+visual information and to be
+smart about it — not just to
+have a couple of fixed cameras to
+extract information," said post
+doctoral fellow Steve LaValle, a
+research affiliate.
+The research team is primari-
+
+'We want the
+observer to be
+something that you
+don't have to control.
+We would like it to be
+transparent or
+invisible'
+— Steve LaValle
+
+ly focused on solving three main
+problems with these robots:
+environmental model building,
+target finding and target track
+ing.
+In order for the robot to move
+around effectively in its environ
+ment, it must be able to con
+struct a reliable model of its sur
+roundings and keep track of its
+own location.
+
+The robot does this by scan
+ning the contours of its environ
+ment with a laser. It then fuses
+all of its data together to con
+struct a virtual 3-D representa
+tion of its environment. The
+robot then adds texture to this
+representation.
+"The next problem is finding
+a target to track," LaValle
+explained. "You want to make
+sure that you move the robot
+around in a systematic way so
+that it can find it."
+The final step is actually
+tracking the target once it has
+been found. Latombe's group
+has developed algorithms to
+track predictable and partially
+predictable targets.
+A target's predictability is
+measured by how much informa
+tion the Intelligent Observer
+knows in advance about the tar
+get, such as the target's maxi
+mum speed or rate of accelera
+tion.
+This technology being devel
+oped by Latombe and his team
+has many potential applications
+in the real world.
+Medical surgeons could use
+these observers to record and
+project video displays of the area
+of tissue being operated on. If an
+obstacle obstructs the robot's
+
+view, it will intelligently maneu
+ver around the obstruction to
+keep the tissue in sight.
+"We want the observer to be
+something that you don't have
+to control," LaValle said. "It's
+just magically doing some work
+for you. It's behind the scenes
+and gathering the information
+that you need. We would like it
+to be transparent or invisible."
+According to David Lin, a doc
+toral student, the Intelligent
+Observer could also help camer
+amen track athletes at a sport
+ing event, find and rescue
+trapped or lost cave explorers
+and help baby-sit kids by track
+ing them and alerting the baby
+sitter if one wanders beyond a
+certain point.
+Assoc. Computer Science
+Prof. Yoav Shohain, director of
+the robotics laboratory, empha
+sized the importance of develop
+ing this technology.
+"Our world is getting very
+complicated, and the key to
+being able to use this technology
+usefully as it gets more complex
+is to relegate more autonomy to
+robots," he said.
+"We want to increase the
+degree of automation and intelli
+gence on the part of the
+machines."
+
+
+Justin Mills Daily
+Postdoctoral fellow Steve LaValle works with the Intelligent Observer.
+In"The Empire Strikes Back,"
+the Empire sends out thousands
+of probe droids all across the
+galaxy to find the Rebels.
+These probe droids may seem
+like science fiction, but at the
+Stanford Robotics Laboratory,
+Computer Science Prof. Jean-
+Claude Latombe and his team of
+researchers have been working
+on developing an "intelligent"
+robot that can gather, collect
+and transmit data in complex
+environments, similar to the
+probe droids featured in "Star
+Wars."
+The Stanford Robotics Labo
+ratory was opened in the mid
+-1960s as an extension of the
+Stanford Hand-Eye Project,
+itself an outgrowth of the Uni
+versity's Artificial Intelligence
+Laboratory.
+Most of the research conduct
+ed in the lab is aimed at making
+robots more autonomous and
+self-sufficient.
+Latombe's team has devel
+oped a robot that can intelligent
+ly gather visual data from its
+surrounding environment and
+create a virtual world accessible
+over the Internet.
+"The Intelligent Observer's
+
+primary mission is to gather
+visual information and to be
+smart about it — not just to
+have a couple of fixed cameras to
+extract information," said post
+doctoral fellow Steve LaValle, a
+research affiliate.
+The research team is primari-
+
+'We want the
+observer to be
+something that you
+don't have to control.
+We would like it to be
+transparent or
+invisible'
+— Steve LaValle
+
+ly focused on solving three main
+problems with these robots:
+environmental model building,
+target finding and target track
+ing.
+In order for the robot to move
+around effectively in its environ
+ment, it must be able to con
+struct a reliable model of its sur
+roundings and keep track of its
+own location.
+
+The robot does this by scan
+ning the contours of its environ
+ment with a laser. It then fuses
+all of its data together to con
+struct a virtual 3-D representa
+tion of its environment. The
+robot then adds texture to this
+representation.
+"The next problem is finding
+a target to track," LaValle
+explained. "You want to make
+sure that you move the robot
+around in a systematic way so
+that it can find it."
+The final step is actually
+tracking the target once it has
+been found. Latombe's group
+has developed algorithms to
+track predictable and partially
+predictable targets.
+A target's predictability is
+measured by how much informa
+tion the Intelligent Observer
+knows in advance about the tar
+get, such as the target's maxi
+mum speed or rate of accelera
+tion.
+This technology being devel
+oped by Latombe and his team
+has many potential applications
+in the real world.
+Medical surgeons could use
+these observers to record and
+project video displays of the area
+of tissue being operated on. If an
+obstacle obstructs the robot's
+
+view, it will intelligently maneu
+ver around the obstruction to
+keep the tissue in sight.
+"We want the observer to be
+something that you don't have
+to control," LaValle said. "It's
+just magically doing some work
+for you. It's behind the scenes
+and gathering the information
+that you need. We would like it
+to be transparent or invisible."
+According to David Lin, a doc
+toral student, the Intelligent
+Observer could also help camer
+amen track athletes at a sport
+ing event, find and rescue
+trapped or lost cave explorers
+and help baby-sit kids by track
+ing them and alerting the baby
+sitter if one wanders beyond a
+certain point.
+Assoc. Computer Science
+Prof. Yoav Shohain, director of
+the robotics laboratory, empha
+sized the importance of develop
+ing this technology.
+"Our world is getting very
+complicated, and the key to
+being able to use this technology
+usefully as it gets more complex
+is to relegate more autonomy to
+robots," he said.
+"We want to increase the
+degree of automation and intelli
+gence on the part of the
+machines."
+
+
+Justin Mills Daily
+Postdoctoral fellow Steve LaValle works with the Intelligent Observer.
+In"The Empire Strikes Back,"
+the Empire sends out thousands
+of probe droids all across the
+galaxy to find the Rebels.
+These probe droids may seem
+like science fiction, but at the
+Stanford Robotics Laboratory,
+Computer Science Prof. Jean-
+Claude Latombe and his team of
+researchers have been working
+on developing an "intelligent"
+robot that can gather, collect
+and transmit data in complex
+environments, similar to the
+probe droids featured in "Star
+Wars."
+The Stanford Robotics Labo
+ratory was opened in the mid
+-1960s as an extension of the
+Stanford Hand-Eye Project,
+itself an outgrowth of the Uni
+versity's Artificial Intelligence
+Laboratory.
+Most of the research conduct
+ed in the lab is aimed at making
+robots more autonomous and
+self-sufficient.
+Latombe's team has devel
+oped a robot that can intelligent
+ly gather visual data from its
+surrounding environment and
+create a virtual world accessible
+over the Internet.
+"The Intelligent Observer's
+
+primary mission is to gather
+visual information and to be
+smart about it — not just to
+have a couple of fixed cameras to
+extract information," said post
+doctoral fellow Steve LaValle, a
+research affiliate.
+The research team is primari-
+
+'We want the
+observer to be
+something that you
+don't have to control.
+We would like it to be
+transparent or
+invisible'
+— Steve LaValle
+
+ly focused on solving three main
+problems with these robots:
+environmental model building,
+target finding and target track
+ing.
+In order for the robot to move
+around effectively in its environ
+ment, it must be able to con
+struct a reliable model of its sur
+roundings and keep track of its
+own location.
+
+The robot does this by scan
+ning the contours of its environ
+ment with a laser. It then fuses
+all of its data together to con
+struct a virtual 3-D representa
+tion of its environment. The
+robot then adds texture to this
+representation.
+"The next problem is finding
+a target to track," LaValle
+explained. "You want to make
+sure that you move the robot
+around in a systematic way so
+that it can find it."
+The final step is actually
+tracking the target once it has
+been found. Latombe's group
+has developed algorithms to
+track predictable and partially
+predictable targets.
+A target's predictability is
+measured by how much informa
+tion the Intelligent Observer
+knows in advance about the tar
+get, such as the target's maxi
+mum speed or rate of accelera
+tion.
+This technology being devel
+oped by Latombe and his team
+has many potential applications
+in the real world.
+Medical surgeons could use
+these observers to record and
+project video displays of the area
+of tissue being operated on. If an
+obstacle obstructs the robot's
+
+view, it will intelligently maneu
+ver around the obstruction to
+keep the tissue in sight.
+"We want the observer to be
+something that you don't have
+to control," LaValle said. "It's
+just magically doing some work
+for you. It's behind the scenes
+and gathering the information
+that you need. We would like it
+to be transparent or invisible."
+According to David Lin, a doc
+toral student, the Intelligent
+Observer could also help camer
+amen track athletes at a sport
+ing event, find and rescue
+trapped or lost cave explorers
+and help baby-sit kids by track
+ing them and alerting the baby
+sitter if one wanders beyond a
+certain point.
+Assoc. Computer Science
+Prof. Yoav Shohain, director of
+the robotics laboratory, empha
+sized the importance of develop
+ing this technology.
+"Our world is getting very
+complicated, and the key to
+being able to use this technology
+usefully as it gets more complex
+is to relegate more autonomy to
+robots," he said.
+"We want to increase the
+degree of automation and intelli
+gence on the part of the
+machines."
+
+
+Justin Mills Daily
+Postdoctoral fellow Steve LaValle works with the Intelligent Observer.
+In"The Empire Strikes Back,"
+the Empire sends out thousands
+of probe droids all across the
+galaxy to find the Rebels.
+These probe droids may seem
+like science fiction, but at the
+Stanford Robotics Laboratory,
+Computer Science Prof. Jean-
+Claude Latombe and his team of
+researchers have been working
+on developing an "intelligent"
+robot that can gather, collect
+and transmit data in complex
+environments, similar to the
+probe droids featured in "Star
+Wars."
+The Stanford Robotics Labo
+ratory was opened in the mid
+-1960s as an extension of the
+Stanford Hand-Eye Project,
+itself an outgrowth of the Uni
+versity's Artificial Intelligence
+Laboratory.
+Most of the research conduct
+ed in the lab is aimed at making
+robots more autonomous and
+self-sufficient.
+Latombe's team has devel
+oped a robot that can intelligent
+ly gather visual data from its
+surrounding environment and
+create a virtual world accessible
+over the Internet.
+"The Intelligent Observer's
+
+primary mission is to gather
+visual information and to be
+smart about it — not just to
+have a couple of fixed cameras to
+extract information," said post
+doctoral fellow Steve LaValle, a
+research affiliate.
+The research team is primari-
+
+'We want the
+observer to be
+something that you
+don't have to control.
+We would like it to be
+transparent or
+invisible'
+— Steve LaValle
+
+ly focused on solving three main
+problems with these robots:
+environmental model building,
+target finding and target track
+ing.
+In order for the robot to move
+around effectively in its environ
+ment, it must be able to con
+struct a reliable model of its sur
+roundings and keep track of its
+own location.
+
+The robot does this by scan
+ning the contours of its environ
+ment with a laser. It then fuses
+all of its data together to con
+struct a virtual 3-D representa
+tion of its environment. The
+robot then adds texture to this
+representation.
+"The next problem is finding
+a target to track," LaValle
+explained. "You want to make
+sure that you move the robot
+around in a systematic way so
+that it can find it."
+The final step is actually
+tracking the target once it has
+been found. Latombe's group
+has developed algorithms to
+track predictable and partially
+predictable targets.
+A target's predictability is
+measured by how much informa
+tion the Intelligent Observer
+knows in advance about the tar
+get, such as the target's maxi
+mum speed or rate of accelera
+tion.
+This technology being devel
+oped by Latombe and his team
+has many potential applications
+in the real world.
+Medical surgeons could use
+these observers to record and
+project video displays of the area
+of tissue being operated on. If an
+obstacle obstructs the robot's
+
+view, it will intelligently maneu
+ver around the obstruction to
+keep the tissue in sight.
+"We want the observer to be
+something that you don't have
+to control," LaValle said. "It's
+just magically doing some work
+for you. It's behind the scenes
+and gathering the information
+that you need. We would like it
+to be transparent or invisible."
+According to David Lin, a doc
+toral student, the Intelligent
+Observer could also help camer
+amen track athletes at a sport
+ing event, find and rescue
+trapped or lost cave explorers
+and help baby-sit kids by track
+ing them and alerting the baby
+sitter if one wanders beyond a
+certain point.
+Assoc. Computer Science
+Prof. Yoav Shohain, director of
+the robotics laboratory, empha
+sized the importance of develop
+ing this technology.
+"Our world is getting very
+complicated, and the key to
+being able to use this technology
+usefully as it gets more complex
+is to relegate more autonomy to
+robots," he said.
+"We want to increase the
+degree of automation and intelli
+gence on the part of the
+machines."
+
+
+Justin Mills Daily
+Postdoctoral fellow Steve LaValle works with the Intelligent Observer.
+In"The Empire Strikes Back,"
+the Empire sends out thousands
+of probe droids all across the
+galaxy to find the Rebels.
+These probe droids may seem
+like science fiction, but at the
+Stanford Robotics Laboratory,
+Computer Science Prof. Jean-
+Claude Latombe and his team of
+researchers have been working
+on developing an "intelligent"
+robot that can gather, collect
+and transmit data in complex
+environments, similar to the
+probe droids featured in "Star
+Wars."
+The Stanford Robotics Labo
+ratory was opened in the mid
+-1960s as an extension of the
+Stanford Hand-Eye Project,
+itself an outgrowth of the Uni
+versity's Artificial Intelligence
+Laboratory.
+Most of the research conduct
+ed in the lab is aimed at making
+robots more autonomous and
+self-sufficient.
+Latombe's team has devel
+oped a robot that can intelligent
+ly gather visual data from its
+surrounding environment and
+create a virtual world accessible
+over the Internet.
+"The Intelligent Observer's
+
+primary mission is to gather
+visual information and to be
+smart about it — not just to
+have a couple of fixed cameras to
+extract information," said post
+doctoral fellow Steve LaValle, a
+research affiliate.
+The research team is primari-
+
+'We want the
+observer to be
+something that you
+don't have to control.
+We would like it to be
+transparent or
+invisible'
+— Steve LaValle
+
+ly focused on solving three main
+problems with these robots:
+environmental model building,
+target finding and target track
+ing.
+In order for the robot to move
+around effectively in its environ
+ment, it must be able to con
+struct a reliable model of its sur
+roundings and keep track of its
+own location.
+
+The robot does this by scan
+ning the contours of its environ
+ment with a laser. It then fuses
+all of its data together to con
+struct a virtual 3-D representa
+tion of its environment. The
+robot then adds texture to this
+representation.
+"The next problem is finding
+a target to track," LaValle
+explained. "You want to make
+sure that you move the robot
+around in a systematic way so
+that it can find it."
+The final step is actually
+tracking the target once it has
+been found. Latombe's group
+has developed algorithms to
+track predictable and partially
+predictable targets.
+A target's predictability is
+measured by how much informa
+tion the Intelligent Observer
+knows in advance about the tar
+get, such as the target's maxi
+mum speed or rate of accelera
+tion.
+This technology being devel
+oped by Latombe and his team
+has many potential applications
+in the real world.
+Medical surgeons could use
+these observers to record and
+project video displays of the area
+of tissue being operated on. If an
+obstacle obstructs the robot's
+
+view, it will intelligently maneu
+ver around the obstruction to
+keep the tissue in sight.
+"We want the observer to be
+something that you don't have
+to control," LaValle said. "It's
+just magically doing some work
+for you. It's behind the scenes
+and gathering the information
+that you need. We would like it
+to be transparent or invisible."
+According to David Lin, a doc
+toral student, the Intelligent
+Observer could also help camer
+amen track athletes at a sport
+ing event, find and rescue
+trapped or lost cave explorers
+and help baby-sit kids by track
+ing them and alerting the baby
+sitter if one wanders beyond a
+certain point.
+Assoc. Computer Science
+Prof. Yoav Shohain, director of
+the robotics laboratory, empha
+sized the importance of develop
+ing this technology.
+"Our world is getting very
+complicated, and the key to
+being able to use this technology
+usefully as it gets more complex
+is to relegate more autonomy to
+robots," he said.
+"We want to increase the
+degree of automation and intelli
+gence on the part of the
+machines."
+
+
+Justin Mills Daily
+Postdoctoral fellow Steve LaValle works with the Intelligent Observer.

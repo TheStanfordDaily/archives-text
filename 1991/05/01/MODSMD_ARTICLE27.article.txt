@@ -1,0 +1,1032 @@
+# Apple's new System 7.0: An assortment of 'almosts'?
+## 
+### Mark Rogowsky Senior staff writer 
+Many of you who have been following
+the System 7.0 discussion in this space are
+likely wondering what's going on. If 7.0 is
+indeed the best thing since sliced bread,
+why is it being maligned by Computer Cor
+ner?
+The answer, as is often the case, is both
+simple and complex. First, let me credit
+Apple for producing an evolutionary
+upgrade to the 7-year-old Macintosh. Sys
+tem 7.0 expands upon the best personal
+computer operating system there has ever
+been. Windows 3.0, the graphical interface
+for IBMs and compatibles, is like wooden
+blocks compared to the Lego set that is
+7.0.
+But, there is a nagging feeling that after
+all this time — 7.0 is at least a year behind
+schedule, maybe more — the new system
+should be more. It should be optimized for
+speed much in the way Microsoft Word 4.0
+finds and replaces faster than the original.
+It should also have eliminated the need
+for the countless INITs, CDEVs and the
+like that Mac users have turned to in order
+to provide the "missing" features of cur
+rent system software.
+Unfortunately, 7.0 tantalizes on many
+occasions only to leave us feeling a little bit
+shortchanged. Take program launching,
+for instance. On The Daily's Macs, we keep
+each program in a separate folder and all of
+those inside a folder called Applications.
+
+To launch an application, you open the
+Applications folder, open, say, the Filemak
+er Pro folder and double-click on the pro
+gram icon. After a while, it gets inefficient
+— to say the least.
+One of the "workarounds" is to buy an
+inexpensive program like On Cue, which
+allows you to create a menu of your appli
+cations that is always available on the
+menu bar. Click on the small rocket-ship
+icon, pull down, let go on Excel and —
+presto — Excel launches, no matter where
+you are currently working.
+Enter System 7.0, and its customizable
+Apple menu. Once you upgrade you'll be
+able to install anything — desk acces
+sories, applications, control panel devices
+— in the Apple menu, which will always be
+available. So long, On Cue.
+Hold on a second. With all the desk
+accessories and applications in the same
+menu, aren't things going to get clut
+tered in a hurry? Remember when you
+first got an extra 15 fonts and the menu
+went off the bottom of the screen? It
+wasn't fun.
+The solution for this menu clutter is
+already provided by Hand Off. Like On
+Cue, it allows launching from a menu. It
+also allows you to group applications
+under categories and reach them through
+a hierarchical sub-menu. In other words,
+you could scroll down to Graphics and
+then select Illustrator, Freehand or Mac-
+Draw. Furthermore, both On Cue and
+Hand Off allow you to put documents for
+
+the particular programs in
+hierarchical sub-menus —
+very useful if you work with
+the same files over and over.
+Why System 7.0 doesn't
+allow the creation of such
+menus is unclear, but it
+seems to be an omission
+that will force many of us to
+keep some old INITs
+around.
+Another example is Suit-
+
+case, the font-management tool that many
+Mac aficionados use to manage large col
+lections of typefaces. With System 7.0,
+Font/DA Mover is extinct — you simply
+drag fonts onto the System icon to install
+them.
+But Suitcase lives on. System 7.0
+doesn't provide an easy way to turn sets of
+fonts on and off. You'll have to drag them
+in and out of the System, which you can at
+least open like a folder. That's certainly a
+less efficient process than simply opening
+or closing a font collection with Suitcase.
+The last example for this Computer
+Corner is the dreaded Find File desk
+accessory and its replacement. With Sys
+tem 6.0.7 and earlier, the Finder — as
+Apple's desktop-generating software is
+called — didn't find a thing without help
+from a DA. Because it was so slow, other
+software companies produced faster alter
+natives.
+System 7.0 would seem, again, to put
+them out of business with the lightning-
+
+quick Find command (hold
+down the Apple key and
+press F or choose it from
+the File menu). But Find
+has a serious flaw: You can't
+get a list of all the matches
+in a neat tidy window a la
+Find File or Norton Utili
+ties' fantastic Fast Find.
+If there's only one
+match, you're set with 7.0.
+It will open the appropri-
+
+ate window and highlight the file. If there
+are multiple matches, you can move
+through them one at a time, watching win
+dows open and close all the while — or you
+can choose "all at once" and have the Mac
+open just one window with all the matches
+highlighted in the outline mode.
+That would be terrific for deleting all
+the saved games from NFL Challenge, but
+not all that useful for looking at a list of
+Word documents to determine which one
+was last quarter's poli sci paper.
+Find is another "almost." Almost great.
+Almost makes me want to toss my old desk
+accessory/control-panel device/INIT. But
+not quite. If Apple puts these fixes into
+System 7.1, I'll be ecstatic. If I have to run
+the same old patches — and deal with all
+the crashes they generate — I'll be left
+wondering why.
+
+Mark Rogowsky is The Daily's computer
+systems manager. He really likes the world
+map in the System 7.0 Scrapbook.
+
+Many of you who have been following
+the System 7.0 discussion in this space are
+likely wondering what's going on. If 7.0 is
+indeed the best thing since sliced bread,
+why is it being maligned by Computer Cor
+ner?
+The answer, as is often the case, is both
+simple and complex. First, let me credit
+Apple for producing an evolutionary
+upgrade to the 7-year-old Macintosh. Sys
+tem 7.0 expands upon the best personal
+computer operating system there has ever
+been. Windows 3.0, the graphical interface
+for IBMs and compatibles, is like wooden
+blocks compared to the Lego set that is
+7.0.
+But, there is a nagging feeling that after
+all this time — 7.0 is at least a year behind
+schedule, maybe more — the new system
+should be more. It should be optimized for
+speed much in the way Microsoft Word 4.0
+finds and replaces faster than the original.
+It should also have eliminated the need
+for the countless INITs, CDEVs and the
+like that Mac users have turned to in order
+to provide the "missing" features of cur
+rent system software.
+Unfortunately, 7.0 tantalizes on many
+occasions only to leave us feeling a little bit
+shortchanged. Take program launching,
+for instance. On The Daily's Macs, we keep
+each program in a separate folder and all of
+those inside a folder called Applications.
+
+To launch an application, you open the
+Applications folder, open, say, the Filemak
+er Pro folder and double-click on the pro
+gram icon. After a while, it gets inefficient
+— to say the least.
+One of the "workarounds" is to buy an
+inexpensive program like On Cue, which
+allows you to create a menu of your appli
+cations that is always available on the
+menu bar. Click on the small rocket-ship
+icon, pull down, let go on Excel and —
+presto — Excel launches, no matter where
+you are currently working.
+Enter System 7.0, and its customizable
+Apple menu. Once you upgrade you'll be
+able to install anything — desk acces
+sories, applications, control panel devices
+— in the Apple menu, which will always be
+available. So long, On Cue.
+Hold on a second. With all the desk
+accessories and applications in the same
+menu, aren't things going to get clut
+tered in a hurry? Remember when you
+first got an extra 15 fonts and the menu
+went off the bottom of the screen? It
+wasn't fun.
+The solution for this menu clutter is
+already provided by Hand Off. Like On
+Cue, it allows launching from a menu. It
+also allows you to group applications
+under categories and reach them through
+a hierarchical sub-menu. In other words,
+you could scroll down to Graphics and
+then select Illustrator, Freehand or Mac-
+Draw. Furthermore, both On Cue and
+Hand Off allow you to put documents for
+
+the particular programs in
+hierarchical sub-menus —
+very useful if you work with
+the same files over and over.
+Why System 7.0 doesn't
+allow the creation of such
+menus is unclear, but it
+seems to be an omission
+that will force many of us to
+keep some old INITs
+around.
+Another example is Suit-
+
+case, the font-management tool that many
+Mac aficionados use to manage large col
+lections of typefaces. With System 7.0,
+Font/DA Mover is extinct — you simply
+drag fonts onto the System icon to install
+them.
+But Suitcase lives on. System 7.0
+doesn't provide an easy way to turn sets of
+fonts on and off. You'll have to drag them
+in and out of the System, which you can at
+least open like a folder. That's certainly a
+less efficient process than simply opening
+or closing a font collection with Suitcase.
+The last example for this Computer
+Corner is the dreaded Find File desk
+accessory and its replacement. With Sys
+tem 6.0.7 and earlier, the Finder — as
+Apple's desktop-generating software is
+called — didn't find a thing without help
+from a DA. Because it was so slow, other
+software companies produced faster alter
+natives.
+System 7.0 would seem, again, to put
+them out of business with the lightning-
+
+quick Find command (hold
+down the Apple key and
+press F or choose it from
+the File menu). But Find
+has a serious flaw: You can't
+get a list of all the matches
+in a neat tidy window a la
+Find File or Norton Utili
+ties' fantastic Fast Find.
+If there's only one
+match, you're set with 7.0.
+It will open the appropri-
+
+ate window and highlight the file. If there
+are multiple matches, you can move
+through them one at a time, watching win
+dows open and close all the while — or you
+can choose "all at once" and have the Mac
+open just one window with all the matches
+highlighted in the outline mode.
+That would be terrific for deleting all
+the saved games from NFL Challenge, but
+not all that useful for looking at a list of
+Word documents to determine which one
+was last quarter's poli sci paper.
+Find is another "almost." Almost great.
+Almost makes me want to toss my old desk
+accessory/control-panel device/INIT. But
+not quite. If Apple puts these fixes into
+System 7.1, I'll be ecstatic. If I have to run
+the same old patches — and deal with all
+the crashes they generate — I'll be left
+wondering why.
+
+Mark Rogowsky is The Daily's computer
+systems manager. He really likes the world
+map in the System 7.0 Scrapbook.
+
+Many of you who have been following
+the System 7.0 discussion in this space are
+likely wondering what's going on. If 7.0 is
+indeed the best thing since sliced bread,
+why is it being maligned by Computer Cor
+ner?
+The answer, as is often the case, is both
+simple and complex. First, let me credit
+Apple for producing an evolutionary
+upgrade to the 7-year-old Macintosh. Sys
+tem 7.0 expands upon the best personal
+computer operating system there has ever
+been. Windows 3.0, the graphical interface
+for IBMs and compatibles, is like wooden
+blocks compared to the Lego set that is
+7.0.
+But, there is a nagging feeling that after
+all this time — 7.0 is at least a year behind
+schedule, maybe more — the new system
+should be more. It should be optimized for
+speed much in the way Microsoft Word 4.0
+finds and replaces faster than the original.
+It should also have eliminated the need
+for the countless INITs, CDEVs and the
+like that Mac users have turned to in order
+to provide the "missing" features of cur
+rent system software.
+Unfortunately, 7.0 tantalizes on many
+occasions only to leave us feeling a little bit
+shortchanged. Take program launching,
+for instance. On The Daily's Macs, we keep
+each program in a separate folder and all of
+those inside a folder called Applications.
+
+To launch an application, you open the
+Applications folder, open, say, the Filemak
+er Pro folder and double-click on the pro
+gram icon. After a while, it gets inefficient
+— to say the least.
+One of the "workarounds" is to buy an
+inexpensive program like On Cue, which
+allows you to create a menu of your appli
+cations that is always available on the
+menu bar. Click on the small rocket-ship
+icon, pull down, let go on Excel and —
+presto — Excel launches, no matter where
+you are currently working.
+Enter System 7.0, and its customizable
+Apple menu. Once you upgrade you'll be
+able to install anything — desk acces
+sories, applications, control panel devices
+— in the Apple menu, which will always be
+available. So long, On Cue.
+Hold on a second. With all the desk
+accessories and applications in the same
+menu, aren't things going to get clut
+tered in a hurry? Remember when you
+first got an extra 15 fonts and the menu
+went off the bottom of the screen? It
+wasn't fun.
+The solution for this menu clutter is
+already provided by Hand Off. Like On
+Cue, it allows launching from a menu. It
+also allows you to group applications
+under categories and reach them through
+a hierarchical sub-menu. In other words,
+you could scroll down to Graphics and
+then select Illustrator, Freehand or Mac-
+Draw. Furthermore, both On Cue and
+Hand Off allow you to put documents for
+
+the particular programs in
+hierarchical sub-menus —
+very useful if you work with
+the same files over and over.
+Why System 7.0 doesn't
+allow the creation of such
+menus is unclear, but it
+seems to be an omission
+that will force many of us to
+keep some old INITs
+around.
+Another example is Suit-
+
+case, the font-management tool that many
+Mac aficionados use to manage large col
+lections of typefaces. With System 7.0,
+Font/DA Mover is extinct — you simply
+drag fonts onto the System icon to install
+them.
+But Suitcase lives on. System 7.0
+doesn't provide an easy way to turn sets of
+fonts on and off. You'll have to drag them
+in and out of the System, which you can at
+least open like a folder. That's certainly a
+less efficient process than simply opening
+or closing a font collection with Suitcase.
+The last example for this Computer
+Corner is the dreaded Find File desk
+accessory and its replacement. With Sys
+tem 6.0.7 and earlier, the Finder — as
+Apple's desktop-generating software is
+called — didn't find a thing without help
+from a DA. Because it was so slow, other
+software companies produced faster alter
+natives.
+System 7.0 would seem, again, to put
+them out of business with the lightning-
+
+quick Find command (hold
+down the Apple key and
+press F or choose it from
+the File menu). But Find
+has a serious flaw: You can't
+get a list of all the matches
+in a neat tidy window a la
+Find File or Norton Utili
+ties' fantastic Fast Find.
+If there's only one
+match, you're set with 7.0.
+It will open the appropri-
+
+ate window and highlight the file. If there
+are multiple matches, you can move
+through them one at a time, watching win
+dows open and close all the while — or you
+can choose "all at once" and have the Mac
+open just one window with all the matches
+highlighted in the outline mode.
+That would be terrific for deleting all
+the saved games from NFL Challenge, but
+not all that useful for looking at a list of
+Word documents to determine which one
+was last quarter's poli sci paper.
+Find is another "almost." Almost great.
+Almost makes me want to toss my old desk
+accessory/control-panel device/INIT. But
+not quite. If Apple puts these fixes into
+System 7.1, I'll be ecstatic. If I have to run
+the same old patches — and deal with all
+the crashes they generate — I'll be left
+wondering why.
+
+Mark Rogowsky is The Daily's computer
+systems manager. He really likes the world
+map in the System 7.0 Scrapbook.
+
+Many of you who have been following
+the System 7.0 discussion in this space are
+likely wondering what's going on. If 7.0 is
+indeed the best thing since sliced bread,
+why is it being maligned by Computer Cor
+ner?
+The answer, as is often the case, is both
+simple and complex. First, let me credit
+Apple for producing an evolutionary
+upgrade to the 7-year-old Macintosh. Sys
+tem 7.0 expands upon the best personal
+computer operating system there has ever
+been. Windows 3.0, the graphical interface
+for IBMs and compatibles, is like wooden
+blocks compared to the Lego set that is
+7.0.
+But, there is a nagging feeling that after
+all this time — 7.0 is at least a year behind
+schedule, maybe more — the new system
+should be more. It should be optimized for
+speed much in the way Microsoft Word 4.0
+finds and replaces faster than the original.
+It should also have eliminated the need
+for the countless INITs, CDEVs and the
+like that Mac users have turned to in order
+to provide the "missing" features of cur
+rent system software.
+Unfortunately, 7.0 tantalizes on many
+occasions only to leave us feeling a little bit
+shortchanged. Take program launching,
+for instance. On The Daily's Macs, we keep
+each program in a separate folder and all of
+those inside a folder called Applications.
+
+To launch an application, you open the
+Applications folder, open, say, the Filemak
+er Pro folder and double-click on the pro
+gram icon. After a while, it gets inefficient
+— to say the least.
+One of the "workarounds" is to buy an
+inexpensive program like On Cue, which
+allows you to create a menu of your appli
+cations that is always available on the
+menu bar. Click on the small rocket-ship
+icon, pull down, let go on Excel and —
+presto — Excel launches, no matter where
+you are currently working.
+Enter System 7.0, and its customizable
+Apple menu. Once you upgrade you'll be
+able to install anything — desk acces
+sories, applications, control panel devices
+— in the Apple menu, which will always be
+available. So long, On Cue.
+Hold on a second. With all the desk
+accessories and applications in the same
+menu, aren't things going to get clut
+tered in a hurry? Remember when you
+first got an extra 15 fonts and the menu
+went off the bottom of the screen? It
+wasn't fun.
+The solution for this menu clutter is
+already provided by Hand Off. Like On
+Cue, it allows launching from a menu. It
+also allows you to group applications
+under categories and reach them through
+a hierarchical sub-menu. In other words,
+you could scroll down to Graphics and
+then select Illustrator, Freehand or Mac-
+Draw. Furthermore, both On Cue and
+Hand Off allow you to put documents for
+
+the particular programs in
+hierarchical sub-menus —
+very useful if you work with
+the same files over and over.
+Why System 7.0 doesn't
+allow the creation of such
+menus is unclear, but it
+seems to be an omission
+that will force many of us to
+keep some old INITs
+around.
+Another example is Suit-
+
+case, the font-management tool that many
+Mac aficionados use to manage large col
+lections of typefaces. With System 7.0,
+Font/DA Mover is extinct — you simply
+drag fonts onto the System icon to install
+them.
+But Suitcase lives on. System 7.0
+doesn't provide an easy way to turn sets of
+fonts on and off. You'll have to drag them
+in and out of the System, which you can at
+least open like a folder. That's certainly a
+less efficient process than simply opening
+or closing a font collection with Suitcase.
+The last example for this Computer
+Corner is the dreaded Find File desk
+accessory and its replacement. With Sys
+tem 6.0.7 and earlier, the Finder — as
+Apple's desktop-generating software is
+called — didn't find a thing without help
+from a DA. Because it was so slow, other
+software companies produced faster alter
+natives.
+System 7.0 would seem, again, to put
+them out of business with the lightning-
+
+quick Find command (hold
+down the Apple key and
+press F or choose it from
+the File menu). But Find
+has a serious flaw: You can't
+get a list of all the matches
+in a neat tidy window a la
+Find File or Norton Utili
+ties' fantastic Fast Find.
+If there's only one
+match, you're set with 7.0.
+It will open the appropri-
+
+ate window and highlight the file. If there
+are multiple matches, you can move
+through them one at a time, watching win
+dows open and close all the while — or you
+can choose "all at once" and have the Mac
+open just one window with all the matches
+highlighted in the outline mode.
+That would be terrific for deleting all
+the saved games from NFL Challenge, but
+not all that useful for looking at a list of
+Word documents to determine which one
+was last quarter's poli sci paper.
+Find is another "almost." Almost great.
+Almost makes me want to toss my old desk
+accessory/control-panel device/INIT. But
+not quite. If Apple puts these fixes into
+System 7.1, I'll be ecstatic. If I have to run
+the same old patches — and deal with all
+the crashes they generate — I'll be left
+wondering why.
+
+Mark Rogowsky is The Daily's computer
+systems manager. He really likes the world
+map in the System 7.0 Scrapbook.
+
+Many of you who have been following
+the System 7.0 discussion in this space are
+likely wondering what's going on. If 7.0 is
+indeed the best thing since sliced bread,
+why is it being maligned by Computer Cor
+ner?
+The answer, as is often the case, is both
+simple and complex. First, let me credit
+Apple for producing an evolutionary
+upgrade to the 7-year-old Macintosh. Sys
+tem 7.0 expands upon the best personal
+computer operating system there has ever
+been. Windows 3.0, the graphical interface
+for IBMs and compatibles, is like wooden
+blocks compared to the Lego set that is
+7.0.
+But, there is a nagging feeling that after
+all this time — 7.0 is at least a year behind
+schedule, maybe more — the new system
+should be more. It should be optimized for
+speed much in the way Microsoft Word 4.0
+finds and replaces faster than the original.
+It should also have eliminated the need
+for the countless INITs, CDEVs and the
+like that Mac users have turned to in order
+to provide the "missing" features of cur
+rent system software.
+Unfortunately, 7.0 tantalizes on many
+occasions only to leave us feeling a little bit
+shortchanged. Take program launching,
+for instance. On The Daily's Macs, we keep
+each program in a separate folder and all of
+those inside a folder called Applications.
+
+To launch an application, you open the
+Applications folder, open, say, the Filemak
+er Pro folder and double-click on the pro
+gram icon. After a while, it gets inefficient
+— to say the least.
+One of the "workarounds" is to buy an
+inexpensive program like On Cue, which
+allows you to create a menu of your appli
+cations that is always available on the
+menu bar. Click on the small rocket-ship
+icon, pull down, let go on Excel and —
+presto — Excel launches, no matter where
+you are currently working.
+Enter System 7.0, and its customizable
+Apple menu. Once you upgrade you'll be
+able to install anything — desk acces
+sories, applications, control panel devices
+— in the Apple menu, which will always be
+available. So long, On Cue.
+Hold on a second. With all the desk
+accessories and applications in the same
+menu, aren't things going to get clut
+tered in a hurry? Remember when you
+first got an extra 15 fonts and the menu
+went off the bottom of the screen? It
+wasn't fun.
+The solution for this menu clutter is
+already provided by Hand Off. Like On
+Cue, it allows launching from a menu. It
+also allows you to group applications
+under categories and reach them through
+a hierarchical sub-menu. In other words,
+you could scroll down to Graphics and
+then select Illustrator, Freehand or Mac-
+Draw. Furthermore, both On Cue and
+Hand Off allow you to put documents for
+
+the particular programs in
+hierarchical sub-menus —
+very useful if you work with
+the same files over and over.
+Why System 7.0 doesn't
+allow the creation of such
+menus is unclear, but it
+seems to be an omission
+that will force many of us to
+keep some old INITs
+around.
+Another example is Suit-
+
+case, the font-management tool that many
+Mac aficionados use to manage large col
+lections of typefaces. With System 7.0,
+Font/DA Mover is extinct — you simply
+drag fonts onto the System icon to install
+them.
+But Suitcase lives on. System 7.0
+doesn't provide an easy way to turn sets of
+fonts on and off. You'll have to drag them
+in and out of the System, which you can at
+least open like a folder. That's certainly a
+less efficient process than simply opening
+or closing a font collection with Suitcase.
+The last example for this Computer
+Corner is the dreaded Find File desk
+accessory and its replacement. With Sys
+tem 6.0.7 and earlier, the Finder — as
+Apple's desktop-generating software is
+called — didn't find a thing without help
+from a DA. Because it was so slow, other
+software companies produced faster alter
+natives.
+System 7.0 would seem, again, to put
+them out of business with the lightning-
+
+quick Find command (hold
+down the Apple key and
+press F or choose it from
+the File menu). But Find
+has a serious flaw: You can't
+get a list of all the matches
+in a neat tidy window a la
+Find File or Norton Utili
+ties' fantastic Fast Find.
+If there's only one
+match, you're set with 7.0.
+It will open the appropri-
+
+ate window and highlight the file. If there
+are multiple matches, you can move
+through them one at a time, watching win
+dows open and close all the while — or you
+can choose "all at once" and have the Mac
+open just one window with all the matches
+highlighted in the outline mode.
+That would be terrific for deleting all
+the saved games from NFL Challenge, but
+not all that useful for looking at a list of
+Word documents to determine which one
+was last quarter's poli sci paper.
+Find is another "almost." Almost great.
+Almost makes me want to toss my old desk
+accessory/control-panel device/INIT. But
+not quite. If Apple puts these fixes into
+System 7.1, I'll be ecstatic. If I have to run
+the same old patches — and deal with all
+the crashes they generate — I'll be left
+wondering why.
+
+Mark Rogowsky is The Daily's computer
+systems manager. He really likes the world
+map in the System 7.0 Scrapbook.
+
+Many of you who have been following
+the System 7.0 discussion in this space are
+likely wondering what's going on. If 7.0 is
+indeed the best thing since sliced bread,
+why is it being maligned by Computer Cor
+ner?
+The answer, as is often the case, is both
+simple and complex. First, let me credit
+Apple for producing an evolutionary
+upgrade to the 7-year-old Macintosh. Sys
+tem 7.0 expands upon the best personal
+computer operating system there has ever
+been. Windows 3.0, the graphical interface
+for IBMs and compatibles, is like wooden
+blocks compared to the Lego set that is
+7.0.
+But, there is a nagging feeling that after
+all this time — 7.0 is at least a year behind
+schedule, maybe more — the new system
+should be more. It should be optimized for
+speed much in the way Microsoft Word 4.0
+finds and replaces faster than the original.
+It should also have eliminated the need
+for the countless INITs, CDEVs and the
+like that Mac users have turned to in order
+to provide the "missing" features of cur
+rent system software.
+Unfortunately, 7.0 tantalizes on many
+occasions only to leave us feeling a little bit
+shortchanged. Take program launching,
+for instance. On The Daily's Macs, we keep
+each program in a separate folder and all of
+those inside a folder called Applications.
+
+To launch an application, you open the
+Applications folder, open, say, the Filemak
+er Pro folder and double-click on the pro
+gram icon. After a while, it gets inefficient
+— to say the least.
+One of the "workarounds" is to buy an
+inexpensive program like On Cue, which
+allows you to create a menu of your appli
+cations that is always available on the
+menu bar. Click on the small rocket-ship
+icon, pull down, let go on Excel and —
+presto — Excel launches, no matter where
+you are currently working.
+Enter System 7.0, and its customizable
+Apple menu. Once you upgrade you'll be
+able to install anything — desk acces
+sories, applications, control panel devices
+— in the Apple menu, which will always be
+available. So long, On Cue.
+Hold on a second. With all the desk
+accessories and applications in the same
+menu, aren't things going to get clut
+tered in a hurry? Remember when you
+first got an extra 15 fonts and the menu
+went off the bottom of the screen? It
+wasn't fun.
+The solution for this menu clutter is
+already provided by Hand Off. Like On
+Cue, it allows launching from a menu. It
+also allows you to group applications
+under categories and reach them through
+a hierarchical sub-menu. In other words,
+you could scroll down to Graphics and
+then select Illustrator, Freehand or Mac-
+Draw. Furthermore, both On Cue and
+Hand Off allow you to put documents for
+
+the particular programs in
+hierarchical sub-menus —
+very useful if you work with
+the same files over and over.
+Why System 7.0 doesn't
+allow the creation of such
+menus is unclear, but it
+seems to be an omission
+that will force many of us to
+keep some old INITs
+around.
+Another example is Suit-
+
+case, the font-management tool that many
+Mac aficionados use to manage large col
+lections of typefaces. With System 7.0,
+Font/DA Mover is extinct — you simply
+drag fonts onto the System icon to install
+them.
+But Suitcase lives on. System 7.0
+doesn't provide an easy way to turn sets of
+fonts on and off. You'll have to drag them
+in and out of the System, which you can at
+least open like a folder. That's certainly a
+less efficient process than simply opening
+or closing a font collection with Suitcase.
+The last example for this Computer
+Corner is the dreaded Find File desk
+accessory and its replacement. With Sys
+tem 6.0.7 and earlier, the Finder — as
+Apple's desktop-generating software is
+called — didn't find a thing without help
+from a DA. Because it was so slow, other
+software companies produced faster alter
+natives.
+System 7.0 would seem, again, to put
+them out of business with the lightning-
+
+quick Find command (hold
+down the Apple key and
+press F or choose it from
+the File menu). But Find
+has a serious flaw: You can't
+get a list of all the matches
+in a neat tidy window a la
+Find File or Norton Utili
+ties' fantastic Fast Find.
+If there's only one
+match, you're set with 7.0.
+It will open the appropri-
+
+ate window and highlight the file. If there
+are multiple matches, you can move
+through them one at a time, watching win
+dows open and close all the while — or you
+can choose "all at once" and have the Mac
+open just one window with all the matches
+highlighted in the outline mode.
+That would be terrific for deleting all
+the saved games from NFL Challenge, but
+not all that useful for looking at a list of
+Word documents to determine which one
+was last quarter's poli sci paper.
+Find is another "almost." Almost great.
+Almost makes me want to toss my old desk
+accessory/control-panel device/INIT. But
+not quite. If Apple puts these fixes into
+System 7.1, I'll be ecstatic. If I have to run
+the same old patches — and deal with all
+the crashes they generate — I'll be left
+wondering why.
+
+Mark Rogowsky is The Daily's computer
+systems manager. He really likes the world
+map in the System 7.0 Scrapbook.
+
+Many of you who have been following
+the System 7.0 discussion in this space are
+likely wondering what's going on. If 7.0 is
+indeed the best thing since sliced bread,
+why is it being maligned by Computer Cor
+ner?
+The answer, as is often the case, is both
+simple and complex. First, let me credit
+Apple for producing an evolutionary
+upgrade to the 7-year-old Macintosh. Sys
+tem 7.0 expands upon the best personal
+computer operating system there has ever
+been. Windows 3.0, the graphical interface
+for IBMs and compatibles, is like wooden
+blocks compared to the Lego set that is
+7.0.
+But, there is a nagging feeling that after
+all this time — 7.0 is at least a year behind
+schedule, maybe more — the new system
+should be more. It should be optimized for
+speed much in the way Microsoft Word 4.0
+finds and replaces faster than the original.
+It should also have eliminated the need
+for the countless INITs, CDEVs and the
+like that Mac users have turned to in order
+to provide the "missing" features of cur
+rent system software.
+Unfortunately, 7.0 tantalizes on many
+occasions only to leave us feeling a little bit
+shortchanged. Take program launching,
+for instance. On The Daily's Macs, we keep
+each program in a separate folder and all of
+those inside a folder called Applications.
+
+To launch an application, you open the
+Applications folder, open, say, the Filemak
+er Pro folder and double-click on the pro
+gram icon. After a while, it gets inefficient
+— to say the least.
+One of the "workarounds" is to buy an
+inexpensive program like On Cue, which
+allows you to create a menu of your appli
+cations that is always available on the
+menu bar. Click on the small rocket-ship
+icon, pull down, let go on Excel and —
+presto — Excel launches, no matter where
+you are currently working.
+Enter System 7.0, and its customizable
+Apple menu. Once you upgrade you'll be
+able to install anything — desk acces
+sories, applications, control panel devices
+— in the Apple menu, which will always be
+available. So long, On Cue.
+Hold on a second. With all the desk
+accessories and applications in the same
+menu, aren't things going to get clut
+tered in a hurry? Remember when you
+first got an extra 15 fonts and the menu
+went off the bottom of the screen? It
+wasn't fun.
+The solution for this menu clutter is
+already provided by Hand Off. Like On
+Cue, it allows launching from a menu. It
+also allows you to group applications
+under categories and reach them through
+a hierarchical sub-menu. In other words,
+you could scroll down to Graphics and
+then select Illustrator, Freehand or Mac-
+Draw. Furthermore, both On Cue and
+Hand Off allow you to put documents for
+
+the particular programs in
+hierarchical sub-menus —
+very useful if you work with
+the same files over and over.
+Why System 7.0 doesn't
+allow the creation of such
+menus is unclear, but it
+seems to be an omission
+that will force many of us to
+keep some old INITs
+around.
+Another example is Suit-
+
+case, the font-management tool that many
+Mac aficionados use to manage large col
+lections of typefaces. With System 7.0,
+Font/DA Mover is extinct — you simply
+drag fonts onto the System icon to install
+them.
+But Suitcase lives on. System 7.0
+doesn't provide an easy way to turn sets of
+fonts on and off. You'll have to drag them
+in and out of the System, which you can at
+least open like a folder. That's certainly a
+less efficient process than simply opening
+or closing a font collection with Suitcase.
+The last example for this Computer
+Corner is the dreaded Find File desk
+accessory and its replacement. With Sys
+tem 6.0.7 and earlier, the Finder — as
+Apple's desktop-generating software is
+called — didn't find a thing without help
+from a DA. Because it was so slow, other
+software companies produced faster alter
+natives.
+System 7.0 would seem, again, to put
+them out of business with the lightning-
+
+quick Find command (hold
+down the Apple key and
+press F or choose it from
+the File menu). But Find
+has a serious flaw: You can't
+get a list of all the matches
+in a neat tidy window a la
+Find File or Norton Utili
+ties' fantastic Fast Find.
+If there's only one
+match, you're set with 7.0.
+It will open the appropri-
+
+ate window and highlight the file. If there
+are multiple matches, you can move
+through them one at a time, watching win
+dows open and close all the while — or you
+can choose "all at once" and have the Mac
+open just one window with all the matches
+highlighted in the outline mode.
+That would be terrific for deleting all
+the saved games from NFL Challenge, but
+not all that useful for looking at a list of
+Word documents to determine which one
+was last quarter's poli sci paper.
+Find is another "almost." Almost great.
+Almost makes me want to toss my old desk
+accessory/control-panel device/INIT. But
+not quite. If Apple puts these fixes into
+System 7.1, I'll be ecstatic. If I have to run
+the same old patches — and deal with all
+the crashes they generate — I'll be left
+wondering why.
+
+Mark Rogowsky is The Daily's computer
+systems manager. He really likes the world
+map in the System 7.0 Scrapbook.
+

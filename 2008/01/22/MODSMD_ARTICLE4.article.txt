@@ -1,0 +1,603 @@
+# CS prof wins film award
+## Prof., collaborators to be recognized by Academy for special effects work 
+### KAMIL DADA STAFF WRITER 
+Computer Science Prof. Ron Fedkiw,
+along with collaborators Nick Ras
+niussen and Frank Losasso Petterson
+from the special effects firm Industrial
+Light and Magic (II.M). will bo awarded
+the Scientific and Engineering Award by
+the Academy of Motion Pictures Arts
+
+and Sciences for work on computer-gen
+erated fluids.
+The system uses a method of simulat
+ing low-viscosity fluids such as water and
+fire. Traditionally, computer graphic
+artists have used a series of blobs to rep
+resent water to varying degrees of suc
+cess — they sometimes appear as unre
+alistic. grainy surfaces. Another popular
+method has been to employ a method
+
+called the "level set method," which
+gives better surface representation, but
+does not render as well when broken
+down in smaller particles, such as a
+breaking wave.
+ITie team's innovative "particle level
+set method" uses a mix of particles and
+level sets, which allows artists to main
+tain smooth surfaces while still ren
+dering the liquid when broken down.
+The rendering also uses an addition
+al method to simulate how the water
+spray interacts with itself and the
+surrounding water, which results in
+more realistic representations.
+Fedkiw explained that he does
+not design the graphics for the
+movies himself. Rather, along with
+the help of Rasmussen, Petterson
+and others from at the ILM, he de
+
+signed a system that allows artists to
+create better water effects. Fedkiw's
+research is focused on the design of
+new computational algorithms for a
+variety of purposes, such as compu
+tational fluid dynamics and solid me
+chanics. computer graphics, comput
+er vision and computational biome
+chanics.
+"The system is used for other
+things too, from motion capture to
+rendering, but 1 focus on physics
+based simulation," Fedkiw said.
+The power of the system is evi
+dent in examples posted on Fedkiw's
+Web site. I le has included computer
+generated clips of ocean waves
+crashing against a lighthouse, which
+
+produce huge and realistic sprays of
+water.
+Fedkiw has worked on graphics
+and digital effects for approximately
+20 movies.
+"The most notable ones related
+to the award are the last two Pirates
+of the Caribbean' movies, the last
+'Harry Potter' movie. 'Evan
+Almighty' and 'Poseidon,'" he said.
+"1 think the sinking ship shots in 'Po
+seidon' may be the best looking
+stuff."
+While Fedkiw expressed interest
+in working in the special effects in
+dustry. he said that if he switched ca
+reers full-time he would miss his aca
+demic pursuits too much.
+"[ 11 would miss research with my
+Ph. D.students — it's really fun. A lot
+of our research is on computer
+graphics too, so it's synergistic with
+special effects."
+Fedkiw currently teaches
+CS2OSA: Mathematical Methods for
+Robotics, Vision and Graphics. Ad
+ditionally, in spring quarter, he will
+teach a new class entitled C 52058:
+Mathematical Methods for Fluids,
+Solids and Interfaces.
+"We have a great graphics group
+here at Stanford." he said, "so taking
+some of those classes is a good start
+[to getting into the graphics indus
+try]."
+Fedkiw will collect his award at a
+ceremony at the Beverly Wilshire
+Hotel in Beverly Hills on Feb. 9.
+
+Contact Kamil Dacia at kamild@stan
+ford.edu.
+Computer Science Prof. Ron Fedkiw,
+along with collaborators Nick Ras
+niussen and Frank Losasso Petterson
+from the special effects firm Industrial
+Light and Magic (II.M). will bo awarded
+the Scientific and Engineering Award by
+the Academy of Motion Pictures Arts
+
+and Sciences for work on computer-gen
+erated fluids.
+The system uses a method of simulat
+ing low-viscosity fluids such as water and
+fire. Traditionally, computer graphic
+artists have used a series of blobs to rep
+resent water to varying degrees of suc
+cess — they sometimes appear as unre
+alistic. grainy surfaces. Another popular
+method has been to employ a method
+
+called the "level set method," which
+gives better surface representation, but
+does not render as well when broken
+down in smaller particles, such as a
+breaking wave.
+ITie team's innovative "particle level
+set method" uses a mix of particles and
+level sets, which allows artists to main
+tain smooth surfaces while still ren
+dering the liquid when broken down.
+The rendering also uses an addition
+al method to simulate how the water
+spray interacts with itself and the
+surrounding water, which results in
+more realistic representations.
+Fedkiw explained that he does
+not design the graphics for the
+movies himself. Rather, along with
+the help of Rasmussen, Petterson
+and others from at the ILM, he de
+
+signed a system that allows artists to
+create better water effects. Fedkiw's
+research is focused on the design of
+new computational algorithms for a
+variety of purposes, such as compu
+tational fluid dynamics and solid me
+chanics. computer graphics, comput
+er vision and computational biome
+chanics.
+"The system is used for other
+things too, from motion capture to
+rendering, but 1 focus on physics
+based simulation," Fedkiw said.
+The power of the system is evi
+dent in examples posted on Fedkiw's
+Web site. I le has included computer
+generated clips of ocean waves
+crashing against a lighthouse, which
+
+produce huge and realistic sprays of
+water.
+Fedkiw has worked on graphics
+and digital effects for approximately
+20 movies.
+"The most notable ones related
+to the award are the last two Pirates
+of the Caribbean' movies, the last
+'Harry Potter' movie. 'Evan
+Almighty' and 'Poseidon,'" he said.
+"1 think the sinking ship shots in 'Po
+seidon' may be the best looking
+stuff."
+While Fedkiw expressed interest
+in working in the special effects in
+dustry. he said that if he switched ca
+reers full-time he would miss his aca
+demic pursuits too much.
+"[ 11 would miss research with my
+Ph. D.students — it's really fun. A lot
+of our research is on computer
+graphics too, so it's synergistic with
+special effects."
+Fedkiw currently teaches
+CS2OSA: Mathematical Methods for
+Robotics, Vision and Graphics. Ad
+ditionally, in spring quarter, he will
+teach a new class entitled C 52058:
+Mathematical Methods for Fluids,
+Solids and Interfaces.
+"We have a great graphics group
+here at Stanford." he said, "so taking
+some of those classes is a good start
+[to getting into the graphics indus
+try]."
+Fedkiw will collect his award at a
+ceremony at the Beverly Wilshire
+Hotel in Beverly Hills on Feb. 9.
+
+Contact Kamil Dacia at kamild@stan
+ford.edu.
+Computer Science Prof. Ron Fedkiw,
+along with collaborators Nick Ras
+niussen and Frank Losasso Petterson
+from the special effects firm Industrial
+Light and Magic (II.M). will bo awarded
+the Scientific and Engineering Award by
+the Academy of Motion Pictures Arts
+
+and Sciences for work on computer-gen
+erated fluids.
+The system uses a method of simulat
+ing low-viscosity fluids such as water and
+fire. Traditionally, computer graphic
+artists have used a series of blobs to rep
+resent water to varying degrees of suc
+cess — they sometimes appear as unre
+alistic. grainy surfaces. Another popular
+method has been to employ a method
+
+called the "level set method," which
+gives better surface representation, but
+does not render as well when broken
+down in smaller particles, such as a
+breaking wave.
+ITie team's innovative "particle level
+set method" uses a mix of particles and
+level sets, which allows artists to main
+tain smooth surfaces while still ren
+dering the liquid when broken down.
+The rendering also uses an addition
+al method to simulate how the water
+spray interacts with itself and the
+surrounding water, which results in
+more realistic representations.
+Fedkiw explained that he does
+not design the graphics for the
+movies himself. Rather, along with
+the help of Rasmussen, Petterson
+and others from at the ILM, he de
+
+signed a system that allows artists to
+create better water effects. Fedkiw's
+research is focused on the design of
+new computational algorithms for a
+variety of purposes, such as compu
+tational fluid dynamics and solid me
+chanics. computer graphics, comput
+er vision and computational biome
+chanics.
+"The system is used for other
+things too, from motion capture to
+rendering, but 1 focus on physics
+based simulation," Fedkiw said.
+The power of the system is evi
+dent in examples posted on Fedkiw's
+Web site. I le has included computer
+generated clips of ocean waves
+crashing against a lighthouse, which
+
+produce huge and realistic sprays of
+water.
+Fedkiw has worked on graphics
+and digital effects for approximately
+20 movies.
+"The most notable ones related
+to the award are the last two Pirates
+of the Caribbean' movies, the last
+'Harry Potter' movie. 'Evan
+Almighty' and 'Poseidon,'" he said.
+"1 think the sinking ship shots in 'Po
+seidon' may be the best looking
+stuff."
+While Fedkiw expressed interest
+in working in the special effects in
+dustry. he said that if he switched ca
+reers full-time he would miss his aca
+demic pursuits too much.
+"[ 11 would miss research with my
+Ph. D.students — it's really fun. A lot
+of our research is on computer
+graphics too, so it's synergistic with
+special effects."
+Fedkiw currently teaches
+CS2OSA: Mathematical Methods for
+Robotics, Vision and Graphics. Ad
+ditionally, in spring quarter, he will
+teach a new class entitled C 52058:
+Mathematical Methods for Fluids,
+Solids and Interfaces.
+"We have a great graphics group
+here at Stanford." he said, "so taking
+some of those classes is a good start
+[to getting into the graphics indus
+try]."
+Fedkiw will collect his award at a
+ceremony at the Beverly Wilshire
+Hotel in Beverly Hills on Feb. 9.
+
+Contact Kamil Dacia at kamild@stan
+ford.edu.
+Computer Science Prof. Ron Fedkiw,
+along with collaborators Nick Ras
+niussen and Frank Losasso Petterson
+from the special effects firm Industrial
+Light and Magic (II.M). will bo awarded
+the Scientific and Engineering Award by
+the Academy of Motion Pictures Arts
+
+and Sciences for work on computer-gen
+erated fluids.
+The system uses a method of simulat
+ing low-viscosity fluids such as water and
+fire. Traditionally, computer graphic
+artists have used a series of blobs to rep
+resent water to varying degrees of suc
+cess — they sometimes appear as unre
+alistic. grainy surfaces. Another popular
+method has been to employ a method
+
+called the "level set method," which
+gives better surface representation, but
+does not render as well when broken
+down in smaller particles, such as a
+breaking wave.
+ITie team's innovative "particle level
+set method" uses a mix of particles and
+level sets, which allows artists to main
+tain smooth surfaces while still ren
+dering the liquid when broken down.
+The rendering also uses an addition
+al method to simulate how the water
+spray interacts with itself and the
+surrounding water, which results in
+more realistic representations.
+Fedkiw explained that he does
+not design the graphics for the
+movies himself. Rather, along with
+the help of Rasmussen, Petterson
+and others from at the ILM, he de
+
+signed a system that allows artists to
+create better water effects. Fedkiw's
+research is focused on the design of
+new computational algorithms for a
+variety of purposes, such as compu
+tational fluid dynamics and solid me
+chanics. computer graphics, comput
+er vision and computational biome
+chanics.
+"The system is used for other
+things too, from motion capture to
+rendering, but 1 focus on physics
+based simulation," Fedkiw said.
+The power of the system is evi
+dent in examples posted on Fedkiw's
+Web site. I le has included computer
+generated clips of ocean waves
+crashing against a lighthouse, which
+
+produce huge and realistic sprays of
+water.
+Fedkiw has worked on graphics
+and digital effects for approximately
+20 movies.
+"The most notable ones related
+to the award are the last two Pirates
+of the Caribbean' movies, the last
+'Harry Potter' movie. 'Evan
+Almighty' and 'Poseidon,'" he said.
+"1 think the sinking ship shots in 'Po
+seidon' may be the best looking
+stuff."
+While Fedkiw expressed interest
+in working in the special effects in
+dustry. he said that if he switched ca
+reers full-time he would miss his aca
+demic pursuits too much.
+"[ 11 would miss research with my
+Ph. D.students — it's really fun. A lot
+of our research is on computer
+graphics too, so it's synergistic with
+special effects."
+Fedkiw currently teaches
+CS2OSA: Mathematical Methods for
+Robotics, Vision and Graphics. Ad
+ditionally, in spring quarter, he will
+teach a new class entitled C 52058:
+Mathematical Methods for Fluids,
+Solids and Interfaces.
+"We have a great graphics group
+here at Stanford." he said, "so taking
+some of those classes is a good start
+[to getting into the graphics indus
+try]."
+Fedkiw will collect his award at a
+ceremony at the Beverly Wilshire
+Hotel in Beverly Hills on Feb. 9.
+
+Contact Kamil Dacia at kamild@stan
+ford.edu.
+Computer Science Prof. Ron Fedkiw,
+along with collaborators Nick Ras
+niussen and Frank Losasso Petterson
+from the special effects firm Industrial
+Light and Magic (II.M). will bo awarded
+the Scientific and Engineering Award by
+the Academy of Motion Pictures Arts
+
+and Sciences for work on computer-gen
+erated fluids.
+The system uses a method of simulat
+ing low-viscosity fluids such as water and
+fire. Traditionally, computer graphic
+artists have used a series of blobs to rep
+resent water to varying degrees of suc
+cess — they sometimes appear as unre
+alistic. grainy surfaces. Another popular
+method has been to employ a method
+
+called the "level set method," which
+gives better surface representation, but
+does not render as well when broken
+down in smaller particles, such as a
+breaking wave.
+ITie team's innovative "particle level
+set method" uses a mix of particles and
+level sets, which allows artists to main
+tain smooth surfaces while still ren
+dering the liquid when broken down.
+The rendering also uses an addition
+al method to simulate how the water
+spray interacts with itself and the
+surrounding water, which results in
+more realistic representations.
+Fedkiw explained that he does
+not design the graphics for the
+movies himself. Rather, along with
+the help of Rasmussen, Petterson
+and others from at the ILM, he de
+
+signed a system that allows artists to
+create better water effects. Fedkiw's
+research is focused on the design of
+new computational algorithms for a
+variety of purposes, such as compu
+tational fluid dynamics and solid me
+chanics. computer graphics, comput
+er vision and computational biome
+chanics.
+"The system is used for other
+things too, from motion capture to
+rendering, but 1 focus on physics
+based simulation," Fedkiw said.
+The power of the system is evi
+dent in examples posted on Fedkiw's
+Web site. I le has included computer
+generated clips of ocean waves
+crashing against a lighthouse, which
+
+produce huge and realistic sprays of
+water.
+Fedkiw has worked on graphics
+and digital effects for approximately
+20 movies.
+"The most notable ones related
+to the award are the last two Pirates
+of the Caribbean' movies, the last
+'Harry Potter' movie. 'Evan
+Almighty' and 'Poseidon,'" he said.
+"1 think the sinking ship shots in 'Po
+seidon' may be the best looking
+stuff."
+While Fedkiw expressed interest
+in working in the special effects in
+dustry. he said that if he switched ca
+reers full-time he would miss his aca
+demic pursuits too much.
+"[ 11 would miss research with my
+Ph. D.students — it's really fun. A lot
+of our research is on computer
+graphics too, so it's synergistic with
+special effects."
+Fedkiw currently teaches
+CS2OSA: Mathematical Methods for
+Robotics, Vision and Graphics. Ad
+ditionally, in spring quarter, he will
+teach a new class entitled C 52058:
+Mathematical Methods for Fluids,
+Solids and Interfaces.
+"We have a great graphics group
+here at Stanford." he said, "so taking
+some of those classes is a good start
+[to getting into the graphics indus
+try]."
+Fedkiw will collect his award at a
+ceremony at the Beverly Wilshire
+Hotel in Beverly Hills on Feb. 9.
+
+Contact Kamil Dacia at kamild@stan
+ford.edu.
+Computer Science Prof. Ron Fedkiw,
+along with collaborators Nick Ras
+niussen and Frank Losasso Petterson
+from the special effects firm Industrial
+Light and Magic (II.M). will bo awarded
+the Scientific and Engineering Award by
+the Academy of Motion Pictures Arts
+
+and Sciences for work on computer-gen
+erated fluids.
+The system uses a method of simulat
+ing low-viscosity fluids such as water and
+fire. Traditionally, computer graphic
+artists have used a series of blobs to rep
+resent water to varying degrees of suc
+cess — they sometimes appear as unre
+alistic. grainy surfaces. Another popular
+method has been to employ a method
+
+called the "level set method," which
+gives better surface representation, but
+does not render as well when broken
+down in smaller particles, such as a
+breaking wave.
+ITie team's innovative "particle level
+set method" uses a mix of particles and
+level sets, which allows artists to main
+tain smooth surfaces while still ren
+dering the liquid when broken down.
+The rendering also uses an addition
+al method to simulate how the water
+spray interacts with itself and the
+surrounding water, which results in
+more realistic representations.
+Fedkiw explained that he does
+not design the graphics for the
+movies himself. Rather, along with
+the help of Rasmussen, Petterson
+and others from at the ILM, he de
+
+signed a system that allows artists to
+create better water effects. Fedkiw's
+research is focused on the design of
+new computational algorithms for a
+variety of purposes, such as compu
+tational fluid dynamics and solid me
+chanics. computer graphics, comput
+er vision and computational biome
+chanics.
+"The system is used for other
+things too, from motion capture to
+rendering, but 1 focus on physics
+based simulation," Fedkiw said.
+The power of the system is evi
+dent in examples posted on Fedkiw's
+Web site. I le has included computer
+generated clips of ocean waves
+crashing against a lighthouse, which
+
+produce huge and realistic sprays of
+water.
+Fedkiw has worked on graphics
+and digital effects for approximately
+20 movies.
+"The most notable ones related
+to the award are the last two Pirates
+of the Caribbean' movies, the last
+'Harry Potter' movie. 'Evan
+Almighty' and 'Poseidon,'" he said.
+"1 think the sinking ship shots in 'Po
+seidon' may be the best looking
+stuff."
+While Fedkiw expressed interest
+in working in the special effects in
+dustry. he said that if he switched ca
+reers full-time he would miss his aca
+demic pursuits too much.
+"[ 11 would miss research with my
+Ph. D.students — it's really fun. A lot
+of our research is on computer
+graphics too, so it's synergistic with
+special effects."
+Fedkiw currently teaches
+CS2OSA: Mathematical Methods for
+Robotics, Vision and Graphics. Ad
+ditionally, in spring quarter, he will
+teach a new class entitled C 52058:
+Mathematical Methods for Fluids,
+Solids and Interfaces.
+"We have a great graphics group
+here at Stanford." he said, "so taking
+some of those classes is a good start
+[to getting into the graphics indus
+try]."
+Fedkiw will collect his award at a
+ceremony at the Beverly Wilshire
+Hotel in Beverly Hills on Feb. 9.
+
+Contact Kamil Dacia at kamild@stan
+ford.edu.

@@ -1,0 +1,1249 @@
+# Q&A JONATHAN MAYER
+## 
+### HELIN GAO CONTRIBUTING WRITER 
+Jonathan Mayer, a graduate
+student in law and computer sci
+ence, has attracted worldwide me
+dia attention for his investigations
+into online privacy policies. His
+discovery that the Romney and
+Obama presidential campaign
+websites were leaking visitor in
+formation to third-party trackers
+was featured in a New York Times
+article, and he has served as a
+consultant to law enforcement.
+The Daily sat down with Mayer to
+discuss his recent work, which in
+cludes a patch that will be imple
+mented in the latest Mozilla Fire
+fox web browser, and his ideas for
+improving Internet security.
+The Stanford Daily (TSD): How
+and when did you become inter
+ested in Internet security?
+Jonathan Mayer (JM): The
+first time I realized that it was go
+ing to be a potential career was
+[as an] undergrad when I took a
+class in information security... I
+
+liked that very slight bit of sub
+versiveness that the field has to it.
+It's an academic field that is in
+many ways quite applied, in many
+ways very much [about] interact
+ing with companies and govern
+ment ... I liked that a lot.
+TSD: What brought you to Stan
+ford, and why did you decide to
+focus on law and computer sci
+ence?
+JM: When I was looking at
+grad programs, I knew I wanted
+to do law and computer science...
+I wound up, in my visit, enjoying
+Stanford computer science the
+most and enjoying Stanford law
+the most, so that made it pretty
+easy. The hard part was the
+"choose-your-own-adventure"
+component of building this pro
+gram ... My understanding was
+that there was a little bit of ad
+ministrative scrambling before I
+showed up on campus, about,
+"Wait a minute, have we made a
+tragic mistake? This guy is sup
+posed to be at the Law School.
+This guy is supposed to be at the
+
+Computer Science Department.
+What do we do?" Stanford, very
+admirably, figured out what it
+needed to figure out and has been
+an awesome place ever since.
+TSD: You've been featured in
+the media for your discoveries
+about how companies track
+their users on the web what
+were your most well-known
+
+findings?
+JM: One was some research I
+did maybe a year and a half ago
+into Safari's cookie-blocking fea
+ture and some companies that are
+intentionally circumventing that
+feature, with varying rationales
+for doing it and varying conse
+quences. One of the companies
+
+
+Courtesy of Ellick Chan
+Graduate student Jonathan Mayer has attracted international attention
+for his work investigating online privacy breaches, including
+those committed by Google and both 2012 presidential campaigns.
+that was circumventing the feature
+was Google. That research con
+tributed to a federal regulatory ac
+tion, resulting in a billing fine of
+$22.5 million.
+The Firefox cookie-blocking
+feature I was working on certainly
+got quite a bit of media attention
+I think it's one of the most mean
+ingful things that I worked on. The
+feature initially was very quiet, and
+that was fine with me... It was only
+when it finally landed in a pre-re
+leased version of Firefox when the
+media attention picked up... There
+were some very entertaining reac
+tions from some folks. Someone
+called it [a] "nuclear first strike."
+I spent some amount of time
+collaborating with the California
+Department of Justice on an initia
+tive to facilitate putting privacy
+policies in mobile applications.
+
+That's an initiative that I think all
+of the major mobile app platforms
+have now signed on to. I think it
+was a really great success with reg
+ulatory agencies doing things on
+the cutting edge, where historically
+speaking, regulatory agencies have
+had a tough time... I don't think I
+would have had that opportunity
+had I not been at Stanford.
+TSD: How have you been work
+ing with Mozilla to integrate
+your technology into its new
+browser, and when did they be
+come interested in your technol
+ogy?
+JM: Security and privacy space
+is not that big. It's a little bit of an
+"everyone-knows-everyone" com
+munity after you have been around
+for a while... I and some others
+have, over the course of the past
+year, kicked around some ideas
+with Mozilla about some technical
+countermeasures that Mozilla Fire
+fox can include. One of those direc
+tions was revising the cookie policy.
+It's looking good, but we want to
+
+be sure, be rigorous ... as we add
+more things for example, what
+about sites that users only visit
+once and never come back to? The
+policy doesn't have any special pro
+visions for that. What about old
+cookies? So if you have an older
+version of Firefox and update to
+this policy and you have tracking
+history [from] before, what are we
+going to do about that? That's sort
+of a flavor of the sort of things that
+we're going to think through.
+TSD: What do you think is the
+most important thing that Inter
+net users should do to protect
+their privacy?
+JM: I wish there was an easy
+answer. That's one of the reasons
+why I think working on the Firefox
+cookie policy has been one of the
+most meaningful projects I have
+worked on —it puts privacy in
+hands of users. Firefox has some
+thing like 400 million-plus users. By
+default, those users are going to get
+this new privacy feature. There is
+an enormous body of research on
+how existing privacy tools and secu
+rity tools are really hard to use and
+consumers and enterprises really
+don't understand them. If you do
+understand them, they are really
+hard to get configured and kept up
+to date. That's one of the reasons I
+was working on this Firefox feature
+and working to make that exist.
+This interview has been con
+densed and edited.
+
+Contact Helin Gao at helingao@
+stanford.edu.
+Jonathan Mayer, a graduate
+student in law and computer sci
+ence, has attracted worldwide me
+dia attention for his investigations
+into online privacy policies. His
+discovery that the Romney and
+Obama presidential campaign
+websites were leaking visitor in
+formation to third-party trackers
+was featured in a New York Times
+article, and he has served as a
+consultant to law enforcement.
+The Daily sat down with Mayer to
+discuss his recent work, which in
+cludes a patch that will be imple
+mented in the latest Mozilla Fire
+fox web browser, and his ideas for
+improving Internet security.
+The Stanford Daily (TSD): How
+and when did you become inter
+ested in Internet security?
+Jonathan Mayer (JM): The
+first time I realized that it was go
+ing to be a potential career was
+[as an] undergrad when I took a
+class in information security... I
+
+liked that very slight bit of sub
+versiveness that the field has to it.
+It's an academic field that is in
+many ways quite applied, in many
+ways very much [about] interact
+ing with companies and govern
+ment ... I liked that a lot.
+TSD: What brought you to Stan
+ford, and why did you decide to
+focus on law and computer sci
+ence?
+JM: When I was looking at
+grad programs, I knew I wanted
+to do law and computer science...
+I wound up, in my visit, enjoying
+Stanford computer science the
+most and enjoying Stanford law
+the most, so that made it pretty
+easy. The hard part was the
+"choose-your-own-adventure"
+component of building this pro
+gram ... My understanding was
+that there was a little bit of ad
+ministrative scrambling before I
+showed up on campus, about,
+"Wait a minute, have we made a
+tragic mistake? This guy is sup
+posed to be at the Law School.
+This guy is supposed to be at the
+
+Computer Science Department.
+What do we do?" Stanford, very
+admirably, figured out what it
+needed to figure out and has been
+an awesome place ever since.
+TSD: You've been featured in
+the media for your discoveries
+about how companies track
+their users on the web what
+were your most well-known
+
+findings?
+JM: One was some research I
+did maybe a year and a half ago
+into Safari's cookie-blocking fea
+ture and some companies that are
+intentionally circumventing that
+feature, with varying rationales
+for doing it and varying conse
+quences. One of the companies
+
+
+Courtesy of Ellick Chan
+Graduate student Jonathan Mayer has attracted international attention
+for his work investigating online privacy breaches, including
+those committed by Google and both 2012 presidential campaigns.
+that was circumventing the feature
+was Google. That research con
+tributed to a federal regulatory ac
+tion, resulting in a billing fine of
+$22.5 million.
+The Firefox cookie-blocking
+feature I was working on certainly
+got quite a bit of media attention
+I think it's one of the most mean
+ingful things that I worked on. The
+feature initially was very quiet, and
+that was fine with me... It was only
+when it finally landed in a pre-re
+leased version of Firefox when the
+media attention picked up... There
+were some very entertaining reac
+tions from some folks. Someone
+called it [a] "nuclear first strike."
+I spent some amount of time
+collaborating with the California
+Department of Justice on an initia
+tive to facilitate putting privacy
+policies in mobile applications.
+
+That's an initiative that I think all
+of the major mobile app platforms
+have now signed on to. I think it
+was a really great success with reg
+ulatory agencies doing things on
+the cutting edge, where historically
+speaking, regulatory agencies have
+had a tough time... I don't think I
+would have had that opportunity
+had I not been at Stanford.
+TSD: How have you been work
+ing with Mozilla to integrate
+your technology into its new
+browser, and when did they be
+come interested in your technol
+ogy?
+JM: Security and privacy space
+is not that big. It's a little bit of an
+"everyone-knows-everyone" com
+munity after you have been around
+for a while... I and some others
+have, over the course of the past
+year, kicked around some ideas
+with Mozilla about some technical
+countermeasures that Mozilla Fire
+fox can include. One of those direc
+tions was revising the cookie policy.
+It's looking good, but we want to
+
+be sure, be rigorous ... as we add
+more things for example, what
+about sites that users only visit
+once and never come back to? The
+policy doesn't have any special pro
+visions for that. What about old
+cookies? So if you have an older
+version of Firefox and update to
+this policy and you have tracking
+history [from] before, what are we
+going to do about that? That's sort
+of a flavor of the sort of things that
+we're going to think through.
+TSD: What do you think is the
+most important thing that Inter
+net users should do to protect
+their privacy?
+JM: I wish there was an easy
+answer. That's one of the reasons
+why I think working on the Firefox
+cookie policy has been one of the
+most meaningful projects I have
+worked on —it puts privacy in
+hands of users. Firefox has some
+thing like 400 million-plus users. By
+default, those users are going to get
+this new privacy feature. There is
+an enormous body of research on
+how existing privacy tools and secu
+rity tools are really hard to use and
+consumers and enterprises really
+don't understand them. If you do
+understand them, they are really
+hard to get configured and kept up
+to date. That's one of the reasons I
+was working on this Firefox feature
+and working to make that exist.
+This interview has been con
+densed and edited.
+
+Contact Helin Gao at helingao@
+stanford.edu.
+Jonathan Mayer, a graduate
+student in law and computer sci
+ence, has attracted worldwide me
+dia attention for his investigations
+into online privacy policies. His
+discovery that the Romney and
+Obama presidential campaign
+websites were leaking visitor in
+formation to third-party trackers
+was featured in a New York Times
+article, and he has served as a
+consultant to law enforcement.
+The Daily sat down with Mayer to
+discuss his recent work, which in
+cludes a patch that will be imple
+mented in the latest Mozilla Fire
+fox web browser, and his ideas for
+improving Internet security.
+The Stanford Daily (TSD): How
+and when did you become inter
+ested in Internet security?
+Jonathan Mayer (JM): The
+first time I realized that it was go
+ing to be a potential career was
+[as an] undergrad when I took a
+class in information security... I
+
+liked that very slight bit of sub
+versiveness that the field has to it.
+It's an academic field that is in
+many ways quite applied, in many
+ways very much [about] interact
+ing with companies and govern
+ment ... I liked that a lot.
+TSD: What brought you to Stan
+ford, and why did you decide to
+focus on law and computer sci
+ence?
+JM: When I was looking at
+grad programs, I knew I wanted
+to do law and computer science...
+I wound up, in my visit, enjoying
+Stanford computer science the
+most and enjoying Stanford law
+the most, so that made it pretty
+easy. The hard part was the
+"choose-your-own-adventure"
+component of building this pro
+gram ... My understanding was
+that there was a little bit of ad
+ministrative scrambling before I
+showed up on campus, about,
+"Wait a minute, have we made a
+tragic mistake? This guy is sup
+posed to be at the Law School.
+This guy is supposed to be at the
+
+Computer Science Department.
+What do we do?" Stanford, very
+admirably, figured out what it
+needed to figure out and has been
+an awesome place ever since.
+TSD: You've been featured in
+the media for your discoveries
+about how companies track
+their users on the web what
+were your most well-known
+
+findings?
+JM: One was some research I
+did maybe a year and a half ago
+into Safari's cookie-blocking fea
+ture and some companies that are
+intentionally circumventing that
+feature, with varying rationales
+for doing it and varying conse
+quences. One of the companies
+
+
+Courtesy of Ellick Chan
+Graduate student Jonathan Mayer has attracted international attention
+for his work investigating online privacy breaches, including
+those committed by Google and both 2012 presidential campaigns.
+that was circumventing the feature
+was Google. That research con
+tributed to a federal regulatory ac
+tion, resulting in a billing fine of
+$22.5 million.
+The Firefox cookie-blocking
+feature I was working on certainly
+got quite a bit of media attention
+I think it's one of the most mean
+ingful things that I worked on. The
+feature initially was very quiet, and
+that was fine with me... It was only
+when it finally landed in a pre-re
+leased version of Firefox when the
+media attention picked up... There
+were some very entertaining reac
+tions from some folks. Someone
+called it [a] "nuclear first strike."
+I spent some amount of time
+collaborating with the California
+Department of Justice on an initia
+tive to facilitate putting privacy
+policies in mobile applications.
+
+That's an initiative that I think all
+of the major mobile app platforms
+have now signed on to. I think it
+was a really great success with reg
+ulatory agencies doing things on
+the cutting edge, where historically
+speaking, regulatory agencies have
+had a tough time... I don't think I
+would have had that opportunity
+had I not been at Stanford.
+TSD: How have you been work
+ing with Mozilla to integrate
+your technology into its new
+browser, and when did they be
+come interested in your technol
+ogy?
+JM: Security and privacy space
+is not that big. It's a little bit of an
+"everyone-knows-everyone" com
+munity after you have been around
+for a while... I and some others
+have, over the course of the past
+year, kicked around some ideas
+with Mozilla about some technical
+countermeasures that Mozilla Fire
+fox can include. One of those direc
+tions was revising the cookie policy.
+It's looking good, but we want to
+
+be sure, be rigorous ... as we add
+more things for example, what
+about sites that users only visit
+once and never come back to? The
+policy doesn't have any special pro
+visions for that. What about old
+cookies? So if you have an older
+version of Firefox and update to
+this policy and you have tracking
+history [from] before, what are we
+going to do about that? That's sort
+of a flavor of the sort of things that
+we're going to think through.
+TSD: What do you think is the
+most important thing that Inter
+net users should do to protect
+their privacy?
+JM: I wish there was an easy
+answer. That's one of the reasons
+why I think working on the Firefox
+cookie policy has been one of the
+most meaningful projects I have
+worked on —it puts privacy in
+hands of users. Firefox has some
+thing like 400 million-plus users. By
+default, those users are going to get
+this new privacy feature. There is
+an enormous body of research on
+how existing privacy tools and secu
+rity tools are really hard to use and
+consumers and enterprises really
+don't understand them. If you do
+understand them, they are really
+hard to get configured and kept up
+to date. That's one of the reasons I
+was working on this Firefox feature
+and working to make that exist.
+This interview has been con
+densed and edited.
+
+Contact Helin Gao at helingao@
+stanford.edu.
+Jonathan Mayer, a graduate
+student in law and computer sci
+ence, has attracted worldwide me
+dia attention for his investigations
+into online privacy policies. His
+discovery that the Romney and
+Obama presidential campaign
+websites were leaking visitor in
+formation to third-party trackers
+was featured in a New York Times
+article, and he has served as a
+consultant to law enforcement.
+The Daily sat down with Mayer to
+discuss his recent work, which in
+cludes a patch that will be imple
+mented in the latest Mozilla Fire
+fox web browser, and his ideas for
+improving Internet security.
+The Stanford Daily (TSD): How
+and when did you become inter
+ested in Internet security?
+Jonathan Mayer (JM): The
+first time I realized that it was go
+ing to be a potential career was
+[as an] undergrad when I took a
+class in information security... I
+
+liked that very slight bit of sub
+versiveness that the field has to it.
+It's an academic field that is in
+many ways quite applied, in many
+ways very much [about] interact
+ing with companies and govern
+ment ... I liked that a lot.
+TSD: What brought you to Stan
+ford, and why did you decide to
+focus on law and computer sci
+ence?
+JM: When I was looking at
+grad programs, I knew I wanted
+to do law and computer science...
+I wound up, in my visit, enjoying
+Stanford computer science the
+most and enjoying Stanford law
+the most, so that made it pretty
+easy. The hard part was the
+"choose-your-own-adventure"
+component of building this pro
+gram ... My understanding was
+that there was a little bit of ad
+ministrative scrambling before I
+showed up on campus, about,
+"Wait a minute, have we made a
+tragic mistake? This guy is sup
+posed to be at the Law School.
+This guy is supposed to be at the
+
+Computer Science Department.
+What do we do?" Stanford, very
+admirably, figured out what it
+needed to figure out and has been
+an awesome place ever since.
+TSD: You've been featured in
+the media for your discoveries
+about how companies track
+their users on the web what
+were your most well-known
+
+findings?
+JM: One was some research I
+did maybe a year and a half ago
+into Safari's cookie-blocking fea
+ture and some companies that are
+intentionally circumventing that
+feature, with varying rationales
+for doing it and varying conse
+quences. One of the companies
+
+
+Courtesy of Ellick Chan
+Graduate student Jonathan Mayer has attracted international attention
+for his work investigating online privacy breaches, including
+those committed by Google and both 2012 presidential campaigns.
+that was circumventing the feature
+was Google. That research con
+tributed to a federal regulatory ac
+tion, resulting in a billing fine of
+$22.5 million.
+The Firefox cookie-blocking
+feature I was working on certainly
+got quite a bit of media attention
+I think it's one of the most mean
+ingful things that I worked on. The
+feature initially was very quiet, and
+that was fine with me... It was only
+when it finally landed in a pre-re
+leased version of Firefox when the
+media attention picked up... There
+were some very entertaining reac
+tions from some folks. Someone
+called it [a] "nuclear first strike."
+I spent some amount of time
+collaborating with the California
+Department of Justice on an initia
+tive to facilitate putting privacy
+policies in mobile applications.
+
+That's an initiative that I think all
+of the major mobile app platforms
+have now signed on to. I think it
+was a really great success with reg
+ulatory agencies doing things on
+the cutting edge, where historically
+speaking, regulatory agencies have
+had a tough time... I don't think I
+would have had that opportunity
+had I not been at Stanford.
+TSD: How have you been work
+ing with Mozilla to integrate
+your technology into its new
+browser, and when did they be
+come interested in your technol
+ogy?
+JM: Security and privacy space
+is not that big. It's a little bit of an
+"everyone-knows-everyone" com
+munity after you have been around
+for a while... I and some others
+have, over the course of the past
+year, kicked around some ideas
+with Mozilla about some technical
+countermeasures that Mozilla Fire
+fox can include. One of those direc
+tions was revising the cookie policy.
+It's looking good, but we want to
+
+be sure, be rigorous ... as we add
+more things for example, what
+about sites that users only visit
+once and never come back to? The
+policy doesn't have any special pro
+visions for that. What about old
+cookies? So if you have an older
+version of Firefox and update to
+this policy and you have tracking
+history [from] before, what are we
+going to do about that? That's sort
+of a flavor of the sort of things that
+we're going to think through.
+TSD: What do you think is the
+most important thing that Inter
+net users should do to protect
+their privacy?
+JM: I wish there was an easy
+answer. That's one of the reasons
+why I think working on the Firefox
+cookie policy has been one of the
+most meaningful projects I have
+worked on —it puts privacy in
+hands of users. Firefox has some
+thing like 400 million-plus users. By
+default, those users are going to get
+this new privacy feature. There is
+an enormous body of research on
+how existing privacy tools and secu
+rity tools are really hard to use and
+consumers and enterprises really
+don't understand them. If you do
+understand them, they are really
+hard to get configured and kept up
+to date. That's one of the reasons I
+was working on this Firefox feature
+and working to make that exist.
+This interview has been con
+densed and edited.
+
+Contact Helin Gao at helingao@
+stanford.edu.
+Jonathan Mayer, a graduate
+student in law and computer sci
+ence, has attracted worldwide me
+dia attention for his investigations
+into online privacy policies. His
+discovery that the Romney and
+Obama presidential campaign
+websites were leaking visitor in
+formation to third-party trackers
+was featured in a New York Times
+article, and he has served as a
+consultant to law enforcement.
+The Daily sat down with Mayer to
+discuss his recent work, which in
+cludes a patch that will be imple
+mented in the latest Mozilla Fire
+fox web browser, and his ideas for
+improving Internet security.
+The Stanford Daily (TSD): How
+and when did you become inter
+ested in Internet security?
+Jonathan Mayer (JM): The
+first time I realized that it was go
+ing to be a potential career was
+[as an] undergrad when I took a
+class in information security... I
+
+liked that very slight bit of sub
+versiveness that the field has to it.
+It's an academic field that is in
+many ways quite applied, in many
+ways very much [about] interact
+ing with companies and govern
+ment ... I liked that a lot.
+TSD: What brought you to Stan
+ford, and why did you decide to
+focus on law and computer sci
+ence?
+JM: When I was looking at
+grad programs, I knew I wanted
+to do law and computer science...
+I wound up, in my visit, enjoying
+Stanford computer science the
+most and enjoying Stanford law
+the most, so that made it pretty
+easy. The hard part was the
+"choose-your-own-adventure"
+component of building this pro
+gram ... My understanding was
+that there was a little bit of ad
+ministrative scrambling before I
+showed up on campus, about,
+"Wait a minute, have we made a
+tragic mistake? This guy is sup
+posed to be at the Law School.
+This guy is supposed to be at the
+
+Computer Science Department.
+What do we do?" Stanford, very
+admirably, figured out what it
+needed to figure out and has been
+an awesome place ever since.
+TSD: You've been featured in
+the media for your discoveries
+about how companies track
+their users on the web what
+were your most well-known
+
+findings?
+JM: One was some research I
+did maybe a year and a half ago
+into Safari's cookie-blocking fea
+ture and some companies that are
+intentionally circumventing that
+feature, with varying rationales
+for doing it and varying conse
+quences. One of the companies
+
+
+Courtesy of Ellick Chan
+Graduate student Jonathan Mayer has attracted international attention
+for his work investigating online privacy breaches, including
+those committed by Google and both 2012 presidential campaigns.
+that was circumventing the feature
+was Google. That research con
+tributed to a federal regulatory ac
+tion, resulting in a billing fine of
+$22.5 million.
+The Firefox cookie-blocking
+feature I was working on certainly
+got quite a bit of media attention
+I think it's one of the most mean
+ingful things that I worked on. The
+feature initially was very quiet, and
+that was fine with me... It was only
+when it finally landed in a pre-re
+leased version of Firefox when the
+media attention picked up... There
+were some very entertaining reac
+tions from some folks. Someone
+called it [a] "nuclear first strike."
+I spent some amount of time
+collaborating with the California
+Department of Justice on an initia
+tive to facilitate putting privacy
+policies in mobile applications.
+
+That's an initiative that I think all
+of the major mobile app platforms
+have now signed on to. I think it
+was a really great success with reg
+ulatory agencies doing things on
+the cutting edge, where historically
+speaking, regulatory agencies have
+had a tough time... I don't think I
+would have had that opportunity
+had I not been at Stanford.
+TSD: How have you been work
+ing with Mozilla to integrate
+your technology into its new
+browser, and when did they be
+come interested in your technol
+ogy?
+JM: Security and privacy space
+is not that big. It's a little bit of an
+"everyone-knows-everyone" com
+munity after you have been around
+for a while... I and some others
+have, over the course of the past
+year, kicked around some ideas
+with Mozilla about some technical
+countermeasures that Mozilla Fire
+fox can include. One of those direc
+tions was revising the cookie policy.
+It's looking good, but we want to
+
+be sure, be rigorous ... as we add
+more things for example, what
+about sites that users only visit
+once and never come back to? The
+policy doesn't have any special pro
+visions for that. What about old
+cookies? So if you have an older
+version of Firefox and update to
+this policy and you have tracking
+history [from] before, what are we
+going to do about that? That's sort
+of a flavor of the sort of things that
+we're going to think through.
+TSD: What do you think is the
+most important thing that Inter
+net users should do to protect
+their privacy?
+JM: I wish there was an easy
+answer. That's one of the reasons
+why I think working on the Firefox
+cookie policy has been one of the
+most meaningful projects I have
+worked on —it puts privacy in
+hands of users. Firefox has some
+thing like 400 million-plus users. By
+default, those users are going to get
+this new privacy feature. There is
+an enormous body of research on
+how existing privacy tools and secu
+rity tools are really hard to use and
+consumers and enterprises really
+don't understand them. If you do
+understand them, they are really
+hard to get configured and kept up
+to date. That's one of the reasons I
+was working on this Firefox feature
+and working to make that exist.
+This interview has been con
+densed and edited.
+
+Contact Helin Gao at helingao@
+stanford.edu.
+Jonathan Mayer, a graduate
+student in law and computer sci
+ence, has attracted worldwide me
+dia attention for his investigations
+into online privacy policies. His
+discovery that the Romney and
+Obama presidential campaign
+websites were leaking visitor in
+formation to third-party trackers
+was featured in a New York Times
+article, and he has served as a
+consultant to law enforcement.
+The Daily sat down with Mayer to
+discuss his recent work, which in
+cludes a patch that will be imple
+mented in the latest Mozilla Fire
+fox web browser, and his ideas for
+improving Internet security.
+The Stanford Daily (TSD): How
+and when did you become inter
+ested in Internet security?
+Jonathan Mayer (JM): The
+first time I realized that it was go
+ing to be a potential career was
+[as an] undergrad when I took a
+class in information security... I
+
+liked that very slight bit of sub
+versiveness that the field has to it.
+It's an academic field that is in
+many ways quite applied, in many
+ways very much [about] interact
+ing with companies and govern
+ment ... I liked that a lot.
+TSD: What brought you to Stan
+ford, and why did you decide to
+focus on law and computer sci
+ence?
+JM: When I was looking at
+grad programs, I knew I wanted
+to do law and computer science...
+I wound up, in my visit, enjoying
+Stanford computer science the
+most and enjoying Stanford law
+the most, so that made it pretty
+easy. The hard part was the
+"choose-your-own-adventure"
+component of building this pro
+gram ... My understanding was
+that there was a little bit of ad
+ministrative scrambling before I
+showed up on campus, about,
+"Wait a minute, have we made a
+tragic mistake? This guy is sup
+posed to be at the Law School.
+This guy is supposed to be at the
+
+Computer Science Department.
+What do we do?" Stanford, very
+admirably, figured out what it
+needed to figure out and has been
+an awesome place ever since.
+TSD: You've been featured in
+the media for your discoveries
+about how companies track
+their users on the web what
+were your most well-known
+
+findings?
+JM: One was some research I
+did maybe a year and a half ago
+into Safari's cookie-blocking fea
+ture and some companies that are
+intentionally circumventing that
+feature, with varying rationales
+for doing it and varying conse
+quences. One of the companies
+
+
+Courtesy of Ellick Chan
+Graduate student Jonathan Mayer has attracted international attention
+for his work investigating online privacy breaches, including
+those committed by Google and both 2012 presidential campaigns.
+that was circumventing the feature
+was Google. That research con
+tributed to a federal regulatory ac
+tion, resulting in a billing fine of
+$22.5 million.
+The Firefox cookie-blocking
+feature I was working on certainly
+got quite a bit of media attention
+I think it's one of the most mean
+ingful things that I worked on. The
+feature initially was very quiet, and
+that was fine with me... It was only
+when it finally landed in a pre-re
+leased version of Firefox when the
+media attention picked up... There
+were some very entertaining reac
+tions from some folks. Someone
+called it [a] "nuclear first strike."
+I spent some amount of time
+collaborating with the California
+Department of Justice on an initia
+tive to facilitate putting privacy
+policies in mobile applications.
+
+That's an initiative that I think all
+of the major mobile app platforms
+have now signed on to. I think it
+was a really great success with reg
+ulatory agencies doing things on
+the cutting edge, where historically
+speaking, regulatory agencies have
+had a tough time... I don't think I
+would have had that opportunity
+had I not been at Stanford.
+TSD: How have you been work
+ing with Mozilla to integrate
+your technology into its new
+browser, and when did they be
+come interested in your technol
+ogy?
+JM: Security and privacy space
+is not that big. It's a little bit of an
+"everyone-knows-everyone" com
+munity after you have been around
+for a while... I and some others
+have, over the course of the past
+year, kicked around some ideas
+with Mozilla about some technical
+countermeasures that Mozilla Fire
+fox can include. One of those direc
+tions was revising the cookie policy.
+It's looking good, but we want to
+
+be sure, be rigorous ... as we add
+more things for example, what
+about sites that users only visit
+once and never come back to? The
+policy doesn't have any special pro
+visions for that. What about old
+cookies? So if you have an older
+version of Firefox and update to
+this policy and you have tracking
+history [from] before, what are we
+going to do about that? That's sort
+of a flavor of the sort of things that
+we're going to think through.
+TSD: What do you think is the
+most important thing that Inter
+net users should do to protect
+their privacy?
+JM: I wish there was an easy
+answer. That's one of the reasons
+why I think working on the Firefox
+cookie policy has been one of the
+most meaningful projects I have
+worked on —it puts privacy in
+hands of users. Firefox has some
+thing like 400 million-plus users. By
+default, those users are going to get
+this new privacy feature. There is
+an enormous body of research on
+how existing privacy tools and secu
+rity tools are really hard to use and
+consumers and enterprises really
+don't understand them. If you do
+understand them, they are really
+hard to get configured and kept up
+to date. That's one of the reasons I
+was working on this Firefox feature
+and working to make that exist.
+This interview has been con
+densed and edited.
+
+Contact Helin Gao at helingao@
+stanford.edu.
+Jonathan Mayer, a graduate
+student in law and computer sci
+ence, has attracted worldwide me
+dia attention for his investigations
+into online privacy policies. His
+discovery that the Romney and
+Obama presidential campaign
+websites were leaking visitor in
+formation to third-party trackers
+was featured in a New York Times
+article, and he has served as a
+consultant to law enforcement.
+The Daily sat down with Mayer to
+discuss his recent work, which in
+cludes a patch that will be imple
+mented in the latest Mozilla Fire
+fox web browser, and his ideas for
+improving Internet security.
+The Stanford Daily (TSD): How
+and when did you become inter
+ested in Internet security?
+Jonathan Mayer (JM): The
+first time I realized that it was go
+ing to be a potential career was
+[as an] undergrad when I took a
+class in information security... I
+
+liked that very slight bit of sub
+versiveness that the field has to it.
+It's an academic field that is in
+many ways quite applied, in many
+ways very much [about] interact
+ing with companies and govern
+ment ... I liked that a lot.
+TSD: What brought you to Stan
+ford, and why did you decide to
+focus on law and computer sci
+ence?
+JM: When I was looking at
+grad programs, I knew I wanted
+to do law and computer science...
+I wound up, in my visit, enjoying
+Stanford computer science the
+most and enjoying Stanford law
+the most, so that made it pretty
+easy. The hard part was the
+"choose-your-own-adventure"
+component of building this pro
+gram ... My understanding was
+that there was a little bit of ad
+ministrative scrambling before I
+showed up on campus, about,
+"Wait a minute, have we made a
+tragic mistake? This guy is sup
+posed to be at the Law School.
+This guy is supposed to be at the
+
+Computer Science Department.
+What do we do?" Stanford, very
+admirably, figured out what it
+needed to figure out and has been
+an awesome place ever since.
+TSD: You've been featured in
+the media for your discoveries
+about how companies track
+their users on the web what
+were your most well-known
+
+findings?
+JM: One was some research I
+did maybe a year and a half ago
+into Safari's cookie-blocking fea
+ture and some companies that are
+intentionally circumventing that
+feature, with varying rationales
+for doing it and varying conse
+quences. One of the companies
+
+
+Courtesy of Ellick Chan
+Graduate student Jonathan Mayer has attracted international attention
+for his work investigating online privacy breaches, including
+those committed by Google and both 2012 presidential campaigns.
+that was circumventing the feature
+was Google. That research con
+tributed to a federal regulatory ac
+tion, resulting in a billing fine of
+$22.5 million.
+The Firefox cookie-blocking
+feature I was working on certainly
+got quite a bit of media attention
+I think it's one of the most mean
+ingful things that I worked on. The
+feature initially was very quiet, and
+that was fine with me... It was only
+when it finally landed in a pre-re
+leased version of Firefox when the
+media attention picked up... There
+were some very entertaining reac
+tions from some folks. Someone
+called it [a] "nuclear first strike."
+I spent some amount of time
+collaborating with the California
+Department of Justice on an initia
+tive to facilitate putting privacy
+policies in mobile applications.
+
+That's an initiative that I think all
+of the major mobile app platforms
+have now signed on to. I think it
+was a really great success with reg
+ulatory agencies doing things on
+the cutting edge, where historically
+speaking, regulatory agencies have
+had a tough time... I don't think I
+would have had that opportunity
+had I not been at Stanford.
+TSD: How have you been work
+ing with Mozilla to integrate
+your technology into its new
+browser, and when did they be
+come interested in your technol
+ogy?
+JM: Security and privacy space
+is not that big. It's a little bit of an
+"everyone-knows-everyone" com
+munity after you have been around
+for a while... I and some others
+have, over the course of the past
+year, kicked around some ideas
+with Mozilla about some technical
+countermeasures that Mozilla Fire
+fox can include. One of those direc
+tions was revising the cookie policy.
+It's looking good, but we want to
+
+be sure, be rigorous ... as we add
+more things for example, what
+about sites that users only visit
+once and never come back to? The
+policy doesn't have any special pro
+visions for that. What about old
+cookies? So if you have an older
+version of Firefox and update to
+this policy and you have tracking
+history [from] before, what are we
+going to do about that? That's sort
+of a flavor of the sort of things that
+we're going to think through.
+TSD: What do you think is the
+most important thing that Inter
+net users should do to protect
+their privacy?
+JM: I wish there was an easy
+answer. That's one of the reasons
+why I think working on the Firefox
+cookie policy has been one of the
+most meaningful projects I have
+worked on —it puts privacy in
+hands of users. Firefox has some
+thing like 400 million-plus users. By
+default, those users are going to get
+this new privacy feature. There is
+an enormous body of research on
+how existing privacy tools and secu
+rity tools are really hard to use and
+consumers and enterprises really
+don't understand them. If you do
+understand them, they are really
+hard to get configured and kept up
+to date. That's one of the reasons I
+was working on this Firefox feature
+and working to make that exist.
+This interview has been con
+densed and edited.
+
+Contact Helin Gao at helingao@
+stanford.edu.

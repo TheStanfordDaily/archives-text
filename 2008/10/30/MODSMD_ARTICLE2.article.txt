@@ -1,0 +1,987 @@
+# New Macs updated
+## ResComp gives cluster computers dual-booting systems 
+### LIZ STARK CONTRIBUTING WRITER 
+Next week, Residential
+Computing (ResComp) will begin
+updating computers in the 78 resi
+dence clusters to boot to both Mac
+and Windows operating systems.
+This update comes six weeks behind
+schedule, according to Technology
+Operations Manager for Student
+Computing Surajit Bose.
+"We had hoped that by the time
+the school year began we would
+have a working dual boot system,"
+Bose said.
+A team of three ResComp
+employees — Bose, Dustin King
+and Karl Kuehn — began develop
+ing the dual-boot program in June
+with the purchase of new. brushed
+metal Apple iMacs.
+These new iMacs replaced older
+G5 Mac desktops predating Apple's
+migration to an Intel processor,
+which is required for a Mac to boot
+
+a Windows OS.
+"Up until this year, we would buy
+a mixture of Apple and Dell hard
+ware," Bose said. "We figured since
+we were doing [the dual boot], we
+would replace the Dells with Macs."
+ResComp replaces every com
+puter after three years, which is the
+length of the warrantee offered by
+manufacturers. This year, in order to
+create uniformity and to accommo
+date the migration to dual-booting.
+ResComp replaced the Dell com
+puters with new Macs in the clusters.
+Because certain computers were
+in use over the summer, new iMacs
+have yet to be set up in Green
+Library, the Lyman and Lantana
+clusters and the first floor of Meyer
+Library.
+"We're certainly shifting toward
+Apple hardware," Bose said,
+"because Macs can run both Mac
+and PC operating systems."
+Though he could not disclose the
+cost of the new iMacs because of the
+
+University's contract with Apple,
+Bose acknowledged that "it's more
+expensive to go with Apple hard
+ware."
+Though Apple computers come
+equipped with a program called
+Boot Camp that enables users to
+switch between Mac and Windows, it
+requires users to log in and adjust
+the system preferences to switch
+between operating systems.
+"We wanted students to be able
+to pick a button [for operating sys
+tem] without logging in." Bose said.
+"That's slightly more secure,
+because we don't typically give users
+the ability to change [the comput
+er's] settings using the control
+panel." Because Boot Camp did
+not meet ResComp's needs,
+ResComp instead had to design its
+own system that allows students to
+choose between Mac and Windows
+prior to logging in.
+
+
+AGUSTIN RAMIREZ/The Stanford Daily
+New iMac desktop computers run Windows for the first time after being fitted with a new dual-booting system that
+allows for switching between Windows and Mac systems. ResComp installed the system six weeks later than planned.
+"You have to go deep into the
+operating system to make those
+technical changes," Bose said. "That
+turned out to be more time-consum
+ing than anticipated."
+According to Bose, though the
+desired dual-boot login system was
+completed by September, ResComp
+also had to develop a new image for
+Apple's Leopard OS, which will
+replace the previous Tiger image for
+all the iMacs.
+"We're now putting the final
+touches on the Leopard image."
+
+Bose said. "That's actually the hold
+up right now."
+Because the Leopard image is
+still in development, all cluster
+iMacs are currently running on the
+new Windows image. Bose
+described this setup and the inabili
+ty of students to choose between
+Mac and Windows as "far from
+ideal."
+A pilot program for the dual
+boot system has been running on 24
+new iMacs in Meyer for the last two
+weeks as part of ResComp's final
+preparation for migrating cluster
+computers. These are the first com
+puters for student use that are dual
+boot capable.
+Bose noted that, since the setup
+of the program in Meyer. ResComp
+has reduced the login delay.
+The installation of the dual-boot
+program will be handled wirelessly.
+Bose reported that ResComp plans
+to run the 2.5-hour maintenance
+scripts on cluster computers around
+3 a.m., when computers are rarely in
+use.
+The delay of the dual-boot sys
+tem release seems to have had little
+impact on students.
+"Currently, we have both PCs
+and Macs, which hasn't been a prob
+lem," said BJ Beatty, residential
+
+computer consultant (RCC) for
+Lyman, which has yet to receive the
+new iMacs.
+"I think it's better that they get it
+right," noted Jenny Wolochow '10,
+RCC for Freshman-Sophomore
+College, which has new iMacs.
+"Only a couple of people who pre
+fer to use [a Mac OS] are disap
+pointed that they have to wait."
+Wolochow looks forward to the
+improvement she predicts the dual
+boot system will entail.
+"It's the right balance of giving
+students a choice between PC or
+Mac," she said, "but it makes our job
+easier in terms of maintaining the
+hardware."
+Statistics from the in-room net
+work registration connection system
+during New Student Orientation
+2008 suggest that, in general, incom
+ing freshmen prefer Apple.
+Of registered freshman comput
+ers, 57 percent are Macs and 43 per
+cent are PCs. Eighty-four percent of
+students use laptops. Of all regis
+tered student computers. 37 percent
+are Macs and 62 percent are PCs,
+and 77 percent of students use lap
+tops.
+
+Contact Liz Stark at estarkl2@stan
+ford.edu.
+Next week, Residential
+Computing (ResComp) will begin
+updating computers in the 78 resi
+dence clusters to boot to both Mac
+and Windows operating systems.
+This update comes six weeks behind
+schedule, according to Technology
+Operations Manager for Student
+Computing Surajit Bose.
+"We had hoped that by the time
+the school year began we would
+have a working dual boot system,"
+Bose said.
+A team of three ResComp
+employees — Bose, Dustin King
+and Karl Kuehn — began develop
+ing the dual-boot program in June
+with the purchase of new. brushed
+metal Apple iMacs.
+These new iMacs replaced older
+G5 Mac desktops predating Apple's
+migration to an Intel processor,
+which is required for a Mac to boot
+
+a Windows OS.
+"Up until this year, we would buy
+a mixture of Apple and Dell hard
+ware," Bose said. "We figured since
+we were doing [the dual boot], we
+would replace the Dells with Macs."
+ResComp replaces every com
+puter after three years, which is the
+length of the warrantee offered by
+manufacturers. This year, in order to
+create uniformity and to accommo
+date the migration to dual-booting.
+ResComp replaced the Dell com
+puters with new Macs in the clusters.
+Because certain computers were
+in use over the summer, new iMacs
+have yet to be set up in Green
+Library, the Lyman and Lantana
+clusters and the first floor of Meyer
+Library.
+"We're certainly shifting toward
+Apple hardware," Bose said,
+"because Macs can run both Mac
+and PC operating systems."
+Though he could not disclose the
+cost of the new iMacs because of the
+
+University's contract with Apple,
+Bose acknowledged that "it's more
+expensive to go with Apple hard
+ware."
+Though Apple computers come
+equipped with a program called
+Boot Camp that enables users to
+switch between Mac and Windows, it
+requires users to log in and adjust
+the system preferences to switch
+between operating systems.
+"We wanted students to be able
+to pick a button [for operating sys
+tem] without logging in." Bose said.
+"That's slightly more secure,
+because we don't typically give users
+the ability to change [the comput
+er's] settings using the control
+panel." Because Boot Camp did
+not meet ResComp's needs,
+ResComp instead had to design its
+own system that allows students to
+choose between Mac and Windows
+prior to logging in.
+
+
+AGUSTIN RAMIREZ/The Stanford Daily
+New iMac desktop computers run Windows for the first time after being fitted with a new dual-booting system that
+allows for switching between Windows and Mac systems. ResComp installed the system six weeks later than planned.
+"You have to go deep into the
+operating system to make those
+technical changes," Bose said. "That
+turned out to be more time-consum
+ing than anticipated."
+According to Bose, though the
+desired dual-boot login system was
+completed by September, ResComp
+also had to develop a new image for
+Apple's Leopard OS, which will
+replace the previous Tiger image for
+all the iMacs.
+"We're now putting the final
+touches on the Leopard image."
+
+Bose said. "That's actually the hold
+up right now."
+Because the Leopard image is
+still in development, all cluster
+iMacs are currently running on the
+new Windows image. Bose
+described this setup and the inabili
+ty of students to choose between
+Mac and Windows as "far from
+ideal."
+A pilot program for the dual
+boot system has been running on 24
+new iMacs in Meyer for the last two
+weeks as part of ResComp's final
+preparation for migrating cluster
+computers. These are the first com
+puters for student use that are dual
+boot capable.
+Bose noted that, since the setup
+of the program in Meyer. ResComp
+has reduced the login delay.
+The installation of the dual-boot
+program will be handled wirelessly.
+Bose reported that ResComp plans
+to run the 2.5-hour maintenance
+scripts on cluster computers around
+3 a.m., when computers are rarely in
+use.
+The delay of the dual-boot sys
+tem release seems to have had little
+impact on students.
+"Currently, we have both PCs
+and Macs, which hasn't been a prob
+lem," said BJ Beatty, residential
+
+computer consultant (RCC) for
+Lyman, which has yet to receive the
+new iMacs.
+"I think it's better that they get it
+right," noted Jenny Wolochow '10,
+RCC for Freshman-Sophomore
+College, which has new iMacs.
+"Only a couple of people who pre
+fer to use [a Mac OS] are disap
+pointed that they have to wait."
+Wolochow looks forward to the
+improvement she predicts the dual
+boot system will entail.
+"It's the right balance of giving
+students a choice between PC or
+Mac," she said, "but it makes our job
+easier in terms of maintaining the
+hardware."
+Statistics from the in-room net
+work registration connection system
+during New Student Orientation
+2008 suggest that, in general, incom
+ing freshmen prefer Apple.
+Of registered freshman comput
+ers, 57 percent are Macs and 43 per
+cent are PCs. Eighty-four percent of
+students use laptops. Of all regis
+tered student computers. 37 percent
+are Macs and 62 percent are PCs,
+and 77 percent of students use lap
+tops.
+
+Contact Liz Stark at estarkl2@stan
+ford.edu.
+Next week, Residential
+Computing (ResComp) will begin
+updating computers in the 78 resi
+dence clusters to boot to both Mac
+and Windows operating systems.
+This update comes six weeks behind
+schedule, according to Technology
+Operations Manager for Student
+Computing Surajit Bose.
+"We had hoped that by the time
+the school year began we would
+have a working dual boot system,"
+Bose said.
+A team of three ResComp
+employees — Bose, Dustin King
+and Karl Kuehn — began develop
+ing the dual-boot program in June
+with the purchase of new. brushed
+metal Apple iMacs.
+These new iMacs replaced older
+G5 Mac desktops predating Apple's
+migration to an Intel processor,
+which is required for a Mac to boot
+
+a Windows OS.
+"Up until this year, we would buy
+a mixture of Apple and Dell hard
+ware," Bose said. "We figured since
+we were doing [the dual boot], we
+would replace the Dells with Macs."
+ResComp replaces every com
+puter after three years, which is the
+length of the warrantee offered by
+manufacturers. This year, in order to
+create uniformity and to accommo
+date the migration to dual-booting.
+ResComp replaced the Dell com
+puters with new Macs in the clusters.
+Because certain computers were
+in use over the summer, new iMacs
+have yet to be set up in Green
+Library, the Lyman and Lantana
+clusters and the first floor of Meyer
+Library.
+"We're certainly shifting toward
+Apple hardware," Bose said,
+"because Macs can run both Mac
+and PC operating systems."
+Though he could not disclose the
+cost of the new iMacs because of the
+
+University's contract with Apple,
+Bose acknowledged that "it's more
+expensive to go with Apple hard
+ware."
+Though Apple computers come
+equipped with a program called
+Boot Camp that enables users to
+switch between Mac and Windows, it
+requires users to log in and adjust
+the system preferences to switch
+between operating systems.
+"We wanted students to be able
+to pick a button [for operating sys
+tem] without logging in." Bose said.
+"That's slightly more secure,
+because we don't typically give users
+the ability to change [the comput
+er's] settings using the control
+panel." Because Boot Camp did
+not meet ResComp's needs,
+ResComp instead had to design its
+own system that allows students to
+choose between Mac and Windows
+prior to logging in.
+
+
+AGUSTIN RAMIREZ/The Stanford Daily
+New iMac desktop computers run Windows for the first time after being fitted with a new dual-booting system that
+allows for switching between Windows and Mac systems. ResComp installed the system six weeks later than planned.
+"You have to go deep into the
+operating system to make those
+technical changes," Bose said. "That
+turned out to be more time-consum
+ing than anticipated."
+According to Bose, though the
+desired dual-boot login system was
+completed by September, ResComp
+also had to develop a new image for
+Apple's Leopard OS, which will
+replace the previous Tiger image for
+all the iMacs.
+"We're now putting the final
+touches on the Leopard image."
+
+Bose said. "That's actually the hold
+up right now."
+Because the Leopard image is
+still in development, all cluster
+iMacs are currently running on the
+new Windows image. Bose
+described this setup and the inabili
+ty of students to choose between
+Mac and Windows as "far from
+ideal."
+A pilot program for the dual
+boot system has been running on 24
+new iMacs in Meyer for the last two
+weeks as part of ResComp's final
+preparation for migrating cluster
+computers. These are the first com
+puters for student use that are dual
+boot capable.
+Bose noted that, since the setup
+of the program in Meyer. ResComp
+has reduced the login delay.
+The installation of the dual-boot
+program will be handled wirelessly.
+Bose reported that ResComp plans
+to run the 2.5-hour maintenance
+scripts on cluster computers around
+3 a.m., when computers are rarely in
+use.
+The delay of the dual-boot sys
+tem release seems to have had little
+impact on students.
+"Currently, we have both PCs
+and Macs, which hasn't been a prob
+lem," said BJ Beatty, residential
+
+computer consultant (RCC) for
+Lyman, which has yet to receive the
+new iMacs.
+"I think it's better that they get it
+right," noted Jenny Wolochow '10,
+RCC for Freshman-Sophomore
+College, which has new iMacs.
+"Only a couple of people who pre
+fer to use [a Mac OS] are disap
+pointed that they have to wait."
+Wolochow looks forward to the
+improvement she predicts the dual
+boot system will entail.
+"It's the right balance of giving
+students a choice between PC or
+Mac," she said, "but it makes our job
+easier in terms of maintaining the
+hardware."
+Statistics from the in-room net
+work registration connection system
+during New Student Orientation
+2008 suggest that, in general, incom
+ing freshmen prefer Apple.
+Of registered freshman comput
+ers, 57 percent are Macs and 43 per
+cent are PCs. Eighty-four percent of
+students use laptops. Of all regis
+tered student computers. 37 percent
+are Macs and 62 percent are PCs,
+and 77 percent of students use lap
+tops.
+
+Contact Liz Stark at estarkl2@stan
+ford.edu.
+Next week, Residential
+Computing (ResComp) will begin
+updating computers in the 78 resi
+dence clusters to boot to both Mac
+and Windows operating systems.
+This update comes six weeks behind
+schedule, according to Technology
+Operations Manager for Student
+Computing Surajit Bose.
+"We had hoped that by the time
+the school year began we would
+have a working dual boot system,"
+Bose said.
+A team of three ResComp
+employees — Bose, Dustin King
+and Karl Kuehn — began develop
+ing the dual-boot program in June
+with the purchase of new. brushed
+metal Apple iMacs.
+These new iMacs replaced older
+G5 Mac desktops predating Apple's
+migration to an Intel processor,
+which is required for a Mac to boot
+
+a Windows OS.
+"Up until this year, we would buy
+a mixture of Apple and Dell hard
+ware," Bose said. "We figured since
+we were doing [the dual boot], we
+would replace the Dells with Macs."
+ResComp replaces every com
+puter after three years, which is the
+length of the warrantee offered by
+manufacturers. This year, in order to
+create uniformity and to accommo
+date the migration to dual-booting.
+ResComp replaced the Dell com
+puters with new Macs in the clusters.
+Because certain computers were
+in use over the summer, new iMacs
+have yet to be set up in Green
+Library, the Lyman and Lantana
+clusters and the first floor of Meyer
+Library.
+"We're certainly shifting toward
+Apple hardware," Bose said,
+"because Macs can run both Mac
+and PC operating systems."
+Though he could not disclose the
+cost of the new iMacs because of the
+
+University's contract with Apple,
+Bose acknowledged that "it's more
+expensive to go with Apple hard
+ware."
+Though Apple computers come
+equipped with a program called
+Boot Camp that enables users to
+switch between Mac and Windows, it
+requires users to log in and adjust
+the system preferences to switch
+between operating systems.
+"We wanted students to be able
+to pick a button [for operating sys
+tem] without logging in." Bose said.
+"That's slightly more secure,
+because we don't typically give users
+the ability to change [the comput
+er's] settings using the control
+panel." Because Boot Camp did
+not meet ResComp's needs,
+ResComp instead had to design its
+own system that allows students to
+choose between Mac and Windows
+prior to logging in.
+
+
+AGUSTIN RAMIREZ/The Stanford Daily
+New iMac desktop computers run Windows for the first time after being fitted with a new dual-booting system that
+allows for switching between Windows and Mac systems. ResComp installed the system six weeks later than planned.
+"You have to go deep into the
+operating system to make those
+technical changes," Bose said. "That
+turned out to be more time-consum
+ing than anticipated."
+According to Bose, though the
+desired dual-boot login system was
+completed by September, ResComp
+also had to develop a new image for
+Apple's Leopard OS, which will
+replace the previous Tiger image for
+all the iMacs.
+"We're now putting the final
+touches on the Leopard image."
+
+Bose said. "That's actually the hold
+up right now."
+Because the Leopard image is
+still in development, all cluster
+iMacs are currently running on the
+new Windows image. Bose
+described this setup and the inabili
+ty of students to choose between
+Mac and Windows as "far from
+ideal."
+A pilot program for the dual
+boot system has been running on 24
+new iMacs in Meyer for the last two
+weeks as part of ResComp's final
+preparation for migrating cluster
+computers. These are the first com
+puters for student use that are dual
+boot capable.
+Bose noted that, since the setup
+of the program in Meyer. ResComp
+has reduced the login delay.
+The installation of the dual-boot
+program will be handled wirelessly.
+Bose reported that ResComp plans
+to run the 2.5-hour maintenance
+scripts on cluster computers around
+3 a.m., when computers are rarely in
+use.
+The delay of the dual-boot sys
+tem release seems to have had little
+impact on students.
+"Currently, we have both PCs
+and Macs, which hasn't been a prob
+lem," said BJ Beatty, residential
+
+computer consultant (RCC) for
+Lyman, which has yet to receive the
+new iMacs.
+"I think it's better that they get it
+right," noted Jenny Wolochow '10,
+RCC for Freshman-Sophomore
+College, which has new iMacs.
+"Only a couple of people who pre
+fer to use [a Mac OS] are disap
+pointed that they have to wait."
+Wolochow looks forward to the
+improvement she predicts the dual
+boot system will entail.
+"It's the right balance of giving
+students a choice between PC or
+Mac," she said, "but it makes our job
+easier in terms of maintaining the
+hardware."
+Statistics from the in-room net
+work registration connection system
+during New Student Orientation
+2008 suggest that, in general, incom
+ing freshmen prefer Apple.
+Of registered freshman comput
+ers, 57 percent are Macs and 43 per
+cent are PCs. Eighty-four percent of
+students use laptops. Of all regis
+tered student computers. 37 percent
+are Macs and 62 percent are PCs,
+and 77 percent of students use lap
+tops.
+
+Contact Liz Stark at estarkl2@stan
+ford.edu.
+Next week, Residential
+Computing (ResComp) will begin
+updating computers in the 78 resi
+dence clusters to boot to both Mac
+and Windows operating systems.
+This update comes six weeks behind
+schedule, according to Technology
+Operations Manager for Student
+Computing Surajit Bose.
+"We had hoped that by the time
+the school year began we would
+have a working dual boot system,"
+Bose said.
+A team of three ResComp
+employees — Bose, Dustin King
+and Karl Kuehn — began develop
+ing the dual-boot program in June
+with the purchase of new. brushed
+metal Apple iMacs.
+These new iMacs replaced older
+G5 Mac desktops predating Apple's
+migration to an Intel processor,
+which is required for a Mac to boot
+
+a Windows OS.
+"Up until this year, we would buy
+a mixture of Apple and Dell hard
+ware," Bose said. "We figured since
+we were doing [the dual boot], we
+would replace the Dells with Macs."
+ResComp replaces every com
+puter after three years, which is the
+length of the warrantee offered by
+manufacturers. This year, in order to
+create uniformity and to accommo
+date the migration to dual-booting.
+ResComp replaced the Dell com
+puters with new Macs in the clusters.
+Because certain computers were
+in use over the summer, new iMacs
+have yet to be set up in Green
+Library, the Lyman and Lantana
+clusters and the first floor of Meyer
+Library.
+"We're certainly shifting toward
+Apple hardware," Bose said,
+"because Macs can run both Mac
+and PC operating systems."
+Though he could not disclose the
+cost of the new iMacs because of the
+
+University's contract with Apple,
+Bose acknowledged that "it's more
+expensive to go with Apple hard
+ware."
+Though Apple computers come
+equipped with a program called
+Boot Camp that enables users to
+switch between Mac and Windows, it
+requires users to log in and adjust
+the system preferences to switch
+between operating systems.
+"We wanted students to be able
+to pick a button [for operating sys
+tem] without logging in." Bose said.
+"That's slightly more secure,
+because we don't typically give users
+the ability to change [the comput
+er's] settings using the control
+panel." Because Boot Camp did
+not meet ResComp's needs,
+ResComp instead had to design its
+own system that allows students to
+choose between Mac and Windows
+prior to logging in.
+
+
+AGUSTIN RAMIREZ/The Stanford Daily
+New iMac desktop computers run Windows for the first time after being fitted with a new dual-booting system that
+allows for switching between Windows and Mac systems. ResComp installed the system six weeks later than planned.
+"You have to go deep into the
+operating system to make those
+technical changes," Bose said. "That
+turned out to be more time-consum
+ing than anticipated."
+According to Bose, though the
+desired dual-boot login system was
+completed by September, ResComp
+also had to develop a new image for
+Apple's Leopard OS, which will
+replace the previous Tiger image for
+all the iMacs.
+"We're now putting the final
+touches on the Leopard image."
+
+Bose said. "That's actually the hold
+up right now."
+Because the Leopard image is
+still in development, all cluster
+iMacs are currently running on the
+new Windows image. Bose
+described this setup and the inabili
+ty of students to choose between
+Mac and Windows as "far from
+ideal."
+A pilot program for the dual
+boot system has been running on 24
+new iMacs in Meyer for the last two
+weeks as part of ResComp's final
+preparation for migrating cluster
+computers. These are the first com
+puters for student use that are dual
+boot capable.
+Bose noted that, since the setup
+of the program in Meyer. ResComp
+has reduced the login delay.
+The installation of the dual-boot
+program will be handled wirelessly.
+Bose reported that ResComp plans
+to run the 2.5-hour maintenance
+scripts on cluster computers around
+3 a.m., when computers are rarely in
+use.
+The delay of the dual-boot sys
+tem release seems to have had little
+impact on students.
+"Currently, we have both PCs
+and Macs, which hasn't been a prob
+lem," said BJ Beatty, residential
+
+computer consultant (RCC) for
+Lyman, which has yet to receive the
+new iMacs.
+"I think it's better that they get it
+right," noted Jenny Wolochow '10,
+RCC for Freshman-Sophomore
+College, which has new iMacs.
+"Only a couple of people who pre
+fer to use [a Mac OS] are disap
+pointed that they have to wait."
+Wolochow looks forward to the
+improvement she predicts the dual
+boot system will entail.
+"It's the right balance of giving
+students a choice between PC or
+Mac," she said, "but it makes our job
+easier in terms of maintaining the
+hardware."
+Statistics from the in-room net
+work registration connection system
+during New Student Orientation
+2008 suggest that, in general, incom
+ing freshmen prefer Apple.
+Of registered freshman comput
+ers, 57 percent are Macs and 43 per
+cent are PCs. Eighty-four percent of
+students use laptops. Of all regis
+tered student computers. 37 percent
+are Macs and 62 percent are PCs,
+and 77 percent of students use lap
+tops.
+
+Contact Liz Stark at estarkl2@stan
+ford.edu.
+Next week, Residential
+Computing (ResComp) will begin
+updating computers in the 78 resi
+dence clusters to boot to both Mac
+and Windows operating systems.
+This update comes six weeks behind
+schedule, according to Technology
+Operations Manager for Student
+Computing Surajit Bose.
+"We had hoped that by the time
+the school year began we would
+have a working dual boot system,"
+Bose said.
+A team of three ResComp
+employees — Bose, Dustin King
+and Karl Kuehn — began develop
+ing the dual-boot program in June
+with the purchase of new. brushed
+metal Apple iMacs.
+These new iMacs replaced older
+G5 Mac desktops predating Apple's
+migration to an Intel processor,
+which is required for a Mac to boot
+
+a Windows OS.
+"Up until this year, we would buy
+a mixture of Apple and Dell hard
+ware," Bose said. "We figured since
+we were doing [the dual boot], we
+would replace the Dells with Macs."
+ResComp replaces every com
+puter after three years, which is the
+length of the warrantee offered by
+manufacturers. This year, in order to
+create uniformity and to accommo
+date the migration to dual-booting.
+ResComp replaced the Dell com
+puters with new Macs in the clusters.
+Because certain computers were
+in use over the summer, new iMacs
+have yet to be set up in Green
+Library, the Lyman and Lantana
+clusters and the first floor of Meyer
+Library.
+"We're certainly shifting toward
+Apple hardware," Bose said,
+"because Macs can run both Mac
+and PC operating systems."
+Though he could not disclose the
+cost of the new iMacs because of the
+
+University's contract with Apple,
+Bose acknowledged that "it's more
+expensive to go with Apple hard
+ware."
+Though Apple computers come
+equipped with a program called
+Boot Camp that enables users to
+switch between Mac and Windows, it
+requires users to log in and adjust
+the system preferences to switch
+between operating systems.
+"We wanted students to be able
+to pick a button [for operating sys
+tem] without logging in." Bose said.
+"That's slightly more secure,
+because we don't typically give users
+the ability to change [the comput
+er's] settings using the control
+panel." Because Boot Camp did
+not meet ResComp's needs,
+ResComp instead had to design its
+own system that allows students to
+choose between Mac and Windows
+prior to logging in.
+
+
+AGUSTIN RAMIREZ/The Stanford Daily
+New iMac desktop computers run Windows for the first time after being fitted with a new dual-booting system that
+allows for switching between Windows and Mac systems. ResComp installed the system six weeks later than planned.
+"You have to go deep into the
+operating system to make those
+technical changes," Bose said. "That
+turned out to be more time-consum
+ing than anticipated."
+According to Bose, though the
+desired dual-boot login system was
+completed by September, ResComp
+also had to develop a new image for
+Apple's Leopard OS, which will
+replace the previous Tiger image for
+all the iMacs.
+"We're now putting the final
+touches on the Leopard image."
+
+Bose said. "That's actually the hold
+up right now."
+Because the Leopard image is
+still in development, all cluster
+iMacs are currently running on the
+new Windows image. Bose
+described this setup and the inabili
+ty of students to choose between
+Mac and Windows as "far from
+ideal."
+A pilot program for the dual
+boot system has been running on 24
+new iMacs in Meyer for the last two
+weeks as part of ResComp's final
+preparation for migrating cluster
+computers. These are the first com
+puters for student use that are dual
+boot capable.
+Bose noted that, since the setup
+of the program in Meyer. ResComp
+has reduced the login delay.
+The installation of the dual-boot
+program will be handled wirelessly.
+Bose reported that ResComp plans
+to run the 2.5-hour maintenance
+scripts on cluster computers around
+3 a.m., when computers are rarely in
+use.
+The delay of the dual-boot sys
+tem release seems to have had little
+impact on students.
+"Currently, we have both PCs
+and Macs, which hasn't been a prob
+lem," said BJ Beatty, residential
+
+computer consultant (RCC) for
+Lyman, which has yet to receive the
+new iMacs.
+"I think it's better that they get it
+right," noted Jenny Wolochow '10,
+RCC for Freshman-Sophomore
+College, which has new iMacs.
+"Only a couple of people who pre
+fer to use [a Mac OS] are disap
+pointed that they have to wait."
+Wolochow looks forward to the
+improvement she predicts the dual
+boot system will entail.
+"It's the right balance of giving
+students a choice between PC or
+Mac," she said, "but it makes our job
+easier in terms of maintaining the
+hardware."
+Statistics from the in-room net
+work registration connection system
+during New Student Orientation
+2008 suggest that, in general, incom
+ing freshmen prefer Apple.
+Of registered freshman comput
+ers, 57 percent are Macs and 43 per
+cent are PCs. Eighty-four percent of
+students use laptops. Of all regis
+tered student computers. 37 percent
+are Macs and 62 percent are PCs,
+and 77 percent of students use lap
+tops.
+
+Contact Liz Stark at estarkl2@stan
+ford.edu.

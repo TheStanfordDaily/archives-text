@@ -1,0 +1,933 @@
+# RESEARCH
+## Fall in deaths may relate to CPOE system 
+### TINA ZHENG CONTRIBUTING WRITER 
+A new study conducted by Lucile Packard
+Children's Hospital and the Stanford School of
+Medicine has demonstrated that hospital-wide
+mortality rates fall substantially with the introduc
+tion of a computerized physician order entry sys
+tem (CPOE). Published in this month's issue of
+"Pediatrics," the study is the first to establish this
+correlation.
+
+CPOE allows physicians to order tests and pre
+scribe treatments and medications electronically,
+making their patients' information readily accessi
+ble to authorized hospital staff as part of a broad
+er electronic medical records (EMR) system.
+CPOE was implemented in 2007 at Lucile
+Packard Children's Hospital. Researchers com
+pared mortality from 2001 to 2007 and then to
+2009 in a perspective control study that analyzed
+historical data and isolated variables using an "au
+toregressive integrated moving average model,"
+said Jin Hahn, the co-author of the study. Hahn, a
+professor of pediatric neurology, served as co-di
+rector of the LPCH clinical transformation pro
+gram from 2004 to 2008, when CPOE implemen
+tation took place.
+Lead author Christopher Longhurst, an assis
+tant clinical professor of pediatrics, and his col
+leagues concluded there was a 20-percent reduc
+tion in mortality rates, after controlling for the
+rapid response team, seasonal variability and
+other factors. Data analysis indicated two statical
+ly significant decreases in mortality: one decline
+after implementation of rapid response teams in
+2005 and a second following the introduction of
+CPOE in 2007.
+Prior to the implementation of CPOE, order
+ing medication electronically was somewhat prob
+lematic, Now, the CPOE systems integrated at Lu
+cile Packard include windows with real-time sug
+gestions and notifications of possible calculation
+errors on-screen.
+"We were able to cut the time between critical
+medication order and time of administration
+something we speculate was a huge cause in mor
+tality," Longhurst said.
+Despite the promising results of the study, re
+searchers hesitate to define a causal relationship.
+"I think it's important to emphasize correla
+tion," Longhurst said. "With this sort of data, we
+can't guarantee any factor led to the results. On the
+other hand, we saw a meaningful decrease even
+after controlling for variables."
+Previous studies have shown neu
+tral or negative effects in pediatric
+hospitals following implementation
+of CPOE, Hahn said. Longhurst's
+study is the first to show a statistically
+significant evidence of a decrease in
+mortality.
+"A 2005 Pittsburgh study on the
+effect [of a CPOE system] at a chil
+dren's hospital showed a slight bump
+up in mortality," Longhurst said. "This
+was obviously very troubling. A fol
+low-up study in Seattle showed no
+change, showing systems could at
+least be put in safely without hurting
+children."
+
+Longhurst found the trend toward
+more widespread implementation of
+CPOE systems, in conjunction with
+electronic medical records, to be
+promising. He cited the 2009 Health
+Information Technology for Eco
+nomic and Clinical Health
+(HITECH) Act signed into law by
+President Obama as a manifestation
+of this trend. The HITECH Act allot
+ted $19.2 billion to increase the use of
+electronic medical records by physi
+cians and hospitals.
+"Currently, I would estimate only
+10 to 15 percent of hospitals are using
+computerized physician orders while
+50 percent of children's hospitals
+are," Longhurst said. "These numbers
+will rise."
+
+Still, transitioning to the new com
+puterized system may be difficult for
+older physicians who are accustomed
+to paper environments.
+
+"For most physicians, CPOE has
+been the single biggest change,"
+Longhurst said. "Good adoption of
+the system is very challenging. We
+never said it would be easier or faster,
+but it would be safer for patients."
+Hahn agreed that the steep learn
+ing curve may be problematic at first
+
+and believes that the current software
+interface has much room for im
+provement.
+
+"Many other hospitals are imple
+menting CPOE and EMR and it is
+only a question of time when these
+will be the standards of care in hospi
+tals in the U. 5.," Hahn said.
+Despite its growing recognition,
+the study has not convinced all re
+searchers. A three-year study con
+ducted at Seattle's Children Hospital
+found no significant change in mor
+tality after CPOE was implemented
+
+in 2003.
+"The study was not a controlled
+experiment that you might do in a
+lab," wrote Mark Del Beccaro, chief
+medical information officer at Seat
+tle's Children Hospital, in an e-mail
+to The Daily. "In the laboratory set
+ting, the investigator sets up the ex
+periment and usually manipulates
+one variable at a time and measures
+the effect. In a complex hospital set
+ting this isn't possible with EMRs."
+"A group of children's hospitals is
+considering looking at pooled data
+
+from those that have and have not im
+plemented an EMR with CPOE and
+seeing if the Packard data is more
+generalizable to other institutions,"
+Del Beccaro added.
+
+Looking toward the future,
+Longhurst said he plans to carry out a
+follow-up study that investigates
+which specific aspects of implemen
+tation lead to the lower mortality
+rates.
+
+Contact Tina Zheng at zhengt@stan
+ford.edu.
+
+
+Stanford Daily File Photo
+A recent study by Lucile Packard Children's Hospital and the Stanford School of Medicine has shown that mortality rates
+decline following the implementation of a computerized physician order entry (CPOE) system. The study provides
+evidence of a correlation between these two variables, though causation has not been established.
+A new study conducted by Lucile Packard
+Children's Hospital and the Stanford School of
+Medicine has demonstrated that hospital-wide
+mortality rates fall substantially with the introduc
+tion of a computerized physician order entry sys
+tem (CPOE). Published in this month's issue of
+"Pediatrics," the study is the first to establish this
+correlation.
+
+CPOE allows physicians to order tests and pre
+scribe treatments and medications electronically,
+making their patients' information readily accessi
+ble to authorized hospital staff as part of a broad
+er electronic medical records (EMR) system.
+CPOE was implemented in 2007 at Lucile
+Packard Children's Hospital. Researchers com
+pared mortality from 2001 to 2007 and then to
+2009 in a perspective control study that analyzed
+historical data and isolated variables using an "au
+toregressive integrated moving average model,"
+said Jin Hahn, the co-author of the study. Hahn, a
+professor of pediatric neurology, served as co-di
+rector of the LPCH clinical transformation pro
+gram from 2004 to 2008, when CPOE implemen
+tation took place.
+Lead author Christopher Longhurst, an assis
+tant clinical professor of pediatrics, and his col
+leagues concluded there was a 20-percent reduc
+tion in mortality rates, after controlling for the
+rapid response team, seasonal variability and
+other factors. Data analysis indicated two statical
+ly significant decreases in mortality: one decline
+after implementation of rapid response teams in
+2005 and a second following the introduction of
+CPOE in 2007.
+Prior to the implementation of CPOE, order
+ing medication electronically was somewhat prob
+lematic, Now, the CPOE systems integrated at Lu
+cile Packard include windows with real-time sug
+gestions and notifications of possible calculation
+errors on-screen.
+"We were able to cut the time between critical
+medication order and time of administration
+something we speculate was a huge cause in mor
+tality," Longhurst said.
+Despite the promising results of the study, re
+searchers hesitate to define a causal relationship.
+"I think it's important to emphasize correla
+tion," Longhurst said. "With this sort of data, we
+can't guarantee any factor led to the results. On the
+other hand, we saw a meaningful decrease even
+after controlling for variables."
+Previous studies have shown neu
+tral or negative effects in pediatric
+hospitals following implementation
+of CPOE, Hahn said. Longhurst's
+study is the first to show a statistically
+significant evidence of a decrease in
+mortality.
+"A 2005 Pittsburgh study on the
+effect [of a CPOE system] at a chil
+dren's hospital showed a slight bump
+up in mortality," Longhurst said. "This
+was obviously very troubling. A fol
+low-up study in Seattle showed no
+change, showing systems could at
+least be put in safely without hurting
+children."
+
+Longhurst found the trend toward
+more widespread implementation of
+CPOE systems, in conjunction with
+electronic medical records, to be
+promising. He cited the 2009 Health
+Information Technology for Eco
+nomic and Clinical Health
+(HITECH) Act signed into law by
+President Obama as a manifestation
+of this trend. The HITECH Act allot
+ted $19.2 billion to increase the use of
+electronic medical records by physi
+cians and hospitals.
+"Currently, I would estimate only
+10 to 15 percent of hospitals are using
+computerized physician orders while
+50 percent of children's hospitals
+are," Longhurst said. "These numbers
+will rise."
+
+Still, transitioning to the new com
+puterized system may be difficult for
+older physicians who are accustomed
+to paper environments.
+
+"For most physicians, CPOE has
+been the single biggest change,"
+Longhurst said. "Good adoption of
+the system is very challenging. We
+never said it would be easier or faster,
+but it would be safer for patients."
+Hahn agreed that the steep learn
+ing curve may be problematic at first
+
+and believes that the current software
+interface has much room for im
+provement.
+
+"Many other hospitals are imple
+menting CPOE and EMR and it is
+only a question of time when these
+will be the standards of care in hospi
+tals in the U. 5.," Hahn said.
+Despite its growing recognition,
+the study has not convinced all re
+searchers. A three-year study con
+ducted at Seattle's Children Hospital
+found no significant change in mor
+tality after CPOE was implemented
+
+in 2003.
+"The study was not a controlled
+experiment that you might do in a
+lab," wrote Mark Del Beccaro, chief
+medical information officer at Seat
+tle's Children Hospital, in an e-mail
+to The Daily. "In the laboratory set
+ting, the investigator sets up the ex
+periment and usually manipulates
+one variable at a time and measures
+the effect. In a complex hospital set
+ting this isn't possible with EMRs."
+"A group of children's hospitals is
+considering looking at pooled data
+
+from those that have and have not im
+plemented an EMR with CPOE and
+seeing if the Packard data is more
+generalizable to other institutions,"
+Del Beccaro added.
+
+Looking toward the future,
+Longhurst said he plans to carry out a
+follow-up study that investigates
+which specific aspects of implemen
+tation lead to the lower mortality
+rates.
+
+Contact Tina Zheng at zhengt@stan
+ford.edu.
+
+
+Stanford Daily File Photo
+A recent study by Lucile Packard Children's Hospital and the Stanford School of Medicine has shown that mortality rates
+decline following the implementation of a computerized physician order entry (CPOE) system. The study provides
+evidence of a correlation between these two variables, though causation has not been established.
+A new study conducted by Lucile Packard
+Children's Hospital and the Stanford School of
+Medicine has demonstrated that hospital-wide
+mortality rates fall substantially with the introduc
+tion of a computerized physician order entry sys
+tem (CPOE). Published in this month's issue of
+"Pediatrics," the study is the first to establish this
+correlation.
+
+CPOE allows physicians to order tests and pre
+scribe treatments and medications electronically,
+making their patients' information readily accessi
+ble to authorized hospital staff as part of a broad
+er electronic medical records (EMR) system.
+CPOE was implemented in 2007 at Lucile
+Packard Children's Hospital. Researchers com
+pared mortality from 2001 to 2007 and then to
+2009 in a perspective control study that analyzed
+historical data and isolated variables using an "au
+toregressive integrated moving average model,"
+said Jin Hahn, the co-author of the study. Hahn, a
+professor of pediatric neurology, served as co-di
+rector of the LPCH clinical transformation pro
+gram from 2004 to 2008, when CPOE implemen
+tation took place.
+Lead author Christopher Longhurst, an assis
+tant clinical professor of pediatrics, and his col
+leagues concluded there was a 20-percent reduc
+tion in mortality rates, after controlling for the
+rapid response team, seasonal variability and
+other factors. Data analysis indicated two statical
+ly significant decreases in mortality: one decline
+after implementation of rapid response teams in
+2005 and a second following the introduction of
+CPOE in 2007.
+Prior to the implementation of CPOE, order
+ing medication electronically was somewhat prob
+lematic, Now, the CPOE systems integrated at Lu
+cile Packard include windows with real-time sug
+gestions and notifications of possible calculation
+errors on-screen.
+"We were able to cut the time between critical
+medication order and time of administration
+something we speculate was a huge cause in mor
+tality," Longhurst said.
+Despite the promising results of the study, re
+searchers hesitate to define a causal relationship.
+"I think it's important to emphasize correla
+tion," Longhurst said. "With this sort of data, we
+can't guarantee any factor led to the results. On the
+other hand, we saw a meaningful decrease even
+after controlling for variables."
+Previous studies have shown neu
+tral or negative effects in pediatric
+hospitals following implementation
+of CPOE, Hahn said. Longhurst's
+study is the first to show a statistically
+significant evidence of a decrease in
+mortality.
+"A 2005 Pittsburgh study on the
+effect [of a CPOE system] at a chil
+dren's hospital showed a slight bump
+up in mortality," Longhurst said. "This
+was obviously very troubling. A fol
+low-up study in Seattle showed no
+change, showing systems could at
+least be put in safely without hurting
+children."
+
+Longhurst found the trend toward
+more widespread implementation of
+CPOE systems, in conjunction with
+electronic medical records, to be
+promising. He cited the 2009 Health
+Information Technology for Eco
+nomic and Clinical Health
+(HITECH) Act signed into law by
+President Obama as a manifestation
+of this trend. The HITECH Act allot
+ted $19.2 billion to increase the use of
+electronic medical records by physi
+cians and hospitals.
+"Currently, I would estimate only
+10 to 15 percent of hospitals are using
+computerized physician orders while
+50 percent of children's hospitals
+are," Longhurst said. "These numbers
+will rise."
+
+Still, transitioning to the new com
+puterized system may be difficult for
+older physicians who are accustomed
+to paper environments.
+
+"For most physicians, CPOE has
+been the single biggest change,"
+Longhurst said. "Good adoption of
+the system is very challenging. We
+never said it would be easier or faster,
+but it would be safer for patients."
+Hahn agreed that the steep learn
+ing curve may be problematic at first
+
+and believes that the current software
+interface has much room for im
+provement.
+
+"Many other hospitals are imple
+menting CPOE and EMR and it is
+only a question of time when these
+will be the standards of care in hospi
+tals in the U. 5.," Hahn said.
+Despite its growing recognition,
+the study has not convinced all re
+searchers. A three-year study con
+ducted at Seattle's Children Hospital
+found no significant change in mor
+tality after CPOE was implemented
+
+in 2003.
+"The study was not a controlled
+experiment that you might do in a
+lab," wrote Mark Del Beccaro, chief
+medical information officer at Seat
+tle's Children Hospital, in an e-mail
+to The Daily. "In the laboratory set
+ting, the investigator sets up the ex
+periment and usually manipulates
+one variable at a time and measures
+the effect. In a complex hospital set
+ting this isn't possible with EMRs."
+"A group of children's hospitals is
+considering looking at pooled data
+
+from those that have and have not im
+plemented an EMR with CPOE and
+seeing if the Packard data is more
+generalizable to other institutions,"
+Del Beccaro added.
+
+Looking toward the future,
+Longhurst said he plans to carry out a
+follow-up study that investigates
+which specific aspects of implemen
+tation lead to the lower mortality
+rates.
+
+Contact Tina Zheng at zhengt@stan
+ford.edu.
+
+
+Stanford Daily File Photo
+A recent study by Lucile Packard Children's Hospital and the Stanford School of Medicine has shown that mortality rates
+decline following the implementation of a computerized physician order entry (CPOE) system. The study provides
+evidence of a correlation between these two variables, though causation has not been established.
+A new study conducted by Lucile Packard
+Children's Hospital and the Stanford School of
+Medicine has demonstrated that hospital-wide
+mortality rates fall substantially with the introduc
+tion of a computerized physician order entry sys
+tem (CPOE). Published in this month's issue of
+"Pediatrics," the study is the first to establish this
+correlation.
+
+CPOE allows physicians to order tests and pre
+scribe treatments and medications electronically,
+making their patients' information readily accessi
+ble to authorized hospital staff as part of a broad
+er electronic medical records (EMR) system.
+CPOE was implemented in 2007 at Lucile
+Packard Children's Hospital. Researchers com
+pared mortality from 2001 to 2007 and then to
+2009 in a perspective control study that analyzed
+historical data and isolated variables using an "au
+toregressive integrated moving average model,"
+said Jin Hahn, the co-author of the study. Hahn, a
+professor of pediatric neurology, served as co-di
+rector of the LPCH clinical transformation pro
+gram from 2004 to 2008, when CPOE implemen
+tation took place.
+Lead author Christopher Longhurst, an assis
+tant clinical professor of pediatrics, and his col
+leagues concluded there was a 20-percent reduc
+tion in mortality rates, after controlling for the
+rapid response team, seasonal variability and
+other factors. Data analysis indicated two statical
+ly significant decreases in mortality: one decline
+after implementation of rapid response teams in
+2005 and a second following the introduction of
+CPOE in 2007.
+Prior to the implementation of CPOE, order
+ing medication electronically was somewhat prob
+lematic, Now, the CPOE systems integrated at Lu
+cile Packard include windows with real-time sug
+gestions and notifications of possible calculation
+errors on-screen.
+"We were able to cut the time between critical
+medication order and time of administration
+something we speculate was a huge cause in mor
+tality," Longhurst said.
+Despite the promising results of the study, re
+searchers hesitate to define a causal relationship.
+"I think it's important to emphasize correla
+tion," Longhurst said. "With this sort of data, we
+can't guarantee any factor led to the results. On the
+other hand, we saw a meaningful decrease even
+after controlling for variables."
+Previous studies have shown neu
+tral or negative effects in pediatric
+hospitals following implementation
+of CPOE, Hahn said. Longhurst's
+study is the first to show a statistically
+significant evidence of a decrease in
+mortality.
+"A 2005 Pittsburgh study on the
+effect [of a CPOE system] at a chil
+dren's hospital showed a slight bump
+up in mortality," Longhurst said. "This
+was obviously very troubling. A fol
+low-up study in Seattle showed no
+change, showing systems could at
+least be put in safely without hurting
+children."
+
+Longhurst found the trend toward
+more widespread implementation of
+CPOE systems, in conjunction with
+electronic medical records, to be
+promising. He cited the 2009 Health
+Information Technology for Eco
+nomic and Clinical Health
+(HITECH) Act signed into law by
+President Obama as a manifestation
+of this trend. The HITECH Act allot
+ted $19.2 billion to increase the use of
+electronic medical records by physi
+cians and hospitals.
+"Currently, I would estimate only
+10 to 15 percent of hospitals are using
+computerized physician orders while
+50 percent of children's hospitals
+are," Longhurst said. "These numbers
+will rise."
+
+Still, transitioning to the new com
+puterized system may be difficult for
+older physicians who are accustomed
+to paper environments.
+
+"For most physicians, CPOE has
+been the single biggest change,"
+Longhurst said. "Good adoption of
+the system is very challenging. We
+never said it would be easier or faster,
+but it would be safer for patients."
+Hahn agreed that the steep learn
+ing curve may be problematic at first
+
+and believes that the current software
+interface has much room for im
+provement.
+
+"Many other hospitals are imple
+menting CPOE and EMR and it is
+only a question of time when these
+will be the standards of care in hospi
+tals in the U. 5.," Hahn said.
+Despite its growing recognition,
+the study has not convinced all re
+searchers. A three-year study con
+ducted at Seattle's Children Hospital
+found no significant change in mor
+tality after CPOE was implemented
+
+in 2003.
+"The study was not a controlled
+experiment that you might do in a
+lab," wrote Mark Del Beccaro, chief
+medical information officer at Seat
+tle's Children Hospital, in an e-mail
+to The Daily. "In the laboratory set
+ting, the investigator sets up the ex
+periment and usually manipulates
+one variable at a time and measures
+the effect. In a complex hospital set
+ting this isn't possible with EMRs."
+"A group of children's hospitals is
+considering looking at pooled data
+
+from those that have and have not im
+plemented an EMR with CPOE and
+seeing if the Packard data is more
+generalizable to other institutions,"
+Del Beccaro added.
+
+Looking toward the future,
+Longhurst said he plans to carry out a
+follow-up study that investigates
+which specific aspects of implemen
+tation lead to the lower mortality
+rates.
+
+Contact Tina Zheng at zhengt@stan
+ford.edu.
+
+
+Stanford Daily File Photo
+A recent study by Lucile Packard Children's Hospital and the Stanford School of Medicine has shown that mortality rates
+decline following the implementation of a computerized physician order entry (CPOE) system. The study provides
+evidence of a correlation between these two variables, though causation has not been established.
+A new study conducted by Lucile Packard
+Children's Hospital and the Stanford School of
+Medicine has demonstrated that hospital-wide
+mortality rates fall substantially with the introduc
+tion of a computerized physician order entry sys
+tem (CPOE). Published in this month's issue of
+"Pediatrics," the study is the first to establish this
+correlation.
+
+CPOE allows physicians to order tests and pre
+scribe treatments and medications electronically,
+making their patients' information readily accessi
+ble to authorized hospital staff as part of a broad
+er electronic medical records (EMR) system.
+CPOE was implemented in 2007 at Lucile
+Packard Children's Hospital. Researchers com
+pared mortality from 2001 to 2007 and then to
+2009 in a perspective control study that analyzed
+historical data and isolated variables using an "au
+toregressive integrated moving average model,"
+said Jin Hahn, the co-author of the study. Hahn, a
+professor of pediatric neurology, served as co-di
+rector of the LPCH clinical transformation pro
+gram from 2004 to 2008, when CPOE implemen
+tation took place.
+Lead author Christopher Longhurst, an assis
+tant clinical professor of pediatrics, and his col
+leagues concluded there was a 20-percent reduc
+tion in mortality rates, after controlling for the
+rapid response team, seasonal variability and
+other factors. Data analysis indicated two statical
+ly significant decreases in mortality: one decline
+after implementation of rapid response teams in
+2005 and a second following the introduction of
+CPOE in 2007.
+Prior to the implementation of CPOE, order
+ing medication electronically was somewhat prob
+lematic, Now, the CPOE systems integrated at Lu
+cile Packard include windows with real-time sug
+gestions and notifications of possible calculation
+errors on-screen.
+"We were able to cut the time between critical
+medication order and time of administration
+something we speculate was a huge cause in mor
+tality," Longhurst said.
+Despite the promising results of the study, re
+searchers hesitate to define a causal relationship.
+"I think it's important to emphasize correla
+tion," Longhurst said. "With this sort of data, we
+can't guarantee any factor led to the results. On the
+other hand, we saw a meaningful decrease even
+after controlling for variables."
+Previous studies have shown neu
+tral or negative effects in pediatric
+hospitals following implementation
+of CPOE, Hahn said. Longhurst's
+study is the first to show a statistically
+significant evidence of a decrease in
+mortality.
+"A 2005 Pittsburgh study on the
+effect [of a CPOE system] at a chil
+dren's hospital showed a slight bump
+up in mortality," Longhurst said. "This
+was obviously very troubling. A fol
+low-up study in Seattle showed no
+change, showing systems could at
+least be put in safely without hurting
+children."
+
+Longhurst found the trend toward
+more widespread implementation of
+CPOE systems, in conjunction with
+electronic medical records, to be
+promising. He cited the 2009 Health
+Information Technology for Eco
+nomic and Clinical Health
+(HITECH) Act signed into law by
+President Obama as a manifestation
+of this trend. The HITECH Act allot
+ted $19.2 billion to increase the use of
+electronic medical records by physi
+cians and hospitals.
+"Currently, I would estimate only
+10 to 15 percent of hospitals are using
+computerized physician orders while
+50 percent of children's hospitals
+are," Longhurst said. "These numbers
+will rise."
+
+Still, transitioning to the new com
+puterized system may be difficult for
+older physicians who are accustomed
+to paper environments.
+
+"For most physicians, CPOE has
+been the single biggest change,"
+Longhurst said. "Good adoption of
+the system is very challenging. We
+never said it would be easier or faster,
+but it would be safer for patients."
+Hahn agreed that the steep learn
+ing curve may be problematic at first
+
+and believes that the current software
+interface has much room for im
+provement.
+
+"Many other hospitals are imple
+menting CPOE and EMR and it is
+only a question of time when these
+will be the standards of care in hospi
+tals in the U. 5.," Hahn said.
+Despite its growing recognition,
+the study has not convinced all re
+searchers. A three-year study con
+ducted at Seattle's Children Hospital
+found no significant change in mor
+tality after CPOE was implemented
+
+in 2003.
+"The study was not a controlled
+experiment that you might do in a
+lab," wrote Mark Del Beccaro, chief
+medical information officer at Seat
+tle's Children Hospital, in an e-mail
+to The Daily. "In the laboratory set
+ting, the investigator sets up the ex
+periment and usually manipulates
+one variable at a time and measures
+the effect. In a complex hospital set
+ting this isn't possible with EMRs."
+"A group of children's hospitals is
+considering looking at pooled data
+
+from those that have and have not im
+plemented an EMR with CPOE and
+seeing if the Packard data is more
+generalizable to other institutions,"
+Del Beccaro added.
+
+Looking toward the future,
+Longhurst said he plans to carry out a
+follow-up study that investigates
+which specific aspects of implemen
+tation lead to the lower mortality
+rates.
+
+Contact Tina Zheng at zhengt@stan
+ford.edu.
+
+
+Stanford Daily File Photo
+A recent study by Lucile Packard Children's Hospital and the Stanford School of Medicine has shown that mortality rates
+decline following the implementation of a computerized physician order entry (CPOE) system. The study provides
+evidence of a correlation between these two variables, though causation has not been established.
+A new study conducted by Lucile Packard
+Children's Hospital and the Stanford School of
+Medicine has demonstrated that hospital-wide
+mortality rates fall substantially with the introduc
+tion of a computerized physician order entry sys
+tem (CPOE). Published in this month's issue of
+"Pediatrics," the study is the first to establish this
+correlation.
+
+CPOE allows physicians to order tests and pre
+scribe treatments and medications electronically,
+making their patients' information readily accessi
+ble to authorized hospital staff as part of a broad
+er electronic medical records (EMR) system.
+CPOE was implemented in 2007 at Lucile
+Packard Children's Hospital. Researchers com
+pared mortality from 2001 to 2007 and then to
+2009 in a perspective control study that analyzed
+historical data and isolated variables using an "au
+toregressive integrated moving average model,"
+said Jin Hahn, the co-author of the study. Hahn, a
+professor of pediatric neurology, served as co-di
+rector of the LPCH clinical transformation pro
+gram from 2004 to 2008, when CPOE implemen
+tation took place.
+Lead author Christopher Longhurst, an assis
+tant clinical professor of pediatrics, and his col
+leagues concluded there was a 20-percent reduc
+tion in mortality rates, after controlling for the
+rapid response team, seasonal variability and
+other factors. Data analysis indicated two statical
+ly significant decreases in mortality: one decline
+after implementation of rapid response teams in
+2005 and a second following the introduction of
+CPOE in 2007.
+Prior to the implementation of CPOE, order
+ing medication electronically was somewhat prob
+lematic, Now, the CPOE systems integrated at Lu
+cile Packard include windows with real-time sug
+gestions and notifications of possible calculation
+errors on-screen.
+"We were able to cut the time between critical
+medication order and time of administration
+something we speculate was a huge cause in mor
+tality," Longhurst said.
+Despite the promising results of the study, re
+searchers hesitate to define a causal relationship.
+"I think it's important to emphasize correla
+tion," Longhurst said. "With this sort of data, we
+can't guarantee any factor led to the results. On the
+other hand, we saw a meaningful decrease even
+after controlling for variables."
+Previous studies have shown neu
+tral or negative effects in pediatric
+hospitals following implementation
+of CPOE, Hahn said. Longhurst's
+study is the first to show a statistically
+significant evidence of a decrease in
+mortality.
+"A 2005 Pittsburgh study on the
+effect [of a CPOE system] at a chil
+dren's hospital showed a slight bump
+up in mortality," Longhurst said. "This
+was obviously very troubling. A fol
+low-up study in Seattle showed no
+change, showing systems could at
+least be put in safely without hurting
+children."
+
+Longhurst found the trend toward
+more widespread implementation of
+CPOE systems, in conjunction with
+electronic medical records, to be
+promising. He cited the 2009 Health
+Information Technology for Eco
+nomic and Clinical Health
+(HITECH) Act signed into law by
+President Obama as a manifestation
+of this trend. The HITECH Act allot
+ted $19.2 billion to increase the use of
+electronic medical records by physi
+cians and hospitals.
+"Currently, I would estimate only
+10 to 15 percent of hospitals are using
+computerized physician orders while
+50 percent of children's hospitals
+are," Longhurst said. "These numbers
+will rise."
+
+Still, transitioning to the new com
+puterized system may be difficult for
+older physicians who are accustomed
+to paper environments.
+
+"For most physicians, CPOE has
+been the single biggest change,"
+Longhurst said. "Good adoption of
+the system is very challenging. We
+never said it would be easier or faster,
+but it would be safer for patients."
+Hahn agreed that the steep learn
+ing curve may be problematic at first
+
+and believes that the current software
+interface has much room for im
+provement.
+
+"Many other hospitals are imple
+menting CPOE and EMR and it is
+only a question of time when these
+will be the standards of care in hospi
+tals in the U. 5.," Hahn said.
+Despite its growing recognition,
+the study has not convinced all re
+searchers. A three-year study con
+ducted at Seattle's Children Hospital
+found no significant change in mor
+tality after CPOE was implemented
+
+in 2003.
+"The study was not a controlled
+experiment that you might do in a
+lab," wrote Mark Del Beccaro, chief
+medical information officer at Seat
+tle's Children Hospital, in an e-mail
+to The Daily. "In the laboratory set
+ting, the investigator sets up the ex
+periment and usually manipulates
+one variable at a time and measures
+the effect. In a complex hospital set
+ting this isn't possible with EMRs."
+"A group of children's hospitals is
+considering looking at pooled data
+
+from those that have and have not im
+plemented an EMR with CPOE and
+seeing if the Packard data is more
+generalizable to other institutions,"
+Del Beccaro added.
+
+Looking toward the future,
+Longhurst said he plans to carry out a
+follow-up study that investigates
+which specific aspects of implemen
+tation lead to the lower mortality
+rates.
+
+Contact Tina Zheng at zhengt@stan
+ford.edu.
+
+
+Stanford Daily File Photo
+A recent study by Lucile Packard Children's Hospital and the Stanford School of Medicine has shown that mortality rates
+decline following the implementation of a computerized physician order entry (CPOE) system. The study provides
+evidence of a correlation between these two variables, though causation has not been established.

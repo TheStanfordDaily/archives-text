@@ -1,0 +1,605 @@
+# Science
+## Computers to 'think' with fuzzy logic chip 
+### Christian Chabot 
+Despite the success of digital computers
+in recent years, scientists agree that the
+underlying basis of nearly all computer
+information, zeros and ones, just doesn't
+get you very far in the real world.
+Fuzzy logic, a technique at the forefront
+of computer technology, could circumvent
+this prodigious obstacle by making a com
+puter "think" like an organism, allowing
+computers to deal with the fact that most
+statements are not black or white.
+lon Opris, a researcher in Stanford's
+Department of Electrical Engineering, has
+developed several new implementations in
+this field.
+"If a problem doesn't have a well
+defined model or if it has no model at all, it
+may still be approached based on a hunch,"
+Opris said. In fact, basing decisions on
+"hunches" is the underlying basis of fuzzy
+logic because many of the conditions which
+a machine needs to operate on may not be
+clearly defined — they are fuzzy.
+Fuzzy logic attempts to make comput
+ers more versatile by moving beyond the
+traditional "set theory" of current comput
+ers. In set theory, objects, numbers and
+words do or do not belong to a given set. A
+day is either windy or not windy; it's just
+that simple.
+In an attempt to mimic the logic of
+organisms, fuzzy logic assigns numbers to
+statements which are between zero and
+
+one, allowing information to belong par
+tially to a given set. A day at Stanford, for
+example, might be 70 percent "windy" and
+30 percent "not windy."
+Through such designations, scientists
+can describe a broader spectrum of actual
+possibilities — the day just described
+might be "just right" overall.
+In the world of fuzzy logic, zero and one
+still represent false and true, respectively,
+but there is a whole range of numbers
+between zero and one which designate the
+degree of truth of a given statement.
+Fuzzy logic is quickly being assimilated
+into commercial products across the world,
+and many leading companies are begin
+ning to take it quite seriously. In Japan, for
+instance, fuzzy logic has swept across the
+commercial world.
+Washing machines, air conditioners,
+cars, humidifiers and other consumer
+products boast the ability to make fine dis
+tinctions between critical variables and
+then integrate this information into their
+performance.
+Some washing machines, for example,
+measure the dirtiness of the water as the
+cycle progresses and adjust the length of
+the cycle accordingly. In this way, fabrics
+from which dirt is removed rather slowly
+receive longer washing times.
+Opris is currently working on imple
+menting rules of fuzzy logic into a set of
+
+
+Jeff Sorrentino - Daily
+chips which he refers to as
+"fuzzy logic controllers."
+The actual rules of fuzzy
+logic are being transformed into
+silicon chips, for use in analog
+applications.
+His methods make some
+fuzzy logic implementations
+smaller, simpler and operable
+under lower power.
+According to Stanford's
+Office of Technology Licensing
+several companies have
+expressed interest in Opris'
+advances and may soon inte
+grate them into their products.
+Despite the success of digital computers
+in recent years, scientists agree that the
+underlying basis of nearly all computer
+information, zeros and ones, just doesn't
+get you very far in the real world.
+Fuzzy logic, a technique at the forefront
+of computer technology, could circumvent
+this prodigious obstacle by making a com
+puter "think" like an organism, allowing
+computers to deal with the fact that most
+statements are not black or white.
+lon Opris, a researcher in Stanford's
+Department of Electrical Engineering, has
+developed several new implementations in
+this field.
+"If a problem doesn't have a well
+defined model or if it has no model at all, it
+may still be approached based on a hunch,"
+Opris said. In fact, basing decisions on
+"hunches" is the underlying basis of fuzzy
+logic because many of the conditions which
+a machine needs to operate on may not be
+clearly defined — they are fuzzy.
+Fuzzy logic attempts to make comput
+ers more versatile by moving beyond the
+traditional "set theory" of current comput
+ers. In set theory, objects, numbers and
+words do or do not belong to a given set. A
+day is either windy or not windy; it's just
+that simple.
+In an attempt to mimic the logic of
+organisms, fuzzy logic assigns numbers to
+statements which are between zero and
+
+one, allowing information to belong par
+tially to a given set. A day at Stanford, for
+example, might be 70 percent "windy" and
+30 percent "not windy."
+Through such designations, scientists
+can describe a broader spectrum of actual
+possibilities — the day just described
+might be "just right" overall.
+In the world of fuzzy logic, zero and one
+still represent false and true, respectively,
+but there is a whole range of numbers
+between zero and one which designate the
+degree of truth of a given statement.
+Fuzzy logic is quickly being assimilated
+into commercial products across the world,
+and many leading companies are begin
+ning to take it quite seriously. In Japan, for
+instance, fuzzy logic has swept across the
+commercial world.
+Washing machines, air conditioners,
+cars, humidifiers and other consumer
+products boast the ability to make fine dis
+tinctions between critical variables and
+then integrate this information into their
+performance.
+Some washing machines, for example,
+measure the dirtiness of the water as the
+cycle progresses and adjust the length of
+the cycle accordingly. In this way, fabrics
+from which dirt is removed rather slowly
+receive longer washing times.
+Opris is currently working on imple
+menting rules of fuzzy logic into a set of
+
+
+Jeff Sorrentino - Daily
+chips which he refers to as
+"fuzzy logic controllers."
+The actual rules of fuzzy
+logic are being transformed into
+silicon chips, for use in analog
+applications.
+His methods make some
+fuzzy logic implementations
+smaller, simpler and operable
+under lower power.
+According to Stanford's
+Office of Technology Licensing
+several companies have
+expressed interest in Opris'
+advances and may soon inte
+grate them into their products.
+Despite the success of digital computers
+in recent years, scientists agree that the
+underlying basis of nearly all computer
+information, zeros and ones, just doesn't
+get you very far in the real world.
+Fuzzy logic, a technique at the forefront
+of computer technology, could circumvent
+this prodigious obstacle by making a com
+puter "think" like an organism, allowing
+computers to deal with the fact that most
+statements are not black or white.
+lon Opris, a researcher in Stanford's
+Department of Electrical Engineering, has
+developed several new implementations in
+this field.
+"If a problem doesn't have a well
+defined model or if it has no model at all, it
+may still be approached based on a hunch,"
+Opris said. In fact, basing decisions on
+"hunches" is the underlying basis of fuzzy
+logic because many of the conditions which
+a machine needs to operate on may not be
+clearly defined — they are fuzzy.
+Fuzzy logic attempts to make comput
+ers more versatile by moving beyond the
+traditional "set theory" of current comput
+ers. In set theory, objects, numbers and
+words do or do not belong to a given set. A
+day is either windy or not windy; it's just
+that simple.
+In an attempt to mimic the logic of
+organisms, fuzzy logic assigns numbers to
+statements which are between zero and
+
+one, allowing information to belong par
+tially to a given set. A day at Stanford, for
+example, might be 70 percent "windy" and
+30 percent "not windy."
+Through such designations, scientists
+can describe a broader spectrum of actual
+possibilities — the day just described
+might be "just right" overall.
+In the world of fuzzy logic, zero and one
+still represent false and true, respectively,
+but there is a whole range of numbers
+between zero and one which designate the
+degree of truth of a given statement.
+Fuzzy logic is quickly being assimilated
+into commercial products across the world,
+and many leading companies are begin
+ning to take it quite seriously. In Japan, for
+instance, fuzzy logic has swept across the
+commercial world.
+Washing machines, air conditioners,
+cars, humidifiers and other consumer
+products boast the ability to make fine dis
+tinctions between critical variables and
+then integrate this information into their
+performance.
+Some washing machines, for example,
+measure the dirtiness of the water as the
+cycle progresses and adjust the length of
+the cycle accordingly. In this way, fabrics
+from which dirt is removed rather slowly
+receive longer washing times.
+Opris is currently working on imple
+menting rules of fuzzy logic into a set of
+
+
+Jeff Sorrentino - Daily
+chips which he refers to as
+"fuzzy logic controllers."
+The actual rules of fuzzy
+logic are being transformed into
+silicon chips, for use in analog
+applications.
+His methods make some
+fuzzy logic implementations
+smaller, simpler and operable
+under lower power.
+According to Stanford's
+Office of Technology Licensing
+several companies have
+expressed interest in Opris'
+advances and may soon inte
+grate them into their products.
+Despite the success of digital computers
+in recent years, scientists agree that the
+underlying basis of nearly all computer
+information, zeros and ones, just doesn't
+get you very far in the real world.
+Fuzzy logic, a technique at the forefront
+of computer technology, could circumvent
+this prodigious obstacle by making a com
+puter "think" like an organism, allowing
+computers to deal with the fact that most
+statements are not black or white.
+lon Opris, a researcher in Stanford's
+Department of Electrical Engineering, has
+developed several new implementations in
+this field.
+"If a problem doesn't have a well
+defined model or if it has no model at all, it
+may still be approached based on a hunch,"
+Opris said. In fact, basing decisions on
+"hunches" is the underlying basis of fuzzy
+logic because many of the conditions which
+a machine needs to operate on may not be
+clearly defined — they are fuzzy.
+Fuzzy logic attempts to make comput
+ers more versatile by moving beyond the
+traditional "set theory" of current comput
+ers. In set theory, objects, numbers and
+words do or do not belong to a given set. A
+day is either windy or not windy; it's just
+that simple.
+In an attempt to mimic the logic of
+organisms, fuzzy logic assigns numbers to
+statements which are between zero and
+
+one, allowing information to belong par
+tially to a given set. A day at Stanford, for
+example, might be 70 percent "windy" and
+30 percent "not windy."
+Through such designations, scientists
+can describe a broader spectrum of actual
+possibilities — the day just described
+might be "just right" overall.
+In the world of fuzzy logic, zero and one
+still represent false and true, respectively,
+but there is a whole range of numbers
+between zero and one which designate the
+degree of truth of a given statement.
+Fuzzy logic is quickly being assimilated
+into commercial products across the world,
+and many leading companies are begin
+ning to take it quite seriously. In Japan, for
+instance, fuzzy logic has swept across the
+commercial world.
+Washing machines, air conditioners,
+cars, humidifiers and other consumer
+products boast the ability to make fine dis
+tinctions between critical variables and
+then integrate this information into their
+performance.
+Some washing machines, for example,
+measure the dirtiness of the water as the
+cycle progresses and adjust the length of
+the cycle accordingly. In this way, fabrics
+from which dirt is removed rather slowly
+receive longer washing times.
+Opris is currently working on imple
+menting rules of fuzzy logic into a set of
+
+
+Jeff Sorrentino - Daily
+chips which he refers to as
+"fuzzy logic controllers."
+The actual rules of fuzzy
+logic are being transformed into
+silicon chips, for use in analog
+applications.
+His methods make some
+fuzzy logic implementations
+smaller, simpler and operable
+under lower power.
+According to Stanford's
+Office of Technology Licensing
+several companies have
+expressed interest in Opris'
+advances and may soon inte
+grate them into their products.
+Despite the success of digital computers
+in recent years, scientists agree that the
+underlying basis of nearly all computer
+information, zeros and ones, just doesn't
+get you very far in the real world.
+Fuzzy logic, a technique at the forefront
+of computer technology, could circumvent
+this prodigious obstacle by making a com
+puter "think" like an organism, allowing
+computers to deal with the fact that most
+statements are not black or white.
+lon Opris, a researcher in Stanford's
+Department of Electrical Engineering, has
+developed several new implementations in
+this field.
+"If a problem doesn't have a well
+defined model or if it has no model at all, it
+may still be approached based on a hunch,"
+Opris said. In fact, basing decisions on
+"hunches" is the underlying basis of fuzzy
+logic because many of the conditions which
+a machine needs to operate on may not be
+clearly defined — they are fuzzy.
+Fuzzy logic attempts to make comput
+ers more versatile by moving beyond the
+traditional "set theory" of current comput
+ers. In set theory, objects, numbers and
+words do or do not belong to a given set. A
+day is either windy or not windy; it's just
+that simple.
+In an attempt to mimic the logic of
+organisms, fuzzy logic assigns numbers to
+statements which are between zero and
+
+one, allowing information to belong par
+tially to a given set. A day at Stanford, for
+example, might be 70 percent "windy" and
+30 percent "not windy."
+Through such designations, scientists
+can describe a broader spectrum of actual
+possibilities — the day just described
+might be "just right" overall.
+In the world of fuzzy logic, zero and one
+still represent false and true, respectively,
+but there is a whole range of numbers
+between zero and one which designate the
+degree of truth of a given statement.
+Fuzzy logic is quickly being assimilated
+into commercial products across the world,
+and many leading companies are begin
+ning to take it quite seriously. In Japan, for
+instance, fuzzy logic has swept across the
+commercial world.
+Washing machines, air conditioners,
+cars, humidifiers and other consumer
+products boast the ability to make fine dis
+tinctions between critical variables and
+then integrate this information into their
+performance.
+Some washing machines, for example,
+measure the dirtiness of the water as the
+cycle progresses and adjust the length of
+the cycle accordingly. In this way, fabrics
+from which dirt is removed rather slowly
+receive longer washing times.
+Opris is currently working on imple
+menting rules of fuzzy logic into a set of
+
+
+Jeff Sorrentino - Daily
+chips which he refers to as
+"fuzzy logic controllers."
+The actual rules of fuzzy
+logic are being transformed into
+silicon chips, for use in analog
+applications.
+His methods make some
+fuzzy logic implementations
+smaller, simpler and operable
+under lower power.
+According to Stanford's
+Office of Technology Licensing
+several companies have
+expressed interest in Opris'
+advances and may soon inte
+grate them into their products.
+Despite the success of digital computers
+in recent years, scientists agree that the
+underlying basis of nearly all computer
+information, zeros and ones, just doesn't
+get you very far in the real world.
+Fuzzy logic, a technique at the forefront
+of computer technology, could circumvent
+this prodigious obstacle by making a com
+puter "think" like an organism, allowing
+computers to deal with the fact that most
+statements are not black or white.
+lon Opris, a researcher in Stanford's
+Department of Electrical Engineering, has
+developed several new implementations in
+this field.
+"If a problem doesn't have a well
+defined model or if it has no model at all, it
+may still be approached based on a hunch,"
+Opris said. In fact, basing decisions on
+"hunches" is the underlying basis of fuzzy
+logic because many of the conditions which
+a machine needs to operate on may not be
+clearly defined — they are fuzzy.
+Fuzzy logic attempts to make comput
+ers more versatile by moving beyond the
+traditional "set theory" of current comput
+ers. In set theory, objects, numbers and
+words do or do not belong to a given set. A
+day is either windy or not windy; it's just
+that simple.
+In an attempt to mimic the logic of
+organisms, fuzzy logic assigns numbers to
+statements which are between zero and
+
+one, allowing information to belong par
+tially to a given set. A day at Stanford, for
+example, might be 70 percent "windy" and
+30 percent "not windy."
+Through such designations, scientists
+can describe a broader spectrum of actual
+possibilities — the day just described
+might be "just right" overall.
+In the world of fuzzy logic, zero and one
+still represent false and true, respectively,
+but there is a whole range of numbers
+between zero and one which designate the
+degree of truth of a given statement.
+Fuzzy logic is quickly being assimilated
+into commercial products across the world,
+and many leading companies are begin
+ning to take it quite seriously. In Japan, for
+instance, fuzzy logic has swept across the
+commercial world.
+Washing machines, air conditioners,
+cars, humidifiers and other consumer
+products boast the ability to make fine dis
+tinctions between critical variables and
+then integrate this information into their
+performance.
+Some washing machines, for example,
+measure the dirtiness of the water as the
+cycle progresses and adjust the length of
+the cycle accordingly. In this way, fabrics
+from which dirt is removed rather slowly
+receive longer washing times.
+Opris is currently working on imple
+menting rules of fuzzy logic into a set of
+
+
+Jeff Sorrentino - Daily
+chips which he refers to as
+"fuzzy logic controllers."
+The actual rules of fuzzy
+logic are being transformed into
+silicon chips, for use in analog
+applications.
+His methods make some
+fuzzy logic implementations
+smaller, simpler and operable
+under lower power.
+According to Stanford's
+Office of Technology Licensing
+several companies have
+expressed interest in Opris'
+advances and may soon inte
+grate them into their products.
+Despite the success of digital computers
+in recent years, scientists agree that the
+underlying basis of nearly all computer
+information, zeros and ones, just doesn't
+get you very far in the real world.
+Fuzzy logic, a technique at the forefront
+of computer technology, could circumvent
+this prodigious obstacle by making a com
+puter "think" like an organism, allowing
+computers to deal with the fact that most
+statements are not black or white.
+lon Opris, a researcher in Stanford's
+Department of Electrical Engineering, has
+developed several new implementations in
+this field.
+"If a problem doesn't have a well
+defined model or if it has no model at all, it
+may still be approached based on a hunch,"
+Opris said. In fact, basing decisions on
+"hunches" is the underlying basis of fuzzy
+logic because many of the conditions which
+a machine needs to operate on may not be
+clearly defined — they are fuzzy.
+Fuzzy logic attempts to make comput
+ers more versatile by moving beyond the
+traditional "set theory" of current comput
+ers. In set theory, objects, numbers and
+words do or do not belong to a given set. A
+day is either windy or not windy; it's just
+that simple.
+In an attempt to mimic the logic of
+organisms, fuzzy logic assigns numbers to
+statements which are between zero and
+
+one, allowing information to belong par
+tially to a given set. A day at Stanford, for
+example, might be 70 percent "windy" and
+30 percent "not windy."
+Through such designations, scientists
+can describe a broader spectrum of actual
+possibilities — the day just described
+might be "just right" overall.
+In the world of fuzzy logic, zero and one
+still represent false and true, respectively,
+but there is a whole range of numbers
+between zero and one which designate the
+degree of truth of a given statement.
+Fuzzy logic is quickly being assimilated
+into commercial products across the world,
+and many leading companies are begin
+ning to take it quite seriously. In Japan, for
+instance, fuzzy logic has swept across the
+commercial world.
+Washing machines, air conditioners,
+cars, humidifiers and other consumer
+products boast the ability to make fine dis
+tinctions between critical variables and
+then integrate this information into their
+performance.
+Some washing machines, for example,
+measure the dirtiness of the water as the
+cycle progresses and adjust the length of
+the cycle accordingly. In this way, fabrics
+from which dirt is removed rather slowly
+receive longer washing times.
+Opris is currently working on imple
+menting rules of fuzzy logic into a set of
+
+
+Jeff Sorrentino - Daily
+chips which he refers to as
+"fuzzy logic controllers."
+The actual rules of fuzzy
+logic are being transformed into
+silicon chips, for use in analog
+applications.
+His methods make some
+fuzzy logic implementations
+smaller, simpler and operable
+under lower power.
+According to Stanford's
+Office of Technology Licensing
+several companies have
+expressed interest in Opris'
+advances and may soon inte
+grate them into their products.

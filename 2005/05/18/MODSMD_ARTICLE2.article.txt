@@ -1,0 +1,615 @@
+# Wein presents recommendations
+## Prof. finds security flaws 
+### DAVID KUO STAFF WRITER 
+Last fall. Graduate School of Business Prof.
+Lawrence Wein discovered flaws in the government's
+US-VISIT Program, causing worry among politicians in
+the program's effectiveness in catching terrorists.
+In early May, Wein published strong recommenda
+tions for the Department of Homeland Security to rem
+edy the problem. He conducted research on the $10 bil
+lion US-VISIT Program, implemented after the Sept. 11
+terrorist attacks, which requires visitors to the United
+States give two index fingerprints that are cross-refer
+enced with a database of criminals.
+Wein's findings call fora more precise method of fin
+gerprinting because the probability of matching decreas
+es when fingerprint quality is poor.
+The Lawrence Livermore National Laboratory first
+approached Wein with a proposal to analyze the US
+VISIT program by investigating waiting lines at airports.
+But when that project stalled, Wein decided to personal
+ly delve into the study of fingerprints.
+But his interest in potential flaws in the US-VISIT
+program didn't come by chance, he said.
+"There was a reason to believe there was vulnerabil
+ity in the system from the National Institute for Stan
+dards and Technology," Wein said. "Unlike other home
+land projects, fingerprinting was well documented. We
+
+
+L A. CICERO/Stanford News Service
+Prof. Lawrence Wein founds flaws in the government's
+US-VISIT Program last year and presented his findings
+in a report released early this month.
+understood the problem so we devel
+oped a mathematical model captur
+ing the main features of the data."
+Manas Baveja, a graduate student
+in computational and mathematical
+engineering, helped Wein with his re
+search.
+"These models,in conjunction with
+simple game theoretic models, helped
+us in highlighting vulnerabilities in the
+current US-VISIT program," Baveja
+said. "We then spent our time thinking
+about strategies to make the system
+more robust."
+Addressing the issue of poor finger
+print quality, the researchers suggested
+collecting 10 fingerprints instead of
+two, which is currently the standard.
+The 10-fingerprint strategy yielded a
+much higher probability of a match
+even if the fingerprint quality was poor,
+according to their models.
+Cost, however, will be the major
+hurdle to implementing changes, Wein
+said.
+"Right now, it's the money be
+cause you scrap the two finger ma
+chines and buy 10 finger machines,"
+Wein said. "But, on the scale of the
+$10 billion program, it wouldn't be
+that expensive."
+Wein. who has since briefed gov
+
+ernment officials and staff members
+at the White House and the Depart
+ment of Homeland Security, said he
+hopes the US-VISIT program can be
+refitted with more effective equip
+ment within a year.
+No stranger to advising the govern
+ment on Homeland Security, Wein has
+previously worked on projects involv
+ing smallpox vaccinations, anthrax
+policies and port security regulations
+regarding the entry of nuclear
+weapons into the country.
+Some international students have
+expressed concern that the changes to
+the system might make entering the
+country even more difficult.
+Freshman Wontai Cho from
+South Korea said that the potential
+shift in policy might further damage
+the United States' image in eyes
+of visitors.
+"Collecting foreign students' fin
+gerprints and taking photographs
+doesn't make the first impression of
+the United States any better," he said.
+"As an international student whose
+photograph and fingerprints are
+stored in the Pentagon, I really hate
+the way that the U.S. government
+treats all foreigners like they are ter
+rorist suspects."
+So far, the US-VISIT program has
+denied 7,000 visas and 594 admissions
+to the U.S, and has has led to 39 arrests
+since January 2004, according to a
+press release issued by the Depart
+ment of Homeland Security TUesday.
+Last fall. Graduate School of Business Prof.
+Lawrence Wein discovered flaws in the government's
+US-VISIT Program, causing worry among politicians in
+the program's effectiveness in catching terrorists.
+In early May, Wein published strong recommenda
+tions for the Department of Homeland Security to rem
+edy the problem. He conducted research on the $10 bil
+lion US-VISIT Program, implemented after the Sept. 11
+terrorist attacks, which requires visitors to the United
+States give two index fingerprints that are cross-refer
+enced with a database of criminals.
+Wein's findings call fora more precise method of fin
+gerprinting because the probability of matching decreas
+es when fingerprint quality is poor.
+The Lawrence Livermore National Laboratory first
+approached Wein with a proposal to analyze the US
+VISIT program by investigating waiting lines at airports.
+But when that project stalled, Wein decided to personal
+ly delve into the study of fingerprints.
+But his interest in potential flaws in the US-VISIT
+program didn't come by chance, he said.
+"There was a reason to believe there was vulnerabil
+ity in the system from the National Institute for Stan
+dards and Technology," Wein said. "Unlike other home
+land projects, fingerprinting was well documented. We
+
+
+L A. CICERO/Stanford News Service
+Prof. Lawrence Wein founds flaws in the government's
+US-VISIT Program last year and presented his findings
+in a report released early this month.
+understood the problem so we devel
+oped a mathematical model captur
+ing the main features of the data."
+Manas Baveja, a graduate student
+in computational and mathematical
+engineering, helped Wein with his re
+search.
+"These models,in conjunction with
+simple game theoretic models, helped
+us in highlighting vulnerabilities in the
+current US-VISIT program," Baveja
+said. "We then spent our time thinking
+about strategies to make the system
+more robust."
+Addressing the issue of poor finger
+print quality, the researchers suggested
+collecting 10 fingerprints instead of
+two, which is currently the standard.
+The 10-fingerprint strategy yielded a
+much higher probability of a match
+even if the fingerprint quality was poor,
+according to their models.
+Cost, however, will be the major
+hurdle to implementing changes, Wein
+said.
+"Right now, it's the money be
+cause you scrap the two finger ma
+chines and buy 10 finger machines,"
+Wein said. "But, on the scale of the
+$10 billion program, it wouldn't be
+that expensive."
+Wein. who has since briefed gov
+
+ernment officials and staff members
+at the White House and the Depart
+ment of Homeland Security, said he
+hopes the US-VISIT program can be
+refitted with more effective equip
+ment within a year.
+No stranger to advising the govern
+ment on Homeland Security, Wein has
+previously worked on projects involv
+ing smallpox vaccinations, anthrax
+policies and port security regulations
+regarding the entry of nuclear
+weapons into the country.
+Some international students have
+expressed concern that the changes to
+the system might make entering the
+country even more difficult.
+Freshman Wontai Cho from
+South Korea said that the potential
+shift in policy might further damage
+the United States' image in eyes
+of visitors.
+"Collecting foreign students' fin
+gerprints and taking photographs
+doesn't make the first impression of
+the United States any better," he said.
+"As an international student whose
+photograph and fingerprints are
+stored in the Pentagon, I really hate
+the way that the U.S. government
+treats all foreigners like they are ter
+rorist suspects."
+So far, the US-VISIT program has
+denied 7,000 visas and 594 admissions
+to the U.S, and has has led to 39 arrests
+since January 2004, according to a
+press release issued by the Depart
+ment of Homeland Security TUesday.
+Last fall. Graduate School of Business Prof.
+Lawrence Wein discovered flaws in the government's
+US-VISIT Program, causing worry among politicians in
+the program's effectiveness in catching terrorists.
+In early May, Wein published strong recommenda
+tions for the Department of Homeland Security to rem
+edy the problem. He conducted research on the $10 bil
+lion US-VISIT Program, implemented after the Sept. 11
+terrorist attacks, which requires visitors to the United
+States give two index fingerprints that are cross-refer
+enced with a database of criminals.
+Wein's findings call fora more precise method of fin
+gerprinting because the probability of matching decreas
+es when fingerprint quality is poor.
+The Lawrence Livermore National Laboratory first
+approached Wein with a proposal to analyze the US
+VISIT program by investigating waiting lines at airports.
+But when that project stalled, Wein decided to personal
+ly delve into the study of fingerprints.
+But his interest in potential flaws in the US-VISIT
+program didn't come by chance, he said.
+"There was a reason to believe there was vulnerabil
+ity in the system from the National Institute for Stan
+dards and Technology," Wein said. "Unlike other home
+land projects, fingerprinting was well documented. We
+
+
+L A. CICERO/Stanford News Service
+Prof. Lawrence Wein founds flaws in the government's
+US-VISIT Program last year and presented his findings
+in a report released early this month.
+understood the problem so we devel
+oped a mathematical model captur
+ing the main features of the data."
+Manas Baveja, a graduate student
+in computational and mathematical
+engineering, helped Wein with his re
+search.
+"These models,in conjunction with
+simple game theoretic models, helped
+us in highlighting vulnerabilities in the
+current US-VISIT program," Baveja
+said. "We then spent our time thinking
+about strategies to make the system
+more robust."
+Addressing the issue of poor finger
+print quality, the researchers suggested
+collecting 10 fingerprints instead of
+two, which is currently the standard.
+The 10-fingerprint strategy yielded a
+much higher probability of a match
+even if the fingerprint quality was poor,
+according to their models.
+Cost, however, will be the major
+hurdle to implementing changes, Wein
+said.
+"Right now, it's the money be
+cause you scrap the two finger ma
+chines and buy 10 finger machines,"
+Wein said. "But, on the scale of the
+$10 billion program, it wouldn't be
+that expensive."
+Wein. who has since briefed gov
+
+ernment officials and staff members
+at the White House and the Depart
+ment of Homeland Security, said he
+hopes the US-VISIT program can be
+refitted with more effective equip
+ment within a year.
+No stranger to advising the govern
+ment on Homeland Security, Wein has
+previously worked on projects involv
+ing smallpox vaccinations, anthrax
+policies and port security regulations
+regarding the entry of nuclear
+weapons into the country.
+Some international students have
+expressed concern that the changes to
+the system might make entering the
+country even more difficult.
+Freshman Wontai Cho from
+South Korea said that the potential
+shift in policy might further damage
+the United States' image in eyes
+of visitors.
+"Collecting foreign students' fin
+gerprints and taking photographs
+doesn't make the first impression of
+the United States any better," he said.
+"As an international student whose
+photograph and fingerprints are
+stored in the Pentagon, I really hate
+the way that the U.S. government
+treats all foreigners like they are ter
+rorist suspects."
+So far, the US-VISIT program has
+denied 7,000 visas and 594 admissions
+to the U.S, and has has led to 39 arrests
+since January 2004, according to a
+press release issued by the Depart
+ment of Homeland Security TUesday.
+Last fall. Graduate School of Business Prof.
+Lawrence Wein discovered flaws in the government's
+US-VISIT Program, causing worry among politicians in
+the program's effectiveness in catching terrorists.
+In early May, Wein published strong recommenda
+tions for the Department of Homeland Security to rem
+edy the problem. He conducted research on the $10 bil
+lion US-VISIT Program, implemented after the Sept. 11
+terrorist attacks, which requires visitors to the United
+States give two index fingerprints that are cross-refer
+enced with a database of criminals.
+Wein's findings call fora more precise method of fin
+gerprinting because the probability of matching decreas
+es when fingerprint quality is poor.
+The Lawrence Livermore National Laboratory first
+approached Wein with a proposal to analyze the US
+VISIT program by investigating waiting lines at airports.
+But when that project stalled, Wein decided to personal
+ly delve into the study of fingerprints.
+But his interest in potential flaws in the US-VISIT
+program didn't come by chance, he said.
+"There was a reason to believe there was vulnerabil
+ity in the system from the National Institute for Stan
+dards and Technology," Wein said. "Unlike other home
+land projects, fingerprinting was well documented. We
+
+
+L A. CICERO/Stanford News Service
+Prof. Lawrence Wein founds flaws in the government's
+US-VISIT Program last year and presented his findings
+in a report released early this month.
+understood the problem so we devel
+oped a mathematical model captur
+ing the main features of the data."
+Manas Baveja, a graduate student
+in computational and mathematical
+engineering, helped Wein with his re
+search.
+"These models,in conjunction with
+simple game theoretic models, helped
+us in highlighting vulnerabilities in the
+current US-VISIT program," Baveja
+said. "We then spent our time thinking
+about strategies to make the system
+more robust."
+Addressing the issue of poor finger
+print quality, the researchers suggested
+collecting 10 fingerprints instead of
+two, which is currently the standard.
+The 10-fingerprint strategy yielded a
+much higher probability of a match
+even if the fingerprint quality was poor,
+according to their models.
+Cost, however, will be the major
+hurdle to implementing changes, Wein
+said.
+"Right now, it's the money be
+cause you scrap the two finger ma
+chines and buy 10 finger machines,"
+Wein said. "But, on the scale of the
+$10 billion program, it wouldn't be
+that expensive."
+Wein. who has since briefed gov
+
+ernment officials and staff members
+at the White House and the Depart
+ment of Homeland Security, said he
+hopes the US-VISIT program can be
+refitted with more effective equip
+ment within a year.
+No stranger to advising the govern
+ment on Homeland Security, Wein has
+previously worked on projects involv
+ing smallpox vaccinations, anthrax
+policies and port security regulations
+regarding the entry of nuclear
+weapons into the country.
+Some international students have
+expressed concern that the changes to
+the system might make entering the
+country even more difficult.
+Freshman Wontai Cho from
+South Korea said that the potential
+shift in policy might further damage
+the United States' image in eyes
+of visitors.
+"Collecting foreign students' fin
+gerprints and taking photographs
+doesn't make the first impression of
+the United States any better," he said.
+"As an international student whose
+photograph and fingerprints are
+stored in the Pentagon, I really hate
+the way that the U.S. government
+treats all foreigners like they are ter
+rorist suspects."
+So far, the US-VISIT program has
+denied 7,000 visas and 594 admissions
+to the U.S, and has has led to 39 arrests
+since January 2004, according to a
+press release issued by the Depart
+ment of Homeland Security TUesday.
+Last fall. Graduate School of Business Prof.
+Lawrence Wein discovered flaws in the government's
+US-VISIT Program, causing worry among politicians in
+the program's effectiveness in catching terrorists.
+In early May, Wein published strong recommenda
+tions for the Department of Homeland Security to rem
+edy the problem. He conducted research on the $10 bil
+lion US-VISIT Program, implemented after the Sept. 11
+terrorist attacks, which requires visitors to the United
+States give two index fingerprints that are cross-refer
+enced with a database of criminals.
+Wein's findings call fora more precise method of fin
+gerprinting because the probability of matching decreas
+es when fingerprint quality is poor.
+The Lawrence Livermore National Laboratory first
+approached Wein with a proposal to analyze the US
+VISIT program by investigating waiting lines at airports.
+But when that project stalled, Wein decided to personal
+ly delve into the study of fingerprints.
+But his interest in potential flaws in the US-VISIT
+program didn't come by chance, he said.
+"There was a reason to believe there was vulnerabil
+ity in the system from the National Institute for Stan
+dards and Technology," Wein said. "Unlike other home
+land projects, fingerprinting was well documented. We
+
+
+L A. CICERO/Stanford News Service
+Prof. Lawrence Wein founds flaws in the government's
+US-VISIT Program last year and presented his findings
+in a report released early this month.
+understood the problem so we devel
+oped a mathematical model captur
+ing the main features of the data."
+Manas Baveja, a graduate student
+in computational and mathematical
+engineering, helped Wein with his re
+search.
+"These models,in conjunction with
+simple game theoretic models, helped
+us in highlighting vulnerabilities in the
+current US-VISIT program," Baveja
+said. "We then spent our time thinking
+about strategies to make the system
+more robust."
+Addressing the issue of poor finger
+print quality, the researchers suggested
+collecting 10 fingerprints instead of
+two, which is currently the standard.
+The 10-fingerprint strategy yielded a
+much higher probability of a match
+even if the fingerprint quality was poor,
+according to their models.
+Cost, however, will be the major
+hurdle to implementing changes, Wein
+said.
+"Right now, it's the money be
+cause you scrap the two finger ma
+chines and buy 10 finger machines,"
+Wein said. "But, on the scale of the
+$10 billion program, it wouldn't be
+that expensive."
+Wein. who has since briefed gov
+
+ernment officials and staff members
+at the White House and the Depart
+ment of Homeland Security, said he
+hopes the US-VISIT program can be
+refitted with more effective equip
+ment within a year.
+No stranger to advising the govern
+ment on Homeland Security, Wein has
+previously worked on projects involv
+ing smallpox vaccinations, anthrax
+policies and port security regulations
+regarding the entry of nuclear
+weapons into the country.
+Some international students have
+expressed concern that the changes to
+the system might make entering the
+country even more difficult.
+Freshman Wontai Cho from
+South Korea said that the potential
+shift in policy might further damage
+the United States' image in eyes
+of visitors.
+"Collecting foreign students' fin
+gerprints and taking photographs
+doesn't make the first impression of
+the United States any better," he said.
+"As an international student whose
+photograph and fingerprints are
+stored in the Pentagon, I really hate
+the way that the U.S. government
+treats all foreigners like they are ter
+rorist suspects."
+So far, the US-VISIT program has
+denied 7,000 visas and 594 admissions
+to the U.S, and has has led to 39 arrests
+since January 2004, according to a
+press release issued by the Depart
+ment of Homeland Security TUesday.
+Last fall. Graduate School of Business Prof.
+Lawrence Wein discovered flaws in the government's
+US-VISIT Program, causing worry among politicians in
+the program's effectiveness in catching terrorists.
+In early May, Wein published strong recommenda
+tions for the Department of Homeland Security to rem
+edy the problem. He conducted research on the $10 bil
+lion US-VISIT Program, implemented after the Sept. 11
+terrorist attacks, which requires visitors to the United
+States give two index fingerprints that are cross-refer
+enced with a database of criminals.
+Wein's findings call fora more precise method of fin
+gerprinting because the probability of matching decreas
+es when fingerprint quality is poor.
+The Lawrence Livermore National Laboratory first
+approached Wein with a proposal to analyze the US
+VISIT program by investigating waiting lines at airports.
+But when that project stalled, Wein decided to personal
+ly delve into the study of fingerprints.
+But his interest in potential flaws in the US-VISIT
+program didn't come by chance, he said.
+"There was a reason to believe there was vulnerabil
+ity in the system from the National Institute for Stan
+dards and Technology," Wein said. "Unlike other home
+land projects, fingerprinting was well documented. We
+
+
+L A. CICERO/Stanford News Service
+Prof. Lawrence Wein founds flaws in the government's
+US-VISIT Program last year and presented his findings
+in a report released early this month.
+understood the problem so we devel
+oped a mathematical model captur
+ing the main features of the data."
+Manas Baveja, a graduate student
+in computational and mathematical
+engineering, helped Wein with his re
+search.
+"These models,in conjunction with
+simple game theoretic models, helped
+us in highlighting vulnerabilities in the
+current US-VISIT program," Baveja
+said. "We then spent our time thinking
+about strategies to make the system
+more robust."
+Addressing the issue of poor finger
+print quality, the researchers suggested
+collecting 10 fingerprints instead of
+two, which is currently the standard.
+The 10-fingerprint strategy yielded a
+much higher probability of a match
+even if the fingerprint quality was poor,
+according to their models.
+Cost, however, will be the major
+hurdle to implementing changes, Wein
+said.
+"Right now, it's the money be
+cause you scrap the two finger ma
+chines and buy 10 finger machines,"
+Wein said. "But, on the scale of the
+$10 billion program, it wouldn't be
+that expensive."
+Wein. who has since briefed gov
+
+ernment officials and staff members
+at the White House and the Depart
+ment of Homeland Security, said he
+hopes the US-VISIT program can be
+refitted with more effective equip
+ment within a year.
+No stranger to advising the govern
+ment on Homeland Security, Wein has
+previously worked on projects involv
+ing smallpox vaccinations, anthrax
+policies and port security regulations
+regarding the entry of nuclear
+weapons into the country.
+Some international students have
+expressed concern that the changes to
+the system might make entering the
+country even more difficult.
+Freshman Wontai Cho from
+South Korea said that the potential
+shift in policy might further damage
+the United States' image in eyes
+of visitors.
+"Collecting foreign students' fin
+gerprints and taking photographs
+doesn't make the first impression of
+the United States any better," he said.
+"As an international student whose
+photograph and fingerprints are
+stored in the Pentagon, I really hate
+the way that the U.S. government
+treats all foreigners like they are ter
+rorist suspects."
+So far, the US-VISIT program has
+denied 7,000 visas and 594 admissions
+to the U.S, and has has led to 39 arrests
+since January 2004, according to a
+press release issued by the Depart
+ment of Homeland Security TUesday.

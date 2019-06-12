@@ -1,0 +1,618 @@
+# BEGINING AND END SPEEDS
+## 
+### 
+Light Difficult
+Reading Reading
+Robert L. Ash, Mortgage Banker 575 2,052 481 1,450
+Bruce Barclay, Engineer 452 2,125 344 1,400
+J. T. Gleeson, Civil Engineer 221 1,370 186 780
+Helen Moran, Med. Technologist 300 1,725 244 975
+Mary Ellen Phelps, Teacher 381 1,875 232 1,600
+Robert C. Wilhelm, Student 400 4,125 321 3,200
+R. Ken Wilhelm, Ex. Sec., Farm B. 282 3,750 258 2,504
+James R. Adams, Student 485 2,625 355 1,560
+Ben Stein, Student 227 1,514 186 900
+Karen West, Teacher 561 2,000 392 2,080
+Clyde Chrlstofferson, Student 671 2,500 392 2,000
+William Brede, Economist 370 1,435 257 975
+Peter Momfield, Student 335 1,600 219 800
+Anthony Plutynski, Engineer 609 1,600 369 2,210
+Leonard L. Robinson, Student 355 3,030 274 1,300
+Bonnie Rose, Student 206 3,000 179 1,600
+Joan K. Bradford, P.R. Director 1,000 6,100 375 1,560
+R. C. Katx, Economist 500 1,875 295 1,180
+Peter Kindschi, Student 318 1,688 281 911
+Gene Timmon, Minister 592 2,961 375 1,200
+W. W. Trusr, Engineer *50 2,700 330 1,600
+John M. Gaje, Student 441 2,197 >11 1,050
+Gary E. Myhro, Machinist 266 2,571 214 1,266
+Richard A. Hein, Engineer 351 3,700 295 1,700
+Steve Feldstein, Student 548 2,126 331 1,400
+Lyle R. Johnson, Market Analyst 365 4,500 308 1,200
+Kathleen Smith, Student 395 3,500 278 2,000
+J. Allison, Production Foreman 274 1,875 276 1,798
+L. Bodily, Electrical Engineer 500 2,500 379 1,600
+Stephen Luthy, Student 390 4,800 378 3,300
+Betty Breslin, Receptionist 441 3,250 214 1,200
+Ivan Beck, Electrical Engineer 350 4,640 480 2,400
+L. B. Hooper, Doctor 350 2,800 266 1,400
+Elizabeth Milrod, Housewife 400 1,550 255 800
+Robert C. Woolley, Realtor 466 2,762 320 1,050
+Alan J. Adler, Engineer 300 1,150 250 800
+s>am Wallis, Orthodontist 323 1,120 246 800
+Kirk D. Hall, Salesman 350 4,833 312 1,416
+Jack Andrews, Sales Rep. 242 1,071 241 1,108
+Light Difficult
+Reading Reading
+Robert L. Ash, Mortgage Banker 575 2,052 481 1,450
+Bruce Barclay, Engineer 452 2,125 344 1,400
+J. T. Gleeson, Civil Engineer 221 1,370 186 780
+Helen Moran, Med. Technologist 300 1,725 244 975
+Mary Ellen Phelps, Teacher 381 1,875 232 1,600
+Robert C. Wilhelm, Student 400 4,125 321 3,200
+R. Ken Wilhelm, Ex. Sec., Farm B. 282 3,750 258 2,504
+James R. Adams, Student 485 2,625 355 1,560
+Ben Stein, Student 227 1,514 186 900
+Karen West, Teacher 561 2,000 392 2,080
+Clyde Chrlstofferson, Student 671 2,500 392 2,000
+William Brede, Economist 370 1,435 257 975
+Peter Momfield, Student 335 1,600 219 800
+Anthony Plutynski, Engineer 609 1,600 369 2,210
+Leonard L. Robinson, Student 355 3,030 274 1,300
+Bonnie Rose, Student 206 3,000 179 1,600
+Joan K. Bradford, P.R. Director 1,000 6,100 375 1,560
+R. C. Katx, Economist 500 1,875 295 1,180
+Peter Kindschi, Student 318 1,688 281 911
+Gene Timmon, Minister 592 2,961 375 1,200
+W. W. Trusr, Engineer *50 2,700 330 1,600
+John M. Gaje, Student 441 2,197 >11 1,050
+Gary E. Myhro, Machinist 266 2,571 214 1,266
+Richard A. Hein, Engineer 351 3,700 295 1,700
+Steve Feldstein, Student 548 2,126 331 1,400
+Lyle R. Johnson, Market Analyst 365 4,500 308 1,200
+Kathleen Smith, Student 395 3,500 278 2,000
+J. Allison, Production Foreman 274 1,875 276 1,798
+L. Bodily, Electrical Engineer 500 2,500 379 1,600
+Stephen Luthy, Student 390 4,800 378 3,300
+Betty Breslin, Receptionist 441 3,250 214 1,200
+Ivan Beck, Electrical Engineer 350 4,640 480 2,400
+L. B. Hooper, Doctor 350 2,800 266 1,400
+Elizabeth Milrod, Housewife 400 1,550 255 800
+Robert C. Woolley, Realtor 466 2,762 320 1,050
+Alan J. Adler, Engineer 300 1,150 250 800
+s>am Wallis, Orthodontist 323 1,120 246 800
+Kirk D. Hall, Salesman 350 4,833 312 1,416
+Jack Andrews, Sales Rep. 242 1,071 241 1,108
+Light Difficult
+Reading Reading
+Robert L. Ash, Mortgage Banker 575 2,052 481 1,450
+Bruce Barclay, Engineer 452 2,125 344 1,400
+J. T. Gleeson, Civil Engineer 221 1,370 186 780
+Helen Moran, Med. Technologist 300 1,725 244 975
+Mary Ellen Phelps, Teacher 381 1,875 232 1,600
+Robert C. Wilhelm, Student 400 4,125 321 3,200
+R. Ken Wilhelm, Ex. Sec., Farm B. 282 3,750 258 2,504
+James R. Adams, Student 485 2,625 355 1,560
+Ben Stein, Student 227 1,514 186 900
+Karen West, Teacher 561 2,000 392 2,080
+Clyde Chrlstofferson, Student 671 2,500 392 2,000
+William Brede, Economist 370 1,435 257 975
+Peter Momfield, Student 335 1,600 219 800
+Anthony Plutynski, Engineer 609 1,600 369 2,210
+Leonard L. Robinson, Student 355 3,030 274 1,300
+Bonnie Rose, Student 206 3,000 179 1,600
+Joan K. Bradford, P.R. Director 1,000 6,100 375 1,560
+R. C. Katx, Economist 500 1,875 295 1,180
+Peter Kindschi, Student 318 1,688 281 911
+Gene Timmon, Minister 592 2,961 375 1,200
+W. W. Trusr, Engineer *50 2,700 330 1,600
+John M. Gaje, Student 441 2,197 >11 1,050
+Gary E. Myhro, Machinist 266 2,571 214 1,266
+Richard A. Hein, Engineer 351 3,700 295 1,700
+Steve Feldstein, Student 548 2,126 331 1,400
+Lyle R. Johnson, Market Analyst 365 4,500 308 1,200
+Kathleen Smith, Student 395 3,500 278 2,000
+J. Allison, Production Foreman 274 1,875 276 1,798
+L. Bodily, Electrical Engineer 500 2,500 379 1,600
+Stephen Luthy, Student 390 4,800 378 3,300
+Betty Breslin, Receptionist 441 3,250 214 1,200
+Ivan Beck, Electrical Engineer 350 4,640 480 2,400
+L. B. Hooper, Doctor 350 2,800 266 1,400
+Elizabeth Milrod, Housewife 400 1,550 255 800
+Robert C. Woolley, Realtor 466 2,762 320 1,050
+Alan J. Adler, Engineer 300 1,150 250 800
+s>am Wallis, Orthodontist 323 1,120 246 800
+Kirk D. Hall, Salesman 350 4,833 312 1,416
+Jack Andrews, Sales Rep. 242 1,071 241 1,108
+Light Difficult
+Reading Reading
+Robert L. Ash, Mortgage Banker 575 2,052 481 1,450
+Bruce Barclay, Engineer 452 2,125 344 1,400
+J. T. Gleeson, Civil Engineer 221 1,370 186 780
+Helen Moran, Med. Technologist 300 1,725 244 975
+Mary Ellen Phelps, Teacher 381 1,875 232 1,600
+Robert C. Wilhelm, Student 400 4,125 321 3,200
+R. Ken Wilhelm, Ex. Sec., Farm B. 282 3,750 258 2,504
+James R. Adams, Student 485 2,625 355 1,560
+Ben Stein, Student 227 1,514 186 900
+Karen West, Teacher 561 2,000 392 2,080
+Clyde Chrlstofferson, Student 671 2,500 392 2,000
+William Brede, Economist 370 1,435 257 975
+Peter Momfield, Student 335 1,600 219 800
+Anthony Plutynski, Engineer 609 1,600 369 2,210
+Leonard L. Robinson, Student 355 3,030 274 1,300
+Bonnie Rose, Student 206 3,000 179 1,600
+Joan K. Bradford, P.R. Director 1,000 6,100 375 1,560
+R. C. Katx, Economist 500 1,875 295 1,180
+Peter Kindschi, Student 318 1,688 281 911
+Gene Timmon, Minister 592 2,961 375 1,200
+W. W. Trusr, Engineer *50 2,700 330 1,600
+John M. Gaje, Student 441 2,197 >11 1,050
+Gary E. Myhro, Machinist 266 2,571 214 1,266
+Richard A. Hein, Engineer 351 3,700 295 1,700
+Steve Feldstein, Student 548 2,126 331 1,400
+Lyle R. Johnson, Market Analyst 365 4,500 308 1,200
+Kathleen Smith, Student 395 3,500 278 2,000
+J. Allison, Production Foreman 274 1,875 276 1,798
+L. Bodily, Electrical Engineer 500 2,500 379 1,600
+Stephen Luthy, Student 390 4,800 378 3,300
+Betty Breslin, Receptionist 441 3,250 214 1,200
+Ivan Beck, Electrical Engineer 350 4,640 480 2,400
+L. B. Hooper, Doctor 350 2,800 266 1,400
+Elizabeth Milrod, Housewife 400 1,550 255 800
+Robert C. Woolley, Realtor 466 2,762 320 1,050
+Alan J. Adler, Engineer 300 1,150 250 800
+s>am Wallis, Orthodontist 323 1,120 246 800
+Kirk D. Hall, Salesman 350 4,833 312 1,416
+Jack Andrews, Sales Rep. 242 1,071 241 1,108
+Light Difficult
+Reading Reading
+Robert L. Ash, Mortgage Banker 575 2,052 481 1,450
+Bruce Barclay, Engineer 452 2,125 344 1,400
+J. T. Gleeson, Civil Engineer 221 1,370 186 780
+Helen Moran, Med. Technologist 300 1,725 244 975
+Mary Ellen Phelps, Teacher 381 1,875 232 1,600
+Robert C. Wilhelm, Student 400 4,125 321 3,200
+R. Ken Wilhelm, Ex. Sec., Farm B. 282 3,750 258 2,504
+James R. Adams, Student 485 2,625 355 1,560
+Ben Stein, Student 227 1,514 186 900
+Karen West, Teacher 561 2,000 392 2,080
+Clyde Chrlstofferson, Student 671 2,500 392 2,000
+William Brede, Economist 370 1,435 257 975
+Peter Momfield, Student 335 1,600 219 800
+Anthony Plutynski, Engineer 609 1,600 369 2,210
+Leonard L. Robinson, Student 355 3,030 274 1,300
+Bonnie Rose, Student 206 3,000 179 1,600
+Joan K. Bradford, P.R. Director 1,000 6,100 375 1,560
+R. C. Katx, Economist 500 1,875 295 1,180
+Peter Kindschi, Student 318 1,688 281 911
+Gene Timmon, Minister 592 2,961 375 1,200
+W. W. Trusr, Engineer *50 2,700 330 1,600
+John M. Gaje, Student 441 2,197 >11 1,050
+Gary E. Myhro, Machinist 266 2,571 214 1,266
+Richard A. Hein, Engineer 351 3,700 295 1,700
+Steve Feldstein, Student 548 2,126 331 1,400
+Lyle R. Johnson, Market Analyst 365 4,500 308 1,200
+Kathleen Smith, Student 395 3,500 278 2,000
+J. Allison, Production Foreman 274 1,875 276 1,798
+L. Bodily, Electrical Engineer 500 2,500 379 1,600
+Stephen Luthy, Student 390 4,800 378 3,300
+Betty Breslin, Receptionist 441 3,250 214 1,200
+Ivan Beck, Electrical Engineer 350 4,640 480 2,400
+L. B. Hooper, Doctor 350 2,800 266 1,400
+Elizabeth Milrod, Housewife 400 1,550 255 800
+Robert C. Woolley, Realtor 466 2,762 320 1,050
+Alan J. Adler, Engineer 300 1,150 250 800
+s>am Wallis, Orthodontist 323 1,120 246 800
+Kirk D. Hall, Salesman 350 4,833 312 1,416
+Jack Andrews, Sales Rep. 242 1,071 241 1,108
+Light Difficult
+Reading Reading
+Robert L. Ash, Mortgage Banker 575 2,052 481 1,450
+Bruce Barclay, Engineer 452 2,125 344 1,400
+J. T. Gleeson, Civil Engineer 221 1,370 186 780
+Helen Moran, Med. Technologist 300 1,725 244 975
+Mary Ellen Phelps, Teacher 381 1,875 232 1,600
+Robert C. Wilhelm, Student 400 4,125 321 3,200
+R. Ken Wilhelm, Ex. Sec., Farm B. 282 3,750 258 2,504
+James R. Adams, Student 485 2,625 355 1,560
+Ben Stein, Student 227 1,514 186 900
+Karen West, Teacher 561 2,000 392 2,080
+Clyde Chrlstofferson, Student 671 2,500 392 2,000
+William Brede, Economist 370 1,435 257 975
+Peter Momfield, Student 335 1,600 219 800
+Anthony Plutynski, Engineer 609 1,600 369 2,210
+Leonard L. Robinson, Student 355 3,030 274 1,300
+Bonnie Rose, Student 206 3,000 179 1,600
+Joan K. Bradford, P.R. Director 1,000 6,100 375 1,560
+R. C. Katx, Economist 500 1,875 295 1,180
+Peter Kindschi, Student 318 1,688 281 911
+Gene Timmon, Minister 592 2,961 375 1,200
+W. W. Trusr, Engineer *50 2,700 330 1,600
+John M. Gaje, Student 441 2,197 >11 1,050
+Gary E. Myhro, Machinist 266 2,571 214 1,266
+Richard A. Hein, Engineer 351 3,700 295 1,700
+Steve Feldstein, Student 548 2,126 331 1,400
+Lyle R. Johnson, Market Analyst 365 4,500 308 1,200
+Kathleen Smith, Student 395 3,500 278 2,000
+J. Allison, Production Foreman 274 1,875 276 1,798
+L. Bodily, Electrical Engineer 500 2,500 379 1,600
+Stephen Luthy, Student 390 4,800 378 3,300
+Betty Breslin, Receptionist 441 3,250 214 1,200
+Ivan Beck, Electrical Engineer 350 4,640 480 2,400
+L. B. Hooper, Doctor 350 2,800 266 1,400
+Elizabeth Milrod, Housewife 400 1,550 255 800
+Robert C. Woolley, Realtor 466 2,762 320 1,050
+Alan J. Adler, Engineer 300 1,150 250 800
+s>am Wallis, Orthodontist 323 1,120 246 800
+Kirk D. Hall, Salesman 350 4,833 312 1,416
+Jack Andrews, Sales Rep. 242 1,071 241 1,108
+Light Difficult
+Reading Reading
+Robert L. Ash, Mortgage Banker 575 2,052 481 1,450
+Bruce Barclay, Engineer 452 2,125 344 1,400
+J. T. Gleeson, Civil Engineer 221 1,370 186 780
+Helen Moran, Med. Technologist 300 1,725 244 975
+Mary Ellen Phelps, Teacher 381 1,875 232 1,600
+Robert C. Wilhelm, Student 400 4,125 321 3,200
+R. Ken Wilhelm, Ex. Sec., Farm B. 282 3,750 258 2,504
+James R. Adams, Student 485 2,625 355 1,560
+Ben Stein, Student 227 1,514 186 900
+Karen West, Teacher 561 2,000 392 2,080
+Clyde Chrlstofferson, Student 671 2,500 392 2,000
+William Brede, Economist 370 1,435 257 975
+Peter Momfield, Student 335 1,600 219 800
+Anthony Plutynski, Engineer 609 1,600 369 2,210
+Leonard L. Robinson, Student 355 3,030 274 1,300
+Bonnie Rose, Student 206 3,000 179 1,600
+Joan K. Bradford, P.R. Director 1,000 6,100 375 1,560
+R. C. Katx, Economist 500 1,875 295 1,180
+Peter Kindschi, Student 318 1,688 281 911
+Gene Timmon, Minister 592 2,961 375 1,200
+W. W. Trusr, Engineer *50 2,700 330 1,600
+John M. Gaje, Student 441 2,197 >11 1,050
+Gary E. Myhro, Machinist 266 2,571 214 1,266
+Richard A. Hein, Engineer 351 3,700 295 1,700
+Steve Feldstein, Student 548 2,126 331 1,400
+Lyle R. Johnson, Market Analyst 365 4,500 308 1,200
+Kathleen Smith, Student 395 3,500 278 2,000
+J. Allison, Production Foreman 274 1,875 276 1,798
+L. Bodily, Electrical Engineer 500 2,500 379 1,600
+Stephen Luthy, Student 390 4,800 378 3,300
+Betty Breslin, Receptionist 441 3,250 214 1,200
+Ivan Beck, Electrical Engineer 350 4,640 480 2,400
+L. B. Hooper, Doctor 350 2,800 266 1,400
+Elizabeth Milrod, Housewife 400 1,550 255 800
+Robert C. Woolley, Realtor 466 2,762 320 1,050
+Alan J. Adler, Engineer 300 1,150 250 800
+s>am Wallis, Orthodontist 323 1,120 246 800
+Kirk D. Hall, Salesman 350 4,833 312 1,416
+Jack Andrews, Sales Rep. 242 1,071 241 1,108
+Light Difficult
+Reading Reading
+Robert L. Ash, Mortgage Banker 575 2,052 481 1,450
+Bruce Barclay, Engineer 452 2,125 344 1,400
+J. T. Gleeson, Civil Engineer 221 1,370 186 780
+Helen Moran, Med. Technologist 300 1,725 244 975
+Mary Ellen Phelps, Teacher 381 1,875 232 1,600
+Robert C. Wilhelm, Student 400 4,125 321 3,200
+R. Ken Wilhelm, Ex. Sec., Farm B. 282 3,750 258 2,504
+James R. Adams, Student 485 2,625 355 1,560
+Ben Stein, Student 227 1,514 186 900
+Karen West, Teacher 561 2,000 392 2,080
+Clyde Chrlstofferson, Student 671 2,500 392 2,000
+William Brede, Economist 370 1,435 257 975
+Peter Momfield, Student 335 1,600 219 800
+Anthony Plutynski, Engineer 609 1,600 369 2,210
+Leonard L. Robinson, Student 355 3,030 274 1,300
+Bonnie Rose, Student 206 3,000 179 1,600
+Joan K. Bradford, P.R. Director 1,000 6,100 375 1,560
+R. C. Katx, Economist 500 1,875 295 1,180
+Peter Kindschi, Student 318 1,688 281 911
+Gene Timmon, Minister 592 2,961 375 1,200
+W. W. Trusr, Engineer *50 2,700 330 1,600
+John M. Gaje, Student 441 2,197 >11 1,050
+Gary E. Myhro, Machinist 266 2,571 214 1,266
+Richard A. Hein, Engineer 351 3,700 295 1,700
+Steve Feldstein, Student 548 2,126 331 1,400
+Lyle R. Johnson, Market Analyst 365 4,500 308 1,200
+Kathleen Smith, Student 395 3,500 278 2,000
+J. Allison, Production Foreman 274 1,875 276 1,798
+L. Bodily, Electrical Engineer 500 2,500 379 1,600
+Stephen Luthy, Student 390 4,800 378 3,300
+Betty Breslin, Receptionist 441 3,250 214 1,200
+Ivan Beck, Electrical Engineer 350 4,640 480 2,400
+L. B. Hooper, Doctor 350 2,800 266 1,400
+Elizabeth Milrod, Housewife 400 1,550 255 800
+Robert C. Woolley, Realtor 466 2,762 320 1,050
+Alan J. Adler, Engineer 300 1,150 250 800
+s>am Wallis, Orthodontist 323 1,120 246 800
+Kirk D. Hall, Salesman 350 4,833 312 1,416
+Jack Andrews, Sales Rep. 242 1,071 241 1,108
+Light Difficult
+Reading Reading
+Robert L. Ash, Mortgage Banker 575 2,052 481 1,450
+Bruce Barclay, Engineer 452 2,125 344 1,400
+J. T. Gleeson, Civil Engineer 221 1,370 186 780
+Helen Moran, Med. Technologist 300 1,725 244 975
+Mary Ellen Phelps, Teacher 381 1,875 232 1,600
+Robert C. Wilhelm, Student 400 4,125 321 3,200
+R. Ken Wilhelm, Ex. Sec., Farm B. 282 3,750 258 2,504
+James R. Adams, Student 485 2,625 355 1,560
+Ben Stein, Student 227 1,514 186 900
+Karen West, Teacher 561 2,000 392 2,080
+Clyde Chrlstofferson, Student 671 2,500 392 2,000
+William Brede, Economist 370 1,435 257 975
+Peter Momfield, Student 335 1,600 219 800
+Anthony Plutynski, Engineer 609 1,600 369 2,210
+Leonard L. Robinson, Student 355 3,030 274 1,300
+Bonnie Rose, Student 206 3,000 179 1,600
+Joan K. Bradford, P.R. Director 1,000 6,100 375 1,560
+R. C. Katx, Economist 500 1,875 295 1,180
+Peter Kindschi, Student 318 1,688 281 911
+Gene Timmon, Minister 592 2,961 375 1,200
+W. W. Trusr, Engineer *50 2,700 330 1,600
+John M. Gaje, Student 441 2,197 >11 1,050
+Gary E. Myhro, Machinist 266 2,571 214 1,266
+Richard A. Hein, Engineer 351 3,700 295 1,700
+Steve Feldstein, Student 548 2,126 331 1,400
+Lyle R. Johnson, Market Analyst 365 4,500 308 1,200
+Kathleen Smith, Student 395 3,500 278 2,000
+J. Allison, Production Foreman 274 1,875 276 1,798
+L. Bodily, Electrical Engineer 500 2,500 379 1,600
+Stephen Luthy, Student 390 4,800 378 3,300
+Betty Breslin, Receptionist 441 3,250 214 1,200
+Ivan Beck, Electrical Engineer 350 4,640 480 2,400
+L. B. Hooper, Doctor 350 2,800 266 1,400
+Elizabeth Milrod, Housewife 400 1,550 255 800
+Robert C. Woolley, Realtor 466 2,762 320 1,050
+Alan J. Adler, Engineer 300 1,150 250 800
+s>am Wallis, Orthodontist 323 1,120 246 800
+Kirk D. Hall, Salesman 350 4,833 312 1,416
+Jack Andrews, Sales Rep. 242 1,071 241 1,108
+Light Difficult
+Reading Reading
+Robert L. Ash, Mortgage Banker 575 2,052 481 1,450
+Bruce Barclay, Engineer 452 2,125 344 1,400
+J. T. Gleeson, Civil Engineer 221 1,370 186 780
+Helen Moran, Med. Technologist 300 1,725 244 975
+Mary Ellen Phelps, Teacher 381 1,875 232 1,600
+Robert C. Wilhelm, Student 400 4,125 321 3,200
+R. Ken Wilhelm, Ex. Sec., Farm B. 282 3,750 258 2,504
+James R. Adams, Student 485 2,625 355 1,560
+Ben Stein, Student 227 1,514 186 900
+Karen West, Teacher 561 2,000 392 2,080
+Clyde Chrlstofferson, Student 671 2,500 392 2,000
+William Brede, Economist 370 1,435 257 975
+Peter Momfield, Student 335 1,600 219 800
+Anthony Plutynski, Engineer 609 1,600 369 2,210
+Leonard L. Robinson, Student 355 3,030 274 1,300
+Bonnie Rose, Student 206 3,000 179 1,600
+Joan K. Bradford, P.R. Director 1,000 6,100 375 1,560
+R. C. Katx, Economist 500 1,875 295 1,180
+Peter Kindschi, Student 318 1,688 281 911
+Gene Timmon, Minister 592 2,961 375 1,200
+W. W. Trusr, Engineer *50 2,700 330 1,600
+John M. Gaje, Student 441 2,197 >11 1,050
+Gary E. Myhro, Machinist 266 2,571 214 1,266
+Richard A. Hein, Engineer 351 3,700 295 1,700
+Steve Feldstein, Student 548 2,126 331 1,400
+Lyle R. Johnson, Market Analyst 365 4,500 308 1,200
+Kathleen Smith, Student 395 3,500 278 2,000
+J. Allison, Production Foreman 274 1,875 276 1,798
+L. Bodily, Electrical Engineer 500 2,500 379 1,600
+Stephen Luthy, Student 390 4,800 378 3,300
+Betty Breslin, Receptionist 441 3,250 214 1,200
+Ivan Beck, Electrical Engineer 350 4,640 480 2,400
+L. B. Hooper, Doctor 350 2,800 266 1,400
+Elizabeth Milrod, Housewife 400 1,550 255 800
+Robert C. Woolley, Realtor 466 2,762 320 1,050
+Alan J. Adler, Engineer 300 1,150 250 800
+s>am Wallis, Orthodontist 323 1,120 246 800
+Kirk D. Hall, Salesman 350 4,833 312 1,416
+Jack Andrews, Sales Rep. 242 1,071 241 1,108
+Light Difficult
+Reading Reading
+Robert L. Ash, Mortgage Banker 575 2,052 481 1,450
+Bruce Barclay, Engineer 452 2,125 344 1,400
+J. T. Gleeson, Civil Engineer 221 1,370 186 780
+Helen Moran, Med. Technologist 300 1,725 244 975
+Mary Ellen Phelps, Teacher 381 1,875 232 1,600
+Robert C. Wilhelm, Student 400 4,125 321 3,200
+R. Ken Wilhelm, Ex. Sec., Farm B. 282 3,750 258 2,504
+James R. Adams, Student 485 2,625 355 1,560
+Ben Stein, Student 227 1,514 186 900
+Karen West, Teacher 561 2,000 392 2,080
+Clyde Chrlstofferson, Student 671 2,500 392 2,000
+William Brede, Economist 370 1,435 257 975
+Peter Momfield, Student 335 1,600 219 800
+Anthony Plutynski, Engineer 609 1,600 369 2,210
+Leonard L. Robinson, Student 355 3,030 274 1,300
+Bonnie Rose, Student 206 3,000 179 1,600
+Joan K. Bradford, P.R. Director 1,000 6,100 375 1,560
+R. C. Katx, Economist 500 1,875 295 1,180
+Peter Kindschi, Student 318 1,688 281 911
+Gene Timmon, Minister 592 2,961 375 1,200
+W. W. Trusr, Engineer *50 2,700 330 1,600
+John M. Gaje, Student 441 2,197 >11 1,050
+Gary E. Myhro, Machinist 266 2,571 214 1,266
+Richard A. Hein, Engineer 351 3,700 295 1,700
+Steve Feldstein, Student 548 2,126 331 1,400
+Lyle R. Johnson, Market Analyst 365 4,500 308 1,200
+Kathleen Smith, Student 395 3,500 278 2,000
+J. Allison, Production Foreman 274 1,875 276 1,798
+L. Bodily, Electrical Engineer 500 2,500 379 1,600
+Stephen Luthy, Student 390 4,800 378 3,300
+Betty Breslin, Receptionist 441 3,250 214 1,200
+Ivan Beck, Electrical Engineer 350 4,640 480 2,400
+L. B. Hooper, Doctor 350 2,800 266 1,400
+Elizabeth Milrod, Housewife 400 1,550 255 800
+Robert C. Woolley, Realtor 466 2,762 320 1,050
+Alan J. Adler, Engineer 300 1,150 250 800
+s>am Wallis, Orthodontist 323 1,120 246 800
+Kirk D. Hall, Salesman 350 4,833 312 1,416
+Jack Andrews, Sales Rep. 242 1,071 241 1,108
+Light Difficult
+Reading Reading
+Robert L. Ash, Mortgage Banker 575 2,052 481 1,450
+Bruce Barclay, Engineer 452 2,125 344 1,400
+J. T. Gleeson, Civil Engineer 221 1,370 186 780
+Helen Moran, Med. Technologist 300 1,725 244 975
+Mary Ellen Phelps, Teacher 381 1,875 232 1,600
+Robert C. Wilhelm, Student 400 4,125 321 3,200
+R. Ken Wilhelm, Ex. Sec., Farm B. 282 3,750 258 2,504
+James R. Adams, Student 485 2,625 355 1,560
+Ben Stein, Student 227 1,514 186 900
+Karen West, Teacher 561 2,000 392 2,080
+Clyde Chrlstofferson, Student 671 2,500 392 2,000
+William Brede, Economist 370 1,435 257 975
+Peter Momfield, Student 335 1,600 219 800
+Anthony Plutynski, Engineer 609 1,600 369 2,210
+Leonard L. Robinson, Student 355 3,030 274 1,300
+Bonnie Rose, Student 206 3,000 179 1,600
+Joan K. Bradford, P.R. Director 1,000 6,100 375 1,560
+R. C. Katx, Economist 500 1,875 295 1,180
+Peter Kindschi, Student 318 1,688 281 911
+Gene Timmon, Minister 592 2,961 375 1,200
+W. W. Trusr, Engineer *50 2,700 330 1,600
+John M. Gaje, Student 441 2,197 >11 1,050
+Gary E. Myhro, Machinist 266 2,571 214 1,266
+Richard A. Hein, Engineer 351 3,700 295 1,700
+Steve Feldstein, Student 548 2,126 331 1,400
+Lyle R. Johnson, Market Analyst 365 4,500 308 1,200
+Kathleen Smith, Student 395 3,500 278 2,000
+J. Allison, Production Foreman 274 1,875 276 1,798
+L. Bodily, Electrical Engineer 500 2,500 379 1,600
+Stephen Luthy, Student 390 4,800 378 3,300
+Betty Breslin, Receptionist 441 3,250 214 1,200
+Ivan Beck, Electrical Engineer 350 4,640 480 2,400
+L. B. Hooper, Doctor 350 2,800 266 1,400
+Elizabeth Milrod, Housewife 400 1,550 255 800
+Robert C. Woolley, Realtor 466 2,762 320 1,050
+Alan J. Adler, Engineer 300 1,150 250 800
+s>am Wallis, Orthodontist 323 1,120 246 800
+Kirk D. Hall, Salesman 350 4,833 312 1,416
+Jack Andrews, Sales Rep. 242 1,071 241 1,108
+Light Difficult
+Reading Reading
+Robert L. Ash, Mortgage Banker 575 2,052 481 1,450
+Bruce Barclay, Engineer 452 2,125 344 1,400
+J. T. Gleeson, Civil Engineer 221 1,370 186 780
+Helen Moran, Med. Technologist 300 1,725 244 975
+Mary Ellen Phelps, Teacher 381 1,875 232 1,600
+Robert C. Wilhelm, Student 400 4,125 321 3,200
+R. Ken Wilhelm, Ex. Sec., Farm B. 282 3,750 258 2,504
+James R. Adams, Student 485 2,625 355 1,560
+Ben Stein, Student 227 1,514 186 900
+Karen West, Teacher 561 2,000 392 2,080
+Clyde Chrlstofferson, Student 671 2,500 392 2,000
+William Brede, Economist 370 1,435 257 975
+Peter Momfield, Student 335 1,600 219 800
+Anthony Plutynski, Engineer 609 1,600 369 2,210
+Leonard L. Robinson, Student 355 3,030 274 1,300
+Bonnie Rose, Student 206 3,000 179 1,600
+Joan K. Bradford, P.R. Director 1,000 6,100 375 1,560
+R. C. Katx, Economist 500 1,875 295 1,180
+Peter Kindschi, Student 318 1,688 281 911
+Gene Timmon, Minister 592 2,961 375 1,200
+W. W. Trusr, Engineer *50 2,700 330 1,600
+John M. Gaje, Student 441 2,197 >11 1,050
+Gary E. Myhro, Machinist 266 2,571 214 1,266
+Richard A. Hein, Engineer 351 3,700 295 1,700
+Steve Feldstein, Student 548 2,126 331 1,400
+Lyle R. Johnson, Market Analyst 365 4,500 308 1,200
+Kathleen Smith, Student 395 3,500 278 2,000
+J. Allison, Production Foreman 274 1,875 276 1,798
+L. Bodily, Electrical Engineer 500 2,500 379 1,600
+Stephen Luthy, Student 390 4,800 378 3,300
+Betty Breslin, Receptionist 441 3,250 214 1,200
+Ivan Beck, Electrical Engineer 350 4,640 480 2,400
+L. B. Hooper, Doctor 350 2,800 266 1,400
+Elizabeth Milrod, Housewife 400 1,550 255 800
+Robert C. Woolley, Realtor 466 2,762 320 1,050
+Alan J. Adler, Engineer 300 1,150 250 800
+s>am Wallis, Orthodontist 323 1,120 246 800
+Kirk D. Hall, Salesman 350 4,833 312 1,416
+Jack Andrews, Sales Rep. 242 1,071 241 1,108
+Light Difficult
+Reading Reading
+Robert L. Ash, Mortgage Banker 575 2,052 481 1,450
+Bruce Barclay, Engineer 452 2,125 344 1,400
+J. T. Gleeson, Civil Engineer 221 1,370 186 780
+Helen Moran, Med. Technologist 300 1,725 244 975
+Mary Ellen Phelps, Teacher 381 1,875 232 1,600
+Robert C. Wilhelm, Student 400 4,125 321 3,200
+R. Ken Wilhelm, Ex. Sec., Farm B. 282 3,750 258 2,504
+James R. Adams, Student 485 2,625 355 1,560
+Ben Stein, Student 227 1,514 186 900
+Karen West, Teacher 561 2,000 392 2,080
+Clyde Chrlstofferson, Student 671 2,500 392 2,000
+William Brede, Economist 370 1,435 257 975
+Peter Momfield, Student 335 1,600 219 800
+Anthony Plutynski, Engineer 609 1,600 369 2,210
+Leonard L. Robinson, Student 355 3,030 274 1,300
+Bonnie Rose, Student 206 3,000 179 1,600
+Joan K. Bradford, P.R. Director 1,000 6,100 375 1,560
+R. C. Katx, Economist 500 1,875 295 1,180
+Peter Kindschi, Student 318 1,688 281 911
+Gene Timmon, Minister 592 2,961 375 1,200
+W. W. Trusr, Engineer *50 2,700 330 1,600
+John M. Gaje, Student 441 2,197 >11 1,050
+Gary E. Myhro, Machinist 266 2,571 214 1,266
+Richard A. Hein, Engineer 351 3,700 295 1,700
+Steve Feldstein, Student 548 2,126 331 1,400
+Lyle R. Johnson, Market Analyst 365 4,500 308 1,200
+Kathleen Smith, Student 395 3,500 278 2,000
+J. Allison, Production Foreman 274 1,875 276 1,798
+L. Bodily, Electrical Engineer 500 2,500 379 1,600
+Stephen Luthy, Student 390 4,800 378 3,300
+Betty Breslin, Receptionist 441 3,250 214 1,200
+Ivan Beck, Electrical Engineer 350 4,640 480 2,400
+L. B. Hooper, Doctor 350 2,800 266 1,400
+Elizabeth Milrod, Housewife 400 1,550 255 800
+Robert C. Woolley, Realtor 466 2,762 320 1,050
+Alan J. Adler, Engineer 300 1,150 250 800
+s>am Wallis, Orthodontist 323 1,120 246 800
+Kirk D. Hall, Salesman 350 4,833 312 1,416
+Jack Andrews, Sales Rep. 242 1,071 241 1,108
+Light Difficult
+Reading Reading
+Robert L. Ash, Mortgage Banker 575 2,052 481 1,450
+Bruce Barclay, Engineer 452 2,125 344 1,400
+J. T. Gleeson, Civil Engineer 221 1,370 186 780
+Helen Moran, Med. Technologist 300 1,725 244 975
+Mary Ellen Phelps, Teacher 381 1,875 232 1,600
+Robert C. Wilhelm, Student 400 4,125 321 3,200
+R. Ken Wilhelm, Ex. Sec., Farm B. 282 3,750 258 2,504
+James R. Adams, Student 485 2,625 355 1,560
+Ben Stein, Student 227 1,514 186 900
+Karen West, Teacher 561 2,000 392 2,080
+Clyde Chrlstofferson, Student 671 2,500 392 2,000
+William Brede, Economist 370 1,435 257 975
+Peter Momfield, Student 335 1,600 219 800
+Anthony Plutynski, Engineer 609 1,600 369 2,210
+Leonard L. Robinson, Student 355 3,030 274 1,300
+Bonnie Rose, Student 206 3,000 179 1,600
+Joan K. Bradford, P.R. Director 1,000 6,100 375 1,560
+R. C. Katx, Economist 500 1,875 295 1,180
+Peter Kindschi, Student 318 1,688 281 911
+Gene Timmon, Minister 592 2,961 375 1,200
+W. W. Trusr, Engineer *50 2,700 330 1,600
+John M. Gaje, Student 441 2,197 >11 1,050
+Gary E. Myhro, Machinist 266 2,571 214 1,266
+Richard A. Hein, Engineer 351 3,700 295 1,700
+Steve Feldstein, Student 548 2,126 331 1,400
+Lyle R. Johnson, Market Analyst 365 4,500 308 1,200
+Kathleen Smith, Student 395 3,500 278 2,000
+J. Allison, Production Foreman 274 1,875 276 1,798
+L. Bodily, Electrical Engineer 500 2,500 379 1,600
+Stephen Luthy, Student 390 4,800 378 3,300
+Betty Breslin, Receptionist 441 3,250 214 1,200
+Ivan Beck, Electrical Engineer 350 4,640 480 2,400
+L. B. Hooper, Doctor 350 2,800 266 1,400
+Elizabeth Milrod, Housewife 400 1,550 255 800
+Robert C. Woolley, Realtor 466 2,762 320 1,050
+Alan J. Adler, Engineer 300 1,150 250 800
+s>am Wallis, Orthodontist 323 1,120 246 800
+Kirk D. Hall, Salesman 350 4,833 312 1,416
+Jack Andrews, Sales Rep. 242 1,071 241 1,108

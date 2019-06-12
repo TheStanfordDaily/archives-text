@@ -1,0 +1,4755 @@
+# NEWS
+## ACADEMICS CS Department battles cheating 
+### KYLIE JUE DESK EDITOR 
+Originally published on June
+3, 2011
+It's 11 p.m. Your program is
+crashing, and the assignment is due
+at midnight. You know where your
+error is, but you don't know how to
+fix it. A simple Google search pulls
+up tons of working code, but copying
+that directly into your program
+would be violating the Honor Code.
+Yet it seems like there are always
+some students who give in to the
+temptation.
+Stanford's Office of Community
+Standards' annual case reports
+demonstrate a steady increase in
+the number of Honor Code viola
+tions in computer science (CS) each
+year.
+However, the enrollment in CS
+classes has also risen significantly
+over the last five years. In the 2013-
+14 academic year, over 1,500 stu
+dents took CS 106A: Programming
+Methodology, the first course of the
+introductory programming series
+in the CS department, and comput
+er science has grown into the
+largest major on campus.
+"Enrollments are on the rise,"
+said Mehran Sahami '92 M.5.'93
+Ph.D. '99, professor of computer sci
+ence and associate chair of educa
+tion for the CS department. "If you
+imagine the same percentage of
+Honor Code violations is taking
+place but now the enrollment in the
+class is twice what it used to be,
+you're going to see twice as many vi
+olations."
+A measure of software similarity
+Few students realize that each
+assignment they submit is run
+through a program called Measure
+of Software Similarity (Moss). Moss
+is used to detect similarities be
+tween code submissions, and is con
+sidered a standard across most U.S.
+institutions. Used by computer sci
+ence departments worldwide, Moss
+was developed by Stanford comput
+er science professor Alex Aiken.
+Developed 20 years ago during
+Aiken's time as a professor at UC-
+Berkeley, Moss is designed to cut
+down the manual labor of searching
+for plagiarism. However, Aiken em
+phasized that Moss is not a system
+for detecting plagiarism directly.
+"What Moss detects is similari
+ty," Aiken said. "Why the code is
+similar is a human judgment that
+has to be made."
+
+Since code might be similar for
+various reasons, including shared li
+braries or starter code provided for
+the course, an instructor much
+check to see whether or not the sim
+ilarity returned by Moss constitutes
+plagiarism. Moss simply helps pro
+fessors determine which programs
+should be flagged with a higher pri
+ority for further review.
+"It's kind of smart about what
+'the same' means. It knows, for ex
+ample, that if you go through and
+change all the variable names, it
+doesn't matter," Aiken said. "It
+knows some things about program
+ming that allow it to make some
+judgments about when two things
+are really the same and when
+they're not."
+Aiken explained that Stanford
+uses Moss to compare submissions
+not only against other students'
+work in the class, but also against
+code available online and submis
+sions from previous years and quar
+ters. The program looks for aspects
+such as similar structure, identical
+bugs and other unusual commonali
+ties.
+According to Stanford computer
+science lecturer Julie Zelenski 'B9
+M.S. '96, Moss also accounts for al
+gorithms used by a significant num
+ber of students.
+"It also knows how to recognize
+when something is just so idiomatic
+that everyone did it the same way,"
+Zelenski said.
+Zelenski also explained that
+since the introductory classes are so
+large, a graduate student has been
+hired to build tools to manage the lo
+gistics of finding high-priority
+matches in Moss for 106A and 1068
+before passing the data on to the
+course instructor.
+Computer science lecturer
+Marty Stepp also spoke about the
+importance of having a teaching as
+sistant (TA) to examine the Moss re
+sults first.
+"He does all of that part for us,
+basically gets [the MOSS results] all
+ready for us to look over, produces a
+nice executive summary for us of
+the data and places it in front of us in
+an easy way for us to examine,"
+Stepp said. "We look over the top
+matches and decide which ones are
+concerning to us, and that works re
+ally well because he can help us have
+a faster turnaround."
+Stepp also emphasized that the
+student does not play a role in decid
+ing whether or not a case should be
+pursued.
+"The instructor should make
+
+that decision so it's important to
+note that his role has nothing to do
+with innocence," Stepp said. "[The
+TA] doesn't make that call for us. We
+wouldn't ever farm that out to a
+third party."
+Stepp also explained that al
+though the section leading program
+plays a large role in grading assign
+ments for students in 106A and
+1068, section leaders are not re
+sponsible for looking for plagiarism.
+Instead, they are told to contact the
+instructor if misconduct is suspect
+ed, and according to Stepp, most of
+the time section leaders do not have
+the experience to accurately recog
+
+nize an Honor Code violation.
+Dealing with violations
+If a violation is discovered, stu
+dents usually have two options:
+choosing the Early Resolution Op
+tion (ERO) or allowing the case to
+go to a hearing.
+When a case is brought to the Of
+fice of Community Standards, a stu
+dent is assigned a judicial officer to
+advocate for the student. If the case
+moves to trial and eventually a hear
+ing, a panel of five students and one
+faculty member determines
+whether or not the student's actions
+constitute a violation of the Honor
+
+Code. If a student is found guilty by
+a five-to-one vote, the panel assigns
+a sanction to the student.
+
+According to Stanford's Office of
+Community Standards, standard
+first-time sanctions are usually a
+quarter of suspension and 40 hours
+of community service unless the
+panel finds that another response is
+more appropriate.
+First instituted in 2009, the ERO
+gives students the opportunity to
+immediately accept responsibility
+for their actions and skip the judicial
+hearing process. Zelenski explained
+
+
+VICTOR XU/The Stanford Daily
+that the ERO gives students an in
+centive to take responsibility for
+their actions rather than lying to
+avoid a sanction. In addition, while
+hearings can take two months or
+longer, the ERO can be resolved
+within a few weeks.
+"The vast majority of the stu
+dents who I'm sending [to OCS] are
+choosing to pursue an ERO alterna
+tive [rather] than go to a full hear
+ing," Zelenski said.
+Even before sending a student
+to the OCS, different instructors
+handle potential honor code viola
+tions differently, Sahami said.
+"Depending on the results they
+get back [from Moss], some [in
+structors] will just report them im
+mediately without talking to the
+student. Some prefer to talk to the
+student," Sahami said. "We try to
+be consistent with respect to how
+we handle the Honor Code it's
+just a matter of time constraints
+and personal preference."
+Sahami himself asks to meet
+with students and gives them the
+chance to take responsibility in ad
+vance before telling them about the
+Moss match.
+"We have a conversation of what
+happened, and what I look at are
+things like how contrite is the stu
+dent," Sahami said. "Virtually
+every time I've talked to a student
+they're very straightforward about
+what happened. In some cases, it
+sometimes takes them a little while
+to realize that honesty is the best
+policy, and they shouldn't make up
+some story to get out of the situa
+tion."
+Sahami also explained that while
+he is required to report the case to
+the OCS, he is on a student's side
+once he or she admits to violating
+the Honor Code.
+"I think the issue of academic
+honesty should also be one that's
+not just punitive but is really about
+learning," Sahami said. "I'm in
+favor for leniency on the side of stu
+dents who take responsibility."
+As a new instructor in the CS de
+partment this year, Stepp explained
+that he in fact has not yet dealt with
+any Honor Code violations, al
+though he has not finished looking
+through assignments from this
+quarter.
+"I'm lucky enough to say that I
+have not forwarded any cases so far
+in my last two quarters here at
+Stanford," Stepp said.
+"I think that there are always
+programs that come up in our list
+ings that I feel are suspicious," he
+added. "But I feel I have to be very
+confident in a match in order to
+make an accusation, and I haven't
+done so."
+In terms of repercussions, an
+Honor Code case does not show up
+on a student's transcript, but a no
+tation is kept on administrative
+record for reference in case of fu
+ture violations.
+According to Zelenski, common
+forms of punishment include a fail
+ing grade in the course, community
+service, suspension or probation.
+For repeated or unusual cases, ex
+pulsion is also a rare consequence.
+
+Why it happens: instructor per
+spectives
+Despite Stepp's violation-free
+stint on the Farm, Zelenski ex
+plained that in her experience
+teaching CS 107: Computer Or
+ganization and Systems, she usual
+ly encounters one or two cases for
+each of the seven assignments.
+Zelenski spoke about some of
+the main causes for Honor Code vi
+olations in CS, including the stress
+created by midnight deadlines and
+code that does not work. She ex
+plained that even if a program is
+well written, a small bug can cause
+big problems that feel like failure.
+"When you have a program that
+doesn't work, it's usually really ob
+vious and really hard to cope with,"
+Zelenski said. "The arbiter of cor
+rectness is obvious and apparent."
+"Having our deadlines at mid
+night probably doesn't help be
+cause in some sense that's maybe
+when you're most weak when
+you're tired," she added.
+Furthermore, copying and past
+ing working code from an online
+source makes cheating in CS espe
+cially easy compared to in other
+subjects.
+"It's ridiculously easy," Zelens
+ki said. "It can all happen in just
+the space of a few minutes when [a
+student is] just starting to feel pan
+icked and desperate."
+In general, the availability of
+code on the web has become an in
+evitable problem, especially since
+that form of plagiarism does not re
+
+quire the consent of two parties.
+Although Zelenski regularly
+searches the web for online ver
+sions of assignments, she ex
+plained that catching every in
+stance is difficult and spoke about a
+case from this quarter in which
+around 10 students in CS 107 used
+parts of code that had been up
+loaded to the software hosting site
+Git Hub.
+"At the beginning of the quarter
+and a couple times along the way I
+just do the obvious searches on all
+the places that code gets put," Ze
+lenski said. "If I ever find it and it's
+from a student of mine, I send them
+a very nice note and say I really
+want this down."
+In February, Zelenski discov
+ered that a former CS 107 student
+had uploaded the Crashßeporter
+assignment online. She requested
+the code be taken down, and the
+student complied, but not before a
+non-Stanford student forked the
+repository, copying it to a com
+pletely different location. When
+she later discovered the second
+version of the code, Zelenski as
+sumed students would not find it.
+"You have to be looking for the
+code in ways [in which you] will find
+code so I [thought], no one's going
+to find it," Zelenski said. "Well, it
+turns out I would be wrong about
+that that there were a number
+of students who found it and totally
+used it."
+When 10 Honor Code cases
+were revealed by the Moss results,
+Zelenski tried to ask the non-Stan
+ford student to take down the pro
+gram. After a lack of response, she
+eventually worked with the stu
+dent who originally owned the code
+to use a Digital Millennium Copy
+right Act (DMCA) procedure to re
+move the code from Git Hub.
+Despite the hassle, Zelenski ex
+plained that getting assignments
+off the web was worth the time. She
+used the incident as proof that,
+given the opportunity, some stu
+dents will plagiarize.
+"If you get the code off the web,
+you just bring down the incident
+rate," Zelenski said.
+Stepp further emphasized the
+effects of having code available on
+line, especially for introductory
+classes. He explained that the
+problem is compounded by the fact
+that assignments in CS classes are
+often kept constant for several
+years, and new ones are difficult to
+create.
+"It takes more time to produce
+a high-quality computer science
+homework assignment than, say, a
+math assignment," Stepp said. "On
+a math assignment, you can pro
+duce some new problems by chang
+ing some of the numbers and some
+of the variables and you have a new
+equation to solve."
+Stepp also discussed the fact
+that students who took the class in
+the past are more likely to share
+their solutions than students cur
+rently taking it.
+"I think students who took a
+class a long time ago are more cav
+alier about handing out their solu
+tion," Stepp said. "But if they just
+wrote it and someone else didn't
+write it and they want to take it, I
+think the friend is less likely to
+[share the code]."
+Zelenski believes that another
+source of Honor Code violations is
+students' belief that they can beat
+the system. With Moss mostly un
+advertised in Honor Code discus
+sions at the beginning of courses,
+many students do not understand
+how easy it is for instructors to
+catch plagiarism.
+"I do not think that the comput
+er science students at Stanford are
+somehow more vulnerable, less
+committed to integrity than our po
+litical science students or [other
+majors]," Zelenski said. "There's a
+certain kind of confluence of mo
+tive and opportunity and despera
+tion, and I think there's also the fact
+that we can find it."
+Stepp also emphasized that, de
+spite stereotypes in the discipline,
+collaboration is not the same as pla
+giarism.
+"We do want people to work to
+gether and talk to each other we
+just don't want them to share their
+solutions with each other," Stepp
+said. "There's a line. I think most
+people know what that line is, and
+it's unfortunate that some people
+cross the line, but I think it's possi
+ble to have a decent amount of col
+laboration with other students
+without crossing that line."
+Why it happens: student perspec
+tives
+
+Unsurprisingly, students told a
+similar story about the effects of
+stress in contributing to Honor
+Code violations. Two students, Jeff
+Taylor and Walter Smith both
+names have been changed to pro
+
+tect their identities spoke about
+their experience with the ERO sys
+tem in particular.
+Taylor and Smith had been
+working as a pair on a group CS
+final project, but when Smith al
+lowed a friend outside the team to
+look at their code, they received an
+unexpected email from their in
+structor after assignments were
+submitted.
+Unknown to either student, the
+friend had copied part of Taylor and
+Smith's code and submitted it as his
+own. The friend claimed that the
+submission had been an accident,
+and the case ended with an ERO.
+Although neither Taylor nor Smith
+were charged with an Honor Code
+violation, Smith's friend reportedly
+received a failing grade on the as
+signment.
+When asked about the case,
+Smith and Taylor shared their
+thoughts about why students might
+choose to plagiarize.
+"There are very few times in
+which you break the Honor Code
+for anything but grades. It's just
+pressure," Smith said. "The dead
+line is set at 12 a.m. and you've been
+working on it for 10 hours, and you
+just have one bug left, but you're
+helpless and so you go to someone
+for help just to get this one bug."
+Taylor spoke about the fine line
+between getting help from a friend
+and cheating in writing code.
+"There's a very fuzzy line from
+getting help and cheating in CS,"
+Taylor said. "If you need to find a
+bug, instead of spending three
+hours doing it, you can go to some
+one and do it in five minutes. And if
+you get in the habit of doing that,
+you will basically have other people
+writing your code. A lot of it is pres
+sure or procrastination."
+"In the case of CS specifically,
+the getting help expedites the
+process so much," he added. "And it
+can snowball into cheating."
+Smith observed that interna
+tional students in particular feel
+pressure to do well from family at
+home.
+"International students seem to
+face this [pressure] a little bit more
+than people from [the United
+States]," Smith said. "There's more
+pressure from back home to do well
+in academics, to do really well. If
+you get a B, it's unacceptable at any
+level. While here, people realize
+that it's Stanford and that getting a
+B here is not that bad. But back
+home no one knows what Stanford
+is or the grading scheme."
+Yet neither student felt that
+cheating was ever justified, and
+both believed that plagiarizing
+without learning the material would
+only hurt a student in the long run.
+"The popular opinion is that it's
+morally wrong to cheat because you
+should learn the material for your
+self," Taylor said. "In other coun
+tries, cheating is an option."
+Curbing cheating in the future
+With the rising number of online
+sources for code, instructors have
+continued to investigate ways to
+discourage students from plagiariz
+ing. Stepp attributed his lack of
+Honor Code cases to his slight al
+terations to the assignments as a
+new lecturer.
+Stepp has also added popups to
+the class websites to caution stu
+dents against plagiarism whenever
+they download or submit an assign
+ment. According to Stepp, research
+has shown that reminders do in fact
+affect the probability of a student's
+choosing to cheat, especially if the
+reminder comes before the student
+starts an assignment.
+"It's really hard to know what
+factors have an impact and which
+ones don't, but there has been edu
+cational research that shows if you
+remind students about these things
+at key moments that it can make a
+difference," Stepp said.
+Jessie Duan 'l5, a student on the
+Board of Judicial Affairs, spoke
+about how the Board has been dis
+cussing raising awareness about
+Honor Code violations. One poten
+tial effort includes talking to fresh
+men about plagiarism.
+"One thing we have been focusing
+on is raising awareness," Duan said.
+"We've been talking about reaching
+out to freshman dorms more, making
+it more obvious from the moment you
+get accepted into Stanford [that] the
+Fundamental Standard is this very
+important thing."
+Each computer science lecturer
+and professor emphasized that the
+department has gained a bad repu
+tation for Honor Code violations
+simply because it has the tools to
+search for plagiarism.
+"I think that it is true that com
+puter science departments as a
+whole tend to do more checking
+than other departments," Aiken
+said. "A lot of what you find depends
+on whether you're looking."
+Stepp also wanted to dispel the
+misconception that students need
+to work alone on CS assignments.
+"There is a stereotype that we
+don't want anyone to talk to anyone
+and that computer science is isolat
+ed and that you're not allowed to
+have any contact with other people,
+and you have to figure it out all by
+yourself with no help whatsoever,"
+Stepp said. "And I think that's a lit
+tle bit unfortunate because it's not
+true."
+
+Contact Kylie Jue at kyliej@stan
+ford.edu.
+Originally published on June
+3, 2011
+It's 11 p.m. Your program is
+crashing, and the assignment is due
+at midnight. You know where your
+error is, but you don't know how to
+fix it. A simple Google search pulls
+up tons of working code, but copying
+that directly into your program
+would be violating the Honor Code.
+Yet it seems like there are always
+some students who give in to the
+temptation.
+Stanford's Office of Community
+Standards' annual case reports
+demonstrate a steady increase in
+the number of Honor Code viola
+tions in computer science (CS) each
+year.
+However, the enrollment in CS
+classes has also risen significantly
+over the last five years. In the 2013-
+14 academic year, over 1,500 stu
+dents took CS 106A: Programming
+Methodology, the first course of the
+introductory programming series
+in the CS department, and comput
+er science has grown into the
+largest major on campus.
+"Enrollments are on the rise,"
+said Mehran Sahami '92 M.5.'93
+Ph.D. '99, professor of computer sci
+ence and associate chair of educa
+tion for the CS department. "If you
+imagine the same percentage of
+Honor Code violations is taking
+place but now the enrollment in the
+class is twice what it used to be,
+you're going to see twice as many vi
+olations."
+A measure of software similarity
+Few students realize that each
+assignment they submit is run
+through a program called Measure
+of Software Similarity (Moss). Moss
+is used to detect similarities be
+tween code submissions, and is con
+sidered a standard across most U.S.
+institutions. Used by computer sci
+ence departments worldwide, Moss
+was developed by Stanford comput
+er science professor Alex Aiken.
+Developed 20 years ago during
+Aiken's time as a professor at UC-
+Berkeley, Moss is designed to cut
+down the manual labor of searching
+for plagiarism. However, Aiken em
+phasized that Moss is not a system
+for detecting plagiarism directly.
+"What Moss detects is similari
+ty," Aiken said. "Why the code is
+similar is a human judgment that
+has to be made."
+
+Since code might be similar for
+various reasons, including shared li
+braries or starter code provided for
+the course, an instructor much
+check to see whether or not the sim
+ilarity returned by Moss constitutes
+plagiarism. Moss simply helps pro
+fessors determine which programs
+should be flagged with a higher pri
+ority for further review.
+"It's kind of smart about what
+'the same' means. It knows, for ex
+ample, that if you go through and
+change all the variable names, it
+doesn't matter," Aiken said. "It
+knows some things about program
+ming that allow it to make some
+judgments about when two things
+are really the same and when
+they're not."
+Aiken explained that Stanford
+uses Moss to compare submissions
+not only against other students'
+work in the class, but also against
+code available online and submis
+sions from previous years and quar
+ters. The program looks for aspects
+such as similar structure, identical
+bugs and other unusual commonali
+ties.
+According to Stanford computer
+science lecturer Julie Zelenski 'B9
+M.S. '96, Moss also accounts for al
+gorithms used by a significant num
+ber of students.
+"It also knows how to recognize
+when something is just so idiomatic
+that everyone did it the same way,"
+Zelenski said.
+Zelenski also explained that
+since the introductory classes are so
+large, a graduate student has been
+hired to build tools to manage the lo
+gistics of finding high-priority
+matches in Moss for 106A and 1068
+before passing the data on to the
+course instructor.
+Computer science lecturer
+Marty Stepp also spoke about the
+importance of having a teaching as
+sistant (TA) to examine the Moss re
+sults first.
+"He does all of that part for us,
+basically gets [the MOSS results] all
+ready for us to look over, produces a
+nice executive summary for us of
+the data and places it in front of us in
+an easy way for us to examine,"
+Stepp said. "We look over the top
+matches and decide which ones are
+concerning to us, and that works re
+ally well because he can help us have
+a faster turnaround."
+Stepp also emphasized that the
+student does not play a role in decid
+ing whether or not a case should be
+pursued.
+"The instructor should make
+
+that decision so it's important to
+note that his role has nothing to do
+with innocence," Stepp said. "[The
+TA] doesn't make that call for us. We
+wouldn't ever farm that out to a
+third party."
+Stepp also explained that al
+though the section leading program
+plays a large role in grading assign
+ments for students in 106A and
+1068, section leaders are not re
+sponsible for looking for plagiarism.
+Instead, they are told to contact the
+instructor if misconduct is suspect
+ed, and according to Stepp, most of
+the time section leaders do not have
+the experience to accurately recog
+
+nize an Honor Code violation.
+Dealing with violations
+If a violation is discovered, stu
+dents usually have two options:
+choosing the Early Resolution Op
+tion (ERO) or allowing the case to
+go to a hearing.
+When a case is brought to the Of
+fice of Community Standards, a stu
+dent is assigned a judicial officer to
+advocate for the student. If the case
+moves to trial and eventually a hear
+ing, a panel of five students and one
+faculty member determines
+whether or not the student's actions
+constitute a violation of the Honor
+
+Code. If a student is found guilty by
+a five-to-one vote, the panel assigns
+a sanction to the student.
+
+According to Stanford's Office of
+Community Standards, standard
+first-time sanctions are usually a
+quarter of suspension and 40 hours
+of community service unless the
+panel finds that another response is
+more appropriate.
+First instituted in 2009, the ERO
+gives students the opportunity to
+immediately accept responsibility
+for their actions and skip the judicial
+hearing process. Zelenski explained
+
+
+VICTOR XU/The Stanford Daily
+that the ERO gives students an in
+centive to take responsibility for
+their actions rather than lying to
+avoid a sanction. In addition, while
+hearings can take two months or
+longer, the ERO can be resolved
+within a few weeks.
+"The vast majority of the stu
+dents who I'm sending [to OCS] are
+choosing to pursue an ERO alterna
+tive [rather] than go to a full hear
+ing," Zelenski said.
+Even before sending a student
+to the OCS, different instructors
+handle potential honor code viola
+tions differently, Sahami said.
+"Depending on the results they
+get back [from Moss], some [in
+structors] will just report them im
+mediately without talking to the
+student. Some prefer to talk to the
+student," Sahami said. "We try to
+be consistent with respect to how
+we handle the Honor Code it's
+just a matter of time constraints
+and personal preference."
+Sahami himself asks to meet
+with students and gives them the
+chance to take responsibility in ad
+vance before telling them about the
+Moss match.
+"We have a conversation of what
+happened, and what I look at are
+things like how contrite is the stu
+dent," Sahami said. "Virtually
+every time I've talked to a student
+they're very straightforward about
+what happened. In some cases, it
+sometimes takes them a little while
+to realize that honesty is the best
+policy, and they shouldn't make up
+some story to get out of the situa
+tion."
+Sahami also explained that while
+he is required to report the case to
+the OCS, he is on a student's side
+once he or she admits to violating
+the Honor Code.
+"I think the issue of academic
+honesty should also be one that's
+not just punitive but is really about
+learning," Sahami said. "I'm in
+favor for leniency on the side of stu
+dents who take responsibility."
+As a new instructor in the CS de
+partment this year, Stepp explained
+that he in fact has not yet dealt with
+any Honor Code violations, al
+though he has not finished looking
+through assignments from this
+quarter.
+"I'm lucky enough to say that I
+have not forwarded any cases so far
+in my last two quarters here at
+Stanford," Stepp said.
+"I think that there are always
+programs that come up in our list
+ings that I feel are suspicious," he
+added. "But I feel I have to be very
+confident in a match in order to
+make an accusation, and I haven't
+done so."
+In terms of repercussions, an
+Honor Code case does not show up
+on a student's transcript, but a no
+tation is kept on administrative
+record for reference in case of fu
+ture violations.
+According to Zelenski, common
+forms of punishment include a fail
+ing grade in the course, community
+service, suspension or probation.
+For repeated or unusual cases, ex
+pulsion is also a rare consequence.
+
+Why it happens: instructor per
+spectives
+Despite Stepp's violation-free
+stint on the Farm, Zelenski ex
+plained that in her experience
+teaching CS 107: Computer Or
+ganization and Systems, she usual
+ly encounters one or two cases for
+each of the seven assignments.
+Zelenski spoke about some of
+the main causes for Honor Code vi
+olations in CS, including the stress
+created by midnight deadlines and
+code that does not work. She ex
+plained that even if a program is
+well written, a small bug can cause
+big problems that feel like failure.
+"When you have a program that
+doesn't work, it's usually really ob
+vious and really hard to cope with,"
+Zelenski said. "The arbiter of cor
+rectness is obvious and apparent."
+"Having our deadlines at mid
+night probably doesn't help be
+cause in some sense that's maybe
+when you're most weak when
+you're tired," she added.
+Furthermore, copying and past
+ing working code from an online
+source makes cheating in CS espe
+cially easy compared to in other
+subjects.
+"It's ridiculously easy," Zelens
+ki said. "It can all happen in just
+the space of a few minutes when [a
+student is] just starting to feel pan
+icked and desperate."
+In general, the availability of
+code on the web has become an in
+evitable problem, especially since
+that form of plagiarism does not re
+
+quire the consent of two parties.
+Although Zelenski regularly
+searches the web for online ver
+sions of assignments, she ex
+plained that catching every in
+stance is difficult and spoke about a
+case from this quarter in which
+around 10 students in CS 107 used
+parts of code that had been up
+loaded to the software hosting site
+Git Hub.
+"At the beginning of the quarter
+and a couple times along the way I
+just do the obvious searches on all
+the places that code gets put," Ze
+lenski said. "If I ever find it and it's
+from a student of mine, I send them
+a very nice note and say I really
+want this down."
+In February, Zelenski discov
+ered that a former CS 107 student
+had uploaded the Crashßeporter
+assignment online. She requested
+the code be taken down, and the
+student complied, but not before a
+non-Stanford student forked the
+repository, copying it to a com
+pletely different location. When
+she later discovered the second
+version of the code, Zelenski as
+sumed students would not find it.
+"You have to be looking for the
+code in ways [in which you] will find
+code so I [thought], no one's going
+to find it," Zelenski said. "Well, it
+turns out I would be wrong about
+that that there were a number
+of students who found it and totally
+used it."
+When 10 Honor Code cases
+were revealed by the Moss results,
+Zelenski tried to ask the non-Stan
+ford student to take down the pro
+gram. After a lack of response, she
+eventually worked with the stu
+dent who originally owned the code
+to use a Digital Millennium Copy
+right Act (DMCA) procedure to re
+move the code from Git Hub.
+Despite the hassle, Zelenski ex
+plained that getting assignments
+off the web was worth the time. She
+used the incident as proof that,
+given the opportunity, some stu
+dents will plagiarize.
+"If you get the code off the web,
+you just bring down the incident
+rate," Zelenski said.
+Stepp further emphasized the
+effects of having code available on
+line, especially for introductory
+classes. He explained that the
+problem is compounded by the fact
+that assignments in CS classes are
+often kept constant for several
+years, and new ones are difficult to
+create.
+"It takes more time to produce
+a high-quality computer science
+homework assignment than, say, a
+math assignment," Stepp said. "On
+a math assignment, you can pro
+duce some new problems by chang
+ing some of the numbers and some
+of the variables and you have a new
+equation to solve."
+Stepp also discussed the fact
+that students who took the class in
+the past are more likely to share
+their solutions than students cur
+rently taking it.
+"I think students who took a
+class a long time ago are more cav
+alier about handing out their solu
+tion," Stepp said. "But if they just
+wrote it and someone else didn't
+write it and they want to take it, I
+think the friend is less likely to
+[share the code]."
+Zelenski believes that another
+source of Honor Code violations is
+students' belief that they can beat
+the system. With Moss mostly un
+advertised in Honor Code discus
+sions at the beginning of courses,
+many students do not understand
+how easy it is for instructors to
+catch plagiarism.
+"I do not think that the comput
+er science students at Stanford are
+somehow more vulnerable, less
+committed to integrity than our po
+litical science students or [other
+majors]," Zelenski said. "There's a
+certain kind of confluence of mo
+tive and opportunity and despera
+tion, and I think there's also the fact
+that we can find it."
+Stepp also emphasized that, de
+spite stereotypes in the discipline,
+collaboration is not the same as pla
+giarism.
+"We do want people to work to
+gether and talk to each other we
+just don't want them to share their
+solutions with each other," Stepp
+said. "There's a line. I think most
+people know what that line is, and
+it's unfortunate that some people
+cross the line, but I think it's possi
+ble to have a decent amount of col
+laboration with other students
+without crossing that line."
+Why it happens: student perspec
+tives
+
+Unsurprisingly, students told a
+similar story about the effects of
+stress in contributing to Honor
+Code violations. Two students, Jeff
+Taylor and Walter Smith both
+names have been changed to pro
+
+tect their identities spoke about
+their experience with the ERO sys
+tem in particular.
+Taylor and Smith had been
+working as a pair on a group CS
+final project, but when Smith al
+lowed a friend outside the team to
+look at their code, they received an
+unexpected email from their in
+structor after assignments were
+submitted.
+Unknown to either student, the
+friend had copied part of Taylor and
+Smith's code and submitted it as his
+own. The friend claimed that the
+submission had been an accident,
+and the case ended with an ERO.
+Although neither Taylor nor Smith
+were charged with an Honor Code
+violation, Smith's friend reportedly
+received a failing grade on the as
+signment.
+When asked about the case,
+Smith and Taylor shared their
+thoughts about why students might
+choose to plagiarize.
+"There are very few times in
+which you break the Honor Code
+for anything but grades. It's just
+pressure," Smith said. "The dead
+line is set at 12 a.m. and you've been
+working on it for 10 hours, and you
+just have one bug left, but you're
+helpless and so you go to someone
+for help just to get this one bug."
+Taylor spoke about the fine line
+between getting help from a friend
+and cheating in writing code.
+"There's a very fuzzy line from
+getting help and cheating in CS,"
+Taylor said. "If you need to find a
+bug, instead of spending three
+hours doing it, you can go to some
+one and do it in five minutes. And if
+you get in the habit of doing that,
+you will basically have other people
+writing your code. A lot of it is pres
+sure or procrastination."
+"In the case of CS specifically,
+the getting help expedites the
+process so much," he added. "And it
+can snowball into cheating."
+Smith observed that interna
+tional students in particular feel
+pressure to do well from family at
+home.
+"International students seem to
+face this [pressure] a little bit more
+than people from [the United
+States]," Smith said. "There's more
+pressure from back home to do well
+in academics, to do really well. If
+you get a B, it's unacceptable at any
+level. While here, people realize
+that it's Stanford and that getting a
+B here is not that bad. But back
+home no one knows what Stanford
+is or the grading scheme."
+Yet neither student felt that
+cheating was ever justified, and
+both believed that plagiarizing
+without learning the material would
+only hurt a student in the long run.
+"The popular opinion is that it's
+morally wrong to cheat because you
+should learn the material for your
+self," Taylor said. "In other coun
+tries, cheating is an option."
+Curbing cheating in the future
+With the rising number of online
+sources for code, instructors have
+continued to investigate ways to
+discourage students from plagiariz
+ing. Stepp attributed his lack of
+Honor Code cases to his slight al
+terations to the assignments as a
+new lecturer.
+Stepp has also added popups to
+the class websites to caution stu
+dents against plagiarism whenever
+they download or submit an assign
+ment. According to Stepp, research
+has shown that reminders do in fact
+affect the probability of a student's
+choosing to cheat, especially if the
+reminder comes before the student
+starts an assignment.
+"It's really hard to know what
+factors have an impact and which
+ones don't, but there has been edu
+cational research that shows if you
+remind students about these things
+at key moments that it can make a
+difference," Stepp said.
+Jessie Duan 'l5, a student on the
+Board of Judicial Affairs, spoke
+about how the Board has been dis
+cussing raising awareness about
+Honor Code violations. One poten
+tial effort includes talking to fresh
+men about plagiarism.
+"One thing we have been focusing
+on is raising awareness," Duan said.
+"We've been talking about reaching
+out to freshman dorms more, making
+it more obvious from the moment you
+get accepted into Stanford [that] the
+Fundamental Standard is this very
+important thing."
+Each computer science lecturer
+and professor emphasized that the
+department has gained a bad repu
+tation for Honor Code violations
+simply because it has the tools to
+search for plagiarism.
+"I think that it is true that com
+puter science departments as a
+whole tend to do more checking
+than other departments," Aiken
+said. "A lot of what you find depends
+on whether you're looking."
+Stepp also wanted to dispel the
+misconception that students need
+to work alone on CS assignments.
+"There is a stereotype that we
+don't want anyone to talk to anyone
+and that computer science is isolat
+ed and that you're not allowed to
+have any contact with other people,
+and you have to figure it out all by
+yourself with no help whatsoever,"
+Stepp said. "And I think that's a lit
+tle bit unfortunate because it's not
+true."
+
+Contact Kylie Jue at kyliej@stan
+ford.edu.
+Originally published on June
+3, 2011
+It's 11 p.m. Your program is
+crashing, and the assignment is due
+at midnight. You know where your
+error is, but you don't know how to
+fix it. A simple Google search pulls
+up tons of working code, but copying
+that directly into your program
+would be violating the Honor Code.
+Yet it seems like there are always
+some students who give in to the
+temptation.
+Stanford's Office of Community
+Standards' annual case reports
+demonstrate a steady increase in
+the number of Honor Code viola
+tions in computer science (CS) each
+year.
+However, the enrollment in CS
+classes has also risen significantly
+over the last five years. In the 2013-
+14 academic year, over 1,500 stu
+dents took CS 106A: Programming
+Methodology, the first course of the
+introductory programming series
+in the CS department, and comput
+er science has grown into the
+largest major on campus.
+"Enrollments are on the rise,"
+said Mehran Sahami '92 M.5.'93
+Ph.D. '99, professor of computer sci
+ence and associate chair of educa
+tion for the CS department. "If you
+imagine the same percentage of
+Honor Code violations is taking
+place but now the enrollment in the
+class is twice what it used to be,
+you're going to see twice as many vi
+olations."
+A measure of software similarity
+Few students realize that each
+assignment they submit is run
+through a program called Measure
+of Software Similarity (Moss). Moss
+is used to detect similarities be
+tween code submissions, and is con
+sidered a standard across most U.S.
+institutions. Used by computer sci
+ence departments worldwide, Moss
+was developed by Stanford comput
+er science professor Alex Aiken.
+Developed 20 years ago during
+Aiken's time as a professor at UC-
+Berkeley, Moss is designed to cut
+down the manual labor of searching
+for plagiarism. However, Aiken em
+phasized that Moss is not a system
+for detecting plagiarism directly.
+"What Moss detects is similari
+ty," Aiken said. "Why the code is
+similar is a human judgment that
+has to be made."
+
+Since code might be similar for
+various reasons, including shared li
+braries or starter code provided for
+the course, an instructor much
+check to see whether or not the sim
+ilarity returned by Moss constitutes
+plagiarism. Moss simply helps pro
+fessors determine which programs
+should be flagged with a higher pri
+ority for further review.
+"It's kind of smart about what
+'the same' means. It knows, for ex
+ample, that if you go through and
+change all the variable names, it
+doesn't matter," Aiken said. "It
+knows some things about program
+ming that allow it to make some
+judgments about when two things
+are really the same and when
+they're not."
+Aiken explained that Stanford
+uses Moss to compare submissions
+not only against other students'
+work in the class, but also against
+code available online and submis
+sions from previous years and quar
+ters. The program looks for aspects
+such as similar structure, identical
+bugs and other unusual commonali
+ties.
+According to Stanford computer
+science lecturer Julie Zelenski 'B9
+M.S. '96, Moss also accounts for al
+gorithms used by a significant num
+ber of students.
+"It also knows how to recognize
+when something is just so idiomatic
+that everyone did it the same way,"
+Zelenski said.
+Zelenski also explained that
+since the introductory classes are so
+large, a graduate student has been
+hired to build tools to manage the lo
+gistics of finding high-priority
+matches in Moss for 106A and 1068
+before passing the data on to the
+course instructor.
+Computer science lecturer
+Marty Stepp also spoke about the
+importance of having a teaching as
+sistant (TA) to examine the Moss re
+sults first.
+"He does all of that part for us,
+basically gets [the MOSS results] all
+ready for us to look over, produces a
+nice executive summary for us of
+the data and places it in front of us in
+an easy way for us to examine,"
+Stepp said. "We look over the top
+matches and decide which ones are
+concerning to us, and that works re
+ally well because he can help us have
+a faster turnaround."
+Stepp also emphasized that the
+student does not play a role in decid
+ing whether or not a case should be
+pursued.
+"The instructor should make
+
+that decision so it's important to
+note that his role has nothing to do
+with innocence," Stepp said. "[The
+TA] doesn't make that call for us. We
+wouldn't ever farm that out to a
+third party."
+Stepp also explained that al
+though the section leading program
+plays a large role in grading assign
+ments for students in 106A and
+1068, section leaders are not re
+sponsible for looking for plagiarism.
+Instead, they are told to contact the
+instructor if misconduct is suspect
+ed, and according to Stepp, most of
+the time section leaders do not have
+the experience to accurately recog
+
+nize an Honor Code violation.
+Dealing with violations
+If a violation is discovered, stu
+dents usually have two options:
+choosing the Early Resolution Op
+tion (ERO) or allowing the case to
+go to a hearing.
+When a case is brought to the Of
+fice of Community Standards, a stu
+dent is assigned a judicial officer to
+advocate for the student. If the case
+moves to trial and eventually a hear
+ing, a panel of five students and one
+faculty member determines
+whether or not the student's actions
+constitute a violation of the Honor
+
+Code. If a student is found guilty by
+a five-to-one vote, the panel assigns
+a sanction to the student.
+
+According to Stanford's Office of
+Community Standards, standard
+first-time sanctions are usually a
+quarter of suspension and 40 hours
+of community service unless the
+panel finds that another response is
+more appropriate.
+First instituted in 2009, the ERO
+gives students the opportunity to
+immediately accept responsibility
+for their actions and skip the judicial
+hearing process. Zelenski explained
+
+
+VICTOR XU/The Stanford Daily
+that the ERO gives students an in
+centive to take responsibility for
+their actions rather than lying to
+avoid a sanction. In addition, while
+hearings can take two months or
+longer, the ERO can be resolved
+within a few weeks.
+"The vast majority of the stu
+dents who I'm sending [to OCS] are
+choosing to pursue an ERO alterna
+tive [rather] than go to a full hear
+ing," Zelenski said.
+Even before sending a student
+to the OCS, different instructors
+handle potential honor code viola
+tions differently, Sahami said.
+"Depending on the results they
+get back [from Moss], some [in
+structors] will just report them im
+mediately without talking to the
+student. Some prefer to talk to the
+student," Sahami said. "We try to
+be consistent with respect to how
+we handle the Honor Code it's
+just a matter of time constraints
+and personal preference."
+Sahami himself asks to meet
+with students and gives them the
+chance to take responsibility in ad
+vance before telling them about the
+Moss match.
+"We have a conversation of what
+happened, and what I look at are
+things like how contrite is the stu
+dent," Sahami said. "Virtually
+every time I've talked to a student
+they're very straightforward about
+what happened. In some cases, it
+sometimes takes them a little while
+to realize that honesty is the best
+policy, and they shouldn't make up
+some story to get out of the situa
+tion."
+Sahami also explained that while
+he is required to report the case to
+the OCS, he is on a student's side
+once he or she admits to violating
+the Honor Code.
+"I think the issue of academic
+honesty should also be one that's
+not just punitive but is really about
+learning," Sahami said. "I'm in
+favor for leniency on the side of stu
+dents who take responsibility."
+As a new instructor in the CS de
+partment this year, Stepp explained
+that he in fact has not yet dealt with
+any Honor Code violations, al
+though he has not finished looking
+through assignments from this
+quarter.
+"I'm lucky enough to say that I
+have not forwarded any cases so far
+in my last two quarters here at
+Stanford," Stepp said.
+"I think that there are always
+programs that come up in our list
+ings that I feel are suspicious," he
+added. "But I feel I have to be very
+confident in a match in order to
+make an accusation, and I haven't
+done so."
+In terms of repercussions, an
+Honor Code case does not show up
+on a student's transcript, but a no
+tation is kept on administrative
+record for reference in case of fu
+ture violations.
+According to Zelenski, common
+forms of punishment include a fail
+ing grade in the course, community
+service, suspension or probation.
+For repeated or unusual cases, ex
+pulsion is also a rare consequence.
+
+Why it happens: instructor per
+spectives
+Despite Stepp's violation-free
+stint on the Farm, Zelenski ex
+plained that in her experience
+teaching CS 107: Computer Or
+ganization and Systems, she usual
+ly encounters one or two cases for
+each of the seven assignments.
+Zelenski spoke about some of
+the main causes for Honor Code vi
+olations in CS, including the stress
+created by midnight deadlines and
+code that does not work. She ex
+plained that even if a program is
+well written, a small bug can cause
+big problems that feel like failure.
+"When you have a program that
+doesn't work, it's usually really ob
+vious and really hard to cope with,"
+Zelenski said. "The arbiter of cor
+rectness is obvious and apparent."
+"Having our deadlines at mid
+night probably doesn't help be
+cause in some sense that's maybe
+when you're most weak when
+you're tired," she added.
+Furthermore, copying and past
+ing working code from an online
+source makes cheating in CS espe
+cially easy compared to in other
+subjects.
+"It's ridiculously easy," Zelens
+ki said. "It can all happen in just
+the space of a few minutes when [a
+student is] just starting to feel pan
+icked and desperate."
+In general, the availability of
+code on the web has become an in
+evitable problem, especially since
+that form of plagiarism does not re
+
+quire the consent of two parties.
+Although Zelenski regularly
+searches the web for online ver
+sions of assignments, she ex
+plained that catching every in
+stance is difficult and spoke about a
+case from this quarter in which
+around 10 students in CS 107 used
+parts of code that had been up
+loaded to the software hosting site
+Git Hub.
+"At the beginning of the quarter
+and a couple times along the way I
+just do the obvious searches on all
+the places that code gets put," Ze
+lenski said. "If I ever find it and it's
+from a student of mine, I send them
+a very nice note and say I really
+want this down."
+In February, Zelenski discov
+ered that a former CS 107 student
+had uploaded the Crashßeporter
+assignment online. She requested
+the code be taken down, and the
+student complied, but not before a
+non-Stanford student forked the
+repository, copying it to a com
+pletely different location. When
+she later discovered the second
+version of the code, Zelenski as
+sumed students would not find it.
+"You have to be looking for the
+code in ways [in which you] will find
+code so I [thought], no one's going
+to find it," Zelenski said. "Well, it
+turns out I would be wrong about
+that that there were a number
+of students who found it and totally
+used it."
+When 10 Honor Code cases
+were revealed by the Moss results,
+Zelenski tried to ask the non-Stan
+ford student to take down the pro
+gram. After a lack of response, she
+eventually worked with the stu
+dent who originally owned the code
+to use a Digital Millennium Copy
+right Act (DMCA) procedure to re
+move the code from Git Hub.
+Despite the hassle, Zelenski ex
+plained that getting assignments
+off the web was worth the time. She
+used the incident as proof that,
+given the opportunity, some stu
+dents will plagiarize.
+"If you get the code off the web,
+you just bring down the incident
+rate," Zelenski said.
+Stepp further emphasized the
+effects of having code available on
+line, especially for introductory
+classes. He explained that the
+problem is compounded by the fact
+that assignments in CS classes are
+often kept constant for several
+years, and new ones are difficult to
+create.
+"It takes more time to produce
+a high-quality computer science
+homework assignment than, say, a
+math assignment," Stepp said. "On
+a math assignment, you can pro
+duce some new problems by chang
+ing some of the numbers and some
+of the variables and you have a new
+equation to solve."
+Stepp also discussed the fact
+that students who took the class in
+the past are more likely to share
+their solutions than students cur
+rently taking it.
+"I think students who took a
+class a long time ago are more cav
+alier about handing out their solu
+tion," Stepp said. "But if they just
+wrote it and someone else didn't
+write it and they want to take it, I
+think the friend is less likely to
+[share the code]."
+Zelenski believes that another
+source of Honor Code violations is
+students' belief that they can beat
+the system. With Moss mostly un
+advertised in Honor Code discus
+sions at the beginning of courses,
+many students do not understand
+how easy it is for instructors to
+catch plagiarism.
+"I do not think that the comput
+er science students at Stanford are
+somehow more vulnerable, less
+committed to integrity than our po
+litical science students or [other
+majors]," Zelenski said. "There's a
+certain kind of confluence of mo
+tive and opportunity and despera
+tion, and I think there's also the fact
+that we can find it."
+Stepp also emphasized that, de
+spite stereotypes in the discipline,
+collaboration is not the same as pla
+giarism.
+"We do want people to work to
+gether and talk to each other we
+just don't want them to share their
+solutions with each other," Stepp
+said. "There's a line. I think most
+people know what that line is, and
+it's unfortunate that some people
+cross the line, but I think it's possi
+ble to have a decent amount of col
+laboration with other students
+without crossing that line."
+Why it happens: student perspec
+tives
+
+Unsurprisingly, students told a
+similar story about the effects of
+stress in contributing to Honor
+Code violations. Two students, Jeff
+Taylor and Walter Smith both
+names have been changed to pro
+
+tect their identities spoke about
+their experience with the ERO sys
+tem in particular.
+Taylor and Smith had been
+working as a pair on a group CS
+final project, but when Smith al
+lowed a friend outside the team to
+look at their code, they received an
+unexpected email from their in
+structor after assignments were
+submitted.
+Unknown to either student, the
+friend had copied part of Taylor and
+Smith's code and submitted it as his
+own. The friend claimed that the
+submission had been an accident,
+and the case ended with an ERO.
+Although neither Taylor nor Smith
+were charged with an Honor Code
+violation, Smith's friend reportedly
+received a failing grade on the as
+signment.
+When asked about the case,
+Smith and Taylor shared their
+thoughts about why students might
+choose to plagiarize.
+"There are very few times in
+which you break the Honor Code
+for anything but grades. It's just
+pressure," Smith said. "The dead
+line is set at 12 a.m. and you've been
+working on it for 10 hours, and you
+just have one bug left, but you're
+helpless and so you go to someone
+for help just to get this one bug."
+Taylor spoke about the fine line
+between getting help from a friend
+and cheating in writing code.
+"There's a very fuzzy line from
+getting help and cheating in CS,"
+Taylor said. "If you need to find a
+bug, instead of spending three
+hours doing it, you can go to some
+one and do it in five minutes. And if
+you get in the habit of doing that,
+you will basically have other people
+writing your code. A lot of it is pres
+sure or procrastination."
+"In the case of CS specifically,
+the getting help expedites the
+process so much," he added. "And it
+can snowball into cheating."
+Smith observed that interna
+tional students in particular feel
+pressure to do well from family at
+home.
+"International students seem to
+face this [pressure] a little bit more
+than people from [the United
+States]," Smith said. "There's more
+pressure from back home to do well
+in academics, to do really well. If
+you get a B, it's unacceptable at any
+level. While here, people realize
+that it's Stanford and that getting a
+B here is not that bad. But back
+home no one knows what Stanford
+is or the grading scheme."
+Yet neither student felt that
+cheating was ever justified, and
+both believed that plagiarizing
+without learning the material would
+only hurt a student in the long run.
+"The popular opinion is that it's
+morally wrong to cheat because you
+should learn the material for your
+self," Taylor said. "In other coun
+tries, cheating is an option."
+Curbing cheating in the future
+With the rising number of online
+sources for code, instructors have
+continued to investigate ways to
+discourage students from plagiariz
+ing. Stepp attributed his lack of
+Honor Code cases to his slight al
+terations to the assignments as a
+new lecturer.
+Stepp has also added popups to
+the class websites to caution stu
+dents against plagiarism whenever
+they download or submit an assign
+ment. According to Stepp, research
+has shown that reminders do in fact
+affect the probability of a student's
+choosing to cheat, especially if the
+reminder comes before the student
+starts an assignment.
+"It's really hard to know what
+factors have an impact and which
+ones don't, but there has been edu
+cational research that shows if you
+remind students about these things
+at key moments that it can make a
+difference," Stepp said.
+Jessie Duan 'l5, a student on the
+Board of Judicial Affairs, spoke
+about how the Board has been dis
+cussing raising awareness about
+Honor Code violations. One poten
+tial effort includes talking to fresh
+men about plagiarism.
+"One thing we have been focusing
+on is raising awareness," Duan said.
+"We've been talking about reaching
+out to freshman dorms more, making
+it more obvious from the moment you
+get accepted into Stanford [that] the
+Fundamental Standard is this very
+important thing."
+Each computer science lecturer
+and professor emphasized that the
+department has gained a bad repu
+tation for Honor Code violations
+simply because it has the tools to
+search for plagiarism.
+"I think that it is true that com
+puter science departments as a
+whole tend to do more checking
+than other departments," Aiken
+said. "A lot of what you find depends
+on whether you're looking."
+Stepp also wanted to dispel the
+misconception that students need
+to work alone on CS assignments.
+"There is a stereotype that we
+don't want anyone to talk to anyone
+and that computer science is isolat
+ed and that you're not allowed to
+have any contact with other people,
+and you have to figure it out all by
+yourself with no help whatsoever,"
+Stepp said. "And I think that's a lit
+tle bit unfortunate because it's not
+true."
+
+Contact Kylie Jue at kyliej@stan
+ford.edu.
+Originally published on June
+3, 2011
+It's 11 p.m. Your program is
+crashing, and the assignment is due
+at midnight. You know where your
+error is, but you don't know how to
+fix it. A simple Google search pulls
+up tons of working code, but copying
+that directly into your program
+would be violating the Honor Code.
+Yet it seems like there are always
+some students who give in to the
+temptation.
+Stanford's Office of Community
+Standards' annual case reports
+demonstrate a steady increase in
+the number of Honor Code viola
+tions in computer science (CS) each
+year.
+However, the enrollment in CS
+classes has also risen significantly
+over the last five years. In the 2013-
+14 academic year, over 1,500 stu
+dents took CS 106A: Programming
+Methodology, the first course of the
+introductory programming series
+in the CS department, and comput
+er science has grown into the
+largest major on campus.
+"Enrollments are on the rise,"
+said Mehran Sahami '92 M.5.'93
+Ph.D. '99, professor of computer sci
+ence and associate chair of educa
+tion for the CS department. "If you
+imagine the same percentage of
+Honor Code violations is taking
+place but now the enrollment in the
+class is twice what it used to be,
+you're going to see twice as many vi
+olations."
+A measure of software similarity
+Few students realize that each
+assignment they submit is run
+through a program called Measure
+of Software Similarity (Moss). Moss
+is used to detect similarities be
+tween code submissions, and is con
+sidered a standard across most U.S.
+institutions. Used by computer sci
+ence departments worldwide, Moss
+was developed by Stanford comput
+er science professor Alex Aiken.
+Developed 20 years ago during
+Aiken's time as a professor at UC-
+Berkeley, Moss is designed to cut
+down the manual labor of searching
+for plagiarism. However, Aiken em
+phasized that Moss is not a system
+for detecting plagiarism directly.
+"What Moss detects is similari
+ty," Aiken said. "Why the code is
+similar is a human judgment that
+has to be made."
+
+Since code might be similar for
+various reasons, including shared li
+braries or starter code provided for
+the course, an instructor much
+check to see whether or not the sim
+ilarity returned by Moss constitutes
+plagiarism. Moss simply helps pro
+fessors determine which programs
+should be flagged with a higher pri
+ority for further review.
+"It's kind of smart about what
+'the same' means. It knows, for ex
+ample, that if you go through and
+change all the variable names, it
+doesn't matter," Aiken said. "It
+knows some things about program
+ming that allow it to make some
+judgments about when two things
+are really the same and when
+they're not."
+Aiken explained that Stanford
+uses Moss to compare submissions
+not only against other students'
+work in the class, but also against
+code available online and submis
+sions from previous years and quar
+ters. The program looks for aspects
+such as similar structure, identical
+bugs and other unusual commonali
+ties.
+According to Stanford computer
+science lecturer Julie Zelenski 'B9
+M.S. '96, Moss also accounts for al
+gorithms used by a significant num
+ber of students.
+"It also knows how to recognize
+when something is just so idiomatic
+that everyone did it the same way,"
+Zelenski said.
+Zelenski also explained that
+since the introductory classes are so
+large, a graduate student has been
+hired to build tools to manage the lo
+gistics of finding high-priority
+matches in Moss for 106A and 1068
+before passing the data on to the
+course instructor.
+Computer science lecturer
+Marty Stepp also spoke about the
+importance of having a teaching as
+sistant (TA) to examine the Moss re
+sults first.
+"He does all of that part for us,
+basically gets [the MOSS results] all
+ready for us to look over, produces a
+nice executive summary for us of
+the data and places it in front of us in
+an easy way for us to examine,"
+Stepp said. "We look over the top
+matches and decide which ones are
+concerning to us, and that works re
+ally well because he can help us have
+a faster turnaround."
+Stepp also emphasized that the
+student does not play a role in decid
+ing whether or not a case should be
+pursued.
+"The instructor should make
+
+that decision so it's important to
+note that his role has nothing to do
+with innocence," Stepp said. "[The
+TA] doesn't make that call for us. We
+wouldn't ever farm that out to a
+third party."
+Stepp also explained that al
+though the section leading program
+plays a large role in grading assign
+ments for students in 106A and
+1068, section leaders are not re
+sponsible for looking for plagiarism.
+Instead, they are told to contact the
+instructor if misconduct is suspect
+ed, and according to Stepp, most of
+the time section leaders do not have
+the experience to accurately recog
+
+nize an Honor Code violation.
+Dealing with violations
+If a violation is discovered, stu
+dents usually have two options:
+choosing the Early Resolution Op
+tion (ERO) or allowing the case to
+go to a hearing.
+When a case is brought to the Of
+fice of Community Standards, a stu
+dent is assigned a judicial officer to
+advocate for the student. If the case
+moves to trial and eventually a hear
+ing, a panel of five students and one
+faculty member determines
+whether or not the student's actions
+constitute a violation of the Honor
+
+Code. If a student is found guilty by
+a five-to-one vote, the panel assigns
+a sanction to the student.
+
+According to Stanford's Office of
+Community Standards, standard
+first-time sanctions are usually a
+quarter of suspension and 40 hours
+of community service unless the
+panel finds that another response is
+more appropriate.
+First instituted in 2009, the ERO
+gives students the opportunity to
+immediately accept responsibility
+for their actions and skip the judicial
+hearing process. Zelenski explained
+
+
+VICTOR XU/The Stanford Daily
+that the ERO gives students an in
+centive to take responsibility for
+their actions rather than lying to
+avoid a sanction. In addition, while
+hearings can take two months or
+longer, the ERO can be resolved
+within a few weeks.
+"The vast majority of the stu
+dents who I'm sending [to OCS] are
+choosing to pursue an ERO alterna
+tive [rather] than go to a full hear
+ing," Zelenski said.
+Even before sending a student
+to the OCS, different instructors
+handle potential honor code viola
+tions differently, Sahami said.
+"Depending on the results they
+get back [from Moss], some [in
+structors] will just report them im
+mediately without talking to the
+student. Some prefer to talk to the
+student," Sahami said. "We try to
+be consistent with respect to how
+we handle the Honor Code it's
+just a matter of time constraints
+and personal preference."
+Sahami himself asks to meet
+with students and gives them the
+chance to take responsibility in ad
+vance before telling them about the
+Moss match.
+"We have a conversation of what
+happened, and what I look at are
+things like how contrite is the stu
+dent," Sahami said. "Virtually
+every time I've talked to a student
+they're very straightforward about
+what happened. In some cases, it
+sometimes takes them a little while
+to realize that honesty is the best
+policy, and they shouldn't make up
+some story to get out of the situa
+tion."
+Sahami also explained that while
+he is required to report the case to
+the OCS, he is on a student's side
+once he or she admits to violating
+the Honor Code.
+"I think the issue of academic
+honesty should also be one that's
+not just punitive but is really about
+learning," Sahami said. "I'm in
+favor for leniency on the side of stu
+dents who take responsibility."
+As a new instructor in the CS de
+partment this year, Stepp explained
+that he in fact has not yet dealt with
+any Honor Code violations, al
+though he has not finished looking
+through assignments from this
+quarter.
+"I'm lucky enough to say that I
+have not forwarded any cases so far
+in my last two quarters here at
+Stanford," Stepp said.
+"I think that there are always
+programs that come up in our list
+ings that I feel are suspicious," he
+added. "But I feel I have to be very
+confident in a match in order to
+make an accusation, and I haven't
+done so."
+In terms of repercussions, an
+Honor Code case does not show up
+on a student's transcript, but a no
+tation is kept on administrative
+record for reference in case of fu
+ture violations.
+According to Zelenski, common
+forms of punishment include a fail
+ing grade in the course, community
+service, suspension or probation.
+For repeated or unusual cases, ex
+pulsion is also a rare consequence.
+
+Why it happens: instructor per
+spectives
+Despite Stepp's violation-free
+stint on the Farm, Zelenski ex
+plained that in her experience
+teaching CS 107: Computer Or
+ganization and Systems, she usual
+ly encounters one or two cases for
+each of the seven assignments.
+Zelenski spoke about some of
+the main causes for Honor Code vi
+olations in CS, including the stress
+created by midnight deadlines and
+code that does not work. She ex
+plained that even if a program is
+well written, a small bug can cause
+big problems that feel like failure.
+"When you have a program that
+doesn't work, it's usually really ob
+vious and really hard to cope with,"
+Zelenski said. "The arbiter of cor
+rectness is obvious and apparent."
+"Having our deadlines at mid
+night probably doesn't help be
+cause in some sense that's maybe
+when you're most weak when
+you're tired," she added.
+Furthermore, copying and past
+ing working code from an online
+source makes cheating in CS espe
+cially easy compared to in other
+subjects.
+"It's ridiculously easy," Zelens
+ki said. "It can all happen in just
+the space of a few minutes when [a
+student is] just starting to feel pan
+icked and desperate."
+In general, the availability of
+code on the web has become an in
+evitable problem, especially since
+that form of plagiarism does not re
+
+quire the consent of two parties.
+Although Zelenski regularly
+searches the web for online ver
+sions of assignments, she ex
+plained that catching every in
+stance is difficult and spoke about a
+case from this quarter in which
+around 10 students in CS 107 used
+parts of code that had been up
+loaded to the software hosting site
+Git Hub.
+"At the beginning of the quarter
+and a couple times along the way I
+just do the obvious searches on all
+the places that code gets put," Ze
+lenski said. "If I ever find it and it's
+from a student of mine, I send them
+a very nice note and say I really
+want this down."
+In February, Zelenski discov
+ered that a former CS 107 student
+had uploaded the Crashßeporter
+assignment online. She requested
+the code be taken down, and the
+student complied, but not before a
+non-Stanford student forked the
+repository, copying it to a com
+pletely different location. When
+she later discovered the second
+version of the code, Zelenski as
+sumed students would not find it.
+"You have to be looking for the
+code in ways [in which you] will find
+code so I [thought], no one's going
+to find it," Zelenski said. "Well, it
+turns out I would be wrong about
+that that there were a number
+of students who found it and totally
+used it."
+When 10 Honor Code cases
+were revealed by the Moss results,
+Zelenski tried to ask the non-Stan
+ford student to take down the pro
+gram. After a lack of response, she
+eventually worked with the stu
+dent who originally owned the code
+to use a Digital Millennium Copy
+right Act (DMCA) procedure to re
+move the code from Git Hub.
+Despite the hassle, Zelenski ex
+plained that getting assignments
+off the web was worth the time. She
+used the incident as proof that,
+given the opportunity, some stu
+dents will plagiarize.
+"If you get the code off the web,
+you just bring down the incident
+rate," Zelenski said.
+Stepp further emphasized the
+effects of having code available on
+line, especially for introductory
+classes. He explained that the
+problem is compounded by the fact
+that assignments in CS classes are
+often kept constant for several
+years, and new ones are difficult to
+create.
+"It takes more time to produce
+a high-quality computer science
+homework assignment than, say, a
+math assignment," Stepp said. "On
+a math assignment, you can pro
+duce some new problems by chang
+ing some of the numbers and some
+of the variables and you have a new
+equation to solve."
+Stepp also discussed the fact
+that students who took the class in
+the past are more likely to share
+their solutions than students cur
+rently taking it.
+"I think students who took a
+class a long time ago are more cav
+alier about handing out their solu
+tion," Stepp said. "But if they just
+wrote it and someone else didn't
+write it and they want to take it, I
+think the friend is less likely to
+[share the code]."
+Zelenski believes that another
+source of Honor Code violations is
+students' belief that they can beat
+the system. With Moss mostly un
+advertised in Honor Code discus
+sions at the beginning of courses,
+many students do not understand
+how easy it is for instructors to
+catch plagiarism.
+"I do not think that the comput
+er science students at Stanford are
+somehow more vulnerable, less
+committed to integrity than our po
+litical science students or [other
+majors]," Zelenski said. "There's a
+certain kind of confluence of mo
+tive and opportunity and despera
+tion, and I think there's also the fact
+that we can find it."
+Stepp also emphasized that, de
+spite stereotypes in the discipline,
+collaboration is not the same as pla
+giarism.
+"We do want people to work to
+gether and talk to each other we
+just don't want them to share their
+solutions with each other," Stepp
+said. "There's a line. I think most
+people know what that line is, and
+it's unfortunate that some people
+cross the line, but I think it's possi
+ble to have a decent amount of col
+laboration with other students
+without crossing that line."
+Why it happens: student perspec
+tives
+
+Unsurprisingly, students told a
+similar story about the effects of
+stress in contributing to Honor
+Code violations. Two students, Jeff
+Taylor and Walter Smith both
+names have been changed to pro
+
+tect their identities spoke about
+their experience with the ERO sys
+tem in particular.
+Taylor and Smith had been
+working as a pair on a group CS
+final project, but when Smith al
+lowed a friend outside the team to
+look at their code, they received an
+unexpected email from their in
+structor after assignments were
+submitted.
+Unknown to either student, the
+friend had copied part of Taylor and
+Smith's code and submitted it as his
+own. The friend claimed that the
+submission had been an accident,
+and the case ended with an ERO.
+Although neither Taylor nor Smith
+were charged with an Honor Code
+violation, Smith's friend reportedly
+received a failing grade on the as
+signment.
+When asked about the case,
+Smith and Taylor shared their
+thoughts about why students might
+choose to plagiarize.
+"There are very few times in
+which you break the Honor Code
+for anything but grades. It's just
+pressure," Smith said. "The dead
+line is set at 12 a.m. and you've been
+working on it for 10 hours, and you
+just have one bug left, but you're
+helpless and so you go to someone
+for help just to get this one bug."
+Taylor spoke about the fine line
+between getting help from a friend
+and cheating in writing code.
+"There's a very fuzzy line from
+getting help and cheating in CS,"
+Taylor said. "If you need to find a
+bug, instead of spending three
+hours doing it, you can go to some
+one and do it in five minutes. And if
+you get in the habit of doing that,
+you will basically have other people
+writing your code. A lot of it is pres
+sure or procrastination."
+"In the case of CS specifically,
+the getting help expedites the
+process so much," he added. "And it
+can snowball into cheating."
+Smith observed that interna
+tional students in particular feel
+pressure to do well from family at
+home.
+"International students seem to
+face this [pressure] a little bit more
+than people from [the United
+States]," Smith said. "There's more
+pressure from back home to do well
+in academics, to do really well. If
+you get a B, it's unacceptable at any
+level. While here, people realize
+that it's Stanford and that getting a
+B here is not that bad. But back
+home no one knows what Stanford
+is or the grading scheme."
+Yet neither student felt that
+cheating was ever justified, and
+both believed that plagiarizing
+without learning the material would
+only hurt a student in the long run.
+"The popular opinion is that it's
+morally wrong to cheat because you
+should learn the material for your
+self," Taylor said. "In other coun
+tries, cheating is an option."
+Curbing cheating in the future
+With the rising number of online
+sources for code, instructors have
+continued to investigate ways to
+discourage students from plagiariz
+ing. Stepp attributed his lack of
+Honor Code cases to his slight al
+terations to the assignments as a
+new lecturer.
+Stepp has also added popups to
+the class websites to caution stu
+dents against plagiarism whenever
+they download or submit an assign
+ment. According to Stepp, research
+has shown that reminders do in fact
+affect the probability of a student's
+choosing to cheat, especially if the
+reminder comes before the student
+starts an assignment.
+"It's really hard to know what
+factors have an impact and which
+ones don't, but there has been edu
+cational research that shows if you
+remind students about these things
+at key moments that it can make a
+difference," Stepp said.
+Jessie Duan 'l5, a student on the
+Board of Judicial Affairs, spoke
+about how the Board has been dis
+cussing raising awareness about
+Honor Code violations. One poten
+tial effort includes talking to fresh
+men about plagiarism.
+"One thing we have been focusing
+on is raising awareness," Duan said.
+"We've been talking about reaching
+out to freshman dorms more, making
+it more obvious from the moment you
+get accepted into Stanford [that] the
+Fundamental Standard is this very
+important thing."
+Each computer science lecturer
+and professor emphasized that the
+department has gained a bad repu
+tation for Honor Code violations
+simply because it has the tools to
+search for plagiarism.
+"I think that it is true that com
+puter science departments as a
+whole tend to do more checking
+than other departments," Aiken
+said. "A lot of what you find depends
+on whether you're looking."
+Stepp also wanted to dispel the
+misconception that students need
+to work alone on CS assignments.
+"There is a stereotype that we
+don't want anyone to talk to anyone
+and that computer science is isolat
+ed and that you're not allowed to
+have any contact with other people,
+and you have to figure it out all by
+yourself with no help whatsoever,"
+Stepp said. "And I think that's a lit
+tle bit unfortunate because it's not
+true."
+
+Contact Kylie Jue at kyliej@stan
+ford.edu.
+Originally published on June
+3, 2011
+It's 11 p.m. Your program is
+crashing, and the assignment is due
+at midnight. You know where your
+error is, but you don't know how to
+fix it. A simple Google search pulls
+up tons of working code, but copying
+that directly into your program
+would be violating the Honor Code.
+Yet it seems like there are always
+some students who give in to the
+temptation.
+Stanford's Office of Community
+Standards' annual case reports
+demonstrate a steady increase in
+the number of Honor Code viola
+tions in computer science (CS) each
+year.
+However, the enrollment in CS
+classes has also risen significantly
+over the last five years. In the 2013-
+14 academic year, over 1,500 stu
+dents took CS 106A: Programming
+Methodology, the first course of the
+introductory programming series
+in the CS department, and comput
+er science has grown into the
+largest major on campus.
+"Enrollments are on the rise,"
+said Mehran Sahami '92 M.5.'93
+Ph.D. '99, professor of computer sci
+ence and associate chair of educa
+tion for the CS department. "If you
+imagine the same percentage of
+Honor Code violations is taking
+place but now the enrollment in the
+class is twice what it used to be,
+you're going to see twice as many vi
+olations."
+A measure of software similarity
+Few students realize that each
+assignment they submit is run
+through a program called Measure
+of Software Similarity (Moss). Moss
+is used to detect similarities be
+tween code submissions, and is con
+sidered a standard across most U.S.
+institutions. Used by computer sci
+ence departments worldwide, Moss
+was developed by Stanford comput
+er science professor Alex Aiken.
+Developed 20 years ago during
+Aiken's time as a professor at UC-
+Berkeley, Moss is designed to cut
+down the manual labor of searching
+for plagiarism. However, Aiken em
+phasized that Moss is not a system
+for detecting plagiarism directly.
+"What Moss detects is similari
+ty," Aiken said. "Why the code is
+similar is a human judgment that
+has to be made."
+
+Since code might be similar for
+various reasons, including shared li
+braries or starter code provided for
+the course, an instructor much
+check to see whether or not the sim
+ilarity returned by Moss constitutes
+plagiarism. Moss simply helps pro
+fessors determine which programs
+should be flagged with a higher pri
+ority for further review.
+"It's kind of smart about what
+'the same' means. It knows, for ex
+ample, that if you go through and
+change all the variable names, it
+doesn't matter," Aiken said. "It
+knows some things about program
+ming that allow it to make some
+judgments about when two things
+are really the same and when
+they're not."
+Aiken explained that Stanford
+uses Moss to compare submissions
+not only against other students'
+work in the class, but also against
+code available online and submis
+sions from previous years and quar
+ters. The program looks for aspects
+such as similar structure, identical
+bugs and other unusual commonali
+ties.
+According to Stanford computer
+science lecturer Julie Zelenski 'B9
+M.S. '96, Moss also accounts for al
+gorithms used by a significant num
+ber of students.
+"It also knows how to recognize
+when something is just so idiomatic
+that everyone did it the same way,"
+Zelenski said.
+Zelenski also explained that
+since the introductory classes are so
+large, a graduate student has been
+hired to build tools to manage the lo
+gistics of finding high-priority
+matches in Moss for 106A and 1068
+before passing the data on to the
+course instructor.
+Computer science lecturer
+Marty Stepp also spoke about the
+importance of having a teaching as
+sistant (TA) to examine the Moss re
+sults first.
+"He does all of that part for us,
+basically gets [the MOSS results] all
+ready for us to look over, produces a
+nice executive summary for us of
+the data and places it in front of us in
+an easy way for us to examine,"
+Stepp said. "We look over the top
+matches and decide which ones are
+concerning to us, and that works re
+ally well because he can help us have
+a faster turnaround."
+Stepp also emphasized that the
+student does not play a role in decid
+ing whether or not a case should be
+pursued.
+"The instructor should make
+
+that decision so it's important to
+note that his role has nothing to do
+with innocence," Stepp said. "[The
+TA] doesn't make that call for us. We
+wouldn't ever farm that out to a
+third party."
+Stepp also explained that al
+though the section leading program
+plays a large role in grading assign
+ments for students in 106A and
+1068, section leaders are not re
+sponsible for looking for plagiarism.
+Instead, they are told to contact the
+instructor if misconduct is suspect
+ed, and according to Stepp, most of
+the time section leaders do not have
+the experience to accurately recog
+
+nize an Honor Code violation.
+Dealing with violations
+If a violation is discovered, stu
+dents usually have two options:
+choosing the Early Resolution Op
+tion (ERO) or allowing the case to
+go to a hearing.
+When a case is brought to the Of
+fice of Community Standards, a stu
+dent is assigned a judicial officer to
+advocate for the student. If the case
+moves to trial and eventually a hear
+ing, a panel of five students and one
+faculty member determines
+whether or not the student's actions
+constitute a violation of the Honor
+
+Code. If a student is found guilty by
+a five-to-one vote, the panel assigns
+a sanction to the student.
+
+According to Stanford's Office of
+Community Standards, standard
+first-time sanctions are usually a
+quarter of suspension and 40 hours
+of community service unless the
+panel finds that another response is
+more appropriate.
+First instituted in 2009, the ERO
+gives students the opportunity to
+immediately accept responsibility
+for their actions and skip the judicial
+hearing process. Zelenski explained
+
+
+VICTOR XU/The Stanford Daily
+that the ERO gives students an in
+centive to take responsibility for
+their actions rather than lying to
+avoid a sanction. In addition, while
+hearings can take two months or
+longer, the ERO can be resolved
+within a few weeks.
+"The vast majority of the stu
+dents who I'm sending [to OCS] are
+choosing to pursue an ERO alterna
+tive [rather] than go to a full hear
+ing," Zelenski said.
+Even before sending a student
+to the OCS, different instructors
+handle potential honor code viola
+tions differently, Sahami said.
+"Depending on the results they
+get back [from Moss], some [in
+structors] will just report them im
+mediately without talking to the
+student. Some prefer to talk to the
+student," Sahami said. "We try to
+be consistent with respect to how
+we handle the Honor Code it's
+just a matter of time constraints
+and personal preference."
+Sahami himself asks to meet
+with students and gives them the
+chance to take responsibility in ad
+vance before telling them about the
+Moss match.
+"We have a conversation of what
+happened, and what I look at are
+things like how contrite is the stu
+dent," Sahami said. "Virtually
+every time I've talked to a student
+they're very straightforward about
+what happened. In some cases, it
+sometimes takes them a little while
+to realize that honesty is the best
+policy, and they shouldn't make up
+some story to get out of the situa
+tion."
+Sahami also explained that while
+he is required to report the case to
+the OCS, he is on a student's side
+once he or she admits to violating
+the Honor Code.
+"I think the issue of academic
+honesty should also be one that's
+not just punitive but is really about
+learning," Sahami said. "I'm in
+favor for leniency on the side of stu
+dents who take responsibility."
+As a new instructor in the CS de
+partment this year, Stepp explained
+that he in fact has not yet dealt with
+any Honor Code violations, al
+though he has not finished looking
+through assignments from this
+quarter.
+"I'm lucky enough to say that I
+have not forwarded any cases so far
+in my last two quarters here at
+Stanford," Stepp said.
+"I think that there are always
+programs that come up in our list
+ings that I feel are suspicious," he
+added. "But I feel I have to be very
+confident in a match in order to
+make an accusation, and I haven't
+done so."
+In terms of repercussions, an
+Honor Code case does not show up
+on a student's transcript, but a no
+tation is kept on administrative
+record for reference in case of fu
+ture violations.
+According to Zelenski, common
+forms of punishment include a fail
+ing grade in the course, community
+service, suspension or probation.
+For repeated or unusual cases, ex
+pulsion is also a rare consequence.
+
+Why it happens: instructor per
+spectives
+Despite Stepp's violation-free
+stint on the Farm, Zelenski ex
+plained that in her experience
+teaching CS 107: Computer Or
+ganization and Systems, she usual
+ly encounters one or two cases for
+each of the seven assignments.
+Zelenski spoke about some of
+the main causes for Honor Code vi
+olations in CS, including the stress
+created by midnight deadlines and
+code that does not work. She ex
+plained that even if a program is
+well written, a small bug can cause
+big problems that feel like failure.
+"When you have a program that
+doesn't work, it's usually really ob
+vious and really hard to cope with,"
+Zelenski said. "The arbiter of cor
+rectness is obvious and apparent."
+"Having our deadlines at mid
+night probably doesn't help be
+cause in some sense that's maybe
+when you're most weak when
+you're tired," she added.
+Furthermore, copying and past
+ing working code from an online
+source makes cheating in CS espe
+cially easy compared to in other
+subjects.
+"It's ridiculously easy," Zelens
+ki said. "It can all happen in just
+the space of a few minutes when [a
+student is] just starting to feel pan
+icked and desperate."
+In general, the availability of
+code on the web has become an in
+evitable problem, especially since
+that form of plagiarism does not re
+
+quire the consent of two parties.
+Although Zelenski regularly
+searches the web for online ver
+sions of assignments, she ex
+plained that catching every in
+stance is difficult and spoke about a
+case from this quarter in which
+around 10 students in CS 107 used
+parts of code that had been up
+loaded to the software hosting site
+Git Hub.
+"At the beginning of the quarter
+and a couple times along the way I
+just do the obvious searches on all
+the places that code gets put," Ze
+lenski said. "If I ever find it and it's
+from a student of mine, I send them
+a very nice note and say I really
+want this down."
+In February, Zelenski discov
+ered that a former CS 107 student
+had uploaded the Crashßeporter
+assignment online. She requested
+the code be taken down, and the
+student complied, but not before a
+non-Stanford student forked the
+repository, copying it to a com
+pletely different location. When
+she later discovered the second
+version of the code, Zelenski as
+sumed students would not find it.
+"You have to be looking for the
+code in ways [in which you] will find
+code so I [thought], no one's going
+to find it," Zelenski said. "Well, it
+turns out I would be wrong about
+that that there were a number
+of students who found it and totally
+used it."
+When 10 Honor Code cases
+were revealed by the Moss results,
+Zelenski tried to ask the non-Stan
+ford student to take down the pro
+gram. After a lack of response, she
+eventually worked with the stu
+dent who originally owned the code
+to use a Digital Millennium Copy
+right Act (DMCA) procedure to re
+move the code from Git Hub.
+Despite the hassle, Zelenski ex
+plained that getting assignments
+off the web was worth the time. She
+used the incident as proof that,
+given the opportunity, some stu
+dents will plagiarize.
+"If you get the code off the web,
+you just bring down the incident
+rate," Zelenski said.
+Stepp further emphasized the
+effects of having code available on
+line, especially for introductory
+classes. He explained that the
+problem is compounded by the fact
+that assignments in CS classes are
+often kept constant for several
+years, and new ones are difficult to
+create.
+"It takes more time to produce
+a high-quality computer science
+homework assignment than, say, a
+math assignment," Stepp said. "On
+a math assignment, you can pro
+duce some new problems by chang
+ing some of the numbers and some
+of the variables and you have a new
+equation to solve."
+Stepp also discussed the fact
+that students who took the class in
+the past are more likely to share
+their solutions than students cur
+rently taking it.
+"I think students who took a
+class a long time ago are more cav
+alier about handing out their solu
+tion," Stepp said. "But if they just
+wrote it and someone else didn't
+write it and they want to take it, I
+think the friend is less likely to
+[share the code]."
+Zelenski believes that another
+source of Honor Code violations is
+students' belief that they can beat
+the system. With Moss mostly un
+advertised in Honor Code discus
+sions at the beginning of courses,
+many students do not understand
+how easy it is for instructors to
+catch plagiarism.
+"I do not think that the comput
+er science students at Stanford are
+somehow more vulnerable, less
+committed to integrity than our po
+litical science students or [other
+majors]," Zelenski said. "There's a
+certain kind of confluence of mo
+tive and opportunity and despera
+tion, and I think there's also the fact
+that we can find it."
+Stepp also emphasized that, de
+spite stereotypes in the discipline,
+collaboration is not the same as pla
+giarism.
+"We do want people to work to
+gether and talk to each other we
+just don't want them to share their
+solutions with each other," Stepp
+said. "There's a line. I think most
+people know what that line is, and
+it's unfortunate that some people
+cross the line, but I think it's possi
+ble to have a decent amount of col
+laboration with other students
+without crossing that line."
+Why it happens: student perspec
+tives
+
+Unsurprisingly, students told a
+similar story about the effects of
+stress in contributing to Honor
+Code violations. Two students, Jeff
+Taylor and Walter Smith both
+names have been changed to pro
+
+tect their identities spoke about
+their experience with the ERO sys
+tem in particular.
+Taylor and Smith had been
+working as a pair on a group CS
+final project, but when Smith al
+lowed a friend outside the team to
+look at their code, they received an
+unexpected email from their in
+structor after assignments were
+submitted.
+Unknown to either student, the
+friend had copied part of Taylor and
+Smith's code and submitted it as his
+own. The friend claimed that the
+submission had been an accident,
+and the case ended with an ERO.
+Although neither Taylor nor Smith
+were charged with an Honor Code
+violation, Smith's friend reportedly
+received a failing grade on the as
+signment.
+When asked about the case,
+Smith and Taylor shared their
+thoughts about why students might
+choose to plagiarize.
+"There are very few times in
+which you break the Honor Code
+for anything but grades. It's just
+pressure," Smith said. "The dead
+line is set at 12 a.m. and you've been
+working on it for 10 hours, and you
+just have one bug left, but you're
+helpless and so you go to someone
+for help just to get this one bug."
+Taylor spoke about the fine line
+between getting help from a friend
+and cheating in writing code.
+"There's a very fuzzy line from
+getting help and cheating in CS,"
+Taylor said. "If you need to find a
+bug, instead of spending three
+hours doing it, you can go to some
+one and do it in five minutes. And if
+you get in the habit of doing that,
+you will basically have other people
+writing your code. A lot of it is pres
+sure or procrastination."
+"In the case of CS specifically,
+the getting help expedites the
+process so much," he added. "And it
+can snowball into cheating."
+Smith observed that interna
+tional students in particular feel
+pressure to do well from family at
+home.
+"International students seem to
+face this [pressure] a little bit more
+than people from [the United
+States]," Smith said. "There's more
+pressure from back home to do well
+in academics, to do really well. If
+you get a B, it's unacceptable at any
+level. While here, people realize
+that it's Stanford and that getting a
+B here is not that bad. But back
+home no one knows what Stanford
+is or the grading scheme."
+Yet neither student felt that
+cheating was ever justified, and
+both believed that plagiarizing
+without learning the material would
+only hurt a student in the long run.
+"The popular opinion is that it's
+morally wrong to cheat because you
+should learn the material for your
+self," Taylor said. "In other coun
+tries, cheating is an option."
+Curbing cheating in the future
+With the rising number of online
+sources for code, instructors have
+continued to investigate ways to
+discourage students from plagiariz
+ing. Stepp attributed his lack of
+Honor Code cases to his slight al
+terations to the assignments as a
+new lecturer.
+Stepp has also added popups to
+the class websites to caution stu
+dents against plagiarism whenever
+they download or submit an assign
+ment. According to Stepp, research
+has shown that reminders do in fact
+affect the probability of a student's
+choosing to cheat, especially if the
+reminder comes before the student
+starts an assignment.
+"It's really hard to know what
+factors have an impact and which
+ones don't, but there has been edu
+cational research that shows if you
+remind students about these things
+at key moments that it can make a
+difference," Stepp said.
+Jessie Duan 'l5, a student on the
+Board of Judicial Affairs, spoke
+about how the Board has been dis
+cussing raising awareness about
+Honor Code violations. One poten
+tial effort includes talking to fresh
+men about plagiarism.
+"One thing we have been focusing
+on is raising awareness," Duan said.
+"We've been talking about reaching
+out to freshman dorms more, making
+it more obvious from the moment you
+get accepted into Stanford [that] the
+Fundamental Standard is this very
+important thing."
+Each computer science lecturer
+and professor emphasized that the
+department has gained a bad repu
+tation for Honor Code violations
+simply because it has the tools to
+search for plagiarism.
+"I think that it is true that com
+puter science departments as a
+whole tend to do more checking
+than other departments," Aiken
+said. "A lot of what you find depends
+on whether you're looking."
+Stepp also wanted to dispel the
+misconception that students need
+to work alone on CS assignments.
+"There is a stereotype that we
+don't want anyone to talk to anyone
+and that computer science is isolat
+ed and that you're not allowed to
+have any contact with other people,
+and you have to figure it out all by
+yourself with no help whatsoever,"
+Stepp said. "And I think that's a lit
+tle bit unfortunate because it's not
+true."
+
+Contact Kylie Jue at kyliej@stan
+ford.edu.
+Originally published on June
+3, 2011
+It's 11 p.m. Your program is
+crashing, and the assignment is due
+at midnight. You know where your
+error is, but you don't know how to
+fix it. A simple Google search pulls
+up tons of working code, but copying
+that directly into your program
+would be violating the Honor Code.
+Yet it seems like there are always
+some students who give in to the
+temptation.
+Stanford's Office of Community
+Standards' annual case reports
+demonstrate a steady increase in
+the number of Honor Code viola
+tions in computer science (CS) each
+year.
+However, the enrollment in CS
+classes has also risen significantly
+over the last five years. In the 2013-
+14 academic year, over 1,500 stu
+dents took CS 106A: Programming
+Methodology, the first course of the
+introductory programming series
+in the CS department, and comput
+er science has grown into the
+largest major on campus.
+"Enrollments are on the rise,"
+said Mehran Sahami '92 M.5.'93
+Ph.D. '99, professor of computer sci
+ence and associate chair of educa
+tion for the CS department. "If you
+imagine the same percentage of
+Honor Code violations is taking
+place but now the enrollment in the
+class is twice what it used to be,
+you're going to see twice as many vi
+olations."
+A measure of software similarity
+Few students realize that each
+assignment they submit is run
+through a program called Measure
+of Software Similarity (Moss). Moss
+is used to detect similarities be
+tween code submissions, and is con
+sidered a standard across most U.S.
+institutions. Used by computer sci
+ence departments worldwide, Moss
+was developed by Stanford comput
+er science professor Alex Aiken.
+Developed 20 years ago during
+Aiken's time as a professor at UC-
+Berkeley, Moss is designed to cut
+down the manual labor of searching
+for plagiarism. However, Aiken em
+phasized that Moss is not a system
+for detecting plagiarism directly.
+"What Moss detects is similari
+ty," Aiken said. "Why the code is
+similar is a human judgment that
+has to be made."
+
+Since code might be similar for
+various reasons, including shared li
+braries or starter code provided for
+the course, an instructor much
+check to see whether or not the sim
+ilarity returned by Moss constitutes
+plagiarism. Moss simply helps pro
+fessors determine which programs
+should be flagged with a higher pri
+ority for further review.
+"It's kind of smart about what
+'the same' means. It knows, for ex
+ample, that if you go through and
+change all the variable names, it
+doesn't matter," Aiken said. "It
+knows some things about program
+ming that allow it to make some
+judgments about when two things
+are really the same and when
+they're not."
+Aiken explained that Stanford
+uses Moss to compare submissions
+not only against other students'
+work in the class, but also against
+code available online and submis
+sions from previous years and quar
+ters. The program looks for aspects
+such as similar structure, identical
+bugs and other unusual commonali
+ties.
+According to Stanford computer
+science lecturer Julie Zelenski 'B9
+M.S. '96, Moss also accounts for al
+gorithms used by a significant num
+ber of students.
+"It also knows how to recognize
+when something is just so idiomatic
+that everyone did it the same way,"
+Zelenski said.
+Zelenski also explained that
+since the introductory classes are so
+large, a graduate student has been
+hired to build tools to manage the lo
+gistics of finding high-priority
+matches in Moss for 106A and 1068
+before passing the data on to the
+course instructor.
+Computer science lecturer
+Marty Stepp also spoke about the
+importance of having a teaching as
+sistant (TA) to examine the Moss re
+sults first.
+"He does all of that part for us,
+basically gets [the MOSS results] all
+ready for us to look over, produces a
+nice executive summary for us of
+the data and places it in front of us in
+an easy way for us to examine,"
+Stepp said. "We look over the top
+matches and decide which ones are
+concerning to us, and that works re
+ally well because he can help us have
+a faster turnaround."
+Stepp also emphasized that the
+student does not play a role in decid
+ing whether or not a case should be
+pursued.
+"The instructor should make
+
+that decision so it's important to
+note that his role has nothing to do
+with innocence," Stepp said. "[The
+TA] doesn't make that call for us. We
+wouldn't ever farm that out to a
+third party."
+Stepp also explained that al
+though the section leading program
+plays a large role in grading assign
+ments for students in 106A and
+1068, section leaders are not re
+sponsible for looking for plagiarism.
+Instead, they are told to contact the
+instructor if misconduct is suspect
+ed, and according to Stepp, most of
+the time section leaders do not have
+the experience to accurately recog
+
+nize an Honor Code violation.
+Dealing with violations
+If a violation is discovered, stu
+dents usually have two options:
+choosing the Early Resolution Op
+tion (ERO) or allowing the case to
+go to a hearing.
+When a case is brought to the Of
+fice of Community Standards, a stu
+dent is assigned a judicial officer to
+advocate for the student. If the case
+moves to trial and eventually a hear
+ing, a panel of five students and one
+faculty member determines
+whether or not the student's actions
+constitute a violation of the Honor
+
+Code. If a student is found guilty by
+a five-to-one vote, the panel assigns
+a sanction to the student.
+
+According to Stanford's Office of
+Community Standards, standard
+first-time sanctions are usually a
+quarter of suspension and 40 hours
+of community service unless the
+panel finds that another response is
+more appropriate.
+First instituted in 2009, the ERO
+gives students the opportunity to
+immediately accept responsibility
+for their actions and skip the judicial
+hearing process. Zelenski explained
+
+
+VICTOR XU/The Stanford Daily
+that the ERO gives students an in
+centive to take responsibility for
+their actions rather than lying to
+avoid a sanction. In addition, while
+hearings can take two months or
+longer, the ERO can be resolved
+within a few weeks.
+"The vast majority of the stu
+dents who I'm sending [to OCS] are
+choosing to pursue an ERO alterna
+tive [rather] than go to a full hear
+ing," Zelenski said.
+Even before sending a student
+to the OCS, different instructors
+handle potential honor code viola
+tions differently, Sahami said.
+"Depending on the results they
+get back [from Moss], some [in
+structors] will just report them im
+mediately without talking to the
+student. Some prefer to talk to the
+student," Sahami said. "We try to
+be consistent with respect to how
+we handle the Honor Code it's
+just a matter of time constraints
+and personal preference."
+Sahami himself asks to meet
+with students and gives them the
+chance to take responsibility in ad
+vance before telling them about the
+Moss match.
+"We have a conversation of what
+happened, and what I look at are
+things like how contrite is the stu
+dent," Sahami said. "Virtually
+every time I've talked to a student
+they're very straightforward about
+what happened. In some cases, it
+sometimes takes them a little while
+to realize that honesty is the best
+policy, and they shouldn't make up
+some story to get out of the situa
+tion."
+Sahami also explained that while
+he is required to report the case to
+the OCS, he is on a student's side
+once he or she admits to violating
+the Honor Code.
+"I think the issue of academic
+honesty should also be one that's
+not just punitive but is really about
+learning," Sahami said. "I'm in
+favor for leniency on the side of stu
+dents who take responsibility."
+As a new instructor in the CS de
+partment this year, Stepp explained
+that he in fact has not yet dealt with
+any Honor Code violations, al
+though he has not finished looking
+through assignments from this
+quarter.
+"I'm lucky enough to say that I
+have not forwarded any cases so far
+in my last two quarters here at
+Stanford," Stepp said.
+"I think that there are always
+programs that come up in our list
+ings that I feel are suspicious," he
+added. "But I feel I have to be very
+confident in a match in order to
+make an accusation, and I haven't
+done so."
+In terms of repercussions, an
+Honor Code case does not show up
+on a student's transcript, but a no
+tation is kept on administrative
+record for reference in case of fu
+ture violations.
+According to Zelenski, common
+forms of punishment include a fail
+ing grade in the course, community
+service, suspension or probation.
+For repeated or unusual cases, ex
+pulsion is also a rare consequence.
+
+Why it happens: instructor per
+spectives
+Despite Stepp's violation-free
+stint on the Farm, Zelenski ex
+plained that in her experience
+teaching CS 107: Computer Or
+ganization and Systems, she usual
+ly encounters one or two cases for
+each of the seven assignments.
+Zelenski spoke about some of
+the main causes for Honor Code vi
+olations in CS, including the stress
+created by midnight deadlines and
+code that does not work. She ex
+plained that even if a program is
+well written, a small bug can cause
+big problems that feel like failure.
+"When you have a program that
+doesn't work, it's usually really ob
+vious and really hard to cope with,"
+Zelenski said. "The arbiter of cor
+rectness is obvious and apparent."
+"Having our deadlines at mid
+night probably doesn't help be
+cause in some sense that's maybe
+when you're most weak when
+you're tired," she added.
+Furthermore, copying and past
+ing working code from an online
+source makes cheating in CS espe
+cially easy compared to in other
+subjects.
+"It's ridiculously easy," Zelens
+ki said. "It can all happen in just
+the space of a few minutes when [a
+student is] just starting to feel pan
+icked and desperate."
+In general, the availability of
+code on the web has become an in
+evitable problem, especially since
+that form of plagiarism does not re
+
+quire the consent of two parties.
+Although Zelenski regularly
+searches the web for online ver
+sions of assignments, she ex
+plained that catching every in
+stance is difficult and spoke about a
+case from this quarter in which
+around 10 students in CS 107 used
+parts of code that had been up
+loaded to the software hosting site
+Git Hub.
+"At the beginning of the quarter
+and a couple times along the way I
+just do the obvious searches on all
+the places that code gets put," Ze
+lenski said. "If I ever find it and it's
+from a student of mine, I send them
+a very nice note and say I really
+want this down."
+In February, Zelenski discov
+ered that a former CS 107 student
+had uploaded the Crashßeporter
+assignment online. She requested
+the code be taken down, and the
+student complied, but not before a
+non-Stanford student forked the
+repository, copying it to a com
+pletely different location. When
+she later discovered the second
+version of the code, Zelenski as
+sumed students would not find it.
+"You have to be looking for the
+code in ways [in which you] will find
+code so I [thought], no one's going
+to find it," Zelenski said. "Well, it
+turns out I would be wrong about
+that that there were a number
+of students who found it and totally
+used it."
+When 10 Honor Code cases
+were revealed by the Moss results,
+Zelenski tried to ask the non-Stan
+ford student to take down the pro
+gram. After a lack of response, she
+eventually worked with the stu
+dent who originally owned the code
+to use a Digital Millennium Copy
+right Act (DMCA) procedure to re
+move the code from Git Hub.
+Despite the hassle, Zelenski ex
+plained that getting assignments
+off the web was worth the time. She
+used the incident as proof that,
+given the opportunity, some stu
+dents will plagiarize.
+"If you get the code off the web,
+you just bring down the incident
+rate," Zelenski said.
+Stepp further emphasized the
+effects of having code available on
+line, especially for introductory
+classes. He explained that the
+problem is compounded by the fact
+that assignments in CS classes are
+often kept constant for several
+years, and new ones are difficult to
+create.
+"It takes more time to produce
+a high-quality computer science
+homework assignment than, say, a
+math assignment," Stepp said. "On
+a math assignment, you can pro
+duce some new problems by chang
+ing some of the numbers and some
+of the variables and you have a new
+equation to solve."
+Stepp also discussed the fact
+that students who took the class in
+the past are more likely to share
+their solutions than students cur
+rently taking it.
+"I think students who took a
+class a long time ago are more cav
+alier about handing out their solu
+tion," Stepp said. "But if they just
+wrote it and someone else didn't
+write it and they want to take it, I
+think the friend is less likely to
+[share the code]."
+Zelenski believes that another
+source of Honor Code violations is
+students' belief that they can beat
+the system. With Moss mostly un
+advertised in Honor Code discus
+sions at the beginning of courses,
+many students do not understand
+how easy it is for instructors to
+catch plagiarism.
+"I do not think that the comput
+er science students at Stanford are
+somehow more vulnerable, less
+committed to integrity than our po
+litical science students or [other
+majors]," Zelenski said. "There's a
+certain kind of confluence of mo
+tive and opportunity and despera
+tion, and I think there's also the fact
+that we can find it."
+Stepp also emphasized that, de
+spite stereotypes in the discipline,
+collaboration is not the same as pla
+giarism.
+"We do want people to work to
+gether and talk to each other we
+just don't want them to share their
+solutions with each other," Stepp
+said. "There's a line. I think most
+people know what that line is, and
+it's unfortunate that some people
+cross the line, but I think it's possi
+ble to have a decent amount of col
+laboration with other students
+without crossing that line."
+Why it happens: student perspec
+tives
+
+Unsurprisingly, students told a
+similar story about the effects of
+stress in contributing to Honor
+Code violations. Two students, Jeff
+Taylor and Walter Smith both
+names have been changed to pro
+
+tect their identities spoke about
+their experience with the ERO sys
+tem in particular.
+Taylor and Smith had been
+working as a pair on a group CS
+final project, but when Smith al
+lowed a friend outside the team to
+look at their code, they received an
+unexpected email from their in
+structor after assignments were
+submitted.
+Unknown to either student, the
+friend had copied part of Taylor and
+Smith's code and submitted it as his
+own. The friend claimed that the
+submission had been an accident,
+and the case ended with an ERO.
+Although neither Taylor nor Smith
+were charged with an Honor Code
+violation, Smith's friend reportedly
+received a failing grade on the as
+signment.
+When asked about the case,
+Smith and Taylor shared their
+thoughts about why students might
+choose to plagiarize.
+"There are very few times in
+which you break the Honor Code
+for anything but grades. It's just
+pressure," Smith said. "The dead
+line is set at 12 a.m. and you've been
+working on it for 10 hours, and you
+just have one bug left, but you're
+helpless and so you go to someone
+for help just to get this one bug."
+Taylor spoke about the fine line
+between getting help from a friend
+and cheating in writing code.
+"There's a very fuzzy line from
+getting help and cheating in CS,"
+Taylor said. "If you need to find a
+bug, instead of spending three
+hours doing it, you can go to some
+one and do it in five minutes. And if
+you get in the habit of doing that,
+you will basically have other people
+writing your code. A lot of it is pres
+sure or procrastination."
+"In the case of CS specifically,
+the getting help expedites the
+process so much," he added. "And it
+can snowball into cheating."
+Smith observed that interna
+tional students in particular feel
+pressure to do well from family at
+home.
+"International students seem to
+face this [pressure] a little bit more
+than people from [the United
+States]," Smith said. "There's more
+pressure from back home to do well
+in academics, to do really well. If
+you get a B, it's unacceptable at any
+level. While here, people realize
+that it's Stanford and that getting a
+B here is not that bad. But back
+home no one knows what Stanford
+is or the grading scheme."
+Yet neither student felt that
+cheating was ever justified, and
+both believed that plagiarizing
+without learning the material would
+only hurt a student in the long run.
+"The popular opinion is that it's
+morally wrong to cheat because you
+should learn the material for your
+self," Taylor said. "In other coun
+tries, cheating is an option."
+Curbing cheating in the future
+With the rising number of online
+sources for code, instructors have
+continued to investigate ways to
+discourage students from plagiariz
+ing. Stepp attributed his lack of
+Honor Code cases to his slight al
+terations to the assignments as a
+new lecturer.
+Stepp has also added popups to
+the class websites to caution stu
+dents against plagiarism whenever
+they download or submit an assign
+ment. According to Stepp, research
+has shown that reminders do in fact
+affect the probability of a student's
+choosing to cheat, especially if the
+reminder comes before the student
+starts an assignment.
+"It's really hard to know what
+factors have an impact and which
+ones don't, but there has been edu
+cational research that shows if you
+remind students about these things
+at key moments that it can make a
+difference," Stepp said.
+Jessie Duan 'l5, a student on the
+Board of Judicial Affairs, spoke
+about how the Board has been dis
+cussing raising awareness about
+Honor Code violations. One poten
+tial effort includes talking to fresh
+men about plagiarism.
+"One thing we have been focusing
+on is raising awareness," Duan said.
+"We've been talking about reaching
+out to freshman dorms more, making
+it more obvious from the moment you
+get accepted into Stanford [that] the
+Fundamental Standard is this very
+important thing."
+Each computer science lecturer
+and professor emphasized that the
+department has gained a bad repu
+tation for Honor Code violations
+simply because it has the tools to
+search for plagiarism.
+"I think that it is true that com
+puter science departments as a
+whole tend to do more checking
+than other departments," Aiken
+said. "A lot of what you find depends
+on whether you're looking."
+Stepp also wanted to dispel the
+misconception that students need
+to work alone on CS assignments.
+"There is a stereotype that we
+don't want anyone to talk to anyone
+and that computer science is isolat
+ed and that you're not allowed to
+have any contact with other people,
+and you have to figure it out all by
+yourself with no help whatsoever,"
+Stepp said. "And I think that's a lit
+tle bit unfortunate because it's not
+true."
+
+Contact Kylie Jue at kyliej@stan
+ford.edu.
+Originally published on June
+3, 2011
+It's 11 p.m. Your program is
+crashing, and the assignment is due
+at midnight. You know where your
+error is, but you don't know how to
+fix it. A simple Google search pulls
+up tons of working code, but copying
+that directly into your program
+would be violating the Honor Code.
+Yet it seems like there are always
+some students who give in to the
+temptation.
+Stanford's Office of Community
+Standards' annual case reports
+demonstrate a steady increase in
+the number of Honor Code viola
+tions in computer science (CS) each
+year.
+However, the enrollment in CS
+classes has also risen significantly
+over the last five years. In the 2013-
+14 academic year, over 1,500 stu
+dents took CS 106A: Programming
+Methodology, the first course of the
+introductory programming series
+in the CS department, and comput
+er science has grown into the
+largest major on campus.
+"Enrollments are on the rise,"
+said Mehran Sahami '92 M.5.'93
+Ph.D. '99, professor of computer sci
+ence and associate chair of educa
+tion for the CS department. "If you
+imagine the same percentage of
+Honor Code violations is taking
+place but now the enrollment in the
+class is twice what it used to be,
+you're going to see twice as many vi
+olations."
+A measure of software similarity
+Few students realize that each
+assignment they submit is run
+through a program called Measure
+of Software Similarity (Moss). Moss
+is used to detect similarities be
+tween code submissions, and is con
+sidered a standard across most U.S.
+institutions. Used by computer sci
+ence departments worldwide, Moss
+was developed by Stanford comput
+er science professor Alex Aiken.
+Developed 20 years ago during
+Aiken's time as a professor at UC-
+Berkeley, Moss is designed to cut
+down the manual labor of searching
+for plagiarism. However, Aiken em
+phasized that Moss is not a system
+for detecting plagiarism directly.
+"What Moss detects is similari
+ty," Aiken said. "Why the code is
+similar is a human judgment that
+has to be made."
+
+Since code might be similar for
+various reasons, including shared li
+braries or starter code provided for
+the course, an instructor much
+check to see whether or not the sim
+ilarity returned by Moss constitutes
+plagiarism. Moss simply helps pro
+fessors determine which programs
+should be flagged with a higher pri
+ority for further review.
+"It's kind of smart about what
+'the same' means. It knows, for ex
+ample, that if you go through and
+change all the variable names, it
+doesn't matter," Aiken said. "It
+knows some things about program
+ming that allow it to make some
+judgments about when two things
+are really the same and when
+they're not."
+Aiken explained that Stanford
+uses Moss to compare submissions
+not only against other students'
+work in the class, but also against
+code available online and submis
+sions from previous years and quar
+ters. The program looks for aspects
+such as similar structure, identical
+bugs and other unusual commonali
+ties.
+According to Stanford computer
+science lecturer Julie Zelenski 'B9
+M.S. '96, Moss also accounts for al
+gorithms used by a significant num
+ber of students.
+"It also knows how to recognize
+when something is just so idiomatic
+that everyone did it the same way,"
+Zelenski said.
+Zelenski also explained that
+since the introductory classes are so
+large, a graduate student has been
+hired to build tools to manage the lo
+gistics of finding high-priority
+matches in Moss for 106A and 1068
+before passing the data on to the
+course instructor.
+Computer science lecturer
+Marty Stepp also spoke about the
+importance of having a teaching as
+sistant (TA) to examine the Moss re
+sults first.
+"He does all of that part for us,
+basically gets [the MOSS results] all
+ready for us to look over, produces a
+nice executive summary for us of
+the data and places it in front of us in
+an easy way for us to examine,"
+Stepp said. "We look over the top
+matches and decide which ones are
+concerning to us, and that works re
+ally well because he can help us have
+a faster turnaround."
+Stepp also emphasized that the
+student does not play a role in decid
+ing whether or not a case should be
+pursued.
+"The instructor should make
+
+that decision so it's important to
+note that his role has nothing to do
+with innocence," Stepp said. "[The
+TA] doesn't make that call for us. We
+wouldn't ever farm that out to a
+third party."
+Stepp also explained that al
+though the section leading program
+plays a large role in grading assign
+ments for students in 106A and
+1068, section leaders are not re
+sponsible for looking for plagiarism.
+Instead, they are told to contact the
+instructor if misconduct is suspect
+ed, and according to Stepp, most of
+the time section leaders do not have
+the experience to accurately recog
+
+nize an Honor Code violation.
+Dealing with violations
+If a violation is discovered, stu
+dents usually have two options:
+choosing the Early Resolution Op
+tion (ERO) or allowing the case to
+go to a hearing.
+When a case is brought to the Of
+fice of Community Standards, a stu
+dent is assigned a judicial officer to
+advocate for the student. If the case
+moves to trial and eventually a hear
+ing, a panel of five students and one
+faculty member determines
+whether or not the student's actions
+constitute a violation of the Honor
+
+Code. If a student is found guilty by
+a five-to-one vote, the panel assigns
+a sanction to the student.
+
+According to Stanford's Office of
+Community Standards, standard
+first-time sanctions are usually a
+quarter of suspension and 40 hours
+of community service unless the
+panel finds that another response is
+more appropriate.
+First instituted in 2009, the ERO
+gives students the opportunity to
+immediately accept responsibility
+for their actions and skip the judicial
+hearing process. Zelenski explained
+
+
+VICTOR XU/The Stanford Daily
+that the ERO gives students an in
+centive to take responsibility for
+their actions rather than lying to
+avoid a sanction. In addition, while
+hearings can take two months or
+longer, the ERO can be resolved
+within a few weeks.
+"The vast majority of the stu
+dents who I'm sending [to OCS] are
+choosing to pursue an ERO alterna
+tive [rather] than go to a full hear
+ing," Zelenski said.
+Even before sending a student
+to the OCS, different instructors
+handle potential honor code viola
+tions differently, Sahami said.
+"Depending on the results they
+get back [from Moss], some [in
+structors] will just report them im
+mediately without talking to the
+student. Some prefer to talk to the
+student," Sahami said. "We try to
+be consistent with respect to how
+we handle the Honor Code it's
+just a matter of time constraints
+and personal preference."
+Sahami himself asks to meet
+with students and gives them the
+chance to take responsibility in ad
+vance before telling them about the
+Moss match.
+"We have a conversation of what
+happened, and what I look at are
+things like how contrite is the stu
+dent," Sahami said. "Virtually
+every time I've talked to a student
+they're very straightforward about
+what happened. In some cases, it
+sometimes takes them a little while
+to realize that honesty is the best
+policy, and they shouldn't make up
+some story to get out of the situa
+tion."
+Sahami also explained that while
+he is required to report the case to
+the OCS, he is on a student's side
+once he or she admits to violating
+the Honor Code.
+"I think the issue of academic
+honesty should also be one that's
+not just punitive but is really about
+learning," Sahami said. "I'm in
+favor for leniency on the side of stu
+dents who take responsibility."
+As a new instructor in the CS de
+partment this year, Stepp explained
+that he in fact has not yet dealt with
+any Honor Code violations, al
+though he has not finished looking
+through assignments from this
+quarter.
+"I'm lucky enough to say that I
+have not forwarded any cases so far
+in my last two quarters here at
+Stanford," Stepp said.
+"I think that there are always
+programs that come up in our list
+ings that I feel are suspicious," he
+added. "But I feel I have to be very
+confident in a match in order to
+make an accusation, and I haven't
+done so."
+In terms of repercussions, an
+Honor Code case does not show up
+on a student's transcript, but a no
+tation is kept on administrative
+record for reference in case of fu
+ture violations.
+According to Zelenski, common
+forms of punishment include a fail
+ing grade in the course, community
+service, suspension or probation.
+For repeated or unusual cases, ex
+pulsion is also a rare consequence.
+
+Why it happens: instructor per
+spectives
+Despite Stepp's violation-free
+stint on the Farm, Zelenski ex
+plained that in her experience
+teaching CS 107: Computer Or
+ganization and Systems, she usual
+ly encounters one or two cases for
+each of the seven assignments.
+Zelenski spoke about some of
+the main causes for Honor Code vi
+olations in CS, including the stress
+created by midnight deadlines and
+code that does not work. She ex
+plained that even if a program is
+well written, a small bug can cause
+big problems that feel like failure.
+"When you have a program that
+doesn't work, it's usually really ob
+vious and really hard to cope with,"
+Zelenski said. "The arbiter of cor
+rectness is obvious and apparent."
+"Having our deadlines at mid
+night probably doesn't help be
+cause in some sense that's maybe
+when you're most weak when
+you're tired," she added.
+Furthermore, copying and past
+ing working code from an online
+source makes cheating in CS espe
+cially easy compared to in other
+subjects.
+"It's ridiculously easy," Zelens
+ki said. "It can all happen in just
+the space of a few minutes when [a
+student is] just starting to feel pan
+icked and desperate."
+In general, the availability of
+code on the web has become an in
+evitable problem, especially since
+that form of plagiarism does not re
+
+quire the consent of two parties.
+Although Zelenski regularly
+searches the web for online ver
+sions of assignments, she ex
+plained that catching every in
+stance is difficult and spoke about a
+case from this quarter in which
+around 10 students in CS 107 used
+parts of code that had been up
+loaded to the software hosting site
+Git Hub.
+"At the beginning of the quarter
+and a couple times along the way I
+just do the obvious searches on all
+the places that code gets put," Ze
+lenski said. "If I ever find it and it's
+from a student of mine, I send them
+a very nice note and say I really
+want this down."
+In February, Zelenski discov
+ered that a former CS 107 student
+had uploaded the Crashßeporter
+assignment online. She requested
+the code be taken down, and the
+student complied, but not before a
+non-Stanford student forked the
+repository, copying it to a com
+pletely different location. When
+she later discovered the second
+version of the code, Zelenski as
+sumed students would not find it.
+"You have to be looking for the
+code in ways [in which you] will find
+code so I [thought], no one's going
+to find it," Zelenski said. "Well, it
+turns out I would be wrong about
+that that there were a number
+of students who found it and totally
+used it."
+When 10 Honor Code cases
+were revealed by the Moss results,
+Zelenski tried to ask the non-Stan
+ford student to take down the pro
+gram. After a lack of response, she
+eventually worked with the stu
+dent who originally owned the code
+to use a Digital Millennium Copy
+right Act (DMCA) procedure to re
+move the code from Git Hub.
+Despite the hassle, Zelenski ex
+plained that getting assignments
+off the web was worth the time. She
+used the incident as proof that,
+given the opportunity, some stu
+dents will plagiarize.
+"If you get the code off the web,
+you just bring down the incident
+rate," Zelenski said.
+Stepp further emphasized the
+effects of having code available on
+line, especially for introductory
+classes. He explained that the
+problem is compounded by the fact
+that assignments in CS classes are
+often kept constant for several
+years, and new ones are difficult to
+create.
+"It takes more time to produce
+a high-quality computer science
+homework assignment than, say, a
+math assignment," Stepp said. "On
+a math assignment, you can pro
+duce some new problems by chang
+ing some of the numbers and some
+of the variables and you have a new
+equation to solve."
+Stepp also discussed the fact
+that students who took the class in
+the past are more likely to share
+their solutions than students cur
+rently taking it.
+"I think students who took a
+class a long time ago are more cav
+alier about handing out their solu
+tion," Stepp said. "But if they just
+wrote it and someone else didn't
+write it and they want to take it, I
+think the friend is less likely to
+[share the code]."
+Zelenski believes that another
+source of Honor Code violations is
+students' belief that they can beat
+the system. With Moss mostly un
+advertised in Honor Code discus
+sions at the beginning of courses,
+many students do not understand
+how easy it is for instructors to
+catch plagiarism.
+"I do not think that the comput
+er science students at Stanford are
+somehow more vulnerable, less
+committed to integrity than our po
+litical science students or [other
+majors]," Zelenski said. "There's a
+certain kind of confluence of mo
+tive and opportunity and despera
+tion, and I think there's also the fact
+that we can find it."
+Stepp also emphasized that, de
+spite stereotypes in the discipline,
+collaboration is not the same as pla
+giarism.
+"We do want people to work to
+gether and talk to each other we
+just don't want them to share their
+solutions with each other," Stepp
+said. "There's a line. I think most
+people know what that line is, and
+it's unfortunate that some people
+cross the line, but I think it's possi
+ble to have a decent amount of col
+laboration with other students
+without crossing that line."
+Why it happens: student perspec
+tives
+
+Unsurprisingly, students told a
+similar story about the effects of
+stress in contributing to Honor
+Code violations. Two students, Jeff
+Taylor and Walter Smith both
+names have been changed to pro
+
+tect their identities spoke about
+their experience with the ERO sys
+tem in particular.
+Taylor and Smith had been
+working as a pair on a group CS
+final project, but when Smith al
+lowed a friend outside the team to
+look at their code, they received an
+unexpected email from their in
+structor after assignments were
+submitted.
+Unknown to either student, the
+friend had copied part of Taylor and
+Smith's code and submitted it as his
+own. The friend claimed that the
+submission had been an accident,
+and the case ended with an ERO.
+Although neither Taylor nor Smith
+were charged with an Honor Code
+violation, Smith's friend reportedly
+received a failing grade on the as
+signment.
+When asked about the case,
+Smith and Taylor shared their
+thoughts about why students might
+choose to plagiarize.
+"There are very few times in
+which you break the Honor Code
+for anything but grades. It's just
+pressure," Smith said. "The dead
+line is set at 12 a.m. and you've been
+working on it for 10 hours, and you
+just have one bug left, but you're
+helpless and so you go to someone
+for help just to get this one bug."
+Taylor spoke about the fine line
+between getting help from a friend
+and cheating in writing code.
+"There's a very fuzzy line from
+getting help and cheating in CS,"
+Taylor said. "If you need to find a
+bug, instead of spending three
+hours doing it, you can go to some
+one and do it in five minutes. And if
+you get in the habit of doing that,
+you will basically have other people
+writing your code. A lot of it is pres
+sure or procrastination."
+"In the case of CS specifically,
+the getting help expedites the
+process so much," he added. "And it
+can snowball into cheating."
+Smith observed that interna
+tional students in particular feel
+pressure to do well from family at
+home.
+"International students seem to
+face this [pressure] a little bit more
+than people from [the United
+States]," Smith said. "There's more
+pressure from back home to do well
+in academics, to do really well. If
+you get a B, it's unacceptable at any
+level. While here, people realize
+that it's Stanford and that getting a
+B here is not that bad. But back
+home no one knows what Stanford
+is or the grading scheme."
+Yet neither student felt that
+cheating was ever justified, and
+both believed that plagiarizing
+without learning the material would
+only hurt a student in the long run.
+"The popular opinion is that it's
+morally wrong to cheat because you
+should learn the material for your
+self," Taylor said. "In other coun
+tries, cheating is an option."
+Curbing cheating in the future
+With the rising number of online
+sources for code, instructors have
+continued to investigate ways to
+discourage students from plagiariz
+ing. Stepp attributed his lack of
+Honor Code cases to his slight al
+terations to the assignments as a
+new lecturer.
+Stepp has also added popups to
+the class websites to caution stu
+dents against plagiarism whenever
+they download or submit an assign
+ment. According to Stepp, research
+has shown that reminders do in fact
+affect the probability of a student's
+choosing to cheat, especially if the
+reminder comes before the student
+starts an assignment.
+"It's really hard to know what
+factors have an impact and which
+ones don't, but there has been edu
+cational research that shows if you
+remind students about these things
+at key moments that it can make a
+difference," Stepp said.
+Jessie Duan 'l5, a student on the
+Board of Judicial Affairs, spoke
+about how the Board has been dis
+cussing raising awareness about
+Honor Code violations. One poten
+tial effort includes talking to fresh
+men about plagiarism.
+"One thing we have been focusing
+on is raising awareness," Duan said.
+"We've been talking about reaching
+out to freshman dorms more, making
+it more obvious from the moment you
+get accepted into Stanford [that] the
+Fundamental Standard is this very
+important thing."
+Each computer science lecturer
+and professor emphasized that the
+department has gained a bad repu
+tation for Honor Code violations
+simply because it has the tools to
+search for plagiarism.
+"I think that it is true that com
+puter science departments as a
+whole tend to do more checking
+than other departments," Aiken
+said. "A lot of what you find depends
+on whether you're looking."
+Stepp also wanted to dispel the
+misconception that students need
+to work alone on CS assignments.
+"There is a stereotype that we
+don't want anyone to talk to anyone
+and that computer science is isolat
+ed and that you're not allowed to
+have any contact with other people,
+and you have to figure it out all by
+yourself with no help whatsoever,"
+Stepp said. "And I think that's a lit
+tle bit unfortunate because it's not
+true."
+
+Contact Kylie Jue at kyliej@stan
+ford.edu.
+Originally published on June
+3, 2011
+It's 11 p.m. Your program is
+crashing, and the assignment is due
+at midnight. You know where your
+error is, but you don't know how to
+fix it. A simple Google search pulls
+up tons of working code, but copying
+that directly into your program
+would be violating the Honor Code.
+Yet it seems like there are always
+some students who give in to the
+temptation.
+Stanford's Office of Community
+Standards' annual case reports
+demonstrate a steady increase in
+the number of Honor Code viola
+tions in computer science (CS) each
+year.
+However, the enrollment in CS
+classes has also risen significantly
+over the last five years. In the 2013-
+14 academic year, over 1,500 stu
+dents took CS 106A: Programming
+Methodology, the first course of the
+introductory programming series
+in the CS department, and comput
+er science has grown into the
+largest major on campus.
+"Enrollments are on the rise,"
+said Mehran Sahami '92 M.5.'93
+Ph.D. '99, professor of computer sci
+ence and associate chair of educa
+tion for the CS department. "If you
+imagine the same percentage of
+Honor Code violations is taking
+place but now the enrollment in the
+class is twice what it used to be,
+you're going to see twice as many vi
+olations."
+A measure of software similarity
+Few students realize that each
+assignment they submit is run
+through a program called Measure
+of Software Similarity (Moss). Moss
+is used to detect similarities be
+tween code submissions, and is con
+sidered a standard across most U.S.
+institutions. Used by computer sci
+ence departments worldwide, Moss
+was developed by Stanford comput
+er science professor Alex Aiken.
+Developed 20 years ago during
+Aiken's time as a professor at UC-
+Berkeley, Moss is designed to cut
+down the manual labor of searching
+for plagiarism. However, Aiken em
+phasized that Moss is not a system
+for detecting plagiarism directly.
+"What Moss detects is similari
+ty," Aiken said. "Why the code is
+similar is a human judgment that
+has to be made."
+
+Since code might be similar for
+various reasons, including shared li
+braries or starter code provided for
+the course, an instructor much
+check to see whether or not the sim
+ilarity returned by Moss constitutes
+plagiarism. Moss simply helps pro
+fessors determine which programs
+should be flagged with a higher pri
+ority for further review.
+"It's kind of smart about what
+'the same' means. It knows, for ex
+ample, that if you go through and
+change all the variable names, it
+doesn't matter," Aiken said. "It
+knows some things about program
+ming that allow it to make some
+judgments about when two things
+are really the same and when
+they're not."
+Aiken explained that Stanford
+uses Moss to compare submissions
+not only against other students'
+work in the class, but also against
+code available online and submis
+sions from previous years and quar
+ters. The program looks for aspects
+such as similar structure, identical
+bugs and other unusual commonali
+ties.
+According to Stanford computer
+science lecturer Julie Zelenski 'B9
+M.S. '96, Moss also accounts for al
+gorithms used by a significant num
+ber of students.
+"It also knows how to recognize
+when something is just so idiomatic
+that everyone did it the same way,"
+Zelenski said.
+Zelenski also explained that
+since the introductory classes are so
+large, a graduate student has been
+hired to build tools to manage the lo
+gistics of finding high-priority
+matches in Moss for 106A and 1068
+before passing the data on to the
+course instructor.
+Computer science lecturer
+Marty Stepp also spoke about the
+importance of having a teaching as
+sistant (TA) to examine the Moss re
+sults first.
+"He does all of that part for us,
+basically gets [the MOSS results] all
+ready for us to look over, produces a
+nice executive summary for us of
+the data and places it in front of us in
+an easy way for us to examine,"
+Stepp said. "We look over the top
+matches and decide which ones are
+concerning to us, and that works re
+ally well because he can help us have
+a faster turnaround."
+Stepp also emphasized that the
+student does not play a role in decid
+ing whether or not a case should be
+pursued.
+"The instructor should make
+
+that decision so it's important to
+note that his role has nothing to do
+with innocence," Stepp said. "[The
+TA] doesn't make that call for us. We
+wouldn't ever farm that out to a
+third party."
+Stepp also explained that al
+though the section leading program
+plays a large role in grading assign
+ments for students in 106A and
+1068, section leaders are not re
+sponsible for looking for plagiarism.
+Instead, they are told to contact the
+instructor if misconduct is suspect
+ed, and according to Stepp, most of
+the time section leaders do not have
+the experience to accurately recog
+
+nize an Honor Code violation.
+Dealing with violations
+If a violation is discovered, stu
+dents usually have two options:
+choosing the Early Resolution Op
+tion (ERO) or allowing the case to
+go to a hearing.
+When a case is brought to the Of
+fice of Community Standards, a stu
+dent is assigned a judicial officer to
+advocate for the student. If the case
+moves to trial and eventually a hear
+ing, a panel of five students and one
+faculty member determines
+whether or not the student's actions
+constitute a violation of the Honor
+
+Code. If a student is found guilty by
+a five-to-one vote, the panel assigns
+a sanction to the student.
+
+According to Stanford's Office of
+Community Standards, standard
+first-time sanctions are usually a
+quarter of suspension and 40 hours
+of community service unless the
+panel finds that another response is
+more appropriate.
+First instituted in 2009, the ERO
+gives students the opportunity to
+immediately accept responsibility
+for their actions and skip the judicial
+hearing process. Zelenski explained
+
+
+VICTOR XU/The Stanford Daily
+that the ERO gives students an in
+centive to take responsibility for
+their actions rather than lying to
+avoid a sanction. In addition, while
+hearings can take two months or
+longer, the ERO can be resolved
+within a few weeks.
+"The vast majority of the stu
+dents who I'm sending [to OCS] are
+choosing to pursue an ERO alterna
+tive [rather] than go to a full hear
+ing," Zelenski said.
+Even before sending a student
+to the OCS, different instructors
+handle potential honor code viola
+tions differently, Sahami said.
+"Depending on the results they
+get back [from Moss], some [in
+structors] will just report them im
+mediately without talking to the
+student. Some prefer to talk to the
+student," Sahami said. "We try to
+be consistent with respect to how
+we handle the Honor Code it's
+just a matter of time constraints
+and personal preference."
+Sahami himself asks to meet
+with students and gives them the
+chance to take responsibility in ad
+vance before telling them about the
+Moss match.
+"We have a conversation of what
+happened, and what I look at are
+things like how contrite is the stu
+dent," Sahami said. "Virtually
+every time I've talked to a student
+they're very straightforward about
+what happened. In some cases, it
+sometimes takes them a little while
+to realize that honesty is the best
+policy, and they shouldn't make up
+some story to get out of the situa
+tion."
+Sahami also explained that while
+he is required to report the case to
+the OCS, he is on a student's side
+once he or she admits to violating
+the Honor Code.
+"I think the issue of academic
+honesty should also be one that's
+not just punitive but is really about
+learning," Sahami said. "I'm in
+favor for leniency on the side of stu
+dents who take responsibility."
+As a new instructor in the CS de
+partment this year, Stepp explained
+that he in fact has not yet dealt with
+any Honor Code violations, al
+though he has not finished looking
+through assignments from this
+quarter.
+"I'm lucky enough to say that I
+have not forwarded any cases so far
+in my last two quarters here at
+Stanford," Stepp said.
+"I think that there are always
+programs that come up in our list
+ings that I feel are suspicious," he
+added. "But I feel I have to be very
+confident in a match in order to
+make an accusation, and I haven't
+done so."
+In terms of repercussions, an
+Honor Code case does not show up
+on a student's transcript, but a no
+tation is kept on administrative
+record for reference in case of fu
+ture violations.
+According to Zelenski, common
+forms of punishment include a fail
+ing grade in the course, community
+service, suspension or probation.
+For repeated or unusual cases, ex
+pulsion is also a rare consequence.
+
+Why it happens: instructor per
+spectives
+Despite Stepp's violation-free
+stint on the Farm, Zelenski ex
+plained that in her experience
+teaching CS 107: Computer Or
+ganization and Systems, she usual
+ly encounters one or two cases for
+each of the seven assignments.
+Zelenski spoke about some of
+the main causes for Honor Code vi
+olations in CS, including the stress
+created by midnight deadlines and
+code that does not work. She ex
+plained that even if a program is
+well written, a small bug can cause
+big problems that feel like failure.
+"When you have a program that
+doesn't work, it's usually really ob
+vious and really hard to cope with,"
+Zelenski said. "The arbiter of cor
+rectness is obvious and apparent."
+"Having our deadlines at mid
+night probably doesn't help be
+cause in some sense that's maybe
+when you're most weak when
+you're tired," she added.
+Furthermore, copying and past
+ing working code from an online
+source makes cheating in CS espe
+cially easy compared to in other
+subjects.
+"It's ridiculously easy," Zelens
+ki said. "It can all happen in just
+the space of a few minutes when [a
+student is] just starting to feel pan
+icked and desperate."
+In general, the availability of
+code on the web has become an in
+evitable problem, especially since
+that form of plagiarism does not re
+
+quire the consent of two parties.
+Although Zelenski regularly
+searches the web for online ver
+sions of assignments, she ex
+plained that catching every in
+stance is difficult and spoke about a
+case from this quarter in which
+around 10 students in CS 107 used
+parts of code that had been up
+loaded to the software hosting site
+Git Hub.
+"At the beginning of the quarter
+and a couple times along the way I
+just do the obvious searches on all
+the places that code gets put," Ze
+lenski said. "If I ever find it and it's
+from a student of mine, I send them
+a very nice note and say I really
+want this down."
+In February, Zelenski discov
+ered that a former CS 107 student
+had uploaded the Crashßeporter
+assignment online. She requested
+the code be taken down, and the
+student complied, but not before a
+non-Stanford student forked the
+repository, copying it to a com
+pletely different location. When
+she later discovered the second
+version of the code, Zelenski as
+sumed students would not find it.
+"You have to be looking for the
+code in ways [in which you] will find
+code so I [thought], no one's going
+to find it," Zelenski said. "Well, it
+turns out I would be wrong about
+that that there were a number
+of students who found it and totally
+used it."
+When 10 Honor Code cases
+were revealed by the Moss results,
+Zelenski tried to ask the non-Stan
+ford student to take down the pro
+gram. After a lack of response, she
+eventually worked with the stu
+dent who originally owned the code
+to use a Digital Millennium Copy
+right Act (DMCA) procedure to re
+move the code from Git Hub.
+Despite the hassle, Zelenski ex
+plained that getting assignments
+off the web was worth the time. She
+used the incident as proof that,
+given the opportunity, some stu
+dents will plagiarize.
+"If you get the code off the web,
+you just bring down the incident
+rate," Zelenski said.
+Stepp further emphasized the
+effects of having code available on
+line, especially for introductory
+classes. He explained that the
+problem is compounded by the fact
+that assignments in CS classes are
+often kept constant for several
+years, and new ones are difficult to
+create.
+"It takes more time to produce
+a high-quality computer science
+homework assignment than, say, a
+math assignment," Stepp said. "On
+a math assignment, you can pro
+duce some new problems by chang
+ing some of the numbers and some
+of the variables and you have a new
+equation to solve."
+Stepp also discussed the fact
+that students who took the class in
+the past are more likely to share
+their solutions than students cur
+rently taking it.
+"I think students who took a
+class a long time ago are more cav
+alier about handing out their solu
+tion," Stepp said. "But if they just
+wrote it and someone else didn't
+write it and they want to take it, I
+think the friend is less likely to
+[share the code]."
+Zelenski believes that another
+source of Honor Code violations is
+students' belief that they can beat
+the system. With Moss mostly un
+advertised in Honor Code discus
+sions at the beginning of courses,
+many students do not understand
+how easy it is for instructors to
+catch plagiarism.
+"I do not think that the comput
+er science students at Stanford are
+somehow more vulnerable, less
+committed to integrity than our po
+litical science students or [other
+majors]," Zelenski said. "There's a
+certain kind of confluence of mo
+tive and opportunity and despera
+tion, and I think there's also the fact
+that we can find it."
+Stepp also emphasized that, de
+spite stereotypes in the discipline,
+collaboration is not the same as pla
+giarism.
+"We do want people to work to
+gether and talk to each other we
+just don't want them to share their
+solutions with each other," Stepp
+said. "There's a line. I think most
+people know what that line is, and
+it's unfortunate that some people
+cross the line, but I think it's possi
+ble to have a decent amount of col
+laboration with other students
+without crossing that line."
+Why it happens: student perspec
+tives
+
+Unsurprisingly, students told a
+similar story about the effects of
+stress in contributing to Honor
+Code violations. Two students, Jeff
+Taylor and Walter Smith both
+names have been changed to pro
+
+tect their identities spoke about
+their experience with the ERO sys
+tem in particular.
+Taylor and Smith had been
+working as a pair on a group CS
+final project, but when Smith al
+lowed a friend outside the team to
+look at their code, they received an
+unexpected email from their in
+structor after assignments were
+submitted.
+Unknown to either student, the
+friend had copied part of Taylor and
+Smith's code and submitted it as his
+own. The friend claimed that the
+submission had been an accident,
+and the case ended with an ERO.
+Although neither Taylor nor Smith
+were charged with an Honor Code
+violation, Smith's friend reportedly
+received a failing grade on the as
+signment.
+When asked about the case,
+Smith and Taylor shared their
+thoughts about why students might
+choose to plagiarize.
+"There are very few times in
+which you break the Honor Code
+for anything but grades. It's just
+pressure," Smith said. "The dead
+line is set at 12 a.m. and you've been
+working on it for 10 hours, and you
+just have one bug left, but you're
+helpless and so you go to someone
+for help just to get this one bug."
+Taylor spoke about the fine line
+between getting help from a friend
+and cheating in writing code.
+"There's a very fuzzy line from
+getting help and cheating in CS,"
+Taylor said. "If you need to find a
+bug, instead of spending three
+hours doing it, you can go to some
+one and do it in five minutes. And if
+you get in the habit of doing that,
+you will basically have other people
+writing your code. A lot of it is pres
+sure or procrastination."
+"In the case of CS specifically,
+the getting help expedites the
+process so much," he added. "And it
+can snowball into cheating."
+Smith observed that interna
+tional students in particular feel
+pressure to do well from family at
+home.
+"International students seem to
+face this [pressure] a little bit more
+than people from [the United
+States]," Smith said. "There's more
+pressure from back home to do well
+in academics, to do really well. If
+you get a B, it's unacceptable at any
+level. While here, people realize
+that it's Stanford and that getting a
+B here is not that bad. But back
+home no one knows what Stanford
+is or the grading scheme."
+Yet neither student felt that
+cheating was ever justified, and
+both believed that plagiarizing
+without learning the material would
+only hurt a student in the long run.
+"The popular opinion is that it's
+morally wrong to cheat because you
+should learn the material for your
+self," Taylor said. "In other coun
+tries, cheating is an option."
+Curbing cheating in the future
+With the rising number of online
+sources for code, instructors have
+continued to investigate ways to
+discourage students from plagiariz
+ing. Stepp attributed his lack of
+Honor Code cases to his slight al
+terations to the assignments as a
+new lecturer.
+Stepp has also added popups to
+the class websites to caution stu
+dents against plagiarism whenever
+they download or submit an assign
+ment. According to Stepp, research
+has shown that reminders do in fact
+affect the probability of a student's
+choosing to cheat, especially if the
+reminder comes before the student
+starts an assignment.
+"It's really hard to know what
+factors have an impact and which
+ones don't, but there has been edu
+cational research that shows if you
+remind students about these things
+at key moments that it can make a
+difference," Stepp said.
+Jessie Duan 'l5, a student on the
+Board of Judicial Affairs, spoke
+about how the Board has been dis
+cussing raising awareness about
+Honor Code violations. One poten
+tial effort includes talking to fresh
+men about plagiarism.
+"One thing we have been focusing
+on is raising awareness," Duan said.
+"We've been talking about reaching
+out to freshman dorms more, making
+it more obvious from the moment you
+get accepted into Stanford [that] the
+Fundamental Standard is this very
+important thing."
+Each computer science lecturer
+and professor emphasized that the
+department has gained a bad repu
+tation for Honor Code violations
+simply because it has the tools to
+search for plagiarism.
+"I think that it is true that com
+puter science departments as a
+whole tend to do more checking
+than other departments," Aiken
+said. "A lot of what you find depends
+on whether you're looking."
+Stepp also wanted to dispel the
+misconception that students need
+to work alone on CS assignments.
+"There is a stereotype that we
+don't want anyone to talk to anyone
+and that computer science is isolat
+ed and that you're not allowed to
+have any contact with other people,
+and you have to figure it out all by
+yourself with no help whatsoever,"
+Stepp said. "And I think that's a lit
+tle bit unfortunate because it's not
+true."
+
+Contact Kylie Jue at kyliej@stan
+ford.edu.

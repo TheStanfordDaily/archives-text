@@ -1,0 +1,2075 @@
+# Computer system blamed for losses
+## 
+### Steve Schiller 
+The registrar's office "is paying a
+substantial penalty" for doing ad
+ministrative student services comput
+ing on a smaller, slower computer in
+stead of using the main campus facil
+ity, said Mike Roberts, deputy director
+of the Stanford Center for Information
+Processing (SCIP).
+The office is currently using an IBM
+370/135, whose production costs are
+"anywhere from a third to a half more
+expensive," than the University's
+chief machine, an IBM 370/168, said
+Roberts.
+However, Bill Bartosh, programmer
+analyst for the registrar, said it is "not
+clear" the registrar would save money
+by moving to the main machine be
+cause of software (programming) in
+compatibilities and scheduling prob
+lems.
+Last spring, SCIP and the registrar
+attempted to transfer student services
+computing from a medium-sized ad
+ministrative machine, an IBM 370/145,
+to the main campus facility as part of a
+broad consolidation plan.
+Poorly designed
+However, planners soon realized
+that the transfer package Was poorly
+designed and tasks on the main com
+puter were completed too slowly, said
+Roberts. Meanwhile, SCIP had com
+mitted the computer previously doing
+thestudent services work (the37o/145)
+for sale.
+SCI1 1 then rented an IBM 370/135 at a
+cost of $11,716 per month to continue
+administrative processing and the at
+tempted transfer was scrapped. The
+370/135 is slower than either the 3701
+145 or the main computer.
+SCIP recently purchased a used
+370/135 for $291,000 to replace the
+rental machine now in use.
+Jon Sandelin, manager of account
+ing and financial services for SCIP, es
+timated that the switch from rental to
+purchase will yield approximately
+$4500 per month in direct savings. The
+switch will take place Feb. 9.
+Attempted transfer
+When the attempted transfer from
+the 370/145 to the main computer
+failed, the registrar's office rejected an
+offer by Prof. Patrick Suppes of the In
+stitute for Mathematical Studies in the
+
+Social Sciences (IMSSS) to build a
+student services system from"the
+ground up" while sharing the IMSSS
+machine, claimed Bartosh.
+Although the proposal "never got to
+the level of details," Suppes proposed
+to start with the "elements of data" and
+build a programming structure best
+suited to the data as well as needs of
+the registrar, Bartosh said.
+The IMSSS staff proposed to com
+plete its work in eight months. Bartosh
+found it "a little hard to believe" the
+IMSSS staff could have fulfilled its
+predictions.
+By attempting a transfer for a few
+days from the old 370/145 to the main
+computer facility, SCIP planners
+simultaneously made major equip
+ment and program modifications.
+Roberts and Bartosh agreed that not
+enough preparation or analysis ol
+costs had been done before the en
+deavor.
+SPIRES/ORVYL
+Student services computing on the
+370/135 is done through a software
+(program) package labeled OASIS
+while the main 370/168 supports a
+similar program package called
+SPIRES/ORVYL. SPIRES/ORVYL and
+OASIS are "file management systems"
+which enable administrative users to
+handle large amounts of data very flex
+ibly.
+Because of the similarity of the sys
+tems, SCIP programmers predicted
+that transfer of student services work
+to the main machine would save
+money, said Bartosh.
+However, soon after SCIP made the
+transfer, planners realized that the
+main machine could not efficiently
+handle the addition of the OASIS pac
+kage.
+OASIS did function on the 370/168,
+but the time required to execute a
+command (response time) was too
+long because of the demand on the sys
+tem in peak hours.
+Cope with workload
+Roberts said the 370/168 could cope
+with the student services workload
+through a more efficient program pac
+kage than OASIS.
+The student services workload
+would only total 2-3 per cent of the
+main facility's capacity, he estimated.
+In addition, the 370/168 is currently
+running at approximately 50 per cent
+of capacity.
+Although the 370/168 costs less to
+use and has the capability to handle
+the student services workload, Bartosh
+cautioned that "feasibility studies
+(considering an eventual transfer) are
+not in yet."
+He estimated that SCIP and the re
+gistrar would need a "period of two
+years at least to develop the change"
+because the student services applica
+tions programs would have to be re
+written.
+According to Roberts, SCIP also ran
+into difficulties buying the used 370/
+to replace the rental model. It
+"took six months and three tries to buy
+a machine at a price we thought was
+fair," he said.
+Bids from sellers were first re
+quested in early September for an in
+stallation date of Nov. 1, However,
+negotiations collapsed over a conflict
+between verbal promises and contrac
+tual guarantees, according to SCIP's
+Sandelin.
+The scenario was repeated again be
+fore a third offer was met by a compu
+ter broker, who delivered the machine
+Tuesday.
+The registrar's office "is paying a
+substantial penalty" for doing ad
+ministrative student services comput
+ing on a smaller, slower computer in
+stead of using the main campus facil
+ity, said Mike Roberts, deputy director
+of the Stanford Center for Information
+Processing (SCIP).
+The office is currently using an IBM
+370/135, whose production costs are
+"anywhere from a third to a half more
+expensive," than the University's
+chief machine, an IBM 370/168, said
+Roberts.
+However, Bill Bartosh, programmer
+analyst for the registrar, said it is "not
+clear" the registrar would save money
+by moving to the main machine be
+cause of software (programming) in
+compatibilities and scheduling prob
+lems.
+Last spring, SCIP and the registrar
+attempted to transfer student services
+computing from a medium-sized ad
+ministrative machine, an IBM 370/145,
+to the main campus facility as part of a
+broad consolidation plan.
+Poorly designed
+However, planners soon realized
+that the transfer package Was poorly
+designed and tasks on the main com
+puter were completed too slowly, said
+Roberts. Meanwhile, SCIP had com
+mitted the computer previously doing
+thestudent services work (the37o/145)
+for sale.
+SCI1 1 then rented an IBM 370/135 at a
+cost of $11,716 per month to continue
+administrative processing and the at
+tempted transfer was scrapped. The
+370/135 is slower than either the 3701
+145 or the main computer.
+SCIP recently purchased a used
+370/135 for $291,000 to replace the
+rental machine now in use.
+Jon Sandelin, manager of account
+ing and financial services for SCIP, es
+timated that the switch from rental to
+purchase will yield approximately
+$4500 per month in direct savings. The
+switch will take place Feb. 9.
+Attempted transfer
+When the attempted transfer from
+the 370/145 to the main computer
+failed, the registrar's office rejected an
+offer by Prof. Patrick Suppes of the In
+stitute for Mathematical Studies in the
+
+Social Sciences (IMSSS) to build a
+student services system from"the
+ground up" while sharing the IMSSS
+machine, claimed Bartosh.
+Although the proposal "never got to
+the level of details," Suppes proposed
+to start with the "elements of data" and
+build a programming structure best
+suited to the data as well as needs of
+the registrar, Bartosh said.
+The IMSSS staff proposed to com
+plete its work in eight months. Bartosh
+found it "a little hard to believe" the
+IMSSS staff could have fulfilled its
+predictions.
+By attempting a transfer for a few
+days from the old 370/145 to the main
+computer facility, SCIP planners
+simultaneously made major equip
+ment and program modifications.
+Roberts and Bartosh agreed that not
+enough preparation or analysis ol
+costs had been done before the en
+deavor.
+SPIRES/ORVYL
+Student services computing on the
+370/135 is done through a software
+(program) package labeled OASIS
+while the main 370/168 supports a
+similar program package called
+SPIRES/ORVYL. SPIRES/ORVYL and
+OASIS are "file management systems"
+which enable administrative users to
+handle large amounts of data very flex
+ibly.
+Because of the similarity of the sys
+tems, SCIP programmers predicted
+that transfer of student services work
+to the main machine would save
+money, said Bartosh.
+However, soon after SCIP made the
+transfer, planners realized that the
+main machine could not efficiently
+handle the addition of the OASIS pac
+kage.
+OASIS did function on the 370/168,
+but the time required to execute a
+command (response time) was too
+long because of the demand on the sys
+tem in peak hours.
+Cope with workload
+Roberts said the 370/168 could cope
+with the student services workload
+through a more efficient program pac
+kage than OASIS.
+The student services workload
+would only total 2-3 per cent of the
+The registrar's office "is paying a
+substantial penalty" for doing ad
+ministrative student services comput
+ing on a smaller, slower computer in
+stead of using the main campus facil
+ity, said Mike Roberts, deputy director
+of the Stanford Center for Information
+Processing (SCIP).
+The office is currently using an IBM
+370/135, whose production costs are
+"anywhere from a third to a half more
+expensive," than the University's
+chief machine, an IBM 370/168, said
+Roberts.
+However, Bill Bartosh, programmer
+analyst for the registrar, said it is "not
+clear" the registrar would save money
+by moving to the main machine be
+cause of software (programming) in
+compatibilities and scheduling prob
+lems.
+Last spring, SCIP and the registrar
+attempted to transfer student services
+computing from a medium-sized ad
+ministrative machine, an IBM 370/145,
+to the main campus facility as part of a
+broad consolidation plan.
+Poorly designed
+However, planners soon realized
+that the transfer package Was poorly
+designed and tasks on the main com
+puter were completed too slowly, said
+Roberts. Meanwhile, SCIP had com
+mitted the computer previously doing
+thestudent services work (the37o/145)
+for sale.
+SCI1 1 then rented an IBM 370/135 at a
+cost of $11,716 per month to continue
+administrative processing and the at
+tempted transfer was scrapped. The
+370/135 is slower than either the 3701
+145 or the main computer.
+SCIP recently purchased a used
+370/135 for $291,000 to replace the
+rental machine now in use.
+Jon Sandelin, manager of account
+ing and financial services for SCIP, es
+timated that the switch from rental to
+purchase will yield approximately
+$4500 per month in direct savings. The
+switch will take place Feb. 9.
+Attempted transfer
+When the attempted transfer from
+the 370/145 to the main computer
+failed, the registrar's office rejected an
+offer by Prof. Patrick Suppes of the In
+stitute for Mathematical Studies in the
+
+Social Sciences (IMSSS) to build a
+student services system from"the
+ground up" while sharing the IMSSS
+machine, claimed Bartosh.
+Although the proposal "never got to
+the level of details," Suppes proposed
+to start with the "elements of data" and
+build a programming structure best
+suited to the data as well as needs of
+the registrar, Bartosh said.
+The IMSSS staff proposed to com
+plete its work in eight months. Bartosh
+found it "a little hard to believe" the
+IMSSS staff could have fulfilled its
+predictions.
+By attempting a transfer for a few
+days from the old 370/145 to the main
+computer facility, SCIP planners
+simultaneously made major equip
+ment and program modifications.
+Roberts and Bartosh agreed that not
+enough preparation or analysis ol
+costs had been done before the en
+deavor.
+SPIRES/ORVYL
+Student services computing on the
+370/135 is done through a software
+(program) package labeled OASIS
+while the main 370/168 supports a
+similar program package called
+SPIRES/ORVYL. SPIRES/ORVYL and
+OASIS are "file management systems"
+which enable administrative users to
+handle large amounts of data very flex
+ibly.
+Because of the similarity of the sys
+tems, SCIP programmers predicted
+that transfer of student services work
+to the main machine would save
+money, said Bartosh.
+However, soon after SCIP made the
+transfer, planners realized that the
+main machine could not efficiently
+handle the addition of the OASIS pac
+kage.
+OASIS did function on the 370/168,
+but the time required to execute a
+command (response time) was too
+long because of the demand on the sys
+tem in peak hours.
+Cope with workload
+Roberts said the 370/168 could cope
+with the student services workload
+through a more efficient program pac
+kage than OASIS.
+The student services workload
+would only total 2-3 per cent of the
+main facility's capacity, he estimated.
+In addition, the 370/168 is currently
+running at approximately 50 per cent
+of capacity.
+Although the 370/168 costs less to
+use and has the capability to handle
+the student services workload, Bartosh
+cautioned that "feasibility studies
+(considering an eventual transfer) are
+not in yet."
+He estimated that SCIP and the re
+gistrar would need a "period of two
+years at least to develop the change"
+because the student services applica
+tions programs would have to be re
+written.
+According to Roberts, SCIP also ran
+into difficulties buying the used 370/
+to replace the rental model. It
+"took six months and three tries to buy
+a machine at a price we thought was
+fair," he said.
+Bids from sellers were first re
+quested in early September for an in
+stallation date of Nov. 1, However,
+negotiations collapsed over a conflict
+between verbal promises and contrac
+tual guarantees, according to SCIP's
+Sandelin.
+The scenario was repeated again be
+fore a third offer was met by a compu
+ter broker, who delivered the machine
+Tuesday.
+main facility's capacity, he estimated.
+In addition, the 370/168 is currently
+running at approximately 50 per cent
+of capacity.
+Although the 370/168 costs less to
+use and has the capability to handle
+the student services workload, Bartosh
+cautioned that "feasibility studies
+(considering an eventual transfer) are
+not in yet."
+He estimated that SCIP and the re
+gistrar would need a "period of two
+years at least to develop the change"
+because the student services applica
+tions programs would have to be re
+written.
+According to Roberts, SCIP also ran
+into difficulties buying the used 370/
+to replace the rental model. It
+"took six months and three tries to buy
+a machine at a price we thought was
+fair," he said.
+Bids from sellers were first re
+quested in early September for an in
+stallation date of Nov. 1, However,
+negotiations collapsed over a conflict
+between verbal promises and contrac
+tual guarantees, according to SCIP's
+Sandelin.
+The scenario was repeated again be
+fore a third offer was met by a compu
+ter broker, who delivered the machine
+Tuesday.
+The registrar's office "is paying a
+substantial penalty" for doing ad
+ministrative student services comput
+ing on a smaller, slower computer in
+stead of using the main campus facil
+ity, said Mike Roberts, deputy director
+of the Stanford Center for Information
+Processing (SCIP).
+The office is currently using an IBM
+370/135, whose production costs are
+"anywhere from a third to a half more
+expensive," than the University's
+chief machine, an IBM 370/168, said
+Roberts.
+However, Bill Bartosh, programmer
+analyst for the registrar, said it is "not
+clear" the registrar would save money
+by moving to the main machine be
+cause of software (programming) in
+compatibilities and scheduling prob
+lems.
+Last spring, SCIP and the registrar
+attempted to transfer student services
+computing from a medium-sized ad
+ministrative machine, an IBM 370/145,
+to the main campus facility as part of a
+broad consolidation plan.
+Poorly designed
+However, planners soon realized
+that the transfer package Was poorly
+designed and tasks on the main com
+puter were completed too slowly, said
+Roberts. Meanwhile, SCIP had com
+mitted the computer previously doing
+thestudent services work (the37o/145)
+for sale.
+SCI1 1 then rented an IBM 370/135 at a
+cost of $11,716 per month to continue
+administrative processing and the at
+tempted transfer was scrapped. The
+370/135 is slower than either the 3701
+145 or the main computer.
+SCIP recently purchased a used
+370/135 for $291,000 to replace the
+rental machine now in use.
+Jon Sandelin, manager of account
+ing and financial services for SCIP, es
+timated that the switch from rental to
+purchase will yield approximately
+$4500 per month in direct savings. The
+switch will take place Feb. 9.
+Attempted transfer
+When the attempted transfer from
+the 370/145 to the main computer
+failed, the registrar's office rejected an
+offer by Prof. Patrick Suppes of the In
+stitute for Mathematical Studies in the
+
+Social Sciences (IMSSS) to build a
+student services system from"the
+ground up" while sharing the IMSSS
+machine, claimed Bartosh.
+Although the proposal "never got to
+the level of details," Suppes proposed
+to start with the "elements of data" and
+build a programming structure best
+suited to the data as well as needs of
+the registrar, Bartosh said.
+The IMSSS staff proposed to com
+plete its work in eight months. Bartosh
+found it "a little hard to believe" the
+IMSSS staff could have fulfilled its
+predictions.
+By attempting a transfer for a few
+days from the old 370/145 to the main
+computer facility, SCIP planners
+simultaneously made major equip
+ment and program modifications.
+Roberts and Bartosh agreed that not
+enough preparation or analysis ol
+costs had been done before the en
+deavor.
+SPIRES/ORVYL
+Student services computing on the
+370/135 is done through a software
+(program) package labeled OASIS
+while the main 370/168 supports a
+similar program package called
+SPIRES/ORVYL. SPIRES/ORVYL and
+OASIS are "file management systems"
+which enable administrative users to
+handle large amounts of data very flex
+ibly.
+Because of the similarity of the sys
+tems, SCIP programmers predicted
+that transfer of student services work
+to the main machine would save
+money, said Bartosh.
+However, soon after SCIP made the
+transfer, planners realized that the
+main machine could not efficiently
+handle the addition of the OASIS pac
+kage.
+OASIS did function on the 370/168,
+but the time required to execute a
+command (response time) was too
+long because of the demand on the sys
+tem in peak hours.
+Cope with workload
+Roberts said the 370/168 could cope
+with the student services workload
+through a more efficient program pac
+kage than OASIS.
+The student services workload
+would only total 2-3 per cent of the
+main facility's capacity, he estimated.
+In addition, the 370/168 is currently
+running at approximately 50 per cent
+of capacity.
+Although the 370/168 costs less to
+use and has the capability to handle
+the student services workload, Bartosh
+cautioned that "feasibility studies
+(considering an eventual transfer) are
+not in yet."
+He estimated that SCIP and the re
+gistrar would need a "period of two
+years at least to develop the change"
+because the student services applica
+tions programs would have to be re
+written.
+According to Roberts, SCIP also ran
+into difficulties buying the used 370/
+to replace the rental model. It
+"took six months and three tries to buy
+a machine at a price we thought was
+fair," he said.
+Bids from sellers were first re
+quested in early September for an in
+stallation date of Nov. 1, However,
+negotiations collapsed over a conflict
+between verbal promises and contrac
+tual guarantees, according to SCIP's
+Sandelin.
+The scenario was repeated again be
+fore a third offer was met by a compu
+ter broker, who delivered the machine
+Tuesday.
+The registrar's office "is paying a
+substantial penalty" for doing ad
+ministrative student services comput
+ing on a smaller, slower computer in
+stead of using the main campus facil
+ity, said Mike Roberts, deputy director
+of the Stanford Center for Information
+Processing (SCIP).
+The office is currently using an IBM
+370/135, whose production costs are
+"anywhere from a third to a half more
+expensive," than the University's
+chief machine, an IBM 370/168, said
+Roberts.
+However, Bill Bartosh, programmer
+analyst for the registrar, said it is "not
+clear" the registrar would save money
+by moving to the main machine be
+cause of software (programming) in
+compatibilities and scheduling prob
+lems.
+Last spring, SCIP and the registrar
+attempted to transfer student services
+computing from a medium-sized ad
+ministrative machine, an IBM 370/145,
+to the main campus facility as part of a
+broad consolidation plan.
+Poorly designed
+However, planners soon realized
+that the transfer package Was poorly
+designed and tasks on the main com
+puter were completed too slowly, said
+Roberts. Meanwhile, SCIP had com
+mitted the computer previously doing
+thestudent services work (the37o/145)
+for sale.
+SCI1 1 then rented an IBM 370/135 at a
+cost of $11,716 per month to continue
+administrative processing and the at
+tempted transfer was scrapped. The
+370/135 is slower than either the 3701
+145 or the main computer.
+SCIP recently purchased a used
+370/135 for $291,000 to replace the
+rental machine now in use.
+Jon Sandelin, manager of account
+ing and financial services for SCIP, es
+timated that the switch from rental to
+purchase will yield approximately
+$4500 per month in direct savings. The
+switch will take place Feb. 9.
+Attempted transfer
+When the attempted transfer from
+the 370/145 to the main computer
+failed, the registrar's office rejected an
+offer by Prof. Patrick Suppes of the In
+stitute for Mathematical Studies in the
+
+Social Sciences (IMSSS) to build a
+student services system from"the
+ground up" while sharing the IMSSS
+machine, claimed Bartosh.
+Although the proposal "never got to
+the level of details," Suppes proposed
+to start with the "elements of data" and
+build a programming structure best
+suited to the data as well as needs of
+the registrar, Bartosh said.
+The IMSSS staff proposed to com
+plete its work in eight months. Bartosh
+found it "a little hard to believe" the
+IMSSS staff could have fulfilled its
+predictions.
+By attempting a transfer for a few
+days from the old 370/145 to the main
+computer facility, SCIP planners
+simultaneously made major equip
+ment and program modifications.
+Roberts and Bartosh agreed that not
+enough preparation or analysis ol
+costs had been done before the en
+deavor.
+SPIRES/ORVYL
+Student services computing on the
+370/135 is done through a software
+(program) package labeled OASIS
+while the main 370/168 supports a
+similar program package called
+SPIRES/ORVYL. SPIRES/ORVYL and
+OASIS are "file management systems"
+which enable administrative users to
+handle large amounts of data very flex
+ibly.
+Because of the similarity of the sys
+tems, SCIP programmers predicted
+that transfer of student services work
+to the main machine would save
+money, said Bartosh.
+However, soon after SCIP made the
+transfer, planners realized that the
+main machine could not efficiently
+handle the addition of the OASIS pac
+kage.
+OASIS did function on the 370/168,
+but the time required to execute a
+command (response time) was too
+long because of the demand on the sys
+tem in peak hours.
+Cope with workload
+Roberts said the 370/168 could cope
+with the student services workload
+through a more efficient program pac
+kage than OASIS.
+The student services workload
+would only total 2-3 per cent of the
+main facility's capacity, he estimated.
+In addition, the 370/168 is currently
+running at approximately 50 per cent
+of capacity.
+Although the 370/168 costs less to
+use and has the capability to handle
+the student services workload, Bartosh
+cautioned that "feasibility studies
+(considering an eventual transfer) are
+not in yet."
+He estimated that SCIP and the re
+gistrar would need a "period of two
+years at least to develop the change"
+because the student services applica
+tions programs would have to be re
+written.
+According to Roberts, SCIP also ran
+into difficulties buying the used 370/
+to replace the rental model. It
+"took six months and three tries to buy
+a machine at a price we thought was
+fair," he said.
+Bids from sellers were first re
+quested in early September for an in
+stallation date of Nov. 1, However,
+negotiations collapsed over a conflict
+between verbal promises and contrac
+tual guarantees, according to SCIP's
+Sandelin.
+The scenario was repeated again be
+fore a third offer was met by a compu
+ter broker, who delivered the machine
+Tuesday.
+The registrar's office "is paying a
+substantial penalty" for doing ad
+ministrative student services comput
+ing on a smaller, slower computer in
+stead of using the main campus facil
+ity, said Mike Roberts, deputy director
+of the Stanford Center for Information
+Processing (SCIP).
+The office is currently using an IBM
+370/135, whose production costs are
+"anywhere from a third to a half more
+expensive," than the University's
+chief machine, an IBM 370/168, said
+Roberts.
+However, Bill Bartosh, programmer
+analyst for the registrar, said it is "not
+clear" the registrar would save money
+by moving to the main machine be
+cause of software (programming) in
+compatibilities and scheduling prob
+lems.
+Last spring, SCIP and the registrar
+attempted to transfer student services
+computing from a medium-sized ad
+ministrative machine, an IBM 370/145,
+to the main campus facility as part of a
+broad consolidation plan.
+Poorly designed
+However, planners soon realized
+that the transfer package Was poorly
+designed and tasks on the main com
+puter were completed too slowly, said
+Roberts. Meanwhile, SCIP had com
+mitted the computer previously doing
+thestudent services work (the37o/145)
+for sale.
+SCI1 1 then rented an IBM 370/135 at a
+cost of $11,716 per month to continue
+administrative processing and the at
+tempted transfer was scrapped. The
+370/135 is slower than either the 3701
+145 or the main computer.
+SCIP recently purchased a used
+370/135 for $291,000 to replace the
+rental machine now in use.
+Jon Sandelin, manager of account
+ing and financial services for SCIP, es
+timated that the switch from rental to
+purchase will yield approximately
+$4500 per month in direct savings. The
+switch will take place Feb. 9.
+Attempted transfer
+When the attempted transfer from
+the 370/145 to the main computer
+failed, the registrar's office rejected an
+offer by Prof. Patrick Suppes of the In
+stitute for Mathematical Studies in the
+
+Social Sciences (IMSSS) to build a
+student services system from"the
+ground up" while sharing the IMSSS
+machine, claimed Bartosh.
+Although the proposal "never got to
+the level of details," Suppes proposed
+to start with the "elements of data" and
+build a programming structure best
+suited to the data as well as needs of
+the registrar, Bartosh said.
+The IMSSS staff proposed to com
+plete its work in eight months. Bartosh
+found it "a little hard to believe" the
+IMSSS staff could have fulfilled its
+predictions.
+By attempting a transfer for a few
+days from the old 370/145 to the main
+computer facility, SCIP planners
+simultaneously made major equip
+ment and program modifications.
+Roberts and Bartosh agreed that not
+enough preparation or analysis ol
+costs had been done before the en
+deavor.
+SPIRES/ORVYL
+Student services computing on the
+370/135 is done through a software
+(program) package labeled OASIS
+while the main 370/168 supports a
+similar program package called
+SPIRES/ORVYL. SPIRES/ORVYL and
+OASIS are "file management systems"
+which enable administrative users to
+handle large amounts of data very flex
+ibly.
+Because of the similarity of the sys
+tems, SCIP programmers predicted
+that transfer of student services work
+to the main machine would save
+money, said Bartosh.
+However, soon after SCIP made the
+transfer, planners realized that the
+main machine could not efficiently
+handle the addition of the OASIS pac
+kage.
+OASIS did function on the 370/168,
+but the time required to execute a
+command (response time) was too
+long because of the demand on the sys
+tem in peak hours.
+Cope with workload
+Roberts said the 370/168 could cope
+with the student services workload
+through a more efficient program pac
+kage than OASIS.
+The student services workload
+would only total 2-3 per cent of the
+main facility's capacity, he estimated.
+In addition, the 370/168 is currently
+running at approximately 50 per cent
+of capacity.
+Although the 370/168 costs less to
+use and has the capability to handle
+the student services workload, Bartosh
+cautioned that "feasibility studies
+(considering an eventual transfer) are
+not in yet."
+He estimated that SCIP and the re
+gistrar would need a "period of two
+years at least to develop the change"
+because the student services applica
+tions programs would have to be re
+written.
+According to Roberts, SCIP also ran
+into difficulties buying the used 370/
+to replace the rental model. It
+"took six months and three tries to buy
+a machine at a price we thought was
+fair," he said.
+Bids from sellers were first re
+quested in early September for an in
+stallation date of Nov. 1, However,
+negotiations collapsed over a conflict
+between verbal promises and contrac
+tual guarantees, according to SCIP's
+Sandelin.
+The scenario was repeated again be
+fore a third offer was met by a compu
+ter broker, who delivered the machine
+Tuesday.
+The registrar's office "is paying a
+substantial penalty" for doing ad
+ministrative student services comput
+ing on a smaller, slower computer in
+stead of using the main campus facil
+ity, said Mike Roberts, deputy director
+of the Stanford Center for Information
+Processing (SCIP).
+The office is currently using an IBM
+370/135, whose production costs are
+"anywhere from a third to a half more
+expensive," than the University's
+chief machine, an IBM 370/168, said
+Roberts.
+However, Bill Bartosh, programmer
+analyst for the registrar, said it is "not
+clear" the registrar would save money
+by moving to the main machine be
+cause of software (programming) in
+compatibilities and scheduling prob
+lems.
+Last spring, SCIP and the registrar
+attempted to transfer student services
+computing from a medium-sized ad
+ministrative machine, an IBM 370/145,
+to the main campus facility as part of a
+broad consolidation plan.
+Poorly designed
+However, planners soon realized
+that the transfer package Was poorly
+designed and tasks on the main com
+puter were completed too slowly, said
+Roberts. Meanwhile, SCIP had com
+mitted the computer previously doing
+thestudent services work (the37o/145)
+for sale.
+SCI1 1 then rented an IBM 370/135 at a
+cost of $11,716 per month to continue
+administrative processing and the at
+tempted transfer was scrapped. The
+370/135 is slower than either the 3701
+145 or the main computer.
+SCIP recently purchased a used
+370/135 for $291,000 to replace the
+rental machine now in use.
+Jon Sandelin, manager of account
+ing and financial services for SCIP, es
+timated that the switch from rental to
+purchase will yield approximately
+$4500 per month in direct savings. The
+switch will take place Feb. 9.
+Attempted transfer
+When the attempted transfer from
+the 370/145 to the main computer
+failed, the registrar's office rejected an
+offer by Prof. Patrick Suppes of the In
+stitute for Mathematical Studies in the
+
+Social Sciences (IMSSS) to build a
+student services system from"the
+ground up" while sharing the IMSSS
+machine, claimed Bartosh.
+Although the proposal "never got to
+the level of details," Suppes proposed
+to start with the "elements of data" and
+build a programming structure best
+suited to the data as well as needs of
+the registrar, Bartosh said.
+The IMSSS staff proposed to com
+plete its work in eight months. Bartosh
+found it "a little hard to believe" the
+IMSSS staff could have fulfilled its
+predictions.
+By attempting a transfer for a few
+days from the old 370/145 to the main
+computer facility, SCIP planners
+simultaneously made major equip
+ment and program modifications.
+Roberts and Bartosh agreed that not
+enough preparation or analysis ol
+costs had been done before the en
+deavor.
+SPIRES/ORVYL
+Student services computing on the
+370/135 is done through a software
+(program) package labeled OASIS
+while the main 370/168 supports a
+similar program package called
+SPIRES/ORVYL. SPIRES/ORVYL and
+OASIS are "file management systems"
+which enable administrative users to
+handle large amounts of data very flex
+ibly.
+Because of the similarity of the sys
+tems, SCIP programmers predicted
+that transfer of student services work
+to the main machine would save
+money, said Bartosh.
+However, soon after SCIP made the
+transfer, planners realized that the
+main machine could not efficiently
+handle the addition of the OASIS pac
+kage.
+OASIS did function on the 370/168,
+but the time required to execute a
+command (response time) was too
+long because of the demand on the sys
+tem in peak hours.
+Cope with workload
+Roberts said the 370/168 could cope
+with the student services workload
+through a more efficient program pac
+kage than OASIS.
+The student services workload
+would only total 2-3 per cent of the
+main facility's capacity, he estimated.
+In addition, the 370/168 is currently
+running at approximately 50 per cent
+of capacity.
+Although the 370/168 costs less to
+use and has the capability to handle
+the student services workload, Bartosh
+cautioned that "feasibility studies
+(considering an eventual transfer) are
+not in yet."
+He estimated that SCIP and the re
+gistrar would need a "period of two
+years at least to develop the change"
+because the student services applica
+tions programs would have to be re
+written.
+According to Roberts, SCIP also ran
+into difficulties buying the used 370/
+to replace the rental model. It
+"took six months and three tries to buy
+a machine at a price we thought was
+fair," he said.
+Bids from sellers were first re
+quested in early September for an in
+stallation date of Nov. 1, However,
+negotiations collapsed over a conflict
+between verbal promises and contrac
+tual guarantees, according to SCIP's
+Sandelin.
+The scenario was repeated again be
+fore a third offer was met by a compu
+ter broker, who delivered the machine
+Tuesday.
+The registrar's office "is paying a
+substantial penalty" for doing ad
+ministrative student services comput
+ing on a smaller, slower computer in
+stead of using the main campus facil
+ity, said Mike Roberts, deputy director
+of the Stanford Center for Information
+Processing (SCIP).
+The office is currently using an IBM
+370/135, whose production costs are
+"anywhere from a third to a half more
+expensive," than the University's
+chief machine, an IBM 370/168, said
+Roberts.
+However, Bill Bartosh, programmer
+analyst for the registrar, said it is "not
+clear" the registrar would save money
+by moving to the main machine be
+cause of software (programming) in
+compatibilities and scheduling prob
+lems.
+Last spring, SCIP and the registrar
+attempted to transfer student services
+computing from a medium-sized ad
+ministrative machine, an IBM 370/145,
+to the main campus facility as part of a
+broad consolidation plan.
+Poorly designed
+However, planners soon realized
+that the transfer package Was poorly
+designed and tasks on the main com
+puter were completed too slowly, said
+Roberts. Meanwhile, SCIP had com
+mitted the computer previously doing
+thestudent services work (the37o/145)
+for sale.
+SCI1 1 then rented an IBM 370/135 at a
+cost of $11,716 per month to continue
+administrative processing and the at
+tempted transfer was scrapped. The
+370/135 is slower than either the 3701
+145 or the main computer.
+SCIP recently purchased a used
+370/135 for $291,000 to replace the
+rental machine now in use.
+Jon Sandelin, manager of account
+ing and financial services for SCIP, es
+timated that the switch from rental to
+purchase will yield approximately
+$4500 per month in direct savings. The
+switch will take place Feb. 9.
+Attempted transfer
+When the attempted transfer from
+the 370/145 to the main computer
+failed, the registrar's office rejected an
+offer by Prof. Patrick Suppes of the In
+stitute for Mathematical Studies in the
+
+Social Sciences (IMSSS) to build a
+student services system from"the
+ground up" while sharing the IMSSS
+machine, claimed Bartosh.
+Although the proposal "never got to
+the level of details," Suppes proposed
+to start with the "elements of data" and
+build a programming structure best
+suited to the data as well as needs of
+the registrar, Bartosh said.
+The IMSSS staff proposed to com
+plete its work in eight months. Bartosh
+found it "a little hard to believe" the
+IMSSS staff could have fulfilled its
+predictions.
+By attempting a transfer for a few
+days from the old 370/145 to the main
+computer facility, SCIP planners
+simultaneously made major equip
+ment and program modifications.
+Roberts and Bartosh agreed that not
+enough preparation or analysis ol
+costs had been done before the en
+deavor.
+SPIRES/ORVYL
+Student services computing on the
+370/135 is done through a software
+(program) package labeled OASIS
+while the main 370/168 supports a
+similar program package called
+SPIRES/ORVYL. SPIRES/ORVYL and
+OASIS are "file management systems"
+which enable administrative users to
+handle large amounts of data very flex
+ibly.
+Because of the similarity of the sys
+tems, SCIP programmers predicted
+that transfer of student services work
+to the main machine would save
+money, said Bartosh.
+However, soon after SCIP made the
+transfer, planners realized that the
+main machine could not efficiently
+handle the addition of the OASIS pac
+kage.
+OASIS did function on the 370/168,
+but the time required to execute a
+command (response time) was too
+long because of the demand on the sys
+tem in peak hours.
+Cope with workload
+Roberts said the 370/168 could cope
+with the student services workload
+through a more efficient program pac
+kage than OASIS.
+The student services workload
+would only total 2-3 per cent of the
+main facility's capacity, he estimated.
+In addition, the 370/168 is currently
+running at approximately 50 per cent
+of capacity.
+Although the 370/168 costs less to
+use and has the capability to handle
+the student services workload, Bartosh
+cautioned that "feasibility studies
+(considering an eventual transfer) are
+not in yet."
+He estimated that SCIP and the re
+gistrar would need a "period of two
+years at least to develop the change"
+because the student services applica
+tions programs would have to be re
+written.
+According to Roberts, SCIP also ran
+into difficulties buying the used 370/
+to replace the rental model. It
+"took six months and three tries to buy
+a machine at a price we thought was
+fair," he said.
+Bids from sellers were first re
+quested in early September for an in
+stallation date of Nov. 1, However,
+negotiations collapsed over a conflict
+between verbal promises and contrac
+tual guarantees, according to SCIP's
+Sandelin.
+The scenario was repeated again be
+fore a third offer was met by a compu
+ter broker, who delivered the machine
+Tuesday.
+The registrar's office "is paying a
+substantial penalty" for doing ad
+ministrative student services comput
+ing on a smaller, slower computer in
+stead of using the main campus facil
+ity, said Mike Roberts, deputy director
+of the Stanford Center for Information
+Processing (SCIP).
+The office is currently using an IBM
+370/135, whose production costs are
+"anywhere from a third to a half more
+expensive," than the University's
+chief machine, an IBM 370/168, said
+Roberts.
+However, Bill Bartosh, programmer
+analyst for the registrar, said it is "not
+clear" the registrar would save money
+by moving to the main machine be
+cause of software (programming) in
+compatibilities and scheduling prob
+lems.
+Last spring, SCIP and the registrar
+attempted to transfer student services
+computing from a medium-sized ad
+ministrative machine, an IBM 370/145,
+to the main campus facility as part of a
+broad consolidation plan.
+Poorly designed
+However, planners soon realized
+that the transfer package Was poorly
+designed and tasks on the main com
+puter were completed too slowly, said
+Roberts. Meanwhile, SCIP had com
+mitted the computer previously doing
+thestudent services work (the37o/145)
+for sale.
+SCI1 1 then rented an IBM 370/135 at a
+cost of $11,716 per month to continue
+administrative processing and the at
+tempted transfer was scrapped. The
+370/135 is slower than either the 3701
+145 or the main computer.
+SCIP recently purchased a used
+370/135 for $291,000 to replace the
+rental machine now in use.
+Jon Sandelin, manager of account
+ing and financial services for SCIP, es
+timated that the switch from rental to
+purchase will yield approximately
+$4500 per month in direct savings. The
+switch will take place Feb. 9.
+Attempted transfer
+When the attempted transfer from
+the 370/145 to the main computer
+failed, the registrar's office rejected an
+offer by Prof. Patrick Suppes of the In
+stitute for Mathematical Studies in the
+
+Social Sciences (IMSSS) to build a
+student services system from"the
+ground up" while sharing the IMSSS
+machine, claimed Bartosh.
+Although the proposal "never got to
+the level of details," Suppes proposed
+to start with the "elements of data" and
+build a programming structure best
+suited to the data as well as needs of
+the registrar, Bartosh said.
+The IMSSS staff proposed to com
+plete its work in eight months. Bartosh
+found it "a little hard to believe" the
+IMSSS staff could have fulfilled its
+predictions.
+By attempting a transfer for a few
+days from the old 370/145 to the main
+computer facility, SCIP planners
+simultaneously made major equip
+ment and program modifications.
+Roberts and Bartosh agreed that not
+enough preparation or analysis ol
+costs had been done before the en
+deavor.
+SPIRES/ORVYL
+Student services computing on the
+370/135 is done through a software
+(program) package labeled OASIS
+while the main 370/168 supports a
+similar program package called
+SPIRES/ORVYL. SPIRES/ORVYL and
+OASIS are "file management systems"
+which enable administrative users to
+handle large amounts of data very flex
+ibly.
+Because of the similarity of the sys
+tems, SCIP programmers predicted
+that transfer of student services work
+to the main machine would save
+money, said Bartosh.
+However, soon after SCIP made the
+transfer, planners realized that the
+main machine could not efficiently
+handle the addition of the OASIS pac
+kage.
+OASIS did function on the 370/168,
+but the time required to execute a
+command (response time) was too
+long because of the demand on the sys
+tem in peak hours.
+Cope with workload
+Roberts said the 370/168 could cope
+with the student services workload
+through a more efficient program pac
+kage than OASIS.
+The student services workload
+would only total 2-3 per cent of the
+main facility's capacity, he estimated.
+In addition, the 370/168 is currently
+running at approximately 50 per cent
+of capacity.
+Although the 370/168 costs less to
+use and has the capability to handle
+the student services workload, Bartosh
+cautioned that "feasibility studies
+(considering an eventual transfer) are
+not in yet."
+He estimated that SCIP and the re
+gistrar would need a "period of two
+years at least to develop the change"
+because the student services applica
+tions programs would have to be re
+written.
+According to Roberts, SCIP also ran
+into difficulties buying the used 370/
+to replace the rental model. It
+"took six months and three tries to buy
+a machine at a price we thought was
+fair," he said.
+Bids from sellers were first re
+quested in early September for an in
+stallation date of Nov. 1, However,
+negotiations collapsed over a conflict
+between verbal promises and contrac
+tual guarantees, according to SCIP's
+Sandelin.
+The scenario was repeated again be
+fore a third offer was met by a compu
+ter broker, who delivered the machine
+Tuesday.
+The registrar's office "is paying a
+substantial penalty" for doing ad
+ministrative student services comput
+ing on a smaller, slower computer in
+stead of using the main campus facil
+ity, said Mike Roberts, deputy director
+of the Stanford Center for Information
+Processing (SCIP).
+The office is currently using an IBM
+370/135, whose production costs are
+"anywhere from a third to a half more
+expensive," than the University's
+chief machine, an IBM 370/168, said
+Roberts.
+However, Bill Bartosh, programmer
+analyst for the registrar, said it is "not
+clear" the registrar would save money
+by moving to the main machine be
+cause of software (programming) in
+compatibilities and scheduling prob
+lems.
+Last spring, SCIP and the registrar
+attempted to transfer student services
+computing from a medium-sized ad
+ministrative machine, an IBM 370/145,
+to the main campus facility as part of a
+broad consolidation plan.
+Poorly designed
+However, planners soon realized
+that the transfer package Was poorly
+designed and tasks on the main com
+puter were completed too slowly, said
+Roberts. Meanwhile, SCIP had com
+mitted the computer previously doing
+thestudent services work (the37o/145)
+for sale.
+SCI1 1 then rented an IBM 370/135 at a
+cost of $11,716 per month to continue
+administrative processing and the at
+tempted transfer was scrapped. The
+370/135 is slower than either the 3701
+145 or the main computer.
+SCIP recently purchased a used
+370/135 for $291,000 to replace the
+rental machine now in use.
+Jon Sandelin, manager of account
+ing and financial services for SCIP, es
+timated that the switch from rental to
+purchase will yield approximately
+$4500 per month in direct savings. The
+switch will take place Feb. 9.
+Attempted transfer
+When the attempted transfer from
+the 370/145 to the main computer
+failed, the registrar's office rejected an
+offer by Prof. Patrick Suppes of the In
+stitute for Mathematical Studies in the
+
+Social Sciences (IMSSS) to build a
+student services system from"the
+ground up" while sharing the IMSSS
+machine, claimed Bartosh.
+Although the proposal "never got to
+the level of details," Suppes proposed
+to start with the "elements of data" and
+build a programming structure best
+suited to the data as well as needs of
+the registrar, Bartosh said.
+The IMSSS staff proposed to com
+plete its work in eight months. Bartosh
+found it "a little hard to believe" the
+IMSSS staff could have fulfilled its
+predictions.
+By attempting a transfer for a few
+days from the old 370/145 to the main
+computer facility, SCIP planners
+simultaneously made major equip
+ment and program modifications.
+Roberts and Bartosh agreed that not
+enough preparation or analysis ol
+costs had been done before the en
+deavor.
+SPIRES/ORVYL
+Student services computing on the
+370/135 is done through a software
+(program) package labeled OASIS
+while the main 370/168 supports a
+similar program package called
+SPIRES/ORVYL. SPIRES/ORVYL and
+OASIS are "file management systems"
+which enable administrative users to
+handle large amounts of data very flex
+ibly.
+Because of the similarity of the sys
+tems, SCIP programmers predicted
+that transfer of student services work
+to the main machine would save
+money, said Bartosh.
+However, soon after SCIP made the
+transfer, planners realized that the
+main machine could not efficiently
+handle the addition of the OASIS pac
+kage.
+OASIS did function on the 370/168,
+but the time required to execute a
+command (response time) was too
+long because of the demand on the sys
+tem in peak hours.
+Cope with workload
+Roberts said the 370/168 could cope
+with the student services workload
+through a more efficient program pac
+kage than OASIS.
+The student services workload
+would only total 2-3 per cent of the
+main facility's capacity, he estimated.
+In addition, the 370/168 is currently
+running at approximately 50 per cent
+of capacity.
+Although the 370/168 costs less to
+use and has the capability to handle
+the student services workload, Bartosh
+cautioned that "feasibility studies
+(considering an eventual transfer) are
+not in yet."
+He estimated that SCIP and the re
+gistrar would need a "period of two
+years at least to develop the change"
+because the student services applica
+tions programs would have to be re
+written.
+According to Roberts, SCIP also ran
+into difficulties buying the used 370/
+to replace the rental model. It
+"took six months and three tries to buy
+a machine at a price we thought was
+fair," he said.
+Bids from sellers were first re
+quested in early September for an in
+stallation date of Nov. 1, However,
+negotiations collapsed over a conflict
+between verbal promises and contrac
+tual guarantees, according to SCIP's
+Sandelin.
+The scenario was repeated again be
+fore a third offer was met by a compu
+ter broker, who delivered the machine
+Tuesday.
+The registrar's office "is paying a
+substantial penalty" for doing ad
+ministrative student services comput
+ing on a smaller, slower computer in
+stead of using the main campus facil
+ity, said Mike Roberts, deputy director
+of the Stanford Center for Information
+Processing (SCIP).
+The office is currently using an IBM
+370/135, whose production costs are
+"anywhere from a third to a half more
+expensive," than the University's
+chief machine, an IBM 370/168, said
+Roberts.
+However, Bill Bartosh, programmer
+analyst for the registrar, said it is "not
+clear" the registrar would save money
+by moving to the main machine be
+cause of software (programming) in
+compatibilities and scheduling prob
+lems.
+Last spring, SCIP and the registrar
+attempted to transfer student services
+computing from a medium-sized ad
+ministrative machine, an IBM 370/145,
+to the main campus facility as part of a
+broad consolidation plan.
+Poorly designed
+However, planners soon realized
+that the transfer package Was poorly
+designed and tasks on the main com
+puter were completed too slowly, said
+Roberts. Meanwhile, SCIP had com
+mitted the computer previously doing
+thestudent services work (the37o/145)
+for sale.
+SCI1 1 then rented an IBM 370/135 at a
+cost of $11,716 per month to continue
+administrative processing and the at
+tempted transfer was scrapped. The
+370/135 is slower than either the 3701
+145 or the main computer.
+SCIP recently purchased a used
+370/135 for $291,000 to replace the
+rental machine now in use.
+Jon Sandelin, manager of account
+ing and financial services for SCIP, es
+timated that the switch from rental to
+purchase will yield approximately
+$4500 per month in direct savings. The
+switch will take place Feb. 9.
+Attempted transfer
+When the attempted transfer from
+the 370/145 to the main computer
+failed, the registrar's office rejected an
+offer by Prof. Patrick Suppes of the In
+stitute for Mathematical Studies in the
+
+Social Sciences (IMSSS) to build a
+student services system from"the
+ground up" while sharing the IMSSS
+machine, claimed Bartosh.
+Although the proposal "never got to
+the level of details," Suppes proposed
+to start with the "elements of data" and
+build a programming structure best
+suited to the data as well as needs of
+the registrar, Bartosh said.
+The IMSSS staff proposed to com
+plete its work in eight months. Bartosh
+found it "a little hard to believe" the
+IMSSS staff could have fulfilled its
+predictions.
+By attempting a transfer for a few
+days from the old 370/145 to the main
+computer facility, SCIP planners
+simultaneously made major equip
+ment and program modifications.
+Roberts and Bartosh agreed that not
+enough preparation or analysis ol
+costs had been done before the en
+deavor.
+SPIRES/ORVYL
+Student services computing on the
+370/135 is done through a software
+(program) package labeled OASIS
+while the main 370/168 supports a
+similar program package called
+SPIRES/ORVYL. SPIRES/ORVYL and
+OASIS are "file management systems"
+which enable administrative users to
+handle large amounts of data very flex
+ibly.
+Because of the similarity of the sys
+tems, SCIP programmers predicted
+that transfer of student services work
+to the main machine would save
+money, said Bartosh.
+However, soon after SCIP made the
+transfer, planners realized that the
+main machine could not efficiently
+handle the addition of the OASIS pac
+kage.
+OASIS did function on the 370/168,
+but the time required to execute a
+command (response time) was too
+long because of the demand on the sys
+tem in peak hours.
+Cope with workload
+Roberts said the 370/168 could cope
+with the student services workload
+through a more efficient program pac
+kage than OASIS.
+The student services workload
+would only total 2-3 per cent of the
+main facility's capacity, he estimated.
+In addition, the 370/168 is currently
+running at approximately 50 per cent
+of capacity.
+Although the 370/168 costs less to
+use and has the capability to handle
+the student services workload, Bartosh
+cautioned that "feasibility studies
+(considering an eventual transfer) are
+not in yet."
+He estimated that SCIP and the re
+gistrar would need a "period of two
+years at least to develop the change"
+because the student services applica
+tions programs would have to be re
+written.
+According to Roberts, SCIP also ran
+into difficulties buying the used 370/
+to replace the rental model. It
+"took six months and three tries to buy
+a machine at a price we thought was
+fair," he said.
+Bids from sellers were first re
+quested in early September for an in
+stallation date of Nov. 1, However,
+negotiations collapsed over a conflict
+between verbal promises and contrac
+tual guarantees, according to SCIP's
+Sandelin.
+The scenario was repeated again be
+fore a third offer was met by a compu
+ter broker, who delivered the machine
+Tuesday.
+The registrar's office "is paying a
+substantial penalty" for doing ad
+ministrative student services comput
+ing on a smaller, slower computer in
+stead of using the main campus facil
+ity, said Mike Roberts, deputy director
+of the Stanford Center for Information
+Processing (SCIP).
+The office is currently using an IBM
+370/135, whose production costs are
+"anywhere from a third to a half more
+expensive," than the University's
+chief machine, an IBM 370/168, said
+Roberts.
+However, Bill Bartosh, programmer
+analyst for the registrar, said it is "not
+clear" the registrar would save money
+by moving to the main machine be
+cause of software (programming) in
+compatibilities and scheduling prob
+lems.
+Last spring, SCIP and the registrar
+attempted to transfer student services
+computing from a medium-sized ad
+ministrative machine, an IBM 370/145,
+to the main campus facility as part of a
+broad consolidation plan.
+Poorly designed
+However, planners soon realized
+that the transfer package Was poorly
+designed and tasks on the main com
+puter were completed too slowly, said
+Roberts. Meanwhile, SCIP had com
+mitted the computer previously doing
+thestudent services work (the37o/145)
+for sale.
+SCI1 1 then rented an IBM 370/135 at a
+cost of $11,716 per month to continue
+administrative processing and the at
+tempted transfer was scrapped. The
+370/135 is slower than either the 3701
+145 or the main computer.
+SCIP recently purchased a used
+370/135 for $291,000 to replace the
+rental machine now in use.
+Jon Sandelin, manager of account
+ing and financial services for SCIP, es
+timated that the switch from rental to
+purchase will yield approximately
+$4500 per month in direct savings. The
+switch will take place Feb. 9.
+Attempted transfer
+When the attempted transfer from
+the 370/145 to the main computer
+failed, the registrar's office rejected an
+offer by Prof. Patrick Suppes of the In
+stitute for Mathematical Studies in the
+
+Social Sciences (IMSSS) to build a
+student services system from"the
+ground up" while sharing the IMSSS
+machine, claimed Bartosh.
+Although the proposal "never got to
+the level of details," Suppes proposed
+to start with the "elements of data" and
+build a programming structure best
+suited to the data as well as needs of
+the registrar, Bartosh said.
+The IMSSS staff proposed to com
+plete its work in eight months. Bartosh
+found it "a little hard to believe" the
+IMSSS staff could have fulfilled its
+predictions.
+By attempting a transfer for a few
+days from the old 370/145 to the main
+computer facility, SCIP planners
+simultaneously made major equip
+ment and program modifications.
+Roberts and Bartosh agreed that not
+enough preparation or analysis ol
+costs had been done before the en
+deavor.
+SPIRES/ORVYL
+Student services computing on the
+370/135 is done through a software
+(program) package labeled OASIS
+while the main 370/168 supports a
+similar program package called
+SPIRES/ORVYL. SPIRES/ORVYL and
+OASIS are "file management systems"
+which enable administrative users to
+handle large amounts of data very flex
+ibly.
+Because of the similarity of the sys
+tems, SCIP programmers predicted
+that transfer of student services work
+to the main machine would save
+money, said Bartosh.
+However, soon after SCIP made the
+transfer, planners realized that the
+main machine could not efficiently
+handle the addition of the OASIS pac
+kage.
+OASIS did function on the 370/168,
+but the time required to execute a
+command (response time) was too
+long because of the demand on the sys
+tem in peak hours.
+Cope with workload
+Roberts said the 370/168 could cope
+with the student services workload
+through a more efficient program pac
+kage than OASIS.
+The student services workload
+would only total 2-3 per cent of the
+main facility's capacity, he estimated.
+In addition, the 370/168 is currently
+running at approximately 50 per cent
+of capacity.
+Although the 370/168 costs less to
+use and has the capability to handle
+the student services workload, Bartosh
+cautioned that "feasibility studies
+(considering an eventual transfer) are
+not in yet."
+He estimated that SCIP and the re
+gistrar would need a "period of two
+years at least to develop the change"
+because the student services applica
+tions programs would have to be re
+written.
+According to Roberts, SCIP also ran
+into difficulties buying the used 370/
+to replace the rental model. It
+"took six months and three tries to buy
+a machine at a price we thought was
+fair," he said.
+Bids from sellers were first re
+quested in early September for an in
+stallation date of Nov. 1, However,
+negotiations collapsed over a conflict
+between verbal promises and contrac
+tual guarantees, according to SCIP's
+Sandelin.
+The scenario was repeated again be
+fore a third offer was met by a compu
+ter broker, who delivered the machine
+Tuesday.
+The registrar's office "is paying a
+substantial penalty" for doing ad
+ministrative student services comput
+ing on a smaller, slower computer in
+stead of using the main campus facil
+ity, said Mike Roberts, deputy director
+of the Stanford Center for Information
+Processing (SCIP).
+The office is currently using an IBM
+370/135, whose production costs are
+"anywhere from a third to a half more
+expensive," than the University's
+chief machine, an IBM 370/168, said
+Roberts.
+However, Bill Bartosh, programmer
+analyst for the registrar, said it is "not
+clear" the registrar would save money
+by moving to the main machine be
+cause of software (programming) in
+compatibilities and scheduling prob
+lems.
+Last spring, SCIP and the registrar
+attempted to transfer student services
+computing from a medium-sized ad
+ministrative machine, an IBM 370/145,
+to the main campus facility as part of a
+broad consolidation plan.
+Poorly designed
+However, planners soon realized
+that the transfer package Was poorly
+designed and tasks on the main com
+puter were completed too slowly, said
+Roberts. Meanwhile, SCIP had com
+mitted the computer previously doing
+thestudent services work (the37o/145)
+for sale.
+SCI1 1 then rented an IBM 370/135 at a
+cost of $11,716 per month to continue
+administrative processing and the at
+tempted transfer was scrapped. The
+370/135 is slower than either the 3701
+145 or the main computer.
+SCIP recently purchased a used
+370/135 for $291,000 to replace the
+rental machine now in use.
+Jon Sandelin, manager of account
+ing and financial services for SCIP, es
+timated that the switch from rental to
+purchase will yield approximately
+$4500 per month in direct savings. The
+switch will take place Feb. 9.
+Attempted transfer
+When the attempted transfer from
+the 370/145 to the main computer
+failed, the registrar's office rejected an
+offer by Prof. Patrick Suppes of the In
+stitute for Mathematical Studies in the
+
+Social Sciences (IMSSS) to build a
+student services system from"the
+ground up" while sharing the IMSSS
+machine, claimed Bartosh.
+Although the proposal "never got to
+the level of details," Suppes proposed
+to start with the "elements of data" and
+build a programming structure best
+suited to the data as well as needs of
+the registrar, Bartosh said.
+The IMSSS staff proposed to com
+plete its work in eight months. Bartosh
+found it "a little hard to believe" the
+IMSSS staff could have fulfilled its
+predictions.
+By attempting a transfer for a few
+days from the old 370/145 to the main
+computer facility, SCIP planners
+simultaneously made major equip
+ment and program modifications.
+Roberts and Bartosh agreed that not
+enough preparation or analysis ol
+costs had been done before the en
+deavor.
+SPIRES/ORVYL
+Student services computing on the
+370/135 is done through a software
+(program) package labeled OASIS
+while the main 370/168 supports a
+similar program package called
+SPIRES/ORVYL. SPIRES/ORVYL and
+OASIS are "file management systems"
+which enable administrative users to
+handle large amounts of data very flex
+ibly.
+Because of the similarity of the sys
+tems, SCIP programmers predicted
+that transfer of student services work
+to the main machine would save
+money, said Bartosh.
+However, soon after SCIP made the
+transfer, planners realized that the
+main machine could not efficiently
+handle the addition of the OASIS pac
+kage.
+OASIS did function on the 370/168,
+but the time required to execute a
+command (response time) was too
+long because of the demand on the sys
+tem in peak hours.
+Cope with workload
+Roberts said the 370/168 could cope
+with the student services workload
+through a more efficient program pac
+kage than OASIS.
+The student services workload
+would only total 2-3 per cent of the
+main facility's capacity, he estimated.
+In addition, the 370/168 is currently
+running at approximately 50 per cent
+of capacity.
+Although the 370/168 costs less to
+use and has the capability to handle
+the student services workload, Bartosh
+cautioned that "feasibility studies
+(considering an eventual transfer) are
+not in yet."
+He estimated that SCIP and the re
+gistrar would need a "period of two
+years at least to develop the change"
+because the student services applica
+tions programs would have to be re
+written.
+According to Roberts, SCIP also ran
+into difficulties buying the used 370/
+to replace the rental model. It
+"took six months and three tries to buy
+a machine at a price we thought was
+fair," he said.
+Bids from sellers were first re
+quested in early September for an in
+stallation date of Nov. 1, However,
+negotiations collapsed over a conflict
+between verbal promises and contrac
+tual guarantees, according to SCIP's
+Sandelin.
+The scenario was repeated again be
+fore a third offer was met by a compu
+ter broker, who delivered the machine
+Tuesday.
+The registrar's office "is paying a
+substantial penalty" for doing ad
+ministrative student services comput
+ing on a smaller, slower computer in
+stead of using the main campus facil
+ity, said Mike Roberts, deputy director
+of the Stanford Center for Information
+Processing (SCIP).
+The office is currently using an IBM
+370/135, whose production costs are
+"anywhere from a third to a half more
+expensive," than the University's
+chief machine, an IBM 370/168, said
+Roberts.
+However, Bill Bartosh, programmer
+analyst for the registrar, said it is "not
+clear" the registrar would save money
+by moving to the main machine be
+cause of software (programming) in
+compatibilities and scheduling prob
+lems.
+Last spring, SCIP and the registrar
+attempted to transfer student services
+computing from a medium-sized ad
+ministrative machine, an IBM 370/145,
+to the main campus facility as part of a
+broad consolidation plan.
+Poorly designed
+However, planners soon realized
+that the transfer package Was poorly
+designed and tasks on the main com
+puter were completed too slowly, said
+Roberts. Meanwhile, SCIP had com
+mitted the computer previously doing
+thestudent services work (the37o/145)
+for sale.
+SCI1 1 then rented an IBM 370/135 at a
+cost of $11,716 per month to continue
+administrative processing and the at
+tempted transfer was scrapped. The
+370/135 is slower than either the 3701
+145 or the main computer.
+SCIP recently purchased a used
+370/135 for $291,000 to replace the
+rental machine now in use.
+Jon Sandelin, manager of account
+ing and financial services for SCIP, es
+timated that the switch from rental to
+purchase will yield approximately
+$4500 per month in direct savings. The
+switch will take place Feb. 9.
+Attempted transfer
+When the attempted transfer from
+the 370/145 to the main computer
+failed, the registrar's office rejected an
+offer by Prof. Patrick Suppes of the In
+stitute for Mathematical Studies in the
+
+Social Sciences (IMSSS) to build a
+student services system from"the
+ground up" while sharing the IMSSS
+machine, claimed Bartosh.
+Although the proposal "never got to
+the level of details," Suppes proposed
+to start with the "elements of data" and
+build a programming structure best
+suited to the data as well as needs of
+the registrar, Bartosh said.
+The IMSSS staff proposed to com
+plete its work in eight months. Bartosh
+found it "a little hard to believe" the
+IMSSS staff could have fulfilled its
+predictions.
+By attempting a transfer for a few
+days from the old 370/145 to the main
+computer facility, SCIP planners
+simultaneously made major equip
+ment and program modifications.
+Roberts and Bartosh agreed that not
+enough preparation or analysis ol
+costs had been done before the en
+deavor.
+SPIRES/ORVYL
+Student services computing on the
+370/135 is done through a software
+(program) package labeled OASIS
+while the main 370/168 supports a
+similar program package called
+SPIRES/ORVYL. SPIRES/ORVYL and
+OASIS are "file management systems"
+which enable administrative users to
+handle large amounts of data very flex
+ibly.
+Because of the similarity of the sys
+tems, SCIP programmers predicted
+that transfer of student services work
+to the main machine would save
+money, said Bartosh.
+However, soon after SCIP made the
+transfer, planners realized that the
+main machine could not efficiently
+handle the addition of the OASIS pac
+kage.
+OASIS did function on the 370/168,
+but the time required to execute a
+command (response time) was too
+long because of the demand on the sys
+tem in peak hours.
+Cope with workload
+Roberts said the 370/168 could cope
+with the student services workload
+through a more efficient program pac
+kage than OASIS.
+The student services workload
+would only total 2-3 per cent of the
+main facility's capacity, he estimated.
+In addition, the 370/168 is currently
+running at approximately 50 per cent
+of capacity.
+Although the 370/168 costs less to
+use and has the capability to handle
+the student services workload, Bartosh
+cautioned that "feasibility studies
+(considering an eventual transfer) are
+not in yet."
+He estimated that SCIP and the re
+gistrar would need a "period of two
+years at least to develop the change"
+because the student services applica
+tions programs would have to be re
+written.
+According to Roberts, SCIP also ran
+into difficulties buying the used 370/
+to replace the rental model. It
+"took six months and three tries to buy
+a machine at a price we thought was
+fair," he said.
+Bids from sellers were first re
+quested in early September for an in
+stallation date of Nov. 1, However,
+negotiations collapsed over a conflict
+between verbal promises and contrac
+tual guarantees, according to SCIP's
+Sandelin.
+The scenario was repeated again be
+fore a third offer was met by a compu
+ter broker, who delivered the machine
+Tuesday.

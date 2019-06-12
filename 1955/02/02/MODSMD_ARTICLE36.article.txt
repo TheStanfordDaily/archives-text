@@ -1,0 +1,633 @@
+# Frosh Basketball Statistics
+## 
+### 
+Gary Van Galder. a guard from Fresno, paces the Stanford freshman
+basketball squad in scoring with 89 points, after the Papooses first nine
+games, official team statistics revealed yesterday. Van Galder is also the top
+shooter from the floor for Coach Dick Clegg's frosh with a 52 percent average.
+Jay Jackson, a forward from Eureka, is the runner-up to Van Galder,
+having tallied 86 points in the freshman's first nine games. Following Jack
+son in the scoring parade, are Clint Waring, a center from Stockton, with
+74, Tony Vigna, a guard from Gilroy, with (59, and Dean Thomas, a guard
+from Hollywood with 65.
+Thomas is the top foul shooter among the regulars on the squad with a
+77 percent mark from the charity stripe, while Jackson has gathered in the
+most rebounds, 66, and Thomas has committed the most personal fouls, 24.
+Waring has taken the most shots, 95.
+The Card frosh have won seven of their first nine contests this season,
+having defeated the USF Freshman, Fremont High of Oakland. Salinas
+High, Lowell High, Lincoln High of San Francisco, Menlo-Atherton High,
+and Menlo JC. They have dropped contests to East Contra Costa JC and
+the California Freshman.
+G FGA FG FG% FTA FTM FT% RB PF TP Ave.
+Gary Van Galder.. 9 67 .'{s 52 36 23 64 .'{9 14 89 9.9
+Jay Jackson 9 78 32 41 29 20 69 66 18 86 9.4
+Clint Waring 9 95 31 32 22 12 55 63 20 74 8.2
+Tony Vigna 9 70 30 43 14 9 64 31 11 69 7.7
+Dean Thomas 9 56 21 38 30 23 77 38 24 65 7.2
+Mike Gray 8 59 22 32 12 10 83 36 14 52 6.5
+Eric Anderson .... 9 39 15 39 8 6 75 12 14 36 4.0
+Tom Dyer 7 19 12 63 11 10 91 12 6 34 4.9
+Lee Leonard 8 39 13 33 16 8 50 28 9 34 4.3
+BuzzHoever 6 19 8 42 6 5 83 6 0 21 3.5
+Bob Johnson 8 29 7 24 13 4 31 32 12 18 2.3
+Harding Roe 6 19 7 37 3 2 67 9 5 16 2.7
+Pete LaChapelle .. 7 13 4 31 4 3 75 17 2 11 1.6
+Jerry Rose 4 18 3 17 4 2 50 5 2 8 2.0
+Pete Mansfield .... 1 2 2 100 2 2 100 2 0 6 6.0
+Dwight Doerr .... 1 5 2 40 0 0 .. 4 1 4 4.0
+Wally Honeywell ,3 8 2 25 2 0 0 2 0 4 1.3
+Team Totals 605 245 40 214 140 66 311 154 630 70.0
+Opponents' Totals . 557 166 30 260 170 65 261 138 508 56.4
+(Key: G—Games played; FGA—Field goals attempted; FG —Field goals;
+FG%—Field goal percentage; FTA—Free throws attempted; FlM—Free
+throws made; FT% —Free throw percentage; KB—Rebounds; PF—Personal
+fouls; TP—Total points; Ave.—Average.)
+Gary Van Galder. a guard from Fresno, paces the Stanford freshman
+basketball squad in scoring with 89 points, after the Papooses first nine
+games, official team statistics revealed yesterday. Van Galder is also the top
+shooter from the floor for Coach Dick Clegg's frosh with a 52 percent average.
+Jay Jackson, a forward from Eureka, is the runner-up to Van Galder,
+having tallied 86 points in the freshman's first nine games. Following Jack
+son in the scoring parade, are Clint Waring, a center from Stockton, with
+74, Tony Vigna, a guard from Gilroy, with (59, and Dean Thomas, a guard
+from Hollywood with 65.
+Thomas is the top foul shooter among the regulars on the squad with a
+77 percent mark from the charity stripe, while Jackson has gathered in the
+most rebounds, 66, and Thomas has committed the most personal fouls, 24.
+Waring has taken the most shots, 95.
+The Card frosh have won seven of their first nine contests this season,
+having defeated the USF Freshman, Fremont High of Oakland. Salinas
+High, Lowell High, Lincoln High of San Francisco, Menlo-Atherton High,
+and Menlo JC. They have dropped contests to East Contra Costa JC and
+the California Freshman.
+G FGA FG FG% FTA FTM FT% RB PF TP Ave.
+Gary Van Galder.. 9 67 .'{s 52 36 23 64 .'{9 14 89 9.9
+Jay Jackson 9 78 32 41 29 20 69 66 18 86 9.4
+Clint Waring 9 95 31 32 22 12 55 63 20 74 8.2
+Tony Vigna 9 70 30 43 14 9 64 31 11 69 7.7
+Dean Thomas 9 56 21 38 30 23 77 38 24 65 7.2
+Mike Gray 8 59 22 32 12 10 83 36 14 52 6.5
+Eric Anderson .... 9 39 15 39 8 6 75 12 14 36 4.0
+Tom Dyer 7 19 12 63 11 10 91 12 6 34 4.9
+Lee Leonard 8 39 13 33 16 8 50 28 9 34 4.3
+BuzzHoever 6 19 8 42 6 5 83 6 0 21 3.5
+Bob Johnson 8 29 7 24 13 4 31 32 12 18 2.3
+Harding Roe 6 19 7 37 3 2 67 9 5 16 2.7
+Pete LaChapelle .. 7 13 4 31 4 3 75 17 2 11 1.6
+Jerry Rose 4 18 3 17 4 2 50 5 2 8 2.0
+Pete Mansfield .... 1 2 2 100 2 2 100 2 0 6 6.0
+Dwight Doerr .... 1 5 2 40 0 0 .. 4 1 4 4.0
+Wally Honeywell ,3 8 2 25 2 0 0 2 0 4 1.3
+Team Totals 605 245 40 214 140 66 311 154 630 70.0
+Opponents' Totals . 557 166 30 260 170 65 261 138 508 56.4
+(Key: G—Games played; FGA—Field goals attempted; FG —Field goals;
+FG%—Field goal percentage; FTA—Free throws attempted; FlM—Free
+throws made; FT% —Free throw percentage; KB—Rebounds; PF—Personal
+fouls; TP—Total points; Ave.—Average.)
+Gary Van Galder. a guard from Fresno, paces the Stanford freshman
+basketball squad in scoring with 89 points, after the Papooses first nine
+games, official team statistics revealed yesterday. Van Galder is also the top
+shooter from the floor for Coach Dick Clegg's frosh with a 52 percent average.
+Jay Jackson, a forward from Eureka, is the runner-up to Van Galder,
+having tallied 86 points in the freshman's first nine games. Following Jack
+son in the scoring parade, are Clint Waring, a center from Stockton, with
+74, Tony Vigna, a guard from Gilroy, with (59, and Dean Thomas, a guard
+from Hollywood with 65.
+Thomas is the top foul shooter among the regulars on the squad with a
+77 percent mark from the charity stripe, while Jackson has gathered in the
+most rebounds, 66, and Thomas has committed the most personal fouls, 24.
+Waring has taken the most shots, 95.
+The Card frosh have won seven of their first nine contests this season,
+having defeated the USF Freshman, Fremont High of Oakland. Salinas
+High, Lowell High, Lincoln High of San Francisco, Menlo-Atherton High,
+and Menlo JC. They have dropped contests to East Contra Costa JC and
+the California Freshman.
+G FGA FG FG% FTA FTM FT% RB PF TP Ave.
+Gary Van Galder.. 9 67 .'{s 52 36 23 64 .'{9 14 89 9.9
+Jay Jackson 9 78 32 41 29 20 69 66 18 86 9.4
+Clint Waring 9 95 31 32 22 12 55 63 20 74 8.2
+Tony Vigna 9 70 30 43 14 9 64 31 11 69 7.7
+Dean Thomas 9 56 21 38 30 23 77 38 24 65 7.2
+Mike Gray 8 59 22 32 12 10 83 36 14 52 6.5
+Eric Anderson .... 9 39 15 39 8 6 75 12 14 36 4.0
+Tom Dyer 7 19 12 63 11 10 91 12 6 34 4.9
+Lee Leonard 8 39 13 33 16 8 50 28 9 34 4.3
+BuzzHoever 6 19 8 42 6 5 83 6 0 21 3.5
+Bob Johnson 8 29 7 24 13 4 31 32 12 18 2.3
+Harding Roe 6 19 7 37 3 2 67 9 5 16 2.7
+Pete LaChapelle .. 7 13 4 31 4 3 75 17 2 11 1.6
+Jerry Rose 4 18 3 17 4 2 50 5 2 8 2.0
+Pete Mansfield .... 1 2 2 100 2 2 100 2 0 6 6.0
+Dwight Doerr .... 1 5 2 40 0 0 .. 4 1 4 4.0
+Wally Honeywell ,3 8 2 25 2 0 0 2 0 4 1.3
+Team Totals 605 245 40 214 140 66 311 154 630 70.0
+Opponents' Totals . 557 166 30 260 170 65 261 138 508 56.4
+(Key: G—Games played; FGA—Field goals attempted; FG —Field goals;
+FG%—Field goal percentage; FTA—Free throws attempted; FlM—Free
+throws made; FT% —Free throw percentage; KB—Rebounds; PF—Personal
+fouls; TP—Total points; Ave.—Average.)
+Gary Van Galder. a guard from Fresno, paces the Stanford freshman
+basketball squad in scoring with 89 points, after the Papooses first nine
+games, official team statistics revealed yesterday. Van Galder is also the top
+shooter from the floor for Coach Dick Clegg's frosh with a 52 percent average.
+Jay Jackson, a forward from Eureka, is the runner-up to Van Galder,
+having tallied 86 points in the freshman's first nine games. Following Jack
+son in the scoring parade, are Clint Waring, a center from Stockton, with
+74, Tony Vigna, a guard from Gilroy, with (59, and Dean Thomas, a guard
+from Hollywood with 65.
+Thomas is the top foul shooter among the regulars on the squad with a
+77 percent mark from the charity stripe, while Jackson has gathered in the
+most rebounds, 66, and Thomas has committed the most personal fouls, 24.
+Waring has taken the most shots, 95.
+The Card frosh have won seven of their first nine contests this season,
+having defeated the USF Freshman, Fremont High of Oakland. Salinas
+High, Lowell High, Lincoln High of San Francisco, Menlo-Atherton High,
+and Menlo JC. They have dropped contests to East Contra Costa JC and
+the California Freshman.
+G FGA FG FG% FTA FTM FT% RB PF TP Ave.
+Gary Van Galder.. 9 67 .'{s 52 36 23 64 .'{9 14 89 9.9
+Jay Jackson 9 78 32 41 29 20 69 66 18 86 9.4
+Clint Waring 9 95 31 32 22 12 55 63 20 74 8.2
+Tony Vigna 9 70 30 43 14 9 64 31 11 69 7.7
+Dean Thomas 9 56 21 38 30 23 77 38 24 65 7.2
+Mike Gray 8 59 22 32 12 10 83 36 14 52 6.5
+Eric Anderson .... 9 39 15 39 8 6 75 12 14 36 4.0
+Tom Dyer 7 19 12 63 11 10 91 12 6 34 4.9
+Lee Leonard 8 39 13 33 16 8 50 28 9 34 4.3
+BuzzHoever 6 19 8 42 6 5 83 6 0 21 3.5
+Bob Johnson 8 29 7 24 13 4 31 32 12 18 2.3
+Harding Roe 6 19 7 37 3 2 67 9 5 16 2.7
+Pete LaChapelle .. 7 13 4 31 4 3 75 17 2 11 1.6
+Jerry Rose 4 18 3 17 4 2 50 5 2 8 2.0
+Pete Mansfield .... 1 2 2 100 2 2 100 2 0 6 6.0
+Dwight Doerr .... 1 5 2 40 0 0 .. 4 1 4 4.0
+Wally Honeywell ,3 8 2 25 2 0 0 2 0 4 1.3
+Team Totals 605 245 40 214 140 66 311 154 630 70.0
+Opponents' Totals . 557 166 30 260 170 65 261 138 508 56.4
+(Key: G—Games played; FGA—Field goals attempted; FG —Field goals;
+FG%—Field goal percentage; FTA—Free throws attempted; FlM—Free
+throws made; FT% —Free throw percentage; KB—Rebounds; PF—Personal
+fouls; TP—Total points; Ave.—Average.)
+Gary Van Galder. a guard from Fresno, paces the Stanford freshman
+basketball squad in scoring with 89 points, after the Papooses first nine
+games, official team statistics revealed yesterday. Van Galder is also the top
+shooter from the floor for Coach Dick Clegg's frosh with a 52 percent average.
+Jay Jackson, a forward from Eureka, is the runner-up to Van Galder,
+having tallied 86 points in the freshman's first nine games. Following Jack
+son in the scoring parade, are Clint Waring, a center from Stockton, with
+74, Tony Vigna, a guard from Gilroy, with (59, and Dean Thomas, a guard
+from Hollywood with 65.
+Thomas is the top foul shooter among the regulars on the squad with a
+77 percent mark from the charity stripe, while Jackson has gathered in the
+most rebounds, 66, and Thomas has committed the most personal fouls, 24.
+Waring has taken the most shots, 95.
+The Card frosh have won seven of their first nine contests this season,
+having defeated the USF Freshman, Fremont High of Oakland. Salinas
+High, Lowell High, Lincoln High of San Francisco, Menlo-Atherton High,
+and Menlo JC. They have dropped contests to East Contra Costa JC and
+the California Freshman.
+G FGA FG FG% FTA FTM FT% RB PF TP Ave.
+Gary Van Galder.. 9 67 .'{s 52 36 23 64 .'{9 14 89 9.9
+Jay Jackson 9 78 32 41 29 20 69 66 18 86 9.4
+Clint Waring 9 95 31 32 22 12 55 63 20 74 8.2
+Tony Vigna 9 70 30 43 14 9 64 31 11 69 7.7
+Dean Thomas 9 56 21 38 30 23 77 38 24 65 7.2
+Mike Gray 8 59 22 32 12 10 83 36 14 52 6.5
+Eric Anderson .... 9 39 15 39 8 6 75 12 14 36 4.0
+Tom Dyer 7 19 12 63 11 10 91 12 6 34 4.9
+Lee Leonard 8 39 13 33 16 8 50 28 9 34 4.3
+BuzzHoever 6 19 8 42 6 5 83 6 0 21 3.5
+Bob Johnson 8 29 7 24 13 4 31 32 12 18 2.3
+Harding Roe 6 19 7 37 3 2 67 9 5 16 2.7
+Pete LaChapelle .. 7 13 4 31 4 3 75 17 2 11 1.6
+Jerry Rose 4 18 3 17 4 2 50 5 2 8 2.0
+Pete Mansfield .... 1 2 2 100 2 2 100 2 0 6 6.0
+Dwight Doerr .... 1 5 2 40 0 0 .. 4 1 4 4.0
+Wally Honeywell ,3 8 2 25 2 0 0 2 0 4 1.3
+Team Totals 605 245 40 214 140 66 311 154 630 70.0
+Opponents' Totals . 557 166 30 260 170 65 261 138 508 56.4
+(Key: G—Games played; FGA—Field goals attempted; FG —Field goals;
+FG%—Field goal percentage; FTA—Free throws attempted; FlM—Free
+throws made; FT% —Free throw percentage; KB—Rebounds; PF—Personal
+fouls; TP—Total points; Ave.—Average.)
+Gary Van Galder. a guard from Fresno, paces the Stanford freshman
+basketball squad in scoring with 89 points, after the Papooses first nine
+games, official team statistics revealed yesterday. Van Galder is also the top
+shooter from the floor for Coach Dick Clegg's frosh with a 52 percent average.
+Jay Jackson, a forward from Eureka, is the runner-up to Van Galder,
+having tallied 86 points in the freshman's first nine games. Following Jack
+son in the scoring parade, are Clint Waring, a center from Stockton, with
+74, Tony Vigna, a guard from Gilroy, with (59, and Dean Thomas, a guard
+from Hollywood with 65.
+Thomas is the top foul shooter among the regulars on the squad with a
+77 percent mark from the charity stripe, while Jackson has gathered in the
+most rebounds, 66, and Thomas has committed the most personal fouls, 24.
+Waring has taken the most shots, 95.
+The Card frosh have won seven of their first nine contests this season,
+having defeated the USF Freshman, Fremont High of Oakland. Salinas
+High, Lowell High, Lincoln High of San Francisco, Menlo-Atherton High,
+and Menlo JC. They have dropped contests to East Contra Costa JC and
+the California Freshman.
+G FGA FG FG% FTA FTM FT% RB PF TP Ave.
+Gary Van Galder.. 9 67 .'{s 52 36 23 64 .'{9 14 89 9.9
+Jay Jackson 9 78 32 41 29 20 69 66 18 86 9.4
+Clint Waring 9 95 31 32 22 12 55 63 20 74 8.2
+Tony Vigna 9 70 30 43 14 9 64 31 11 69 7.7
+Dean Thomas 9 56 21 38 30 23 77 38 24 65 7.2
+Mike Gray 8 59 22 32 12 10 83 36 14 52 6.5
+Eric Anderson .... 9 39 15 39 8 6 75 12 14 36 4.0
+Tom Dyer 7 19 12 63 11 10 91 12 6 34 4.9
+Lee Leonard 8 39 13 33 16 8 50 28 9 34 4.3
+BuzzHoever 6 19 8 42 6 5 83 6 0 21 3.5
+Bob Johnson 8 29 7 24 13 4 31 32 12 18 2.3
+Harding Roe 6 19 7 37 3 2 67 9 5 16 2.7
+Pete LaChapelle .. 7 13 4 31 4 3 75 17 2 11 1.6
+Jerry Rose 4 18 3 17 4 2 50 5 2 8 2.0
+Pete Mansfield .... 1 2 2 100 2 2 100 2 0 6 6.0
+Dwight Doerr .... 1 5 2 40 0 0 .. 4 1 4 4.0
+Wally Honeywell ,3 8 2 25 2 0 0 2 0 4 1.3
+Team Totals 605 245 40 214 140 66 311 154 630 70.0
+Opponents' Totals . 557 166 30 260 170 65 261 138 508 56.4
+(Key: G—Games played; FGA—Field goals attempted; FG —Field goals;
+FG%—Field goal percentage; FTA—Free throws attempted; FlM—Free
+throws made; FT% —Free throw percentage; KB—Rebounds; PF—Personal
+fouls; TP—Total points; Ave.—Average.)
+Gary Van Galder. a guard from Fresno, paces the Stanford freshman
+basketball squad in scoring with 89 points, after the Papooses first nine
+games, official team statistics revealed yesterday. Van Galder is also the top
+shooter from the floor for Coach Dick Clegg's frosh with a 52 percent average.
+Jay Jackson, a forward from Eureka, is the runner-up to Van Galder,
+having tallied 86 points in the freshman's first nine games. Following Jack
+son in the scoring parade, are Clint Waring, a center from Stockton, with
+74, Tony Vigna, a guard from Gilroy, with (59, and Dean Thomas, a guard
+from Hollywood with 65.
+Thomas is the top foul shooter among the regulars on the squad with a
+77 percent mark from the charity stripe, while Jackson has gathered in the
+most rebounds, 66, and Thomas has committed the most personal fouls, 24.
+Waring has taken the most shots, 95.
+The Card frosh have won seven of their first nine contests this season,
+having defeated the USF Freshman, Fremont High of Oakland. Salinas
+High, Lowell High, Lincoln High of San Francisco, Menlo-Atherton High,
+and Menlo JC. They have dropped contests to East Contra Costa JC and
+the California Freshman.
+G FGA FG FG% FTA FTM FT% RB PF TP Ave.
+Gary Van Galder.. 9 67 .'{s 52 36 23 64 .'{9 14 89 9.9
+Jay Jackson 9 78 32 41 29 20 69 66 18 86 9.4
+Clint Waring 9 95 31 32 22 12 55 63 20 74 8.2
+Tony Vigna 9 70 30 43 14 9 64 31 11 69 7.7
+Dean Thomas 9 56 21 38 30 23 77 38 24 65 7.2
+Mike Gray 8 59 22 32 12 10 83 36 14 52 6.5
+Eric Anderson .... 9 39 15 39 8 6 75 12 14 36 4.0
+Tom Dyer 7 19 12 63 11 10 91 12 6 34 4.9
+Lee Leonard 8 39 13 33 16 8 50 28 9 34 4.3
+BuzzHoever 6 19 8 42 6 5 83 6 0 21 3.5
+Bob Johnson 8 29 7 24 13 4 31 32 12 18 2.3
+Harding Roe 6 19 7 37 3 2 67 9 5 16 2.7
+Pete LaChapelle .. 7 13 4 31 4 3 75 17 2 11 1.6
+Jerry Rose 4 18 3 17 4 2 50 5 2 8 2.0
+Pete Mansfield .... 1 2 2 100 2 2 100 2 0 6 6.0
+Dwight Doerr .... 1 5 2 40 0 0 .. 4 1 4 4.0
+Wally Honeywell ,3 8 2 25 2 0 0 2 0 4 1.3
+Team Totals 605 245 40 214 140 66 311 154 630 70.0
+Opponents' Totals . 557 166 30 260 170 65 261 138 508 56.4
+(Key: G—Games played; FGA—Field goals attempted; FG —Field goals;
+FG%—Field goal percentage; FTA—Free throws attempted; FlM—Free
+throws made; FT% —Free throw percentage; KB—Rebounds; PF—Personal
+fouls; TP—Total points; Ave.—Average.)
+Gary Van Galder. a guard from Fresno, paces the Stanford freshman
+basketball squad in scoring with 89 points, after the Papooses first nine
+games, official team statistics revealed yesterday. Van Galder is also the top
+shooter from the floor for Coach Dick Clegg's frosh with a 52 percent average.
+Jay Jackson, a forward from Eureka, is the runner-up to Van Galder,
+having tallied 86 points in the freshman's first nine games. Following Jack
+son in the scoring parade, are Clint Waring, a center from Stockton, with
+74, Tony Vigna, a guard from Gilroy, with (59, and Dean Thomas, a guard
+from Hollywood with 65.
+Thomas is the top foul shooter among the regulars on the squad with a
+77 percent mark from the charity stripe, while Jackson has gathered in the
+most rebounds, 66, and Thomas has committed the most personal fouls, 24.
+Waring has taken the most shots, 95.
+The Card frosh have won seven of their first nine contests this season,
+having defeated the USF Freshman, Fremont High of Oakland. Salinas
+High, Lowell High, Lincoln High of San Francisco, Menlo-Atherton High,
+and Menlo JC. They have dropped contests to East Contra Costa JC and
+the California Freshman.
+G FGA FG FG% FTA FTM FT% RB PF TP Ave.
+Gary Van Galder.. 9 67 .'{s 52 36 23 64 .'{9 14 89 9.9
+Jay Jackson 9 78 32 41 29 20 69 66 18 86 9.4
+Clint Waring 9 95 31 32 22 12 55 63 20 74 8.2
+Tony Vigna 9 70 30 43 14 9 64 31 11 69 7.7
+Dean Thomas 9 56 21 38 30 23 77 38 24 65 7.2
+Mike Gray 8 59 22 32 12 10 83 36 14 52 6.5
+Eric Anderson .... 9 39 15 39 8 6 75 12 14 36 4.0
+Tom Dyer 7 19 12 63 11 10 91 12 6 34 4.9
+Lee Leonard 8 39 13 33 16 8 50 28 9 34 4.3
+BuzzHoever 6 19 8 42 6 5 83 6 0 21 3.5
+Bob Johnson 8 29 7 24 13 4 31 32 12 18 2.3
+Harding Roe 6 19 7 37 3 2 67 9 5 16 2.7
+Pete LaChapelle .. 7 13 4 31 4 3 75 17 2 11 1.6
+Jerry Rose 4 18 3 17 4 2 50 5 2 8 2.0
+Pete Mansfield .... 1 2 2 100 2 2 100 2 0 6 6.0
+Dwight Doerr .... 1 5 2 40 0 0 .. 4 1 4 4.0
+Wally Honeywell ,3 8 2 25 2 0 0 2 0 4 1.3
+Team Totals 605 245 40 214 140 66 311 154 630 70.0
+Opponents' Totals . 557 166 30 260 170 65 261 138 508 56.4
+(Key: G—Games played; FGA—Field goals attempted; FG —Field goals;
+FG%—Field goal percentage; FTA—Free throws attempted; FlM—Free
+throws made; FT% —Free throw percentage; KB—Rebounds; PF—Personal
+fouls; TP—Total points; Ave.—Average.)
+Gary Van Galder. a guard from Fresno, paces the Stanford freshman
+basketball squad in scoring with 89 points, after the Papooses first nine
+games, official team statistics revealed yesterday. Van Galder is also the top
+shooter from the floor for Coach Dick Clegg's frosh with a 52 percent average.
+Jay Jackson, a forward from Eureka, is the runner-up to Van Galder,
+having tallied 86 points in the freshman's first nine games. Following Jack
+son in the scoring parade, are Clint Waring, a center from Stockton, with
+74, Tony Vigna, a guard from Gilroy, with (59, and Dean Thomas, a guard
+from Hollywood with 65.
+Thomas is the top foul shooter among the regulars on the squad with a
+77 percent mark from the charity stripe, while Jackson has gathered in the
+most rebounds, 66, and Thomas has committed the most personal fouls, 24.
+Waring has taken the most shots, 95.
+The Card frosh have won seven of their first nine contests this season,
+having defeated the USF Freshman, Fremont High of Oakland. Salinas
+High, Lowell High, Lincoln High of San Francisco, Menlo-Atherton High,
+and Menlo JC. They have dropped contests to East Contra Costa JC and
+the California Freshman.
+G FGA FG FG% FTA FTM FT% RB PF TP Ave.
+Gary Van Galder.. 9 67 .'{s 52 36 23 64 .'{9 14 89 9.9
+Jay Jackson 9 78 32 41 29 20 69 66 18 86 9.4
+Clint Waring 9 95 31 32 22 12 55 63 20 74 8.2
+Tony Vigna 9 70 30 43 14 9 64 31 11 69 7.7
+Dean Thomas 9 56 21 38 30 23 77 38 24 65 7.2
+Mike Gray 8 59 22 32 12 10 83 36 14 52 6.5
+Eric Anderson .... 9 39 15 39 8 6 75 12 14 36 4.0
+Tom Dyer 7 19 12 63 11 10 91 12 6 34 4.9
+Lee Leonard 8 39 13 33 16 8 50 28 9 34 4.3
+BuzzHoever 6 19 8 42 6 5 83 6 0 21 3.5
+Bob Johnson 8 29 7 24 13 4 31 32 12 18 2.3
+Harding Roe 6 19 7 37 3 2 67 9 5 16 2.7
+Pete LaChapelle .. 7 13 4 31 4 3 75 17 2 11 1.6
+Jerry Rose 4 18 3 17 4 2 50 5 2 8 2.0
+Pete Mansfield .... 1 2 2 100 2 2 100 2 0 6 6.0
+Dwight Doerr .... 1 5 2 40 0 0 .. 4 1 4 4.0
+Wally Honeywell ,3 8 2 25 2 0 0 2 0 4 1.3
+Team Totals 605 245 40 214 140 66 311 154 630 70.0
+Opponents' Totals . 557 166 30 260 170 65 261 138 508 56.4
+(Key: G—Games played; FGA—Field goals attempted; FG —Field goals;
+FG%—Field goal percentage; FTA—Free throws attempted; FlM—Free
+throws made; FT% —Free throw percentage; KB—Rebounds; PF—Personal
+fouls; TP—Total points; Ave.—Average.)
+Gary Van Galder. a guard from Fresno, paces the Stanford freshman
+basketball squad in scoring with 89 points, after the Papooses first nine
+games, official team statistics revealed yesterday. Van Galder is also the top
+shooter from the floor for Coach Dick Clegg's frosh with a 52 percent average.
+Jay Jackson, a forward from Eureka, is the runner-up to Van Galder,
+having tallied 86 points in the freshman's first nine games. Following Jack
+son in the scoring parade, are Clint Waring, a center from Stockton, with
+74, Tony Vigna, a guard from Gilroy, with (59, and Dean Thomas, a guard
+from Hollywood with 65.
+Thomas is the top foul shooter among the regulars on the squad with a
+77 percent mark from the charity stripe, while Jackson has gathered in the
+most rebounds, 66, and Thomas has committed the most personal fouls, 24.
+Waring has taken the most shots, 95.
+The Card frosh have won seven of their first nine contests this season,
+having defeated the USF Freshman, Fremont High of Oakland. Salinas
+High, Lowell High, Lincoln High of San Francisco, Menlo-Atherton High,
+and Menlo JC. They have dropped contests to East Contra Costa JC and
+the California Freshman.
+G FGA FG FG% FTA FTM FT% RB PF TP Ave.
+Gary Van Galder.. 9 67 .'{s 52 36 23 64 .'{9 14 89 9.9
+Jay Jackson 9 78 32 41 29 20 69 66 18 86 9.4
+Clint Waring 9 95 31 32 22 12 55 63 20 74 8.2
+Tony Vigna 9 70 30 43 14 9 64 31 11 69 7.7
+Dean Thomas 9 56 21 38 30 23 77 38 24 65 7.2
+Mike Gray 8 59 22 32 12 10 83 36 14 52 6.5
+Eric Anderson .... 9 39 15 39 8 6 75 12 14 36 4.0
+Tom Dyer 7 19 12 63 11 10 91 12 6 34 4.9
+Lee Leonard 8 39 13 33 16 8 50 28 9 34 4.3
+BuzzHoever 6 19 8 42 6 5 83 6 0 21 3.5
+Bob Johnson 8 29 7 24 13 4 31 32 12 18 2.3
+Harding Roe 6 19 7 37 3 2 67 9 5 16 2.7
+Pete LaChapelle .. 7 13 4 31 4 3 75 17 2 11 1.6
+Jerry Rose 4 18 3 17 4 2 50 5 2 8 2.0
+Pete Mansfield .... 1 2 2 100 2 2 100 2 0 6 6.0
+Dwight Doerr .... 1 5 2 40 0 0 .. 4 1 4 4.0
+Wally Honeywell ,3 8 2 25 2 0 0 2 0 4 1.3
+Team Totals 605 245 40 214 140 66 311 154 630 70.0
+Opponents' Totals . 557 166 30 260 170 65 261 138 508 56.4
+(Key: G—Games played; FGA—Field goals attempted; FG —Field goals;
+FG%—Field goal percentage; FTA—Free throws attempted; FlM—Free
+throws made; FT% —Free throw percentage; KB—Rebounds; PF—Personal
+fouls; TP—Total points; Ave.—Average.)
+Gary Van Galder. a guard from Fresno, paces the Stanford freshman
+basketball squad in scoring with 89 points, after the Papooses first nine
+games, official team statistics revealed yesterday. Van Galder is also the top
+shooter from the floor for Coach Dick Clegg's frosh with a 52 percent average.
+Jay Jackson, a forward from Eureka, is the runner-up to Van Galder,
+having tallied 86 points in the freshman's first nine games. Following Jack
+son in the scoring parade, are Clint Waring, a center from Stockton, with
+74, Tony Vigna, a guard from Gilroy, with (59, and Dean Thomas, a guard
+from Hollywood with 65.
+Thomas is the top foul shooter among the regulars on the squad with a
+77 percent mark from the charity stripe, while Jackson has gathered in the
+most rebounds, 66, and Thomas has committed the most personal fouls, 24.
+Waring has taken the most shots, 95.
+The Card frosh have won seven of their first nine contests this season,
+having defeated the USF Freshman, Fremont High of Oakland. Salinas
+High, Lowell High, Lincoln High of San Francisco, Menlo-Atherton High,
+and Menlo JC. They have dropped contests to East Contra Costa JC and
+the California Freshman.
+G FGA FG FG% FTA FTM FT% RB PF TP Ave.
+Gary Van Galder.. 9 67 .'{s 52 36 23 64 .'{9 14 89 9.9
+Jay Jackson 9 78 32 41 29 20 69 66 18 86 9.4
+Clint Waring 9 95 31 32 22 12 55 63 20 74 8.2
+Tony Vigna 9 70 30 43 14 9 64 31 11 69 7.7
+Dean Thomas 9 56 21 38 30 23 77 38 24 65 7.2
+Mike Gray 8 59 22 32 12 10 83 36 14 52 6.5
+Eric Anderson .... 9 39 15 39 8 6 75 12 14 36 4.0
+Tom Dyer 7 19 12 63 11 10 91 12 6 34 4.9
+Lee Leonard 8 39 13 33 16 8 50 28 9 34 4.3
+BuzzHoever 6 19 8 42 6 5 83 6 0 21 3.5
+Bob Johnson 8 29 7 24 13 4 31 32 12 18 2.3
+Harding Roe 6 19 7 37 3 2 67 9 5 16 2.7
+Pete LaChapelle .. 7 13 4 31 4 3 75 17 2 11 1.6
+Jerry Rose 4 18 3 17 4 2 50 5 2 8 2.0
+Pete Mansfield .... 1 2 2 100 2 2 100 2 0 6 6.0
+Dwight Doerr .... 1 5 2 40 0 0 .. 4 1 4 4.0
+Wally Honeywell ,3 8 2 25 2 0 0 2 0 4 1.3
+Team Totals 605 245 40 214 140 66 311 154 630 70.0
+Opponents' Totals . 557 166 30 260 170 65 261 138 508 56.4
+(Key: G—Games played; FGA—Field goals attempted; FG —Field goals;
+FG%—Field goal percentage; FTA—Free throws attempted; FlM—Free
+throws made; FT% —Free throw percentage; KB—Rebounds; PF—Personal
+fouls; TP—Total points; Ave.—Average.)
+Gary Van Galder. a guard from Fresno, paces the Stanford freshman
+basketball squad in scoring with 89 points, after the Papooses first nine
+games, official team statistics revealed yesterday. Van Galder is also the top
+shooter from the floor for Coach Dick Clegg's frosh with a 52 percent average.
+Jay Jackson, a forward from Eureka, is the runner-up to Van Galder,
+having tallied 86 points in the freshman's first nine games. Following Jack
+son in the scoring parade, are Clint Waring, a center from Stockton, with
+74, Tony Vigna, a guard from Gilroy, with (59, and Dean Thomas, a guard
+from Hollywood with 65.
+Thomas is the top foul shooter among the regulars on the squad with a
+77 percent mark from the charity stripe, while Jackson has gathered in the
+most rebounds, 66, and Thomas has committed the most personal fouls, 24.
+Waring has taken the most shots, 95.
+The Card frosh have won seven of their first nine contests this season,
+having defeated the USF Freshman, Fremont High of Oakland. Salinas
+High, Lowell High, Lincoln High of San Francisco, Menlo-Atherton High,
+and Menlo JC. They have dropped contests to East Contra Costa JC and
+the California Freshman.
+G FGA FG FG% FTA FTM FT% RB PF TP Ave.
+Gary Van Galder.. 9 67 .'{s 52 36 23 64 .'{9 14 89 9.9
+Jay Jackson 9 78 32 41 29 20 69 66 18 86 9.4
+Clint Waring 9 95 31 32 22 12 55 63 20 74 8.2
+Tony Vigna 9 70 30 43 14 9 64 31 11 69 7.7
+Dean Thomas 9 56 21 38 30 23 77 38 24 65 7.2
+Mike Gray 8 59 22 32 12 10 83 36 14 52 6.5
+Eric Anderson .... 9 39 15 39 8 6 75 12 14 36 4.0
+Tom Dyer 7 19 12 63 11 10 91 12 6 34 4.9
+Lee Leonard 8 39 13 33 16 8 50 28 9 34 4.3
+BuzzHoever 6 19 8 42 6 5 83 6 0 21 3.5
+Bob Johnson 8 29 7 24 13 4 31 32 12 18 2.3
+Harding Roe 6 19 7 37 3 2 67 9 5 16 2.7
+Pete LaChapelle .. 7 13 4 31 4 3 75 17 2 11 1.6
+Jerry Rose 4 18 3 17 4 2 50 5 2 8 2.0
+Pete Mansfield .... 1 2 2 100 2 2 100 2 0 6 6.0
+Dwight Doerr .... 1 5 2 40 0 0 .. 4 1 4 4.0
+Wally Honeywell ,3 8 2 25 2 0 0 2 0 4 1.3
+Team Totals 605 245 40 214 140 66 311 154 630 70.0
+Opponents' Totals . 557 166 30 260 170 65 261 138 508 56.4
+(Key: G—Games played; FGA—Field goals attempted; FG —Field goals;
+FG%—Field goal percentage; FTA—Free throws attempted; FlM—Free
+throws made; FT% —Free throw percentage; KB—Rebounds; PF—Personal
+fouls; TP—Total points; Ave.—Average.)
+Gary Van Galder. a guard from Fresno, paces the Stanford freshman
+basketball squad in scoring with 89 points, after the Papooses first nine
+games, official team statistics revealed yesterday. Van Galder is also the top
+shooter from the floor for Coach Dick Clegg's frosh with a 52 percent average.
+Jay Jackson, a forward from Eureka, is the runner-up to Van Galder,
+having tallied 86 points in the freshman's first nine games. Following Jack
+son in the scoring parade, are Clint Waring, a center from Stockton, with
+74, Tony Vigna, a guard from Gilroy, with (59, and Dean Thomas, a guard
+from Hollywood with 65.
+Thomas is the top foul shooter among the regulars on the squad with a
+77 percent mark from the charity stripe, while Jackson has gathered in the
+most rebounds, 66, and Thomas has committed the most personal fouls, 24.
+Waring has taken the most shots, 95.
+The Card frosh have won seven of their first nine contests this season,
+having defeated the USF Freshman, Fremont High of Oakland. Salinas
+High, Lowell High, Lincoln High of San Francisco, Menlo-Atherton High,
+and Menlo JC. They have dropped contests to East Contra Costa JC and
+the California Freshman.
+G FGA FG FG% FTA FTM FT% RB PF TP Ave.
+Gary Van Galder.. 9 67 .'{s 52 36 23 64 .'{9 14 89 9.9
+Jay Jackson 9 78 32 41 29 20 69 66 18 86 9.4
+Clint Waring 9 95 31 32 22 12 55 63 20 74 8.2
+Tony Vigna 9 70 30 43 14 9 64 31 11 69 7.7
+Dean Thomas 9 56 21 38 30 23 77 38 24 65 7.2
+Mike Gray 8 59 22 32 12 10 83 36 14 52 6.5
+Eric Anderson .... 9 39 15 39 8 6 75 12 14 36 4.0
+Tom Dyer 7 19 12 63 11 10 91 12 6 34 4.9
+Lee Leonard 8 39 13 33 16 8 50 28 9 34 4.3
+BuzzHoever 6 19 8 42 6 5 83 6 0 21 3.5
+Bob Johnson 8 29 7 24 13 4 31 32 12 18 2.3
+Harding Roe 6 19 7 37 3 2 67 9 5 16 2.7
+Pete LaChapelle .. 7 13 4 31 4 3 75 17 2 11 1.6
+Jerry Rose 4 18 3 17 4 2 50 5 2 8 2.0
+Pete Mansfield .... 1 2 2 100 2 2 100 2 0 6 6.0
+Dwight Doerr .... 1 5 2 40 0 0 .. 4 1 4 4.0
+Wally Honeywell ,3 8 2 25 2 0 0 2 0 4 1.3
+Team Totals 605 245 40 214 140 66 311 154 630 70.0
+Opponents' Totals . 557 166 30 260 170 65 261 138 508 56.4
+(Key: G—Games played; FGA—Field goals attempted; FG —Field goals;
+FG%—Field goal percentage; FTA—Free throws attempted; FlM—Free
+throws made; FT% —Free throw percentage; KB—Rebounds; PF—Personal
+fouls; TP—Total points; Ave.—Average.)
+Gary Van Galder. a guard from Fresno, paces the Stanford freshman
+basketball squad in scoring with 89 points, after the Papooses first nine
+games, official team statistics revealed yesterday. Van Galder is also the top
+shooter from the floor for Coach Dick Clegg's frosh with a 52 percent average.
+Jay Jackson, a forward from Eureka, is the runner-up to Van Galder,
+having tallied 86 points in the freshman's first nine games. Following Jack
+son in the scoring parade, are Clint Waring, a center from Stockton, with
+74, Tony Vigna, a guard from Gilroy, with (59, and Dean Thomas, a guard
+from Hollywood with 65.
+Thomas is the top foul shooter among the regulars on the squad with a
+77 percent mark from the charity stripe, while Jackson has gathered in the
+most rebounds, 66, and Thomas has committed the most personal fouls, 24.
+Waring has taken the most shots, 95.
+The Card frosh have won seven of their first nine contests this season,
+having defeated the USF Freshman, Fremont High of Oakland. Salinas
+High, Lowell High, Lincoln High of San Francisco, Menlo-Atherton High,
+and Menlo JC. They have dropped contests to East Contra Costa JC and
+the California Freshman.
+G FGA FG FG% FTA FTM FT% RB PF TP Ave.
+Gary Van Galder.. 9 67 .'{s 52 36 23 64 .'{9 14 89 9.9
+Jay Jackson 9 78 32 41 29 20 69 66 18 86 9.4
+Clint Waring 9 95 31 32 22 12 55 63 20 74 8.2
+Tony Vigna 9 70 30 43 14 9 64 31 11 69 7.7
+Dean Thomas 9 56 21 38 30 23 77 38 24 65 7.2
+Mike Gray 8 59 22 32 12 10 83 36 14 52 6.5
+Eric Anderson .... 9 39 15 39 8 6 75 12 14 36 4.0
+Tom Dyer 7 19 12 63 11 10 91 12 6 34 4.9
+Lee Leonard 8 39 13 33 16 8 50 28 9 34 4.3
+BuzzHoever 6 19 8 42 6 5 83 6 0 21 3.5
+Bob Johnson 8 29 7 24 13 4 31 32 12 18 2.3
+Harding Roe 6 19 7 37 3 2 67 9 5 16 2.7
+Pete LaChapelle .. 7 13 4 31 4 3 75 17 2 11 1.6
+Jerry Rose 4 18 3 17 4 2 50 5 2 8 2.0
+Pete Mansfield .... 1 2 2 100 2 2 100 2 0 6 6.0
+Dwight Doerr .... 1 5 2 40 0 0 .. 4 1 4 4.0
+Wally Honeywell ,3 8 2 25 2 0 0 2 0 4 1.3
+Team Totals 605 245 40 214 140 66 311 154 630 70.0
+Opponents' Totals . 557 166 30 260 170 65 261 138 508 56.4
+(Key: G—Games played; FGA—Field goals attempted; FG —Field goals;
+FG%—Field goal percentage; FTA—Free throws attempted; FlM—Free
+throws made; FT% —Free throw percentage; KB—Rebounds; PF—Personal
+fouls; TP—Total points; Ave.—Average.)
+Gary Van Galder. a guard from Fresno, paces the Stanford freshman
+basketball squad in scoring with 89 points, after the Papooses first nine
+games, official team statistics revealed yesterday. Van Galder is also the top
+shooter from the floor for Coach Dick Clegg's frosh with a 52 percent average.
+Jay Jackson, a forward from Eureka, is the runner-up to Van Galder,
+having tallied 86 points in the freshman's first nine games. Following Jack
+son in the scoring parade, are Clint Waring, a center from Stockton, with
+74, Tony Vigna, a guard from Gilroy, with (59, and Dean Thomas, a guard
+from Hollywood with 65.
+Thomas is the top foul shooter among the regulars on the squad with a
+77 percent mark from the charity stripe, while Jackson has gathered in the
+most rebounds, 66, and Thomas has committed the most personal fouls, 24.
+Waring has taken the most shots, 95.
+The Card frosh have won seven of their first nine contests this season,
+having defeated the USF Freshman, Fremont High of Oakland. Salinas
+High, Lowell High, Lincoln High of San Francisco, Menlo-Atherton High,
+and Menlo JC. They have dropped contests to East Contra Costa JC and
+the California Freshman.
+G FGA FG FG% FTA FTM FT% RB PF TP Ave.
+Gary Van Galder.. 9 67 .'{s 52 36 23 64 .'{9 14 89 9.9
+Jay Jackson 9 78 32 41 29 20 69 66 18 86 9.4
+Clint Waring 9 95 31 32 22 12 55 63 20 74 8.2
+Tony Vigna 9 70 30 43 14 9 64 31 11 69 7.7
+Dean Thomas 9 56 21 38 30 23 77 38 24 65 7.2
+Mike Gray 8 59 22 32 12 10 83 36 14 52 6.5
+Eric Anderson .... 9 39 15 39 8 6 75 12 14 36 4.0
+Tom Dyer 7 19 12 63 11 10 91 12 6 34 4.9
+Lee Leonard 8 39 13 33 16 8 50 28 9 34 4.3
+BuzzHoever 6 19 8 42 6 5 83 6 0 21 3.5
+Bob Johnson 8 29 7 24 13 4 31 32 12 18 2.3
+Harding Roe 6 19 7 37 3 2 67 9 5 16 2.7
+Pete LaChapelle .. 7 13 4 31 4 3 75 17 2 11 1.6
+Jerry Rose 4 18 3 17 4 2 50 5 2 8 2.0
+Pete Mansfield .... 1 2 2 100 2 2 100 2 0 6 6.0
+Dwight Doerr .... 1 5 2 40 0 0 .. 4 1 4 4.0
+Wally Honeywell ,3 8 2 25 2 0 0 2 0 4 1.3
+Team Totals 605 245 40 214 140 66 311 154 630 70.0
+Opponents' Totals . 557 166 30 260 170 65 261 138 508 56.4
+(Key: G—Games played; FGA—Field goals attempted; FG —Field goals;
+FG%—Field goal percentage; FTA—Free throws attempted; FlM—Free
+throws made; FT% —Free throw percentage; KB—Rebounds; PF—Personal
+fouls; TP—Total points; Ave.—Average.)

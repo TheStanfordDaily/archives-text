@@ -1,0 +1,1243 @@
+# RESEARCH
+## Research finds personal info in metadata Discovery suggests that NSA program can identify behavioral patterns 
+### CATHERINE ZAW MANAGING EDITOR 
+According to new research by two Stan
+ford doctoral students, the National Security
+Agency's (NSA) mass surveillance of tele
+phone metadata could potentially reveal much
+more detailed information about consumers'
+private lives than what the federal govern
+ment has claimed.
+Based just on the phone records of 546 vol
+unteers, Jonathan Mayer J.D. 'l2 Ph.D. 'l6
+and Patrick Mutchler Ph.D. 'l6 were able to
+draw a number of conclusions about those vol
+unteers' activities based solely on the phone
+metadata, which includes the phone number
+of the caller and recipient, the serial numbers
+of the phones involved, as well as the time, du
+ration and potential location of each person
+when the call occurred.
+The concern about metadata has surged
+since last summer's revelations about the
+NSA's surveillance of Ameri
+can citizens. Beginning in
+September of last year, ac
+cording to Mutchler, the two
+researchers set out to find
+out exactly how much could
+be learned from the metada
+ta that was the agency had
+access to.
+"What we wanted to do
+was basically figure out ex
+actly what you could learn
+about someone, or at least a
+lower bound of what you
+could learn about someone
+with this information,"
+Mutchler said. "So we built
+an app that allowed people to
+volunteer their metadata to
+us and basically had their
+phone logs going back a cou
+ple months."
+Mayer and Mutchler
+were able to draw a number
+of facts from the volunteered
+information by conducting
+an analysis of individual calls
+made by the volunteers.
+Through the crowd
+sourced data, it was deter
+mined that 57 percent of the
+volunteers made at least one
+medical call and that 40 per
+cent of the calls were related
+to financial services.
+
+"We were able to identify
+a number of patterns that
+were highly indicative of
+sensitive activities or traits,"
+Mayer said, offering an ex
+ample of one participant that
+had contacted several local
+neurology groups, a special
+ty pharmacy, a rare-condi
+tion management service
+and a pharmaceutical hotline
+
+used for multiple sclerosis.
+According to Mayer, the
+research shows that metada
+ta from phone calls can offer
+a multitude of information
+about family, political, pro
+fessional, religious and even
+sexual associations, among
+other details.
+However, the fact that
+the researchers were able to
+find out that much informa
+tion wasn't a surprise, ac
+cording to Mutchler. He
+mentioned that neither of
+them had reached out to
+their participants about the
+results of their research.
+"We've adjusted our app
+a bit to give them a little bit of
+automated feedback about
+what businesses and people
+who were able to identify in
+their call logs, but we haven't
+actually asked the people
+how they felt about these
+things," Mutchler said.
+
+"Though, if I were to guess,
+they would all be upset be
+cause the people that sign up
+for our app tend to be people
+that are very privacy-aware
+and see the NSA as invading
+their privacy, so I would
+imagine that these particular
+people would be very upset.
+But I don't know if that nec
+essarily that would general
+ize to the [whole] popula
+tion."
+Regardless, the research
+contributes to the public
+knowledge about the poten
+tial of phone metadata.
+"I think that this have
+and will continue to inform
+people about the nature of
+metadata and what it means
+to collect data," said John
+Mitchell, the researchers'
+faculty advisor. "I think most
+people have a sense that
+showing your phone bill to
+someone else might say
+
+something about what your
+issues were and what you
+were actively lately con
+cerned about, that you can
+reasonably draw conclusions
+[from the metadata]."
+Mutchler also expressed
+similar sentiments about
+public opinion.
+"The goal here really is
+that if we're going to have a
+national discussion about
+this topic, it's very important
+to have facts about it,"
+Mutchler said. "This makes
+it harder for people that are
+trying to claim things that
+are untrue sort of get
+away with it and it also
+makes it so that people are
+more informed. They're able
+to make the more informed
+decisions about how they
+feel about these programs."
+
+Contact Catherine Zaw at
+czawl 3 @ Stanford, edu.
+
+
+Courtesy of Stanford News Service
+Stanford researchers Jonathan Mayer J.D. '12 Ph.D. '16 and Patrick Mutchler '16 were
+able to draw conclusions about their volunteers' personal lives based on metadata.
+According to new research by two Stan
+ford doctoral students, the National Security
+Agency's (NSA) mass surveillance of tele
+phone metadata could potentially reveal much
+more detailed information about consumers'
+private lives than what the federal govern
+ment has claimed.
+Based just on the phone records of 546 vol
+unteers, Jonathan Mayer J.D. 'l2 Ph.D. 'l6
+and Patrick Mutchler Ph.D. 'l6 were able to
+draw a number of conclusions about those vol
+unteers' activities based solely on the phone
+metadata, which includes the phone number
+of the caller and recipient, the serial numbers
+of the phones involved, as well as the time, du
+ration and potential location of each person
+when the call occurred.
+The concern about metadata has surged
+since last summer's revelations about the
+NSA's surveillance of Ameri
+can citizens. Beginning in
+September of last year, ac
+cording to Mutchler, the two
+researchers set out to find
+out exactly how much could
+be learned from the metada
+ta that was the agency had
+access to.
+"What we wanted to do
+was basically figure out ex
+actly what you could learn
+about someone, or at least a
+lower bound of what you
+could learn about someone
+with this information,"
+Mutchler said. "So we built
+an app that allowed people to
+volunteer their metadata to
+us and basically had their
+phone logs going back a cou
+ple months."
+Mayer and Mutchler
+were able to draw a number
+of facts from the volunteered
+information by conducting
+an analysis of individual calls
+made by the volunteers.
+Through the crowd
+sourced data, it was deter
+mined that 57 percent of the
+volunteers made at least one
+medical call and that 40 per
+cent of the calls were related
+to financial services.
+
+"We were able to identify
+a number of patterns that
+were highly indicative of
+sensitive activities or traits,"
+Mayer said, offering an ex
+ample of one participant that
+had contacted several local
+neurology groups, a special
+ty pharmacy, a rare-condi
+tion management service
+and a pharmaceutical hotline
+
+used for multiple sclerosis.
+According to Mayer, the
+research shows that metada
+ta from phone calls can offer
+a multitude of information
+about family, political, pro
+fessional, religious and even
+sexual associations, among
+other details.
+However, the fact that
+the researchers were able to
+find out that much informa
+tion wasn't a surprise, ac
+cording to Mutchler. He
+mentioned that neither of
+them had reached out to
+their participants about the
+results of their research.
+"We've adjusted our app
+a bit to give them a little bit of
+automated feedback about
+what businesses and people
+who were able to identify in
+their call logs, but we haven't
+actually asked the people
+how they felt about these
+things," Mutchler said.
+
+"Though, if I were to guess,
+they would all be upset be
+cause the people that sign up
+for our app tend to be people
+that are very privacy-aware
+and see the NSA as invading
+their privacy, so I would
+imagine that these particular
+people would be very upset.
+But I don't know if that nec
+essarily that would general
+ize to the [whole] popula
+tion."
+Regardless, the research
+contributes to the public
+knowledge about the poten
+tial of phone metadata.
+"I think that this have
+and will continue to inform
+people about the nature of
+metadata and what it means
+to collect data," said John
+Mitchell, the researchers'
+faculty advisor. "I think most
+people have a sense that
+showing your phone bill to
+someone else might say
+
+something about what your
+issues were and what you
+were actively lately con
+cerned about, that you can
+reasonably draw conclusions
+[from the metadata]."
+Mutchler also expressed
+similar sentiments about
+public opinion.
+"The goal here really is
+that if we're going to have a
+national discussion about
+this topic, it's very important
+to have facts about it,"
+Mutchler said. "This makes
+it harder for people that are
+trying to claim things that
+are untrue sort of get
+away with it and it also
+makes it so that people are
+more informed. They're able
+to make the more informed
+decisions about how they
+feel about these programs."
+
+Contact Catherine Zaw at
+czawl 3 @ Stanford, edu.
+
+
+Courtesy of Stanford News Service
+Stanford researchers Jonathan Mayer J.D. '12 Ph.D. '16 and Patrick Mutchler '16 were
+able to draw conclusions about their volunteers' personal lives based on metadata.
+According to new research by two Stan
+ford doctoral students, the National Security
+Agency's (NSA) mass surveillance of tele
+phone metadata could potentially reveal much
+more detailed information about consumers'
+private lives than what the federal govern
+ment has claimed.
+Based just on the phone records of 546 vol
+unteers, Jonathan Mayer J.D. 'l2 Ph.D. 'l6
+and Patrick Mutchler Ph.D. 'l6 were able to
+draw a number of conclusions about those vol
+unteers' activities based solely on the phone
+metadata, which includes the phone number
+of the caller and recipient, the serial numbers
+of the phones involved, as well as the time, du
+ration and potential location of each person
+when the call occurred.
+The concern about metadata has surged
+since last summer's revelations about the
+NSA's surveillance of Ameri
+can citizens. Beginning in
+September of last year, ac
+cording to Mutchler, the two
+researchers set out to find
+out exactly how much could
+be learned from the metada
+ta that was the agency had
+access to.
+"What we wanted to do
+was basically figure out ex
+actly what you could learn
+about someone, or at least a
+lower bound of what you
+could learn about someone
+with this information,"
+Mutchler said. "So we built
+an app that allowed people to
+volunteer their metadata to
+us and basically had their
+phone logs going back a cou
+ple months."
+Mayer and Mutchler
+were able to draw a number
+of facts from the volunteered
+information by conducting
+an analysis of individual calls
+made by the volunteers.
+Through the crowd
+sourced data, it was deter
+mined that 57 percent of the
+volunteers made at least one
+medical call and that 40 per
+cent of the calls were related
+to financial services.
+
+"We were able to identify
+a number of patterns that
+were highly indicative of
+sensitive activities or traits,"
+Mayer said, offering an ex
+ample of one participant that
+had contacted several local
+neurology groups, a special
+ty pharmacy, a rare-condi
+tion management service
+and a pharmaceutical hotline
+
+used for multiple sclerosis.
+According to Mayer, the
+research shows that metada
+ta from phone calls can offer
+a multitude of information
+about family, political, pro
+fessional, religious and even
+sexual associations, among
+other details.
+However, the fact that
+the researchers were able to
+find out that much informa
+tion wasn't a surprise, ac
+cording to Mutchler. He
+mentioned that neither of
+them had reached out to
+their participants about the
+results of their research.
+"We've adjusted our app
+a bit to give them a little bit of
+automated feedback about
+what businesses and people
+who were able to identify in
+their call logs, but we haven't
+actually asked the people
+how they felt about these
+things," Mutchler said.
+
+"Though, if I were to guess,
+they would all be upset be
+cause the people that sign up
+for our app tend to be people
+that are very privacy-aware
+and see the NSA as invading
+their privacy, so I would
+imagine that these particular
+people would be very upset.
+But I don't know if that nec
+essarily that would general
+ize to the [whole] popula
+tion."
+Regardless, the research
+contributes to the public
+knowledge about the poten
+tial of phone metadata.
+"I think that this have
+and will continue to inform
+people about the nature of
+metadata and what it means
+to collect data," said John
+Mitchell, the researchers'
+faculty advisor. "I think most
+people have a sense that
+showing your phone bill to
+someone else might say
+
+something about what your
+issues were and what you
+were actively lately con
+cerned about, that you can
+reasonably draw conclusions
+[from the metadata]."
+Mutchler also expressed
+similar sentiments about
+public opinion.
+"The goal here really is
+that if we're going to have a
+national discussion about
+this topic, it's very important
+to have facts about it,"
+Mutchler said. "This makes
+it harder for people that are
+trying to claim things that
+are untrue sort of get
+away with it and it also
+makes it so that people are
+more informed. They're able
+to make the more informed
+decisions about how they
+feel about these programs."
+
+Contact Catherine Zaw at
+czawl 3 @ Stanford, edu.
+
+
+Courtesy of Stanford News Service
+Stanford researchers Jonathan Mayer J.D. '12 Ph.D. '16 and Patrick Mutchler '16 were
+able to draw conclusions about their volunteers' personal lives based on metadata.
+According to new research by two Stan
+ford doctoral students, the National Security
+Agency's (NSA) mass surveillance of tele
+phone metadata could potentially reveal much
+more detailed information about consumers'
+private lives than what the federal govern
+ment has claimed.
+Based just on the phone records of 546 vol
+unteers, Jonathan Mayer J.D. 'l2 Ph.D. 'l6
+and Patrick Mutchler Ph.D. 'l6 were able to
+draw a number of conclusions about those vol
+unteers' activities based solely on the phone
+metadata, which includes the phone number
+of the caller and recipient, the serial numbers
+of the phones involved, as well as the time, du
+ration and potential location of each person
+when the call occurred.
+The concern about metadata has surged
+since last summer's revelations about the
+NSA's surveillance of Ameri
+can citizens. Beginning in
+September of last year, ac
+cording to Mutchler, the two
+researchers set out to find
+out exactly how much could
+be learned from the metada
+ta that was the agency had
+access to.
+"What we wanted to do
+was basically figure out ex
+actly what you could learn
+about someone, or at least a
+lower bound of what you
+could learn about someone
+with this information,"
+Mutchler said. "So we built
+an app that allowed people to
+volunteer their metadata to
+us and basically had their
+phone logs going back a cou
+ple months."
+Mayer and Mutchler
+were able to draw a number
+of facts from the volunteered
+information by conducting
+an analysis of individual calls
+made by the volunteers.
+Through the crowd
+sourced data, it was deter
+mined that 57 percent of the
+volunteers made at least one
+medical call and that 40 per
+cent of the calls were related
+to financial services.
+
+"We were able to identify
+a number of patterns that
+were highly indicative of
+sensitive activities or traits,"
+Mayer said, offering an ex
+ample of one participant that
+had contacted several local
+neurology groups, a special
+ty pharmacy, a rare-condi
+tion management service
+and a pharmaceutical hotline
+
+used for multiple sclerosis.
+According to Mayer, the
+research shows that metada
+ta from phone calls can offer
+a multitude of information
+about family, political, pro
+fessional, religious and even
+sexual associations, among
+other details.
+However, the fact that
+the researchers were able to
+find out that much informa
+tion wasn't a surprise, ac
+cording to Mutchler. He
+mentioned that neither of
+them had reached out to
+their participants about the
+results of their research.
+"We've adjusted our app
+a bit to give them a little bit of
+automated feedback about
+what businesses and people
+who were able to identify in
+their call logs, but we haven't
+actually asked the people
+how they felt about these
+things," Mutchler said.
+
+"Though, if I were to guess,
+they would all be upset be
+cause the people that sign up
+for our app tend to be people
+that are very privacy-aware
+and see the NSA as invading
+their privacy, so I would
+imagine that these particular
+people would be very upset.
+But I don't know if that nec
+essarily that would general
+ize to the [whole] popula
+tion."
+Regardless, the research
+contributes to the public
+knowledge about the poten
+tial of phone metadata.
+"I think that this have
+and will continue to inform
+people about the nature of
+metadata and what it means
+to collect data," said John
+Mitchell, the researchers'
+faculty advisor. "I think most
+people have a sense that
+showing your phone bill to
+someone else might say
+
+something about what your
+issues were and what you
+were actively lately con
+cerned about, that you can
+reasonably draw conclusions
+[from the metadata]."
+Mutchler also expressed
+similar sentiments about
+public opinion.
+"The goal here really is
+that if we're going to have a
+national discussion about
+this topic, it's very important
+to have facts about it,"
+Mutchler said. "This makes
+it harder for people that are
+trying to claim things that
+are untrue sort of get
+away with it and it also
+makes it so that people are
+more informed. They're able
+to make the more informed
+decisions about how they
+feel about these programs."
+
+Contact Catherine Zaw at
+czawl 3 @ Stanford, edu.
+
+
+Courtesy of Stanford News Service
+Stanford researchers Jonathan Mayer J.D. '12 Ph.D. '16 and Patrick Mutchler '16 were
+able to draw conclusions about their volunteers' personal lives based on metadata.
+According to new research by two Stan
+ford doctoral students, the National Security
+Agency's (NSA) mass surveillance of tele
+phone metadata could potentially reveal much
+more detailed information about consumers'
+private lives than what the federal govern
+ment has claimed.
+Based just on the phone records of 546 vol
+unteers, Jonathan Mayer J.D. 'l2 Ph.D. 'l6
+and Patrick Mutchler Ph.D. 'l6 were able to
+draw a number of conclusions about those vol
+unteers' activities based solely on the phone
+metadata, which includes the phone number
+of the caller and recipient, the serial numbers
+of the phones involved, as well as the time, du
+ration and potential location of each person
+when the call occurred.
+The concern about metadata has surged
+since last summer's revelations about the
+NSA's surveillance of Ameri
+can citizens. Beginning in
+September of last year, ac
+cording to Mutchler, the two
+researchers set out to find
+out exactly how much could
+be learned from the metada
+ta that was the agency had
+access to.
+"What we wanted to do
+was basically figure out ex
+actly what you could learn
+about someone, or at least a
+lower bound of what you
+could learn about someone
+with this information,"
+Mutchler said. "So we built
+an app that allowed people to
+volunteer their metadata to
+us and basically had their
+phone logs going back a cou
+ple months."
+Mayer and Mutchler
+were able to draw a number
+of facts from the volunteered
+information by conducting
+an analysis of individual calls
+made by the volunteers.
+Through the crowd
+sourced data, it was deter
+mined that 57 percent of the
+volunteers made at least one
+medical call and that 40 per
+cent of the calls were related
+to financial services.
+
+"We were able to identify
+a number of patterns that
+were highly indicative of
+sensitive activities or traits,"
+Mayer said, offering an ex
+ample of one participant that
+had contacted several local
+neurology groups, a special
+ty pharmacy, a rare-condi
+tion management service
+and a pharmaceutical hotline
+
+used for multiple sclerosis.
+According to Mayer, the
+research shows that metada
+ta from phone calls can offer
+a multitude of information
+about family, political, pro
+fessional, religious and even
+sexual associations, among
+other details.
+However, the fact that
+the researchers were able to
+find out that much informa
+tion wasn't a surprise, ac
+cording to Mutchler. He
+mentioned that neither of
+them had reached out to
+their participants about the
+results of their research.
+"We've adjusted our app
+a bit to give them a little bit of
+automated feedback about
+what businesses and people
+who were able to identify in
+their call logs, but we haven't
+actually asked the people
+how they felt about these
+things," Mutchler said.
+
+"Though, if I were to guess,
+they would all be upset be
+cause the people that sign up
+for our app tend to be people
+that are very privacy-aware
+and see the NSA as invading
+their privacy, so I would
+imagine that these particular
+people would be very upset.
+But I don't know if that nec
+essarily that would general
+ize to the [whole] popula
+tion."
+Regardless, the research
+contributes to the public
+knowledge about the poten
+tial of phone metadata.
+"I think that this have
+and will continue to inform
+people about the nature of
+metadata and what it means
+to collect data," said John
+Mitchell, the researchers'
+faculty advisor. "I think most
+people have a sense that
+showing your phone bill to
+someone else might say
+
+something about what your
+issues were and what you
+were actively lately con
+cerned about, that you can
+reasonably draw conclusions
+[from the metadata]."
+Mutchler also expressed
+similar sentiments about
+public opinion.
+"The goal here really is
+that if we're going to have a
+national discussion about
+this topic, it's very important
+to have facts about it,"
+Mutchler said. "This makes
+it harder for people that are
+trying to claim things that
+are untrue sort of get
+away with it and it also
+makes it so that people are
+more informed. They're able
+to make the more informed
+decisions about how they
+feel about these programs."
+
+Contact Catherine Zaw at
+czawl 3 @ Stanford, edu.
+
+
+Courtesy of Stanford News Service
+Stanford researchers Jonathan Mayer J.D. '12 Ph.D. '16 and Patrick Mutchler '16 were
+able to draw conclusions about their volunteers' personal lives based on metadata.
+According to new research by two Stan
+ford doctoral students, the National Security
+Agency's (NSA) mass surveillance of tele
+phone metadata could potentially reveal much
+more detailed information about consumers'
+private lives than what the federal govern
+ment has claimed.
+Based just on the phone records of 546 vol
+unteers, Jonathan Mayer J.D. 'l2 Ph.D. 'l6
+and Patrick Mutchler Ph.D. 'l6 were able to
+draw a number of conclusions about those vol
+unteers' activities based solely on the phone
+metadata, which includes the phone number
+of the caller and recipient, the serial numbers
+of the phones involved, as well as the time, du
+ration and potential location of each person
+when the call occurred.
+The concern about metadata has surged
+since last summer's revelations about the
+NSA's surveillance of Ameri
+can citizens. Beginning in
+September of last year, ac
+cording to Mutchler, the two
+researchers set out to find
+out exactly how much could
+be learned from the metada
+ta that was the agency had
+access to.
+"What we wanted to do
+was basically figure out ex
+actly what you could learn
+about someone, or at least a
+lower bound of what you
+could learn about someone
+with this information,"
+Mutchler said. "So we built
+an app that allowed people to
+volunteer their metadata to
+us and basically had their
+phone logs going back a cou
+ple months."
+Mayer and Mutchler
+were able to draw a number
+of facts from the volunteered
+information by conducting
+an analysis of individual calls
+made by the volunteers.
+Through the crowd
+sourced data, it was deter
+mined that 57 percent of the
+volunteers made at least one
+medical call and that 40 per
+cent of the calls were related
+to financial services.
+
+"We were able to identify
+a number of patterns that
+were highly indicative of
+sensitive activities or traits,"
+Mayer said, offering an ex
+ample of one participant that
+had contacted several local
+neurology groups, a special
+ty pharmacy, a rare-condi
+tion management service
+and a pharmaceutical hotline
+
+used for multiple sclerosis.
+According to Mayer, the
+research shows that metada
+ta from phone calls can offer
+a multitude of information
+about family, political, pro
+fessional, religious and even
+sexual associations, among
+other details.
+However, the fact that
+the researchers were able to
+find out that much informa
+tion wasn't a surprise, ac
+cording to Mutchler. He
+mentioned that neither of
+them had reached out to
+their participants about the
+results of their research.
+"We've adjusted our app
+a bit to give them a little bit of
+automated feedback about
+what businesses and people
+who were able to identify in
+their call logs, but we haven't
+actually asked the people
+how they felt about these
+things," Mutchler said.
+
+"Though, if I were to guess,
+they would all be upset be
+cause the people that sign up
+for our app tend to be people
+that are very privacy-aware
+and see the NSA as invading
+their privacy, so I would
+imagine that these particular
+people would be very upset.
+But I don't know if that nec
+essarily that would general
+ize to the [whole] popula
+tion."
+Regardless, the research
+contributes to the public
+knowledge about the poten
+tial of phone metadata.
+"I think that this have
+and will continue to inform
+people about the nature of
+metadata and what it means
+to collect data," said John
+Mitchell, the researchers'
+faculty advisor. "I think most
+people have a sense that
+showing your phone bill to
+someone else might say
+
+something about what your
+issues were and what you
+were actively lately con
+cerned about, that you can
+reasonably draw conclusions
+[from the metadata]."
+Mutchler also expressed
+similar sentiments about
+public opinion.
+"The goal here really is
+that if we're going to have a
+national discussion about
+this topic, it's very important
+to have facts about it,"
+Mutchler said. "This makes
+it harder for people that are
+trying to claim things that
+are untrue sort of get
+away with it and it also
+makes it so that people are
+more informed. They're able
+to make the more informed
+decisions about how they
+feel about these programs."
+
+Contact Catherine Zaw at
+czawl 3 @ Stanford, edu.
+
+
+Courtesy of Stanford News Service
+Stanford researchers Jonathan Mayer J.D. '12 Ph.D. '16 and Patrick Mutchler '16 were
+able to draw conclusions about their volunteers' personal lives based on metadata.
+According to new research by two Stan
+ford doctoral students, the National Security
+Agency's (NSA) mass surveillance of tele
+phone metadata could potentially reveal much
+more detailed information about consumers'
+private lives than what the federal govern
+ment has claimed.
+Based just on the phone records of 546 vol
+unteers, Jonathan Mayer J.D. 'l2 Ph.D. 'l6
+and Patrick Mutchler Ph.D. 'l6 were able to
+draw a number of conclusions about those vol
+unteers' activities based solely on the phone
+metadata, which includes the phone number
+of the caller and recipient, the serial numbers
+of the phones involved, as well as the time, du
+ration and potential location of each person
+when the call occurred.
+The concern about metadata has surged
+since last summer's revelations about the
+NSA's surveillance of Ameri
+can citizens. Beginning in
+September of last year, ac
+cording to Mutchler, the two
+researchers set out to find
+out exactly how much could
+be learned from the metada
+ta that was the agency had
+access to.
+"What we wanted to do
+was basically figure out ex
+actly what you could learn
+about someone, or at least a
+lower bound of what you
+could learn about someone
+with this information,"
+Mutchler said. "So we built
+an app that allowed people to
+volunteer their metadata to
+us and basically had their
+phone logs going back a cou
+ple months."
+Mayer and Mutchler
+were able to draw a number
+of facts from the volunteered
+information by conducting
+an analysis of individual calls
+made by the volunteers.
+Through the crowd
+sourced data, it was deter
+mined that 57 percent of the
+volunteers made at least one
+medical call and that 40 per
+cent of the calls were related
+to financial services.
+
+"We were able to identify
+a number of patterns that
+were highly indicative of
+sensitive activities or traits,"
+Mayer said, offering an ex
+ample of one participant that
+had contacted several local
+neurology groups, a special
+ty pharmacy, a rare-condi
+tion management service
+and a pharmaceutical hotline
+
+used for multiple sclerosis.
+According to Mayer, the
+research shows that metada
+ta from phone calls can offer
+a multitude of information
+about family, political, pro
+fessional, religious and even
+sexual associations, among
+other details.
+However, the fact that
+the researchers were able to
+find out that much informa
+tion wasn't a surprise, ac
+cording to Mutchler. He
+mentioned that neither of
+them had reached out to
+their participants about the
+results of their research.
+"We've adjusted our app
+a bit to give them a little bit of
+automated feedback about
+what businesses and people
+who were able to identify in
+their call logs, but we haven't
+actually asked the people
+how they felt about these
+things," Mutchler said.
+
+"Though, if I were to guess,
+they would all be upset be
+cause the people that sign up
+for our app tend to be people
+that are very privacy-aware
+and see the NSA as invading
+their privacy, so I would
+imagine that these particular
+people would be very upset.
+But I don't know if that nec
+essarily that would general
+ize to the [whole] popula
+tion."
+Regardless, the research
+contributes to the public
+knowledge about the poten
+tial of phone metadata.
+"I think that this have
+and will continue to inform
+people about the nature of
+metadata and what it means
+to collect data," said John
+Mitchell, the researchers'
+faculty advisor. "I think most
+people have a sense that
+showing your phone bill to
+someone else might say
+
+something about what your
+issues were and what you
+were actively lately con
+cerned about, that you can
+reasonably draw conclusions
+[from the metadata]."
+Mutchler also expressed
+similar sentiments about
+public opinion.
+"The goal here really is
+that if we're going to have a
+national discussion about
+this topic, it's very important
+to have facts about it,"
+Mutchler said. "This makes
+it harder for people that are
+trying to claim things that
+are untrue sort of get
+away with it and it also
+makes it so that people are
+more informed. They're able
+to make the more informed
+decisions about how they
+feel about these programs."
+
+Contact Catherine Zaw at
+czawl 3 @ Stanford, edu.
+
+
+Courtesy of Stanford News Service
+Stanford researchers Jonathan Mayer J.D. '12 Ph.D. '16 and Patrick Mutchler '16 were
+able to draw conclusions about their volunteers' personal lives based on metadata.
+According to new research by two Stan
+ford doctoral students, the National Security
+Agency's (NSA) mass surveillance of tele
+phone metadata could potentially reveal much
+more detailed information about consumers'
+private lives than what the federal govern
+ment has claimed.
+Based just on the phone records of 546 vol
+unteers, Jonathan Mayer J.D. 'l2 Ph.D. 'l6
+and Patrick Mutchler Ph.D. 'l6 were able to
+draw a number of conclusions about those vol
+unteers' activities based solely on the phone
+metadata, which includes the phone number
+of the caller and recipient, the serial numbers
+of the phones involved, as well as the time, du
+ration and potential location of each person
+when the call occurred.
+The concern about metadata has surged
+since last summer's revelations about the
+NSA's surveillance of Ameri
+can citizens. Beginning in
+September of last year, ac
+cording to Mutchler, the two
+researchers set out to find
+out exactly how much could
+be learned from the metada
+ta that was the agency had
+access to.
+"What we wanted to do
+was basically figure out ex
+actly what you could learn
+about someone, or at least a
+lower bound of what you
+could learn about someone
+with this information,"
+Mutchler said. "So we built
+an app that allowed people to
+volunteer their metadata to
+us and basically had their
+phone logs going back a cou
+ple months."
+Mayer and Mutchler
+were able to draw a number
+of facts from the volunteered
+information by conducting
+an analysis of individual calls
+made by the volunteers.
+Through the crowd
+sourced data, it was deter
+mined that 57 percent of the
+volunteers made at least one
+medical call and that 40 per
+cent of the calls were related
+to financial services.
+
+"We were able to identify
+a number of patterns that
+were highly indicative of
+sensitive activities or traits,"
+Mayer said, offering an ex
+ample of one participant that
+had contacted several local
+neurology groups, a special
+ty pharmacy, a rare-condi
+tion management service
+and a pharmaceutical hotline
+
+used for multiple sclerosis.
+According to Mayer, the
+research shows that metada
+ta from phone calls can offer
+a multitude of information
+about family, political, pro
+fessional, religious and even
+sexual associations, among
+other details.
+However, the fact that
+the researchers were able to
+find out that much informa
+tion wasn't a surprise, ac
+cording to Mutchler. He
+mentioned that neither of
+them had reached out to
+their participants about the
+results of their research.
+"We've adjusted our app
+a bit to give them a little bit of
+automated feedback about
+what businesses and people
+who were able to identify in
+their call logs, but we haven't
+actually asked the people
+how they felt about these
+things," Mutchler said.
+
+"Though, if I were to guess,
+they would all be upset be
+cause the people that sign up
+for our app tend to be people
+that are very privacy-aware
+and see the NSA as invading
+their privacy, so I would
+imagine that these particular
+people would be very upset.
+But I don't know if that nec
+essarily that would general
+ize to the [whole] popula
+tion."
+Regardless, the research
+contributes to the public
+knowledge about the poten
+tial of phone metadata.
+"I think that this have
+and will continue to inform
+people about the nature of
+metadata and what it means
+to collect data," said John
+Mitchell, the researchers'
+faculty advisor. "I think most
+people have a sense that
+showing your phone bill to
+someone else might say
+
+something about what your
+issues were and what you
+were actively lately con
+cerned about, that you can
+reasonably draw conclusions
+[from the metadata]."
+Mutchler also expressed
+similar sentiments about
+public opinion.
+"The goal here really is
+that if we're going to have a
+national discussion about
+this topic, it's very important
+to have facts about it,"
+Mutchler said. "This makes
+it harder for people that are
+trying to claim things that
+are untrue sort of get
+away with it and it also
+makes it so that people are
+more informed. They're able
+to make the more informed
+decisions about how they
+feel about these programs."
+
+Contact Catherine Zaw at
+czawl 3 @ Stanford, edu.
+
+
+Courtesy of Stanford News Service
+Stanford researchers Jonathan Mayer J.D. '12 Ph.D. '16 and Patrick Mutchler '16 were
+able to draw conclusions about their volunteers' personal lives based on metadata.

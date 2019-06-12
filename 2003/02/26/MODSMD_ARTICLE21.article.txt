@@ -1,0 +1,1053 @@
+# Building a better bug
+## Robots inspired by the common roach 
+### BRONWYN BARNETT CONTRIBUTING WRITER 
+Cockroaches may not be man's best
+friend, but from a biological standpoint,
+they do have their redeeming qualities.
+Their speed, stability and versatility have
+propelled cockroaches out of garages
+and pantries and into the laboratories of
+biologists and mechanical engineers
+who are studying their anatomy, with
+the hope of building robots with similar
+capabilities.
+The Sprawl Robots Program at Stan
+ford's Center for Design Research is one
+of the few laboratories that designs and
+manufactures biomimetic hexapedal ro
+bots — biomimetic because they mimic
+biology, and hexapedal because they
+have six legs.
+"[lnsect legs are] very sophisticated
+complex mechanisms," said Jonathan
+Clark, a graduate student in mechanical
+engineering, who helps develop Sprawl
+Robots. "What we've done is try to cap
+ture the essence of what they do in a sim
+ple mechanical structure."
+The typical Sprawl Robot is a little
+larger than an adult's hand, though
+there are many prototypes of various
+sizes. With pistons thrusting the legs, sev
+eral different types of plastics comprising
+their bodies, valves and actuators to con
+trol the movements, all encasing motors
+and electrical wires, these robots look
+anything but simple. Motors control the
+
+angle of the legs, which in turn makes
+the robot accelerate or decelerate.
+With amusing names like Sprawlita,
+Sprawley Davidson and Porta-Sprawl,
+these contraptions look like something
+out of a science fiction film, which is fit
+ting, considering the creatures they are
+based on.
+So why cockroaches?
+"Cockroaches are very interest ing be
+cause they're very hard to kill," Clark
+said. They can travel at speeds of up to
+50 body-lengths per second — much
+faster than humans, proportionally
+speaking. Their brains and eyes may not
+be as sophisticated, but their legs take up
+much of the slack, which is one reason
+for their fortitude.
+"When roaches are running on
+rough terrain, they don't really think
+about it... they just run," Clark said. "If
+their foot doesn't land where they want
+it to, it's all caught up in their suspension
+system."
+So far, the engineers have succeeded
+in imitating the "mechanical intelli
+gence" of a roach's legs. It takes just
+seven lines of computer code to instruct
+a robot to run.
+"[The robot]just runs, and if it hits an
+obstacle, it just rolls with it and keeps
+going, which is a very different approach
+than traditional legged robots," Clark
+said.
+Another approach that sets Sprawl
+Robots apart is a novel manufacturing
+
+technique, called Shape Deposition
+Manufacturing. With the manufactur
+ing, different materials are layered and
+shaped before another layer is added,
+ensuring greater precision and overall
+quality. A softer, more flexible substance
+can be embedded inside a stiffer one —
+all encasing functional parts, such as mo
+tors and electrical wires — to create a
+working hip joint or other mechanism.
+"We can build it tough and we can
+build it small, which would be very diffi
+cult to create using traditional [manufac
+turing] methods," Clark said.
+According to Clark, "one of the big
+problems, generally speaking, with
+building robots, is that they tend to fall
+apart." With SDM, however, a robot's
+
+"downtime is much, much less than
+[would be] had we done it via traditional
+manufacturing techniques," he added.
+So what uses do these robots have?
+"Legged robots, in general, are very
+appealing because they have the poten
+tial to go places that wheeled vehicles
+can't," Clark said. "Wheeled vehicles are
+incredible ... but they work the best on
+an artificial surface."
+Since there is still a "significant por
+tion of the earth that we can't get to with
+[a] Honda Civic," legged robots could
+prove very important, he said.
+"There's great promise for legged ve
+hicles," Clark added. The robots can help
+
+
+Photo courtesy of Jonathan Clark
+Sprawl robots are slightly larger than an adult's hand, with piston thrusting legs, sev
+eral different types of plastics comprising their bodies and valves, actuators and mo
+tors to control their movement. It takes just seven lines of computer code to instruct a
+robot to run.
+in many ways, including exploring
+potential logging areas to searching
+the nibble of a disaster area.
+In areas that are too dangerous
+or too small for humans to enter,
+small, legged robots could be used
+instead. Sensors can be placed on
+them to search for everything from
+motion to the presence of chemi
+cals. Researchers hope that they will
+someday surpass their wheeled
+counterparts and be used in space
+exploration.
+In the near future, Sprawl re
+searchers hope to design robots
+that can traverse inclines, climb
+over objects and even climb vertical
+walls. Emily Ma, a mechanical engi
+neering senior, is currently design
+ing a robot with an antenna that will
+sense the presence of a wall and fol
+low it, much like cockroaches do.
+"If it runs into something, it will
+follow along the wall and run
+straight," Ma said. "If it gets too
+close, it will turn away, and if it goes
+far . . . it will start turning tight,"
+looking for the wall.
+But despite the progress made
+on legged robots, they are still be
+hind their wheeled counterparts.
+"Legged vehicles haven't come
+into their own yet," Clark said. But
+because of their speed, simplicity
+and durability, Sprawl Robots are
+"the great hope for the legged com
+munity," he added.
+Cockroaches may not be man's best
+friend, but from a biological standpoint,
+they do have their redeeming qualities.
+Their speed, stability and versatility have
+propelled cockroaches out of garages
+and pantries and into the laboratories of
+biologists and mechanical engineers
+who are studying their anatomy, with
+the hope of building robots with similar
+capabilities.
+The Sprawl Robots Program at Stan
+ford's Center for Design Research is one
+of the few laboratories that designs and
+manufactures biomimetic hexapedal ro
+bots — biomimetic because they mimic
+biology, and hexapedal because they
+have six legs.
+"[lnsect legs are] very sophisticated
+complex mechanisms," said Jonathan
+Clark, a graduate student in mechanical
+engineering, who helps develop Sprawl
+Robots. "What we've done is try to cap
+ture the essence of what they do in a sim
+ple mechanical structure."
+The typical Sprawl Robot is a little
+larger than an adult's hand, though
+there are many prototypes of various
+sizes. With pistons thrusting the legs, sev
+eral different types of plastics comprising
+their bodies, valves and actuators to con
+trol the movements, all encasing motors
+and electrical wires, these robots look
+anything but simple. Motors control the
+
+angle of the legs, which in turn makes
+the robot accelerate or decelerate.
+With amusing names like Sprawlita,
+Sprawley Davidson and Porta-Sprawl,
+these contraptions look like something
+out of a science fiction film, which is fit
+ting, considering the creatures they are
+based on.
+So why cockroaches?
+"Cockroaches are very interest ing be
+cause they're very hard to kill," Clark
+said. They can travel at speeds of up to
+50 body-lengths per second — much
+faster than humans, proportionally
+speaking. Their brains and eyes may not
+be as sophisticated, but their legs take up
+much of the slack, which is one reason
+for their fortitude.
+"When roaches are running on
+rough terrain, they don't really think
+about it... they just run," Clark said. "If
+their foot doesn't land where they want
+it to, it's all caught up in their suspension
+system."
+So far, the engineers have succeeded
+in imitating the "mechanical intelli
+gence" of a roach's legs. It takes just
+seven lines of computer code to instruct
+a robot to run.
+"[The robot]just runs, and if it hits an
+obstacle, it just rolls with it and keeps
+going, which is a very different approach
+than traditional legged robots," Clark
+said.
+Another approach that sets Sprawl
+Robots apart is a novel manufacturing
+
+technique, called Shape Deposition
+Manufacturing. With the manufactur
+ing, different materials are layered and
+shaped before another layer is added,
+ensuring greater precision and overall
+quality. A softer, more flexible substance
+can be embedded inside a stiffer one —
+all encasing functional parts, such as mo
+tors and electrical wires — to create a
+working hip joint or other mechanism.
+"We can build it tough and we can
+build it small, which would be very diffi
+cult to create using traditional [manufac
+turing] methods," Clark said.
+According to Clark, "one of the big
+problems, generally speaking, with
+building robots, is that they tend to fall
+apart." With SDM, however, a robot's
+
+"downtime is much, much less than
+[would be] had we done it via traditional
+manufacturing techniques," he added.
+So what uses do these robots have?
+"Legged robots, in general, are very
+appealing because they have the poten
+tial to go places that wheeled vehicles
+can't," Clark said. "Wheeled vehicles are
+incredible ... but they work the best on
+an artificial surface."
+Since there is still a "significant por
+tion of the earth that we can't get to with
+[a] Honda Civic," legged robots could
+prove very important, he said.
+"There's great promise for legged ve
+hicles," Clark added. The robots can help
+
+
+Photo courtesy of Jonathan Clark
+Sprawl robots are slightly larger than an adult's hand, with piston thrusting legs, sev
+eral different types of plastics comprising their bodies and valves, actuators and mo
+tors to control their movement. It takes just seven lines of computer code to instruct a
+robot to run.
+in many ways, including exploring
+potential logging areas to searching
+the nibble of a disaster area.
+In areas that are too dangerous
+or too small for humans to enter,
+small, legged robots could be used
+instead. Sensors can be placed on
+them to search for everything from
+motion to the presence of chemi
+cals. Researchers hope that they will
+someday surpass their wheeled
+counterparts and be used in space
+exploration.
+In the near future, Sprawl re
+searchers hope to design robots
+that can traverse inclines, climb
+over objects and even climb vertical
+walls. Emily Ma, a mechanical engi
+neering senior, is currently design
+ing a robot with an antenna that will
+sense the presence of a wall and fol
+low it, much like cockroaches do.
+"If it runs into something, it will
+follow along the wall and run
+straight," Ma said. "If it gets too
+close, it will turn away, and if it goes
+far . . . it will start turning tight,"
+looking for the wall.
+But despite the progress made
+on legged robots, they are still be
+hind their wheeled counterparts.
+"Legged vehicles haven't come
+into their own yet," Clark said. But
+because of their speed, simplicity
+and durability, Sprawl Robots are
+"the great hope for the legged com
+munity," he added.
+Cockroaches may not be man's best
+friend, but from a biological standpoint,
+they do have their redeeming qualities.
+Their speed, stability and versatility have
+propelled cockroaches out of garages
+and pantries and into the laboratories of
+biologists and mechanical engineers
+who are studying their anatomy, with
+the hope of building robots with similar
+capabilities.
+The Sprawl Robots Program at Stan
+ford's Center for Design Research is one
+of the few laboratories that designs and
+manufactures biomimetic hexapedal ro
+bots — biomimetic because they mimic
+biology, and hexapedal because they
+have six legs.
+"[lnsect legs are] very sophisticated
+complex mechanisms," said Jonathan
+Clark, a graduate student in mechanical
+engineering, who helps develop Sprawl
+Robots. "What we've done is try to cap
+ture the essence of what they do in a sim
+ple mechanical structure."
+The typical Sprawl Robot is a little
+larger than an adult's hand, though
+there are many prototypes of various
+sizes. With pistons thrusting the legs, sev
+eral different types of plastics comprising
+their bodies, valves and actuators to con
+trol the movements, all encasing motors
+and electrical wires, these robots look
+anything but simple. Motors control the
+
+angle of the legs, which in turn makes
+the robot accelerate or decelerate.
+With amusing names like Sprawlita,
+Sprawley Davidson and Porta-Sprawl,
+these contraptions look like something
+out of a science fiction film, which is fit
+ting, considering the creatures they are
+based on.
+So why cockroaches?
+"Cockroaches are very interest ing be
+cause they're very hard to kill," Clark
+said. They can travel at speeds of up to
+50 body-lengths per second — much
+faster than humans, proportionally
+speaking. Their brains and eyes may not
+be as sophisticated, but their legs take up
+much of the slack, which is one reason
+for their fortitude.
+"When roaches are running on
+rough terrain, they don't really think
+about it... they just run," Clark said. "If
+their foot doesn't land where they want
+it to, it's all caught up in their suspension
+system."
+So far, the engineers have succeeded
+in imitating the "mechanical intelli
+gence" of a roach's legs. It takes just
+seven lines of computer code to instruct
+a robot to run.
+"[The robot]just runs, and if it hits an
+obstacle, it just rolls with it and keeps
+going, which is a very different approach
+than traditional legged robots," Clark
+said.
+Another approach that sets Sprawl
+Robots apart is a novel manufacturing
+
+technique, called Shape Deposition
+Manufacturing. With the manufactur
+ing, different materials are layered and
+shaped before another layer is added,
+ensuring greater precision and overall
+quality. A softer, more flexible substance
+can be embedded inside a stiffer one —
+all encasing functional parts, such as mo
+tors and electrical wires — to create a
+working hip joint or other mechanism.
+"We can build it tough and we can
+build it small, which would be very diffi
+cult to create using traditional [manufac
+turing] methods," Clark said.
+According to Clark, "one of the big
+problems, generally speaking, with
+building robots, is that they tend to fall
+apart." With SDM, however, a robot's
+
+"downtime is much, much less than
+[would be] had we done it via traditional
+manufacturing techniques," he added.
+So what uses do these robots have?
+"Legged robots, in general, are very
+appealing because they have the poten
+tial to go places that wheeled vehicles
+can't," Clark said. "Wheeled vehicles are
+incredible ... but they work the best on
+an artificial surface."
+Since there is still a "significant por
+tion of the earth that we can't get to with
+[a] Honda Civic," legged robots could
+prove very important, he said.
+"There's great promise for legged ve
+hicles," Clark added. The robots can help
+
+
+Photo courtesy of Jonathan Clark
+Sprawl robots are slightly larger than an adult's hand, with piston thrusting legs, sev
+eral different types of plastics comprising their bodies and valves, actuators and mo
+tors to control their movement. It takes just seven lines of computer code to instruct a
+robot to run.
+in many ways, including exploring
+potential logging areas to searching
+the nibble of a disaster area.
+In areas that are too dangerous
+or too small for humans to enter,
+small, legged robots could be used
+instead. Sensors can be placed on
+them to search for everything from
+motion to the presence of chemi
+cals. Researchers hope that they will
+someday surpass their wheeled
+counterparts and be used in space
+exploration.
+In the near future, Sprawl re
+searchers hope to design robots
+that can traverse inclines, climb
+over objects and even climb vertical
+walls. Emily Ma, a mechanical engi
+neering senior, is currently design
+ing a robot with an antenna that will
+sense the presence of a wall and fol
+low it, much like cockroaches do.
+"If it runs into something, it will
+follow along the wall and run
+straight," Ma said. "If it gets too
+close, it will turn away, and if it goes
+far . . . it will start turning tight,"
+looking for the wall.
+But despite the progress made
+on legged robots, they are still be
+hind their wheeled counterparts.
+"Legged vehicles haven't come
+into their own yet," Clark said. But
+because of their speed, simplicity
+and durability, Sprawl Robots are
+"the great hope for the legged com
+munity," he added.
+Cockroaches may not be man's best
+friend, but from a biological standpoint,
+they do have their redeeming qualities.
+Their speed, stability and versatility have
+propelled cockroaches out of garages
+and pantries and into the laboratories of
+biologists and mechanical engineers
+who are studying their anatomy, with
+the hope of building robots with similar
+capabilities.
+The Sprawl Robots Program at Stan
+ford's Center for Design Research is one
+of the few laboratories that designs and
+manufactures biomimetic hexapedal ro
+bots — biomimetic because they mimic
+biology, and hexapedal because they
+have six legs.
+"[lnsect legs are] very sophisticated
+complex mechanisms," said Jonathan
+Clark, a graduate student in mechanical
+engineering, who helps develop Sprawl
+Robots. "What we've done is try to cap
+ture the essence of what they do in a sim
+ple mechanical structure."
+The typical Sprawl Robot is a little
+larger than an adult's hand, though
+there are many prototypes of various
+sizes. With pistons thrusting the legs, sev
+eral different types of plastics comprising
+their bodies, valves and actuators to con
+trol the movements, all encasing motors
+and electrical wires, these robots look
+anything but simple. Motors control the
+
+angle of the legs, which in turn makes
+the robot accelerate or decelerate.
+With amusing names like Sprawlita,
+Sprawley Davidson and Porta-Sprawl,
+these contraptions look like something
+out of a science fiction film, which is fit
+ting, considering the creatures they are
+based on.
+So why cockroaches?
+"Cockroaches are very interest ing be
+cause they're very hard to kill," Clark
+said. They can travel at speeds of up to
+50 body-lengths per second — much
+faster than humans, proportionally
+speaking. Their brains and eyes may not
+be as sophisticated, but their legs take up
+much of the slack, which is one reason
+for their fortitude.
+"When roaches are running on
+rough terrain, they don't really think
+about it... they just run," Clark said. "If
+their foot doesn't land where they want
+it to, it's all caught up in their suspension
+system."
+So far, the engineers have succeeded
+in imitating the "mechanical intelli
+gence" of a roach's legs. It takes just
+seven lines of computer code to instruct
+a robot to run.
+"[The robot]just runs, and if it hits an
+obstacle, it just rolls with it and keeps
+going, which is a very different approach
+than traditional legged robots," Clark
+said.
+Another approach that sets Sprawl
+Robots apart is a novel manufacturing
+
+technique, called Shape Deposition
+Manufacturing. With the manufactur
+ing, different materials are layered and
+shaped before another layer is added,
+ensuring greater precision and overall
+quality. A softer, more flexible substance
+can be embedded inside a stiffer one —
+all encasing functional parts, such as mo
+tors and electrical wires — to create a
+working hip joint or other mechanism.
+"We can build it tough and we can
+build it small, which would be very diffi
+cult to create using traditional [manufac
+turing] methods," Clark said.
+According to Clark, "one of the big
+problems, generally speaking, with
+building robots, is that they tend to fall
+apart." With SDM, however, a robot's
+
+"downtime is much, much less than
+[would be] had we done it via traditional
+manufacturing techniques," he added.
+So what uses do these robots have?
+"Legged robots, in general, are very
+appealing because they have the poten
+tial to go places that wheeled vehicles
+can't," Clark said. "Wheeled vehicles are
+incredible ... but they work the best on
+an artificial surface."
+Since there is still a "significant por
+tion of the earth that we can't get to with
+[a] Honda Civic," legged robots could
+prove very important, he said.
+"There's great promise for legged ve
+hicles," Clark added. The robots can help
+
+
+Photo courtesy of Jonathan Clark
+Sprawl robots are slightly larger than an adult's hand, with piston thrusting legs, sev
+eral different types of plastics comprising their bodies and valves, actuators and mo
+tors to control their movement. It takes just seven lines of computer code to instruct a
+robot to run.
+in many ways, including exploring
+potential logging areas to searching
+the nibble of a disaster area.
+In areas that are too dangerous
+or too small for humans to enter,
+small, legged robots could be used
+instead. Sensors can be placed on
+them to search for everything from
+motion to the presence of chemi
+cals. Researchers hope that they will
+someday surpass their wheeled
+counterparts and be used in space
+exploration.
+In the near future, Sprawl re
+searchers hope to design robots
+that can traverse inclines, climb
+over objects and even climb vertical
+walls. Emily Ma, a mechanical engi
+neering senior, is currently design
+ing a robot with an antenna that will
+sense the presence of a wall and fol
+low it, much like cockroaches do.
+"If it runs into something, it will
+follow along the wall and run
+straight," Ma said. "If it gets too
+close, it will turn away, and if it goes
+far . . . it will start turning tight,"
+looking for the wall.
+But despite the progress made
+on legged robots, they are still be
+hind their wheeled counterparts.
+"Legged vehicles haven't come
+into their own yet," Clark said. But
+because of their speed, simplicity
+and durability, Sprawl Robots are
+"the great hope for the legged com
+munity," he added.
+Cockroaches may not be man's best
+friend, but from a biological standpoint,
+they do have their redeeming qualities.
+Their speed, stability and versatility have
+propelled cockroaches out of garages
+and pantries and into the laboratories of
+biologists and mechanical engineers
+who are studying their anatomy, with
+the hope of building robots with similar
+capabilities.
+The Sprawl Robots Program at Stan
+ford's Center for Design Research is one
+of the few laboratories that designs and
+manufactures biomimetic hexapedal ro
+bots — biomimetic because they mimic
+biology, and hexapedal because they
+have six legs.
+"[lnsect legs are] very sophisticated
+complex mechanisms," said Jonathan
+Clark, a graduate student in mechanical
+engineering, who helps develop Sprawl
+Robots. "What we've done is try to cap
+ture the essence of what they do in a sim
+ple mechanical structure."
+The typical Sprawl Robot is a little
+larger than an adult's hand, though
+there are many prototypes of various
+sizes. With pistons thrusting the legs, sev
+eral different types of plastics comprising
+their bodies, valves and actuators to con
+trol the movements, all encasing motors
+and electrical wires, these robots look
+anything but simple. Motors control the
+
+angle of the legs, which in turn makes
+the robot accelerate or decelerate.
+With amusing names like Sprawlita,
+Sprawley Davidson and Porta-Sprawl,
+these contraptions look like something
+out of a science fiction film, which is fit
+ting, considering the creatures they are
+based on.
+So why cockroaches?
+"Cockroaches are very interest ing be
+cause they're very hard to kill," Clark
+said. They can travel at speeds of up to
+50 body-lengths per second — much
+faster than humans, proportionally
+speaking. Their brains and eyes may not
+be as sophisticated, but their legs take up
+much of the slack, which is one reason
+for their fortitude.
+"When roaches are running on
+rough terrain, they don't really think
+about it... they just run," Clark said. "If
+their foot doesn't land where they want
+it to, it's all caught up in their suspension
+system."
+So far, the engineers have succeeded
+in imitating the "mechanical intelli
+gence" of a roach's legs. It takes just
+seven lines of computer code to instruct
+a robot to run.
+"[The robot]just runs, and if it hits an
+obstacle, it just rolls with it and keeps
+going, which is a very different approach
+than traditional legged robots," Clark
+said.
+Another approach that sets Sprawl
+Robots apart is a novel manufacturing
+
+technique, called Shape Deposition
+Manufacturing. With the manufactur
+ing, different materials are layered and
+shaped before another layer is added,
+ensuring greater precision and overall
+quality. A softer, more flexible substance
+can be embedded inside a stiffer one —
+all encasing functional parts, such as mo
+tors and electrical wires — to create a
+working hip joint or other mechanism.
+"We can build it tough and we can
+build it small, which would be very diffi
+cult to create using traditional [manufac
+turing] methods," Clark said.
+According to Clark, "one of the big
+problems, generally speaking, with
+building robots, is that they tend to fall
+apart." With SDM, however, a robot's
+
+"downtime is much, much less than
+[would be] had we done it via traditional
+manufacturing techniques," he added.
+So what uses do these robots have?
+"Legged robots, in general, are very
+appealing because they have the poten
+tial to go places that wheeled vehicles
+can't," Clark said. "Wheeled vehicles are
+incredible ... but they work the best on
+an artificial surface."
+Since there is still a "significant por
+tion of the earth that we can't get to with
+[a] Honda Civic," legged robots could
+prove very important, he said.
+"There's great promise for legged ve
+hicles," Clark added. The robots can help
+
+
+Photo courtesy of Jonathan Clark
+Sprawl robots are slightly larger than an adult's hand, with piston thrusting legs, sev
+eral different types of plastics comprising their bodies and valves, actuators and mo
+tors to control their movement. It takes just seven lines of computer code to instruct a
+robot to run.
+in many ways, including exploring
+potential logging areas to searching
+the nibble of a disaster area.
+In areas that are too dangerous
+or too small for humans to enter,
+small, legged robots could be used
+instead. Sensors can be placed on
+them to search for everything from
+motion to the presence of chemi
+cals. Researchers hope that they will
+someday surpass their wheeled
+counterparts and be used in space
+exploration.
+In the near future, Sprawl re
+searchers hope to design robots
+that can traverse inclines, climb
+over objects and even climb vertical
+walls. Emily Ma, a mechanical engi
+neering senior, is currently design
+ing a robot with an antenna that will
+sense the presence of a wall and fol
+low it, much like cockroaches do.
+"If it runs into something, it will
+follow along the wall and run
+straight," Ma said. "If it gets too
+close, it will turn away, and if it goes
+far . . . it will start turning tight,"
+looking for the wall.
+But despite the progress made
+on legged robots, they are still be
+hind their wheeled counterparts.
+"Legged vehicles haven't come
+into their own yet," Clark said. But
+because of their speed, simplicity
+and durability, Sprawl Robots are
+"the great hope for the legged com
+munity," he added.
+Cockroaches may not be man's best
+friend, but from a biological standpoint,
+they do have their redeeming qualities.
+Their speed, stability and versatility have
+propelled cockroaches out of garages
+and pantries and into the laboratories of
+biologists and mechanical engineers
+who are studying their anatomy, with
+the hope of building robots with similar
+capabilities.
+The Sprawl Robots Program at Stan
+ford's Center for Design Research is one
+of the few laboratories that designs and
+manufactures biomimetic hexapedal ro
+bots — biomimetic because they mimic
+biology, and hexapedal because they
+have six legs.
+"[lnsect legs are] very sophisticated
+complex mechanisms," said Jonathan
+Clark, a graduate student in mechanical
+engineering, who helps develop Sprawl
+Robots. "What we've done is try to cap
+ture the essence of what they do in a sim
+ple mechanical structure."
+The typical Sprawl Robot is a little
+larger than an adult's hand, though
+there are many prototypes of various
+sizes. With pistons thrusting the legs, sev
+eral different types of plastics comprising
+their bodies, valves and actuators to con
+trol the movements, all encasing motors
+and electrical wires, these robots look
+anything but simple. Motors control the
+
+angle of the legs, which in turn makes
+the robot accelerate or decelerate.
+With amusing names like Sprawlita,
+Sprawley Davidson and Porta-Sprawl,
+these contraptions look like something
+out of a science fiction film, which is fit
+ting, considering the creatures they are
+based on.
+So why cockroaches?
+"Cockroaches are very interest ing be
+cause they're very hard to kill," Clark
+said. They can travel at speeds of up to
+50 body-lengths per second — much
+faster than humans, proportionally
+speaking. Their brains and eyes may not
+be as sophisticated, but their legs take up
+much of the slack, which is one reason
+for their fortitude.
+"When roaches are running on
+rough terrain, they don't really think
+about it... they just run," Clark said. "If
+their foot doesn't land where they want
+it to, it's all caught up in their suspension
+system."
+So far, the engineers have succeeded
+in imitating the "mechanical intelli
+gence" of a roach's legs. It takes just
+seven lines of computer code to instruct
+a robot to run.
+"[The robot]just runs, and if it hits an
+obstacle, it just rolls with it and keeps
+going, which is a very different approach
+than traditional legged robots," Clark
+said.
+Another approach that sets Sprawl
+Robots apart is a novel manufacturing
+
+technique, called Shape Deposition
+Manufacturing. With the manufactur
+ing, different materials are layered and
+shaped before another layer is added,
+ensuring greater precision and overall
+quality. A softer, more flexible substance
+can be embedded inside a stiffer one —
+all encasing functional parts, such as mo
+tors and electrical wires — to create a
+working hip joint or other mechanism.
+"We can build it tough and we can
+build it small, which would be very diffi
+cult to create using traditional [manufac
+turing] methods," Clark said.
+According to Clark, "one of the big
+problems, generally speaking, with
+building robots, is that they tend to fall
+apart." With SDM, however, a robot's
+
+"downtime is much, much less than
+[would be] had we done it via traditional
+manufacturing techniques," he added.
+So what uses do these robots have?
+"Legged robots, in general, are very
+appealing because they have the poten
+tial to go places that wheeled vehicles
+can't," Clark said. "Wheeled vehicles are
+incredible ... but they work the best on
+an artificial surface."
+Since there is still a "significant por
+tion of the earth that we can't get to with
+[a] Honda Civic," legged robots could
+prove very important, he said.
+"There's great promise for legged ve
+hicles," Clark added. The robots can help
+
+
+Photo courtesy of Jonathan Clark
+Sprawl robots are slightly larger than an adult's hand, with piston thrusting legs, sev
+eral different types of plastics comprising their bodies and valves, actuators and mo
+tors to control their movement. It takes just seven lines of computer code to instruct a
+robot to run.
+in many ways, including exploring
+potential logging areas to searching
+the nibble of a disaster area.
+In areas that are too dangerous
+or too small for humans to enter,
+small, legged robots could be used
+instead. Sensors can be placed on
+them to search for everything from
+motion to the presence of chemi
+cals. Researchers hope that they will
+someday surpass their wheeled
+counterparts and be used in space
+exploration.
+In the near future, Sprawl re
+searchers hope to design robots
+that can traverse inclines, climb
+over objects and even climb vertical
+walls. Emily Ma, a mechanical engi
+neering senior, is currently design
+ing a robot with an antenna that will
+sense the presence of a wall and fol
+low it, much like cockroaches do.
+"If it runs into something, it will
+follow along the wall and run
+straight," Ma said. "If it gets too
+close, it will turn away, and if it goes
+far . . . it will start turning tight,"
+looking for the wall.
+But despite the progress made
+on legged robots, they are still be
+hind their wheeled counterparts.
+"Legged vehicles haven't come
+into their own yet," Clark said. But
+because of their speed, simplicity
+and durability, Sprawl Robots are
+"the great hope for the legged com
+munity," he added.
+Cockroaches may not be man's best
+friend, but from a biological standpoint,
+they do have their redeeming qualities.
+Their speed, stability and versatility have
+propelled cockroaches out of garages
+and pantries and into the laboratories of
+biologists and mechanical engineers
+who are studying their anatomy, with
+the hope of building robots with similar
+capabilities.
+The Sprawl Robots Program at Stan
+ford's Center for Design Research is one
+of the few laboratories that designs and
+manufactures biomimetic hexapedal ro
+bots — biomimetic because they mimic
+biology, and hexapedal because they
+have six legs.
+"[lnsect legs are] very sophisticated
+complex mechanisms," said Jonathan
+Clark, a graduate student in mechanical
+engineering, who helps develop Sprawl
+Robots. "What we've done is try to cap
+ture the essence of what they do in a sim
+ple mechanical structure."
+The typical Sprawl Robot is a little
+larger than an adult's hand, though
+there are many prototypes of various
+sizes. With pistons thrusting the legs, sev
+eral different types of plastics comprising
+their bodies, valves and actuators to con
+trol the movements, all encasing motors
+and electrical wires, these robots look
+anything but simple. Motors control the
+
+angle of the legs, which in turn makes
+the robot accelerate or decelerate.
+With amusing names like Sprawlita,
+Sprawley Davidson and Porta-Sprawl,
+these contraptions look like something
+out of a science fiction film, which is fit
+ting, considering the creatures they are
+based on.
+So why cockroaches?
+"Cockroaches are very interest ing be
+cause they're very hard to kill," Clark
+said. They can travel at speeds of up to
+50 body-lengths per second — much
+faster than humans, proportionally
+speaking. Their brains and eyes may not
+be as sophisticated, but their legs take up
+much of the slack, which is one reason
+for their fortitude.
+"When roaches are running on
+rough terrain, they don't really think
+about it... they just run," Clark said. "If
+their foot doesn't land where they want
+it to, it's all caught up in their suspension
+system."
+So far, the engineers have succeeded
+in imitating the "mechanical intelli
+gence" of a roach's legs. It takes just
+seven lines of computer code to instruct
+a robot to run.
+"[The robot]just runs, and if it hits an
+obstacle, it just rolls with it and keeps
+going, which is a very different approach
+than traditional legged robots," Clark
+said.
+Another approach that sets Sprawl
+Robots apart is a novel manufacturing
+
+technique, called Shape Deposition
+Manufacturing. With the manufactur
+ing, different materials are layered and
+shaped before another layer is added,
+ensuring greater precision and overall
+quality. A softer, more flexible substance
+can be embedded inside a stiffer one —
+all encasing functional parts, such as mo
+tors and electrical wires — to create a
+working hip joint or other mechanism.
+"We can build it tough and we can
+build it small, which would be very diffi
+cult to create using traditional [manufac
+turing] methods," Clark said.
+According to Clark, "one of the big
+problems, generally speaking, with
+building robots, is that they tend to fall
+apart." With SDM, however, a robot's
+
+"downtime is much, much less than
+[would be] had we done it via traditional
+manufacturing techniques," he added.
+So what uses do these robots have?
+"Legged robots, in general, are very
+appealing because they have the poten
+tial to go places that wheeled vehicles
+can't," Clark said. "Wheeled vehicles are
+incredible ... but they work the best on
+an artificial surface."
+Since there is still a "significant por
+tion of the earth that we can't get to with
+[a] Honda Civic," legged robots could
+prove very important, he said.
+"There's great promise for legged ve
+hicles," Clark added. The robots can help
+
+
+Photo courtesy of Jonathan Clark
+Sprawl robots are slightly larger than an adult's hand, with piston thrusting legs, sev
+eral different types of plastics comprising their bodies and valves, actuators and mo
+tors to control their movement. It takes just seven lines of computer code to instruct a
+robot to run.
+in many ways, including exploring
+potential logging areas to searching
+the nibble of a disaster area.
+In areas that are too dangerous
+or too small for humans to enter,
+small, legged robots could be used
+instead. Sensors can be placed on
+them to search for everything from
+motion to the presence of chemi
+cals. Researchers hope that they will
+someday surpass their wheeled
+counterparts and be used in space
+exploration.
+In the near future, Sprawl re
+searchers hope to design robots
+that can traverse inclines, climb
+over objects and even climb vertical
+walls. Emily Ma, a mechanical engi
+neering senior, is currently design
+ing a robot with an antenna that will
+sense the presence of a wall and fol
+low it, much like cockroaches do.
+"If it runs into something, it will
+follow along the wall and run
+straight," Ma said. "If it gets too
+close, it will turn away, and if it goes
+far . . . it will start turning tight,"
+looking for the wall.
+But despite the progress made
+on legged robots, they are still be
+hind their wheeled counterparts.
+"Legged vehicles haven't come
+into their own yet," Clark said. But
+because of their speed, simplicity
+and durability, Sprawl Robots are
+"the great hope for the legged com
+munity," he added.

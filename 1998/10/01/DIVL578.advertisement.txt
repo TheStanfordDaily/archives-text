@@ -1,0 +1,488 @@
+# Adv. 5 Page 2
+## 
+### 
+Attention Off-campus SUNet Users
+On September 15,1998, the University's Communication and Networking Services department
+introduced a new, higher-speed dial-in service. The new service supports connections with
+modems from 9600 bps (V.32) up to the"s6K" type and has the capacity to support 40% more
+calls than the older 498-1440 modem pool.
+The new Central Modem Pool dial-in service is available at (650) 325-1010.
+There are very few differences between the 325-1010 service and the older 498-1440 modem
+pool. Most users should simply be able to change the dialed number in their connection
+software (e.g., Dial-up Networking in Windows 95 & NT or the PPP Control Panel in MacOS 8).
+Some users will have to make adjustments, however, so the University will maintain the
+498-1440 service until sometime in Winter Quarter 1999 to allow time for their transition.
+Following are the important similarities and differences:
+WHAT'S THE SAME?
+-• SUNet ID Authentication — A SUNet ID username and password are required to access the service.
+For information about SUNet IDs, point your Web browser to www.stanford.edu/group/itss/services/
+sunetid/. Non-authenticated access to FOLIO, FORSYTHE, GENEVA, LANE, REN and SOCRATES will not be
+supported with the new dial-in service.
+«• Modem Settings — 8 bits, 1 stop bit and no parity. Hardware flow control ("RTS/CTS") should be on,
+and software flow control ("XON/XOFF") should be off.
+- PPP Connection Support — for TCP/IP connections (e.g., Eudora E-Mail, Web browsing, FTP, etc.).
+"* Serial Connection Support — You can still open a Mac Samson, Samson forWindows or other teminal
+emulator serial session to dial in and connect to a specific Stanford host computer.
+*• Four-Hour Time Limit — The maximum duration of a single Central Modem Pool session is four hours,
+or 240 minutes.
+"• 30-Minute Idle Disconnect —If there is no session activity for 30 minutes, the Central Modem Pool
+equipment will automatically disconnect the call.
+*• Unavailability from Most On-campus Student Residences — Since 1996, the University has made
+the Central Modem Pool phone number unavailable from residences with access for each student to
+in-room SUNet connections via Ethernet. This policy helps make sure that the service remains available
+to off-campus student residents, faculty, and staff, who do not have such low-cost, higher-speed options
+for accessing Stanford's computing resources from home. Residences where dial-in access is still allowed
+are listed to the left.
+- Unavailability During Maintenance —As with all SUNet-dependent services, the Central Modem
+Pool may be unavailable during Networking's scheduled maintenance windows. During Autumn Quarter
+1998, work on the Central Modem Pool equipment, itself, may be required as the system settles into full
+operation.
+WHAT'S DIFFERENT?
+- New Phone Number -The higher-speed Central Modem Pool is available at (650)325-1010. Because
+this access number resides outside the Stanford telephone system, on-campus users with University
+provided telephone lines must have their modems dial 9 + 325-1010.
+- Higher Speed - The new equipment at 325-1010 is capable of connection speeds from 9600 bps up
+to the FCC maximum of 53Kbps with user modems ranging from 9600 bps (V.32) to"s6K"(soon to include
+V.90). Currently, users connecting with 56KFIex modems can expect to see the fastest connection rates.
+Actual connection speeds will vary based on each user's modem type,computer equipment and software,
+and local telephone company equipment. Users with non-KFlex *56K"modems should expect connection
+speeds to average 30Kbps.
+- Greater Call Capacity - The new 325-1010 service is capable of handling up to 40% more modem
+calls at one time than the old 498-1440 equipment.
+- No Support for SUP — Although MacSLIP software users can reconfigure the control panel and install
+a new PPP-compatible script, users of other SLIP dialers (e.g., on Unix and Windows 3.1 systems) must
+convert to PPP (Point-to-Point Protocol) software to use the 325-1010 number. For a link to instructions,
+point your Web browser to the address below.
+Nrw PPP Script for MacSLIP — MacSLIP users must install a new script and reconfigure the control
+panel tc use PPP instead of SLIP. For a link to instructions, point your Web browser to the address below.
+HIGHER SPEED DIAL-IN SERVICE
+NOW AVAILABLE
+£
+8T"
+A
+ONLINE RESOURCES
+General information about the new service,
+including links to PC Stanford and Mac Stanford
+dial in software and instructions:
+commserv.stanford.edu/datacom/update.html
+Information about all of the rentote SUNet
+access services provided by Communication and
+Networking Services:
+commserv.stanford.edu/datacom/
+ON-CAMPUS RESIDENCES
+WHERE DIAL-IN SERVICE IS
+STILL AVAILABLE
+Undergraduate
+553 Mayfield
+557 Mayfield
+Bob (Robert Moore South)
+BrannerHall
+Castario
+Hammarsk|old
+Kimball Hall
+Lantana
+MuwekmaTah Ruk
+Phi Sig
+Synergy
+Iheta Delta Chi
+Graduate
+Rains
+In all residences where dial-in service is
+unavailable, Stanford provides each
+student with access to low-cost, in-room
+SUNet connections via Ethernet —
+connections that are far faster than any
+modem can achieve. Eventually, all
+student residences will provide this"port
+per pillow" Ethernet access.
+Communication and Networking Service?
+Information Twhnoloqy Systpfm and Servtctt
+http://commserv.stanford.gdu/datacom/updatc.html
+Attention Off-campus SUNet Users
+On September 15,1998, the University's Communication and Networking Services department
+introduced a new, higher-speed dial-in service. The new service supports connections with
+modems from 9600 bps (V.32) up to the"s6K" type and has the capacity to support 40% more
+calls than the older 498-1440 modem pool.
+The new Central Modem Pool dial-in service is available at (650) 325-1010.
+There are very few differences between the 325-1010 service and the older 498-1440 modem
+pool. Most users should simply be able to change the dialed number in their connection
+software (e.g., Dial-up Networking in Windows 95 & NT or the PPP Control Panel in MacOS 8).
+Some users will have to make adjustments, however, so the University will maintain the
+498-1440 service until sometime in Winter Quarter 1999 to allow time for their transition.
+Following are the important similarities and differences:
+WHAT'S THE SAME?
+-• SUNet ID Authentication — A SUNet ID username and password are required to access the service.
+For information about SUNet IDs, point your Web browser to www.stanford.edu/group/itss/services/
+sunetid/. Non-authenticated access to FOLIO, FORSYTHE, GENEVA, LANE, REN and SOCRATES will not be
+supported with the new dial-in service.
+«• Modem Settings — 8 bits, 1 stop bit and no parity. Hardware flow control ("RTS/CTS") should be on,
+and software flow control ("XON/XOFF") should be off.
+- PPP Connection Support — for TCP/IP connections (e.g., Eudora E-Mail, Web browsing, FTP, etc.).
+"* Serial Connection Support — You can still open a Mac Samson, Samson forWindows or other teminal
+emulator serial session to dial in and connect to a specific Stanford host computer.
+*• Four-Hour Time Limit — The maximum duration of a single Central Modem Pool session is four hours,
+or 240 minutes.
+"• 30-Minute Idle Disconnect —If there is no session activity for 30 minutes, the Central Modem Pool
+equipment will automatically disconnect the call.
+*• Unavailability from Most On-campus Student Residences — Since 1996, the University has made
+the Central Modem Pool phone number unavailable from residences with access for each student to
+in-room SUNet connections via Ethernet. This policy helps make sure that the service remains available
+to off-campus student residents, faculty, and staff, who do not have such low-cost, higher-speed options
+for accessing Stanford's computing resources from home. Residences where dial-in access is still allowed
+are listed to the left.
+- Unavailability During Maintenance —As with all SUNet-dependent services, the Central Modem
+Pool may be unavailable during Networking's scheduled maintenance windows. During Autumn Quarter
+1998, work on the Central Modem Pool equipment, itself, may be required as the system settles into full
+operation.
+WHAT'S DIFFERENT?
+- New Phone Number -The higher-speed Central Modem Pool is available at (650)325-1010. Because
+this access number resides outside the Stanford telephone system, on-campus users with University
+provided telephone lines must have their modems dial 9 + 325-1010.
+- Higher Speed - The new equipment at 325-1010 is capable of connection speeds from 9600 bps up
+to the FCC maximum of 53Kbps with user modems ranging from 9600 bps (V.32) to"s6K"(soon to include
+V.90). Currently, users connecting with 56KFIex modems can expect to see the fastest connection rates.
+Actual connection speeds will vary based on each user's modem type,computer equipment and software,
+and local telephone company equipment. Users with non-KFlex *56K"modems should expect connection
+speeds to average 30Kbps.
+- Greater Call Capacity - The new 325-1010 service is capable of handling up to 40% more modem
+calls at one time than the old 498-1440 equipment.
+- No Support for SUP — Although MacSLIP software users can reconfigure the control panel and install
+a new PPP-compatible script, users of other SLIP dialers (e.g., on Unix and Windows 3.1 systems) must
+convert to PPP (Point-to-Point Protocol) software to use the 325-1010 number. For a link to instructions,
+point your Web browser to the address below.
+Nrw PPP Script for MacSLIP — MacSLIP users must install a new script and reconfigure the control
+panel tc use PPP instead of SLIP. For a link to instructions, point your Web browser to the address below.
+HIGHER SPEED DIAL-IN SERVICE
+NOW AVAILABLE
+£
+8T"
+A
+ONLINE RESOURCES
+General information about the new service,
+including links to PC Stanford and Mac Stanford
+dial in software and instructions:
+commserv.stanford.edu/datacom/update.html
+Information about all of the rentote SUNet
+access services provided by Communication and
+Networking Services:
+commserv.stanford.edu/datacom/
+ON-CAMPUS RESIDENCES
+WHERE DIAL-IN SERVICE IS
+STILL AVAILABLE
+Undergraduate
+553 Mayfield
+557 Mayfield
+Bob (Robert Moore South)
+BrannerHall
+Castario
+Hammarsk|old
+Kimball Hall
+Lantana
+MuwekmaTah Ruk
+Phi Sig
+Synergy
+Iheta Delta Chi
+Graduate
+Rains
+In all residences where dial-in service is
+unavailable, Stanford provides each
+student with access to low-cost, in-room
+SUNet connections via Ethernet —
+connections that are far faster than any
+modem can achieve. Eventually, all
+student residences will provide this"port
+per pillow" Ethernet access.
+Communication and Networking Service?
+Information Twhnoloqy Systpfm and Servtctt
+http://commserv.stanford.gdu/datacom/updatc.html
+Attention Off-campus SUNet Users
+On September 15,1998, the University's Communication and Networking Services department
+introduced a new, higher-speed dial-in service. The new service supports connections with
+modems from 9600 bps (V.32) up to the"s6K" type and has the capacity to support 40% more
+calls than the older 498-1440 modem pool.
+The new Central Modem Pool dial-in service is available at (650) 325-1010.
+There are very few differences between the 325-1010 service and the older 498-1440 modem
+pool. Most users should simply be able to change the dialed number in their connection
+software (e.g., Dial-up Networking in Windows 95 & NT or the PPP Control Panel in MacOS 8).
+Some users will have to make adjustments, however, so the University will maintain the
+498-1440 service until sometime in Winter Quarter 1999 to allow time for their transition.
+Following are the important similarities and differences:
+WHAT'S THE SAME?
+-• SUNet ID Authentication — A SUNet ID username and password are required to access the service.
+For information about SUNet IDs, point your Web browser to www.stanford.edu/group/itss/services/
+sunetid/. Non-authenticated access to FOLIO, FORSYTHE, GENEVA, LANE, REN and SOCRATES will not be
+supported with the new dial-in service.
+«• Modem Settings — 8 bits, 1 stop bit and no parity. Hardware flow control ("RTS/CTS") should be on,
+and software flow control ("XON/XOFF") should be off.
+- PPP Connection Support — for TCP/IP connections (e.g., Eudora E-Mail, Web browsing, FTP, etc.).
+"* Serial Connection Support — You can still open a Mac Samson, Samson forWindows or other teminal
+emulator serial session to dial in and connect to a specific Stanford host computer.
+*• Four-Hour Time Limit — The maximum duration of a single Central Modem Pool session is four hours,
+or 240 minutes.
+"• 30-Minute Idle Disconnect —If there is no session activity for 30 minutes, the Central Modem Pool
+equipment will automatically disconnect the call.
+*• Unavailability from Most On-campus Student Residences — Since 1996, the University has made
+the Central Modem Pool phone number unavailable from residences with access for each student to
+in-room SUNet connections via Ethernet. This policy helps make sure that the service remains available
+to off-campus student residents, faculty, and staff, who do not have such low-cost, higher-speed options
+for accessing Stanford's computing resources from home. Residences where dial-in access is still allowed
+are listed to the left.
+- Unavailability During Maintenance —As with all SUNet-dependent services, the Central Modem
+Pool may be unavailable during Networking's scheduled maintenance windows. During Autumn Quarter
+1998, work on the Central Modem Pool equipment, itself, may be required as the system settles into full
+operation.
+WHAT'S DIFFERENT?
+- New Phone Number -The higher-speed Central Modem Pool is available at (650)325-1010. Because
+this access number resides outside the Stanford telephone system, on-campus users with University
+provided telephone lines must have their modems dial 9 + 325-1010.
+- Higher Speed - The new equipment at 325-1010 is capable of connection speeds from 9600 bps up
+to the FCC maximum of 53Kbps with user modems ranging from 9600 bps (V.32) to"s6K"(soon to include
+V.90). Currently, users connecting with 56KFIex modems can expect to see the fastest connection rates.
+Actual connection speeds will vary based on each user's modem type,computer equipment and software,
+and local telephone company equipment. Users with non-KFlex *56K"modems should expect connection
+speeds to average 30Kbps.
+- Greater Call Capacity - The new 325-1010 service is capable of handling up to 40% more modem
+calls at one time than the old 498-1440 equipment.
+- No Support for SUP — Although MacSLIP software users can reconfigure the control panel and install
+a new PPP-compatible script, users of other SLIP dialers (e.g., on Unix and Windows 3.1 systems) must
+convert to PPP (Point-to-Point Protocol) software to use the 325-1010 number. For a link to instructions,
+point your Web browser to the address below.
+Nrw PPP Script for MacSLIP — MacSLIP users must install a new script and reconfigure the control
+panel tc use PPP instead of SLIP. For a link to instructions, point your Web browser to the address below.
+HIGHER SPEED DIAL-IN SERVICE
+NOW AVAILABLE
+£
+8T"
+A
+ONLINE RESOURCES
+General information about the new service,
+including links to PC Stanford and Mac Stanford
+dial in software and instructions:
+commserv.stanford.edu/datacom/update.html
+Information about all of the rentote SUNet
+access services provided by Communication and
+Networking Services:
+commserv.stanford.edu/datacom/
+ON-CAMPUS RESIDENCES
+WHERE DIAL-IN SERVICE IS
+STILL AVAILABLE
+Undergraduate
+553 Mayfield
+557 Mayfield
+Bob (Robert Moore South)
+BrannerHall
+Castario
+Hammarsk|old
+Kimball Hall
+Lantana
+MuwekmaTah Ruk
+Phi Sig
+Synergy
+Iheta Delta Chi
+Graduate
+Rains
+In all residences where dial-in service is
+unavailable, Stanford provides each
+student with access to low-cost, in-room
+SUNet connections via Ethernet —
+connections that are far faster than any
+modem can achieve. Eventually, all
+student residences will provide this"port
+per pillow" Ethernet access.
+Communication and Networking Service?
+Information Twhnoloqy Systpfm and Servtctt
+http://commserv.stanford.gdu/datacom/updatc.html
+Attention Off-campus SUNet Users
+On September 15,1998, the University's Communication and Networking Services department
+introduced a new, higher-speed dial-in service. The new service supports connections with
+modems from 9600 bps (V.32) up to the"s6K" type and has the capacity to support 40% more
+calls than the older 498-1440 modem pool.
+The new Central Modem Pool dial-in service is available at (650) 325-1010.
+There are very few differences between the 325-1010 service and the older 498-1440 modem
+pool. Most users should simply be able to change the dialed number in their connection
+software (e.g., Dial-up Networking in Windows 95 & NT or the PPP Control Panel in MacOS 8).
+Some users will have to make adjustments, however, so the University will maintain the
+498-1440 service until sometime in Winter Quarter 1999 to allow time for their transition.
+Following are the important similarities and differences:
+WHAT'S THE SAME?
+-• SUNet ID Authentication — A SUNet ID username and password are required to access the service.
+For information about SUNet IDs, point your Web browser to www.stanford.edu/group/itss/services/
+sunetid/. Non-authenticated access to FOLIO, FORSYTHE, GENEVA, LANE, REN and SOCRATES will not be
+supported with the new dial-in service.
+«• Modem Settings — 8 bits, 1 stop bit and no parity. Hardware flow control ("RTS/CTS") should be on,
+and software flow control ("XON/XOFF") should be off.
+- PPP Connection Support — for TCP/IP connections (e.g., Eudora E-Mail, Web browsing, FTP, etc.).
+"* Serial Connection Support — You can still open a Mac Samson, Samson forWindows or other teminal
+emulator serial session to dial in and connect to a specific Stanford host computer.
+*• Four-Hour Time Limit — The maximum duration of a single Central Modem Pool session is four hours,
+or 240 minutes.
+"• 30-Minute Idle Disconnect —If there is no session activity for 30 minutes, the Central Modem Pool
+equipment will automatically disconnect the call.
+*• Unavailability from Most On-campus Student Residences — Since 1996, the University has made
+the Central Modem Pool phone number unavailable from residences with access for each student to
+in-room SUNet connections via Ethernet. This policy helps make sure that the service remains available
+to off-campus student residents, faculty, and staff, who do not have such low-cost, higher-speed options
+for accessing Stanford's computing resources from home. Residences where dial-in access is still allowed
+are listed to the left.
+- Unavailability During Maintenance —As with all SUNet-dependent services, the Central Modem
+Pool may be unavailable during Networking's scheduled maintenance windows. During Autumn Quarter
+1998, work on the Central Modem Pool equipment, itself, may be required as the system settles into full
+operation.
+WHAT'S DIFFERENT?
+- New Phone Number -The higher-speed Central Modem Pool is available at (650)325-1010. Because
+this access number resides outside the Stanford telephone system, on-campus users with University
+provided telephone lines must have their modems dial 9 + 325-1010.
+- Higher Speed - The new equipment at 325-1010 is capable of connection speeds from 9600 bps up
+to the FCC maximum of 53Kbps with user modems ranging from 9600 bps (V.32) to"s6K"(soon to include
+V.90). Currently, users connecting with 56KFIex modems can expect to see the fastest connection rates.
+Actual connection speeds will vary based on each user's modem type,computer equipment and software,
+and local telephone company equipment. Users with non-KFlex *56K"modems should expect connection
+speeds to average 30Kbps.
+- Greater Call Capacity - The new 325-1010 service is capable of handling up to 40% more modem
+calls at one time than the old 498-1440 equipment.
+- No Support for SUP — Although MacSLIP software users can reconfigure the control panel and install
+a new PPP-compatible script, users of other SLIP dialers (e.g., on Unix and Windows 3.1 systems) must
+convert to PPP (Point-to-Point Protocol) software to use the 325-1010 number. For a link to instructions,
+point your Web browser to the address below.
+Nrw PPP Script for MacSLIP — MacSLIP users must install a new script and reconfigure the control
+panel tc use PPP instead of SLIP. For a link to instructions, point your Web browser to the address below.
+HIGHER SPEED DIAL-IN SERVICE
+NOW AVAILABLE
+£
+8T"
+A
+ONLINE RESOURCES
+General information about the new service,
+including links to PC Stanford and Mac Stanford
+dial in software and instructions:
+commserv.stanford.edu/datacom/update.html
+Information about all of the rentote SUNet
+access services provided by Communication and
+Networking Services:
+commserv.stanford.edu/datacom/
+ON-CAMPUS RESIDENCES
+WHERE DIAL-IN SERVICE IS
+STILL AVAILABLE
+Undergraduate
+553 Mayfield
+557 Mayfield
+Bob (Robert Moore South)
+BrannerHall
+Castario
+Hammarsk|old
+Kimball Hall
+Lantana
+MuwekmaTah Ruk
+Phi Sig
+Synergy
+Iheta Delta Chi
+Graduate
+Rains
+In all residences where dial-in service is
+unavailable, Stanford provides each
+student with access to low-cost, in-room
+SUNet connections via Ethernet —
+connections that are far faster than any
+modem can achieve. Eventually, all
+student residences will provide this"port
+per pillow" Ethernet access.
+Communication and Networking Service?
+Information Twhnoloqy Systpfm and Servtctt
+http://commserv.stanford.gdu/datacom/updatc.html
+Attention Off-campus SUNet Users
+On September 15,1998, the University's Communication and Networking Services department
+introduced a new, higher-speed dial-in service. The new service supports connections with
+modems from 9600 bps (V.32) up to the"s6K" type and has the capacity to support 40% more
+calls than the older 498-1440 modem pool.
+The new Central Modem Pool dial-in service is available at (650) 325-1010.
+There are very few differences between the 325-1010 service and the older 498-1440 modem
+pool. Most users should simply be able to change the dialed number in their connection
+software (e.g., Dial-up Networking in Windows 95 & NT or the PPP Control Panel in MacOS 8).
+Some users will have to make adjustments, however, so the University will maintain the
+498-1440 service until sometime in Winter Quarter 1999 to allow time for their transition.
+Following are the important similarities and differences:
+WHAT'S THE SAME?
+-• SUNet ID Authentication — A SUNet ID username and password are required to access the service.
+For information about SUNet IDs, point your Web browser to www.stanford.edu/group/itss/services/
+sunetid/. Non-authenticated access to FOLIO, FORSYTHE, GENEVA, LANE, REN and SOCRATES will not be
+supported with the new dial-in service.
+«• Modem Settings — 8 bits, 1 stop bit and no parity. Hardware flow control ("RTS/CTS") should be on,
+and software flow control ("XON/XOFF") should be off.
+- PPP Connection Support — for TCP/IP connections (e.g., Eudora E-Mail, Web browsing, FTP, etc.).
+"* Serial Connection Support — You can still open a Mac Samson, Samson forWindows or other teminal
+emulator serial session to dial in and connect to a specific Stanford host computer.
+*• Four-Hour Time Limit — The maximum duration of a single Central Modem Pool session is four hours,
+or 240 minutes.
+"• 30-Minute Idle Disconnect —If there is no session activity for 30 minutes, the Central Modem Pool
+equipment will automatically disconnect the call.
+*• Unavailability from Most On-campus Student Residences — Since 1996, the University has made
+the Central Modem Pool phone number unavailable from residences with access for each student to
+in-room SUNet connections via Ethernet. This policy helps make sure that the service remains available
+to off-campus student residents, faculty, and staff, who do not have such low-cost, higher-speed options
+for accessing Stanford's computing resources from home. Residences where dial-in access is still allowed
+are listed to the left.
+- Unavailability During Maintenance —As with all SUNet-dependent services, the Central Modem
+Pool may be unavailable during Networking's scheduled maintenance windows. During Autumn Quarter
+1998, work on the Central Modem Pool equipment, itself, may be required as the system settles into full
+operation.
+WHAT'S DIFFERENT?
+- New Phone Number -The higher-speed Central Modem Pool is available at (650)325-1010. Because
+this access number resides outside the Stanford telephone system, on-campus users with University
+provided telephone lines must have their modems dial 9 + 325-1010.
+- Higher Speed - The new equipment at 325-1010 is capable of connection speeds from 9600 bps up
+to the FCC maximum of 53Kbps with user modems ranging from 9600 bps (V.32) to"s6K"(soon to include
+V.90). Currently, users connecting with 56KFIex modems can expect to see the fastest connection rates.
+Actual connection speeds will vary based on each user's modem type,computer equipment and software,
+and local telephone company equipment. Users with non-KFlex *56K"modems should expect connection
+speeds to average 30Kbps.
+- Greater Call Capacity - The new 325-1010 service is capable of handling up to 40% more modem
+calls at one time than the old 498-1440 equipment.
+- No Support for SUP — Although MacSLIP software users can reconfigure the control panel and install
+a new PPP-compatible script, users of other SLIP dialers (e.g., on Unix and Windows 3.1 systems) must
+convert to PPP (Point-to-Point Protocol) software to use the 325-1010 number. For a link to instructions,
+point your Web browser to the address below.
+Nrw PPP Script for MacSLIP — MacSLIP users must install a new script and reconfigure the control
+panel tc use PPP instead of SLIP. For a link to instructions, point your Web browser to the address below.
+HIGHER SPEED DIAL-IN SERVICE
+NOW AVAILABLE
+£
+8T"
+A
+ONLINE RESOURCES
+General information about the new service,
+including links to PC Stanford and Mac Stanford
+dial in software and instructions:
+commserv.stanford.edu/datacom/update.html
+Information about all of the rentote SUNet
+access services provided by Communication and
+Networking Services:
+commserv.stanford.edu/datacom/
+ON-CAMPUS RESIDENCES
+WHERE DIAL-IN SERVICE IS
+STILL AVAILABLE
+Undergraduate
+553 Mayfield
+557 Mayfield
+Bob (Robert Moore South)
+BrannerHall
+Castario
+Hammarsk|old
+Kimball Hall
+Lantana
+MuwekmaTah Ruk
+Phi Sig
+Synergy
+Iheta Delta Chi
+Graduate
+Rains
+In all residences where dial-in service is
+unavailable, Stanford provides each
+student with access to low-cost, in-room
+SUNet connections via Ethernet —
+connections that are far faster than any
+modem can achieve. Eventually, all
+student residences will provide this"port
+per pillow" Ethernet access.
+Communication and Networking Service?
+Information Twhnoloqy Systpfm and Servtctt
+http://commserv.stanford.gdu/datacom/updatc.html

@@ -1,0 +1,669 @@
+# Google reveals a few secrets
+## 
+### BARRETT W. SHERIDAN DESK EDITOR 
+Google opened its sprawling Mountain View cam
+pus to journalists for the first time yesterday to sketch
+its vision for the future of Web searching and to an
+nounce the release of several new products, including
+a personalized homepage option similar to that of
+fered hv Yahoo! and a searchable satellite mapping of
+the earth.
+"Some of our users want the clean, classic home
+page," said Marissa Mayer, director of consumer Web
+products at Google and a Stanford graduate. "But
+some of our users want more."
+That "more" is a customizable homepage — now
+available at labs.google.com — that integrates
+Google's Web-based products, including its popular
+Gmail service and GoogleMaps-powered driving di
+rections, into one personalized Web site. The launch is
+the first in a new a line of "fusion" products meant to
+unify what some have called a haphazard hodgepodge
+of tools.
+True to the Google style, the interface of the new
+options is uncluttered and simple. Users will be able to
+customize their Google homepage to feature news
+headlines, stock quotes. Gmail snippets, movie times
+and weather reports. There is even a word or quote of
+the day feature.
+The Google homepage feature allows users to
+
+click-and-drag frames for instant customization, set
+ting it apart from similar tools offered by other compa
+nies including Microsoft and America Online.
+Google representatives also announced the im
+pending release of Google Earth, a searchable satellite
+imaging of the world, with high-resolution images of
+parts of the world previously neglected by satellite im
+aging programs, including Santiago. Chile, and South
+Africa. The new product will also allow users to navi
+gate terrain features so that mountains really tower
+and valleys actually sink. Google Earth will also be
+able to take users on virtual road trips.
+"You can do an awful lot of things you can't do in
+maps," said Sergey Brin, Google co-founder who
+earned his doctorate in computer science at Stanford.
+While executives remained mum on other products
+in the development pipeline, including a much-ru
+mored Google web browser, researchers offered the
+group a glimpse at other technologies in the pipeline.
+Machine translations, for instance, have come a
+long way at Google.
+"Historically, the approach to building machine
+translation systems is to have expert machine linguists
+write down dictionaries and rules on how to translate,
+say, from Chinese to English," said researcher Franz
+Och. 'Tryiag to write down all the rules on how to
+
+
+NINA GONZALUDO/
+The Stanford Daily
+Google offers a personal
+ized Web homepage and
+a searchable satellite map
+ping of the world called
+Google Earth. The compa
+ny is also working on de
+veloping machine transla
+tion systems.
+translate from Chinese to English is
+very hard."
+Instead, Google is fine-tuning a
+translation program that can auto
+matically translate back and forth
+between documents in different
+languages a sort of virtual Roset
+ta Stone.
+Current machine translations
+are inconsistent at best, Och said.
+One current translation program
+translated "The White House con
+firmed the existence of a new bin
+Laden tape" in Arabic to "Alpine
+white new presence tape registered
+for coffee confirms Laden," in Eng
+lish.
+Another Google researcher,
+Marius Pasca.said he wants the Web
+to be searchable by different cate
+gories of facts, like dates or loca
+tions. A search for " Marilyn Mon
+roe" by date, for instance, would re
+sult in a timeline of her life.
+"The basic tenet of the research
+lab is to use the huge amount of data
+and computational resources to
+solve interesting problems," said
+Alan Eustace, vice president of en
+gineering and research. "We have
+essentially unlimited computational
+power. That allows us to solve some
+very interesting problems."
+Computer science co-terminal
+student lan Spiro, who worked at
+Google last summer, said he be
+lieves the company is headed in the
+right direction.
+"Google is driven by a genuine
+desire for quality — using the
+power of technology responsibly to
+bring actual utility to the world," he
+said. "This is a company with a rare
+sense of morality that I'm not sure
+can survive in the long run, but I ab
+solutely hope does."
+Google opened its sprawling Mountain View cam
+pus to journalists for the first time yesterday to sketch
+its vision for the future of Web searching and to an
+nounce the release of several new products, including
+a personalized homepage option similar to that of
+fered hv Yahoo! and a searchable satellite mapping of
+the earth.
+"Some of our users want the clean, classic home
+page," said Marissa Mayer, director of consumer Web
+products at Google and a Stanford graduate. "But
+some of our users want more."
+That "more" is a customizable homepage — now
+available at labs.google.com — that integrates
+Google's Web-based products, including its popular
+Gmail service and GoogleMaps-powered driving di
+rections, into one personalized Web site. The launch is
+the first in a new a line of "fusion" products meant to
+unify what some have called a haphazard hodgepodge
+of tools.
+True to the Google style, the interface of the new
+options is uncluttered and simple. Users will be able to
+customize their Google homepage to feature news
+headlines, stock quotes. Gmail snippets, movie times
+and weather reports. There is even a word or quote of
+the day feature.
+The Google homepage feature allows users to
+
+click-and-drag frames for instant customization, set
+ting it apart from similar tools offered by other compa
+nies including Microsoft and America Online.
+Google representatives also announced the im
+pending release of Google Earth, a searchable satellite
+imaging of the world, with high-resolution images of
+parts of the world previously neglected by satellite im
+aging programs, including Santiago. Chile, and South
+Africa. The new product will also allow users to navi
+gate terrain features so that mountains really tower
+and valleys actually sink. Google Earth will also be
+able to take users on virtual road trips.
+"You can do an awful lot of things you can't do in
+maps," said Sergey Brin, Google co-founder who
+earned his doctorate in computer science at Stanford.
+While executives remained mum on other products
+in the development pipeline, including a much-ru
+mored Google web browser, researchers offered the
+group a glimpse at other technologies in the pipeline.
+Machine translations, for instance, have come a
+long way at Google.
+"Historically, the approach to building machine
+translation systems is to have expert machine linguists
+write down dictionaries and rules on how to translate,
+say, from Chinese to English," said researcher Franz
+Och. 'Tryiag to write down all the rules on how to
+
+
+NINA GONZALUDO/
+The Stanford Daily
+Google offers a personal
+ized Web homepage and
+a searchable satellite map
+ping of the world called
+Google Earth. The compa
+ny is also working on de
+veloping machine transla
+tion systems.
+translate from Chinese to English is
+very hard."
+Instead, Google is fine-tuning a
+translation program that can auto
+matically translate back and forth
+between documents in different
+languages a sort of virtual Roset
+ta Stone.
+Current machine translations
+are inconsistent at best, Och said.
+One current translation program
+translated "The White House con
+firmed the existence of a new bin
+Laden tape" in Arabic to "Alpine
+white new presence tape registered
+for coffee confirms Laden," in Eng
+lish.
+Another Google researcher,
+Marius Pasca.said he wants the Web
+to be searchable by different cate
+gories of facts, like dates or loca
+tions. A search for " Marilyn Mon
+roe" by date, for instance, would re
+sult in a timeline of her life.
+"The basic tenet of the research
+lab is to use the huge amount of data
+and computational resources to
+solve interesting problems," said
+Alan Eustace, vice president of en
+gineering and research. "We have
+essentially unlimited computational
+power. That allows us to solve some
+very interesting problems."
+Computer science co-terminal
+student lan Spiro, who worked at
+Google last summer, said he be
+lieves the company is headed in the
+right direction.
+"Google is driven by a genuine
+desire for quality — using the
+power of technology responsibly to
+bring actual utility to the world," he
+said. "This is a company with a rare
+sense of morality that I'm not sure
+can survive in the long run, but I ab
+solutely hope does."
+Google opened its sprawling Mountain View cam
+pus to journalists for the first time yesterday to sketch
+its vision for the future of Web searching and to an
+nounce the release of several new products, including
+a personalized homepage option similar to that of
+fered hv Yahoo! and a searchable satellite mapping of
+the earth.
+"Some of our users want the clean, classic home
+page," said Marissa Mayer, director of consumer Web
+products at Google and a Stanford graduate. "But
+some of our users want more."
+That "more" is a customizable homepage — now
+available at labs.google.com — that integrates
+Google's Web-based products, including its popular
+Gmail service and GoogleMaps-powered driving di
+rections, into one personalized Web site. The launch is
+the first in a new a line of "fusion" products meant to
+unify what some have called a haphazard hodgepodge
+of tools.
+True to the Google style, the interface of the new
+options is uncluttered and simple. Users will be able to
+customize their Google homepage to feature news
+headlines, stock quotes. Gmail snippets, movie times
+and weather reports. There is even a word or quote of
+the day feature.
+The Google homepage feature allows users to
+
+click-and-drag frames for instant customization, set
+ting it apart from similar tools offered by other compa
+nies including Microsoft and America Online.
+Google representatives also announced the im
+pending release of Google Earth, a searchable satellite
+imaging of the world, with high-resolution images of
+parts of the world previously neglected by satellite im
+aging programs, including Santiago. Chile, and South
+Africa. The new product will also allow users to navi
+gate terrain features so that mountains really tower
+and valleys actually sink. Google Earth will also be
+able to take users on virtual road trips.
+"You can do an awful lot of things you can't do in
+maps," said Sergey Brin, Google co-founder who
+earned his doctorate in computer science at Stanford.
+While executives remained mum on other products
+in the development pipeline, including a much-ru
+mored Google web browser, researchers offered the
+group a glimpse at other technologies in the pipeline.
+Machine translations, for instance, have come a
+long way at Google.
+"Historically, the approach to building machine
+translation systems is to have expert machine linguists
+write down dictionaries and rules on how to translate,
+say, from Chinese to English," said researcher Franz
+Och. 'Tryiag to write down all the rules on how to
+
+
+NINA GONZALUDO/
+The Stanford Daily
+Google offers a personal
+ized Web homepage and
+a searchable satellite map
+ping of the world called
+Google Earth. The compa
+ny is also working on de
+veloping machine transla
+tion systems.
+translate from Chinese to English is
+very hard."
+Instead, Google is fine-tuning a
+translation program that can auto
+matically translate back and forth
+between documents in different
+languages a sort of virtual Roset
+ta Stone.
+Current machine translations
+are inconsistent at best, Och said.
+One current translation program
+translated "The White House con
+firmed the existence of a new bin
+Laden tape" in Arabic to "Alpine
+white new presence tape registered
+for coffee confirms Laden," in Eng
+lish.
+Another Google researcher,
+Marius Pasca.said he wants the Web
+to be searchable by different cate
+gories of facts, like dates or loca
+tions. A search for " Marilyn Mon
+roe" by date, for instance, would re
+sult in a timeline of her life.
+"The basic tenet of the research
+lab is to use the huge amount of data
+and computational resources to
+solve interesting problems," said
+Alan Eustace, vice president of en
+gineering and research. "We have
+essentially unlimited computational
+power. That allows us to solve some
+very interesting problems."
+Computer science co-terminal
+student lan Spiro, who worked at
+Google last summer, said he be
+lieves the company is headed in the
+right direction.
+"Google is driven by a genuine
+desire for quality — using the
+power of technology responsibly to
+bring actual utility to the world," he
+said. "This is a company with a rare
+sense of morality that I'm not sure
+can survive in the long run, but I ab
+solutely hope does."
+Google opened its sprawling Mountain View cam
+pus to journalists for the first time yesterday to sketch
+its vision for the future of Web searching and to an
+nounce the release of several new products, including
+a personalized homepage option similar to that of
+fered hv Yahoo! and a searchable satellite mapping of
+the earth.
+"Some of our users want the clean, classic home
+page," said Marissa Mayer, director of consumer Web
+products at Google and a Stanford graduate. "But
+some of our users want more."
+That "more" is a customizable homepage — now
+available at labs.google.com — that integrates
+Google's Web-based products, including its popular
+Gmail service and GoogleMaps-powered driving di
+rections, into one personalized Web site. The launch is
+the first in a new a line of "fusion" products meant to
+unify what some have called a haphazard hodgepodge
+of tools.
+True to the Google style, the interface of the new
+options is uncluttered and simple. Users will be able to
+customize their Google homepage to feature news
+headlines, stock quotes. Gmail snippets, movie times
+and weather reports. There is even a word or quote of
+the day feature.
+The Google homepage feature allows users to
+
+click-and-drag frames for instant customization, set
+ting it apart from similar tools offered by other compa
+nies including Microsoft and America Online.
+Google representatives also announced the im
+pending release of Google Earth, a searchable satellite
+imaging of the world, with high-resolution images of
+parts of the world previously neglected by satellite im
+aging programs, including Santiago. Chile, and South
+Africa. The new product will also allow users to navi
+gate terrain features so that mountains really tower
+and valleys actually sink. Google Earth will also be
+able to take users on virtual road trips.
+"You can do an awful lot of things you can't do in
+maps," said Sergey Brin, Google co-founder who
+earned his doctorate in computer science at Stanford.
+While executives remained mum on other products
+in the development pipeline, including a much-ru
+mored Google web browser, researchers offered the
+group a glimpse at other technologies in the pipeline.
+Machine translations, for instance, have come a
+long way at Google.
+"Historically, the approach to building machine
+translation systems is to have expert machine linguists
+write down dictionaries and rules on how to translate,
+say, from Chinese to English," said researcher Franz
+Och. 'Tryiag to write down all the rules on how to
+
+
+NINA GONZALUDO/
+The Stanford Daily
+Google offers a personal
+ized Web homepage and
+a searchable satellite map
+ping of the world called
+Google Earth. The compa
+ny is also working on de
+veloping machine transla
+tion systems.
+translate from Chinese to English is
+very hard."
+Instead, Google is fine-tuning a
+translation program that can auto
+matically translate back and forth
+between documents in different
+languages a sort of virtual Roset
+ta Stone.
+Current machine translations
+are inconsistent at best, Och said.
+One current translation program
+translated "The White House con
+firmed the existence of a new bin
+Laden tape" in Arabic to "Alpine
+white new presence tape registered
+for coffee confirms Laden," in Eng
+lish.
+Another Google researcher,
+Marius Pasca.said he wants the Web
+to be searchable by different cate
+gories of facts, like dates or loca
+tions. A search for " Marilyn Mon
+roe" by date, for instance, would re
+sult in a timeline of her life.
+"The basic tenet of the research
+lab is to use the huge amount of data
+and computational resources to
+solve interesting problems," said
+Alan Eustace, vice president of en
+gineering and research. "We have
+essentially unlimited computational
+power. That allows us to solve some
+very interesting problems."
+Computer science co-terminal
+student lan Spiro, who worked at
+Google last summer, said he be
+lieves the company is headed in the
+right direction.
+"Google is driven by a genuine
+desire for quality — using the
+power of technology responsibly to
+bring actual utility to the world," he
+said. "This is a company with a rare
+sense of morality that I'm not sure
+can survive in the long run, but I ab
+solutely hope does."
+Google opened its sprawling Mountain View cam
+pus to journalists for the first time yesterday to sketch
+its vision for the future of Web searching and to an
+nounce the release of several new products, including
+a personalized homepage option similar to that of
+fered hv Yahoo! and a searchable satellite mapping of
+the earth.
+"Some of our users want the clean, classic home
+page," said Marissa Mayer, director of consumer Web
+products at Google and a Stanford graduate. "But
+some of our users want more."
+That "more" is a customizable homepage — now
+available at labs.google.com — that integrates
+Google's Web-based products, including its popular
+Gmail service and GoogleMaps-powered driving di
+rections, into one personalized Web site. The launch is
+the first in a new a line of "fusion" products meant to
+unify what some have called a haphazard hodgepodge
+of tools.
+True to the Google style, the interface of the new
+options is uncluttered and simple. Users will be able to
+customize their Google homepage to feature news
+headlines, stock quotes. Gmail snippets, movie times
+and weather reports. There is even a word or quote of
+the day feature.
+The Google homepage feature allows users to
+
+click-and-drag frames for instant customization, set
+ting it apart from similar tools offered by other compa
+nies including Microsoft and America Online.
+Google representatives also announced the im
+pending release of Google Earth, a searchable satellite
+imaging of the world, with high-resolution images of
+parts of the world previously neglected by satellite im
+aging programs, including Santiago. Chile, and South
+Africa. The new product will also allow users to navi
+gate terrain features so that mountains really tower
+and valleys actually sink. Google Earth will also be
+able to take users on virtual road trips.
+"You can do an awful lot of things you can't do in
+maps," said Sergey Brin, Google co-founder who
+earned his doctorate in computer science at Stanford.
+While executives remained mum on other products
+in the development pipeline, including a much-ru
+mored Google web browser, researchers offered the
+group a glimpse at other technologies in the pipeline.
+Machine translations, for instance, have come a
+long way at Google.
+"Historically, the approach to building machine
+translation systems is to have expert machine linguists
+write down dictionaries and rules on how to translate,
+say, from Chinese to English," said researcher Franz
+Och. 'Tryiag to write down all the rules on how to
+
+
+NINA GONZALUDO/
+The Stanford Daily
+Google offers a personal
+ized Web homepage and
+a searchable satellite map
+ping of the world called
+Google Earth. The compa
+ny is also working on de
+veloping machine transla
+tion systems.
+translate from Chinese to English is
+very hard."
+Instead, Google is fine-tuning a
+translation program that can auto
+matically translate back and forth
+between documents in different
+languages a sort of virtual Roset
+ta Stone.
+Current machine translations
+are inconsistent at best, Och said.
+One current translation program
+translated "The White House con
+firmed the existence of a new bin
+Laden tape" in Arabic to "Alpine
+white new presence tape registered
+for coffee confirms Laden," in Eng
+lish.
+Another Google researcher,
+Marius Pasca.said he wants the Web
+to be searchable by different cate
+gories of facts, like dates or loca
+tions. A search for " Marilyn Mon
+roe" by date, for instance, would re
+sult in a timeline of her life.
+"The basic tenet of the research
+lab is to use the huge amount of data
+and computational resources to
+solve interesting problems," said
+Alan Eustace, vice president of en
+gineering and research. "We have
+essentially unlimited computational
+power. That allows us to solve some
+very interesting problems."
+Computer science co-terminal
+student lan Spiro, who worked at
+Google last summer, said he be
+lieves the company is headed in the
+right direction.
+"Google is driven by a genuine
+desire for quality — using the
+power of technology responsibly to
+bring actual utility to the world," he
+said. "This is a company with a rare
+sense of morality that I'm not sure
+can survive in the long run, but I ab
+solutely hope does."
+Google opened its sprawling Mountain View cam
+pus to journalists for the first time yesterday to sketch
+its vision for the future of Web searching and to an
+nounce the release of several new products, including
+a personalized homepage option similar to that of
+fered hv Yahoo! and a searchable satellite mapping of
+the earth.
+"Some of our users want the clean, classic home
+page," said Marissa Mayer, director of consumer Web
+products at Google and a Stanford graduate. "But
+some of our users want more."
+That "more" is a customizable homepage — now
+available at labs.google.com — that integrates
+Google's Web-based products, including its popular
+Gmail service and GoogleMaps-powered driving di
+rections, into one personalized Web site. The launch is
+the first in a new a line of "fusion" products meant to
+unify what some have called a haphazard hodgepodge
+of tools.
+True to the Google style, the interface of the new
+options is uncluttered and simple. Users will be able to
+customize their Google homepage to feature news
+headlines, stock quotes. Gmail snippets, movie times
+and weather reports. There is even a word or quote of
+the day feature.
+The Google homepage feature allows users to
+
+click-and-drag frames for instant customization, set
+ting it apart from similar tools offered by other compa
+nies including Microsoft and America Online.
+Google representatives also announced the im
+pending release of Google Earth, a searchable satellite
+imaging of the world, with high-resolution images of
+parts of the world previously neglected by satellite im
+aging programs, including Santiago. Chile, and South
+Africa. The new product will also allow users to navi
+gate terrain features so that mountains really tower
+and valleys actually sink. Google Earth will also be
+able to take users on virtual road trips.
+"You can do an awful lot of things you can't do in
+maps," said Sergey Brin, Google co-founder who
+earned his doctorate in computer science at Stanford.
+While executives remained mum on other products
+in the development pipeline, including a much-ru
+mored Google web browser, researchers offered the
+group a glimpse at other technologies in the pipeline.
+Machine translations, for instance, have come a
+long way at Google.
+"Historically, the approach to building machine
+translation systems is to have expert machine linguists
+write down dictionaries and rules on how to translate,
+say, from Chinese to English," said researcher Franz
+Och. 'Tryiag to write down all the rules on how to
+
+
+NINA GONZALUDO/
+The Stanford Daily
+Google offers a personal
+ized Web homepage and
+a searchable satellite map
+ping of the world called
+Google Earth. The compa
+ny is also working on de
+veloping machine transla
+tion systems.
+translate from Chinese to English is
+very hard."
+Instead, Google is fine-tuning a
+translation program that can auto
+matically translate back and forth
+between documents in different
+languages a sort of virtual Roset
+ta Stone.
+Current machine translations
+are inconsistent at best, Och said.
+One current translation program
+translated "The White House con
+firmed the existence of a new bin
+Laden tape" in Arabic to "Alpine
+white new presence tape registered
+for coffee confirms Laden," in Eng
+lish.
+Another Google researcher,
+Marius Pasca.said he wants the Web
+to be searchable by different cate
+gories of facts, like dates or loca
+tions. A search for " Marilyn Mon
+roe" by date, for instance, would re
+sult in a timeline of her life.
+"The basic tenet of the research
+lab is to use the huge amount of data
+and computational resources to
+solve interesting problems," said
+Alan Eustace, vice president of en
+gineering and research. "We have
+essentially unlimited computational
+power. That allows us to solve some
+very interesting problems."
+Computer science co-terminal
+student lan Spiro, who worked at
+Google last summer, said he be
+lieves the company is headed in the
+right direction.
+"Google is driven by a genuine
+desire for quality — using the
+power of technology responsibly to
+bring actual utility to the world," he
+said. "This is a company with a rare
+sense of morality that I'm not sure
+can survive in the long run, but I ab
+solutely hope does."

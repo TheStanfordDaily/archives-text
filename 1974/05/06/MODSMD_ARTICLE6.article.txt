@@ -1,0 +1,2985 @@
+# Calculating Computers Blend Music With Science
+## 
+### K.C. FLYNN 
+The room slowly fills with sounds—some
+familiar, some strange. Bat-like noises whiz
+across the black space from somewhere
+beyond the walls. Wooden drums come out of
+nowhere, changing pitch as they move from
+side to side, from front to back. Bells tingle
+everywhere. A deep gong surrounds the
+listeners.
+You are in a small, dark room at Stanford's
+artificial intelligence laboratory as a Sony
+four-channel tape recorder begins rolling.
+The sounds originate in the complex
+circuitry of the artificial intelligence lab's
+PDP-10 computer. Painstakingly composed
+."mm millions of calculations, these sounds are
+the extraordinary music of the Stanford
+computer music program, part of the
+Department of Music here.
+Interdisciplinary Project
+The computer music program, a highly
+interdisciplinary project, blends the art and
+science of music with the technology of the
+computer and has brought together
+composers, physicists, computer experts,
+audio engineers and even psychologists.
+After years of work, the computer music
+program has begun to show very promising
+results. Stanford recently formed a "Center
+
+for Computer Research in Music and
+Acoustics," and is applying to the National
+Science Foundation and to the National
+Endowment for the Arts for more than
+$600,000 in grants to continue the project.
+But until—and unless—the grants are
+awarded, the program is stalled due to
+financial pressure.
+John Chowning, a slender, intense
+composer who led much of the work in
+computer music, recently left Stanford to
+become a resident composer for the city of
+Berlin. His appointment as assistant professor
+of music ended in April.
+'State Of Flux'
+'The program is in a state of flux," says
+Albert Cohen, Music Department chairman
+since last September. Cohen would like very
+much to expand the program, which up to
+now has produced remarkable results "on a
+shoestring," he says.
+Stanford's work has brought composers
+from Europe as well as from the Bay Area to
+the lab's hilly location behind the campus. In
+the blinking light of the green cathode-ray
+tubes, musicians see staffs and clefs moving
+around. Over the speakers they hear sounds
+never created before.
+The possibilities of computer-produced
+
+music are vast, and the combinations of
+possibilities infinite. A major problem has
+been to limit those possibilities. The basic
+reproducer of computer sound is the
+loudspeaker, which can theoretically
+reproduce any sound it is fed. The
+loudspeaker uses electrons in varying amounts,
+or voltages, to produce sound.
+The computer works in numbers, in a
+binary code of ones and zeroes. Converting
+the numbers to varying voltages, the computer
+produces changing vibrations in a loudspeaker.
+We hear the product as sound.
+Complex Sound
+Unfortunately, the simplicity ends there.
+Sound is so complex that figuring out how to
+program a computer to produce any sound
+takes vast amounts of computer time. To
+compose his latest work, Chowning estimated
+he used 40 hours of high-speed computer
+calculation to get 10 minutes of music. Some
+500 individual sounds are involved in moving
+one "bat" sound across the room.
+Computers can be considered only the
+latest in a series of electronic instruments that
+started when a Parisian named J.B. Delaborde
+hooked up an electric harpsichord.
+But it wasn't until after World War 11, when
+magnetic tape was introduced, that composers
+
+began to deal directly with the basic aspects of
+sound. Tape could be played at varying
+speeds, or backwards. Sounds could be mixed,
+or superimposed on other sounds.
+Synthesizers, introduced in the late 19505,
+produced new sounds entirely by electronic
+means. They rapidly became an important
+part of music, both serious and popular.
+Synthesizers now create music for
+television commercials as well as for the New
+York Philharmonic. The most popular
+synthesizer is the "Moog," (which rhymes
+with vogue) used often at rock concerts and in
+university electronic music laboratories.
+Moogs
+Stanford's computer music program goes
+far beyond the Moog. In fact, there are no
+Moogs on the campus partly because research
+on the Moog is very difficult. The synthesizer
+lacks real precision and the sounds can not be
+thoroughly analyzed.
+Also, except for the computer work, the
+Stanford music department offers few courses
+in the "new music" that would involve
+synthesizers or other electronic music. And
+although Cohen is sympathetic to computer
+and electronic music, Chowning's departure
+leaves only one professor fully involved with
+the computer.
+
+That man is Leland Smith, a tall, bearded
+music professor who grows ever more attached
+to his computer terminal the longer he works
+at the artificial intelligence lab.
+Smith has recently written a computer
+program that brings the art of musical
+notation into the computer era. He uses a
+TV-like terminal hooked to the computer to
+arrange the notes, clefs, and other graphic
+symbols of the music score.
+When the score is finished, a few
+instructions to the computer produce a
+printed copy. The original is stored in the
+computer's memory.
+"It's my effort for the musical library- of
+the future," says Smith. Another of his
+programs allows musical notes, carefully
+specified in terms of loudness, duration, and
+other variables, to be played directly from the
+computer's memory over a loudspeaker.
+Notes Can Be Varied
+The notes can be varied endlessly. By
+typing a few commands, the operator can
+change the sound of a clarinet to that of a
+bassoon, or to a buzz, or to a "toot."
+"You actually play the computer," says
+Smith. As he types a few new instructions, he
+changes the rhythms, the volume, and even
+adds a few random notes to the music he has
+created in a few minutes.
+The vast possibilities of composition on a
+computer have preoccupied the scientists and
+composers in the project. Serious work has been
+devoted not only to attempts to formulate new
+music, but to analyze the sounds that come out as
+well.
+One of the prime requirements in the research is
+to divide the universe of sounds into two
+groups—sounds that have meaning to us, and those
+that don't. The computer can theoretically produce
+all sound, since sound can be reduced to numbers
+stored in a computer memory.
+Psycho acoustics
+But which of the many combinations of
+numbers, for example, sounds like a violin tone?
+And which don't? John Grey, a psychologist in the
+computer music group, is probing sound and its
+meaning for humans, a field called psychoacoustics.
+"We're trying to find clues to what the ear listens
+
+to," says Andy Moorer, a graduate student in the
+program, "and what it ignores."
+"The idea is to simplify things so that we may
+more easily create sounds like violins, bells, and so
+on," Moorer says. By simplifying sound patterns,
+researchers have drastically shortened the amount of
+computer calculation needed for the computer to
+generate that tone.
+'Hal'
+Some musicians say they find the atmosphere a
+bit sterile, although the computer scientists have put
+computer-printed portraits on the walls, and little
+signs on the machines, including the name "HAL"
+over the main memory bank.
+In the film 2001: A Space Odyssey, HAL was a
+computer who tried to take control of humans on a
+space voyage. HAL was eventually subdued, but as
+he was short-circuited, he sang a song.
+The irony of making music by harnessing a
+powerful computer doesn't seem to bother the
+computer musicians. "I still love to bang away on
+the piano," says Loren Rush, a San Francisco
+
+composer who created a three-minute work for
+computer that seems to vibrate with th? overtones
+of an Indian sitar.
+"I don't think computer music will ever replace
+that special relationship between a pevson and the
+old-fashioned instrument he's playing," he says.
+Other, younger musicians see the future a bit
+differently. "I think it would be silly for a young
+person to get totally involved in something like the
+clarinet," says Dick Moore, a graduate student here
+in computer acoustics who plays the clarinet.
+Moore recently co-authored an article in Science
+magazine with two other prominent computer
+music researchers, writing that "We believe current
+technology—computers, integrated circuits, and
+make possible a new musical art,
+one that will be immeasurably more potent than
+existing music in certain ways."
+The music of the future? If the proposals go
+through, much of it may come from Stanford's
+unique interaction of science and art.
+The room slowly fills with sounds—some
+familiar, some strange. Bat-like noises whiz
+across the black space from somewhere
+beyond the walls. Wooden drums come out of
+nowhere, changing pitch as they move from
+side to side, from front to back. Bells tingle
+everywhere. A deep gong surrounds the
+listeners.
+You are in a small, dark room at Stanford's
+artificial intelligence laboratory as a Sony
+four-channel tape recorder begins rolling.
+The sounds originate in the complex
+circuitry of the artificial intelligence lab's
+PDP-10 computer. Painstakingly composed
+."mm millions of calculations, these sounds are
+the extraordinary music of the Stanford
+computer music program, part of the
+Department of Music here.
+Interdisciplinary Project
+The computer music program, a highly
+interdisciplinary project, blends the art and
+science of music with the technology of the
+computer and has brought together
+composers, physicists, computer experts,
+audio engineers and even psychologists.
+After years of work, the computer music
+program has begun to show very promising
+results. Stanford recently formed a "Center
+
+for Computer Research in Music and
+Acoustics," and is applying to the National
+Science Foundation and to the National
+Endowment for the Arts for more than
+$600,000 in grants to continue the project.
+But until—and unless—the grants are
+awarded, the program is stalled due to
+financial pressure.
+John Chowning, a slender, intense
+composer who led much of the work in
+computer music, recently left Stanford to
+become a resident composer for the city of
+Berlin. His appointment as assistant professor
+of music ended in April.
+'State Of Flux'
+'The program is in a state of flux," says
+Albert Cohen, Music Department chairman
+since last September. Cohen would like very
+much to expand the program, which up to
+now has produced remarkable results "on a
+shoestring," he says.
+Stanford's work has brought composers
+from Europe as well as from the Bay Area to
+the lab's hilly location behind the campus. In
+the blinking light of the green cathode-ray
+tubes, musicians see staffs and clefs moving
+around. Over the speakers they hear sounds
+never created before.
+The possibilities of computer-produced
+
+music are vast, and the combinations of
+possibilities infinite. A major problem has
+been to limit those possibilities. The basic
+reproducer of computer sound is the
+loudspeaker, which can theoretically
+reproduce any sound it is fed. The
+loudspeaker uses electrons in varying amounts,
+or voltages, to produce sound.
+The computer works in numbers, in a
+binary code of ones and zeroes. Converting
+the numbers to varying voltages, the computer
+produces changing vibrations in a loudspeaker.
+We hear the product as sound.
+Complex Sound
+Unfortunately, the simplicity ends there.
+Sound is so complex that figuring out how to
+program a computer to produce any sound
+takes vast amounts of computer time. To
+compose his latest work, Chowning estimated
+he used 40 hours of high-speed computer
+calculation to get 10 minutes of music. Some
+500 individual sounds are involved in moving
+one "bat" sound across the room.
+Computers can be considered only the
+latest in a series of electronic instruments that
+started when a Parisian named J.B. Delaborde
+hooked up an electric harpsichord.
+But it wasn't until after World War 11, when
+magnetic tape was introduced, that composers
+
+began to deal directly with the basic aspects of
+sound. Tape could be played at varying
+speeds, or backwards. Sounds could be mixed,
+or superimposed on other sounds.
+Synthesizers, introduced in the late 19505,
+produced new sounds entirely by electronic
+means. They rapidly became an important
+part of music, both serious and popular.
+Synthesizers now create music for
+television commercials as well as for the New
+York Philharmonic. The most popular
+synthesizer is the "Moog," (which rhymes
+with vogue) used often at rock concerts and in
+university electronic music laboratories.
+Moogs
+Stanford's computer music program goes
+far beyond the Moog. In fact, there are no
+Moogs on the campus partly because research
+on the Moog is very difficult. The synthesizer
+lacks real precision and the sounds can not be
+thoroughly analyzed.
+Also, except for the computer work, the
+Stanford music department offers few courses
+in the "new music" that would involve
+synthesizers or other electronic music. And
+although Cohen is sympathetic to computer
+and electronic music, Chowning's departure
+leaves only one professor fully involved with
+the computer.
+
+That man is Leland Smith, a tall, bearded
+music professor who grows ever more attached
+to his computer terminal the longer he works
+at the artificial intelligence lab.
+Smith has recently written a computer
+program that brings the art of musical
+notation into the computer era. He uses a
+TV-like terminal hooked to the computer to
+arrange the notes, clefs, and other graphic
+symbols of the music score.
+When the score is finished, a few
+instructions to the computer produce a
+printed copy. The original is stored in the
+computer's memory.
+"It's my effort for the musical library- of
+the future," says Smith. Another of his
+programs allows musical notes, carefully
+specified in terms of loudness, duration, and
+other variables, to be played directly from the
+computer's memory over a loudspeaker.
+Notes Can Be Varied
+The notes can be varied endlessly. By
+typing a few commands, the operator can
+change the sound of a clarinet to that of a
+bassoon, or to a buzz, or to a "toot."
+"You actually play the computer," says
+Smith. As he types a few new instructions, he
+changes the rhythms, the volume, and even
+adds a few random notes to the music he has
+created in a few minutes.
+The vast possibilities of composition on a
+computer have preoccupied the scientists and
+composers in the project. Serious work has been
+devoted not only to attempts to formulate new
+music, but to analyze the sounds that come out as
+well.
+One of the prime requirements in the research is
+to divide the universe of sounds into two
+groups—sounds that have meaning to us, and those
+that don't. The computer can theoretically produce
+all sound, since sound can be reduced to numbers
+stored in a computer memory.
+Psycho acoustics
+But which of the many combinations of
+numbers, for example, sounds like a violin tone?
+And which don't? John Grey, a psychologist in the
+computer music group, is probing sound and its
+meaning for humans, a field called psychoacoustics.
+"We're trying to find clues to what the ear listens
+
+to," says Andy Moorer, a graduate student in the
+program, "and what it ignores."
+"The idea is to simplify things so that we may
+more easily create sounds like violins, bells, and so
+on," Moorer says. By simplifying sound patterns,
+researchers have drastically shortened the amount of
+computer calculation needed for the computer to
+generate that tone.
+'Hal'
+Some musicians say they find the atmosphere a
+bit sterile, although the computer scientists have put
+computer-printed portraits on the walls, and little
+signs on the machines, including the name "HAL"
+over the main memory bank.
+In the film 2001: A Space Odyssey, HAL was a
+computer who tried to take control of humans on a
+space voyage. HAL was eventually subdued, but as
+he was short-circuited, he sang a song.
+The irony of making music by harnessing a
+powerful computer doesn't seem to bother the
+computer musicians. "I still love to bang away on
+the piano," says Loren Rush, a San Francisco
+
+composer who created a three-minute work for
+computer that seems to vibrate with th? overtones
+of an Indian sitar.
+"I don't think computer music will ever replace
+that special relationship between a pevson and the
+old-fashioned instrument he's playing," he says.
+Other, younger musicians see the future a bit
+differently. "I think it would be silly for a young
+person to get totally involved in something like the
+clarinet," says Dick Moore, a graduate student here
+in computer acoustics who plays the clarinet.
+Moore recently co-authored an article in Science
+magazine with two other prominent computer
+music researchers, writing that "We believe current
+technology—computers, integrated circuits, and
+make possible a new musical art,
+one that will be immeasurably more potent than
+existing music in certain ways."
+The music of the future? If the proposals go
+through, much of it may come from Stanford's
+unique interaction of science and art.
+The room slowly fills with sounds—some
+familiar, some strange. Bat-like noises whiz
+across the black space from somewhere
+beyond the walls. Wooden drums come out of
+nowhere, changing pitch as they move from
+side to side, from front to back. Bells tingle
+everywhere. A deep gong surrounds the
+listeners.
+You are in a small, dark room at Stanford's
+artificial intelligence laboratory as a Sony
+four-channel tape recorder begins rolling.
+The sounds originate in the complex
+circuitry of the artificial intelligence lab's
+PDP-10 computer. Painstakingly composed
+."mm millions of calculations, these sounds are
+the extraordinary music of the Stanford
+computer music program, part of the
+Department of Music here.
+Interdisciplinary Project
+The computer music program, a highly
+interdisciplinary project, blends the art and
+science of music with the technology of the
+computer and has brought together
+composers, physicists, computer experts,
+audio engineers and even psychologists.
+After years of work, the computer music
+program has begun to show very promising
+results. Stanford recently formed a "Center
+
+for Computer Research in Music and
+Acoustics," and is applying to the National
+Science Foundation and to the National
+Endowment for the Arts for more than
+$600,000 in grants to continue the project.
+But until—and unless—the grants are
+awarded, the program is stalled due to
+financial pressure.
+John Chowning, a slender, intense
+composer who led much of the work in
+computer music, recently left Stanford to
+become a resident composer for the city of
+Berlin. His appointment as assistant professor
+of music ended in April.
+'State Of Flux'
+'The program is in a state of flux," says
+Albert Cohen, Music Department chairman
+since last September. Cohen would like very
+much to expand the program, which up to
+now has produced remarkable results "on a
+shoestring," he says.
+Stanford's work has brought composers
+from Europe as well as from the Bay Area to
+the lab's hilly location behind the campus. In
+the blinking light of the green cathode-ray
+tubes, musicians see staffs and clefs moving
+around. Over the speakers they hear sounds
+never created before.
+The possibilities of computer-produced
+
+music are vast, and the combinations of
+possibilities infinite. A major problem has
+been to limit those possibilities. The basic
+reproducer of computer sound is the
+loudspeaker, which can theoretically
+reproduce any sound it is fed. The
+loudspeaker uses electrons in varying amounts,
+or voltages, to produce sound.
+The computer works in numbers, in a
+binary code of ones and zeroes. Converting
+the numbers to varying voltages, the computer
+produces changing vibrations in a loudspeaker.
+We hear the product as sound.
+Complex Sound
+Unfortunately, the simplicity ends there.
+Sound is so complex that figuring out how to
+program a computer to produce any sound
+takes vast amounts of computer time. To
+compose his latest work, Chowning estimated
+he used 40 hours of high-speed computer
+calculation to get 10 minutes of music. Some
+500 individual sounds are involved in moving
+one "bat" sound across the room.
+Computers can be considered only the
+latest in a series of electronic instruments that
+started when a Parisian named J.B. Delaborde
+hooked up an electric harpsichord.
+But it wasn't until after World War 11, when
+magnetic tape was introduced, that composers
+
+began to deal directly with the basic aspects of
+sound. Tape could be played at varying
+speeds, or backwards. Sounds could be mixed,
+or superimposed on other sounds.
+Synthesizers, introduced in the late 19505,
+produced new sounds entirely by electronic
+means. They rapidly became an important
+part of music, both serious and popular.
+Synthesizers now create music for
+television commercials as well as for the New
+York Philharmonic. The most popular
+synthesizer is the "Moog," (which rhymes
+with vogue) used often at rock concerts and in
+university electronic music laboratories.
+Moogs
+Stanford's computer music program goes
+far beyond the Moog. In fact, there are no
+Moogs on the campus partly because research
+on the Moog is very difficult. The synthesizer
+lacks real precision and the sounds can not be
+thoroughly analyzed.
+Also, except for the computer work, the
+Stanford music department offers few courses
+in the "new music" that would involve
+synthesizers or other electronic music. And
+although Cohen is sympathetic to computer
+and electronic music, Chowning's departure
+leaves only one professor fully involved with
+the computer.
+
+That man is Leland Smith, a tall, bearded
+music professor who grows ever more attached
+to his computer terminal the longer he works
+at the artificial intelligence lab.
+Smith has recently written a computer
+program that brings the art of musical
+notation into the computer era. He uses a
+TV-like terminal hooked to the computer to
+arrange the notes, clefs, and other graphic
+symbols of the music score.
+When the score is finished, a few
+instructions to the computer produce a
+printed copy. The original is stored in the
+computer's memory.
+"It's my effort for the musical library- of
+the future," says Smith. Another of his
+programs allows musical notes, carefully
+specified in terms of loudness, duration, and
+other variables, to be played directly from the
+computer's memory over a loudspeaker.
+Notes Can Be Varied
+The notes can be varied endlessly. By
+typing a few commands, the operator can
+change the sound of a clarinet to that of a
+bassoon, or to a buzz, or to a "toot."
+"You actually play the computer," says
+Smith. As he types a few new instructions, he
+changes the rhythms, the volume, and even
+adds a few random notes to the music he has
+created in a few minutes.
+The vast possibilities of composition on a
+computer have preoccupied the scientists and
+composers in the project. Serious work has been
+devoted not only to attempts to formulate new
+music, but to analyze the sounds that come out as
+well.
+One of the prime requirements in the research is
+to divide the universe of sounds into two
+groups—sounds that have meaning to us, and those
+that don't. The computer can theoretically produce
+all sound, since sound can be reduced to numbers
+stored in a computer memory.
+Psycho acoustics
+But which of the many combinations of
+numbers, for example, sounds like a violin tone?
+And which don't? John Grey, a psychologist in the
+computer music group, is probing sound and its
+meaning for humans, a field called psychoacoustics.
+"We're trying to find clues to what the ear listens
+
+to," says Andy Moorer, a graduate student in the
+program, "and what it ignores."
+"The idea is to simplify things so that we may
+more easily create sounds like violins, bells, and so
+on," Moorer says. By simplifying sound patterns,
+researchers have drastically shortened the amount of
+computer calculation needed for the computer to
+generate that tone.
+'Hal'
+Some musicians say they find the atmosphere a
+bit sterile, although the computer scientists have put
+computer-printed portraits on the walls, and little
+signs on the machines, including the name "HAL"
+over the main memory bank.
+In the film 2001: A Space Odyssey, HAL was a
+computer who tried to take control of humans on a
+space voyage. HAL was eventually subdued, but as
+he was short-circuited, he sang a song.
+The irony of making music by harnessing a
+powerful computer doesn't seem to bother the
+computer musicians. "I still love to bang away on
+the piano," says Loren Rush, a San Francisco
+
+composer who created a three-minute work for
+computer that seems to vibrate with th? overtones
+of an Indian sitar.
+"I don't think computer music will ever replace
+that special relationship between a pevson and the
+old-fashioned instrument he's playing," he says.
+Other, younger musicians see the future a bit
+differently. "I think it would be silly for a young
+person to get totally involved in something like the
+clarinet," says Dick Moore, a graduate student here
+in computer acoustics who plays the clarinet.
+Moore recently co-authored an article in Science
+magazine with two other prominent computer
+music researchers, writing that "We believe current
+technology—computers, integrated circuits, and
+make possible a new musical art,
+one that will be immeasurably more potent than
+existing music in certain ways."
+The music of the future? If the proposals go
+through, much of it may come from Stanford's
+unique interaction of science and art.
+The room slowly fills with sounds—some
+familiar, some strange. Bat-like noises whiz
+across the black space from somewhere
+beyond the walls. Wooden drums come out of
+nowhere, changing pitch as they move from
+side to side, from front to back. Bells tingle
+everywhere. A deep gong surrounds the
+listeners.
+You are in a small, dark room at Stanford's
+artificial intelligence laboratory as a Sony
+four-channel tape recorder begins rolling.
+The sounds originate in the complex
+circuitry of the artificial intelligence lab's
+PDP-10 computer. Painstakingly composed
+."mm millions of calculations, these sounds are
+the extraordinary music of the Stanford
+computer music program, part of the
+Department of Music here.
+Interdisciplinary Project
+The computer music program, a highly
+interdisciplinary project, blends the art and
+science of music with the technology of the
+computer and has brought together
+composers, physicists, computer experts,
+audio engineers and even psychologists.
+After years of work, the computer music
+program has begun to show very promising
+results. Stanford recently formed a "Center
+
+for Computer Research in Music and
+Acoustics," and is applying to the National
+Science Foundation and to the National
+Endowment for the Arts for more than
+$600,000 in grants to continue the project.
+But until—and unless—the grants are
+awarded, the program is stalled due to
+financial pressure.
+John Chowning, a slender, intense
+composer who led much of the work in
+computer music, recently left Stanford to
+become a resident composer for the city of
+Berlin. His appointment as assistant professor
+of music ended in April.
+'State Of Flux'
+'The program is in a state of flux," says
+Albert Cohen, Music Department chairman
+since last September. Cohen would like very
+much to expand the program, which up to
+now has produced remarkable results "on a
+shoestring," he says.
+Stanford's work has brought composers
+from Europe as well as from the Bay Area to
+the lab's hilly location behind the campus. In
+the blinking light of the green cathode-ray
+tubes, musicians see staffs and clefs moving
+around. Over the speakers they hear sounds
+never created before.
+The possibilities of computer-produced
+
+music are vast, and the combinations of
+possibilities infinite. A major problem has
+been to limit those possibilities. The basic
+reproducer of computer sound is the
+loudspeaker, which can theoretically
+reproduce any sound it is fed. The
+loudspeaker uses electrons in varying amounts,
+or voltages, to produce sound.
+The computer works in numbers, in a
+binary code of ones and zeroes. Converting
+the numbers to varying voltages, the computer
+produces changing vibrations in a loudspeaker.
+We hear the product as sound.
+Complex Sound
+Unfortunately, the simplicity ends there.
+Sound is so complex that figuring out how to
+program a computer to produce any sound
+takes vast amounts of computer time. To
+compose his latest work, Chowning estimated
+he used 40 hours of high-speed computer
+calculation to get 10 minutes of music. Some
+500 individual sounds are involved in moving
+one "bat" sound across the room.
+Computers can be considered only the
+latest in a series of electronic instruments that
+started when a Parisian named J.B. Delaborde
+hooked up an electric harpsichord.
+But it wasn't until after World War 11, when
+magnetic tape was introduced, that composers
+
+began to deal directly with the basic aspects of
+sound. Tape could be played at varying
+speeds, or backwards. Sounds could be mixed,
+or superimposed on other sounds.
+Synthesizers, introduced in the late 19505,
+produced new sounds entirely by electronic
+means. They rapidly became an important
+part of music, both serious and popular.
+Synthesizers now create music for
+television commercials as well as for the New
+York Philharmonic. The most popular
+synthesizer is the "Moog," (which rhymes
+with vogue) used often at rock concerts and in
+university electronic music laboratories.
+Moogs
+Stanford's computer music program goes
+far beyond the Moog. In fact, there are no
+Moogs on the campus partly because research
+on the Moog is very difficult. The synthesizer
+lacks real precision and the sounds can not be
+thoroughly analyzed.
+Also, except for the computer work, the
+Stanford music department offers few courses
+in the "new music" that would involve
+synthesizers or other electronic music. And
+although Cohen is sympathetic to computer
+and electronic music, Chowning's departure
+leaves only one professor fully involved with
+the computer.
+
+That man is Leland Smith, a tall, bearded
+music professor who grows ever more attached
+to his computer terminal the longer he works
+at the artificial intelligence lab.
+Smith has recently written a computer
+program that brings the art of musical
+notation into the computer era. He uses a
+TV-like terminal hooked to the computer to
+arrange the notes, clefs, and other graphic
+symbols of the music score.
+When the score is finished, a few
+instructions to the computer produce a
+printed copy. The original is stored in the
+computer's memory.
+"It's my effort for the musical library- of
+the future," says Smith. Another of his
+programs allows musical notes, carefully
+specified in terms of loudness, duration, and
+other variables, to be played directly from the
+computer's memory over a loudspeaker.
+Notes Can Be Varied
+The notes can be varied endlessly. By
+typing a few commands, the operator can
+change the sound of a clarinet to that of a
+bassoon, or to a buzz, or to a "toot."
+"You actually play the computer," says
+Smith. As he types a few new instructions, he
+changes the rhythms, the volume, and even
+adds a few random notes to the music he has
+created in a few minutes.
+The vast possibilities of composition on a
+computer have preoccupied the scientists and
+composers in the project. Serious work has been
+devoted not only to attempts to formulate new
+music, but to analyze the sounds that come out as
+well.
+One of the prime requirements in the research is
+to divide the universe of sounds into two
+groups—sounds that have meaning to us, and those
+that don't. The computer can theoretically produce
+all sound, since sound can be reduced to numbers
+stored in a computer memory.
+Psycho acoustics
+But which of the many combinations of
+numbers, for example, sounds like a violin tone?
+And which don't? John Grey, a psychologist in the
+computer music group, is probing sound and its
+meaning for humans, a field called psychoacoustics.
+"We're trying to find clues to what the ear listens
+
+to," says Andy Moorer, a graduate student in the
+program, "and what it ignores."
+"The idea is to simplify things so that we may
+more easily create sounds like violins, bells, and so
+on," Moorer says. By simplifying sound patterns,
+researchers have drastically shortened the amount of
+computer calculation needed for the computer to
+generate that tone.
+'Hal'
+Some musicians say they find the atmosphere a
+bit sterile, although the computer scientists have put
+computer-printed portraits on the walls, and little
+signs on the machines, including the name "HAL"
+over the main memory bank.
+In the film 2001: A Space Odyssey, HAL was a
+computer who tried to take control of humans on a
+space voyage. HAL was eventually subdued, but as
+he was short-circuited, he sang a song.
+The irony of making music by harnessing a
+powerful computer doesn't seem to bother the
+computer musicians. "I still love to bang away on
+the piano," says Loren Rush, a San Francisco
+
+composer who created a three-minute work for
+computer that seems to vibrate with th? overtones
+of an Indian sitar.
+"I don't think computer music will ever replace
+that special relationship between a pevson and the
+old-fashioned instrument he's playing," he says.
+Other, younger musicians see the future a bit
+differently. "I think it would be silly for a young
+person to get totally involved in something like the
+clarinet," says Dick Moore, a graduate student here
+in computer acoustics who plays the clarinet.
+Moore recently co-authored an article in Science
+magazine with two other prominent computer
+music researchers, writing that "We believe current
+technology—computers, integrated circuits, and
+make possible a new musical art,
+one that will be immeasurably more potent than
+existing music in certain ways."
+The music of the future? If the proposals go
+through, much of it may come from Stanford's
+unique interaction of science and art.
+The room slowly fills with sounds—some
+familiar, some strange. Bat-like noises whiz
+across the black space from somewhere
+beyond the walls. Wooden drums come out of
+nowhere, changing pitch as they move from
+side to side, from front to back. Bells tingle
+everywhere. A deep gong surrounds the
+listeners.
+You are in a small, dark room at Stanford's
+artificial intelligence laboratory as a Sony
+four-channel tape recorder begins rolling.
+The sounds originate in the complex
+circuitry of the artificial intelligence lab's
+PDP-10 computer. Painstakingly composed
+."mm millions of calculations, these sounds are
+the extraordinary music of the Stanford
+computer music program, part of the
+Department of Music here.
+Interdisciplinary Project
+The computer music program, a highly
+interdisciplinary project, blends the art and
+science of music with the technology of the
+computer and has brought together
+composers, physicists, computer experts,
+audio engineers and even psychologists.
+After years of work, the computer music
+program has begun to show very promising
+results. Stanford recently formed a "Center
+
+for Computer Research in Music and
+Acoustics," and is applying to the National
+Science Foundation and to the National
+Endowment for the Arts for more than
+$600,000 in grants to continue the project.
+But until—and unless—the grants are
+awarded, the program is stalled due to
+financial pressure.
+John Chowning, a slender, intense
+composer who led much of the work in
+computer music, recently left Stanford to
+become a resident composer for the city of
+Berlin. His appointment as assistant professor
+of music ended in April.
+'State Of Flux'
+'The program is in a state of flux," says
+Albert Cohen, Music Department chairman
+since last September. Cohen would like very
+much to expand the program, which up to
+now has produced remarkable results "on a
+shoestring," he says.
+Stanford's work has brought composers
+from Europe as well as from the Bay Area to
+the lab's hilly location behind the campus. In
+the blinking light of the green cathode-ray
+tubes, musicians see staffs and clefs moving
+around. Over the speakers they hear sounds
+never created before.
+The possibilities of computer-produced
+
+music are vast, and the combinations of
+possibilities infinite. A major problem has
+been to limit those possibilities. The basic
+reproducer of computer sound is the
+loudspeaker, which can theoretically
+reproduce any sound it is fed. The
+loudspeaker uses electrons in varying amounts,
+or voltages, to produce sound.
+The computer works in numbers, in a
+binary code of ones and zeroes. Converting
+the numbers to varying voltages, the computer
+produces changing vibrations in a loudspeaker.
+We hear the product as sound.
+Complex Sound
+Unfortunately, the simplicity ends there.
+Sound is so complex that figuring out how to
+program a computer to produce any sound
+takes vast amounts of computer time. To
+compose his latest work, Chowning estimated
+he used 40 hours of high-speed computer
+calculation to get 10 minutes of music. Some
+500 individual sounds are involved in moving
+one "bat" sound across the room.
+Computers can be considered only the
+latest in a series of electronic instruments that
+started when a Parisian named J.B. Delaborde
+hooked up an electric harpsichord.
+But it wasn't until after World War 11, when
+magnetic tape was introduced, that composers
+
+began to deal directly with the basic aspects of
+sound. Tape could be played at varying
+speeds, or backwards. Sounds could be mixed,
+or superimposed on other sounds.
+Synthesizers, introduced in the late 19505,
+produced new sounds entirely by electronic
+means. They rapidly became an important
+part of music, both serious and popular.
+Synthesizers now create music for
+television commercials as well as for the New
+York Philharmonic. The most popular
+synthesizer is the "Moog," (which rhymes
+with vogue) used often at rock concerts and in
+university electronic music laboratories.
+Moogs
+Stanford's computer music program goes
+far beyond the Moog. In fact, there are no
+Moogs on the campus partly because research
+on the Moog is very difficult. The synthesizer
+lacks real precision and the sounds can not be
+thoroughly analyzed.
+Also, except for the computer work, the
+Stanford music department offers few courses
+in the "new music" that would involve
+synthesizers or other electronic music. And
+although Cohen is sympathetic to computer
+and electronic music, Chowning's departure
+leaves only one professor fully involved with
+the computer.
+
+That man is Leland Smith, a tall, bearded
+music professor who grows ever more attached
+to his computer terminal the longer he works
+at the artificial intelligence lab.
+Smith has recently written a computer
+program that brings the art of musical
+notation into the computer era. He uses a
+TV-like terminal hooked to the computer to
+arrange the notes, clefs, and other graphic
+symbols of the music score.
+When the score is finished, a few
+instructions to the computer produce a
+printed copy. The original is stored in the
+computer's memory.
+"It's my effort for the musical library- of
+the future," says Smith. Another of his
+programs allows musical notes, carefully
+specified in terms of loudness, duration, and
+other variables, to be played directly from the
+computer's memory over a loudspeaker.
+Notes Can Be Varied
+The notes can be varied endlessly. By
+typing a few commands, the operator can
+change the sound of a clarinet to that of a
+bassoon, or to a buzz, or to a "toot."
+"You actually play the computer," says
+Smith. As he types a few new instructions, he
+changes the rhythms, the volume, and even
+adds a few random notes to the music he has
+created in a few minutes.
+The vast possibilities of composition on a
+computer have preoccupied the scientists and
+composers in the project. Serious work has been
+devoted not only to attempts to formulate new
+music, but to analyze the sounds that come out as
+well.
+One of the prime requirements in the research is
+to divide the universe of sounds into two
+groups—sounds that have meaning to us, and those
+that don't. The computer can theoretically produce
+all sound, since sound can be reduced to numbers
+stored in a computer memory.
+Psycho acoustics
+But which of the many combinations of
+numbers, for example, sounds like a violin tone?
+And which don't? John Grey, a psychologist in the
+computer music group, is probing sound and its
+meaning for humans, a field called psychoacoustics.
+"We're trying to find clues to what the ear listens
+
+to," says Andy Moorer, a graduate student in the
+program, "and what it ignores."
+"The idea is to simplify things so that we may
+more easily create sounds like violins, bells, and so
+on," Moorer says. By simplifying sound patterns,
+researchers have drastically shortened the amount of
+computer calculation needed for the computer to
+generate that tone.
+'Hal'
+Some musicians say they find the atmosphere a
+bit sterile, although the computer scientists have put
+computer-printed portraits on the walls, and little
+signs on the machines, including the name "HAL"
+over the main memory bank.
+In the film 2001: A Space Odyssey, HAL was a
+computer who tried to take control of humans on a
+space voyage. HAL was eventually subdued, but as
+he was short-circuited, he sang a song.
+The irony of making music by harnessing a
+powerful computer doesn't seem to bother the
+computer musicians. "I still love to bang away on
+the piano," says Loren Rush, a San Francisco
+
+composer who created a three-minute work for
+computer that seems to vibrate with th? overtones
+of an Indian sitar.
+"I don't think computer music will ever replace
+that special relationship between a pevson and the
+old-fashioned instrument he's playing," he says.
+Other, younger musicians see the future a bit
+differently. "I think it would be silly for a young
+person to get totally involved in something like the
+clarinet," says Dick Moore, a graduate student here
+in computer acoustics who plays the clarinet.
+Moore recently co-authored an article in Science
+magazine with two other prominent computer
+music researchers, writing that "We believe current
+technology—computers, integrated circuits, and
+make possible a new musical art,
+one that will be immeasurably more potent than
+existing music in certain ways."
+The music of the future? If the proposals go
+through, much of it may come from Stanford's
+unique interaction of science and art.
+The room slowly fills with sounds—some
+familiar, some strange. Bat-like noises whiz
+across the black space from somewhere
+beyond the walls. Wooden drums come out of
+nowhere, changing pitch as they move from
+side to side, from front to back. Bells tingle
+everywhere. A deep gong surrounds the
+listeners.
+You are in a small, dark room at Stanford's
+artificial intelligence laboratory as a Sony
+four-channel tape recorder begins rolling.
+The sounds originate in the complex
+circuitry of the artificial intelligence lab's
+PDP-10 computer. Painstakingly composed
+."mm millions of calculations, these sounds are
+the extraordinary music of the Stanford
+computer music program, part of the
+Department of Music here.
+Interdisciplinary Project
+The computer music program, a highly
+interdisciplinary project, blends the art and
+science of music with the technology of the
+computer and has brought together
+composers, physicists, computer experts,
+audio engineers and even psychologists.
+After years of work, the computer music
+program has begun to show very promising
+results. Stanford recently formed a "Center
+
+for Computer Research in Music and
+Acoustics," and is applying to the National
+Science Foundation and to the National
+Endowment for the Arts for more than
+$600,000 in grants to continue the project.
+But until—and unless—the grants are
+awarded, the program is stalled due to
+financial pressure.
+John Chowning, a slender, intense
+composer who led much of the work in
+computer music, recently left Stanford to
+become a resident composer for the city of
+Berlin. His appointment as assistant professor
+of music ended in April.
+'State Of Flux'
+'The program is in a state of flux," says
+Albert Cohen, Music Department chairman
+since last September. Cohen would like very
+much to expand the program, which up to
+now has produced remarkable results "on a
+shoestring," he says.
+Stanford's work has brought composers
+from Europe as well as from the Bay Area to
+the lab's hilly location behind the campus. In
+the blinking light of the green cathode-ray
+tubes, musicians see staffs and clefs moving
+around. Over the speakers they hear sounds
+never created before.
+The possibilities of computer-produced
+
+music are vast, and the combinations of
+possibilities infinite. A major problem has
+been to limit those possibilities. The basic
+reproducer of computer sound is the
+loudspeaker, which can theoretically
+reproduce any sound it is fed. The
+loudspeaker uses electrons in varying amounts,
+or voltages, to produce sound.
+The computer works in numbers, in a
+binary code of ones and zeroes. Converting
+the numbers to varying voltages, the computer
+produces changing vibrations in a loudspeaker.
+We hear the product as sound.
+Complex Sound
+Unfortunately, the simplicity ends there.
+Sound is so complex that figuring out how to
+program a computer to produce any sound
+takes vast amounts of computer time. To
+compose his latest work, Chowning estimated
+he used 40 hours of high-speed computer
+calculation to get 10 minutes of music. Some
+500 individual sounds are involved in moving
+one "bat" sound across the room.
+Computers can be considered only the
+latest in a series of electronic instruments that
+started when a Parisian named J.B. Delaborde
+hooked up an electric harpsichord.
+But it wasn't until after World War 11, when
+magnetic tape was introduced, that composers
+
+began to deal directly with the basic aspects of
+sound. Tape could be played at varying
+speeds, or backwards. Sounds could be mixed,
+or superimposed on other sounds.
+Synthesizers, introduced in the late 19505,
+produced new sounds entirely by electronic
+means. They rapidly became an important
+part of music, both serious and popular.
+Synthesizers now create music for
+television commercials as well as for the New
+York Philharmonic. The most popular
+synthesizer is the "Moog," (which rhymes
+with vogue) used often at rock concerts and in
+university electronic music laboratories.
+Moogs
+Stanford's computer music program goes
+far beyond the Moog. In fact, there are no
+Moogs on the campus partly because research
+on the Moog is very difficult. The synthesizer
+lacks real precision and the sounds can not be
+thoroughly analyzed.
+Also, except for the computer work, the
+Stanford music department offers few courses
+in the "new music" that would involve
+synthesizers or other electronic music. And
+although Cohen is sympathetic to computer
+and electronic music, Chowning's departure
+leaves only one professor fully involved with
+the computer.
+
+That man is Leland Smith, a tall, bearded
+music professor who grows ever more attached
+to his computer terminal the longer he works
+at the artificial intelligence lab.
+Smith has recently written a computer
+program that brings the art of musical
+notation into the computer era. He uses a
+TV-like terminal hooked to the computer to
+arrange the notes, clefs, and other graphic
+symbols of the music score.
+When the score is finished, a few
+instructions to the computer produce a
+printed copy. The original is stored in the
+computer's memory.
+"It's my effort for the musical library- of
+the future," says Smith. Another of his
+programs allows musical notes, carefully
+specified in terms of loudness, duration, and
+other variables, to be played directly from the
+computer's memory over a loudspeaker.
+Notes Can Be Varied
+The notes can be varied endlessly. By
+typing a few commands, the operator can
+change the sound of a clarinet to that of a
+bassoon, or to a buzz, or to a "toot."
+"You actually play the computer," says
+Smith. As he types a few new instructions, he
+changes the rhythms, the volume, and even
+adds a few random notes to the music he has
+created in a few minutes.
+The vast possibilities of composition on a
+computer have preoccupied the scientists and
+composers in the project. Serious work has been
+devoted not only to attempts to formulate new
+music, but to analyze the sounds that come out as
+well.
+One of the prime requirements in the research is
+to divide the universe of sounds into two
+groups—sounds that have meaning to us, and those
+that don't. The computer can theoretically produce
+all sound, since sound can be reduced to numbers
+stored in a computer memory.
+Psycho acoustics
+But which of the many combinations of
+numbers, for example, sounds like a violin tone?
+And which don't? John Grey, a psychologist in the
+computer music group, is probing sound and its
+meaning for humans, a field called psychoacoustics.
+"We're trying to find clues to what the ear listens
+
+to," says Andy Moorer, a graduate student in the
+program, "and what it ignores."
+"The idea is to simplify things so that we may
+more easily create sounds like violins, bells, and so
+on," Moorer says. By simplifying sound patterns,
+researchers have drastically shortened the amount of
+computer calculation needed for the computer to
+generate that tone.
+'Hal'
+Some musicians say they find the atmosphere a
+bit sterile, although the computer scientists have put
+computer-printed portraits on the walls, and little
+signs on the machines, including the name "HAL"
+over the main memory bank.
+In the film 2001: A Space Odyssey, HAL was a
+computer who tried to take control of humans on a
+space voyage. HAL was eventually subdued, but as
+he was short-circuited, he sang a song.
+The irony of making music by harnessing a
+powerful computer doesn't seem to bother the
+computer musicians. "I still love to bang away on
+the piano," says Loren Rush, a San Francisco
+
+composer who created a three-minute work for
+computer that seems to vibrate with th? overtones
+of an Indian sitar.
+"I don't think computer music will ever replace
+that special relationship between a pevson and the
+old-fashioned instrument he's playing," he says.
+Other, younger musicians see the future a bit
+differently. "I think it would be silly for a young
+person to get totally involved in something like the
+clarinet," says Dick Moore, a graduate student here
+in computer acoustics who plays the clarinet.
+Moore recently co-authored an article in Science
+magazine with two other prominent computer
+music researchers, writing that "We believe current
+technology—computers, integrated circuits, and
+make possible a new musical art,
+one that will be immeasurably more potent than
+existing music in certain ways."
+The music of the future? If the proposals go
+through, much of it may come from Stanford's
+unique interaction of science and art.
+The room slowly fills with sounds—some
+familiar, some strange. Bat-like noises whiz
+across the black space from somewhere
+beyond the walls. Wooden drums come out of
+nowhere, changing pitch as they move from
+side to side, from front to back. Bells tingle
+everywhere. A deep gong surrounds the
+listeners.
+You are in a small, dark room at Stanford's
+artificial intelligence laboratory as a Sony
+four-channel tape recorder begins rolling.
+The sounds originate in the complex
+circuitry of the artificial intelligence lab's
+PDP-10 computer. Painstakingly composed
+."mm millions of calculations, these sounds are
+the extraordinary music of the Stanford
+computer music program, part of the
+Department of Music here.
+Interdisciplinary Project
+The computer music program, a highly
+interdisciplinary project, blends the art and
+science of music with the technology of the
+computer and has brought together
+composers, physicists, computer experts,
+audio engineers and even psychologists.
+After years of work, the computer music
+program has begun to show very promising
+results. Stanford recently formed a "Center
+
+for Computer Research in Music and
+Acoustics," and is applying to the National
+Science Foundation and to the National
+Endowment for the Arts for more than
+$600,000 in grants to continue the project.
+But until—and unless—the grants are
+awarded, the program is stalled due to
+financial pressure.
+John Chowning, a slender, intense
+composer who led much of the work in
+computer music, recently left Stanford to
+become a resident composer for the city of
+Berlin. His appointment as assistant professor
+of music ended in April.
+'State Of Flux'
+'The program is in a state of flux," says
+Albert Cohen, Music Department chairman
+since last September. Cohen would like very
+much to expand the program, which up to
+now has produced remarkable results "on a
+shoestring," he says.
+Stanford's work has brought composers
+from Europe as well as from the Bay Area to
+the lab's hilly location behind the campus. In
+the blinking light of the green cathode-ray
+tubes, musicians see staffs and clefs moving
+around. Over the speakers they hear sounds
+never created before.
+The possibilities of computer-produced
+
+music are vast, and the combinations of
+possibilities infinite. A major problem has
+been to limit those possibilities. The basic
+reproducer of computer sound is the
+loudspeaker, which can theoretically
+reproduce any sound it is fed. The
+loudspeaker uses electrons in varying amounts,
+or voltages, to produce sound.
+The computer works in numbers, in a
+binary code of ones and zeroes. Converting
+the numbers to varying voltages, the computer
+produces changing vibrations in a loudspeaker.
+We hear the product as sound.
+Complex Sound
+Unfortunately, the simplicity ends there.
+Sound is so complex that figuring out how to
+program a computer to produce any sound
+takes vast amounts of computer time. To
+compose his latest work, Chowning estimated
+he used 40 hours of high-speed computer
+calculation to get 10 minutes of music. Some
+500 individual sounds are involved in moving
+one "bat" sound across the room.
+Computers can be considered only the
+latest in a series of electronic instruments that
+started when a Parisian named J.B. Delaborde
+hooked up an electric harpsichord.
+But it wasn't until after World War 11, when
+magnetic tape was introduced, that composers
+
+began to deal directly with the basic aspects of
+sound. Tape could be played at varying
+speeds, or backwards. Sounds could be mixed,
+or superimposed on other sounds.
+Synthesizers, introduced in the late 19505,
+produced new sounds entirely by electronic
+means. They rapidly became an important
+part of music, both serious and popular.
+Synthesizers now create music for
+television commercials as well as for the New
+York Philharmonic. The most popular
+synthesizer is the "Moog," (which rhymes
+with vogue) used often at rock concerts and in
+university electronic music laboratories.
+Moogs
+Stanford's computer music program goes
+far beyond the Moog. In fact, there are no
+Moogs on the campus partly because research
+on the Moog is very difficult. The synthesizer
+lacks real precision and the sounds can not be
+thoroughly analyzed.
+Also, except for the computer work, the
+Stanford music department offers few courses
+in the "new music" that would involve
+synthesizers or other electronic music. And
+although Cohen is sympathetic to computer
+and electronic music, Chowning's departure
+leaves only one professor fully involved with
+the computer.
+
+That man is Leland Smith, a tall, bearded
+music professor who grows ever more attached
+to his computer terminal the longer he works
+at the artificial intelligence lab.
+Smith has recently written a computer
+program that brings the art of musical
+notation into the computer era. He uses a
+TV-like terminal hooked to the computer to
+arrange the notes, clefs, and other graphic
+symbols of the music score.
+When the score is finished, a few
+instructions to the computer produce a
+printed copy. The original is stored in the
+computer's memory.
+"It's my effort for the musical library- of
+the future," says Smith. Another of his
+programs allows musical notes, carefully
+specified in terms of loudness, duration, and
+other variables, to be played directly from the
+computer's memory over a loudspeaker.
+Notes Can Be Varied
+The notes can be varied endlessly. By
+typing a few commands, the operator can
+change the sound of a clarinet to that of a
+bassoon, or to a buzz, or to a "toot."
+"You actually play the computer," says
+Smith. As he types a few new instructions, he
+changes the rhythms, the volume, and even
+adds a few random notes to the music he has
+created in a few minutes.
+The vast possibilities of composition on a
+computer have preoccupied the scientists and
+composers in the project. Serious work has been
+devoted not only to attempts to formulate new
+music, but to analyze the sounds that come out as
+well.
+One of the prime requirements in the research is
+to divide the universe of sounds into two
+groups—sounds that have meaning to us, and those
+that don't. The computer can theoretically produce
+all sound, since sound can be reduced to numbers
+stored in a computer memory.
+Psycho acoustics
+But which of the many combinations of
+numbers, for example, sounds like a violin tone?
+And which don't? John Grey, a psychologist in the
+computer music group, is probing sound and its
+meaning for humans, a field called psychoacoustics.
+"We're trying to find clues to what the ear listens
+
+to," says Andy Moorer, a graduate student in the
+program, "and what it ignores."
+"The idea is to simplify things so that we may
+more easily create sounds like violins, bells, and so
+on," Moorer says. By simplifying sound patterns,
+researchers have drastically shortened the amount of
+computer calculation needed for the computer to
+generate that tone.
+'Hal'
+Some musicians say they find the atmosphere a
+bit sterile, although the computer scientists have put
+computer-printed portraits on the walls, and little
+signs on the machines, including the name "HAL"
+over the main memory bank.
+In the film 2001: A Space Odyssey, HAL was a
+computer who tried to take control of humans on a
+space voyage. HAL was eventually subdued, but as
+he was short-circuited, he sang a song.
+The irony of making music by harnessing a
+powerful computer doesn't seem to bother the
+computer musicians. "I still love to bang away on
+the piano," says Loren Rush, a San Francisco
+
+composer who created a three-minute work for
+computer that seems to vibrate with th? overtones
+of an Indian sitar.
+"I don't think computer music will ever replace
+that special relationship between a pevson and the
+old-fashioned instrument he's playing," he says.
+Other, younger musicians see the future a bit
+differently. "I think it would be silly for a young
+person to get totally involved in something like the
+clarinet," says Dick Moore, a graduate student here
+in computer acoustics who plays the clarinet.
+Moore recently co-authored an article in Science
+magazine with two other prominent computer
+music researchers, writing that "We believe current
+technology—computers, integrated circuits, and
+make possible a new musical art,
+one that will be immeasurably more potent than
+existing music in certain ways."
+The music of the future? If the proposals go
+through, much of it may come from Stanford's
+unique interaction of science and art.
+The room slowly fills with sounds—some
+familiar, some strange. Bat-like noises whiz
+across the black space from somewhere
+beyond the walls. Wooden drums come out of
+nowhere, changing pitch as they move from
+side to side, from front to back. Bells tingle
+everywhere. A deep gong surrounds the
+listeners.
+You are in a small, dark room at Stanford's
+artificial intelligence laboratory as a Sony
+four-channel tape recorder begins rolling.
+The sounds originate in the complex
+circuitry of the artificial intelligence lab's
+PDP-10 computer. Painstakingly composed
+."mm millions of calculations, these sounds are
+the extraordinary music of the Stanford
+computer music program, part of the
+Department of Music here.
+Interdisciplinary Project
+The computer music program, a highly
+interdisciplinary project, blends the art and
+science of music with the technology of the
+computer and has brought together
+composers, physicists, computer experts,
+audio engineers and even psychologists.
+After years of work, the computer music
+program has begun to show very promising
+results. Stanford recently formed a "Center
+
+for Computer Research in Music and
+Acoustics," and is applying to the National
+Science Foundation and to the National
+Endowment for the Arts for more than
+$600,000 in grants to continue the project.
+But until—and unless—the grants are
+awarded, the program is stalled due to
+financial pressure.
+John Chowning, a slender, intense
+composer who led much of the work in
+computer music, recently left Stanford to
+become a resident composer for the city of
+Berlin. His appointment as assistant professor
+of music ended in April.
+'State Of Flux'
+'The program is in a state of flux," says
+Albert Cohen, Music Department chairman
+since last September. Cohen would like very
+much to expand the program, which up to
+now has produced remarkable results "on a
+shoestring," he says.
+Stanford's work has brought composers
+from Europe as well as from the Bay Area to
+the lab's hilly location behind the campus. In
+the blinking light of the green cathode-ray
+tubes, musicians see staffs and clefs moving
+around. Over the speakers they hear sounds
+never created before.
+The possibilities of computer-produced
+
+music are vast, and the combinations of
+possibilities infinite. A major problem has
+been to limit those possibilities. The basic
+reproducer of computer sound is the
+loudspeaker, which can theoretically
+reproduce any sound it is fed. The
+loudspeaker uses electrons in varying amounts,
+or voltages, to produce sound.
+The computer works in numbers, in a
+binary code of ones and zeroes. Converting
+the numbers to varying voltages, the computer
+produces changing vibrations in a loudspeaker.
+We hear the product as sound.
+Complex Sound
+Unfortunately, the simplicity ends there.
+Sound is so complex that figuring out how to
+program a computer to produce any sound
+takes vast amounts of computer time. To
+compose his latest work, Chowning estimated
+he used 40 hours of high-speed computer
+calculation to get 10 minutes of music. Some
+500 individual sounds are involved in moving
+one "bat" sound across the room.
+Computers can be considered only the
+latest in a series of electronic instruments that
+started when a Parisian named J.B. Delaborde
+hooked up an electric harpsichord.
+But it wasn't until after World War 11, when
+magnetic tape was introduced, that composers
+
+began to deal directly with the basic aspects of
+sound. Tape could be played at varying
+speeds, or backwards. Sounds could be mixed,
+or superimposed on other sounds.
+Synthesizers, introduced in the late 19505,
+produced new sounds entirely by electronic
+means. They rapidly became an important
+part of music, both serious and popular.
+Synthesizers now create music for
+television commercials as well as for the New
+York Philharmonic. The most popular
+synthesizer is the "Moog," (which rhymes
+with vogue) used often at rock concerts and in
+university electronic music laboratories.
+Moogs
+Stanford's computer music program goes
+far beyond the Moog. In fact, there are no
+Moogs on the campus partly because research
+on the Moog is very difficult. The synthesizer
+lacks real precision and the sounds can not be
+thoroughly analyzed.
+Also, except for the computer work, the
+Stanford music department offers few courses
+in the "new music" that would involve
+synthesizers or other electronic music. And
+although Cohen is sympathetic to computer
+and electronic music, Chowning's departure
+leaves only one professor fully involved with
+the computer.
+
+That man is Leland Smith, a tall, bearded
+music professor who grows ever more attached
+to his computer terminal the longer he works
+at the artificial intelligence lab.
+Smith has recently written a computer
+program that brings the art of musical
+notation into the computer era. He uses a
+TV-like terminal hooked to the computer to
+arrange the notes, clefs, and other graphic
+symbols of the music score.
+When the score is finished, a few
+instructions to the computer produce a
+printed copy. The original is stored in the
+computer's memory.
+"It's my effort for the musical library- of
+the future," says Smith. Another of his
+programs allows musical notes, carefully
+specified in terms of loudness, duration, and
+other variables, to be played directly from the
+computer's memory over a loudspeaker.
+Notes Can Be Varied
+The notes can be varied endlessly. By
+typing a few commands, the operator can
+change the sound of a clarinet to that of a
+bassoon, or to a buzz, or to a "toot."
+"You actually play the computer," says
+Smith. As he types a few new instructions, he
+changes the rhythms, the volume, and even
+adds a few random notes to the music he has
+created in a few minutes.
+The vast possibilities of composition on a
+computer have preoccupied the scientists and
+composers in the project. Serious work has been
+devoted not only to attempts to formulate new
+music, but to analyze the sounds that come out as
+well.
+One of the prime requirements in the research is
+to divide the universe of sounds into two
+groups—sounds that have meaning to us, and those
+that don't. The computer can theoretically produce
+all sound, since sound can be reduced to numbers
+stored in a computer memory.
+Psycho acoustics
+But which of the many combinations of
+numbers, for example, sounds like a violin tone?
+And which don't? John Grey, a psychologist in the
+computer music group, is probing sound and its
+meaning for humans, a field called psychoacoustics.
+"We're trying to find clues to what the ear listens
+
+to," says Andy Moorer, a graduate student in the
+program, "and what it ignores."
+"The idea is to simplify things so that we may
+more easily create sounds like violins, bells, and so
+on," Moorer says. By simplifying sound patterns,
+researchers have drastically shortened the amount of
+computer calculation needed for the computer to
+generate that tone.
+'Hal'
+Some musicians say they find the atmosphere a
+bit sterile, although the computer scientists have put
+computer-printed portraits on the walls, and little
+signs on the machines, including the name "HAL"
+over the main memory bank.
+In the film 2001: A Space Odyssey, HAL was a
+computer who tried to take control of humans on a
+space voyage. HAL was eventually subdued, but as
+he was short-circuited, he sang a song.
+The irony of making music by harnessing a
+powerful computer doesn't seem to bother the
+computer musicians. "I still love to bang away on
+the piano," says Loren Rush, a San Francisco
+
+composer who created a three-minute work for
+computer that seems to vibrate with th? overtones
+of an Indian sitar.
+"I don't think computer music will ever replace
+that special relationship between a pevson and the
+old-fashioned instrument he's playing," he says.
+Other, younger musicians see the future a bit
+differently. "I think it would be silly for a young
+person to get totally involved in something like the
+clarinet," says Dick Moore, a graduate student here
+in computer acoustics who plays the clarinet.
+Moore recently co-authored an article in Science
+magazine with two other prominent computer
+music researchers, writing that "We believe current
+technology—computers, integrated circuits, and
+make possible a new musical art,
+one that will be immeasurably more potent than
+existing music in certain ways."
+The music of the future? If the proposals go
+through, much of it may come from Stanford's
+unique interaction of science and art.
+The room slowly fills with sounds—some
+familiar, some strange. Bat-like noises whiz
+across the black space from somewhere
+beyond the walls. Wooden drums come out of
+nowhere, changing pitch as they move from
+side to side, from front to back. Bells tingle
+everywhere. A deep gong surrounds the
+listeners.
+You are in a small, dark room at Stanford's
+artificial intelligence laboratory as a Sony
+four-channel tape recorder begins rolling.
+The sounds originate in the complex
+circuitry of the artificial intelligence lab's
+PDP-10 computer. Painstakingly composed
+."mm millions of calculations, these sounds are
+the extraordinary music of the Stanford
+computer music program, part of the
+Department of Music here.
+Interdisciplinary Project
+The computer music program, a highly
+interdisciplinary project, blends the art and
+science of music with the technology of the
+computer and has brought together
+composers, physicists, computer experts,
+audio engineers and even psychologists.
+After years of work, the computer music
+program has begun to show very promising
+results. Stanford recently formed a "Center
+
+for Computer Research in Music and
+Acoustics," and is applying to the National
+Science Foundation and to the National
+Endowment for the Arts for more than
+$600,000 in grants to continue the project.
+But until—and unless—the grants are
+awarded, the program is stalled due to
+financial pressure.
+John Chowning, a slender, intense
+composer who led much of the work in
+computer music, recently left Stanford to
+become a resident composer for the city of
+Berlin. His appointment as assistant professor
+of music ended in April.
+'State Of Flux'
+'The program is in a state of flux," says
+Albert Cohen, Music Department chairman
+since last September. Cohen would like very
+much to expand the program, which up to
+now has produced remarkable results "on a
+shoestring," he says.
+Stanford's work has brought composers
+from Europe as well as from the Bay Area to
+the lab's hilly location behind the campus. In
+the blinking light of the green cathode-ray
+tubes, musicians see staffs and clefs moving
+around. Over the speakers they hear sounds
+never created before.
+The possibilities of computer-produced
+
+music are vast, and the combinations of
+possibilities infinite. A major problem has
+been to limit those possibilities. The basic
+reproducer of computer sound is the
+loudspeaker, which can theoretically
+reproduce any sound it is fed. The
+loudspeaker uses electrons in varying amounts,
+or voltages, to produce sound.
+The computer works in numbers, in a
+binary code of ones and zeroes. Converting
+the numbers to varying voltages, the computer
+produces changing vibrations in a loudspeaker.
+We hear the product as sound.
+Complex Sound
+Unfortunately, the simplicity ends there.
+Sound is so complex that figuring out how to
+program a computer to produce any sound
+takes vast amounts of computer time. To
+compose his latest work, Chowning estimated
+he used 40 hours of high-speed computer
+calculation to get 10 minutes of music. Some
+500 individual sounds are involved in moving
+one "bat" sound across the room.
+Computers can be considered only the
+latest in a series of electronic instruments that
+started when a Parisian named J.B. Delaborde
+hooked up an electric harpsichord.
+But it wasn't until after World War 11, when
+magnetic tape was introduced, that composers
+
+began to deal directly with the basic aspects of
+sound. Tape could be played at varying
+speeds, or backwards. Sounds could be mixed,
+or superimposed on other sounds.
+Synthesizers, introduced in the late 19505,
+produced new sounds entirely by electronic
+means. They rapidly became an important
+part of music, both serious and popular.
+Synthesizers now create music for
+television commercials as well as for the New
+York Philharmonic. The most popular
+synthesizer is the "Moog," (which rhymes
+with vogue) used often at rock concerts and in
+university electronic music laboratories.
+Moogs
+Stanford's computer music program goes
+far beyond the Moog. In fact, there are no
+Moogs on the campus partly because research
+on the Moog is very difficult. The synthesizer
+lacks real precision and the sounds can not be
+thoroughly analyzed.
+Also, except for the computer work, the
+Stanford music department offers few courses
+in the "new music" that would involve
+synthesizers or other electronic music. And
+although Cohen is sympathetic to computer
+and electronic music, Chowning's departure
+leaves only one professor fully involved with
+the computer.
+
+That man is Leland Smith, a tall, bearded
+music professor who grows ever more attached
+to his computer terminal the longer he works
+at the artificial intelligence lab.
+Smith has recently written a computer
+program that brings the art of musical
+notation into the computer era. He uses a
+TV-like terminal hooked to the computer to
+arrange the notes, clefs, and other graphic
+symbols of the music score.
+When the score is finished, a few
+instructions to the computer produce a
+printed copy. The original is stored in the
+computer's memory.
+"It's my effort for the musical library- of
+the future," says Smith. Another of his
+programs allows musical notes, carefully
+specified in terms of loudness, duration, and
+other variables, to be played directly from the
+computer's memory over a loudspeaker.
+Notes Can Be Varied
+The notes can be varied endlessly. By
+typing a few commands, the operator can
+change the sound of a clarinet to that of a
+bassoon, or to a buzz, or to a "toot."
+"You actually play the computer," says
+Smith. As he types a few new instructions, he
+changes the rhythms, the volume, and even
+adds a few random notes to the music he has
+created in a few minutes.
+The vast possibilities of composition on a
+computer have preoccupied the scientists and
+composers in the project. Serious work has been
+devoted not only to attempts to formulate new
+music, but to analyze the sounds that come out as
+well.
+One of the prime requirements in the research is
+to divide the universe of sounds into two
+groups—sounds that have meaning to us, and those
+that don't. The computer can theoretically produce
+all sound, since sound can be reduced to numbers
+stored in a computer memory.
+Psycho acoustics
+But which of the many combinations of
+numbers, for example, sounds like a violin tone?
+And which don't? John Grey, a psychologist in the
+computer music group, is probing sound and its
+meaning for humans, a field called psychoacoustics.
+"We're trying to find clues to what the ear listens
+
+to," says Andy Moorer, a graduate student in the
+program, "and what it ignores."
+"The idea is to simplify things so that we may
+more easily create sounds like violins, bells, and so
+on," Moorer says. By simplifying sound patterns,
+researchers have drastically shortened the amount of
+computer calculation needed for the computer to
+generate that tone.
+'Hal'
+Some musicians say they find the atmosphere a
+bit sterile, although the computer scientists have put
+computer-printed portraits on the walls, and little
+signs on the machines, including the name "HAL"
+over the main memory bank.
+In the film 2001: A Space Odyssey, HAL was a
+computer who tried to take control of humans on a
+space voyage. HAL was eventually subdued, but as
+he was short-circuited, he sang a song.
+The irony of making music by harnessing a
+powerful computer doesn't seem to bother the
+computer musicians. "I still love to bang away on
+the piano," says Loren Rush, a San Francisco
+
+composer who created a three-minute work for
+computer that seems to vibrate with th? overtones
+of an Indian sitar.
+"I don't think computer music will ever replace
+that special relationship between a pevson and the
+old-fashioned instrument he's playing," he says.
+Other, younger musicians see the future a bit
+differently. "I think it would be silly for a young
+person to get totally involved in something like the
+clarinet," says Dick Moore, a graduate student here
+in computer acoustics who plays the clarinet.
+Moore recently co-authored an article in Science
+magazine with two other prominent computer
+music researchers, writing that "We believe current
+technology—computers, integrated circuits, and
+make possible a new musical art,
+one that will be immeasurably more potent than
+existing music in certain ways."
+The music of the future? If the proposals go
+through, much of it may come from Stanford's
+unique interaction of science and art.
+The room slowly fills with sounds—some
+familiar, some strange. Bat-like noises whiz
+across the black space from somewhere
+beyond the walls. Wooden drums come out of
+nowhere, changing pitch as they move from
+side to side, from front to back. Bells tingle
+everywhere. A deep gong surrounds the
+listeners.
+You are in a small, dark room at Stanford's
+artificial intelligence laboratory as a Sony
+four-channel tape recorder begins rolling.
+The sounds originate in the complex
+circuitry of the artificial intelligence lab's
+PDP-10 computer. Painstakingly composed
+."mm millions of calculations, these sounds are
+the extraordinary music of the Stanford
+computer music program, part of the
+Department of Music here.
+Interdisciplinary Project
+The computer music program, a highly
+interdisciplinary project, blends the art and
+science of music with the technology of the
+computer and has brought together
+composers, physicists, computer experts,
+audio engineers and even psychologists.
+After years of work, the computer music
+program has begun to show very promising
+results. Stanford recently formed a "Center
+
+for Computer Research in Music and
+Acoustics," and is applying to the National
+Science Foundation and to the National
+Endowment for the Arts for more than
+$600,000 in grants to continue the project.
+But until—and unless—the grants are
+awarded, the program is stalled due to
+financial pressure.
+John Chowning, a slender, intense
+composer who led much of the work in
+computer music, recently left Stanford to
+become a resident composer for the city of
+Berlin. His appointment as assistant professor
+of music ended in April.
+'State Of Flux'
+'The program is in a state of flux," says
+Albert Cohen, Music Department chairman
+since last September. Cohen would like very
+much to expand the program, which up to
+now has produced remarkable results "on a
+shoestring," he says.
+Stanford's work has brought composers
+from Europe as well as from the Bay Area to
+the lab's hilly location behind the campus. In
+the blinking light of the green cathode-ray
+tubes, musicians see staffs and clefs moving
+around. Over the speakers they hear sounds
+never created before.
+The possibilities of computer-produced
+
+music are vast, and the combinations of
+possibilities infinite. A major problem has
+been to limit those possibilities. The basic
+reproducer of computer sound is the
+loudspeaker, which can theoretically
+reproduce any sound it is fed. The
+loudspeaker uses electrons in varying amounts,
+or voltages, to produce sound.
+The computer works in numbers, in a
+binary code of ones and zeroes. Converting
+the numbers to varying voltages, the computer
+produces changing vibrations in a loudspeaker.
+We hear the product as sound.
+Complex Sound
+Unfortunately, the simplicity ends there.
+Sound is so complex that figuring out how to
+program a computer to produce any sound
+takes vast amounts of computer time. To
+compose his latest work, Chowning estimated
+he used 40 hours of high-speed computer
+calculation to get 10 minutes of music. Some
+500 individual sounds are involved in moving
+one "bat" sound across the room.
+Computers can be considered only the
+latest in a series of electronic instruments that
+started when a Parisian named J.B. Delaborde
+hooked up an electric harpsichord.
+But it wasn't until after World War 11, when
+magnetic tape was introduced, that composers
+
+began to deal directly with the basic aspects of
+sound. Tape could be played at varying
+speeds, or backwards. Sounds could be mixed,
+or superimposed on other sounds.
+Synthesizers, introduced in the late 19505,
+produced new sounds entirely by electronic
+means. They rapidly became an important
+part of music, both serious and popular.
+Synthesizers now create music for
+television commercials as well as for the New
+York Philharmonic. The most popular
+synthesizer is the "Moog," (which rhymes
+with vogue) used often at rock concerts and in
+university electronic music laboratories.
+Moogs
+Stanford's computer music program goes
+far beyond the Moog. In fact, there are no
+Moogs on the campus partly because research
+on the Moog is very difficult. The synthesizer
+lacks real precision and the sounds can not be
+thoroughly analyzed.
+Also, except for the computer work, the
+Stanford music department offers few courses
+in the "new music" that would involve
+synthesizers or other electronic music. And
+although Cohen is sympathetic to computer
+and electronic music, Chowning's departure
+leaves only one professor fully involved with
+the computer.
+
+That man is Leland Smith, a tall, bearded
+music professor who grows ever more attached
+to his computer terminal the longer he works
+at the artificial intelligence lab.
+Smith has recently written a computer
+program that brings the art of musical
+notation into the computer era. He uses a
+TV-like terminal hooked to the computer to
+arrange the notes, clefs, and other graphic
+symbols of the music score.
+When the score is finished, a few
+instructions to the computer produce a
+printed copy. The original is stored in the
+computer's memory.
+"It's my effort for the musical library- of
+the future," says Smith. Another of his
+programs allows musical notes, carefully
+specified in terms of loudness, duration, and
+other variables, to be played directly from the
+computer's memory over a loudspeaker.
+Notes Can Be Varied
+The notes can be varied endlessly. By
+typing a few commands, the operator can
+change the sound of a clarinet to that of a
+bassoon, or to a buzz, or to a "toot."
+"You actually play the computer," says
+Smith. As he types a few new instructions, he
+changes the rhythms, the volume, and even
+adds a few random notes to the music he has
+created in a few minutes.
+The vast possibilities of composition on a
+computer have preoccupied the scientists and
+composers in the project. Serious work has been
+devoted not only to attempts to formulate new
+music, but to analyze the sounds that come out as
+well.
+One of the prime requirements in the research is
+to divide the universe of sounds into two
+groups—sounds that have meaning to us, and those
+that don't. The computer can theoretically produce
+all sound, since sound can be reduced to numbers
+stored in a computer memory.
+Psycho acoustics
+But which of the many combinations of
+numbers, for example, sounds like a violin tone?
+And which don't? John Grey, a psychologist in the
+computer music group, is probing sound and its
+meaning for humans, a field called psychoacoustics.
+"We're trying to find clues to what the ear listens
+
+to," says Andy Moorer, a graduate student in the
+program, "and what it ignores."
+"The idea is to simplify things so that we may
+more easily create sounds like violins, bells, and so
+on," Moorer says. By simplifying sound patterns,
+researchers have drastically shortened the amount of
+computer calculation needed for the computer to
+generate that tone.
+'Hal'
+Some musicians say they find the atmosphere a
+bit sterile, although the computer scientists have put
+computer-printed portraits on the walls, and little
+signs on the machines, including the name "HAL"
+over the main memory bank.
+In the film 2001: A Space Odyssey, HAL was a
+computer who tried to take control of humans on a
+space voyage. HAL was eventually subdued, but as
+he was short-circuited, he sang a song.
+The irony of making music by harnessing a
+powerful computer doesn't seem to bother the
+computer musicians. "I still love to bang away on
+the piano," says Loren Rush, a San Francisco
+
+composer who created a three-minute work for
+computer that seems to vibrate with th? overtones
+of an Indian sitar.
+"I don't think computer music will ever replace
+that special relationship between a pevson and the
+old-fashioned instrument he's playing," he says.
+Other, younger musicians see the future a bit
+differently. "I think it would be silly for a young
+person to get totally involved in something like the
+clarinet," says Dick Moore, a graduate student here
+in computer acoustics who plays the clarinet.
+Moore recently co-authored an article in Science
+magazine with two other prominent computer
+music researchers, writing that "We believe current
+technology—computers, integrated circuits, and
+make possible a new musical art,
+one that will be immeasurably more potent than
+existing music in certain ways."
+The music of the future? If the proposals go
+through, much of it may come from Stanford's
+unique interaction of science and art.
+The room slowly fills with sounds—some
+familiar, some strange. Bat-like noises whiz
+across the black space from somewhere
+beyond the walls. Wooden drums come out of
+nowhere, changing pitch as they move from
+side to side, from front to back. Bells tingle
+everywhere. A deep gong surrounds the
+listeners.
+You are in a small, dark room at Stanford's
+artificial intelligence laboratory as a Sony
+four-channel tape recorder begins rolling.
+The sounds originate in the complex
+circuitry of the artificial intelligence lab's
+PDP-10 computer. Painstakingly composed
+."mm millions of calculations, these sounds are
+the extraordinary music of the Stanford
+computer music program, part of the
+Department of Music here.
+Interdisciplinary Project
+The computer music program, a highly
+interdisciplinary project, blends the art and
+science of music with the technology of the
+computer and has brought together
+composers, physicists, computer experts,
+audio engineers and even psychologists.
+After years of work, the computer music
+program has begun to show very promising
+results. Stanford recently formed a "Center
+
+for Computer Research in Music and
+Acoustics," and is applying to the National
+Science Foundation and to the National
+Endowment for the Arts for more than
+$600,000 in grants to continue the project.
+But until—and unless—the grants are
+awarded, the program is stalled due to
+financial pressure.
+John Chowning, a slender, intense
+composer who led much of the work in
+computer music, recently left Stanford to
+become a resident composer for the city of
+Berlin. His appointment as assistant professor
+of music ended in April.
+'State Of Flux'
+'The program is in a state of flux," says
+Albert Cohen, Music Department chairman
+since last September. Cohen would like very
+much to expand the program, which up to
+now has produced remarkable results "on a
+shoestring," he says.
+Stanford's work has brought composers
+from Europe as well as from the Bay Area to
+the lab's hilly location behind the campus. In
+the blinking light of the green cathode-ray
+tubes, musicians see staffs and clefs moving
+around. Over the speakers they hear sounds
+never created before.
+The possibilities of computer-produced
+
+music are vast, and the combinations of
+possibilities infinite. A major problem has
+been to limit those possibilities. The basic
+reproducer of computer sound is the
+loudspeaker, which can theoretically
+reproduce any sound it is fed. The
+loudspeaker uses electrons in varying amounts,
+or voltages, to produce sound.
+The computer works in numbers, in a
+binary code of ones and zeroes. Converting
+the numbers to varying voltages, the computer
+produces changing vibrations in a loudspeaker.
+We hear the product as sound.
+Complex Sound
+Unfortunately, the simplicity ends there.
+Sound is so complex that figuring out how to
+program a computer to produce any sound
+takes vast amounts of computer time. To
+compose his latest work, Chowning estimated
+he used 40 hours of high-speed computer
+calculation to get 10 minutes of music. Some
+500 individual sounds are involved in moving
+one "bat" sound across the room.
+Computers can be considered only the
+latest in a series of electronic instruments that
+started when a Parisian named J.B. Delaborde
+hooked up an electric harpsichord.
+But it wasn't until after World War 11, when
+magnetic tape was introduced, that composers
+
+began to deal directly with the basic aspects of
+sound. Tape could be played at varying
+speeds, or backwards. Sounds could be mixed,
+or superimposed on other sounds.
+Synthesizers, introduced in the late 19505,
+produced new sounds entirely by electronic
+means. They rapidly became an important
+part of music, both serious and popular.
+Synthesizers now create music for
+television commercials as well as for the New
+York Philharmonic. The most popular
+synthesizer is the "Moog," (which rhymes
+with vogue) used often at rock concerts and in
+university electronic music laboratories.
+Moogs
+Stanford's computer music program goes
+far beyond the Moog. In fact, there are no
+Moogs on the campus partly because research
+on the Moog is very difficult. The synthesizer
+lacks real precision and the sounds can not be
+thoroughly analyzed.
+Also, except for the computer work, the
+Stanford music department offers few courses
+in the "new music" that would involve
+synthesizers or other electronic music. And
+although Cohen is sympathetic to computer
+and electronic music, Chowning's departure
+leaves only one professor fully involved with
+the computer.
+
+That man is Leland Smith, a tall, bearded
+music professor who grows ever more attached
+to his computer terminal the longer he works
+at the artificial intelligence lab.
+Smith has recently written a computer
+program that brings the art of musical
+notation into the computer era. He uses a
+TV-like terminal hooked to the computer to
+arrange the notes, clefs, and other graphic
+symbols of the music score.
+When the score is finished, a few
+instructions to the computer produce a
+printed copy. The original is stored in the
+computer's memory.
+"It's my effort for the musical library- of
+the future," says Smith. Another of his
+programs allows musical notes, carefully
+specified in terms of loudness, duration, and
+other variables, to be played directly from the
+computer's memory over a loudspeaker.
+Notes Can Be Varied
+The notes can be varied endlessly. By
+typing a few commands, the operator can
+change the sound of a clarinet to that of a
+bassoon, or to a buzz, or to a "toot."
+"You actually play the computer," says
+Smith. As he types a few new instructions, he
+changes the rhythms, the volume, and even
+adds a few random notes to the music he has
+created in a few minutes.
+The vast possibilities of composition on a
+computer have preoccupied the scientists and
+composers in the project. Serious work has been
+devoted not only to attempts to formulate new
+music, but to analyze the sounds that come out as
+well.
+One of the prime requirements in the research is
+to divide the universe of sounds into two
+groups—sounds that have meaning to us, and those
+that don't. The computer can theoretically produce
+all sound, since sound can be reduced to numbers
+stored in a computer memory.
+Psycho acoustics
+But which of the many combinations of
+numbers, for example, sounds like a violin tone?
+And which don't? John Grey, a psychologist in the
+computer music group, is probing sound and its
+meaning for humans, a field called psychoacoustics.
+"We're trying to find clues to what the ear listens
+
+to," says Andy Moorer, a graduate student in the
+program, "and what it ignores."
+"The idea is to simplify things so that we may
+more easily create sounds like violins, bells, and so
+on," Moorer says. By simplifying sound patterns,
+researchers have drastically shortened the amount of
+computer calculation needed for the computer to
+generate that tone.
+'Hal'
+Some musicians say they find the atmosphere a
+bit sterile, although the computer scientists have put
+computer-printed portraits on the walls, and little
+signs on the machines, including the name "HAL"
+over the main memory bank.
+In the film 2001: A Space Odyssey, HAL was a
+computer who tried to take control of humans on a
+space voyage. HAL was eventually subdued, but as
+he was short-circuited, he sang a song.
+The irony of making music by harnessing a
+powerful computer doesn't seem to bother the
+computer musicians. "I still love to bang away on
+the piano," says Loren Rush, a San Francisco
+
+composer who created a three-minute work for
+computer that seems to vibrate with th? overtones
+of an Indian sitar.
+"I don't think computer music will ever replace
+that special relationship between a pevson and the
+old-fashioned instrument he's playing," he says.
+Other, younger musicians see the future a bit
+differently. "I think it would be silly for a young
+person to get totally involved in something like the
+clarinet," says Dick Moore, a graduate student here
+in computer acoustics who plays the clarinet.
+Moore recently co-authored an article in Science
+magazine with two other prominent computer
+music researchers, writing that "We believe current
+technology—computers, integrated circuits, and
+make possible a new musical art,
+one that will be immeasurably more potent than
+existing music in certain ways."
+The music of the future? If the proposals go
+through, much of it may come from Stanford's
+unique interaction of science and art.
+The room slowly fills with sounds—some
+familiar, some strange. Bat-like noises whiz
+across the black space from somewhere
+beyond the walls. Wooden drums come out of
+nowhere, changing pitch as they move from
+side to side, from front to back. Bells tingle
+everywhere. A deep gong surrounds the
+listeners.
+You are in a small, dark room at Stanford's
+artificial intelligence laboratory as a Sony
+four-channel tape recorder begins rolling.
+The sounds originate in the complex
+circuitry of the artificial intelligence lab's
+PDP-10 computer. Painstakingly composed
+."mm millions of calculations, these sounds are
+the extraordinary music of the Stanford
+computer music program, part of the
+Department of Music here.
+Interdisciplinary Project
+The computer music program, a highly
+interdisciplinary project, blends the art and
+science of music with the technology of the
+computer and has brought together
+composers, physicists, computer experts,
+audio engineers and even psychologists.
+After years of work, the computer music
+program has begun to show very promising
+results. Stanford recently formed a "Center
+
+for Computer Research in Music and
+Acoustics," and is applying to the National
+Science Foundation and to the National
+Endowment for the Arts for more than
+$600,000 in grants to continue the project.
+But until—and unless—the grants are
+awarded, the program is stalled due to
+financial pressure.
+John Chowning, a slender, intense
+composer who led much of the work in
+computer music, recently left Stanford to
+become a resident composer for the city of
+Berlin. His appointment as assistant professor
+of music ended in April.
+'State Of Flux'
+'The program is in a state of flux," says
+Albert Cohen, Music Department chairman
+since last September. Cohen would like very
+much to expand the program, which up to
+now has produced remarkable results "on a
+shoestring," he says.
+Stanford's work has brought composers
+from Europe as well as from the Bay Area to
+the lab's hilly location behind the campus. In
+the blinking light of the green cathode-ray
+tubes, musicians see staffs and clefs moving
+around. Over the speakers they hear sounds
+never created before.
+The possibilities of computer-produced
+
+music are vast, and the combinations of
+possibilities infinite. A major problem has
+been to limit those possibilities. The basic
+reproducer of computer sound is the
+loudspeaker, which can theoretically
+reproduce any sound it is fed. The
+loudspeaker uses electrons in varying amounts,
+or voltages, to produce sound.
+The computer works in numbers, in a
+binary code of ones and zeroes. Converting
+the numbers to varying voltages, the computer
+produces changing vibrations in a loudspeaker.
+We hear the product as sound.
+Complex Sound
+Unfortunately, the simplicity ends there.
+Sound is so complex that figuring out how to
+program a computer to produce any sound
+takes vast amounts of computer time. To
+compose his latest work, Chowning estimated
+he used 40 hours of high-speed computer
+calculation to get 10 minutes of music. Some
+500 individual sounds are involved in moving
+one "bat" sound across the room.
+Computers can be considered only the
+latest in a series of electronic instruments that
+started when a Parisian named J.B. Delaborde
+hooked up an electric harpsichord.
+But it wasn't until after World War 11, when
+magnetic tape was introduced, that composers
+
+began to deal directly with the basic aspects of
+sound. Tape could be played at varying
+speeds, or backwards. Sounds could be mixed,
+or superimposed on other sounds.
+Synthesizers, introduced in the late 19505,
+produced new sounds entirely by electronic
+means. They rapidly became an important
+part of music, both serious and popular.
+Synthesizers now create music for
+television commercials as well as for the New
+York Philharmonic. The most popular
+synthesizer is the "Moog," (which rhymes
+with vogue) used often at rock concerts and in
+university electronic music laboratories.
+Moogs
+Stanford's computer music program goes
+far beyond the Moog. In fact, there are no
+Moogs on the campus partly because research
+on the Moog is very difficult. The synthesizer
+lacks real precision and the sounds can not be
+thoroughly analyzed.
+Also, except for the computer work, the
+Stanford music department offers few courses
+in the "new music" that would involve
+synthesizers or other electronic music. And
+although Cohen is sympathetic to computer
+and electronic music, Chowning's departure
+leaves only one professor fully involved with
+the computer.
+
+That man is Leland Smith, a tall, bearded
+music professor who grows ever more attached
+to his computer terminal the longer he works
+at the artificial intelligence lab.
+Smith has recently written a computer
+program that brings the art of musical
+notation into the computer era. He uses a
+TV-like terminal hooked to the computer to
+arrange the notes, clefs, and other graphic
+symbols of the music score.
+When the score is finished, a few
+instructions to the computer produce a
+printed copy. The original is stored in the
+computer's memory.
+"It's my effort for the musical library- of
+the future," says Smith. Another of his
+programs allows musical notes, carefully
+specified in terms of loudness, duration, and
+other variables, to be played directly from the
+computer's memory over a loudspeaker.
+Notes Can Be Varied
+The notes can be varied endlessly. By
+typing a few commands, the operator can
+change the sound of a clarinet to that of a
+bassoon, or to a buzz, or to a "toot."
+"You actually play the computer," says
+Smith. As he types a few new instructions, he
+changes the rhythms, the volume, and even
+adds a few random notes to the music he has
+created in a few minutes.
+The vast possibilities of composition on a
+computer have preoccupied the scientists and
+composers in the project. Serious work has been
+devoted not only to attempts to formulate new
+music, but to analyze the sounds that come out as
+well.
+One of the prime requirements in the research is
+to divide the universe of sounds into two
+groups—sounds that have meaning to us, and those
+that don't. The computer can theoretically produce
+all sound, since sound can be reduced to numbers
+stored in a computer memory.
+Psycho acoustics
+But which of the many combinations of
+numbers, for example, sounds like a violin tone?
+And which don't? John Grey, a psychologist in the
+computer music group, is probing sound and its
+meaning for humans, a field called psychoacoustics.
+"We're trying to find clues to what the ear listens
+
+to," says Andy Moorer, a graduate student in the
+program, "and what it ignores."
+"The idea is to simplify things so that we may
+more easily create sounds like violins, bells, and so
+on," Moorer says. By simplifying sound patterns,
+researchers have drastically shortened the amount of
+computer calculation needed for the computer to
+generate that tone.
+'Hal'
+Some musicians say they find the atmosphere a
+bit sterile, although the computer scientists have put
+computer-printed portraits on the walls, and little
+signs on the machines, including the name "HAL"
+over the main memory bank.
+In the film 2001: A Space Odyssey, HAL was a
+computer who tried to take control of humans on a
+space voyage. HAL was eventually subdued, but as
+he was short-circuited, he sang a song.
+The irony of making music by harnessing a
+powerful computer doesn't seem to bother the
+computer musicians. "I still love to bang away on
+the piano," says Loren Rush, a San Francisco
+
+composer who created a three-minute work for
+computer that seems to vibrate with th? overtones
+of an Indian sitar.
+"I don't think computer music will ever replace
+that special relationship between a pevson and the
+old-fashioned instrument he's playing," he says.
+Other, younger musicians see the future a bit
+differently. "I think it would be silly for a young
+person to get totally involved in something like the
+clarinet," says Dick Moore, a graduate student here
+in computer acoustics who plays the clarinet.
+Moore recently co-authored an article in Science
+magazine with two other prominent computer
+music researchers, writing that "We believe current
+technology—computers, integrated circuits, and
+make possible a new musical art,
+one that will be immeasurably more potent than
+existing music in certain ways."
+The music of the future? If the proposals go
+through, much of it may come from Stanford's
+unique interaction of science and art.
+The room slowly fills with sounds—some
+familiar, some strange. Bat-like noises whiz
+across the black space from somewhere
+beyond the walls. Wooden drums come out of
+nowhere, changing pitch as they move from
+side to side, from front to back. Bells tingle
+everywhere. A deep gong surrounds the
+listeners.
+You are in a small, dark room at Stanford's
+artificial intelligence laboratory as a Sony
+four-channel tape recorder begins rolling.
+The sounds originate in the complex
+circuitry of the artificial intelligence lab's
+PDP-10 computer. Painstakingly composed
+."mm millions of calculations, these sounds are
+the extraordinary music of the Stanford
+computer music program, part of the
+Department of Music here.
+Interdisciplinary Project
+The computer music program, a highly
+interdisciplinary project, blends the art and
+science of music with the technology of the
+computer and has brought together
+composers, physicists, computer experts,
+audio engineers and even psychologists.
+After years of work, the computer music
+program has begun to show very promising
+results. Stanford recently formed a "Center
+
+for Computer Research in Music and
+Acoustics," and is applying to the National
+Science Foundation and to the National
+Endowment for the Arts for more than
+$600,000 in grants to continue the project.
+But until—and unless—the grants are
+awarded, the program is stalled due to
+financial pressure.
+John Chowning, a slender, intense
+composer who led much of the work in
+computer music, recently left Stanford to
+become a resident composer for the city of
+Berlin. His appointment as assistant professor
+of music ended in April.
+'State Of Flux'
+'The program is in a state of flux," says
+Albert Cohen, Music Department chairman
+since last September. Cohen would like very
+much to expand the program, which up to
+now has produced remarkable results "on a
+shoestring," he says.
+Stanford's work has brought composers
+from Europe as well as from the Bay Area to
+the lab's hilly location behind the campus. In
+the blinking light of the green cathode-ray
+tubes, musicians see staffs and clefs moving
+around. Over the speakers they hear sounds
+never created before.
+The possibilities of computer-produced
+
+music are vast, and the combinations of
+possibilities infinite. A major problem has
+been to limit those possibilities. The basic
+reproducer of computer sound is the
+loudspeaker, which can theoretically
+reproduce any sound it is fed. The
+loudspeaker uses electrons in varying amounts,
+or voltages, to produce sound.
+The computer works in numbers, in a
+binary code of ones and zeroes. Converting
+the numbers to varying voltages, the computer
+produces changing vibrations in a loudspeaker.
+We hear the product as sound.
+Complex Sound
+Unfortunately, the simplicity ends there.
+Sound is so complex that figuring out how to
+program a computer to produce any sound
+takes vast amounts of computer time. To
+compose his latest work, Chowning estimated
+he used 40 hours of high-speed computer
+calculation to get 10 minutes of music. Some
+500 individual sounds are involved in moving
+one "bat" sound across the room.
+Computers can be considered only the
+latest in a series of electronic instruments that
+started when a Parisian named J.B. Delaborde
+hooked up an electric harpsichord.
+But it wasn't until after World War 11, when
+magnetic tape was introduced, that composers
+
+began to deal directly with the basic aspects of
+sound. Tape could be played at varying
+speeds, or backwards. Sounds could be mixed,
+or superimposed on other sounds.
+Synthesizers, introduced in the late 19505,
+produced new sounds entirely by electronic
+means. They rapidly became an important
+part of music, both serious and popular.
+Synthesizers now create music for
+television commercials as well as for the New
+York Philharmonic. The most popular
+synthesizer is the "Moog," (which rhymes
+with vogue) used often at rock concerts and in
+university electronic music laboratories.
+Moogs
+Stanford's computer music program goes
+far beyond the Moog. In fact, there are no
+Moogs on the campus partly because research
+on the Moog is very difficult. The synthesizer
+lacks real precision and the sounds can not be
+thoroughly analyzed.
+Also, except for the computer work, the
+Stanford music department offers few courses
+in the "new music" that would involve
+synthesizers or other electronic music. And
+although Cohen is sympathetic to computer
+and electronic music, Chowning's departure
+leaves only one professor fully involved with
+the computer.
+
+That man is Leland Smith, a tall, bearded
+music professor who grows ever more attached
+to his computer terminal the longer he works
+at the artificial intelligence lab.
+Smith has recently written a computer
+program that brings the art of musical
+notation into the computer era. He uses a
+TV-like terminal hooked to the computer to
+arrange the notes, clefs, and other graphic
+symbols of the music score.
+When the score is finished, a few
+instructions to the computer produce a
+printed copy. The original is stored in the
+computer's memory.
+"It's my effort for the musical library- of
+the future," says Smith. Another of his
+programs allows musical notes, carefully
+specified in terms of loudness, duration, and
+other variables, to be played directly from the
+computer's memory over a loudspeaker.
+Notes Can Be Varied
+The notes can be varied endlessly. By
+typing a few commands, the operator can
+change the sound of a clarinet to that of a
+bassoon, or to a buzz, or to a "toot."
+"You actually play the computer," says
+Smith. As he types a few new instructions, he
+changes the rhythms, the volume, and even
+adds a few random notes to the music he has
+created in a few minutes.
+The vast possibilities of composition on a
+computer have preoccupied the scientists and
+composers in the project. Serious work has been
+devoted not only to attempts to formulate new
+music, but to analyze the sounds that come out as
+well.
+One of the prime requirements in the research is
+to divide the universe of sounds into two
+groups—sounds that have meaning to us, and those
+that don't. The computer can theoretically produce
+all sound, since sound can be reduced to numbers
+stored in a computer memory.
+Psycho acoustics
+But which of the many combinations of
+numbers, for example, sounds like a violin tone?
+And which don't? John Grey, a psychologist in the
+computer music group, is probing sound and its
+meaning for humans, a field called psychoacoustics.
+"We're trying to find clues to what the ear listens
+
+to," says Andy Moorer, a graduate student in the
+program, "and what it ignores."
+"The idea is to simplify things so that we may
+more easily create sounds like violins, bells, and so
+on," Moorer says. By simplifying sound patterns,
+researchers have drastically shortened the amount of
+computer calculation needed for the computer to
+generate that tone.
+'Hal'
+Some musicians say they find the atmosphere a
+bit sterile, although the computer scientists have put
+computer-printed portraits on the walls, and little
+signs on the machines, including the name "HAL"
+over the main memory bank.
+In the film 2001: A Space Odyssey, HAL was a
+computer who tried to take control of humans on a
+space voyage. HAL was eventually subdued, but as
+he was short-circuited, he sang a song.
+The irony of making music by harnessing a
+powerful computer doesn't seem to bother the
+computer musicians. "I still love to bang away on
+the piano," says Loren Rush, a San Francisco
+
+composer who created a three-minute work for
+computer that seems to vibrate with th? overtones
+of an Indian sitar.
+"I don't think computer music will ever replace
+that special relationship between a pevson and the
+old-fashioned instrument he's playing," he says.
+Other, younger musicians see the future a bit
+differently. "I think it would be silly for a young
+person to get totally involved in something like the
+clarinet," says Dick Moore, a graduate student here
+in computer acoustics who plays the clarinet.
+Moore recently co-authored an article in Science
+magazine with two other prominent computer
+music researchers, writing that "We believe current
+technology—computers, integrated circuits, and
+make possible a new musical art,
+one that will be immeasurably more potent than
+existing music in certain ways."
+The music of the future? If the proposals go
+through, much of it may come from Stanford's
+unique interaction of science and art.
+The room slowly fills with sounds—some
+familiar, some strange. Bat-like noises whiz
+across the black space from somewhere
+beyond the walls. Wooden drums come out of
+nowhere, changing pitch as they move from
+side to side, from front to back. Bells tingle
+everywhere. A deep gong surrounds the
+listeners.
+You are in a small, dark room at Stanford's
+artificial intelligence laboratory as a Sony
+four-channel tape recorder begins rolling.
+The sounds originate in the complex
+circuitry of the artificial intelligence lab's
+PDP-10 computer. Painstakingly composed
+."mm millions of calculations, these sounds are
+the extraordinary music of the Stanford
+computer music program, part of the
+Department of Music here.
+Interdisciplinary Project
+The computer music program, a highly
+interdisciplinary project, blends the art and
+science of music with the technology of the
+computer and has brought together
+composers, physicists, computer experts,
+audio engineers and even psychologists.
+After years of work, the computer music
+program has begun to show very promising
+results. Stanford recently formed a "Center
+
+for Computer Research in Music and
+Acoustics," and is applying to the National
+Science Foundation and to the National
+Endowment for the Arts for more than
+$600,000 in grants to continue the project.
+But until—and unless—the grants are
+awarded, the program is stalled due to
+financial pressure.
+John Chowning, a slender, intense
+composer who led much of the work in
+computer music, recently left Stanford to
+become a resident composer for the city of
+Berlin. His appointment as assistant professor
+of music ended in April.
+'State Of Flux'
+'The program is in a state of flux," says
+Albert Cohen, Music Department chairman
+since last September. Cohen would like very
+much to expand the program, which up to
+now has produced remarkable results "on a
+shoestring," he says.
+Stanford's work has brought composers
+from Europe as well as from the Bay Area to
+the lab's hilly location behind the campus. In
+the blinking light of the green cathode-ray
+tubes, musicians see staffs and clefs moving
+around. Over the speakers they hear sounds
+never created before.
+The possibilities of computer-produced
+
+music are vast, and the combinations of
+possibilities infinite. A major problem has
+been to limit those possibilities. The basic
+reproducer of computer sound is the
+loudspeaker, which can theoretically
+reproduce any sound it is fed. The
+loudspeaker uses electrons in varying amounts,
+or voltages, to produce sound.
+The computer works in numbers, in a
+binary code of ones and zeroes. Converting
+the numbers to varying voltages, the computer
+produces changing vibrations in a loudspeaker.
+We hear the product as sound.
+Complex Sound
+Unfortunately, the simplicity ends there.
+Sound is so complex that figuring out how to
+program a computer to produce any sound
+takes vast amounts of computer time. To
+compose his latest work, Chowning estimated
+he used 40 hours of high-speed computer
+calculation to get 10 minutes of music. Some
+500 individual sounds are involved in moving
+one "bat" sound across the room.
+Computers can be considered only the
+latest in a series of electronic instruments that
+started when a Parisian named J.B. Delaborde
+hooked up an electric harpsichord.
+But it wasn't until after World War 11, when
+magnetic tape was introduced, that composers
+
+began to deal directly with the basic aspects of
+sound. Tape could be played at varying
+speeds, or backwards. Sounds could be mixed,
+or superimposed on other sounds.
+Synthesizers, introduced in the late 19505,
+produced new sounds entirely by electronic
+means. They rapidly became an important
+part of music, both serious and popular.
+Synthesizers now create music for
+television commercials as well as for the New
+York Philharmonic. The most popular
+synthesizer is the "Moog," (which rhymes
+with vogue) used often at rock concerts and in
+university electronic music laboratories.
+Moogs
+Stanford's computer music program goes
+far beyond the Moog. In fact, there are no
+Moogs on the campus partly because research
+on the Moog is very difficult. The synthesizer
+lacks real precision and the sounds can not be
+thoroughly analyzed.
+Also, except for the computer work, the
+Stanford music department offers few courses
+in the "new music" that would involve
+synthesizers or other electronic music. And
+although Cohen is sympathetic to computer
+and electronic music, Chowning's departure
+leaves only one professor fully involved with
+the computer.
+
+That man is Leland Smith, a tall, bearded
+music professor who grows ever more attached
+to his computer terminal the longer he works
+at the artificial intelligence lab.
+Smith has recently written a computer
+program that brings the art of musical
+notation into the computer era. He uses a
+TV-like terminal hooked to the computer to
+arrange the notes, clefs, and other graphic
+symbols of the music score.
+When the score is finished, a few
+instructions to the computer produce a
+printed copy. The original is stored in the
+computer's memory.
+"It's my effort for the musical library- of
+the future," says Smith. Another of his
+programs allows musical notes, carefully
+specified in terms of loudness, duration, and
+other variables, to be played directly from the
+computer's memory over a loudspeaker.
+Notes Can Be Varied
+The notes can be varied endlessly. By
+typing a few commands, the operator can
+change the sound of a clarinet to that of a
+bassoon, or to a buzz, or to a "toot."
+"You actually play the computer," says
+Smith. As he types a few new instructions, he
+changes the rhythms, the volume, and even
+adds a few random notes to the music he has
+created in a few minutes.
+The vast possibilities of composition on a
+computer have preoccupied the scientists and
+composers in the project. Serious work has been
+devoted not only to attempts to formulate new
+music, but to analyze the sounds that come out as
+well.
+One of the prime requirements in the research is
+to divide the universe of sounds into two
+groups—sounds that have meaning to us, and those
+that don't. The computer can theoretically produce
+all sound, since sound can be reduced to numbers
+stored in a computer memory.
+Psycho acoustics
+But which of the many combinations of
+numbers, for example, sounds like a violin tone?
+And which don't? John Grey, a psychologist in the
+computer music group, is probing sound and its
+meaning for humans, a field called psychoacoustics.
+"We're trying to find clues to what the ear listens
+
+to," says Andy Moorer, a graduate student in the
+program, "and what it ignores."
+"The idea is to simplify things so that we may
+more easily create sounds like violins, bells, and so
+on," Moorer says. By simplifying sound patterns,
+researchers have drastically shortened the amount of
+computer calculation needed for the computer to
+generate that tone.
+'Hal'
+Some musicians say they find the atmosphere a
+bit sterile, although the computer scientists have put
+computer-printed portraits on the walls, and little
+signs on the machines, including the name "HAL"
+over the main memory bank.
+In the film 2001: A Space Odyssey, HAL was a
+computer who tried to take control of humans on a
+space voyage. HAL was eventually subdued, but as
+he was short-circuited, he sang a song.
+The irony of making music by harnessing a
+powerful computer doesn't seem to bother the
+computer musicians. "I still love to bang away on
+the piano," says Loren Rush, a San Francisco
+
+composer who created a three-minute work for
+computer that seems to vibrate with th? overtones
+of an Indian sitar.
+"I don't think computer music will ever replace
+that special relationship between a pevson and the
+old-fashioned instrument he's playing," he says.
+Other, younger musicians see the future a bit
+differently. "I think it would be silly for a young
+person to get totally involved in something like the
+clarinet," says Dick Moore, a graduate student here
+in computer acoustics who plays the clarinet.
+Moore recently co-authored an article in Science
+magazine with two other prominent computer
+music researchers, writing that "We believe current
+technology—computers, integrated circuits, and
+make possible a new musical art,
+one that will be immeasurably more potent than
+existing music in certain ways."
+The music of the future? If the proposals go
+through, much of it may come from Stanford's
+unique interaction of science and art.

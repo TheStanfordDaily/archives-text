@@ -1,0 +1,724 @@
+# Blaster worm strikes campus
+## 
+### WHITNEY SADO DESK EDITOR 
+Stanford continues to be plagued by the
+computer viruses that bombarded campus
+computers over the summer, creating a
+headache for returning students trying to set
+up their Internet connections.
+When residents arrive to sign in at their
+dorm, they are given "Essential Stanford
+Software" compact discs along with their
+room key. Students cannot set up their In
+ternet access until they have run the RPC
+Cleaner utility included on the disk.
+"Students can't register for internet ser
+vice without using the RPC Cleaner," Kim
+ball Resident Computer Coordinator Chris
+Lin said. "The cleaner scans computers for
+the Blaster Worm, in addition to three other
+viruses, and then installs a patch."
+Blaster Worm and its variants were this
+summer's most widespread bug, although it
+only affects the Windows 2000 and XP op
+erating system - Macintosh computers, for
+example, are not susceptible. The worm is
+particularly problematic because it is spread
+automatically to any vulnerable PC plugged
+into the network; it does not spread through
+bugged e-mail attachments.
+"Just plugging your computer into the
+wall can get you the worm," Lin said.
+Around 6,000 computers were infected
+over the summer, and it is predicted that 25
+percent of students will arrive on campus
+with infected computers.
+For this reason, Okada RCC Luis Carde
+nas said, it is necessary that RCCs take extra
+precautions before granting Internet access
+to residents.
+
+"The two vulnerable operating systems
+are prevented from having full Internet ac
+cess until [students] download the patch,"
+he said.
+The RPC Cleaner was not issued until
+Sept. 12, so students arriving on campus be
+fore then were able to get Internet access
+without downloading the patch. As a result,
+many of these students' computers have dis
+played vulnerabilities to the viruses and
+their Internet has since been shut down. Ac
+cess will be granted again when these stu
+dents run the RPC Cleaner.
+There have been three waves of virus at
+tacks since July 31. It is believed that hack
+ers intend to use the worms to shut down
+Web sites that provide protective patches or
+that experience heavy Internet traffic, mak
+ing businesses and universities particularly
+susceptible.
+The most prominent problem that stu
+dents have encountered as a result of these
+virus attacks is the presence of hundreds of
+
+
+BETH LIEBERT/The Stanford Daily
+The Blaster Worm and its variants have wreaked havoc upon the Stanford network this summer and have delayed many students' attempts
+to set up their in-room network connections.
+
+
+KATHERINE LIU/The Stanford Daily
+Kimball resident Busayo Ojumo visits ResComp's computer virus page in the Kimball cluster.
+He is one of many student affected by the Blaster worm.
+itinerant e-mails in their inboxes over
+the summer - for example, one stu
+dent emailed the parking and trans
+portation department, and that email
+was sent out to the thousands of stu
+dents on the parking-general list.
+"Some students found that if they
+sent an e-mail, it was sent to an entire
+list," Cardenas said. "So students re
+ceived lots of e-mails they weren't
+supposed to."
+The RPC Cleaner and patch is in
+tended to satisfactorily clear comput
+
+ers for Internet use. Some students,
+however, continue to have problems.
+"The program didn't find my
+virus," sophomore Ruth Emerson
+said. "Something is wrong with my
+computer that I don't think affects
+Windows, but my Internet won't con
+nect. When I try, a window pops up
+that says 'Shit! Connection failed!' "
+Other students grumbled about
+the problems presented by the RPC
+Cleaner itself.
+
+"It took me four hours to get my
+computer working after running the
+Cleaner," sophomore Joanna Kao
+said. "The Cleaner just kept running
+and running and wouldn't stop, even
+though it told me I had no virus."
+Stanford continues to be plagued by the
+computer viruses that bombarded campus
+computers over the summer, creating a
+headache for returning students trying to set
+up their Internet connections.
+When residents arrive to sign in at their
+dorm, they are given "Essential Stanford
+Software" compact discs along with their
+room key. Students cannot set up their In
+ternet access until they have run the RPC
+Cleaner utility included on the disk.
+"Students can't register for internet ser
+vice without using the RPC Cleaner," Kim
+ball Resident Computer Coordinator Chris
+Lin said. "The cleaner scans computers for
+the Blaster Worm, in addition to three other
+viruses, and then installs a patch."
+Blaster Worm and its variants were this
+summer's most widespread bug, although it
+only affects the Windows 2000 and XP op
+erating system - Macintosh computers, for
+example, are not susceptible. The worm is
+particularly problematic because it is spread
+automatically to any vulnerable PC plugged
+into the network; it does not spread through
+bugged e-mail attachments.
+"Just plugging your computer into the
+wall can get you the worm," Lin said.
+Around 6,000 computers were infected
+over the summer, and it is predicted that 25
+percent of students will arrive on campus
+with infected computers.
+For this reason, Okada RCC Luis Carde
+nas said, it is necessary that RCCs take extra
+precautions before granting Internet access
+to residents.
+
+"The two vulnerable operating systems
+are prevented from having full Internet ac
+cess until [students] download the patch,"
+he said.
+The RPC Cleaner was not issued until
+Sept. 12, so students arriving on campus be
+fore then were able to get Internet access
+without downloading the patch. As a result,
+many of these students' computers have dis
+played vulnerabilities to the viruses and
+their Internet has since been shut down. Ac
+cess will be granted again when these stu
+dents run the RPC Cleaner.
+There have been three waves of virus at
+tacks since July 31. It is believed that hack
+ers intend to use the worms to shut down
+Web sites that provide protective patches or
+that experience heavy Internet traffic, mak
+ing businesses and universities particularly
+susceptible.
+The most prominent problem that stu
+dents have encountered as a result of these
+virus attacks is the presence of hundreds of
+
+
+BETH LIEBERT/The Stanford Daily
+The Blaster Worm and its variants have wreaked havoc upon the Stanford network this summer and have delayed many students' attempts
+to set up their in-room network connections.
+
+
+KATHERINE LIU/The Stanford Daily
+Kimball resident Busayo Ojumo visits ResComp's computer virus page in the Kimball cluster.
+He is one of many student affected by the Blaster worm.
+itinerant e-mails in their inboxes over
+the summer - for example, one stu
+dent emailed the parking and trans
+portation department, and that email
+was sent out to the thousands of stu
+dents on the parking-general list.
+"Some students found that if they
+sent an e-mail, it was sent to an entire
+list," Cardenas said. "So students re
+ceived lots of e-mails they weren't
+supposed to."
+The RPC Cleaner and patch is in
+tended to satisfactorily clear comput
+
+ers for Internet use. Some students,
+however, continue to have problems.
+"The program didn't find my
+virus," sophomore Ruth Emerson
+said. "Something is wrong with my
+computer that I don't think affects
+Windows, but my Internet won't con
+nect. When I try, a window pops up
+that says 'Shit! Connection failed!' "
+Other students grumbled about
+the problems presented by the RPC
+Cleaner itself.
+
+"It took me four hours to get my
+computer working after running the
+Cleaner," sophomore Joanna Kao
+said. "The Cleaner just kept running
+and running and wouldn't stop, even
+though it told me I had no virus."
+Stanford continues to be plagued by the
+computer viruses that bombarded campus
+computers over the summer, creating a
+headache for returning students trying to set
+up their Internet connections.
+When residents arrive to sign in at their
+dorm, they are given "Essential Stanford
+Software" compact discs along with their
+room key. Students cannot set up their In
+ternet access until they have run the RPC
+Cleaner utility included on the disk.
+"Students can't register for internet ser
+vice without using the RPC Cleaner," Kim
+ball Resident Computer Coordinator Chris
+Lin said. "The cleaner scans computers for
+the Blaster Worm, in addition to three other
+viruses, and then installs a patch."
+Blaster Worm and its variants were this
+summer's most widespread bug, although it
+only affects the Windows 2000 and XP op
+erating system - Macintosh computers, for
+example, are not susceptible. The worm is
+particularly problematic because it is spread
+automatically to any vulnerable PC plugged
+into the network; it does not spread through
+bugged e-mail attachments.
+"Just plugging your computer into the
+wall can get you the worm," Lin said.
+Around 6,000 computers were infected
+over the summer, and it is predicted that 25
+percent of students will arrive on campus
+with infected computers.
+For this reason, Okada RCC Luis Carde
+nas said, it is necessary that RCCs take extra
+precautions before granting Internet access
+to residents.
+
+"The two vulnerable operating systems
+are prevented from having full Internet ac
+cess until [students] download the patch,"
+he said.
+The RPC Cleaner was not issued until
+Sept. 12, so students arriving on campus be
+fore then were able to get Internet access
+without downloading the patch. As a result,
+many of these students' computers have dis
+played vulnerabilities to the viruses and
+their Internet has since been shut down. Ac
+cess will be granted again when these stu
+dents run the RPC Cleaner.
+There have been three waves of virus at
+tacks since July 31. It is believed that hack
+ers intend to use the worms to shut down
+Web sites that provide protective patches or
+that experience heavy Internet traffic, mak
+ing businesses and universities particularly
+susceptible.
+The most prominent problem that stu
+dents have encountered as a result of these
+virus attacks is the presence of hundreds of
+
+
+BETH LIEBERT/The Stanford Daily
+The Blaster Worm and its variants have wreaked havoc upon the Stanford network this summer and have delayed many students' attempts
+to set up their in-room network connections.
+
+
+KATHERINE LIU/The Stanford Daily
+Kimball resident Busayo Ojumo visits ResComp's computer virus page in the Kimball cluster.
+He is one of many student affected by the Blaster worm.
+itinerant e-mails in their inboxes over
+the summer - for example, one stu
+dent emailed the parking and trans
+portation department, and that email
+was sent out to the thousands of stu
+dents on the parking-general list.
+"Some students found that if they
+sent an e-mail, it was sent to an entire
+list," Cardenas said. "So students re
+ceived lots of e-mails they weren't
+supposed to."
+The RPC Cleaner and patch is in
+tended to satisfactorily clear comput
+
+ers for Internet use. Some students,
+however, continue to have problems.
+"The program didn't find my
+virus," sophomore Ruth Emerson
+said. "Something is wrong with my
+computer that I don't think affects
+Windows, but my Internet won't con
+nect. When I try, a window pops up
+that says 'Shit! Connection failed!' "
+Other students grumbled about
+the problems presented by the RPC
+Cleaner itself.
+
+"It took me four hours to get my
+computer working after running the
+Cleaner," sophomore Joanna Kao
+said. "The Cleaner just kept running
+and running and wouldn't stop, even
+though it told me I had no virus."
+Stanford continues to be plagued by the
+computer viruses that bombarded campus
+computers over the summer, creating a
+headache for returning students trying to set
+up their Internet connections.
+When residents arrive to sign in at their
+dorm, they are given "Essential Stanford
+Software" compact discs along with their
+room key. Students cannot set up their In
+ternet access until they have run the RPC
+Cleaner utility included on the disk.
+"Students can't register for internet ser
+vice without using the RPC Cleaner," Kim
+ball Resident Computer Coordinator Chris
+Lin said. "The cleaner scans computers for
+the Blaster Worm, in addition to three other
+viruses, and then installs a patch."
+Blaster Worm and its variants were this
+summer's most widespread bug, although it
+only affects the Windows 2000 and XP op
+erating system - Macintosh computers, for
+example, are not susceptible. The worm is
+particularly problematic because it is spread
+automatically to any vulnerable PC plugged
+into the network; it does not spread through
+bugged e-mail attachments.
+"Just plugging your computer into the
+wall can get you the worm," Lin said.
+Around 6,000 computers were infected
+over the summer, and it is predicted that 25
+percent of students will arrive on campus
+with infected computers.
+For this reason, Okada RCC Luis Carde
+nas said, it is necessary that RCCs take extra
+precautions before granting Internet access
+to residents.
+
+"The two vulnerable operating systems
+are prevented from having full Internet ac
+cess until [students] download the patch,"
+he said.
+The RPC Cleaner was not issued until
+Sept. 12, so students arriving on campus be
+fore then were able to get Internet access
+without downloading the patch. As a result,
+many of these students' computers have dis
+played vulnerabilities to the viruses and
+their Internet has since been shut down. Ac
+cess will be granted again when these stu
+dents run the RPC Cleaner.
+There have been three waves of virus at
+tacks since July 31. It is believed that hack
+ers intend to use the worms to shut down
+Web sites that provide protective patches or
+that experience heavy Internet traffic, mak
+ing businesses and universities particularly
+susceptible.
+The most prominent problem that stu
+dents have encountered as a result of these
+virus attacks is the presence of hundreds of
+
+
+BETH LIEBERT/The Stanford Daily
+The Blaster Worm and its variants have wreaked havoc upon the Stanford network this summer and have delayed many students' attempts
+to set up their in-room network connections.
+
+
+KATHERINE LIU/The Stanford Daily
+Kimball resident Busayo Ojumo visits ResComp's computer virus page in the Kimball cluster.
+He is one of many student affected by the Blaster worm.
+itinerant e-mails in their inboxes over
+the summer - for example, one stu
+dent emailed the parking and trans
+portation department, and that email
+was sent out to the thousands of stu
+dents on the parking-general list.
+"Some students found that if they
+sent an e-mail, it was sent to an entire
+list," Cardenas said. "So students re
+ceived lots of e-mails they weren't
+supposed to."
+The RPC Cleaner and patch is in
+tended to satisfactorily clear comput
+
+ers for Internet use. Some students,
+however, continue to have problems.
+"The program didn't find my
+virus," sophomore Ruth Emerson
+said. "Something is wrong with my
+computer that I don't think affects
+Windows, but my Internet won't con
+nect. When I try, a window pops up
+that says 'Shit! Connection failed!' "
+Other students grumbled about
+the problems presented by the RPC
+Cleaner itself.
+
+"It took me four hours to get my
+computer working after running the
+Cleaner," sophomore Joanna Kao
+said. "The Cleaner just kept running
+and running and wouldn't stop, even
+though it told me I had no virus."
+Stanford continues to be plagued by the
+computer viruses that bombarded campus
+computers over the summer, creating a
+headache for returning students trying to set
+up their Internet connections.
+When residents arrive to sign in at their
+dorm, they are given "Essential Stanford
+Software" compact discs along with their
+room key. Students cannot set up their In
+ternet access until they have run the RPC
+Cleaner utility included on the disk.
+"Students can't register for internet ser
+vice without using the RPC Cleaner," Kim
+ball Resident Computer Coordinator Chris
+Lin said. "The cleaner scans computers for
+the Blaster Worm, in addition to three other
+viruses, and then installs a patch."
+Blaster Worm and its variants were this
+summer's most widespread bug, although it
+only affects the Windows 2000 and XP op
+erating system - Macintosh computers, for
+example, are not susceptible. The worm is
+particularly problematic because it is spread
+automatically to any vulnerable PC plugged
+into the network; it does not spread through
+bugged e-mail attachments.
+"Just plugging your computer into the
+wall can get you the worm," Lin said.
+Around 6,000 computers were infected
+over the summer, and it is predicted that 25
+percent of students will arrive on campus
+with infected computers.
+For this reason, Okada RCC Luis Carde
+nas said, it is necessary that RCCs take extra
+precautions before granting Internet access
+to residents.
+
+"The two vulnerable operating systems
+are prevented from having full Internet ac
+cess until [students] download the patch,"
+he said.
+The RPC Cleaner was not issued until
+Sept. 12, so students arriving on campus be
+fore then were able to get Internet access
+without downloading the patch. As a result,
+many of these students' computers have dis
+played vulnerabilities to the viruses and
+their Internet has since been shut down. Ac
+cess will be granted again when these stu
+dents run the RPC Cleaner.
+There have been three waves of virus at
+tacks since July 31. It is believed that hack
+ers intend to use the worms to shut down
+Web sites that provide protective patches or
+that experience heavy Internet traffic, mak
+ing businesses and universities particularly
+susceptible.
+The most prominent problem that stu
+dents have encountered as a result of these
+virus attacks is the presence of hundreds of
+
+
+BETH LIEBERT/The Stanford Daily
+The Blaster Worm and its variants have wreaked havoc upon the Stanford network this summer and have delayed many students' attempts
+to set up their in-room network connections.
+
+
+KATHERINE LIU/The Stanford Daily
+Kimball resident Busayo Ojumo visits ResComp's computer virus page in the Kimball cluster.
+He is one of many student affected by the Blaster worm.
+itinerant e-mails in their inboxes over
+the summer - for example, one stu
+dent emailed the parking and trans
+portation department, and that email
+was sent out to the thousands of stu
+dents on the parking-general list.
+"Some students found that if they
+sent an e-mail, it was sent to an entire
+list," Cardenas said. "So students re
+ceived lots of e-mails they weren't
+supposed to."
+The RPC Cleaner and patch is in
+tended to satisfactorily clear comput
+
+ers for Internet use. Some students,
+however, continue to have problems.
+"The program didn't find my
+virus," sophomore Ruth Emerson
+said. "Something is wrong with my
+computer that I don't think affects
+Windows, but my Internet won't con
+nect. When I try, a window pops up
+that says 'Shit! Connection failed!' "
+Other students grumbled about
+the problems presented by the RPC
+Cleaner itself.
+
+"It took me four hours to get my
+computer working after running the
+Cleaner," sophomore Joanna Kao
+said. "The Cleaner just kept running
+and running and wouldn't stop, even
+though it told me I had no virus."
+Stanford continues to be plagued by the
+computer viruses that bombarded campus
+computers over the summer, creating a
+headache for returning students trying to set
+up their Internet connections.
+When residents arrive to sign in at their
+dorm, they are given "Essential Stanford
+Software" compact discs along with their
+room key. Students cannot set up their In
+ternet access until they have run the RPC
+Cleaner utility included on the disk.
+"Students can't register for internet ser
+vice without using the RPC Cleaner," Kim
+ball Resident Computer Coordinator Chris
+Lin said. "The cleaner scans computers for
+the Blaster Worm, in addition to three other
+viruses, and then installs a patch."
+Blaster Worm and its variants were this
+summer's most widespread bug, although it
+only affects the Windows 2000 and XP op
+erating system - Macintosh computers, for
+example, are not susceptible. The worm is
+particularly problematic because it is spread
+automatically to any vulnerable PC plugged
+into the network; it does not spread through
+bugged e-mail attachments.
+"Just plugging your computer into the
+wall can get you the worm," Lin said.
+Around 6,000 computers were infected
+over the summer, and it is predicted that 25
+percent of students will arrive on campus
+with infected computers.
+For this reason, Okada RCC Luis Carde
+nas said, it is necessary that RCCs take extra
+precautions before granting Internet access
+to residents.
+
+"The two vulnerable operating systems
+are prevented from having full Internet ac
+cess until [students] download the patch,"
+he said.
+The RPC Cleaner was not issued until
+Sept. 12, so students arriving on campus be
+fore then were able to get Internet access
+without downloading the patch. As a result,
+many of these students' computers have dis
+played vulnerabilities to the viruses and
+their Internet has since been shut down. Ac
+cess will be granted again when these stu
+dents run the RPC Cleaner.
+There have been three waves of virus at
+tacks since July 31. It is believed that hack
+ers intend to use the worms to shut down
+Web sites that provide protective patches or
+that experience heavy Internet traffic, mak
+ing businesses and universities particularly
+susceptible.
+The most prominent problem that stu
+dents have encountered as a result of these
+virus attacks is the presence of hundreds of
+
+
+BETH LIEBERT/The Stanford Daily
+The Blaster Worm and its variants have wreaked havoc upon the Stanford network this summer and have delayed many students' attempts
+to set up their in-room network connections.
+
+
+KATHERINE LIU/The Stanford Daily
+Kimball resident Busayo Ojumo visits ResComp's computer virus page in the Kimball cluster.
+He is one of many student affected by the Blaster worm.
+itinerant e-mails in their inboxes over
+the summer - for example, one stu
+dent emailed the parking and trans
+portation department, and that email
+was sent out to the thousands of stu
+dents on the parking-general list.
+"Some students found that if they
+sent an e-mail, it was sent to an entire
+list," Cardenas said. "So students re
+ceived lots of e-mails they weren't
+supposed to."
+The RPC Cleaner and patch is in
+tended to satisfactorily clear comput
+
+ers for Internet use. Some students,
+however, continue to have problems.
+"The program didn't find my
+virus," sophomore Ruth Emerson
+said. "Something is wrong with my
+computer that I don't think affects
+Windows, but my Internet won't con
+nect. When I try, a window pops up
+that says 'Shit! Connection failed!' "
+Other students grumbled about
+the problems presented by the RPC
+Cleaner itself.
+
+"It took me four hours to get my
+computer working after running the
+Cleaner," sophomore Joanna Kao
+said. "The Cleaner just kept running
+and running and wouldn't stop, even
+though it told me I had no virus."
+Stanford continues to be plagued by the
+computer viruses that bombarded campus
+computers over the summer, creating a
+headache for returning students trying to set
+up their Internet connections.
+When residents arrive to sign in at their
+dorm, they are given "Essential Stanford
+Software" compact discs along with their
+room key. Students cannot set up their In
+ternet access until they have run the RPC
+Cleaner utility included on the disk.
+"Students can't register for internet ser
+vice without using the RPC Cleaner," Kim
+ball Resident Computer Coordinator Chris
+Lin said. "The cleaner scans computers for
+the Blaster Worm, in addition to three other
+viruses, and then installs a patch."
+Blaster Worm and its variants were this
+summer's most widespread bug, although it
+only affects the Windows 2000 and XP op
+erating system - Macintosh computers, for
+example, are not susceptible. The worm is
+particularly problematic because it is spread
+automatically to any vulnerable PC plugged
+into the network; it does not spread through
+bugged e-mail attachments.
+"Just plugging your computer into the
+wall can get you the worm," Lin said.
+Around 6,000 computers were infected
+over the summer, and it is predicted that 25
+percent of students will arrive on campus
+with infected computers.
+For this reason, Okada RCC Luis Carde
+nas said, it is necessary that RCCs take extra
+precautions before granting Internet access
+to residents.
+
+"The two vulnerable operating systems
+are prevented from having full Internet ac
+cess until [students] download the patch,"
+he said.
+The RPC Cleaner was not issued until
+Sept. 12, so students arriving on campus be
+fore then were able to get Internet access
+without downloading the patch. As a result,
+many of these students' computers have dis
+played vulnerabilities to the viruses and
+their Internet has since been shut down. Ac
+cess will be granted again when these stu
+dents run the RPC Cleaner.
+There have been three waves of virus at
+tacks since July 31. It is believed that hack
+ers intend to use the worms to shut down
+Web sites that provide protective patches or
+that experience heavy Internet traffic, mak
+ing businesses and universities particularly
+susceptible.
+The most prominent problem that stu
+dents have encountered as a result of these
+virus attacks is the presence of hundreds of
+
+
+BETH LIEBERT/The Stanford Daily
+The Blaster Worm and its variants have wreaked havoc upon the Stanford network this summer and have delayed many students' attempts
+to set up their in-room network connections.
+
+
+KATHERINE LIU/The Stanford Daily
+Kimball resident Busayo Ojumo visits ResComp's computer virus page in the Kimball cluster.
+He is one of many student affected by the Blaster worm.
+itinerant e-mails in their inboxes over
+the summer - for example, one stu
+dent emailed the parking and trans
+portation department, and that email
+was sent out to the thousands of stu
+dents on the parking-general list.
+"Some students found that if they
+sent an e-mail, it was sent to an entire
+list," Cardenas said. "So students re
+ceived lots of e-mails they weren't
+supposed to."
+The RPC Cleaner and patch is in
+tended to satisfactorily clear comput
+
+ers for Internet use. Some students,
+however, continue to have problems.
+"The program didn't find my
+virus," sophomore Ruth Emerson
+said. "Something is wrong with my
+computer that I don't think affects
+Windows, but my Internet won't con
+nect. When I try, a window pops up
+that says 'Shit! Connection failed!' "
+Other students grumbled about
+the problems presented by the RPC
+Cleaner itself.
+
+"It took me four hours to get my
+computer working after running the
+Cleaner," sophomore Joanna Kao
+said. "The Cleaner just kept running
+and running and wouldn't stop, even
+though it told me I had no virus."

@@ -1,0 +1,1283 @@
+# Researchers boost cloud computing efficiency
+## Quasar to elicit more work from large-scale data centers 
+### KYLIE JUE DESK EDITOR 
+Researchers at Stanford have
+developed software that could in
+crease the efficiency of cloud com
+puting by eliciting more work from
+the available infrastructure at
+large-scale data centers.
+The tool, named Quasar, uses
+techniques similar to Amazon's and
+Netflix's recommendation algo
+rithms to determine the amount of
+computing resources that an appli
+cation requires to run.
+Researcher Christina Delim
+itrou M.S. 'l2 Ph.D. 'l7 emphasized
+the problems with current meth
+ods of allocating resources, which
+require internal users to specify
+the amount of resources needed for
+their application. According to De
+limitrou, statistics from companies
+like Google, Microsoft and Twitter
+suggest that people tend to overes
+timate their needs by a factor of 10.
+"If you measure the utilization
+[of the current system], it's at
+around 10 to 20 percent, which
+means that about 80 percent of the
+computing power that you could be
+getting out of the machines is be
+
+ing wasted," Delimitrou said.
+Instead of asking users how
+many resources they need, Quasar
+asks people to specify how fast
+they want their application to run.
+The software then translates that
+performance target into resources
+based on data from similar applica
+tions.
+
+"[Quasar] uses the techniques
+that are similar to what recommen
+dation systems or data mining sys
+tems use to recommend movies or
+items on Amazon," Delimitrou
+said. "Instead of recommending
+movies to various users, we recom
+mend resources to incoming appli
+cations."
+Christos Kozyrakis, associate
+professor of electrical engineering
+and of computer science, worked
+on Quasar as the other primary re
+searcher. He wrote in a statement
+to The Daily that the software re
+duces the costs of cloud computing
+without affecting application per
+formance.
+
+"It can help the operators of
+cloud computing facilities serve
+more customers and more applica
+tions," Kozyrakis said. "Quasar in
+creases the cost-effectiveness of
+
+these facilities by two to three
+times."
+Although implementing Quasar
+on a wide scale would require a
+changeover on the part of compa
+nies, Delimitrou explained that the
+shift would ultimately make cloud
+computing more accessible for
+users.
+"It makes it much easier for the
+user because he doesn't have to
+worry about how any resources do
+I need, if I specify X resources will
+I satisfy my performance con
+straints, if I ask for too many will
+my system be underutilized," De
+limitrou said. "I think it can be an
+easy transition."
+Kushagra Vaid, general manag
+er for cloud server engineering at
+Microsoft, explained that efficient
+ly managing cloud computing re
+sources has in fact posed a chal
+lenge for data centers.
+"[Efficient scheduling] is a big
+challenge that's very hard to
+solve," Vaid said. "Usually what
+happens is it's hard to understand
+the nature of the applications and
+how they consume the resources ...
+I haven't seen anything like
+[Quasar] outside of the big cloud
+
+computing providers."
+According to Vaid, Quasar will
+preclude companies from initially
+needing to purchase new servers to
+handle more applications. He also
+noted the importance of the soft
+ware for companies that may not
+necessarily want to use a public
+cloud.
+"[Big IT departments] want to
+run [computing] in their own data
+centers, but they don't have the
+sources to be able to allocate the
+resources efficiently so they end up
+buying a lot of extra hardware,"
+Vaid said. "That's where the oppor
+tunity exists for Quasar."
+Delimitrou explained that in the
+near future they hope to integrate
+the software with an existing sys
+tem like Apache Mesos, a cluster
+manager that handles aspects of
+resource scheduling in addition to
+efficiency.
+"We are talking with them to
+see how we can integrate some of
+these techniques on top of Mesos,"
+
+Delimitrou said. "It's a relatively
+small codebase, and it's actually
+used by Twitter and a few other
+large companies so we would be
+able to see the efficiency gains in a
+large system."
+According to Delimitrou, the re
+searchers are also working on how
+to handle a hybrid cloud to accom
+modate situations in which a user
+runs an application both on his own
+machine and on a public cloud.
+Quasar's primary short- and long
+term goals include, according to
+Kozyrakis, "scaling Quasar to cloud
+facilities with tens of thousands of
+servers," and, longer-term, "man
+ag[ing] applications that span mul
+tiple cloud facilities, public and pri
+vate."
+"Of course, we are exploring
+ways to put Quasar in the hands of
+cloud computing operators as soon
+as possible," he concluded.
+
+Contact Kylie Jue at kyliej@Stan
+ford, edu.
+
+
+Courtesy of Christina Delimitrou
+Researchers including Professor Christos Kozyrakis and Christina Delimitrou
+M.S. '12 Ph.D '17 developed Quasar, software with potential to
+increase the efficiency of cloud computing. The software will use
+methods similar to Amazon and Netflix's recommendation algorithms.
+Researchers at Stanford have
+developed software that could in
+crease the efficiency of cloud com
+puting by eliciting more work from
+the available infrastructure at
+large-scale data centers.
+The tool, named Quasar, uses
+techniques similar to Amazon's and
+Netflix's recommendation algo
+rithms to determine the amount of
+computing resources that an appli
+cation requires to run.
+Researcher Christina Delim
+itrou M.S. 'l2 Ph.D. 'l7 emphasized
+the problems with current meth
+ods of allocating resources, which
+require internal users to specify
+the amount of resources needed for
+their application. According to De
+limitrou, statistics from companies
+like Google, Microsoft and Twitter
+suggest that people tend to overes
+timate their needs by a factor of 10.
+"If you measure the utilization
+[of the current system], it's at
+around 10 to 20 percent, which
+means that about 80 percent of the
+computing power that you could be
+getting out of the machines is be
+
+ing wasted," Delimitrou said.
+Instead of asking users how
+many resources they need, Quasar
+asks people to specify how fast
+they want their application to run.
+The software then translates that
+performance target into resources
+based on data from similar applica
+tions.
+
+"[Quasar] uses the techniques
+that are similar to what recommen
+dation systems or data mining sys
+tems use to recommend movies or
+items on Amazon," Delimitrou
+said. "Instead of recommending
+movies to various users, we recom
+mend resources to incoming appli
+cations."
+Christos Kozyrakis, associate
+professor of electrical engineering
+and of computer science, worked
+on Quasar as the other primary re
+searcher. He wrote in a statement
+to The Daily that the software re
+duces the costs of cloud computing
+without affecting application per
+formance.
+
+"It can help the operators of
+cloud computing facilities serve
+more customers and more applica
+tions," Kozyrakis said. "Quasar in
+creases the cost-effectiveness of
+
+these facilities by two to three
+times."
+Although implementing Quasar
+on a wide scale would require a
+changeover on the part of compa
+nies, Delimitrou explained that the
+shift would ultimately make cloud
+computing more accessible for
+users.
+"It makes it much easier for the
+user because he doesn't have to
+worry about how any resources do
+I need, if I specify X resources will
+I satisfy my performance con
+straints, if I ask for too many will
+my system be underutilized," De
+limitrou said. "I think it can be an
+easy transition."
+Kushagra Vaid, general manag
+er for cloud server engineering at
+Microsoft, explained that efficient
+ly managing cloud computing re
+sources has in fact posed a chal
+lenge for data centers.
+"[Efficient scheduling] is a big
+challenge that's very hard to
+solve," Vaid said. "Usually what
+happens is it's hard to understand
+the nature of the applications and
+how they consume the resources ...
+I haven't seen anything like
+[Quasar] outside of the big cloud
+
+computing providers."
+According to Vaid, Quasar will
+preclude companies from initially
+needing to purchase new servers to
+handle more applications. He also
+noted the importance of the soft
+ware for companies that may not
+necessarily want to use a public
+cloud.
+"[Big IT departments] want to
+run [computing] in their own data
+centers, but they don't have the
+sources to be able to allocate the
+resources efficiently so they end up
+buying a lot of extra hardware,"
+Vaid said. "That's where the oppor
+tunity exists for Quasar."
+Delimitrou explained that in the
+near future they hope to integrate
+the software with an existing sys
+tem like Apache Mesos, a cluster
+manager that handles aspects of
+resource scheduling in addition to
+efficiency.
+"We are talking with them to
+see how we can integrate some of
+these techniques on top of Mesos,"
+
+Delimitrou said. "It's a relatively
+small codebase, and it's actually
+used by Twitter and a few other
+large companies so we would be
+able to see the efficiency gains in a
+large system."
+According to Delimitrou, the re
+searchers are also working on how
+to handle a hybrid cloud to accom
+modate situations in which a user
+runs an application both on his own
+machine and on a public cloud.
+Quasar's primary short- and long
+term goals include, according to
+Kozyrakis, "scaling Quasar to cloud
+facilities with tens of thousands of
+servers," and, longer-term, "man
+ag[ing] applications that span mul
+tiple cloud facilities, public and pri
+vate."
+"Of course, we are exploring
+ways to put Quasar in the hands of
+cloud computing operators as soon
+as possible," he concluded.
+
+Contact Kylie Jue at kyliej@Stan
+ford, edu.
+
+
+Courtesy of Christina Delimitrou
+Researchers including Professor Christos Kozyrakis and Christina Delimitrou
+M.S. '12 Ph.D '17 developed Quasar, software with potential to
+increase the efficiency of cloud computing. The software will use
+methods similar to Amazon and Netflix's recommendation algorithms.
+Researchers at Stanford have
+developed software that could in
+crease the efficiency of cloud com
+puting by eliciting more work from
+the available infrastructure at
+large-scale data centers.
+The tool, named Quasar, uses
+techniques similar to Amazon's and
+Netflix's recommendation algo
+rithms to determine the amount of
+computing resources that an appli
+cation requires to run.
+Researcher Christina Delim
+itrou M.S. 'l2 Ph.D. 'l7 emphasized
+the problems with current meth
+ods of allocating resources, which
+require internal users to specify
+the amount of resources needed for
+their application. According to De
+limitrou, statistics from companies
+like Google, Microsoft and Twitter
+suggest that people tend to overes
+timate their needs by a factor of 10.
+"If you measure the utilization
+[of the current system], it's at
+around 10 to 20 percent, which
+means that about 80 percent of the
+computing power that you could be
+getting out of the machines is be
+
+ing wasted," Delimitrou said.
+Instead of asking users how
+many resources they need, Quasar
+asks people to specify how fast
+they want their application to run.
+The software then translates that
+performance target into resources
+based on data from similar applica
+tions.
+
+"[Quasar] uses the techniques
+that are similar to what recommen
+dation systems or data mining sys
+tems use to recommend movies or
+items on Amazon," Delimitrou
+said. "Instead of recommending
+movies to various users, we recom
+mend resources to incoming appli
+cations."
+Christos Kozyrakis, associate
+professor of electrical engineering
+and of computer science, worked
+on Quasar as the other primary re
+searcher. He wrote in a statement
+to The Daily that the software re
+duces the costs of cloud computing
+without affecting application per
+formance.
+
+"It can help the operators of
+cloud computing facilities serve
+more customers and more applica
+tions," Kozyrakis said. "Quasar in
+creases the cost-effectiveness of
+
+these facilities by two to three
+times."
+Although implementing Quasar
+on a wide scale would require a
+changeover on the part of compa
+nies, Delimitrou explained that the
+shift would ultimately make cloud
+computing more accessible for
+users.
+"It makes it much easier for the
+user because he doesn't have to
+worry about how any resources do
+I need, if I specify X resources will
+I satisfy my performance con
+straints, if I ask for too many will
+my system be underutilized," De
+limitrou said. "I think it can be an
+easy transition."
+Kushagra Vaid, general manag
+er for cloud server engineering at
+Microsoft, explained that efficient
+ly managing cloud computing re
+sources has in fact posed a chal
+lenge for data centers.
+"[Efficient scheduling] is a big
+challenge that's very hard to
+solve," Vaid said. "Usually what
+happens is it's hard to understand
+the nature of the applications and
+how they consume the resources ...
+I haven't seen anything like
+[Quasar] outside of the big cloud
+
+computing providers."
+According to Vaid, Quasar will
+preclude companies from initially
+needing to purchase new servers to
+handle more applications. He also
+noted the importance of the soft
+ware for companies that may not
+necessarily want to use a public
+cloud.
+"[Big IT departments] want to
+run [computing] in their own data
+centers, but they don't have the
+sources to be able to allocate the
+resources efficiently so they end up
+buying a lot of extra hardware,"
+Vaid said. "That's where the oppor
+tunity exists for Quasar."
+Delimitrou explained that in the
+near future they hope to integrate
+the software with an existing sys
+tem like Apache Mesos, a cluster
+manager that handles aspects of
+resource scheduling in addition to
+efficiency.
+"We are talking with them to
+see how we can integrate some of
+these techniques on top of Mesos,"
+
+Delimitrou said. "It's a relatively
+small codebase, and it's actually
+used by Twitter and a few other
+large companies so we would be
+able to see the efficiency gains in a
+large system."
+According to Delimitrou, the re
+searchers are also working on how
+to handle a hybrid cloud to accom
+modate situations in which a user
+runs an application both on his own
+machine and on a public cloud.
+Quasar's primary short- and long
+term goals include, according to
+Kozyrakis, "scaling Quasar to cloud
+facilities with tens of thousands of
+servers," and, longer-term, "man
+ag[ing] applications that span mul
+tiple cloud facilities, public and pri
+vate."
+"Of course, we are exploring
+ways to put Quasar in the hands of
+cloud computing operators as soon
+as possible," he concluded.
+
+Contact Kylie Jue at kyliej@Stan
+ford, edu.
+
+
+Courtesy of Christina Delimitrou
+Researchers including Professor Christos Kozyrakis and Christina Delimitrou
+M.S. '12 Ph.D '17 developed Quasar, software with potential to
+increase the efficiency of cloud computing. The software will use
+methods similar to Amazon and Netflix's recommendation algorithms.
+Researchers at Stanford have
+developed software that could in
+crease the efficiency of cloud com
+puting by eliciting more work from
+the available infrastructure at
+large-scale data centers.
+The tool, named Quasar, uses
+techniques similar to Amazon's and
+Netflix's recommendation algo
+rithms to determine the amount of
+computing resources that an appli
+cation requires to run.
+Researcher Christina Delim
+itrou M.S. 'l2 Ph.D. 'l7 emphasized
+the problems with current meth
+ods of allocating resources, which
+require internal users to specify
+the amount of resources needed for
+their application. According to De
+limitrou, statistics from companies
+like Google, Microsoft and Twitter
+suggest that people tend to overes
+timate their needs by a factor of 10.
+"If you measure the utilization
+[of the current system], it's at
+around 10 to 20 percent, which
+means that about 80 percent of the
+computing power that you could be
+getting out of the machines is be
+
+ing wasted," Delimitrou said.
+Instead of asking users how
+many resources they need, Quasar
+asks people to specify how fast
+they want their application to run.
+The software then translates that
+performance target into resources
+based on data from similar applica
+tions.
+
+"[Quasar] uses the techniques
+that are similar to what recommen
+dation systems or data mining sys
+tems use to recommend movies or
+items on Amazon," Delimitrou
+said. "Instead of recommending
+movies to various users, we recom
+mend resources to incoming appli
+cations."
+Christos Kozyrakis, associate
+professor of electrical engineering
+and of computer science, worked
+on Quasar as the other primary re
+searcher. He wrote in a statement
+to The Daily that the software re
+duces the costs of cloud computing
+without affecting application per
+formance.
+
+"It can help the operators of
+cloud computing facilities serve
+more customers and more applica
+tions," Kozyrakis said. "Quasar in
+creases the cost-effectiveness of
+
+these facilities by two to three
+times."
+Although implementing Quasar
+on a wide scale would require a
+changeover on the part of compa
+nies, Delimitrou explained that the
+shift would ultimately make cloud
+computing more accessible for
+users.
+"It makes it much easier for the
+user because he doesn't have to
+worry about how any resources do
+I need, if I specify X resources will
+I satisfy my performance con
+straints, if I ask for too many will
+my system be underutilized," De
+limitrou said. "I think it can be an
+easy transition."
+Kushagra Vaid, general manag
+er for cloud server engineering at
+Microsoft, explained that efficient
+ly managing cloud computing re
+sources has in fact posed a chal
+lenge for data centers.
+"[Efficient scheduling] is a big
+challenge that's very hard to
+solve," Vaid said. "Usually what
+happens is it's hard to understand
+the nature of the applications and
+how they consume the resources ...
+I haven't seen anything like
+[Quasar] outside of the big cloud
+
+computing providers."
+According to Vaid, Quasar will
+preclude companies from initially
+needing to purchase new servers to
+handle more applications. He also
+noted the importance of the soft
+ware for companies that may not
+necessarily want to use a public
+cloud.
+"[Big IT departments] want to
+run [computing] in their own data
+centers, but they don't have the
+sources to be able to allocate the
+resources efficiently so they end up
+buying a lot of extra hardware,"
+Vaid said. "That's where the oppor
+tunity exists for Quasar."
+Delimitrou explained that in the
+near future they hope to integrate
+the software with an existing sys
+tem like Apache Mesos, a cluster
+manager that handles aspects of
+resource scheduling in addition to
+efficiency.
+"We are talking with them to
+see how we can integrate some of
+these techniques on top of Mesos,"
+
+Delimitrou said. "It's a relatively
+small codebase, and it's actually
+used by Twitter and a few other
+large companies so we would be
+able to see the efficiency gains in a
+large system."
+According to Delimitrou, the re
+searchers are also working on how
+to handle a hybrid cloud to accom
+modate situations in which a user
+runs an application both on his own
+machine and on a public cloud.
+Quasar's primary short- and long
+term goals include, according to
+Kozyrakis, "scaling Quasar to cloud
+facilities with tens of thousands of
+servers," and, longer-term, "man
+ag[ing] applications that span mul
+tiple cloud facilities, public and pri
+vate."
+"Of course, we are exploring
+ways to put Quasar in the hands of
+cloud computing operators as soon
+as possible," he concluded.
+
+Contact Kylie Jue at kyliej@Stan
+ford, edu.
+
+
+Courtesy of Christina Delimitrou
+Researchers including Professor Christos Kozyrakis and Christina Delimitrou
+M.S. '12 Ph.D '17 developed Quasar, software with potential to
+increase the efficiency of cloud computing. The software will use
+methods similar to Amazon and Netflix's recommendation algorithms.
+Researchers at Stanford have
+developed software that could in
+crease the efficiency of cloud com
+puting by eliciting more work from
+the available infrastructure at
+large-scale data centers.
+The tool, named Quasar, uses
+techniques similar to Amazon's and
+Netflix's recommendation algo
+rithms to determine the amount of
+computing resources that an appli
+cation requires to run.
+Researcher Christina Delim
+itrou M.S. 'l2 Ph.D. 'l7 emphasized
+the problems with current meth
+ods of allocating resources, which
+require internal users to specify
+the amount of resources needed for
+their application. According to De
+limitrou, statistics from companies
+like Google, Microsoft and Twitter
+suggest that people tend to overes
+timate their needs by a factor of 10.
+"If you measure the utilization
+[of the current system], it's at
+around 10 to 20 percent, which
+means that about 80 percent of the
+computing power that you could be
+getting out of the machines is be
+
+ing wasted," Delimitrou said.
+Instead of asking users how
+many resources they need, Quasar
+asks people to specify how fast
+they want their application to run.
+The software then translates that
+performance target into resources
+based on data from similar applica
+tions.
+
+"[Quasar] uses the techniques
+that are similar to what recommen
+dation systems or data mining sys
+tems use to recommend movies or
+items on Amazon," Delimitrou
+said. "Instead of recommending
+movies to various users, we recom
+mend resources to incoming appli
+cations."
+Christos Kozyrakis, associate
+professor of electrical engineering
+and of computer science, worked
+on Quasar as the other primary re
+searcher. He wrote in a statement
+to The Daily that the software re
+duces the costs of cloud computing
+without affecting application per
+formance.
+
+"It can help the operators of
+cloud computing facilities serve
+more customers and more applica
+tions," Kozyrakis said. "Quasar in
+creases the cost-effectiveness of
+
+these facilities by two to three
+times."
+Although implementing Quasar
+on a wide scale would require a
+changeover on the part of compa
+nies, Delimitrou explained that the
+shift would ultimately make cloud
+computing more accessible for
+users.
+"It makes it much easier for the
+user because he doesn't have to
+worry about how any resources do
+I need, if I specify X resources will
+I satisfy my performance con
+straints, if I ask for too many will
+my system be underutilized," De
+limitrou said. "I think it can be an
+easy transition."
+Kushagra Vaid, general manag
+er for cloud server engineering at
+Microsoft, explained that efficient
+ly managing cloud computing re
+sources has in fact posed a chal
+lenge for data centers.
+"[Efficient scheduling] is a big
+challenge that's very hard to
+solve," Vaid said. "Usually what
+happens is it's hard to understand
+the nature of the applications and
+how they consume the resources ...
+I haven't seen anything like
+[Quasar] outside of the big cloud
+
+computing providers."
+According to Vaid, Quasar will
+preclude companies from initially
+needing to purchase new servers to
+handle more applications. He also
+noted the importance of the soft
+ware for companies that may not
+necessarily want to use a public
+cloud.
+"[Big IT departments] want to
+run [computing] in their own data
+centers, but they don't have the
+sources to be able to allocate the
+resources efficiently so they end up
+buying a lot of extra hardware,"
+Vaid said. "That's where the oppor
+tunity exists for Quasar."
+Delimitrou explained that in the
+near future they hope to integrate
+the software with an existing sys
+tem like Apache Mesos, a cluster
+manager that handles aspects of
+resource scheduling in addition to
+efficiency.
+"We are talking with them to
+see how we can integrate some of
+these techniques on top of Mesos,"
+
+Delimitrou said. "It's a relatively
+small codebase, and it's actually
+used by Twitter and a few other
+large companies so we would be
+able to see the efficiency gains in a
+large system."
+According to Delimitrou, the re
+searchers are also working on how
+to handle a hybrid cloud to accom
+modate situations in which a user
+runs an application both on his own
+machine and on a public cloud.
+Quasar's primary short- and long
+term goals include, according to
+Kozyrakis, "scaling Quasar to cloud
+facilities with tens of thousands of
+servers," and, longer-term, "man
+ag[ing] applications that span mul
+tiple cloud facilities, public and pri
+vate."
+"Of course, we are exploring
+ways to put Quasar in the hands of
+cloud computing operators as soon
+as possible," he concluded.
+
+Contact Kylie Jue at kyliej@Stan
+ford, edu.
+
+
+Courtesy of Christina Delimitrou
+Researchers including Professor Christos Kozyrakis and Christina Delimitrou
+M.S. '12 Ph.D '17 developed Quasar, software with potential to
+increase the efficiency of cloud computing. The software will use
+methods similar to Amazon and Netflix's recommendation algorithms.
+Researchers at Stanford have
+developed software that could in
+crease the efficiency of cloud com
+puting by eliciting more work from
+the available infrastructure at
+large-scale data centers.
+The tool, named Quasar, uses
+techniques similar to Amazon's and
+Netflix's recommendation algo
+rithms to determine the amount of
+computing resources that an appli
+cation requires to run.
+Researcher Christina Delim
+itrou M.S. 'l2 Ph.D. 'l7 emphasized
+the problems with current meth
+ods of allocating resources, which
+require internal users to specify
+the amount of resources needed for
+their application. According to De
+limitrou, statistics from companies
+like Google, Microsoft and Twitter
+suggest that people tend to overes
+timate their needs by a factor of 10.
+"If you measure the utilization
+[of the current system], it's at
+around 10 to 20 percent, which
+means that about 80 percent of the
+computing power that you could be
+getting out of the machines is be
+
+ing wasted," Delimitrou said.
+Instead of asking users how
+many resources they need, Quasar
+asks people to specify how fast
+they want their application to run.
+The software then translates that
+performance target into resources
+based on data from similar applica
+tions.
+
+"[Quasar] uses the techniques
+that are similar to what recommen
+dation systems or data mining sys
+tems use to recommend movies or
+items on Amazon," Delimitrou
+said. "Instead of recommending
+movies to various users, we recom
+mend resources to incoming appli
+cations."
+Christos Kozyrakis, associate
+professor of electrical engineering
+and of computer science, worked
+on Quasar as the other primary re
+searcher. He wrote in a statement
+to The Daily that the software re
+duces the costs of cloud computing
+without affecting application per
+formance.
+
+"It can help the operators of
+cloud computing facilities serve
+more customers and more applica
+tions," Kozyrakis said. "Quasar in
+creases the cost-effectiveness of
+
+these facilities by two to three
+times."
+Although implementing Quasar
+on a wide scale would require a
+changeover on the part of compa
+nies, Delimitrou explained that the
+shift would ultimately make cloud
+computing more accessible for
+users.
+"It makes it much easier for the
+user because he doesn't have to
+worry about how any resources do
+I need, if I specify X resources will
+I satisfy my performance con
+straints, if I ask for too many will
+my system be underutilized," De
+limitrou said. "I think it can be an
+easy transition."
+Kushagra Vaid, general manag
+er for cloud server engineering at
+Microsoft, explained that efficient
+ly managing cloud computing re
+sources has in fact posed a chal
+lenge for data centers.
+"[Efficient scheduling] is a big
+challenge that's very hard to
+solve," Vaid said. "Usually what
+happens is it's hard to understand
+the nature of the applications and
+how they consume the resources ...
+I haven't seen anything like
+[Quasar] outside of the big cloud
+
+computing providers."
+According to Vaid, Quasar will
+preclude companies from initially
+needing to purchase new servers to
+handle more applications. He also
+noted the importance of the soft
+ware for companies that may not
+necessarily want to use a public
+cloud.
+"[Big IT departments] want to
+run [computing] in their own data
+centers, but they don't have the
+sources to be able to allocate the
+resources efficiently so they end up
+buying a lot of extra hardware,"
+Vaid said. "That's where the oppor
+tunity exists for Quasar."
+Delimitrou explained that in the
+near future they hope to integrate
+the software with an existing sys
+tem like Apache Mesos, a cluster
+manager that handles aspects of
+resource scheduling in addition to
+efficiency.
+"We are talking with them to
+see how we can integrate some of
+these techniques on top of Mesos,"
+
+Delimitrou said. "It's a relatively
+small codebase, and it's actually
+used by Twitter and a few other
+large companies so we would be
+able to see the efficiency gains in a
+large system."
+According to Delimitrou, the re
+searchers are also working on how
+to handle a hybrid cloud to accom
+modate situations in which a user
+runs an application both on his own
+machine and on a public cloud.
+Quasar's primary short- and long
+term goals include, according to
+Kozyrakis, "scaling Quasar to cloud
+facilities with tens of thousands of
+servers," and, longer-term, "man
+ag[ing] applications that span mul
+tiple cloud facilities, public and pri
+vate."
+"Of course, we are exploring
+ways to put Quasar in the hands of
+cloud computing operators as soon
+as possible," he concluded.
+
+Contact Kylie Jue at kyliej@Stan
+ford, edu.
+
+
+Courtesy of Christina Delimitrou
+Researchers including Professor Christos Kozyrakis and Christina Delimitrou
+M.S. '12 Ph.D '17 developed Quasar, software with potential to
+increase the efficiency of cloud computing. The software will use
+methods similar to Amazon and Netflix's recommendation algorithms.
+Researchers at Stanford have
+developed software that could in
+crease the efficiency of cloud com
+puting by eliciting more work from
+the available infrastructure at
+large-scale data centers.
+The tool, named Quasar, uses
+techniques similar to Amazon's and
+Netflix's recommendation algo
+rithms to determine the amount of
+computing resources that an appli
+cation requires to run.
+Researcher Christina Delim
+itrou M.S. 'l2 Ph.D. 'l7 emphasized
+the problems with current meth
+ods of allocating resources, which
+require internal users to specify
+the amount of resources needed for
+their application. According to De
+limitrou, statistics from companies
+like Google, Microsoft and Twitter
+suggest that people tend to overes
+timate their needs by a factor of 10.
+"If you measure the utilization
+[of the current system], it's at
+around 10 to 20 percent, which
+means that about 80 percent of the
+computing power that you could be
+getting out of the machines is be
+
+ing wasted," Delimitrou said.
+Instead of asking users how
+many resources they need, Quasar
+asks people to specify how fast
+they want their application to run.
+The software then translates that
+performance target into resources
+based on data from similar applica
+tions.
+
+"[Quasar] uses the techniques
+that are similar to what recommen
+dation systems or data mining sys
+tems use to recommend movies or
+items on Amazon," Delimitrou
+said. "Instead of recommending
+movies to various users, we recom
+mend resources to incoming appli
+cations."
+Christos Kozyrakis, associate
+professor of electrical engineering
+and of computer science, worked
+on Quasar as the other primary re
+searcher. He wrote in a statement
+to The Daily that the software re
+duces the costs of cloud computing
+without affecting application per
+formance.
+
+"It can help the operators of
+cloud computing facilities serve
+more customers and more applica
+tions," Kozyrakis said. "Quasar in
+creases the cost-effectiveness of
+
+these facilities by two to three
+times."
+Although implementing Quasar
+on a wide scale would require a
+changeover on the part of compa
+nies, Delimitrou explained that the
+shift would ultimately make cloud
+computing more accessible for
+users.
+"It makes it much easier for the
+user because he doesn't have to
+worry about how any resources do
+I need, if I specify X resources will
+I satisfy my performance con
+straints, if I ask for too many will
+my system be underutilized," De
+limitrou said. "I think it can be an
+easy transition."
+Kushagra Vaid, general manag
+er for cloud server engineering at
+Microsoft, explained that efficient
+ly managing cloud computing re
+sources has in fact posed a chal
+lenge for data centers.
+"[Efficient scheduling] is a big
+challenge that's very hard to
+solve," Vaid said. "Usually what
+happens is it's hard to understand
+the nature of the applications and
+how they consume the resources ...
+I haven't seen anything like
+[Quasar] outside of the big cloud
+
+computing providers."
+According to Vaid, Quasar will
+preclude companies from initially
+needing to purchase new servers to
+handle more applications. He also
+noted the importance of the soft
+ware for companies that may not
+necessarily want to use a public
+cloud.
+"[Big IT departments] want to
+run [computing] in their own data
+centers, but they don't have the
+sources to be able to allocate the
+resources efficiently so they end up
+buying a lot of extra hardware,"
+Vaid said. "That's where the oppor
+tunity exists for Quasar."
+Delimitrou explained that in the
+near future they hope to integrate
+the software with an existing sys
+tem like Apache Mesos, a cluster
+manager that handles aspects of
+resource scheduling in addition to
+efficiency.
+"We are talking with them to
+see how we can integrate some of
+these techniques on top of Mesos,"
+
+Delimitrou said. "It's a relatively
+small codebase, and it's actually
+used by Twitter and a few other
+large companies so we would be
+able to see the efficiency gains in a
+large system."
+According to Delimitrou, the re
+searchers are also working on how
+to handle a hybrid cloud to accom
+modate situations in which a user
+runs an application both on his own
+machine and on a public cloud.
+Quasar's primary short- and long
+term goals include, according to
+Kozyrakis, "scaling Quasar to cloud
+facilities with tens of thousands of
+servers," and, longer-term, "man
+ag[ing] applications that span mul
+tiple cloud facilities, public and pri
+vate."
+"Of course, we are exploring
+ways to put Quasar in the hands of
+cloud computing operators as soon
+as possible," he concluded.
+
+Contact Kylie Jue at kyliej@Stan
+ford, edu.
+
+
+Courtesy of Christina Delimitrou
+Researchers including Professor Christos Kozyrakis and Christina Delimitrou
+M.S. '12 Ph.D '17 developed Quasar, software with potential to
+increase the efficiency of cloud computing. The software will use
+methods similar to Amazon and Netflix's recommendation algorithms.
+Researchers at Stanford have
+developed software that could in
+crease the efficiency of cloud com
+puting by eliciting more work from
+the available infrastructure at
+large-scale data centers.
+The tool, named Quasar, uses
+techniques similar to Amazon's and
+Netflix's recommendation algo
+rithms to determine the amount of
+computing resources that an appli
+cation requires to run.
+Researcher Christina Delim
+itrou M.S. 'l2 Ph.D. 'l7 emphasized
+the problems with current meth
+ods of allocating resources, which
+require internal users to specify
+the amount of resources needed for
+their application. According to De
+limitrou, statistics from companies
+like Google, Microsoft and Twitter
+suggest that people tend to overes
+timate their needs by a factor of 10.
+"If you measure the utilization
+[of the current system], it's at
+around 10 to 20 percent, which
+means that about 80 percent of the
+computing power that you could be
+getting out of the machines is be
+
+ing wasted," Delimitrou said.
+Instead of asking users how
+many resources they need, Quasar
+asks people to specify how fast
+they want their application to run.
+The software then translates that
+performance target into resources
+based on data from similar applica
+tions.
+
+"[Quasar] uses the techniques
+that are similar to what recommen
+dation systems or data mining sys
+tems use to recommend movies or
+items on Amazon," Delimitrou
+said. "Instead of recommending
+movies to various users, we recom
+mend resources to incoming appli
+cations."
+Christos Kozyrakis, associate
+professor of electrical engineering
+and of computer science, worked
+on Quasar as the other primary re
+searcher. He wrote in a statement
+to The Daily that the software re
+duces the costs of cloud computing
+without affecting application per
+formance.
+
+"It can help the operators of
+cloud computing facilities serve
+more customers and more applica
+tions," Kozyrakis said. "Quasar in
+creases the cost-effectiveness of
+
+these facilities by two to three
+times."
+Although implementing Quasar
+on a wide scale would require a
+changeover on the part of compa
+nies, Delimitrou explained that the
+shift would ultimately make cloud
+computing more accessible for
+users.
+"It makes it much easier for the
+user because he doesn't have to
+worry about how any resources do
+I need, if I specify X resources will
+I satisfy my performance con
+straints, if I ask for too many will
+my system be underutilized," De
+limitrou said. "I think it can be an
+easy transition."
+Kushagra Vaid, general manag
+er for cloud server engineering at
+Microsoft, explained that efficient
+ly managing cloud computing re
+sources has in fact posed a chal
+lenge for data centers.
+"[Efficient scheduling] is a big
+challenge that's very hard to
+solve," Vaid said. "Usually what
+happens is it's hard to understand
+the nature of the applications and
+how they consume the resources ...
+I haven't seen anything like
+[Quasar] outside of the big cloud
+
+computing providers."
+According to Vaid, Quasar will
+preclude companies from initially
+needing to purchase new servers to
+handle more applications. He also
+noted the importance of the soft
+ware for companies that may not
+necessarily want to use a public
+cloud.
+"[Big IT departments] want to
+run [computing] in their own data
+centers, but they don't have the
+sources to be able to allocate the
+resources efficiently so they end up
+buying a lot of extra hardware,"
+Vaid said. "That's where the oppor
+tunity exists for Quasar."
+Delimitrou explained that in the
+near future they hope to integrate
+the software with an existing sys
+tem like Apache Mesos, a cluster
+manager that handles aspects of
+resource scheduling in addition to
+efficiency.
+"We are talking with them to
+see how we can integrate some of
+these techniques on top of Mesos,"
+
+Delimitrou said. "It's a relatively
+small codebase, and it's actually
+used by Twitter and a few other
+large companies so we would be
+able to see the efficiency gains in a
+large system."
+According to Delimitrou, the re
+searchers are also working on how
+to handle a hybrid cloud to accom
+modate situations in which a user
+runs an application both on his own
+machine and on a public cloud.
+Quasar's primary short- and long
+term goals include, according to
+Kozyrakis, "scaling Quasar to cloud
+facilities with tens of thousands of
+servers," and, longer-term, "man
+ag[ing] applications that span mul
+tiple cloud facilities, public and pri
+vate."
+"Of course, we are exploring
+ways to put Quasar in the hands of
+cloud computing operators as soon
+as possible," he concluded.
+
+Contact Kylie Jue at kyliej@Stan
+ford, edu.
+
+
+Courtesy of Christina Delimitrou
+Researchers including Professor Christos Kozyrakis and Christina Delimitrou
+M.S. '12 Ph.D '17 developed Quasar, software with potential to
+increase the efficiency of cloud computing. The software will use
+methods similar to Amazon and Netflix's recommendation algorithms.

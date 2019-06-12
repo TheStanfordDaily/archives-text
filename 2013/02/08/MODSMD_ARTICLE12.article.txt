@@ -1,0 +1,997 @@
+# SPORTS
+## Winning games with math 
+### Sam Fisher 
+As I watched the Ravens
+survive a dramatic 49ers
+comeback attempt in
+Super Bowl XLVII, all I
+could think about was
+Chip Kelly
+As a lifelong Philadelphia Eagles
+fan and a believer in basic statis
+tics for almost nearly as long—l
+can't help but get excited about the
+edge my Eagles will gain from Chip
+Kelly's decision making.
+I was so busy with Stanford foot
+ball this fall that I found myself lack
+ing the motivation to procrastinate
+my homework another four hours to
+watch the pathetic Eagles or any
+other NFL teams for that matter
+veiy often.
+Maybe that's why I was so
+stunned to see how poor NFL coach
+es' decision making was on fourth
+down in the playoffs. I had gotten
+used to the college game, where
+inconsistent kicking games have
+helped lead coaches to better decision
+making. Chip Kelly has been at the
+forefront of college head coaches in
+this category.
+I had always heard that coaches
+were too conservative, but I never
+fully understood the argument until I
+took Mathematics of Sports (STATS
+50) last fall. Out of all that we learned,
+the one thing that has stuck closest to
+me is how to calculate the value of
+field position in the NFL.
+I'll keep the math as simple as I
+can make it. Let's call Y(x) the value
+in points of a first down and 10 at the
+x yard line note that for the for
+mula, the opponent's 30-yard line
+would effectively become the 70-
+yard line. My professor showed that
+we can do a pretty good linear
+approximation for the formula,
+where V(x) = -2 + ,09x.
+Though both Harbaughs made
+some questionable decisions in the
+Super Bowl, I'm going to focus on one
+specific decision by San Francisco
+head coach Jim Harbaugh. Late in
+the third quarter, he made a decision
+that clearly shows how clueless NFL
+coaches are when it comes to fourth
+down choices.
+After a penalty for running into
+the kicker gave the Niners a fourth
+down and two at the Ravens 16-yard
+line, Jim Harbaugh had a decision to
+make. His kicker, David Akers, who
+had been spotty at best all season,
+had just missed a 39-yard field goal
+attempt. However, the penalty gave
+him a second chance.
+Should Harbaugh have let Akers
+kick it again or should he have sent
+the offense back on the field? Let's
+take a look at the math.
+Based on the model introduced
+earlier —V(x) = -2 + ,09x —if the
+49ers failed on fourth down, the
+expected value of the Ravens' next
+possession would be around -0.7
+points. This is equivalent to 0.7 points
+for the 49ers — due to poor field
+position for the Ravens. If the 49ers
+converted, the expected value of the
+rest of the possession would be a min
+imum of 5.7 points I say minimum
+because that assumes the Niners got
+just enough yardage on fourth down
+to get the first.
+Now what do you think the
+chances are that the 49ers convert on
+the play? According to The New York
+Time's sports blog The Fifth Down,
+the historical success rate for the
+offense on fourth and two is 60 per
+cent. I'll spare you the rest of the
+math and just say that, based on that
+number, the 49ers' expected value by
+going for it would have been 3.7
+points, well above the total of three
+points for the field goal.
+I'm sure some of you will argue
+that the Ravens' defense is better
+than average, therefore decreasing
+the chances that the Niners would
+convert on the play. However, for the
+math to even suggest that Harbaugh
+should have let Akers kick doesn't
+start to swing until you put the con
+version odds at below 50 percent;
+there's no way the Baltimore defense
+has that big of an advantage over the
+potent San Francisco offense.
+I know this is only one decision,
+but I think it is emblematic of a trend
+that dominates the NFL. Well, a
+trend that dominated the NFL.
+Chip Kelly would have gone for
+it and if he had Marcus Mariota,
+Kenjon Barner and De' Anthony
+Thomas, he probably would have
+made it.
+These single plays, by them
+selves, don't decide whether a team
+is going to win the Super Bowl.
+However, over the course of the
+season, making the right decision
+on fourth down can be very signifi
+cant.
+I'd bet there is at least a play or
+two in every game when most NFL
+coaches throw away one point of
+expected value. It might not sound
+like much, but in the hypercompet
+itive NFL, these plays could make
+the difference between making and
+
+missing the playoffs.
+I'm glad Chip Kelly will be the
+one making these decisions for the
+Eagles.
+
+Now that Chip Kelly lias left Ore
+gon, Sam is cons idering trading in
+his David Shaw sweatshirt for a
+Chip Kelly visor. Give him fashion
+advice at safisher@stanford.edu
+and on twitter at @samfisher9oB.
+As I watched the Ravens
+survive a dramatic 49ers
+comeback attempt in
+Super Bowl XLVII, all I
+could think about was
+Chip Kelly
+As a lifelong Philadelphia Eagles
+fan and a believer in basic statis
+tics for almost nearly as long—l
+can't help but get excited about the
+edge my Eagles will gain from Chip
+Kelly's decision making.
+I was so busy with Stanford foot
+ball this fall that I found myself lack
+ing the motivation to procrastinate
+my homework another four hours to
+watch the pathetic Eagles or any
+other NFL teams for that matter
+veiy often.
+Maybe that's why I was so
+stunned to see how poor NFL coach
+es' decision making was on fourth
+down in the playoffs. I had gotten
+used to the college game, where
+inconsistent kicking games have
+helped lead coaches to better decision
+making. Chip Kelly has been at the
+forefront of college head coaches in
+this category.
+I had always heard that coaches
+were too conservative, but I never
+fully understood the argument until I
+took Mathematics of Sports (STATS
+50) last fall. Out of all that we learned,
+the one thing that has stuck closest to
+me is how to calculate the value of
+field position in the NFL.
+I'll keep the math as simple as I
+can make it. Let's call Y(x) the value
+in points of a first down and 10 at the
+x yard line note that for the for
+mula, the opponent's 30-yard line
+would effectively become the 70-
+yard line. My professor showed that
+we can do a pretty good linear
+approximation for the formula,
+where V(x) = -2 + ,09x.
+Though both Harbaughs made
+some questionable decisions in the
+Super Bowl, I'm going to focus on one
+specific decision by San Francisco
+head coach Jim Harbaugh. Late in
+the third quarter, he made a decision
+that clearly shows how clueless NFL
+coaches are when it comes to fourth
+down choices.
+After a penalty for running into
+the kicker gave the Niners a fourth
+down and two at the Ravens 16-yard
+line, Jim Harbaugh had a decision to
+make. His kicker, David Akers, who
+had been spotty at best all season,
+had just missed a 39-yard field goal
+attempt. However, the penalty gave
+him a second chance.
+Should Harbaugh have let Akers
+kick it again or should he have sent
+the offense back on the field? Let's
+take a look at the math.
+Based on the model introduced
+earlier —V(x) = -2 + ,09x —if the
+49ers failed on fourth down, the
+expected value of the Ravens' next
+possession would be around -0.7
+points. This is equivalent to 0.7 points
+for the 49ers — due to poor field
+position for the Ravens. If the 49ers
+converted, the expected value of the
+rest of the possession would be a min
+imum of 5.7 points I say minimum
+because that assumes the Niners got
+just enough yardage on fourth down
+to get the first.
+Now what do you think the
+chances are that the 49ers convert on
+the play? According to The New York
+Time's sports blog The Fifth Down,
+the historical success rate for the
+offense on fourth and two is 60 per
+cent. I'll spare you the rest of the
+math and just say that, based on that
+number, the 49ers' expected value by
+going for it would have been 3.7
+points, well above the total of three
+points for the field goal.
+I'm sure some of you will argue
+that the Ravens' defense is better
+than average, therefore decreasing
+the chances that the Niners would
+convert on the play. However, for the
+math to even suggest that Harbaugh
+should have let Akers kick doesn't
+start to swing until you put the con
+version odds at below 50 percent;
+there's no way the Baltimore defense
+has that big of an advantage over the
+potent San Francisco offense.
+I know this is only one decision,
+but I think it is emblematic of a trend
+that dominates the NFL. Well, a
+trend that dominated the NFL.
+Chip Kelly would have gone for
+it and if he had Marcus Mariota,
+Kenjon Barner and De' Anthony
+Thomas, he probably would have
+made it.
+These single plays, by them
+selves, don't decide whether a team
+is going to win the Super Bowl.
+However, over the course of the
+season, making the right decision
+on fourth down can be very signifi
+cant.
+I'd bet there is at least a play or
+two in every game when most NFL
+coaches throw away one point of
+expected value. It might not sound
+like much, but in the hypercompet
+itive NFL, these plays could make
+the difference between making and
+
+missing the playoffs.
+I'm glad Chip Kelly will be the
+one making these decisions for the
+Eagles.
+
+Now that Chip Kelly lias left Ore
+gon, Sam is cons idering trading in
+his David Shaw sweatshirt for a
+Chip Kelly visor. Give him fashion
+advice at safisher@stanford.edu
+and on twitter at @samfisher9oB.
+As I watched the Ravens
+survive a dramatic 49ers
+comeback attempt in
+Super Bowl XLVII, all I
+could think about was
+Chip Kelly
+As a lifelong Philadelphia Eagles
+fan and a believer in basic statis
+tics for almost nearly as long—l
+can't help but get excited about the
+edge my Eagles will gain from Chip
+Kelly's decision making.
+I was so busy with Stanford foot
+ball this fall that I found myself lack
+ing the motivation to procrastinate
+my homework another four hours to
+watch the pathetic Eagles or any
+other NFL teams for that matter
+veiy often.
+Maybe that's why I was so
+stunned to see how poor NFL coach
+es' decision making was on fourth
+down in the playoffs. I had gotten
+used to the college game, where
+inconsistent kicking games have
+helped lead coaches to better decision
+making. Chip Kelly has been at the
+forefront of college head coaches in
+this category.
+I had always heard that coaches
+were too conservative, but I never
+fully understood the argument until I
+took Mathematics of Sports (STATS
+50) last fall. Out of all that we learned,
+the one thing that has stuck closest to
+me is how to calculate the value of
+field position in the NFL.
+I'll keep the math as simple as I
+can make it. Let's call Y(x) the value
+in points of a first down and 10 at the
+x yard line note that for the for
+mula, the opponent's 30-yard line
+would effectively become the 70-
+yard line. My professor showed that
+we can do a pretty good linear
+approximation for the formula,
+where V(x) = -2 + ,09x.
+Though both Harbaughs made
+some questionable decisions in the
+Super Bowl, I'm going to focus on one
+specific decision by San Francisco
+head coach Jim Harbaugh. Late in
+the third quarter, he made a decision
+that clearly shows how clueless NFL
+coaches are when it comes to fourth
+down choices.
+After a penalty for running into
+the kicker gave the Niners a fourth
+down and two at the Ravens 16-yard
+line, Jim Harbaugh had a decision to
+make. His kicker, David Akers, who
+had been spotty at best all season,
+had just missed a 39-yard field goal
+attempt. However, the penalty gave
+him a second chance.
+Should Harbaugh have let Akers
+kick it again or should he have sent
+the offense back on the field? Let's
+take a look at the math.
+Based on the model introduced
+earlier —V(x) = -2 + ,09x —if the
+49ers failed on fourth down, the
+expected value of the Ravens' next
+possession would be around -0.7
+points. This is equivalent to 0.7 points
+for the 49ers — due to poor field
+position for the Ravens. If the 49ers
+converted, the expected value of the
+rest of the possession would be a min
+imum of 5.7 points I say minimum
+because that assumes the Niners got
+just enough yardage on fourth down
+to get the first.
+Now what do you think the
+chances are that the 49ers convert on
+the play? According to The New York
+Time's sports blog The Fifth Down,
+the historical success rate for the
+offense on fourth and two is 60 per
+cent. I'll spare you the rest of the
+math and just say that, based on that
+number, the 49ers' expected value by
+going for it would have been 3.7
+points, well above the total of three
+points for the field goal.
+I'm sure some of you will argue
+that the Ravens' defense is better
+than average, therefore decreasing
+the chances that the Niners would
+convert on the play. However, for the
+math to even suggest that Harbaugh
+should have let Akers kick doesn't
+start to swing until you put the con
+version odds at below 50 percent;
+there's no way the Baltimore defense
+has that big of an advantage over the
+potent San Francisco offense.
+I know this is only one decision,
+but I think it is emblematic of a trend
+that dominates the NFL. Well, a
+trend that dominated the NFL.
+Chip Kelly would have gone for
+it and if he had Marcus Mariota,
+Kenjon Barner and De' Anthony
+Thomas, he probably would have
+made it.
+These single plays, by them
+selves, don't decide whether a team
+is going to win the Super Bowl.
+However, over the course of the
+season, making the right decision
+on fourth down can be very signifi
+cant.
+I'd bet there is at least a play or
+two in every game when most NFL
+coaches throw away one point of
+expected value. It might not sound
+like much, but in the hypercompet
+itive NFL, these plays could make
+the difference between making and
+
+missing the playoffs.
+I'm glad Chip Kelly will be the
+one making these decisions for the
+Eagles.
+
+Now that Chip Kelly lias left Ore
+gon, Sam is cons idering trading in
+his David Shaw sweatshirt for a
+Chip Kelly visor. Give him fashion
+advice at safisher@stanford.edu
+and on twitter at @samfisher9oB.
+As I watched the Ravens
+survive a dramatic 49ers
+comeback attempt in
+Super Bowl XLVII, all I
+could think about was
+Chip Kelly
+As a lifelong Philadelphia Eagles
+fan and a believer in basic statis
+tics for almost nearly as long—l
+can't help but get excited about the
+edge my Eagles will gain from Chip
+Kelly's decision making.
+I was so busy with Stanford foot
+ball this fall that I found myself lack
+ing the motivation to procrastinate
+my homework another four hours to
+watch the pathetic Eagles or any
+other NFL teams for that matter
+veiy often.
+Maybe that's why I was so
+stunned to see how poor NFL coach
+es' decision making was on fourth
+down in the playoffs. I had gotten
+used to the college game, where
+inconsistent kicking games have
+helped lead coaches to better decision
+making. Chip Kelly has been at the
+forefront of college head coaches in
+this category.
+I had always heard that coaches
+were too conservative, but I never
+fully understood the argument until I
+took Mathematics of Sports (STATS
+50) last fall. Out of all that we learned,
+the one thing that has stuck closest to
+me is how to calculate the value of
+field position in the NFL.
+I'll keep the math as simple as I
+can make it. Let's call Y(x) the value
+in points of a first down and 10 at the
+x yard line note that for the for
+mula, the opponent's 30-yard line
+would effectively become the 70-
+yard line. My professor showed that
+we can do a pretty good linear
+approximation for the formula,
+where V(x) = -2 + ,09x.
+Though both Harbaughs made
+some questionable decisions in the
+Super Bowl, I'm going to focus on one
+specific decision by San Francisco
+head coach Jim Harbaugh. Late in
+the third quarter, he made a decision
+that clearly shows how clueless NFL
+coaches are when it comes to fourth
+down choices.
+After a penalty for running into
+the kicker gave the Niners a fourth
+down and two at the Ravens 16-yard
+line, Jim Harbaugh had a decision to
+make. His kicker, David Akers, who
+had been spotty at best all season,
+had just missed a 39-yard field goal
+attempt. However, the penalty gave
+him a second chance.
+Should Harbaugh have let Akers
+kick it again or should he have sent
+the offense back on the field? Let's
+take a look at the math.
+Based on the model introduced
+earlier —V(x) = -2 + ,09x —if the
+49ers failed on fourth down, the
+expected value of the Ravens' next
+possession would be around -0.7
+points. This is equivalent to 0.7 points
+for the 49ers — due to poor field
+position for the Ravens. If the 49ers
+converted, the expected value of the
+rest of the possession would be a min
+imum of 5.7 points I say minimum
+because that assumes the Niners got
+just enough yardage on fourth down
+to get the first.
+Now what do you think the
+chances are that the 49ers convert on
+the play? According to The New York
+Time's sports blog The Fifth Down,
+the historical success rate for the
+offense on fourth and two is 60 per
+cent. I'll spare you the rest of the
+math and just say that, based on that
+number, the 49ers' expected value by
+going for it would have been 3.7
+points, well above the total of three
+points for the field goal.
+I'm sure some of you will argue
+that the Ravens' defense is better
+than average, therefore decreasing
+the chances that the Niners would
+convert on the play. However, for the
+math to even suggest that Harbaugh
+should have let Akers kick doesn't
+start to swing until you put the con
+version odds at below 50 percent;
+there's no way the Baltimore defense
+has that big of an advantage over the
+potent San Francisco offense.
+I know this is only one decision,
+but I think it is emblematic of a trend
+that dominates the NFL. Well, a
+trend that dominated the NFL.
+Chip Kelly would have gone for
+it and if he had Marcus Mariota,
+Kenjon Barner and De' Anthony
+Thomas, he probably would have
+made it.
+These single plays, by them
+selves, don't decide whether a team
+is going to win the Super Bowl.
+However, over the course of the
+season, making the right decision
+on fourth down can be very signifi
+cant.
+I'd bet there is at least a play or
+two in every game when most NFL
+coaches throw away one point of
+expected value. It might not sound
+like much, but in the hypercompet
+itive NFL, these plays could make
+the difference between making and
+
+missing the playoffs.
+I'm glad Chip Kelly will be the
+one making these decisions for the
+Eagles.
+
+Now that Chip Kelly lias left Ore
+gon, Sam is cons idering trading in
+his David Shaw sweatshirt for a
+Chip Kelly visor. Give him fashion
+advice at safisher@stanford.edu
+and on twitter at @samfisher9oB.
+As I watched the Ravens
+survive a dramatic 49ers
+comeback attempt in
+Super Bowl XLVII, all I
+could think about was
+Chip Kelly
+As a lifelong Philadelphia Eagles
+fan and a believer in basic statis
+tics for almost nearly as long—l
+can't help but get excited about the
+edge my Eagles will gain from Chip
+Kelly's decision making.
+I was so busy with Stanford foot
+ball this fall that I found myself lack
+ing the motivation to procrastinate
+my homework another four hours to
+watch the pathetic Eagles or any
+other NFL teams for that matter
+veiy often.
+Maybe that's why I was so
+stunned to see how poor NFL coach
+es' decision making was on fourth
+down in the playoffs. I had gotten
+used to the college game, where
+inconsistent kicking games have
+helped lead coaches to better decision
+making. Chip Kelly has been at the
+forefront of college head coaches in
+this category.
+I had always heard that coaches
+were too conservative, but I never
+fully understood the argument until I
+took Mathematics of Sports (STATS
+50) last fall. Out of all that we learned,
+the one thing that has stuck closest to
+me is how to calculate the value of
+field position in the NFL.
+I'll keep the math as simple as I
+can make it. Let's call Y(x) the value
+in points of a first down and 10 at the
+x yard line note that for the for
+mula, the opponent's 30-yard line
+would effectively become the 70-
+yard line. My professor showed that
+we can do a pretty good linear
+approximation for the formula,
+where V(x) = -2 + ,09x.
+Though both Harbaughs made
+some questionable decisions in the
+Super Bowl, I'm going to focus on one
+specific decision by San Francisco
+head coach Jim Harbaugh. Late in
+the third quarter, he made a decision
+that clearly shows how clueless NFL
+coaches are when it comes to fourth
+down choices.
+After a penalty for running into
+the kicker gave the Niners a fourth
+down and two at the Ravens 16-yard
+line, Jim Harbaugh had a decision to
+make. His kicker, David Akers, who
+had been spotty at best all season,
+had just missed a 39-yard field goal
+attempt. However, the penalty gave
+him a second chance.
+Should Harbaugh have let Akers
+kick it again or should he have sent
+the offense back on the field? Let's
+take a look at the math.
+Based on the model introduced
+earlier —V(x) = -2 + ,09x —if the
+49ers failed on fourth down, the
+expected value of the Ravens' next
+possession would be around -0.7
+points. This is equivalent to 0.7 points
+for the 49ers — due to poor field
+position for the Ravens. If the 49ers
+converted, the expected value of the
+rest of the possession would be a min
+imum of 5.7 points I say minimum
+because that assumes the Niners got
+just enough yardage on fourth down
+to get the first.
+Now what do you think the
+chances are that the 49ers convert on
+the play? According to The New York
+Time's sports blog The Fifth Down,
+the historical success rate for the
+offense on fourth and two is 60 per
+cent. I'll spare you the rest of the
+math and just say that, based on that
+number, the 49ers' expected value by
+going for it would have been 3.7
+points, well above the total of three
+points for the field goal.
+I'm sure some of you will argue
+that the Ravens' defense is better
+than average, therefore decreasing
+the chances that the Niners would
+convert on the play. However, for the
+math to even suggest that Harbaugh
+should have let Akers kick doesn't
+start to swing until you put the con
+version odds at below 50 percent;
+there's no way the Baltimore defense
+has that big of an advantage over the
+potent San Francisco offense.
+I know this is only one decision,
+but I think it is emblematic of a trend
+that dominates the NFL. Well, a
+trend that dominated the NFL.
+Chip Kelly would have gone for
+it and if he had Marcus Mariota,
+Kenjon Barner and De' Anthony
+Thomas, he probably would have
+made it.
+These single plays, by them
+selves, don't decide whether a team
+is going to win the Super Bowl.
+However, over the course of the
+season, making the right decision
+on fourth down can be very signifi
+cant.
+I'd bet there is at least a play or
+two in every game when most NFL
+coaches throw away one point of
+expected value. It might not sound
+like much, but in the hypercompet
+itive NFL, these plays could make
+the difference between making and
+
+missing the playoffs.
+I'm glad Chip Kelly will be the
+one making these decisions for the
+Eagles.
+
+Now that Chip Kelly lias left Ore
+gon, Sam is cons idering trading in
+his David Shaw sweatshirt for a
+Chip Kelly visor. Give him fashion
+advice at safisher@stanford.edu
+and on twitter at @samfisher9oB.
+As I watched the Ravens
+survive a dramatic 49ers
+comeback attempt in
+Super Bowl XLVII, all I
+could think about was
+Chip Kelly
+As a lifelong Philadelphia Eagles
+fan and a believer in basic statis
+tics for almost nearly as long—l
+can't help but get excited about the
+edge my Eagles will gain from Chip
+Kelly's decision making.
+I was so busy with Stanford foot
+ball this fall that I found myself lack
+ing the motivation to procrastinate
+my homework another four hours to
+watch the pathetic Eagles or any
+other NFL teams for that matter
+veiy often.
+Maybe that's why I was so
+stunned to see how poor NFL coach
+es' decision making was on fourth
+down in the playoffs. I had gotten
+used to the college game, where
+inconsistent kicking games have
+helped lead coaches to better decision
+making. Chip Kelly has been at the
+forefront of college head coaches in
+this category.
+I had always heard that coaches
+were too conservative, but I never
+fully understood the argument until I
+took Mathematics of Sports (STATS
+50) last fall. Out of all that we learned,
+the one thing that has stuck closest to
+me is how to calculate the value of
+field position in the NFL.
+I'll keep the math as simple as I
+can make it. Let's call Y(x) the value
+in points of a first down and 10 at the
+x yard line note that for the for
+mula, the opponent's 30-yard line
+would effectively become the 70-
+yard line. My professor showed that
+we can do a pretty good linear
+approximation for the formula,
+where V(x) = -2 + ,09x.
+Though both Harbaughs made
+some questionable decisions in the
+Super Bowl, I'm going to focus on one
+specific decision by San Francisco
+head coach Jim Harbaugh. Late in
+the third quarter, he made a decision
+that clearly shows how clueless NFL
+coaches are when it comes to fourth
+down choices.
+After a penalty for running into
+the kicker gave the Niners a fourth
+down and two at the Ravens 16-yard
+line, Jim Harbaugh had a decision to
+make. His kicker, David Akers, who
+had been spotty at best all season,
+had just missed a 39-yard field goal
+attempt. However, the penalty gave
+him a second chance.
+Should Harbaugh have let Akers
+kick it again or should he have sent
+the offense back on the field? Let's
+take a look at the math.
+Based on the model introduced
+earlier —V(x) = -2 + ,09x —if the
+49ers failed on fourth down, the
+expected value of the Ravens' next
+possession would be around -0.7
+points. This is equivalent to 0.7 points
+for the 49ers — due to poor field
+position for the Ravens. If the 49ers
+converted, the expected value of the
+rest of the possession would be a min
+imum of 5.7 points I say minimum
+because that assumes the Niners got
+just enough yardage on fourth down
+to get the first.
+Now what do you think the
+chances are that the 49ers convert on
+the play? According to The New York
+Time's sports blog The Fifth Down,
+the historical success rate for the
+offense on fourth and two is 60 per
+cent. I'll spare you the rest of the
+math and just say that, based on that
+number, the 49ers' expected value by
+going for it would have been 3.7
+points, well above the total of three
+points for the field goal.
+I'm sure some of you will argue
+that the Ravens' defense is better
+than average, therefore decreasing
+the chances that the Niners would
+convert on the play. However, for the
+math to even suggest that Harbaugh
+should have let Akers kick doesn't
+start to swing until you put the con
+version odds at below 50 percent;
+there's no way the Baltimore defense
+has that big of an advantage over the
+potent San Francisco offense.
+I know this is only one decision,
+but I think it is emblematic of a trend
+that dominates the NFL. Well, a
+trend that dominated the NFL.
+Chip Kelly would have gone for
+it and if he had Marcus Mariota,
+Kenjon Barner and De' Anthony
+Thomas, he probably would have
+made it.
+These single plays, by them
+selves, don't decide whether a team
+is going to win the Super Bowl.
+However, over the course of the
+season, making the right decision
+on fourth down can be very signifi
+cant.
+I'd bet there is at least a play or
+two in every game when most NFL
+coaches throw away one point of
+expected value. It might not sound
+like much, but in the hypercompet
+itive NFL, these plays could make
+the difference between making and
+
+missing the playoffs.
+I'm glad Chip Kelly will be the
+one making these decisions for the
+Eagles.
+
+Now that Chip Kelly lias left Ore
+gon, Sam is cons idering trading in
+his David Shaw sweatshirt for a
+Chip Kelly visor. Give him fashion
+advice at safisher@stanford.edu
+and on twitter at @samfisher9oB.
+As I watched the Ravens
+survive a dramatic 49ers
+comeback attempt in
+Super Bowl XLVII, all I
+could think about was
+Chip Kelly
+As a lifelong Philadelphia Eagles
+fan and a believer in basic statis
+tics for almost nearly as long—l
+can't help but get excited about the
+edge my Eagles will gain from Chip
+Kelly's decision making.
+I was so busy with Stanford foot
+ball this fall that I found myself lack
+ing the motivation to procrastinate
+my homework another four hours to
+watch the pathetic Eagles or any
+other NFL teams for that matter
+veiy often.
+Maybe that's why I was so
+stunned to see how poor NFL coach
+es' decision making was on fourth
+down in the playoffs. I had gotten
+used to the college game, where
+inconsistent kicking games have
+helped lead coaches to better decision
+making. Chip Kelly has been at the
+forefront of college head coaches in
+this category.
+I had always heard that coaches
+were too conservative, but I never
+fully understood the argument until I
+took Mathematics of Sports (STATS
+50) last fall. Out of all that we learned,
+the one thing that has stuck closest to
+me is how to calculate the value of
+field position in the NFL.
+I'll keep the math as simple as I
+can make it. Let's call Y(x) the value
+in points of a first down and 10 at the
+x yard line note that for the for
+mula, the opponent's 30-yard line
+would effectively become the 70-
+yard line. My professor showed that
+we can do a pretty good linear
+approximation for the formula,
+where V(x) = -2 + ,09x.
+Though both Harbaughs made
+some questionable decisions in the
+Super Bowl, I'm going to focus on one
+specific decision by San Francisco
+head coach Jim Harbaugh. Late in
+the third quarter, he made a decision
+that clearly shows how clueless NFL
+coaches are when it comes to fourth
+down choices.
+After a penalty for running into
+the kicker gave the Niners a fourth
+down and two at the Ravens 16-yard
+line, Jim Harbaugh had a decision to
+make. His kicker, David Akers, who
+had been spotty at best all season,
+had just missed a 39-yard field goal
+attempt. However, the penalty gave
+him a second chance.
+Should Harbaugh have let Akers
+kick it again or should he have sent
+the offense back on the field? Let's
+take a look at the math.
+Based on the model introduced
+earlier —V(x) = -2 + ,09x —if the
+49ers failed on fourth down, the
+expected value of the Ravens' next
+possession would be around -0.7
+points. This is equivalent to 0.7 points
+for the 49ers — due to poor field
+position for the Ravens. If the 49ers
+converted, the expected value of the
+rest of the possession would be a min
+imum of 5.7 points I say minimum
+because that assumes the Niners got
+just enough yardage on fourth down
+to get the first.
+Now what do you think the
+chances are that the 49ers convert on
+the play? According to The New York
+Time's sports blog The Fifth Down,
+the historical success rate for the
+offense on fourth and two is 60 per
+cent. I'll spare you the rest of the
+math and just say that, based on that
+number, the 49ers' expected value by
+going for it would have been 3.7
+points, well above the total of three
+points for the field goal.
+I'm sure some of you will argue
+that the Ravens' defense is better
+than average, therefore decreasing
+the chances that the Niners would
+convert on the play. However, for the
+math to even suggest that Harbaugh
+should have let Akers kick doesn't
+start to swing until you put the con
+version odds at below 50 percent;
+there's no way the Baltimore defense
+has that big of an advantage over the
+potent San Francisco offense.
+I know this is only one decision,
+but I think it is emblematic of a trend
+that dominates the NFL. Well, a
+trend that dominated the NFL.
+Chip Kelly would have gone for
+it and if he had Marcus Mariota,
+Kenjon Barner and De' Anthony
+Thomas, he probably would have
+made it.
+These single plays, by them
+selves, don't decide whether a team
+is going to win the Super Bowl.
+However, over the course of the
+season, making the right decision
+on fourth down can be very signifi
+cant.
+I'd bet there is at least a play or
+two in every game when most NFL
+coaches throw away one point of
+expected value. It might not sound
+like much, but in the hypercompet
+itive NFL, these plays could make
+the difference between making and
+
+missing the playoffs.
+I'm glad Chip Kelly will be the
+one making these decisions for the
+Eagles.
+
+Now that Chip Kelly lias left Ore
+gon, Sam is cons idering trading in
+his David Shaw sweatshirt for a
+Chip Kelly visor. Give him fashion
+advice at safisher@stanford.edu
+and on twitter at @samfisher9oB.

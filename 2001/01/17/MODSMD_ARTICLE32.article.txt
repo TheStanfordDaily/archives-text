@@ -1,0 +1,822 @@
+# a 						weekly look at science and techology at Stanford
+## Innovation Taking the guesswork out of drug design 
+### GUHA JAYACHANDRAN 
+Hie tale ol pel IK illin's .u (identul
+tliscovery is purl ot science folklore,
+a parable of how breakthroughs
+can occur when you least expect
+them.
+I he tliscoveiA is also an exam
+ple of extreme fortune. Howard
+Florey, the Australian pathologist
+wht) shared a Nobel I'ri/e lot bis
+stud\ of penicillin, called it "quite
+one of the luckiest accidents that
+have occurred in medicine." And
+having to depend on sei eutlipit\
+to discover lifesaviug tlrugs is not
+an attractive proposition.
+l odav's main upprouch, which
+involves st 1 ccning \.lst numbei s < >1
+substances fbi a compound with
+the desired «u ti\ it\. is not ver\ at
+tractive either. I lie approach is
+time-consuming and analogous to
+looking lot .1 needle in a vet \. vet \
+large haystack.
+In the past few years, le
+seart hers have been looking to im
+prove the thug tliscover\ process
+
+though structure-bused design.
+I he structure-bused approach,
+often relerred to .is rutionul drug
+design, aims to predict the struc
+ture ol .111 .u live compound. Scien
+tists c.iu then uttempt t<» svnthesi/e
+the pretlit ted mi ucture or cun use
+it to limit t lie number of substuiu es
+th.it need to be si reencd, effet live
+ly slu inking the si/.eof the hu\stui k
+to be exumined and speeding up
+the discovery process.
+I he structure-based design ap
+proach is based on the idea that .1
+drug molecule's effi< acv .irises
+Irom the bndingol the tnolet ule to
+a certain target site in the bod v.
+I be chug tnolet ule, called a lig
+.ind. is usualh quite sm.ill I he
+larger target mat romolecule, ic
+fet led to .is the receptot. is usually
+.1 protein.
+I o shrink the universe ot possi
+ble drug candidates, researchers
+take advantageoi the la< t that .1 lig
+.ind must be (omplcment.il \ to .1
+target site for sut cestui binding.
+I.igands which do not have a strut -
+tine complement.in to the target
+
+site cannot liiiul to it.and so will
+not be considered as likch drug
+(andidatcs.
+Computer scientists, among
+others, have been seeking meth
+ods lot determining the coinple
+nientan substructure tor a given
+receptor binding site.
+I he algorithms work l>\ look
+ing at ligands which don't (jintc
+have the desired mcdic.il effect,
+but nonetheless show an ailinit\
+lor the target site. Next, the algo
+rithms identities whit It sti uctural
+le.itines are common among all
+ligands with succestul binding.
+I Ins common substructure is
+called I he phai mat ophot e.
+( heinists (.in considei |iist those
+ligands that contain the pharma
+cophore as likch di ug < andidatcs,
+and so have a shorter path to de
+termining the one with the most
+therapeutic value.
+One complicating factor m the
+prot ess is tli.it ligands are not i igid
+tliev have multiple degrees ol
+freedom as atoms rotate about
+bonds. A particulai configuration
+
+of the atoms must be low-energv to
+lie stable. I bus, anothei focus of
+resean li has been to come up with
+computation.ilh tractable meth
+ods for conformational anah sis.
+Professors in the st boots of en
+gineering, humanities and si i
+ences. and mctlicine at Stanford
+arc among those around the world
+studving strut ture-based di ug de
+sign. I'rofessor Rajec\ Motwani of
+the Computer Science Depart -
+incut is one of tliein. "Quite ohvi
+ouslv, computation resources tan
+onl\ increase." Motwani sa\s. I Ins
+ilit lease lessens one of the obsta
+cles of totlav: lack, ot computing
+power. Motwani spa ulates that, in
+the flit me. all drugdistovei ies will
+involve heaw i omputat ion.it
+work.
+So, some\e.n s from now , in ad
+dition to the fantastic tale of
+Alex.unlet Fleming happening
+upon penicillin, people tna\ tell
+vet anothei parable involving
+drug distovcrv. this one demon
+strating not the value ol screntlipi
+tv. but the might of computation.
+
+Hie tale ol pel IK illin's .u (identul
+tliscovery is purl ot science folklore,
+a parable of how breakthroughs
+can occur when you least expect
+them.
+I he tliscoveiA is also an exam
+ple of extreme fortune. Howard
+Florey, the Australian pathologist
+wht) shared a Nobel I'ri/e lot bis
+stud\ of penicillin, called it "quite
+one of the luckiest accidents that
+have occurred in medicine." And
+having to depend on sei eutlipit\
+to discover lifesaviug tlrugs is not
+an attractive proposition.
+l odav's main upprouch, which
+involves st 1 ccning \.lst numbei s < >1
+substances fbi a compound with
+the desired «u ti\ it\. is not ver\ at
+tractive either. I lie approach is
+time-consuming and analogous to
+looking lot .1 needle in a vet \. vet \
+large haystack.
+In the past few years, le
+seart hers have been looking to im
+prove the thug tliscover\ process
+
+though structure-bused design.
+I he structure-bused approach,
+often relerred to .is rutionul drug
+design, aims to predict the struc
+ture ol .111 .u live compound. Scien
+tists c.iu then uttempt t<» svnthesi/e
+the pretlit ted mi ucture or cun use
+it to limit t lie number of substuiu es
+th.it need to be si reencd, effet live
+ly slu inking the si/.eof the hu\stui k
+to be exumined and speeding up
+the discovery process.
+I he structure-based design ap
+proach is based on the idea that .1
+drug molecule's effi< acv .irises
+Irom the bndingol the tnolet ule to
+a certain target site in the bod v.
+I be chug tnolet ule, called a lig
+.ind. is usualh quite sm.ill I he
+larger target mat romolecule, ic
+fet led to .is the receptot. is usually
+.1 protein.
+I o shrink the universe ot possi
+ble drug candidates, researchers
+take advantageoi the la< t that .1 lig
+.ind must be (omplcment.il \ to .1
+target site for sut cestui binding.
+I.igands which do not have a strut -
+tine complement.in to the target
+
+site cannot liiiul to it.and so will
+not be considered as likch drug
+(andidatcs.
+Computer scientists, among
+others, have been seeking meth
+ods lot determining the coinple
+nientan substructure tor a given
+receptor binding site.
+I he algorithms work l>\ look
+ing at ligands which don't (jintc
+have the desired mcdic.il effect,
+but nonetheless show an ailinit\
+lor the target site. Next, the algo
+rithms identities whit It sti uctural
+le.itines are common among all
+ligands with succestul binding.
+I Ins common substructure is
+called I he phai mat ophot e.
+( heinists (.in considei |iist those
+ligands that contain the pharma
+cophore as likch di ug < andidatcs,
+and so have a shorter path to de
+termining the one with the most
+therapeutic value.
+One complicating factor m the
+prot ess is tli.it ligands are not i igid
+tliev have multiple degrees ol
+freedom as atoms rotate about
+bonds. A particulai configuration
+
+of the atoms must be low-energv to
+lie stable. I bus, anothei focus of
+resean li has been to come up with
+computation.ilh tractable meth
+ods for conformational anah sis.
+Professors in the st boots of en
+gineering, humanities and si i
+ences. and mctlicine at Stanford
+arc among those around the world
+studving strut ture-based di ug de
+sign. I'rofessor Rajec\ Motwani of
+the Computer Science Depart -
+incut is one of tliein. "Quite ohvi
+ouslv, computation resources tan
+onl\ increase." Motwani sa\s. I Ins
+ilit lease lessens one of the obsta
+cles of totlav: lack, ot computing
+power. Motwani spa ulates that, in
+the flit me. all drugdistovei ies will
+involve heaw i omputat ion.it
+work.
+So, some\e.n s from now , in ad
+dition to the fantastic tale of
+Alex.unlet Fleming happening
+upon penicillin, people tna\ tell
+vet anothei parable involving
+drug distovcrv. this one demon
+strating not the value ol screntlipi
+tv. but the might of computation.
+
+Hie tale ol pel IK illin's .u (identul
+tliscovery is purl ot science folklore,
+a parable of how breakthroughs
+can occur when you least expect
+them.
+I he tliscoveiA is also an exam
+ple of extreme fortune. Howard
+Florey, the Australian pathologist
+wht) shared a Nobel I'ri/e lot bis
+stud\ of penicillin, called it "quite
+one of the luckiest accidents that
+have occurred in medicine." And
+having to depend on sei eutlipit\
+to discover lifesaviug tlrugs is not
+an attractive proposition.
+l odav's main upprouch, which
+involves st 1 ccning \.lst numbei s < >1
+substances fbi a compound with
+the desired «u ti\ it\. is not ver\ at
+tractive either. I lie approach is
+time-consuming and analogous to
+looking lot .1 needle in a vet \. vet \
+large haystack.
+In the past few years, le
+seart hers have been looking to im
+prove the thug tliscover\ process
+
+though structure-bused design.
+I he structure-bused approach,
+often relerred to .is rutionul drug
+design, aims to predict the struc
+ture ol .111 .u live compound. Scien
+tists c.iu then uttempt t<» svnthesi/e
+the pretlit ted mi ucture or cun use
+it to limit t lie number of substuiu es
+th.it need to be si reencd, effet live
+ly slu inking the si/.eof the hu\stui k
+to be exumined and speeding up
+the discovery process.
+I he structure-based design ap
+proach is based on the idea that .1
+drug molecule's effi< acv .irises
+Irom the bndingol the tnolet ule to
+a certain target site in the bod v.
+I be chug tnolet ule, called a lig
+.ind. is usualh quite sm.ill I he
+larger target mat romolecule, ic
+fet led to .is the receptot. is usually
+.1 protein.
+I o shrink the universe ot possi
+ble drug candidates, researchers
+take advantageoi the la< t that .1 lig
+.ind must be (omplcment.il \ to .1
+target site for sut cestui binding.
+I.igands which do not have a strut -
+tine complement.in to the target
+
+site cannot liiiul to it.and so will
+not be considered as likch drug
+(andidatcs.
+Computer scientists, among
+others, have been seeking meth
+ods lot determining the coinple
+nientan substructure tor a given
+receptor binding site.
+I he algorithms work l>\ look
+ing at ligands which don't (jintc
+have the desired mcdic.il effect,
+but nonetheless show an ailinit\
+lor the target site. Next, the algo
+rithms identities whit It sti uctural
+le.itines are common among all
+ligands with succestul binding.
+I Ins common substructure is
+called I he phai mat ophot e.
+( heinists (.in considei |iist those
+ligands that contain the pharma
+cophore as likch di ug < andidatcs,
+and so have a shorter path to de
+termining the one with the most
+therapeutic value.
+One complicating factor m the
+prot ess is tli.it ligands are not i igid
+tliev have multiple degrees ol
+freedom as atoms rotate about
+bonds. A particulai configuration
+
+of the atoms must be low-energv to
+lie stable. I bus, anothei focus of
+resean li has been to come up with
+computation.ilh tractable meth
+ods for conformational anah sis.
+Professors in the st boots of en
+gineering, humanities and si i
+ences. and mctlicine at Stanford
+arc among those around the world
+studving strut ture-based di ug de
+sign. I'rofessor Rajec\ Motwani of
+the Computer Science Depart -
+incut is one of tliein. "Quite ohvi
+ouslv, computation resources tan
+onl\ increase." Motwani sa\s. I Ins
+ilit lease lessens one of the obsta
+cles of totlav: lack, ot computing
+power. Motwani spa ulates that, in
+the flit me. all drugdistovei ies will
+involve heaw i omputat ion.it
+work.
+So, some\e.n s from now , in ad
+dition to the fantastic tale of
+Alex.unlet Fleming happening
+upon penicillin, people tna\ tell
+vet anothei parable involving
+drug distovcrv. this one demon
+strating not the value ol screntlipi
+tv. but the might of computation.
+
+Hie tale ol pel IK illin's .u (identul
+tliscovery is purl ot science folklore,
+a parable of how breakthroughs
+can occur when you least expect
+them.
+I he tliscoveiA is also an exam
+ple of extreme fortune. Howard
+Florey, the Australian pathologist
+wht) shared a Nobel I'ri/e lot bis
+stud\ of penicillin, called it "quite
+one of the luckiest accidents that
+have occurred in medicine." And
+having to depend on sei eutlipit\
+to discover lifesaviug tlrugs is not
+an attractive proposition.
+l odav's main upprouch, which
+involves st 1 ccning \.lst numbei s < >1
+substances fbi a compound with
+the desired «u ti\ it\. is not ver\ at
+tractive either. I lie approach is
+time-consuming and analogous to
+looking lot .1 needle in a vet \. vet \
+large haystack.
+In the past few years, le
+seart hers have been looking to im
+prove the thug tliscover\ process
+
+though structure-bused design.
+I he structure-bused approach,
+often relerred to .is rutionul drug
+design, aims to predict the struc
+ture ol .111 .u live compound. Scien
+tists c.iu then uttempt t<» svnthesi/e
+the pretlit ted mi ucture or cun use
+it to limit t lie number of substuiu es
+th.it need to be si reencd, effet live
+ly slu inking the si/.eof the hu\stui k
+to be exumined and speeding up
+the discovery process.
+I he structure-based design ap
+proach is based on the idea that .1
+drug molecule's effi< acv .irises
+Irom the bndingol the tnolet ule to
+a certain target site in the bod v.
+I be chug tnolet ule, called a lig
+.ind. is usualh quite sm.ill I he
+larger target mat romolecule, ic
+fet led to .is the receptot. is usually
+.1 protein.
+I o shrink the universe ot possi
+ble drug candidates, researchers
+take advantageoi the la< t that .1 lig
+.ind must be (omplcment.il \ to .1
+target site for sut cestui binding.
+I.igands which do not have a strut -
+tine complement.in to the target
+
+site cannot liiiul to it.and so will
+not be considered as likch drug
+(andidatcs.
+Computer scientists, among
+others, have been seeking meth
+ods lot determining the coinple
+nientan substructure tor a given
+receptor binding site.
+I he algorithms work l>\ look
+ing at ligands which don't (jintc
+have the desired mcdic.il effect,
+but nonetheless show an ailinit\
+lor the target site. Next, the algo
+rithms identities whit It sti uctural
+le.itines are common among all
+ligands with succestul binding.
+I Ins common substructure is
+called I he phai mat ophot e.
+( heinists (.in considei |iist those
+ligands that contain the pharma
+cophore as likch di ug < andidatcs,
+and so have a shorter path to de
+termining the one with the most
+therapeutic value.
+One complicating factor m the
+prot ess is tli.it ligands are not i igid
+tliev have multiple degrees ol
+freedom as atoms rotate about
+bonds. A particulai configuration
+
+of the atoms must be low-energv to
+lie stable. I bus, anothei focus of
+resean li has been to come up with
+computation.ilh tractable meth
+ods for conformational anah sis.
+Professors in the st boots of en
+gineering, humanities and si i
+ences. and mctlicine at Stanford
+arc among those around the world
+studving strut ture-based di ug de
+sign. I'rofessor Rajec\ Motwani of
+the Computer Science Depart -
+incut is one of tliein. "Quite ohvi
+ouslv, computation resources tan
+onl\ increase." Motwani sa\s. I Ins
+ilit lease lessens one of the obsta
+cles of totlav: lack, ot computing
+power. Motwani spa ulates that, in
+the flit me. all drugdistovei ies will
+involve heaw i omputat ion.it
+work.
+So, some\e.n s from now , in ad
+dition to the fantastic tale of
+Alex.unlet Fleming happening
+upon penicillin, people tna\ tell
+vet anothei parable involving
+drug distovcrv. this one demon
+strating not the value ol screntlipi
+tv. but the might of computation.
+
+Hie tale ol pel IK illin's .u (identul
+tliscovery is purl ot science folklore,
+a parable of how breakthroughs
+can occur when you least expect
+them.
+I he tliscoveiA is also an exam
+ple of extreme fortune. Howard
+Florey, the Australian pathologist
+wht) shared a Nobel I'ri/e lot bis
+stud\ of penicillin, called it "quite
+one of the luckiest accidents that
+have occurred in medicine." And
+having to depend on sei eutlipit\
+to discover lifesaviug tlrugs is not
+an attractive proposition.
+l odav's main upprouch, which
+involves st 1 ccning \.lst numbei s < >1
+substances fbi a compound with
+the desired «u ti\ it\. is not ver\ at
+tractive either. I lie approach is
+time-consuming and analogous to
+looking lot .1 needle in a vet \. vet \
+large haystack.
+In the past few years, le
+seart hers have been looking to im
+prove the thug tliscover\ process
+
+though structure-bused design.
+I he structure-bused approach,
+often relerred to .is rutionul drug
+design, aims to predict the struc
+ture ol .111 .u live compound. Scien
+tists c.iu then uttempt t<» svnthesi/e
+the pretlit ted mi ucture or cun use
+it to limit t lie number of substuiu es
+th.it need to be si reencd, effet live
+ly slu inking the si/.eof the hu\stui k
+to be exumined and speeding up
+the discovery process.
+I he structure-based design ap
+proach is based on the idea that .1
+drug molecule's effi< acv .irises
+Irom the bndingol the tnolet ule to
+a certain target site in the bod v.
+I be chug tnolet ule, called a lig
+.ind. is usualh quite sm.ill I he
+larger target mat romolecule, ic
+fet led to .is the receptot. is usually
+.1 protein.
+I o shrink the universe ot possi
+ble drug candidates, researchers
+take advantageoi the la< t that .1 lig
+.ind must be (omplcment.il \ to .1
+target site for sut cestui binding.
+I.igands which do not have a strut -
+tine complement.in to the target
+
+site cannot liiiul to it.and so will
+not be considered as likch drug
+(andidatcs.
+Computer scientists, among
+others, have been seeking meth
+ods lot determining the coinple
+nientan substructure tor a given
+receptor binding site.
+I he algorithms work l>\ look
+ing at ligands which don't (jintc
+have the desired mcdic.il effect,
+but nonetheless show an ailinit\
+lor the target site. Next, the algo
+rithms identities whit It sti uctural
+le.itines are common among all
+ligands with succestul binding.
+I Ins common substructure is
+called I he phai mat ophot e.
+( heinists (.in considei |iist those
+ligands that contain the pharma
+cophore as likch di ug < andidatcs,
+and so have a shorter path to de
+termining the one with the most
+therapeutic value.
+One complicating factor m the
+prot ess is tli.it ligands are not i igid
+tliev have multiple degrees ol
+freedom as atoms rotate about
+bonds. A particulai configuration
+
+of the atoms must be low-energv to
+lie stable. I bus, anothei focus of
+resean li has been to come up with
+computation.ilh tractable meth
+ods for conformational anah sis.
+Professors in the st boots of en
+gineering, humanities and si i
+ences. and mctlicine at Stanford
+arc among those around the world
+studving strut ture-based di ug de
+sign. I'rofessor Rajec\ Motwani of
+the Computer Science Depart -
+incut is one of tliein. "Quite ohvi
+ouslv, computation resources tan
+onl\ increase." Motwani sa\s. I Ins
+ilit lease lessens one of the obsta
+cles of totlav: lack, ot computing
+power. Motwani spa ulates that, in
+the flit me. all drugdistovei ies will
+involve heaw i omputat ion.it
+work.
+So, some\e.n s from now , in ad
+dition to the fantastic tale of
+Alex.unlet Fleming happening
+upon penicillin, people tna\ tell
+vet anothei parable involving
+drug distovcrv. this one demon
+strating not the value ol screntlipi
+tv. but the might of computation.
+
+Hie tale ol pel IK illin's .u (identul
+tliscovery is purl ot science folklore,
+a parable of how breakthroughs
+can occur when you least expect
+them.
+I he tliscoveiA is also an exam
+ple of extreme fortune. Howard
+Florey, the Australian pathologist
+wht) shared a Nobel I'ri/e lot bis
+stud\ of penicillin, called it "quite
+one of the luckiest accidents that
+have occurred in medicine." And
+having to depend on sei eutlipit\
+to discover lifesaviug tlrugs is not
+an attractive proposition.
+l odav's main upprouch, which
+involves st 1 ccning \.lst numbei s < >1
+substances fbi a compound with
+the desired «u ti\ it\. is not ver\ at
+tractive either. I lie approach is
+time-consuming and analogous to
+looking lot .1 needle in a vet \. vet \
+large haystack.
+In the past few years, le
+seart hers have been looking to im
+prove the thug tliscover\ process
+
+though structure-bused design.
+I he structure-bused approach,
+often relerred to .is rutionul drug
+design, aims to predict the struc
+ture ol .111 .u live compound. Scien
+tists c.iu then uttempt t<» svnthesi/e
+the pretlit ted mi ucture or cun use
+it to limit t lie number of substuiu es
+th.it need to be si reencd, effet live
+ly slu inking the si/.eof the hu\stui k
+to be exumined and speeding up
+the discovery process.
+I he structure-based design ap
+proach is based on the idea that .1
+drug molecule's effi< acv .irises
+Irom the bndingol the tnolet ule to
+a certain target site in the bod v.
+I be chug tnolet ule, called a lig
+.ind. is usualh quite sm.ill I he
+larger target mat romolecule, ic
+fet led to .is the receptot. is usually
+.1 protein.
+I o shrink the universe ot possi
+ble drug candidates, researchers
+take advantageoi the la< t that .1 lig
+.ind must be (omplcment.il \ to .1
+target site for sut cestui binding.
+I.igands which do not have a strut -
+tine complement.in to the target
+
+site cannot liiiul to it.and so will
+not be considered as likch drug
+(andidatcs.
+Computer scientists, among
+others, have been seeking meth
+ods lot determining the coinple
+nientan substructure tor a given
+receptor binding site.
+I he algorithms work l>\ look
+ing at ligands which don't (jintc
+have the desired mcdic.il effect,
+but nonetheless show an ailinit\
+lor the target site. Next, the algo
+rithms identities whit It sti uctural
+le.itines are common among all
+ligands with succestul binding.
+I Ins common substructure is
+called I he phai mat ophot e.
+( heinists (.in considei |iist those
+ligands that contain the pharma
+cophore as likch di ug < andidatcs,
+and so have a shorter path to de
+termining the one with the most
+therapeutic value.
+One complicating factor m the
+prot ess is tli.it ligands are not i igid
+tliev have multiple degrees ol
+freedom as atoms rotate about
+bonds. A particulai configuration
+
+of the atoms must be low-energv to
+lie stable. I bus, anothei focus of
+resean li has been to come up with
+computation.ilh tractable meth
+ods for conformational anah sis.
+Professors in the st boots of en
+gineering, humanities and si i
+ences. and mctlicine at Stanford
+arc among those around the world
+studving strut ture-based di ug de
+sign. I'rofessor Rajec\ Motwani of
+the Computer Science Depart -
+incut is one of tliein. "Quite ohvi
+ouslv, computation resources tan
+onl\ increase." Motwani sa\s. I Ins
+ilit lease lessens one of the obsta
+cles of totlav: lack, ot computing
+power. Motwani spa ulates that, in
+the flit me. all drugdistovei ies will
+involve heaw i omputat ion.it
+work.
+So, some\e.n s from now , in ad
+dition to the fantastic tale of
+Alex.unlet Fleming happening
+upon penicillin, people tna\ tell
+vet anothei parable involving
+drug distovcrv. this one demon
+strating not the value ol screntlipi
+tv. but the might of computation.
+
+Hie tale ol pel IK illin's .u (identul
+tliscovery is purl ot science folklore,
+a parable of how breakthroughs
+can occur when you least expect
+them.
+I he tliscoveiA is also an exam
+ple of extreme fortune. Howard
+Florey, the Australian pathologist
+wht) shared a Nobel I'ri/e lot bis
+stud\ of penicillin, called it "quite
+one of the luckiest accidents that
+have occurred in medicine." And
+having to depend on sei eutlipit\
+to discover lifesaviug tlrugs is not
+an attractive proposition.
+l odav's main upprouch, which
+involves st 1 ccning \.lst numbei s < >1
+substances fbi a compound with
+the desired «u ti\ it\. is not ver\ at
+tractive either. I lie approach is
+time-consuming and analogous to
+looking lot .1 needle in a vet \. vet \
+large haystack.
+In the past few years, le
+seart hers have been looking to im
+prove the thug tliscover\ process
+
+though structure-bused design.
+I he structure-bused approach,
+often relerred to .is rutionul drug
+design, aims to predict the struc
+ture ol .111 .u live compound. Scien
+tists c.iu then uttempt t<» svnthesi/e
+the pretlit ted mi ucture or cun use
+it to limit t lie number of substuiu es
+th.it need to be si reencd, effet live
+ly slu inking the si/.eof the hu\stui k
+to be exumined and speeding up
+the discovery process.
+I he structure-based design ap
+proach is based on the idea that .1
+drug molecule's effi< acv .irises
+Irom the bndingol the tnolet ule to
+a certain target site in the bod v.
+I be chug tnolet ule, called a lig
+.ind. is usualh quite sm.ill I he
+larger target mat romolecule, ic
+fet led to .is the receptot. is usually
+.1 protein.
+I o shrink the universe ot possi
+ble drug candidates, researchers
+take advantageoi the la< t that .1 lig
+.ind must be (omplcment.il \ to .1
+target site for sut cestui binding.
+I.igands which do not have a strut -
+tine complement.in to the target
+
+site cannot liiiul to it.and so will
+not be considered as likch drug
+(andidatcs.
+Computer scientists, among
+others, have been seeking meth
+ods lot determining the coinple
+nientan substructure tor a given
+receptor binding site.
+I he algorithms work l>\ look
+ing at ligands which don't (jintc
+have the desired mcdic.il effect,
+but nonetheless show an ailinit\
+lor the target site. Next, the algo
+rithms identities whit It sti uctural
+le.itines are common among all
+ligands with succestul binding.
+I Ins common substructure is
+called I he phai mat ophot e.
+( heinists (.in considei |iist those
+ligands that contain the pharma
+cophore as likch di ug < andidatcs,
+and so have a shorter path to de
+termining the one with the most
+therapeutic value.
+One complicating factor m the
+prot ess is tli.it ligands are not i igid
+tliev have multiple degrees ol
+freedom as atoms rotate about
+bonds. A particulai configuration
+
+of the atoms must be low-energv to
+lie stable. I bus, anothei focus of
+resean li has been to come up with
+computation.ilh tractable meth
+ods for conformational anah sis.
+Professors in the st boots of en
+gineering, humanities and si i
+ences. and mctlicine at Stanford
+arc among those around the world
+studving strut ture-based di ug de
+sign. I'rofessor Rajec\ Motwani of
+the Computer Science Depart -
+incut is one of tliein. "Quite ohvi
+ouslv, computation resources tan
+onl\ increase." Motwani sa\s. I Ins
+ilit lease lessens one of the obsta
+cles of totlav: lack, ot computing
+power. Motwani spa ulates that, in
+the flit me. all drugdistovei ies will
+involve heaw i omputat ion.it
+work.
+So, some\e.n s from now , in ad
+dition to the fantastic tale of
+Alex.unlet Fleming happening
+upon penicillin, people tna\ tell
+vet anothei parable involving
+drug distovcrv. this one demon
+strating not the value ol screntlipi
+tv. but the might of computation.
+

@@ -1,0 +1,747 @@
+# Robotics aid the severely handicapped
+## 
+### JAY FRY Staff writer 
+Adapting the latest technology in robotics and ar
+tificial intelligence to aid the handicapped should be
+a piece of cake, or so Mechanical Engineering Prof.
+Larry Leifer hopes. After all, that's how his interest in
+the field of robotic aids for the handicapped began.
+In 1978, the 40 undergraduates of Mechanical En
+gineering 116 A took Leifer's challenge to bake a cake
+using a robot arm. The results so intrigued Leifer that
+he began considering the applications robot technol
+ogy could have for the handicapped.
+Leifer theorized that a severely handicapped per
+son could tell a robot to pick up, carry and otherwise
+manipulate objects as he or she desired. The robot
+
+would become a functional substitute for the per
+son's inoperative limbs.
+Attempting to bring this dream closer, Leifer and a
+team of Stanford robotics engineers are currently
+using the latest advances in both robotics and artifi
+cial intelligence to give the physically disabled new
+ways to access their surroundings. The team consists
+of about a dozen specialists from a wide variety of
+fields, including engineering, linguistics, behavioral
+sciences and medicine, according to Leifer
+The team currently is working with a robot that
+stands about four-feet tall, is powered by 12 six-volt
+aircraft batteries, receives commands through radio
+waves and possesses three wheels allowing it to
+move in any direction.
+The robot is equipped with two on-board 32-bit
+
+microprocessors, a small television camera and a
+working mechanical hand.
+The team hopes ultimately to create a robot that
+can learn — a robot similar to the current model that
+can be easily instructed by the user. "We are attempt
+ing to make a general purpose tool that can be used
+by elderly as well as young people if they are not able
+to perform manipulative tasks," Leifer said.
+The current prototype can be controlled using a
+computer keyboard, voice commands or an
+ultrasonic head control unit that reacts to the oper
+ator's head motions. The robot will respond to
+simple voice commands within its 70-word vocabu
+lary, according to Leifer.
+
+
+Kym Boyman/Daily file
+Splendor in the turf
+Two Stanford students take a roll in the Astro Turf after Saturday's Big Game. UC-
+Berkeley upset the Cardinal by a score of 17-11. The loss affected some more than others.
+Improving this ability to understand
+vocal commands — called natural lan
+guage processing — is one of the
+greatest challenges facing the research
+team. "At all stages, the interface be
+tween human and machine is the most
+
+demanding," Leifer said.
+This interface is also one of the most
+important parts of the robot. Natural
+language processing ability will make
+the robot useful to disabled persons
+without the detailed technical knowl
+edge necessary to program the. team's
+first robot.
+The earlier version of this type of
+robot was an immobile table-top
+model that used two eight-bit
+
+microprocessors and had all its in
+structions pre-programmed with the
+assistance of a technician. Leifer's team
+wants the second-generation version
+to be instructable by virtually anyone.
+This desire is why the team concen
+trates on natural language processing,
+also known as computational linguis
+tics, Leifer said.
+It's not practical "to have a computer
+scientist strapped to each (robot)," he
+
+said. "It's got to be some clown like
+you or me who can tell it what to do."
+The second-generation robot would
+represent a 40-fold increase in com
+puting power over the original ver
+sion.
+The research team currently has "a
+good, workable version of each subsys
+tem" and is working on the
+"integration — the orchestration of the
+pieces" of the robot, Leifer said.
+Adapting the latest technology in robotics and ar
+tificial intelligence to aid the handicapped should be
+a piece of cake, or so Mechanical Engineering Prof.
+Larry Leifer hopes. After all, that's how his interest in
+the field of robotic aids for the handicapped began.
+In 1978, the 40 undergraduates of Mechanical En
+gineering 116 A took Leifer's challenge to bake a cake
+using a robot arm. The results so intrigued Leifer that
+he began considering the applications robot technol
+ogy could have for the handicapped.
+Leifer theorized that a severely handicapped per
+son could tell a robot to pick up, carry and otherwise
+manipulate objects as he or she desired. The robot
+
+would become a functional substitute for the per
+son's inoperative limbs.
+Attempting to bring this dream closer, Leifer and a
+team of Stanford robotics engineers are currently
+using the latest advances in both robotics and artifi
+cial intelligence to give the physically disabled new
+ways to access their surroundings. The team consists
+of about a dozen specialists from a wide variety of
+fields, including engineering, linguistics, behavioral
+sciences and medicine, according to Leifer
+The team currently is working with a robot that
+stands about four-feet tall, is powered by 12 six-volt
+aircraft batteries, receives commands through radio
+waves and possesses three wheels allowing it to
+move in any direction.
+The robot is equipped with two on-board 32-bit
+
+microprocessors, a small television camera and a
+working mechanical hand.
+The team hopes ultimately to create a robot that
+can learn — a robot similar to the current model that
+can be easily instructed by the user. "We are attempt
+ing to make a general purpose tool that can be used
+by elderly as well as young people if they are not able
+to perform manipulative tasks," Leifer said.
+The current prototype can be controlled using a
+computer keyboard, voice commands or an
+ultrasonic head control unit that reacts to the oper
+ator's head motions. The robot will respond to
+simple voice commands within its 70-word vocabu
+lary, according to Leifer.
+
+
+Kym Boyman/Daily file
+Splendor in the turf
+Two Stanford students take a roll in the Astro Turf after Saturday's Big Game. UC-
+Berkeley upset the Cardinal by a score of 17-11. The loss affected some more than others.
+Improving this ability to understand
+vocal commands — called natural lan
+guage processing — is one of the
+greatest challenges facing the research
+team. "At all stages, the interface be
+tween human and machine is the most
+
+demanding," Leifer said.
+This interface is also one of the most
+important parts of the robot. Natural
+language processing ability will make
+the robot useful to disabled persons
+without the detailed technical knowl
+edge necessary to program the. team's
+first robot.
+The earlier version of this type of
+robot was an immobile table-top
+model that used two eight-bit
+
+microprocessors and had all its in
+structions pre-programmed with the
+assistance of a technician. Leifer's team
+wants the second-generation version
+to be instructable by virtually anyone.
+This desire is why the team concen
+trates on natural language processing,
+also known as computational linguis
+tics, Leifer said.
+It's not practical "to have a computer
+scientist strapped to each (robot)," he
+
+said. "It's got to be some clown like
+you or me who can tell it what to do."
+The second-generation robot would
+represent a 40-fold increase in com
+puting power over the original ver
+sion.
+The research team currently has "a
+good, workable version of each subsys
+tem" and is working on the
+"integration — the orchestration of the
+pieces" of the robot, Leifer said.
+Adapting the latest technology in robotics and ar
+tificial intelligence to aid the handicapped should be
+a piece of cake, or so Mechanical Engineering Prof.
+Larry Leifer hopes. After all, that's how his interest in
+the field of robotic aids for the handicapped began.
+In 1978, the 40 undergraduates of Mechanical En
+gineering 116 A took Leifer's challenge to bake a cake
+using a robot arm. The results so intrigued Leifer that
+he began considering the applications robot technol
+ogy could have for the handicapped.
+Leifer theorized that a severely handicapped per
+son could tell a robot to pick up, carry and otherwise
+manipulate objects as he or she desired. The robot
+
+would become a functional substitute for the per
+son's inoperative limbs.
+Attempting to bring this dream closer, Leifer and a
+team of Stanford robotics engineers are currently
+using the latest advances in both robotics and artifi
+cial intelligence to give the physically disabled new
+ways to access their surroundings. The team consists
+of about a dozen specialists from a wide variety of
+fields, including engineering, linguistics, behavioral
+sciences and medicine, according to Leifer
+The team currently is working with a robot that
+stands about four-feet tall, is powered by 12 six-volt
+aircraft batteries, receives commands through radio
+waves and possesses three wheels allowing it to
+move in any direction.
+The robot is equipped with two on-board 32-bit
+
+microprocessors, a small television camera and a
+working mechanical hand.
+The team hopes ultimately to create a robot that
+can learn — a robot similar to the current model that
+can be easily instructed by the user. "We are attempt
+ing to make a general purpose tool that can be used
+by elderly as well as young people if they are not able
+to perform manipulative tasks," Leifer said.
+The current prototype can be controlled using a
+computer keyboard, voice commands or an
+ultrasonic head control unit that reacts to the oper
+ator's head motions. The robot will respond to
+simple voice commands within its 70-word vocabu
+lary, according to Leifer.
+
+
+Kym Boyman/Daily file
+Splendor in the turf
+Two Stanford students take a roll in the Astro Turf after Saturday's Big Game. UC-
+Berkeley upset the Cardinal by a score of 17-11. The loss affected some more than others.
+Improving this ability to understand
+vocal commands — called natural lan
+guage processing — is one of the
+greatest challenges facing the research
+team. "At all stages, the interface be
+tween human and machine is the most
+
+demanding," Leifer said.
+This interface is also one of the most
+important parts of the robot. Natural
+language processing ability will make
+the robot useful to disabled persons
+without the detailed technical knowl
+edge necessary to program the. team's
+first robot.
+The earlier version of this type of
+robot was an immobile table-top
+model that used two eight-bit
+
+microprocessors and had all its in
+structions pre-programmed with the
+assistance of a technician. Leifer's team
+wants the second-generation version
+to be instructable by virtually anyone.
+This desire is why the team concen
+trates on natural language processing,
+also known as computational linguis
+tics, Leifer said.
+It's not practical "to have a computer
+scientist strapped to each (robot)," he
+
+said. "It's got to be some clown like
+you or me who can tell it what to do."
+The second-generation robot would
+represent a 40-fold increase in com
+puting power over the original ver
+sion.
+The research team currently has "a
+good, workable version of each subsys
+tem" and is working on the
+"integration — the orchestration of the
+pieces" of the robot, Leifer said.
+Adapting the latest technology in robotics and ar
+tificial intelligence to aid the handicapped should be
+a piece of cake, or so Mechanical Engineering Prof.
+Larry Leifer hopes. After all, that's how his interest in
+the field of robotic aids for the handicapped began.
+In 1978, the 40 undergraduates of Mechanical En
+gineering 116 A took Leifer's challenge to bake a cake
+using a robot arm. The results so intrigued Leifer that
+he began considering the applications robot technol
+ogy could have for the handicapped.
+Leifer theorized that a severely handicapped per
+son could tell a robot to pick up, carry and otherwise
+manipulate objects as he or she desired. The robot
+
+would become a functional substitute for the per
+son's inoperative limbs.
+Attempting to bring this dream closer, Leifer and a
+team of Stanford robotics engineers are currently
+using the latest advances in both robotics and artifi
+cial intelligence to give the physically disabled new
+ways to access their surroundings. The team consists
+of about a dozen specialists from a wide variety of
+fields, including engineering, linguistics, behavioral
+sciences and medicine, according to Leifer
+The team currently is working with a robot that
+stands about four-feet tall, is powered by 12 six-volt
+aircraft batteries, receives commands through radio
+waves and possesses three wheels allowing it to
+move in any direction.
+The robot is equipped with two on-board 32-bit
+
+microprocessors, a small television camera and a
+working mechanical hand.
+The team hopes ultimately to create a robot that
+can learn — a robot similar to the current model that
+can be easily instructed by the user. "We are attempt
+ing to make a general purpose tool that can be used
+by elderly as well as young people if they are not able
+to perform manipulative tasks," Leifer said.
+The current prototype can be controlled using a
+computer keyboard, voice commands or an
+ultrasonic head control unit that reacts to the oper
+ator's head motions. The robot will respond to
+simple voice commands within its 70-word vocabu
+lary, according to Leifer.
+
+
+Kym Boyman/Daily file
+Splendor in the turf
+Two Stanford students take a roll in the Astro Turf after Saturday's Big Game. UC-
+Berkeley upset the Cardinal by a score of 17-11. The loss affected some more than others.
+Improving this ability to understand
+vocal commands — called natural lan
+guage processing — is one of the
+greatest challenges facing the research
+team. "At all stages, the interface be
+tween human and machine is the most
+
+demanding," Leifer said.
+This interface is also one of the most
+important parts of the robot. Natural
+language processing ability will make
+the robot useful to disabled persons
+without the detailed technical knowl
+edge necessary to program the. team's
+first robot.
+The earlier version of this type of
+robot was an immobile table-top
+model that used two eight-bit
+
+microprocessors and had all its in
+structions pre-programmed with the
+assistance of a technician. Leifer's team
+wants the second-generation version
+to be instructable by virtually anyone.
+This desire is why the team concen
+trates on natural language processing,
+also known as computational linguis
+tics, Leifer said.
+It's not practical "to have a computer
+scientist strapped to each (robot)," he
+
+said. "It's got to be some clown like
+you or me who can tell it what to do."
+The second-generation robot would
+represent a 40-fold increase in com
+puting power over the original ver
+sion.
+The research team currently has "a
+good, workable version of each subsys
+tem" and is working on the
+"integration — the orchestration of the
+pieces" of the robot, Leifer said.
+Adapting the latest technology in robotics and ar
+tificial intelligence to aid the handicapped should be
+a piece of cake, or so Mechanical Engineering Prof.
+Larry Leifer hopes. After all, that's how his interest in
+the field of robotic aids for the handicapped began.
+In 1978, the 40 undergraduates of Mechanical En
+gineering 116 A took Leifer's challenge to bake a cake
+using a robot arm. The results so intrigued Leifer that
+he began considering the applications robot technol
+ogy could have for the handicapped.
+Leifer theorized that a severely handicapped per
+son could tell a robot to pick up, carry and otherwise
+manipulate objects as he or she desired. The robot
+
+would become a functional substitute for the per
+son's inoperative limbs.
+Attempting to bring this dream closer, Leifer and a
+team of Stanford robotics engineers are currently
+using the latest advances in both robotics and artifi
+cial intelligence to give the physically disabled new
+ways to access their surroundings. The team consists
+of about a dozen specialists from a wide variety of
+fields, including engineering, linguistics, behavioral
+sciences and medicine, according to Leifer
+The team currently is working with a robot that
+stands about four-feet tall, is powered by 12 six-volt
+aircraft batteries, receives commands through radio
+waves and possesses three wheels allowing it to
+move in any direction.
+The robot is equipped with two on-board 32-bit
+
+microprocessors, a small television camera and a
+working mechanical hand.
+The team hopes ultimately to create a robot that
+can learn — a robot similar to the current model that
+can be easily instructed by the user. "We are attempt
+ing to make a general purpose tool that can be used
+by elderly as well as young people if they are not able
+to perform manipulative tasks," Leifer said.
+The current prototype can be controlled using a
+computer keyboard, voice commands or an
+ultrasonic head control unit that reacts to the oper
+ator's head motions. The robot will respond to
+simple voice commands within its 70-word vocabu
+lary, according to Leifer.
+
+
+Kym Boyman/Daily file
+Splendor in the turf
+Two Stanford students take a roll in the Astro Turf after Saturday's Big Game. UC-
+Berkeley upset the Cardinal by a score of 17-11. The loss affected some more than others.
+Improving this ability to understand
+vocal commands — called natural lan
+guage processing — is one of the
+greatest challenges facing the research
+team. "At all stages, the interface be
+tween human and machine is the most
+
+demanding," Leifer said.
+This interface is also one of the most
+important parts of the robot. Natural
+language processing ability will make
+the robot useful to disabled persons
+without the detailed technical knowl
+edge necessary to program the. team's
+first robot.
+The earlier version of this type of
+robot was an immobile table-top
+model that used two eight-bit
+
+microprocessors and had all its in
+structions pre-programmed with the
+assistance of a technician. Leifer's team
+wants the second-generation version
+to be instructable by virtually anyone.
+This desire is why the team concen
+trates on natural language processing,
+also known as computational linguis
+tics, Leifer said.
+It's not practical "to have a computer
+scientist strapped to each (robot)," he
+
+said. "It's got to be some clown like
+you or me who can tell it what to do."
+The second-generation robot would
+represent a 40-fold increase in com
+puting power over the original ver
+sion.
+The research team currently has "a
+good, workable version of each subsys
+tem" and is working on the
+"integration — the orchestration of the
+pieces" of the robot, Leifer said.
+Adapting the latest technology in robotics and ar
+tificial intelligence to aid the handicapped should be
+a piece of cake, or so Mechanical Engineering Prof.
+Larry Leifer hopes. After all, that's how his interest in
+the field of robotic aids for the handicapped began.
+In 1978, the 40 undergraduates of Mechanical En
+gineering 116 A took Leifer's challenge to bake a cake
+using a robot arm. The results so intrigued Leifer that
+he began considering the applications robot technol
+ogy could have for the handicapped.
+Leifer theorized that a severely handicapped per
+son could tell a robot to pick up, carry and otherwise
+manipulate objects as he or she desired. The robot
+
+would become a functional substitute for the per
+son's inoperative limbs.
+Attempting to bring this dream closer, Leifer and a
+team of Stanford robotics engineers are currently
+using the latest advances in both robotics and artifi
+cial intelligence to give the physically disabled new
+ways to access their surroundings. The team consists
+of about a dozen specialists from a wide variety of
+fields, including engineering, linguistics, behavioral
+sciences and medicine, according to Leifer
+The team currently is working with a robot that
+stands about four-feet tall, is powered by 12 six-volt
+aircraft batteries, receives commands through radio
+waves and possesses three wheels allowing it to
+move in any direction.
+The robot is equipped with two on-board 32-bit
+
+microprocessors, a small television camera and a
+working mechanical hand.
+The team hopes ultimately to create a robot that
+can learn — a robot similar to the current model that
+can be easily instructed by the user. "We are attempt
+ing to make a general purpose tool that can be used
+by elderly as well as young people if they are not able
+to perform manipulative tasks," Leifer said.
+The current prototype can be controlled using a
+computer keyboard, voice commands or an
+ultrasonic head control unit that reacts to the oper
+ator's head motions. The robot will respond to
+simple voice commands within its 70-word vocabu
+lary, according to Leifer.
+
+
+Kym Boyman/Daily file
+Splendor in the turf
+Two Stanford students take a roll in the Astro Turf after Saturday's Big Game. UC-
+Berkeley upset the Cardinal by a score of 17-11. The loss affected some more than others.
+Improving this ability to understand
+vocal commands — called natural lan
+guage processing — is one of the
+greatest challenges facing the research
+team. "At all stages, the interface be
+tween human and machine is the most
+
+demanding," Leifer said.
+This interface is also one of the most
+important parts of the robot. Natural
+language processing ability will make
+the robot useful to disabled persons
+without the detailed technical knowl
+edge necessary to program the. team's
+first robot.
+The earlier version of this type of
+robot was an immobile table-top
+model that used two eight-bit
+
+microprocessors and had all its in
+structions pre-programmed with the
+assistance of a technician. Leifer's team
+wants the second-generation version
+to be instructable by virtually anyone.
+This desire is why the team concen
+trates on natural language processing,
+also known as computational linguis
+tics, Leifer said.
+It's not practical "to have a computer
+scientist strapped to each (robot)," he
+
+said. "It's got to be some clown like
+you or me who can tell it what to do."
+The second-generation robot would
+represent a 40-fold increase in com
+puting power over the original ver
+sion.
+The research team currently has "a
+good, workable version of each subsys
+tem" and is working on the
+"integration — the orchestration of the
+pieces" of the robot, Leifer said.
+Adapting the latest technology in robotics and ar
+tificial intelligence to aid the handicapped should be
+a piece of cake, or so Mechanical Engineering Prof.
+Larry Leifer hopes. After all, that's how his interest in
+the field of robotic aids for the handicapped began.
+In 1978, the 40 undergraduates of Mechanical En
+gineering 116 A took Leifer's challenge to bake a cake
+using a robot arm. The results so intrigued Leifer that
+he began considering the applications robot technol
+ogy could have for the handicapped.
+Leifer theorized that a severely handicapped per
+son could tell a robot to pick up, carry and otherwise
+manipulate objects as he or she desired. The robot
+
+would become a functional substitute for the per
+son's inoperative limbs.
+Attempting to bring this dream closer, Leifer and a
+team of Stanford robotics engineers are currently
+using the latest advances in both robotics and artifi
+cial intelligence to give the physically disabled new
+ways to access their surroundings. The team consists
+of about a dozen specialists from a wide variety of
+fields, including engineering, linguistics, behavioral
+sciences and medicine, according to Leifer
+The team currently is working with a robot that
+stands about four-feet tall, is powered by 12 six-volt
+aircraft batteries, receives commands through radio
+waves and possesses three wheels allowing it to
+move in any direction.
+The robot is equipped with two on-board 32-bit
+
+microprocessors, a small television camera and a
+working mechanical hand.
+The team hopes ultimately to create a robot that
+can learn — a robot similar to the current model that
+can be easily instructed by the user. "We are attempt
+ing to make a general purpose tool that can be used
+by elderly as well as young people if they are not able
+to perform manipulative tasks," Leifer said.
+The current prototype can be controlled using a
+computer keyboard, voice commands or an
+ultrasonic head control unit that reacts to the oper
+ator's head motions. The robot will respond to
+simple voice commands within its 70-word vocabu
+lary, according to Leifer.
+
+
+Kym Boyman/Daily file
+Splendor in the turf
+Two Stanford students take a roll in the Astro Turf after Saturday's Big Game. UC-
+Berkeley upset the Cardinal by a score of 17-11. The loss affected some more than others.
+Improving this ability to understand
+vocal commands — called natural lan
+guage processing — is one of the
+greatest challenges facing the research
+team. "At all stages, the interface be
+tween human and machine is the most
+
+demanding," Leifer said.
+This interface is also one of the most
+important parts of the robot. Natural
+language processing ability will make
+the robot useful to disabled persons
+without the detailed technical knowl
+edge necessary to program the. team's
+first robot.
+The earlier version of this type of
+robot was an immobile table-top
+model that used two eight-bit
+
+microprocessors and had all its in
+structions pre-programmed with the
+assistance of a technician. Leifer's team
+wants the second-generation version
+to be instructable by virtually anyone.
+This desire is why the team concen
+trates on natural language processing,
+also known as computational linguis
+tics, Leifer said.
+It's not practical "to have a computer
+scientist strapped to each (robot)," he
+
+said. "It's got to be some clown like
+you or me who can tell it what to do."
+The second-generation robot would
+represent a 40-fold increase in com
+puting power over the original ver
+sion.
+The research team currently has "a
+good, workable version of each subsys
+tem" and is working on the
+"integration — the orchestration of the
+pieces" of the robot, Leifer said.
+Adapting the latest technology in robotics and ar
+tificial intelligence to aid the handicapped should be
+a piece of cake, or so Mechanical Engineering Prof.
+Larry Leifer hopes. After all, that's how his interest in
+the field of robotic aids for the handicapped began.
+In 1978, the 40 undergraduates of Mechanical En
+gineering 116 A took Leifer's challenge to bake a cake
+using a robot arm. The results so intrigued Leifer that
+he began considering the applications robot technol
+ogy could have for the handicapped.
+Leifer theorized that a severely handicapped per
+son could tell a robot to pick up, carry and otherwise
+manipulate objects as he or she desired. The robot
+
+would become a functional substitute for the per
+son's inoperative limbs.
+Attempting to bring this dream closer, Leifer and a
+team of Stanford robotics engineers are currently
+using the latest advances in both robotics and artifi
+cial intelligence to give the physically disabled new
+ways to access their surroundings. The team consists
+of about a dozen specialists from a wide variety of
+fields, including engineering, linguistics, behavioral
+sciences and medicine, according to Leifer
+The team currently is working with a robot that
+stands about four-feet tall, is powered by 12 six-volt
+aircraft batteries, receives commands through radio
+waves and possesses three wheels allowing it to
+move in any direction.
+The robot is equipped with two on-board 32-bit
+
+microprocessors, a small television camera and a
+working mechanical hand.
+The team hopes ultimately to create a robot that
+can learn — a robot similar to the current model that
+can be easily instructed by the user. "We are attempt
+ing to make a general purpose tool that can be used
+by elderly as well as young people if they are not able
+to perform manipulative tasks," Leifer said.
+The current prototype can be controlled using a
+computer keyboard, voice commands or an
+ultrasonic head control unit that reacts to the oper
+ator's head motions. The robot will respond to
+simple voice commands within its 70-word vocabu
+lary, according to Leifer.
+
+
+Kym Boyman/Daily file
+Splendor in the turf
+Two Stanford students take a roll in the Astro Turf after Saturday's Big Game. UC-
+Berkeley upset the Cardinal by a score of 17-11. The loss affected some more than others.
+Improving this ability to understand
+vocal commands — called natural lan
+guage processing — is one of the
+greatest challenges facing the research
+team. "At all stages, the interface be
+tween human and machine is the most
+
+demanding," Leifer said.
+This interface is also one of the most
+important parts of the robot. Natural
+language processing ability will make
+the robot useful to disabled persons
+without the detailed technical knowl
+edge necessary to program the. team's
+first robot.
+The earlier version of this type of
+robot was an immobile table-top
+model that used two eight-bit
+
+microprocessors and had all its in
+structions pre-programmed with the
+assistance of a technician. Leifer's team
+wants the second-generation version
+to be instructable by virtually anyone.
+This desire is why the team concen
+trates on natural language processing,
+also known as computational linguis
+tics, Leifer said.
+It's not practical "to have a computer
+scientist strapped to each (robot)," he
+
+said. "It's got to be some clown like
+you or me who can tell it what to do."
+The second-generation robot would
+represent a 40-fold increase in com
+puting power over the original ver
+sion.
+The research team currently has "a
+good, workable version of each subsys
+tem" and is working on the
+"integration — the orchestration of the
+pieces" of the robot, Leifer said.

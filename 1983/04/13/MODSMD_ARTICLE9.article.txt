@@ -1,0 +1,1403 @@
+# INSIDE NEWS
+## Aid to individuals, industry and the disabled through robotics Robotics maybe the stuff of science fiction 
+### SHEILA HENNESSEY 
+Hand in hand with the computer revolu
+tion, a new revolution is occurring. And
+perhaps even more than computers, it is the
+stuff of which science fiction is made.
+The new revolution is in the field of robo
+tics t— the manufacture of robots for such
+diverse applications as industry, use in the
+home, and aids for the disabled. The last of
+these applications has garnered a great deal
+of publicity recently, particularly at Stan
+ford, which is a forerunner in the research
+and development of rehabilitative robotic
+aids.
+Funded by the Veterans Administration, a
+group of engineers and specialists directed
+by Stanford Mechanical Engineering Prof.
+Larry Leifer, is conducting research at the
+Rehabilitative Engineering Research and
+Development (RER&D) center at the Veter
+ans Administration Hospital in Palo Alto.
+The group is attempting to develop a de
+vice controlled by the disabled individual
+through a computer, which would perform
+tasks that otherwise require human care.
+The outcome of this research could greatly
+increase the self-sufficiency of severely dis
+abled individuals, particularly quadraplegics
+who, suffering from spinal injuries, have lost
+the use of their legs and at least partial use of
+their arms.
+Clinical pretesting on the Stanford Robo
+tic Aid, a robotic manipulator which resem
+bles a large jointed "arm" with a two
+fingered "hand," began at the VA Hospital in
+1981. The device does not attempt to replace
+the anatomy of a missing or disabled limb —
+in fact, it is not in contact with the user's
+body at all.
+The device, mounted on a table, is instead
+a small-scale industrial robot which has been
+adapted for use as a rehabilitative robotic
+aid. Stanford purchased the manipulator
+arm and the computer which controls its
+movements from Unimation, a robot man
+ufacturing company.
+In order to make the device more useful as
+an aid for the disabled, more sophisticated
+elements were added, such as voice recog
+nition and voice synthesis units. This ena
+bled the robotic aid to perform movements
+in response to voice commands, and to pro
+vide feedback to the user through an elec
+tronic voice. Using a BASIC-like computer
+language called VAL, the user comands the
+manipulator to perform a pre-programmed
+task, or gives the device a series of com
+mands which cause it to perform a sequence
+
+of pre-programmed movements, thus guid
+ing the robot step by step through the mo
+tions of a task.
+At present the Stanford Robotic Aid is still
+being tested, and research is being con
+ducted toward improving the device. Ac
+cording to John Walecka, a recent Stanford
+graduate and a research assistant for the
+project, some of the most important im
+provements will be to mount the robot on a
+mobile base and to install force sensors at
+the wrist and on the hand. These sensors
+would enable the manipulator to gain feed
+back regarding the object it is working with,
+such as the weight of the object or the
+amount of pressure the manipulator is ap
+plying to the object, and to correct its own
+motions without intervention by the human
+
+operator.
+Both improvements are steps toward the
+final goal of all areas of robotics: making
+robots intelligent. This is the focus of re
+search conducted at Stanford's Artificial In
+telligence (Al) Laboratory in the basement of
+Margaret Jacks Hall, funded by the National
+Science Foundation.
+According to a recent graduate of the
+computer science PhD program who con
+ducts research in the Al Lab, robotics is now
+in its second stage. In the first stage the
+robot did not interact with its environment.
+The robot simply performed its tasks with
+out gathering feedback from the objects
+with which it came in contact. Even in to
+day's second state, he said, "With the cur
+rent state of manipulators (robotic devices),
+
+Photo courtesy of News and Publications
+there's no smarts at all there (in the robot)."
+In other words, though today's robots use
+force sensors to gain feedback from their
+environment, they are unable to interpret
+the information.
+The robots of the future - the last stage of
+robotics - will possess artificial intelligence,
+enabling them to interpret sensory feed
+back, and make their own decisions based
+on this information. These intelligent
+robots, when confronted with a command
+to perform a task, will be able to think
+through a plan of action and carry it out
+without guidance from the human operator.
+The present generation of robots, on the
+other hand, can perform only pre
+programmed motions or tasks. Because the
+robot can perform only these learned mo
+
+tions, it is not able to respond when pre
+sented with uncertainties, or to adapt to
+changes in its environment.
+The environment must be carefully struc
+tured in order to present the robot with the
+exact situation in which it has learned a task
+or motion. In other words, according to
+Walecka, a robot can pick up a glass of water
+if the glass is in the exact location where the
+robot has been programmed to find it, or if
+the human operator gives a series of com
+mands telling the robot which direction to
+move. "But it can't figure out that that's a
+glass of water,'' he said. "And you can't just
+say Go tind a glass of water ."
+The robot is unable to think through all
+the processes necessary to perform this
+task. Robotic aids with artificial intelligence
+will someday be able to make the decisions
+necessary to perform a complicated task
+such as this, while another feature will be
+the ability of mobile robots to plan a path
+around unforeseen obstacles.
+Robots will also find a wider application in
+industry when they are equipped with artifi
+cial intelligence. At present they are limited
+to use where their environment is very struc -
+tured, such as welding and spray painting
+applications, according to Walecka, in
+which". . .they know exactly where the part
+is and what to do with it." The robot is able to
+repeat a learned motion without being con
+fronted with unforeseen situations.
+This will make industrial robots much
+more cost-effective, since less money will
+have to be spent in creating a suitably struc
+tured environment. Robots will be able to
+take over many tasks which now require
+human labor in order to make judgements
+and decisions.
+Personal robots will also become popular
+when artificial intelligence makes them cap
+able of performing tasks in the home. A few
+personal robots are already on the market,
+and one model is said by its manufacturer,
+Androbot Inc., to be the first commercial
+robot to have artificial intelligence. How
+ever, all it is capable of at present is wander
+ing about avoiding objects.
+According to Oussama Khatlib, research as
+sociate at the Al Lab, "We are still far from
+intelligent' robots." The obstacle to over
+come before robots can move on to more
+complicated tasks is developing the neces
+sary computer software, and no one can be
+certain when this will be accomplished.
+Until that time, the thinking robot still be
+longs to the realm of science fiction.
+
+Hand in hand with the computer revolu
+tion, a new revolution is occurring. And
+perhaps even more than computers, it is the
+stuff of which science fiction is made.
+The new revolution is in the field of robo
+tics t— the manufacture of robots for such
+diverse applications as industry, use in the
+home, and aids for the disabled. The last of
+these applications has garnered a great deal
+of publicity recently, particularly at Stan
+ford, which is a forerunner in the research
+and development of rehabilitative robotic
+aids.
+Funded by the Veterans Administration, a
+group of engineers and specialists directed
+by Stanford Mechanical Engineering Prof.
+Larry Leifer, is conducting research at the
+Rehabilitative Engineering Research and
+Development (RER&D) center at the Veter
+ans Administration Hospital in Palo Alto.
+The group is attempting to develop a de
+vice controlled by the disabled individual
+through a computer, which would perform
+tasks that otherwise require human care.
+The outcome of this research could greatly
+increase the self-sufficiency of severely dis
+abled individuals, particularly quadraplegics
+who, suffering from spinal injuries, have lost
+the use of their legs and at least partial use of
+their arms.
+Clinical pretesting on the Stanford Robo
+tic Aid, a robotic manipulator which resem
+bles a large jointed "arm" with a two
+fingered "hand," began at the VA Hospital in
+1981. The device does not attempt to replace
+the anatomy of a missing or disabled limb —
+in fact, it is not in contact with the user's
+body at all.
+The device, mounted on a table, is instead
+a small-scale industrial robot which has been
+adapted for use as a rehabilitative robotic
+aid. Stanford purchased the manipulator
+arm and the computer which controls its
+movements from Unimation, a robot man
+ufacturing company.
+In order to make the device more useful as
+an aid for the disabled, more sophisticated
+elements were added, such as voice recog
+nition and voice synthesis units. This ena
+bled the robotic aid to perform movements
+in response to voice commands, and to pro
+vide feedback to the user through an elec
+tronic voice. Using a BASIC-like computer
+language called VAL, the user comands the
+manipulator to perform a pre-programmed
+task, or gives the device a series of com
+mands which cause it to perform a sequence
+
+of pre-programmed movements, thus guid
+ing the robot step by step through the mo
+tions of a task.
+At present the Stanford Robotic Aid is still
+being tested, and research is being con
+ducted toward improving the device. Ac
+cording to John Walecka, a recent Stanford
+graduate and a research assistant for the
+project, some of the most important im
+provements will be to mount the robot on a
+mobile base and to install force sensors at
+the wrist and on the hand. These sensors
+would enable the manipulator to gain feed
+back regarding the object it is working with,
+such as the weight of the object or the
+amount of pressure the manipulator is ap
+plying to the object, and to correct its own
+motions without intervention by the human
+
+operator.
+Both improvements are steps toward the
+final goal of all areas of robotics: making
+robots intelligent. This is the focus of re
+search conducted at Stanford's Artificial In
+telligence (Al) Laboratory in the basement of
+Margaret Jacks Hall, funded by the National
+Science Foundation.
+According to a recent graduate of the
+computer science PhD program who con
+ducts research in the Al Lab, robotics is now
+in its second stage. In the first stage the
+robot did not interact with its environment.
+The robot simply performed its tasks with
+out gathering feedback from the objects
+with which it came in contact. Even in to
+day's second state, he said, "With the cur
+rent state of manipulators (robotic devices),
+
+Photo courtesy of News and Publications
+there's no smarts at all there (in the robot)."
+In other words, though today's robots use
+force sensors to gain feedback from their
+environment, they are unable to interpret
+the information.
+The robots of the future - the last stage of
+robotics - will possess artificial intelligence,
+enabling them to interpret sensory feed
+back, and make their own decisions based
+on this information. These intelligent
+robots, when confronted with a command
+to perform a task, will be able to think
+through a plan of action and carry it out
+without guidance from the human operator.
+The present generation of robots, on the
+other hand, can perform only pre
+programmed motions or tasks. Because the
+robot can perform only these learned mo
+
+tions, it is not able to respond when pre
+sented with uncertainties, or to adapt to
+changes in its environment.
+The environment must be carefully struc
+tured in order to present the robot with the
+exact situation in which it has learned a task
+or motion. In other words, according to
+Walecka, a robot can pick up a glass of water
+if the glass is in the exact location where the
+robot has been programmed to find it, or if
+the human operator gives a series of com
+mands telling the robot which direction to
+move. "But it can't figure out that that's a
+glass of water,'' he said. "And you can't just
+say Go tind a glass of water ."
+The robot is unable to think through all
+the processes necessary to perform this
+task. Robotic aids with artificial intelligence
+will someday be able to make the decisions
+necessary to perform a complicated task
+such as this, while another feature will be
+the ability of mobile robots to plan a path
+around unforeseen obstacles.
+Robots will also find a wider application in
+industry when they are equipped with artifi
+cial intelligence. At present they are limited
+to use where their environment is very struc -
+tured, such as welding and spray painting
+applications, according to Walecka, in
+which". . .they know exactly where the part
+is and what to do with it." The robot is able to
+repeat a learned motion without being con
+fronted with unforeseen situations.
+This will make industrial robots much
+more cost-effective, since less money will
+have to be spent in creating a suitably struc
+tured environment. Robots will be able to
+take over many tasks which now require
+human labor in order to make judgements
+and decisions.
+Personal robots will also become popular
+when artificial intelligence makes them cap
+able of performing tasks in the home. A few
+personal robots are already on the market,
+and one model is said by its manufacturer,
+Androbot Inc., to be the first commercial
+robot to have artificial intelligence. How
+ever, all it is capable of at present is wander
+ing about avoiding objects.
+According to Oussama Khatlib, research as
+sociate at the Al Lab, "We are still far from
+intelligent' robots." The obstacle to over
+come before robots can move on to more
+complicated tasks is developing the neces
+sary computer software, and no one can be
+certain when this will be accomplished.
+Until that time, the thinking robot still be
+longs to the realm of science fiction.
+
+Hand in hand with the computer revolu
+tion, a new revolution is occurring. And
+perhaps even more than computers, it is the
+stuff of which science fiction is made.
+The new revolution is in the field of robo
+tics t— the manufacture of robots for such
+diverse applications as industry, use in the
+home, and aids for the disabled. The last of
+these applications has garnered a great deal
+of publicity recently, particularly at Stan
+ford, which is a forerunner in the research
+and development of rehabilitative robotic
+aids.
+Funded by the Veterans Administration, a
+group of engineers and specialists directed
+by Stanford Mechanical Engineering Prof.
+Larry Leifer, is conducting research at the
+Rehabilitative Engineering Research and
+Development (RER&D) center at the Veter
+ans Administration Hospital in Palo Alto.
+The group is attempting to develop a de
+vice controlled by the disabled individual
+through a computer, which would perform
+tasks that otherwise require human care.
+The outcome of this research could greatly
+increase the self-sufficiency of severely dis
+abled individuals, particularly quadraplegics
+who, suffering from spinal injuries, have lost
+the use of their legs and at least partial use of
+their arms.
+Clinical pretesting on the Stanford Robo
+tic Aid, a robotic manipulator which resem
+bles a large jointed "arm" with a two
+fingered "hand," began at the VA Hospital in
+1981. The device does not attempt to replace
+the anatomy of a missing or disabled limb —
+in fact, it is not in contact with the user's
+body at all.
+The device, mounted on a table, is instead
+a small-scale industrial robot which has been
+adapted for use as a rehabilitative robotic
+aid. Stanford purchased the manipulator
+arm and the computer which controls its
+movements from Unimation, a robot man
+ufacturing company.
+In order to make the device more useful as
+an aid for the disabled, more sophisticated
+elements were added, such as voice recog
+nition and voice synthesis units. This ena
+bled the robotic aid to perform movements
+in response to voice commands, and to pro
+vide feedback to the user through an elec
+tronic voice. Using a BASIC-like computer
+language called VAL, the user comands the
+manipulator to perform a pre-programmed
+task, or gives the device a series of com
+mands which cause it to perform a sequence
+
+of pre-programmed movements, thus guid
+ing the robot step by step through the mo
+tions of a task.
+At present the Stanford Robotic Aid is still
+being tested, and research is being con
+ducted toward improving the device. Ac
+cording to John Walecka, a recent Stanford
+graduate and a research assistant for the
+project, some of the most important im
+provements will be to mount the robot on a
+mobile base and to install force sensors at
+the wrist and on the hand. These sensors
+would enable the manipulator to gain feed
+back regarding the object it is working with,
+such as the weight of the object or the
+amount of pressure the manipulator is ap
+plying to the object, and to correct its own
+motions without intervention by the human
+
+operator.
+Both improvements are steps toward the
+final goal of all areas of robotics: making
+robots intelligent. This is the focus of re
+search conducted at Stanford's Artificial In
+telligence (Al) Laboratory in the basement of
+Margaret Jacks Hall, funded by the National
+Science Foundation.
+According to a recent graduate of the
+computer science PhD program who con
+ducts research in the Al Lab, robotics is now
+in its second stage. In the first stage the
+robot did not interact with its environment.
+The robot simply performed its tasks with
+out gathering feedback from the objects
+with which it came in contact. Even in to
+day's second state, he said, "With the cur
+rent state of manipulators (robotic devices),
+
+Photo courtesy of News and Publications
+there's no smarts at all there (in the robot)."
+In other words, though today's robots use
+force sensors to gain feedback from their
+environment, they are unable to interpret
+the information.
+The robots of the future - the last stage of
+robotics - will possess artificial intelligence,
+enabling them to interpret sensory feed
+back, and make their own decisions based
+on this information. These intelligent
+robots, when confronted with a command
+to perform a task, will be able to think
+through a plan of action and carry it out
+without guidance from the human operator.
+The present generation of robots, on the
+other hand, can perform only pre
+programmed motions or tasks. Because the
+robot can perform only these learned mo
+
+tions, it is not able to respond when pre
+sented with uncertainties, or to adapt to
+changes in its environment.
+The environment must be carefully struc
+tured in order to present the robot with the
+exact situation in which it has learned a task
+or motion. In other words, according to
+Walecka, a robot can pick up a glass of water
+if the glass is in the exact location where the
+robot has been programmed to find it, or if
+the human operator gives a series of com
+mands telling the robot which direction to
+move. "But it can't figure out that that's a
+glass of water,'' he said. "And you can't just
+say Go tind a glass of water ."
+The robot is unable to think through all
+the processes necessary to perform this
+task. Robotic aids with artificial intelligence
+will someday be able to make the decisions
+necessary to perform a complicated task
+such as this, while another feature will be
+the ability of mobile robots to plan a path
+around unforeseen obstacles.
+Robots will also find a wider application in
+industry when they are equipped with artifi
+cial intelligence. At present they are limited
+to use where their environment is very struc -
+tured, such as welding and spray painting
+applications, according to Walecka, in
+which". . .they know exactly where the part
+is and what to do with it." The robot is able to
+repeat a learned motion without being con
+fronted with unforeseen situations.
+This will make industrial robots much
+more cost-effective, since less money will
+have to be spent in creating a suitably struc
+tured environment. Robots will be able to
+take over many tasks which now require
+human labor in order to make judgements
+and decisions.
+Personal robots will also become popular
+when artificial intelligence makes them cap
+able of performing tasks in the home. A few
+personal robots are already on the market,
+and one model is said by its manufacturer,
+Androbot Inc., to be the first commercial
+robot to have artificial intelligence. How
+ever, all it is capable of at present is wander
+ing about avoiding objects.
+According to Oussama Khatlib, research as
+sociate at the Al Lab, "We are still far from
+intelligent' robots." The obstacle to over
+come before robots can move on to more
+complicated tasks is developing the neces
+sary computer software, and no one can be
+certain when this will be accomplished.
+Until that time, the thinking robot still be
+longs to the realm of science fiction.
+
+Hand in hand with the computer revolu
+tion, a new revolution is occurring. And
+perhaps even more than computers, it is the
+stuff of which science fiction is made.
+The new revolution is in the field of robo
+tics t— the manufacture of robots for such
+diverse applications as industry, use in the
+home, and aids for the disabled. The last of
+these applications has garnered a great deal
+of publicity recently, particularly at Stan
+ford, which is a forerunner in the research
+and development of rehabilitative robotic
+aids.
+Funded by the Veterans Administration, a
+group of engineers and specialists directed
+by Stanford Mechanical Engineering Prof.
+Larry Leifer, is conducting research at the
+Rehabilitative Engineering Research and
+Development (RER&D) center at the Veter
+ans Administration Hospital in Palo Alto.
+The group is attempting to develop a de
+vice controlled by the disabled individual
+through a computer, which would perform
+tasks that otherwise require human care.
+The outcome of this research could greatly
+increase the self-sufficiency of severely dis
+abled individuals, particularly quadraplegics
+who, suffering from spinal injuries, have lost
+the use of their legs and at least partial use of
+their arms.
+Clinical pretesting on the Stanford Robo
+tic Aid, a robotic manipulator which resem
+bles a large jointed "arm" with a two
+fingered "hand," began at the VA Hospital in
+1981. The device does not attempt to replace
+the anatomy of a missing or disabled limb —
+in fact, it is not in contact with the user's
+body at all.
+The device, mounted on a table, is instead
+a small-scale industrial robot which has been
+adapted for use as a rehabilitative robotic
+aid. Stanford purchased the manipulator
+arm and the computer which controls its
+movements from Unimation, a robot man
+ufacturing company.
+In order to make the device more useful as
+an aid for the disabled, more sophisticated
+elements were added, such as voice recog
+nition and voice synthesis units. This ena
+bled the robotic aid to perform movements
+in response to voice commands, and to pro
+vide feedback to the user through an elec
+tronic voice. Using a BASIC-like computer
+language called VAL, the user comands the
+manipulator to perform a pre-programmed
+task, or gives the device a series of com
+mands which cause it to perform a sequence
+
+of pre-programmed movements, thus guid
+ing the robot step by step through the mo
+tions of a task.
+At present the Stanford Robotic Aid is still
+being tested, and research is being con
+ducted toward improving the device. Ac
+cording to John Walecka, a recent Stanford
+graduate and a research assistant for the
+project, some of the most important im
+provements will be to mount the robot on a
+mobile base and to install force sensors at
+the wrist and on the hand. These sensors
+would enable the manipulator to gain feed
+back regarding the object it is working with,
+such as the weight of the object or the
+amount of pressure the manipulator is ap
+plying to the object, and to correct its own
+motions without intervention by the human
+
+operator.
+Both improvements are steps toward the
+final goal of all areas of robotics: making
+robots intelligent. This is the focus of re
+search conducted at Stanford's Artificial In
+telligence (Al) Laboratory in the basement of
+Margaret Jacks Hall, funded by the National
+Science Foundation.
+According to a recent graduate of the
+computer science PhD program who con
+ducts research in the Al Lab, robotics is now
+in its second stage. In the first stage the
+robot did not interact with its environment.
+The robot simply performed its tasks with
+out gathering feedback from the objects
+with which it came in contact. Even in to
+day's second state, he said, "With the cur
+rent state of manipulators (robotic devices),
+
+Photo courtesy of News and Publications
+there's no smarts at all there (in the robot)."
+In other words, though today's robots use
+force sensors to gain feedback from their
+environment, they are unable to interpret
+the information.
+The robots of the future - the last stage of
+robotics - will possess artificial intelligence,
+enabling them to interpret sensory feed
+back, and make their own decisions based
+on this information. These intelligent
+robots, when confronted with a command
+to perform a task, will be able to think
+through a plan of action and carry it out
+without guidance from the human operator.
+The present generation of robots, on the
+other hand, can perform only pre
+programmed motions or tasks. Because the
+robot can perform only these learned mo
+
+tions, it is not able to respond when pre
+sented with uncertainties, or to adapt to
+changes in its environment.
+The environment must be carefully struc
+tured in order to present the robot with the
+exact situation in which it has learned a task
+or motion. In other words, according to
+Walecka, a robot can pick up a glass of water
+if the glass is in the exact location where the
+robot has been programmed to find it, or if
+the human operator gives a series of com
+mands telling the robot which direction to
+move. "But it can't figure out that that's a
+glass of water,'' he said. "And you can't just
+say Go tind a glass of water ."
+The robot is unable to think through all
+the processes necessary to perform this
+task. Robotic aids with artificial intelligence
+will someday be able to make the decisions
+necessary to perform a complicated task
+such as this, while another feature will be
+the ability of mobile robots to plan a path
+around unforeseen obstacles.
+Robots will also find a wider application in
+industry when they are equipped with artifi
+cial intelligence. At present they are limited
+to use where their environment is very struc -
+tured, such as welding and spray painting
+applications, according to Walecka, in
+which". . .they know exactly where the part
+is and what to do with it." The robot is able to
+repeat a learned motion without being con
+fronted with unforeseen situations.
+This will make industrial robots much
+more cost-effective, since less money will
+have to be spent in creating a suitably struc
+tured environment. Robots will be able to
+take over many tasks which now require
+human labor in order to make judgements
+and decisions.
+Personal robots will also become popular
+when artificial intelligence makes them cap
+able of performing tasks in the home. A few
+personal robots are already on the market,
+and one model is said by its manufacturer,
+Androbot Inc., to be the first commercial
+robot to have artificial intelligence. How
+ever, all it is capable of at present is wander
+ing about avoiding objects.
+According to Oussama Khatlib, research as
+sociate at the Al Lab, "We are still far from
+intelligent' robots." The obstacle to over
+come before robots can move on to more
+complicated tasks is developing the neces
+sary computer software, and no one can be
+certain when this will be accomplished.
+Until that time, the thinking robot still be
+longs to the realm of science fiction.
+
+Hand in hand with the computer revolu
+tion, a new revolution is occurring. And
+perhaps even more than computers, it is the
+stuff of which science fiction is made.
+The new revolution is in the field of robo
+tics t— the manufacture of robots for such
+diverse applications as industry, use in the
+home, and aids for the disabled. The last of
+these applications has garnered a great deal
+of publicity recently, particularly at Stan
+ford, which is a forerunner in the research
+and development of rehabilitative robotic
+aids.
+Funded by the Veterans Administration, a
+group of engineers and specialists directed
+by Stanford Mechanical Engineering Prof.
+Larry Leifer, is conducting research at the
+Rehabilitative Engineering Research and
+Development (RER&D) center at the Veter
+ans Administration Hospital in Palo Alto.
+The group is attempting to develop a de
+vice controlled by the disabled individual
+through a computer, which would perform
+tasks that otherwise require human care.
+The outcome of this research could greatly
+increase the self-sufficiency of severely dis
+abled individuals, particularly quadraplegics
+who, suffering from spinal injuries, have lost
+the use of their legs and at least partial use of
+their arms.
+Clinical pretesting on the Stanford Robo
+tic Aid, a robotic manipulator which resem
+bles a large jointed "arm" with a two
+fingered "hand," began at the VA Hospital in
+1981. The device does not attempt to replace
+the anatomy of a missing or disabled limb —
+in fact, it is not in contact with the user's
+body at all.
+The device, mounted on a table, is instead
+a small-scale industrial robot which has been
+adapted for use as a rehabilitative robotic
+aid. Stanford purchased the manipulator
+arm and the computer which controls its
+movements from Unimation, a robot man
+ufacturing company.
+In order to make the device more useful as
+an aid for the disabled, more sophisticated
+elements were added, such as voice recog
+nition and voice synthesis units. This ena
+bled the robotic aid to perform movements
+in response to voice commands, and to pro
+vide feedback to the user through an elec
+tronic voice. Using a BASIC-like computer
+language called VAL, the user comands the
+manipulator to perform a pre-programmed
+task, or gives the device a series of com
+mands which cause it to perform a sequence
+
+of pre-programmed movements, thus guid
+ing the robot step by step through the mo
+tions of a task.
+At present the Stanford Robotic Aid is still
+being tested, and research is being con
+ducted toward improving the device. Ac
+cording to John Walecka, a recent Stanford
+graduate and a research assistant for the
+project, some of the most important im
+provements will be to mount the robot on a
+mobile base and to install force sensors at
+the wrist and on the hand. These sensors
+would enable the manipulator to gain feed
+back regarding the object it is working with,
+such as the weight of the object or the
+amount of pressure the manipulator is ap
+plying to the object, and to correct its own
+motions without intervention by the human
+
+operator.
+Both improvements are steps toward the
+final goal of all areas of robotics: making
+robots intelligent. This is the focus of re
+search conducted at Stanford's Artificial In
+telligence (Al) Laboratory in the basement of
+Margaret Jacks Hall, funded by the National
+Science Foundation.
+According to a recent graduate of the
+computer science PhD program who con
+ducts research in the Al Lab, robotics is now
+in its second stage. In the first stage the
+robot did not interact with its environment.
+The robot simply performed its tasks with
+out gathering feedback from the objects
+with which it came in contact. Even in to
+day's second state, he said, "With the cur
+rent state of manipulators (robotic devices),
+
+Photo courtesy of News and Publications
+there's no smarts at all there (in the robot)."
+In other words, though today's robots use
+force sensors to gain feedback from their
+environment, they are unable to interpret
+the information.
+The robots of the future - the last stage of
+robotics - will possess artificial intelligence,
+enabling them to interpret sensory feed
+back, and make their own decisions based
+on this information. These intelligent
+robots, when confronted with a command
+to perform a task, will be able to think
+through a plan of action and carry it out
+without guidance from the human operator.
+The present generation of robots, on the
+other hand, can perform only pre
+programmed motions or tasks. Because the
+robot can perform only these learned mo
+
+tions, it is not able to respond when pre
+sented with uncertainties, or to adapt to
+changes in its environment.
+The environment must be carefully struc
+tured in order to present the robot with the
+exact situation in which it has learned a task
+or motion. In other words, according to
+Walecka, a robot can pick up a glass of water
+if the glass is in the exact location where the
+robot has been programmed to find it, or if
+the human operator gives a series of com
+mands telling the robot which direction to
+move. "But it can't figure out that that's a
+glass of water,'' he said. "And you can't just
+say Go tind a glass of water ."
+The robot is unable to think through all
+the processes necessary to perform this
+task. Robotic aids with artificial intelligence
+will someday be able to make the decisions
+necessary to perform a complicated task
+such as this, while another feature will be
+the ability of mobile robots to plan a path
+around unforeseen obstacles.
+Robots will also find a wider application in
+industry when they are equipped with artifi
+cial intelligence. At present they are limited
+to use where their environment is very struc -
+tured, such as welding and spray painting
+applications, according to Walecka, in
+which". . .they know exactly where the part
+is and what to do with it." The robot is able to
+repeat a learned motion without being con
+fronted with unforeseen situations.
+This will make industrial robots much
+more cost-effective, since less money will
+have to be spent in creating a suitably struc
+tured environment. Robots will be able to
+take over many tasks which now require
+human labor in order to make judgements
+and decisions.
+Personal robots will also become popular
+when artificial intelligence makes them cap
+able of performing tasks in the home. A few
+personal robots are already on the market,
+and one model is said by its manufacturer,
+Androbot Inc., to be the first commercial
+robot to have artificial intelligence. How
+ever, all it is capable of at present is wander
+ing about avoiding objects.
+According to Oussama Khatlib, research as
+sociate at the Al Lab, "We are still far from
+intelligent' robots." The obstacle to over
+come before robots can move on to more
+complicated tasks is developing the neces
+sary computer software, and no one can be
+certain when this will be accomplished.
+Until that time, the thinking robot still be
+longs to the realm of science fiction.
+
+Hand in hand with the computer revolu
+tion, a new revolution is occurring. And
+perhaps even more than computers, it is the
+stuff of which science fiction is made.
+The new revolution is in the field of robo
+tics t— the manufacture of robots for such
+diverse applications as industry, use in the
+home, and aids for the disabled. The last of
+these applications has garnered a great deal
+of publicity recently, particularly at Stan
+ford, which is a forerunner in the research
+and development of rehabilitative robotic
+aids.
+Funded by the Veterans Administration, a
+group of engineers and specialists directed
+by Stanford Mechanical Engineering Prof.
+Larry Leifer, is conducting research at the
+Rehabilitative Engineering Research and
+Development (RER&D) center at the Veter
+ans Administration Hospital in Palo Alto.
+The group is attempting to develop a de
+vice controlled by the disabled individual
+through a computer, which would perform
+tasks that otherwise require human care.
+The outcome of this research could greatly
+increase the self-sufficiency of severely dis
+abled individuals, particularly quadraplegics
+who, suffering from spinal injuries, have lost
+the use of their legs and at least partial use of
+their arms.
+Clinical pretesting on the Stanford Robo
+tic Aid, a robotic manipulator which resem
+bles a large jointed "arm" with a two
+fingered "hand," began at the VA Hospital in
+1981. The device does not attempt to replace
+the anatomy of a missing or disabled limb —
+in fact, it is not in contact with the user's
+body at all.
+The device, mounted on a table, is instead
+a small-scale industrial robot which has been
+adapted for use as a rehabilitative robotic
+aid. Stanford purchased the manipulator
+arm and the computer which controls its
+movements from Unimation, a robot man
+ufacturing company.
+In order to make the device more useful as
+an aid for the disabled, more sophisticated
+elements were added, such as voice recog
+nition and voice synthesis units. This ena
+bled the robotic aid to perform movements
+in response to voice commands, and to pro
+vide feedback to the user through an elec
+tronic voice. Using a BASIC-like computer
+language called VAL, the user comands the
+manipulator to perform a pre-programmed
+task, or gives the device a series of com
+mands which cause it to perform a sequence
+
+of pre-programmed movements, thus guid
+ing the robot step by step through the mo
+tions of a task.
+At present the Stanford Robotic Aid is still
+being tested, and research is being con
+ducted toward improving the device. Ac
+cording to John Walecka, a recent Stanford
+graduate and a research assistant for the
+project, some of the most important im
+provements will be to mount the robot on a
+mobile base and to install force sensors at
+the wrist and on the hand. These sensors
+would enable the manipulator to gain feed
+back regarding the object it is working with,
+such as the weight of the object or the
+amount of pressure the manipulator is ap
+plying to the object, and to correct its own
+motions without intervention by the human
+
+operator.
+Both improvements are steps toward the
+final goal of all areas of robotics: making
+robots intelligent. This is the focus of re
+search conducted at Stanford's Artificial In
+telligence (Al) Laboratory in the basement of
+Margaret Jacks Hall, funded by the National
+Science Foundation.
+According to a recent graduate of the
+computer science PhD program who con
+ducts research in the Al Lab, robotics is now
+in its second stage. In the first stage the
+robot did not interact with its environment.
+The robot simply performed its tasks with
+out gathering feedback from the objects
+with which it came in contact. Even in to
+day's second state, he said, "With the cur
+rent state of manipulators (robotic devices),
+
+Photo courtesy of News and Publications
+there's no smarts at all there (in the robot)."
+In other words, though today's robots use
+force sensors to gain feedback from their
+environment, they are unable to interpret
+the information.
+The robots of the future - the last stage of
+robotics - will possess artificial intelligence,
+enabling them to interpret sensory feed
+back, and make their own decisions based
+on this information. These intelligent
+robots, when confronted with a command
+to perform a task, will be able to think
+through a plan of action and carry it out
+without guidance from the human operator.
+The present generation of robots, on the
+other hand, can perform only pre
+programmed motions or tasks. Because the
+robot can perform only these learned mo
+
+tions, it is not able to respond when pre
+sented with uncertainties, or to adapt to
+changes in its environment.
+The environment must be carefully struc
+tured in order to present the robot with the
+exact situation in which it has learned a task
+or motion. In other words, according to
+Walecka, a robot can pick up a glass of water
+if the glass is in the exact location where the
+robot has been programmed to find it, or if
+the human operator gives a series of com
+mands telling the robot which direction to
+move. "But it can't figure out that that's a
+glass of water,'' he said. "And you can't just
+say Go tind a glass of water ."
+The robot is unable to think through all
+the processes necessary to perform this
+task. Robotic aids with artificial intelligence
+will someday be able to make the decisions
+necessary to perform a complicated task
+such as this, while another feature will be
+the ability of mobile robots to plan a path
+around unforeseen obstacles.
+Robots will also find a wider application in
+industry when they are equipped with artifi
+cial intelligence. At present they are limited
+to use where their environment is very struc -
+tured, such as welding and spray painting
+applications, according to Walecka, in
+which". . .they know exactly where the part
+is and what to do with it." The robot is able to
+repeat a learned motion without being con
+fronted with unforeseen situations.
+This will make industrial robots much
+more cost-effective, since less money will
+have to be spent in creating a suitably struc
+tured environment. Robots will be able to
+take over many tasks which now require
+human labor in order to make judgements
+and decisions.
+Personal robots will also become popular
+when artificial intelligence makes them cap
+able of performing tasks in the home. A few
+personal robots are already on the market,
+and one model is said by its manufacturer,
+Androbot Inc., to be the first commercial
+robot to have artificial intelligence. How
+ever, all it is capable of at present is wander
+ing about avoiding objects.
+According to Oussama Khatlib, research as
+sociate at the Al Lab, "We are still far from
+intelligent' robots." The obstacle to over
+come before robots can move on to more
+complicated tasks is developing the neces
+sary computer software, and no one can be
+certain when this will be accomplished.
+Until that time, the thinking robot still be
+longs to the realm of science fiction.
+
+Hand in hand with the computer revolu
+tion, a new revolution is occurring. And
+perhaps even more than computers, it is the
+stuff of which science fiction is made.
+The new revolution is in the field of robo
+tics t— the manufacture of robots for such
+diverse applications as industry, use in the
+home, and aids for the disabled. The last of
+these applications has garnered a great deal
+of publicity recently, particularly at Stan
+ford, which is a forerunner in the research
+and development of rehabilitative robotic
+aids.
+Funded by the Veterans Administration, a
+group of engineers and specialists directed
+by Stanford Mechanical Engineering Prof.
+Larry Leifer, is conducting research at the
+Rehabilitative Engineering Research and
+Development (RER&D) center at the Veter
+ans Administration Hospital in Palo Alto.
+The group is attempting to develop a de
+vice controlled by the disabled individual
+through a computer, which would perform
+tasks that otherwise require human care.
+The outcome of this research could greatly
+increase the self-sufficiency of severely dis
+abled individuals, particularly quadraplegics
+who, suffering from spinal injuries, have lost
+the use of their legs and at least partial use of
+their arms.
+Clinical pretesting on the Stanford Robo
+tic Aid, a robotic manipulator which resem
+bles a large jointed "arm" with a two
+fingered "hand," began at the VA Hospital in
+1981. The device does not attempt to replace
+the anatomy of a missing or disabled limb —
+in fact, it is not in contact with the user's
+body at all.
+The device, mounted on a table, is instead
+a small-scale industrial robot which has been
+adapted for use as a rehabilitative robotic
+aid. Stanford purchased the manipulator
+arm and the computer which controls its
+movements from Unimation, a robot man
+ufacturing company.
+In order to make the device more useful as
+an aid for the disabled, more sophisticated
+elements were added, such as voice recog
+nition and voice synthesis units. This ena
+bled the robotic aid to perform movements
+in response to voice commands, and to pro
+vide feedback to the user through an elec
+tronic voice. Using a BASIC-like computer
+language called VAL, the user comands the
+manipulator to perform a pre-programmed
+task, or gives the device a series of com
+mands which cause it to perform a sequence
+
+of pre-programmed movements, thus guid
+ing the robot step by step through the mo
+tions of a task.
+At present the Stanford Robotic Aid is still
+being tested, and research is being con
+ducted toward improving the device. Ac
+cording to John Walecka, a recent Stanford
+graduate and a research assistant for the
+project, some of the most important im
+provements will be to mount the robot on a
+mobile base and to install force sensors at
+the wrist and on the hand. These sensors
+would enable the manipulator to gain feed
+back regarding the object it is working with,
+such as the weight of the object or the
+amount of pressure the manipulator is ap
+plying to the object, and to correct its own
+motions without intervention by the human
+
+operator.
+Both improvements are steps toward the
+final goal of all areas of robotics: making
+robots intelligent. This is the focus of re
+search conducted at Stanford's Artificial In
+telligence (Al) Laboratory in the basement of
+Margaret Jacks Hall, funded by the National
+Science Foundation.
+According to a recent graduate of the
+computer science PhD program who con
+ducts research in the Al Lab, robotics is now
+in its second stage. In the first stage the
+robot did not interact with its environment.
+The robot simply performed its tasks with
+out gathering feedback from the objects
+with which it came in contact. Even in to
+day's second state, he said, "With the cur
+rent state of manipulators (robotic devices),
+
+Photo courtesy of News and Publications
+there's no smarts at all there (in the robot)."
+In other words, though today's robots use
+force sensors to gain feedback from their
+environment, they are unable to interpret
+the information.
+The robots of the future - the last stage of
+robotics - will possess artificial intelligence,
+enabling them to interpret sensory feed
+back, and make their own decisions based
+on this information. These intelligent
+robots, when confronted with a command
+to perform a task, will be able to think
+through a plan of action and carry it out
+without guidance from the human operator.
+The present generation of robots, on the
+other hand, can perform only pre
+programmed motions or tasks. Because the
+robot can perform only these learned mo
+
+tions, it is not able to respond when pre
+sented with uncertainties, or to adapt to
+changes in its environment.
+The environment must be carefully struc
+tured in order to present the robot with the
+exact situation in which it has learned a task
+or motion. In other words, according to
+Walecka, a robot can pick up a glass of water
+if the glass is in the exact location where the
+robot has been programmed to find it, or if
+the human operator gives a series of com
+mands telling the robot which direction to
+move. "But it can't figure out that that's a
+glass of water,'' he said. "And you can't just
+say Go tind a glass of water ."
+The robot is unable to think through all
+the processes necessary to perform this
+task. Robotic aids with artificial intelligence
+will someday be able to make the decisions
+necessary to perform a complicated task
+such as this, while another feature will be
+the ability of mobile robots to plan a path
+around unforeseen obstacles.
+Robots will also find a wider application in
+industry when they are equipped with artifi
+cial intelligence. At present they are limited
+to use where their environment is very struc -
+tured, such as welding and spray painting
+applications, according to Walecka, in
+which". . .they know exactly where the part
+is and what to do with it." The robot is able to
+repeat a learned motion without being con
+fronted with unforeseen situations.
+This will make industrial robots much
+more cost-effective, since less money will
+have to be spent in creating a suitably struc
+tured environment. Robots will be able to
+take over many tasks which now require
+human labor in order to make judgements
+and decisions.
+Personal robots will also become popular
+when artificial intelligence makes them cap
+able of performing tasks in the home. A few
+personal robots are already on the market,
+and one model is said by its manufacturer,
+Androbot Inc., to be the first commercial
+robot to have artificial intelligence. How
+ever, all it is capable of at present is wander
+ing about avoiding objects.
+According to Oussama Khatlib, research as
+sociate at the Al Lab, "We are still far from
+intelligent' robots." The obstacle to over
+come before robots can move on to more
+complicated tasks is developing the neces
+sary computer software, and no one can be
+certain when this will be accomplished.
+Until that time, the thinking robot still be
+longs to the realm of science fiction.
+
+Hand in hand with the computer revolu
+tion, a new revolution is occurring. And
+perhaps even more than computers, it is the
+stuff of which science fiction is made.
+The new revolution is in the field of robo
+tics t— the manufacture of robots for such
+diverse applications as industry, use in the
+home, and aids for the disabled. The last of
+these applications has garnered a great deal
+of publicity recently, particularly at Stan
+ford, which is a forerunner in the research
+and development of rehabilitative robotic
+aids.
+Funded by the Veterans Administration, a
+group of engineers and specialists directed
+by Stanford Mechanical Engineering Prof.
+Larry Leifer, is conducting research at the
+Rehabilitative Engineering Research and
+Development (RER&D) center at the Veter
+ans Administration Hospital in Palo Alto.
+The group is attempting to develop a de
+vice controlled by the disabled individual
+through a computer, which would perform
+tasks that otherwise require human care.
+The outcome of this research could greatly
+increase the self-sufficiency of severely dis
+abled individuals, particularly quadraplegics
+who, suffering from spinal injuries, have lost
+the use of their legs and at least partial use of
+their arms.
+Clinical pretesting on the Stanford Robo
+tic Aid, a robotic manipulator which resem
+bles a large jointed "arm" with a two
+fingered "hand," began at the VA Hospital in
+1981. The device does not attempt to replace
+the anatomy of a missing or disabled limb —
+in fact, it is not in contact with the user's
+body at all.
+The device, mounted on a table, is instead
+a small-scale industrial robot which has been
+adapted for use as a rehabilitative robotic
+aid. Stanford purchased the manipulator
+arm and the computer which controls its
+movements from Unimation, a robot man
+ufacturing company.
+In order to make the device more useful as
+an aid for the disabled, more sophisticated
+elements were added, such as voice recog
+nition and voice synthesis units. This ena
+bled the robotic aid to perform movements
+in response to voice commands, and to pro
+vide feedback to the user through an elec
+tronic voice. Using a BASIC-like computer
+language called VAL, the user comands the
+manipulator to perform a pre-programmed
+task, or gives the device a series of com
+mands which cause it to perform a sequence
+
+of pre-programmed movements, thus guid
+ing the robot step by step through the mo
+tions of a task.
+At present the Stanford Robotic Aid is still
+being tested, and research is being con
+ducted toward improving the device. Ac
+cording to John Walecka, a recent Stanford
+graduate and a research assistant for the
+project, some of the most important im
+provements will be to mount the robot on a
+mobile base and to install force sensors at
+the wrist and on the hand. These sensors
+would enable the manipulator to gain feed
+back regarding the object it is working with,
+such as the weight of the object or the
+amount of pressure the manipulator is ap
+plying to the object, and to correct its own
+motions without intervention by the human
+
+operator.
+Both improvements are steps toward the
+final goal of all areas of robotics: making
+robots intelligent. This is the focus of re
+search conducted at Stanford's Artificial In
+telligence (Al) Laboratory in the basement of
+Margaret Jacks Hall, funded by the National
+Science Foundation.
+According to a recent graduate of the
+computer science PhD program who con
+ducts research in the Al Lab, robotics is now
+in its second stage. In the first stage the
+robot did not interact with its environment.
+The robot simply performed its tasks with
+out gathering feedback from the objects
+with which it came in contact. Even in to
+day's second state, he said, "With the cur
+rent state of manipulators (robotic devices),
+
+Photo courtesy of News and Publications
+there's no smarts at all there (in the robot)."
+In other words, though today's robots use
+force sensors to gain feedback from their
+environment, they are unable to interpret
+the information.
+The robots of the future - the last stage of
+robotics - will possess artificial intelligence,
+enabling them to interpret sensory feed
+back, and make their own decisions based
+on this information. These intelligent
+robots, when confronted with a command
+to perform a task, will be able to think
+through a plan of action and carry it out
+without guidance from the human operator.
+The present generation of robots, on the
+other hand, can perform only pre
+programmed motions or tasks. Because the
+robot can perform only these learned mo
+
+tions, it is not able to respond when pre
+sented with uncertainties, or to adapt to
+changes in its environment.
+The environment must be carefully struc
+tured in order to present the robot with the
+exact situation in which it has learned a task
+or motion. In other words, according to
+Walecka, a robot can pick up a glass of water
+if the glass is in the exact location where the
+robot has been programmed to find it, or if
+the human operator gives a series of com
+mands telling the robot which direction to
+move. "But it can't figure out that that's a
+glass of water,'' he said. "And you can't just
+say Go tind a glass of water ."
+The robot is unable to think through all
+the processes necessary to perform this
+task. Robotic aids with artificial intelligence
+will someday be able to make the decisions
+necessary to perform a complicated task
+such as this, while another feature will be
+the ability of mobile robots to plan a path
+around unforeseen obstacles.
+Robots will also find a wider application in
+industry when they are equipped with artifi
+cial intelligence. At present they are limited
+to use where their environment is very struc -
+tured, such as welding and spray painting
+applications, according to Walecka, in
+which". . .they know exactly where the part
+is and what to do with it." The robot is able to
+repeat a learned motion without being con
+fronted with unforeseen situations.
+This will make industrial robots much
+more cost-effective, since less money will
+have to be spent in creating a suitably struc
+tured environment. Robots will be able to
+take over many tasks which now require
+human labor in order to make judgements
+and decisions.
+Personal robots will also become popular
+when artificial intelligence makes them cap
+able of performing tasks in the home. A few
+personal robots are already on the market,
+and one model is said by its manufacturer,
+Androbot Inc., to be the first commercial
+robot to have artificial intelligence. How
+ever, all it is capable of at present is wander
+ing about avoiding objects.
+According to Oussama Khatlib, research as
+sociate at the Al Lab, "We are still far from
+intelligent' robots." The obstacle to over
+come before robots can move on to more
+complicated tasks is developing the neces
+sary computer software, and no one can be
+certain when this will be accomplished.
+Until that time, the thinking robot still be
+longs to the realm of science fiction.
+

@@ -1,0 +1,789 @@
+# Engineering electric music
+## Using computers and electronics to improve sound 
+### Gaurav Bhatia 
+It may not stretch the imagina
+tion a whole lot to accept that
+Assoc. Music Prof. Julius Smith
+plays the guitar and keyboard in a
+progressive rock band that does
+originals and remakes of great
+classics. But how does that relate
+to science?
+Smith, who has a doctorate in
+electrical engineering, has com
+bined his interests as a faculty
+member of the Center for Comput
+er Research in Music and Acous
+tics. In his research group, he
+advises about 12 graduate stu
+dents, most of whom are doctoral
+students in electrical engineering.
+The center is a "multidisci
+plinary facility where composers
+and researchers work together
+using computer-based technology
+both as an artistic medium and as
+a research tool," according to its
+site on the World Wide Web.
+The center consists of students
+and faculty from not only the
+departments of music and electri
+cal engineering but also from
+mechanical engineering, computer
+science and psychology.
+The various areas of ongoing
+research at the center include com
+position, synthesis techniques and
+algorithms, physical modeling, sig
+nal processing, digital recording
+and editing, psychoacoustics and
+musical acoustics and real-time
+applications and controllers.
+Melding together electrical
+engineering and music, these
+research projects take advantage
+of these developing technologies.
+One project is concentrating on
+building an electronic instrument
+that can reproduce sound for
+which the human ear is not able to
+distinguish from the real ones.
+Tremendous progress has been
+achieved in this area.
+"Around 90 percent of the peo
+ple would not be able to distin
+
+guish a real piano from one that
+was simulated on [our] electronic
+synthesizer," said Smith.
+Similar progress has been made
+with respect to electric guitars.
+This research has provided foun
+dations for the development of
+musical instruments in industry.
+The Pad Master, which is able to
+sense the movement of a conduc
+tor's baton, includes a computer
+attached to a drum-like instru
+ment. Through common connect
+ing hardware, the radio drum com
+municates with the computer and
+sends positional and velocity infor
+mation when either of two batons
+hits the surface of the drum.
+Apart from this information,
+the computer also polls the drum
+to determine the absolute position
+of the batons. This information is
+
+used to split the surface of the
+drum into up to 30 virtual pads of
+variable size, each one indepen
+dently programmable by the per
+former.
+The Pad Master is then able to
+react in a specific way to a hit and
+to the position information
+stream. Each information stream
+then becomes specialized to pro
+duce a specific type of sound.
+The Synthßuilder computer
+program allows its user to define,
+modify and store sounds ranging
+from movie sound effects to those
+from an instrument.
+Another project involves "devel
+oping a voice transformation sys
+tem that makes the transformed
+voice close to a natural voice of the
+
+
+Johnny Zannis — Daily
+opposite sex," according to the Web
+site.
+Research for computer-auto
+mated composition of music is
+also an exciting area. The mecha
+nism for achieving this is to imi
+tate the creative process, a task at
+
+which computers have tradition
+ally not been very proficient.
+"It is not very difficult for com
+puters to imitate a particular style
+of music, and I have heard some
+very impressive compositions by
+computers," said Smith. "The dif
+ficulty lies in having the computer
+evolve a different style."
+A technique known as genetic
+programming and algorithms is
+being used to further improve the
+
+abilities of computers as com
+posers. Similar to the biological
+theory of evolution and fitness,
+the computer evolves musical
+compositions through iterations,
+keeping only those that most
+closely fulfill the composer's cri
+teria.
+Although research in this area
+is advancing, "fooling listeners
+may still be long far away," said
+Smith.
+It may not stretch the imagina
+tion a whole lot to accept that
+Assoc. Music Prof. Julius Smith
+plays the guitar and keyboard in a
+progressive rock band that does
+originals and remakes of great
+classics. But how does that relate
+to science?
+Smith, who has a doctorate in
+electrical engineering, has com
+bined his interests as a faculty
+member of the Center for Comput
+er Research in Music and Acous
+tics. In his research group, he
+advises about 12 graduate stu
+dents, most of whom are doctoral
+students in electrical engineering.
+The center is a "multidisci
+plinary facility where composers
+and researchers work together
+using computer-based technology
+both as an artistic medium and as
+a research tool," according to its
+site on the World Wide Web.
+The center consists of students
+and faculty from not only the
+departments of music and electri
+cal engineering but also from
+mechanical engineering, computer
+science and psychology.
+The various areas of ongoing
+research at the center include com
+position, synthesis techniques and
+algorithms, physical modeling, sig
+nal processing, digital recording
+and editing, psychoacoustics and
+musical acoustics and real-time
+applications and controllers.
+Melding together electrical
+engineering and music, these
+research projects take advantage
+of these developing technologies.
+One project is concentrating on
+building an electronic instrument
+that can reproduce sound for
+which the human ear is not able to
+distinguish from the real ones.
+Tremendous progress has been
+achieved in this area.
+"Around 90 percent of the peo
+ple would not be able to distin
+
+guish a real piano from one that
+was simulated on [our] electronic
+synthesizer," said Smith.
+Similar progress has been made
+with respect to electric guitars.
+This research has provided foun
+dations for the development of
+musical instruments in industry.
+The Pad Master, which is able to
+sense the movement of a conduc
+tor's baton, includes a computer
+attached to a drum-like instru
+ment. Through common connect
+ing hardware, the radio drum com
+municates with the computer and
+sends positional and velocity infor
+mation when either of two batons
+hits the surface of the drum.
+Apart from this information,
+the computer also polls the drum
+to determine the absolute position
+of the batons. This information is
+
+used to split the surface of the
+drum into up to 30 virtual pads of
+variable size, each one indepen
+dently programmable by the per
+former.
+The Pad Master is then able to
+react in a specific way to a hit and
+to the position information
+stream. Each information stream
+then becomes specialized to pro
+duce a specific type of sound.
+The Synthßuilder computer
+program allows its user to define,
+modify and store sounds ranging
+from movie sound effects to those
+from an instrument.
+Another project involves "devel
+oping a voice transformation sys
+tem that makes the transformed
+voice close to a natural voice of the
+
+
+Johnny Zannis — Daily
+opposite sex," according to the Web
+site.
+Research for computer-auto
+mated composition of music is
+also an exciting area. The mecha
+nism for achieving this is to imi
+tate the creative process, a task at
+
+which computers have tradition
+ally not been very proficient.
+"It is not very difficult for com
+puters to imitate a particular style
+of music, and I have heard some
+very impressive compositions by
+computers," said Smith. "The dif
+ficulty lies in having the computer
+evolve a different style."
+A technique known as genetic
+programming and algorithms is
+being used to further improve the
+
+abilities of computers as com
+posers. Similar to the biological
+theory of evolution and fitness,
+the computer evolves musical
+compositions through iterations,
+keeping only those that most
+closely fulfill the composer's cri
+teria.
+Although research in this area
+is advancing, "fooling listeners
+may still be long far away," said
+Smith.
+It may not stretch the imagina
+tion a whole lot to accept that
+Assoc. Music Prof. Julius Smith
+plays the guitar and keyboard in a
+progressive rock band that does
+originals and remakes of great
+classics. But how does that relate
+to science?
+Smith, who has a doctorate in
+electrical engineering, has com
+bined his interests as a faculty
+member of the Center for Comput
+er Research in Music and Acous
+tics. In his research group, he
+advises about 12 graduate stu
+dents, most of whom are doctoral
+students in electrical engineering.
+The center is a "multidisci
+plinary facility where composers
+and researchers work together
+using computer-based technology
+both as an artistic medium and as
+a research tool," according to its
+site on the World Wide Web.
+The center consists of students
+and faculty from not only the
+departments of music and electri
+cal engineering but also from
+mechanical engineering, computer
+science and psychology.
+The various areas of ongoing
+research at the center include com
+position, synthesis techniques and
+algorithms, physical modeling, sig
+nal processing, digital recording
+and editing, psychoacoustics and
+musical acoustics and real-time
+applications and controllers.
+Melding together electrical
+engineering and music, these
+research projects take advantage
+of these developing technologies.
+One project is concentrating on
+building an electronic instrument
+that can reproduce sound for
+which the human ear is not able to
+distinguish from the real ones.
+Tremendous progress has been
+achieved in this area.
+"Around 90 percent of the peo
+ple would not be able to distin
+
+guish a real piano from one that
+was simulated on [our] electronic
+synthesizer," said Smith.
+Similar progress has been made
+with respect to electric guitars.
+This research has provided foun
+dations for the development of
+musical instruments in industry.
+The Pad Master, which is able to
+sense the movement of a conduc
+tor's baton, includes a computer
+attached to a drum-like instru
+ment. Through common connect
+ing hardware, the radio drum com
+municates with the computer and
+sends positional and velocity infor
+mation when either of two batons
+hits the surface of the drum.
+Apart from this information,
+the computer also polls the drum
+to determine the absolute position
+of the batons. This information is
+
+used to split the surface of the
+drum into up to 30 virtual pads of
+variable size, each one indepen
+dently programmable by the per
+former.
+The Pad Master is then able to
+react in a specific way to a hit and
+to the position information
+stream. Each information stream
+then becomes specialized to pro
+duce a specific type of sound.
+The Synthßuilder computer
+program allows its user to define,
+modify and store sounds ranging
+from movie sound effects to those
+from an instrument.
+Another project involves "devel
+oping a voice transformation sys
+tem that makes the transformed
+voice close to a natural voice of the
+
+
+Johnny Zannis — Daily
+opposite sex," according to the Web
+site.
+Research for computer-auto
+mated composition of music is
+also an exciting area. The mecha
+nism for achieving this is to imi
+tate the creative process, a task at
+
+which computers have tradition
+ally not been very proficient.
+"It is not very difficult for com
+puters to imitate a particular style
+of music, and I have heard some
+very impressive compositions by
+computers," said Smith. "The dif
+ficulty lies in having the computer
+evolve a different style."
+A technique known as genetic
+programming and algorithms is
+being used to further improve the
+
+abilities of computers as com
+posers. Similar to the biological
+theory of evolution and fitness,
+the computer evolves musical
+compositions through iterations,
+keeping only those that most
+closely fulfill the composer's cri
+teria.
+Although research in this area
+is advancing, "fooling listeners
+may still be long far away," said
+Smith.
+It may not stretch the imagina
+tion a whole lot to accept that
+Assoc. Music Prof. Julius Smith
+plays the guitar and keyboard in a
+progressive rock band that does
+originals and remakes of great
+classics. But how does that relate
+to science?
+Smith, who has a doctorate in
+electrical engineering, has com
+bined his interests as a faculty
+member of the Center for Comput
+er Research in Music and Acous
+tics. In his research group, he
+advises about 12 graduate stu
+dents, most of whom are doctoral
+students in electrical engineering.
+The center is a "multidisci
+plinary facility where composers
+and researchers work together
+using computer-based technology
+both as an artistic medium and as
+a research tool," according to its
+site on the World Wide Web.
+The center consists of students
+and faculty from not only the
+departments of music and electri
+cal engineering but also from
+mechanical engineering, computer
+science and psychology.
+The various areas of ongoing
+research at the center include com
+position, synthesis techniques and
+algorithms, physical modeling, sig
+nal processing, digital recording
+and editing, psychoacoustics and
+musical acoustics and real-time
+applications and controllers.
+Melding together electrical
+engineering and music, these
+research projects take advantage
+of these developing technologies.
+One project is concentrating on
+building an electronic instrument
+that can reproduce sound for
+which the human ear is not able to
+distinguish from the real ones.
+Tremendous progress has been
+achieved in this area.
+"Around 90 percent of the peo
+ple would not be able to distin
+
+guish a real piano from one that
+was simulated on [our] electronic
+synthesizer," said Smith.
+Similar progress has been made
+with respect to electric guitars.
+This research has provided foun
+dations for the development of
+musical instruments in industry.
+The Pad Master, which is able to
+sense the movement of a conduc
+tor's baton, includes a computer
+attached to a drum-like instru
+ment. Through common connect
+ing hardware, the radio drum com
+municates with the computer and
+sends positional and velocity infor
+mation when either of two batons
+hits the surface of the drum.
+Apart from this information,
+the computer also polls the drum
+to determine the absolute position
+of the batons. This information is
+
+used to split the surface of the
+drum into up to 30 virtual pads of
+variable size, each one indepen
+dently programmable by the per
+former.
+The Pad Master is then able to
+react in a specific way to a hit and
+to the position information
+stream. Each information stream
+then becomes specialized to pro
+duce a specific type of sound.
+The Synthßuilder computer
+program allows its user to define,
+modify and store sounds ranging
+from movie sound effects to those
+from an instrument.
+Another project involves "devel
+oping a voice transformation sys
+tem that makes the transformed
+voice close to a natural voice of the
+
+
+Johnny Zannis — Daily
+opposite sex," according to the Web
+site.
+Research for computer-auto
+mated composition of music is
+also an exciting area. The mecha
+nism for achieving this is to imi
+tate the creative process, a task at
+
+which computers have tradition
+ally not been very proficient.
+"It is not very difficult for com
+puters to imitate a particular style
+of music, and I have heard some
+very impressive compositions by
+computers," said Smith. "The dif
+ficulty lies in having the computer
+evolve a different style."
+A technique known as genetic
+programming and algorithms is
+being used to further improve the
+
+abilities of computers as com
+posers. Similar to the biological
+theory of evolution and fitness,
+the computer evolves musical
+compositions through iterations,
+keeping only those that most
+closely fulfill the composer's cri
+teria.
+Although research in this area
+is advancing, "fooling listeners
+may still be long far away," said
+Smith.
+It may not stretch the imagina
+tion a whole lot to accept that
+Assoc. Music Prof. Julius Smith
+plays the guitar and keyboard in a
+progressive rock band that does
+originals and remakes of great
+classics. But how does that relate
+to science?
+Smith, who has a doctorate in
+electrical engineering, has com
+bined his interests as a faculty
+member of the Center for Comput
+er Research in Music and Acous
+tics. In his research group, he
+advises about 12 graduate stu
+dents, most of whom are doctoral
+students in electrical engineering.
+The center is a "multidisci
+plinary facility where composers
+and researchers work together
+using computer-based technology
+both as an artistic medium and as
+a research tool," according to its
+site on the World Wide Web.
+The center consists of students
+and faculty from not only the
+departments of music and electri
+cal engineering but also from
+mechanical engineering, computer
+science and psychology.
+The various areas of ongoing
+research at the center include com
+position, synthesis techniques and
+algorithms, physical modeling, sig
+nal processing, digital recording
+and editing, psychoacoustics and
+musical acoustics and real-time
+applications and controllers.
+Melding together electrical
+engineering and music, these
+research projects take advantage
+of these developing technologies.
+One project is concentrating on
+building an electronic instrument
+that can reproduce sound for
+which the human ear is not able to
+distinguish from the real ones.
+Tremendous progress has been
+achieved in this area.
+"Around 90 percent of the peo
+ple would not be able to distin
+
+guish a real piano from one that
+was simulated on [our] electronic
+synthesizer," said Smith.
+Similar progress has been made
+with respect to electric guitars.
+This research has provided foun
+dations for the development of
+musical instruments in industry.
+The Pad Master, which is able to
+sense the movement of a conduc
+tor's baton, includes a computer
+attached to a drum-like instru
+ment. Through common connect
+ing hardware, the radio drum com
+municates with the computer and
+sends positional and velocity infor
+mation when either of two batons
+hits the surface of the drum.
+Apart from this information,
+the computer also polls the drum
+to determine the absolute position
+of the batons. This information is
+
+used to split the surface of the
+drum into up to 30 virtual pads of
+variable size, each one indepen
+dently programmable by the per
+former.
+The Pad Master is then able to
+react in a specific way to a hit and
+to the position information
+stream. Each information stream
+then becomes specialized to pro
+duce a specific type of sound.
+The Synthßuilder computer
+program allows its user to define,
+modify and store sounds ranging
+from movie sound effects to those
+from an instrument.
+Another project involves "devel
+oping a voice transformation sys
+tem that makes the transformed
+voice close to a natural voice of the
+
+
+Johnny Zannis — Daily
+opposite sex," according to the Web
+site.
+Research for computer-auto
+mated composition of music is
+also an exciting area. The mecha
+nism for achieving this is to imi
+tate the creative process, a task at
+
+which computers have tradition
+ally not been very proficient.
+"It is not very difficult for com
+puters to imitate a particular style
+of music, and I have heard some
+very impressive compositions by
+computers," said Smith. "The dif
+ficulty lies in having the computer
+evolve a different style."
+A technique known as genetic
+programming and algorithms is
+being used to further improve the
+
+abilities of computers as com
+posers. Similar to the biological
+theory of evolution and fitness,
+the computer evolves musical
+compositions through iterations,
+keeping only those that most
+closely fulfill the composer's cri
+teria.
+Although research in this area
+is advancing, "fooling listeners
+may still be long far away," said
+Smith.
+It may not stretch the imagina
+tion a whole lot to accept that
+Assoc. Music Prof. Julius Smith
+plays the guitar and keyboard in a
+progressive rock band that does
+originals and remakes of great
+classics. But how does that relate
+to science?
+Smith, who has a doctorate in
+electrical engineering, has com
+bined his interests as a faculty
+member of the Center for Comput
+er Research in Music and Acous
+tics. In his research group, he
+advises about 12 graduate stu
+dents, most of whom are doctoral
+students in electrical engineering.
+The center is a "multidisci
+plinary facility where composers
+and researchers work together
+using computer-based technology
+both as an artistic medium and as
+a research tool," according to its
+site on the World Wide Web.
+The center consists of students
+and faculty from not only the
+departments of music and electri
+cal engineering but also from
+mechanical engineering, computer
+science and psychology.
+The various areas of ongoing
+research at the center include com
+position, synthesis techniques and
+algorithms, physical modeling, sig
+nal processing, digital recording
+and editing, psychoacoustics and
+musical acoustics and real-time
+applications and controllers.
+Melding together electrical
+engineering and music, these
+research projects take advantage
+of these developing technologies.
+One project is concentrating on
+building an electronic instrument
+that can reproduce sound for
+which the human ear is not able to
+distinguish from the real ones.
+Tremendous progress has been
+achieved in this area.
+"Around 90 percent of the peo
+ple would not be able to distin
+
+guish a real piano from one that
+was simulated on [our] electronic
+synthesizer," said Smith.
+Similar progress has been made
+with respect to electric guitars.
+This research has provided foun
+dations for the development of
+musical instruments in industry.
+The Pad Master, which is able to
+sense the movement of a conduc
+tor's baton, includes a computer
+attached to a drum-like instru
+ment. Through common connect
+ing hardware, the radio drum com
+municates with the computer and
+sends positional and velocity infor
+mation when either of two batons
+hits the surface of the drum.
+Apart from this information,
+the computer also polls the drum
+to determine the absolute position
+of the batons. This information is
+
+used to split the surface of the
+drum into up to 30 virtual pads of
+variable size, each one indepen
+dently programmable by the per
+former.
+The Pad Master is then able to
+react in a specific way to a hit and
+to the position information
+stream. Each information stream
+then becomes specialized to pro
+duce a specific type of sound.
+The Synthßuilder computer
+program allows its user to define,
+modify and store sounds ranging
+from movie sound effects to those
+from an instrument.
+Another project involves "devel
+oping a voice transformation sys
+tem that makes the transformed
+voice close to a natural voice of the
+
+
+Johnny Zannis — Daily
+opposite sex," according to the Web
+site.
+Research for computer-auto
+mated composition of music is
+also an exciting area. The mecha
+nism for achieving this is to imi
+tate the creative process, a task at
+
+which computers have tradition
+ally not been very proficient.
+"It is not very difficult for com
+puters to imitate a particular style
+of music, and I have heard some
+very impressive compositions by
+computers," said Smith. "The dif
+ficulty lies in having the computer
+evolve a different style."
+A technique known as genetic
+programming and algorithms is
+being used to further improve the
+
+abilities of computers as com
+posers. Similar to the biological
+theory of evolution and fitness,
+the computer evolves musical
+compositions through iterations,
+keeping only those that most
+closely fulfill the composer's cri
+teria.
+Although research in this area
+is advancing, "fooling listeners
+may still be long far away," said
+Smith.

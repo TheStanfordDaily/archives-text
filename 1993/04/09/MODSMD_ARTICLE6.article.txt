@@ -1,0 +1,1413 @@
+# Prying eyes? Private e-mail messages are accessible to network administrators
+## 
+### Ajai Chari Staff writer 
+If telephone operators were able to listen
+in and record every phone conversation
+that went through their switchboards,
+most people would probably feel their pri
+vacy was being violated.
+In a similar way though, that is how the
+University's electronic mail system works:
+every message that remains on the network
+for more than 24 hours is recorded and
+then stored for a year, and network admin
+istrators have easy access to these mes
+sages.
+But work has started on implementing
+new systems that will resolve many privacy
+problems, according to Dennis Michael, the
+system administrator for the University's
+e-mail network.
+Three new systems are in development,
+he said, to address three major security
+problems: the issue of backups, administra
+tors' access and password cracking.
+Necessary backups
+The University's e-mail system is de
+signed to make a backup and store mes
+sages for a year — even those that are later
+deleted — that have been on the network
+for more than 24 hours, Michael said.
+It is a necessity, Michael said, because of
+the system's computer format. Occasional
+ly, the data on one or two of the hard disks
+that run the e-mail network are lost each
+year due to events such as power shortages,
+fires and disk failures caused by mechanical
+aging.
+Michael said no exceptions could be
+made for individuals who do not want back
+ups made, because it would be too compli
+cated to ask each one of the 17,000 users if
+
+he or she wanted a backup. Everything is
+automatically copied, regardless of the in
+formation and user, he said.
+Theoretically, he said, someone could
+gain access to e-mail files by going to the
+Center for Educational Research at Stan
+ford, where the backups are stored.
+However, he emphasized that the files
+are very secure — only the system adminis
+trators, the fire department and the police
+department have the authority to access
+the equipment.
+And this summer, he added, a new sys-
+tem will be installed that will
+eliminate the need for backups,
+because the redesigned e-mail
+computer will contain five disk
+drives. The information will be
+written onto the five disks in such
+a way that if one disk were lost, it
+could easily be replaced with one
+of the other disks, he said.
+Staff access to files
+The four members of the
+Leland system's administrative
+staff have complete access to all of
+the e-mail files.
+The e-mail system the Univer
+sity uses was originally intended
+for text processing and document
+preparation, not e-mail, Michael
+said. With the original design, the
+network's "root" users have com
+plete access and control.
+"System administrators are
+generally next to God," said
+Dwayne Virnau, the consulting
+coordinator for academic comput
+
+ing support.
+But a new system, which takes
+out the all-powerful administra
+tive role and only allows users
+access to their files, is in the
+works, though, Michael said.
+However, he added that
+because it is being done through a
+process called encryption —
+which is very technically detailed
+and requires a great deal of the
+system's resources — it may take
+a year or two before the imple
+mentation of the new system.
+In the meantime, though, Uni
+versity regulations require that
+system administrators who
+access an account read only the
+message headers — which con
+tain information such as whom
+the message is from, and the date
+and time the message was
+received — and not the specific
+contents of a message.
+If the administrators need to
+see a file, they must first inform
+the user.
+"I have never read mail and
+make it a point not to read mail
+because I think it is unethical,"
+Michael said, adding that he
+
+would fire anyone on his staff
+caught reading e-mail without
+permission.
+Cracking the password
+The security problem that
+most e-mail users probably hear
+about, though, is password crack
+ing.
+When users initially open
+accounts, they receive a mail file,
+which is a partition of the entire
+computer system's mailbox.
+Access to the mail file and all
+other files in an account is
+restricted to the user, who selects
+a user name and a password.
+Until recently, password
+cracking presented a considerable
+problem, because of the setup of
+the security system, Michael said.
+When a user logged on, the
+password entered would be
+encrypted and compared to the
+main file containing the list of all
+the encrypted passwords avail
+able.
+But because the main file was
+on the same machine as the com
+puter users logged onto, once a
+hacker guessed a password, he or
+
+she had essentially cracked the
+code and would have access to all
+the passwords on the Leland sys
+tem.
+To prevent this from happen
+ing, Michael's group put their
+fastest machine to work guessing
+passwords to stay ahead of the
+password crackers. Using a pro
+cedure like the one used by the
+many hackers, the machine
+would enter every word from dic
+tionaries in several languages,
+such as English, Spanish,
+French, Chinese, Japanese, Kore
+an, German, Italian and even
+slang.
+The guess would be encrypted
+and compared to the list of possi
+ble passwords, and if a match
+occurred, the account would be
+frozen and the user would be con
+tacted.
+However, about six months
+ago, a new security system devel
+oped at MIT, known as Kerberos,
+was implemented. Michael said
+the security risk is less now,
+because the file of encrypted pass
+words is no longer stored in the
+same machine as the computer
+
+users log onto.
+His group is also considering a
+password aging scheme, in which
+users would be forced to guess
+new passwords after a certain
+period of time. Passwords are still
+periodically checked, but guide
+lines for e-mail privacy suggest
+that users select passwords that
+are unrelated to the user name,
+not all numbers and not a word in
+any language.
+But much of the unwanted
+access is simply due to users' own
+negligence. Every day, Virnau
+said, there are always several peo
+ple who leave their computers
+without logging out, leaving their
+account open for others to read.
+Some users also give their
+passwords out to friends without
+thinking of the consequences.
+And others simply choose pass
+words that are easily guessed by
+hackers trying to break into the
+system.
+Just another document
+In most other ways though, e
+mail — and any other informa
+tion stored electronically — is
+
+treated as just another document.
+Unlike recorded conversations,
+e-mail is as "discoverable" as files
+stored on paper, according to
+Assoc. University Counsel Robin
+Kennedy.
+During the discovery phase of
+a lawsuit, parties request evi
+dence from each other. Unless a
+certain privilege, such as the
+attorney-client one, allows a
+party to withhold some evidence,
+the party is obliged to present all
+relevant information.
+Since e-mail is so commonly
+used in academic circles,
+Kennedy said that the University
+has presented it as evidence in
+many cases. She cited an anti
+trust suit filed against several Ivy
+League schools for fixing tuition
+prices where e-mail was subpoe
+naed because administrators at
+those institutions often commu
+nicated with each other via e
+mail.
+However, Kennedy said she
+could not recall a single case in
+which Stanford had to obtain a
+subpoena to examine a student's
+e-mail.
+If telephone operators were able to listen
+in and record every phone conversation
+that went through their switchboards,
+most people would probably feel their pri
+vacy was being violated.
+In a similar way though, that is how the
+University's electronic mail system works:
+every message that remains on the network
+for more than 24 hours is recorded and
+then stored for a year, and network admin
+istrators have easy access to these mes
+sages.
+But work has started on implementing
+new systems that will resolve many privacy
+problems, according to Dennis Michael, the
+system administrator for the University's
+e-mail network.
+Three new systems are in development,
+he said, to address three major security
+problems: the issue of backups, administra
+tors' access and password cracking.
+Necessary backups
+The University's e-mail system is de
+signed to make a backup and store mes
+sages for a year — even those that are later
+deleted — that have been on the network
+for more than 24 hours, Michael said.
+It is a necessity, Michael said, because of
+the system's computer format. Occasional
+ly, the data on one or two of the hard disks
+that run the e-mail network are lost each
+year due to events such as power shortages,
+fires and disk failures caused by mechanical
+aging.
+Michael said no exceptions could be
+made for individuals who do not want back
+ups made, because it would be too compli
+cated to ask each one of the 17,000 users if
+
+he or she wanted a backup. Everything is
+automatically copied, regardless of the in
+formation and user, he said.
+Theoretically, he said, someone could
+gain access to e-mail files by going to the
+Center for Educational Research at Stan
+ford, where the backups are stored.
+However, he emphasized that the files
+are very secure — only the system adminis
+trators, the fire department and the police
+department have the authority to access
+the equipment.
+And this summer, he added, a new sys-
+tem will be installed that will
+eliminate the need for backups,
+because the redesigned e-mail
+computer will contain five disk
+drives. The information will be
+written onto the five disks in such
+a way that if one disk were lost, it
+could easily be replaced with one
+of the other disks, he said.
+Staff access to files
+The four members of the
+Leland system's administrative
+staff have complete access to all of
+the e-mail files.
+The e-mail system the Univer
+sity uses was originally intended
+for text processing and document
+preparation, not e-mail, Michael
+said. With the original design, the
+network's "root" users have com
+plete access and control.
+"System administrators are
+generally next to God," said
+Dwayne Virnau, the consulting
+coordinator for academic comput
+
+ing support.
+But a new system, which takes
+out the all-powerful administra
+tive role and only allows users
+access to their files, is in the
+works, though, Michael said.
+However, he added that
+because it is being done through a
+process called encryption —
+which is very technically detailed
+and requires a great deal of the
+system's resources — it may take
+a year or two before the imple
+mentation of the new system.
+In the meantime, though, Uni
+versity regulations require that
+system administrators who
+access an account read only the
+message headers — which con
+tain information such as whom
+the message is from, and the date
+and time the message was
+received — and not the specific
+contents of a message.
+If the administrators need to
+see a file, they must first inform
+the user.
+"I have never read mail and
+make it a point not to read mail
+because I think it is unethical,"
+Michael said, adding that he
+
+would fire anyone on his staff
+caught reading e-mail without
+permission.
+Cracking the password
+The security problem that
+most e-mail users probably hear
+about, though, is password crack
+ing.
+When users initially open
+accounts, they receive a mail file,
+which is a partition of the entire
+computer system's mailbox.
+Access to the mail file and all
+other files in an account is
+restricted to the user, who selects
+a user name and a password.
+Until recently, password
+cracking presented a considerable
+problem, because of the setup of
+the security system, Michael said.
+When a user logged on, the
+password entered would be
+encrypted and compared to the
+main file containing the list of all
+the encrypted passwords avail
+able.
+But because the main file was
+on the same machine as the com
+puter users logged onto, once a
+hacker guessed a password, he or
+
+she had essentially cracked the
+code and would have access to all
+the passwords on the Leland sys
+tem.
+To prevent this from happen
+ing, Michael's group put their
+fastest machine to work guessing
+passwords to stay ahead of the
+password crackers. Using a pro
+cedure like the one used by the
+many hackers, the machine
+would enter every word from dic
+tionaries in several languages,
+such as English, Spanish,
+French, Chinese, Japanese, Kore
+an, German, Italian and even
+slang.
+The guess would be encrypted
+and compared to the list of possi
+ble passwords, and if a match
+occurred, the account would be
+frozen and the user would be con
+tacted.
+However, about six months
+ago, a new security system devel
+oped at MIT, known as Kerberos,
+was implemented. Michael said
+the security risk is less now,
+because the file of encrypted pass
+words is no longer stored in the
+same machine as the computer
+
+users log onto.
+His group is also considering a
+password aging scheme, in which
+users would be forced to guess
+new passwords after a certain
+period of time. Passwords are still
+periodically checked, but guide
+lines for e-mail privacy suggest
+that users select passwords that
+are unrelated to the user name,
+not all numbers and not a word in
+any language.
+But much of the unwanted
+access is simply due to users' own
+negligence. Every day, Virnau
+said, there are always several peo
+ple who leave their computers
+without logging out, leaving their
+account open for others to read.
+Some users also give their
+passwords out to friends without
+thinking of the consequences.
+And others simply choose pass
+words that are easily guessed by
+hackers trying to break into the
+system.
+Just another document
+In most other ways though, e
+mail — and any other informa
+tion stored electronically — is
+
+treated as just another document.
+Unlike recorded conversations,
+e-mail is as "discoverable" as files
+stored on paper, according to
+Assoc. University Counsel Robin
+Kennedy.
+During the discovery phase of
+a lawsuit, parties request evi
+dence from each other. Unless a
+certain privilege, such as the
+attorney-client one, allows a
+party to withhold some evidence,
+the party is obliged to present all
+relevant information.
+Since e-mail is so commonly
+used in academic circles,
+Kennedy said that the University
+has presented it as evidence in
+many cases. She cited an anti
+trust suit filed against several Ivy
+League schools for fixing tuition
+prices where e-mail was subpoe
+naed because administrators at
+those institutions often commu
+nicated with each other via e
+mail.
+However, Kennedy said she
+could not recall a single case in
+which Stanford had to obtain a
+subpoena to examine a student's
+e-mail.
+If telephone operators were able to listen
+in and record every phone conversation
+that went through their switchboards,
+most people would probably feel their pri
+vacy was being violated.
+In a similar way though, that is how the
+University's electronic mail system works:
+every message that remains on the network
+for more than 24 hours is recorded and
+then stored for a year, and network admin
+istrators have easy access to these mes
+sages.
+But work has started on implementing
+new systems that will resolve many privacy
+problems, according to Dennis Michael, the
+system administrator for the University's
+e-mail network.
+Three new systems are in development,
+he said, to address three major security
+problems: the issue of backups, administra
+tors' access and password cracking.
+Necessary backups
+The University's e-mail system is de
+signed to make a backup and store mes
+sages for a year — even those that are later
+deleted — that have been on the network
+for more than 24 hours, Michael said.
+It is a necessity, Michael said, because of
+the system's computer format. Occasional
+ly, the data on one or two of the hard disks
+that run the e-mail network are lost each
+year due to events such as power shortages,
+fires and disk failures caused by mechanical
+aging.
+Michael said no exceptions could be
+made for individuals who do not want back
+ups made, because it would be too compli
+cated to ask each one of the 17,000 users if
+
+he or she wanted a backup. Everything is
+automatically copied, regardless of the in
+formation and user, he said.
+Theoretically, he said, someone could
+gain access to e-mail files by going to the
+Center for Educational Research at Stan
+ford, where the backups are stored.
+However, he emphasized that the files
+are very secure — only the system adminis
+trators, the fire department and the police
+department have the authority to access
+the equipment.
+And this summer, he added, a new sys-
+tem will be installed that will
+eliminate the need for backups,
+because the redesigned e-mail
+computer will contain five disk
+drives. The information will be
+written onto the five disks in such
+a way that if one disk were lost, it
+could easily be replaced with one
+of the other disks, he said.
+Staff access to files
+The four members of the
+Leland system's administrative
+staff have complete access to all of
+the e-mail files.
+The e-mail system the Univer
+sity uses was originally intended
+for text processing and document
+preparation, not e-mail, Michael
+said. With the original design, the
+network's "root" users have com
+plete access and control.
+"System administrators are
+generally next to God," said
+Dwayne Virnau, the consulting
+coordinator for academic comput
+
+ing support.
+But a new system, which takes
+out the all-powerful administra
+tive role and only allows users
+access to their files, is in the
+works, though, Michael said.
+However, he added that
+because it is being done through a
+process called encryption —
+which is very technically detailed
+and requires a great deal of the
+system's resources — it may take
+a year or two before the imple
+mentation of the new system.
+In the meantime, though, Uni
+versity regulations require that
+system administrators who
+access an account read only the
+message headers — which con
+tain information such as whom
+the message is from, and the date
+and time the message was
+received — and not the specific
+contents of a message.
+If the administrators need to
+see a file, they must first inform
+the user.
+"I have never read mail and
+make it a point not to read mail
+because I think it is unethical,"
+Michael said, adding that he
+
+would fire anyone on his staff
+caught reading e-mail without
+permission.
+Cracking the password
+The security problem that
+most e-mail users probably hear
+about, though, is password crack
+ing.
+When users initially open
+accounts, they receive a mail file,
+which is a partition of the entire
+computer system's mailbox.
+Access to the mail file and all
+other files in an account is
+restricted to the user, who selects
+a user name and a password.
+Until recently, password
+cracking presented a considerable
+problem, because of the setup of
+the security system, Michael said.
+When a user logged on, the
+password entered would be
+encrypted and compared to the
+main file containing the list of all
+the encrypted passwords avail
+able.
+But because the main file was
+on the same machine as the com
+puter users logged onto, once a
+hacker guessed a password, he or
+
+she had essentially cracked the
+code and would have access to all
+the passwords on the Leland sys
+tem.
+To prevent this from happen
+ing, Michael's group put their
+fastest machine to work guessing
+passwords to stay ahead of the
+password crackers. Using a pro
+cedure like the one used by the
+many hackers, the machine
+would enter every word from dic
+tionaries in several languages,
+such as English, Spanish,
+French, Chinese, Japanese, Kore
+an, German, Italian and even
+slang.
+The guess would be encrypted
+and compared to the list of possi
+ble passwords, and if a match
+occurred, the account would be
+frozen and the user would be con
+tacted.
+However, about six months
+ago, a new security system devel
+oped at MIT, known as Kerberos,
+was implemented. Michael said
+the security risk is less now,
+because the file of encrypted pass
+words is no longer stored in the
+same machine as the computer
+
+users log onto.
+His group is also considering a
+password aging scheme, in which
+users would be forced to guess
+new passwords after a certain
+period of time. Passwords are still
+periodically checked, but guide
+lines for e-mail privacy suggest
+that users select passwords that
+are unrelated to the user name,
+not all numbers and not a word in
+any language.
+But much of the unwanted
+access is simply due to users' own
+negligence. Every day, Virnau
+said, there are always several peo
+ple who leave their computers
+without logging out, leaving their
+account open for others to read.
+Some users also give their
+passwords out to friends without
+thinking of the consequences.
+And others simply choose pass
+words that are easily guessed by
+hackers trying to break into the
+system.
+Just another document
+In most other ways though, e
+mail — and any other informa
+tion stored electronically — is
+
+treated as just another document.
+Unlike recorded conversations,
+e-mail is as "discoverable" as files
+stored on paper, according to
+Assoc. University Counsel Robin
+Kennedy.
+During the discovery phase of
+a lawsuit, parties request evi
+dence from each other. Unless a
+certain privilege, such as the
+attorney-client one, allows a
+party to withhold some evidence,
+the party is obliged to present all
+relevant information.
+Since e-mail is so commonly
+used in academic circles,
+Kennedy said that the University
+has presented it as evidence in
+many cases. She cited an anti
+trust suit filed against several Ivy
+League schools for fixing tuition
+prices where e-mail was subpoe
+naed because administrators at
+those institutions often commu
+nicated with each other via e
+mail.
+However, Kennedy said she
+could not recall a single case in
+which Stanford had to obtain a
+subpoena to examine a student's
+e-mail.
+If telephone operators were able to listen
+in and record every phone conversation
+that went through their switchboards,
+most people would probably feel their pri
+vacy was being violated.
+In a similar way though, that is how the
+University's electronic mail system works:
+every message that remains on the network
+for more than 24 hours is recorded and
+then stored for a year, and network admin
+istrators have easy access to these mes
+sages.
+But work has started on implementing
+new systems that will resolve many privacy
+problems, according to Dennis Michael, the
+system administrator for the University's
+e-mail network.
+Three new systems are in development,
+he said, to address three major security
+problems: the issue of backups, administra
+tors' access and password cracking.
+Necessary backups
+The University's e-mail system is de
+signed to make a backup and store mes
+sages for a year — even those that are later
+deleted — that have been on the network
+for more than 24 hours, Michael said.
+It is a necessity, Michael said, because of
+the system's computer format. Occasional
+ly, the data on one or two of the hard disks
+that run the e-mail network are lost each
+year due to events such as power shortages,
+fires and disk failures caused by mechanical
+aging.
+Michael said no exceptions could be
+made for individuals who do not want back
+ups made, because it would be too compli
+cated to ask each one of the 17,000 users if
+
+he or she wanted a backup. Everything is
+automatically copied, regardless of the in
+formation and user, he said.
+Theoretically, he said, someone could
+gain access to e-mail files by going to the
+Center for Educational Research at Stan
+ford, where the backups are stored.
+However, he emphasized that the files
+are very secure — only the system adminis
+trators, the fire department and the police
+department have the authority to access
+the equipment.
+And this summer, he added, a new sys-
+tem will be installed that will
+eliminate the need for backups,
+because the redesigned e-mail
+computer will contain five disk
+drives. The information will be
+written onto the five disks in such
+a way that if one disk were lost, it
+could easily be replaced with one
+of the other disks, he said.
+Staff access to files
+The four members of the
+Leland system's administrative
+staff have complete access to all of
+the e-mail files.
+The e-mail system the Univer
+sity uses was originally intended
+for text processing and document
+preparation, not e-mail, Michael
+said. With the original design, the
+network's "root" users have com
+plete access and control.
+"System administrators are
+generally next to God," said
+Dwayne Virnau, the consulting
+coordinator for academic comput
+
+ing support.
+But a new system, which takes
+out the all-powerful administra
+tive role and only allows users
+access to their files, is in the
+works, though, Michael said.
+However, he added that
+because it is being done through a
+process called encryption —
+which is very technically detailed
+and requires a great deal of the
+system's resources — it may take
+a year or two before the imple
+mentation of the new system.
+In the meantime, though, Uni
+versity regulations require that
+system administrators who
+access an account read only the
+message headers — which con
+tain information such as whom
+the message is from, and the date
+and time the message was
+received — and not the specific
+contents of a message.
+If the administrators need to
+see a file, they must first inform
+the user.
+"I have never read mail and
+make it a point not to read mail
+because I think it is unethical,"
+Michael said, adding that he
+
+would fire anyone on his staff
+caught reading e-mail without
+permission.
+Cracking the password
+The security problem that
+most e-mail users probably hear
+about, though, is password crack
+ing.
+When users initially open
+accounts, they receive a mail file,
+which is a partition of the entire
+computer system's mailbox.
+Access to the mail file and all
+other files in an account is
+restricted to the user, who selects
+a user name and a password.
+Until recently, password
+cracking presented a considerable
+problem, because of the setup of
+the security system, Michael said.
+When a user logged on, the
+password entered would be
+encrypted and compared to the
+main file containing the list of all
+the encrypted passwords avail
+able.
+But because the main file was
+on the same machine as the com
+puter users logged onto, once a
+hacker guessed a password, he or
+
+she had essentially cracked the
+code and would have access to all
+the passwords on the Leland sys
+tem.
+To prevent this from happen
+ing, Michael's group put their
+fastest machine to work guessing
+passwords to stay ahead of the
+password crackers. Using a pro
+cedure like the one used by the
+many hackers, the machine
+would enter every word from dic
+tionaries in several languages,
+such as English, Spanish,
+French, Chinese, Japanese, Kore
+an, German, Italian and even
+slang.
+The guess would be encrypted
+and compared to the list of possi
+ble passwords, and if a match
+occurred, the account would be
+frozen and the user would be con
+tacted.
+However, about six months
+ago, a new security system devel
+oped at MIT, known as Kerberos,
+was implemented. Michael said
+the security risk is less now,
+because the file of encrypted pass
+words is no longer stored in the
+same machine as the computer
+
+users log onto.
+His group is also considering a
+password aging scheme, in which
+users would be forced to guess
+new passwords after a certain
+period of time. Passwords are still
+periodically checked, but guide
+lines for e-mail privacy suggest
+that users select passwords that
+are unrelated to the user name,
+not all numbers and not a word in
+any language.
+But much of the unwanted
+access is simply due to users' own
+negligence. Every day, Virnau
+said, there are always several peo
+ple who leave their computers
+without logging out, leaving their
+account open for others to read.
+Some users also give their
+passwords out to friends without
+thinking of the consequences.
+And others simply choose pass
+words that are easily guessed by
+hackers trying to break into the
+system.
+Just another document
+In most other ways though, e
+mail — and any other informa
+tion stored electronically — is
+
+treated as just another document.
+Unlike recorded conversations,
+e-mail is as "discoverable" as files
+stored on paper, according to
+Assoc. University Counsel Robin
+Kennedy.
+During the discovery phase of
+a lawsuit, parties request evi
+dence from each other. Unless a
+certain privilege, such as the
+attorney-client one, allows a
+party to withhold some evidence,
+the party is obliged to present all
+relevant information.
+Since e-mail is so commonly
+used in academic circles,
+Kennedy said that the University
+has presented it as evidence in
+many cases. She cited an anti
+trust suit filed against several Ivy
+League schools for fixing tuition
+prices where e-mail was subpoe
+naed because administrators at
+those institutions often commu
+nicated with each other via e
+mail.
+However, Kennedy said she
+could not recall a single case in
+which Stanford had to obtain a
+subpoena to examine a student's
+e-mail.
+If telephone operators were able to listen
+in and record every phone conversation
+that went through their switchboards,
+most people would probably feel their pri
+vacy was being violated.
+In a similar way though, that is how the
+University's electronic mail system works:
+every message that remains on the network
+for more than 24 hours is recorded and
+then stored for a year, and network admin
+istrators have easy access to these mes
+sages.
+But work has started on implementing
+new systems that will resolve many privacy
+problems, according to Dennis Michael, the
+system administrator for the University's
+e-mail network.
+Three new systems are in development,
+he said, to address three major security
+problems: the issue of backups, administra
+tors' access and password cracking.
+Necessary backups
+The University's e-mail system is de
+signed to make a backup and store mes
+sages for a year — even those that are later
+deleted — that have been on the network
+for more than 24 hours, Michael said.
+It is a necessity, Michael said, because of
+the system's computer format. Occasional
+ly, the data on one or two of the hard disks
+that run the e-mail network are lost each
+year due to events such as power shortages,
+fires and disk failures caused by mechanical
+aging.
+Michael said no exceptions could be
+made for individuals who do not want back
+ups made, because it would be too compli
+cated to ask each one of the 17,000 users if
+
+he or she wanted a backup. Everything is
+automatically copied, regardless of the in
+formation and user, he said.
+Theoretically, he said, someone could
+gain access to e-mail files by going to the
+Center for Educational Research at Stan
+ford, where the backups are stored.
+However, he emphasized that the files
+are very secure — only the system adminis
+trators, the fire department and the police
+department have the authority to access
+the equipment.
+And this summer, he added, a new sys-
+tem will be installed that will
+eliminate the need for backups,
+because the redesigned e-mail
+computer will contain five disk
+drives. The information will be
+written onto the five disks in such
+a way that if one disk were lost, it
+could easily be replaced with one
+of the other disks, he said.
+Staff access to files
+The four members of the
+Leland system's administrative
+staff have complete access to all of
+the e-mail files.
+The e-mail system the Univer
+sity uses was originally intended
+for text processing and document
+preparation, not e-mail, Michael
+said. With the original design, the
+network's "root" users have com
+plete access and control.
+"System administrators are
+generally next to God," said
+Dwayne Virnau, the consulting
+coordinator for academic comput
+
+ing support.
+But a new system, which takes
+out the all-powerful administra
+tive role and only allows users
+access to their files, is in the
+works, though, Michael said.
+However, he added that
+because it is being done through a
+process called encryption —
+which is very technically detailed
+and requires a great deal of the
+system's resources — it may take
+a year or two before the imple
+mentation of the new system.
+In the meantime, though, Uni
+versity regulations require that
+system administrators who
+access an account read only the
+message headers — which con
+tain information such as whom
+the message is from, and the date
+and time the message was
+received — and not the specific
+contents of a message.
+If the administrators need to
+see a file, they must first inform
+the user.
+"I have never read mail and
+make it a point not to read mail
+because I think it is unethical,"
+Michael said, adding that he
+
+would fire anyone on his staff
+caught reading e-mail without
+permission.
+Cracking the password
+The security problem that
+most e-mail users probably hear
+about, though, is password crack
+ing.
+When users initially open
+accounts, they receive a mail file,
+which is a partition of the entire
+computer system's mailbox.
+Access to the mail file and all
+other files in an account is
+restricted to the user, who selects
+a user name and a password.
+Until recently, password
+cracking presented a considerable
+problem, because of the setup of
+the security system, Michael said.
+When a user logged on, the
+password entered would be
+encrypted and compared to the
+main file containing the list of all
+the encrypted passwords avail
+able.
+But because the main file was
+on the same machine as the com
+puter users logged onto, once a
+hacker guessed a password, he or
+
+she had essentially cracked the
+code and would have access to all
+the passwords on the Leland sys
+tem.
+To prevent this from happen
+ing, Michael's group put their
+fastest machine to work guessing
+passwords to stay ahead of the
+password crackers. Using a pro
+cedure like the one used by the
+many hackers, the machine
+would enter every word from dic
+tionaries in several languages,
+such as English, Spanish,
+French, Chinese, Japanese, Kore
+an, German, Italian and even
+slang.
+The guess would be encrypted
+and compared to the list of possi
+ble passwords, and if a match
+occurred, the account would be
+frozen and the user would be con
+tacted.
+However, about six months
+ago, a new security system devel
+oped at MIT, known as Kerberos,
+was implemented. Michael said
+the security risk is less now,
+because the file of encrypted pass
+words is no longer stored in the
+same machine as the computer
+
+users log onto.
+His group is also considering a
+password aging scheme, in which
+users would be forced to guess
+new passwords after a certain
+period of time. Passwords are still
+periodically checked, but guide
+lines for e-mail privacy suggest
+that users select passwords that
+are unrelated to the user name,
+not all numbers and not a word in
+any language.
+But much of the unwanted
+access is simply due to users' own
+negligence. Every day, Virnau
+said, there are always several peo
+ple who leave their computers
+without logging out, leaving their
+account open for others to read.
+Some users also give their
+passwords out to friends without
+thinking of the consequences.
+And others simply choose pass
+words that are easily guessed by
+hackers trying to break into the
+system.
+Just another document
+In most other ways though, e
+mail — and any other informa
+tion stored electronically — is
+
+treated as just another document.
+Unlike recorded conversations,
+e-mail is as "discoverable" as files
+stored on paper, according to
+Assoc. University Counsel Robin
+Kennedy.
+During the discovery phase of
+a lawsuit, parties request evi
+dence from each other. Unless a
+certain privilege, such as the
+attorney-client one, allows a
+party to withhold some evidence,
+the party is obliged to present all
+relevant information.
+Since e-mail is so commonly
+used in academic circles,
+Kennedy said that the University
+has presented it as evidence in
+many cases. She cited an anti
+trust suit filed against several Ivy
+League schools for fixing tuition
+prices where e-mail was subpoe
+naed because administrators at
+those institutions often commu
+nicated with each other via e
+mail.
+However, Kennedy said she
+could not recall a single case in
+which Stanford had to obtain a
+subpoena to examine a student's
+e-mail.
+If telephone operators were able to listen
+in and record every phone conversation
+that went through their switchboards,
+most people would probably feel their pri
+vacy was being violated.
+In a similar way though, that is how the
+University's electronic mail system works:
+every message that remains on the network
+for more than 24 hours is recorded and
+then stored for a year, and network admin
+istrators have easy access to these mes
+sages.
+But work has started on implementing
+new systems that will resolve many privacy
+problems, according to Dennis Michael, the
+system administrator for the University's
+e-mail network.
+Three new systems are in development,
+he said, to address three major security
+problems: the issue of backups, administra
+tors' access and password cracking.
+Necessary backups
+The University's e-mail system is de
+signed to make a backup and store mes
+sages for a year — even those that are later
+deleted — that have been on the network
+for more than 24 hours, Michael said.
+It is a necessity, Michael said, because of
+the system's computer format. Occasional
+ly, the data on one or two of the hard disks
+that run the e-mail network are lost each
+year due to events such as power shortages,
+fires and disk failures caused by mechanical
+aging.
+Michael said no exceptions could be
+made for individuals who do not want back
+ups made, because it would be too compli
+cated to ask each one of the 17,000 users if
+
+he or she wanted a backup. Everything is
+automatically copied, regardless of the in
+formation and user, he said.
+Theoretically, he said, someone could
+gain access to e-mail files by going to the
+Center for Educational Research at Stan
+ford, where the backups are stored.
+However, he emphasized that the files
+are very secure — only the system adminis
+trators, the fire department and the police
+department have the authority to access
+the equipment.
+And this summer, he added, a new sys-
+tem will be installed that will
+eliminate the need for backups,
+because the redesigned e-mail
+computer will contain five disk
+drives. The information will be
+written onto the five disks in such
+a way that if one disk were lost, it
+could easily be replaced with one
+of the other disks, he said.
+Staff access to files
+The four members of the
+Leland system's administrative
+staff have complete access to all of
+the e-mail files.
+The e-mail system the Univer
+sity uses was originally intended
+for text processing and document
+preparation, not e-mail, Michael
+said. With the original design, the
+network's "root" users have com
+plete access and control.
+"System administrators are
+generally next to God," said
+Dwayne Virnau, the consulting
+coordinator for academic comput
+
+ing support.
+But a new system, which takes
+out the all-powerful administra
+tive role and only allows users
+access to their files, is in the
+works, though, Michael said.
+However, he added that
+because it is being done through a
+process called encryption —
+which is very technically detailed
+and requires a great deal of the
+system's resources — it may take
+a year or two before the imple
+mentation of the new system.
+In the meantime, though, Uni
+versity regulations require that
+system administrators who
+access an account read only the
+message headers — which con
+tain information such as whom
+the message is from, and the date
+and time the message was
+received — and not the specific
+contents of a message.
+If the administrators need to
+see a file, they must first inform
+the user.
+"I have never read mail and
+make it a point not to read mail
+because I think it is unethical,"
+Michael said, adding that he
+
+would fire anyone on his staff
+caught reading e-mail without
+permission.
+Cracking the password
+The security problem that
+most e-mail users probably hear
+about, though, is password crack
+ing.
+When users initially open
+accounts, they receive a mail file,
+which is a partition of the entire
+computer system's mailbox.
+Access to the mail file and all
+other files in an account is
+restricted to the user, who selects
+a user name and a password.
+Until recently, password
+cracking presented a considerable
+problem, because of the setup of
+the security system, Michael said.
+When a user logged on, the
+password entered would be
+encrypted and compared to the
+main file containing the list of all
+the encrypted passwords avail
+able.
+But because the main file was
+on the same machine as the com
+puter users logged onto, once a
+hacker guessed a password, he or
+
+she had essentially cracked the
+code and would have access to all
+the passwords on the Leland sys
+tem.
+To prevent this from happen
+ing, Michael's group put their
+fastest machine to work guessing
+passwords to stay ahead of the
+password crackers. Using a pro
+cedure like the one used by the
+many hackers, the machine
+would enter every word from dic
+tionaries in several languages,
+such as English, Spanish,
+French, Chinese, Japanese, Kore
+an, German, Italian and even
+slang.
+The guess would be encrypted
+and compared to the list of possi
+ble passwords, and if a match
+occurred, the account would be
+frozen and the user would be con
+tacted.
+However, about six months
+ago, a new security system devel
+oped at MIT, known as Kerberos,
+was implemented. Michael said
+the security risk is less now,
+because the file of encrypted pass
+words is no longer stored in the
+same machine as the computer
+
+users log onto.
+His group is also considering a
+password aging scheme, in which
+users would be forced to guess
+new passwords after a certain
+period of time. Passwords are still
+periodically checked, but guide
+lines for e-mail privacy suggest
+that users select passwords that
+are unrelated to the user name,
+not all numbers and not a word in
+any language.
+But much of the unwanted
+access is simply due to users' own
+negligence. Every day, Virnau
+said, there are always several peo
+ple who leave their computers
+without logging out, leaving their
+account open for others to read.
+Some users also give their
+passwords out to friends without
+thinking of the consequences.
+And others simply choose pass
+words that are easily guessed by
+hackers trying to break into the
+system.
+Just another document
+In most other ways though, e
+mail — and any other informa
+tion stored electronically — is
+
+treated as just another document.
+Unlike recorded conversations,
+e-mail is as "discoverable" as files
+stored on paper, according to
+Assoc. University Counsel Robin
+Kennedy.
+During the discovery phase of
+a lawsuit, parties request evi
+dence from each other. Unless a
+certain privilege, such as the
+attorney-client one, allows a
+party to withhold some evidence,
+the party is obliged to present all
+relevant information.
+Since e-mail is so commonly
+used in academic circles,
+Kennedy said that the University
+has presented it as evidence in
+many cases. She cited an anti
+trust suit filed against several Ivy
+League schools for fixing tuition
+prices where e-mail was subpoe
+naed because administrators at
+those institutions often commu
+nicated with each other via e
+mail.
+However, Kennedy said she
+could not recall a single case in
+which Stanford had to obtain a
+subpoena to examine a student's
+e-mail.

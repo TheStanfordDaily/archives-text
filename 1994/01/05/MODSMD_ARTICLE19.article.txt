@@ -1,0 +1,1137 @@
+# Science
+## Robotics tournament tests students' smarts National contests next for programmers 
+### Neerad Lai Staff writer 
+It isn't often that you see robots going
+for the gold.
+But one day last month, robots at Cor
+dura Hall went running frantically
+around in a maze in search of the pre
+cious metal.
+"Gimme the gold! Gimme the gold!"
+they yelled squeakily, as they rammed
+into walls and tried to knock down their
+opponents in the Computer Science 224
+robotics tournament.
+The tournament required robots to
+quickly gather gold balloons in a maze
+while competing with opponent robots
+trying to do the same.
+But there was a catch. The robots had
+to find the balloons on their own — with
+out any human interference.
+This competition was the culmination
+
+of months of hard work and program
+ming for students in an introductory
+robotics course last quarter. It allowed
+students to put what they learned to the
+test.
+Perhaps the robotics class does not
+offer students fancy frontier technology,
+but it does let students experience what
+it's like to be a robot and what it takes to
+make one.
+The only pieces of hardware used in
+the class and tournament were some lap
+top computers and a pair of archaic
+"robot units."
+A robot unit is a set of wheels under
+neath infrared sensors used to detect the
+position of the robot. In the class, stu
+dents learn to tailor computer programs
+that control the sensors and the wheels.
+The laptop computer, which stores
+these programs, are fitted into the robot
+unit and serve as the robot's brain.
+The challenge of programming lies in
+allowing the robot to arrive at a goal
+despite the use of limited hardware.
+"(Students) have to be brainy and
+squeeze the most out of the I hardware),"
+said Computer Science Prof. Mike Gene
+sereth, who teaches the class.
+For example, the infrared sensors are
+not always reliable in accurately detect
+ing the robot's position, because rough
+surfaces get measured differently from
+smooth ones, and dark-colored objects
+are gauged differently from light-colored
+ones.
+So, robots can get lost easily and have
+to figure out their locations from scratch.
+In the tournament, they frequently got
+lost in the maze and had to deduce their
+position without knowing where they
+were in the maze.
+How can a robot reorient itself if it's
+miserably lost?
+Genesereth likens the robot to a blind
+man with a cane.
+A robot's perspective
+If a blind man is placed in a random
+spot in a maze, the first thing he must do
+is to poke radially and judge the shape of
+the walls around him. For the robot, its
+"cane" is its sensors.
+The course teaches students a number
+of ways to help robots find themselves
+
+quickly from a random spot and reach a
+desired goal as soon as possible.
+In the beginning, students learn to
+grapple with the archaic infrared sensors
+of the robot.
+Students must first program the robot
+to follow the walls it finds with its "cane."
+Once, a robot with only that capability
+managed to exit the class, follow walls
+into an elevator and end up on another
+floor of the building, Genesereth said.
+In addition to following walls, the
+robot has to be able to detect foreign
+objects, such as a competitor. Depending
+on its strategy, a robot can be pro
+grammed to avoid its enemy or to ram
+into it in a maze, causing a temporary cir
+cuit break in the enemy robot.
+Once the robot gains control of its
+senses and its whereabouts in this way, it
+has to pick up the higher-level skills of
+mapping its environment.
+For the tournament, students were
+allowed to program into the robots a trea
+sure map of the maze to help them locate
+
+gold balloons. But poor sensors still
+remained a problem. Robots easily got
+lost and thus would have to locate them
+selves again within the maze.
+To reorient themselves, robots were
+programmed with several functions. For
+example, a robot would move forward
+until it found an intersection. If the inter
+section was in the shape of a 4 T,' it would
+comb the map for all T* intersections.
+It would then move on to the next inter
+section and find it to be, say, an 'L' inter
+section. The combination of the two inter
+sections would allow the robot to signifi
+cantly reduce its possible locations in the
+map and, with a little more exploration,
+the robot would locate itself precisely.
+In another exercise, the students had
+to make their robots hunt for treasure
+without using a map.
+Another process of logic has to be
+applied in this situation. The students
+programmed the robots to rush out in
+one direction until they reached an
+immobile obstacle — like a wall — in
+
+their path. The obstacle became a mark
+er, and the robots could then move in
+another direction to establish more
+markers and search for the treasure at
+the same time.
+The next step
+Illah Nourbakhsh, a teaching assis
+tant in the class, believes the class is
+unique in that it allows students to work
+with both sensory abilities and mapping
+skills and to figure out how they relate to
+each other.
+Such a background prepares students
+to design more complex autonomous sys
+tems, including everything from eleva
+tors to pilotless aircrafts.
+Nourbakhsh also has helped students
+enter a renowned national robotics com
+petition hosted annually by the American
+Association for Artificial Intelligence.
+Last year, Stanford garnered first
+place in one of three events in the compe
+tition, and hopes to return with an even
+stronger team this year.
+
+
+Erik Jensen — Daily
+Not only did students program their
+robots, but they also gave them a per
+sonality.
+
+
+Erik Jensen — Daily
+Computer Science 224 teaching assistant Diego Ruspini ensures that the robot contestants don't break through the walls of
+the maze. Robots competed against each other to collect the most gold balloons as they traveled through a maze.
+It isn't often that you see robots going
+for the gold.
+But one day last month, robots at Cor
+dura Hall went running frantically
+around in a maze in search of the pre
+cious metal.
+"Gimme the gold! Gimme the gold!"
+they yelled squeakily, as they rammed
+into walls and tried to knock down their
+opponents in the Computer Science 224
+robotics tournament.
+The tournament required robots to
+quickly gather gold balloons in a maze
+while competing with opponent robots
+trying to do the same.
+But there was a catch. The robots had
+to find the balloons on their own — with
+out any human interference.
+This competition was the culmination
+
+of months of hard work and program
+ming for students in an introductory
+robotics course last quarter. It allowed
+students to put what they learned to the
+test.
+Perhaps the robotics class does not
+offer students fancy frontier technology,
+but it does let students experience what
+it's like to be a robot and what it takes to
+make one.
+The only pieces of hardware used in
+the class and tournament were some lap
+top computers and a pair of archaic
+"robot units."
+A robot unit is a set of wheels under
+neath infrared sensors used to detect the
+position of the robot. In the class, stu
+dents learn to tailor computer programs
+that control the sensors and the wheels.
+The laptop computer, which stores
+these programs, are fitted into the robot
+unit and serve as the robot's brain.
+The challenge of programming lies in
+allowing the robot to arrive at a goal
+despite the use of limited hardware.
+"(Students) have to be brainy and
+squeeze the most out of the I hardware),"
+said Computer Science Prof. Mike Gene
+sereth, who teaches the class.
+For example, the infrared sensors are
+not always reliable in accurately detect
+ing the robot's position, because rough
+surfaces get measured differently from
+smooth ones, and dark-colored objects
+are gauged differently from light-colored
+ones.
+So, robots can get lost easily and have
+to figure out their locations from scratch.
+In the tournament, they frequently got
+lost in the maze and had to deduce their
+position without knowing where they
+were in the maze.
+How can a robot reorient itself if it's
+miserably lost?
+Genesereth likens the robot to a blind
+man with a cane.
+A robot's perspective
+If a blind man is placed in a random
+spot in a maze, the first thing he must do
+is to poke radially and judge the shape of
+the walls around him. For the robot, its
+"cane" is its sensors.
+The course teaches students a number
+of ways to help robots find themselves
+
+quickly from a random spot and reach a
+desired goal as soon as possible.
+In the beginning, students learn to
+grapple with the archaic infrared sensors
+of the robot.
+Students must first program the robot
+to follow the walls it finds with its "cane."
+Once, a robot with only that capability
+managed to exit the class, follow walls
+into an elevator and end up on another
+floor of the building, Genesereth said.
+In addition to following walls, the
+robot has to be able to detect foreign
+objects, such as a competitor. Depending
+on its strategy, a robot can be pro
+grammed to avoid its enemy or to ram
+into it in a maze, causing a temporary cir
+cuit break in the enemy robot.
+Once the robot gains control of its
+senses and its whereabouts in this way, it
+has to pick up the higher-level skills of
+mapping its environment.
+For the tournament, students were
+allowed to program into the robots a trea
+sure map of the maze to help them locate
+
+gold balloons. But poor sensors still
+remained a problem. Robots easily got
+lost and thus would have to locate them
+selves again within the maze.
+To reorient themselves, robots were
+programmed with several functions. For
+example, a robot would move forward
+until it found an intersection. If the inter
+section was in the shape of a 4 T,' it would
+comb the map for all T* intersections.
+It would then move on to the next inter
+section and find it to be, say, an 'L' inter
+section. The combination of the two inter
+sections would allow the robot to signifi
+cantly reduce its possible locations in the
+map and, with a little more exploration,
+the robot would locate itself precisely.
+In another exercise, the students had
+to make their robots hunt for treasure
+without using a map.
+Another process of logic has to be
+applied in this situation. The students
+programmed the robots to rush out in
+one direction until they reached an
+immobile obstacle — like a wall — in
+
+their path. The obstacle became a mark
+er, and the robots could then move in
+another direction to establish more
+markers and search for the treasure at
+the same time.
+The next step
+Illah Nourbakhsh, a teaching assis
+tant in the class, believes the class is
+unique in that it allows students to work
+with both sensory abilities and mapping
+skills and to figure out how they relate to
+each other.
+Such a background prepares students
+to design more complex autonomous sys
+tems, including everything from eleva
+tors to pilotless aircrafts.
+Nourbakhsh also has helped students
+enter a renowned national robotics com
+petition hosted annually by the American
+Association for Artificial Intelligence.
+Last year, Stanford garnered first
+place in one of three events in the compe
+tition, and hopes to return with an even
+stronger team this year.
+
+
+Erik Jensen — Daily
+Not only did students program their
+robots, but they also gave them a per
+sonality.
+
+
+Erik Jensen — Daily
+Computer Science 224 teaching assistant Diego Ruspini ensures that the robot contestants don't break through the walls of
+the maze. Robots competed against each other to collect the most gold balloons as they traveled through a maze.
+It isn't often that you see robots going
+for the gold.
+But one day last month, robots at Cor
+dura Hall went running frantically
+around in a maze in search of the pre
+cious metal.
+"Gimme the gold! Gimme the gold!"
+they yelled squeakily, as they rammed
+into walls and tried to knock down their
+opponents in the Computer Science 224
+robotics tournament.
+The tournament required robots to
+quickly gather gold balloons in a maze
+while competing with opponent robots
+trying to do the same.
+But there was a catch. The robots had
+to find the balloons on their own — with
+out any human interference.
+This competition was the culmination
+
+of months of hard work and program
+ming for students in an introductory
+robotics course last quarter. It allowed
+students to put what they learned to the
+test.
+Perhaps the robotics class does not
+offer students fancy frontier technology,
+but it does let students experience what
+it's like to be a robot and what it takes to
+make one.
+The only pieces of hardware used in
+the class and tournament were some lap
+top computers and a pair of archaic
+"robot units."
+A robot unit is a set of wheels under
+neath infrared sensors used to detect the
+position of the robot. In the class, stu
+dents learn to tailor computer programs
+that control the sensors and the wheels.
+The laptop computer, which stores
+these programs, are fitted into the robot
+unit and serve as the robot's brain.
+The challenge of programming lies in
+allowing the robot to arrive at a goal
+despite the use of limited hardware.
+"(Students) have to be brainy and
+squeeze the most out of the I hardware),"
+said Computer Science Prof. Mike Gene
+sereth, who teaches the class.
+For example, the infrared sensors are
+not always reliable in accurately detect
+ing the robot's position, because rough
+surfaces get measured differently from
+smooth ones, and dark-colored objects
+are gauged differently from light-colored
+ones.
+So, robots can get lost easily and have
+to figure out their locations from scratch.
+In the tournament, they frequently got
+lost in the maze and had to deduce their
+position without knowing where they
+were in the maze.
+How can a robot reorient itself if it's
+miserably lost?
+Genesereth likens the robot to a blind
+man with a cane.
+A robot's perspective
+If a blind man is placed in a random
+spot in a maze, the first thing he must do
+is to poke radially and judge the shape of
+the walls around him. For the robot, its
+"cane" is its sensors.
+The course teaches students a number
+of ways to help robots find themselves
+
+quickly from a random spot and reach a
+desired goal as soon as possible.
+In the beginning, students learn to
+grapple with the archaic infrared sensors
+of the robot.
+Students must first program the robot
+to follow the walls it finds with its "cane."
+Once, a robot with only that capability
+managed to exit the class, follow walls
+into an elevator and end up on another
+floor of the building, Genesereth said.
+In addition to following walls, the
+robot has to be able to detect foreign
+objects, such as a competitor. Depending
+on its strategy, a robot can be pro
+grammed to avoid its enemy or to ram
+into it in a maze, causing a temporary cir
+cuit break in the enemy robot.
+Once the robot gains control of its
+senses and its whereabouts in this way, it
+has to pick up the higher-level skills of
+mapping its environment.
+For the tournament, students were
+allowed to program into the robots a trea
+sure map of the maze to help them locate
+
+gold balloons. But poor sensors still
+remained a problem. Robots easily got
+lost and thus would have to locate them
+selves again within the maze.
+To reorient themselves, robots were
+programmed with several functions. For
+example, a robot would move forward
+until it found an intersection. If the inter
+section was in the shape of a 4 T,' it would
+comb the map for all T* intersections.
+It would then move on to the next inter
+section and find it to be, say, an 'L' inter
+section. The combination of the two inter
+sections would allow the robot to signifi
+cantly reduce its possible locations in the
+map and, with a little more exploration,
+the robot would locate itself precisely.
+In another exercise, the students had
+to make their robots hunt for treasure
+without using a map.
+Another process of logic has to be
+applied in this situation. The students
+programmed the robots to rush out in
+one direction until they reached an
+immobile obstacle — like a wall — in
+
+their path. The obstacle became a mark
+er, and the robots could then move in
+another direction to establish more
+markers and search for the treasure at
+the same time.
+The next step
+Illah Nourbakhsh, a teaching assis
+tant in the class, believes the class is
+unique in that it allows students to work
+with both sensory abilities and mapping
+skills and to figure out how they relate to
+each other.
+Such a background prepares students
+to design more complex autonomous sys
+tems, including everything from eleva
+tors to pilotless aircrafts.
+Nourbakhsh also has helped students
+enter a renowned national robotics com
+petition hosted annually by the American
+Association for Artificial Intelligence.
+Last year, Stanford garnered first
+place in one of three events in the compe
+tition, and hopes to return with an even
+stronger team this year.
+
+
+Erik Jensen — Daily
+Not only did students program their
+robots, but they also gave them a per
+sonality.
+
+
+Erik Jensen — Daily
+Computer Science 224 teaching assistant Diego Ruspini ensures that the robot contestants don't break through the walls of
+the maze. Robots competed against each other to collect the most gold balloons as they traveled through a maze.
+It isn't often that you see robots going
+for the gold.
+But one day last month, robots at Cor
+dura Hall went running frantically
+around in a maze in search of the pre
+cious metal.
+"Gimme the gold! Gimme the gold!"
+they yelled squeakily, as they rammed
+into walls and tried to knock down their
+opponents in the Computer Science 224
+robotics tournament.
+The tournament required robots to
+quickly gather gold balloons in a maze
+while competing with opponent robots
+trying to do the same.
+But there was a catch. The robots had
+to find the balloons on their own — with
+out any human interference.
+This competition was the culmination
+
+of months of hard work and program
+ming for students in an introductory
+robotics course last quarter. It allowed
+students to put what they learned to the
+test.
+Perhaps the robotics class does not
+offer students fancy frontier technology,
+but it does let students experience what
+it's like to be a robot and what it takes to
+make one.
+The only pieces of hardware used in
+the class and tournament were some lap
+top computers and a pair of archaic
+"robot units."
+A robot unit is a set of wheels under
+neath infrared sensors used to detect the
+position of the robot. In the class, stu
+dents learn to tailor computer programs
+that control the sensors and the wheels.
+The laptop computer, which stores
+these programs, are fitted into the robot
+unit and serve as the robot's brain.
+The challenge of programming lies in
+allowing the robot to arrive at a goal
+despite the use of limited hardware.
+"(Students) have to be brainy and
+squeeze the most out of the I hardware),"
+said Computer Science Prof. Mike Gene
+sereth, who teaches the class.
+For example, the infrared sensors are
+not always reliable in accurately detect
+ing the robot's position, because rough
+surfaces get measured differently from
+smooth ones, and dark-colored objects
+are gauged differently from light-colored
+ones.
+So, robots can get lost easily and have
+to figure out their locations from scratch.
+In the tournament, they frequently got
+lost in the maze and had to deduce their
+position without knowing where they
+were in the maze.
+How can a robot reorient itself if it's
+miserably lost?
+Genesereth likens the robot to a blind
+man with a cane.
+A robot's perspective
+If a blind man is placed in a random
+spot in a maze, the first thing he must do
+is to poke radially and judge the shape of
+the walls around him. For the robot, its
+"cane" is its sensors.
+The course teaches students a number
+of ways to help robots find themselves
+
+quickly from a random spot and reach a
+desired goal as soon as possible.
+In the beginning, students learn to
+grapple with the archaic infrared sensors
+of the robot.
+Students must first program the robot
+to follow the walls it finds with its "cane."
+Once, a robot with only that capability
+managed to exit the class, follow walls
+into an elevator and end up on another
+floor of the building, Genesereth said.
+In addition to following walls, the
+robot has to be able to detect foreign
+objects, such as a competitor. Depending
+on its strategy, a robot can be pro
+grammed to avoid its enemy or to ram
+into it in a maze, causing a temporary cir
+cuit break in the enemy robot.
+Once the robot gains control of its
+senses and its whereabouts in this way, it
+has to pick up the higher-level skills of
+mapping its environment.
+For the tournament, students were
+allowed to program into the robots a trea
+sure map of the maze to help them locate
+
+gold balloons. But poor sensors still
+remained a problem. Robots easily got
+lost and thus would have to locate them
+selves again within the maze.
+To reorient themselves, robots were
+programmed with several functions. For
+example, a robot would move forward
+until it found an intersection. If the inter
+section was in the shape of a 4 T,' it would
+comb the map for all T* intersections.
+It would then move on to the next inter
+section and find it to be, say, an 'L' inter
+section. The combination of the two inter
+sections would allow the robot to signifi
+cantly reduce its possible locations in the
+map and, with a little more exploration,
+the robot would locate itself precisely.
+In another exercise, the students had
+to make their robots hunt for treasure
+without using a map.
+Another process of logic has to be
+applied in this situation. The students
+programmed the robots to rush out in
+one direction until they reached an
+immobile obstacle — like a wall — in
+
+their path. The obstacle became a mark
+er, and the robots could then move in
+another direction to establish more
+markers and search for the treasure at
+the same time.
+The next step
+Illah Nourbakhsh, a teaching assis
+tant in the class, believes the class is
+unique in that it allows students to work
+with both sensory abilities and mapping
+skills and to figure out how they relate to
+each other.
+Such a background prepares students
+to design more complex autonomous sys
+tems, including everything from eleva
+tors to pilotless aircrafts.
+Nourbakhsh also has helped students
+enter a renowned national robotics com
+petition hosted annually by the American
+Association for Artificial Intelligence.
+Last year, Stanford garnered first
+place in one of three events in the compe
+tition, and hopes to return with an even
+stronger team this year.
+
+
+Erik Jensen — Daily
+Not only did students program their
+robots, but they also gave them a per
+sonality.
+
+
+Erik Jensen — Daily
+Computer Science 224 teaching assistant Diego Ruspini ensures that the robot contestants don't break through the walls of
+the maze. Robots competed against each other to collect the most gold balloons as they traveled through a maze.
+It isn't often that you see robots going
+for the gold.
+But one day last month, robots at Cor
+dura Hall went running frantically
+around in a maze in search of the pre
+cious metal.
+"Gimme the gold! Gimme the gold!"
+they yelled squeakily, as they rammed
+into walls and tried to knock down their
+opponents in the Computer Science 224
+robotics tournament.
+The tournament required robots to
+quickly gather gold balloons in a maze
+while competing with opponent robots
+trying to do the same.
+But there was a catch. The robots had
+to find the balloons on their own — with
+out any human interference.
+This competition was the culmination
+
+of months of hard work and program
+ming for students in an introductory
+robotics course last quarter. It allowed
+students to put what they learned to the
+test.
+Perhaps the robotics class does not
+offer students fancy frontier technology,
+but it does let students experience what
+it's like to be a robot and what it takes to
+make one.
+The only pieces of hardware used in
+the class and tournament were some lap
+top computers and a pair of archaic
+"robot units."
+A robot unit is a set of wheels under
+neath infrared sensors used to detect the
+position of the robot. In the class, stu
+dents learn to tailor computer programs
+that control the sensors and the wheels.
+The laptop computer, which stores
+these programs, are fitted into the robot
+unit and serve as the robot's brain.
+The challenge of programming lies in
+allowing the robot to arrive at a goal
+despite the use of limited hardware.
+"(Students) have to be brainy and
+squeeze the most out of the I hardware),"
+said Computer Science Prof. Mike Gene
+sereth, who teaches the class.
+For example, the infrared sensors are
+not always reliable in accurately detect
+ing the robot's position, because rough
+surfaces get measured differently from
+smooth ones, and dark-colored objects
+are gauged differently from light-colored
+ones.
+So, robots can get lost easily and have
+to figure out their locations from scratch.
+In the tournament, they frequently got
+lost in the maze and had to deduce their
+position without knowing where they
+were in the maze.
+How can a robot reorient itself if it's
+miserably lost?
+Genesereth likens the robot to a blind
+man with a cane.
+A robot's perspective
+If a blind man is placed in a random
+spot in a maze, the first thing he must do
+is to poke radially and judge the shape of
+the walls around him. For the robot, its
+"cane" is its sensors.
+The course teaches students a number
+of ways to help robots find themselves
+
+quickly from a random spot and reach a
+desired goal as soon as possible.
+In the beginning, students learn to
+grapple with the archaic infrared sensors
+of the robot.
+Students must first program the robot
+to follow the walls it finds with its "cane."
+Once, a robot with only that capability
+managed to exit the class, follow walls
+into an elevator and end up on another
+floor of the building, Genesereth said.
+In addition to following walls, the
+robot has to be able to detect foreign
+objects, such as a competitor. Depending
+on its strategy, a robot can be pro
+grammed to avoid its enemy or to ram
+into it in a maze, causing a temporary cir
+cuit break in the enemy robot.
+Once the robot gains control of its
+senses and its whereabouts in this way, it
+has to pick up the higher-level skills of
+mapping its environment.
+For the tournament, students were
+allowed to program into the robots a trea
+sure map of the maze to help them locate
+
+gold balloons. But poor sensors still
+remained a problem. Robots easily got
+lost and thus would have to locate them
+selves again within the maze.
+To reorient themselves, robots were
+programmed with several functions. For
+example, a robot would move forward
+until it found an intersection. If the inter
+section was in the shape of a 4 T,' it would
+comb the map for all T* intersections.
+It would then move on to the next inter
+section and find it to be, say, an 'L' inter
+section. The combination of the two inter
+sections would allow the robot to signifi
+cantly reduce its possible locations in the
+map and, with a little more exploration,
+the robot would locate itself precisely.
+In another exercise, the students had
+to make their robots hunt for treasure
+without using a map.
+Another process of logic has to be
+applied in this situation. The students
+programmed the robots to rush out in
+one direction until they reached an
+immobile obstacle — like a wall — in
+
+their path. The obstacle became a mark
+er, and the robots could then move in
+another direction to establish more
+markers and search for the treasure at
+the same time.
+The next step
+Illah Nourbakhsh, a teaching assis
+tant in the class, believes the class is
+unique in that it allows students to work
+with both sensory abilities and mapping
+skills and to figure out how they relate to
+each other.
+Such a background prepares students
+to design more complex autonomous sys
+tems, including everything from eleva
+tors to pilotless aircrafts.
+Nourbakhsh also has helped students
+enter a renowned national robotics com
+petition hosted annually by the American
+Association for Artificial Intelligence.
+Last year, Stanford garnered first
+place in one of three events in the compe
+tition, and hopes to return with an even
+stronger team this year.
+
+
+Erik Jensen — Daily
+Not only did students program their
+robots, but they also gave them a per
+sonality.
+
+
+Erik Jensen — Daily
+Computer Science 224 teaching assistant Diego Ruspini ensures that the robot contestants don't break through the walls of
+the maze. Robots competed against each other to collect the most gold balloons as they traveled through a maze.
+It isn't often that you see robots going
+for the gold.
+But one day last month, robots at Cor
+dura Hall went running frantically
+around in a maze in search of the pre
+cious metal.
+"Gimme the gold! Gimme the gold!"
+they yelled squeakily, as they rammed
+into walls and tried to knock down their
+opponents in the Computer Science 224
+robotics tournament.
+The tournament required robots to
+quickly gather gold balloons in a maze
+while competing with opponent robots
+trying to do the same.
+But there was a catch. The robots had
+to find the balloons on their own — with
+out any human interference.
+This competition was the culmination
+
+of months of hard work and program
+ming for students in an introductory
+robotics course last quarter. It allowed
+students to put what they learned to the
+test.
+Perhaps the robotics class does not
+offer students fancy frontier technology,
+but it does let students experience what
+it's like to be a robot and what it takes to
+make one.
+The only pieces of hardware used in
+the class and tournament were some lap
+top computers and a pair of archaic
+"robot units."
+A robot unit is a set of wheels under
+neath infrared sensors used to detect the
+position of the robot. In the class, stu
+dents learn to tailor computer programs
+that control the sensors and the wheels.
+The laptop computer, which stores
+these programs, are fitted into the robot
+unit and serve as the robot's brain.
+The challenge of programming lies in
+allowing the robot to arrive at a goal
+despite the use of limited hardware.
+"(Students) have to be brainy and
+squeeze the most out of the I hardware),"
+said Computer Science Prof. Mike Gene
+sereth, who teaches the class.
+For example, the infrared sensors are
+not always reliable in accurately detect
+ing the robot's position, because rough
+surfaces get measured differently from
+smooth ones, and dark-colored objects
+are gauged differently from light-colored
+ones.
+So, robots can get lost easily and have
+to figure out their locations from scratch.
+In the tournament, they frequently got
+lost in the maze and had to deduce their
+position without knowing where they
+were in the maze.
+How can a robot reorient itself if it's
+miserably lost?
+Genesereth likens the robot to a blind
+man with a cane.
+A robot's perspective
+If a blind man is placed in a random
+spot in a maze, the first thing he must do
+is to poke radially and judge the shape of
+the walls around him. For the robot, its
+"cane" is its sensors.
+The course teaches students a number
+of ways to help robots find themselves
+
+quickly from a random spot and reach a
+desired goal as soon as possible.
+In the beginning, students learn to
+grapple with the archaic infrared sensors
+of the robot.
+Students must first program the robot
+to follow the walls it finds with its "cane."
+Once, a robot with only that capability
+managed to exit the class, follow walls
+into an elevator and end up on another
+floor of the building, Genesereth said.
+In addition to following walls, the
+robot has to be able to detect foreign
+objects, such as a competitor. Depending
+on its strategy, a robot can be pro
+grammed to avoid its enemy or to ram
+into it in a maze, causing a temporary cir
+cuit break in the enemy robot.
+Once the robot gains control of its
+senses and its whereabouts in this way, it
+has to pick up the higher-level skills of
+mapping its environment.
+For the tournament, students were
+allowed to program into the robots a trea
+sure map of the maze to help them locate
+
+gold balloons. But poor sensors still
+remained a problem. Robots easily got
+lost and thus would have to locate them
+selves again within the maze.
+To reorient themselves, robots were
+programmed with several functions. For
+example, a robot would move forward
+until it found an intersection. If the inter
+section was in the shape of a 4 T,' it would
+comb the map for all T* intersections.
+It would then move on to the next inter
+section and find it to be, say, an 'L' inter
+section. The combination of the two inter
+sections would allow the robot to signifi
+cantly reduce its possible locations in the
+map and, with a little more exploration,
+the robot would locate itself precisely.
+In another exercise, the students had
+to make their robots hunt for treasure
+without using a map.
+Another process of logic has to be
+applied in this situation. The students
+programmed the robots to rush out in
+one direction until they reached an
+immobile obstacle — like a wall — in
+
+their path. The obstacle became a mark
+er, and the robots could then move in
+another direction to establish more
+markers and search for the treasure at
+the same time.
+The next step
+Illah Nourbakhsh, a teaching assis
+tant in the class, believes the class is
+unique in that it allows students to work
+with both sensory abilities and mapping
+skills and to figure out how they relate to
+each other.
+Such a background prepares students
+to design more complex autonomous sys
+tems, including everything from eleva
+tors to pilotless aircrafts.
+Nourbakhsh also has helped students
+enter a renowned national robotics com
+petition hosted annually by the American
+Association for Artificial Intelligence.
+Last year, Stanford garnered first
+place in one of three events in the compe
+tition, and hopes to return with an even
+stronger team this year.
+
+
+Erik Jensen — Daily
+Not only did students program their
+robots, but they also gave them a per
+sonality.
+
+
+Erik Jensen — Daily
+Computer Science 224 teaching assistant Diego Ruspini ensures that the robot contestants don't break through the walls of
+the maze. Robots competed against each other to collect the most gold balloons as they traveled through a maze.
+It isn't often that you see robots going
+for the gold.
+But one day last month, robots at Cor
+dura Hall went running frantically
+around in a maze in search of the pre
+cious metal.
+"Gimme the gold! Gimme the gold!"
+they yelled squeakily, as they rammed
+into walls and tried to knock down their
+opponents in the Computer Science 224
+robotics tournament.
+The tournament required robots to
+quickly gather gold balloons in a maze
+while competing with opponent robots
+trying to do the same.
+But there was a catch. The robots had
+to find the balloons on their own — with
+out any human interference.
+This competition was the culmination
+
+of months of hard work and program
+ming for students in an introductory
+robotics course last quarter. It allowed
+students to put what they learned to the
+test.
+Perhaps the robotics class does not
+offer students fancy frontier technology,
+but it does let students experience what
+it's like to be a robot and what it takes to
+make one.
+The only pieces of hardware used in
+the class and tournament were some lap
+top computers and a pair of archaic
+"robot units."
+A robot unit is a set of wheels under
+neath infrared sensors used to detect the
+position of the robot. In the class, stu
+dents learn to tailor computer programs
+that control the sensors and the wheels.
+The laptop computer, which stores
+these programs, are fitted into the robot
+unit and serve as the robot's brain.
+The challenge of programming lies in
+allowing the robot to arrive at a goal
+despite the use of limited hardware.
+"(Students) have to be brainy and
+squeeze the most out of the I hardware),"
+said Computer Science Prof. Mike Gene
+sereth, who teaches the class.
+For example, the infrared sensors are
+not always reliable in accurately detect
+ing the robot's position, because rough
+surfaces get measured differently from
+smooth ones, and dark-colored objects
+are gauged differently from light-colored
+ones.
+So, robots can get lost easily and have
+to figure out their locations from scratch.
+In the tournament, they frequently got
+lost in the maze and had to deduce their
+position without knowing where they
+were in the maze.
+How can a robot reorient itself if it's
+miserably lost?
+Genesereth likens the robot to a blind
+man with a cane.
+A robot's perspective
+If a blind man is placed in a random
+spot in a maze, the first thing he must do
+is to poke radially and judge the shape of
+the walls around him. For the robot, its
+"cane" is its sensors.
+The course teaches students a number
+of ways to help robots find themselves
+
+quickly from a random spot and reach a
+desired goal as soon as possible.
+In the beginning, students learn to
+grapple with the archaic infrared sensors
+of the robot.
+Students must first program the robot
+to follow the walls it finds with its "cane."
+Once, a robot with only that capability
+managed to exit the class, follow walls
+into an elevator and end up on another
+floor of the building, Genesereth said.
+In addition to following walls, the
+robot has to be able to detect foreign
+objects, such as a competitor. Depending
+on its strategy, a robot can be pro
+grammed to avoid its enemy or to ram
+into it in a maze, causing a temporary cir
+cuit break in the enemy robot.
+Once the robot gains control of its
+senses and its whereabouts in this way, it
+has to pick up the higher-level skills of
+mapping its environment.
+For the tournament, students were
+allowed to program into the robots a trea
+sure map of the maze to help them locate
+
+gold balloons. But poor sensors still
+remained a problem. Robots easily got
+lost and thus would have to locate them
+selves again within the maze.
+To reorient themselves, robots were
+programmed with several functions. For
+example, a robot would move forward
+until it found an intersection. If the inter
+section was in the shape of a 4 T,' it would
+comb the map for all T* intersections.
+It would then move on to the next inter
+section and find it to be, say, an 'L' inter
+section. The combination of the two inter
+sections would allow the robot to signifi
+cantly reduce its possible locations in the
+map and, with a little more exploration,
+the robot would locate itself precisely.
+In another exercise, the students had
+to make their robots hunt for treasure
+without using a map.
+Another process of logic has to be
+applied in this situation. The students
+programmed the robots to rush out in
+one direction until they reached an
+immobile obstacle — like a wall — in
+
+their path. The obstacle became a mark
+er, and the robots could then move in
+another direction to establish more
+markers and search for the treasure at
+the same time.
+The next step
+Illah Nourbakhsh, a teaching assis
+tant in the class, believes the class is
+unique in that it allows students to work
+with both sensory abilities and mapping
+skills and to figure out how they relate to
+each other.
+Such a background prepares students
+to design more complex autonomous sys
+tems, including everything from eleva
+tors to pilotless aircrafts.
+Nourbakhsh also has helped students
+enter a renowned national robotics com
+petition hosted annually by the American
+Association for Artificial Intelligence.
+Last year, Stanford garnered first
+place in one of three events in the compe
+tition, and hopes to return with an even
+stronger team this year.
+
+
+Erik Jensen — Daily
+Not only did students program their
+robots, but they also gave them a per
+sonality.
+
+
+Erik Jensen — Daily
+Computer Science 224 teaching assistant Diego Ruspini ensures that the robot contestants don't break through the walls of
+the maze. Robots competed against each other to collect the most gold balloons as they traveled through a maze.

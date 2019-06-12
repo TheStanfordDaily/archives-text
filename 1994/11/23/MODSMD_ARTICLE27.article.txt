@@ -1,0 +1,990 @@
+# Tiny satellite may gather data in space
+## Picosats would measure solar and atmospheric phenomena 
+### Jeremy Thibeaux 
+Imagine a satellite that gathers informa
+tion in the outer reaches of earth's atmo
+sphere yet still fits in the palm of your hand.
+This vision could become a reality at
+Stanford as graduate students in the
+Department of Aeronautics .and Astronau
+tics are crafting a satellite the size of a silver
+dollar as part of a course in miniature space
+craft design.
+Jet Propulsion Laboratories (JPL) in Los
+Angeles has commissioned the project as a
+response to NASA's interest in smaller
+spacecraft. The growing interest reflects the
+space agency's need to downsize in the face
+of budget cuts.
+"What JPL discovered was that none of
+their labs had ever worked on a satellite so
+small," said Tom Kenny, assistant professor
+of mechanical engineering. "They wanted to
+get a fresh perspective," he added.
+The design effort, headed by Kenny and
+Prof. Robert Twiggs, director of the Satel
+lite Systems Development Laboratory,
+hinges on the work of several graduate stu
+dents. "We have always envisioned the
+picosat [miniature satellite] to be shaped
+like a hockey puck," explained Jason Such
+man, a graduate student working on the
+project.
+Weighing approximately 20 grams, this
+satellite—called a picosat or free flying mag
+netometer — will be used to measure mag
+netic field intensities at various points in
+the magnetosphere, the outer reaches of the
+ionosphere where the earth's magnetic field
+controls the motion of charged particles.
+However, Twiggs said that actual con
+struction of the satellites has not started
+yet. "We won't start with this class,. . . but
+we may be able to build a prototype picosat
+in the spring," he explained.
+A thousand of these 'baby' silver dollar
+satellites will be transported into the atmo
+sphere inside the 100 kilogram 'mother'
+satellite; the picosats will be released in
+groups of 10 at different times during the
+carrier satellite's orbit. They will supply a
+three-dimensional picture of the earth's
+magnetic field to scientists on earth.
+Although the mother satellite may be in
+orbit for one or two years, the picosats will
+only take readings of the magnetic field at
+specified times. "At other times, it [the moth
+er satellite] will be orbiting, waiting to mea
+sure an event like a solar flare," Twiggs said.
+The mother satellite remains in highly
+elliptical orbit around the earth, receives
+data transmissions from the picosats, and
+transmits the data back to earth when the
+satellite is within range of the planet.
+The miniature satellites would travel
+tens of kilometers from the 'mother,' and
+gather data for 10 hours before burning up
+in the earth's atmosphere.
+To address the different aspects of satel
+lite design, the students divided into sever
+al teams studying issues of power, commu
+nications, space environment, electronics,
+launch dynamics, attitude dynamics, and
+materials.
+
+Although they are still being developed,
+solid-state, thin-film batteries may be the
+optimal power source; they are small with a
+relatively high energy density and an
+acceptable operating temperature range.
+Most of the alternatives are either too
+bulky, lack enough output, have too narrow
+an operating temperature, or are sensitive
+to lack of sunlight.
+A one-way communication link will carry
+approximately 20 to 200 bytes per second
+between the picosat and the mother satel
+lite. After researching several possibilities
+for the link, the student team selected radio
+communication as the best alternative.
+The electronics group devised a scheme to
+use thin, circular wafers for all of the cir
+cuitry. These wafers would be integrated
+with the thin-film batteries, which could
+also be molded into the circular wafer shape.
+Under the current design, the picosat will
+be deployed from the mother satellite with a
+spinning motion. The picosat will spin away
+from the mother satellite with only one face
+directed towards the carrier at all times.
+The spinning motion gives the picosat a
+more stable flight in much the same way a
+spinning top stays upright. If the picosat
+becomes disoriented by a small particle
+floating in space, it may return to face its
+original direction due to the torque supplied
+by the spin.
+Since one face of the picosat is always
+
+directed at the mother satellite, a more
+focused radio frequency antenna can reduce
+the amount of power required by the trans
+mitter.
+The research team developed two plau
+sible designs for the picosat launching
+mechanism. In one method, a turntable
+starts the satellite spinning, then the satel
+lite is ejected after achieving the desired
+rotation speed. The other design uses a
+motor and a worm gear, or a threaded
+cylindrical rod, to supply a spinning push
+to the satellite.
+After the picosats are released from the
+mother, they must maintain attitude, or
+flight stability. The spinning motion
+imparted to the miniature satellite during
+the launch may be sufficient to keep it sta
+ble during flight; the picosat may not be eas
+ily manipulated, or its attitude easily con
+trolled, after its ejection form the mother.
+Kenny, Twiggs, and the students work
+ing on the free flying magnetometer project
+traveled to Los Angeles last Friday, Novem
+ber 18, where the students presented their
+ideas to JPL.
+"This was an exploratory visit [to JPL],"
+Twiggs said. "The students were able to
+visit with scientists interested in the project
+to get more explicit details on what would be
+acceptable data," he added. The students
+will head south again on December 9 with
+revised plans for the satellite project.
+
+
+Andrew Martinez-Fonts — Daily
+Imagine a satellite that gathers informa
+tion in the outer reaches of earth's atmo
+sphere yet still fits in the palm of your hand.
+This vision could become a reality at
+Stanford as graduate students in the
+Department of Aeronautics .and Astronau
+tics are crafting a satellite the size of a silver
+dollar as part of a course in miniature space
+craft design.
+Jet Propulsion Laboratories (JPL) in Los
+Angeles has commissioned the project as a
+response to NASA's interest in smaller
+spacecraft. The growing interest reflects the
+space agency's need to downsize in the face
+of budget cuts.
+"What JPL discovered was that none of
+their labs had ever worked on a satellite so
+small," said Tom Kenny, assistant professor
+of mechanical engineering. "They wanted to
+get a fresh perspective," he added.
+The design effort, headed by Kenny and
+Prof. Robert Twiggs, director of the Satel
+lite Systems Development Laboratory,
+hinges on the work of several graduate stu
+dents. "We have always envisioned the
+picosat [miniature satellite] to be shaped
+like a hockey puck," explained Jason Such
+man, a graduate student working on the
+project.
+Weighing approximately 20 grams, this
+satellite—called a picosat or free flying mag
+netometer — will be used to measure mag
+netic field intensities at various points in
+the magnetosphere, the outer reaches of the
+ionosphere where the earth's magnetic field
+controls the motion of charged particles.
+However, Twiggs said that actual con
+struction of the satellites has not started
+yet. "We won't start with this class,. . . but
+we may be able to build a prototype picosat
+in the spring," he explained.
+A thousand of these 'baby' silver dollar
+satellites will be transported into the atmo
+sphere inside the 100 kilogram 'mother'
+satellite; the picosats will be released in
+groups of 10 at different times during the
+carrier satellite's orbit. They will supply a
+three-dimensional picture of the earth's
+magnetic field to scientists on earth.
+Although the mother satellite may be in
+orbit for one or two years, the picosats will
+only take readings of the magnetic field at
+specified times. "At other times, it [the moth
+er satellite] will be orbiting, waiting to mea
+sure an event like a solar flare," Twiggs said.
+The mother satellite remains in highly
+elliptical orbit around the earth, receives
+data transmissions from the picosats, and
+transmits the data back to earth when the
+satellite is within range of the planet.
+The miniature satellites would travel
+tens of kilometers from the 'mother,' and
+gather data for 10 hours before burning up
+in the earth's atmosphere.
+To address the different aspects of satel
+lite design, the students divided into sever
+al teams studying issues of power, commu
+nications, space environment, electronics,
+launch dynamics, attitude dynamics, and
+materials.
+
+Although they are still being developed,
+solid-state, thin-film batteries may be the
+optimal power source; they are small with a
+relatively high energy density and an
+acceptable operating temperature range.
+Most of the alternatives are either too
+bulky, lack enough output, have too narrow
+an operating temperature, or are sensitive
+to lack of sunlight.
+A one-way communication link will carry
+approximately 20 to 200 bytes per second
+between the picosat and the mother satel
+lite. After researching several possibilities
+for the link, the student team selected radio
+communication as the best alternative.
+The electronics group devised a scheme to
+use thin, circular wafers for all of the cir
+cuitry. These wafers would be integrated
+with the thin-film batteries, which could
+also be molded into the circular wafer shape.
+Under the current design, the picosat will
+be deployed from the mother satellite with a
+spinning motion. The picosat will spin away
+from the mother satellite with only one face
+directed towards the carrier at all times.
+The spinning motion gives the picosat a
+more stable flight in much the same way a
+spinning top stays upright. If the picosat
+becomes disoriented by a small particle
+floating in space, it may return to face its
+original direction due to the torque supplied
+by the spin.
+Since one face of the picosat is always
+
+directed at the mother satellite, a more
+focused radio frequency antenna can reduce
+the amount of power required by the trans
+mitter.
+The research team developed two plau
+sible designs for the picosat launching
+mechanism. In one method, a turntable
+starts the satellite spinning, then the satel
+lite is ejected after achieving the desired
+rotation speed. The other design uses a
+motor and a worm gear, or a threaded
+cylindrical rod, to supply a spinning push
+to the satellite.
+After the picosats are released from the
+mother, they must maintain attitude, or
+flight stability. The spinning motion
+imparted to the miniature satellite during
+the launch may be sufficient to keep it sta
+ble during flight; the picosat may not be eas
+ily manipulated, or its attitude easily con
+trolled, after its ejection form the mother.
+Kenny, Twiggs, and the students work
+ing on the free flying magnetometer project
+traveled to Los Angeles last Friday, Novem
+ber 18, where the students presented their
+ideas to JPL.
+"This was an exploratory visit [to JPL],"
+Twiggs said. "The students were able to
+visit with scientists interested in the project
+to get more explicit details on what would be
+acceptable data," he added. The students
+will head south again on December 9 with
+revised plans for the satellite project.
+
+
+Andrew Martinez-Fonts — Daily
+Imagine a satellite that gathers informa
+tion in the outer reaches of earth's atmo
+sphere yet still fits in the palm of your hand.
+This vision could become a reality at
+Stanford as graduate students in the
+Department of Aeronautics .and Astronau
+tics are crafting a satellite the size of a silver
+dollar as part of a course in miniature space
+craft design.
+Jet Propulsion Laboratories (JPL) in Los
+Angeles has commissioned the project as a
+response to NASA's interest in smaller
+spacecraft. The growing interest reflects the
+space agency's need to downsize in the face
+of budget cuts.
+"What JPL discovered was that none of
+their labs had ever worked on a satellite so
+small," said Tom Kenny, assistant professor
+of mechanical engineering. "They wanted to
+get a fresh perspective," he added.
+The design effort, headed by Kenny and
+Prof. Robert Twiggs, director of the Satel
+lite Systems Development Laboratory,
+hinges on the work of several graduate stu
+dents. "We have always envisioned the
+picosat [miniature satellite] to be shaped
+like a hockey puck," explained Jason Such
+man, a graduate student working on the
+project.
+Weighing approximately 20 grams, this
+satellite—called a picosat or free flying mag
+netometer — will be used to measure mag
+netic field intensities at various points in
+the magnetosphere, the outer reaches of the
+ionosphere where the earth's magnetic field
+controls the motion of charged particles.
+However, Twiggs said that actual con
+struction of the satellites has not started
+yet. "We won't start with this class,. . . but
+we may be able to build a prototype picosat
+in the spring," he explained.
+A thousand of these 'baby' silver dollar
+satellites will be transported into the atmo
+sphere inside the 100 kilogram 'mother'
+satellite; the picosats will be released in
+groups of 10 at different times during the
+carrier satellite's orbit. They will supply a
+three-dimensional picture of the earth's
+magnetic field to scientists on earth.
+Although the mother satellite may be in
+orbit for one or two years, the picosats will
+only take readings of the magnetic field at
+specified times. "At other times, it [the moth
+er satellite] will be orbiting, waiting to mea
+sure an event like a solar flare," Twiggs said.
+The mother satellite remains in highly
+elliptical orbit around the earth, receives
+data transmissions from the picosats, and
+transmits the data back to earth when the
+satellite is within range of the planet.
+The miniature satellites would travel
+tens of kilometers from the 'mother,' and
+gather data for 10 hours before burning up
+in the earth's atmosphere.
+To address the different aspects of satel
+lite design, the students divided into sever
+al teams studying issues of power, commu
+nications, space environment, electronics,
+launch dynamics, attitude dynamics, and
+materials.
+
+Although they are still being developed,
+solid-state, thin-film batteries may be the
+optimal power source; they are small with a
+relatively high energy density and an
+acceptable operating temperature range.
+Most of the alternatives are either too
+bulky, lack enough output, have too narrow
+an operating temperature, or are sensitive
+to lack of sunlight.
+A one-way communication link will carry
+approximately 20 to 200 bytes per second
+between the picosat and the mother satel
+lite. After researching several possibilities
+for the link, the student team selected radio
+communication as the best alternative.
+The electronics group devised a scheme to
+use thin, circular wafers for all of the cir
+cuitry. These wafers would be integrated
+with the thin-film batteries, which could
+also be molded into the circular wafer shape.
+Under the current design, the picosat will
+be deployed from the mother satellite with a
+spinning motion. The picosat will spin away
+from the mother satellite with only one face
+directed towards the carrier at all times.
+The spinning motion gives the picosat a
+more stable flight in much the same way a
+spinning top stays upright. If the picosat
+becomes disoriented by a small particle
+floating in space, it may return to face its
+original direction due to the torque supplied
+by the spin.
+Since one face of the picosat is always
+
+directed at the mother satellite, a more
+focused radio frequency antenna can reduce
+the amount of power required by the trans
+mitter.
+The research team developed two plau
+sible designs for the picosat launching
+mechanism. In one method, a turntable
+starts the satellite spinning, then the satel
+lite is ejected after achieving the desired
+rotation speed. The other design uses a
+motor and a worm gear, or a threaded
+cylindrical rod, to supply a spinning push
+to the satellite.
+After the picosats are released from the
+mother, they must maintain attitude, or
+flight stability. The spinning motion
+imparted to the miniature satellite during
+the launch may be sufficient to keep it sta
+ble during flight; the picosat may not be eas
+ily manipulated, or its attitude easily con
+trolled, after its ejection form the mother.
+Kenny, Twiggs, and the students work
+ing on the free flying magnetometer project
+traveled to Los Angeles last Friday, Novem
+ber 18, where the students presented their
+ideas to JPL.
+"This was an exploratory visit [to JPL],"
+Twiggs said. "The students were able to
+visit with scientists interested in the project
+to get more explicit details on what would be
+acceptable data," he added. The students
+will head south again on December 9 with
+revised plans for the satellite project.
+
+
+Andrew Martinez-Fonts — Daily
+Imagine a satellite that gathers informa
+tion in the outer reaches of earth's atmo
+sphere yet still fits in the palm of your hand.
+This vision could become a reality at
+Stanford as graduate students in the
+Department of Aeronautics .and Astronau
+tics are crafting a satellite the size of a silver
+dollar as part of a course in miniature space
+craft design.
+Jet Propulsion Laboratories (JPL) in Los
+Angeles has commissioned the project as a
+response to NASA's interest in smaller
+spacecraft. The growing interest reflects the
+space agency's need to downsize in the face
+of budget cuts.
+"What JPL discovered was that none of
+their labs had ever worked on a satellite so
+small," said Tom Kenny, assistant professor
+of mechanical engineering. "They wanted to
+get a fresh perspective," he added.
+The design effort, headed by Kenny and
+Prof. Robert Twiggs, director of the Satel
+lite Systems Development Laboratory,
+hinges on the work of several graduate stu
+dents. "We have always envisioned the
+picosat [miniature satellite] to be shaped
+like a hockey puck," explained Jason Such
+man, a graduate student working on the
+project.
+Weighing approximately 20 grams, this
+satellite—called a picosat or free flying mag
+netometer — will be used to measure mag
+netic field intensities at various points in
+the magnetosphere, the outer reaches of the
+ionosphere where the earth's magnetic field
+controls the motion of charged particles.
+However, Twiggs said that actual con
+struction of the satellites has not started
+yet. "We won't start with this class,. . . but
+we may be able to build a prototype picosat
+in the spring," he explained.
+A thousand of these 'baby' silver dollar
+satellites will be transported into the atmo
+sphere inside the 100 kilogram 'mother'
+satellite; the picosats will be released in
+groups of 10 at different times during the
+carrier satellite's orbit. They will supply a
+three-dimensional picture of the earth's
+magnetic field to scientists on earth.
+Although the mother satellite may be in
+orbit for one or two years, the picosats will
+only take readings of the magnetic field at
+specified times. "At other times, it [the moth
+er satellite] will be orbiting, waiting to mea
+sure an event like a solar flare," Twiggs said.
+The mother satellite remains in highly
+elliptical orbit around the earth, receives
+data transmissions from the picosats, and
+transmits the data back to earth when the
+satellite is within range of the planet.
+The miniature satellites would travel
+tens of kilometers from the 'mother,' and
+gather data for 10 hours before burning up
+in the earth's atmosphere.
+To address the different aspects of satel
+lite design, the students divided into sever
+al teams studying issues of power, commu
+nications, space environment, electronics,
+launch dynamics, attitude dynamics, and
+materials.
+
+Although they are still being developed,
+solid-state, thin-film batteries may be the
+optimal power source; they are small with a
+relatively high energy density and an
+acceptable operating temperature range.
+Most of the alternatives are either too
+bulky, lack enough output, have too narrow
+an operating temperature, or are sensitive
+to lack of sunlight.
+A one-way communication link will carry
+approximately 20 to 200 bytes per second
+between the picosat and the mother satel
+lite. After researching several possibilities
+for the link, the student team selected radio
+communication as the best alternative.
+The electronics group devised a scheme to
+use thin, circular wafers for all of the cir
+cuitry. These wafers would be integrated
+with the thin-film batteries, which could
+also be molded into the circular wafer shape.
+Under the current design, the picosat will
+be deployed from the mother satellite with a
+spinning motion. The picosat will spin away
+from the mother satellite with only one face
+directed towards the carrier at all times.
+The spinning motion gives the picosat a
+more stable flight in much the same way a
+spinning top stays upright. If the picosat
+becomes disoriented by a small particle
+floating in space, it may return to face its
+original direction due to the torque supplied
+by the spin.
+Since one face of the picosat is always
+
+directed at the mother satellite, a more
+focused radio frequency antenna can reduce
+the amount of power required by the trans
+mitter.
+The research team developed two plau
+sible designs for the picosat launching
+mechanism. In one method, a turntable
+starts the satellite spinning, then the satel
+lite is ejected after achieving the desired
+rotation speed. The other design uses a
+motor and a worm gear, or a threaded
+cylindrical rod, to supply a spinning push
+to the satellite.
+After the picosats are released from the
+mother, they must maintain attitude, or
+flight stability. The spinning motion
+imparted to the miniature satellite during
+the launch may be sufficient to keep it sta
+ble during flight; the picosat may not be eas
+ily manipulated, or its attitude easily con
+trolled, after its ejection form the mother.
+Kenny, Twiggs, and the students work
+ing on the free flying magnetometer project
+traveled to Los Angeles last Friday, Novem
+ber 18, where the students presented their
+ideas to JPL.
+"This was an exploratory visit [to JPL],"
+Twiggs said. "The students were able to
+visit with scientists interested in the project
+to get more explicit details on what would be
+acceptable data," he added. The students
+will head south again on December 9 with
+revised plans for the satellite project.
+
+
+Andrew Martinez-Fonts — Daily
+Imagine a satellite that gathers informa
+tion in the outer reaches of earth's atmo
+sphere yet still fits in the palm of your hand.
+This vision could become a reality at
+Stanford as graduate students in the
+Department of Aeronautics .and Astronau
+tics are crafting a satellite the size of a silver
+dollar as part of a course in miniature space
+craft design.
+Jet Propulsion Laboratories (JPL) in Los
+Angeles has commissioned the project as a
+response to NASA's interest in smaller
+spacecraft. The growing interest reflects the
+space agency's need to downsize in the face
+of budget cuts.
+"What JPL discovered was that none of
+their labs had ever worked on a satellite so
+small," said Tom Kenny, assistant professor
+of mechanical engineering. "They wanted to
+get a fresh perspective," he added.
+The design effort, headed by Kenny and
+Prof. Robert Twiggs, director of the Satel
+lite Systems Development Laboratory,
+hinges on the work of several graduate stu
+dents. "We have always envisioned the
+picosat [miniature satellite] to be shaped
+like a hockey puck," explained Jason Such
+man, a graduate student working on the
+project.
+Weighing approximately 20 grams, this
+satellite—called a picosat or free flying mag
+netometer — will be used to measure mag
+netic field intensities at various points in
+the magnetosphere, the outer reaches of the
+ionosphere where the earth's magnetic field
+controls the motion of charged particles.
+However, Twiggs said that actual con
+struction of the satellites has not started
+yet. "We won't start with this class,. . . but
+we may be able to build a prototype picosat
+in the spring," he explained.
+A thousand of these 'baby' silver dollar
+satellites will be transported into the atmo
+sphere inside the 100 kilogram 'mother'
+satellite; the picosats will be released in
+groups of 10 at different times during the
+carrier satellite's orbit. They will supply a
+three-dimensional picture of the earth's
+magnetic field to scientists on earth.
+Although the mother satellite may be in
+orbit for one or two years, the picosats will
+only take readings of the magnetic field at
+specified times. "At other times, it [the moth
+er satellite] will be orbiting, waiting to mea
+sure an event like a solar flare," Twiggs said.
+The mother satellite remains in highly
+elliptical orbit around the earth, receives
+data transmissions from the picosats, and
+transmits the data back to earth when the
+satellite is within range of the planet.
+The miniature satellites would travel
+tens of kilometers from the 'mother,' and
+gather data for 10 hours before burning up
+in the earth's atmosphere.
+To address the different aspects of satel
+lite design, the students divided into sever
+al teams studying issues of power, commu
+nications, space environment, electronics,
+launch dynamics, attitude dynamics, and
+materials.
+
+Although they are still being developed,
+solid-state, thin-film batteries may be the
+optimal power source; they are small with a
+relatively high energy density and an
+acceptable operating temperature range.
+Most of the alternatives are either too
+bulky, lack enough output, have too narrow
+an operating temperature, or are sensitive
+to lack of sunlight.
+A one-way communication link will carry
+approximately 20 to 200 bytes per second
+between the picosat and the mother satel
+lite. After researching several possibilities
+for the link, the student team selected radio
+communication as the best alternative.
+The electronics group devised a scheme to
+use thin, circular wafers for all of the cir
+cuitry. These wafers would be integrated
+with the thin-film batteries, which could
+also be molded into the circular wafer shape.
+Under the current design, the picosat will
+be deployed from the mother satellite with a
+spinning motion. The picosat will spin away
+from the mother satellite with only one face
+directed towards the carrier at all times.
+The spinning motion gives the picosat a
+more stable flight in much the same way a
+spinning top stays upright. If the picosat
+becomes disoriented by a small particle
+floating in space, it may return to face its
+original direction due to the torque supplied
+by the spin.
+Since one face of the picosat is always
+
+directed at the mother satellite, a more
+focused radio frequency antenna can reduce
+the amount of power required by the trans
+mitter.
+The research team developed two plau
+sible designs for the picosat launching
+mechanism. In one method, a turntable
+starts the satellite spinning, then the satel
+lite is ejected after achieving the desired
+rotation speed. The other design uses a
+motor and a worm gear, or a threaded
+cylindrical rod, to supply a spinning push
+to the satellite.
+After the picosats are released from the
+mother, they must maintain attitude, or
+flight stability. The spinning motion
+imparted to the miniature satellite during
+the launch may be sufficient to keep it sta
+ble during flight; the picosat may not be eas
+ily manipulated, or its attitude easily con
+trolled, after its ejection form the mother.
+Kenny, Twiggs, and the students work
+ing on the free flying magnetometer project
+traveled to Los Angeles last Friday, Novem
+ber 18, where the students presented their
+ideas to JPL.
+"This was an exploratory visit [to JPL],"
+Twiggs said. "The students were able to
+visit with scientists interested in the project
+to get more explicit details on what would be
+acceptable data," he added. The students
+will head south again on December 9 with
+revised plans for the satellite project.
+
+
+Andrew Martinez-Fonts — Daily
+Imagine a satellite that gathers informa
+tion in the outer reaches of earth's atmo
+sphere yet still fits in the palm of your hand.
+This vision could become a reality at
+Stanford as graduate students in the
+Department of Aeronautics .and Astronau
+tics are crafting a satellite the size of a silver
+dollar as part of a course in miniature space
+craft design.
+Jet Propulsion Laboratories (JPL) in Los
+Angeles has commissioned the project as a
+response to NASA's interest in smaller
+spacecraft. The growing interest reflects the
+space agency's need to downsize in the face
+of budget cuts.
+"What JPL discovered was that none of
+their labs had ever worked on a satellite so
+small," said Tom Kenny, assistant professor
+of mechanical engineering. "They wanted to
+get a fresh perspective," he added.
+The design effort, headed by Kenny and
+Prof. Robert Twiggs, director of the Satel
+lite Systems Development Laboratory,
+hinges on the work of several graduate stu
+dents. "We have always envisioned the
+picosat [miniature satellite] to be shaped
+like a hockey puck," explained Jason Such
+man, a graduate student working on the
+project.
+Weighing approximately 20 grams, this
+satellite—called a picosat or free flying mag
+netometer — will be used to measure mag
+netic field intensities at various points in
+the magnetosphere, the outer reaches of the
+ionosphere where the earth's magnetic field
+controls the motion of charged particles.
+However, Twiggs said that actual con
+struction of the satellites has not started
+yet. "We won't start with this class,. . . but
+we may be able to build a prototype picosat
+in the spring," he explained.
+A thousand of these 'baby' silver dollar
+satellites will be transported into the atmo
+sphere inside the 100 kilogram 'mother'
+satellite; the picosats will be released in
+groups of 10 at different times during the
+carrier satellite's orbit. They will supply a
+three-dimensional picture of the earth's
+magnetic field to scientists on earth.
+Although the mother satellite may be in
+orbit for one or two years, the picosats will
+only take readings of the magnetic field at
+specified times. "At other times, it [the moth
+er satellite] will be orbiting, waiting to mea
+sure an event like a solar flare," Twiggs said.
+The mother satellite remains in highly
+elliptical orbit around the earth, receives
+data transmissions from the picosats, and
+transmits the data back to earth when the
+satellite is within range of the planet.
+The miniature satellites would travel
+tens of kilometers from the 'mother,' and
+gather data for 10 hours before burning up
+in the earth's atmosphere.
+To address the different aspects of satel
+lite design, the students divided into sever
+al teams studying issues of power, commu
+nications, space environment, electronics,
+launch dynamics, attitude dynamics, and
+materials.
+
+Although they are still being developed,
+solid-state, thin-film batteries may be the
+optimal power source; they are small with a
+relatively high energy density and an
+acceptable operating temperature range.
+Most of the alternatives are either too
+bulky, lack enough output, have too narrow
+an operating temperature, or are sensitive
+to lack of sunlight.
+A one-way communication link will carry
+approximately 20 to 200 bytes per second
+between the picosat and the mother satel
+lite. After researching several possibilities
+for the link, the student team selected radio
+communication as the best alternative.
+The electronics group devised a scheme to
+use thin, circular wafers for all of the cir
+cuitry. These wafers would be integrated
+with the thin-film batteries, which could
+also be molded into the circular wafer shape.
+Under the current design, the picosat will
+be deployed from the mother satellite with a
+spinning motion. The picosat will spin away
+from the mother satellite with only one face
+directed towards the carrier at all times.
+The spinning motion gives the picosat a
+more stable flight in much the same way a
+spinning top stays upright. If the picosat
+becomes disoriented by a small particle
+floating in space, it may return to face its
+original direction due to the torque supplied
+by the spin.
+Since one face of the picosat is always
+
+directed at the mother satellite, a more
+focused radio frequency antenna can reduce
+the amount of power required by the trans
+mitter.
+The research team developed two plau
+sible designs for the picosat launching
+mechanism. In one method, a turntable
+starts the satellite spinning, then the satel
+lite is ejected after achieving the desired
+rotation speed. The other design uses a
+motor and a worm gear, or a threaded
+cylindrical rod, to supply a spinning push
+to the satellite.
+After the picosats are released from the
+mother, they must maintain attitude, or
+flight stability. The spinning motion
+imparted to the miniature satellite during
+the launch may be sufficient to keep it sta
+ble during flight; the picosat may not be eas
+ily manipulated, or its attitude easily con
+trolled, after its ejection form the mother.
+Kenny, Twiggs, and the students work
+ing on the free flying magnetometer project
+traveled to Los Angeles last Friday, Novem
+ber 18, where the students presented their
+ideas to JPL.
+"This was an exploratory visit [to JPL],"
+Twiggs said. "The students were able to
+visit with scientists interested in the project
+to get more explicit details on what would be
+acceptable data," he added. The students
+will head south again on December 9 with
+revised plans for the satellite project.
+
+
+Andrew Martinez-Fonts — Daily
+Imagine a satellite that gathers informa
+tion in the outer reaches of earth's atmo
+sphere yet still fits in the palm of your hand.
+This vision could become a reality at
+Stanford as graduate students in the
+Department of Aeronautics .and Astronau
+tics are crafting a satellite the size of a silver
+dollar as part of a course in miniature space
+craft design.
+Jet Propulsion Laboratories (JPL) in Los
+Angeles has commissioned the project as a
+response to NASA's interest in smaller
+spacecraft. The growing interest reflects the
+space agency's need to downsize in the face
+of budget cuts.
+"What JPL discovered was that none of
+their labs had ever worked on a satellite so
+small," said Tom Kenny, assistant professor
+of mechanical engineering. "They wanted to
+get a fresh perspective," he added.
+The design effort, headed by Kenny and
+Prof. Robert Twiggs, director of the Satel
+lite Systems Development Laboratory,
+hinges on the work of several graduate stu
+dents. "We have always envisioned the
+picosat [miniature satellite] to be shaped
+like a hockey puck," explained Jason Such
+man, a graduate student working on the
+project.
+Weighing approximately 20 grams, this
+satellite—called a picosat or free flying mag
+netometer — will be used to measure mag
+netic field intensities at various points in
+the magnetosphere, the outer reaches of the
+ionosphere where the earth's magnetic field
+controls the motion of charged particles.
+However, Twiggs said that actual con
+struction of the satellites has not started
+yet. "We won't start with this class,. . . but
+we may be able to build a prototype picosat
+in the spring," he explained.
+A thousand of these 'baby' silver dollar
+satellites will be transported into the atmo
+sphere inside the 100 kilogram 'mother'
+satellite; the picosats will be released in
+groups of 10 at different times during the
+carrier satellite's orbit. They will supply a
+three-dimensional picture of the earth's
+magnetic field to scientists on earth.
+Although the mother satellite may be in
+orbit for one or two years, the picosats will
+only take readings of the magnetic field at
+specified times. "At other times, it [the moth
+er satellite] will be orbiting, waiting to mea
+sure an event like a solar flare," Twiggs said.
+The mother satellite remains in highly
+elliptical orbit around the earth, receives
+data transmissions from the picosats, and
+transmits the data back to earth when the
+satellite is within range of the planet.
+The miniature satellites would travel
+tens of kilometers from the 'mother,' and
+gather data for 10 hours before burning up
+in the earth's atmosphere.
+To address the different aspects of satel
+lite design, the students divided into sever
+al teams studying issues of power, commu
+nications, space environment, electronics,
+launch dynamics, attitude dynamics, and
+materials.
+
+Although they are still being developed,
+solid-state, thin-film batteries may be the
+optimal power source; they are small with a
+relatively high energy density and an
+acceptable operating temperature range.
+Most of the alternatives are either too
+bulky, lack enough output, have too narrow
+an operating temperature, or are sensitive
+to lack of sunlight.
+A one-way communication link will carry
+approximately 20 to 200 bytes per second
+between the picosat and the mother satel
+lite. After researching several possibilities
+for the link, the student team selected radio
+communication as the best alternative.
+The electronics group devised a scheme to
+use thin, circular wafers for all of the cir
+cuitry. These wafers would be integrated
+with the thin-film batteries, which could
+also be molded into the circular wafer shape.
+Under the current design, the picosat will
+be deployed from the mother satellite with a
+spinning motion. The picosat will spin away
+from the mother satellite with only one face
+directed towards the carrier at all times.
+The spinning motion gives the picosat a
+more stable flight in much the same way a
+spinning top stays upright. If the picosat
+becomes disoriented by a small particle
+floating in space, it may return to face its
+original direction due to the torque supplied
+by the spin.
+Since one face of the picosat is always
+
+directed at the mother satellite, a more
+focused radio frequency antenna can reduce
+the amount of power required by the trans
+mitter.
+The research team developed two plau
+sible designs for the picosat launching
+mechanism. In one method, a turntable
+starts the satellite spinning, then the satel
+lite is ejected after achieving the desired
+rotation speed. The other design uses a
+motor and a worm gear, or a threaded
+cylindrical rod, to supply a spinning push
+to the satellite.
+After the picosats are released from the
+mother, they must maintain attitude, or
+flight stability. The spinning motion
+imparted to the miniature satellite during
+the launch may be sufficient to keep it sta
+ble during flight; the picosat may not be eas
+ily manipulated, or its attitude easily con
+trolled, after its ejection form the mother.
+Kenny, Twiggs, and the students work
+ing on the free flying magnetometer project
+traveled to Los Angeles last Friday, Novem
+ber 18, where the students presented their
+ideas to JPL.
+"This was an exploratory visit [to JPL],"
+Twiggs said. "The students were able to
+visit with scientists interested in the project
+to get more explicit details on what would be
+acceptable data," he added. The students
+will head south again on December 9 with
+revised plans for the satellite project.
+
+
+Andrew Martinez-Fonts — Daily

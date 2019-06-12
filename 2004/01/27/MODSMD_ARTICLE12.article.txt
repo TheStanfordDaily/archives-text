@@ -1,0 +1,1091 @@
+# Game theory boy shoots up like a weed
+## 
+### ROBBIE YAN I GOT GAME [THEORY] 
+I personally relish applying mathemati
+cal models to the analysis of fascinating phe
+nomena that would otherwise be character
+ized as a part of the dull daily routine. As
+this is my last "I Got Game [Theory]" col
+umn, I would like to sample as many such
+models as possible to engage the readers' in
+terest in this hobby of mine.
+Some of the models that I arrived at in pre
+vious columns are for entertainment purposes
+and don't explain anything. For instance, the
+columns on the four axioms of dating were im
+practical and I hope that no CS majors fol
+lowed my advice. The other models, however,
+although not yet entirely applicable, more or
+less provide insight into the matters of focus.
+For example, the usage of normal distribution
+curve to deduce the ideal heights for men and
+women provides some interesting results. The
+following are two other cases where game the
+ory can be applied.
+During my dorm's ski trip two weeks
+ago, I was enjoying a spectacular view of tall
+pine trees outside of our cabin when I sud
+denly stumbled upon a question: Why do
+these trees have to grow this tall? The bio
+logical reason seems straightforward: It's in
+their genes — the DNA's dictate their
+tremendous heights. However, over the
+course of evolution, what forces have
+shaped their blueprints to inject such a high
+
+amount of growth hormone? Game theory
+is somewhat helpful in reasoning for the an
+swer: Each tree has one of two choices, stay
+short or grow tall. What influences its choice
+can be simplified as the amount of sunlight
+it receives. If it stays short while others stay
+short, its payoff is high due to ample amount
+of sunshine; if it stays short while its neigh
+bors grow tall, its payoff plummets as fair
+share of the light is blocked by its neighbors;
+if it grows tall when others stay short, its
+payoff is high; and finally, if it grows tall
+while others grow tall, its payoff is probably
+the same as the aforementioned first case.
+No matter what decisions other trees make,
+each tree benefits the most by growing tall,
+hence "the race all the way to the top."
+The other scenario illustrating game the
+ory at work is a decision that almost all Stan
+ford students need to make daily: whether
+to steer left or right or stop when encoun
+tering an incoming biker on a narrow street.
+Well, in this case, the payoff matrix will be
+three-by-three since each person can make
+one of three choices. A simple analysis will
+show that very likely, both people will stop
+their bikes because of the high negative pay
+off of a head-on collision.
+Not only does mathematical modeling il
+lustrate logical connections between seem
+ingly unrelated occurrences (as pinpointed
+above), it also identifies the essence of
+things with its simplistic expressions. Take a
+symphony piece as an example: We can
+
+view the entire piece as a vector in an N-di
+mensional space, where N equals the num
+ber of instruments employed in that sym
+phony. If we project that symphony onto
+the N base vectors, we would obtain the
+sounds made by each individual instrument.
+Folks into signal processing and Fourier
+transform will recognize that we could view
+each instrument as a base frequency and ex
+tracting each instrument's contribution to
+the piece is like taking the Fourier trans
+form of the piece and obtaining the ampli
+tude at each frequency.
+Finally, if you are interested in modeling
+life itself with math, we could view each in
+dividual life as a finite state machine. The
+states associated with the machine include
+happiness, disappointment, excitement, re
+gret etc. The alphabet that this machine ex
+amines is daily occurrences in life. As things
+happen, we jump from one state to another,
+following the transition rules that we have
+established for ourselves. As time evolves,
+we constantly attempt to modify our transi
+tion rules so that we can frequently visit the
+states of pleasure and avoid those of de
+pression. A wonderful life, then, could per
+haps be characterized as a finite state ma
+chine where all or most transitions lead to
+states of happiness. Another way to per
+ceive this model is that a wonderful life is a
+finite state machine whose final state is one
+of happiness and whose language it recog
+nizes is the set of all daily occurrences.
+
+Back to the topic of love, game theory
+and other mathematical modeling methods
+also lend help to explain patterns in dating.
+One plausible reason for male aggression
+and female selection of qualified candidates
+in the mating business is that eggs are less
+frequently produced than sperms. Hence,
+males chasing after females seems to opti
+mize the quality of the next generation.
+I still have a hodgepodge of phenomena
+that can be interestingly modeled with
+math. For those of you who are fuzzy-sub
+ject inclined, I challenge you to explore an
+other dimension of your intelligence by
+picking up a few pocketbooks on how math
+governs everything from the trajectory of
+stars in the universe to why nobody likes an
+swering the professor's questions in your
+classes. For those of you that are techie
+minded, I encourage you to employ the
+mathematical prowess that you have armed
+yourself with and look up from your dia
+grams and codes once in a while. Revere the
+beautiful mathematical miracles that are oc
+curring around you at this very second.
+
+Robbie Yan has had a blast sharing his math
+views with you all along. He would like to ex
+press special thanks to his editor, Alex
+Kendall, who finds himself debating with
+Robbie about dynamic programming and
+dating frequently. If you'd like to hear more of
+Robbie's math rambling, you can reach him
+at xyan@stanford. edu.
+I personally relish applying mathemati
+cal models to the analysis of fascinating phe
+nomena that would otherwise be character
+ized as a part of the dull daily routine. As
+this is my last "I Got Game [Theory]" col
+umn, I would like to sample as many such
+models as possible to engage the readers' in
+terest in this hobby of mine.
+Some of the models that I arrived at in pre
+vious columns are for entertainment purposes
+and don't explain anything. For instance, the
+columns on the four axioms of dating were im
+practical and I hope that no CS majors fol
+lowed my advice. The other models, however,
+although not yet entirely applicable, more or
+less provide insight into the matters of focus.
+For example, the usage of normal distribution
+curve to deduce the ideal heights for men and
+women provides some interesting results. The
+following are two other cases where game the
+ory can be applied.
+During my dorm's ski trip two weeks
+ago, I was enjoying a spectacular view of tall
+pine trees outside of our cabin when I sud
+denly stumbled upon a question: Why do
+these trees have to grow this tall? The bio
+logical reason seems straightforward: It's in
+their genes — the DNA's dictate their
+tremendous heights. However, over the
+course of evolution, what forces have
+shaped their blueprints to inject such a high
+
+amount of growth hormone? Game theory
+is somewhat helpful in reasoning for the an
+swer: Each tree has one of two choices, stay
+short or grow tall. What influences its choice
+can be simplified as the amount of sunlight
+it receives. If it stays short while others stay
+short, its payoff is high due to ample amount
+of sunshine; if it stays short while its neigh
+bors grow tall, its payoff plummets as fair
+share of the light is blocked by its neighbors;
+if it grows tall when others stay short, its
+payoff is high; and finally, if it grows tall
+while others grow tall, its payoff is probably
+the same as the aforementioned first case.
+No matter what decisions other trees make,
+each tree benefits the most by growing tall,
+hence "the race all the way to the top."
+The other scenario illustrating game the
+ory at work is a decision that almost all Stan
+ford students need to make daily: whether
+to steer left or right or stop when encoun
+tering an incoming biker on a narrow street.
+Well, in this case, the payoff matrix will be
+three-by-three since each person can make
+one of three choices. A simple analysis will
+show that very likely, both people will stop
+their bikes because of the high negative pay
+off of a head-on collision.
+Not only does mathematical modeling il
+lustrate logical connections between seem
+ingly unrelated occurrences (as pinpointed
+above), it also identifies the essence of
+things with its simplistic expressions. Take a
+symphony piece as an example: We can
+
+view the entire piece as a vector in an N-di
+mensional space, where N equals the num
+ber of instruments employed in that sym
+phony. If we project that symphony onto
+the N base vectors, we would obtain the
+sounds made by each individual instrument.
+Folks into signal processing and Fourier
+transform will recognize that we could view
+each instrument as a base frequency and ex
+tracting each instrument's contribution to
+the piece is like taking the Fourier trans
+form of the piece and obtaining the ampli
+tude at each frequency.
+Finally, if you are interested in modeling
+life itself with math, we could view each in
+dividual life as a finite state machine. The
+states associated with the machine include
+happiness, disappointment, excitement, re
+gret etc. The alphabet that this machine ex
+amines is daily occurrences in life. As things
+happen, we jump from one state to another,
+following the transition rules that we have
+established for ourselves. As time evolves,
+we constantly attempt to modify our transi
+tion rules so that we can frequently visit the
+states of pleasure and avoid those of de
+pression. A wonderful life, then, could per
+haps be characterized as a finite state ma
+chine where all or most transitions lead to
+states of happiness. Another way to per
+ceive this model is that a wonderful life is a
+finite state machine whose final state is one
+of happiness and whose language it recog
+nizes is the set of all daily occurrences.
+
+Back to the topic of love, game theory
+and other mathematical modeling methods
+also lend help to explain patterns in dating.
+One plausible reason for male aggression
+and female selection of qualified candidates
+in the mating business is that eggs are less
+frequently produced than sperms. Hence,
+males chasing after females seems to opti
+mize the quality of the next generation.
+I still have a hodgepodge of phenomena
+that can be interestingly modeled with
+math. For those of you who are fuzzy-sub
+ject inclined, I challenge you to explore an
+other dimension of your intelligence by
+picking up a few pocketbooks on how math
+governs everything from the trajectory of
+stars in the universe to why nobody likes an
+swering the professor's questions in your
+classes. For those of you that are techie
+minded, I encourage you to employ the
+mathematical prowess that you have armed
+yourself with and look up from your dia
+grams and codes once in a while. Revere the
+beautiful mathematical miracles that are oc
+curring around you at this very second.
+
+Robbie Yan has had a blast sharing his math
+views with you all along. He would like to ex
+press special thanks to his editor, Alex
+Kendall, who finds himself debating with
+Robbie about dynamic programming and
+dating frequently. If you'd like to hear more of
+Robbie's math rambling, you can reach him
+at xyan@stanford. edu.
+I personally relish applying mathemati
+cal models to the analysis of fascinating phe
+nomena that would otherwise be character
+ized as a part of the dull daily routine. As
+this is my last "I Got Game [Theory]" col
+umn, I would like to sample as many such
+models as possible to engage the readers' in
+terest in this hobby of mine.
+Some of the models that I arrived at in pre
+vious columns are for entertainment purposes
+and don't explain anything. For instance, the
+columns on the four axioms of dating were im
+practical and I hope that no CS majors fol
+lowed my advice. The other models, however,
+although not yet entirely applicable, more or
+less provide insight into the matters of focus.
+For example, the usage of normal distribution
+curve to deduce the ideal heights for men and
+women provides some interesting results. The
+following are two other cases where game the
+ory can be applied.
+During my dorm's ski trip two weeks
+ago, I was enjoying a spectacular view of tall
+pine trees outside of our cabin when I sud
+denly stumbled upon a question: Why do
+these trees have to grow this tall? The bio
+logical reason seems straightforward: It's in
+their genes — the DNA's dictate their
+tremendous heights. However, over the
+course of evolution, what forces have
+shaped their blueprints to inject such a high
+
+amount of growth hormone? Game theory
+is somewhat helpful in reasoning for the an
+swer: Each tree has one of two choices, stay
+short or grow tall. What influences its choice
+can be simplified as the amount of sunlight
+it receives. If it stays short while others stay
+short, its payoff is high due to ample amount
+of sunshine; if it stays short while its neigh
+bors grow tall, its payoff plummets as fair
+share of the light is blocked by its neighbors;
+if it grows tall when others stay short, its
+payoff is high; and finally, if it grows tall
+while others grow tall, its payoff is probably
+the same as the aforementioned first case.
+No matter what decisions other trees make,
+each tree benefits the most by growing tall,
+hence "the race all the way to the top."
+The other scenario illustrating game the
+ory at work is a decision that almost all Stan
+ford students need to make daily: whether
+to steer left or right or stop when encoun
+tering an incoming biker on a narrow street.
+Well, in this case, the payoff matrix will be
+three-by-three since each person can make
+one of three choices. A simple analysis will
+show that very likely, both people will stop
+their bikes because of the high negative pay
+off of a head-on collision.
+Not only does mathematical modeling il
+lustrate logical connections between seem
+ingly unrelated occurrences (as pinpointed
+above), it also identifies the essence of
+things with its simplistic expressions. Take a
+symphony piece as an example: We can
+
+view the entire piece as a vector in an N-di
+mensional space, where N equals the num
+ber of instruments employed in that sym
+phony. If we project that symphony onto
+the N base vectors, we would obtain the
+sounds made by each individual instrument.
+Folks into signal processing and Fourier
+transform will recognize that we could view
+each instrument as a base frequency and ex
+tracting each instrument's contribution to
+the piece is like taking the Fourier trans
+form of the piece and obtaining the ampli
+tude at each frequency.
+Finally, if you are interested in modeling
+life itself with math, we could view each in
+dividual life as a finite state machine. The
+states associated with the machine include
+happiness, disappointment, excitement, re
+gret etc. The alphabet that this machine ex
+amines is daily occurrences in life. As things
+happen, we jump from one state to another,
+following the transition rules that we have
+established for ourselves. As time evolves,
+we constantly attempt to modify our transi
+tion rules so that we can frequently visit the
+states of pleasure and avoid those of de
+pression. A wonderful life, then, could per
+haps be characterized as a finite state ma
+chine where all or most transitions lead to
+states of happiness. Another way to per
+ceive this model is that a wonderful life is a
+finite state machine whose final state is one
+of happiness and whose language it recog
+nizes is the set of all daily occurrences.
+
+Back to the topic of love, game theory
+and other mathematical modeling methods
+also lend help to explain patterns in dating.
+One plausible reason for male aggression
+and female selection of qualified candidates
+in the mating business is that eggs are less
+frequently produced than sperms. Hence,
+males chasing after females seems to opti
+mize the quality of the next generation.
+I still have a hodgepodge of phenomena
+that can be interestingly modeled with
+math. For those of you who are fuzzy-sub
+ject inclined, I challenge you to explore an
+other dimension of your intelligence by
+picking up a few pocketbooks on how math
+governs everything from the trajectory of
+stars in the universe to why nobody likes an
+swering the professor's questions in your
+classes. For those of you that are techie
+minded, I encourage you to employ the
+mathematical prowess that you have armed
+yourself with and look up from your dia
+grams and codes once in a while. Revere the
+beautiful mathematical miracles that are oc
+curring around you at this very second.
+
+Robbie Yan has had a blast sharing his math
+views with you all along. He would like to ex
+press special thanks to his editor, Alex
+Kendall, who finds himself debating with
+Robbie about dynamic programming and
+dating frequently. If you'd like to hear more of
+Robbie's math rambling, you can reach him
+at xyan@stanford. edu.
+I personally relish applying mathemati
+cal models to the analysis of fascinating phe
+nomena that would otherwise be character
+ized as a part of the dull daily routine. As
+this is my last "I Got Game [Theory]" col
+umn, I would like to sample as many such
+models as possible to engage the readers' in
+terest in this hobby of mine.
+Some of the models that I arrived at in pre
+vious columns are for entertainment purposes
+and don't explain anything. For instance, the
+columns on the four axioms of dating were im
+practical and I hope that no CS majors fol
+lowed my advice. The other models, however,
+although not yet entirely applicable, more or
+less provide insight into the matters of focus.
+For example, the usage of normal distribution
+curve to deduce the ideal heights for men and
+women provides some interesting results. The
+following are two other cases where game the
+ory can be applied.
+During my dorm's ski trip two weeks
+ago, I was enjoying a spectacular view of tall
+pine trees outside of our cabin when I sud
+denly stumbled upon a question: Why do
+these trees have to grow this tall? The bio
+logical reason seems straightforward: It's in
+their genes — the DNA's dictate their
+tremendous heights. However, over the
+course of evolution, what forces have
+shaped their blueprints to inject such a high
+
+amount of growth hormone? Game theory
+is somewhat helpful in reasoning for the an
+swer: Each tree has one of two choices, stay
+short or grow tall. What influences its choice
+can be simplified as the amount of sunlight
+it receives. If it stays short while others stay
+short, its payoff is high due to ample amount
+of sunshine; if it stays short while its neigh
+bors grow tall, its payoff plummets as fair
+share of the light is blocked by its neighbors;
+if it grows tall when others stay short, its
+payoff is high; and finally, if it grows tall
+while others grow tall, its payoff is probably
+the same as the aforementioned first case.
+No matter what decisions other trees make,
+each tree benefits the most by growing tall,
+hence "the race all the way to the top."
+The other scenario illustrating game the
+ory at work is a decision that almost all Stan
+ford students need to make daily: whether
+to steer left or right or stop when encoun
+tering an incoming biker on a narrow street.
+Well, in this case, the payoff matrix will be
+three-by-three since each person can make
+one of three choices. A simple analysis will
+show that very likely, both people will stop
+their bikes because of the high negative pay
+off of a head-on collision.
+Not only does mathematical modeling il
+lustrate logical connections between seem
+ingly unrelated occurrences (as pinpointed
+above), it also identifies the essence of
+things with its simplistic expressions. Take a
+symphony piece as an example: We can
+
+view the entire piece as a vector in an N-di
+mensional space, where N equals the num
+ber of instruments employed in that sym
+phony. If we project that symphony onto
+the N base vectors, we would obtain the
+sounds made by each individual instrument.
+Folks into signal processing and Fourier
+transform will recognize that we could view
+each instrument as a base frequency and ex
+tracting each instrument's contribution to
+the piece is like taking the Fourier trans
+form of the piece and obtaining the ampli
+tude at each frequency.
+Finally, if you are interested in modeling
+life itself with math, we could view each in
+dividual life as a finite state machine. The
+states associated with the machine include
+happiness, disappointment, excitement, re
+gret etc. The alphabet that this machine ex
+amines is daily occurrences in life. As things
+happen, we jump from one state to another,
+following the transition rules that we have
+established for ourselves. As time evolves,
+we constantly attempt to modify our transi
+tion rules so that we can frequently visit the
+states of pleasure and avoid those of de
+pression. A wonderful life, then, could per
+haps be characterized as a finite state ma
+chine where all or most transitions lead to
+states of happiness. Another way to per
+ceive this model is that a wonderful life is a
+finite state machine whose final state is one
+of happiness and whose language it recog
+nizes is the set of all daily occurrences.
+
+Back to the topic of love, game theory
+and other mathematical modeling methods
+also lend help to explain patterns in dating.
+One plausible reason for male aggression
+and female selection of qualified candidates
+in the mating business is that eggs are less
+frequently produced than sperms. Hence,
+males chasing after females seems to opti
+mize the quality of the next generation.
+I still have a hodgepodge of phenomena
+that can be interestingly modeled with
+math. For those of you who are fuzzy-sub
+ject inclined, I challenge you to explore an
+other dimension of your intelligence by
+picking up a few pocketbooks on how math
+governs everything from the trajectory of
+stars in the universe to why nobody likes an
+swering the professor's questions in your
+classes. For those of you that are techie
+minded, I encourage you to employ the
+mathematical prowess that you have armed
+yourself with and look up from your dia
+grams and codes once in a while. Revere the
+beautiful mathematical miracles that are oc
+curring around you at this very second.
+
+Robbie Yan has had a blast sharing his math
+views with you all along. He would like to ex
+press special thanks to his editor, Alex
+Kendall, who finds himself debating with
+Robbie about dynamic programming and
+dating frequently. If you'd like to hear more of
+Robbie's math rambling, you can reach him
+at xyan@stanford. edu.
+I personally relish applying mathemati
+cal models to the analysis of fascinating phe
+nomena that would otherwise be character
+ized as a part of the dull daily routine. As
+this is my last "I Got Game [Theory]" col
+umn, I would like to sample as many such
+models as possible to engage the readers' in
+terest in this hobby of mine.
+Some of the models that I arrived at in pre
+vious columns are for entertainment purposes
+and don't explain anything. For instance, the
+columns on the four axioms of dating were im
+practical and I hope that no CS majors fol
+lowed my advice. The other models, however,
+although not yet entirely applicable, more or
+less provide insight into the matters of focus.
+For example, the usage of normal distribution
+curve to deduce the ideal heights for men and
+women provides some interesting results. The
+following are two other cases where game the
+ory can be applied.
+During my dorm's ski trip two weeks
+ago, I was enjoying a spectacular view of tall
+pine trees outside of our cabin when I sud
+denly stumbled upon a question: Why do
+these trees have to grow this tall? The bio
+logical reason seems straightforward: It's in
+their genes — the DNA's dictate their
+tremendous heights. However, over the
+course of evolution, what forces have
+shaped their blueprints to inject such a high
+
+amount of growth hormone? Game theory
+is somewhat helpful in reasoning for the an
+swer: Each tree has one of two choices, stay
+short or grow tall. What influences its choice
+can be simplified as the amount of sunlight
+it receives. If it stays short while others stay
+short, its payoff is high due to ample amount
+of sunshine; if it stays short while its neigh
+bors grow tall, its payoff plummets as fair
+share of the light is blocked by its neighbors;
+if it grows tall when others stay short, its
+payoff is high; and finally, if it grows tall
+while others grow tall, its payoff is probably
+the same as the aforementioned first case.
+No matter what decisions other trees make,
+each tree benefits the most by growing tall,
+hence "the race all the way to the top."
+The other scenario illustrating game the
+ory at work is a decision that almost all Stan
+ford students need to make daily: whether
+to steer left or right or stop when encoun
+tering an incoming biker on a narrow street.
+Well, in this case, the payoff matrix will be
+three-by-three since each person can make
+one of three choices. A simple analysis will
+show that very likely, both people will stop
+their bikes because of the high negative pay
+off of a head-on collision.
+Not only does mathematical modeling il
+lustrate logical connections between seem
+ingly unrelated occurrences (as pinpointed
+above), it also identifies the essence of
+things with its simplistic expressions. Take a
+symphony piece as an example: We can
+
+view the entire piece as a vector in an N-di
+mensional space, where N equals the num
+ber of instruments employed in that sym
+phony. If we project that symphony onto
+the N base vectors, we would obtain the
+sounds made by each individual instrument.
+Folks into signal processing and Fourier
+transform will recognize that we could view
+each instrument as a base frequency and ex
+tracting each instrument's contribution to
+the piece is like taking the Fourier trans
+form of the piece and obtaining the ampli
+tude at each frequency.
+Finally, if you are interested in modeling
+life itself with math, we could view each in
+dividual life as a finite state machine. The
+states associated with the machine include
+happiness, disappointment, excitement, re
+gret etc. The alphabet that this machine ex
+amines is daily occurrences in life. As things
+happen, we jump from one state to another,
+following the transition rules that we have
+established for ourselves. As time evolves,
+we constantly attempt to modify our transi
+tion rules so that we can frequently visit the
+states of pleasure and avoid those of de
+pression. A wonderful life, then, could per
+haps be characterized as a finite state ma
+chine where all or most transitions lead to
+states of happiness. Another way to per
+ceive this model is that a wonderful life is a
+finite state machine whose final state is one
+of happiness and whose language it recog
+nizes is the set of all daily occurrences.
+
+Back to the topic of love, game theory
+and other mathematical modeling methods
+also lend help to explain patterns in dating.
+One plausible reason for male aggression
+and female selection of qualified candidates
+in the mating business is that eggs are less
+frequently produced than sperms. Hence,
+males chasing after females seems to opti
+mize the quality of the next generation.
+I still have a hodgepodge of phenomena
+that can be interestingly modeled with
+math. For those of you who are fuzzy-sub
+ject inclined, I challenge you to explore an
+other dimension of your intelligence by
+picking up a few pocketbooks on how math
+governs everything from the trajectory of
+stars in the universe to why nobody likes an
+swering the professor's questions in your
+classes. For those of you that are techie
+minded, I encourage you to employ the
+mathematical prowess that you have armed
+yourself with and look up from your dia
+grams and codes once in a while. Revere the
+beautiful mathematical miracles that are oc
+curring around you at this very second.
+
+Robbie Yan has had a blast sharing his math
+views with you all along. He would like to ex
+press special thanks to his editor, Alex
+Kendall, who finds himself debating with
+Robbie about dynamic programming and
+dating frequently. If you'd like to hear more of
+Robbie's math rambling, you can reach him
+at xyan@stanford. edu.
+I personally relish applying mathemati
+cal models to the analysis of fascinating phe
+nomena that would otherwise be character
+ized as a part of the dull daily routine. As
+this is my last "I Got Game [Theory]" col
+umn, I would like to sample as many such
+models as possible to engage the readers' in
+terest in this hobby of mine.
+Some of the models that I arrived at in pre
+vious columns are for entertainment purposes
+and don't explain anything. For instance, the
+columns on the four axioms of dating were im
+practical and I hope that no CS majors fol
+lowed my advice. The other models, however,
+although not yet entirely applicable, more or
+less provide insight into the matters of focus.
+For example, the usage of normal distribution
+curve to deduce the ideal heights for men and
+women provides some interesting results. The
+following are two other cases where game the
+ory can be applied.
+During my dorm's ski trip two weeks
+ago, I was enjoying a spectacular view of tall
+pine trees outside of our cabin when I sud
+denly stumbled upon a question: Why do
+these trees have to grow this tall? The bio
+logical reason seems straightforward: It's in
+their genes — the DNA's dictate their
+tremendous heights. However, over the
+course of evolution, what forces have
+shaped their blueprints to inject such a high
+
+amount of growth hormone? Game theory
+is somewhat helpful in reasoning for the an
+swer: Each tree has one of two choices, stay
+short or grow tall. What influences its choice
+can be simplified as the amount of sunlight
+it receives. If it stays short while others stay
+short, its payoff is high due to ample amount
+of sunshine; if it stays short while its neigh
+bors grow tall, its payoff plummets as fair
+share of the light is blocked by its neighbors;
+if it grows tall when others stay short, its
+payoff is high; and finally, if it grows tall
+while others grow tall, its payoff is probably
+the same as the aforementioned first case.
+No matter what decisions other trees make,
+each tree benefits the most by growing tall,
+hence "the race all the way to the top."
+The other scenario illustrating game the
+ory at work is a decision that almost all Stan
+ford students need to make daily: whether
+to steer left or right or stop when encoun
+tering an incoming biker on a narrow street.
+Well, in this case, the payoff matrix will be
+three-by-three since each person can make
+one of three choices. A simple analysis will
+show that very likely, both people will stop
+their bikes because of the high negative pay
+off of a head-on collision.
+Not only does mathematical modeling il
+lustrate logical connections between seem
+ingly unrelated occurrences (as pinpointed
+above), it also identifies the essence of
+things with its simplistic expressions. Take a
+symphony piece as an example: We can
+
+view the entire piece as a vector in an N-di
+mensional space, where N equals the num
+ber of instruments employed in that sym
+phony. If we project that symphony onto
+the N base vectors, we would obtain the
+sounds made by each individual instrument.
+Folks into signal processing and Fourier
+transform will recognize that we could view
+each instrument as a base frequency and ex
+tracting each instrument's contribution to
+the piece is like taking the Fourier trans
+form of the piece and obtaining the ampli
+tude at each frequency.
+Finally, if you are interested in modeling
+life itself with math, we could view each in
+dividual life as a finite state machine. The
+states associated with the machine include
+happiness, disappointment, excitement, re
+gret etc. The alphabet that this machine ex
+amines is daily occurrences in life. As things
+happen, we jump from one state to another,
+following the transition rules that we have
+established for ourselves. As time evolves,
+we constantly attempt to modify our transi
+tion rules so that we can frequently visit the
+states of pleasure and avoid those of de
+pression. A wonderful life, then, could per
+haps be characterized as a finite state ma
+chine where all or most transitions lead to
+states of happiness. Another way to per
+ceive this model is that a wonderful life is a
+finite state machine whose final state is one
+of happiness and whose language it recog
+nizes is the set of all daily occurrences.
+
+Back to the topic of love, game theory
+and other mathematical modeling methods
+also lend help to explain patterns in dating.
+One plausible reason for male aggression
+and female selection of qualified candidates
+in the mating business is that eggs are less
+frequently produced than sperms. Hence,
+males chasing after females seems to opti
+mize the quality of the next generation.
+I still have a hodgepodge of phenomena
+that can be interestingly modeled with
+math. For those of you who are fuzzy-sub
+ject inclined, I challenge you to explore an
+other dimension of your intelligence by
+picking up a few pocketbooks on how math
+governs everything from the trajectory of
+stars in the universe to why nobody likes an
+swering the professor's questions in your
+classes. For those of you that are techie
+minded, I encourage you to employ the
+mathematical prowess that you have armed
+yourself with and look up from your dia
+grams and codes once in a while. Revere the
+beautiful mathematical miracles that are oc
+curring around you at this very second.
+
+Robbie Yan has had a blast sharing his math
+views with you all along. He would like to ex
+press special thanks to his editor, Alex
+Kendall, who finds himself debating with
+Robbie about dynamic programming and
+dating frequently. If you'd like to hear more of
+Robbie's math rambling, you can reach him
+at xyan@stanford. edu.
+I personally relish applying mathemati
+cal models to the analysis of fascinating phe
+nomena that would otherwise be character
+ized as a part of the dull daily routine. As
+this is my last "I Got Game [Theory]" col
+umn, I would like to sample as many such
+models as possible to engage the readers' in
+terest in this hobby of mine.
+Some of the models that I arrived at in pre
+vious columns are for entertainment purposes
+and don't explain anything. For instance, the
+columns on the four axioms of dating were im
+practical and I hope that no CS majors fol
+lowed my advice. The other models, however,
+although not yet entirely applicable, more or
+less provide insight into the matters of focus.
+For example, the usage of normal distribution
+curve to deduce the ideal heights for men and
+women provides some interesting results. The
+following are two other cases where game the
+ory can be applied.
+During my dorm's ski trip two weeks
+ago, I was enjoying a spectacular view of tall
+pine trees outside of our cabin when I sud
+denly stumbled upon a question: Why do
+these trees have to grow this tall? The bio
+logical reason seems straightforward: It's in
+their genes — the DNA's dictate their
+tremendous heights. However, over the
+course of evolution, what forces have
+shaped their blueprints to inject such a high
+
+amount of growth hormone? Game theory
+is somewhat helpful in reasoning for the an
+swer: Each tree has one of two choices, stay
+short or grow tall. What influences its choice
+can be simplified as the amount of sunlight
+it receives. If it stays short while others stay
+short, its payoff is high due to ample amount
+of sunshine; if it stays short while its neigh
+bors grow tall, its payoff plummets as fair
+share of the light is blocked by its neighbors;
+if it grows tall when others stay short, its
+payoff is high; and finally, if it grows tall
+while others grow tall, its payoff is probably
+the same as the aforementioned first case.
+No matter what decisions other trees make,
+each tree benefits the most by growing tall,
+hence "the race all the way to the top."
+The other scenario illustrating game the
+ory at work is a decision that almost all Stan
+ford students need to make daily: whether
+to steer left or right or stop when encoun
+tering an incoming biker on a narrow street.
+Well, in this case, the payoff matrix will be
+three-by-three since each person can make
+one of three choices. A simple analysis will
+show that very likely, both people will stop
+their bikes because of the high negative pay
+off of a head-on collision.
+Not only does mathematical modeling il
+lustrate logical connections between seem
+ingly unrelated occurrences (as pinpointed
+above), it also identifies the essence of
+things with its simplistic expressions. Take a
+symphony piece as an example: We can
+
+view the entire piece as a vector in an N-di
+mensional space, where N equals the num
+ber of instruments employed in that sym
+phony. If we project that symphony onto
+the N base vectors, we would obtain the
+sounds made by each individual instrument.
+Folks into signal processing and Fourier
+transform will recognize that we could view
+each instrument as a base frequency and ex
+tracting each instrument's contribution to
+the piece is like taking the Fourier trans
+form of the piece and obtaining the ampli
+tude at each frequency.
+Finally, if you are interested in modeling
+life itself with math, we could view each in
+dividual life as a finite state machine. The
+states associated with the machine include
+happiness, disappointment, excitement, re
+gret etc. The alphabet that this machine ex
+amines is daily occurrences in life. As things
+happen, we jump from one state to another,
+following the transition rules that we have
+established for ourselves. As time evolves,
+we constantly attempt to modify our transi
+tion rules so that we can frequently visit the
+states of pleasure and avoid those of de
+pression. A wonderful life, then, could per
+haps be characterized as a finite state ma
+chine where all or most transitions lead to
+states of happiness. Another way to per
+ceive this model is that a wonderful life is a
+finite state machine whose final state is one
+of happiness and whose language it recog
+nizes is the set of all daily occurrences.
+
+Back to the topic of love, game theory
+and other mathematical modeling methods
+also lend help to explain patterns in dating.
+One plausible reason for male aggression
+and female selection of qualified candidates
+in the mating business is that eggs are less
+frequently produced than sperms. Hence,
+males chasing after females seems to opti
+mize the quality of the next generation.
+I still have a hodgepodge of phenomena
+that can be interestingly modeled with
+math. For those of you who are fuzzy-sub
+ject inclined, I challenge you to explore an
+other dimension of your intelligence by
+picking up a few pocketbooks on how math
+governs everything from the trajectory of
+stars in the universe to why nobody likes an
+swering the professor's questions in your
+classes. For those of you that are techie
+minded, I encourage you to employ the
+mathematical prowess that you have armed
+yourself with and look up from your dia
+grams and codes once in a while. Revere the
+beautiful mathematical miracles that are oc
+curring around you at this very second.
+
+Robbie Yan has had a blast sharing his math
+views with you all along. He would like to ex
+press special thanks to his editor, Alex
+Kendall, who finds himself debating with
+Robbie about dynamic programming and
+dating frequently. If you'd like to hear more of
+Robbie's math rambling, you can reach him
+at xyan@stanford. edu.
+I personally relish applying mathemati
+cal models to the analysis of fascinating phe
+nomena that would otherwise be character
+ized as a part of the dull daily routine. As
+this is my last "I Got Game [Theory]" col
+umn, I would like to sample as many such
+models as possible to engage the readers' in
+terest in this hobby of mine.
+Some of the models that I arrived at in pre
+vious columns are for entertainment purposes
+and don't explain anything. For instance, the
+columns on the four axioms of dating were im
+practical and I hope that no CS majors fol
+lowed my advice. The other models, however,
+although not yet entirely applicable, more or
+less provide insight into the matters of focus.
+For example, the usage of normal distribution
+curve to deduce the ideal heights for men and
+women provides some interesting results. The
+following are two other cases where game the
+ory can be applied.
+During my dorm's ski trip two weeks
+ago, I was enjoying a spectacular view of tall
+pine trees outside of our cabin when I sud
+denly stumbled upon a question: Why do
+these trees have to grow this tall? The bio
+logical reason seems straightforward: It's in
+their genes — the DNA's dictate their
+tremendous heights. However, over the
+course of evolution, what forces have
+shaped their blueprints to inject such a high
+
+amount of growth hormone? Game theory
+is somewhat helpful in reasoning for the an
+swer: Each tree has one of two choices, stay
+short or grow tall. What influences its choice
+can be simplified as the amount of sunlight
+it receives. If it stays short while others stay
+short, its payoff is high due to ample amount
+of sunshine; if it stays short while its neigh
+bors grow tall, its payoff plummets as fair
+share of the light is blocked by its neighbors;
+if it grows tall when others stay short, its
+payoff is high; and finally, if it grows tall
+while others grow tall, its payoff is probably
+the same as the aforementioned first case.
+No matter what decisions other trees make,
+each tree benefits the most by growing tall,
+hence "the race all the way to the top."
+The other scenario illustrating game the
+ory at work is a decision that almost all Stan
+ford students need to make daily: whether
+to steer left or right or stop when encoun
+tering an incoming biker on a narrow street.
+Well, in this case, the payoff matrix will be
+three-by-three since each person can make
+one of three choices. A simple analysis will
+show that very likely, both people will stop
+their bikes because of the high negative pay
+off of a head-on collision.
+Not only does mathematical modeling il
+lustrate logical connections between seem
+ingly unrelated occurrences (as pinpointed
+above), it also identifies the essence of
+things with its simplistic expressions. Take a
+symphony piece as an example: We can
+
+view the entire piece as a vector in an N-di
+mensional space, where N equals the num
+ber of instruments employed in that sym
+phony. If we project that symphony onto
+the N base vectors, we would obtain the
+sounds made by each individual instrument.
+Folks into signal processing and Fourier
+transform will recognize that we could view
+each instrument as a base frequency and ex
+tracting each instrument's contribution to
+the piece is like taking the Fourier trans
+form of the piece and obtaining the ampli
+tude at each frequency.
+Finally, if you are interested in modeling
+life itself with math, we could view each in
+dividual life as a finite state machine. The
+states associated with the machine include
+happiness, disappointment, excitement, re
+gret etc. The alphabet that this machine ex
+amines is daily occurrences in life. As things
+happen, we jump from one state to another,
+following the transition rules that we have
+established for ourselves. As time evolves,
+we constantly attempt to modify our transi
+tion rules so that we can frequently visit the
+states of pleasure and avoid those of de
+pression. A wonderful life, then, could per
+haps be characterized as a finite state ma
+chine where all or most transitions lead to
+states of happiness. Another way to per
+ceive this model is that a wonderful life is a
+finite state machine whose final state is one
+of happiness and whose language it recog
+nizes is the set of all daily occurrences.
+
+Back to the topic of love, game theory
+and other mathematical modeling methods
+also lend help to explain patterns in dating.
+One plausible reason for male aggression
+and female selection of qualified candidates
+in the mating business is that eggs are less
+frequently produced than sperms. Hence,
+males chasing after females seems to opti
+mize the quality of the next generation.
+I still have a hodgepodge of phenomena
+that can be interestingly modeled with
+math. For those of you who are fuzzy-sub
+ject inclined, I challenge you to explore an
+other dimension of your intelligence by
+picking up a few pocketbooks on how math
+governs everything from the trajectory of
+stars in the universe to why nobody likes an
+swering the professor's questions in your
+classes. For those of you that are techie
+minded, I encourage you to employ the
+mathematical prowess that you have armed
+yourself with and look up from your dia
+grams and codes once in a while. Revere the
+beautiful mathematical miracles that are oc
+curring around you at this very second.
+
+Robbie Yan has had a blast sharing his math
+views with you all along. He would like to ex
+press special thanks to his editor, Alex
+Kendall, who finds himself debating with
+Robbie about dynamic programming and
+dating frequently. If you'd like to hear more of
+Robbie's math rambling, you can reach him
+at xyan@stanford. edu.

@@ -1,0 +1,771 @@
+# Discovering the art of formation flying
+## 
+### Kenny Lin 
+Formation flying, a new frontier
+in aerospace navigation made pos
+sible by the Global Positioning Sys
+tem (GPS), has become a revolu
+tionary technique in aerospace
+engineering.
+Formation flying in space entails
+enabling a fleet of spacecraft to
+maneuver themselves, keeping con
+stant the relative position of each
+satellite with respect to others, to
+ensure that the fleet is navigating in
+formation.
+The National Aeronautics and
+Space Administration hopes that
+this technique will allow scientists
+to combine the measurements from
+several spacecrafts to create tele
+scopes and sensors of unparalleled
+si/e and power and most impor
+tantly, at an affordable price.
+A pioneer in formation flying
+research. Professor of Aerospace
+Engineering Jonathan How has
+made significant progress in model
+ing formation flying and making
+satellites of unprecedented size.
+How conducts his research at
+End Station 3, a large hangar sunk
+half underground located across
+from the Science and Engineering
+Quad.
+Once a terminal point in a linear
+particle accelerator, the hangar,
+roughly the size of an indoor track,
+now becomes a test fly zone for for
+mation Hying.
+Flow's objective is to successful
+ly apply the computer algorithms
+that are tested through physical
+modeling in the hangar to the satel
+lites.
+"Blimps are perfect for testing
+the control problems in formation
+Hying," explains How, who uses
+two blimps, one green and one red.
+with the red blimp mimicking the
+movement of the green blimp to
+simulate formation flvine.
+
+Although the sight of two blimps
+floating through the hangar may
+appear ordinary, the blimps are
+performing a complex task. What is
+noteworthy about this simulated
+formation flying is that the red
+blimp is precisely following the
+movement of the green blimp with
+out human control.
+"In space, precision becomes an
+important issue as even a slight
+variation in the satellite's move
+ment can send il oil the orbit." I low
+comments.
+In How's lab. formation flying of
+the blimps is made possible by a
+mini-CiPS. (ilobally. GPS can
+locate the position of the receiver,
+which picks up signals transmitted
+by the satellites, within a few cen
+timeters with the aid of the 24
+NAVSTAR satellites that circle
+20,200 kilometers above the Earth.
+Since the NAVSTAR satellite
+
+signal cannot be received indoors.
+How's colleague have mounted
+their own (IPS transmitters high up
+on the hangar walls. The wooden
+frame below each blimp contains a
+(iPS receiver, a circuit board, bat
+teries and motors that crank the
+blimp's propellers.
+Each blimp monitors the signal
+from the C i PS transmitters and for
+wards its position and altitude to a
+central computer. I he computer
+monitors changes in the green
+blimp's position, mathematically
+determines how the red blimp
+should move to maintain the
+required formation and sends the
+direction to the red blimp.
+The data from the blimps is inte
+gral to applying formation flying
+into space. How and his students
+are now working on a project to
+build three satellites the si/c of milk
+crates that will fly in formation
+
+sometime in 2001.
+The three satellites, each con
+taining onboard GPS transmitters,
+receivers and nitrogen propellers,
+are now undergoing the testing
+stage.
+Formation living brings excite
+ment to future astrophysical
+research as well. NASA's next pro
+ject called Space Technology 3
+(S 13). is due for launch in 2003.
+ST3 will combine the images
+from two small telescopes Hying in
+formation to produce images with
+resolution almost as good as those
+of expensive giant telescopes such
+as the I kibble telescope.
+I low's research shadows a new
+era of space exploration that will
+replace the cumbersome and costly
+instrument with the smaller and
+inexpensive yet equally powerful
+spacecraft made possible by
+autonomous formation living.
+
+
+Courtesy of www.sun-valley.stanford.edu
+These three fully autonomous nanosatellites designed in How's lab will be ready to launched in 2001.
+Formation flying, a new frontier
+in aerospace navigation made pos
+sible by the Global Positioning Sys
+tem (GPS), has become a revolu
+tionary technique in aerospace
+engineering.
+Formation flying in space entails
+enabling a fleet of spacecraft to
+maneuver themselves, keeping con
+stant the relative position of each
+satellite with respect to others, to
+ensure that the fleet is navigating in
+formation.
+The National Aeronautics and
+Space Administration hopes that
+this technique will allow scientists
+to combine the measurements from
+several spacecrafts to create tele
+scopes and sensors of unparalleled
+si/e and power and most impor
+tantly, at an affordable price.
+A pioneer in formation flying
+research. Professor of Aerospace
+Engineering Jonathan How has
+made significant progress in model
+ing formation flying and making
+satellites of unprecedented size.
+How conducts his research at
+End Station 3, a large hangar sunk
+half underground located across
+from the Science and Engineering
+Quad.
+Once a terminal point in a linear
+particle accelerator, the hangar,
+roughly the size of an indoor track,
+now becomes a test fly zone for for
+mation Hying.
+Flow's objective is to successful
+ly apply the computer algorithms
+that are tested through physical
+modeling in the hangar to the satel
+lites.
+"Blimps are perfect for testing
+the control problems in formation
+Hying," explains How, who uses
+two blimps, one green and one red.
+with the red blimp mimicking the
+movement of the green blimp to
+simulate formation flvine.
+
+Although the sight of two blimps
+floating through the hangar may
+appear ordinary, the blimps are
+performing a complex task. What is
+noteworthy about this simulated
+formation flying is that the red
+blimp is precisely following the
+movement of the green blimp with
+out human control.
+"In space, precision becomes an
+important issue as even a slight
+variation in the satellite's move
+ment can send il oil the orbit." I low
+comments.
+In How's lab. formation flying of
+the blimps is made possible by a
+mini-CiPS. (ilobally. GPS can
+locate the position of the receiver,
+which picks up signals transmitted
+by the satellites, within a few cen
+timeters with the aid of the 24
+NAVSTAR satellites that circle
+20,200 kilometers above the Earth.
+Since the NAVSTAR satellite
+
+signal cannot be received indoors.
+How's colleague have mounted
+their own (IPS transmitters high up
+on the hangar walls. The wooden
+frame below each blimp contains a
+(iPS receiver, a circuit board, bat
+teries and motors that crank the
+blimp's propellers.
+Each blimp monitors the signal
+from the C i PS transmitters and for
+wards its position and altitude to a
+central computer. I he computer
+monitors changes in the green
+blimp's position, mathematically
+determines how the red blimp
+should move to maintain the
+required formation and sends the
+direction to the red blimp.
+The data from the blimps is inte
+gral to applying formation flying
+into space. How and his students
+are now working on a project to
+build three satellites the si/c of milk
+crates that will fly in formation
+
+sometime in 2001.
+The three satellites, each con
+taining onboard GPS transmitters,
+receivers and nitrogen propellers,
+are now undergoing the testing
+stage.
+Formation living brings excite
+ment to future astrophysical
+research as well. NASA's next pro
+ject called Space Technology 3
+(S 13). is due for launch in 2003.
+ST3 will combine the images
+from two small telescopes Hying in
+formation to produce images with
+resolution almost as good as those
+of expensive giant telescopes such
+as the I kibble telescope.
+I low's research shadows a new
+era of space exploration that will
+replace the cumbersome and costly
+instrument with the smaller and
+inexpensive yet equally powerful
+spacecraft made possible by
+autonomous formation living.
+
+
+Courtesy of www.sun-valley.stanford.edu
+These three fully autonomous nanosatellites designed in How's lab will be ready to launched in 2001.
+Formation flying, a new frontier
+in aerospace navigation made pos
+sible by the Global Positioning Sys
+tem (GPS), has become a revolu
+tionary technique in aerospace
+engineering.
+Formation flying in space entails
+enabling a fleet of spacecraft to
+maneuver themselves, keeping con
+stant the relative position of each
+satellite with respect to others, to
+ensure that the fleet is navigating in
+formation.
+The National Aeronautics and
+Space Administration hopes that
+this technique will allow scientists
+to combine the measurements from
+several spacecrafts to create tele
+scopes and sensors of unparalleled
+si/e and power and most impor
+tantly, at an affordable price.
+A pioneer in formation flying
+research. Professor of Aerospace
+Engineering Jonathan How has
+made significant progress in model
+ing formation flying and making
+satellites of unprecedented size.
+How conducts his research at
+End Station 3, a large hangar sunk
+half underground located across
+from the Science and Engineering
+Quad.
+Once a terminal point in a linear
+particle accelerator, the hangar,
+roughly the size of an indoor track,
+now becomes a test fly zone for for
+mation Hying.
+Flow's objective is to successful
+ly apply the computer algorithms
+that are tested through physical
+modeling in the hangar to the satel
+lites.
+"Blimps are perfect for testing
+the control problems in formation
+Hying," explains How, who uses
+two blimps, one green and one red.
+with the red blimp mimicking the
+movement of the green blimp to
+simulate formation flvine.
+
+Although the sight of two blimps
+floating through the hangar may
+appear ordinary, the blimps are
+performing a complex task. What is
+noteworthy about this simulated
+formation flying is that the red
+blimp is precisely following the
+movement of the green blimp with
+out human control.
+"In space, precision becomes an
+important issue as even a slight
+variation in the satellite's move
+ment can send il oil the orbit." I low
+comments.
+In How's lab. formation flying of
+the blimps is made possible by a
+mini-CiPS. (ilobally. GPS can
+locate the position of the receiver,
+which picks up signals transmitted
+by the satellites, within a few cen
+timeters with the aid of the 24
+NAVSTAR satellites that circle
+20,200 kilometers above the Earth.
+Since the NAVSTAR satellite
+
+signal cannot be received indoors.
+How's colleague have mounted
+their own (IPS transmitters high up
+on the hangar walls. The wooden
+frame below each blimp contains a
+(iPS receiver, a circuit board, bat
+teries and motors that crank the
+blimp's propellers.
+Each blimp monitors the signal
+from the C i PS transmitters and for
+wards its position and altitude to a
+central computer. I he computer
+monitors changes in the green
+blimp's position, mathematically
+determines how the red blimp
+should move to maintain the
+required formation and sends the
+direction to the red blimp.
+The data from the blimps is inte
+gral to applying formation flying
+into space. How and his students
+are now working on a project to
+build three satellites the si/c of milk
+crates that will fly in formation
+
+sometime in 2001.
+The three satellites, each con
+taining onboard GPS transmitters,
+receivers and nitrogen propellers,
+are now undergoing the testing
+stage.
+Formation living brings excite
+ment to future astrophysical
+research as well. NASA's next pro
+ject called Space Technology 3
+(S 13). is due for launch in 2003.
+ST3 will combine the images
+from two small telescopes Hying in
+formation to produce images with
+resolution almost as good as those
+of expensive giant telescopes such
+as the I kibble telescope.
+I low's research shadows a new
+era of space exploration that will
+replace the cumbersome and costly
+instrument with the smaller and
+inexpensive yet equally powerful
+spacecraft made possible by
+autonomous formation living.
+
+
+Courtesy of www.sun-valley.stanford.edu
+These three fully autonomous nanosatellites designed in How's lab will be ready to launched in 2001.
+Formation flying, a new frontier
+in aerospace navigation made pos
+sible by the Global Positioning Sys
+tem (GPS), has become a revolu
+tionary technique in aerospace
+engineering.
+Formation flying in space entails
+enabling a fleet of spacecraft to
+maneuver themselves, keeping con
+stant the relative position of each
+satellite with respect to others, to
+ensure that the fleet is navigating in
+formation.
+The National Aeronautics and
+Space Administration hopes that
+this technique will allow scientists
+to combine the measurements from
+several spacecrafts to create tele
+scopes and sensors of unparalleled
+si/e and power and most impor
+tantly, at an affordable price.
+A pioneer in formation flying
+research. Professor of Aerospace
+Engineering Jonathan How has
+made significant progress in model
+ing formation flying and making
+satellites of unprecedented size.
+How conducts his research at
+End Station 3, a large hangar sunk
+half underground located across
+from the Science and Engineering
+Quad.
+Once a terminal point in a linear
+particle accelerator, the hangar,
+roughly the size of an indoor track,
+now becomes a test fly zone for for
+mation Hying.
+Flow's objective is to successful
+ly apply the computer algorithms
+that are tested through physical
+modeling in the hangar to the satel
+lites.
+"Blimps are perfect for testing
+the control problems in formation
+Hying," explains How, who uses
+two blimps, one green and one red.
+with the red blimp mimicking the
+movement of the green blimp to
+simulate formation flvine.
+
+Although the sight of two blimps
+floating through the hangar may
+appear ordinary, the blimps are
+performing a complex task. What is
+noteworthy about this simulated
+formation flying is that the red
+blimp is precisely following the
+movement of the green blimp with
+out human control.
+"In space, precision becomes an
+important issue as even a slight
+variation in the satellite's move
+ment can send il oil the orbit." I low
+comments.
+In How's lab. formation flying of
+the blimps is made possible by a
+mini-CiPS. (ilobally. GPS can
+locate the position of the receiver,
+which picks up signals transmitted
+by the satellites, within a few cen
+timeters with the aid of the 24
+NAVSTAR satellites that circle
+20,200 kilometers above the Earth.
+Since the NAVSTAR satellite
+
+signal cannot be received indoors.
+How's colleague have mounted
+their own (IPS transmitters high up
+on the hangar walls. The wooden
+frame below each blimp contains a
+(iPS receiver, a circuit board, bat
+teries and motors that crank the
+blimp's propellers.
+Each blimp monitors the signal
+from the C i PS transmitters and for
+wards its position and altitude to a
+central computer. I he computer
+monitors changes in the green
+blimp's position, mathematically
+determines how the red blimp
+should move to maintain the
+required formation and sends the
+direction to the red blimp.
+The data from the blimps is inte
+gral to applying formation flying
+into space. How and his students
+are now working on a project to
+build three satellites the si/c of milk
+crates that will fly in formation
+
+sometime in 2001.
+The three satellites, each con
+taining onboard GPS transmitters,
+receivers and nitrogen propellers,
+are now undergoing the testing
+stage.
+Formation living brings excite
+ment to future astrophysical
+research as well. NASA's next pro
+ject called Space Technology 3
+(S 13). is due for launch in 2003.
+ST3 will combine the images
+from two small telescopes Hying in
+formation to produce images with
+resolution almost as good as those
+of expensive giant telescopes such
+as the I kibble telescope.
+I low's research shadows a new
+era of space exploration that will
+replace the cumbersome and costly
+instrument with the smaller and
+inexpensive yet equally powerful
+spacecraft made possible by
+autonomous formation living.
+
+
+Courtesy of www.sun-valley.stanford.edu
+These three fully autonomous nanosatellites designed in How's lab will be ready to launched in 2001.
+Formation flying, a new frontier
+in aerospace navigation made pos
+sible by the Global Positioning Sys
+tem (GPS), has become a revolu
+tionary technique in aerospace
+engineering.
+Formation flying in space entails
+enabling a fleet of spacecraft to
+maneuver themselves, keeping con
+stant the relative position of each
+satellite with respect to others, to
+ensure that the fleet is navigating in
+formation.
+The National Aeronautics and
+Space Administration hopes that
+this technique will allow scientists
+to combine the measurements from
+several spacecrafts to create tele
+scopes and sensors of unparalleled
+si/e and power and most impor
+tantly, at an affordable price.
+A pioneer in formation flying
+research. Professor of Aerospace
+Engineering Jonathan How has
+made significant progress in model
+ing formation flying and making
+satellites of unprecedented size.
+How conducts his research at
+End Station 3, a large hangar sunk
+half underground located across
+from the Science and Engineering
+Quad.
+Once a terminal point in a linear
+particle accelerator, the hangar,
+roughly the size of an indoor track,
+now becomes a test fly zone for for
+mation Hying.
+Flow's objective is to successful
+ly apply the computer algorithms
+that are tested through physical
+modeling in the hangar to the satel
+lites.
+"Blimps are perfect for testing
+the control problems in formation
+Hying," explains How, who uses
+two blimps, one green and one red.
+with the red blimp mimicking the
+movement of the green blimp to
+simulate formation flvine.
+
+Although the sight of two blimps
+floating through the hangar may
+appear ordinary, the blimps are
+performing a complex task. What is
+noteworthy about this simulated
+formation flying is that the red
+blimp is precisely following the
+movement of the green blimp with
+out human control.
+"In space, precision becomes an
+important issue as even a slight
+variation in the satellite's move
+ment can send il oil the orbit." I low
+comments.
+In How's lab. formation flying of
+the blimps is made possible by a
+mini-CiPS. (ilobally. GPS can
+locate the position of the receiver,
+which picks up signals transmitted
+by the satellites, within a few cen
+timeters with the aid of the 24
+NAVSTAR satellites that circle
+20,200 kilometers above the Earth.
+Since the NAVSTAR satellite
+
+signal cannot be received indoors.
+How's colleague have mounted
+their own (IPS transmitters high up
+on the hangar walls. The wooden
+frame below each blimp contains a
+(iPS receiver, a circuit board, bat
+teries and motors that crank the
+blimp's propellers.
+Each blimp monitors the signal
+from the C i PS transmitters and for
+wards its position and altitude to a
+central computer. I he computer
+monitors changes in the green
+blimp's position, mathematically
+determines how the red blimp
+should move to maintain the
+required formation and sends the
+direction to the red blimp.
+The data from the blimps is inte
+gral to applying formation flying
+into space. How and his students
+are now working on a project to
+build three satellites the si/c of milk
+crates that will fly in formation
+
+sometime in 2001.
+The three satellites, each con
+taining onboard GPS transmitters,
+receivers and nitrogen propellers,
+are now undergoing the testing
+stage.
+Formation living brings excite
+ment to future astrophysical
+research as well. NASA's next pro
+ject called Space Technology 3
+(S 13). is due for launch in 2003.
+ST3 will combine the images
+from two small telescopes Hying in
+formation to produce images with
+resolution almost as good as those
+of expensive giant telescopes such
+as the I kibble telescope.
+I low's research shadows a new
+era of space exploration that will
+replace the cumbersome and costly
+instrument with the smaller and
+inexpensive yet equally powerful
+spacecraft made possible by
+autonomous formation living.
+
+
+Courtesy of www.sun-valley.stanford.edu
+These three fully autonomous nanosatellites designed in How's lab will be ready to launched in 2001.
+Formation flying, a new frontier
+in aerospace navigation made pos
+sible by the Global Positioning Sys
+tem (GPS), has become a revolu
+tionary technique in aerospace
+engineering.
+Formation flying in space entails
+enabling a fleet of spacecraft to
+maneuver themselves, keeping con
+stant the relative position of each
+satellite with respect to others, to
+ensure that the fleet is navigating in
+formation.
+The National Aeronautics and
+Space Administration hopes that
+this technique will allow scientists
+to combine the measurements from
+several spacecrafts to create tele
+scopes and sensors of unparalleled
+si/e and power and most impor
+tantly, at an affordable price.
+A pioneer in formation flying
+research. Professor of Aerospace
+Engineering Jonathan How has
+made significant progress in model
+ing formation flying and making
+satellites of unprecedented size.
+How conducts his research at
+End Station 3, a large hangar sunk
+half underground located across
+from the Science and Engineering
+Quad.
+Once a terminal point in a linear
+particle accelerator, the hangar,
+roughly the size of an indoor track,
+now becomes a test fly zone for for
+mation Hying.
+Flow's objective is to successful
+ly apply the computer algorithms
+that are tested through physical
+modeling in the hangar to the satel
+lites.
+"Blimps are perfect for testing
+the control problems in formation
+Hying," explains How, who uses
+two blimps, one green and one red.
+with the red blimp mimicking the
+movement of the green blimp to
+simulate formation flvine.
+
+Although the sight of two blimps
+floating through the hangar may
+appear ordinary, the blimps are
+performing a complex task. What is
+noteworthy about this simulated
+formation flying is that the red
+blimp is precisely following the
+movement of the green blimp with
+out human control.
+"In space, precision becomes an
+important issue as even a slight
+variation in the satellite's move
+ment can send il oil the orbit." I low
+comments.
+In How's lab. formation flying of
+the blimps is made possible by a
+mini-CiPS. (ilobally. GPS can
+locate the position of the receiver,
+which picks up signals transmitted
+by the satellites, within a few cen
+timeters with the aid of the 24
+NAVSTAR satellites that circle
+20,200 kilometers above the Earth.
+Since the NAVSTAR satellite
+
+signal cannot be received indoors.
+How's colleague have mounted
+their own (IPS transmitters high up
+on the hangar walls. The wooden
+frame below each blimp contains a
+(iPS receiver, a circuit board, bat
+teries and motors that crank the
+blimp's propellers.
+Each blimp monitors the signal
+from the C i PS transmitters and for
+wards its position and altitude to a
+central computer. I he computer
+monitors changes in the green
+blimp's position, mathematically
+determines how the red blimp
+should move to maintain the
+required formation and sends the
+direction to the red blimp.
+The data from the blimps is inte
+gral to applying formation flying
+into space. How and his students
+are now working on a project to
+build three satellites the si/c of milk
+crates that will fly in formation
+
+sometime in 2001.
+The three satellites, each con
+taining onboard GPS transmitters,
+receivers and nitrogen propellers,
+are now undergoing the testing
+stage.
+Formation living brings excite
+ment to future astrophysical
+research as well. NASA's next pro
+ject called Space Technology 3
+(S 13). is due for launch in 2003.
+ST3 will combine the images
+from two small telescopes Hying in
+formation to produce images with
+resolution almost as good as those
+of expensive giant telescopes such
+as the I kibble telescope.
+I low's research shadows a new
+era of space exploration that will
+replace the cumbersome and costly
+instrument with the smaller and
+inexpensive yet equally powerful
+spacecraft made possible by
+autonomous formation living.
+
+
+Courtesy of www.sun-valley.stanford.edu
+These three fully autonomous nanosatellites designed in How's lab will be ready to launched in 2001.

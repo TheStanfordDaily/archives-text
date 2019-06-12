@@ -1,0 +1,849 @@
+# Is it a cockroach? A robot?
+## Artificial intelligence takes a new form when Stanford researchers mix robotics with biology 
+### JESSICA LIN 
+When most people imagine artificial intelligence.
+Star Wars robots and human-like figures come to
+mind. But rather than staying in the box, Stanford
+researchers in the Engineering Department are look
+ing at other creatures to model in their artificial intel
+ligence projects, specifically insects. These sprawl
+robots, as they have been nicknamed, are manufac
+tured using a novel technique, making them more
+durable, which will increase the number of functions
+they can provide once they are out on the field.
+This sprawl project is led by Engineering Prof.
+Mark Cutkosky. The Daily took an opportunity to
+chat with this innovative robotics researcher to find
+out more.
+The Daily: Why are you designing robots that imitate
+animals as opposed to humans?
+Mark Cutkosky: There are some things that animals
+can do much better than humans, like climb walls
+and run very fast. The fastest cockroaches can run 53
+body-lengths per second. Even the slower ones can
+do about 15 body lengths per second. If you could
+run at 55 body-lengths per second you'd be going
+
+about 55 mph.
+Also, for the amount of intelligence that we're
+actually able to put into small robots, insects are a
+much better target than mammals — let alone
+humans — in terms of behaviors and learning.
+TI): Where did the idea of hiomimetic robots origi
+nate — and when did you get involved?
+!MC: I think that robots have always, to some extent,
+been inspired by animals or humans. That's part of
+what the historical dream behind having robots is all
+about. What is new is that we can start to build and
+control them more as nature does. The days of "tin
+men" robots are over.
+We started 1999 and built our first bio-inspired
+running hexapod in January 2000. Its name was
+Sprawlita.
+TI): How are hiomimetic robots — robots that take
+their inspiration from nature — being used today?
+MC: Already, some bio-inspired robots are starting to
+make it into the field. One of our collaborators,
+Martin Buehler — who was formerly at McGill
+University and is now heading up a robotics group at
+
+Boston Dynamics Inc. — has a version of another
+hexapod [six-legged robot] called RHex that is being
+evaluated by the military.
+Tl): What Ls your favorite part of the robotics project?
+MC: Learning about biology and putting that knowl
+edge to work in real devices.
+TI): What is the most challenging part of the project?
+MC: Figuring out how to make something that comes
+even tolerably close to capturing some of the sophis
+tication that we see in biological structures.
+TI): Who works on this project besides yourself and
+what do they do?
+MC: I have a team of about 10 people at Stanford. In
+addition, we are collaborating with similar teams
+from various universities, working with researchers in
+biology and robotics departments.
+We learn a great deal from the biologists about
+how animals actually are built and work. We give [the
+biologists], in return, simplified approximations that
+we and they can test to see how well we understand
+the principles. It is much, much easier to do experi
+ments on a robot than on a live animal. The robot is
+far more cooperative.
+TI): Is it harder to design insect-like robots as
+opposed to human-like robots?
+MC: I think it's easier. Small animals are more spe
+cialized than humans. Cockroaches, for example, only
+do a few things really well: run fast, climb, hide, find
+food, eat, reproduce. And our robots are only trying
+excel at the first couple of those behaviors.
+TI): How do you see these robots influencing the
+technology of the future?
+MC: There are many ways: Biomimetic engineering
+has many applications. We have only recently
+developed the necessary analysis and manufactur
+ing methods to enable us to make biomimetic struc
+tures — with multiple and varying materials prop
+erties, embedded sensing and propulsion.
+So while robots are a particularly exciting appli
+cation, biomimetic design is also useful for pros
+thetics. sports equipment, perhaps even compo
+nents of tools and vehicles.
+
+
+
+The robots in Prof. Mark Cutkosky's lab are designed to look and act like cockroaches. By mimicking insect
+movements, these tiny robots can move quickly and cover extensive amounts of terrain in a short time
+span. Researchers believe that they could be used to detect mines or as tiny environmental sensors.
+When most people imagine artificial intelligence.
+Star Wars robots and human-like figures come to
+mind. But rather than staying in the box, Stanford
+researchers in the Engineering Department are look
+ing at other creatures to model in their artificial intel
+ligence projects, specifically insects. These sprawl
+robots, as they have been nicknamed, are manufac
+tured using a novel technique, making them more
+durable, which will increase the number of functions
+they can provide once they are out on the field.
+This sprawl project is led by Engineering Prof.
+Mark Cutkosky. The Daily took an opportunity to
+chat with this innovative robotics researcher to find
+out more.
+The Daily: Why are you designing robots that imitate
+animals as opposed to humans?
+Mark Cutkosky: There are some things that animals
+can do much better than humans, like climb walls
+and run very fast. The fastest cockroaches can run 53
+body-lengths per second. Even the slower ones can
+do about 15 body lengths per second. If you could
+run at 55 body-lengths per second you'd be going
+
+about 55 mph.
+Also, for the amount of intelligence that we're
+actually able to put into small robots, insects are a
+much better target than mammals — let alone
+humans — in terms of behaviors and learning.
+TI): Where did the idea of hiomimetic robots origi
+nate — and when did you get involved?
+!MC: I think that robots have always, to some extent,
+been inspired by animals or humans. That's part of
+what the historical dream behind having robots is all
+about. What is new is that we can start to build and
+control them more as nature does. The days of "tin
+men" robots are over.
+We started 1999 and built our first bio-inspired
+running hexapod in January 2000. Its name was
+Sprawlita.
+TI): How are hiomimetic robots — robots that take
+their inspiration from nature — being used today?
+MC: Already, some bio-inspired robots are starting to
+make it into the field. One of our collaborators,
+Martin Buehler — who was formerly at McGill
+University and is now heading up a robotics group at
+
+Boston Dynamics Inc. — has a version of another
+hexapod [six-legged robot] called RHex that is being
+evaluated by the military.
+Tl): What Ls your favorite part of the robotics project?
+MC: Learning about biology and putting that knowl
+edge to work in real devices.
+TI): What is the most challenging part of the project?
+MC: Figuring out how to make something that comes
+even tolerably close to capturing some of the sophis
+tication that we see in biological structures.
+TI): Who works on this project besides yourself and
+what do they do?
+MC: I have a team of about 10 people at Stanford. In
+addition, we are collaborating with similar teams
+from various universities, working with researchers in
+biology and robotics departments.
+We learn a great deal from the biologists about
+how animals actually are built and work. We give [the
+biologists], in return, simplified approximations that
+we and they can test to see how well we understand
+the principles. It is much, much easier to do experi
+ments on a robot than on a live animal. The robot is
+far more cooperative.
+TI): Is it harder to design insect-like robots as
+opposed to human-like robots?
+MC: I think it's easier. Small animals are more spe
+cialized than humans. Cockroaches, for example, only
+do a few things really well: run fast, climb, hide, find
+food, eat, reproduce. And our robots are only trying
+excel at the first couple of those behaviors.
+TI): How do you see these robots influencing the
+technology of the future?
+MC: There are many ways: Biomimetic engineering
+has many applications. We have only recently
+developed the necessary analysis and manufactur
+ing methods to enable us to make biomimetic struc
+tures — with multiple and varying materials prop
+erties, embedded sensing and propulsion.
+So while robots are a particularly exciting appli
+cation, biomimetic design is also useful for pros
+thetics. sports equipment, perhaps even compo
+nents of tools and vehicles.
+
+
+
+The robots in Prof. Mark Cutkosky's lab are designed to look and act like cockroaches. By mimicking insect
+movements, these tiny robots can move quickly and cover extensive amounts of terrain in a short time
+span. Researchers believe that they could be used to detect mines or as tiny environmental sensors.
+When most people imagine artificial intelligence.
+Star Wars robots and human-like figures come to
+mind. But rather than staying in the box, Stanford
+researchers in the Engineering Department are look
+ing at other creatures to model in their artificial intel
+ligence projects, specifically insects. These sprawl
+robots, as they have been nicknamed, are manufac
+tured using a novel technique, making them more
+durable, which will increase the number of functions
+they can provide once they are out on the field.
+This sprawl project is led by Engineering Prof.
+Mark Cutkosky. The Daily took an opportunity to
+chat with this innovative robotics researcher to find
+out more.
+The Daily: Why are you designing robots that imitate
+animals as opposed to humans?
+Mark Cutkosky: There are some things that animals
+can do much better than humans, like climb walls
+and run very fast. The fastest cockroaches can run 53
+body-lengths per second. Even the slower ones can
+do about 15 body lengths per second. If you could
+run at 55 body-lengths per second you'd be going
+
+about 55 mph.
+Also, for the amount of intelligence that we're
+actually able to put into small robots, insects are a
+much better target than mammals — let alone
+humans — in terms of behaviors and learning.
+TI): Where did the idea of hiomimetic robots origi
+nate — and when did you get involved?
+!MC: I think that robots have always, to some extent,
+been inspired by animals or humans. That's part of
+what the historical dream behind having robots is all
+about. What is new is that we can start to build and
+control them more as nature does. The days of "tin
+men" robots are over.
+We started 1999 and built our first bio-inspired
+running hexapod in January 2000. Its name was
+Sprawlita.
+TI): How are hiomimetic robots — robots that take
+their inspiration from nature — being used today?
+MC: Already, some bio-inspired robots are starting to
+make it into the field. One of our collaborators,
+Martin Buehler — who was formerly at McGill
+University and is now heading up a robotics group at
+
+Boston Dynamics Inc. — has a version of another
+hexapod [six-legged robot] called RHex that is being
+evaluated by the military.
+Tl): What Ls your favorite part of the robotics project?
+MC: Learning about biology and putting that knowl
+edge to work in real devices.
+TI): What is the most challenging part of the project?
+MC: Figuring out how to make something that comes
+even tolerably close to capturing some of the sophis
+tication that we see in biological structures.
+TI): Who works on this project besides yourself and
+what do they do?
+MC: I have a team of about 10 people at Stanford. In
+addition, we are collaborating with similar teams
+from various universities, working with researchers in
+biology and robotics departments.
+We learn a great deal from the biologists about
+how animals actually are built and work. We give [the
+biologists], in return, simplified approximations that
+we and they can test to see how well we understand
+the principles. It is much, much easier to do experi
+ments on a robot than on a live animal. The robot is
+far more cooperative.
+TI): Is it harder to design insect-like robots as
+opposed to human-like robots?
+MC: I think it's easier. Small animals are more spe
+cialized than humans. Cockroaches, for example, only
+do a few things really well: run fast, climb, hide, find
+food, eat, reproduce. And our robots are only trying
+excel at the first couple of those behaviors.
+TI): How do you see these robots influencing the
+technology of the future?
+MC: There are many ways: Biomimetic engineering
+has many applications. We have only recently
+developed the necessary analysis and manufactur
+ing methods to enable us to make biomimetic struc
+tures — with multiple and varying materials prop
+erties, embedded sensing and propulsion.
+So while robots are a particularly exciting appli
+cation, biomimetic design is also useful for pros
+thetics. sports equipment, perhaps even compo
+nents of tools and vehicles.
+
+
+
+The robots in Prof. Mark Cutkosky's lab are designed to look and act like cockroaches. By mimicking insect
+movements, these tiny robots can move quickly and cover extensive amounts of terrain in a short time
+span. Researchers believe that they could be used to detect mines or as tiny environmental sensors.
+When most people imagine artificial intelligence.
+Star Wars robots and human-like figures come to
+mind. But rather than staying in the box, Stanford
+researchers in the Engineering Department are look
+ing at other creatures to model in their artificial intel
+ligence projects, specifically insects. These sprawl
+robots, as they have been nicknamed, are manufac
+tured using a novel technique, making them more
+durable, which will increase the number of functions
+they can provide once they are out on the field.
+This sprawl project is led by Engineering Prof.
+Mark Cutkosky. The Daily took an opportunity to
+chat with this innovative robotics researcher to find
+out more.
+The Daily: Why are you designing robots that imitate
+animals as opposed to humans?
+Mark Cutkosky: There are some things that animals
+can do much better than humans, like climb walls
+and run very fast. The fastest cockroaches can run 53
+body-lengths per second. Even the slower ones can
+do about 15 body lengths per second. If you could
+run at 55 body-lengths per second you'd be going
+
+about 55 mph.
+Also, for the amount of intelligence that we're
+actually able to put into small robots, insects are a
+much better target than mammals — let alone
+humans — in terms of behaviors and learning.
+TI): Where did the idea of hiomimetic robots origi
+nate — and when did you get involved?
+!MC: I think that robots have always, to some extent,
+been inspired by animals or humans. That's part of
+what the historical dream behind having robots is all
+about. What is new is that we can start to build and
+control them more as nature does. The days of "tin
+men" robots are over.
+We started 1999 and built our first bio-inspired
+running hexapod in January 2000. Its name was
+Sprawlita.
+TI): How are hiomimetic robots — robots that take
+their inspiration from nature — being used today?
+MC: Already, some bio-inspired robots are starting to
+make it into the field. One of our collaborators,
+Martin Buehler — who was formerly at McGill
+University and is now heading up a robotics group at
+
+Boston Dynamics Inc. — has a version of another
+hexapod [six-legged robot] called RHex that is being
+evaluated by the military.
+Tl): What Ls your favorite part of the robotics project?
+MC: Learning about biology and putting that knowl
+edge to work in real devices.
+TI): What is the most challenging part of the project?
+MC: Figuring out how to make something that comes
+even tolerably close to capturing some of the sophis
+tication that we see in biological structures.
+TI): Who works on this project besides yourself and
+what do they do?
+MC: I have a team of about 10 people at Stanford. In
+addition, we are collaborating with similar teams
+from various universities, working with researchers in
+biology and robotics departments.
+We learn a great deal from the biologists about
+how animals actually are built and work. We give [the
+biologists], in return, simplified approximations that
+we and they can test to see how well we understand
+the principles. It is much, much easier to do experi
+ments on a robot than on a live animal. The robot is
+far more cooperative.
+TI): Is it harder to design insect-like robots as
+opposed to human-like robots?
+MC: I think it's easier. Small animals are more spe
+cialized than humans. Cockroaches, for example, only
+do a few things really well: run fast, climb, hide, find
+food, eat, reproduce. And our robots are only trying
+excel at the first couple of those behaviors.
+TI): How do you see these robots influencing the
+technology of the future?
+MC: There are many ways: Biomimetic engineering
+has many applications. We have only recently
+developed the necessary analysis and manufactur
+ing methods to enable us to make biomimetic struc
+tures — with multiple and varying materials prop
+erties, embedded sensing and propulsion.
+So while robots are a particularly exciting appli
+cation, biomimetic design is also useful for pros
+thetics. sports equipment, perhaps even compo
+nents of tools and vehicles.
+
+
+
+The robots in Prof. Mark Cutkosky's lab are designed to look and act like cockroaches. By mimicking insect
+movements, these tiny robots can move quickly and cover extensive amounts of terrain in a short time
+span. Researchers believe that they could be used to detect mines or as tiny environmental sensors.
+When most people imagine artificial intelligence.
+Star Wars robots and human-like figures come to
+mind. But rather than staying in the box, Stanford
+researchers in the Engineering Department are look
+ing at other creatures to model in their artificial intel
+ligence projects, specifically insects. These sprawl
+robots, as they have been nicknamed, are manufac
+tured using a novel technique, making them more
+durable, which will increase the number of functions
+they can provide once they are out on the field.
+This sprawl project is led by Engineering Prof.
+Mark Cutkosky. The Daily took an opportunity to
+chat with this innovative robotics researcher to find
+out more.
+The Daily: Why are you designing robots that imitate
+animals as opposed to humans?
+Mark Cutkosky: There are some things that animals
+can do much better than humans, like climb walls
+and run very fast. The fastest cockroaches can run 53
+body-lengths per second. Even the slower ones can
+do about 15 body lengths per second. If you could
+run at 55 body-lengths per second you'd be going
+
+about 55 mph.
+Also, for the amount of intelligence that we're
+actually able to put into small robots, insects are a
+much better target than mammals — let alone
+humans — in terms of behaviors and learning.
+TI): Where did the idea of hiomimetic robots origi
+nate — and when did you get involved?
+!MC: I think that robots have always, to some extent,
+been inspired by animals or humans. That's part of
+what the historical dream behind having robots is all
+about. What is new is that we can start to build and
+control them more as nature does. The days of "tin
+men" robots are over.
+We started 1999 and built our first bio-inspired
+running hexapod in January 2000. Its name was
+Sprawlita.
+TI): How are hiomimetic robots — robots that take
+their inspiration from nature — being used today?
+MC: Already, some bio-inspired robots are starting to
+make it into the field. One of our collaborators,
+Martin Buehler — who was formerly at McGill
+University and is now heading up a robotics group at
+
+Boston Dynamics Inc. — has a version of another
+hexapod [six-legged robot] called RHex that is being
+evaluated by the military.
+Tl): What Ls your favorite part of the robotics project?
+MC: Learning about biology and putting that knowl
+edge to work in real devices.
+TI): What is the most challenging part of the project?
+MC: Figuring out how to make something that comes
+even tolerably close to capturing some of the sophis
+tication that we see in biological structures.
+TI): Who works on this project besides yourself and
+what do they do?
+MC: I have a team of about 10 people at Stanford. In
+addition, we are collaborating with similar teams
+from various universities, working with researchers in
+biology and robotics departments.
+We learn a great deal from the biologists about
+how animals actually are built and work. We give [the
+biologists], in return, simplified approximations that
+we and they can test to see how well we understand
+the principles. It is much, much easier to do experi
+ments on a robot than on a live animal. The robot is
+far more cooperative.
+TI): Is it harder to design insect-like robots as
+opposed to human-like robots?
+MC: I think it's easier. Small animals are more spe
+cialized than humans. Cockroaches, for example, only
+do a few things really well: run fast, climb, hide, find
+food, eat, reproduce. And our robots are only trying
+excel at the first couple of those behaviors.
+TI): How do you see these robots influencing the
+technology of the future?
+MC: There are many ways: Biomimetic engineering
+has many applications. We have only recently
+developed the necessary analysis and manufactur
+ing methods to enable us to make biomimetic struc
+tures — with multiple and varying materials prop
+erties, embedded sensing and propulsion.
+So while robots are a particularly exciting appli
+cation, biomimetic design is also useful for pros
+thetics. sports equipment, perhaps even compo
+nents of tools and vehicles.
+
+
+
+The robots in Prof. Mark Cutkosky's lab are designed to look and act like cockroaches. By mimicking insect
+movements, these tiny robots can move quickly and cover extensive amounts of terrain in a short time
+span. Researchers believe that they could be used to detect mines or as tiny environmental sensors.
+When most people imagine artificial intelligence.
+Star Wars robots and human-like figures come to
+mind. But rather than staying in the box, Stanford
+researchers in the Engineering Department are look
+ing at other creatures to model in their artificial intel
+ligence projects, specifically insects. These sprawl
+robots, as they have been nicknamed, are manufac
+tured using a novel technique, making them more
+durable, which will increase the number of functions
+they can provide once they are out on the field.
+This sprawl project is led by Engineering Prof.
+Mark Cutkosky. The Daily took an opportunity to
+chat with this innovative robotics researcher to find
+out more.
+The Daily: Why are you designing robots that imitate
+animals as opposed to humans?
+Mark Cutkosky: There are some things that animals
+can do much better than humans, like climb walls
+and run very fast. The fastest cockroaches can run 53
+body-lengths per second. Even the slower ones can
+do about 15 body lengths per second. If you could
+run at 55 body-lengths per second you'd be going
+
+about 55 mph.
+Also, for the amount of intelligence that we're
+actually able to put into small robots, insects are a
+much better target than mammals — let alone
+humans — in terms of behaviors and learning.
+TI): Where did the idea of hiomimetic robots origi
+nate — and when did you get involved?
+!MC: I think that robots have always, to some extent,
+been inspired by animals or humans. That's part of
+what the historical dream behind having robots is all
+about. What is new is that we can start to build and
+control them more as nature does. The days of "tin
+men" robots are over.
+We started 1999 and built our first bio-inspired
+running hexapod in January 2000. Its name was
+Sprawlita.
+TI): How are hiomimetic robots — robots that take
+their inspiration from nature — being used today?
+MC: Already, some bio-inspired robots are starting to
+make it into the field. One of our collaborators,
+Martin Buehler — who was formerly at McGill
+University and is now heading up a robotics group at
+
+Boston Dynamics Inc. — has a version of another
+hexapod [six-legged robot] called RHex that is being
+evaluated by the military.
+Tl): What Ls your favorite part of the robotics project?
+MC: Learning about biology and putting that knowl
+edge to work in real devices.
+TI): What is the most challenging part of the project?
+MC: Figuring out how to make something that comes
+even tolerably close to capturing some of the sophis
+tication that we see in biological structures.
+TI): Who works on this project besides yourself and
+what do they do?
+MC: I have a team of about 10 people at Stanford. In
+addition, we are collaborating with similar teams
+from various universities, working with researchers in
+biology and robotics departments.
+We learn a great deal from the biologists about
+how animals actually are built and work. We give [the
+biologists], in return, simplified approximations that
+we and they can test to see how well we understand
+the principles. It is much, much easier to do experi
+ments on a robot than on a live animal. The robot is
+far more cooperative.
+TI): Is it harder to design insect-like robots as
+opposed to human-like robots?
+MC: I think it's easier. Small animals are more spe
+cialized than humans. Cockroaches, for example, only
+do a few things really well: run fast, climb, hide, find
+food, eat, reproduce. And our robots are only trying
+excel at the first couple of those behaviors.
+TI): How do you see these robots influencing the
+technology of the future?
+MC: There are many ways: Biomimetic engineering
+has many applications. We have only recently
+developed the necessary analysis and manufactur
+ing methods to enable us to make biomimetic struc
+tures — with multiple and varying materials prop
+erties, embedded sensing and propulsion.
+So while robots are a particularly exciting appli
+cation, biomimetic design is also useful for pros
+thetics. sports equipment, perhaps even compo
+nents of tools and vehicles.
+
+
+
+The robots in Prof. Mark Cutkosky's lab are designed to look and act like cockroaches. By mimicking insect
+movements, these tiny robots can move quickly and cover extensive amounts of terrain in a short time
+span. Researchers believe that they could be used to detect mines or as tiny environmental sensors.
+When most people imagine artificial intelligence.
+Star Wars robots and human-like figures come to
+mind. But rather than staying in the box, Stanford
+researchers in the Engineering Department are look
+ing at other creatures to model in their artificial intel
+ligence projects, specifically insects. These sprawl
+robots, as they have been nicknamed, are manufac
+tured using a novel technique, making them more
+durable, which will increase the number of functions
+they can provide once they are out on the field.
+This sprawl project is led by Engineering Prof.
+Mark Cutkosky. The Daily took an opportunity to
+chat with this innovative robotics researcher to find
+out more.
+The Daily: Why are you designing robots that imitate
+animals as opposed to humans?
+Mark Cutkosky: There are some things that animals
+can do much better than humans, like climb walls
+and run very fast. The fastest cockroaches can run 53
+body-lengths per second. Even the slower ones can
+do about 15 body lengths per second. If you could
+run at 55 body-lengths per second you'd be going
+
+about 55 mph.
+Also, for the amount of intelligence that we're
+actually able to put into small robots, insects are a
+much better target than mammals — let alone
+humans — in terms of behaviors and learning.
+TI): Where did the idea of hiomimetic robots origi
+nate — and when did you get involved?
+!MC: I think that robots have always, to some extent,
+been inspired by animals or humans. That's part of
+what the historical dream behind having robots is all
+about. What is new is that we can start to build and
+control them more as nature does. The days of "tin
+men" robots are over.
+We started 1999 and built our first bio-inspired
+running hexapod in January 2000. Its name was
+Sprawlita.
+TI): How are hiomimetic robots — robots that take
+their inspiration from nature — being used today?
+MC: Already, some bio-inspired robots are starting to
+make it into the field. One of our collaborators,
+Martin Buehler — who was formerly at McGill
+University and is now heading up a robotics group at
+
+Boston Dynamics Inc. — has a version of another
+hexapod [six-legged robot] called RHex that is being
+evaluated by the military.
+Tl): What Ls your favorite part of the robotics project?
+MC: Learning about biology and putting that knowl
+edge to work in real devices.
+TI): What is the most challenging part of the project?
+MC: Figuring out how to make something that comes
+even tolerably close to capturing some of the sophis
+tication that we see in biological structures.
+TI): Who works on this project besides yourself and
+what do they do?
+MC: I have a team of about 10 people at Stanford. In
+addition, we are collaborating with similar teams
+from various universities, working with researchers in
+biology and robotics departments.
+We learn a great deal from the biologists about
+how animals actually are built and work. We give [the
+biologists], in return, simplified approximations that
+we and they can test to see how well we understand
+the principles. It is much, much easier to do experi
+ments on a robot than on a live animal. The robot is
+far more cooperative.
+TI): Is it harder to design insect-like robots as
+opposed to human-like robots?
+MC: I think it's easier. Small animals are more spe
+cialized than humans. Cockroaches, for example, only
+do a few things really well: run fast, climb, hide, find
+food, eat, reproduce. And our robots are only trying
+excel at the first couple of those behaviors.
+TI): How do you see these robots influencing the
+technology of the future?
+MC: There are many ways: Biomimetic engineering
+has many applications. We have only recently
+developed the necessary analysis and manufactur
+ing methods to enable us to make biomimetic struc
+tures — with multiple and varying materials prop
+erties, embedded sensing and propulsion.
+So while robots are a particularly exciting appli
+cation, biomimetic design is also useful for pros
+thetics. sports equipment, perhaps even compo
+nents of tools and vehicles.
+
+
+
+The robots in Prof. Mark Cutkosky's lab are designed to look and act like cockroaches. By mimicking insect
+movements, these tiny robots can move quickly and cover extensive amounts of terrain in a short time
+span. Researchers believe that they could be used to detect mines or as tiny environmental sensors.
+When most people imagine artificial intelligence.
+Star Wars robots and human-like figures come to
+mind. But rather than staying in the box, Stanford
+researchers in the Engineering Department are look
+ing at other creatures to model in their artificial intel
+ligence projects, specifically insects. These sprawl
+robots, as they have been nicknamed, are manufac
+tured using a novel technique, making them more
+durable, which will increase the number of functions
+they can provide once they are out on the field.
+This sprawl project is led by Engineering Prof.
+Mark Cutkosky. The Daily took an opportunity to
+chat with this innovative robotics researcher to find
+out more.
+The Daily: Why are you designing robots that imitate
+animals as opposed to humans?
+Mark Cutkosky: There are some things that animals
+can do much better than humans, like climb walls
+and run very fast. The fastest cockroaches can run 53
+body-lengths per second. Even the slower ones can
+do about 15 body lengths per second. If you could
+run at 55 body-lengths per second you'd be going
+
+about 55 mph.
+Also, for the amount of intelligence that we're
+actually able to put into small robots, insects are a
+much better target than mammals — let alone
+humans — in terms of behaviors and learning.
+TI): Where did the idea of hiomimetic robots origi
+nate — and when did you get involved?
+!MC: I think that robots have always, to some extent,
+been inspired by animals or humans. That's part of
+what the historical dream behind having robots is all
+about. What is new is that we can start to build and
+control them more as nature does. The days of "tin
+men" robots are over.
+We started 1999 and built our first bio-inspired
+running hexapod in January 2000. Its name was
+Sprawlita.
+TI): How are hiomimetic robots — robots that take
+their inspiration from nature — being used today?
+MC: Already, some bio-inspired robots are starting to
+make it into the field. One of our collaborators,
+Martin Buehler — who was formerly at McGill
+University and is now heading up a robotics group at
+
+Boston Dynamics Inc. — has a version of another
+hexapod [six-legged robot] called RHex that is being
+evaluated by the military.
+Tl): What Ls your favorite part of the robotics project?
+MC: Learning about biology and putting that knowl
+edge to work in real devices.
+TI): What is the most challenging part of the project?
+MC: Figuring out how to make something that comes
+even tolerably close to capturing some of the sophis
+tication that we see in biological structures.
+TI): Who works on this project besides yourself and
+what do they do?
+MC: I have a team of about 10 people at Stanford. In
+addition, we are collaborating with similar teams
+from various universities, working with researchers in
+biology and robotics departments.
+We learn a great deal from the biologists about
+how animals actually are built and work. We give [the
+biologists], in return, simplified approximations that
+we and they can test to see how well we understand
+the principles. It is much, much easier to do experi
+ments on a robot than on a live animal. The robot is
+far more cooperative.
+TI): Is it harder to design insect-like robots as
+opposed to human-like robots?
+MC: I think it's easier. Small animals are more spe
+cialized than humans. Cockroaches, for example, only
+do a few things really well: run fast, climb, hide, find
+food, eat, reproduce. And our robots are only trying
+excel at the first couple of those behaviors.
+TI): How do you see these robots influencing the
+technology of the future?
+MC: There are many ways: Biomimetic engineering
+has many applications. We have only recently
+developed the necessary analysis and manufactur
+ing methods to enable us to make biomimetic struc
+tures — with multiple and varying materials prop
+erties, embedded sensing and propulsion.
+So while robots are a particularly exciting appli
+cation, biomimetic design is also useful for pros
+thetics. sports equipment, perhaps even compo
+nents of tools and vehicles.
+
+
+
+The robots in Prof. Mark Cutkosky's lab are designed to look and act like cockroaches. By mimicking insect
+movements, these tiny robots can move quickly and cover extensive amounts of terrain in a short time
+span. Researchers believe that they could be used to detect mines or as tiny environmental sensors.
+When most people imagine artificial intelligence.
+Star Wars robots and human-like figures come to
+mind. But rather than staying in the box, Stanford
+researchers in the Engineering Department are look
+ing at other creatures to model in their artificial intel
+ligence projects, specifically insects. These sprawl
+robots, as they have been nicknamed, are manufac
+tured using a novel technique, making them more
+durable, which will increase the number of functions
+they can provide once they are out on the field.
+This sprawl project is led by Engineering Prof.
+Mark Cutkosky. The Daily took an opportunity to
+chat with this innovative robotics researcher to find
+out more.
+The Daily: Why are you designing robots that imitate
+animals as opposed to humans?
+Mark Cutkosky: There are some things that animals
+can do much better than humans, like climb walls
+and run very fast. The fastest cockroaches can run 53
+body-lengths per second. Even the slower ones can
+do about 15 body lengths per second. If you could
+run at 55 body-lengths per second you'd be going
+
+about 55 mph.
+Also, for the amount of intelligence that we're
+actually able to put into small robots, insects are a
+much better target than mammals — let alone
+humans — in terms of behaviors and learning.
+TI): Where did the idea of hiomimetic robots origi
+nate — and when did you get involved?
+!MC: I think that robots have always, to some extent,
+been inspired by animals or humans. That's part of
+what the historical dream behind having robots is all
+about. What is new is that we can start to build and
+control them more as nature does. The days of "tin
+men" robots are over.
+We started 1999 and built our first bio-inspired
+running hexapod in January 2000. Its name was
+Sprawlita.
+TI): How are hiomimetic robots — robots that take
+their inspiration from nature — being used today?
+MC: Already, some bio-inspired robots are starting to
+make it into the field. One of our collaborators,
+Martin Buehler — who was formerly at McGill
+University and is now heading up a robotics group at
+
+Boston Dynamics Inc. — has a version of another
+hexapod [six-legged robot] called RHex that is being
+evaluated by the military.
+Tl): What Ls your favorite part of the robotics project?
+MC: Learning about biology and putting that knowl
+edge to work in real devices.
+TI): What is the most challenging part of the project?
+MC: Figuring out how to make something that comes
+even tolerably close to capturing some of the sophis
+tication that we see in biological structures.
+TI): Who works on this project besides yourself and
+what do they do?
+MC: I have a team of about 10 people at Stanford. In
+addition, we are collaborating with similar teams
+from various universities, working with researchers in
+biology and robotics departments.
+We learn a great deal from the biologists about
+how animals actually are built and work. We give [the
+biologists], in return, simplified approximations that
+we and they can test to see how well we understand
+the principles. It is much, much easier to do experi
+ments on a robot than on a live animal. The robot is
+far more cooperative.
+TI): Is it harder to design insect-like robots as
+opposed to human-like robots?
+MC: I think it's easier. Small animals are more spe
+cialized than humans. Cockroaches, for example, only
+do a few things really well: run fast, climb, hide, find
+food, eat, reproduce. And our robots are only trying
+excel at the first couple of those behaviors.
+TI): How do you see these robots influencing the
+technology of the future?
+MC: There are many ways: Biomimetic engineering
+has many applications. We have only recently
+developed the necessary analysis and manufactur
+ing methods to enable us to make biomimetic struc
+tures — with multiple and varying materials prop
+erties, embedded sensing and propulsion.
+So while robots are a particularly exciting appli
+cation, biomimetic design is also useful for pros
+thetics. sports equipment, perhaps even compo
+nents of tools and vehicles.
+
+
+
+The robots in Prof. Mark Cutkosky's lab are designed to look and act like cockroaches. By mimicking insect
+movements, these tiny robots can move quickly and cover extensive amounts of terrain in a short time
+span. Researchers believe that they could be used to detect mines or as tiny environmental sensors.

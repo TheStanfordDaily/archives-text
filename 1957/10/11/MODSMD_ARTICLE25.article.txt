@@ -1,0 +1,835 @@
+# Under the Weather
+## 
+### 
+Encina Infirmary: Jacques Ar
+mand, George Boldt, Milton Bon
+zell, Stewart Brand, James R.
+Burk, John Butler, Jack Clausen,
+Michael Corey, Dave Cox, Stan
+ley Cronwall, Duane Davis. Robin
+Dean, James Eardley, Joseph Eb
+erly, Richard Egan, Donald Fos
+ter, Charles Ginise, Gary Gouvea,
+Larry Grace, Robert Hamilton,
+Robert Harrell, George L. Ho
+nore, Michael Immell, Alex King,
+Larry L. Lynch, James W. Mark
+ham, Heywood Mausergh, Ken
+neth McCaw, Ernest B. Miller.
+Joseph Murphy, Warren Nelson,
+Hal Ofutt, Charles A. Peterson,
+Don Proudfoot, Herbert Rudsch,
+James Reed. Hal Reynolds, Law
+rence Seering, John Stahler, War
+ren Strahle, Kenneth Taylor, Bar
+ry Thompson, Ralph Thompson,
+Bill Tiederman, John Vafis, Rob
+ert Van Luchene, Donald Vine. H.
+Thomas Watson, Philip S. Wei
+gand, John Werolin, Alex Wes
+sitsh, Lael Young.
+Isolation Hospital: John Bas
+sett, Larry Bramble, Charley Car
+penter, Donald Charnley, Adrian
+Dean, Lynn Gallagher, Charles
+Kelley, John McKenney, David
+Newell, David Owen, Harkjoon
+Paik, Nicki Record, Constance
+Seeley, Lawrence Shepp, Richard
+Stolz, Stanton Thorneberry, Wil
+liam Wittmeyer, William Yates.
+Men's Rest Home: John Caple,
+Ted Hulbert, James Korth, Tyson
+Roberts, Ben Robinson, John
+Thomas.
+Palo Alto Hospital: James Al
+len, Barbara Calvin. John Ham
+merstad, Barton Hooley, Peter
+Katsufrakis, John Miller, Rich
+ard Miller, Bagicha Minhas, John
+Steinhauser, Dennis Weiss.
+Women's Rest Home: Carolyn
+Baker. Ruth Collins, Sylvia Gla
+lardi, Nancy Lewis, Brenda Petri,
+Hannah Smith, Charlotte Wal
+lace.
+Encina Infirmary: Jacques Ar
+mand, George Boldt, Milton Bon
+zell, Stewart Brand, James R.
+Burk, John Butler, Jack Clausen,
+Michael Corey, Dave Cox, Stan
+ley Cronwall, Duane Davis. Robin
+Dean, James Eardley, Joseph Eb
+erly, Richard Egan, Donald Fos
+ter, Charles Ginise, Gary Gouvea,
+Larry Grace, Robert Hamilton,
+Robert Harrell, George L. Ho
+nore, Michael Immell, Alex King,
+Larry L. Lynch, James W. Mark
+ham, Heywood Mausergh, Ken
+neth McCaw, Ernest B. Miller.
+Joseph Murphy, Warren Nelson,
+Hal Ofutt, Charles A. Peterson,
+Don Proudfoot, Herbert Rudsch,
+James Reed. Hal Reynolds, Law
+rence Seering, John Stahler, War
+ren Strahle, Kenneth Taylor, Bar
+ry Thompson, Ralph Thompson,
+Bill Tiederman, John Vafis, Rob
+ert Van Luchene, Donald Vine. H.
+Thomas Watson, Philip S. Wei
+gand, John Werolin, Alex Wes
+sitsh, Lael Young.
+Isolation Hospital: John Bas
+sett, Larry Bramble, Charley Car
+penter, Donald Charnley, Adrian
+Dean, Lynn Gallagher, Charles
+Kelley, John McKenney, David
+Newell, David Owen, Harkjoon
+Paik, Nicki Record, Constance
+Seeley, Lawrence Shepp, Richard
+Stolz, Stanton Thorneberry, Wil
+liam Wittmeyer, William Yates.
+Men's Rest Home: John Caple,
+Ted Hulbert, James Korth, Tyson
+Roberts, Ben Robinson, John
+Thomas.
+Palo Alto Hospital: James Al
+len, Barbara Calvin. John Ham
+merstad, Barton Hooley, Peter
+Katsufrakis, John Miller, Rich
+ard Miller, Bagicha Minhas, John
+Steinhauser, Dennis Weiss.
+Women's Rest Home: Carolyn
+Baker. Ruth Collins, Sylvia Gla
+lardi, Nancy Lewis, Brenda Petri,
+Hannah Smith, Charlotte Wal
+lace.
+Encina Infirmary: Jacques Ar
+mand, George Boldt, Milton Bon
+zell, Stewart Brand, James R.
+Burk, John Butler, Jack Clausen,
+Michael Corey, Dave Cox, Stan
+ley Cronwall, Duane Davis. Robin
+Dean, James Eardley, Joseph Eb
+erly, Richard Egan, Donald Fos
+ter, Charles Ginise, Gary Gouvea,
+Larry Grace, Robert Hamilton,
+Robert Harrell, George L. Ho
+nore, Michael Immell, Alex King,
+Larry L. Lynch, James W. Mark
+ham, Heywood Mausergh, Ken
+neth McCaw, Ernest B. Miller.
+Joseph Murphy, Warren Nelson,
+Hal Ofutt, Charles A. Peterson,
+Don Proudfoot, Herbert Rudsch,
+James Reed. Hal Reynolds, Law
+rence Seering, John Stahler, War
+ren Strahle, Kenneth Taylor, Bar
+ry Thompson, Ralph Thompson,
+Bill Tiederman, John Vafis, Rob
+ert Van Luchene, Donald Vine. H.
+Thomas Watson, Philip S. Wei
+gand, John Werolin, Alex Wes
+sitsh, Lael Young.
+Isolation Hospital: John Bas
+sett, Larry Bramble, Charley Car
+penter, Donald Charnley, Adrian
+Dean, Lynn Gallagher, Charles
+Kelley, John McKenney, David
+Newell, David Owen, Harkjoon
+Paik, Nicki Record, Constance
+Seeley, Lawrence Shepp, Richard
+Stolz, Stanton Thorneberry, Wil
+liam Wittmeyer, William Yates.
+Men's Rest Home: John Caple,
+Ted Hulbert, James Korth, Tyson
+Roberts, Ben Robinson, John
+Thomas.
+Palo Alto Hospital: James Al
+len, Barbara Calvin. John Ham
+merstad, Barton Hooley, Peter
+Katsufrakis, John Miller, Rich
+ard Miller, Bagicha Minhas, John
+Steinhauser, Dennis Weiss.
+Women's Rest Home: Carolyn
+Baker. Ruth Collins, Sylvia Gla
+lardi, Nancy Lewis, Brenda Petri,
+Hannah Smith, Charlotte Wal
+lace.
+Encina Infirmary: Jacques Ar
+mand, George Boldt, Milton Bon
+zell, Stewart Brand, James R.
+Burk, John Butler, Jack Clausen,
+Michael Corey, Dave Cox, Stan
+ley Cronwall, Duane Davis. Robin
+Dean, James Eardley, Joseph Eb
+erly, Richard Egan, Donald Fos
+ter, Charles Ginise, Gary Gouvea,
+Larry Grace, Robert Hamilton,
+Robert Harrell, George L. Ho
+nore, Michael Immell, Alex King,
+Larry L. Lynch, James W. Mark
+ham, Heywood Mausergh, Ken
+neth McCaw, Ernest B. Miller.
+Joseph Murphy, Warren Nelson,
+Hal Ofutt, Charles A. Peterson,
+Don Proudfoot, Herbert Rudsch,
+James Reed. Hal Reynolds, Law
+rence Seering, John Stahler, War
+ren Strahle, Kenneth Taylor, Bar
+ry Thompson, Ralph Thompson,
+Bill Tiederman, John Vafis, Rob
+ert Van Luchene, Donald Vine. H.
+Thomas Watson, Philip S. Wei
+gand, John Werolin, Alex Wes
+sitsh, Lael Young.
+Isolation Hospital: John Bas
+sett, Larry Bramble, Charley Car
+penter, Donald Charnley, Adrian
+Dean, Lynn Gallagher, Charles
+Kelley, John McKenney, David
+Newell, David Owen, Harkjoon
+Paik, Nicki Record, Constance
+Seeley, Lawrence Shepp, Richard
+Stolz, Stanton Thorneberry, Wil
+liam Wittmeyer, William Yates.
+Men's Rest Home: John Caple,
+Ted Hulbert, James Korth, Tyson
+Roberts, Ben Robinson, John
+Thomas.
+Palo Alto Hospital: James Al
+len, Barbara Calvin. John Ham
+merstad, Barton Hooley, Peter
+Katsufrakis, John Miller, Rich
+ard Miller, Bagicha Minhas, John
+Steinhauser, Dennis Weiss.
+Women's Rest Home: Carolyn
+Baker. Ruth Collins, Sylvia Gla
+lardi, Nancy Lewis, Brenda Petri,
+Hannah Smith, Charlotte Wal
+lace.
+Encina Infirmary: Jacques Ar
+mand, George Boldt, Milton Bon
+zell, Stewart Brand, James R.
+Burk, John Butler, Jack Clausen,
+Michael Corey, Dave Cox, Stan
+ley Cronwall, Duane Davis. Robin
+Dean, James Eardley, Joseph Eb
+erly, Richard Egan, Donald Fos
+ter, Charles Ginise, Gary Gouvea,
+Larry Grace, Robert Hamilton,
+Robert Harrell, George L. Ho
+nore, Michael Immell, Alex King,
+Larry L. Lynch, James W. Mark
+ham, Heywood Mausergh, Ken
+neth McCaw, Ernest B. Miller.
+Joseph Murphy, Warren Nelson,
+Hal Ofutt, Charles A. Peterson,
+Don Proudfoot, Herbert Rudsch,
+James Reed. Hal Reynolds, Law
+rence Seering, John Stahler, War
+ren Strahle, Kenneth Taylor, Bar
+ry Thompson, Ralph Thompson,
+Bill Tiederman, John Vafis, Rob
+ert Van Luchene, Donald Vine. H.
+Thomas Watson, Philip S. Wei
+gand, John Werolin, Alex Wes
+sitsh, Lael Young.
+Isolation Hospital: John Bas
+sett, Larry Bramble, Charley Car
+penter, Donald Charnley, Adrian
+Dean, Lynn Gallagher, Charles
+Kelley, John McKenney, David
+Newell, David Owen, Harkjoon
+Paik, Nicki Record, Constance
+Seeley, Lawrence Shepp, Richard
+Stolz, Stanton Thorneberry, Wil
+liam Wittmeyer, William Yates.
+Men's Rest Home: John Caple,
+Ted Hulbert, James Korth, Tyson
+Roberts, Ben Robinson, John
+Thomas.
+Palo Alto Hospital: James Al
+len, Barbara Calvin. John Ham
+merstad, Barton Hooley, Peter
+Katsufrakis, John Miller, Rich
+ard Miller, Bagicha Minhas, John
+Steinhauser, Dennis Weiss.
+Women's Rest Home: Carolyn
+Baker. Ruth Collins, Sylvia Gla
+lardi, Nancy Lewis, Brenda Petri,
+Hannah Smith, Charlotte Wal
+lace.
+Encina Infirmary: Jacques Ar
+mand, George Boldt, Milton Bon
+zell, Stewart Brand, James R.
+Burk, John Butler, Jack Clausen,
+Michael Corey, Dave Cox, Stan
+ley Cronwall, Duane Davis. Robin
+Dean, James Eardley, Joseph Eb
+erly, Richard Egan, Donald Fos
+ter, Charles Ginise, Gary Gouvea,
+Larry Grace, Robert Hamilton,
+Robert Harrell, George L. Ho
+nore, Michael Immell, Alex King,
+Larry L. Lynch, James W. Mark
+ham, Heywood Mausergh, Ken
+neth McCaw, Ernest B. Miller.
+Joseph Murphy, Warren Nelson,
+Hal Ofutt, Charles A. Peterson,
+Don Proudfoot, Herbert Rudsch,
+James Reed. Hal Reynolds, Law
+rence Seering, John Stahler, War
+ren Strahle, Kenneth Taylor, Bar
+ry Thompson, Ralph Thompson,
+Bill Tiederman, John Vafis, Rob
+ert Van Luchene, Donald Vine. H.
+Thomas Watson, Philip S. Wei
+gand, John Werolin, Alex Wes
+sitsh, Lael Young.
+Isolation Hospital: John Bas
+sett, Larry Bramble, Charley Car
+penter, Donald Charnley, Adrian
+Dean, Lynn Gallagher, Charles
+Kelley, John McKenney, David
+Newell, David Owen, Harkjoon
+Paik, Nicki Record, Constance
+Seeley, Lawrence Shepp, Richard
+Stolz, Stanton Thorneberry, Wil
+liam Wittmeyer, William Yates.
+Men's Rest Home: John Caple,
+Ted Hulbert, James Korth, Tyson
+Roberts, Ben Robinson, John
+Thomas.
+Palo Alto Hospital: James Al
+len, Barbara Calvin. John Ham
+merstad, Barton Hooley, Peter
+Katsufrakis, John Miller, Rich
+ard Miller, Bagicha Minhas, John
+Steinhauser, Dennis Weiss.
+Women's Rest Home: Carolyn
+Baker. Ruth Collins, Sylvia Gla
+lardi, Nancy Lewis, Brenda Petri,
+Hannah Smith, Charlotte Wal
+lace.
+Encina Infirmary: Jacques Ar
+mand, George Boldt, Milton Bon
+zell, Stewart Brand, James R.
+Burk, John Butler, Jack Clausen,
+Michael Corey, Dave Cox, Stan
+ley Cronwall, Duane Davis. Robin
+Dean, James Eardley, Joseph Eb
+erly, Richard Egan, Donald Fos
+ter, Charles Ginise, Gary Gouvea,
+Larry Grace, Robert Hamilton,
+Robert Harrell, George L. Ho
+nore, Michael Immell, Alex King,
+Larry L. Lynch, James W. Mark
+ham, Heywood Mausergh, Ken
+neth McCaw, Ernest B. Miller.
+Joseph Murphy, Warren Nelson,
+Hal Ofutt, Charles A. Peterson,
+Don Proudfoot, Herbert Rudsch,
+James Reed. Hal Reynolds, Law
+rence Seering, John Stahler, War
+ren Strahle, Kenneth Taylor, Bar
+ry Thompson, Ralph Thompson,
+Bill Tiederman, John Vafis, Rob
+ert Van Luchene, Donald Vine. H.
+Thomas Watson, Philip S. Wei
+gand, John Werolin, Alex Wes
+sitsh, Lael Young.
+Isolation Hospital: John Bas
+sett, Larry Bramble, Charley Car
+penter, Donald Charnley, Adrian
+Dean, Lynn Gallagher, Charles
+Kelley, John McKenney, David
+Newell, David Owen, Harkjoon
+Paik, Nicki Record, Constance
+Seeley, Lawrence Shepp, Richard
+Stolz, Stanton Thorneberry, Wil
+liam Wittmeyer, William Yates.
+Men's Rest Home: John Caple,
+Ted Hulbert, James Korth, Tyson
+Roberts, Ben Robinson, John
+Thomas.
+Palo Alto Hospital: James Al
+len, Barbara Calvin. John Ham
+merstad, Barton Hooley, Peter
+Katsufrakis, John Miller, Rich
+ard Miller, Bagicha Minhas, John
+Steinhauser, Dennis Weiss.
+Women's Rest Home: Carolyn
+Baker. Ruth Collins, Sylvia Gla
+lardi, Nancy Lewis, Brenda Petri,
+Hannah Smith, Charlotte Wal
+lace.
+Encina Infirmary: Jacques Ar
+mand, George Boldt, Milton Bon
+zell, Stewart Brand, James R.
+Burk, John Butler, Jack Clausen,
+Michael Corey, Dave Cox, Stan
+ley Cronwall, Duane Davis. Robin
+Dean, James Eardley, Joseph Eb
+erly, Richard Egan, Donald Fos
+ter, Charles Ginise, Gary Gouvea,
+Larry Grace, Robert Hamilton,
+Robert Harrell, George L. Ho
+nore, Michael Immell, Alex King,
+Larry L. Lynch, James W. Mark
+ham, Heywood Mausergh, Ken
+neth McCaw, Ernest B. Miller.
+Joseph Murphy, Warren Nelson,
+Hal Ofutt, Charles A. Peterson,
+Don Proudfoot, Herbert Rudsch,
+James Reed. Hal Reynolds, Law
+rence Seering, John Stahler, War
+ren Strahle, Kenneth Taylor, Bar
+ry Thompson, Ralph Thompson,
+Bill Tiederman, John Vafis, Rob
+ert Van Luchene, Donald Vine. H.
+Thomas Watson, Philip S. Wei
+gand, John Werolin, Alex Wes
+sitsh, Lael Young.
+Isolation Hospital: John Bas
+sett, Larry Bramble, Charley Car
+penter, Donald Charnley, Adrian
+Dean, Lynn Gallagher, Charles
+Kelley, John McKenney, David
+Newell, David Owen, Harkjoon
+Paik, Nicki Record, Constance
+Seeley, Lawrence Shepp, Richard
+Stolz, Stanton Thorneberry, Wil
+liam Wittmeyer, William Yates.
+Men's Rest Home: John Caple,
+Ted Hulbert, James Korth, Tyson
+Roberts, Ben Robinson, John
+Thomas.
+Palo Alto Hospital: James Al
+len, Barbara Calvin. John Ham
+merstad, Barton Hooley, Peter
+Katsufrakis, John Miller, Rich
+ard Miller, Bagicha Minhas, John
+Steinhauser, Dennis Weiss.
+Women's Rest Home: Carolyn
+Baker. Ruth Collins, Sylvia Gla
+lardi, Nancy Lewis, Brenda Petri,
+Hannah Smith, Charlotte Wal
+lace.
+Encina Infirmary: Jacques Ar
+mand, George Boldt, Milton Bon
+zell, Stewart Brand, James R.
+Burk, John Butler, Jack Clausen,
+Michael Corey, Dave Cox, Stan
+ley Cronwall, Duane Davis. Robin
+Dean, James Eardley, Joseph Eb
+erly, Richard Egan, Donald Fos
+ter, Charles Ginise, Gary Gouvea,
+Larry Grace, Robert Hamilton,
+Robert Harrell, George L. Ho
+nore, Michael Immell, Alex King,
+Larry L. Lynch, James W. Mark
+ham, Heywood Mausergh, Ken
+neth McCaw, Ernest B. Miller.
+Joseph Murphy, Warren Nelson,
+Hal Ofutt, Charles A. Peterson,
+Don Proudfoot, Herbert Rudsch,
+James Reed. Hal Reynolds, Law
+rence Seering, John Stahler, War
+ren Strahle, Kenneth Taylor, Bar
+ry Thompson, Ralph Thompson,
+Bill Tiederman, John Vafis, Rob
+ert Van Luchene, Donald Vine. H.
+Thomas Watson, Philip S. Wei
+gand, John Werolin, Alex Wes
+sitsh, Lael Young.
+Isolation Hospital: John Bas
+sett, Larry Bramble, Charley Car
+penter, Donald Charnley, Adrian
+Dean, Lynn Gallagher, Charles
+Kelley, John McKenney, David
+Newell, David Owen, Harkjoon
+Paik, Nicki Record, Constance
+Seeley, Lawrence Shepp, Richard
+Stolz, Stanton Thorneberry, Wil
+liam Wittmeyer, William Yates.
+Men's Rest Home: John Caple,
+Ted Hulbert, James Korth, Tyson
+Roberts, Ben Robinson, John
+Thomas.
+Palo Alto Hospital: James Al
+len, Barbara Calvin. John Ham
+merstad, Barton Hooley, Peter
+Katsufrakis, John Miller, Rich
+ard Miller, Bagicha Minhas, John
+Steinhauser, Dennis Weiss.
+Women's Rest Home: Carolyn
+Baker. Ruth Collins, Sylvia Gla
+lardi, Nancy Lewis, Brenda Petri,
+Hannah Smith, Charlotte Wal
+lace.
+Encina Infirmary: Jacques Ar
+mand, George Boldt, Milton Bon
+zell, Stewart Brand, James R.
+Burk, John Butler, Jack Clausen,
+Michael Corey, Dave Cox, Stan
+ley Cronwall, Duane Davis. Robin
+Dean, James Eardley, Joseph Eb
+erly, Richard Egan, Donald Fos
+ter, Charles Ginise, Gary Gouvea,
+Larry Grace, Robert Hamilton,
+Robert Harrell, George L. Ho
+nore, Michael Immell, Alex King,
+Larry L. Lynch, James W. Mark
+ham, Heywood Mausergh, Ken
+neth McCaw, Ernest B. Miller.
+Joseph Murphy, Warren Nelson,
+Hal Ofutt, Charles A. Peterson,
+Don Proudfoot, Herbert Rudsch,
+James Reed. Hal Reynolds, Law
+rence Seering, John Stahler, War
+ren Strahle, Kenneth Taylor, Bar
+ry Thompson, Ralph Thompson,
+Bill Tiederman, John Vafis, Rob
+ert Van Luchene, Donald Vine. H.
+Thomas Watson, Philip S. Wei
+gand, John Werolin, Alex Wes
+sitsh, Lael Young.
+Isolation Hospital: John Bas
+sett, Larry Bramble, Charley Car
+penter, Donald Charnley, Adrian
+Dean, Lynn Gallagher, Charles
+Kelley, John McKenney, David
+Newell, David Owen, Harkjoon
+Paik, Nicki Record, Constance
+Seeley, Lawrence Shepp, Richard
+Stolz, Stanton Thorneberry, Wil
+liam Wittmeyer, William Yates.
+Men's Rest Home: John Caple,
+Ted Hulbert, James Korth, Tyson
+Roberts, Ben Robinson, John
+Thomas.
+Palo Alto Hospital: James Al
+len, Barbara Calvin. John Ham
+merstad, Barton Hooley, Peter
+Katsufrakis, John Miller, Rich
+ard Miller, Bagicha Minhas, John
+Steinhauser, Dennis Weiss.
+Women's Rest Home: Carolyn
+Baker. Ruth Collins, Sylvia Gla
+lardi, Nancy Lewis, Brenda Petri,
+Hannah Smith, Charlotte Wal
+lace.
+Encina Infirmary: Jacques Ar
+mand, George Boldt, Milton Bon
+zell, Stewart Brand, James R.
+Burk, John Butler, Jack Clausen,
+Michael Corey, Dave Cox, Stan
+ley Cronwall, Duane Davis. Robin
+Dean, James Eardley, Joseph Eb
+erly, Richard Egan, Donald Fos
+ter, Charles Ginise, Gary Gouvea,
+Larry Grace, Robert Hamilton,
+Robert Harrell, George L. Ho
+nore, Michael Immell, Alex King,
+Larry L. Lynch, James W. Mark
+ham, Heywood Mausergh, Ken
+neth McCaw, Ernest B. Miller.
+Joseph Murphy, Warren Nelson,
+Hal Ofutt, Charles A. Peterson,
+Don Proudfoot, Herbert Rudsch,
+James Reed. Hal Reynolds, Law
+rence Seering, John Stahler, War
+ren Strahle, Kenneth Taylor, Bar
+ry Thompson, Ralph Thompson,
+Bill Tiederman, John Vafis, Rob
+ert Van Luchene, Donald Vine. H.
+Thomas Watson, Philip S. Wei
+gand, John Werolin, Alex Wes
+sitsh, Lael Young.
+Isolation Hospital: John Bas
+sett, Larry Bramble, Charley Car
+penter, Donald Charnley, Adrian
+Dean, Lynn Gallagher, Charles
+Kelley, John McKenney, David
+Newell, David Owen, Harkjoon
+Paik, Nicki Record, Constance
+Seeley, Lawrence Shepp, Richard
+Stolz, Stanton Thorneberry, Wil
+liam Wittmeyer, William Yates.
+Men's Rest Home: John Caple,
+Ted Hulbert, James Korth, Tyson
+Roberts, Ben Robinson, John
+Thomas.
+Palo Alto Hospital: James Al
+len, Barbara Calvin. John Ham
+merstad, Barton Hooley, Peter
+Katsufrakis, John Miller, Rich
+ard Miller, Bagicha Minhas, John
+Steinhauser, Dennis Weiss.
+Women's Rest Home: Carolyn
+Baker. Ruth Collins, Sylvia Gla
+lardi, Nancy Lewis, Brenda Petri,
+Hannah Smith, Charlotte Wal
+lace.
+Encina Infirmary: Jacques Ar
+mand, George Boldt, Milton Bon
+zell, Stewart Brand, James R.
+Burk, John Butler, Jack Clausen,
+Michael Corey, Dave Cox, Stan
+ley Cronwall, Duane Davis. Robin
+Dean, James Eardley, Joseph Eb
+erly, Richard Egan, Donald Fos
+ter, Charles Ginise, Gary Gouvea,
+Larry Grace, Robert Hamilton,
+Robert Harrell, George L. Ho
+nore, Michael Immell, Alex King,
+Larry L. Lynch, James W. Mark
+ham, Heywood Mausergh, Ken
+neth McCaw, Ernest B. Miller.
+Joseph Murphy, Warren Nelson,
+Hal Ofutt, Charles A. Peterson,
+Don Proudfoot, Herbert Rudsch,
+James Reed. Hal Reynolds, Law
+rence Seering, John Stahler, War
+ren Strahle, Kenneth Taylor, Bar
+ry Thompson, Ralph Thompson,
+Bill Tiederman, John Vafis, Rob
+ert Van Luchene, Donald Vine. H.
+Thomas Watson, Philip S. Wei
+gand, John Werolin, Alex Wes
+sitsh, Lael Young.
+Isolation Hospital: John Bas
+sett, Larry Bramble, Charley Car
+penter, Donald Charnley, Adrian
+Dean, Lynn Gallagher, Charles
+Kelley, John McKenney, David
+Newell, David Owen, Harkjoon
+Paik, Nicki Record, Constance
+Seeley, Lawrence Shepp, Richard
+Stolz, Stanton Thorneberry, Wil
+liam Wittmeyer, William Yates.
+Men's Rest Home: John Caple,
+Ted Hulbert, James Korth, Tyson
+Roberts, Ben Robinson, John
+Thomas.
+Palo Alto Hospital: James Al
+len, Barbara Calvin. John Ham
+merstad, Barton Hooley, Peter
+Katsufrakis, John Miller, Rich
+ard Miller, Bagicha Minhas, John
+Steinhauser, Dennis Weiss.
+Women's Rest Home: Carolyn
+Baker. Ruth Collins, Sylvia Gla
+lardi, Nancy Lewis, Brenda Petri,
+Hannah Smith, Charlotte Wal
+lace.
+Encina Infirmary: Jacques Ar
+mand, George Boldt, Milton Bon
+zell, Stewart Brand, James R.
+Burk, John Butler, Jack Clausen,
+Michael Corey, Dave Cox, Stan
+ley Cronwall, Duane Davis. Robin
+Dean, James Eardley, Joseph Eb
+erly, Richard Egan, Donald Fos
+ter, Charles Ginise, Gary Gouvea,
+Larry Grace, Robert Hamilton,
+Robert Harrell, George L. Ho
+nore, Michael Immell, Alex King,
+Larry L. Lynch, James W. Mark
+ham, Heywood Mausergh, Ken
+neth McCaw, Ernest B. Miller.
+Joseph Murphy, Warren Nelson,
+Hal Ofutt, Charles A. Peterson,
+Don Proudfoot, Herbert Rudsch,
+James Reed. Hal Reynolds, Law
+rence Seering, John Stahler, War
+ren Strahle, Kenneth Taylor, Bar
+ry Thompson, Ralph Thompson,
+Bill Tiederman, John Vafis, Rob
+ert Van Luchene, Donald Vine. H.
+Thomas Watson, Philip S. Wei
+gand, John Werolin, Alex Wes
+sitsh, Lael Young.
+Isolation Hospital: John Bas
+sett, Larry Bramble, Charley Car
+penter, Donald Charnley, Adrian
+Dean, Lynn Gallagher, Charles
+Kelley, John McKenney, David
+Newell, David Owen, Harkjoon
+Paik, Nicki Record, Constance
+Seeley, Lawrence Shepp, Richard
+Stolz, Stanton Thorneberry, Wil
+liam Wittmeyer, William Yates.
+Men's Rest Home: John Caple,
+Ted Hulbert, James Korth, Tyson
+Roberts, Ben Robinson, John
+Thomas.
+Palo Alto Hospital: James Al
+len, Barbara Calvin. John Ham
+merstad, Barton Hooley, Peter
+Katsufrakis, John Miller, Rich
+ard Miller, Bagicha Minhas, John
+Steinhauser, Dennis Weiss.
+Women's Rest Home: Carolyn
+Baker. Ruth Collins, Sylvia Gla
+lardi, Nancy Lewis, Brenda Petri,
+Hannah Smith, Charlotte Wal
+lace.
+Encina Infirmary: Jacques Ar
+mand, George Boldt, Milton Bon
+zell, Stewart Brand, James R.
+Burk, John Butler, Jack Clausen,
+Michael Corey, Dave Cox, Stan
+ley Cronwall, Duane Davis. Robin
+Dean, James Eardley, Joseph Eb
+erly, Richard Egan, Donald Fos
+ter, Charles Ginise, Gary Gouvea,
+Larry Grace, Robert Hamilton,
+Robert Harrell, George L. Ho
+nore, Michael Immell, Alex King,
+Larry L. Lynch, James W. Mark
+ham, Heywood Mausergh, Ken
+neth McCaw, Ernest B. Miller.
+Joseph Murphy, Warren Nelson,
+Hal Ofutt, Charles A. Peterson,
+Don Proudfoot, Herbert Rudsch,
+James Reed. Hal Reynolds, Law
+rence Seering, John Stahler, War
+ren Strahle, Kenneth Taylor, Bar
+ry Thompson, Ralph Thompson,
+Bill Tiederman, John Vafis, Rob
+ert Van Luchene, Donald Vine. H.
+Thomas Watson, Philip S. Wei
+gand, John Werolin, Alex Wes
+sitsh, Lael Young.
+Isolation Hospital: John Bas
+sett, Larry Bramble, Charley Car
+penter, Donald Charnley, Adrian
+Dean, Lynn Gallagher, Charles
+Kelley, John McKenney, David
+Newell, David Owen, Harkjoon
+Paik, Nicki Record, Constance
+Seeley, Lawrence Shepp, Richard
+Stolz, Stanton Thorneberry, Wil
+liam Wittmeyer, William Yates.
+Men's Rest Home: John Caple,
+Ted Hulbert, James Korth, Tyson
+Roberts, Ben Robinson, John
+Thomas.
+Palo Alto Hospital: James Al
+len, Barbara Calvin. John Ham
+merstad, Barton Hooley, Peter
+Katsufrakis, John Miller, Rich
+ard Miller, Bagicha Minhas, John
+Steinhauser, Dennis Weiss.
+Women's Rest Home: Carolyn
+Baker. Ruth Collins, Sylvia Gla
+lardi, Nancy Lewis, Brenda Petri,
+Hannah Smith, Charlotte Wal
+lace.
+Encina Infirmary: Jacques Ar
+mand, George Boldt, Milton Bon
+zell, Stewart Brand, James R.
+Burk, John Butler, Jack Clausen,
+Michael Corey, Dave Cox, Stan
+ley Cronwall, Duane Davis. Robin
+Dean, James Eardley, Joseph Eb
+erly, Richard Egan, Donald Fos
+ter, Charles Ginise, Gary Gouvea,
+Larry Grace, Robert Hamilton,
+Robert Harrell, George L. Ho
+nore, Michael Immell, Alex King,
+Larry L. Lynch, James W. Mark
+ham, Heywood Mausergh, Ken
+neth McCaw, Ernest B. Miller.
+Joseph Murphy, Warren Nelson,
+Hal Ofutt, Charles A. Peterson,
+Don Proudfoot, Herbert Rudsch,
+James Reed. Hal Reynolds, Law
+rence Seering, John Stahler, War
+ren Strahle, Kenneth Taylor, Bar
+ry Thompson, Ralph Thompson,
+Bill Tiederman, John Vafis, Rob
+ert Van Luchene, Donald Vine. H.
+Thomas Watson, Philip S. Wei
+gand, John Werolin, Alex Wes
+sitsh, Lael Young.
+Isolation Hospital: John Bas
+sett, Larry Bramble, Charley Car
+penter, Donald Charnley, Adrian
+Dean, Lynn Gallagher, Charles
+Kelley, John McKenney, David
+Newell, David Owen, Harkjoon
+Paik, Nicki Record, Constance
+Seeley, Lawrence Shepp, Richard
+Stolz, Stanton Thorneberry, Wil
+liam Wittmeyer, William Yates.
+Men's Rest Home: John Caple,
+Ted Hulbert, James Korth, Tyson
+Roberts, Ben Robinson, John
+Thomas.
+Palo Alto Hospital: James Al
+len, Barbara Calvin. John Ham
+merstad, Barton Hooley, Peter
+Katsufrakis, John Miller, Rich
+ard Miller, Bagicha Minhas, John
+Steinhauser, Dennis Weiss.
+Women's Rest Home: Carolyn
+Baker. Ruth Collins, Sylvia Gla
+lardi, Nancy Lewis, Brenda Petri,
+Hannah Smith, Charlotte Wal
+lace.
+Encina Infirmary: Jacques Ar
+mand, George Boldt, Milton Bon
+zell, Stewart Brand, James R.
+Burk, John Butler, Jack Clausen,
+Michael Corey, Dave Cox, Stan
+ley Cronwall, Duane Davis. Robin
+Dean, James Eardley, Joseph Eb
+erly, Richard Egan, Donald Fos
+ter, Charles Ginise, Gary Gouvea,
+Larry Grace, Robert Hamilton,
+Robert Harrell, George L. Ho
+nore, Michael Immell, Alex King,
+Larry L. Lynch, James W. Mark
+ham, Heywood Mausergh, Ken
+neth McCaw, Ernest B. Miller.
+Joseph Murphy, Warren Nelson,
+Hal Ofutt, Charles A. Peterson,
+Don Proudfoot, Herbert Rudsch,
+James Reed. Hal Reynolds, Law
+rence Seering, John Stahler, War
+ren Strahle, Kenneth Taylor, Bar
+ry Thompson, Ralph Thompson,
+Bill Tiederman, John Vafis, Rob
+ert Van Luchene, Donald Vine. H.
+Thomas Watson, Philip S. Wei
+gand, John Werolin, Alex Wes
+sitsh, Lael Young.
+Isolation Hospital: John Bas
+sett, Larry Bramble, Charley Car
+penter, Donald Charnley, Adrian
+Dean, Lynn Gallagher, Charles
+Kelley, John McKenney, David
+Newell, David Owen, Harkjoon
+Paik, Nicki Record, Constance
+Seeley, Lawrence Shepp, Richard
+Stolz, Stanton Thorneberry, Wil
+liam Wittmeyer, William Yates.
+Men's Rest Home: John Caple,
+Ted Hulbert, James Korth, Tyson
+Roberts, Ben Robinson, John
+Thomas.
+Palo Alto Hospital: James Al
+len, Barbara Calvin. John Ham
+merstad, Barton Hooley, Peter
+Katsufrakis, John Miller, Rich
+ard Miller, Bagicha Minhas, John
+Steinhauser, Dennis Weiss.
+Women's Rest Home: Carolyn
+Baker. Ruth Collins, Sylvia Gla
+lardi, Nancy Lewis, Brenda Petri,
+Hannah Smith, Charlotte Wal
+lace.

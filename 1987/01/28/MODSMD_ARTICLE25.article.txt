@@ -1,0 +1,1155 @@
+# FEATURES
+## LOTS of improvement at computer facility 
+### 
+Once the birthplace of the legendary
+"hacker" and the melancholy "Hacker Papers,"
+Stanford's student computer network, 10 years
+old this quarter, has finally settled down.
+The network has become simply part of the
+students' routine at Stanford.
+The Low Overhead Time-Sharing system
+(LOTS), which began with one small over
+worked computer winter quarter of 1977, now
+has six mainframe computers, several high
+powered workstations, 50 personal computers,
+7,800 users and a budget of $1.3 million.
+Students do homework, send electronic
+mail, figure out how to kill the snake in
+"Adventure's" cave, debate politics, sell
+bicycles, arrange dates, and at least once joined
+to write a pornographic novel.
+Although almost every user is a student, an
+occasional staff member keeps an account on
+LOTS, having learned it is much more fun than
+using the "grown-ups" machine."
+And the service now is fast and almost always
+reliable.
+"We have almost reached equilibrium in
+response to the demands of our users," LOTS
+
+director Ralph Gorin says with obvious satisfac
+tion.
+That certainly was not always so.
+When John McCarthy, Stanford's pioneering
+computer scientist, began LOTS 10 years ago
+with a Digital Equipment Corp. DEC 2040,
+LOTS could handle only about 400 accounts.
+Since there were already 2,000 computer ac
+counts at Stanford, the 2040 did not appear to
+be much help.
+Gorin "tinkered" with the machine and got
+its capacity up to 1,600, fulfilling the goal of
+having LOTS handle more than half the univer
+sity's academic users.
+But from that moment on LOTS was jammed.
+Long response times, lost data and computer
+crashes plagued the system. Whenever a new
+machine was added, a computer version of
+Parkinson's law took effect and the amount of
+computing quickly expanded to fill, then clog,
+the amount of space and time allotted.
+The offices moved, first from Cedar Hall,
+then to the School of Education's Center for
+Educational Research at Stanford (CERAS)
+building, then to a converted bowling alley at
+
+the student union, and finally to its relatively
+posh new digs at Sweet Hall.
+And while the hardware was growing, so too
+was'the mystique. Stories of pasty-faced stu
+dents, their eyes reflecting the sickly green
+glow of their LOTS terminal screens at 4 a.m.,
+created the legend of the student "hacker."
+The hackers, always a small minority of users,
+would spend most of their waking hours pro
+gramming arcane problems into the LOTS com
+puters, or playing "wheel wars," trying to
+cleverly sabotage the work of other hackers
+and, at the same time, defend their own files.
+Reporters from national magazines and
+newspapers arrived in the wee hours to
+chronicle these weird folk, and after the resul
+tant publicity universities around the nation
+suddenly discovered they had them too.
+Stanford psychologist Philip Zimbardo, mon
+itoring the network, produced an article for
+Psychology Today in 1980 on the LOTS culture
+called "The Hacker Papers." A student, Kenneth
+Peter (known by the code name G. Gandalf)
+had sent out an "Essay on Hacking" to other
+hackers on the system, suggesting they were
+
+losing touch with the rest of humanity and invit
+ing replies.
+The response was a long, sad, introspective
+dialogue on the network about what might hap
+pen to students who spent too much of their
+energies in the labyrinth of LOTS.
+Much of the hacking culture is gone, moving
+on to other computers set up by various Stan
+ford departments, but there still is almost al
+ways someone on LOTS, and an occasional
+wheel war will break out.
+The equipment is hardly minor league. LOTS
+now includes three DEC System 20s, named Ot
+hello, Lear and Hamlet; one Systems Concept
+Corp. computer named Macbeth; a DEC VAX
+named Portia; and an IBM 4381, unaccountably
+named Watson. (It is not clear which Watson,
+IBM's or Conan Doyle's.)
+The machines have filled the physical space
+allotted in the basement of CERAS, completely
+taking over an unused audio-visual studio.
+The students are usually on the three DEC
+20s. Macbeth, which is generally assigned for
+heavy number-crunching, now is just coming
+online.
+
+Each student has an account on one of the
+machines, but as they all share the same
+memory storage area, the users can technically
+sign on to any of the three. In case their com
+puter fails, they can reconnect with any data
+stored in the system, although they will lose
+anything not already saved.
+Watson generally is used by the social sci
+ence departments, including economics,
+sociology, communication, political science
+and, oddly, the law school. Portia, which uses
+the operating system called UNIX, is reserved
+for computer science and engineering.
+Students can access the computers from
+clusters of terminals or personal computers
+spread around the campus. Additionally, they
+can telephone in from their homes or dormi
+tories.
+Programs in the system range from the very
+simple, such as beginner's programming lan
+guages or conventional word processing, to
+mind-bendingly complex programs for serious
+experts.
+Courtesy News and Publications
+Once the birthplace of the legendary
+"hacker" and the melancholy "Hacker Papers,"
+Stanford's student computer network, 10 years
+old this quarter, has finally settled down.
+The network has become simply part of the
+students' routine at Stanford.
+The Low Overhead Time-Sharing system
+(LOTS), which began with one small over
+worked computer winter quarter of 1977, now
+has six mainframe computers, several high
+powered workstations, 50 personal computers,
+7,800 users and a budget of $1.3 million.
+Students do homework, send electronic
+mail, figure out how to kill the snake in
+"Adventure's" cave, debate politics, sell
+bicycles, arrange dates, and at least once joined
+to write a pornographic novel.
+Although almost every user is a student, an
+occasional staff member keeps an account on
+LOTS, having learned it is much more fun than
+using the "grown-ups" machine."
+And the service now is fast and almost always
+reliable.
+"We have almost reached equilibrium in
+response to the demands of our users," LOTS
+
+director Ralph Gorin says with obvious satisfac
+tion.
+That certainly was not always so.
+When John McCarthy, Stanford's pioneering
+computer scientist, began LOTS 10 years ago
+with a Digital Equipment Corp. DEC 2040,
+LOTS could handle only about 400 accounts.
+Since there were already 2,000 computer ac
+counts at Stanford, the 2040 did not appear to
+be much help.
+Gorin "tinkered" with the machine and got
+its capacity up to 1,600, fulfilling the goal of
+having LOTS handle more than half the univer
+sity's academic users.
+But from that moment on LOTS was jammed.
+Long response times, lost data and computer
+crashes plagued the system. Whenever a new
+machine was added, a computer version of
+Parkinson's law took effect and the amount of
+computing quickly expanded to fill, then clog,
+the amount of space and time allotted.
+The offices moved, first from Cedar Hall,
+then to the School of Education's Center for
+Educational Research at Stanford (CERAS)
+building, then to a converted bowling alley at
+
+the student union, and finally to its relatively
+posh new digs at Sweet Hall.
+And while the hardware was growing, so too
+was'the mystique. Stories of pasty-faced stu
+dents, their eyes reflecting the sickly green
+glow of their LOTS terminal screens at 4 a.m.,
+created the legend of the student "hacker."
+The hackers, always a small minority of users,
+would spend most of their waking hours pro
+gramming arcane problems into the LOTS com
+puters, or playing "wheel wars," trying to
+cleverly sabotage the work of other hackers
+and, at the same time, defend their own files.
+Reporters from national magazines and
+newspapers arrived in the wee hours to
+chronicle these weird folk, and after the resul
+tant publicity universities around the nation
+suddenly discovered they had them too.
+Stanford psychologist Philip Zimbardo, mon
+itoring the network, produced an article for
+Psychology Today in 1980 on the LOTS culture
+called "The Hacker Papers." A student, Kenneth
+Peter (known by the code name G. Gandalf)
+had sent out an "Essay on Hacking" to other
+hackers on the system, suggesting they were
+
+losing touch with the rest of humanity and invit
+ing replies.
+The response was a long, sad, introspective
+dialogue on the network about what might hap
+pen to students who spent too much of their
+energies in the labyrinth of LOTS.
+Much of the hacking culture is gone, moving
+on to other computers set up by various Stan
+ford departments, but there still is almost al
+ways someone on LOTS, and an occasional
+wheel war will break out.
+The equipment is hardly minor league. LOTS
+now includes three DEC System 20s, named Ot
+hello, Lear and Hamlet; one Systems Concept
+Corp. computer named Macbeth; a DEC VAX
+named Portia; and an IBM 4381, unaccountably
+named Watson. (It is not clear which Watson,
+IBM's or Conan Doyle's.)
+The machines have filled the physical space
+allotted in the basement of CERAS, completely
+taking over an unused audio-visual studio.
+The students are usually on the three DEC
+20s. Macbeth, which is generally assigned for
+heavy number-crunching, now is just coming
+online.
+
+Each student has an account on one of the
+machines, but as they all share the same
+memory storage area, the users can technically
+sign on to any of the three. In case their com
+puter fails, they can reconnect with any data
+stored in the system, although they will lose
+anything not already saved.
+Watson generally is used by the social sci
+ence departments, including economics,
+sociology, communication, political science
+and, oddly, the law school. Portia, which uses
+the operating system called UNIX, is reserved
+for computer science and engineering.
+Students can access the computers from
+clusters of terminals or personal computers
+spread around the campus. Additionally, they
+can telephone in from their homes or dormi
+tories.
+Programs in the system range from the very
+simple, such as beginner's programming lan
+guages or conventional word processing, to
+mind-bendingly complex programs for serious
+experts.
+Courtesy News and Publications
+Once the birthplace of the legendary
+"hacker" and the melancholy "Hacker Papers,"
+Stanford's student computer network, 10 years
+old this quarter, has finally settled down.
+The network has become simply part of the
+students' routine at Stanford.
+The Low Overhead Time-Sharing system
+(LOTS), which began with one small over
+worked computer winter quarter of 1977, now
+has six mainframe computers, several high
+powered workstations, 50 personal computers,
+7,800 users and a budget of $1.3 million.
+Students do homework, send electronic
+mail, figure out how to kill the snake in
+"Adventure's" cave, debate politics, sell
+bicycles, arrange dates, and at least once joined
+to write a pornographic novel.
+Although almost every user is a student, an
+occasional staff member keeps an account on
+LOTS, having learned it is much more fun than
+using the "grown-ups" machine."
+And the service now is fast and almost always
+reliable.
+"We have almost reached equilibrium in
+response to the demands of our users," LOTS
+
+director Ralph Gorin says with obvious satisfac
+tion.
+That certainly was not always so.
+When John McCarthy, Stanford's pioneering
+computer scientist, began LOTS 10 years ago
+with a Digital Equipment Corp. DEC 2040,
+LOTS could handle only about 400 accounts.
+Since there were already 2,000 computer ac
+counts at Stanford, the 2040 did not appear to
+be much help.
+Gorin "tinkered" with the machine and got
+its capacity up to 1,600, fulfilling the goal of
+having LOTS handle more than half the univer
+sity's academic users.
+But from that moment on LOTS was jammed.
+Long response times, lost data and computer
+crashes plagued the system. Whenever a new
+machine was added, a computer version of
+Parkinson's law took effect and the amount of
+computing quickly expanded to fill, then clog,
+the amount of space and time allotted.
+The offices moved, first from Cedar Hall,
+then to the School of Education's Center for
+Educational Research at Stanford (CERAS)
+building, then to a converted bowling alley at
+
+the student union, and finally to its relatively
+posh new digs at Sweet Hall.
+And while the hardware was growing, so too
+was'the mystique. Stories of pasty-faced stu
+dents, their eyes reflecting the sickly green
+glow of their LOTS terminal screens at 4 a.m.,
+created the legend of the student "hacker."
+The hackers, always a small minority of users,
+would spend most of their waking hours pro
+gramming arcane problems into the LOTS com
+puters, or playing "wheel wars," trying to
+cleverly sabotage the work of other hackers
+and, at the same time, defend their own files.
+Reporters from national magazines and
+newspapers arrived in the wee hours to
+chronicle these weird folk, and after the resul
+tant publicity universities around the nation
+suddenly discovered they had them too.
+Stanford psychologist Philip Zimbardo, mon
+itoring the network, produced an article for
+Psychology Today in 1980 on the LOTS culture
+called "The Hacker Papers." A student, Kenneth
+Peter (known by the code name G. Gandalf)
+had sent out an "Essay on Hacking" to other
+hackers on the system, suggesting they were
+
+losing touch with the rest of humanity and invit
+ing replies.
+The response was a long, sad, introspective
+dialogue on the network about what might hap
+pen to students who spent too much of their
+energies in the labyrinth of LOTS.
+Much of the hacking culture is gone, moving
+on to other computers set up by various Stan
+ford departments, but there still is almost al
+ways someone on LOTS, and an occasional
+wheel war will break out.
+The equipment is hardly minor league. LOTS
+now includes three DEC System 20s, named Ot
+hello, Lear and Hamlet; one Systems Concept
+Corp. computer named Macbeth; a DEC VAX
+named Portia; and an IBM 4381, unaccountably
+named Watson. (It is not clear which Watson,
+IBM's or Conan Doyle's.)
+The machines have filled the physical space
+allotted in the basement of CERAS, completely
+taking over an unused audio-visual studio.
+The students are usually on the three DEC
+20s. Macbeth, which is generally assigned for
+heavy number-crunching, now is just coming
+online.
+
+Each student has an account on one of the
+machines, but as they all share the same
+memory storage area, the users can technically
+sign on to any of the three. In case their com
+puter fails, they can reconnect with any data
+stored in the system, although they will lose
+anything not already saved.
+Watson generally is used by the social sci
+ence departments, including economics,
+sociology, communication, political science
+and, oddly, the law school. Portia, which uses
+the operating system called UNIX, is reserved
+for computer science and engineering.
+Students can access the computers from
+clusters of terminals or personal computers
+spread around the campus. Additionally, they
+can telephone in from their homes or dormi
+tories.
+Programs in the system range from the very
+simple, such as beginner's programming lan
+guages or conventional word processing, to
+mind-bendingly complex programs for serious
+experts.
+Courtesy News and Publications
+Once the birthplace of the legendary
+"hacker" and the melancholy "Hacker Papers,"
+Stanford's student computer network, 10 years
+old this quarter, has finally settled down.
+The network has become simply part of the
+students' routine at Stanford.
+The Low Overhead Time-Sharing system
+(LOTS), which began with one small over
+worked computer winter quarter of 1977, now
+has six mainframe computers, several high
+powered workstations, 50 personal computers,
+7,800 users and a budget of $1.3 million.
+Students do homework, send electronic
+mail, figure out how to kill the snake in
+"Adventure's" cave, debate politics, sell
+bicycles, arrange dates, and at least once joined
+to write a pornographic novel.
+Although almost every user is a student, an
+occasional staff member keeps an account on
+LOTS, having learned it is much more fun than
+using the "grown-ups" machine."
+And the service now is fast and almost always
+reliable.
+"We have almost reached equilibrium in
+response to the demands of our users," LOTS
+
+director Ralph Gorin says with obvious satisfac
+tion.
+That certainly was not always so.
+When John McCarthy, Stanford's pioneering
+computer scientist, began LOTS 10 years ago
+with a Digital Equipment Corp. DEC 2040,
+LOTS could handle only about 400 accounts.
+Since there were already 2,000 computer ac
+counts at Stanford, the 2040 did not appear to
+be much help.
+Gorin "tinkered" with the machine and got
+its capacity up to 1,600, fulfilling the goal of
+having LOTS handle more than half the univer
+sity's academic users.
+But from that moment on LOTS was jammed.
+Long response times, lost data and computer
+crashes plagued the system. Whenever a new
+machine was added, a computer version of
+Parkinson's law took effect and the amount of
+computing quickly expanded to fill, then clog,
+the amount of space and time allotted.
+The offices moved, first from Cedar Hall,
+then to the School of Education's Center for
+Educational Research at Stanford (CERAS)
+building, then to a converted bowling alley at
+
+the student union, and finally to its relatively
+posh new digs at Sweet Hall.
+And while the hardware was growing, so too
+was'the mystique. Stories of pasty-faced stu
+dents, their eyes reflecting the sickly green
+glow of their LOTS terminal screens at 4 a.m.,
+created the legend of the student "hacker."
+The hackers, always a small minority of users,
+would spend most of their waking hours pro
+gramming arcane problems into the LOTS com
+puters, or playing "wheel wars," trying to
+cleverly sabotage the work of other hackers
+and, at the same time, defend their own files.
+Reporters from national magazines and
+newspapers arrived in the wee hours to
+chronicle these weird folk, and after the resul
+tant publicity universities around the nation
+suddenly discovered they had them too.
+Stanford psychologist Philip Zimbardo, mon
+itoring the network, produced an article for
+Psychology Today in 1980 on the LOTS culture
+called "The Hacker Papers." A student, Kenneth
+Peter (known by the code name G. Gandalf)
+had sent out an "Essay on Hacking" to other
+hackers on the system, suggesting they were
+
+losing touch with the rest of humanity and invit
+ing replies.
+The response was a long, sad, introspective
+dialogue on the network about what might hap
+pen to students who spent too much of their
+energies in the labyrinth of LOTS.
+Much of the hacking culture is gone, moving
+on to other computers set up by various Stan
+ford departments, but there still is almost al
+ways someone on LOTS, and an occasional
+wheel war will break out.
+The equipment is hardly minor league. LOTS
+now includes three DEC System 20s, named Ot
+hello, Lear and Hamlet; one Systems Concept
+Corp. computer named Macbeth; a DEC VAX
+named Portia; and an IBM 4381, unaccountably
+named Watson. (It is not clear which Watson,
+IBM's or Conan Doyle's.)
+The machines have filled the physical space
+allotted in the basement of CERAS, completely
+taking over an unused audio-visual studio.
+The students are usually on the three DEC
+20s. Macbeth, which is generally assigned for
+heavy number-crunching, now is just coming
+online.
+
+Each student has an account on one of the
+machines, but as they all share the same
+memory storage area, the users can technically
+sign on to any of the three. In case their com
+puter fails, they can reconnect with any data
+stored in the system, although they will lose
+anything not already saved.
+Watson generally is used by the social sci
+ence departments, including economics,
+sociology, communication, political science
+and, oddly, the law school. Portia, which uses
+the operating system called UNIX, is reserved
+for computer science and engineering.
+Students can access the computers from
+clusters of terminals or personal computers
+spread around the campus. Additionally, they
+can telephone in from their homes or dormi
+tories.
+Programs in the system range from the very
+simple, such as beginner's programming lan
+guages or conventional word processing, to
+mind-bendingly complex programs for serious
+experts.
+Courtesy News and Publications
+Once the birthplace of the legendary
+"hacker" and the melancholy "Hacker Papers,"
+Stanford's student computer network, 10 years
+old this quarter, has finally settled down.
+The network has become simply part of the
+students' routine at Stanford.
+The Low Overhead Time-Sharing system
+(LOTS), which began with one small over
+worked computer winter quarter of 1977, now
+has six mainframe computers, several high
+powered workstations, 50 personal computers,
+7,800 users and a budget of $1.3 million.
+Students do homework, send electronic
+mail, figure out how to kill the snake in
+"Adventure's" cave, debate politics, sell
+bicycles, arrange dates, and at least once joined
+to write a pornographic novel.
+Although almost every user is a student, an
+occasional staff member keeps an account on
+LOTS, having learned it is much more fun than
+using the "grown-ups" machine."
+And the service now is fast and almost always
+reliable.
+"We have almost reached equilibrium in
+response to the demands of our users," LOTS
+
+director Ralph Gorin says with obvious satisfac
+tion.
+That certainly was not always so.
+When John McCarthy, Stanford's pioneering
+computer scientist, began LOTS 10 years ago
+with a Digital Equipment Corp. DEC 2040,
+LOTS could handle only about 400 accounts.
+Since there were already 2,000 computer ac
+counts at Stanford, the 2040 did not appear to
+be much help.
+Gorin "tinkered" with the machine and got
+its capacity up to 1,600, fulfilling the goal of
+having LOTS handle more than half the univer
+sity's academic users.
+But from that moment on LOTS was jammed.
+Long response times, lost data and computer
+crashes plagued the system. Whenever a new
+machine was added, a computer version of
+Parkinson's law took effect and the amount of
+computing quickly expanded to fill, then clog,
+the amount of space and time allotted.
+The offices moved, first from Cedar Hall,
+then to the School of Education's Center for
+Educational Research at Stanford (CERAS)
+building, then to a converted bowling alley at
+
+the student union, and finally to its relatively
+posh new digs at Sweet Hall.
+And while the hardware was growing, so too
+was'the mystique. Stories of pasty-faced stu
+dents, their eyes reflecting the sickly green
+glow of their LOTS terminal screens at 4 a.m.,
+created the legend of the student "hacker."
+The hackers, always a small minority of users,
+would spend most of their waking hours pro
+gramming arcane problems into the LOTS com
+puters, or playing "wheel wars," trying to
+cleverly sabotage the work of other hackers
+and, at the same time, defend their own files.
+Reporters from national magazines and
+newspapers arrived in the wee hours to
+chronicle these weird folk, and after the resul
+tant publicity universities around the nation
+suddenly discovered they had them too.
+Stanford psychologist Philip Zimbardo, mon
+itoring the network, produced an article for
+Psychology Today in 1980 on the LOTS culture
+called "The Hacker Papers." A student, Kenneth
+Peter (known by the code name G. Gandalf)
+had sent out an "Essay on Hacking" to other
+hackers on the system, suggesting they were
+
+losing touch with the rest of humanity and invit
+ing replies.
+The response was a long, sad, introspective
+dialogue on the network about what might hap
+pen to students who spent too much of their
+energies in the labyrinth of LOTS.
+Much of the hacking culture is gone, moving
+on to other computers set up by various Stan
+ford departments, but there still is almost al
+ways someone on LOTS, and an occasional
+wheel war will break out.
+The equipment is hardly minor league. LOTS
+now includes three DEC System 20s, named Ot
+hello, Lear and Hamlet; one Systems Concept
+Corp. computer named Macbeth; a DEC VAX
+named Portia; and an IBM 4381, unaccountably
+named Watson. (It is not clear which Watson,
+IBM's or Conan Doyle's.)
+The machines have filled the physical space
+allotted in the basement of CERAS, completely
+taking over an unused audio-visual studio.
+The students are usually on the three DEC
+20s. Macbeth, which is generally assigned for
+heavy number-crunching, now is just coming
+online.
+
+Each student has an account on one of the
+machines, but as they all share the same
+memory storage area, the users can technically
+sign on to any of the three. In case their com
+puter fails, they can reconnect with any data
+stored in the system, although they will lose
+anything not already saved.
+Watson generally is used by the social sci
+ence departments, including economics,
+sociology, communication, political science
+and, oddly, the law school. Portia, which uses
+the operating system called UNIX, is reserved
+for computer science and engineering.
+Students can access the computers from
+clusters of terminals or personal computers
+spread around the campus. Additionally, they
+can telephone in from their homes or dormi
+tories.
+Programs in the system range from the very
+simple, such as beginner's programming lan
+guages or conventional word processing, to
+mind-bendingly complex programs for serious
+experts.
+Courtesy News and Publications
+Once the birthplace of the legendary
+"hacker" and the melancholy "Hacker Papers,"
+Stanford's student computer network, 10 years
+old this quarter, has finally settled down.
+The network has become simply part of the
+students' routine at Stanford.
+The Low Overhead Time-Sharing system
+(LOTS), which began with one small over
+worked computer winter quarter of 1977, now
+has six mainframe computers, several high
+powered workstations, 50 personal computers,
+7,800 users and a budget of $1.3 million.
+Students do homework, send electronic
+mail, figure out how to kill the snake in
+"Adventure's" cave, debate politics, sell
+bicycles, arrange dates, and at least once joined
+to write a pornographic novel.
+Although almost every user is a student, an
+occasional staff member keeps an account on
+LOTS, having learned it is much more fun than
+using the "grown-ups" machine."
+And the service now is fast and almost always
+reliable.
+"We have almost reached equilibrium in
+response to the demands of our users," LOTS
+
+director Ralph Gorin says with obvious satisfac
+tion.
+That certainly was not always so.
+When John McCarthy, Stanford's pioneering
+computer scientist, began LOTS 10 years ago
+with a Digital Equipment Corp. DEC 2040,
+LOTS could handle only about 400 accounts.
+Since there were already 2,000 computer ac
+counts at Stanford, the 2040 did not appear to
+be much help.
+Gorin "tinkered" with the machine and got
+its capacity up to 1,600, fulfilling the goal of
+having LOTS handle more than half the univer
+sity's academic users.
+But from that moment on LOTS was jammed.
+Long response times, lost data and computer
+crashes plagued the system. Whenever a new
+machine was added, a computer version of
+Parkinson's law took effect and the amount of
+computing quickly expanded to fill, then clog,
+the amount of space and time allotted.
+The offices moved, first from Cedar Hall,
+then to the School of Education's Center for
+Educational Research at Stanford (CERAS)
+building, then to a converted bowling alley at
+
+the student union, and finally to its relatively
+posh new digs at Sweet Hall.
+And while the hardware was growing, so too
+was'the mystique. Stories of pasty-faced stu
+dents, their eyes reflecting the sickly green
+glow of their LOTS terminal screens at 4 a.m.,
+created the legend of the student "hacker."
+The hackers, always a small minority of users,
+would spend most of their waking hours pro
+gramming arcane problems into the LOTS com
+puters, or playing "wheel wars," trying to
+cleverly sabotage the work of other hackers
+and, at the same time, defend their own files.
+Reporters from national magazines and
+newspapers arrived in the wee hours to
+chronicle these weird folk, and after the resul
+tant publicity universities around the nation
+suddenly discovered they had them too.
+Stanford psychologist Philip Zimbardo, mon
+itoring the network, produced an article for
+Psychology Today in 1980 on the LOTS culture
+called "The Hacker Papers." A student, Kenneth
+Peter (known by the code name G. Gandalf)
+had sent out an "Essay on Hacking" to other
+hackers on the system, suggesting they were
+
+losing touch with the rest of humanity and invit
+ing replies.
+The response was a long, sad, introspective
+dialogue on the network about what might hap
+pen to students who spent too much of their
+energies in the labyrinth of LOTS.
+Much of the hacking culture is gone, moving
+on to other computers set up by various Stan
+ford departments, but there still is almost al
+ways someone on LOTS, and an occasional
+wheel war will break out.
+The equipment is hardly minor league. LOTS
+now includes three DEC System 20s, named Ot
+hello, Lear and Hamlet; one Systems Concept
+Corp. computer named Macbeth; a DEC VAX
+named Portia; and an IBM 4381, unaccountably
+named Watson. (It is not clear which Watson,
+IBM's or Conan Doyle's.)
+The machines have filled the physical space
+allotted in the basement of CERAS, completely
+taking over an unused audio-visual studio.
+The students are usually on the three DEC
+20s. Macbeth, which is generally assigned for
+heavy number-crunching, now is just coming
+online.
+
+Each student has an account on one of the
+machines, but as they all share the same
+memory storage area, the users can technically
+sign on to any of the three. In case their com
+puter fails, they can reconnect with any data
+stored in the system, although they will lose
+anything not already saved.
+Watson generally is used by the social sci
+ence departments, including economics,
+sociology, communication, political science
+and, oddly, the law school. Portia, which uses
+the operating system called UNIX, is reserved
+for computer science and engineering.
+Students can access the computers from
+clusters of terminals or personal computers
+spread around the campus. Additionally, they
+can telephone in from their homes or dormi
+tories.
+Programs in the system range from the very
+simple, such as beginner's programming lan
+guages or conventional word processing, to
+mind-bendingly complex programs for serious
+experts.
+Courtesy News and Publications
+Once the birthplace of the legendary
+"hacker" and the melancholy "Hacker Papers,"
+Stanford's student computer network, 10 years
+old this quarter, has finally settled down.
+The network has become simply part of the
+students' routine at Stanford.
+The Low Overhead Time-Sharing system
+(LOTS), which began with one small over
+worked computer winter quarter of 1977, now
+has six mainframe computers, several high
+powered workstations, 50 personal computers,
+7,800 users and a budget of $1.3 million.
+Students do homework, send electronic
+mail, figure out how to kill the snake in
+"Adventure's" cave, debate politics, sell
+bicycles, arrange dates, and at least once joined
+to write a pornographic novel.
+Although almost every user is a student, an
+occasional staff member keeps an account on
+LOTS, having learned it is much more fun than
+using the "grown-ups" machine."
+And the service now is fast and almost always
+reliable.
+"We have almost reached equilibrium in
+response to the demands of our users," LOTS
+
+director Ralph Gorin says with obvious satisfac
+tion.
+That certainly was not always so.
+When John McCarthy, Stanford's pioneering
+computer scientist, began LOTS 10 years ago
+with a Digital Equipment Corp. DEC 2040,
+LOTS could handle only about 400 accounts.
+Since there were already 2,000 computer ac
+counts at Stanford, the 2040 did not appear to
+be much help.
+Gorin "tinkered" with the machine and got
+its capacity up to 1,600, fulfilling the goal of
+having LOTS handle more than half the univer
+sity's academic users.
+But from that moment on LOTS was jammed.
+Long response times, lost data and computer
+crashes plagued the system. Whenever a new
+machine was added, a computer version of
+Parkinson's law took effect and the amount of
+computing quickly expanded to fill, then clog,
+the amount of space and time allotted.
+The offices moved, first from Cedar Hall,
+then to the School of Education's Center for
+Educational Research at Stanford (CERAS)
+building, then to a converted bowling alley at
+
+the student union, and finally to its relatively
+posh new digs at Sweet Hall.
+And while the hardware was growing, so too
+was'the mystique. Stories of pasty-faced stu
+dents, their eyes reflecting the sickly green
+glow of their LOTS terminal screens at 4 a.m.,
+created the legend of the student "hacker."
+The hackers, always a small minority of users,
+would spend most of their waking hours pro
+gramming arcane problems into the LOTS com
+puters, or playing "wheel wars," trying to
+cleverly sabotage the work of other hackers
+and, at the same time, defend their own files.
+Reporters from national magazines and
+newspapers arrived in the wee hours to
+chronicle these weird folk, and after the resul
+tant publicity universities around the nation
+suddenly discovered they had them too.
+Stanford psychologist Philip Zimbardo, mon
+itoring the network, produced an article for
+Psychology Today in 1980 on the LOTS culture
+called "The Hacker Papers." A student, Kenneth
+Peter (known by the code name G. Gandalf)
+had sent out an "Essay on Hacking" to other
+hackers on the system, suggesting they were
+
+losing touch with the rest of humanity and invit
+ing replies.
+The response was a long, sad, introspective
+dialogue on the network about what might hap
+pen to students who spent too much of their
+energies in the labyrinth of LOTS.
+Much of the hacking culture is gone, moving
+on to other computers set up by various Stan
+ford departments, but there still is almost al
+ways someone on LOTS, and an occasional
+wheel war will break out.
+The equipment is hardly minor league. LOTS
+now includes three DEC System 20s, named Ot
+hello, Lear and Hamlet; one Systems Concept
+Corp. computer named Macbeth; a DEC VAX
+named Portia; and an IBM 4381, unaccountably
+named Watson. (It is not clear which Watson,
+IBM's or Conan Doyle's.)
+The machines have filled the physical space
+allotted in the basement of CERAS, completely
+taking over an unused audio-visual studio.
+The students are usually on the three DEC
+20s. Macbeth, which is generally assigned for
+heavy number-crunching, now is just coming
+online.
+
+Each student has an account on one of the
+machines, but as they all share the same
+memory storage area, the users can technically
+sign on to any of the three. In case their com
+puter fails, they can reconnect with any data
+stored in the system, although they will lose
+anything not already saved.
+Watson generally is used by the social sci
+ence departments, including economics,
+sociology, communication, political science
+and, oddly, the law school. Portia, which uses
+the operating system called UNIX, is reserved
+for computer science and engineering.
+Students can access the computers from
+clusters of terminals or personal computers
+spread around the campus. Additionally, they
+can telephone in from their homes or dormi
+tories.
+Programs in the system range from the very
+simple, such as beginner's programming lan
+guages or conventional word processing, to
+mind-bendingly complex programs for serious
+experts.
+Courtesy News and Publications
+Once the birthplace of the legendary
+"hacker" and the melancholy "Hacker Papers,"
+Stanford's student computer network, 10 years
+old this quarter, has finally settled down.
+The network has become simply part of the
+students' routine at Stanford.
+The Low Overhead Time-Sharing system
+(LOTS), which began with one small over
+worked computer winter quarter of 1977, now
+has six mainframe computers, several high
+powered workstations, 50 personal computers,
+7,800 users and a budget of $1.3 million.
+Students do homework, send electronic
+mail, figure out how to kill the snake in
+"Adventure's" cave, debate politics, sell
+bicycles, arrange dates, and at least once joined
+to write a pornographic novel.
+Although almost every user is a student, an
+occasional staff member keeps an account on
+LOTS, having learned it is much more fun than
+using the "grown-ups" machine."
+And the service now is fast and almost always
+reliable.
+"We have almost reached equilibrium in
+response to the demands of our users," LOTS
+
+director Ralph Gorin says with obvious satisfac
+tion.
+That certainly was not always so.
+When John McCarthy, Stanford's pioneering
+computer scientist, began LOTS 10 years ago
+with a Digital Equipment Corp. DEC 2040,
+LOTS could handle only about 400 accounts.
+Since there were already 2,000 computer ac
+counts at Stanford, the 2040 did not appear to
+be much help.
+Gorin "tinkered" with the machine and got
+its capacity up to 1,600, fulfilling the goal of
+having LOTS handle more than half the univer
+sity's academic users.
+But from that moment on LOTS was jammed.
+Long response times, lost data and computer
+crashes plagued the system. Whenever a new
+machine was added, a computer version of
+Parkinson's law took effect and the amount of
+computing quickly expanded to fill, then clog,
+the amount of space and time allotted.
+The offices moved, first from Cedar Hall,
+then to the School of Education's Center for
+Educational Research at Stanford (CERAS)
+building, then to a converted bowling alley at
+
+the student union, and finally to its relatively
+posh new digs at Sweet Hall.
+And while the hardware was growing, so too
+was'the mystique. Stories of pasty-faced stu
+dents, their eyes reflecting the sickly green
+glow of their LOTS terminal screens at 4 a.m.,
+created the legend of the student "hacker."
+The hackers, always a small minority of users,
+would spend most of their waking hours pro
+gramming arcane problems into the LOTS com
+puters, or playing "wheel wars," trying to
+cleverly sabotage the work of other hackers
+and, at the same time, defend their own files.
+Reporters from national magazines and
+newspapers arrived in the wee hours to
+chronicle these weird folk, and after the resul
+tant publicity universities around the nation
+suddenly discovered they had them too.
+Stanford psychologist Philip Zimbardo, mon
+itoring the network, produced an article for
+Psychology Today in 1980 on the LOTS culture
+called "The Hacker Papers." A student, Kenneth
+Peter (known by the code name G. Gandalf)
+had sent out an "Essay on Hacking" to other
+hackers on the system, suggesting they were
+
+losing touch with the rest of humanity and invit
+ing replies.
+The response was a long, sad, introspective
+dialogue on the network about what might hap
+pen to students who spent too much of their
+energies in the labyrinth of LOTS.
+Much of the hacking culture is gone, moving
+on to other computers set up by various Stan
+ford departments, but there still is almost al
+ways someone on LOTS, and an occasional
+wheel war will break out.
+The equipment is hardly minor league. LOTS
+now includes three DEC System 20s, named Ot
+hello, Lear and Hamlet; one Systems Concept
+Corp. computer named Macbeth; a DEC VAX
+named Portia; and an IBM 4381, unaccountably
+named Watson. (It is not clear which Watson,
+IBM's or Conan Doyle's.)
+The machines have filled the physical space
+allotted in the basement of CERAS, completely
+taking over an unused audio-visual studio.
+The students are usually on the three DEC
+20s. Macbeth, which is generally assigned for
+heavy number-crunching, now is just coming
+online.
+
+Each student has an account on one of the
+machines, but as they all share the same
+memory storage area, the users can technically
+sign on to any of the three. In case their com
+puter fails, they can reconnect with any data
+stored in the system, although they will lose
+anything not already saved.
+Watson generally is used by the social sci
+ence departments, including economics,
+sociology, communication, political science
+and, oddly, the law school. Portia, which uses
+the operating system called UNIX, is reserved
+for computer science and engineering.
+Students can access the computers from
+clusters of terminals or personal computers
+spread around the campus. Additionally, they
+can telephone in from their homes or dormi
+tories.
+Programs in the system range from the very
+simple, such as beginner's programming lan
+guages or conventional word processing, to
+mind-bendingly complex programs for serious
+experts.
+Courtesy News and Publications
+Once the birthplace of the legendary
+"hacker" and the melancholy "Hacker Papers,"
+Stanford's student computer network, 10 years
+old this quarter, has finally settled down.
+The network has become simply part of the
+students' routine at Stanford.
+The Low Overhead Time-Sharing system
+(LOTS), which began with one small over
+worked computer winter quarter of 1977, now
+has six mainframe computers, several high
+powered workstations, 50 personal computers,
+7,800 users and a budget of $1.3 million.
+Students do homework, send electronic
+mail, figure out how to kill the snake in
+"Adventure's" cave, debate politics, sell
+bicycles, arrange dates, and at least once joined
+to write a pornographic novel.
+Although almost every user is a student, an
+occasional staff member keeps an account on
+LOTS, having learned it is much more fun than
+using the "grown-ups" machine."
+And the service now is fast and almost always
+reliable.
+"We have almost reached equilibrium in
+response to the demands of our users," LOTS
+
+director Ralph Gorin says with obvious satisfac
+tion.
+That certainly was not always so.
+When John McCarthy, Stanford's pioneering
+computer scientist, began LOTS 10 years ago
+with a Digital Equipment Corp. DEC 2040,
+LOTS could handle only about 400 accounts.
+Since there were already 2,000 computer ac
+counts at Stanford, the 2040 did not appear to
+be much help.
+Gorin "tinkered" with the machine and got
+its capacity up to 1,600, fulfilling the goal of
+having LOTS handle more than half the univer
+sity's academic users.
+But from that moment on LOTS was jammed.
+Long response times, lost data and computer
+crashes plagued the system. Whenever a new
+machine was added, a computer version of
+Parkinson's law took effect and the amount of
+computing quickly expanded to fill, then clog,
+the amount of space and time allotted.
+The offices moved, first from Cedar Hall,
+then to the School of Education's Center for
+Educational Research at Stanford (CERAS)
+building, then to a converted bowling alley at
+
+the student union, and finally to its relatively
+posh new digs at Sweet Hall.
+And while the hardware was growing, so too
+was'the mystique. Stories of pasty-faced stu
+dents, their eyes reflecting the sickly green
+glow of their LOTS terminal screens at 4 a.m.,
+created the legend of the student "hacker."
+The hackers, always a small minority of users,
+would spend most of their waking hours pro
+gramming arcane problems into the LOTS com
+puters, or playing "wheel wars," trying to
+cleverly sabotage the work of other hackers
+and, at the same time, defend their own files.
+Reporters from national magazines and
+newspapers arrived in the wee hours to
+chronicle these weird folk, and after the resul
+tant publicity universities around the nation
+suddenly discovered they had them too.
+Stanford psychologist Philip Zimbardo, mon
+itoring the network, produced an article for
+Psychology Today in 1980 on the LOTS culture
+called "The Hacker Papers." A student, Kenneth
+Peter (known by the code name G. Gandalf)
+had sent out an "Essay on Hacking" to other
+hackers on the system, suggesting they were
+
+losing touch with the rest of humanity and invit
+ing replies.
+The response was a long, sad, introspective
+dialogue on the network about what might hap
+pen to students who spent too much of their
+energies in the labyrinth of LOTS.
+Much of the hacking culture is gone, moving
+on to other computers set up by various Stan
+ford departments, but there still is almost al
+ways someone on LOTS, and an occasional
+wheel war will break out.
+The equipment is hardly minor league. LOTS
+now includes three DEC System 20s, named Ot
+hello, Lear and Hamlet; one Systems Concept
+Corp. computer named Macbeth; a DEC VAX
+named Portia; and an IBM 4381, unaccountably
+named Watson. (It is not clear which Watson,
+IBM's or Conan Doyle's.)
+The machines have filled the physical space
+allotted in the basement of CERAS, completely
+taking over an unused audio-visual studio.
+The students are usually on the three DEC
+20s. Macbeth, which is generally assigned for
+heavy number-crunching, now is just coming
+online.
+
+Each student has an account on one of the
+machines, but as they all share the same
+memory storage area, the users can technically
+sign on to any of the three. In case their com
+puter fails, they can reconnect with any data
+stored in the system, although they will lose
+anything not already saved.
+Watson generally is used by the social sci
+ence departments, including economics,
+sociology, communication, political science
+and, oddly, the law school. Portia, which uses
+the operating system called UNIX, is reserved
+for computer science and engineering.
+Students can access the computers from
+clusters of terminals or personal computers
+spread around the campus. Additionally, they
+can telephone in from their homes or dormi
+tories.
+Programs in the system range from the very
+simple, such as beginner's programming lan
+guages or conventional word processing, to
+mind-bendingly complex programs for serious
+experts.
+Courtesy News and Publications

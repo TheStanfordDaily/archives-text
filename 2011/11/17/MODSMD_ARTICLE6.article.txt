@@ -1,0 +1,948 @@
+# RESEARCH
+## Algorithm predicts cancer patient outcome 
+### MARSHALL WATKINS 
+Stanford researchers recently developed a
+computer model capable of both analyzing mi
+croscopic breast cancer images and offering pa
+tients a prognosis with unprecedented accuracy
+and consistency.
+The Computational Pathologist system (C-
+Path) is able to classify the types of cancer cells
+present in a patient and the level of aggression
+of the cells. The system also identifies key fea
+tures in tumor tissue that may indicate chances
+
+of survival. The model's computer analyses
+were a significant improvement in statistical ac
+curacy over those carried out by human pathol
+ogists using the same data.
+Stanford researchers trained the computer
+model using tumor tissue images from 248
+breast cancer patients whose survival data for
+the subsequent five years were known to the re
+searchers. C-Path examined 6,642 features in
+the cancer image before independently identi
+fying the most critical factors in determining
+survivability. The researchers then created a
+
+scoring system to predict patient outcome.
+C-Path also identified structural features in
+the tumor tissue images as more important than
+previously thought by pathologists in determin
+ing patient outcome.
+"We built a model based on features of the
+stroma the microenvironment between can
+cer cells that was a stronger predictor of out
+come than one built exclusively from features
+of [cancerous] epithelial cells," said Andrew
+Beck, lead author of the study. "The
+stromal model was as predictive as
+the model built from both stromal
+and epithelial features."
+Daphne Roller, a professor in
+the School of Engineering and the
+study's senior author, said in an
+email to The Daily that the study's
+results were "surprising and signifi
+cant because today's cancer grad
+ing scheme looks only at the cancer
+cells."
+"This finding supports the
+emerging view that cancer isn't just
+a bunch of cells gone awry, but
+rather an entire ecosystem," she
+said.
+Beck, now an assistant professor
+of pathology at Harvard Medical
+School, originally undertook the
+study as part of his post-doctoral
+work at Stanford. His research fo
+cused on the concept of prognosis
+through algorithm, which stemmed
+from collaboration with Roller.
+Beck's experience in pathology,
+combined with Roller's expertise in
+machine learning and image analy
+sis, allowed for the study to develop
+over a two-year period.
+The study confirmed its results
+using a "validation" set of data from
+328 women. The nature of the sub
+ject material also complicated ef
+forts to build the model. Among the
+challenges researchers faced was
+converting images to quantitative
+data.
+Beck noted that there remain
+several obstacles to deploying the
+computer model for clinical prog
+noses, but anticipated broader use
+of the model within a few years. He
+indicated the model should be test
+ed with larger images than the mi
+croscopic tissue slides used in the
+study. Beck added that the algo
+
+rithm has to be able to adapt to the
+different tissue staining procedures
+used by different medical institu
+tions.
+Another challenge remaining is
+the absence of lab standardization
+for the C-Path system. At the mo
+ment, researchers have to retrain
+the model's epithelial and stromal
+tissue indicators when changing
+between data sets from institutions
+with different staining protocols.
+In the future, the researchers
+anticipate the model will be ap
+plied not only to other forms of
+cancer but also to other diseases.
+The self-teaching algorithm that C-
+Path employs could train itself to
+respond to different training data
+and parameters and could thus for
+mulate different predictions ac
+cordingly.
+"One particularly exciting ap
+plication is to train the model on a
+cohort of patients treated with a
+particular disease ... and predict
+which patients will respond to the
+drug and which won't," Roller said.
+"This would allow the system to be
+used directly in helping guide clini
+cal care."
+By improving the accuracy and
+consistency of breast cancer prog
+noses, the model may allow doctors
+to make more informed decisions
+and to tailor treatments to the
+severity of the patient's condition.
+While the model seemingly offers
+the possibility of advanced prog
+noses in areas traditionally devoid
+of expert medical coverage, re
+searchers intend the system to act
+as a complement for pathologists.
+"This [model] will never replace
+a pathologist, but will eventually
+emerge as a decision support tool,"
+Beck said. "It will be one that deliv
+ers improved information and re
+sults for doctors and patients every
+where."
+
+Contact Marshall Watkins at mt
+watkins@stanford. edu.
+Stanford researchers recently developed a
+computer model capable of both analyzing mi
+croscopic breast cancer images and offering pa
+tients a prognosis with unprecedented accuracy
+and consistency.
+The Computational Pathologist system (C-
+Path) is able to classify the types of cancer cells
+present in a patient and the level of aggression
+of the cells. The system also identifies key fea
+tures in tumor tissue that may indicate chances
+
+of survival. The model's computer analyses
+were a significant improvement in statistical ac
+curacy over those carried out by human pathol
+ogists using the same data.
+Stanford researchers trained the computer
+model using tumor tissue images from 248
+breast cancer patients whose survival data for
+the subsequent five years were known to the re
+searchers. C-Path examined 6,642 features in
+the cancer image before independently identi
+fying the most critical factors in determining
+survivability. The researchers then created a
+
+scoring system to predict patient outcome.
+C-Path also identified structural features in
+the tumor tissue images as more important than
+previously thought by pathologists in determin
+ing patient outcome.
+"We built a model based on features of the
+stroma the microenvironment between can
+cer cells that was a stronger predictor of out
+come than one built exclusively from features
+of [cancerous] epithelial cells," said Andrew
+Beck, lead author of the study. "The
+stromal model was as predictive as
+the model built from both stromal
+and epithelial features."
+Daphne Roller, a professor in
+the School of Engineering and the
+study's senior author, said in an
+email to The Daily that the study's
+results were "surprising and signifi
+cant because today's cancer grad
+ing scheme looks only at the cancer
+cells."
+"This finding supports the
+emerging view that cancer isn't just
+a bunch of cells gone awry, but
+rather an entire ecosystem," she
+said.
+Beck, now an assistant professor
+of pathology at Harvard Medical
+School, originally undertook the
+study as part of his post-doctoral
+work at Stanford. His research fo
+cused on the concept of prognosis
+through algorithm, which stemmed
+from collaboration with Roller.
+Beck's experience in pathology,
+combined with Roller's expertise in
+machine learning and image analy
+sis, allowed for the study to develop
+over a two-year period.
+The study confirmed its results
+using a "validation" set of data from
+328 women. The nature of the sub
+ject material also complicated ef
+forts to build the model. Among the
+challenges researchers faced was
+converting images to quantitative
+data.
+Beck noted that there remain
+several obstacles to deploying the
+computer model for clinical prog
+noses, but anticipated broader use
+of the model within a few years. He
+indicated the model should be test
+ed with larger images than the mi
+croscopic tissue slides used in the
+study. Beck added that the algo
+
+rithm has to be able to adapt to the
+different tissue staining procedures
+used by different medical institu
+tions.
+Another challenge remaining is
+the absence of lab standardization
+for the C-Path system. At the mo
+ment, researchers have to retrain
+the model's epithelial and stromal
+tissue indicators when changing
+between data sets from institutions
+with different staining protocols.
+In the future, the researchers
+anticipate the model will be ap
+plied not only to other forms of
+cancer but also to other diseases.
+The self-teaching algorithm that C-
+Path employs could train itself to
+respond to different training data
+and parameters and could thus for
+mulate different predictions ac
+cordingly.
+"One particularly exciting ap
+plication is to train the model on a
+cohort of patients treated with a
+particular disease ... and predict
+which patients will respond to the
+drug and which won't," Roller said.
+"This would allow the system to be
+used directly in helping guide clini
+cal care."
+By improving the accuracy and
+consistency of breast cancer prog
+noses, the model may allow doctors
+to make more informed decisions
+and to tailor treatments to the
+severity of the patient's condition.
+While the model seemingly offers
+the possibility of advanced prog
+noses in areas traditionally devoid
+of expert medical coverage, re
+searchers intend the system to act
+as a complement for pathologists.
+"This [model] will never replace
+a pathologist, but will eventually
+emerge as a decision support tool,"
+Beck said. "It will be one that deliv
+ers improved information and re
+sults for doctors and patients every
+where."
+
+Contact Marshall Watkins at mt
+watkins@stanford. edu.
+Stanford researchers recently developed a
+computer model capable of both analyzing mi
+croscopic breast cancer images and offering pa
+tients a prognosis with unprecedented accuracy
+and consistency.
+The Computational Pathologist system (C-
+Path) is able to classify the types of cancer cells
+present in a patient and the level of aggression
+of the cells. The system also identifies key fea
+tures in tumor tissue that may indicate chances
+
+of survival. The model's computer analyses
+were a significant improvement in statistical ac
+curacy over those carried out by human pathol
+ogists using the same data.
+Stanford researchers trained the computer
+model using tumor tissue images from 248
+breast cancer patients whose survival data for
+the subsequent five years were known to the re
+searchers. C-Path examined 6,642 features in
+the cancer image before independently identi
+fying the most critical factors in determining
+survivability. The researchers then created a
+
+scoring system to predict patient outcome.
+C-Path also identified structural features in
+the tumor tissue images as more important than
+previously thought by pathologists in determin
+ing patient outcome.
+"We built a model based on features of the
+stroma the microenvironment between can
+cer cells that was a stronger predictor of out
+come than one built exclusively from features
+of [cancerous] epithelial cells," said Andrew
+Beck, lead author of the study. "The
+stromal model was as predictive as
+the model built from both stromal
+and epithelial features."
+Daphne Roller, a professor in
+the School of Engineering and the
+study's senior author, said in an
+email to The Daily that the study's
+results were "surprising and signifi
+cant because today's cancer grad
+ing scheme looks only at the cancer
+cells."
+"This finding supports the
+emerging view that cancer isn't just
+a bunch of cells gone awry, but
+rather an entire ecosystem," she
+said.
+Beck, now an assistant professor
+of pathology at Harvard Medical
+School, originally undertook the
+study as part of his post-doctoral
+work at Stanford. His research fo
+cused on the concept of prognosis
+through algorithm, which stemmed
+from collaboration with Roller.
+Beck's experience in pathology,
+combined with Roller's expertise in
+machine learning and image analy
+sis, allowed for the study to develop
+over a two-year period.
+The study confirmed its results
+using a "validation" set of data from
+328 women. The nature of the sub
+ject material also complicated ef
+forts to build the model. Among the
+challenges researchers faced was
+converting images to quantitative
+data.
+Beck noted that there remain
+several obstacles to deploying the
+computer model for clinical prog
+noses, but anticipated broader use
+of the model within a few years. He
+indicated the model should be test
+ed with larger images than the mi
+croscopic tissue slides used in the
+study. Beck added that the algo
+
+rithm has to be able to adapt to the
+different tissue staining procedures
+used by different medical institu
+tions.
+Another challenge remaining is
+the absence of lab standardization
+for the C-Path system. At the mo
+ment, researchers have to retrain
+the model's epithelial and stromal
+tissue indicators when changing
+between data sets from institutions
+with different staining protocols.
+In the future, the researchers
+anticipate the model will be ap
+plied not only to other forms of
+cancer but also to other diseases.
+The self-teaching algorithm that C-
+Path employs could train itself to
+respond to different training data
+and parameters and could thus for
+mulate different predictions ac
+cordingly.
+"One particularly exciting ap
+plication is to train the model on a
+cohort of patients treated with a
+particular disease ... and predict
+which patients will respond to the
+drug and which won't," Roller said.
+"This would allow the system to be
+used directly in helping guide clini
+cal care."
+By improving the accuracy and
+consistency of breast cancer prog
+noses, the model may allow doctors
+to make more informed decisions
+and to tailor treatments to the
+severity of the patient's condition.
+While the model seemingly offers
+the possibility of advanced prog
+noses in areas traditionally devoid
+of expert medical coverage, re
+searchers intend the system to act
+as a complement for pathologists.
+"This [model] will never replace
+a pathologist, but will eventually
+emerge as a decision support tool,"
+Beck said. "It will be one that deliv
+ers improved information and re
+sults for doctors and patients every
+where."
+
+Contact Marshall Watkins at mt
+watkins@stanford. edu.
+Stanford researchers recently developed a
+computer model capable of both analyzing mi
+croscopic breast cancer images and offering pa
+tients a prognosis with unprecedented accuracy
+and consistency.
+The Computational Pathologist system (C-
+Path) is able to classify the types of cancer cells
+present in a patient and the level of aggression
+of the cells. The system also identifies key fea
+tures in tumor tissue that may indicate chances
+
+of survival. The model's computer analyses
+were a significant improvement in statistical ac
+curacy over those carried out by human pathol
+ogists using the same data.
+Stanford researchers trained the computer
+model using tumor tissue images from 248
+breast cancer patients whose survival data for
+the subsequent five years were known to the re
+searchers. C-Path examined 6,642 features in
+the cancer image before independently identi
+fying the most critical factors in determining
+survivability. The researchers then created a
+
+scoring system to predict patient outcome.
+C-Path also identified structural features in
+the tumor tissue images as more important than
+previously thought by pathologists in determin
+ing patient outcome.
+"We built a model based on features of the
+stroma the microenvironment between can
+cer cells that was a stronger predictor of out
+come than one built exclusively from features
+of [cancerous] epithelial cells," said Andrew
+Beck, lead author of the study. "The
+stromal model was as predictive as
+the model built from both stromal
+and epithelial features."
+Daphne Roller, a professor in
+the School of Engineering and the
+study's senior author, said in an
+email to The Daily that the study's
+results were "surprising and signifi
+cant because today's cancer grad
+ing scheme looks only at the cancer
+cells."
+"This finding supports the
+emerging view that cancer isn't just
+a bunch of cells gone awry, but
+rather an entire ecosystem," she
+said.
+Beck, now an assistant professor
+of pathology at Harvard Medical
+School, originally undertook the
+study as part of his post-doctoral
+work at Stanford. His research fo
+cused on the concept of prognosis
+through algorithm, which stemmed
+from collaboration with Roller.
+Beck's experience in pathology,
+combined with Roller's expertise in
+machine learning and image analy
+sis, allowed for the study to develop
+over a two-year period.
+The study confirmed its results
+using a "validation" set of data from
+328 women. The nature of the sub
+ject material also complicated ef
+forts to build the model. Among the
+challenges researchers faced was
+converting images to quantitative
+data.
+Beck noted that there remain
+several obstacles to deploying the
+computer model for clinical prog
+noses, but anticipated broader use
+of the model within a few years. He
+indicated the model should be test
+ed with larger images than the mi
+croscopic tissue slides used in the
+study. Beck added that the algo
+
+rithm has to be able to adapt to the
+different tissue staining procedures
+used by different medical institu
+tions.
+Another challenge remaining is
+the absence of lab standardization
+for the C-Path system. At the mo
+ment, researchers have to retrain
+the model's epithelial and stromal
+tissue indicators when changing
+between data sets from institutions
+with different staining protocols.
+In the future, the researchers
+anticipate the model will be ap
+plied not only to other forms of
+cancer but also to other diseases.
+The self-teaching algorithm that C-
+Path employs could train itself to
+respond to different training data
+and parameters and could thus for
+mulate different predictions ac
+cordingly.
+"One particularly exciting ap
+plication is to train the model on a
+cohort of patients treated with a
+particular disease ... and predict
+which patients will respond to the
+drug and which won't," Roller said.
+"This would allow the system to be
+used directly in helping guide clini
+cal care."
+By improving the accuracy and
+consistency of breast cancer prog
+noses, the model may allow doctors
+to make more informed decisions
+and to tailor treatments to the
+severity of the patient's condition.
+While the model seemingly offers
+the possibility of advanced prog
+noses in areas traditionally devoid
+of expert medical coverage, re
+searchers intend the system to act
+as a complement for pathologists.
+"This [model] will never replace
+a pathologist, but will eventually
+emerge as a decision support tool,"
+Beck said. "It will be one that deliv
+ers improved information and re
+sults for doctors and patients every
+where."
+
+Contact Marshall Watkins at mt
+watkins@stanford. edu.
+Stanford researchers recently developed a
+computer model capable of both analyzing mi
+croscopic breast cancer images and offering pa
+tients a prognosis with unprecedented accuracy
+and consistency.
+The Computational Pathologist system (C-
+Path) is able to classify the types of cancer cells
+present in a patient and the level of aggression
+of the cells. The system also identifies key fea
+tures in tumor tissue that may indicate chances
+
+of survival. The model's computer analyses
+were a significant improvement in statistical ac
+curacy over those carried out by human pathol
+ogists using the same data.
+Stanford researchers trained the computer
+model using tumor tissue images from 248
+breast cancer patients whose survival data for
+the subsequent five years were known to the re
+searchers. C-Path examined 6,642 features in
+the cancer image before independently identi
+fying the most critical factors in determining
+survivability. The researchers then created a
+
+scoring system to predict patient outcome.
+C-Path also identified structural features in
+the tumor tissue images as more important than
+previously thought by pathologists in determin
+ing patient outcome.
+"We built a model based on features of the
+stroma the microenvironment between can
+cer cells that was a stronger predictor of out
+come than one built exclusively from features
+of [cancerous] epithelial cells," said Andrew
+Beck, lead author of the study. "The
+stromal model was as predictive as
+the model built from both stromal
+and epithelial features."
+Daphne Roller, a professor in
+the School of Engineering and the
+study's senior author, said in an
+email to The Daily that the study's
+results were "surprising and signifi
+cant because today's cancer grad
+ing scheme looks only at the cancer
+cells."
+"This finding supports the
+emerging view that cancer isn't just
+a bunch of cells gone awry, but
+rather an entire ecosystem," she
+said.
+Beck, now an assistant professor
+of pathology at Harvard Medical
+School, originally undertook the
+study as part of his post-doctoral
+work at Stanford. His research fo
+cused on the concept of prognosis
+through algorithm, which stemmed
+from collaboration with Roller.
+Beck's experience in pathology,
+combined with Roller's expertise in
+machine learning and image analy
+sis, allowed for the study to develop
+over a two-year period.
+The study confirmed its results
+using a "validation" set of data from
+328 women. The nature of the sub
+ject material also complicated ef
+forts to build the model. Among the
+challenges researchers faced was
+converting images to quantitative
+data.
+Beck noted that there remain
+several obstacles to deploying the
+computer model for clinical prog
+noses, but anticipated broader use
+of the model within a few years. He
+indicated the model should be test
+ed with larger images than the mi
+croscopic tissue slides used in the
+study. Beck added that the algo
+
+rithm has to be able to adapt to the
+different tissue staining procedures
+used by different medical institu
+tions.
+Another challenge remaining is
+the absence of lab standardization
+for the C-Path system. At the mo
+ment, researchers have to retrain
+the model's epithelial and stromal
+tissue indicators when changing
+between data sets from institutions
+with different staining protocols.
+In the future, the researchers
+anticipate the model will be ap
+plied not only to other forms of
+cancer but also to other diseases.
+The self-teaching algorithm that C-
+Path employs could train itself to
+respond to different training data
+and parameters and could thus for
+mulate different predictions ac
+cordingly.
+"One particularly exciting ap
+plication is to train the model on a
+cohort of patients treated with a
+particular disease ... and predict
+which patients will respond to the
+drug and which won't," Roller said.
+"This would allow the system to be
+used directly in helping guide clini
+cal care."
+By improving the accuracy and
+consistency of breast cancer prog
+noses, the model may allow doctors
+to make more informed decisions
+and to tailor treatments to the
+severity of the patient's condition.
+While the model seemingly offers
+the possibility of advanced prog
+noses in areas traditionally devoid
+of expert medical coverage, re
+searchers intend the system to act
+as a complement for pathologists.
+"This [model] will never replace
+a pathologist, but will eventually
+emerge as a decision support tool,"
+Beck said. "It will be one that deliv
+ers improved information and re
+sults for doctors and patients every
+where."
+
+Contact Marshall Watkins at mt
+watkins@stanford. edu.
+Stanford researchers recently developed a
+computer model capable of both analyzing mi
+croscopic breast cancer images and offering pa
+tients a prognosis with unprecedented accuracy
+and consistency.
+The Computational Pathologist system (C-
+Path) is able to classify the types of cancer cells
+present in a patient and the level of aggression
+of the cells. The system also identifies key fea
+tures in tumor tissue that may indicate chances
+
+of survival. The model's computer analyses
+were a significant improvement in statistical ac
+curacy over those carried out by human pathol
+ogists using the same data.
+Stanford researchers trained the computer
+model using tumor tissue images from 248
+breast cancer patients whose survival data for
+the subsequent five years were known to the re
+searchers. C-Path examined 6,642 features in
+the cancer image before independently identi
+fying the most critical factors in determining
+survivability. The researchers then created a
+
+scoring system to predict patient outcome.
+C-Path also identified structural features in
+the tumor tissue images as more important than
+previously thought by pathologists in determin
+ing patient outcome.
+"We built a model based on features of the
+stroma the microenvironment between can
+cer cells that was a stronger predictor of out
+come than one built exclusively from features
+of [cancerous] epithelial cells," said Andrew
+Beck, lead author of the study. "The
+stromal model was as predictive as
+the model built from both stromal
+and epithelial features."
+Daphne Roller, a professor in
+the School of Engineering and the
+study's senior author, said in an
+email to The Daily that the study's
+results were "surprising and signifi
+cant because today's cancer grad
+ing scheme looks only at the cancer
+cells."
+"This finding supports the
+emerging view that cancer isn't just
+a bunch of cells gone awry, but
+rather an entire ecosystem," she
+said.
+Beck, now an assistant professor
+of pathology at Harvard Medical
+School, originally undertook the
+study as part of his post-doctoral
+work at Stanford. His research fo
+cused on the concept of prognosis
+through algorithm, which stemmed
+from collaboration with Roller.
+Beck's experience in pathology,
+combined with Roller's expertise in
+machine learning and image analy
+sis, allowed for the study to develop
+over a two-year period.
+The study confirmed its results
+using a "validation" set of data from
+328 women. The nature of the sub
+ject material also complicated ef
+forts to build the model. Among the
+challenges researchers faced was
+converting images to quantitative
+data.
+Beck noted that there remain
+several obstacles to deploying the
+computer model for clinical prog
+noses, but anticipated broader use
+of the model within a few years. He
+indicated the model should be test
+ed with larger images than the mi
+croscopic tissue slides used in the
+study. Beck added that the algo
+
+rithm has to be able to adapt to the
+different tissue staining procedures
+used by different medical institu
+tions.
+Another challenge remaining is
+the absence of lab standardization
+for the C-Path system. At the mo
+ment, researchers have to retrain
+the model's epithelial and stromal
+tissue indicators when changing
+between data sets from institutions
+with different staining protocols.
+In the future, the researchers
+anticipate the model will be ap
+plied not only to other forms of
+cancer but also to other diseases.
+The self-teaching algorithm that C-
+Path employs could train itself to
+respond to different training data
+and parameters and could thus for
+mulate different predictions ac
+cordingly.
+"One particularly exciting ap
+plication is to train the model on a
+cohort of patients treated with a
+particular disease ... and predict
+which patients will respond to the
+drug and which won't," Roller said.
+"This would allow the system to be
+used directly in helping guide clini
+cal care."
+By improving the accuracy and
+consistency of breast cancer prog
+noses, the model may allow doctors
+to make more informed decisions
+and to tailor treatments to the
+severity of the patient's condition.
+While the model seemingly offers
+the possibility of advanced prog
+noses in areas traditionally devoid
+of expert medical coverage, re
+searchers intend the system to act
+as a complement for pathologists.
+"This [model] will never replace
+a pathologist, but will eventually
+emerge as a decision support tool,"
+Beck said. "It will be one that deliv
+ers improved information and re
+sults for doctors and patients every
+where."
+
+Contact Marshall Watkins at mt
+watkins@stanford. edu.
+Stanford researchers recently developed a
+computer model capable of both analyzing mi
+croscopic breast cancer images and offering pa
+tients a prognosis with unprecedented accuracy
+and consistency.
+The Computational Pathologist system (C-
+Path) is able to classify the types of cancer cells
+present in a patient and the level of aggression
+of the cells. The system also identifies key fea
+tures in tumor tissue that may indicate chances
+
+of survival. The model's computer analyses
+were a significant improvement in statistical ac
+curacy over those carried out by human pathol
+ogists using the same data.
+Stanford researchers trained the computer
+model using tumor tissue images from 248
+breast cancer patients whose survival data for
+the subsequent five years were known to the re
+searchers. C-Path examined 6,642 features in
+the cancer image before independently identi
+fying the most critical factors in determining
+survivability. The researchers then created a
+
+scoring system to predict patient outcome.
+C-Path also identified structural features in
+the tumor tissue images as more important than
+previously thought by pathologists in determin
+ing patient outcome.
+"We built a model based on features of the
+stroma the microenvironment between can
+cer cells that was a stronger predictor of out
+come than one built exclusively from features
+of [cancerous] epithelial cells," said Andrew
+Beck, lead author of the study. "The
+stromal model was as predictive as
+the model built from both stromal
+and epithelial features."
+Daphne Roller, a professor in
+the School of Engineering and the
+study's senior author, said in an
+email to The Daily that the study's
+results were "surprising and signifi
+cant because today's cancer grad
+ing scheme looks only at the cancer
+cells."
+"This finding supports the
+emerging view that cancer isn't just
+a bunch of cells gone awry, but
+rather an entire ecosystem," she
+said.
+Beck, now an assistant professor
+of pathology at Harvard Medical
+School, originally undertook the
+study as part of his post-doctoral
+work at Stanford. His research fo
+cused on the concept of prognosis
+through algorithm, which stemmed
+from collaboration with Roller.
+Beck's experience in pathology,
+combined with Roller's expertise in
+machine learning and image analy
+sis, allowed for the study to develop
+over a two-year period.
+The study confirmed its results
+using a "validation" set of data from
+328 women. The nature of the sub
+ject material also complicated ef
+forts to build the model. Among the
+challenges researchers faced was
+converting images to quantitative
+data.
+Beck noted that there remain
+several obstacles to deploying the
+computer model for clinical prog
+noses, but anticipated broader use
+of the model within a few years. He
+indicated the model should be test
+ed with larger images than the mi
+croscopic tissue slides used in the
+study. Beck added that the algo
+
+rithm has to be able to adapt to the
+different tissue staining procedures
+used by different medical institu
+tions.
+Another challenge remaining is
+the absence of lab standardization
+for the C-Path system. At the mo
+ment, researchers have to retrain
+the model's epithelial and stromal
+tissue indicators when changing
+between data sets from institutions
+with different staining protocols.
+In the future, the researchers
+anticipate the model will be ap
+plied not only to other forms of
+cancer but also to other diseases.
+The self-teaching algorithm that C-
+Path employs could train itself to
+respond to different training data
+and parameters and could thus for
+mulate different predictions ac
+cordingly.
+"One particularly exciting ap
+plication is to train the model on a
+cohort of patients treated with a
+particular disease ... and predict
+which patients will respond to the
+drug and which won't," Roller said.
+"This would allow the system to be
+used directly in helping guide clini
+cal care."
+By improving the accuracy and
+consistency of breast cancer prog
+noses, the model may allow doctors
+to make more informed decisions
+and to tailor treatments to the
+severity of the patient's condition.
+While the model seemingly offers
+the possibility of advanced prog
+noses in areas traditionally devoid
+of expert medical coverage, re
+searchers intend the system to act
+as a complement for pathologists.
+"This [model] will never replace
+a pathologist, but will eventually
+emerge as a decision support tool,"
+Beck said. "It will be one that deliv
+ers improved information and re
+sults for doctors and patients every
+where."
+
+Contact Marshall Watkins at mt
+watkins@stanford. edu.

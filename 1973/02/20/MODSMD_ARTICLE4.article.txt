@@ -1,0 +1,2327 @@
+# Remote Lab Probes Artificial Intelligence Uses
+## 
+### LARRY FLEECE (First in a Series) 
+Hidden among the green farmlands
+and grazing pastures of the Stanford
+foothills sits a solitary modern
+structure, known as the "Stanford
+Artificial Intelligence Laboratory."
+Inside the building, a staff of
+bearded computer scientists labor
+amidst a confusion of computer
+machinery, television equipment,
+piecemeal gadgetry, and electronic
+buzzes and beeps.
+But the confusion is only
+superficial. Each piece of the awesome
+jumble of equipment, each peculiar
+noise and accompanying flutter of
+computer print-out paper represents a
+portion of the progress in the field of
+Artificial Intelligence (AI).
+AI is a broad, new field of research
+aimed at the application of computer
+technology to enhance the capabilities
+and knowledge of the human
+individual.
+The Stanford AI Laboratory, a part
+of the Department of Computer
+Science, was started in 1962 by Prof.
+John McCarthy from MIT. McCarthy,
+who is presently director of the
+Laboratory, applied in 1963 for
+funding from the Defense
+Department's Advanced Research
+Projects Agency (ARPA), as well as
+the National Science Foundation
+(NSF).
+Moved In 1966
+By 1965, McCarthy convinced the
+Defense Department that the AI
+research project was worth expanding,
+and so in the spring of 1966 AI moved
+into its laboratory in the foothills.
+Presently, the bulk of funds for the
+project comes from ARPA, which
+grants $1.2 million annually. Several
+smaller grants bolster this sum, with
+funds coming from the NSF, the
+National Aeronautics and Space
+Administration (NASA), the National
+Institute of Mental Health, and other
+agencies.
+Lester Earnest, executive director
+of the Laboratory', stresses that despite
+
+federal funding, the Lab is able to
+pursue its own interests. "We propose
+what we want to do," said Ernest,
+"and the Department of Defense or
+other contributors decide what they
+want to spend."
+'Robotics' Research
+According to Earnest, the largest
+project at the Lab deals with
+"hand-eye" research, or "robotics."
+Poised menacingly in the Lab is a
+complex mechanical "arm," designed
+in 1970 by staff member Vic
+Scheinman.
+The arm has six basic points of
+mobility, as does the human arm, and
+its "hand" has tactile sensors which
+can distinguish the size and weight of
+
+specific objects. Its actions are
+monitored by several television
+cameras, which feed spatial
+information into its computer bank.
+Earnest said that although there
+have been several other models and
+imitations, this arm "seems to be the
+best one around." The arm has
+successfully been computer-pro
+grammed to assemble the pieces of a
+Model-T Ford water pump.
+Infinite Implications
+"Clearly, the applications of this
+kind of general purpose automatic
+assembly to industry are infinite,"
+Earnest said. He explained that the
+importance of the computer-pro
+grammed mechanism, as opposed to
+
+any industrial machinery, is in its
+flexibility: "you can change the things
+the automatic system does simply by
+changing the computer program."
+In response to a question about the
+fear that machines are taking over the
+world. Earnest said, "Our concern is in
+the improvement of the quality of
+human life. One need only look back
+at what has happened in the past as a
+result of mechanization; shorter hours,
+longer vacations, less drudgery, more
+humane working conditions.
+"There is no point in forcing men
+to do jobs that machines can do more
+easily, just because those men need a
+job."
+Similar robotics research is being
+
+conducted at the Stanford Research
+Institute (SRI) Artificial Intelligence
+Center, the younger brother of the AI
+Laboratory.
+Peter E. Hart, assistant director of
+the AI Center at SRI, reported in a
+lecture last week that one primary
+concern of robotics research is giving
+computers common-sense reasoning
+abilities.
+For example, Hart said, anyone
+who enters a room knows that
+light-switches are generally placed near
+doorways: how is a computerized
+robot to know this? The difficulty lies
+in the wide variety of types of
+common-sense problems, and present
+research seeks to group common-sense
+problems into identifiable classes, to
+be served by single flexible computer
+programs.
+Mobile Robot
+Hart presented the creation of the
+AI Center at SRI, a mobile robot
+named Shakey. Shakey is
+pre-programmed with the abilities of
+planning and learning, and travels on
+rubber wheels with the aid of his
+cyclopean TV-camera eye and
+cat-whisker feelers.
+Acting on computer-programmed
+commands such as "go thru door X"
+or "push box to X," Shakey can
+navigate his way through an
+obstacle-filled room, and interact with
+his environment.
+Significantly, Shakey is capable of
+error recovery; that is, if he fails to
+complete his assigned task, Shakey can
+communicate by radio-antenna link to
+his computer file, and arrange an
+alternate approach to the problem.
+Hart said that ironically, one of the
+greatest limitations on Shakey's
+abilities is a human one: the scientists'
+programs for Shakey's actions are
+often lengthy and complex, and
+present research seeks to simplify and
+condense the steps in the programs.
+(Tomorrow: More ongoing research
+projects at Stanford Artificial
+Intelligence iMboratory.)
+
+
+—Daily photo by Janey Buechel
+MAGNIFICENT CLAW — This mechanical arm is computer programmed by scientists at the Artificial Intelligence Center
+in the foothills. The advantage of this type of machine is that it can be reprogrammed to perform different tasks.
+Hidden among the green farmlands
+and grazing pastures of the Stanford
+foothills sits a solitary modern
+structure, known as the "Stanford
+Artificial Intelligence Laboratory."
+Inside the building, a staff of
+bearded computer scientists labor
+amidst a confusion of computer
+machinery, television equipment,
+piecemeal gadgetry, and electronic
+buzzes and beeps.
+But the confusion is only
+superficial. Each piece of the awesome
+jumble of equipment, each peculiar
+noise and accompanying flutter of
+computer print-out paper represents a
+portion of the progress in the field of
+Artificial Intelligence (AI).
+AI is a broad, new field of research
+aimed at the application of computer
+technology to enhance the capabilities
+and knowledge of the human
+individual.
+The Stanford AI Laboratory, a part
+of the Department of Computer
+Science, was started in 1962 by Prof.
+John McCarthy from MIT. McCarthy,
+who is presently director of the
+Laboratory, applied in 1963 for
+funding from the Defense
+Department's Advanced Research
+Projects Agency (ARPA), as well as
+the National Science Foundation
+(NSF).
+Moved In 1966
+By 1965, McCarthy convinced the
+Defense Department that the AI
+research project was worth expanding,
+and so in the spring of 1966 AI moved
+into its laboratory in the foothills.
+Presently, the bulk of funds for the
+project comes from ARPA, which
+grants $1.2 million annually. Several
+smaller grants bolster this sum, with
+funds coming from the NSF, the
+National Aeronautics and Space
+Administration (NASA), the National
+Institute of Mental Health, and other
+agencies.
+Lester Earnest, executive director
+of the Laboratory', stresses that despite
+
+federal funding, the Lab is able to
+pursue its own interests. "We propose
+what we want to do," said Ernest,
+"and the Department of Defense or
+other contributors decide what they
+want to spend."
+'Robotics' Research
+According to Earnest, the largest
+project at the Lab deals with
+"hand-eye" research, or "robotics."
+Poised menacingly in the Lab is a
+complex mechanical "arm," designed
+in 1970 by staff member Vic
+Scheinman.
+The arm has six basic points of
+mobility, as does the human arm, and
+its "hand" has tactile sensors which
+can distinguish the size and weight of
+
+specific objects. Its actions are
+monitored by several television
+cameras, which feed spatial
+information into its computer bank.
+Earnest said that although there
+have been several other models and
+imitations, this arm "seems to be the
+best one around." The arm has
+successfully been computer-pro
+grammed to assemble the pieces of a
+Model-T Ford water pump.
+Infinite Implications
+"Clearly, the applications of this
+kind of general purpose automatic
+assembly to industry are infinite,"
+Earnest said. He explained that the
+importance of the computer-pro
+grammed mechanism, as opposed to
+
+any industrial machinery, is in its
+flexibility: "you can change the things
+the automatic system does simply by
+changing the computer program."
+In response to a question about the
+fear that machines are taking over the
+world. Earnest said, "Our concern is in
+the improvement of the quality of
+human life. One need only look back
+at what has happened in the past as a
+result of mechanization; shorter hours,
+longer vacations, less drudgery, more
+humane working conditions.
+"There is no point in forcing men
+to do jobs that machines can do more
+easily, just because those men need a
+job."
+Similar robotics research is being
+
+conducted at the Stanford Research
+Institute (SRI) Artificial Intelligence
+Center, the younger brother of the AI
+Laboratory.
+Peter E. Hart, assistant director of
+the AI Center at SRI, reported in a
+lecture last week that one primary
+concern of robotics research is giving
+computers common-sense reasoning
+abilities.
+For example, Hart said, anyone
+who enters a room knows that
+light-switches are generally placed near
+doorways: how is a computerized
+robot to know this? The difficulty lies
+in the wide variety of types of
+common-sense problems, and present
+research seeks to group common-sense
+problems into identifiable classes, to
+be served by single flexible computer
+programs.
+Mobile Robot
+Hart presented the creation of the
+AI Center at SRI, a mobile robot
+named Shakey. Shakey is
+pre-programmed with the abilities of
+planning and learning, and travels on
+rubber wheels with the aid of his
+cyclopean TV-camera eye and
+cat-whisker feelers.
+Acting on computer-programmed
+commands such as "go thru door X"
+or "push box to X," Shakey can
+navigate his way through an
+obstacle-filled room, and interact with
+his environment.
+Significantly, Shakey is capable of
+error recovery; that is, if he fails to
+complete his assigned task, Shakey can
+communicate by radio-antenna link to
+his computer file, and arrange an
+alternate approach to the problem.
+Hart said that ironically, one of the
+greatest limitations on Shakey's
+abilities is a human one: the scientists'
+programs for Shakey's actions are
+often lengthy and complex, and
+present research seeks to simplify and
+condense the steps in the programs.
+(Tomorrow: More ongoing research
+projects at Stanford Artificial
+Intelligence iMboratory.)
+
+
+—Daily photo by Janey Buechel
+MAGNIFICENT CLAW — This mechanical arm is computer programmed by scientists at the Artificial Intelligence Center
+in the foothills. The advantage of this type of machine is that it can be reprogrammed to perform different tasks.
+Hidden among the green farmlands
+and grazing pastures of the Stanford
+foothills sits a solitary modern
+structure, known as the "Stanford
+Artificial Intelligence Laboratory."
+Inside the building, a staff of
+bearded computer scientists labor
+amidst a confusion of computer
+machinery, television equipment,
+piecemeal gadgetry, and electronic
+buzzes and beeps.
+But the confusion is only
+superficial. Each piece of the awesome
+jumble of equipment, each peculiar
+noise and accompanying flutter of
+computer print-out paper represents a
+portion of the progress in the field of
+Artificial Intelligence (AI).
+AI is a broad, new field of research
+aimed at the application of computer
+technology to enhance the capabilities
+and knowledge of the human
+individual.
+The Stanford AI Laboratory, a part
+of the Department of Computer
+Science, was started in 1962 by Prof.
+John McCarthy from MIT. McCarthy,
+who is presently director of the
+Laboratory, applied in 1963 for
+funding from the Defense
+Department's Advanced Research
+Projects Agency (ARPA), as well as
+the National Science Foundation
+(NSF).
+Moved In 1966
+By 1965, McCarthy convinced the
+Defense Department that the AI
+research project was worth expanding,
+and so in the spring of 1966 AI moved
+into its laboratory in the foothills.
+Presently, the bulk of funds for the
+project comes from ARPA, which
+grants $1.2 million annually. Several
+smaller grants bolster this sum, with
+funds coming from the NSF, the
+National Aeronautics and Space
+Administration (NASA), the National
+Institute of Mental Health, and other
+agencies.
+Lester Earnest, executive director
+of the Laboratory', stresses that despite
+
+federal funding, the Lab is able to
+pursue its own interests. "We propose
+what we want to do," said Ernest,
+"and the Department of Defense or
+other contributors decide what they
+want to spend."
+'Robotics' Research
+According to Earnest, the largest
+project at the Lab deals with
+"hand-eye" research, or "robotics."
+Poised menacingly in the Lab is a
+complex mechanical "arm," designed
+in 1970 by staff member Vic
+Scheinman.
+The arm has six basic points of
+mobility, as does the human arm, and
+its "hand" has tactile sensors which
+can distinguish the size and weight of
+
+specific objects. Its actions are
+monitored by several television
+cameras, which feed spatial
+information into its computer bank.
+Earnest said that although there
+have been several other models and
+imitations, this arm "seems to be the
+best one around." The arm has
+successfully been computer-pro
+grammed to assemble the pieces of a
+Model-T Ford water pump.
+Infinite Implications
+"Clearly, the applications of this
+kind of general purpose automatic
+assembly to industry are infinite,"
+Earnest said. He explained that the
+importance of the computer-pro
+grammed mechanism, as opposed to
+
+any industrial machinery, is in its
+flexibility: "you can change the things
+the automatic system does simply by
+changing the computer program."
+In response to a question about the
+fear that machines are taking over the
+world. Earnest said, "Our concern is in
+the improvement of the quality of
+human life. One need only look back
+at what has happened in the past as a
+result of mechanization; shorter hours,
+longer vacations, less drudgery, more
+humane working conditions.
+"There is no point in forcing men
+to do jobs that machines can do more
+easily, just because those men need a
+job."
+Similar robotics research is being
+
+conducted at the Stanford Research
+Institute (SRI) Artificial Intelligence
+Center, the younger brother of the AI
+Laboratory.
+Peter E. Hart, assistant director of
+the AI Center at SRI, reported in a
+lecture last week that one primary
+concern of robotics research is giving
+computers common-sense reasoning
+abilities.
+For example, Hart said, anyone
+who enters a room knows that
+light-switches are generally placed near
+doorways: how is a computerized
+robot to know this? The difficulty lies
+in the wide variety of types of
+common-sense problems, and present
+research seeks to group common-sense
+problems into identifiable classes, to
+be served by single flexible computer
+programs.
+Mobile Robot
+Hart presented the creation of the
+AI Center at SRI, a mobile robot
+named Shakey. Shakey is
+pre-programmed with the abilities of
+planning and learning, and travels on
+rubber wheels with the aid of his
+cyclopean TV-camera eye and
+cat-whisker feelers.
+Acting on computer-programmed
+commands such as "go thru door X"
+or "push box to X," Shakey can
+navigate his way through an
+obstacle-filled room, and interact with
+his environment.
+Significantly, Shakey is capable of
+error recovery; that is, if he fails to
+complete his assigned task, Shakey can
+communicate by radio-antenna link to
+his computer file, and arrange an
+alternate approach to the problem.
+Hart said that ironically, one of the
+greatest limitations on Shakey's
+abilities is a human one: the scientists'
+programs for Shakey's actions are
+often lengthy and complex, and
+present research seeks to simplify and
+condense the steps in the programs.
+(Tomorrow: More ongoing research
+projects at Stanford Artificial
+Intelligence iMboratory.)
+
+
+—Daily photo by Janey Buechel
+MAGNIFICENT CLAW — This mechanical arm is computer programmed by scientists at the Artificial Intelligence Center
+in the foothills. The advantage of this type of machine is that it can be reprogrammed to perform different tasks.
+Hidden among the green farmlands
+and grazing pastures of the Stanford
+foothills sits a solitary modern
+structure, known as the "Stanford
+Artificial Intelligence Laboratory."
+Inside the building, a staff of
+bearded computer scientists labor
+amidst a confusion of computer
+machinery, television equipment,
+piecemeal gadgetry, and electronic
+buzzes and beeps.
+But the confusion is only
+superficial. Each piece of the awesome
+jumble of equipment, each peculiar
+noise and accompanying flutter of
+computer print-out paper represents a
+portion of the progress in the field of
+Artificial Intelligence (AI).
+AI is a broad, new field of research
+aimed at the application of computer
+technology to enhance the capabilities
+and knowledge of the human
+individual.
+The Stanford AI Laboratory, a part
+of the Department of Computer
+Science, was started in 1962 by Prof.
+John McCarthy from MIT. McCarthy,
+who is presently director of the
+Laboratory, applied in 1963 for
+funding from the Defense
+Department's Advanced Research
+Projects Agency (ARPA), as well as
+the National Science Foundation
+(NSF).
+Moved In 1966
+By 1965, McCarthy convinced the
+Defense Department that the AI
+research project was worth expanding,
+and so in the spring of 1966 AI moved
+into its laboratory in the foothills.
+Presently, the bulk of funds for the
+project comes from ARPA, which
+grants $1.2 million annually. Several
+smaller grants bolster this sum, with
+funds coming from the NSF, the
+National Aeronautics and Space
+Administration (NASA), the National
+Institute of Mental Health, and other
+agencies.
+Lester Earnest, executive director
+of the Laboratory', stresses that despite
+
+federal funding, the Lab is able to
+pursue its own interests. "We propose
+what we want to do," said Ernest,
+"and the Department of Defense or
+other contributors decide what they
+want to spend."
+'Robotics' Research
+According to Earnest, the largest
+project at the Lab deals with
+"hand-eye" research, or "robotics."
+Poised menacingly in the Lab is a
+complex mechanical "arm," designed
+in 1970 by staff member Vic
+Scheinman.
+The arm has six basic points of
+mobility, as does the human arm, and
+its "hand" has tactile sensors which
+can distinguish the size and weight of
+
+specific objects. Its actions are
+monitored by several television
+cameras, which feed spatial
+information into its computer bank.
+Earnest said that although there
+have been several other models and
+imitations, this arm "seems to be the
+best one around." The arm has
+successfully been computer-pro
+grammed to assemble the pieces of a
+Model-T Ford water pump.
+Infinite Implications
+"Clearly, the applications of this
+kind of general purpose automatic
+assembly to industry are infinite,"
+Earnest said. He explained that the
+importance of the computer-pro
+grammed mechanism, as opposed to
+
+any industrial machinery, is in its
+flexibility: "you can change the things
+the automatic system does simply by
+changing the computer program."
+In response to a question about the
+fear that machines are taking over the
+world. Earnest said, "Our concern is in
+the improvement of the quality of
+human life. One need only look back
+at what has happened in the past as a
+result of mechanization; shorter hours,
+longer vacations, less drudgery, more
+humane working conditions.
+"There is no point in forcing men
+to do jobs that machines can do more
+easily, just because those men need a
+job."
+Similar robotics research is being
+
+conducted at the Stanford Research
+Institute (SRI) Artificial Intelligence
+Center, the younger brother of the AI
+Laboratory.
+Peter E. Hart, assistant director of
+the AI Center at SRI, reported in a
+lecture last week that one primary
+concern of robotics research is giving
+computers common-sense reasoning
+abilities.
+For example, Hart said, anyone
+who enters a room knows that
+light-switches are generally placed near
+doorways: how is a computerized
+robot to know this? The difficulty lies
+in the wide variety of types of
+common-sense problems, and present
+research seeks to group common-sense
+problems into identifiable classes, to
+be served by single flexible computer
+programs.
+Mobile Robot
+Hart presented the creation of the
+AI Center at SRI, a mobile robot
+named Shakey. Shakey is
+pre-programmed with the abilities of
+planning and learning, and travels on
+rubber wheels with the aid of his
+cyclopean TV-camera eye and
+cat-whisker feelers.
+Acting on computer-programmed
+commands such as "go thru door X"
+or "push box to X," Shakey can
+navigate his way through an
+obstacle-filled room, and interact with
+his environment.
+Significantly, Shakey is capable of
+error recovery; that is, if he fails to
+complete his assigned task, Shakey can
+communicate by radio-antenna link to
+his computer file, and arrange an
+alternate approach to the problem.
+Hart said that ironically, one of the
+greatest limitations on Shakey's
+abilities is a human one: the scientists'
+programs for Shakey's actions are
+often lengthy and complex, and
+present research seeks to simplify and
+condense the steps in the programs.
+(Tomorrow: More ongoing research
+projects at Stanford Artificial
+Intelligence iMboratory.)
+
+
+—Daily photo by Janey Buechel
+MAGNIFICENT CLAW — This mechanical arm is computer programmed by scientists at the Artificial Intelligence Center
+in the foothills. The advantage of this type of machine is that it can be reprogrammed to perform different tasks.
+Hidden among the green farmlands
+and grazing pastures of the Stanford
+foothills sits a solitary modern
+structure, known as the "Stanford
+Artificial Intelligence Laboratory."
+Inside the building, a staff of
+bearded computer scientists labor
+amidst a confusion of computer
+machinery, television equipment,
+piecemeal gadgetry, and electronic
+buzzes and beeps.
+But the confusion is only
+superficial. Each piece of the awesome
+jumble of equipment, each peculiar
+noise and accompanying flutter of
+computer print-out paper represents a
+portion of the progress in the field of
+Artificial Intelligence (AI).
+AI is a broad, new field of research
+aimed at the application of computer
+technology to enhance the capabilities
+and knowledge of the human
+individual.
+The Stanford AI Laboratory, a part
+of the Department of Computer
+Science, was started in 1962 by Prof.
+John McCarthy from MIT. McCarthy,
+who is presently director of the
+Laboratory, applied in 1963 for
+funding from the Defense
+Department's Advanced Research
+Projects Agency (ARPA), as well as
+the National Science Foundation
+(NSF).
+Moved In 1966
+By 1965, McCarthy convinced the
+Defense Department that the AI
+research project was worth expanding,
+and so in the spring of 1966 AI moved
+into its laboratory in the foothills.
+Presently, the bulk of funds for the
+project comes from ARPA, which
+grants $1.2 million annually. Several
+smaller grants bolster this sum, with
+funds coming from the NSF, the
+National Aeronautics and Space
+Administration (NASA), the National
+Institute of Mental Health, and other
+agencies.
+Lester Earnest, executive director
+of the Laboratory', stresses that despite
+
+federal funding, the Lab is able to
+pursue its own interests. "We propose
+what we want to do," said Ernest,
+"and the Department of Defense or
+other contributors decide what they
+want to spend."
+'Robotics' Research
+According to Earnest, the largest
+project at the Lab deals with
+"hand-eye" research, or "robotics."
+Poised menacingly in the Lab is a
+complex mechanical "arm," designed
+in 1970 by staff member Vic
+Scheinman.
+The arm has six basic points of
+mobility, as does the human arm, and
+its "hand" has tactile sensors which
+can distinguish the size and weight of
+
+specific objects. Its actions are
+monitored by several television
+cameras, which feed spatial
+information into its computer bank.
+Earnest said that although there
+have been several other models and
+imitations, this arm "seems to be the
+best one around." The arm has
+successfully been computer-pro
+grammed to assemble the pieces of a
+Model-T Ford water pump.
+Infinite Implications
+"Clearly, the applications of this
+kind of general purpose automatic
+assembly to industry are infinite,"
+Earnest said. He explained that the
+importance of the computer-pro
+grammed mechanism, as opposed to
+
+any industrial machinery, is in its
+flexibility: "you can change the things
+the automatic system does simply by
+changing the computer program."
+In response to a question about the
+fear that machines are taking over the
+world. Earnest said, "Our concern is in
+the improvement of the quality of
+human life. One need only look back
+at what has happened in the past as a
+result of mechanization; shorter hours,
+longer vacations, less drudgery, more
+humane working conditions.
+"There is no point in forcing men
+to do jobs that machines can do more
+easily, just because those men need a
+job."
+Similar robotics research is being
+
+conducted at the Stanford Research
+Institute (SRI) Artificial Intelligence
+Center, the younger brother of the AI
+Laboratory.
+Peter E. Hart, assistant director of
+the AI Center at SRI, reported in a
+lecture last week that one primary
+concern of robotics research is giving
+computers common-sense reasoning
+abilities.
+For example, Hart said, anyone
+who enters a room knows that
+light-switches are generally placed near
+doorways: how is a computerized
+robot to know this? The difficulty lies
+in the wide variety of types of
+common-sense problems, and present
+research seeks to group common-sense
+problems into identifiable classes, to
+be served by single flexible computer
+programs.
+Mobile Robot
+Hart presented the creation of the
+AI Center at SRI, a mobile robot
+named Shakey. Shakey is
+pre-programmed with the abilities of
+planning and learning, and travels on
+rubber wheels with the aid of his
+cyclopean TV-camera eye and
+cat-whisker feelers.
+Acting on computer-programmed
+commands such as "go thru door X"
+or "push box to X," Shakey can
+navigate his way through an
+obstacle-filled room, and interact with
+his environment.
+Significantly, Shakey is capable of
+error recovery; that is, if he fails to
+complete his assigned task, Shakey can
+communicate by radio-antenna link to
+his computer file, and arrange an
+alternate approach to the problem.
+Hart said that ironically, one of the
+greatest limitations on Shakey's
+abilities is a human one: the scientists'
+programs for Shakey's actions are
+often lengthy and complex, and
+present research seeks to simplify and
+condense the steps in the programs.
+(Tomorrow: More ongoing research
+projects at Stanford Artificial
+Intelligence iMboratory.)
+
+
+—Daily photo by Janey Buechel
+MAGNIFICENT CLAW — This mechanical arm is computer programmed by scientists at the Artificial Intelligence Center
+in the foothills. The advantage of this type of machine is that it can be reprogrammed to perform different tasks.
+Hidden among the green farmlands
+and grazing pastures of the Stanford
+foothills sits a solitary modern
+structure, known as the "Stanford
+Artificial Intelligence Laboratory."
+Inside the building, a staff of
+bearded computer scientists labor
+amidst a confusion of computer
+machinery, television equipment,
+piecemeal gadgetry, and electronic
+buzzes and beeps.
+But the confusion is only
+superficial. Each piece of the awesome
+jumble of equipment, each peculiar
+noise and accompanying flutter of
+computer print-out paper represents a
+portion of the progress in the field of
+Artificial Intelligence (AI).
+AI is a broad, new field of research
+aimed at the application of computer
+technology to enhance the capabilities
+and knowledge of the human
+individual.
+The Stanford AI Laboratory, a part
+of the Department of Computer
+Science, was started in 1962 by Prof.
+John McCarthy from MIT. McCarthy,
+who is presently director of the
+Laboratory, applied in 1963 for
+funding from the Defense
+Department's Advanced Research
+Projects Agency (ARPA), as well as
+the National Science Foundation
+(NSF).
+Moved In 1966
+By 1965, McCarthy convinced the
+Defense Department that the AI
+research project was worth expanding,
+and so in the spring of 1966 AI moved
+into its laboratory in the foothills.
+Presently, the bulk of funds for the
+project comes from ARPA, which
+grants $1.2 million annually. Several
+smaller grants bolster this sum, with
+funds coming from the NSF, the
+National Aeronautics and Space
+Administration (NASA), the National
+Institute of Mental Health, and other
+agencies.
+Lester Earnest, executive director
+of the Laboratory', stresses that despite
+
+federal funding, the Lab is able to
+pursue its own interests. "We propose
+what we want to do," said Ernest,
+"and the Department of Defense or
+other contributors decide what they
+want to spend."
+'Robotics' Research
+According to Earnest, the largest
+project at the Lab deals with
+"hand-eye" research, or "robotics."
+Poised menacingly in the Lab is a
+complex mechanical "arm," designed
+in 1970 by staff member Vic
+Scheinman.
+The arm has six basic points of
+mobility, as does the human arm, and
+its "hand" has tactile sensors which
+can distinguish the size and weight of
+
+specific objects. Its actions are
+monitored by several television
+cameras, which feed spatial
+information into its computer bank.
+Earnest said that although there
+have been several other models and
+imitations, this arm "seems to be the
+best one around." The arm has
+successfully been computer-pro
+grammed to assemble the pieces of a
+Model-T Ford water pump.
+Infinite Implications
+"Clearly, the applications of this
+kind of general purpose automatic
+assembly to industry are infinite,"
+Earnest said. He explained that the
+importance of the computer-pro
+grammed mechanism, as opposed to
+
+any industrial machinery, is in its
+flexibility: "you can change the things
+the automatic system does simply by
+changing the computer program."
+In response to a question about the
+fear that machines are taking over the
+world. Earnest said, "Our concern is in
+the improvement of the quality of
+human life. One need only look back
+at what has happened in the past as a
+result of mechanization; shorter hours,
+longer vacations, less drudgery, more
+humane working conditions.
+"There is no point in forcing men
+to do jobs that machines can do more
+easily, just because those men need a
+job."
+Similar robotics research is being
+
+conducted at the Stanford Research
+Institute (SRI) Artificial Intelligence
+Center, the younger brother of the AI
+Laboratory.
+Peter E. Hart, assistant director of
+the AI Center at SRI, reported in a
+lecture last week that one primary
+concern of robotics research is giving
+computers common-sense reasoning
+abilities.
+For example, Hart said, anyone
+who enters a room knows that
+light-switches are generally placed near
+doorways: how is a computerized
+robot to know this? The difficulty lies
+in the wide variety of types of
+common-sense problems, and present
+research seeks to group common-sense
+problems into identifiable classes, to
+be served by single flexible computer
+programs.
+Mobile Robot
+Hart presented the creation of the
+AI Center at SRI, a mobile robot
+named Shakey. Shakey is
+pre-programmed with the abilities of
+planning and learning, and travels on
+rubber wheels with the aid of his
+cyclopean TV-camera eye and
+cat-whisker feelers.
+Acting on computer-programmed
+commands such as "go thru door X"
+or "push box to X," Shakey can
+navigate his way through an
+obstacle-filled room, and interact with
+his environment.
+Significantly, Shakey is capable of
+error recovery; that is, if he fails to
+complete his assigned task, Shakey can
+communicate by radio-antenna link to
+his computer file, and arrange an
+alternate approach to the problem.
+Hart said that ironically, one of the
+greatest limitations on Shakey's
+abilities is a human one: the scientists'
+programs for Shakey's actions are
+often lengthy and complex, and
+present research seeks to simplify and
+condense the steps in the programs.
+(Tomorrow: More ongoing research
+projects at Stanford Artificial
+Intelligence iMboratory.)
+
+
+—Daily photo by Janey Buechel
+MAGNIFICENT CLAW — This mechanical arm is computer programmed by scientists at the Artificial Intelligence Center
+in the foothills. The advantage of this type of machine is that it can be reprogrammed to perform different tasks.
+Hidden among the green farmlands
+and grazing pastures of the Stanford
+foothills sits a solitary modern
+structure, known as the "Stanford
+Artificial Intelligence Laboratory."
+Inside the building, a staff of
+bearded computer scientists labor
+amidst a confusion of computer
+machinery, television equipment,
+piecemeal gadgetry, and electronic
+buzzes and beeps.
+But the confusion is only
+superficial. Each piece of the awesome
+jumble of equipment, each peculiar
+noise and accompanying flutter of
+computer print-out paper represents a
+portion of the progress in the field of
+Artificial Intelligence (AI).
+AI is a broad, new field of research
+aimed at the application of computer
+technology to enhance the capabilities
+and knowledge of the human
+individual.
+The Stanford AI Laboratory, a part
+of the Department of Computer
+Science, was started in 1962 by Prof.
+John McCarthy from MIT. McCarthy,
+who is presently director of the
+Laboratory, applied in 1963 for
+funding from the Defense
+Department's Advanced Research
+Projects Agency (ARPA), as well as
+the National Science Foundation
+(NSF).
+Moved In 1966
+By 1965, McCarthy convinced the
+Defense Department that the AI
+research project was worth expanding,
+and so in the spring of 1966 AI moved
+into its laboratory in the foothills.
+Presently, the bulk of funds for the
+project comes from ARPA, which
+grants $1.2 million annually. Several
+smaller grants bolster this sum, with
+funds coming from the NSF, the
+National Aeronautics and Space
+Administration (NASA), the National
+Institute of Mental Health, and other
+agencies.
+Lester Earnest, executive director
+of the Laboratory', stresses that despite
+
+federal funding, the Lab is able to
+pursue its own interests. "We propose
+what we want to do," said Ernest,
+"and the Department of Defense or
+other contributors decide what they
+want to spend."
+'Robotics' Research
+According to Earnest, the largest
+project at the Lab deals with
+"hand-eye" research, or "robotics."
+Poised menacingly in the Lab is a
+complex mechanical "arm," designed
+in 1970 by staff member Vic
+Scheinman.
+The arm has six basic points of
+mobility, as does the human arm, and
+its "hand" has tactile sensors which
+can distinguish the size and weight of
+
+specific objects. Its actions are
+monitored by several television
+cameras, which feed spatial
+information into its computer bank.
+Earnest said that although there
+have been several other models and
+imitations, this arm "seems to be the
+best one around." The arm has
+successfully been computer-pro
+grammed to assemble the pieces of a
+Model-T Ford water pump.
+Infinite Implications
+"Clearly, the applications of this
+kind of general purpose automatic
+assembly to industry are infinite,"
+Earnest said. He explained that the
+importance of the computer-pro
+grammed mechanism, as opposed to
+
+any industrial machinery, is in its
+flexibility: "you can change the things
+the automatic system does simply by
+changing the computer program."
+In response to a question about the
+fear that machines are taking over the
+world. Earnest said, "Our concern is in
+the improvement of the quality of
+human life. One need only look back
+at what has happened in the past as a
+result of mechanization; shorter hours,
+longer vacations, less drudgery, more
+humane working conditions.
+"There is no point in forcing men
+to do jobs that machines can do more
+easily, just because those men need a
+job."
+Similar robotics research is being
+
+conducted at the Stanford Research
+Institute (SRI) Artificial Intelligence
+Center, the younger brother of the AI
+Laboratory.
+Peter E. Hart, assistant director of
+the AI Center at SRI, reported in a
+lecture last week that one primary
+concern of robotics research is giving
+computers common-sense reasoning
+abilities.
+For example, Hart said, anyone
+who enters a room knows that
+light-switches are generally placed near
+doorways: how is a computerized
+robot to know this? The difficulty lies
+in the wide variety of types of
+common-sense problems, and present
+research seeks to group common-sense
+problems into identifiable classes, to
+be served by single flexible computer
+programs.
+Mobile Robot
+Hart presented the creation of the
+AI Center at SRI, a mobile robot
+named Shakey. Shakey is
+pre-programmed with the abilities of
+planning and learning, and travels on
+rubber wheels with the aid of his
+cyclopean TV-camera eye and
+cat-whisker feelers.
+Acting on computer-programmed
+commands such as "go thru door X"
+or "push box to X," Shakey can
+navigate his way through an
+obstacle-filled room, and interact with
+his environment.
+Significantly, Shakey is capable of
+error recovery; that is, if he fails to
+complete his assigned task, Shakey can
+communicate by radio-antenna link to
+his computer file, and arrange an
+alternate approach to the problem.
+Hart said that ironically, one of the
+greatest limitations on Shakey's
+abilities is a human one: the scientists'
+programs for Shakey's actions are
+often lengthy and complex, and
+present research seeks to simplify and
+condense the steps in the programs.
+(Tomorrow: More ongoing research
+projects at Stanford Artificial
+Intelligence iMboratory.)
+
+
+—Daily photo by Janey Buechel
+MAGNIFICENT CLAW — This mechanical arm is computer programmed by scientists at the Artificial Intelligence Center
+in the foothills. The advantage of this type of machine is that it can be reprogrammed to perform different tasks.
+Hidden among the green farmlands
+and grazing pastures of the Stanford
+foothills sits a solitary modern
+structure, known as the "Stanford
+Artificial Intelligence Laboratory."
+Inside the building, a staff of
+bearded computer scientists labor
+amidst a confusion of computer
+machinery, television equipment,
+piecemeal gadgetry, and electronic
+buzzes and beeps.
+But the confusion is only
+superficial. Each piece of the awesome
+jumble of equipment, each peculiar
+noise and accompanying flutter of
+computer print-out paper represents a
+portion of the progress in the field of
+Artificial Intelligence (AI).
+AI is a broad, new field of research
+aimed at the application of computer
+technology to enhance the capabilities
+and knowledge of the human
+individual.
+The Stanford AI Laboratory, a part
+of the Department of Computer
+Science, was started in 1962 by Prof.
+John McCarthy from MIT. McCarthy,
+who is presently director of the
+Laboratory, applied in 1963 for
+funding from the Defense
+Department's Advanced Research
+Projects Agency (ARPA), as well as
+the National Science Foundation
+(NSF).
+Moved In 1966
+By 1965, McCarthy convinced the
+Defense Department that the AI
+research project was worth expanding,
+and so in the spring of 1966 AI moved
+into its laboratory in the foothills.
+Presently, the bulk of funds for the
+project comes from ARPA, which
+grants $1.2 million annually. Several
+smaller grants bolster this sum, with
+funds coming from the NSF, the
+National Aeronautics and Space
+Administration (NASA), the National
+Institute of Mental Health, and other
+agencies.
+Lester Earnest, executive director
+of the Laboratory', stresses that despite
+
+federal funding, the Lab is able to
+pursue its own interests. "We propose
+what we want to do," said Ernest,
+"and the Department of Defense or
+other contributors decide what they
+want to spend."
+'Robotics' Research
+According to Earnest, the largest
+project at the Lab deals with
+"hand-eye" research, or "robotics."
+Poised menacingly in the Lab is a
+complex mechanical "arm," designed
+in 1970 by staff member Vic
+Scheinman.
+The arm has six basic points of
+mobility, as does the human arm, and
+its "hand" has tactile sensors which
+can distinguish the size and weight of
+
+specific objects. Its actions are
+monitored by several television
+cameras, which feed spatial
+information into its computer bank.
+Earnest said that although there
+have been several other models and
+imitations, this arm "seems to be the
+best one around." The arm has
+successfully been computer-pro
+grammed to assemble the pieces of a
+Model-T Ford water pump.
+Infinite Implications
+"Clearly, the applications of this
+kind of general purpose automatic
+assembly to industry are infinite,"
+Earnest said. He explained that the
+importance of the computer-pro
+grammed mechanism, as opposed to
+
+any industrial machinery, is in its
+flexibility: "you can change the things
+the automatic system does simply by
+changing the computer program."
+In response to a question about the
+fear that machines are taking over the
+world. Earnest said, "Our concern is in
+the improvement of the quality of
+human life. One need only look back
+at what has happened in the past as a
+result of mechanization; shorter hours,
+longer vacations, less drudgery, more
+humane working conditions.
+"There is no point in forcing men
+to do jobs that machines can do more
+easily, just because those men need a
+job."
+Similar robotics research is being
+
+conducted at the Stanford Research
+Institute (SRI) Artificial Intelligence
+Center, the younger brother of the AI
+Laboratory.
+Peter E. Hart, assistant director of
+the AI Center at SRI, reported in a
+lecture last week that one primary
+concern of robotics research is giving
+computers common-sense reasoning
+abilities.
+For example, Hart said, anyone
+who enters a room knows that
+light-switches are generally placed near
+doorways: how is a computerized
+robot to know this? The difficulty lies
+in the wide variety of types of
+common-sense problems, and present
+research seeks to group common-sense
+problems into identifiable classes, to
+be served by single flexible computer
+programs.
+Mobile Robot
+Hart presented the creation of the
+AI Center at SRI, a mobile robot
+named Shakey. Shakey is
+pre-programmed with the abilities of
+planning and learning, and travels on
+rubber wheels with the aid of his
+cyclopean TV-camera eye and
+cat-whisker feelers.
+Acting on computer-programmed
+commands such as "go thru door X"
+or "push box to X," Shakey can
+navigate his way through an
+obstacle-filled room, and interact with
+his environment.
+Significantly, Shakey is capable of
+error recovery; that is, if he fails to
+complete his assigned task, Shakey can
+communicate by radio-antenna link to
+his computer file, and arrange an
+alternate approach to the problem.
+Hart said that ironically, one of the
+greatest limitations on Shakey's
+abilities is a human one: the scientists'
+programs for Shakey's actions are
+often lengthy and complex, and
+present research seeks to simplify and
+condense the steps in the programs.
+(Tomorrow: More ongoing research
+projects at Stanford Artificial
+Intelligence iMboratory.)
+
+
+—Daily photo by Janey Buechel
+MAGNIFICENT CLAW — This mechanical arm is computer programmed by scientists at the Artificial Intelligence Center
+in the foothills. The advantage of this type of machine is that it can be reprogrammed to perform different tasks.
+Hidden among the green farmlands
+and grazing pastures of the Stanford
+foothills sits a solitary modern
+structure, known as the "Stanford
+Artificial Intelligence Laboratory."
+Inside the building, a staff of
+bearded computer scientists labor
+amidst a confusion of computer
+machinery, television equipment,
+piecemeal gadgetry, and electronic
+buzzes and beeps.
+But the confusion is only
+superficial. Each piece of the awesome
+jumble of equipment, each peculiar
+noise and accompanying flutter of
+computer print-out paper represents a
+portion of the progress in the field of
+Artificial Intelligence (AI).
+AI is a broad, new field of research
+aimed at the application of computer
+technology to enhance the capabilities
+and knowledge of the human
+individual.
+The Stanford AI Laboratory, a part
+of the Department of Computer
+Science, was started in 1962 by Prof.
+John McCarthy from MIT. McCarthy,
+who is presently director of the
+Laboratory, applied in 1963 for
+funding from the Defense
+Department's Advanced Research
+Projects Agency (ARPA), as well as
+the National Science Foundation
+(NSF).
+Moved In 1966
+By 1965, McCarthy convinced the
+Defense Department that the AI
+research project was worth expanding,
+and so in the spring of 1966 AI moved
+into its laboratory in the foothills.
+Presently, the bulk of funds for the
+project comes from ARPA, which
+grants $1.2 million annually. Several
+smaller grants bolster this sum, with
+funds coming from the NSF, the
+National Aeronautics and Space
+Administration (NASA), the National
+Institute of Mental Health, and other
+agencies.
+Lester Earnest, executive director
+of the Laboratory', stresses that despite
+
+federal funding, the Lab is able to
+pursue its own interests. "We propose
+what we want to do," said Ernest,
+"and the Department of Defense or
+other contributors decide what they
+want to spend."
+'Robotics' Research
+According to Earnest, the largest
+project at the Lab deals with
+"hand-eye" research, or "robotics."
+Poised menacingly in the Lab is a
+complex mechanical "arm," designed
+in 1970 by staff member Vic
+Scheinman.
+The arm has six basic points of
+mobility, as does the human arm, and
+its "hand" has tactile sensors which
+can distinguish the size and weight of
+
+specific objects. Its actions are
+monitored by several television
+cameras, which feed spatial
+information into its computer bank.
+Earnest said that although there
+have been several other models and
+imitations, this arm "seems to be the
+best one around." The arm has
+successfully been computer-pro
+grammed to assemble the pieces of a
+Model-T Ford water pump.
+Infinite Implications
+"Clearly, the applications of this
+kind of general purpose automatic
+assembly to industry are infinite,"
+Earnest said. He explained that the
+importance of the computer-pro
+grammed mechanism, as opposed to
+
+any industrial machinery, is in its
+flexibility: "you can change the things
+the automatic system does simply by
+changing the computer program."
+In response to a question about the
+fear that machines are taking over the
+world. Earnest said, "Our concern is in
+the improvement of the quality of
+human life. One need only look back
+at what has happened in the past as a
+result of mechanization; shorter hours,
+longer vacations, less drudgery, more
+humane working conditions.
+"There is no point in forcing men
+to do jobs that machines can do more
+easily, just because those men need a
+job."
+Similar robotics research is being
+
+conducted at the Stanford Research
+Institute (SRI) Artificial Intelligence
+Center, the younger brother of the AI
+Laboratory.
+Peter E. Hart, assistant director of
+the AI Center at SRI, reported in a
+lecture last week that one primary
+concern of robotics research is giving
+computers common-sense reasoning
+abilities.
+For example, Hart said, anyone
+who enters a room knows that
+light-switches are generally placed near
+doorways: how is a computerized
+robot to know this? The difficulty lies
+in the wide variety of types of
+common-sense problems, and present
+research seeks to group common-sense
+problems into identifiable classes, to
+be served by single flexible computer
+programs.
+Mobile Robot
+Hart presented the creation of the
+AI Center at SRI, a mobile robot
+named Shakey. Shakey is
+pre-programmed with the abilities of
+planning and learning, and travels on
+rubber wheels with the aid of his
+cyclopean TV-camera eye and
+cat-whisker feelers.
+Acting on computer-programmed
+commands such as "go thru door X"
+or "push box to X," Shakey can
+navigate his way through an
+obstacle-filled room, and interact with
+his environment.
+Significantly, Shakey is capable of
+error recovery; that is, if he fails to
+complete his assigned task, Shakey can
+communicate by radio-antenna link to
+his computer file, and arrange an
+alternate approach to the problem.
+Hart said that ironically, one of the
+greatest limitations on Shakey's
+abilities is a human one: the scientists'
+programs for Shakey's actions are
+often lengthy and complex, and
+present research seeks to simplify and
+condense the steps in the programs.
+(Tomorrow: More ongoing research
+projects at Stanford Artificial
+Intelligence iMboratory.)
+
+
+—Daily photo by Janey Buechel
+MAGNIFICENT CLAW — This mechanical arm is computer programmed by scientists at the Artificial Intelligence Center
+in the foothills. The advantage of this type of machine is that it can be reprogrammed to perform different tasks.
+Hidden among the green farmlands
+and grazing pastures of the Stanford
+foothills sits a solitary modern
+structure, known as the "Stanford
+Artificial Intelligence Laboratory."
+Inside the building, a staff of
+bearded computer scientists labor
+amidst a confusion of computer
+machinery, television equipment,
+piecemeal gadgetry, and electronic
+buzzes and beeps.
+But the confusion is only
+superficial. Each piece of the awesome
+jumble of equipment, each peculiar
+noise and accompanying flutter of
+computer print-out paper represents a
+portion of the progress in the field of
+Artificial Intelligence (AI).
+AI is a broad, new field of research
+aimed at the application of computer
+technology to enhance the capabilities
+and knowledge of the human
+individual.
+The Stanford AI Laboratory, a part
+of the Department of Computer
+Science, was started in 1962 by Prof.
+John McCarthy from MIT. McCarthy,
+who is presently director of the
+Laboratory, applied in 1963 for
+funding from the Defense
+Department's Advanced Research
+Projects Agency (ARPA), as well as
+the National Science Foundation
+(NSF).
+Moved In 1966
+By 1965, McCarthy convinced the
+Defense Department that the AI
+research project was worth expanding,
+and so in the spring of 1966 AI moved
+into its laboratory in the foothills.
+Presently, the bulk of funds for the
+project comes from ARPA, which
+grants $1.2 million annually. Several
+smaller grants bolster this sum, with
+funds coming from the NSF, the
+National Aeronautics and Space
+Administration (NASA), the National
+Institute of Mental Health, and other
+agencies.
+Lester Earnest, executive director
+of the Laboratory', stresses that despite
+
+federal funding, the Lab is able to
+pursue its own interests. "We propose
+what we want to do," said Ernest,
+"and the Department of Defense or
+other contributors decide what they
+want to spend."
+'Robotics' Research
+According to Earnest, the largest
+project at the Lab deals with
+"hand-eye" research, or "robotics."
+Poised menacingly in the Lab is a
+complex mechanical "arm," designed
+in 1970 by staff member Vic
+Scheinman.
+The arm has six basic points of
+mobility, as does the human arm, and
+its "hand" has tactile sensors which
+can distinguish the size and weight of
+
+specific objects. Its actions are
+monitored by several television
+cameras, which feed spatial
+information into its computer bank.
+Earnest said that although there
+have been several other models and
+imitations, this arm "seems to be the
+best one around." The arm has
+successfully been computer-pro
+grammed to assemble the pieces of a
+Model-T Ford water pump.
+Infinite Implications
+"Clearly, the applications of this
+kind of general purpose automatic
+assembly to industry are infinite,"
+Earnest said. He explained that the
+importance of the computer-pro
+grammed mechanism, as opposed to
+
+any industrial machinery, is in its
+flexibility: "you can change the things
+the automatic system does simply by
+changing the computer program."
+In response to a question about the
+fear that machines are taking over the
+world. Earnest said, "Our concern is in
+the improvement of the quality of
+human life. One need only look back
+at what has happened in the past as a
+result of mechanization; shorter hours,
+longer vacations, less drudgery, more
+humane working conditions.
+"There is no point in forcing men
+to do jobs that machines can do more
+easily, just because those men need a
+job."
+Similar robotics research is being
+
+conducted at the Stanford Research
+Institute (SRI) Artificial Intelligence
+Center, the younger brother of the AI
+Laboratory.
+Peter E. Hart, assistant director of
+the AI Center at SRI, reported in a
+lecture last week that one primary
+concern of robotics research is giving
+computers common-sense reasoning
+abilities.
+For example, Hart said, anyone
+who enters a room knows that
+light-switches are generally placed near
+doorways: how is a computerized
+robot to know this? The difficulty lies
+in the wide variety of types of
+common-sense problems, and present
+research seeks to group common-sense
+problems into identifiable classes, to
+be served by single flexible computer
+programs.
+Mobile Robot
+Hart presented the creation of the
+AI Center at SRI, a mobile robot
+named Shakey. Shakey is
+pre-programmed with the abilities of
+planning and learning, and travels on
+rubber wheels with the aid of his
+cyclopean TV-camera eye and
+cat-whisker feelers.
+Acting on computer-programmed
+commands such as "go thru door X"
+or "push box to X," Shakey can
+navigate his way through an
+obstacle-filled room, and interact with
+his environment.
+Significantly, Shakey is capable of
+error recovery; that is, if he fails to
+complete his assigned task, Shakey can
+communicate by radio-antenna link to
+his computer file, and arrange an
+alternate approach to the problem.
+Hart said that ironically, one of the
+greatest limitations on Shakey's
+abilities is a human one: the scientists'
+programs for Shakey's actions are
+often lengthy and complex, and
+present research seeks to simplify and
+condense the steps in the programs.
+(Tomorrow: More ongoing research
+projects at Stanford Artificial
+Intelligence iMboratory.)
+
+
+—Daily photo by Janey Buechel
+MAGNIFICENT CLAW — This mechanical arm is computer programmed by scientists at the Artificial Intelligence Center
+in the foothills. The advantage of this type of machine is that it can be reprogrammed to perform different tasks.
+Hidden among the green farmlands
+and grazing pastures of the Stanford
+foothills sits a solitary modern
+structure, known as the "Stanford
+Artificial Intelligence Laboratory."
+Inside the building, a staff of
+bearded computer scientists labor
+amidst a confusion of computer
+machinery, television equipment,
+piecemeal gadgetry, and electronic
+buzzes and beeps.
+But the confusion is only
+superficial. Each piece of the awesome
+jumble of equipment, each peculiar
+noise and accompanying flutter of
+computer print-out paper represents a
+portion of the progress in the field of
+Artificial Intelligence (AI).
+AI is a broad, new field of research
+aimed at the application of computer
+technology to enhance the capabilities
+and knowledge of the human
+individual.
+The Stanford AI Laboratory, a part
+of the Department of Computer
+Science, was started in 1962 by Prof.
+John McCarthy from MIT. McCarthy,
+who is presently director of the
+Laboratory, applied in 1963 for
+funding from the Defense
+Department's Advanced Research
+Projects Agency (ARPA), as well as
+the National Science Foundation
+(NSF).
+Moved In 1966
+By 1965, McCarthy convinced the
+Defense Department that the AI
+research project was worth expanding,
+and so in the spring of 1966 AI moved
+into its laboratory in the foothills.
+Presently, the bulk of funds for the
+project comes from ARPA, which
+grants $1.2 million annually. Several
+smaller grants bolster this sum, with
+funds coming from the NSF, the
+National Aeronautics and Space
+Administration (NASA), the National
+Institute of Mental Health, and other
+agencies.
+Lester Earnest, executive director
+of the Laboratory', stresses that despite
+
+federal funding, the Lab is able to
+pursue its own interests. "We propose
+what we want to do," said Ernest,
+"and the Department of Defense or
+other contributors decide what they
+want to spend."
+'Robotics' Research
+According to Earnest, the largest
+project at the Lab deals with
+"hand-eye" research, or "robotics."
+Poised menacingly in the Lab is a
+complex mechanical "arm," designed
+in 1970 by staff member Vic
+Scheinman.
+The arm has six basic points of
+mobility, as does the human arm, and
+its "hand" has tactile sensors which
+can distinguish the size and weight of
+
+specific objects. Its actions are
+monitored by several television
+cameras, which feed spatial
+information into its computer bank.
+Earnest said that although there
+have been several other models and
+imitations, this arm "seems to be the
+best one around." The arm has
+successfully been computer-pro
+grammed to assemble the pieces of a
+Model-T Ford water pump.
+Infinite Implications
+"Clearly, the applications of this
+kind of general purpose automatic
+assembly to industry are infinite,"
+Earnest said. He explained that the
+importance of the computer-pro
+grammed mechanism, as opposed to
+
+any industrial machinery, is in its
+flexibility: "you can change the things
+the automatic system does simply by
+changing the computer program."
+In response to a question about the
+fear that machines are taking over the
+world. Earnest said, "Our concern is in
+the improvement of the quality of
+human life. One need only look back
+at what has happened in the past as a
+result of mechanization; shorter hours,
+longer vacations, less drudgery, more
+humane working conditions.
+"There is no point in forcing men
+to do jobs that machines can do more
+easily, just because those men need a
+job."
+Similar robotics research is being
+
+conducted at the Stanford Research
+Institute (SRI) Artificial Intelligence
+Center, the younger brother of the AI
+Laboratory.
+Peter E. Hart, assistant director of
+the AI Center at SRI, reported in a
+lecture last week that one primary
+concern of robotics research is giving
+computers common-sense reasoning
+abilities.
+For example, Hart said, anyone
+who enters a room knows that
+light-switches are generally placed near
+doorways: how is a computerized
+robot to know this? The difficulty lies
+in the wide variety of types of
+common-sense problems, and present
+research seeks to group common-sense
+problems into identifiable classes, to
+be served by single flexible computer
+programs.
+Mobile Robot
+Hart presented the creation of the
+AI Center at SRI, a mobile robot
+named Shakey. Shakey is
+pre-programmed with the abilities of
+planning and learning, and travels on
+rubber wheels with the aid of his
+cyclopean TV-camera eye and
+cat-whisker feelers.
+Acting on computer-programmed
+commands such as "go thru door X"
+or "push box to X," Shakey can
+navigate his way through an
+obstacle-filled room, and interact with
+his environment.
+Significantly, Shakey is capable of
+error recovery; that is, if he fails to
+complete his assigned task, Shakey can
+communicate by radio-antenna link to
+his computer file, and arrange an
+alternate approach to the problem.
+Hart said that ironically, one of the
+greatest limitations on Shakey's
+abilities is a human one: the scientists'
+programs for Shakey's actions are
+often lengthy and complex, and
+present research seeks to simplify and
+condense the steps in the programs.
+(Tomorrow: More ongoing research
+projects at Stanford Artificial
+Intelligence iMboratory.)
+
+
+—Daily photo by Janey Buechel
+MAGNIFICENT CLAW — This mechanical arm is computer programmed by scientists at the Artificial Intelligence Center
+in the foothills. The advantage of this type of machine is that it can be reprogrammed to perform different tasks.
+Hidden among the green farmlands
+and grazing pastures of the Stanford
+foothills sits a solitary modern
+structure, known as the "Stanford
+Artificial Intelligence Laboratory."
+Inside the building, a staff of
+bearded computer scientists labor
+amidst a confusion of computer
+machinery, television equipment,
+piecemeal gadgetry, and electronic
+buzzes and beeps.
+But the confusion is only
+superficial. Each piece of the awesome
+jumble of equipment, each peculiar
+noise and accompanying flutter of
+computer print-out paper represents a
+portion of the progress in the field of
+Artificial Intelligence (AI).
+AI is a broad, new field of research
+aimed at the application of computer
+technology to enhance the capabilities
+and knowledge of the human
+individual.
+The Stanford AI Laboratory, a part
+of the Department of Computer
+Science, was started in 1962 by Prof.
+John McCarthy from MIT. McCarthy,
+who is presently director of the
+Laboratory, applied in 1963 for
+funding from the Defense
+Department's Advanced Research
+Projects Agency (ARPA), as well as
+the National Science Foundation
+(NSF).
+Moved In 1966
+By 1965, McCarthy convinced the
+Defense Department that the AI
+research project was worth expanding,
+and so in the spring of 1966 AI moved
+into its laboratory in the foothills.
+Presently, the bulk of funds for the
+project comes from ARPA, which
+grants $1.2 million annually. Several
+smaller grants bolster this sum, with
+funds coming from the NSF, the
+National Aeronautics and Space
+Administration (NASA), the National
+Institute of Mental Health, and other
+agencies.
+Lester Earnest, executive director
+of the Laboratory', stresses that despite
+
+federal funding, the Lab is able to
+pursue its own interests. "We propose
+what we want to do," said Ernest,
+"and the Department of Defense or
+other contributors decide what they
+want to spend."
+'Robotics' Research
+According to Earnest, the largest
+project at the Lab deals with
+"hand-eye" research, or "robotics."
+Poised menacingly in the Lab is a
+complex mechanical "arm," designed
+in 1970 by staff member Vic
+Scheinman.
+The arm has six basic points of
+mobility, as does the human arm, and
+its "hand" has tactile sensors which
+can distinguish the size and weight of
+
+specific objects. Its actions are
+monitored by several television
+cameras, which feed spatial
+information into its computer bank.
+Earnest said that although there
+have been several other models and
+imitations, this arm "seems to be the
+best one around." The arm has
+successfully been computer-pro
+grammed to assemble the pieces of a
+Model-T Ford water pump.
+Infinite Implications
+"Clearly, the applications of this
+kind of general purpose automatic
+assembly to industry are infinite,"
+Earnest said. He explained that the
+importance of the computer-pro
+grammed mechanism, as opposed to
+
+any industrial machinery, is in its
+flexibility: "you can change the things
+the automatic system does simply by
+changing the computer program."
+In response to a question about the
+fear that machines are taking over the
+world. Earnest said, "Our concern is in
+the improvement of the quality of
+human life. One need only look back
+at what has happened in the past as a
+result of mechanization; shorter hours,
+longer vacations, less drudgery, more
+humane working conditions.
+"There is no point in forcing men
+to do jobs that machines can do more
+easily, just because those men need a
+job."
+Similar robotics research is being
+
+conducted at the Stanford Research
+Institute (SRI) Artificial Intelligence
+Center, the younger brother of the AI
+Laboratory.
+Peter E. Hart, assistant director of
+the AI Center at SRI, reported in a
+lecture last week that one primary
+concern of robotics research is giving
+computers common-sense reasoning
+abilities.
+For example, Hart said, anyone
+who enters a room knows that
+light-switches are generally placed near
+doorways: how is a computerized
+robot to know this? The difficulty lies
+in the wide variety of types of
+common-sense problems, and present
+research seeks to group common-sense
+problems into identifiable classes, to
+be served by single flexible computer
+programs.
+Mobile Robot
+Hart presented the creation of the
+AI Center at SRI, a mobile robot
+named Shakey. Shakey is
+pre-programmed with the abilities of
+planning and learning, and travels on
+rubber wheels with the aid of his
+cyclopean TV-camera eye and
+cat-whisker feelers.
+Acting on computer-programmed
+commands such as "go thru door X"
+or "push box to X," Shakey can
+navigate his way through an
+obstacle-filled room, and interact with
+his environment.
+Significantly, Shakey is capable of
+error recovery; that is, if he fails to
+complete his assigned task, Shakey can
+communicate by radio-antenna link to
+his computer file, and arrange an
+alternate approach to the problem.
+Hart said that ironically, one of the
+greatest limitations on Shakey's
+abilities is a human one: the scientists'
+programs for Shakey's actions are
+often lengthy and complex, and
+present research seeks to simplify and
+condense the steps in the programs.
+(Tomorrow: More ongoing research
+projects at Stanford Artificial
+Intelligence iMboratory.)
+
+
+—Daily photo by Janey Buechel
+MAGNIFICENT CLAW — This mechanical arm is computer programmed by scientists at the Artificial Intelligence Center
+in the foothills. The advantage of this type of machine is that it can be reprogrammed to perform different tasks.
+Hidden among the green farmlands
+and grazing pastures of the Stanford
+foothills sits a solitary modern
+structure, known as the "Stanford
+Artificial Intelligence Laboratory."
+Inside the building, a staff of
+bearded computer scientists labor
+amidst a confusion of computer
+machinery, television equipment,
+piecemeal gadgetry, and electronic
+buzzes and beeps.
+But the confusion is only
+superficial. Each piece of the awesome
+jumble of equipment, each peculiar
+noise and accompanying flutter of
+computer print-out paper represents a
+portion of the progress in the field of
+Artificial Intelligence (AI).
+AI is a broad, new field of research
+aimed at the application of computer
+technology to enhance the capabilities
+and knowledge of the human
+individual.
+The Stanford AI Laboratory, a part
+of the Department of Computer
+Science, was started in 1962 by Prof.
+John McCarthy from MIT. McCarthy,
+who is presently director of the
+Laboratory, applied in 1963 for
+funding from the Defense
+Department's Advanced Research
+Projects Agency (ARPA), as well as
+the National Science Foundation
+(NSF).
+Moved In 1966
+By 1965, McCarthy convinced the
+Defense Department that the AI
+research project was worth expanding,
+and so in the spring of 1966 AI moved
+into its laboratory in the foothills.
+Presently, the bulk of funds for the
+project comes from ARPA, which
+grants $1.2 million annually. Several
+smaller grants bolster this sum, with
+funds coming from the NSF, the
+National Aeronautics and Space
+Administration (NASA), the National
+Institute of Mental Health, and other
+agencies.
+Lester Earnest, executive director
+of the Laboratory', stresses that despite
+
+federal funding, the Lab is able to
+pursue its own interests. "We propose
+what we want to do," said Ernest,
+"and the Department of Defense or
+other contributors decide what they
+want to spend."
+'Robotics' Research
+According to Earnest, the largest
+project at the Lab deals with
+"hand-eye" research, or "robotics."
+Poised menacingly in the Lab is a
+complex mechanical "arm," designed
+in 1970 by staff member Vic
+Scheinman.
+The arm has six basic points of
+mobility, as does the human arm, and
+its "hand" has tactile sensors which
+can distinguish the size and weight of
+
+specific objects. Its actions are
+monitored by several television
+cameras, which feed spatial
+information into its computer bank.
+Earnest said that although there
+have been several other models and
+imitations, this arm "seems to be the
+best one around." The arm has
+successfully been computer-pro
+grammed to assemble the pieces of a
+Model-T Ford water pump.
+Infinite Implications
+"Clearly, the applications of this
+kind of general purpose automatic
+assembly to industry are infinite,"
+Earnest said. He explained that the
+importance of the computer-pro
+grammed mechanism, as opposed to
+
+any industrial machinery, is in its
+flexibility: "you can change the things
+the automatic system does simply by
+changing the computer program."
+In response to a question about the
+fear that machines are taking over the
+world. Earnest said, "Our concern is in
+the improvement of the quality of
+human life. One need only look back
+at what has happened in the past as a
+result of mechanization; shorter hours,
+longer vacations, less drudgery, more
+humane working conditions.
+"There is no point in forcing men
+to do jobs that machines can do more
+easily, just because those men need a
+job."
+Similar robotics research is being
+
+conducted at the Stanford Research
+Institute (SRI) Artificial Intelligence
+Center, the younger brother of the AI
+Laboratory.
+Peter E. Hart, assistant director of
+the AI Center at SRI, reported in a
+lecture last week that one primary
+concern of robotics research is giving
+computers common-sense reasoning
+abilities.
+For example, Hart said, anyone
+who enters a room knows that
+light-switches are generally placed near
+doorways: how is a computerized
+robot to know this? The difficulty lies
+in the wide variety of types of
+common-sense problems, and present
+research seeks to group common-sense
+problems into identifiable classes, to
+be served by single flexible computer
+programs.
+Mobile Robot
+Hart presented the creation of the
+AI Center at SRI, a mobile robot
+named Shakey. Shakey is
+pre-programmed with the abilities of
+planning and learning, and travels on
+rubber wheels with the aid of his
+cyclopean TV-camera eye and
+cat-whisker feelers.
+Acting on computer-programmed
+commands such as "go thru door X"
+or "push box to X," Shakey can
+navigate his way through an
+obstacle-filled room, and interact with
+his environment.
+Significantly, Shakey is capable of
+error recovery; that is, if he fails to
+complete his assigned task, Shakey can
+communicate by radio-antenna link to
+his computer file, and arrange an
+alternate approach to the problem.
+Hart said that ironically, one of the
+greatest limitations on Shakey's
+abilities is a human one: the scientists'
+programs for Shakey's actions are
+often lengthy and complex, and
+present research seeks to simplify and
+condense the steps in the programs.
+(Tomorrow: More ongoing research
+projects at Stanford Artificial
+Intelligence iMboratory.)
+
+
+—Daily photo by Janey Buechel
+MAGNIFICENT CLAW — This mechanical arm is computer programmed by scientists at the Artificial Intelligence Center
+in the foothills. The advantage of this type of machine is that it can be reprogrammed to perform different tasks.
+Hidden among the green farmlands
+and grazing pastures of the Stanford
+foothills sits a solitary modern
+structure, known as the "Stanford
+Artificial Intelligence Laboratory."
+Inside the building, a staff of
+bearded computer scientists labor
+amidst a confusion of computer
+machinery, television equipment,
+piecemeal gadgetry, and electronic
+buzzes and beeps.
+But the confusion is only
+superficial. Each piece of the awesome
+jumble of equipment, each peculiar
+noise and accompanying flutter of
+computer print-out paper represents a
+portion of the progress in the field of
+Artificial Intelligence (AI).
+AI is a broad, new field of research
+aimed at the application of computer
+technology to enhance the capabilities
+and knowledge of the human
+individual.
+The Stanford AI Laboratory, a part
+of the Department of Computer
+Science, was started in 1962 by Prof.
+John McCarthy from MIT. McCarthy,
+who is presently director of the
+Laboratory, applied in 1963 for
+funding from the Defense
+Department's Advanced Research
+Projects Agency (ARPA), as well as
+the National Science Foundation
+(NSF).
+Moved In 1966
+By 1965, McCarthy convinced the
+Defense Department that the AI
+research project was worth expanding,
+and so in the spring of 1966 AI moved
+into its laboratory in the foothills.
+Presently, the bulk of funds for the
+project comes from ARPA, which
+grants $1.2 million annually. Several
+smaller grants bolster this sum, with
+funds coming from the NSF, the
+National Aeronautics and Space
+Administration (NASA), the National
+Institute of Mental Health, and other
+agencies.
+Lester Earnest, executive director
+of the Laboratory', stresses that despite
+
+federal funding, the Lab is able to
+pursue its own interests. "We propose
+what we want to do," said Ernest,
+"and the Department of Defense or
+other contributors decide what they
+want to spend."
+'Robotics' Research
+According to Earnest, the largest
+project at the Lab deals with
+"hand-eye" research, or "robotics."
+Poised menacingly in the Lab is a
+complex mechanical "arm," designed
+in 1970 by staff member Vic
+Scheinman.
+The arm has six basic points of
+mobility, as does the human arm, and
+its "hand" has tactile sensors which
+can distinguish the size and weight of
+
+specific objects. Its actions are
+monitored by several television
+cameras, which feed spatial
+information into its computer bank.
+Earnest said that although there
+have been several other models and
+imitations, this arm "seems to be the
+best one around." The arm has
+successfully been computer-pro
+grammed to assemble the pieces of a
+Model-T Ford water pump.
+Infinite Implications
+"Clearly, the applications of this
+kind of general purpose automatic
+assembly to industry are infinite,"
+Earnest said. He explained that the
+importance of the computer-pro
+grammed mechanism, as opposed to
+
+any industrial machinery, is in its
+flexibility: "you can change the things
+the automatic system does simply by
+changing the computer program."
+In response to a question about the
+fear that machines are taking over the
+world. Earnest said, "Our concern is in
+the improvement of the quality of
+human life. One need only look back
+at what has happened in the past as a
+result of mechanization; shorter hours,
+longer vacations, less drudgery, more
+humane working conditions.
+"There is no point in forcing men
+to do jobs that machines can do more
+easily, just because those men need a
+job."
+Similar robotics research is being
+
+conducted at the Stanford Research
+Institute (SRI) Artificial Intelligence
+Center, the younger brother of the AI
+Laboratory.
+Peter E. Hart, assistant director of
+the AI Center at SRI, reported in a
+lecture last week that one primary
+concern of robotics research is giving
+computers common-sense reasoning
+abilities.
+For example, Hart said, anyone
+who enters a room knows that
+light-switches are generally placed near
+doorways: how is a computerized
+robot to know this? The difficulty lies
+in the wide variety of types of
+common-sense problems, and present
+research seeks to group common-sense
+problems into identifiable classes, to
+be served by single flexible computer
+programs.
+Mobile Robot
+Hart presented the creation of the
+AI Center at SRI, a mobile robot
+named Shakey. Shakey is
+pre-programmed with the abilities of
+planning and learning, and travels on
+rubber wheels with the aid of his
+cyclopean TV-camera eye and
+cat-whisker feelers.
+Acting on computer-programmed
+commands such as "go thru door X"
+or "push box to X," Shakey can
+navigate his way through an
+obstacle-filled room, and interact with
+his environment.
+Significantly, Shakey is capable of
+error recovery; that is, if he fails to
+complete his assigned task, Shakey can
+communicate by radio-antenna link to
+his computer file, and arrange an
+alternate approach to the problem.
+Hart said that ironically, one of the
+greatest limitations on Shakey's
+abilities is a human one: the scientists'
+programs for Shakey's actions are
+often lengthy and complex, and
+present research seeks to simplify and
+condense the steps in the programs.
+(Tomorrow: More ongoing research
+projects at Stanford Artificial
+Intelligence iMboratory.)
+
+
+—Daily photo by Janey Buechel
+MAGNIFICENT CLAW — This mechanical arm is computer programmed by scientists at the Artificial Intelligence Center
+in the foothills. The advantage of this type of machine is that it can be reprogrammed to perform different tasks.

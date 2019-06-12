@@ -1,0 +1,1165 @@
+# Prof, devises math algorithm
+## 
+### SRIRAM SUBRAMANIAM 
+It is generally known that the 1979
+Nobel prize in physiology or medicine
+was awarded to Godfrey Hounsfield
+and Allan Cormack for their pioneer
+ing work in the invention of the CAT
+(computerized axial tomography)
+scanner.
+What is much less known, however,
+is that this diagnostic tool relies in
+good part on mathematical tech
+niques developed much earlier by
+Electrical Engineering Prof. Ronald
+Bracewell.
+In 1956, Bracewell, then director
+of the Radio Astronomy Institute at
+Stanford, succeeded in producing
+images of the temperature distribu
+tion of the sun using observations
+from an earth-based radio telescope.
+Bracewell exploited the fact that
+the sun and the earth change their or
+ientation with respect to each other as
+they rotate. He realized that observa
+tions made at various times during
+the day — and thus at various
+orientations — could be combined
+and processed mathematically to
+generate a three-dimensional image
+
+of radiation arriving from the sun.
+Modern devices such as the CAT
+scanner produce cross-sectional
+images of the human body by
+employing the same ideas that
+Bracewell developed for imaging ra
+diation from the sun.
+The CAT scanner works by taking
+cross-sectional X-rays from a mul
+titude of orientations, analogous to
+the way Bracewell monitored solar
+radiation from many different
+orientations.
+Moreoever, the CAT scanner
+processes data from the various cross
+sectional X-rays with exactly the
+same mathematical functions
+Bracewell employed in making
+images of the sun.
+These functions, discovered in
+1807 by the French mathematician
+Jean Baptiste Joseph Fourier, are
+called Fourier transforms.
+In their simplest applications, these
+functions are used to express complex
+curves as a sum of simple waves.
+Today, there are hardly any
+branches of physical science and engi
+neering that have not felt the impact
+
+of Fourier's discovery. Fourier trans
+forms are routinely used in various
+kinds of chemical spectroscopy, in
+processing signals from radio anten
+nas, in underwater sonar transducers
+and even in the construction of musi
+cal sounds in the Moog synthesizer.
+Lord Kelvin must have anticipated
+as much when he predicted at the
+turn of the century that these trans
+forms "may be said to furnish an in
+dispensable element in the treatment
+of nearly every recondite question in
+physics."
+The vast majority of computer pro
+grams currently in use compute the
+Fourier transform using an algorithm
+known as the Fast Fourier Transform
+(FFT). The FFT algorithm, published
+in 1965 by James Cooley and John
+Tukey, is basically a mathematical
+trick that enormously simplifies the
+amount of time needed to evaluate a
+Fourier transform.
+However, Cooley and Tukey were
+not the first discoverers of the FFT.
+The German mathematician Carl
+Friedrich Gauss had used essentially
+the same algorithm in his calculations
+
+in 1805, two years before the first an
+nouncement of the Fourier trans
+form.
+Gauss work was published post
+humously in 1866 and seems not to
+have been generally appreciated until
+its rediscovery in the last few years by
+mathematical historians.
+Bracewell has had a long and inti
+mate association with Fourier trans
+forms in the three decades of his ten
+ure at Stanford. In recent years, he
+has directed his efforts towards devel
+oping a superfast algorithm that he
+calls the Fast Hartley Transform.
+The algorithm that Bracewell has
+come up with uses transforms first
+defined by Ralph Hartley of Bell
+Laboratories in 1942. Their potential
+went largely unnoticed until
+Bracewell's work in 1983.
+The computation of the Hartley
+transform using Bracewell's al
+gorithm is much faster than the com
+putation of the corresponding Fourier
+transform using the FFT algorithm
+and can be substituted for it in all its
+
+
+Patrick Lin/Daily
+Electical Engineering Prof. Ronald Bracewell has filed a patent for the
+Fast Hartley Transform, a mathematical algorithm that experts expect
+will be used by most computers within five years.
+current uses.
+The main advantage of the Fast
+Hartley Transform is its use of real
+numbers instead of the complex num
+bers employed in the FFT. The in
+creased speed is a result of the
+reduced time involved in multiplica
+tion: A complex multiplication takes
+four times as long as a regular multi
+plication.
+The new algorithm could well
+
+make the current ones obsolete and it
+is expected that most computer pro
+grams will switch to the Fast Hartley
+Transform within five years.
+A patent for the algorithm has
+been filed by Bracewell, and rumor
+has it that the Office of Technology
+and Licensing, which handles the
+patenting procedure at Stanford,
+would be happier if the algorithm
+were called the Fast Bracewell Trans
+form.
+Besides developing the Fast
+Hartley Transform, Bracewell has
+been personally involved in the con
+
+struction of the many radio telescopes
+and interferometers at Stanford.
+He is also well known for his brain
+teasers — in the Electrical Engineer
+ing qualifying examination he once
+asked the profound question "Why is
+a manhole round?" — and he is fa
+mous for his original methods in
+teaching.
+Bracewell is the author of many
+books, with subjects ranging from the
+Fourier transform to trees on the
+Stanford campus. His latest book,
+"The Hartley Transform," is to be
+published by Oxford University Press
+later this year.
+It is generally known that the 1979
+Nobel prize in physiology or medicine
+was awarded to Godfrey Hounsfield
+and Allan Cormack for their pioneer
+ing work in the invention of the CAT
+(computerized axial tomography)
+scanner.
+What is much less known, however,
+is that this diagnostic tool relies in
+good part on mathematical tech
+niques developed much earlier by
+Electrical Engineering Prof. Ronald
+Bracewell.
+In 1956, Bracewell, then director
+of the Radio Astronomy Institute at
+Stanford, succeeded in producing
+images of the temperature distribu
+tion of the sun using observations
+from an earth-based radio telescope.
+Bracewell exploited the fact that
+the sun and the earth change their or
+ientation with respect to each other as
+they rotate. He realized that observa
+tions made at various times during
+the day — and thus at various
+orientations — could be combined
+and processed mathematically to
+generate a three-dimensional image
+
+of radiation arriving from the sun.
+Modern devices such as the CAT
+scanner produce cross-sectional
+images of the human body by
+employing the same ideas that
+Bracewell developed for imaging ra
+diation from the sun.
+The CAT scanner works by taking
+cross-sectional X-rays from a mul
+titude of orientations, analogous to
+the way Bracewell monitored solar
+radiation from many different
+orientations.
+Moreoever, the CAT scanner
+processes data from the various cross
+sectional X-rays with exactly the
+same mathematical functions
+Bracewell employed in making
+images of the sun.
+These functions, discovered in
+1807 by the French mathematician
+Jean Baptiste Joseph Fourier, are
+called Fourier transforms.
+In their simplest applications, these
+functions are used to express complex
+curves as a sum of simple waves.
+Today, there are hardly any
+branches of physical science and engi
+neering that have not felt the impact
+
+of Fourier's discovery. Fourier trans
+forms are routinely used in various
+kinds of chemical spectroscopy, in
+processing signals from radio anten
+nas, in underwater sonar transducers
+and even in the construction of musi
+cal sounds in the Moog synthesizer.
+Lord Kelvin must have anticipated
+as much when he predicted at the
+turn of the century that these trans
+forms "may be said to furnish an in
+dispensable element in the treatment
+of nearly every recondite question in
+physics."
+The vast majority of computer pro
+grams currently in use compute the
+Fourier transform using an algorithm
+known as the Fast Fourier Transform
+(FFT). The FFT algorithm, published
+in 1965 by James Cooley and John
+Tukey, is basically a mathematical
+trick that enormously simplifies the
+amount of time needed to evaluate a
+Fourier transform.
+However, Cooley and Tukey were
+not the first discoverers of the FFT.
+The German mathematician Carl
+Friedrich Gauss had used essentially
+the same algorithm in his calculations
+
+in 1805, two years before the first an
+nouncement of the Fourier trans
+form.
+Gauss work was published post
+humously in 1866 and seems not to
+have been generally appreciated until
+its rediscovery in the last few years by
+mathematical historians.
+Bracewell has had a long and inti
+mate association with Fourier trans
+forms in the three decades of his ten
+ure at Stanford. In recent years, he
+has directed his efforts towards devel
+oping a superfast algorithm that he
+calls the Fast Hartley Transform.
+The algorithm that Bracewell has
+come up with uses transforms first
+defined by Ralph Hartley of Bell
+Laboratories in 1942. Their potential
+went largely unnoticed until
+Bracewell's work in 1983.
+The computation of the Hartley
+transform using Bracewell's al
+gorithm is much faster than the com
+putation of the corresponding Fourier
+transform using the FFT algorithm
+and can be substituted for it in all its
+
+
+Patrick Lin/Daily
+Electical Engineering Prof. Ronald Bracewell has filed a patent for the
+Fast Hartley Transform, a mathematical algorithm that experts expect
+will be used by most computers within five years.
+current uses.
+The main advantage of the Fast
+Hartley Transform is its use of real
+numbers instead of the complex num
+bers employed in the FFT. The in
+creased speed is a result of the
+reduced time involved in multiplica
+tion: A complex multiplication takes
+four times as long as a regular multi
+plication.
+The new algorithm could well
+
+make the current ones obsolete and it
+is expected that most computer pro
+grams will switch to the Fast Hartley
+Transform within five years.
+A patent for the algorithm has
+been filed by Bracewell, and rumor
+has it that the Office of Technology
+and Licensing, which handles the
+patenting procedure at Stanford,
+would be happier if the algorithm
+were called the Fast Bracewell Trans
+form.
+Besides developing the Fast
+Hartley Transform, Bracewell has
+been personally involved in the con
+
+struction of the many radio telescopes
+and interferometers at Stanford.
+He is also well known for his brain
+teasers — in the Electrical Engineer
+ing qualifying examination he once
+asked the profound question "Why is
+a manhole round?" — and he is fa
+mous for his original methods in
+teaching.
+Bracewell is the author of many
+books, with subjects ranging from the
+Fourier transform to trees on the
+Stanford campus. His latest book,
+"The Hartley Transform," is to be
+published by Oxford University Press
+later this year.
+It is generally known that the 1979
+Nobel prize in physiology or medicine
+was awarded to Godfrey Hounsfield
+and Allan Cormack for their pioneer
+ing work in the invention of the CAT
+(computerized axial tomography)
+scanner.
+What is much less known, however,
+is that this diagnostic tool relies in
+good part on mathematical tech
+niques developed much earlier by
+Electrical Engineering Prof. Ronald
+Bracewell.
+In 1956, Bracewell, then director
+of the Radio Astronomy Institute at
+Stanford, succeeded in producing
+images of the temperature distribu
+tion of the sun using observations
+from an earth-based radio telescope.
+Bracewell exploited the fact that
+the sun and the earth change their or
+ientation with respect to each other as
+they rotate. He realized that observa
+tions made at various times during
+the day — and thus at various
+orientations — could be combined
+and processed mathematically to
+generate a three-dimensional image
+
+of radiation arriving from the sun.
+Modern devices such as the CAT
+scanner produce cross-sectional
+images of the human body by
+employing the same ideas that
+Bracewell developed for imaging ra
+diation from the sun.
+The CAT scanner works by taking
+cross-sectional X-rays from a mul
+titude of orientations, analogous to
+the way Bracewell monitored solar
+radiation from many different
+orientations.
+Moreoever, the CAT scanner
+processes data from the various cross
+sectional X-rays with exactly the
+same mathematical functions
+Bracewell employed in making
+images of the sun.
+These functions, discovered in
+1807 by the French mathematician
+Jean Baptiste Joseph Fourier, are
+called Fourier transforms.
+In their simplest applications, these
+functions are used to express complex
+curves as a sum of simple waves.
+Today, there are hardly any
+branches of physical science and engi
+neering that have not felt the impact
+
+of Fourier's discovery. Fourier trans
+forms are routinely used in various
+kinds of chemical spectroscopy, in
+processing signals from radio anten
+nas, in underwater sonar transducers
+and even in the construction of musi
+cal sounds in the Moog synthesizer.
+Lord Kelvin must have anticipated
+as much when he predicted at the
+turn of the century that these trans
+forms "may be said to furnish an in
+dispensable element in the treatment
+of nearly every recondite question in
+physics."
+The vast majority of computer pro
+grams currently in use compute the
+Fourier transform using an algorithm
+known as the Fast Fourier Transform
+(FFT). The FFT algorithm, published
+in 1965 by James Cooley and John
+Tukey, is basically a mathematical
+trick that enormously simplifies the
+amount of time needed to evaluate a
+Fourier transform.
+However, Cooley and Tukey were
+not the first discoverers of the FFT.
+The German mathematician Carl
+Friedrich Gauss had used essentially
+the same algorithm in his calculations
+
+in 1805, two years before the first an
+nouncement of the Fourier trans
+form.
+Gauss work was published post
+humously in 1866 and seems not to
+have been generally appreciated until
+its rediscovery in the last few years by
+mathematical historians.
+Bracewell has had a long and inti
+mate association with Fourier trans
+forms in the three decades of his ten
+ure at Stanford. In recent years, he
+has directed his efforts towards devel
+oping a superfast algorithm that he
+calls the Fast Hartley Transform.
+The algorithm that Bracewell has
+come up with uses transforms first
+defined by Ralph Hartley of Bell
+Laboratories in 1942. Their potential
+went largely unnoticed until
+Bracewell's work in 1983.
+The computation of the Hartley
+transform using Bracewell's al
+gorithm is much faster than the com
+putation of the corresponding Fourier
+transform using the FFT algorithm
+and can be substituted for it in all its
+
+
+Patrick Lin/Daily
+Electical Engineering Prof. Ronald Bracewell has filed a patent for the
+Fast Hartley Transform, a mathematical algorithm that experts expect
+will be used by most computers within five years.
+current uses.
+The main advantage of the Fast
+Hartley Transform is its use of real
+numbers instead of the complex num
+bers employed in the FFT. The in
+creased speed is a result of the
+reduced time involved in multiplica
+tion: A complex multiplication takes
+four times as long as a regular multi
+plication.
+The new algorithm could well
+
+make the current ones obsolete and it
+is expected that most computer pro
+grams will switch to the Fast Hartley
+Transform within five years.
+A patent for the algorithm has
+been filed by Bracewell, and rumor
+has it that the Office of Technology
+and Licensing, which handles the
+patenting procedure at Stanford,
+would be happier if the algorithm
+were called the Fast Bracewell Trans
+form.
+Besides developing the Fast
+Hartley Transform, Bracewell has
+been personally involved in the con
+
+struction of the many radio telescopes
+and interferometers at Stanford.
+He is also well known for his brain
+teasers — in the Electrical Engineer
+ing qualifying examination he once
+asked the profound question "Why is
+a manhole round?" — and he is fa
+mous for his original methods in
+teaching.
+Bracewell is the author of many
+books, with subjects ranging from the
+Fourier transform to trees on the
+Stanford campus. His latest book,
+"The Hartley Transform," is to be
+published by Oxford University Press
+later this year.
+It is generally known that the 1979
+Nobel prize in physiology or medicine
+was awarded to Godfrey Hounsfield
+and Allan Cormack for their pioneer
+ing work in the invention of the CAT
+(computerized axial tomography)
+scanner.
+What is much less known, however,
+is that this diagnostic tool relies in
+good part on mathematical tech
+niques developed much earlier by
+Electrical Engineering Prof. Ronald
+Bracewell.
+In 1956, Bracewell, then director
+of the Radio Astronomy Institute at
+Stanford, succeeded in producing
+images of the temperature distribu
+tion of the sun using observations
+from an earth-based radio telescope.
+Bracewell exploited the fact that
+the sun and the earth change their or
+ientation with respect to each other as
+they rotate. He realized that observa
+tions made at various times during
+the day — and thus at various
+orientations — could be combined
+and processed mathematically to
+generate a three-dimensional image
+
+of radiation arriving from the sun.
+Modern devices such as the CAT
+scanner produce cross-sectional
+images of the human body by
+employing the same ideas that
+Bracewell developed for imaging ra
+diation from the sun.
+The CAT scanner works by taking
+cross-sectional X-rays from a mul
+titude of orientations, analogous to
+the way Bracewell monitored solar
+radiation from many different
+orientations.
+Moreoever, the CAT scanner
+processes data from the various cross
+sectional X-rays with exactly the
+same mathematical functions
+Bracewell employed in making
+images of the sun.
+These functions, discovered in
+1807 by the French mathematician
+Jean Baptiste Joseph Fourier, are
+called Fourier transforms.
+In their simplest applications, these
+functions are used to express complex
+curves as a sum of simple waves.
+Today, there are hardly any
+branches of physical science and engi
+neering that have not felt the impact
+
+of Fourier's discovery. Fourier trans
+forms are routinely used in various
+kinds of chemical spectroscopy, in
+processing signals from radio anten
+nas, in underwater sonar transducers
+and even in the construction of musi
+cal sounds in the Moog synthesizer.
+Lord Kelvin must have anticipated
+as much when he predicted at the
+turn of the century that these trans
+forms "may be said to furnish an in
+dispensable element in the treatment
+of nearly every recondite question in
+physics."
+The vast majority of computer pro
+grams currently in use compute the
+Fourier transform using an algorithm
+known as the Fast Fourier Transform
+(FFT). The FFT algorithm, published
+in 1965 by James Cooley and John
+Tukey, is basically a mathematical
+trick that enormously simplifies the
+amount of time needed to evaluate a
+Fourier transform.
+However, Cooley and Tukey were
+not the first discoverers of the FFT.
+The German mathematician Carl
+Friedrich Gauss had used essentially
+the same algorithm in his calculations
+
+in 1805, two years before the first an
+nouncement of the Fourier trans
+form.
+Gauss work was published post
+humously in 1866 and seems not to
+have been generally appreciated until
+its rediscovery in the last few years by
+mathematical historians.
+Bracewell has had a long and inti
+mate association with Fourier trans
+forms in the three decades of his ten
+ure at Stanford. In recent years, he
+has directed his efforts towards devel
+oping a superfast algorithm that he
+calls the Fast Hartley Transform.
+The algorithm that Bracewell has
+come up with uses transforms first
+defined by Ralph Hartley of Bell
+Laboratories in 1942. Their potential
+went largely unnoticed until
+Bracewell's work in 1983.
+The computation of the Hartley
+transform using Bracewell's al
+gorithm is much faster than the com
+putation of the corresponding Fourier
+transform using the FFT algorithm
+and can be substituted for it in all its
+
+
+Patrick Lin/Daily
+Electical Engineering Prof. Ronald Bracewell has filed a patent for the
+Fast Hartley Transform, a mathematical algorithm that experts expect
+will be used by most computers within five years.
+current uses.
+The main advantage of the Fast
+Hartley Transform is its use of real
+numbers instead of the complex num
+bers employed in the FFT. The in
+creased speed is a result of the
+reduced time involved in multiplica
+tion: A complex multiplication takes
+four times as long as a regular multi
+plication.
+The new algorithm could well
+
+make the current ones obsolete and it
+is expected that most computer pro
+grams will switch to the Fast Hartley
+Transform within five years.
+A patent for the algorithm has
+been filed by Bracewell, and rumor
+has it that the Office of Technology
+and Licensing, which handles the
+patenting procedure at Stanford,
+would be happier if the algorithm
+were called the Fast Bracewell Trans
+form.
+Besides developing the Fast
+Hartley Transform, Bracewell has
+been personally involved in the con
+
+struction of the many radio telescopes
+and interferometers at Stanford.
+He is also well known for his brain
+teasers — in the Electrical Engineer
+ing qualifying examination he once
+asked the profound question "Why is
+a manhole round?" — and he is fa
+mous for his original methods in
+teaching.
+Bracewell is the author of many
+books, with subjects ranging from the
+Fourier transform to trees on the
+Stanford campus. His latest book,
+"The Hartley Transform," is to be
+published by Oxford University Press
+later this year.
+It is generally known that the 1979
+Nobel prize in physiology or medicine
+was awarded to Godfrey Hounsfield
+and Allan Cormack for their pioneer
+ing work in the invention of the CAT
+(computerized axial tomography)
+scanner.
+What is much less known, however,
+is that this diagnostic tool relies in
+good part on mathematical tech
+niques developed much earlier by
+Electrical Engineering Prof. Ronald
+Bracewell.
+In 1956, Bracewell, then director
+of the Radio Astronomy Institute at
+Stanford, succeeded in producing
+images of the temperature distribu
+tion of the sun using observations
+from an earth-based radio telescope.
+Bracewell exploited the fact that
+the sun and the earth change their or
+ientation with respect to each other as
+they rotate. He realized that observa
+tions made at various times during
+the day — and thus at various
+orientations — could be combined
+and processed mathematically to
+generate a three-dimensional image
+
+of radiation arriving from the sun.
+Modern devices such as the CAT
+scanner produce cross-sectional
+images of the human body by
+employing the same ideas that
+Bracewell developed for imaging ra
+diation from the sun.
+The CAT scanner works by taking
+cross-sectional X-rays from a mul
+titude of orientations, analogous to
+the way Bracewell monitored solar
+radiation from many different
+orientations.
+Moreoever, the CAT scanner
+processes data from the various cross
+sectional X-rays with exactly the
+same mathematical functions
+Bracewell employed in making
+images of the sun.
+These functions, discovered in
+1807 by the French mathematician
+Jean Baptiste Joseph Fourier, are
+called Fourier transforms.
+In their simplest applications, these
+functions are used to express complex
+curves as a sum of simple waves.
+Today, there are hardly any
+branches of physical science and engi
+neering that have not felt the impact
+
+of Fourier's discovery. Fourier trans
+forms are routinely used in various
+kinds of chemical spectroscopy, in
+processing signals from radio anten
+nas, in underwater sonar transducers
+and even in the construction of musi
+cal sounds in the Moog synthesizer.
+Lord Kelvin must have anticipated
+as much when he predicted at the
+turn of the century that these trans
+forms "may be said to furnish an in
+dispensable element in the treatment
+of nearly every recondite question in
+physics."
+The vast majority of computer pro
+grams currently in use compute the
+Fourier transform using an algorithm
+known as the Fast Fourier Transform
+(FFT). The FFT algorithm, published
+in 1965 by James Cooley and John
+Tukey, is basically a mathematical
+trick that enormously simplifies the
+amount of time needed to evaluate a
+Fourier transform.
+However, Cooley and Tukey were
+not the first discoverers of the FFT.
+The German mathematician Carl
+Friedrich Gauss had used essentially
+the same algorithm in his calculations
+
+in 1805, two years before the first an
+nouncement of the Fourier trans
+form.
+Gauss work was published post
+humously in 1866 and seems not to
+have been generally appreciated until
+its rediscovery in the last few years by
+mathematical historians.
+Bracewell has had a long and inti
+mate association with Fourier trans
+forms in the three decades of his ten
+ure at Stanford. In recent years, he
+has directed his efforts towards devel
+oping a superfast algorithm that he
+calls the Fast Hartley Transform.
+The algorithm that Bracewell has
+come up with uses transforms first
+defined by Ralph Hartley of Bell
+Laboratories in 1942. Their potential
+went largely unnoticed until
+Bracewell's work in 1983.
+The computation of the Hartley
+transform using Bracewell's al
+gorithm is much faster than the com
+putation of the corresponding Fourier
+transform using the FFT algorithm
+and can be substituted for it in all its
+
+
+Patrick Lin/Daily
+Electical Engineering Prof. Ronald Bracewell has filed a patent for the
+Fast Hartley Transform, a mathematical algorithm that experts expect
+will be used by most computers within five years.
+current uses.
+The main advantage of the Fast
+Hartley Transform is its use of real
+numbers instead of the complex num
+bers employed in the FFT. The in
+creased speed is a result of the
+reduced time involved in multiplica
+tion: A complex multiplication takes
+four times as long as a regular multi
+plication.
+The new algorithm could well
+
+make the current ones obsolete and it
+is expected that most computer pro
+grams will switch to the Fast Hartley
+Transform within five years.
+A patent for the algorithm has
+been filed by Bracewell, and rumor
+has it that the Office of Technology
+and Licensing, which handles the
+patenting procedure at Stanford,
+would be happier if the algorithm
+were called the Fast Bracewell Trans
+form.
+Besides developing the Fast
+Hartley Transform, Bracewell has
+been personally involved in the con
+
+struction of the many radio telescopes
+and interferometers at Stanford.
+He is also well known for his brain
+teasers — in the Electrical Engineer
+ing qualifying examination he once
+asked the profound question "Why is
+a manhole round?" — and he is fa
+mous for his original methods in
+teaching.
+Bracewell is the author of many
+books, with subjects ranging from the
+Fourier transform to trees on the
+Stanford campus. His latest book,
+"The Hartley Transform," is to be
+published by Oxford University Press
+later this year.
+It is generally known that the 1979
+Nobel prize in physiology or medicine
+was awarded to Godfrey Hounsfield
+and Allan Cormack for their pioneer
+ing work in the invention of the CAT
+(computerized axial tomography)
+scanner.
+What is much less known, however,
+is that this diagnostic tool relies in
+good part on mathematical tech
+niques developed much earlier by
+Electrical Engineering Prof. Ronald
+Bracewell.
+In 1956, Bracewell, then director
+of the Radio Astronomy Institute at
+Stanford, succeeded in producing
+images of the temperature distribu
+tion of the sun using observations
+from an earth-based radio telescope.
+Bracewell exploited the fact that
+the sun and the earth change their or
+ientation with respect to each other as
+they rotate. He realized that observa
+tions made at various times during
+the day — and thus at various
+orientations — could be combined
+and processed mathematically to
+generate a three-dimensional image
+
+of radiation arriving from the sun.
+Modern devices such as the CAT
+scanner produce cross-sectional
+images of the human body by
+employing the same ideas that
+Bracewell developed for imaging ra
+diation from the sun.
+The CAT scanner works by taking
+cross-sectional X-rays from a mul
+titude of orientations, analogous to
+the way Bracewell monitored solar
+radiation from many different
+orientations.
+Moreoever, the CAT scanner
+processes data from the various cross
+sectional X-rays with exactly the
+same mathematical functions
+Bracewell employed in making
+images of the sun.
+These functions, discovered in
+1807 by the French mathematician
+Jean Baptiste Joseph Fourier, are
+called Fourier transforms.
+In their simplest applications, these
+functions are used to express complex
+curves as a sum of simple waves.
+Today, there are hardly any
+branches of physical science and engi
+neering that have not felt the impact
+
+of Fourier's discovery. Fourier trans
+forms are routinely used in various
+kinds of chemical spectroscopy, in
+processing signals from radio anten
+nas, in underwater sonar transducers
+and even in the construction of musi
+cal sounds in the Moog synthesizer.
+Lord Kelvin must have anticipated
+as much when he predicted at the
+turn of the century that these trans
+forms "may be said to furnish an in
+dispensable element in the treatment
+of nearly every recondite question in
+physics."
+The vast majority of computer pro
+grams currently in use compute the
+Fourier transform using an algorithm
+known as the Fast Fourier Transform
+(FFT). The FFT algorithm, published
+in 1965 by James Cooley and John
+Tukey, is basically a mathematical
+trick that enormously simplifies the
+amount of time needed to evaluate a
+Fourier transform.
+However, Cooley and Tukey were
+not the first discoverers of the FFT.
+The German mathematician Carl
+Friedrich Gauss had used essentially
+the same algorithm in his calculations
+
+in 1805, two years before the first an
+nouncement of the Fourier trans
+form.
+Gauss work was published post
+humously in 1866 and seems not to
+have been generally appreciated until
+its rediscovery in the last few years by
+mathematical historians.
+Bracewell has had a long and inti
+mate association with Fourier trans
+forms in the three decades of his ten
+ure at Stanford. In recent years, he
+has directed his efforts towards devel
+oping a superfast algorithm that he
+calls the Fast Hartley Transform.
+The algorithm that Bracewell has
+come up with uses transforms first
+defined by Ralph Hartley of Bell
+Laboratories in 1942. Their potential
+went largely unnoticed until
+Bracewell's work in 1983.
+The computation of the Hartley
+transform using Bracewell's al
+gorithm is much faster than the com
+putation of the corresponding Fourier
+transform using the FFT algorithm
+and can be substituted for it in all its
+
+
+Patrick Lin/Daily
+Electical Engineering Prof. Ronald Bracewell has filed a patent for the
+Fast Hartley Transform, a mathematical algorithm that experts expect
+will be used by most computers within five years.
+current uses.
+The main advantage of the Fast
+Hartley Transform is its use of real
+numbers instead of the complex num
+bers employed in the FFT. The in
+creased speed is a result of the
+reduced time involved in multiplica
+tion: A complex multiplication takes
+four times as long as a regular multi
+plication.
+The new algorithm could well
+
+make the current ones obsolete and it
+is expected that most computer pro
+grams will switch to the Fast Hartley
+Transform within five years.
+A patent for the algorithm has
+been filed by Bracewell, and rumor
+has it that the Office of Technology
+and Licensing, which handles the
+patenting procedure at Stanford,
+would be happier if the algorithm
+were called the Fast Bracewell Trans
+form.
+Besides developing the Fast
+Hartley Transform, Bracewell has
+been personally involved in the con
+
+struction of the many radio telescopes
+and interferometers at Stanford.
+He is also well known for his brain
+teasers — in the Electrical Engineer
+ing qualifying examination he once
+asked the profound question "Why is
+a manhole round?" — and he is fa
+mous for his original methods in
+teaching.
+Bracewell is the author of many
+books, with subjects ranging from the
+Fourier transform to trees on the
+Stanford campus. His latest book,
+"The Hartley Transform," is to be
+published by Oxford University Press
+later this year.
+It is generally known that the 1979
+Nobel prize in physiology or medicine
+was awarded to Godfrey Hounsfield
+and Allan Cormack for their pioneer
+ing work in the invention of the CAT
+(computerized axial tomography)
+scanner.
+What is much less known, however,
+is that this diagnostic tool relies in
+good part on mathematical tech
+niques developed much earlier by
+Electrical Engineering Prof. Ronald
+Bracewell.
+In 1956, Bracewell, then director
+of the Radio Astronomy Institute at
+Stanford, succeeded in producing
+images of the temperature distribu
+tion of the sun using observations
+from an earth-based radio telescope.
+Bracewell exploited the fact that
+the sun and the earth change their or
+ientation with respect to each other as
+they rotate. He realized that observa
+tions made at various times during
+the day — and thus at various
+orientations — could be combined
+and processed mathematically to
+generate a three-dimensional image
+
+of radiation arriving from the sun.
+Modern devices such as the CAT
+scanner produce cross-sectional
+images of the human body by
+employing the same ideas that
+Bracewell developed for imaging ra
+diation from the sun.
+The CAT scanner works by taking
+cross-sectional X-rays from a mul
+titude of orientations, analogous to
+the way Bracewell monitored solar
+radiation from many different
+orientations.
+Moreoever, the CAT scanner
+processes data from the various cross
+sectional X-rays with exactly the
+same mathematical functions
+Bracewell employed in making
+images of the sun.
+These functions, discovered in
+1807 by the French mathematician
+Jean Baptiste Joseph Fourier, are
+called Fourier transforms.
+In their simplest applications, these
+functions are used to express complex
+curves as a sum of simple waves.
+Today, there are hardly any
+branches of physical science and engi
+neering that have not felt the impact
+
+of Fourier's discovery. Fourier trans
+forms are routinely used in various
+kinds of chemical spectroscopy, in
+processing signals from radio anten
+nas, in underwater sonar transducers
+and even in the construction of musi
+cal sounds in the Moog synthesizer.
+Lord Kelvin must have anticipated
+as much when he predicted at the
+turn of the century that these trans
+forms "may be said to furnish an in
+dispensable element in the treatment
+of nearly every recondite question in
+physics."
+The vast majority of computer pro
+grams currently in use compute the
+Fourier transform using an algorithm
+known as the Fast Fourier Transform
+(FFT). The FFT algorithm, published
+in 1965 by James Cooley and John
+Tukey, is basically a mathematical
+trick that enormously simplifies the
+amount of time needed to evaluate a
+Fourier transform.
+However, Cooley and Tukey were
+not the first discoverers of the FFT.
+The German mathematician Carl
+Friedrich Gauss had used essentially
+the same algorithm in his calculations
+
+in 1805, two years before the first an
+nouncement of the Fourier trans
+form.
+Gauss work was published post
+humously in 1866 and seems not to
+have been generally appreciated until
+its rediscovery in the last few years by
+mathematical historians.
+Bracewell has had a long and inti
+mate association with Fourier trans
+forms in the three decades of his ten
+ure at Stanford. In recent years, he
+has directed his efforts towards devel
+oping a superfast algorithm that he
+calls the Fast Hartley Transform.
+The algorithm that Bracewell has
+come up with uses transforms first
+defined by Ralph Hartley of Bell
+Laboratories in 1942. Their potential
+went largely unnoticed until
+Bracewell's work in 1983.
+The computation of the Hartley
+transform using Bracewell's al
+gorithm is much faster than the com
+putation of the corresponding Fourier
+transform using the FFT algorithm
+and can be substituted for it in all its
+
+
+Patrick Lin/Daily
+Electical Engineering Prof. Ronald Bracewell has filed a patent for the
+Fast Hartley Transform, a mathematical algorithm that experts expect
+will be used by most computers within five years.
+current uses.
+The main advantage of the Fast
+Hartley Transform is its use of real
+numbers instead of the complex num
+bers employed in the FFT. The in
+creased speed is a result of the
+reduced time involved in multiplica
+tion: A complex multiplication takes
+four times as long as a regular multi
+plication.
+The new algorithm could well
+
+make the current ones obsolete and it
+is expected that most computer pro
+grams will switch to the Fast Hartley
+Transform within five years.
+A patent for the algorithm has
+been filed by Bracewell, and rumor
+has it that the Office of Technology
+and Licensing, which handles the
+patenting procedure at Stanford,
+would be happier if the algorithm
+were called the Fast Bracewell Trans
+form.
+Besides developing the Fast
+Hartley Transform, Bracewell has
+been personally involved in the con
+
+struction of the many radio telescopes
+and interferometers at Stanford.
+He is also well known for his brain
+teasers — in the Electrical Engineer
+ing qualifying examination he once
+asked the profound question "Why is
+a manhole round?" — and he is fa
+mous for his original methods in
+teaching.
+Bracewell is the author of many
+books, with subjects ranging from the
+Fourier transform to trees on the
+Stanford campus. His latest book,
+"The Hartley Transform," is to be
+published by Oxford University Press
+later this year.

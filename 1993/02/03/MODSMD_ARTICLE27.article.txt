@@ -1,0 +1,1585 @@
+# Science
+## A 						brave new world of computer chip manufacturing 
+### Jim Morris 
+Although the next generation
+of computer chips can be devel
+oped for $100 million, the con
+struction of a manufacturing
+facility to mass produce such
+innovations will cost nearly $1
+billion, say researchers.
+But at Stanford's Center for
+Integrated Systems, a inter-disci
+plinary team of scientists led by
+Electrical Engineering Prof.
+Krishna Saraswat is attempting
+to circumvent the enormous cost
+of producing the next generation
+of integrated circuits (ICs) by re
+evaluating the process used in
+industry today.
+As computers begin to infil
+trate everyday life from super
+markets to cars to defense
+machinery, whoever controls the
+fundamental parts of these
+machines dictates their advance
+ment and availability. The most
+important and defining part of a
+computer is its microprocessor,
+an IC that determines the speed
+and ability of the computer.
+Saraswat and Graduate School
+of Business Prof. Samuel Wood,
+who holds a Ph. Din electrical
+engineering, propose that by
+combining various operations
+into one Rapid Thermal Multi
+processor (RTM), they can manu
+facture ICs with two-thirds less
+equipment.
+Each of these machines will be
+computer controlled, monitored
+and repaired with real-time algo
+rithms operating on work sta
+tions integrated into the RTM
+itself.
+According to Saraswat and
+Wood, this integration as well as
+state-of-the-art computer control
+and diagnostics will provide
+greater efficiency and adaptabili
+ty than standard IC manufactur
+ing methods. Current mass pro
+duction techniques, which use
+the idea of trial and error
+improvement, cannot efficiently
+mass produce different types of
+ICs.
+The RTM is at the heart of a
+new idea in manufacturing —
+Adaptable Manufacturing Sys
+tems (AMS). It has many advan
+tages over the conventional Mass
+
+Manufacturing Systems (MMS).
+The differences between AMS
+and MMS can be described by
+looking at the differences
+between Japanese and American
+automobile manufacturers,
+Saraswat said.
+While Toyota developed the
+idea of an adaptable environment
+to produce its cars, General
+Motors built for factories that
+were less adaptable and geared
+towards the production of only
+one model. In the semiconductor
+industry, however, the roles have
+been switched. The Japanese cur
+rently uses MMS technology that
+is consistent with producing one
+item in mass quantities while
+Americans are concentrating on
+changeability in the AMS factory.
+This adaptability will be inte
+gral to a future market which will
+demand lower quantities of more
+varied chip designs. The RTM's
+flexibility will produce different
+designs and different technolo
+gies without having to change
+costly machinery, Saraswat said.
+He added that the change is
+accomplished by simply modify
+ing the computer that controls
+the process.
+The major problem with
+putting more than $1 billion into
+a MMS factory is that the ICs the
+factory makes could be out-of
+date in just a few years. This
+problem is solved by the AMS fac
+tory that can change with the
+technology.
+Currently, Semiconductor
+Research Corporation, Texas
+Instruments, and the Department
+of Defense are funding the AMS
+factory concept.
+And at Stanford, an economic
+simulator called SCOPE (Stan
+ford Cost of Operations and Per
+formance Evaluator) will be able
+to measure the efficiency of such
+factories even before they start to
+produce ICs. A series of simula
+tions and tests will be the precur
+sor to any product made at the
+new factory in order to determine
+its efficiency.
+According to Barbara Hayes-
+Roth and Janet Murdock,
+researchers in the Knowledge
+Systems Laboratory, each RTM
+will perform three major func
+
+tions in chip-making: photolithog
+raphy, oxidation and etching.
+Lithography is the process
+where UV light shines through a
+sapphire window onto a wafer.
+The wafer is composed of a silicon
+derivative and is the square board
+on which transistors are added.
+Then oxidizing gases are flowed
+into the system and oxidation
+occurs on the wafer. Injected plas
+mas produce the etching.
+An RTM accepts the wafer and
+lays down on it miniscule layers
+of silicon nitride, oxide, boron,
+phosphorus and other chemicals
+through exposing the wafer to
+gases. This process lays down an
+intricate pattern of millions of
+transistors that eventually
+become an IC that runs a com
+puter.
+The process of laying down the
+chemicals on the wafer will be
+
+monitored by computers in the
+AMS factory, which makes the
+process more efficient. Each RTM
+will have its own advanced com
+puter system that controls the gas
+and plasma flow into the process
+ing chamber as well as the cham
+ber's temperature, pressure and
+heat transfer within.
+The RTM is continuously sens
+ing and regulating the tempera
+ture of the wafer. This is impor
+tant because the temperature of
+the wafer determines the thick
+ness of the chemicals, which need
+to be as uniform as possible.
+These sensors are being devel
+oped by Electrical Engineering
+Prof. Pierre Khuri-Yakub. When
+the wafer is in the RTM, it rests
+upon three prongs that stabilize it
+in the vacuum environment of the
+chamber. Khuri-Yakub has pro
+posed that instead of using the
+
+wafer's emissivity (energy emit
+ted per degree Celsius) and wave
+length emission to determine
+temperature, one should use the
+acoustics of the wafer.
+Sending a vibration through
+the wafer from one prong to the
+next is a much more reliable way
+of determining the temperature
+of the wafer, according to Khuri-
+Yakub.
+"The speed of sound in the
+wafer has a one-to-one relation
+ship to its temperature," he said.
+"Knowing the distance between
+prongs and the time the vibration
+takes to transverse that distance,
+I can determine the speed of the
+sound. Thus the temperature of
+the wafer is known."
+Presently, this process can
+determine the temperature of the
+wafer at 1,000 degrees Celsius,
+plus or minus five degrees.
+
+In addition to a control system
+which sets up the guidelines for
+the computer to carry out the pro
+cesses for making an IC, there will
+be a diagnostic system in place to
+detect any abnormalities.
+Hayes-Roth and Murdock are
+creating a unique system of diag
+nostics. They have proposed a
+form of Artificial Intelligence (AI)
+to perform diagnostics on the
+RTM.
+The AI system will be able to
+determine whether or not abnor
+malities exist, Hayes-Roth said.
+The computer, by direction of
+the AI programming, would be
+able to correct problems on the
+basis of its findings — all without
+explicit human supervision.
+Hayes-Roth said the researchers
+are making progress, though the
+AI diagnostics idea is still quite
+hypothetical.
+
+
+Jeff Sorrentino — Daily
+Although the next generation
+of computer chips can be devel
+oped for $100 million, the con
+struction of a manufacturing
+facility to mass produce such
+innovations will cost nearly $1
+billion, say researchers.
+But at Stanford's Center for
+Integrated Systems, a inter-disci
+plinary team of scientists led by
+Electrical Engineering Prof.
+Krishna Saraswat is attempting
+to circumvent the enormous cost
+of producing the next generation
+of integrated circuits (ICs) by re
+evaluating the process used in
+industry today.
+As computers begin to infil
+trate everyday life from super
+markets to cars to defense
+machinery, whoever controls the
+fundamental parts of these
+machines dictates their advance
+ment and availability. The most
+important and defining part of a
+computer is its microprocessor,
+an IC that determines the speed
+and ability of the computer.
+Saraswat and Graduate School
+of Business Prof. Samuel Wood,
+who holds a Ph. Din electrical
+engineering, propose that by
+combining various operations
+into one Rapid Thermal Multi
+processor (RTM), they can manu
+facture ICs with two-thirds less
+equipment.
+Each of these machines will be
+computer controlled, monitored
+and repaired with real-time algo
+rithms operating on work sta
+tions integrated into the RTM
+itself.
+According to Saraswat and
+Wood, this integration as well as
+state-of-the-art computer control
+and diagnostics will provide
+greater efficiency and adaptabili
+ty than standard IC manufactur
+ing methods. Current mass pro
+duction techniques, which use
+the idea of trial and error
+improvement, cannot efficiently
+mass produce different types of
+ICs.
+The RTM is at the heart of a
+new idea in manufacturing —
+Adaptable Manufacturing Sys
+tems (AMS). It has many advan
+tages over the conventional Mass
+
+Manufacturing Systems (MMS).
+The differences between AMS
+and MMS can be described by
+looking at the differences
+between Japanese and American
+automobile manufacturers,
+Saraswat said.
+While Toyota developed the
+idea of an adaptable environment
+to produce its cars, General
+Motors built for factories that
+were less adaptable and geared
+towards the production of only
+one model. In the semiconductor
+industry, however, the roles have
+been switched. The Japanese cur
+rently uses MMS technology that
+is consistent with producing one
+item in mass quantities while
+Americans are concentrating on
+changeability in the AMS factory.
+This adaptability will be inte
+gral to a future market which will
+demand lower quantities of more
+varied chip designs. The RTM's
+flexibility will produce different
+designs and different technolo
+gies without having to change
+costly machinery, Saraswat said.
+He added that the change is
+accomplished by simply modify
+ing the computer that controls
+the process.
+The major problem with
+putting more than $1 billion into
+a MMS factory is that the ICs the
+factory makes could be out-of
+date in just a few years. This
+problem is solved by the AMS fac
+tory that can change with the
+technology.
+Currently, Semiconductor
+Research Corporation, Texas
+Instruments, and the Department
+of Defense are funding the AMS
+factory concept.
+And at Stanford, an economic
+simulator called SCOPE (Stan
+ford Cost of Operations and Per
+formance Evaluator) will be able
+to measure the efficiency of such
+factories even before they start to
+produce ICs. A series of simula
+tions and tests will be the precur
+sor to any product made at the
+new factory in order to determine
+its efficiency.
+According to Barbara Hayes-
+Roth and Janet Murdock,
+researchers in the Knowledge
+Systems Laboratory, each RTM
+will perform three major func
+
+tions in chip-making: photolithog
+raphy, oxidation and etching.
+Lithography is the process
+where UV light shines through a
+sapphire window onto a wafer.
+The wafer is composed of a silicon
+derivative and is the square board
+on which transistors are added.
+Then oxidizing gases are flowed
+into the system and oxidation
+occurs on the wafer. Injected plas
+mas produce the etching.
+An RTM accepts the wafer and
+lays down on it miniscule layers
+of silicon nitride, oxide, boron,
+phosphorus and other chemicals
+through exposing the wafer to
+gases. This process lays down an
+intricate pattern of millions of
+transistors that eventually
+become an IC that runs a com
+puter.
+The process of laying down the
+chemicals on the wafer will be
+
+monitored by computers in the
+AMS factory, which makes the
+process more efficient. Each RTM
+will have its own advanced com
+puter system that controls the gas
+and plasma flow into the process
+ing chamber as well as the cham
+ber's temperature, pressure and
+heat transfer within.
+The RTM is continuously sens
+ing and regulating the tempera
+ture of the wafer. This is impor
+tant because the temperature of
+the wafer determines the thick
+ness of the chemicals, which need
+to be as uniform as possible.
+These sensors are being devel
+oped by Electrical Engineering
+Prof. Pierre Khuri-Yakub. When
+the wafer is in the RTM, it rests
+upon three prongs that stabilize it
+in the vacuum environment of the
+chamber. Khuri-Yakub has pro
+posed that instead of using the
+
+wafer's emissivity (energy emit
+ted per degree Celsius) and wave
+length emission to determine
+temperature, one should use the
+acoustics of the wafer.
+Sending a vibration through
+the wafer from one prong to the
+next is a much more reliable way
+of determining the temperature
+of the wafer, according to Khuri-
+Yakub.
+"The speed of sound in the
+wafer has a one-to-one relation
+ship to its temperature," he said.
+"Knowing the distance between
+prongs and the time the vibration
+takes to transverse that distance,
+I can determine the speed of the
+sound. Thus the temperature of
+the wafer is known."
+Presently, this process can
+determine the temperature of the
+wafer at 1,000 degrees Celsius,
+plus or minus five degrees.
+
+In addition to a control system
+which sets up the guidelines for
+the computer to carry out the pro
+cesses for making an IC, there will
+be a diagnostic system in place to
+detect any abnormalities.
+Hayes-Roth and Murdock are
+creating a unique system of diag
+nostics. They have proposed a
+form of Artificial Intelligence (AI)
+to perform diagnostics on the
+RTM.
+The AI system will be able to
+determine whether or not abnor
+malities exist, Hayes-Roth said.
+The computer, by direction of
+the AI programming, would be
+able to correct problems on the
+basis of its findings — all without
+explicit human supervision.
+Hayes-Roth said the researchers
+are making progress, though the
+AI diagnostics idea is still quite
+hypothetical.
+
+
+Jeff Sorrentino — Daily
+Although the next generation
+of computer chips can be devel
+oped for $100 million, the con
+struction of a manufacturing
+facility to mass produce such
+innovations will cost nearly $1
+billion, say researchers.
+But at Stanford's Center for
+Integrated Systems, a inter-disci
+plinary team of scientists led by
+Electrical Engineering Prof.
+Krishna Saraswat is attempting
+to circumvent the enormous cost
+of producing the next generation
+of integrated circuits (ICs) by re
+evaluating the process used in
+industry today.
+As computers begin to infil
+trate everyday life from super
+markets to cars to defense
+machinery, whoever controls the
+fundamental parts of these
+machines dictates their advance
+ment and availability. The most
+important and defining part of a
+computer is its microprocessor,
+an IC that determines the speed
+and ability of the computer.
+Saraswat and Graduate School
+of Business Prof. Samuel Wood,
+who holds a Ph. Din electrical
+engineering, propose that by
+combining various operations
+into one Rapid Thermal Multi
+processor (RTM), they can manu
+facture ICs with two-thirds less
+equipment.
+Each of these machines will be
+computer controlled, monitored
+and repaired with real-time algo
+rithms operating on work sta
+tions integrated into the RTM
+itself.
+According to Saraswat and
+Wood, this integration as well as
+state-of-the-art computer control
+and diagnostics will provide
+greater efficiency and adaptabili
+ty than standard IC manufactur
+ing methods. Current mass pro
+duction techniques, which use
+the idea of trial and error
+improvement, cannot efficiently
+mass produce different types of
+ICs.
+The RTM is at the heart of a
+new idea in manufacturing —
+Adaptable Manufacturing Sys
+tems (AMS). It has many advan
+tages over the conventional Mass
+
+Manufacturing Systems (MMS).
+The differences between AMS
+and MMS can be described by
+looking at the differences
+between Japanese and American
+automobile manufacturers,
+Saraswat said.
+While Toyota developed the
+idea of an adaptable environment
+to produce its cars, General
+Motors built for factories that
+were less adaptable and geared
+towards the production of only
+one model. In the semiconductor
+industry, however, the roles have
+been switched. The Japanese cur
+rently uses MMS technology that
+is consistent with producing one
+item in mass quantities while
+Americans are concentrating on
+changeability in the AMS factory.
+This adaptability will be inte
+gral to a future market which will
+demand lower quantities of more
+varied chip designs. The RTM's
+flexibility will produce different
+designs and different technolo
+gies without having to change
+costly machinery, Saraswat said.
+He added that the change is
+accomplished by simply modify
+ing the computer that controls
+the process.
+The major problem with
+putting more than $1 billion into
+a MMS factory is that the ICs the
+factory makes could be out-of
+date in just a few years. This
+problem is solved by the AMS fac
+tory that can change with the
+technology.
+Currently, Semiconductor
+Research Corporation, Texas
+Instruments, and the Department
+of Defense are funding the AMS
+factory concept.
+And at Stanford, an economic
+simulator called SCOPE (Stan
+ford Cost of Operations and Per
+formance Evaluator) will be able
+to measure the efficiency of such
+factories even before they start to
+produce ICs. A series of simula
+tions and tests will be the precur
+sor to any product made at the
+new factory in order to determine
+its efficiency.
+According to Barbara Hayes-
+Roth and Janet Murdock,
+researchers in the Knowledge
+Systems Laboratory, each RTM
+will perform three major func
+
+tions in chip-making: photolithog
+raphy, oxidation and etching.
+Lithography is the process
+where UV light shines through a
+sapphire window onto a wafer.
+The wafer is composed of a silicon
+derivative and is the square board
+on which transistors are added.
+Then oxidizing gases are flowed
+into the system and oxidation
+occurs on the wafer. Injected plas
+mas produce the etching.
+An RTM accepts the wafer and
+lays down on it miniscule layers
+of silicon nitride, oxide, boron,
+phosphorus and other chemicals
+through exposing the wafer to
+gases. This process lays down an
+intricate pattern of millions of
+transistors that eventually
+become an IC that runs a com
+puter.
+The process of laying down the
+chemicals on the wafer will be
+
+monitored by computers in the
+AMS factory, which makes the
+process more efficient. Each RTM
+will have its own advanced com
+puter system that controls the gas
+and plasma flow into the process
+ing chamber as well as the cham
+ber's temperature, pressure and
+heat transfer within.
+The RTM is continuously sens
+ing and regulating the tempera
+ture of the wafer. This is impor
+tant because the temperature of
+the wafer determines the thick
+ness of the chemicals, which need
+to be as uniform as possible.
+These sensors are being devel
+oped by Electrical Engineering
+Prof. Pierre Khuri-Yakub. When
+the wafer is in the RTM, it rests
+upon three prongs that stabilize it
+in the vacuum environment of the
+chamber. Khuri-Yakub has pro
+posed that instead of using the
+
+wafer's emissivity (energy emit
+ted per degree Celsius) and wave
+length emission to determine
+temperature, one should use the
+acoustics of the wafer.
+Sending a vibration through
+the wafer from one prong to the
+next is a much more reliable way
+of determining the temperature
+of the wafer, according to Khuri-
+Yakub.
+"The speed of sound in the
+wafer has a one-to-one relation
+ship to its temperature," he said.
+"Knowing the distance between
+prongs and the time the vibration
+takes to transverse that distance,
+I can determine the speed of the
+sound. Thus the temperature of
+the wafer is known."
+Presently, this process can
+determine the temperature of the
+wafer at 1,000 degrees Celsius,
+plus or minus five degrees.
+
+In addition to a control system
+which sets up the guidelines for
+the computer to carry out the pro
+cesses for making an IC, there will
+be a diagnostic system in place to
+detect any abnormalities.
+Hayes-Roth and Murdock are
+creating a unique system of diag
+nostics. They have proposed a
+form of Artificial Intelligence (AI)
+to perform diagnostics on the
+RTM.
+The AI system will be able to
+determine whether or not abnor
+malities exist, Hayes-Roth said.
+The computer, by direction of
+the AI programming, would be
+able to correct problems on the
+basis of its findings — all without
+explicit human supervision.
+Hayes-Roth said the researchers
+are making progress, though the
+AI diagnostics idea is still quite
+hypothetical.
+
+
+Jeff Sorrentino — Daily
+Although the next generation
+of computer chips can be devel
+oped for $100 million, the con
+struction of a manufacturing
+facility to mass produce such
+innovations will cost nearly $1
+billion, say researchers.
+But at Stanford's Center for
+Integrated Systems, a inter-disci
+plinary team of scientists led by
+Electrical Engineering Prof.
+Krishna Saraswat is attempting
+to circumvent the enormous cost
+of producing the next generation
+of integrated circuits (ICs) by re
+evaluating the process used in
+industry today.
+As computers begin to infil
+trate everyday life from super
+markets to cars to defense
+machinery, whoever controls the
+fundamental parts of these
+machines dictates their advance
+ment and availability. The most
+important and defining part of a
+computer is its microprocessor,
+an IC that determines the speed
+and ability of the computer.
+Saraswat and Graduate School
+of Business Prof. Samuel Wood,
+who holds a Ph. Din electrical
+engineering, propose that by
+combining various operations
+into one Rapid Thermal Multi
+processor (RTM), they can manu
+facture ICs with two-thirds less
+equipment.
+Each of these machines will be
+computer controlled, monitored
+and repaired with real-time algo
+rithms operating on work sta
+tions integrated into the RTM
+itself.
+According to Saraswat and
+Wood, this integration as well as
+state-of-the-art computer control
+and diagnostics will provide
+greater efficiency and adaptabili
+ty than standard IC manufactur
+ing methods. Current mass pro
+duction techniques, which use
+the idea of trial and error
+improvement, cannot efficiently
+mass produce different types of
+ICs.
+The RTM is at the heart of a
+new idea in manufacturing —
+Adaptable Manufacturing Sys
+tems (AMS). It has many advan
+tages over the conventional Mass
+
+Manufacturing Systems (MMS).
+The differences between AMS
+and MMS can be described by
+looking at the differences
+between Japanese and American
+automobile manufacturers,
+Saraswat said.
+While Toyota developed the
+idea of an adaptable environment
+to produce its cars, General
+Motors built for factories that
+were less adaptable and geared
+towards the production of only
+one model. In the semiconductor
+industry, however, the roles have
+been switched. The Japanese cur
+rently uses MMS technology that
+is consistent with producing one
+item in mass quantities while
+Americans are concentrating on
+changeability in the AMS factory.
+This adaptability will be inte
+gral to a future market which will
+demand lower quantities of more
+varied chip designs. The RTM's
+flexibility will produce different
+designs and different technolo
+gies without having to change
+costly machinery, Saraswat said.
+He added that the change is
+accomplished by simply modify
+ing the computer that controls
+the process.
+The major problem with
+putting more than $1 billion into
+a MMS factory is that the ICs the
+factory makes could be out-of
+date in just a few years. This
+problem is solved by the AMS fac
+tory that can change with the
+technology.
+Currently, Semiconductor
+Research Corporation, Texas
+Instruments, and the Department
+of Defense are funding the AMS
+factory concept.
+And at Stanford, an economic
+simulator called SCOPE (Stan
+ford Cost of Operations and Per
+formance Evaluator) will be able
+to measure the efficiency of such
+factories even before they start to
+produce ICs. A series of simula
+tions and tests will be the precur
+sor to any product made at the
+new factory in order to determine
+its efficiency.
+According to Barbara Hayes-
+Roth and Janet Murdock,
+researchers in the Knowledge
+Systems Laboratory, each RTM
+will perform three major func
+
+tions in chip-making: photolithog
+raphy, oxidation and etching.
+Lithography is the process
+where UV light shines through a
+sapphire window onto a wafer.
+The wafer is composed of a silicon
+derivative and is the square board
+on which transistors are added.
+Then oxidizing gases are flowed
+into the system and oxidation
+occurs on the wafer. Injected plas
+mas produce the etching.
+An RTM accepts the wafer and
+lays down on it miniscule layers
+of silicon nitride, oxide, boron,
+phosphorus and other chemicals
+through exposing the wafer to
+gases. This process lays down an
+intricate pattern of millions of
+transistors that eventually
+become an IC that runs a com
+puter.
+The process of laying down the
+chemicals on the wafer will be
+
+monitored by computers in the
+AMS factory, which makes the
+process more efficient. Each RTM
+will have its own advanced com
+puter system that controls the gas
+and plasma flow into the process
+ing chamber as well as the cham
+ber's temperature, pressure and
+heat transfer within.
+The RTM is continuously sens
+ing and regulating the tempera
+ture of the wafer. This is impor
+tant because the temperature of
+the wafer determines the thick
+ness of the chemicals, which need
+to be as uniform as possible.
+These sensors are being devel
+oped by Electrical Engineering
+Prof. Pierre Khuri-Yakub. When
+the wafer is in the RTM, it rests
+upon three prongs that stabilize it
+in the vacuum environment of the
+chamber. Khuri-Yakub has pro
+posed that instead of using the
+
+wafer's emissivity (energy emit
+ted per degree Celsius) and wave
+length emission to determine
+temperature, one should use the
+acoustics of the wafer.
+Sending a vibration through
+the wafer from one prong to the
+next is a much more reliable way
+of determining the temperature
+of the wafer, according to Khuri-
+Yakub.
+"The speed of sound in the
+wafer has a one-to-one relation
+ship to its temperature," he said.
+"Knowing the distance between
+prongs and the time the vibration
+takes to transverse that distance,
+I can determine the speed of the
+sound. Thus the temperature of
+the wafer is known."
+Presently, this process can
+determine the temperature of the
+wafer at 1,000 degrees Celsius,
+plus or minus five degrees.
+
+In addition to a control system
+which sets up the guidelines for
+the computer to carry out the pro
+cesses for making an IC, there will
+be a diagnostic system in place to
+detect any abnormalities.
+Hayes-Roth and Murdock are
+creating a unique system of diag
+nostics. They have proposed a
+form of Artificial Intelligence (AI)
+to perform diagnostics on the
+RTM.
+The AI system will be able to
+determine whether or not abnor
+malities exist, Hayes-Roth said.
+The computer, by direction of
+the AI programming, would be
+able to correct problems on the
+basis of its findings — all without
+explicit human supervision.
+Hayes-Roth said the researchers
+are making progress, though the
+AI diagnostics idea is still quite
+hypothetical.
+
+
+Jeff Sorrentino — Daily
+Although the next generation
+of computer chips can be devel
+oped for $100 million, the con
+struction of a manufacturing
+facility to mass produce such
+innovations will cost nearly $1
+billion, say researchers.
+But at Stanford's Center for
+Integrated Systems, a inter-disci
+plinary team of scientists led by
+Electrical Engineering Prof.
+Krishna Saraswat is attempting
+to circumvent the enormous cost
+of producing the next generation
+of integrated circuits (ICs) by re
+evaluating the process used in
+industry today.
+As computers begin to infil
+trate everyday life from super
+markets to cars to defense
+machinery, whoever controls the
+fundamental parts of these
+machines dictates their advance
+ment and availability. The most
+important and defining part of a
+computer is its microprocessor,
+an IC that determines the speed
+and ability of the computer.
+Saraswat and Graduate School
+of Business Prof. Samuel Wood,
+who holds a Ph. Din electrical
+engineering, propose that by
+combining various operations
+into one Rapid Thermal Multi
+processor (RTM), they can manu
+facture ICs with two-thirds less
+equipment.
+Each of these machines will be
+computer controlled, monitored
+and repaired with real-time algo
+rithms operating on work sta
+tions integrated into the RTM
+itself.
+According to Saraswat and
+Wood, this integration as well as
+state-of-the-art computer control
+and diagnostics will provide
+greater efficiency and adaptabili
+ty than standard IC manufactur
+ing methods. Current mass pro
+duction techniques, which use
+the idea of trial and error
+improvement, cannot efficiently
+mass produce different types of
+ICs.
+The RTM is at the heart of a
+new idea in manufacturing —
+Adaptable Manufacturing Sys
+tems (AMS). It has many advan
+tages over the conventional Mass
+
+Manufacturing Systems (MMS).
+The differences between AMS
+and MMS can be described by
+looking at the differences
+between Japanese and American
+automobile manufacturers,
+Saraswat said.
+While Toyota developed the
+idea of an adaptable environment
+to produce its cars, General
+Motors built for factories that
+were less adaptable and geared
+towards the production of only
+one model. In the semiconductor
+industry, however, the roles have
+been switched. The Japanese cur
+rently uses MMS technology that
+is consistent with producing one
+item in mass quantities while
+Americans are concentrating on
+changeability in the AMS factory.
+This adaptability will be inte
+gral to a future market which will
+demand lower quantities of more
+varied chip designs. The RTM's
+flexibility will produce different
+designs and different technolo
+gies without having to change
+costly machinery, Saraswat said.
+He added that the change is
+accomplished by simply modify
+ing the computer that controls
+the process.
+The major problem with
+putting more than $1 billion into
+a MMS factory is that the ICs the
+factory makes could be out-of
+date in just a few years. This
+problem is solved by the AMS fac
+tory that can change with the
+technology.
+Currently, Semiconductor
+Research Corporation, Texas
+Instruments, and the Department
+of Defense are funding the AMS
+factory concept.
+And at Stanford, an economic
+simulator called SCOPE (Stan
+ford Cost of Operations and Per
+formance Evaluator) will be able
+to measure the efficiency of such
+factories even before they start to
+produce ICs. A series of simula
+tions and tests will be the precur
+sor to any product made at the
+new factory in order to determine
+its efficiency.
+According to Barbara Hayes-
+Roth and Janet Murdock,
+researchers in the Knowledge
+Systems Laboratory, each RTM
+will perform three major func
+
+tions in chip-making: photolithog
+raphy, oxidation and etching.
+Lithography is the process
+where UV light shines through a
+sapphire window onto a wafer.
+The wafer is composed of a silicon
+derivative and is the square board
+on which transistors are added.
+Then oxidizing gases are flowed
+into the system and oxidation
+occurs on the wafer. Injected plas
+mas produce the etching.
+An RTM accepts the wafer and
+lays down on it miniscule layers
+of silicon nitride, oxide, boron,
+phosphorus and other chemicals
+through exposing the wafer to
+gases. This process lays down an
+intricate pattern of millions of
+transistors that eventually
+become an IC that runs a com
+puter.
+The process of laying down the
+chemicals on the wafer will be
+
+monitored by computers in the
+AMS factory, which makes the
+process more efficient. Each RTM
+will have its own advanced com
+puter system that controls the gas
+and plasma flow into the process
+ing chamber as well as the cham
+ber's temperature, pressure and
+heat transfer within.
+The RTM is continuously sens
+ing and regulating the tempera
+ture of the wafer. This is impor
+tant because the temperature of
+the wafer determines the thick
+ness of the chemicals, which need
+to be as uniform as possible.
+These sensors are being devel
+oped by Electrical Engineering
+Prof. Pierre Khuri-Yakub. When
+the wafer is in the RTM, it rests
+upon three prongs that stabilize it
+in the vacuum environment of the
+chamber. Khuri-Yakub has pro
+posed that instead of using the
+
+wafer's emissivity (energy emit
+ted per degree Celsius) and wave
+length emission to determine
+temperature, one should use the
+acoustics of the wafer.
+Sending a vibration through
+the wafer from one prong to the
+next is a much more reliable way
+of determining the temperature
+of the wafer, according to Khuri-
+Yakub.
+"The speed of sound in the
+wafer has a one-to-one relation
+ship to its temperature," he said.
+"Knowing the distance between
+prongs and the time the vibration
+takes to transverse that distance,
+I can determine the speed of the
+sound. Thus the temperature of
+the wafer is known."
+Presently, this process can
+determine the temperature of the
+wafer at 1,000 degrees Celsius,
+plus or minus five degrees.
+
+In addition to a control system
+which sets up the guidelines for
+the computer to carry out the pro
+cesses for making an IC, there will
+be a diagnostic system in place to
+detect any abnormalities.
+Hayes-Roth and Murdock are
+creating a unique system of diag
+nostics. They have proposed a
+form of Artificial Intelligence (AI)
+to perform diagnostics on the
+RTM.
+The AI system will be able to
+determine whether or not abnor
+malities exist, Hayes-Roth said.
+The computer, by direction of
+the AI programming, would be
+able to correct problems on the
+basis of its findings — all without
+explicit human supervision.
+Hayes-Roth said the researchers
+are making progress, though the
+AI diagnostics idea is still quite
+hypothetical.
+
+
+Jeff Sorrentino — Daily
+Although the next generation
+of computer chips can be devel
+oped for $100 million, the con
+struction of a manufacturing
+facility to mass produce such
+innovations will cost nearly $1
+billion, say researchers.
+But at Stanford's Center for
+Integrated Systems, a inter-disci
+plinary team of scientists led by
+Electrical Engineering Prof.
+Krishna Saraswat is attempting
+to circumvent the enormous cost
+of producing the next generation
+of integrated circuits (ICs) by re
+evaluating the process used in
+industry today.
+As computers begin to infil
+trate everyday life from super
+markets to cars to defense
+machinery, whoever controls the
+fundamental parts of these
+machines dictates their advance
+ment and availability. The most
+important and defining part of a
+computer is its microprocessor,
+an IC that determines the speed
+and ability of the computer.
+Saraswat and Graduate School
+of Business Prof. Samuel Wood,
+who holds a Ph. Din electrical
+engineering, propose that by
+combining various operations
+into one Rapid Thermal Multi
+processor (RTM), they can manu
+facture ICs with two-thirds less
+equipment.
+Each of these machines will be
+computer controlled, monitored
+and repaired with real-time algo
+rithms operating on work sta
+tions integrated into the RTM
+itself.
+According to Saraswat and
+Wood, this integration as well as
+state-of-the-art computer control
+and diagnostics will provide
+greater efficiency and adaptabili
+ty than standard IC manufactur
+ing methods. Current mass pro
+duction techniques, which use
+the idea of trial and error
+improvement, cannot efficiently
+mass produce different types of
+ICs.
+The RTM is at the heart of a
+new idea in manufacturing —
+Adaptable Manufacturing Sys
+tems (AMS). It has many advan
+tages over the conventional Mass
+
+Manufacturing Systems (MMS).
+The differences between AMS
+and MMS can be described by
+looking at the differences
+between Japanese and American
+automobile manufacturers,
+Saraswat said.
+While Toyota developed the
+idea of an adaptable environment
+to produce its cars, General
+Motors built for factories that
+were less adaptable and geared
+towards the production of only
+one model. In the semiconductor
+industry, however, the roles have
+been switched. The Japanese cur
+rently uses MMS technology that
+is consistent with producing one
+item in mass quantities while
+Americans are concentrating on
+changeability in the AMS factory.
+This adaptability will be inte
+gral to a future market which will
+demand lower quantities of more
+varied chip designs. The RTM's
+flexibility will produce different
+designs and different technolo
+gies without having to change
+costly machinery, Saraswat said.
+He added that the change is
+accomplished by simply modify
+ing the computer that controls
+the process.
+The major problem with
+putting more than $1 billion into
+a MMS factory is that the ICs the
+factory makes could be out-of
+date in just a few years. This
+problem is solved by the AMS fac
+tory that can change with the
+technology.
+Currently, Semiconductor
+Research Corporation, Texas
+Instruments, and the Department
+of Defense are funding the AMS
+factory concept.
+And at Stanford, an economic
+simulator called SCOPE (Stan
+ford Cost of Operations and Per
+formance Evaluator) will be able
+to measure the efficiency of such
+factories even before they start to
+produce ICs. A series of simula
+tions and tests will be the precur
+sor to any product made at the
+new factory in order to determine
+its efficiency.
+According to Barbara Hayes-
+Roth and Janet Murdock,
+researchers in the Knowledge
+Systems Laboratory, each RTM
+will perform three major func
+
+tions in chip-making: photolithog
+raphy, oxidation and etching.
+Lithography is the process
+where UV light shines through a
+sapphire window onto a wafer.
+The wafer is composed of a silicon
+derivative and is the square board
+on which transistors are added.
+Then oxidizing gases are flowed
+into the system and oxidation
+occurs on the wafer. Injected plas
+mas produce the etching.
+An RTM accepts the wafer and
+lays down on it miniscule layers
+of silicon nitride, oxide, boron,
+phosphorus and other chemicals
+through exposing the wafer to
+gases. This process lays down an
+intricate pattern of millions of
+transistors that eventually
+become an IC that runs a com
+puter.
+The process of laying down the
+chemicals on the wafer will be
+
+monitored by computers in the
+AMS factory, which makes the
+process more efficient. Each RTM
+will have its own advanced com
+puter system that controls the gas
+and plasma flow into the process
+ing chamber as well as the cham
+ber's temperature, pressure and
+heat transfer within.
+The RTM is continuously sens
+ing and regulating the tempera
+ture of the wafer. This is impor
+tant because the temperature of
+the wafer determines the thick
+ness of the chemicals, which need
+to be as uniform as possible.
+These sensors are being devel
+oped by Electrical Engineering
+Prof. Pierre Khuri-Yakub. When
+the wafer is in the RTM, it rests
+upon three prongs that stabilize it
+in the vacuum environment of the
+chamber. Khuri-Yakub has pro
+posed that instead of using the
+
+wafer's emissivity (energy emit
+ted per degree Celsius) and wave
+length emission to determine
+temperature, one should use the
+acoustics of the wafer.
+Sending a vibration through
+the wafer from one prong to the
+next is a much more reliable way
+of determining the temperature
+of the wafer, according to Khuri-
+Yakub.
+"The speed of sound in the
+wafer has a one-to-one relation
+ship to its temperature," he said.
+"Knowing the distance between
+prongs and the time the vibration
+takes to transverse that distance,
+I can determine the speed of the
+sound. Thus the temperature of
+the wafer is known."
+Presently, this process can
+determine the temperature of the
+wafer at 1,000 degrees Celsius,
+plus or minus five degrees.
+
+In addition to a control system
+which sets up the guidelines for
+the computer to carry out the pro
+cesses for making an IC, there will
+be a diagnostic system in place to
+detect any abnormalities.
+Hayes-Roth and Murdock are
+creating a unique system of diag
+nostics. They have proposed a
+form of Artificial Intelligence (AI)
+to perform diagnostics on the
+RTM.
+The AI system will be able to
+determine whether or not abnor
+malities exist, Hayes-Roth said.
+The computer, by direction of
+the AI programming, would be
+able to correct problems on the
+basis of its findings — all without
+explicit human supervision.
+Hayes-Roth said the researchers
+are making progress, though the
+AI diagnostics idea is still quite
+hypothetical.
+
+
+Jeff Sorrentino — Daily
+Although the next generation
+of computer chips can be devel
+oped for $100 million, the con
+struction of a manufacturing
+facility to mass produce such
+innovations will cost nearly $1
+billion, say researchers.
+But at Stanford's Center for
+Integrated Systems, a inter-disci
+plinary team of scientists led by
+Electrical Engineering Prof.
+Krishna Saraswat is attempting
+to circumvent the enormous cost
+of producing the next generation
+of integrated circuits (ICs) by re
+evaluating the process used in
+industry today.
+As computers begin to infil
+trate everyday life from super
+markets to cars to defense
+machinery, whoever controls the
+fundamental parts of these
+machines dictates their advance
+ment and availability. The most
+important and defining part of a
+computer is its microprocessor,
+an IC that determines the speed
+and ability of the computer.
+Saraswat and Graduate School
+of Business Prof. Samuel Wood,
+who holds a Ph. Din electrical
+engineering, propose that by
+combining various operations
+into one Rapid Thermal Multi
+processor (RTM), they can manu
+facture ICs with two-thirds less
+equipment.
+Each of these machines will be
+computer controlled, monitored
+and repaired with real-time algo
+rithms operating on work sta
+tions integrated into the RTM
+itself.
+According to Saraswat and
+Wood, this integration as well as
+state-of-the-art computer control
+and diagnostics will provide
+greater efficiency and adaptabili
+ty than standard IC manufactur
+ing methods. Current mass pro
+duction techniques, which use
+the idea of trial and error
+improvement, cannot efficiently
+mass produce different types of
+ICs.
+The RTM is at the heart of a
+new idea in manufacturing —
+Adaptable Manufacturing Sys
+tems (AMS). It has many advan
+tages over the conventional Mass
+
+Manufacturing Systems (MMS).
+The differences between AMS
+and MMS can be described by
+looking at the differences
+between Japanese and American
+automobile manufacturers,
+Saraswat said.
+While Toyota developed the
+idea of an adaptable environment
+to produce its cars, General
+Motors built for factories that
+were less adaptable and geared
+towards the production of only
+one model. In the semiconductor
+industry, however, the roles have
+been switched. The Japanese cur
+rently uses MMS technology that
+is consistent with producing one
+item in mass quantities while
+Americans are concentrating on
+changeability in the AMS factory.
+This adaptability will be inte
+gral to a future market which will
+demand lower quantities of more
+varied chip designs. The RTM's
+flexibility will produce different
+designs and different technolo
+gies without having to change
+costly machinery, Saraswat said.
+He added that the change is
+accomplished by simply modify
+ing the computer that controls
+the process.
+The major problem with
+putting more than $1 billion into
+a MMS factory is that the ICs the
+factory makes could be out-of
+date in just a few years. This
+problem is solved by the AMS fac
+tory that can change with the
+technology.
+Currently, Semiconductor
+Research Corporation, Texas
+Instruments, and the Department
+of Defense are funding the AMS
+factory concept.
+And at Stanford, an economic
+simulator called SCOPE (Stan
+ford Cost of Operations and Per
+formance Evaluator) will be able
+to measure the efficiency of such
+factories even before they start to
+produce ICs. A series of simula
+tions and tests will be the precur
+sor to any product made at the
+new factory in order to determine
+its efficiency.
+According to Barbara Hayes-
+Roth and Janet Murdock,
+researchers in the Knowledge
+Systems Laboratory, each RTM
+will perform three major func
+
+tions in chip-making: photolithog
+raphy, oxidation and etching.
+Lithography is the process
+where UV light shines through a
+sapphire window onto a wafer.
+The wafer is composed of a silicon
+derivative and is the square board
+on which transistors are added.
+Then oxidizing gases are flowed
+into the system and oxidation
+occurs on the wafer. Injected plas
+mas produce the etching.
+An RTM accepts the wafer and
+lays down on it miniscule layers
+of silicon nitride, oxide, boron,
+phosphorus and other chemicals
+through exposing the wafer to
+gases. This process lays down an
+intricate pattern of millions of
+transistors that eventually
+become an IC that runs a com
+puter.
+The process of laying down the
+chemicals on the wafer will be
+
+monitored by computers in the
+AMS factory, which makes the
+process more efficient. Each RTM
+will have its own advanced com
+puter system that controls the gas
+and plasma flow into the process
+ing chamber as well as the cham
+ber's temperature, pressure and
+heat transfer within.
+The RTM is continuously sens
+ing and regulating the tempera
+ture of the wafer. This is impor
+tant because the temperature of
+the wafer determines the thick
+ness of the chemicals, which need
+to be as uniform as possible.
+These sensors are being devel
+oped by Electrical Engineering
+Prof. Pierre Khuri-Yakub. When
+the wafer is in the RTM, it rests
+upon three prongs that stabilize it
+in the vacuum environment of the
+chamber. Khuri-Yakub has pro
+posed that instead of using the
+
+wafer's emissivity (energy emit
+ted per degree Celsius) and wave
+length emission to determine
+temperature, one should use the
+acoustics of the wafer.
+Sending a vibration through
+the wafer from one prong to the
+next is a much more reliable way
+of determining the temperature
+of the wafer, according to Khuri-
+Yakub.
+"The speed of sound in the
+wafer has a one-to-one relation
+ship to its temperature," he said.
+"Knowing the distance between
+prongs and the time the vibration
+takes to transverse that distance,
+I can determine the speed of the
+sound. Thus the temperature of
+the wafer is known."
+Presently, this process can
+determine the temperature of the
+wafer at 1,000 degrees Celsius,
+plus or minus five degrees.
+
+In addition to a control system
+which sets up the guidelines for
+the computer to carry out the pro
+cesses for making an IC, there will
+be a diagnostic system in place to
+detect any abnormalities.
+Hayes-Roth and Murdock are
+creating a unique system of diag
+nostics. They have proposed a
+form of Artificial Intelligence (AI)
+to perform diagnostics on the
+RTM.
+The AI system will be able to
+determine whether or not abnor
+malities exist, Hayes-Roth said.
+The computer, by direction of
+the AI programming, would be
+able to correct problems on the
+basis of its findings — all without
+explicit human supervision.
+Hayes-Roth said the researchers
+are making progress, though the
+AI diagnostics idea is still quite
+hypothetical.
+
+
+Jeff Sorrentino — Daily

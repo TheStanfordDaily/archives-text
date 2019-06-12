@@ -1,0 +1,883 @@
+# Computers help protein research
+## 
+### KEVIN MONTAGUE 
+A team of scientists at Stanford, trying to
+gain information on how protein molecules
+work, has developed a computer system that
+uses nuclear magnetic resonance (NMR) spec
+troscopy and artificial intelligence to analyze
+protein molecules as they exist in nature.
+This is the first time that NMR and artificial
+intelligence have been used jointly in the study
+of protein molecules.
+The expert system, called Protean, was
+developed as a joint effort by scientists at the
+Stanford Magnetic Resonance Laboratory
+(SMRL) and the Stanford Knowlege Systems
+Laboratory, in an effort to use computers to
+mimic human reasoning powers. Using data
+
+from NMR. which was discovered by former
+Stanford Prof. Felix Bloch, in concert with ar
+tificial intelligence, it has given scientists the
+clearest picturc yet of a protein molecule.
+The study of protein molecules is important
+to scientists in understanding how biological
+systems work.
+"Protean is the name of an expert system."
+said medical student Olivier Lichtarge, one of
+the scientists involved in the project. "It
+belongs to a class of computer programs which
+are buill so thai they can perform specialized
+tasks as well or better than what a human
+could do.
+"We try to extract from human experts what
+it is that they do so well and encode it into a
+computer system," said Lichtarge.
+
+Oleg Jardetsky, director of SMRL, said,
+"There are some major kinds of questions that
+should be answerable using this system. . . .
+Protean allows you to look at the binding of
+other molecules to the proteins."
+Jardetzky explained that proteins, which are
+composed of amino acids, work by binding
+other molecules to the amino acids. After bin
+ding, the protein can perform a number of
+functions, such as molecule splitting, synthe
+sis or transport, depending on the "specificity"
+of the protein.
+Jardetzky said scientists are also interested
+in examining folding in the molecular
+structures of proteins. In their ef
+forts to understand how they
+work.
+"One can. using this method,
+look at the question of folding as
+well as the question of specificity."
+said Jardetzky. "Those are pretty
+far-reaching specifications."
+"What we're trying to do is
+analyze the three-dimensional
+structures of protein molecules,"
+said Computer Science Research
+Associate James Brlnkley, an
+other scientist in the Protean
+team. "Once we know the
+structures, we can figure out
+function, and once we know
+structure relates to function, we
+can eventually design new ones."
+The study of proteins Is not
+new. The Protean system,
+however, with its unique ap
+proach of using NMR in conjunc
+tion with artificial intelligence, is
+the most successful.
+"There are labs in Switzerland
+and Holland that are relatively
+successful," said Jardetzky, "but
+
+none of these groups have the type
+of A.I. (artificial intelligence) ex
+pertise we have here at Stanford.
+We have a lucky combination."
+Although the main source of
+data used by Protean in the
+analyses Is NMR, other sources of
+information, such as neutron dif
+fraction and small-angle X-ray
+scattering, are used. However, the
+information obtainable from these
+alternative sources Is not as useful
+as that from NMR.
+"The quality of the data coming
+from NMR is better than anything
+else," said Llchtarge.
+Brinkley agreed. "It's a very hard
+problem to solve using ordinary
+methods," he said. "We have a
+blurry picture of a protein. . . . We
+can get it very fast on a very cheap
+machine. We're trying to build a
+more complete system that pro
+vides a more complete answer."
+All of the molecular structures
+that have been derived so far have
+been calculated from data on
+proteins in crystal form. The ad
+vantage of the Protean system is
+that it is able to examine data on
+proteins in solution, which Is how
+they are found in the human
+body.
+A team of scientists at Stanford, trying to
+gain information on how protein molecules
+work, has developed a computer system that
+uses nuclear magnetic resonance (NMR) spec
+troscopy and artificial intelligence to analyze
+protein molecules as they exist in nature.
+This is the first time that NMR and artificial
+intelligence have been used jointly in the study
+of protein molecules.
+The expert system, called Protean, was
+developed as a joint effort by scientists at the
+Stanford Magnetic Resonance Laboratory
+(SMRL) and the Stanford Knowlege Systems
+Laboratory, in an effort to use computers to
+mimic human reasoning powers. Using data
+
+from NMR. which was discovered by former
+Stanford Prof. Felix Bloch, in concert with ar
+tificial intelligence, it has given scientists the
+clearest picturc yet of a protein molecule.
+The study of protein molecules is important
+to scientists in understanding how biological
+systems work.
+"Protean is the name of an expert system."
+said medical student Olivier Lichtarge, one of
+the scientists involved in the project. "It
+belongs to a class of computer programs which
+are buill so thai they can perform specialized
+tasks as well or better than what a human
+could do.
+"We try to extract from human experts what
+it is that they do so well and encode it into a
+computer system," said Lichtarge.
+
+Oleg Jardetsky, director of SMRL, said,
+"There are some major kinds of questions that
+should be answerable using this system. . . .
+Protean allows you to look at the binding of
+other molecules to the proteins."
+Jardetzky explained that proteins, which are
+composed of amino acids, work by binding
+other molecules to the amino acids. After bin
+ding, the protein can perform a number of
+functions, such as molecule splitting, synthe
+sis or transport, depending on the "specificity"
+of the protein.
+Jardetzky said scientists are also interested
+in examining folding in the molecular
+structures of proteins. In their ef
+forts to understand how they
+work.
+"One can. using this method,
+look at the question of folding as
+well as the question of specificity."
+said Jardetzky. "Those are pretty
+far-reaching specifications."
+"What we're trying to do is
+analyze the three-dimensional
+structures of protein molecules,"
+said Computer Science Research
+Associate James Brlnkley, an
+other scientist in the Protean
+team. "Once we know the
+structures, we can figure out
+function, and once we know
+structure relates to function, we
+can eventually design new ones."
+The study of proteins Is not
+new. The Protean system,
+however, with its unique ap
+proach of using NMR in conjunc
+tion with artificial intelligence, is
+the most successful.
+"There are labs in Switzerland
+and Holland that are relatively
+successful," said Jardetzky, "but
+
+none of these groups have the type
+of A.I. (artificial intelligence) ex
+pertise we have here at Stanford.
+We have a lucky combination."
+Although the main source of
+data used by Protean in the
+analyses Is NMR, other sources of
+information, such as neutron dif
+fraction and small-angle X-ray
+scattering, are used. However, the
+information obtainable from these
+alternative sources Is not as useful
+as that from NMR.
+"The quality of the data coming
+from NMR is better than anything
+else," said Llchtarge.
+Brinkley agreed. "It's a very hard
+problem to solve using ordinary
+methods," he said. "We have a
+blurry picture of a protein. . . . We
+can get it very fast on a very cheap
+machine. We're trying to build a
+more complete system that pro
+vides a more complete answer."
+All of the molecular structures
+that have been derived so far have
+been calculated from data on
+proteins in crystal form. The ad
+vantage of the Protean system is
+that it is able to examine data on
+proteins in solution, which Is how
+they are found in the human
+body.
+A team of scientists at Stanford, trying to
+gain information on how protein molecules
+work, has developed a computer system that
+uses nuclear magnetic resonance (NMR) spec
+troscopy and artificial intelligence to analyze
+protein molecules as they exist in nature.
+This is the first time that NMR and artificial
+intelligence have been used jointly in the study
+of protein molecules.
+The expert system, called Protean, was
+developed as a joint effort by scientists at the
+Stanford Magnetic Resonance Laboratory
+(SMRL) and the Stanford Knowlege Systems
+Laboratory, in an effort to use computers to
+mimic human reasoning powers. Using data
+
+from NMR. which was discovered by former
+Stanford Prof. Felix Bloch, in concert with ar
+tificial intelligence, it has given scientists the
+clearest picturc yet of a protein molecule.
+The study of protein molecules is important
+to scientists in understanding how biological
+systems work.
+"Protean is the name of an expert system."
+said medical student Olivier Lichtarge, one of
+the scientists involved in the project. "It
+belongs to a class of computer programs which
+are buill so thai they can perform specialized
+tasks as well or better than what a human
+could do.
+"We try to extract from human experts what
+it is that they do so well and encode it into a
+computer system," said Lichtarge.
+
+Oleg Jardetsky, director of SMRL, said,
+"There are some major kinds of questions that
+should be answerable using this system. . . .
+Protean allows you to look at the binding of
+other molecules to the proteins."
+Jardetzky explained that proteins, which are
+composed of amino acids, work by binding
+other molecules to the amino acids. After bin
+ding, the protein can perform a number of
+functions, such as molecule splitting, synthe
+sis or transport, depending on the "specificity"
+of the protein.
+Jardetzky said scientists are also interested
+in examining folding in the molecular
+structures of proteins. In their ef
+forts to understand how they
+work.
+"One can. using this method,
+look at the question of folding as
+well as the question of specificity."
+said Jardetzky. "Those are pretty
+far-reaching specifications."
+"What we're trying to do is
+analyze the three-dimensional
+structures of protein molecules,"
+said Computer Science Research
+Associate James Brlnkley, an
+other scientist in the Protean
+team. "Once we know the
+structures, we can figure out
+function, and once we know
+structure relates to function, we
+can eventually design new ones."
+The study of proteins Is not
+new. The Protean system,
+however, with its unique ap
+proach of using NMR in conjunc
+tion with artificial intelligence, is
+the most successful.
+"There are labs in Switzerland
+and Holland that are relatively
+successful," said Jardetzky, "but
+
+none of these groups have the type
+of A.I. (artificial intelligence) ex
+pertise we have here at Stanford.
+We have a lucky combination."
+Although the main source of
+data used by Protean in the
+analyses Is NMR, other sources of
+information, such as neutron dif
+fraction and small-angle X-ray
+scattering, are used. However, the
+information obtainable from these
+alternative sources Is not as useful
+as that from NMR.
+"The quality of the data coming
+from NMR is better than anything
+else," said Llchtarge.
+Brinkley agreed. "It's a very hard
+problem to solve using ordinary
+methods," he said. "We have a
+blurry picture of a protein. . . . We
+can get it very fast on a very cheap
+machine. We're trying to build a
+more complete system that pro
+vides a more complete answer."
+All of the molecular structures
+that have been derived so far have
+been calculated from data on
+proteins in crystal form. The ad
+vantage of the Protean system is
+that it is able to examine data on
+proteins in solution, which Is how
+they are found in the human
+body.
+A team of scientists at Stanford, trying to
+gain information on how protein molecules
+work, has developed a computer system that
+uses nuclear magnetic resonance (NMR) spec
+troscopy and artificial intelligence to analyze
+protein molecules as they exist in nature.
+This is the first time that NMR and artificial
+intelligence have been used jointly in the study
+of protein molecules.
+The expert system, called Protean, was
+developed as a joint effort by scientists at the
+Stanford Magnetic Resonance Laboratory
+(SMRL) and the Stanford Knowlege Systems
+Laboratory, in an effort to use computers to
+mimic human reasoning powers. Using data
+
+from NMR. which was discovered by former
+Stanford Prof. Felix Bloch, in concert with ar
+tificial intelligence, it has given scientists the
+clearest picturc yet of a protein molecule.
+The study of protein molecules is important
+to scientists in understanding how biological
+systems work.
+"Protean is the name of an expert system."
+said medical student Olivier Lichtarge, one of
+the scientists involved in the project. "It
+belongs to a class of computer programs which
+are buill so thai they can perform specialized
+tasks as well or better than what a human
+could do.
+"We try to extract from human experts what
+it is that they do so well and encode it into a
+computer system," said Lichtarge.
+
+Oleg Jardetsky, director of SMRL, said,
+"There are some major kinds of questions that
+should be answerable using this system. . . .
+Protean allows you to look at the binding of
+other molecules to the proteins."
+Jardetzky explained that proteins, which are
+composed of amino acids, work by binding
+other molecules to the amino acids. After bin
+ding, the protein can perform a number of
+functions, such as molecule splitting, synthe
+sis or transport, depending on the "specificity"
+of the protein.
+Jardetzky said scientists are also interested
+in examining folding in the molecular
+structures of proteins. In their ef
+forts to understand how they
+work.
+"One can. using this method,
+look at the question of folding as
+well as the question of specificity."
+said Jardetzky. "Those are pretty
+far-reaching specifications."
+"What we're trying to do is
+analyze the three-dimensional
+structures of protein molecules,"
+said Computer Science Research
+Associate James Brlnkley, an
+other scientist in the Protean
+team. "Once we know the
+structures, we can figure out
+function, and once we know
+structure relates to function, we
+can eventually design new ones."
+The study of proteins Is not
+new. The Protean system,
+however, with its unique ap
+proach of using NMR in conjunc
+tion with artificial intelligence, is
+the most successful.
+"There are labs in Switzerland
+and Holland that are relatively
+successful," said Jardetzky, "but
+
+none of these groups have the type
+of A.I. (artificial intelligence) ex
+pertise we have here at Stanford.
+We have a lucky combination."
+Although the main source of
+data used by Protean in the
+analyses Is NMR, other sources of
+information, such as neutron dif
+fraction and small-angle X-ray
+scattering, are used. However, the
+information obtainable from these
+alternative sources Is not as useful
+as that from NMR.
+"The quality of the data coming
+from NMR is better than anything
+else," said Llchtarge.
+Brinkley agreed. "It's a very hard
+problem to solve using ordinary
+methods," he said. "We have a
+blurry picture of a protein. . . . We
+can get it very fast on a very cheap
+machine. We're trying to build a
+more complete system that pro
+vides a more complete answer."
+All of the molecular structures
+that have been derived so far have
+been calculated from data on
+proteins in crystal form. The ad
+vantage of the Protean system is
+that it is able to examine data on
+proteins in solution, which Is how
+they are found in the human
+body.
+A team of scientists at Stanford, trying to
+gain information on how protein molecules
+work, has developed a computer system that
+uses nuclear magnetic resonance (NMR) spec
+troscopy and artificial intelligence to analyze
+protein molecules as they exist in nature.
+This is the first time that NMR and artificial
+intelligence have been used jointly in the study
+of protein molecules.
+The expert system, called Protean, was
+developed as a joint effort by scientists at the
+Stanford Magnetic Resonance Laboratory
+(SMRL) and the Stanford Knowlege Systems
+Laboratory, in an effort to use computers to
+mimic human reasoning powers. Using data
+
+from NMR. which was discovered by former
+Stanford Prof. Felix Bloch, in concert with ar
+tificial intelligence, it has given scientists the
+clearest picturc yet of a protein molecule.
+The study of protein molecules is important
+to scientists in understanding how biological
+systems work.
+"Protean is the name of an expert system."
+said medical student Olivier Lichtarge, one of
+the scientists involved in the project. "It
+belongs to a class of computer programs which
+are buill so thai they can perform specialized
+tasks as well or better than what a human
+could do.
+"We try to extract from human experts what
+it is that they do so well and encode it into a
+computer system," said Lichtarge.
+
+Oleg Jardetsky, director of SMRL, said,
+"There are some major kinds of questions that
+should be answerable using this system. . . .
+Protean allows you to look at the binding of
+other molecules to the proteins."
+Jardetzky explained that proteins, which are
+composed of amino acids, work by binding
+other molecules to the amino acids. After bin
+ding, the protein can perform a number of
+functions, such as molecule splitting, synthe
+sis or transport, depending on the "specificity"
+of the protein.
+Jardetzky said scientists are also interested
+in examining folding in the molecular
+structures of proteins. In their ef
+forts to understand how they
+work.
+"One can. using this method,
+look at the question of folding as
+well as the question of specificity."
+said Jardetzky. "Those are pretty
+far-reaching specifications."
+"What we're trying to do is
+analyze the three-dimensional
+structures of protein molecules,"
+said Computer Science Research
+Associate James Brlnkley, an
+other scientist in the Protean
+team. "Once we know the
+structures, we can figure out
+function, and once we know
+structure relates to function, we
+can eventually design new ones."
+The study of proteins Is not
+new. The Protean system,
+however, with its unique ap
+proach of using NMR in conjunc
+tion with artificial intelligence, is
+the most successful.
+"There are labs in Switzerland
+and Holland that are relatively
+successful," said Jardetzky, "but
+
+none of these groups have the type
+of A.I. (artificial intelligence) ex
+pertise we have here at Stanford.
+We have a lucky combination."
+Although the main source of
+data used by Protean in the
+analyses Is NMR, other sources of
+information, such as neutron dif
+fraction and small-angle X-ray
+scattering, are used. However, the
+information obtainable from these
+alternative sources Is not as useful
+as that from NMR.
+"The quality of the data coming
+from NMR is better than anything
+else," said Llchtarge.
+Brinkley agreed. "It's a very hard
+problem to solve using ordinary
+methods," he said. "We have a
+blurry picture of a protein. . . . We
+can get it very fast on a very cheap
+machine. We're trying to build a
+more complete system that pro
+vides a more complete answer."
+All of the molecular structures
+that have been derived so far have
+been calculated from data on
+proteins in crystal form. The ad
+vantage of the Protean system is
+that it is able to examine data on
+proteins in solution, which Is how
+they are found in the human
+body.
+A team of scientists at Stanford, trying to
+gain information on how protein molecules
+work, has developed a computer system that
+uses nuclear magnetic resonance (NMR) spec
+troscopy and artificial intelligence to analyze
+protein molecules as they exist in nature.
+This is the first time that NMR and artificial
+intelligence have been used jointly in the study
+of protein molecules.
+The expert system, called Protean, was
+developed as a joint effort by scientists at the
+Stanford Magnetic Resonance Laboratory
+(SMRL) and the Stanford Knowlege Systems
+Laboratory, in an effort to use computers to
+mimic human reasoning powers. Using data
+
+from NMR. which was discovered by former
+Stanford Prof. Felix Bloch, in concert with ar
+tificial intelligence, it has given scientists the
+clearest picturc yet of a protein molecule.
+The study of protein molecules is important
+to scientists in understanding how biological
+systems work.
+"Protean is the name of an expert system."
+said medical student Olivier Lichtarge, one of
+the scientists involved in the project. "It
+belongs to a class of computer programs which
+are buill so thai they can perform specialized
+tasks as well or better than what a human
+could do.
+"We try to extract from human experts what
+it is that they do so well and encode it into a
+computer system," said Lichtarge.
+
+Oleg Jardetsky, director of SMRL, said,
+"There are some major kinds of questions that
+should be answerable using this system. . . .
+Protean allows you to look at the binding of
+other molecules to the proteins."
+Jardetzky explained that proteins, which are
+composed of amino acids, work by binding
+other molecules to the amino acids. After bin
+ding, the protein can perform a number of
+functions, such as molecule splitting, synthe
+sis or transport, depending on the "specificity"
+of the protein.
+Jardetzky said scientists are also interested
+in examining folding in the molecular
+structures of proteins. In their ef
+forts to understand how they
+work.
+"One can. using this method,
+look at the question of folding as
+well as the question of specificity."
+said Jardetzky. "Those are pretty
+far-reaching specifications."
+"What we're trying to do is
+analyze the three-dimensional
+structures of protein molecules,"
+said Computer Science Research
+Associate James Brlnkley, an
+other scientist in the Protean
+team. "Once we know the
+structures, we can figure out
+function, and once we know
+structure relates to function, we
+can eventually design new ones."
+The study of proteins Is not
+new. The Protean system,
+however, with its unique ap
+proach of using NMR in conjunc
+tion with artificial intelligence, is
+the most successful.
+"There are labs in Switzerland
+and Holland that are relatively
+successful," said Jardetzky, "but
+
+none of these groups have the type
+of A.I. (artificial intelligence) ex
+pertise we have here at Stanford.
+We have a lucky combination."
+Although the main source of
+data used by Protean in the
+analyses Is NMR, other sources of
+information, such as neutron dif
+fraction and small-angle X-ray
+scattering, are used. However, the
+information obtainable from these
+alternative sources Is not as useful
+as that from NMR.
+"The quality of the data coming
+from NMR is better than anything
+else," said Llchtarge.
+Brinkley agreed. "It's a very hard
+problem to solve using ordinary
+methods," he said. "We have a
+blurry picture of a protein. . . . We
+can get it very fast on a very cheap
+machine. We're trying to build a
+more complete system that pro
+vides a more complete answer."
+All of the molecular structures
+that have been derived so far have
+been calculated from data on
+proteins in crystal form. The ad
+vantage of the Protean system is
+that it is able to examine data on
+proteins in solution, which Is how
+they are found in the human
+body.
+A team of scientists at Stanford, trying to
+gain information on how protein molecules
+work, has developed a computer system that
+uses nuclear magnetic resonance (NMR) spec
+troscopy and artificial intelligence to analyze
+protein molecules as they exist in nature.
+This is the first time that NMR and artificial
+intelligence have been used jointly in the study
+of protein molecules.
+The expert system, called Protean, was
+developed as a joint effort by scientists at the
+Stanford Magnetic Resonance Laboratory
+(SMRL) and the Stanford Knowlege Systems
+Laboratory, in an effort to use computers to
+mimic human reasoning powers. Using data
+
+from NMR. which was discovered by former
+Stanford Prof. Felix Bloch, in concert with ar
+tificial intelligence, it has given scientists the
+clearest picturc yet of a protein molecule.
+The study of protein molecules is important
+to scientists in understanding how biological
+systems work.
+"Protean is the name of an expert system."
+said medical student Olivier Lichtarge, one of
+the scientists involved in the project. "It
+belongs to a class of computer programs which
+are buill so thai they can perform specialized
+tasks as well or better than what a human
+could do.
+"We try to extract from human experts what
+it is that they do so well and encode it into a
+computer system," said Lichtarge.
+
+Oleg Jardetsky, director of SMRL, said,
+"There are some major kinds of questions that
+should be answerable using this system. . . .
+Protean allows you to look at the binding of
+other molecules to the proteins."
+Jardetzky explained that proteins, which are
+composed of amino acids, work by binding
+other molecules to the amino acids. After bin
+ding, the protein can perform a number of
+functions, such as molecule splitting, synthe
+sis or transport, depending on the "specificity"
+of the protein.
+Jardetzky said scientists are also interested
+in examining folding in the molecular
+structures of proteins. In their ef
+forts to understand how they
+work.
+"One can. using this method,
+look at the question of folding as
+well as the question of specificity."
+said Jardetzky. "Those are pretty
+far-reaching specifications."
+"What we're trying to do is
+analyze the three-dimensional
+structures of protein molecules,"
+said Computer Science Research
+Associate James Brlnkley, an
+other scientist in the Protean
+team. "Once we know the
+structures, we can figure out
+function, and once we know
+structure relates to function, we
+can eventually design new ones."
+The study of proteins Is not
+new. The Protean system,
+however, with its unique ap
+proach of using NMR in conjunc
+tion with artificial intelligence, is
+the most successful.
+"There are labs in Switzerland
+and Holland that are relatively
+successful," said Jardetzky, "but
+
+none of these groups have the type
+of A.I. (artificial intelligence) ex
+pertise we have here at Stanford.
+We have a lucky combination."
+Although the main source of
+data used by Protean in the
+analyses Is NMR, other sources of
+information, such as neutron dif
+fraction and small-angle X-ray
+scattering, are used. However, the
+information obtainable from these
+alternative sources Is not as useful
+as that from NMR.
+"The quality of the data coming
+from NMR is better than anything
+else," said Llchtarge.
+Brinkley agreed. "It's a very hard
+problem to solve using ordinary
+methods," he said. "We have a
+blurry picture of a protein. . . . We
+can get it very fast on a very cheap
+machine. We're trying to build a
+more complete system that pro
+vides a more complete answer."
+All of the molecular structures
+that have been derived so far have
+been calculated from data on
+proteins in crystal form. The ad
+vantage of the Protean system is
+that it is able to examine data on
+proteins in solution, which Is how
+they are found in the human
+body.
+A team of scientists at Stanford, trying to
+gain information on how protein molecules
+work, has developed a computer system that
+uses nuclear magnetic resonance (NMR) spec
+troscopy and artificial intelligence to analyze
+protein molecules as they exist in nature.
+This is the first time that NMR and artificial
+intelligence have been used jointly in the study
+of protein molecules.
+The expert system, called Protean, was
+developed as a joint effort by scientists at the
+Stanford Magnetic Resonance Laboratory
+(SMRL) and the Stanford Knowlege Systems
+Laboratory, in an effort to use computers to
+mimic human reasoning powers. Using data
+
+from NMR. which was discovered by former
+Stanford Prof. Felix Bloch, in concert with ar
+tificial intelligence, it has given scientists the
+clearest picturc yet of a protein molecule.
+The study of protein molecules is important
+to scientists in understanding how biological
+systems work.
+"Protean is the name of an expert system."
+said medical student Olivier Lichtarge, one of
+the scientists involved in the project. "It
+belongs to a class of computer programs which
+are buill so thai they can perform specialized
+tasks as well or better than what a human
+could do.
+"We try to extract from human experts what
+it is that they do so well and encode it into a
+computer system," said Lichtarge.
+
+Oleg Jardetsky, director of SMRL, said,
+"There are some major kinds of questions that
+should be answerable using this system. . . .
+Protean allows you to look at the binding of
+other molecules to the proteins."
+Jardetzky explained that proteins, which are
+composed of amino acids, work by binding
+other molecules to the amino acids. After bin
+ding, the protein can perform a number of
+functions, such as molecule splitting, synthe
+sis or transport, depending on the "specificity"
+of the protein.
+Jardetzky said scientists are also interested
+in examining folding in the molecular
+structures of proteins. In their ef
+forts to understand how they
+work.
+"One can. using this method,
+look at the question of folding as
+well as the question of specificity."
+said Jardetzky. "Those are pretty
+far-reaching specifications."
+"What we're trying to do is
+analyze the three-dimensional
+structures of protein molecules,"
+said Computer Science Research
+Associate James Brlnkley, an
+other scientist in the Protean
+team. "Once we know the
+structures, we can figure out
+function, and once we know
+structure relates to function, we
+can eventually design new ones."
+The study of proteins Is not
+new. The Protean system,
+however, with its unique ap
+proach of using NMR in conjunc
+tion with artificial intelligence, is
+the most successful.
+"There are labs in Switzerland
+and Holland that are relatively
+successful," said Jardetzky, "but
+
+none of these groups have the type
+of A.I. (artificial intelligence) ex
+pertise we have here at Stanford.
+We have a lucky combination."
+Although the main source of
+data used by Protean in the
+analyses Is NMR, other sources of
+information, such as neutron dif
+fraction and small-angle X-ray
+scattering, are used. However, the
+information obtainable from these
+alternative sources Is not as useful
+as that from NMR.
+"The quality of the data coming
+from NMR is better than anything
+else," said Llchtarge.
+Brinkley agreed. "It's a very hard
+problem to solve using ordinary
+methods," he said. "We have a
+blurry picture of a protein. . . . We
+can get it very fast on a very cheap
+machine. We're trying to build a
+more complete system that pro
+vides a more complete answer."
+All of the molecular structures
+that have been derived so far have
+been calculated from data on
+proteins in crystal form. The ad
+vantage of the Protean system is
+that it is able to examine data on
+proteins in solution, which Is how
+they are found in the human
+body.

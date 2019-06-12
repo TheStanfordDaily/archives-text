@@ -1,0 +1,990 @@
+# Holograms to revolutionize info storage
+## Fiber optics transmit directly into crystals 
+### Christian Chabot 
+Did you know that tiny green holograms,
+about the size of those on your credit card, have
+over 10,000 times the information-storage poten
+tial of your average Macintosh?
+But don't shove your Visa card into the near
+est Mac Classic just yet. These holograms are
+much different than those you see on many
+charge cards, even though they're "recorded" in
+much the same way.
+They are the result of current research into
+the new field of "holographic data storage," led
+by Electrical Engineering Prof. Lambertus Hes
+selink and his group, and they may shape the
+future of information storage in computers.
+"Our appetite for storing, retrieving, and
+transmitting large amounts of data appears to
+grow exponentially," Hesse link said.
+In recent years, fiberoptic networks have been
+developed to better cope with these enormous
+information transmission demands, but they rely
+on inefficient methods that convert electronic
+signals (from a sending computer) to light waves
+(to be transmitted over fiberoptic cables), back to
+electronic signals (for the receiving computer).
+Holographic data storage, which uses laser
+light to record data in photo-refractive materials,
+reduces the need for conversion processes
+because it uses bandwidths that are compatible
+with fiberoptic networks.
+In theory, the technology can allow transfer
+rates 100 to 1,000 times faster than those avail
+able with current disk drives.
+Storing information in crystals
+The tiny holograms, which can theoretically
+hold a trillion bits of information per cubic cen
+timeter, are formed by shining two laser beams
+on photo-refractive storage crystals, such as
+strontium barium niobate.
+The first laser beam passes through a
+checkerboard-patterned spatial light modulator
+(SLM), which is similar to the liquid crystal dis
+
+plays (LCDs) on digital watches.
+Instead of numbers, however, the SLM dis
+plays a pattern made up of black squares and
+transparent spaces. These patterns symbolize
+the numbers one and zero, and represent the
+information to be stored in the crystal.
+Because the black squares are opaque, the
+modulator allows only the laser light that hits the
+transparent squares to pass through.
+This light beam combines with a second laser
+known as the "reference beam," and then con
+tinues on to bathe the photo-refractive storage
+material behind the modulator in a correspond
+ing checkerboard pattern.
+The two beams come together to form an
+interference pattern which strikes the crystal
+and stimulates the electrons of each individual
+atom within. As photons of the laser light are
+absorbed by the individual atoms, "excited" elec
+trons are produced, which then move to the dark
+areas in the interference pattern where they are
+no longer stimulated.
+As they become less excited, they become
+attracted to local protons and get trapped in the
+material. When the incoming lasers are shut off,
+the electrons remain "clumped" in certain areas
+of the crystal.
+A relatively strong electric field results from
+
+such tightly packed electric charges, and this field
+changes the index of refraction of the packed
+areas.
+As a result, if a laser beam was shone through
+the crystal at a later date, deviations would be
+seen in the way light is refracted in the crystal.
+One would be able to see the ones and zeros
+that constitute data storage represented by the
+varying degrees of electron concentration.
+Future uses
+Ultimately, this relatively nascent technology
+could greatly transform information storage in
+computers.
+Holographic data storage is superior to exist
+ing storage methods because it combines huge
+memory capacities with speedy transfer rates.
+This advancement could lead to numerous inno
+vations in the future: "dialing up movies" from
+central storage computers for home viewing may
+be possible, multi-media applications may be
+improved, and complex NASA images may be
+relayed from deep space with greater speed and
+accuracy.
+In addition, because holograms can be
+retrieved with only limited information, comput-
+
+
+Dongmln Shim — Dally
+ers may be able to retrieve, for
+example, the correct picture of a
+person if only half of the face is
+given as input.
+Provided it becomes cost effec
+tive, Dr. Hesselink believes the tech
+nology would initially be used in
+hard drives, and doesn't think any
+"mqjor shift in the structure of com
+puters" would be necessary to
+
+accommodate holographic data
+storage.
+Hypothetically, small, depend
+able lasers could be put in personal
+computers and used to produce
+information-packed holograms.
+And, if current problems with
+the technology can be worked out,
+holograms may even be used to
+read and write onto portable
+disks.
+Because it has such potential in
+both military and commercial appli
+cations, research on holographic
+data storage is also attracting atten
+
+tion from the government.
+According to Donna Baranski-
+Walker, a licensing associate at
+Stanford's Office of Technology
+Licensing, the Advanced Projects
+Research Agency (ARPA) "has
+recently put up $22 million for
+research in this area."
+The primary reason for the
+increased funding is to develop the
+most essential component of holo
+graphic data storage — the "photo
+refractive crystal" — which holds
+the checkerboard image of the spa
+tial light modulator.
+Did you know that tiny green holograms,
+about the size of those on your credit card, have
+over 10,000 times the information-storage poten
+tial of your average Macintosh?
+But don't shove your Visa card into the near
+est Mac Classic just yet. These holograms are
+much different than those you see on many
+charge cards, even though they're "recorded" in
+much the same way.
+They are the result of current research into
+the new field of "holographic data storage," led
+by Electrical Engineering Prof. Lambertus Hes
+selink and his group, and they may shape the
+future of information storage in computers.
+"Our appetite for storing, retrieving, and
+transmitting large amounts of data appears to
+grow exponentially," Hesse link said.
+In recent years, fiberoptic networks have been
+developed to better cope with these enormous
+information transmission demands, but they rely
+on inefficient methods that convert electronic
+signals (from a sending computer) to light waves
+(to be transmitted over fiberoptic cables), back to
+electronic signals (for the receiving computer).
+Holographic data storage, which uses laser
+light to record data in photo-refractive materials,
+reduces the need for conversion processes
+because it uses bandwidths that are compatible
+with fiberoptic networks.
+In theory, the technology can allow transfer
+rates 100 to 1,000 times faster than those avail
+able with current disk drives.
+Storing information in crystals
+The tiny holograms, which can theoretically
+hold a trillion bits of information per cubic cen
+timeter, are formed by shining two laser beams
+on photo-refractive storage crystals, such as
+strontium barium niobate.
+The first laser beam passes through a
+checkerboard-patterned spatial light modulator
+(SLM), which is similar to the liquid crystal dis
+
+plays (LCDs) on digital watches.
+Instead of numbers, however, the SLM dis
+plays a pattern made up of black squares and
+transparent spaces. These patterns symbolize
+the numbers one and zero, and represent the
+information to be stored in the crystal.
+Because the black squares are opaque, the
+modulator allows only the laser light that hits the
+transparent squares to pass through.
+This light beam combines with a second laser
+known as the "reference beam," and then con
+tinues on to bathe the photo-refractive storage
+material behind the modulator in a correspond
+ing checkerboard pattern.
+The two beams come together to form an
+interference pattern which strikes the crystal
+and stimulates the electrons of each individual
+atom within. As photons of the laser light are
+absorbed by the individual atoms, "excited" elec
+trons are produced, which then move to the dark
+areas in the interference pattern where they are
+no longer stimulated.
+As they become less excited, they become
+attracted to local protons and get trapped in the
+material. When the incoming lasers are shut off,
+the electrons remain "clumped" in certain areas
+of the crystal.
+A relatively strong electric field results from
+
+such tightly packed electric charges, and this field
+changes the index of refraction of the packed
+areas.
+As a result, if a laser beam was shone through
+the crystal at a later date, deviations would be
+seen in the way light is refracted in the crystal.
+One would be able to see the ones and zeros
+that constitute data storage represented by the
+varying degrees of electron concentration.
+Future uses
+Ultimately, this relatively nascent technology
+could greatly transform information storage in
+computers.
+Holographic data storage is superior to exist
+ing storage methods because it combines huge
+memory capacities with speedy transfer rates.
+This advancement could lead to numerous inno
+vations in the future: "dialing up movies" from
+central storage computers for home viewing may
+be possible, multi-media applications may be
+improved, and complex NASA images may be
+relayed from deep space with greater speed and
+accuracy.
+In addition, because holograms can be
+retrieved with only limited information, comput-
+
+
+Dongmln Shim — Dally
+ers may be able to retrieve, for
+example, the correct picture of a
+person if only half of the face is
+given as input.
+Provided it becomes cost effec
+tive, Dr. Hesselink believes the tech
+nology would initially be used in
+hard drives, and doesn't think any
+"mqjor shift in the structure of com
+puters" would be necessary to
+
+accommodate holographic data
+storage.
+Hypothetically, small, depend
+able lasers could be put in personal
+computers and used to produce
+information-packed holograms.
+And, if current problems with
+the technology can be worked out,
+holograms may even be used to
+read and write onto portable
+disks.
+Because it has such potential in
+both military and commercial appli
+cations, research on holographic
+data storage is also attracting atten
+
+tion from the government.
+According to Donna Baranski-
+Walker, a licensing associate at
+Stanford's Office of Technology
+Licensing, the Advanced Projects
+Research Agency (ARPA) "has
+recently put up $22 million for
+research in this area."
+The primary reason for the
+increased funding is to develop the
+most essential component of holo
+graphic data storage — the "photo
+refractive crystal" — which holds
+the checkerboard image of the spa
+tial light modulator.
+Did you know that tiny green holograms,
+about the size of those on your credit card, have
+over 10,000 times the information-storage poten
+tial of your average Macintosh?
+But don't shove your Visa card into the near
+est Mac Classic just yet. These holograms are
+much different than those you see on many
+charge cards, even though they're "recorded" in
+much the same way.
+They are the result of current research into
+the new field of "holographic data storage," led
+by Electrical Engineering Prof. Lambertus Hes
+selink and his group, and they may shape the
+future of information storage in computers.
+"Our appetite for storing, retrieving, and
+transmitting large amounts of data appears to
+grow exponentially," Hesse link said.
+In recent years, fiberoptic networks have been
+developed to better cope with these enormous
+information transmission demands, but they rely
+on inefficient methods that convert electronic
+signals (from a sending computer) to light waves
+(to be transmitted over fiberoptic cables), back to
+electronic signals (for the receiving computer).
+Holographic data storage, which uses laser
+light to record data in photo-refractive materials,
+reduces the need for conversion processes
+because it uses bandwidths that are compatible
+with fiberoptic networks.
+In theory, the technology can allow transfer
+rates 100 to 1,000 times faster than those avail
+able with current disk drives.
+Storing information in crystals
+The tiny holograms, which can theoretically
+hold a trillion bits of information per cubic cen
+timeter, are formed by shining two laser beams
+on photo-refractive storage crystals, such as
+strontium barium niobate.
+The first laser beam passes through a
+checkerboard-patterned spatial light modulator
+(SLM), which is similar to the liquid crystal dis
+
+plays (LCDs) on digital watches.
+Instead of numbers, however, the SLM dis
+plays a pattern made up of black squares and
+transparent spaces. These patterns symbolize
+the numbers one and zero, and represent the
+information to be stored in the crystal.
+Because the black squares are opaque, the
+modulator allows only the laser light that hits the
+transparent squares to pass through.
+This light beam combines with a second laser
+known as the "reference beam," and then con
+tinues on to bathe the photo-refractive storage
+material behind the modulator in a correspond
+ing checkerboard pattern.
+The two beams come together to form an
+interference pattern which strikes the crystal
+and stimulates the electrons of each individual
+atom within. As photons of the laser light are
+absorbed by the individual atoms, "excited" elec
+trons are produced, which then move to the dark
+areas in the interference pattern where they are
+no longer stimulated.
+As they become less excited, they become
+attracted to local protons and get trapped in the
+material. When the incoming lasers are shut off,
+the electrons remain "clumped" in certain areas
+of the crystal.
+A relatively strong electric field results from
+
+such tightly packed electric charges, and this field
+changes the index of refraction of the packed
+areas.
+As a result, if a laser beam was shone through
+the crystal at a later date, deviations would be
+seen in the way light is refracted in the crystal.
+One would be able to see the ones and zeros
+that constitute data storage represented by the
+varying degrees of electron concentration.
+Future uses
+Ultimately, this relatively nascent technology
+could greatly transform information storage in
+computers.
+Holographic data storage is superior to exist
+ing storage methods because it combines huge
+memory capacities with speedy transfer rates.
+This advancement could lead to numerous inno
+vations in the future: "dialing up movies" from
+central storage computers for home viewing may
+be possible, multi-media applications may be
+improved, and complex NASA images may be
+relayed from deep space with greater speed and
+accuracy.
+In addition, because holograms can be
+retrieved with only limited information, comput-
+
+
+Dongmln Shim — Dally
+ers may be able to retrieve, for
+example, the correct picture of a
+person if only half of the face is
+given as input.
+Provided it becomes cost effec
+tive, Dr. Hesselink believes the tech
+nology would initially be used in
+hard drives, and doesn't think any
+"mqjor shift in the structure of com
+puters" would be necessary to
+
+accommodate holographic data
+storage.
+Hypothetically, small, depend
+able lasers could be put in personal
+computers and used to produce
+information-packed holograms.
+And, if current problems with
+the technology can be worked out,
+holograms may even be used to
+read and write onto portable
+disks.
+Because it has such potential in
+both military and commercial appli
+cations, research on holographic
+data storage is also attracting atten
+
+tion from the government.
+According to Donna Baranski-
+Walker, a licensing associate at
+Stanford's Office of Technology
+Licensing, the Advanced Projects
+Research Agency (ARPA) "has
+recently put up $22 million for
+research in this area."
+The primary reason for the
+increased funding is to develop the
+most essential component of holo
+graphic data storage — the "photo
+refractive crystal" — which holds
+the checkerboard image of the spa
+tial light modulator.
+Did you know that tiny green holograms,
+about the size of those on your credit card, have
+over 10,000 times the information-storage poten
+tial of your average Macintosh?
+But don't shove your Visa card into the near
+est Mac Classic just yet. These holograms are
+much different than those you see on many
+charge cards, even though they're "recorded" in
+much the same way.
+They are the result of current research into
+the new field of "holographic data storage," led
+by Electrical Engineering Prof. Lambertus Hes
+selink and his group, and they may shape the
+future of information storage in computers.
+"Our appetite for storing, retrieving, and
+transmitting large amounts of data appears to
+grow exponentially," Hesse link said.
+In recent years, fiberoptic networks have been
+developed to better cope with these enormous
+information transmission demands, but they rely
+on inefficient methods that convert electronic
+signals (from a sending computer) to light waves
+(to be transmitted over fiberoptic cables), back to
+electronic signals (for the receiving computer).
+Holographic data storage, which uses laser
+light to record data in photo-refractive materials,
+reduces the need for conversion processes
+because it uses bandwidths that are compatible
+with fiberoptic networks.
+In theory, the technology can allow transfer
+rates 100 to 1,000 times faster than those avail
+able with current disk drives.
+Storing information in crystals
+The tiny holograms, which can theoretically
+hold a trillion bits of information per cubic cen
+timeter, are formed by shining two laser beams
+on photo-refractive storage crystals, such as
+strontium barium niobate.
+The first laser beam passes through a
+checkerboard-patterned spatial light modulator
+(SLM), which is similar to the liquid crystal dis
+
+plays (LCDs) on digital watches.
+Instead of numbers, however, the SLM dis
+plays a pattern made up of black squares and
+transparent spaces. These patterns symbolize
+the numbers one and zero, and represent the
+information to be stored in the crystal.
+Because the black squares are opaque, the
+modulator allows only the laser light that hits the
+transparent squares to pass through.
+This light beam combines with a second laser
+known as the "reference beam," and then con
+tinues on to bathe the photo-refractive storage
+material behind the modulator in a correspond
+ing checkerboard pattern.
+The two beams come together to form an
+interference pattern which strikes the crystal
+and stimulates the electrons of each individual
+atom within. As photons of the laser light are
+absorbed by the individual atoms, "excited" elec
+trons are produced, which then move to the dark
+areas in the interference pattern where they are
+no longer stimulated.
+As they become less excited, they become
+attracted to local protons and get trapped in the
+material. When the incoming lasers are shut off,
+the electrons remain "clumped" in certain areas
+of the crystal.
+A relatively strong electric field results from
+
+such tightly packed electric charges, and this field
+changes the index of refraction of the packed
+areas.
+As a result, if a laser beam was shone through
+the crystal at a later date, deviations would be
+seen in the way light is refracted in the crystal.
+One would be able to see the ones and zeros
+that constitute data storage represented by the
+varying degrees of electron concentration.
+Future uses
+Ultimately, this relatively nascent technology
+could greatly transform information storage in
+computers.
+Holographic data storage is superior to exist
+ing storage methods because it combines huge
+memory capacities with speedy transfer rates.
+This advancement could lead to numerous inno
+vations in the future: "dialing up movies" from
+central storage computers for home viewing may
+be possible, multi-media applications may be
+improved, and complex NASA images may be
+relayed from deep space with greater speed and
+accuracy.
+In addition, because holograms can be
+retrieved with only limited information, comput-
+
+
+Dongmln Shim — Dally
+ers may be able to retrieve, for
+example, the correct picture of a
+person if only half of the face is
+given as input.
+Provided it becomes cost effec
+tive, Dr. Hesselink believes the tech
+nology would initially be used in
+hard drives, and doesn't think any
+"mqjor shift in the structure of com
+puters" would be necessary to
+
+accommodate holographic data
+storage.
+Hypothetically, small, depend
+able lasers could be put in personal
+computers and used to produce
+information-packed holograms.
+And, if current problems with
+the technology can be worked out,
+holograms may even be used to
+read and write onto portable
+disks.
+Because it has such potential in
+both military and commercial appli
+cations, research on holographic
+data storage is also attracting atten
+
+tion from the government.
+According to Donna Baranski-
+Walker, a licensing associate at
+Stanford's Office of Technology
+Licensing, the Advanced Projects
+Research Agency (ARPA) "has
+recently put up $22 million for
+research in this area."
+The primary reason for the
+increased funding is to develop the
+most essential component of holo
+graphic data storage — the "photo
+refractive crystal" — which holds
+the checkerboard image of the spa
+tial light modulator.
+Did you know that tiny green holograms,
+about the size of those on your credit card, have
+over 10,000 times the information-storage poten
+tial of your average Macintosh?
+But don't shove your Visa card into the near
+est Mac Classic just yet. These holograms are
+much different than those you see on many
+charge cards, even though they're "recorded" in
+much the same way.
+They are the result of current research into
+the new field of "holographic data storage," led
+by Electrical Engineering Prof. Lambertus Hes
+selink and his group, and they may shape the
+future of information storage in computers.
+"Our appetite for storing, retrieving, and
+transmitting large amounts of data appears to
+grow exponentially," Hesse link said.
+In recent years, fiberoptic networks have been
+developed to better cope with these enormous
+information transmission demands, but they rely
+on inefficient methods that convert electronic
+signals (from a sending computer) to light waves
+(to be transmitted over fiberoptic cables), back to
+electronic signals (for the receiving computer).
+Holographic data storage, which uses laser
+light to record data in photo-refractive materials,
+reduces the need for conversion processes
+because it uses bandwidths that are compatible
+with fiberoptic networks.
+In theory, the technology can allow transfer
+rates 100 to 1,000 times faster than those avail
+able with current disk drives.
+Storing information in crystals
+The tiny holograms, which can theoretically
+hold a trillion bits of information per cubic cen
+timeter, are formed by shining two laser beams
+on photo-refractive storage crystals, such as
+strontium barium niobate.
+The first laser beam passes through a
+checkerboard-patterned spatial light modulator
+(SLM), which is similar to the liquid crystal dis
+
+plays (LCDs) on digital watches.
+Instead of numbers, however, the SLM dis
+plays a pattern made up of black squares and
+transparent spaces. These patterns symbolize
+the numbers one and zero, and represent the
+information to be stored in the crystal.
+Because the black squares are opaque, the
+modulator allows only the laser light that hits the
+transparent squares to pass through.
+This light beam combines with a second laser
+known as the "reference beam," and then con
+tinues on to bathe the photo-refractive storage
+material behind the modulator in a correspond
+ing checkerboard pattern.
+The two beams come together to form an
+interference pattern which strikes the crystal
+and stimulates the electrons of each individual
+atom within. As photons of the laser light are
+absorbed by the individual atoms, "excited" elec
+trons are produced, which then move to the dark
+areas in the interference pattern where they are
+no longer stimulated.
+As they become less excited, they become
+attracted to local protons and get trapped in the
+material. When the incoming lasers are shut off,
+the electrons remain "clumped" in certain areas
+of the crystal.
+A relatively strong electric field results from
+
+such tightly packed electric charges, and this field
+changes the index of refraction of the packed
+areas.
+As a result, if a laser beam was shone through
+the crystal at a later date, deviations would be
+seen in the way light is refracted in the crystal.
+One would be able to see the ones and zeros
+that constitute data storage represented by the
+varying degrees of electron concentration.
+Future uses
+Ultimately, this relatively nascent technology
+could greatly transform information storage in
+computers.
+Holographic data storage is superior to exist
+ing storage methods because it combines huge
+memory capacities with speedy transfer rates.
+This advancement could lead to numerous inno
+vations in the future: "dialing up movies" from
+central storage computers for home viewing may
+be possible, multi-media applications may be
+improved, and complex NASA images may be
+relayed from deep space with greater speed and
+accuracy.
+In addition, because holograms can be
+retrieved with only limited information, comput-
+
+
+Dongmln Shim — Dally
+ers may be able to retrieve, for
+example, the correct picture of a
+person if only half of the face is
+given as input.
+Provided it becomes cost effec
+tive, Dr. Hesselink believes the tech
+nology would initially be used in
+hard drives, and doesn't think any
+"mqjor shift in the structure of com
+puters" would be necessary to
+
+accommodate holographic data
+storage.
+Hypothetically, small, depend
+able lasers could be put in personal
+computers and used to produce
+information-packed holograms.
+And, if current problems with
+the technology can be worked out,
+holograms may even be used to
+read and write onto portable
+disks.
+Because it has such potential in
+both military and commercial appli
+cations, research on holographic
+data storage is also attracting atten
+
+tion from the government.
+According to Donna Baranski-
+Walker, a licensing associate at
+Stanford's Office of Technology
+Licensing, the Advanced Projects
+Research Agency (ARPA) "has
+recently put up $22 million for
+research in this area."
+The primary reason for the
+increased funding is to develop the
+most essential component of holo
+graphic data storage — the "photo
+refractive crystal" — which holds
+the checkerboard image of the spa
+tial light modulator.
+Did you know that tiny green holograms,
+about the size of those on your credit card, have
+over 10,000 times the information-storage poten
+tial of your average Macintosh?
+But don't shove your Visa card into the near
+est Mac Classic just yet. These holograms are
+much different than those you see on many
+charge cards, even though they're "recorded" in
+much the same way.
+They are the result of current research into
+the new field of "holographic data storage," led
+by Electrical Engineering Prof. Lambertus Hes
+selink and his group, and they may shape the
+future of information storage in computers.
+"Our appetite for storing, retrieving, and
+transmitting large amounts of data appears to
+grow exponentially," Hesse link said.
+In recent years, fiberoptic networks have been
+developed to better cope with these enormous
+information transmission demands, but they rely
+on inefficient methods that convert electronic
+signals (from a sending computer) to light waves
+(to be transmitted over fiberoptic cables), back to
+electronic signals (for the receiving computer).
+Holographic data storage, which uses laser
+light to record data in photo-refractive materials,
+reduces the need for conversion processes
+because it uses bandwidths that are compatible
+with fiberoptic networks.
+In theory, the technology can allow transfer
+rates 100 to 1,000 times faster than those avail
+able with current disk drives.
+Storing information in crystals
+The tiny holograms, which can theoretically
+hold a trillion bits of information per cubic cen
+timeter, are formed by shining two laser beams
+on photo-refractive storage crystals, such as
+strontium barium niobate.
+The first laser beam passes through a
+checkerboard-patterned spatial light modulator
+(SLM), which is similar to the liquid crystal dis
+
+plays (LCDs) on digital watches.
+Instead of numbers, however, the SLM dis
+plays a pattern made up of black squares and
+transparent spaces. These patterns symbolize
+the numbers one and zero, and represent the
+information to be stored in the crystal.
+Because the black squares are opaque, the
+modulator allows only the laser light that hits the
+transparent squares to pass through.
+This light beam combines with a second laser
+known as the "reference beam," and then con
+tinues on to bathe the photo-refractive storage
+material behind the modulator in a correspond
+ing checkerboard pattern.
+The two beams come together to form an
+interference pattern which strikes the crystal
+and stimulates the electrons of each individual
+atom within. As photons of the laser light are
+absorbed by the individual atoms, "excited" elec
+trons are produced, which then move to the dark
+areas in the interference pattern where they are
+no longer stimulated.
+As they become less excited, they become
+attracted to local protons and get trapped in the
+material. When the incoming lasers are shut off,
+the electrons remain "clumped" in certain areas
+of the crystal.
+A relatively strong electric field results from
+
+such tightly packed electric charges, and this field
+changes the index of refraction of the packed
+areas.
+As a result, if a laser beam was shone through
+the crystal at a later date, deviations would be
+seen in the way light is refracted in the crystal.
+One would be able to see the ones and zeros
+that constitute data storage represented by the
+varying degrees of electron concentration.
+Future uses
+Ultimately, this relatively nascent technology
+could greatly transform information storage in
+computers.
+Holographic data storage is superior to exist
+ing storage methods because it combines huge
+memory capacities with speedy transfer rates.
+This advancement could lead to numerous inno
+vations in the future: "dialing up movies" from
+central storage computers for home viewing may
+be possible, multi-media applications may be
+improved, and complex NASA images may be
+relayed from deep space with greater speed and
+accuracy.
+In addition, because holograms can be
+retrieved with only limited information, comput-
+
+
+Dongmln Shim — Dally
+ers may be able to retrieve, for
+example, the correct picture of a
+person if only half of the face is
+given as input.
+Provided it becomes cost effec
+tive, Dr. Hesselink believes the tech
+nology would initially be used in
+hard drives, and doesn't think any
+"mqjor shift in the structure of com
+puters" would be necessary to
+
+accommodate holographic data
+storage.
+Hypothetically, small, depend
+able lasers could be put in personal
+computers and used to produce
+information-packed holograms.
+And, if current problems with
+the technology can be worked out,
+holograms may even be used to
+read and write onto portable
+disks.
+Because it has such potential in
+both military and commercial appli
+cations, research on holographic
+data storage is also attracting atten
+
+tion from the government.
+According to Donna Baranski-
+Walker, a licensing associate at
+Stanford's Office of Technology
+Licensing, the Advanced Projects
+Research Agency (ARPA) "has
+recently put up $22 million for
+research in this area."
+The primary reason for the
+increased funding is to develop the
+most essential component of holo
+graphic data storage — the "photo
+refractive crystal" — which holds
+the checkerboard image of the spa
+tial light modulator.
+Did you know that tiny green holograms,
+about the size of those on your credit card, have
+over 10,000 times the information-storage poten
+tial of your average Macintosh?
+But don't shove your Visa card into the near
+est Mac Classic just yet. These holograms are
+much different than those you see on many
+charge cards, even though they're "recorded" in
+much the same way.
+They are the result of current research into
+the new field of "holographic data storage," led
+by Electrical Engineering Prof. Lambertus Hes
+selink and his group, and they may shape the
+future of information storage in computers.
+"Our appetite for storing, retrieving, and
+transmitting large amounts of data appears to
+grow exponentially," Hesse link said.
+In recent years, fiberoptic networks have been
+developed to better cope with these enormous
+information transmission demands, but they rely
+on inefficient methods that convert electronic
+signals (from a sending computer) to light waves
+(to be transmitted over fiberoptic cables), back to
+electronic signals (for the receiving computer).
+Holographic data storage, which uses laser
+light to record data in photo-refractive materials,
+reduces the need for conversion processes
+because it uses bandwidths that are compatible
+with fiberoptic networks.
+In theory, the technology can allow transfer
+rates 100 to 1,000 times faster than those avail
+able with current disk drives.
+Storing information in crystals
+The tiny holograms, which can theoretically
+hold a trillion bits of information per cubic cen
+timeter, are formed by shining two laser beams
+on photo-refractive storage crystals, such as
+strontium barium niobate.
+The first laser beam passes through a
+checkerboard-patterned spatial light modulator
+(SLM), which is similar to the liquid crystal dis
+
+plays (LCDs) on digital watches.
+Instead of numbers, however, the SLM dis
+plays a pattern made up of black squares and
+transparent spaces. These patterns symbolize
+the numbers one and zero, and represent the
+information to be stored in the crystal.
+Because the black squares are opaque, the
+modulator allows only the laser light that hits the
+transparent squares to pass through.
+This light beam combines with a second laser
+known as the "reference beam," and then con
+tinues on to bathe the photo-refractive storage
+material behind the modulator in a correspond
+ing checkerboard pattern.
+The two beams come together to form an
+interference pattern which strikes the crystal
+and stimulates the electrons of each individual
+atom within. As photons of the laser light are
+absorbed by the individual atoms, "excited" elec
+trons are produced, which then move to the dark
+areas in the interference pattern where they are
+no longer stimulated.
+As they become less excited, they become
+attracted to local protons and get trapped in the
+material. When the incoming lasers are shut off,
+the electrons remain "clumped" in certain areas
+of the crystal.
+A relatively strong electric field results from
+
+such tightly packed electric charges, and this field
+changes the index of refraction of the packed
+areas.
+As a result, if a laser beam was shone through
+the crystal at a later date, deviations would be
+seen in the way light is refracted in the crystal.
+One would be able to see the ones and zeros
+that constitute data storage represented by the
+varying degrees of electron concentration.
+Future uses
+Ultimately, this relatively nascent technology
+could greatly transform information storage in
+computers.
+Holographic data storage is superior to exist
+ing storage methods because it combines huge
+memory capacities with speedy transfer rates.
+This advancement could lead to numerous inno
+vations in the future: "dialing up movies" from
+central storage computers for home viewing may
+be possible, multi-media applications may be
+improved, and complex NASA images may be
+relayed from deep space with greater speed and
+accuracy.
+In addition, because holograms can be
+retrieved with only limited information, comput-
+
+
+Dongmln Shim — Dally
+ers may be able to retrieve, for
+example, the correct picture of a
+person if only half of the face is
+given as input.
+Provided it becomes cost effec
+tive, Dr. Hesselink believes the tech
+nology would initially be used in
+hard drives, and doesn't think any
+"mqjor shift in the structure of com
+puters" would be necessary to
+
+accommodate holographic data
+storage.
+Hypothetically, small, depend
+able lasers could be put in personal
+computers and used to produce
+information-packed holograms.
+And, if current problems with
+the technology can be worked out,
+holograms may even be used to
+read and write onto portable
+disks.
+Because it has such potential in
+both military and commercial appli
+cations, research on holographic
+data storage is also attracting atten
+
+tion from the government.
+According to Donna Baranski-
+Walker, a licensing associate at
+Stanford's Office of Technology
+Licensing, the Advanced Projects
+Research Agency (ARPA) "has
+recently put up $22 million for
+research in this area."
+The primary reason for the
+increased funding is to develop the
+most essential component of holo
+graphic data storage — the "photo
+refractive crystal" — which holds
+the checkerboard image of the spa
+tial light modulator.

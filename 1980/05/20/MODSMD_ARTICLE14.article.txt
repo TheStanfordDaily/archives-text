@@ -1,0 +1,678 @@
+# Prof, program design new typefaces at a keystroke
+## 
+### Jan Mireles Staff Writer 
+Necessity, it is often said, is the mother of inven
+tion. Stanford Computer Science Prof. Donald
+Knuth is proof of this statement. His need led him
+to develop a new system of typesetting.
+Knuth's typesetting system is actually two sys
+tems, which he refers to as TEX and Metafont.
+TEX, a page formating system, designs page lay
+outs, while Metafont, an alphabet design system, is
+responsible for the actual appearance of letters.
+Knuth says he is pleased with his progress over
+the past three years.
+"With printing equipment constantly changing,
+mathematics suffers — now 1 won't have to change
+the way the book is laid out," said Knuth.
+Three years ago, while compiling the second edi
+tion of his book. The Art of Computer Program
+ming, Knuth realized the existing methods of
+typesetting were not what»fre wanted.
+"The first edition was printed in a classic hot lead
+typeface, used for almost all high-quality
+mathematical books. I wanted to get the same qual
+ity, but the new photographiccold type didn't seem
+to have it. I felt it would look terrible," Knuth said.
+Dissatisfied, Knuth examined computer
+produced type and found that quality letters could
+be created using dots.
+"By reducing type design and typesetting to a
+computer science problem, all I had to cjo, was to
+decide where on the page to put the ink or not to
+put the ink. It's similar to flashcards at a football
+stadium." explains Knuth.
+Knuth's computer program is based on
+mathematical principals, and can be used on
+
+typewriter word processing devices or computer
+based editors. Knuth simply types the program into
+the terminal and within minutes a drawing of the
+desired letter appears on the screen. Letters can he
+altered by introducing random slope changes to the
+program.
+"When you make a change just in size, for exam
+ple, the thick and thin lines change in subtle ways, 1
+decided to design a program for every letter, in
+terms of paramters. If a simple change were made
+to one parameter, all letters would then change
+automatically," Knuth says.
+According to Herman Zapf, a leading type de
+signer, Knuth's sytem offers a realm of oppor
+tunities.
+"The author now has the ability to make new
+symbols of any shape or style at will," said Zapf.
+C. Gordon Bell, vice-president for engineering
+of Digital Equipment Corp., echoes Zapfs en
+thusiasm, saying Knuth's sytems allow "a drastic
+restructuring of the journal and book-publishing
+industry, allowing it to be oriented substantially
+more toward the author. Now the author can influ
+ence his own format, and can produce more accu
+rate material that can be rapialy mass produced "
+More accurate material is exactly what Knuth is
+working for. Knuth and Zapf are designing new
+fonts for use in mathematics, and looking to the day
+when any author will be able to design his or her
+own type.
+"The new equipment is not limiting. You can do
+a million things with letters now," said Knuth.
+"We've even had a few caligraphers try it, and they
+had some good results," says Knuth.
+
+
+Donald Knuth, professor of computer science here, and Her
+man Zapf (standing), typeface designer, discuss Knuth's new
+
+—Photo courtesy News and Publications Service
+computerized system of typeface design.
+Necessity, it is often said, is the mother of inven
+tion. Stanford Computer Science Prof. Donald
+Knuth is proof of this statement. His need led him
+to develop a new system of typesetting.
+Knuth's typesetting system is actually two sys
+tems, which he refers to as TEX and Metafont.
+TEX, a page formating system, designs page lay
+outs, while Metafont, an alphabet design system, is
+responsible for the actual appearance of letters.
+Knuth says he is pleased with his progress over
+the past three years.
+"With printing equipment constantly changing,
+mathematics suffers — now 1 won't have to change
+the way the book is laid out," said Knuth.
+Three years ago, while compiling the second edi
+tion of his book. The Art of Computer Program
+ming, Knuth realized the existing methods of
+typesetting were not what»fre wanted.
+"The first edition was printed in a classic hot lead
+typeface, used for almost all high-quality
+mathematical books. I wanted to get the same qual
+ity, but the new photographiccold type didn't seem
+to have it. I felt it would look terrible," Knuth said.
+Dissatisfied, Knuth examined computer
+produced type and found that quality letters could
+be created using dots.
+"By reducing type design and typesetting to a
+computer science problem, all I had to cjo, was to
+decide where on the page to put the ink or not to
+put the ink. It's similar to flashcards at a football
+stadium." explains Knuth.
+Knuth's computer program is based on
+mathematical principals, and can be used on
+
+typewriter word processing devices or computer
+based editors. Knuth simply types the program into
+the terminal and within minutes a drawing of the
+desired letter appears on the screen. Letters can he
+altered by introducing random slope changes to the
+program.
+"When you make a change just in size, for exam
+ple, the thick and thin lines change in subtle ways, 1
+decided to design a program for every letter, in
+terms of paramters. If a simple change were made
+to one parameter, all letters would then change
+automatically," Knuth says.
+According to Herman Zapf, a leading type de
+signer, Knuth's sytem offers a realm of oppor
+tunities.
+"The author now has the ability to make new
+symbols of any shape or style at will," said Zapf.
+C. Gordon Bell, vice-president for engineering
+of Digital Equipment Corp., echoes Zapfs en
+thusiasm, saying Knuth's sytems allow "a drastic
+restructuring of the journal and book-publishing
+industry, allowing it to be oriented substantially
+more toward the author. Now the author can influ
+ence his own format, and can produce more accu
+rate material that can be rapialy mass produced "
+More accurate material is exactly what Knuth is
+working for. Knuth and Zapf are designing new
+fonts for use in mathematics, and looking to the day
+when any author will be able to design his or her
+own type.
+"The new equipment is not limiting. You can do
+a million things with letters now," said Knuth.
+"We've even had a few caligraphers try it, and they
+had some good results," says Knuth.
+
+
+Donald Knuth, professor of computer science here, and Her
+man Zapf (standing), typeface designer, discuss Knuth's new
+
+—Photo courtesy News and Publications Service
+computerized system of typeface design.
+Necessity, it is often said, is the mother of inven
+tion. Stanford Computer Science Prof. Donald
+Knuth is proof of this statement. His need led him
+to develop a new system of typesetting.
+Knuth's typesetting system is actually two sys
+tems, which he refers to as TEX and Metafont.
+TEX, a page formating system, designs page lay
+outs, while Metafont, an alphabet design system, is
+responsible for the actual appearance of letters.
+Knuth says he is pleased with his progress over
+the past three years.
+"With printing equipment constantly changing,
+mathematics suffers — now 1 won't have to change
+the way the book is laid out," said Knuth.
+Three years ago, while compiling the second edi
+tion of his book. The Art of Computer Program
+ming, Knuth realized the existing methods of
+typesetting were not what»fre wanted.
+"The first edition was printed in a classic hot lead
+typeface, used for almost all high-quality
+mathematical books. I wanted to get the same qual
+ity, but the new photographiccold type didn't seem
+to have it. I felt it would look terrible," Knuth said.
+Dissatisfied, Knuth examined computer
+produced type and found that quality letters could
+be created using dots.
+"By reducing type design and typesetting to a
+computer science problem, all I had to cjo, was to
+decide where on the page to put the ink or not to
+put the ink. It's similar to flashcards at a football
+stadium." explains Knuth.
+Knuth's computer program is based on
+mathematical principals, and can be used on
+
+typewriter word processing devices or computer
+based editors. Knuth simply types the program into
+the terminal and within minutes a drawing of the
+desired letter appears on the screen. Letters can he
+altered by introducing random slope changes to the
+program.
+"When you make a change just in size, for exam
+ple, the thick and thin lines change in subtle ways, 1
+decided to design a program for every letter, in
+terms of paramters. If a simple change were made
+to one parameter, all letters would then change
+automatically," Knuth says.
+According to Herman Zapf, a leading type de
+signer, Knuth's sytem offers a realm of oppor
+tunities.
+"The author now has the ability to make new
+symbols of any shape or style at will," said Zapf.
+C. Gordon Bell, vice-president for engineering
+of Digital Equipment Corp., echoes Zapfs en
+thusiasm, saying Knuth's sytems allow "a drastic
+restructuring of the journal and book-publishing
+industry, allowing it to be oriented substantially
+more toward the author. Now the author can influ
+ence his own format, and can produce more accu
+rate material that can be rapialy mass produced "
+More accurate material is exactly what Knuth is
+working for. Knuth and Zapf are designing new
+fonts for use in mathematics, and looking to the day
+when any author will be able to design his or her
+own type.
+"The new equipment is not limiting. You can do
+a million things with letters now," said Knuth.
+"We've even had a few caligraphers try it, and they
+had some good results," says Knuth.
+
+
+Donald Knuth, professor of computer science here, and Her
+man Zapf (standing), typeface designer, discuss Knuth's new
+
+—Photo courtesy News and Publications Service
+computerized system of typeface design.
+Necessity, it is often said, is the mother of inven
+tion. Stanford Computer Science Prof. Donald
+Knuth is proof of this statement. His need led him
+to develop a new system of typesetting.
+Knuth's typesetting system is actually two sys
+tems, which he refers to as TEX and Metafont.
+TEX, a page formating system, designs page lay
+outs, while Metafont, an alphabet design system, is
+responsible for the actual appearance of letters.
+Knuth says he is pleased with his progress over
+the past three years.
+"With printing equipment constantly changing,
+mathematics suffers — now 1 won't have to change
+the way the book is laid out," said Knuth.
+Three years ago, while compiling the second edi
+tion of his book. The Art of Computer Program
+ming, Knuth realized the existing methods of
+typesetting were not what»fre wanted.
+"The first edition was printed in a classic hot lead
+typeface, used for almost all high-quality
+mathematical books. I wanted to get the same qual
+ity, but the new photographiccold type didn't seem
+to have it. I felt it would look terrible," Knuth said.
+Dissatisfied, Knuth examined computer
+produced type and found that quality letters could
+be created using dots.
+"By reducing type design and typesetting to a
+computer science problem, all I had to cjo, was to
+decide where on the page to put the ink or not to
+put the ink. It's similar to flashcards at a football
+stadium." explains Knuth.
+Knuth's computer program is based on
+mathematical principals, and can be used on
+
+typewriter word processing devices or computer
+based editors. Knuth simply types the program into
+the terminal and within minutes a drawing of the
+desired letter appears on the screen. Letters can he
+altered by introducing random slope changes to the
+program.
+"When you make a change just in size, for exam
+ple, the thick and thin lines change in subtle ways, 1
+decided to design a program for every letter, in
+terms of paramters. If a simple change were made
+to one parameter, all letters would then change
+automatically," Knuth says.
+According to Herman Zapf, a leading type de
+signer, Knuth's sytem offers a realm of oppor
+tunities.
+"The author now has the ability to make new
+symbols of any shape or style at will," said Zapf.
+C. Gordon Bell, vice-president for engineering
+of Digital Equipment Corp., echoes Zapfs en
+thusiasm, saying Knuth's sytems allow "a drastic
+restructuring of the journal and book-publishing
+industry, allowing it to be oriented substantially
+more toward the author. Now the author can influ
+ence his own format, and can produce more accu
+rate material that can be rapialy mass produced "
+More accurate material is exactly what Knuth is
+working for. Knuth and Zapf are designing new
+fonts for use in mathematics, and looking to the day
+when any author will be able to design his or her
+own type.
+"The new equipment is not limiting. You can do
+a million things with letters now," said Knuth.
+"We've even had a few caligraphers try it, and they
+had some good results," says Knuth.
+
+
+Donald Knuth, professor of computer science here, and Her
+man Zapf (standing), typeface designer, discuss Knuth's new
+
+—Photo courtesy News and Publications Service
+computerized system of typeface design.
+Necessity, it is often said, is the mother of inven
+tion. Stanford Computer Science Prof. Donald
+Knuth is proof of this statement. His need led him
+to develop a new system of typesetting.
+Knuth's typesetting system is actually two sys
+tems, which he refers to as TEX and Metafont.
+TEX, a page formating system, designs page lay
+outs, while Metafont, an alphabet design system, is
+responsible for the actual appearance of letters.
+Knuth says he is pleased with his progress over
+the past three years.
+"With printing equipment constantly changing,
+mathematics suffers — now 1 won't have to change
+the way the book is laid out," said Knuth.
+Three years ago, while compiling the second edi
+tion of his book. The Art of Computer Program
+ming, Knuth realized the existing methods of
+typesetting were not what»fre wanted.
+"The first edition was printed in a classic hot lead
+typeface, used for almost all high-quality
+mathematical books. I wanted to get the same qual
+ity, but the new photographiccold type didn't seem
+to have it. I felt it would look terrible," Knuth said.
+Dissatisfied, Knuth examined computer
+produced type and found that quality letters could
+be created using dots.
+"By reducing type design and typesetting to a
+computer science problem, all I had to cjo, was to
+decide where on the page to put the ink or not to
+put the ink. It's similar to flashcards at a football
+stadium." explains Knuth.
+Knuth's computer program is based on
+mathematical principals, and can be used on
+
+typewriter word processing devices or computer
+based editors. Knuth simply types the program into
+the terminal and within minutes a drawing of the
+desired letter appears on the screen. Letters can he
+altered by introducing random slope changes to the
+program.
+"When you make a change just in size, for exam
+ple, the thick and thin lines change in subtle ways, 1
+decided to design a program for every letter, in
+terms of paramters. If a simple change were made
+to one parameter, all letters would then change
+automatically," Knuth says.
+According to Herman Zapf, a leading type de
+signer, Knuth's sytem offers a realm of oppor
+tunities.
+"The author now has the ability to make new
+symbols of any shape or style at will," said Zapf.
+C. Gordon Bell, vice-president for engineering
+of Digital Equipment Corp., echoes Zapfs en
+thusiasm, saying Knuth's sytems allow "a drastic
+restructuring of the journal and book-publishing
+industry, allowing it to be oriented substantially
+more toward the author. Now the author can influ
+ence his own format, and can produce more accu
+rate material that can be rapialy mass produced "
+More accurate material is exactly what Knuth is
+working for. Knuth and Zapf are designing new
+fonts for use in mathematics, and looking to the day
+when any author will be able to design his or her
+own type.
+"The new equipment is not limiting. You can do
+a million things with letters now," said Knuth.
+"We've even had a few caligraphers try it, and they
+had some good results," says Knuth.
+
+
+Donald Knuth, professor of computer science here, and Her
+man Zapf (standing), typeface designer, discuss Knuth's new
+
+—Photo courtesy News and Publications Service
+computerized system of typeface design.
+Necessity, it is often said, is the mother of inven
+tion. Stanford Computer Science Prof. Donald
+Knuth is proof of this statement. His need led him
+to develop a new system of typesetting.
+Knuth's typesetting system is actually two sys
+tems, which he refers to as TEX and Metafont.
+TEX, a page formating system, designs page lay
+outs, while Metafont, an alphabet design system, is
+responsible for the actual appearance of letters.
+Knuth says he is pleased with his progress over
+the past three years.
+"With printing equipment constantly changing,
+mathematics suffers — now 1 won't have to change
+the way the book is laid out," said Knuth.
+Three years ago, while compiling the second edi
+tion of his book. The Art of Computer Program
+ming, Knuth realized the existing methods of
+typesetting were not what»fre wanted.
+"The first edition was printed in a classic hot lead
+typeface, used for almost all high-quality
+mathematical books. I wanted to get the same qual
+ity, but the new photographiccold type didn't seem
+to have it. I felt it would look terrible," Knuth said.
+Dissatisfied, Knuth examined computer
+produced type and found that quality letters could
+be created using dots.
+"By reducing type design and typesetting to a
+computer science problem, all I had to cjo, was to
+decide where on the page to put the ink or not to
+put the ink. It's similar to flashcards at a football
+stadium." explains Knuth.
+Knuth's computer program is based on
+mathematical principals, and can be used on
+
+typewriter word processing devices or computer
+based editors. Knuth simply types the program into
+the terminal and within minutes a drawing of the
+desired letter appears on the screen. Letters can he
+altered by introducing random slope changes to the
+program.
+"When you make a change just in size, for exam
+ple, the thick and thin lines change in subtle ways, 1
+decided to design a program for every letter, in
+terms of paramters. If a simple change were made
+to one parameter, all letters would then change
+automatically," Knuth says.
+According to Herman Zapf, a leading type de
+signer, Knuth's sytem offers a realm of oppor
+tunities.
+"The author now has the ability to make new
+symbols of any shape or style at will," said Zapf.
+C. Gordon Bell, vice-president for engineering
+of Digital Equipment Corp., echoes Zapfs en
+thusiasm, saying Knuth's sytems allow "a drastic
+restructuring of the journal and book-publishing
+industry, allowing it to be oriented substantially
+more toward the author. Now the author can influ
+ence his own format, and can produce more accu
+rate material that can be rapialy mass produced "
+More accurate material is exactly what Knuth is
+working for. Knuth and Zapf are designing new
+fonts for use in mathematics, and looking to the day
+when any author will be able to design his or her
+own type.
+"The new equipment is not limiting. You can do
+a million things with letters now," said Knuth.
+"We've even had a few caligraphers try it, and they
+had some good results," says Knuth.
+
+
+Donald Knuth, professor of computer science here, and Her
+man Zapf (standing), typeface designer, discuss Knuth's new
+
+—Photo courtesy News and Publications Service
+computerized system of typeface design.
+Necessity, it is often said, is the mother of inven
+tion. Stanford Computer Science Prof. Donald
+Knuth is proof of this statement. His need led him
+to develop a new system of typesetting.
+Knuth's typesetting system is actually two sys
+tems, which he refers to as TEX and Metafont.
+TEX, a page formating system, designs page lay
+outs, while Metafont, an alphabet design system, is
+responsible for the actual appearance of letters.
+Knuth says he is pleased with his progress over
+the past three years.
+"With printing equipment constantly changing,
+mathematics suffers — now 1 won't have to change
+the way the book is laid out," said Knuth.
+Three years ago, while compiling the second edi
+tion of his book. The Art of Computer Program
+ming, Knuth realized the existing methods of
+typesetting were not what»fre wanted.
+"The first edition was printed in a classic hot lead
+typeface, used for almost all high-quality
+mathematical books. I wanted to get the same qual
+ity, but the new photographiccold type didn't seem
+to have it. I felt it would look terrible," Knuth said.
+Dissatisfied, Knuth examined computer
+produced type and found that quality letters could
+be created using dots.
+"By reducing type design and typesetting to a
+computer science problem, all I had to cjo, was to
+decide where on the page to put the ink or not to
+put the ink. It's similar to flashcards at a football
+stadium." explains Knuth.
+Knuth's computer program is based on
+mathematical principals, and can be used on
+
+typewriter word processing devices or computer
+based editors. Knuth simply types the program into
+the terminal and within minutes a drawing of the
+desired letter appears on the screen. Letters can he
+altered by introducing random slope changes to the
+program.
+"When you make a change just in size, for exam
+ple, the thick and thin lines change in subtle ways, 1
+decided to design a program for every letter, in
+terms of paramters. If a simple change were made
+to one parameter, all letters would then change
+automatically," Knuth says.
+According to Herman Zapf, a leading type de
+signer, Knuth's sytem offers a realm of oppor
+tunities.
+"The author now has the ability to make new
+symbols of any shape or style at will," said Zapf.
+C. Gordon Bell, vice-president for engineering
+of Digital Equipment Corp., echoes Zapfs en
+thusiasm, saying Knuth's sytems allow "a drastic
+restructuring of the journal and book-publishing
+industry, allowing it to be oriented substantially
+more toward the author. Now the author can influ
+ence his own format, and can produce more accu
+rate material that can be rapialy mass produced "
+More accurate material is exactly what Knuth is
+working for. Knuth and Zapf are designing new
+fonts for use in mathematics, and looking to the day
+when any author will be able to design his or her
+own type.
+"The new equipment is not limiting. You can do
+a million things with letters now," said Knuth.
+"We've even had a few caligraphers try it, and they
+had some good results," says Knuth.
+
+
+Donald Knuth, professor of computer science here, and Her
+man Zapf (standing), typeface designer, discuss Knuth's new
+
+—Photo courtesy News and Publications Service
+computerized system of typeface design.
+Necessity, it is often said, is the mother of inven
+tion. Stanford Computer Science Prof. Donald
+Knuth is proof of this statement. His need led him
+to develop a new system of typesetting.
+Knuth's typesetting system is actually two sys
+tems, which he refers to as TEX and Metafont.
+TEX, a page formating system, designs page lay
+outs, while Metafont, an alphabet design system, is
+responsible for the actual appearance of letters.
+Knuth says he is pleased with his progress over
+the past three years.
+"With printing equipment constantly changing,
+mathematics suffers — now 1 won't have to change
+the way the book is laid out," said Knuth.
+Three years ago, while compiling the second edi
+tion of his book. The Art of Computer Program
+ming, Knuth realized the existing methods of
+typesetting were not what»fre wanted.
+"The first edition was printed in a classic hot lead
+typeface, used for almost all high-quality
+mathematical books. I wanted to get the same qual
+ity, but the new photographiccold type didn't seem
+to have it. I felt it would look terrible," Knuth said.
+Dissatisfied, Knuth examined computer
+produced type and found that quality letters could
+be created using dots.
+"By reducing type design and typesetting to a
+computer science problem, all I had to cjo, was to
+decide where on the page to put the ink or not to
+put the ink. It's similar to flashcards at a football
+stadium." explains Knuth.
+Knuth's computer program is based on
+mathematical principals, and can be used on
+
+typewriter word processing devices or computer
+based editors. Knuth simply types the program into
+the terminal and within minutes a drawing of the
+desired letter appears on the screen. Letters can he
+altered by introducing random slope changes to the
+program.
+"When you make a change just in size, for exam
+ple, the thick and thin lines change in subtle ways, 1
+decided to design a program for every letter, in
+terms of paramters. If a simple change were made
+to one parameter, all letters would then change
+automatically," Knuth says.
+According to Herman Zapf, a leading type de
+signer, Knuth's sytem offers a realm of oppor
+tunities.
+"The author now has the ability to make new
+symbols of any shape or style at will," said Zapf.
+C. Gordon Bell, vice-president for engineering
+of Digital Equipment Corp., echoes Zapfs en
+thusiasm, saying Knuth's sytems allow "a drastic
+restructuring of the journal and book-publishing
+industry, allowing it to be oriented substantially
+more toward the author. Now the author can influ
+ence his own format, and can produce more accu
+rate material that can be rapialy mass produced "
+More accurate material is exactly what Knuth is
+working for. Knuth and Zapf are designing new
+fonts for use in mathematics, and looking to the day
+when any author will be able to design his or her
+own type.
+"The new equipment is not limiting. You can do
+a million things with letters now," said Knuth.
+"We've even had a few caligraphers try it, and they
+had some good results," says Knuth.
+
+
+Donald Knuth, professor of computer science here, and Her
+man Zapf (standing), typeface designer, discuss Knuth's new
+
+—Photo courtesy News and Publications Service
+computerized system of typeface design.
+Necessity, it is often said, is the mother of inven
+tion. Stanford Computer Science Prof. Donald
+Knuth is proof of this statement. His need led him
+to develop a new system of typesetting.
+Knuth's typesetting system is actually two sys
+tems, which he refers to as TEX and Metafont.
+TEX, a page formating system, designs page lay
+outs, while Metafont, an alphabet design system, is
+responsible for the actual appearance of letters.
+Knuth says he is pleased with his progress over
+the past three years.
+"With printing equipment constantly changing,
+mathematics suffers — now 1 won't have to change
+the way the book is laid out," said Knuth.
+Three years ago, while compiling the second edi
+tion of his book. The Art of Computer Program
+ming, Knuth realized the existing methods of
+typesetting were not what»fre wanted.
+"The first edition was printed in a classic hot lead
+typeface, used for almost all high-quality
+mathematical books. I wanted to get the same qual
+ity, but the new photographiccold type didn't seem
+to have it. I felt it would look terrible," Knuth said.
+Dissatisfied, Knuth examined computer
+produced type and found that quality letters could
+be created using dots.
+"By reducing type design and typesetting to a
+computer science problem, all I had to cjo, was to
+decide where on the page to put the ink or not to
+put the ink. It's similar to flashcards at a football
+stadium." explains Knuth.
+Knuth's computer program is based on
+mathematical principals, and can be used on
+
+typewriter word processing devices or computer
+based editors. Knuth simply types the program into
+the terminal and within minutes a drawing of the
+desired letter appears on the screen. Letters can he
+altered by introducing random slope changes to the
+program.
+"When you make a change just in size, for exam
+ple, the thick and thin lines change in subtle ways, 1
+decided to design a program for every letter, in
+terms of paramters. If a simple change were made
+to one parameter, all letters would then change
+automatically," Knuth says.
+According to Herman Zapf, a leading type de
+signer, Knuth's sytem offers a realm of oppor
+tunities.
+"The author now has the ability to make new
+symbols of any shape or style at will," said Zapf.
+C. Gordon Bell, vice-president for engineering
+of Digital Equipment Corp., echoes Zapfs en
+thusiasm, saying Knuth's sytems allow "a drastic
+restructuring of the journal and book-publishing
+industry, allowing it to be oriented substantially
+more toward the author. Now the author can influ
+ence his own format, and can produce more accu
+rate material that can be rapialy mass produced "
+More accurate material is exactly what Knuth is
+working for. Knuth and Zapf are designing new
+fonts for use in mathematics, and looking to the day
+when any author will be able to design his or her
+own type.
+"The new equipment is not limiting. You can do
+a million things with letters now," said Knuth.
+"We've even had a few caligraphers try it, and they
+had some good results," says Knuth.
+
+
+Donald Knuth, professor of computer science here, and Her
+man Zapf (standing), typeface designer, discuss Knuth's new
+
+—Photo courtesy News and Publications Service
+computerized system of typeface design.

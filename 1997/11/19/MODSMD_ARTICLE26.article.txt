@@ -1,0 +1,703 @@
+# Faculty profile:
+## Prof. Feigenbaum and his thinking machines 
+### Michael Hope 
+More than 30 years ago. Computer Sci
+ence Prof, Fdward Feigenbaum pioneered
+the field ol artificial intelligence, loday, the
+technology he helped set in motion lias a vast
+spectrum ol applications, ranging from med
+ical diagnoses to submarine detection to the
+authorization ol credit cards. The notion ol
+"thinking" machines no longer exists only in
+the realm of science fiction.
+As an undergraduate at ( arnegie Mellon.
+Feigenbaum was in the right place at the
+right time for a career in the then nascent
+field of artificial intelligence. In 195 ft he was
+a senior engineering student, "bored with
+thermodynamics and electric motors.'" who
+was fortunate enough to be in a seminar
+taught by I lerb Simon.
+Simon, now a Nobel laureate, returned
+from ( hristmas break that year with the curi
+ous news that he and co-worker Allen
+Newell had created a "thinking machine."
+Feigenbaum, understandably, was baffled by
+this strange assertion.
+
+Computers in the early 1950s were far
+from what they are today. For millions ol
+dollars, 112 eigenbaum explained, you could
+buy a gigantic, cumbersome machine with
+barely the power ol a standard wristwatch.
+I he difference between the computer pro
+gram Simon and Newell crafted and the pro
+grams that typically ran on these prehistoric
+beasts was that theirs could reason, whereas
+earlier programs could only calculate.
+Reason? Indeed reason, in the sense that
+their program was capable <>l such feats as
+searching enormous decision trees for the
+best possible solution to a problem or trans
+forming information, by wav <»l a system ol
+rules, from an inscrutable lorm into one that
+was meaningful for humans.
+Feigenbaum remembered slaying up all
+night reading the instruction manual for tins
+new system as if it were a riveting novel. It
+goes without saying that he was hooked.
+Because he was so enthralled hy Simon
+and Newell's invention, Feigenbaum stayed
+on at Carnegie Mellon to earn his Ph.D..
+
+
+Courtesy of Edward 112 eigonhjutTi
+Prof. Edward Feigenbaum tries on an F-15 fighter jet during his
+stint as the Air Force's Chief Scientist.
+working with Simon to create a computer
+model of how humans memorize verbal
+material. Ihe model he developed, called
+"EPAM" for "Elementary l'erceiver and
+Memorize!," was quite successful at simulat
+ing human responses to such basic cognitive
+tasks as memorizing lists of jargon.
+But Feigcnbauni was not satisfied with the
+scope of this work. I le was interested in doing
+something beyond simple psychological mod
+cling. To use his words. Feigcnbauni "wanted
+to be Boeing and not just an ornithologist
+studying birds."
+What Feigcnbauni saw as lacking \\;is dis
+ability. on the part of the computer, to lorm
+hypotheses to jump to conjectures from a
+scattering of data. Instead ol using deduction
+to solve problems, lie envisioned computers
+
+interpreting information and actually making
+inferences of their own. His aim was to use
+computers to solve complex, real-world prob
+lems.
+Now known as "the father of expert sys
+tems." Feigenbaum has succeeded in that
+goal by creating systems that can evaluate
+data, ranging from chemical spectra to credit
+card histories, and reach conclusions that eas
+ily parallel those of even the most sophisticat
+ed human analyst.
+The key to the success of his "expert sys
+tems'' is not their advanced reasoning capa
+bilities. but their enormous databases of
+knowledge. Feigcnbauni. in essence, has
+modeled Ins systems on the most intelligent
+minds of the field in question.
+For example, when a project he was
+working on called lor precision analysis of
+the chemical spectra of molecules, Feigcn
+bauni recruited Chemistn Prof. Carl Djeras
+si, inventor ol the birth control pill. Using
+
+Djerassi's expert analysis as a model.
+Feigenbaum created an intricate set of rules
+that were able to replicate Djerassi's knowl
+edge.
+Feigenbaum's ingenious systems have not
+only found their way into most avenues of sci
+entific analysis, but have also catapulted him
+to the top of the field of artificial intelligence.
+In the words of colleague Raj Reddy, Feigen
+baum's work "certainly had the most impact
+of any in the '80s."
+l o the degree that awards are an indica
+tion of success, Reddy s statement has cer
+tainly been validated. Not only has Feigen
+baum been the recipient of the prestigious
+A.M. luring Award and an award estab
+lished in his honor by the World Congress on
+Expert Systems, but the importance of his
+work has also been honored bv the U.S. Air
+Force; he was the first computer scientist ever
+to be named their ('hief Scientist in IW4. and
+he recently received the Decoration for
+
+Exceptional Civilian Service, the highest
+award given to civilians by the military.
+Feigenbaum called his work with the Air
+Force, "the experience of a lifetime." I le was
+able to "see anything, go anywhere and have
+access to all technology." lo establish con
+tacts with scientists in countries soon to join
+NATO. Feigenbaum visited Poland, the
+Czech Republic and Hungry during his
+three-year position. I le also was instrumental
+in forming domestic liaisons between scien
+tists; chuckling, he recalled the serendipitous
+pairing of he and now good friend ("hemistry
+Prof. Richard Zare. head of the National Sci
+ence Foundation, on a research venture to
+the South Pole.
+Chough he has not yet taken over Hoeing.
+Feigenbaum is certainly flying high with I he-
+Air Force and his "expert systems." which
+can transform even the most mediocre ana
+lyst into the genius on which they are mod
+eled.
+More than 30 years ago. Computer Sci
+ence Prof, Fdward Feigenbaum pioneered
+the field ol artificial intelligence, loday, the
+technology he helped set in motion lias a vast
+spectrum ol applications, ranging from med
+ical diagnoses to submarine detection to the
+authorization ol credit cards. The notion ol
+"thinking" machines no longer exists only in
+the realm of science fiction.
+As an undergraduate at ( arnegie Mellon.
+Feigenbaum was in the right place at the
+right time for a career in the then nascent
+field of artificial intelligence. In 195 ft he was
+a senior engineering student, "bored with
+thermodynamics and electric motors.'" who
+was fortunate enough to be in a seminar
+taught by I lerb Simon.
+Simon, now a Nobel laureate, returned
+from ( hristmas break that year with the curi
+ous news that he and co-worker Allen
+Newell had created a "thinking machine."
+Feigenbaum, understandably, was baffled by
+this strange assertion.
+
+Computers in the early 1950s were far
+from what they are today. For millions ol
+dollars, 112 eigenbaum explained, you could
+buy a gigantic, cumbersome machine with
+barely the power ol a standard wristwatch.
+I he difference between the computer pro
+gram Simon and Newell crafted and the pro
+grams that typically ran on these prehistoric
+beasts was that theirs could reason, whereas
+earlier programs could only calculate.
+Reason? Indeed reason, in the sense that
+their program was capable <>l such feats as
+searching enormous decision trees for the
+best possible solution to a problem or trans
+forming information, by wav <»l a system ol
+rules, from an inscrutable lorm into one that
+was meaningful for humans.
+Feigenbaum remembered slaying up all
+night reading the instruction manual for tins
+new system as if it were a riveting novel. It
+goes without saying that he was hooked.
+Because he was so enthralled hy Simon
+and Newell's invention, Feigenbaum stayed
+on at Carnegie Mellon to earn his Ph.D..
+
+
+Courtesy of Edward 112 eigonhjutTi
+Prof. Edward Feigenbaum tries on an F-15 fighter jet during his
+stint as the Air Force's Chief Scientist.
+working with Simon to create a computer
+model of how humans memorize verbal
+material. Ihe model he developed, called
+"EPAM" for "Elementary l'erceiver and
+Memorize!," was quite successful at simulat
+ing human responses to such basic cognitive
+tasks as memorizing lists of jargon.
+But Feigcnbauni was not satisfied with the
+scope of this work. I le was interested in doing
+something beyond simple psychological mod
+cling. To use his words. Feigcnbauni "wanted
+to be Boeing and not just an ornithologist
+studying birds."
+What Feigcnbauni saw as lacking \\;is dis
+ability. on the part of the computer, to lorm
+hypotheses to jump to conjectures from a
+scattering of data. Instead ol using deduction
+to solve problems, lie envisioned computers
+
+interpreting information and actually making
+inferences of their own. His aim was to use
+computers to solve complex, real-world prob
+lems.
+Now known as "the father of expert sys
+tems." Feigenbaum has succeeded in that
+goal by creating systems that can evaluate
+data, ranging from chemical spectra to credit
+card histories, and reach conclusions that eas
+ily parallel those of even the most sophisticat
+ed human analyst.
+The key to the success of his "expert sys
+tems'' is not their advanced reasoning capa
+bilities. but their enormous databases of
+knowledge. Feigcnbauni. in essence, has
+modeled Ins systems on the most intelligent
+minds of the field in question.
+For example, when a project he was
+working on called lor precision analysis of
+the chemical spectra of molecules, Feigcn
+bauni recruited Chemistn Prof. Carl Djeras
+si, inventor ol the birth control pill. Using
+
+Djerassi's expert analysis as a model.
+Feigenbaum created an intricate set of rules
+that were able to replicate Djerassi's knowl
+edge.
+Feigenbaum's ingenious systems have not
+only found their way into most avenues of sci
+entific analysis, but have also catapulted him
+to the top of the field of artificial intelligence.
+In the words of colleague Raj Reddy, Feigen
+baum's work "certainly had the most impact
+of any in the '80s."
+l o the degree that awards are an indica
+tion of success, Reddy s statement has cer
+tainly been validated. Not only has Feigen
+baum been the recipient of the prestigious
+A.M. luring Award and an award estab
+lished in his honor by the World Congress on
+Expert Systems, but the importance of his
+work has also been honored bv the U.S. Air
+Force; he was the first computer scientist ever
+to be named their ('hief Scientist in IW4. and
+he recently received the Decoration for
+
+Exceptional Civilian Service, the highest
+award given to civilians by the military.
+Feigenbaum called his work with the Air
+Force, "the experience of a lifetime." I le was
+able to "see anything, go anywhere and have
+access to all technology." lo establish con
+tacts with scientists in countries soon to join
+NATO. Feigenbaum visited Poland, the
+Czech Republic and Hungry during his
+three-year position. I le also was instrumental
+in forming domestic liaisons between scien
+tists; chuckling, he recalled the serendipitous
+pairing of he and now good friend ("hemistry
+Prof. Richard Zare. head of the National Sci
+ence Foundation, on a research venture to
+the South Pole.
+Chough he has not yet taken over Hoeing.
+Feigenbaum is certainly flying high with I he-
+Air Force and his "expert systems." which
+can transform even the most mediocre ana
+lyst into the genius on which they are mod
+eled.
+More than 30 years ago. Computer Sci
+ence Prof, Fdward Feigenbaum pioneered
+the field ol artificial intelligence, loday, the
+technology he helped set in motion lias a vast
+spectrum ol applications, ranging from med
+ical diagnoses to submarine detection to the
+authorization ol credit cards. The notion ol
+"thinking" machines no longer exists only in
+the realm of science fiction.
+As an undergraduate at ( arnegie Mellon.
+Feigenbaum was in the right place at the
+right time for a career in the then nascent
+field of artificial intelligence. In 195 ft he was
+a senior engineering student, "bored with
+thermodynamics and electric motors.'" who
+was fortunate enough to be in a seminar
+taught by I lerb Simon.
+Simon, now a Nobel laureate, returned
+from ( hristmas break that year with the curi
+ous news that he and co-worker Allen
+Newell had created a "thinking machine."
+Feigenbaum, understandably, was baffled by
+this strange assertion.
+
+Computers in the early 1950s were far
+from what they are today. For millions ol
+dollars, 112 eigenbaum explained, you could
+buy a gigantic, cumbersome machine with
+barely the power ol a standard wristwatch.
+I he difference between the computer pro
+gram Simon and Newell crafted and the pro
+grams that typically ran on these prehistoric
+beasts was that theirs could reason, whereas
+earlier programs could only calculate.
+Reason? Indeed reason, in the sense that
+their program was capable <>l such feats as
+searching enormous decision trees for the
+best possible solution to a problem or trans
+forming information, by wav <»l a system ol
+rules, from an inscrutable lorm into one that
+was meaningful for humans.
+Feigenbaum remembered slaying up all
+night reading the instruction manual for tins
+new system as if it were a riveting novel. It
+goes without saying that he was hooked.
+Because he was so enthralled hy Simon
+and Newell's invention, Feigenbaum stayed
+on at Carnegie Mellon to earn his Ph.D..
+
+
+Courtesy of Edward 112 eigonhjutTi
+Prof. Edward Feigenbaum tries on an F-15 fighter jet during his
+stint as the Air Force's Chief Scientist.
+working with Simon to create a computer
+model of how humans memorize verbal
+material. Ihe model he developed, called
+"EPAM" for "Elementary l'erceiver and
+Memorize!," was quite successful at simulat
+ing human responses to such basic cognitive
+tasks as memorizing lists of jargon.
+But Feigcnbauni was not satisfied with the
+scope of this work. I le was interested in doing
+something beyond simple psychological mod
+cling. To use his words. Feigcnbauni "wanted
+to be Boeing and not just an ornithologist
+studying birds."
+What Feigcnbauni saw as lacking \\;is dis
+ability. on the part of the computer, to lorm
+hypotheses to jump to conjectures from a
+scattering of data. Instead ol using deduction
+to solve problems, lie envisioned computers
+
+interpreting information and actually making
+inferences of their own. His aim was to use
+computers to solve complex, real-world prob
+lems.
+Now known as "the father of expert sys
+tems." Feigenbaum has succeeded in that
+goal by creating systems that can evaluate
+data, ranging from chemical spectra to credit
+card histories, and reach conclusions that eas
+ily parallel those of even the most sophisticat
+ed human analyst.
+The key to the success of his "expert sys
+tems'' is not their advanced reasoning capa
+bilities. but their enormous databases of
+knowledge. Feigcnbauni. in essence, has
+modeled Ins systems on the most intelligent
+minds of the field in question.
+For example, when a project he was
+working on called lor precision analysis of
+the chemical spectra of molecules, Feigcn
+bauni recruited Chemistn Prof. Carl Djeras
+si, inventor ol the birth control pill. Using
+
+Djerassi's expert analysis as a model.
+Feigenbaum created an intricate set of rules
+that were able to replicate Djerassi's knowl
+edge.
+Feigenbaum's ingenious systems have not
+only found their way into most avenues of sci
+entific analysis, but have also catapulted him
+to the top of the field of artificial intelligence.
+In the words of colleague Raj Reddy, Feigen
+baum's work "certainly had the most impact
+of any in the '80s."
+l o the degree that awards are an indica
+tion of success, Reddy s statement has cer
+tainly been validated. Not only has Feigen
+baum been the recipient of the prestigious
+A.M. luring Award and an award estab
+lished in his honor by the World Congress on
+Expert Systems, but the importance of his
+work has also been honored bv the U.S. Air
+Force; he was the first computer scientist ever
+to be named their ('hief Scientist in IW4. and
+he recently received the Decoration for
+
+Exceptional Civilian Service, the highest
+award given to civilians by the military.
+Feigenbaum called his work with the Air
+Force, "the experience of a lifetime." I le was
+able to "see anything, go anywhere and have
+access to all technology." lo establish con
+tacts with scientists in countries soon to join
+NATO. Feigenbaum visited Poland, the
+Czech Republic and Hungry during his
+three-year position. I le also was instrumental
+in forming domestic liaisons between scien
+tists; chuckling, he recalled the serendipitous
+pairing of he and now good friend ("hemistry
+Prof. Richard Zare. head of the National Sci
+ence Foundation, on a research venture to
+the South Pole.
+Chough he has not yet taken over Hoeing.
+Feigenbaum is certainly flying high with I he-
+Air Force and his "expert systems." which
+can transform even the most mediocre ana
+lyst into the genius on which they are mod
+eled.
+More than 30 years ago. Computer Sci
+ence Prof, Fdward Feigenbaum pioneered
+the field ol artificial intelligence, loday, the
+technology he helped set in motion lias a vast
+spectrum ol applications, ranging from med
+ical diagnoses to submarine detection to the
+authorization ol credit cards. The notion ol
+"thinking" machines no longer exists only in
+the realm of science fiction.
+As an undergraduate at ( arnegie Mellon.
+Feigenbaum was in the right place at the
+right time for a career in the then nascent
+field of artificial intelligence. In 195 ft he was
+a senior engineering student, "bored with
+thermodynamics and electric motors.'" who
+was fortunate enough to be in a seminar
+taught by I lerb Simon.
+Simon, now a Nobel laureate, returned
+from ( hristmas break that year with the curi
+ous news that he and co-worker Allen
+Newell had created a "thinking machine."
+Feigenbaum, understandably, was baffled by
+this strange assertion.
+
+Computers in the early 1950s were far
+from what they are today. For millions ol
+dollars, 112 eigenbaum explained, you could
+buy a gigantic, cumbersome machine with
+barely the power ol a standard wristwatch.
+I he difference between the computer pro
+gram Simon and Newell crafted and the pro
+grams that typically ran on these prehistoric
+beasts was that theirs could reason, whereas
+earlier programs could only calculate.
+Reason? Indeed reason, in the sense that
+their program was capable <>l such feats as
+searching enormous decision trees for the
+best possible solution to a problem or trans
+forming information, by wav <»l a system ol
+rules, from an inscrutable lorm into one that
+was meaningful for humans.
+Feigenbaum remembered slaying up all
+night reading the instruction manual for tins
+new system as if it were a riveting novel. It
+goes without saying that he was hooked.
+Because he was so enthralled hy Simon
+and Newell's invention, Feigenbaum stayed
+on at Carnegie Mellon to earn his Ph.D..
+
+
+Courtesy of Edward 112 eigonhjutTi
+Prof. Edward Feigenbaum tries on an F-15 fighter jet during his
+stint as the Air Force's Chief Scientist.
+working with Simon to create a computer
+model of how humans memorize verbal
+material. Ihe model he developed, called
+"EPAM" for "Elementary l'erceiver and
+Memorize!," was quite successful at simulat
+ing human responses to such basic cognitive
+tasks as memorizing lists of jargon.
+But Feigcnbauni was not satisfied with the
+scope of this work. I le was interested in doing
+something beyond simple psychological mod
+cling. To use his words. Feigcnbauni "wanted
+to be Boeing and not just an ornithologist
+studying birds."
+What Feigcnbauni saw as lacking \\;is dis
+ability. on the part of the computer, to lorm
+hypotheses to jump to conjectures from a
+scattering of data. Instead ol using deduction
+to solve problems, lie envisioned computers
+
+interpreting information and actually making
+inferences of their own. His aim was to use
+computers to solve complex, real-world prob
+lems.
+Now known as "the father of expert sys
+tems." Feigenbaum has succeeded in that
+goal by creating systems that can evaluate
+data, ranging from chemical spectra to credit
+card histories, and reach conclusions that eas
+ily parallel those of even the most sophisticat
+ed human analyst.
+The key to the success of his "expert sys
+tems'' is not their advanced reasoning capa
+bilities. but their enormous databases of
+knowledge. Feigcnbauni. in essence, has
+modeled Ins systems on the most intelligent
+minds of the field in question.
+For example, when a project he was
+working on called lor precision analysis of
+the chemical spectra of molecules, Feigcn
+bauni recruited Chemistn Prof. Carl Djeras
+si, inventor ol the birth control pill. Using
+
+Djerassi's expert analysis as a model.
+Feigenbaum created an intricate set of rules
+that were able to replicate Djerassi's knowl
+edge.
+Feigenbaum's ingenious systems have not
+only found their way into most avenues of sci
+entific analysis, but have also catapulted him
+to the top of the field of artificial intelligence.
+In the words of colleague Raj Reddy, Feigen
+baum's work "certainly had the most impact
+of any in the '80s."
+l o the degree that awards are an indica
+tion of success, Reddy s statement has cer
+tainly been validated. Not only has Feigen
+baum been the recipient of the prestigious
+A.M. luring Award and an award estab
+lished in his honor by the World Congress on
+Expert Systems, but the importance of his
+work has also been honored bv the U.S. Air
+Force; he was the first computer scientist ever
+to be named their ('hief Scientist in IW4. and
+he recently received the Decoration for
+
+Exceptional Civilian Service, the highest
+award given to civilians by the military.
+Feigenbaum called his work with the Air
+Force, "the experience of a lifetime." I le was
+able to "see anything, go anywhere and have
+access to all technology." lo establish con
+tacts with scientists in countries soon to join
+NATO. Feigenbaum visited Poland, the
+Czech Republic and Hungry during his
+three-year position. I le also was instrumental
+in forming domestic liaisons between scien
+tists; chuckling, he recalled the serendipitous
+pairing of he and now good friend ("hemistry
+Prof. Richard Zare. head of the National Sci
+ence Foundation, on a research venture to
+the South Pole.
+Chough he has not yet taken over Hoeing.
+Feigenbaum is certainly flying high with I he-
+Air Force and his "expert systems." which
+can transform even the most mediocre ana
+lyst into the genius on which they are mod
+eled.
+More than 30 years ago. Computer Sci
+ence Prof, Fdward Feigenbaum pioneered
+the field ol artificial intelligence, loday, the
+technology he helped set in motion lias a vast
+spectrum ol applications, ranging from med
+ical diagnoses to submarine detection to the
+authorization ol credit cards. The notion ol
+"thinking" machines no longer exists only in
+the realm of science fiction.
+As an undergraduate at ( arnegie Mellon.
+Feigenbaum was in the right place at the
+right time for a career in the then nascent
+field of artificial intelligence. In 195 ft he was
+a senior engineering student, "bored with
+thermodynamics and electric motors.'" who
+was fortunate enough to be in a seminar
+taught by I lerb Simon.
+Simon, now a Nobel laureate, returned
+from ( hristmas break that year with the curi
+ous news that he and co-worker Allen
+Newell had created a "thinking machine."
+Feigenbaum, understandably, was baffled by
+this strange assertion.
+
+Computers in the early 1950s were far
+from what they are today. For millions ol
+dollars, 112 eigenbaum explained, you could
+buy a gigantic, cumbersome machine with
+barely the power ol a standard wristwatch.
+I he difference between the computer pro
+gram Simon and Newell crafted and the pro
+grams that typically ran on these prehistoric
+beasts was that theirs could reason, whereas
+earlier programs could only calculate.
+Reason? Indeed reason, in the sense that
+their program was capable <>l such feats as
+searching enormous decision trees for the
+best possible solution to a problem or trans
+forming information, by wav <»l a system ol
+rules, from an inscrutable lorm into one that
+was meaningful for humans.
+Feigenbaum remembered slaying up all
+night reading the instruction manual for tins
+new system as if it were a riveting novel. It
+goes without saying that he was hooked.
+Because he was so enthralled hy Simon
+and Newell's invention, Feigenbaum stayed
+on at Carnegie Mellon to earn his Ph.D..
+
+
+Courtesy of Edward 112 eigonhjutTi
+Prof. Edward Feigenbaum tries on an F-15 fighter jet during his
+stint as the Air Force's Chief Scientist.
+working with Simon to create a computer
+model of how humans memorize verbal
+material. Ihe model he developed, called
+"EPAM" for "Elementary l'erceiver and
+Memorize!," was quite successful at simulat
+ing human responses to such basic cognitive
+tasks as memorizing lists of jargon.
+But Feigcnbauni was not satisfied with the
+scope of this work. I le was interested in doing
+something beyond simple psychological mod
+cling. To use his words. Feigcnbauni "wanted
+to be Boeing and not just an ornithologist
+studying birds."
+What Feigcnbauni saw as lacking \\;is dis
+ability. on the part of the computer, to lorm
+hypotheses to jump to conjectures from a
+scattering of data. Instead ol using deduction
+to solve problems, lie envisioned computers
+
+interpreting information and actually making
+inferences of their own. His aim was to use
+computers to solve complex, real-world prob
+lems.
+Now known as "the father of expert sys
+tems." Feigenbaum has succeeded in that
+goal by creating systems that can evaluate
+data, ranging from chemical spectra to credit
+card histories, and reach conclusions that eas
+ily parallel those of even the most sophisticat
+ed human analyst.
+The key to the success of his "expert sys
+tems'' is not their advanced reasoning capa
+bilities. but their enormous databases of
+knowledge. Feigcnbauni. in essence, has
+modeled Ins systems on the most intelligent
+minds of the field in question.
+For example, when a project he was
+working on called lor precision analysis of
+the chemical spectra of molecules, Feigcn
+bauni recruited Chemistn Prof. Carl Djeras
+si, inventor ol the birth control pill. Using
+
+Djerassi's expert analysis as a model.
+Feigenbaum created an intricate set of rules
+that were able to replicate Djerassi's knowl
+edge.
+Feigenbaum's ingenious systems have not
+only found their way into most avenues of sci
+entific analysis, but have also catapulted him
+to the top of the field of artificial intelligence.
+In the words of colleague Raj Reddy, Feigen
+baum's work "certainly had the most impact
+of any in the '80s."
+l o the degree that awards are an indica
+tion of success, Reddy s statement has cer
+tainly been validated. Not only has Feigen
+baum been the recipient of the prestigious
+A.M. luring Award and an award estab
+lished in his honor by the World Congress on
+Expert Systems, but the importance of his
+work has also been honored bv the U.S. Air
+Force; he was the first computer scientist ever
+to be named their ('hief Scientist in IW4. and
+he recently received the Decoration for
+
+Exceptional Civilian Service, the highest
+award given to civilians by the military.
+Feigenbaum called his work with the Air
+Force, "the experience of a lifetime." I le was
+able to "see anything, go anywhere and have
+access to all technology." lo establish con
+tacts with scientists in countries soon to join
+NATO. Feigenbaum visited Poland, the
+Czech Republic and Hungry during his
+three-year position. I le also was instrumental
+in forming domestic liaisons between scien
+tists; chuckling, he recalled the serendipitous
+pairing of he and now good friend ("hemistry
+Prof. Richard Zare. head of the National Sci
+ence Foundation, on a research venture to
+the South Pole.
+Chough he has not yet taken over Hoeing.
+Feigenbaum is certainly flying high with I he-
+Air Force and his "expert systems." which
+can transform even the most mediocre ana
+lyst into the genius on which they are mod
+eled.

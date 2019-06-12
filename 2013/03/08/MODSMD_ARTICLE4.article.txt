@@ -1,0 +1,2096 @@
+# UNIVERSITY
+## HENNESSY, INDUSTRIALIST LOOK TO FUTURE OF COMPUTING 
+### MILES BENNETT-SMITH EDITOR IN CHIEF 
+After seven years as a professor in the elec
+trical engineering department, President John
+Hennessy took a sabbatical from Stanford in
+1984 to found MIPS Computer Systems Inc. and
+commercialize his work with RISC processing.
+The company went public shortly thereafter and
+enjoyed great success as the pioneer of MIPS
+architecture. Sir Hossein Yassaie is the CEO of
+Imagination Technologies Group, which ac
+quired what is now called MIPS Technologies
+last year to use in future CPU development.
+The Daily sat down with both Hennessy and
+Yassaie to talk about the acquisition as well as
+the history of MIPS and the realities of informa
+tion technology and startup companies.
+The Stanford Daily (TSD): Can you just ex
+plain a little bit about how things happened
+with the early days of your company and
+what led up to this point with the MIPS tech
+nology?
+John Hennessy (JH): The MIPS [Micro
+processor without Interlocked Pipeline Stages]
+architecture had its roots in a research project
+here at Stanford started in the early 1980s with
+
+the simple question: What would the age of sin
+gle chip CPUs mean for how we should design
+processors? Stanford, together with Berkeley
+and IBM, really ... stumbled upon an incredible
+discovery about a better way to design instruc
+tion sets for modern computers than had been
+previously thought about.
+And I say "stumbled upon" because really
+what happened was the constraints of having to
+fit a processor with the limited number of tran
+sistors at that time meant that we had to rethink
+the whole process of how to design the interface
+between the software system and the hardware
+system. That's what led to the fundamental dis
+covery, but I think it wasn't until some years lat
+er that people really realized how fundamental it
+was.
+In fact, in the beginning there was a lot of
+skepticism. The IBM project was kept secret for
+many years, and people didn't know about it.
+And it became very easy for many people in the
+industry to say, "This is a bunch of crazy aca
+demics here this isn't really a great idea." It
+had to prove itself over time.
+We started the company not because we
+wanted to be entrepreneurs. We were, in fact, re-
+
+
+IAN GARCIA-DOTY/The Stanford Daily
+President John Hennessy, who led the team that invented the MIPS framework in the '80s, said that the chip architecture is uniquely suited to emerging and mobile computing markets due to its energy and cost efficiency.
+luctant entrepreneurs we started
+the company originally because a fa
+mous computer scientist convinced
+us that, if we didn't start the compa
+ny, the technology would just lan
+guish on the shelves. [The technolo
+gy] was very threatening to the ex
+isting players out there and their
+machines, and if they adopted this
+technology, it was going to obsolete
+their products.
+
+Gordon Bell was then the
+founder of the second-largest com
+puter company [Digital Equipment
+Corporation], and he said, "You've
+got to go do this yourself, otherwise
+you're going to have a bunch of pa
+pers sitting on a shelf that nobody's
+ever going to use." And, in retro
+spect, it turned out to be very in
+sightful.
+In fact, one of the founders of
+MIPS helped me found the compa
+ny, because when IBM cancelled the
+project, he so believed in this tech
+nology that he said, "I'm not going
+back to IBM. If you guys want to do
+something here, I'm in."
+
+And, at the time, people were
+making big computers that cost a lot
+of money. Room-sized. And we were
+talking an improvement by a factor
+of five in cost, conservatively and
+maybe a factor of 10. So it was a big
+change. People were thinking,
+"Well, I'll just sell fewer computers,
+and I'll make less money" instead of
+saying, "Suppose you delivered that
+much power—what could it do in
+terms of what could it do and how
+many people could afford them?"
+They didn't see that, and it was ear
+ly on.
+And that's another reason I say
+it often takes an entrepreneur to re
+ally take it out there, somebody's
+who is really been involved in the
+creation of something. If you're in
+volved in it, you see the glass as half
+full. Yeah, there are some problems
+to be solved, but the key insight is
+there. Everybody else sees the glass
+as half empty and says, "This isn't
+going to work. This is a research
+project."
+I still remember this funny story
+I was on a panel with Dave Pat
+terson, who was doing a similar proj
+ect at Berkeley with IBM. And
+somebody says to him, just after we
+had started the company "You know
+Hennessy here on the panel? He just
+got a million dollars to invest from
+the venture capitalists, and he's go
+ing to start this company. If this
+technology's not going to work, what
+should he do? Take the money and
+go to South America." [Laughing]
+TSD: How does acquiring MIPS
+accelerate your activities at Imag
+ination, and what was the think
+ing behind the move?
+Hossein Yassaie (HY): We funda
+mentally believe the processor mar
+ket is a big market and is an area
+that is growing. As I think John
+touched on, this market started with
+areas such as game consoles, embed
+ded applications and mobile phones
+and tablets, which is a very big area.
+On the horizon, everyone talks
+about connected devices and Inter
+net updates. We went from tens of
+millions to hundreds of millions to a
+few billion, and now I think we're
+heading toward tens of billions of
+things which are clever and smart,
+so the process of business is very im
+portant for us.
+We're a key IT company with sig
+nificant customers, so we've had the
+development internally since 1995,
+and it's very much a philosophy
+along the same lines as MIPS in
+what we were working on in terms of
+multithreading and RISC architec
+tures. But it's just in the last year in
+discussion with the MIPS executives
+and team [that] it became clear that
+there is a mechanism for us acquir
+
+ing MIPS in a structure that doubles
+the team size.
+We [had] about 200 people on our
+processor team, and now we're dou
+ble that, and that combination means
+[that], both in terms of capability and
+know-how, this brings additional
+ecosystems to us. Particularly with
+the fact that MIPS is in the Android
+tree — that means our processors
+getting where we want to be with the
+processor technology sped up, both
+in times of resources and where we
+are in the marketplace.
+TSD:Does the MIPS architec
+ture's efficiency in cost and in
+power make it more attractive in
+low-cost markets in the future?
+HY: One of the major constraints
+in mobile devices is that they are not
+capable of plugging into power. So
+you have a set power envelope that
+you have to live with. And not only
+that, but consumers also have expec
+tations they have every day. They
+want it be to be as good as their PCs.
+Now going forward, everything
+needs to be smart, everything needs
+a CPU and power is still a con
+straint. We certainly believe MIPS is
+one of the most efficient architec
+tures that exists on this planet and
+certainly have expectations and as
+pirations that it will grow from this
+base with the amount of energy we
+can put behind and become a big
+player in the market space.
+JH: Efficiency has become the
+key issue that's the key phrase. It
+was less important early on when
+people were not as cost sensitized.
+It's one thing when you're building
+computers that cost several thou
+sand dollars. It's another when
+you're building a smartphone that
+only cost $2OO or you're building an
+embedded device that may only cost
+$5O or $25. Then it's a completely dif
+ferent game.
+TSD: Now that the technology is
+out there, how do you balance
+turning a profit with the need to
+keep improving and innovating
+with the architecture?
+HY: We are a public company,
+and I can tell you that, when you are
+a public company, you have to keep
+many people happy, internal and ex
+ternal, and it's a tough challenge.
+But my approach to these things is
+that, at the end of the day, I am a
+mathematician and a scientist and
+an engineer.
+I'm doing what I'm doing be
+cause I think there's a good chance
+of success. Of course profit and rev
+enue is important, but not at the ex
+pense of doing the wrong thing. You
+have to have a balance you cannot
+jeopardize the long term for the
+
+short-term decisions, particularly in
+IT business.
+
+JH: I think this is true for not
+just tech companies, but all compa
+nies right now. The fundamentally
+difficult problem is keeping long
+term innovation alive and doing that
+while keeping your current business
+running, which you have to do. If
+you're a public company, the share
+holders will desert you quite quickly.
+But all companies have that fun
+damental problem of how do you
+keep that innovation engine alive be
+cause that's the secret of growth and
+taking advantage of new markets
+and new opportunities.
+TSD: If you were to go back to
+when you first started this work,
+could you have anticipated this
+level of success with the MIPS ar
+chitecture? And when you're look
+ing back 50 years from now, what
+do you hope people are saying
+about it?
+JH: We knew that we had discov
+ered something fairly fundamental
+we understood that. We didn't un
+derstand how all the pieces fit to
+gether.
+You never know what the suc
+cesses will be like. Especially when
+you're at a small company, and
+you're fighting for your life, and
+you're up and down. At one point,
+the company was down to 10 days of
+operating capital this was many
+years ago in the early 'Bos but
+with 10 days of operating capital,
+you have to do something or you're
+going to be out of business shortly.
+And that's what its like for start
+up companies. The fact that the ar
+chitecture bloomed, it really
+bloomed with this movement out in
+to the embedded space. And I'm ex
+cited to see Imagination pick up and
+build on this incredible history and
+take this to the next level as we go
+forward. I think the world is going to
+get better, and we're going to see
+lots of interesting breakthroughs
+and uses of this technology, and I'm
+excited to see Imagination do it.
+HY: The industry needs alterna
+tive CPUs giving choice to people,
+and we certainly recognize the his
+tory of MIPS, and our aim is to de
+velop and safeguard and be a good
+custodian taking this architecture
+forward and creating a kind of solu
+tion in IT that many customers can
+use and commit to for the long
+range.
+This interview has been con
+densed and edited.
+
+Contact Miles Bennett-Smith at
+milesbs@ Stanford, edu.
+After seven years as a professor in the elec
+trical engineering department, President John
+Hennessy took a sabbatical from Stanford in
+1984 to found MIPS Computer Systems Inc. and
+commercialize his work with RISC processing.
+The company went public shortly thereafter and
+enjoyed great success as the pioneer of MIPS
+architecture. Sir Hossein Yassaie is the CEO of
+Imagination Technologies Group, which ac
+quired what is now called MIPS Technologies
+last year to use in future CPU development.
+The Daily sat down with both Hennessy and
+Yassaie to talk about the acquisition as well as
+the history of MIPS and the realities of informa
+tion technology and startup companies.
+The Stanford Daily (TSD): Can you just ex
+plain a little bit about how things happened
+with the early days of your company and
+what led up to this point with the MIPS tech
+nology?
+John Hennessy (JH): The MIPS [Micro
+processor without Interlocked Pipeline Stages]
+architecture had its roots in a research project
+here at Stanford started in the early 1980s with
+
+the simple question: What would the age of sin
+gle chip CPUs mean for how we should design
+processors? Stanford, together with Berkeley
+and IBM, really ... stumbled upon an incredible
+discovery about a better way to design instruc
+tion sets for modern computers than had been
+previously thought about.
+And I say "stumbled upon" because really
+what happened was the constraints of having to
+fit a processor with the limited number of tran
+sistors at that time meant that we had to rethink
+the whole process of how to design the interface
+between the software system and the hardware
+system. That's what led to the fundamental dis
+covery, but I think it wasn't until some years lat
+er that people really realized how fundamental it
+was.
+In fact, in the beginning there was a lot of
+skepticism. The IBM project was kept secret for
+many years, and people didn't know about it.
+And it became very easy for many people in the
+industry to say, "This is a bunch of crazy aca
+demics here this isn't really a great idea." It
+had to prove itself over time.
+We started the company not because we
+wanted to be entrepreneurs. We were, in fact, re-
+
+
+IAN GARCIA-DOTY/The Stanford Daily
+President John Hennessy, who led the team that invented the MIPS framework in the '80s, said that the chip architecture is uniquely suited to emerging and mobile computing markets due to its energy and cost efficiency.
+luctant entrepreneurs we started
+the company originally because a fa
+mous computer scientist convinced
+us that, if we didn't start the compa
+ny, the technology would just lan
+guish on the shelves. [The technolo
+gy] was very threatening to the ex
+isting players out there and their
+machines, and if they adopted this
+technology, it was going to obsolete
+their products.
+
+Gordon Bell was then the
+founder of the second-largest com
+puter company [Digital Equipment
+Corporation], and he said, "You've
+got to go do this yourself, otherwise
+you're going to have a bunch of pa
+pers sitting on a shelf that nobody's
+ever going to use." And, in retro
+spect, it turned out to be very in
+sightful.
+In fact, one of the founders of
+MIPS helped me found the compa
+ny, because when IBM cancelled the
+project, he so believed in this tech
+nology that he said, "I'm not going
+back to IBM. If you guys want to do
+something here, I'm in."
+
+And, at the time, people were
+making big computers that cost a lot
+of money. Room-sized. And we were
+talking an improvement by a factor
+of five in cost, conservatively and
+maybe a factor of 10. So it was a big
+change. People were thinking,
+"Well, I'll just sell fewer computers,
+and I'll make less money" instead of
+saying, "Suppose you delivered that
+much power—what could it do in
+terms of what could it do and how
+many people could afford them?"
+They didn't see that, and it was ear
+ly on.
+And that's another reason I say
+it often takes an entrepreneur to re
+ally take it out there, somebody's
+who is really been involved in the
+creation of something. If you're in
+volved in it, you see the glass as half
+full. Yeah, there are some problems
+to be solved, but the key insight is
+there. Everybody else sees the glass
+as half empty and says, "This isn't
+going to work. This is a research
+project."
+I still remember this funny story
+I was on a panel with Dave Pat
+terson, who was doing a similar proj
+ect at Berkeley with IBM. And
+somebody says to him, just after we
+had started the company "You know
+Hennessy here on the panel? He just
+got a million dollars to invest from
+the venture capitalists, and he's go
+ing to start this company. If this
+technology's not going to work, what
+should he do? Take the money and
+go to South America." [Laughing]
+TSD: How does acquiring MIPS
+accelerate your activities at Imag
+ination, and what was the think
+ing behind the move?
+Hossein Yassaie (HY): We funda
+mentally believe the processor mar
+ket is a big market and is an area
+that is growing. As I think John
+touched on, this market started with
+areas such as game consoles, embed
+ded applications and mobile phones
+and tablets, which is a very big area.
+On the horizon, everyone talks
+about connected devices and Inter
+net updates. We went from tens of
+millions to hundreds of millions to a
+few billion, and now I think we're
+heading toward tens of billions of
+things which are clever and smart,
+so the process of business is very im
+portant for us.
+We're a key IT company with sig
+nificant customers, so we've had the
+development internally since 1995,
+and it's very much a philosophy
+along the same lines as MIPS in
+what we were working on in terms of
+multithreading and RISC architec
+tures. But it's just in the last year in
+discussion with the MIPS executives
+and team [that] it became clear that
+there is a mechanism for us acquir
+
+ing MIPS in a structure that doubles
+the team size.
+We [had] about 200 people on our
+processor team, and now we're dou
+ble that, and that combination means
+[that], both in terms of capability and
+know-how, this brings additional
+ecosystems to us. Particularly with
+the fact that MIPS is in the Android
+tree — that means our processors
+getting where we want to be with the
+processor technology sped up, both
+in times of resources and where we
+are in the marketplace.
+TSD:Does the MIPS architec
+ture's efficiency in cost and in
+power make it more attractive in
+low-cost markets in the future?
+HY: One of the major constraints
+in mobile devices is that they are not
+capable of plugging into power. So
+you have a set power envelope that
+you have to live with. And not only
+that, but consumers also have expec
+tations they have every day. They
+want it be to be as good as their PCs.
+Now going forward, everything
+needs to be smart, everything needs
+a CPU and power is still a con
+straint. We certainly believe MIPS is
+one of the most efficient architec
+tures that exists on this planet and
+certainly have expectations and as
+pirations that it will grow from this
+base with the amount of energy we
+can put behind and become a big
+player in the market space.
+JH: Efficiency has become the
+key issue that's the key phrase. It
+was less important early on when
+people were not as cost sensitized.
+It's one thing when you're building
+computers that cost several thou
+sand dollars. It's another when
+you're building a smartphone that
+only cost $2OO or you're building an
+embedded device that may only cost
+$5O or $25. Then it's a completely dif
+ferent game.
+TSD: Now that the technology is
+out there, how do you balance
+turning a profit with the need to
+keep improving and innovating
+with the architecture?
+HY: We are a public company,
+and I can tell you that, when you are
+a public company, you have to keep
+many people happy, internal and ex
+ternal, and it's a tough challenge.
+But my approach to these things is
+that, at the end of the day, I am a
+mathematician and a scientist and
+an engineer.
+I'm doing what I'm doing be
+cause I think there's a good chance
+of success. Of course profit and rev
+enue is important, but not at the ex
+pense of doing the wrong thing. You
+have to have a balance you cannot
+jeopardize the long term for the
+
+short-term decisions, particularly in
+IT business.
+
+JH: I think this is true for not
+just tech companies, but all compa
+nies right now. The fundamentally
+difficult problem is keeping long
+term innovation alive and doing that
+while keeping your current business
+running, which you have to do. If
+you're a public company, the share
+holders will desert you quite quickly.
+But all companies have that fun
+damental problem of how do you
+keep that innovation engine alive be
+cause that's the secret of growth and
+taking advantage of new markets
+and new opportunities.
+TSD: If you were to go back to
+when you first started this work,
+could you have anticipated this
+level of success with the MIPS ar
+chitecture? And when you're look
+ing back 50 years from now, what
+do you hope people are saying
+about it?
+JH: We knew that we had discov
+ered something fairly fundamental
+we understood that. We didn't un
+derstand how all the pieces fit to
+gether.
+You never know what the suc
+cesses will be like. Especially when
+you're at a small company, and
+you're fighting for your life, and
+you're up and down. At one point,
+the company was down to 10 days of
+operating capital this was many
+years ago in the early 'Bos but
+with 10 days of operating capital,
+you have to do something or you're
+going to be out of business shortly.
+And that's what its like for start
+up companies. The fact that the ar
+chitecture bloomed, it really
+bloomed with this movement out in
+to the embedded space. And I'm ex
+cited to see Imagination pick up and
+build on this incredible history and
+take this to the next level as we go
+forward. I think the world is going to
+get better, and we're going to see
+lots of interesting breakthroughs
+and uses of this technology, and I'm
+excited to see Imagination do it.
+HY: The industry needs alterna
+tive CPUs giving choice to people,
+and we certainly recognize the his
+tory of MIPS, and our aim is to de
+velop and safeguard and be a good
+custodian taking this architecture
+forward and creating a kind of solu
+tion in IT that many customers can
+use and commit to for the long
+range.
+This interview has been con
+densed and edited.
+
+Contact Miles Bennett-Smith at
+milesbs@ Stanford, edu.
+After seven years as a professor in the elec
+trical engineering department, President John
+Hennessy took a sabbatical from Stanford in
+1984 to found MIPS Computer Systems Inc. and
+commercialize his work with RISC processing.
+The company went public shortly thereafter and
+enjoyed great success as the pioneer of MIPS
+architecture. Sir Hossein Yassaie is the CEO of
+Imagination Technologies Group, which ac
+quired what is now called MIPS Technologies
+last year to use in future CPU development.
+The Daily sat down with both Hennessy and
+Yassaie to talk about the acquisition as well as
+the history of MIPS and the realities of informa
+tion technology and startup companies.
+The Stanford Daily (TSD): Can you just ex
+plain a little bit about how things happened
+with the early days of your company and
+what led up to this point with the MIPS tech
+nology?
+John Hennessy (JH): The MIPS [Micro
+processor without Interlocked Pipeline Stages]
+architecture had its roots in a research project
+here at Stanford started in the early 1980s with
+
+the simple question: What would the age of sin
+gle chip CPUs mean for how we should design
+processors? Stanford, together with Berkeley
+and IBM, really ... stumbled upon an incredible
+discovery about a better way to design instruc
+tion sets for modern computers than had been
+previously thought about.
+And I say "stumbled upon" because really
+what happened was the constraints of having to
+fit a processor with the limited number of tran
+sistors at that time meant that we had to rethink
+the whole process of how to design the interface
+between the software system and the hardware
+system. That's what led to the fundamental dis
+covery, but I think it wasn't until some years lat
+er that people really realized how fundamental it
+was.
+In fact, in the beginning there was a lot of
+skepticism. The IBM project was kept secret for
+many years, and people didn't know about it.
+And it became very easy for many people in the
+industry to say, "This is a bunch of crazy aca
+demics here this isn't really a great idea." It
+had to prove itself over time.
+We started the company not because we
+wanted to be entrepreneurs. We were, in fact, re-
+
+
+IAN GARCIA-DOTY/The Stanford Daily
+President John Hennessy, who led the team that invented the MIPS framework in the '80s, said that the chip architecture is uniquely suited to emerging and mobile computing markets due to its energy and cost efficiency.
+luctant entrepreneurs we started
+the company originally because a fa
+mous computer scientist convinced
+us that, if we didn't start the compa
+ny, the technology would just lan
+guish on the shelves. [The technolo
+gy] was very threatening to the ex
+isting players out there and their
+machines, and if they adopted this
+technology, it was going to obsolete
+their products.
+
+Gordon Bell was then the
+founder of the second-largest com
+puter company [Digital Equipment
+Corporation], and he said, "You've
+got to go do this yourself, otherwise
+you're going to have a bunch of pa
+pers sitting on a shelf that nobody's
+ever going to use." And, in retro
+spect, it turned out to be very in
+sightful.
+In fact, one of the founders of
+MIPS helped me found the compa
+ny, because when IBM cancelled the
+project, he so believed in this tech
+nology that he said, "I'm not going
+back to IBM. If you guys want to do
+something here, I'm in."
+
+And, at the time, people were
+making big computers that cost a lot
+of money. Room-sized. And we were
+talking an improvement by a factor
+of five in cost, conservatively and
+maybe a factor of 10. So it was a big
+change. People were thinking,
+"Well, I'll just sell fewer computers,
+and I'll make less money" instead of
+saying, "Suppose you delivered that
+much power—what could it do in
+terms of what could it do and how
+many people could afford them?"
+They didn't see that, and it was ear
+ly on.
+And that's another reason I say
+it often takes an entrepreneur to re
+ally take it out there, somebody's
+who is really been involved in the
+creation of something. If you're in
+volved in it, you see the glass as half
+full. Yeah, there are some problems
+to be solved, but the key insight is
+there. Everybody else sees the glass
+as half empty and says, "This isn't
+going to work. This is a research
+project."
+I still remember this funny story
+I was on a panel with Dave Pat
+terson, who was doing a similar proj
+ect at Berkeley with IBM. And
+somebody says to him, just after we
+had started the company "You know
+Hennessy here on the panel? He just
+got a million dollars to invest from
+the venture capitalists, and he's go
+ing to start this company. If this
+technology's not going to work, what
+should he do? Take the money and
+go to South America." [Laughing]
+TSD: How does acquiring MIPS
+accelerate your activities at Imag
+ination, and what was the think
+ing behind the move?
+Hossein Yassaie (HY): We funda
+mentally believe the processor mar
+ket is a big market and is an area
+that is growing. As I think John
+touched on, this market started with
+areas such as game consoles, embed
+ded applications and mobile phones
+and tablets, which is a very big area.
+On the horizon, everyone talks
+about connected devices and Inter
+net updates. We went from tens of
+millions to hundreds of millions to a
+few billion, and now I think we're
+heading toward tens of billions of
+things which are clever and smart,
+so the process of business is very im
+portant for us.
+We're a key IT company with sig
+nificant customers, so we've had the
+development internally since 1995,
+and it's very much a philosophy
+along the same lines as MIPS in
+what we were working on in terms of
+multithreading and RISC architec
+tures. But it's just in the last year in
+discussion with the MIPS executives
+and team [that] it became clear that
+there is a mechanism for us acquir
+
+ing MIPS in a structure that doubles
+the team size.
+We [had] about 200 people on our
+processor team, and now we're dou
+ble that, and that combination means
+[that], both in terms of capability and
+know-how, this brings additional
+ecosystems to us. Particularly with
+the fact that MIPS is in the Android
+tree — that means our processors
+getting where we want to be with the
+processor technology sped up, both
+in times of resources and where we
+are in the marketplace.
+TSD:Does the MIPS architec
+ture's efficiency in cost and in
+power make it more attractive in
+low-cost markets in the future?
+HY: One of the major constraints
+in mobile devices is that they are not
+capable of plugging into power. So
+you have a set power envelope that
+you have to live with. And not only
+that, but consumers also have expec
+tations they have every day. They
+want it be to be as good as their PCs.
+Now going forward, everything
+needs to be smart, everything needs
+a CPU and power is still a con
+straint. We certainly believe MIPS is
+one of the most efficient architec
+tures that exists on this planet and
+certainly have expectations and as
+pirations that it will grow from this
+base with the amount of energy we
+can put behind and become a big
+player in the market space.
+JH: Efficiency has become the
+key issue that's the key phrase. It
+was less important early on when
+people were not as cost sensitized.
+It's one thing when you're building
+computers that cost several thou
+sand dollars. It's another when
+you're building a smartphone that
+only cost $2OO or you're building an
+embedded device that may only cost
+$5O or $25. Then it's a completely dif
+ferent game.
+TSD: Now that the technology is
+out there, how do you balance
+turning a profit with the need to
+keep improving and innovating
+with the architecture?
+HY: We are a public company,
+and I can tell you that, when you are
+a public company, you have to keep
+many people happy, internal and ex
+ternal, and it's a tough challenge.
+But my approach to these things is
+that, at the end of the day, I am a
+mathematician and a scientist and
+an engineer.
+I'm doing what I'm doing be
+cause I think there's a good chance
+of success. Of course profit and rev
+enue is important, but not at the ex
+pense of doing the wrong thing. You
+have to have a balance you cannot
+jeopardize the long term for the
+
+short-term decisions, particularly in
+IT business.
+
+JH: I think this is true for not
+just tech companies, but all compa
+nies right now. The fundamentally
+difficult problem is keeping long
+term innovation alive and doing that
+while keeping your current business
+running, which you have to do. If
+you're a public company, the share
+holders will desert you quite quickly.
+But all companies have that fun
+damental problem of how do you
+keep that innovation engine alive be
+cause that's the secret of growth and
+taking advantage of new markets
+and new opportunities.
+TSD: If you were to go back to
+when you first started this work,
+could you have anticipated this
+level of success with the MIPS ar
+chitecture? And when you're look
+ing back 50 years from now, what
+do you hope people are saying
+about it?
+JH: We knew that we had discov
+ered something fairly fundamental
+we understood that. We didn't un
+derstand how all the pieces fit to
+gether.
+You never know what the suc
+cesses will be like. Especially when
+you're at a small company, and
+you're fighting for your life, and
+you're up and down. At one point,
+the company was down to 10 days of
+operating capital this was many
+years ago in the early 'Bos but
+with 10 days of operating capital,
+you have to do something or you're
+going to be out of business shortly.
+And that's what its like for start
+up companies. The fact that the ar
+chitecture bloomed, it really
+bloomed with this movement out in
+to the embedded space. And I'm ex
+cited to see Imagination pick up and
+build on this incredible history and
+take this to the next level as we go
+forward. I think the world is going to
+get better, and we're going to see
+lots of interesting breakthroughs
+and uses of this technology, and I'm
+excited to see Imagination do it.
+HY: The industry needs alterna
+tive CPUs giving choice to people,
+and we certainly recognize the his
+tory of MIPS, and our aim is to de
+velop and safeguard and be a good
+custodian taking this architecture
+forward and creating a kind of solu
+tion in IT that many customers can
+use and commit to for the long
+range.
+This interview has been con
+densed and edited.
+
+Contact Miles Bennett-Smith at
+milesbs@ Stanford, edu.
+After seven years as a professor in the elec
+trical engineering department, President John
+Hennessy took a sabbatical from Stanford in
+1984 to found MIPS Computer Systems Inc. and
+commercialize his work with RISC processing.
+The company went public shortly thereafter and
+enjoyed great success as the pioneer of MIPS
+architecture. Sir Hossein Yassaie is the CEO of
+Imagination Technologies Group, which ac
+quired what is now called MIPS Technologies
+last year to use in future CPU development.
+The Daily sat down with both Hennessy and
+Yassaie to talk about the acquisition as well as
+the history of MIPS and the realities of informa
+tion technology and startup companies.
+The Stanford Daily (TSD): Can you just ex
+plain a little bit about how things happened
+with the early days of your company and
+what led up to this point with the MIPS tech
+nology?
+John Hennessy (JH): The MIPS [Micro
+processor without Interlocked Pipeline Stages]
+architecture had its roots in a research project
+here at Stanford started in the early 1980s with
+
+the simple question: What would the age of sin
+gle chip CPUs mean for how we should design
+processors? Stanford, together with Berkeley
+and IBM, really ... stumbled upon an incredible
+discovery about a better way to design instruc
+tion sets for modern computers than had been
+previously thought about.
+And I say "stumbled upon" because really
+what happened was the constraints of having to
+fit a processor with the limited number of tran
+sistors at that time meant that we had to rethink
+the whole process of how to design the interface
+between the software system and the hardware
+system. That's what led to the fundamental dis
+covery, but I think it wasn't until some years lat
+er that people really realized how fundamental it
+was.
+In fact, in the beginning there was a lot of
+skepticism. The IBM project was kept secret for
+many years, and people didn't know about it.
+And it became very easy for many people in the
+industry to say, "This is a bunch of crazy aca
+demics here this isn't really a great idea." It
+had to prove itself over time.
+We started the company not because we
+wanted to be entrepreneurs. We were, in fact, re-
+
+
+IAN GARCIA-DOTY/The Stanford Daily
+President John Hennessy, who led the team that invented the MIPS framework in the '80s, said that the chip architecture is uniquely suited to emerging and mobile computing markets due to its energy and cost efficiency.
+luctant entrepreneurs we started
+the company originally because a fa
+mous computer scientist convinced
+us that, if we didn't start the compa
+ny, the technology would just lan
+guish on the shelves. [The technolo
+gy] was very threatening to the ex
+isting players out there and their
+machines, and if they adopted this
+technology, it was going to obsolete
+their products.
+
+Gordon Bell was then the
+founder of the second-largest com
+puter company [Digital Equipment
+Corporation], and he said, "You've
+got to go do this yourself, otherwise
+you're going to have a bunch of pa
+pers sitting on a shelf that nobody's
+ever going to use." And, in retro
+spect, it turned out to be very in
+sightful.
+In fact, one of the founders of
+MIPS helped me found the compa
+ny, because when IBM cancelled the
+project, he so believed in this tech
+nology that he said, "I'm not going
+back to IBM. If you guys want to do
+something here, I'm in."
+
+And, at the time, people were
+making big computers that cost a lot
+of money. Room-sized. And we were
+talking an improvement by a factor
+of five in cost, conservatively and
+maybe a factor of 10. So it was a big
+change. People were thinking,
+"Well, I'll just sell fewer computers,
+and I'll make less money" instead of
+saying, "Suppose you delivered that
+much power—what could it do in
+terms of what could it do and how
+many people could afford them?"
+They didn't see that, and it was ear
+ly on.
+And that's another reason I say
+it often takes an entrepreneur to re
+ally take it out there, somebody's
+who is really been involved in the
+creation of something. If you're in
+volved in it, you see the glass as half
+full. Yeah, there are some problems
+to be solved, but the key insight is
+there. Everybody else sees the glass
+as half empty and says, "This isn't
+going to work. This is a research
+project."
+I still remember this funny story
+I was on a panel with Dave Pat
+terson, who was doing a similar proj
+ect at Berkeley with IBM. And
+somebody says to him, just after we
+had started the company "You know
+Hennessy here on the panel? He just
+got a million dollars to invest from
+the venture capitalists, and he's go
+ing to start this company. If this
+technology's not going to work, what
+should he do? Take the money and
+go to South America." [Laughing]
+TSD: How does acquiring MIPS
+accelerate your activities at Imag
+ination, and what was the think
+ing behind the move?
+Hossein Yassaie (HY): We funda
+mentally believe the processor mar
+ket is a big market and is an area
+that is growing. As I think John
+touched on, this market started with
+areas such as game consoles, embed
+ded applications and mobile phones
+and tablets, which is a very big area.
+On the horizon, everyone talks
+about connected devices and Inter
+net updates. We went from tens of
+millions to hundreds of millions to a
+few billion, and now I think we're
+heading toward tens of billions of
+things which are clever and smart,
+so the process of business is very im
+portant for us.
+We're a key IT company with sig
+nificant customers, so we've had the
+development internally since 1995,
+and it's very much a philosophy
+along the same lines as MIPS in
+what we were working on in terms of
+multithreading and RISC architec
+tures. But it's just in the last year in
+discussion with the MIPS executives
+and team [that] it became clear that
+there is a mechanism for us acquir
+
+ing MIPS in a structure that doubles
+the team size.
+We [had] about 200 people on our
+processor team, and now we're dou
+ble that, and that combination means
+[that], both in terms of capability and
+know-how, this brings additional
+ecosystems to us. Particularly with
+the fact that MIPS is in the Android
+tree — that means our processors
+getting where we want to be with the
+processor technology sped up, both
+in times of resources and where we
+are in the marketplace.
+TSD:Does the MIPS architec
+ture's efficiency in cost and in
+power make it more attractive in
+low-cost markets in the future?
+HY: One of the major constraints
+in mobile devices is that they are not
+capable of plugging into power. So
+you have a set power envelope that
+you have to live with. And not only
+that, but consumers also have expec
+tations they have every day. They
+want it be to be as good as their PCs.
+Now going forward, everything
+needs to be smart, everything needs
+a CPU and power is still a con
+straint. We certainly believe MIPS is
+one of the most efficient architec
+tures that exists on this planet and
+certainly have expectations and as
+pirations that it will grow from this
+base with the amount of energy we
+can put behind and become a big
+player in the market space.
+JH: Efficiency has become the
+key issue that's the key phrase. It
+was less important early on when
+people were not as cost sensitized.
+It's one thing when you're building
+computers that cost several thou
+sand dollars. It's another when
+you're building a smartphone that
+only cost $2OO or you're building an
+embedded device that may only cost
+$5O or $25. Then it's a completely dif
+ferent game.
+TSD: Now that the technology is
+out there, how do you balance
+turning a profit with the need to
+keep improving and innovating
+with the architecture?
+HY: We are a public company,
+and I can tell you that, when you are
+a public company, you have to keep
+many people happy, internal and ex
+ternal, and it's a tough challenge.
+But my approach to these things is
+that, at the end of the day, I am a
+mathematician and a scientist and
+an engineer.
+I'm doing what I'm doing be
+cause I think there's a good chance
+of success. Of course profit and rev
+enue is important, but not at the ex
+pense of doing the wrong thing. You
+have to have a balance you cannot
+jeopardize the long term for the
+
+short-term decisions, particularly in
+IT business.
+
+JH: I think this is true for not
+just tech companies, but all compa
+nies right now. The fundamentally
+difficult problem is keeping long
+term innovation alive and doing that
+while keeping your current business
+running, which you have to do. If
+you're a public company, the share
+holders will desert you quite quickly.
+But all companies have that fun
+damental problem of how do you
+keep that innovation engine alive be
+cause that's the secret of growth and
+taking advantage of new markets
+and new opportunities.
+TSD: If you were to go back to
+when you first started this work,
+could you have anticipated this
+level of success with the MIPS ar
+chitecture? And when you're look
+ing back 50 years from now, what
+do you hope people are saying
+about it?
+JH: We knew that we had discov
+ered something fairly fundamental
+we understood that. We didn't un
+derstand how all the pieces fit to
+gether.
+You never know what the suc
+cesses will be like. Especially when
+you're at a small company, and
+you're fighting for your life, and
+you're up and down. At one point,
+the company was down to 10 days of
+operating capital this was many
+years ago in the early 'Bos but
+with 10 days of operating capital,
+you have to do something or you're
+going to be out of business shortly.
+And that's what its like for start
+up companies. The fact that the ar
+chitecture bloomed, it really
+bloomed with this movement out in
+to the embedded space. And I'm ex
+cited to see Imagination pick up and
+build on this incredible history and
+take this to the next level as we go
+forward. I think the world is going to
+get better, and we're going to see
+lots of interesting breakthroughs
+and uses of this technology, and I'm
+excited to see Imagination do it.
+HY: The industry needs alterna
+tive CPUs giving choice to people,
+and we certainly recognize the his
+tory of MIPS, and our aim is to de
+velop and safeguard and be a good
+custodian taking this architecture
+forward and creating a kind of solu
+tion in IT that many customers can
+use and commit to for the long
+range.
+This interview has been con
+densed and edited.
+
+Contact Miles Bennett-Smith at
+milesbs@ Stanford, edu.
+After seven years as a professor in the elec
+trical engineering department, President John
+Hennessy took a sabbatical from Stanford in
+1984 to found MIPS Computer Systems Inc. and
+commercialize his work with RISC processing.
+The company went public shortly thereafter and
+enjoyed great success as the pioneer of MIPS
+architecture. Sir Hossein Yassaie is the CEO of
+Imagination Technologies Group, which ac
+quired what is now called MIPS Technologies
+last year to use in future CPU development.
+The Daily sat down with both Hennessy and
+Yassaie to talk about the acquisition as well as
+the history of MIPS and the realities of informa
+tion technology and startup companies.
+The Stanford Daily (TSD): Can you just ex
+plain a little bit about how things happened
+with the early days of your company and
+what led up to this point with the MIPS tech
+nology?
+John Hennessy (JH): The MIPS [Micro
+processor without Interlocked Pipeline Stages]
+architecture had its roots in a research project
+here at Stanford started in the early 1980s with
+
+the simple question: What would the age of sin
+gle chip CPUs mean for how we should design
+processors? Stanford, together with Berkeley
+and IBM, really ... stumbled upon an incredible
+discovery about a better way to design instruc
+tion sets for modern computers than had been
+previously thought about.
+And I say "stumbled upon" because really
+what happened was the constraints of having to
+fit a processor with the limited number of tran
+sistors at that time meant that we had to rethink
+the whole process of how to design the interface
+between the software system and the hardware
+system. That's what led to the fundamental dis
+covery, but I think it wasn't until some years lat
+er that people really realized how fundamental it
+was.
+In fact, in the beginning there was a lot of
+skepticism. The IBM project was kept secret for
+many years, and people didn't know about it.
+And it became very easy for many people in the
+industry to say, "This is a bunch of crazy aca
+demics here this isn't really a great idea." It
+had to prove itself over time.
+We started the company not because we
+wanted to be entrepreneurs. We were, in fact, re-
+
+
+IAN GARCIA-DOTY/The Stanford Daily
+President John Hennessy, who led the team that invented the MIPS framework in the '80s, said that the chip architecture is uniquely suited to emerging and mobile computing markets due to its energy and cost efficiency.
+luctant entrepreneurs we started
+the company originally because a fa
+mous computer scientist convinced
+us that, if we didn't start the compa
+ny, the technology would just lan
+guish on the shelves. [The technolo
+gy] was very threatening to the ex
+isting players out there and their
+machines, and if they adopted this
+technology, it was going to obsolete
+their products.
+
+Gordon Bell was then the
+founder of the second-largest com
+puter company [Digital Equipment
+Corporation], and he said, "You've
+got to go do this yourself, otherwise
+you're going to have a bunch of pa
+pers sitting on a shelf that nobody's
+ever going to use." And, in retro
+spect, it turned out to be very in
+sightful.
+In fact, one of the founders of
+MIPS helped me found the compa
+ny, because when IBM cancelled the
+project, he so believed in this tech
+nology that he said, "I'm not going
+back to IBM. If you guys want to do
+something here, I'm in."
+
+And, at the time, people were
+making big computers that cost a lot
+of money. Room-sized. And we were
+talking an improvement by a factor
+of five in cost, conservatively and
+maybe a factor of 10. So it was a big
+change. People were thinking,
+"Well, I'll just sell fewer computers,
+and I'll make less money" instead of
+saying, "Suppose you delivered that
+much power—what could it do in
+terms of what could it do and how
+many people could afford them?"
+They didn't see that, and it was ear
+ly on.
+And that's another reason I say
+it often takes an entrepreneur to re
+ally take it out there, somebody's
+who is really been involved in the
+creation of something. If you're in
+volved in it, you see the glass as half
+full. Yeah, there are some problems
+to be solved, but the key insight is
+there. Everybody else sees the glass
+as half empty and says, "This isn't
+going to work. This is a research
+project."
+I still remember this funny story
+I was on a panel with Dave Pat
+terson, who was doing a similar proj
+ect at Berkeley with IBM. And
+somebody says to him, just after we
+had started the company "You know
+Hennessy here on the panel? He just
+got a million dollars to invest from
+the venture capitalists, and he's go
+ing to start this company. If this
+technology's not going to work, what
+should he do? Take the money and
+go to South America." [Laughing]
+TSD: How does acquiring MIPS
+accelerate your activities at Imag
+ination, and what was the think
+ing behind the move?
+Hossein Yassaie (HY): We funda
+mentally believe the processor mar
+ket is a big market and is an area
+that is growing. As I think John
+touched on, this market started with
+areas such as game consoles, embed
+ded applications and mobile phones
+and tablets, which is a very big area.
+On the horizon, everyone talks
+about connected devices and Inter
+net updates. We went from tens of
+millions to hundreds of millions to a
+few billion, and now I think we're
+heading toward tens of billions of
+things which are clever and smart,
+so the process of business is very im
+portant for us.
+We're a key IT company with sig
+nificant customers, so we've had the
+development internally since 1995,
+and it's very much a philosophy
+along the same lines as MIPS in
+what we were working on in terms of
+multithreading and RISC architec
+tures. But it's just in the last year in
+discussion with the MIPS executives
+and team [that] it became clear that
+there is a mechanism for us acquir
+
+ing MIPS in a structure that doubles
+the team size.
+We [had] about 200 people on our
+processor team, and now we're dou
+ble that, and that combination means
+[that], both in terms of capability and
+know-how, this brings additional
+ecosystems to us. Particularly with
+the fact that MIPS is in the Android
+tree — that means our processors
+getting where we want to be with the
+processor technology sped up, both
+in times of resources and where we
+are in the marketplace.
+TSD:Does the MIPS architec
+ture's efficiency in cost and in
+power make it more attractive in
+low-cost markets in the future?
+HY: One of the major constraints
+in mobile devices is that they are not
+capable of plugging into power. So
+you have a set power envelope that
+you have to live with. And not only
+that, but consumers also have expec
+tations they have every day. They
+want it be to be as good as their PCs.
+Now going forward, everything
+needs to be smart, everything needs
+a CPU and power is still a con
+straint. We certainly believe MIPS is
+one of the most efficient architec
+tures that exists on this planet and
+certainly have expectations and as
+pirations that it will grow from this
+base with the amount of energy we
+can put behind and become a big
+player in the market space.
+JH: Efficiency has become the
+key issue that's the key phrase. It
+was less important early on when
+people were not as cost sensitized.
+It's one thing when you're building
+computers that cost several thou
+sand dollars. It's another when
+you're building a smartphone that
+only cost $2OO or you're building an
+embedded device that may only cost
+$5O or $25. Then it's a completely dif
+ferent game.
+TSD: Now that the technology is
+out there, how do you balance
+turning a profit with the need to
+keep improving and innovating
+with the architecture?
+HY: We are a public company,
+and I can tell you that, when you are
+a public company, you have to keep
+many people happy, internal and ex
+ternal, and it's a tough challenge.
+But my approach to these things is
+that, at the end of the day, I am a
+mathematician and a scientist and
+an engineer.
+I'm doing what I'm doing be
+cause I think there's a good chance
+of success. Of course profit and rev
+enue is important, but not at the ex
+pense of doing the wrong thing. You
+have to have a balance you cannot
+jeopardize the long term for the
+
+short-term decisions, particularly in
+IT business.
+
+JH: I think this is true for not
+just tech companies, but all compa
+nies right now. The fundamentally
+difficult problem is keeping long
+term innovation alive and doing that
+while keeping your current business
+running, which you have to do. If
+you're a public company, the share
+holders will desert you quite quickly.
+But all companies have that fun
+damental problem of how do you
+keep that innovation engine alive be
+cause that's the secret of growth and
+taking advantage of new markets
+and new opportunities.
+TSD: If you were to go back to
+when you first started this work,
+could you have anticipated this
+level of success with the MIPS ar
+chitecture? And when you're look
+ing back 50 years from now, what
+do you hope people are saying
+about it?
+JH: We knew that we had discov
+ered something fairly fundamental
+we understood that. We didn't un
+derstand how all the pieces fit to
+gether.
+You never know what the suc
+cesses will be like. Especially when
+you're at a small company, and
+you're fighting for your life, and
+you're up and down. At one point,
+the company was down to 10 days of
+operating capital this was many
+years ago in the early 'Bos but
+with 10 days of operating capital,
+you have to do something or you're
+going to be out of business shortly.
+And that's what its like for start
+up companies. The fact that the ar
+chitecture bloomed, it really
+bloomed with this movement out in
+to the embedded space. And I'm ex
+cited to see Imagination pick up and
+build on this incredible history and
+take this to the next level as we go
+forward. I think the world is going to
+get better, and we're going to see
+lots of interesting breakthroughs
+and uses of this technology, and I'm
+excited to see Imagination do it.
+HY: The industry needs alterna
+tive CPUs giving choice to people,
+and we certainly recognize the his
+tory of MIPS, and our aim is to de
+velop and safeguard and be a good
+custodian taking this architecture
+forward and creating a kind of solu
+tion in IT that many customers can
+use and commit to for the long
+range.
+This interview has been con
+densed and edited.
+
+Contact Miles Bennett-Smith at
+milesbs@ Stanford, edu.
+After seven years as a professor in the elec
+trical engineering department, President John
+Hennessy took a sabbatical from Stanford in
+1984 to found MIPS Computer Systems Inc. and
+commercialize his work with RISC processing.
+The company went public shortly thereafter and
+enjoyed great success as the pioneer of MIPS
+architecture. Sir Hossein Yassaie is the CEO of
+Imagination Technologies Group, which ac
+quired what is now called MIPS Technologies
+last year to use in future CPU development.
+The Daily sat down with both Hennessy and
+Yassaie to talk about the acquisition as well as
+the history of MIPS and the realities of informa
+tion technology and startup companies.
+The Stanford Daily (TSD): Can you just ex
+plain a little bit about how things happened
+with the early days of your company and
+what led up to this point with the MIPS tech
+nology?
+John Hennessy (JH): The MIPS [Micro
+processor without Interlocked Pipeline Stages]
+architecture had its roots in a research project
+here at Stanford started in the early 1980s with
+
+the simple question: What would the age of sin
+gle chip CPUs mean for how we should design
+processors? Stanford, together with Berkeley
+and IBM, really ... stumbled upon an incredible
+discovery about a better way to design instruc
+tion sets for modern computers than had been
+previously thought about.
+And I say "stumbled upon" because really
+what happened was the constraints of having to
+fit a processor with the limited number of tran
+sistors at that time meant that we had to rethink
+the whole process of how to design the interface
+between the software system and the hardware
+system. That's what led to the fundamental dis
+covery, but I think it wasn't until some years lat
+er that people really realized how fundamental it
+was.
+In fact, in the beginning there was a lot of
+skepticism. The IBM project was kept secret for
+many years, and people didn't know about it.
+And it became very easy for many people in the
+industry to say, "This is a bunch of crazy aca
+demics here this isn't really a great idea." It
+had to prove itself over time.
+We started the company not because we
+wanted to be entrepreneurs. We were, in fact, re-
+
+
+IAN GARCIA-DOTY/The Stanford Daily
+President John Hennessy, who led the team that invented the MIPS framework in the '80s, said that the chip architecture is uniquely suited to emerging and mobile computing markets due to its energy and cost efficiency.
+luctant entrepreneurs we started
+the company originally because a fa
+mous computer scientist convinced
+us that, if we didn't start the compa
+ny, the technology would just lan
+guish on the shelves. [The technolo
+gy] was very threatening to the ex
+isting players out there and their
+machines, and if they adopted this
+technology, it was going to obsolete
+their products.
+
+Gordon Bell was then the
+founder of the second-largest com
+puter company [Digital Equipment
+Corporation], and he said, "You've
+got to go do this yourself, otherwise
+you're going to have a bunch of pa
+pers sitting on a shelf that nobody's
+ever going to use." And, in retro
+spect, it turned out to be very in
+sightful.
+In fact, one of the founders of
+MIPS helped me found the compa
+ny, because when IBM cancelled the
+project, he so believed in this tech
+nology that he said, "I'm not going
+back to IBM. If you guys want to do
+something here, I'm in."
+
+And, at the time, people were
+making big computers that cost a lot
+of money. Room-sized. And we were
+talking an improvement by a factor
+of five in cost, conservatively and
+maybe a factor of 10. So it was a big
+change. People were thinking,
+"Well, I'll just sell fewer computers,
+and I'll make less money" instead of
+saying, "Suppose you delivered that
+much power—what could it do in
+terms of what could it do and how
+many people could afford them?"
+They didn't see that, and it was ear
+ly on.
+And that's another reason I say
+it often takes an entrepreneur to re
+ally take it out there, somebody's
+who is really been involved in the
+creation of something. If you're in
+volved in it, you see the glass as half
+full. Yeah, there are some problems
+to be solved, but the key insight is
+there. Everybody else sees the glass
+as half empty and says, "This isn't
+going to work. This is a research
+project."
+I still remember this funny story
+I was on a panel with Dave Pat
+terson, who was doing a similar proj
+ect at Berkeley with IBM. And
+somebody says to him, just after we
+had started the company "You know
+Hennessy here on the panel? He just
+got a million dollars to invest from
+the venture capitalists, and he's go
+ing to start this company. If this
+technology's not going to work, what
+should he do? Take the money and
+go to South America." [Laughing]
+TSD: How does acquiring MIPS
+accelerate your activities at Imag
+ination, and what was the think
+ing behind the move?
+Hossein Yassaie (HY): We funda
+mentally believe the processor mar
+ket is a big market and is an area
+that is growing. As I think John
+touched on, this market started with
+areas such as game consoles, embed
+ded applications and mobile phones
+and tablets, which is a very big area.
+On the horizon, everyone talks
+about connected devices and Inter
+net updates. We went from tens of
+millions to hundreds of millions to a
+few billion, and now I think we're
+heading toward tens of billions of
+things which are clever and smart,
+so the process of business is very im
+portant for us.
+We're a key IT company with sig
+nificant customers, so we've had the
+development internally since 1995,
+and it's very much a philosophy
+along the same lines as MIPS in
+what we were working on in terms of
+multithreading and RISC architec
+tures. But it's just in the last year in
+discussion with the MIPS executives
+and team [that] it became clear that
+there is a mechanism for us acquir
+
+ing MIPS in a structure that doubles
+the team size.
+We [had] about 200 people on our
+processor team, and now we're dou
+ble that, and that combination means
+[that], both in terms of capability and
+know-how, this brings additional
+ecosystems to us. Particularly with
+the fact that MIPS is in the Android
+tree — that means our processors
+getting where we want to be with the
+processor technology sped up, both
+in times of resources and where we
+are in the marketplace.
+TSD:Does the MIPS architec
+ture's efficiency in cost and in
+power make it more attractive in
+low-cost markets in the future?
+HY: One of the major constraints
+in mobile devices is that they are not
+capable of plugging into power. So
+you have a set power envelope that
+you have to live with. And not only
+that, but consumers also have expec
+tations they have every day. They
+want it be to be as good as their PCs.
+Now going forward, everything
+needs to be smart, everything needs
+a CPU and power is still a con
+straint. We certainly believe MIPS is
+one of the most efficient architec
+tures that exists on this planet and
+certainly have expectations and as
+pirations that it will grow from this
+base with the amount of energy we
+can put behind and become a big
+player in the market space.
+JH: Efficiency has become the
+key issue that's the key phrase. It
+was less important early on when
+people were not as cost sensitized.
+It's one thing when you're building
+computers that cost several thou
+sand dollars. It's another when
+you're building a smartphone that
+only cost $2OO or you're building an
+embedded device that may only cost
+$5O or $25. Then it's a completely dif
+ferent game.
+TSD: Now that the technology is
+out there, how do you balance
+turning a profit with the need to
+keep improving and innovating
+with the architecture?
+HY: We are a public company,
+and I can tell you that, when you are
+a public company, you have to keep
+many people happy, internal and ex
+ternal, and it's a tough challenge.
+But my approach to these things is
+that, at the end of the day, I am a
+mathematician and a scientist and
+an engineer.
+I'm doing what I'm doing be
+cause I think there's a good chance
+of success. Of course profit and rev
+enue is important, but not at the ex
+pense of doing the wrong thing. You
+have to have a balance you cannot
+jeopardize the long term for the
+
+short-term decisions, particularly in
+IT business.
+
+JH: I think this is true for not
+just tech companies, but all compa
+nies right now. The fundamentally
+difficult problem is keeping long
+term innovation alive and doing that
+while keeping your current business
+running, which you have to do. If
+you're a public company, the share
+holders will desert you quite quickly.
+But all companies have that fun
+damental problem of how do you
+keep that innovation engine alive be
+cause that's the secret of growth and
+taking advantage of new markets
+and new opportunities.
+TSD: If you were to go back to
+when you first started this work,
+could you have anticipated this
+level of success with the MIPS ar
+chitecture? And when you're look
+ing back 50 years from now, what
+do you hope people are saying
+about it?
+JH: We knew that we had discov
+ered something fairly fundamental
+we understood that. We didn't un
+derstand how all the pieces fit to
+gether.
+You never know what the suc
+cesses will be like. Especially when
+you're at a small company, and
+you're fighting for your life, and
+you're up and down. At one point,
+the company was down to 10 days of
+operating capital this was many
+years ago in the early 'Bos but
+with 10 days of operating capital,
+you have to do something or you're
+going to be out of business shortly.
+And that's what its like for start
+up companies. The fact that the ar
+chitecture bloomed, it really
+bloomed with this movement out in
+to the embedded space. And I'm ex
+cited to see Imagination pick up and
+build on this incredible history and
+take this to the next level as we go
+forward. I think the world is going to
+get better, and we're going to see
+lots of interesting breakthroughs
+and uses of this technology, and I'm
+excited to see Imagination do it.
+HY: The industry needs alterna
+tive CPUs giving choice to people,
+and we certainly recognize the his
+tory of MIPS, and our aim is to de
+velop and safeguard and be a good
+custodian taking this architecture
+forward and creating a kind of solu
+tion in IT that many customers can
+use and commit to for the long
+range.
+This interview has been con
+densed and edited.
+
+Contact Miles Bennett-Smith at
+milesbs@ Stanford, edu.
+After seven years as a professor in the elec
+trical engineering department, President John
+Hennessy took a sabbatical from Stanford in
+1984 to found MIPS Computer Systems Inc. and
+commercialize his work with RISC processing.
+The company went public shortly thereafter and
+enjoyed great success as the pioneer of MIPS
+architecture. Sir Hossein Yassaie is the CEO of
+Imagination Technologies Group, which ac
+quired what is now called MIPS Technologies
+last year to use in future CPU development.
+The Daily sat down with both Hennessy and
+Yassaie to talk about the acquisition as well as
+the history of MIPS and the realities of informa
+tion technology and startup companies.
+The Stanford Daily (TSD): Can you just ex
+plain a little bit about how things happened
+with the early days of your company and
+what led up to this point with the MIPS tech
+nology?
+John Hennessy (JH): The MIPS [Micro
+processor without Interlocked Pipeline Stages]
+architecture had its roots in a research project
+here at Stanford started in the early 1980s with
+
+the simple question: What would the age of sin
+gle chip CPUs mean for how we should design
+processors? Stanford, together with Berkeley
+and IBM, really ... stumbled upon an incredible
+discovery about a better way to design instruc
+tion sets for modern computers than had been
+previously thought about.
+And I say "stumbled upon" because really
+what happened was the constraints of having to
+fit a processor with the limited number of tran
+sistors at that time meant that we had to rethink
+the whole process of how to design the interface
+between the software system and the hardware
+system. That's what led to the fundamental dis
+covery, but I think it wasn't until some years lat
+er that people really realized how fundamental it
+was.
+In fact, in the beginning there was a lot of
+skepticism. The IBM project was kept secret for
+many years, and people didn't know about it.
+And it became very easy for many people in the
+industry to say, "This is a bunch of crazy aca
+demics here this isn't really a great idea." It
+had to prove itself over time.
+We started the company not because we
+wanted to be entrepreneurs. We were, in fact, re-
+
+
+IAN GARCIA-DOTY/The Stanford Daily
+President John Hennessy, who led the team that invented the MIPS framework in the '80s, said that the chip architecture is uniquely suited to emerging and mobile computing markets due to its energy and cost efficiency.
+luctant entrepreneurs we started
+the company originally because a fa
+mous computer scientist convinced
+us that, if we didn't start the compa
+ny, the technology would just lan
+guish on the shelves. [The technolo
+gy] was very threatening to the ex
+isting players out there and their
+machines, and if they adopted this
+technology, it was going to obsolete
+their products.
+
+Gordon Bell was then the
+founder of the second-largest com
+puter company [Digital Equipment
+Corporation], and he said, "You've
+got to go do this yourself, otherwise
+you're going to have a bunch of pa
+pers sitting on a shelf that nobody's
+ever going to use." And, in retro
+spect, it turned out to be very in
+sightful.
+In fact, one of the founders of
+MIPS helped me found the compa
+ny, because when IBM cancelled the
+project, he so believed in this tech
+nology that he said, "I'm not going
+back to IBM. If you guys want to do
+something here, I'm in."
+
+And, at the time, people were
+making big computers that cost a lot
+of money. Room-sized. And we were
+talking an improvement by a factor
+of five in cost, conservatively and
+maybe a factor of 10. So it was a big
+change. People were thinking,
+"Well, I'll just sell fewer computers,
+and I'll make less money" instead of
+saying, "Suppose you delivered that
+much power—what could it do in
+terms of what could it do and how
+many people could afford them?"
+They didn't see that, and it was ear
+ly on.
+And that's another reason I say
+it often takes an entrepreneur to re
+ally take it out there, somebody's
+who is really been involved in the
+creation of something. If you're in
+volved in it, you see the glass as half
+full. Yeah, there are some problems
+to be solved, but the key insight is
+there. Everybody else sees the glass
+as half empty and says, "This isn't
+going to work. This is a research
+project."
+I still remember this funny story
+I was on a panel with Dave Pat
+terson, who was doing a similar proj
+ect at Berkeley with IBM. And
+somebody says to him, just after we
+had started the company "You know
+Hennessy here on the panel? He just
+got a million dollars to invest from
+the venture capitalists, and he's go
+ing to start this company. If this
+technology's not going to work, what
+should he do? Take the money and
+go to South America." [Laughing]
+TSD: How does acquiring MIPS
+accelerate your activities at Imag
+ination, and what was the think
+ing behind the move?
+Hossein Yassaie (HY): We funda
+mentally believe the processor mar
+ket is a big market and is an area
+that is growing. As I think John
+touched on, this market started with
+areas such as game consoles, embed
+ded applications and mobile phones
+and tablets, which is a very big area.
+On the horizon, everyone talks
+about connected devices and Inter
+net updates. We went from tens of
+millions to hundreds of millions to a
+few billion, and now I think we're
+heading toward tens of billions of
+things which are clever and smart,
+so the process of business is very im
+portant for us.
+We're a key IT company with sig
+nificant customers, so we've had the
+development internally since 1995,
+and it's very much a philosophy
+along the same lines as MIPS in
+what we were working on in terms of
+multithreading and RISC architec
+tures. But it's just in the last year in
+discussion with the MIPS executives
+and team [that] it became clear that
+there is a mechanism for us acquir
+
+ing MIPS in a structure that doubles
+the team size.
+We [had] about 200 people on our
+processor team, and now we're dou
+ble that, and that combination means
+[that], both in terms of capability and
+know-how, this brings additional
+ecosystems to us. Particularly with
+the fact that MIPS is in the Android
+tree — that means our processors
+getting where we want to be with the
+processor technology sped up, both
+in times of resources and where we
+are in the marketplace.
+TSD:Does the MIPS architec
+ture's efficiency in cost and in
+power make it more attractive in
+low-cost markets in the future?
+HY: One of the major constraints
+in mobile devices is that they are not
+capable of plugging into power. So
+you have a set power envelope that
+you have to live with. And not only
+that, but consumers also have expec
+tations they have every day. They
+want it be to be as good as their PCs.
+Now going forward, everything
+needs to be smart, everything needs
+a CPU and power is still a con
+straint. We certainly believe MIPS is
+one of the most efficient architec
+tures that exists on this planet and
+certainly have expectations and as
+pirations that it will grow from this
+base with the amount of energy we
+can put behind and become a big
+player in the market space.
+JH: Efficiency has become the
+key issue that's the key phrase. It
+was less important early on when
+people were not as cost sensitized.
+It's one thing when you're building
+computers that cost several thou
+sand dollars. It's another when
+you're building a smartphone that
+only cost $2OO or you're building an
+embedded device that may only cost
+$5O or $25. Then it's a completely dif
+ferent game.
+TSD: Now that the technology is
+out there, how do you balance
+turning a profit with the need to
+keep improving and innovating
+with the architecture?
+HY: We are a public company,
+and I can tell you that, when you are
+a public company, you have to keep
+many people happy, internal and ex
+ternal, and it's a tough challenge.
+But my approach to these things is
+that, at the end of the day, I am a
+mathematician and a scientist and
+an engineer.
+I'm doing what I'm doing be
+cause I think there's a good chance
+of success. Of course profit and rev
+enue is important, but not at the ex
+pense of doing the wrong thing. You
+have to have a balance you cannot
+jeopardize the long term for the
+
+short-term decisions, particularly in
+IT business.
+
+JH: I think this is true for not
+just tech companies, but all compa
+nies right now. The fundamentally
+difficult problem is keeping long
+term innovation alive and doing that
+while keeping your current business
+running, which you have to do. If
+you're a public company, the share
+holders will desert you quite quickly.
+But all companies have that fun
+damental problem of how do you
+keep that innovation engine alive be
+cause that's the secret of growth and
+taking advantage of new markets
+and new opportunities.
+TSD: If you were to go back to
+when you first started this work,
+could you have anticipated this
+level of success with the MIPS ar
+chitecture? And when you're look
+ing back 50 years from now, what
+do you hope people are saying
+about it?
+JH: We knew that we had discov
+ered something fairly fundamental
+we understood that. We didn't un
+derstand how all the pieces fit to
+gether.
+You never know what the suc
+cesses will be like. Especially when
+you're at a small company, and
+you're fighting for your life, and
+you're up and down. At one point,
+the company was down to 10 days of
+operating capital this was many
+years ago in the early 'Bos but
+with 10 days of operating capital,
+you have to do something or you're
+going to be out of business shortly.
+And that's what its like for start
+up companies. The fact that the ar
+chitecture bloomed, it really
+bloomed with this movement out in
+to the embedded space. And I'm ex
+cited to see Imagination pick up and
+build on this incredible history and
+take this to the next level as we go
+forward. I think the world is going to
+get better, and we're going to see
+lots of interesting breakthroughs
+and uses of this technology, and I'm
+excited to see Imagination do it.
+HY: The industry needs alterna
+tive CPUs giving choice to people,
+and we certainly recognize the his
+tory of MIPS, and our aim is to de
+velop and safeguard and be a good
+custodian taking this architecture
+forward and creating a kind of solu
+tion in IT that many customers can
+use and commit to for the long
+range.
+This interview has been con
+densed and edited.
+
+Contact Miles Bennett-Smith at
+milesbs@ Stanford, edu.

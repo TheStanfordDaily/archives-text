@@ -1,0 +1,825 @@
+# GOAL!
+## Emerging field: Bioinformatics Conference on campus showcases University lead on frontier 
+### ANDREA FULLER STAFF WRITER 
+Researchers gathered together this week to
+discuss new ways in which computers can help
+to diagnose and treat disease as Stanford host
+ed the fifth annual Computational Systems
+Bioinformatics Conference, Aug. 14 through
+tomorrow.
+The National Institutes of Health (NIH)
+supports seven biomedical computation cen
+ters that work to convert medical research into
+practical applications. Two of the centers, the
+National Center for Biomedical Ontology and
+the National Center for Physics-based
+Simulation of Biological Structures, are located
+at Stanford.
+Betty Cheng, associate director of the
+Biomedical Informatics Training Program
+sponsoring the conference, said that the defini
+tion of bioinformatics varies.
+"Some use a narrow definition: the collec
+tion and storage of biological data, using com
+puters in order to increase the efficiency and
+scope of biomedical data management, analy
+
+sis and visualization," she said. "Others use a
+broader definition: the development of mathe
+matical models representing biological prob
+lems implemented with the best principles of
+computer science. These models represent
+original approaches to understanding the prob
+lem and are complementary approaches to tra
+ditional or experimental methods of scientific
+analysis."
+She cited visualization platforms for model
+ing molecular structures, visualization tools for
+looking at complex biological interactions and
+software for managing large amounts of data as
+applications used in the field.
+Cheng said that bioinformatics faces devel
+opmental challenges because it is a relatively
+new field.
+"Since bioinformatics is relatively young,
+there are few formal ways to enter the field,"
+she said. "The number of degree-granting insti
+tutions in this field is small, and many of the
+programs are only a few years old."
+She noted that the University's Medical
+Information Sciences program, renamed as the
+Biomedical Informatics (BMI) Program, was
+one of the first programs to grant degrees relat-
+
+
+GRANT HOCHSTEIN/The Stanford Daily
+WORLD CUP REDUX: Galen Thompson, Scott Bolken, Bret himizu and T.J. Novak of the
+Men's soccer team celebrate after scoring in an exhibition win over Sonoma State Tuesday.
+Ed to biomedical informatics, and that
+Stanford continues to be a leader in the field.
+"Research in biomedical informatics at
+Stanford represents the leading edge in the
+field," she said.
+The conference was founded by Bay Area
+Bioinformatics and is sponsored by the Life
+Sciences Society. Tuesday night, six panelists,
+directors of six of the seven centers, gathered
+in Cubberly Auditorium to discuss the field.
+John Wooley from the University of
+California, San Diego Supercomputer
+Center opened the talk, discussing the impor
+tance of the new field.
+"For most people, computational biology
+is an oxymoron," he said. "We've come a
+long ways-Computational biology is here
+and it matters."
+Eric Jakobsson, a professor at the
+University of Illinois at Urbana-Champaign
+then spoke about the difficulties related to
+biomedical computation. He discussed how
+biomedical computing tools are difficult to
+use and fragile, and they also have limited
+dissemination possibilities. However, he
+noted that technology is improving.
+"This is less true already than it was a cou
+ple of years ago," he said. "We've seen some
+really interesting things today."
+Jakobsson then spoke about the history of
+bioinformatics, discussing the National
+Institutes of Health Bioinformatics and
+Computational Biology Roadmap that was
+developed in 2003, outlining an eight to 10-
+year plan to create biomedical computing
+centers. He then discussed the importance of
+biology as an interdisciplinary field.
+"I don't think biology is a pure science," he
+said. "Biology is a cross, a hybrid right from
+the start between an engineering way of think
+ing and a purely scientific way of thinking."
+
+He noted how bioinformatics would
+change the future of biology from a techno
+logical aspect.
+The six panelists then each gave an intro
+duction to their fields, speaking about their
+centers, key challenges for the future and
+possibilities for collaboration. Ron Kikinis,
+MD, director of the Surgical Planning
+Laboratory at Brigham and Woman's
+Hospital and a professor of Radiology at
+Harvard Medical School, discussed new
+technologies, such as a "3-D slicer," an
+application for image analysis and data visu
+alization.
+Mark Munsen from the National Center
+for Biomedical Ontology at Stanford and
+head of Stanford Medical Informatics then
+discussed the goal of his center to make
+ontoligies accessible and usable, champi
+oning his center's focus on technology devel
+opment. University of Michigan professor
+Brian Athey from the National Center for
+Biomedical Informatics then discussed the
+importance of expanding the field to new
+types of research and the difficulty of the
+NIH getting engineers and computer scien
+tists.
+As the aforementioned centers have
+grown at Stanford, undergraduate students
+have also gained the opportunity to do
+research in the developing field. Rising senior
+Joe Chan expressed his interest in bioinfor
+matics.
+"What really drew me to bioinformatics is
+its ability to render complex questions of
+biology into more tangible and visual terms,"
+he said. "Bioinformatics is a powerful tool
+because it can unearth hidden patterns from
+an immense collection of data that would be
+impossible to interpret without more com
+puting power."
+Researchers gathered together this week to
+discuss new ways in which computers can help
+to diagnose and treat disease as Stanford host
+ed the fifth annual Computational Systems
+Bioinformatics Conference, Aug. 14 through
+tomorrow.
+The National Institutes of Health (NIH)
+supports seven biomedical computation cen
+ters that work to convert medical research into
+practical applications. Two of the centers, the
+National Center for Biomedical Ontology and
+the National Center for Physics-based
+Simulation of Biological Structures, are located
+at Stanford.
+Betty Cheng, associate director of the
+Biomedical Informatics Training Program
+sponsoring the conference, said that the defini
+tion of bioinformatics varies.
+"Some use a narrow definition: the collec
+tion and storage of biological data, using com
+puters in order to increase the efficiency and
+scope of biomedical data management, analy
+
+sis and visualization," she said. "Others use a
+broader definition: the development of mathe
+matical models representing biological prob
+lems implemented with the best principles of
+computer science. These models represent
+original approaches to understanding the prob
+lem and are complementary approaches to tra
+ditional or experimental methods of scientific
+analysis."
+She cited visualization platforms for model
+ing molecular structures, visualization tools for
+looking at complex biological interactions and
+software for managing large amounts of data as
+applications used in the field.
+Cheng said that bioinformatics faces devel
+opmental challenges because it is a relatively
+new field.
+"Since bioinformatics is relatively young,
+there are few formal ways to enter the field,"
+she said. "The number of degree-granting insti
+tutions in this field is small, and many of the
+programs are only a few years old."
+She noted that the University's Medical
+Information Sciences program, renamed as the
+Biomedical Informatics (BMI) Program, was
+one of the first programs to grant degrees relat-
+
+
+GRANT HOCHSTEIN/The Stanford Daily
+WORLD CUP REDUX: Galen Thompson, Scott Bolken, Bret himizu and T.J. Novak of the
+Men's soccer team celebrate after scoring in an exhibition win over Sonoma State Tuesday.
+Ed to biomedical informatics, and that
+Stanford continues to be a leader in the field.
+"Research in biomedical informatics at
+Stanford represents the leading edge in the
+field," she said.
+The conference was founded by Bay Area
+Bioinformatics and is sponsored by the Life
+Sciences Society. Tuesday night, six panelists,
+directors of six of the seven centers, gathered
+in Cubberly Auditorium to discuss the field.
+John Wooley from the University of
+California, San Diego Supercomputer
+Center opened the talk, discussing the impor
+tance of the new field.
+"For most people, computational biology
+is an oxymoron," he said. "We've come a
+long ways-Computational biology is here
+and it matters."
+Eric Jakobsson, a professor at the
+University of Illinois at Urbana-Champaign
+then spoke about the difficulties related to
+biomedical computation. He discussed how
+biomedical computing tools are difficult to
+use and fragile, and they also have limited
+dissemination possibilities. However, he
+noted that technology is improving.
+"This is less true already than it was a cou
+ple of years ago," he said. "We've seen some
+really interesting things today."
+Jakobsson then spoke about the history of
+bioinformatics, discussing the National
+Institutes of Health Bioinformatics and
+Computational Biology Roadmap that was
+developed in 2003, outlining an eight to 10-
+year plan to create biomedical computing
+centers. He then discussed the importance of
+biology as an interdisciplinary field.
+"I don't think biology is a pure science," he
+said. "Biology is a cross, a hybrid right from
+the start between an engineering way of think
+ing and a purely scientific way of thinking."
+
+He noted how bioinformatics would
+change the future of biology from a techno
+logical aspect.
+The six panelists then each gave an intro
+duction to their fields, speaking about their
+centers, key challenges for the future and
+possibilities for collaboration. Ron Kikinis,
+MD, director of the Surgical Planning
+Laboratory at Brigham and Woman's
+Hospital and a professor of Radiology at
+Harvard Medical School, discussed new
+technologies, such as a "3-D slicer," an
+application for image analysis and data visu
+alization.
+Mark Munsen from the National Center
+for Biomedical Ontology at Stanford and
+head of Stanford Medical Informatics then
+discussed the goal of his center to make
+ontoligies accessible and usable, champi
+oning his center's focus on technology devel
+opment. University of Michigan professor
+Brian Athey from the National Center for
+Biomedical Informatics then discussed the
+importance of expanding the field to new
+types of research and the difficulty of the
+NIH getting engineers and computer scien
+tists.
+As the aforementioned centers have
+grown at Stanford, undergraduate students
+have also gained the opportunity to do
+research in the developing field. Rising senior
+Joe Chan expressed his interest in bioinfor
+matics.
+"What really drew me to bioinformatics is
+its ability to render complex questions of
+biology into more tangible and visual terms,"
+he said. "Bioinformatics is a powerful tool
+because it can unearth hidden patterns from
+an immense collection of data that would be
+impossible to interpret without more com
+puting power."
+Researchers gathered together this week to
+discuss new ways in which computers can help
+to diagnose and treat disease as Stanford host
+ed the fifth annual Computational Systems
+Bioinformatics Conference, Aug. 14 through
+tomorrow.
+The National Institutes of Health (NIH)
+supports seven biomedical computation cen
+ters that work to convert medical research into
+practical applications. Two of the centers, the
+National Center for Biomedical Ontology and
+the National Center for Physics-based
+Simulation of Biological Structures, are located
+at Stanford.
+Betty Cheng, associate director of the
+Biomedical Informatics Training Program
+sponsoring the conference, said that the defini
+tion of bioinformatics varies.
+"Some use a narrow definition: the collec
+tion and storage of biological data, using com
+puters in order to increase the efficiency and
+scope of biomedical data management, analy
+
+sis and visualization," she said. "Others use a
+broader definition: the development of mathe
+matical models representing biological prob
+lems implemented with the best principles of
+computer science. These models represent
+original approaches to understanding the prob
+lem and are complementary approaches to tra
+ditional or experimental methods of scientific
+analysis."
+She cited visualization platforms for model
+ing molecular structures, visualization tools for
+looking at complex biological interactions and
+software for managing large amounts of data as
+applications used in the field.
+Cheng said that bioinformatics faces devel
+opmental challenges because it is a relatively
+new field.
+"Since bioinformatics is relatively young,
+there are few formal ways to enter the field,"
+she said. "The number of degree-granting insti
+tutions in this field is small, and many of the
+programs are only a few years old."
+She noted that the University's Medical
+Information Sciences program, renamed as the
+Biomedical Informatics (BMI) Program, was
+one of the first programs to grant degrees relat-
+
+
+GRANT HOCHSTEIN/The Stanford Daily
+WORLD CUP REDUX: Galen Thompson, Scott Bolken, Bret himizu and T.J. Novak of the
+Men's soccer team celebrate after scoring in an exhibition win over Sonoma State Tuesday.
+Ed to biomedical informatics, and that
+Stanford continues to be a leader in the field.
+"Research in biomedical informatics at
+Stanford represents the leading edge in the
+field," she said.
+The conference was founded by Bay Area
+Bioinformatics and is sponsored by the Life
+Sciences Society. Tuesday night, six panelists,
+directors of six of the seven centers, gathered
+in Cubberly Auditorium to discuss the field.
+John Wooley from the University of
+California, San Diego Supercomputer
+Center opened the talk, discussing the impor
+tance of the new field.
+"For most people, computational biology
+is an oxymoron," he said. "We've come a
+long ways-Computational biology is here
+and it matters."
+Eric Jakobsson, a professor at the
+University of Illinois at Urbana-Champaign
+then spoke about the difficulties related to
+biomedical computation. He discussed how
+biomedical computing tools are difficult to
+use and fragile, and they also have limited
+dissemination possibilities. However, he
+noted that technology is improving.
+"This is less true already than it was a cou
+ple of years ago," he said. "We've seen some
+really interesting things today."
+Jakobsson then spoke about the history of
+bioinformatics, discussing the National
+Institutes of Health Bioinformatics and
+Computational Biology Roadmap that was
+developed in 2003, outlining an eight to 10-
+year plan to create biomedical computing
+centers. He then discussed the importance of
+biology as an interdisciplinary field.
+"I don't think biology is a pure science," he
+said. "Biology is a cross, a hybrid right from
+the start between an engineering way of think
+ing and a purely scientific way of thinking."
+
+He noted how bioinformatics would
+change the future of biology from a techno
+logical aspect.
+The six panelists then each gave an intro
+duction to their fields, speaking about their
+centers, key challenges for the future and
+possibilities for collaboration. Ron Kikinis,
+MD, director of the Surgical Planning
+Laboratory at Brigham and Woman's
+Hospital and a professor of Radiology at
+Harvard Medical School, discussed new
+technologies, such as a "3-D slicer," an
+application for image analysis and data visu
+alization.
+Mark Munsen from the National Center
+for Biomedical Ontology at Stanford and
+head of Stanford Medical Informatics then
+discussed the goal of his center to make
+ontoligies accessible and usable, champi
+oning his center's focus on technology devel
+opment. University of Michigan professor
+Brian Athey from the National Center for
+Biomedical Informatics then discussed the
+importance of expanding the field to new
+types of research and the difficulty of the
+NIH getting engineers and computer scien
+tists.
+As the aforementioned centers have
+grown at Stanford, undergraduate students
+have also gained the opportunity to do
+research in the developing field. Rising senior
+Joe Chan expressed his interest in bioinfor
+matics.
+"What really drew me to bioinformatics is
+its ability to render complex questions of
+biology into more tangible and visual terms,"
+he said. "Bioinformatics is a powerful tool
+because it can unearth hidden patterns from
+an immense collection of data that would be
+impossible to interpret without more com
+puting power."
+Researchers gathered together this week to
+discuss new ways in which computers can help
+to diagnose and treat disease as Stanford host
+ed the fifth annual Computational Systems
+Bioinformatics Conference, Aug. 14 through
+tomorrow.
+The National Institutes of Health (NIH)
+supports seven biomedical computation cen
+ters that work to convert medical research into
+practical applications. Two of the centers, the
+National Center for Biomedical Ontology and
+the National Center for Physics-based
+Simulation of Biological Structures, are located
+at Stanford.
+Betty Cheng, associate director of the
+Biomedical Informatics Training Program
+sponsoring the conference, said that the defini
+tion of bioinformatics varies.
+"Some use a narrow definition: the collec
+tion and storage of biological data, using com
+puters in order to increase the efficiency and
+scope of biomedical data management, analy
+
+sis and visualization," she said. "Others use a
+broader definition: the development of mathe
+matical models representing biological prob
+lems implemented with the best principles of
+computer science. These models represent
+original approaches to understanding the prob
+lem and are complementary approaches to tra
+ditional or experimental methods of scientific
+analysis."
+She cited visualization platforms for model
+ing molecular structures, visualization tools for
+looking at complex biological interactions and
+software for managing large amounts of data as
+applications used in the field.
+Cheng said that bioinformatics faces devel
+opmental challenges because it is a relatively
+new field.
+"Since bioinformatics is relatively young,
+there are few formal ways to enter the field,"
+she said. "The number of degree-granting insti
+tutions in this field is small, and many of the
+programs are only a few years old."
+She noted that the University's Medical
+Information Sciences program, renamed as the
+Biomedical Informatics (BMI) Program, was
+one of the first programs to grant degrees relat-
+
+
+GRANT HOCHSTEIN/The Stanford Daily
+WORLD CUP REDUX: Galen Thompson, Scott Bolken, Bret himizu and T.J. Novak of the
+Men's soccer team celebrate after scoring in an exhibition win over Sonoma State Tuesday.
+Ed to biomedical informatics, and that
+Stanford continues to be a leader in the field.
+"Research in biomedical informatics at
+Stanford represents the leading edge in the
+field," she said.
+The conference was founded by Bay Area
+Bioinformatics and is sponsored by the Life
+Sciences Society. Tuesday night, six panelists,
+directors of six of the seven centers, gathered
+in Cubberly Auditorium to discuss the field.
+John Wooley from the University of
+California, San Diego Supercomputer
+Center opened the talk, discussing the impor
+tance of the new field.
+"For most people, computational biology
+is an oxymoron," he said. "We've come a
+long ways-Computational biology is here
+and it matters."
+Eric Jakobsson, a professor at the
+University of Illinois at Urbana-Champaign
+then spoke about the difficulties related to
+biomedical computation. He discussed how
+biomedical computing tools are difficult to
+use and fragile, and they also have limited
+dissemination possibilities. However, he
+noted that technology is improving.
+"This is less true already than it was a cou
+ple of years ago," he said. "We've seen some
+really interesting things today."
+Jakobsson then spoke about the history of
+bioinformatics, discussing the National
+Institutes of Health Bioinformatics and
+Computational Biology Roadmap that was
+developed in 2003, outlining an eight to 10-
+year plan to create biomedical computing
+centers. He then discussed the importance of
+biology as an interdisciplinary field.
+"I don't think biology is a pure science," he
+said. "Biology is a cross, a hybrid right from
+the start between an engineering way of think
+ing and a purely scientific way of thinking."
+
+He noted how bioinformatics would
+change the future of biology from a techno
+logical aspect.
+The six panelists then each gave an intro
+duction to their fields, speaking about their
+centers, key challenges for the future and
+possibilities for collaboration. Ron Kikinis,
+MD, director of the Surgical Planning
+Laboratory at Brigham and Woman's
+Hospital and a professor of Radiology at
+Harvard Medical School, discussed new
+technologies, such as a "3-D slicer," an
+application for image analysis and data visu
+alization.
+Mark Munsen from the National Center
+for Biomedical Ontology at Stanford and
+head of Stanford Medical Informatics then
+discussed the goal of his center to make
+ontoligies accessible and usable, champi
+oning his center's focus on technology devel
+opment. University of Michigan professor
+Brian Athey from the National Center for
+Biomedical Informatics then discussed the
+importance of expanding the field to new
+types of research and the difficulty of the
+NIH getting engineers and computer scien
+tists.
+As the aforementioned centers have
+grown at Stanford, undergraduate students
+have also gained the opportunity to do
+research in the developing field. Rising senior
+Joe Chan expressed his interest in bioinfor
+matics.
+"What really drew me to bioinformatics is
+its ability to render complex questions of
+biology into more tangible and visual terms,"
+he said. "Bioinformatics is a powerful tool
+because it can unearth hidden patterns from
+an immense collection of data that would be
+impossible to interpret without more com
+puting power."
+Researchers gathered together this week to
+discuss new ways in which computers can help
+to diagnose and treat disease as Stanford host
+ed the fifth annual Computational Systems
+Bioinformatics Conference, Aug. 14 through
+tomorrow.
+The National Institutes of Health (NIH)
+supports seven biomedical computation cen
+ters that work to convert medical research into
+practical applications. Two of the centers, the
+National Center for Biomedical Ontology and
+the National Center for Physics-based
+Simulation of Biological Structures, are located
+at Stanford.
+Betty Cheng, associate director of the
+Biomedical Informatics Training Program
+sponsoring the conference, said that the defini
+tion of bioinformatics varies.
+"Some use a narrow definition: the collec
+tion and storage of biological data, using com
+puters in order to increase the efficiency and
+scope of biomedical data management, analy
+
+sis and visualization," she said. "Others use a
+broader definition: the development of mathe
+matical models representing biological prob
+lems implemented with the best principles of
+computer science. These models represent
+original approaches to understanding the prob
+lem and are complementary approaches to tra
+ditional or experimental methods of scientific
+analysis."
+She cited visualization platforms for model
+ing molecular structures, visualization tools for
+looking at complex biological interactions and
+software for managing large amounts of data as
+applications used in the field.
+Cheng said that bioinformatics faces devel
+opmental challenges because it is a relatively
+new field.
+"Since bioinformatics is relatively young,
+there are few formal ways to enter the field,"
+she said. "The number of degree-granting insti
+tutions in this field is small, and many of the
+programs are only a few years old."
+She noted that the University's Medical
+Information Sciences program, renamed as the
+Biomedical Informatics (BMI) Program, was
+one of the first programs to grant degrees relat-
+
+
+GRANT HOCHSTEIN/The Stanford Daily
+WORLD CUP REDUX: Galen Thompson, Scott Bolken, Bret himizu and T.J. Novak of the
+Men's soccer team celebrate after scoring in an exhibition win over Sonoma State Tuesday.
+Ed to biomedical informatics, and that
+Stanford continues to be a leader in the field.
+"Research in biomedical informatics at
+Stanford represents the leading edge in the
+field," she said.
+The conference was founded by Bay Area
+Bioinformatics and is sponsored by the Life
+Sciences Society. Tuesday night, six panelists,
+directors of six of the seven centers, gathered
+in Cubberly Auditorium to discuss the field.
+John Wooley from the University of
+California, San Diego Supercomputer
+Center opened the talk, discussing the impor
+tance of the new field.
+"For most people, computational biology
+is an oxymoron," he said. "We've come a
+long ways-Computational biology is here
+and it matters."
+Eric Jakobsson, a professor at the
+University of Illinois at Urbana-Champaign
+then spoke about the difficulties related to
+biomedical computation. He discussed how
+biomedical computing tools are difficult to
+use and fragile, and they also have limited
+dissemination possibilities. However, he
+noted that technology is improving.
+"This is less true already than it was a cou
+ple of years ago," he said. "We've seen some
+really interesting things today."
+Jakobsson then spoke about the history of
+bioinformatics, discussing the National
+Institutes of Health Bioinformatics and
+Computational Biology Roadmap that was
+developed in 2003, outlining an eight to 10-
+year plan to create biomedical computing
+centers. He then discussed the importance of
+biology as an interdisciplinary field.
+"I don't think biology is a pure science," he
+said. "Biology is a cross, a hybrid right from
+the start between an engineering way of think
+ing and a purely scientific way of thinking."
+
+He noted how bioinformatics would
+change the future of biology from a techno
+logical aspect.
+The six panelists then each gave an intro
+duction to their fields, speaking about their
+centers, key challenges for the future and
+possibilities for collaboration. Ron Kikinis,
+MD, director of the Surgical Planning
+Laboratory at Brigham and Woman's
+Hospital and a professor of Radiology at
+Harvard Medical School, discussed new
+technologies, such as a "3-D slicer," an
+application for image analysis and data visu
+alization.
+Mark Munsen from the National Center
+for Biomedical Ontology at Stanford and
+head of Stanford Medical Informatics then
+discussed the goal of his center to make
+ontoligies accessible and usable, champi
+oning his center's focus on technology devel
+opment. University of Michigan professor
+Brian Athey from the National Center for
+Biomedical Informatics then discussed the
+importance of expanding the field to new
+types of research and the difficulty of the
+NIH getting engineers and computer scien
+tists.
+As the aforementioned centers have
+grown at Stanford, undergraduate students
+have also gained the opportunity to do
+research in the developing field. Rising senior
+Joe Chan expressed his interest in bioinfor
+matics.
+"What really drew me to bioinformatics is
+its ability to render complex questions of
+biology into more tangible and visual terms,"
+he said. "Bioinformatics is a powerful tool
+because it can unearth hidden patterns from
+an immense collection of data that would be
+impossible to interpret without more com
+puting power."
+Researchers gathered together this week to
+discuss new ways in which computers can help
+to diagnose and treat disease as Stanford host
+ed the fifth annual Computational Systems
+Bioinformatics Conference, Aug. 14 through
+tomorrow.
+The National Institutes of Health (NIH)
+supports seven biomedical computation cen
+ters that work to convert medical research into
+practical applications. Two of the centers, the
+National Center for Biomedical Ontology and
+the National Center for Physics-based
+Simulation of Biological Structures, are located
+at Stanford.
+Betty Cheng, associate director of the
+Biomedical Informatics Training Program
+sponsoring the conference, said that the defini
+tion of bioinformatics varies.
+"Some use a narrow definition: the collec
+tion and storage of biological data, using com
+puters in order to increase the efficiency and
+scope of biomedical data management, analy
+
+sis and visualization," she said. "Others use a
+broader definition: the development of mathe
+matical models representing biological prob
+lems implemented with the best principles of
+computer science. These models represent
+original approaches to understanding the prob
+lem and are complementary approaches to tra
+ditional or experimental methods of scientific
+analysis."
+She cited visualization platforms for model
+ing molecular structures, visualization tools for
+looking at complex biological interactions and
+software for managing large amounts of data as
+applications used in the field.
+Cheng said that bioinformatics faces devel
+opmental challenges because it is a relatively
+new field.
+"Since bioinformatics is relatively young,
+there are few formal ways to enter the field,"
+she said. "The number of degree-granting insti
+tutions in this field is small, and many of the
+programs are only a few years old."
+She noted that the University's Medical
+Information Sciences program, renamed as the
+Biomedical Informatics (BMI) Program, was
+one of the first programs to grant degrees relat-
+
+
+GRANT HOCHSTEIN/The Stanford Daily
+WORLD CUP REDUX: Galen Thompson, Scott Bolken, Bret himizu and T.J. Novak of the
+Men's soccer team celebrate after scoring in an exhibition win over Sonoma State Tuesday.
+Ed to biomedical informatics, and that
+Stanford continues to be a leader in the field.
+"Research in biomedical informatics at
+Stanford represents the leading edge in the
+field," she said.
+The conference was founded by Bay Area
+Bioinformatics and is sponsored by the Life
+Sciences Society. Tuesday night, six panelists,
+directors of six of the seven centers, gathered
+in Cubberly Auditorium to discuss the field.
+John Wooley from the University of
+California, San Diego Supercomputer
+Center opened the talk, discussing the impor
+tance of the new field.
+"For most people, computational biology
+is an oxymoron," he said. "We've come a
+long ways-Computational biology is here
+and it matters."
+Eric Jakobsson, a professor at the
+University of Illinois at Urbana-Champaign
+then spoke about the difficulties related to
+biomedical computation. He discussed how
+biomedical computing tools are difficult to
+use and fragile, and they also have limited
+dissemination possibilities. However, he
+noted that technology is improving.
+"This is less true already than it was a cou
+ple of years ago," he said. "We've seen some
+really interesting things today."
+Jakobsson then spoke about the history of
+bioinformatics, discussing the National
+Institutes of Health Bioinformatics and
+Computational Biology Roadmap that was
+developed in 2003, outlining an eight to 10-
+year plan to create biomedical computing
+centers. He then discussed the importance of
+biology as an interdisciplinary field.
+"I don't think biology is a pure science," he
+said. "Biology is a cross, a hybrid right from
+the start between an engineering way of think
+ing and a purely scientific way of thinking."
+
+He noted how bioinformatics would
+change the future of biology from a techno
+logical aspect.
+The six panelists then each gave an intro
+duction to their fields, speaking about their
+centers, key challenges for the future and
+possibilities for collaboration. Ron Kikinis,
+MD, director of the Surgical Planning
+Laboratory at Brigham and Woman's
+Hospital and a professor of Radiology at
+Harvard Medical School, discussed new
+technologies, such as a "3-D slicer," an
+application for image analysis and data visu
+alization.
+Mark Munsen from the National Center
+for Biomedical Ontology at Stanford and
+head of Stanford Medical Informatics then
+discussed the goal of his center to make
+ontoligies accessible and usable, champi
+oning his center's focus on technology devel
+opment. University of Michigan professor
+Brian Athey from the National Center for
+Biomedical Informatics then discussed the
+importance of expanding the field to new
+types of research and the difficulty of the
+NIH getting engineers and computer scien
+tists.
+As the aforementioned centers have
+grown at Stanford, undergraduate students
+have also gained the opportunity to do
+research in the developing field. Rising senior
+Joe Chan expressed his interest in bioinfor
+matics.
+"What really drew me to bioinformatics is
+its ability to render complex questions of
+biology into more tangible and visual terms,"
+he said. "Bioinformatics is a powerful tool
+because it can unearth hidden patterns from
+an immense collection of data that would be
+impossible to interpret without more com
+puting power."

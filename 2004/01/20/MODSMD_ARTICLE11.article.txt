@@ -1,0 +1,851 @@
+# Game Theory Boy cleans up his act
+## 
+### ROBBIE YAN I GOT GAME [THEORY] 
+As more and more Stanford students
+are getting infected by the flu, many have
+taken extreme caution to avoid the plague.
+One resident actually suggested to me that
+people might have picked up the disease
+while reliving themselves in bathrooms.
+This thought alarmed me to the possibility
+of getting infected on bathroom stalls and
+got me thinking about the best strategy to
+pick the appropriate stall in order to mini
+mize the risk of coming down with the
+plague.
+Intuition tells me that one should pick
+the stall least used by her fellow residents.
+The less a stall is utilized, the less infectious
+viruses and germs should be spread on the
+stall. However, how does one pick the most
+"unpopular" stall? Different people have
+different preferences on stalls: Some love
+the spacious stalls for the handicapped;
+some are accustomed to using the inner
+most stalls as they provide a sense of secu
+rity; others, on the other hand, like sitting
+on stalls closest to the window (to avoid ol
+factory suffering). There doesn't seem to
+
+be a type of stall that caters to everybody's
+taste. Even if there is one such type that at
+tracts more users than others, its populari
+ty would not last, either. Its frequent uti
+lization will eventually lead to littering and
+smell that are more prominent than the less
+frequently used ones, hence driving its po
+tential users away.
+So it seems that the approach of identi
+fying the least used stall beforehand is in
+feasible. How about randomly selecting a
+stall, then? In order to deduce a strategy*of
+stall choice that will minimize one's proba
+bility of getting infected, let's make the fol
+lowing assumptions. Since nobody knows
+how likely it is to get infected on any of the
+stalls and hence everybody employs more
+or less stable strategies when choosing
+which one to sit on, we can assume that the
+probability of getting infected on each of
+the stalls is static (it stays the same over
+time). For the purpose of illustration, we
+can further simplify our model by assuming
+that there are only two stalls in the bath
+room, A and B. The central question, then,
+becomes, how should one decide which
+stall to sit on without knowing the two
+stalls' respective probabilities of infecting
+
+their users with some virulent disease?
+Suppose the probability for stall A to in
+fect its user is a and that for stall B is b. As
+sume further that the user will enter the
+bathroom twice. She could employ one of
+the following strategies:
+1. Each time she enters the bathroom,
+toss a coin. If it's head, use stall A; if it's tail,
+use stall B.
+2. The first time she enters the bath
+room, toss a coin. If it's head, use stall A
+and stick with it the second time as well.
+Otherwise, if it's tail, use stall B both times.
+3. Use stall A the first time and stall B
+the second time.
+With the first stategy, one of the follow
+ing four cases could result with equal likeli
+hood: She uses stall A both times; she uses
+stall B both times; she uses A the first time,
+B the second time; and she uses B the first
+time, A the second time. The probabilities
+of not getting infected in each of the above
+cases are, (l-a) A 2, (l-b) A 2, (l-a)(l-b), (1-
+b)(l-a). Hence, the total probability of not
+getting infected is l/4*(l-a) A2+l/4*(l
+
+b) A 2+l/4*(l-a)(l-b)+l/4*(l-b)(l-a).
+With the second strategy, one of the fol
+lowing two cases occurs with equal likeli
+hood: she uses stall A both times or she
+uses stall B both times. The probability of
+not getting infected in the first case is (1-
+a) A 2 and that for the second case is (1-b) A 2.
+TTie total probability of not getting infected
+for this strategy is l/2*(l-a) A 2+l/2(l-b) A 2.
+With the third strategy, the probability
+of not getting infected should be (l-a)(l-b).
+The actual comparison of these three
+probabilities involves expanding the for
+mulae. For the sake of simplicity, let's plug
+in a=o.l and b=o.2. The three probabilities
+turn out to be .7225, .725, and .72. Hence
+forth, employing the second strategy ren
+ders the highest probability of not getting
+infected. So it seems that one should ran
+domly choose a bathroom stall and stick
+with it during her entire stay in the dorm.
+
+Robbie Yan is a junior in Arroyo. If you have
+a better bathroom strategy, you can email
+him at xyan@stanford.edu.
+As more and more Stanford students
+are getting infected by the flu, many have
+taken extreme caution to avoid the plague.
+One resident actually suggested to me that
+people might have picked up the disease
+while reliving themselves in bathrooms.
+This thought alarmed me to the possibility
+of getting infected on bathroom stalls and
+got me thinking about the best strategy to
+pick the appropriate stall in order to mini
+mize the risk of coming down with the
+plague.
+Intuition tells me that one should pick
+the stall least used by her fellow residents.
+The less a stall is utilized, the less infectious
+viruses and germs should be spread on the
+stall. However, how does one pick the most
+"unpopular" stall? Different people have
+different preferences on stalls: Some love
+the spacious stalls for the handicapped;
+some are accustomed to using the inner
+most stalls as they provide a sense of secu
+rity; others, on the other hand, like sitting
+on stalls closest to the window (to avoid ol
+factory suffering). There doesn't seem to
+
+be a type of stall that caters to everybody's
+taste. Even if there is one such type that at
+tracts more users than others, its populari
+ty would not last, either. Its frequent uti
+lization will eventually lead to littering and
+smell that are more prominent than the less
+frequently used ones, hence driving its po
+tential users away.
+So it seems that the approach of identi
+fying the least used stall beforehand is in
+feasible. How about randomly selecting a
+stall, then? In order to deduce a strategy*of
+stall choice that will minimize one's proba
+bility of getting infected, let's make the fol
+lowing assumptions. Since nobody knows
+how likely it is to get infected on any of the
+stalls and hence everybody employs more
+or less stable strategies when choosing
+which one to sit on, we can assume that the
+probability of getting infected on each of
+the stalls is static (it stays the same over
+time). For the purpose of illustration, we
+can further simplify our model by assuming
+that there are only two stalls in the bath
+room, A and B. The central question, then,
+becomes, how should one decide which
+stall to sit on without knowing the two
+stalls' respective probabilities of infecting
+
+their users with some virulent disease?
+Suppose the probability for stall A to in
+fect its user is a and that for stall B is b. As
+sume further that the user will enter the
+bathroom twice. She could employ one of
+the following strategies:
+1. Each time she enters the bathroom,
+toss a coin. If it's head, use stall A; if it's tail,
+use stall B.
+2. The first time she enters the bath
+room, toss a coin. If it's head, use stall A
+and stick with it the second time as well.
+Otherwise, if it's tail, use stall B both times.
+3. Use stall A the first time and stall B
+the second time.
+With the first stategy, one of the follow
+ing four cases could result with equal likeli
+hood: She uses stall A both times; she uses
+stall B both times; she uses A the first time,
+B the second time; and she uses B the first
+time, A the second time. The probabilities
+of not getting infected in each of the above
+cases are, (l-a) A 2, (l-b) A 2, (l-a)(l-b), (1-
+b)(l-a). Hence, the total probability of not
+getting infected is l/4*(l-a) A2+l/4*(l
+
+b) A 2+l/4*(l-a)(l-b)+l/4*(l-b)(l-a).
+With the second strategy, one of the fol
+lowing two cases occurs with equal likeli
+hood: she uses stall A both times or she
+uses stall B both times. The probability of
+not getting infected in the first case is (1-
+a) A 2 and that for the second case is (1-b) A 2.
+TTie total probability of not getting infected
+for this strategy is l/2*(l-a) A 2+l/2(l-b) A 2.
+With the third strategy, the probability
+of not getting infected should be (l-a)(l-b).
+The actual comparison of these three
+probabilities involves expanding the for
+mulae. For the sake of simplicity, let's plug
+in a=o.l and b=o.2. The three probabilities
+turn out to be .7225, .725, and .72. Hence
+forth, employing the second strategy ren
+ders the highest probability of not getting
+infected. So it seems that one should ran
+domly choose a bathroom stall and stick
+with it during her entire stay in the dorm.
+
+Robbie Yan is a junior in Arroyo. If you have
+a better bathroom strategy, you can email
+him at xyan@stanford.edu.
+As more and more Stanford students
+are getting infected by the flu, many have
+taken extreme caution to avoid the plague.
+One resident actually suggested to me that
+people might have picked up the disease
+while reliving themselves in bathrooms.
+This thought alarmed me to the possibility
+of getting infected on bathroom stalls and
+got me thinking about the best strategy to
+pick the appropriate stall in order to mini
+mize the risk of coming down with the
+plague.
+Intuition tells me that one should pick
+the stall least used by her fellow residents.
+The less a stall is utilized, the less infectious
+viruses and germs should be spread on the
+stall. However, how does one pick the most
+"unpopular" stall? Different people have
+different preferences on stalls: Some love
+the spacious stalls for the handicapped;
+some are accustomed to using the inner
+most stalls as they provide a sense of secu
+rity; others, on the other hand, like sitting
+on stalls closest to the window (to avoid ol
+factory suffering). There doesn't seem to
+
+be a type of stall that caters to everybody's
+taste. Even if there is one such type that at
+tracts more users than others, its populari
+ty would not last, either. Its frequent uti
+lization will eventually lead to littering and
+smell that are more prominent than the less
+frequently used ones, hence driving its po
+tential users away.
+So it seems that the approach of identi
+fying the least used stall beforehand is in
+feasible. How about randomly selecting a
+stall, then? In order to deduce a strategy*of
+stall choice that will minimize one's proba
+bility of getting infected, let's make the fol
+lowing assumptions. Since nobody knows
+how likely it is to get infected on any of the
+stalls and hence everybody employs more
+or less stable strategies when choosing
+which one to sit on, we can assume that the
+probability of getting infected on each of
+the stalls is static (it stays the same over
+time). For the purpose of illustration, we
+can further simplify our model by assuming
+that there are only two stalls in the bath
+room, A and B. The central question, then,
+becomes, how should one decide which
+stall to sit on without knowing the two
+stalls' respective probabilities of infecting
+
+their users with some virulent disease?
+Suppose the probability for stall A to in
+fect its user is a and that for stall B is b. As
+sume further that the user will enter the
+bathroom twice. She could employ one of
+the following strategies:
+1. Each time she enters the bathroom,
+toss a coin. If it's head, use stall A; if it's tail,
+use stall B.
+2. The first time she enters the bath
+room, toss a coin. If it's head, use stall A
+and stick with it the second time as well.
+Otherwise, if it's tail, use stall B both times.
+3. Use stall A the first time and stall B
+the second time.
+With the first stategy, one of the follow
+ing four cases could result with equal likeli
+hood: She uses stall A both times; she uses
+stall B both times; she uses A the first time,
+B the second time; and she uses B the first
+time, A the second time. The probabilities
+of not getting infected in each of the above
+cases are, (l-a) A 2, (l-b) A 2, (l-a)(l-b), (1-
+b)(l-a). Hence, the total probability of not
+getting infected is l/4*(l-a) A2+l/4*(l
+
+b) A 2+l/4*(l-a)(l-b)+l/4*(l-b)(l-a).
+With the second strategy, one of the fol
+lowing two cases occurs with equal likeli
+hood: she uses stall A both times or she
+uses stall B both times. The probability of
+not getting infected in the first case is (1-
+a) A 2 and that for the second case is (1-b) A 2.
+TTie total probability of not getting infected
+for this strategy is l/2*(l-a) A 2+l/2(l-b) A 2.
+With the third strategy, the probability
+of not getting infected should be (l-a)(l-b).
+The actual comparison of these three
+probabilities involves expanding the for
+mulae. For the sake of simplicity, let's plug
+in a=o.l and b=o.2. The three probabilities
+turn out to be .7225, .725, and .72. Hence
+forth, employing the second strategy ren
+ders the highest probability of not getting
+infected. So it seems that one should ran
+domly choose a bathroom stall and stick
+with it during her entire stay in the dorm.
+
+Robbie Yan is a junior in Arroyo. If you have
+a better bathroom strategy, you can email
+him at xyan@stanford.edu.
+As more and more Stanford students
+are getting infected by the flu, many have
+taken extreme caution to avoid the plague.
+One resident actually suggested to me that
+people might have picked up the disease
+while reliving themselves in bathrooms.
+This thought alarmed me to the possibility
+of getting infected on bathroom stalls and
+got me thinking about the best strategy to
+pick the appropriate stall in order to mini
+mize the risk of coming down with the
+plague.
+Intuition tells me that one should pick
+the stall least used by her fellow residents.
+The less a stall is utilized, the less infectious
+viruses and germs should be spread on the
+stall. However, how does one pick the most
+"unpopular" stall? Different people have
+different preferences on stalls: Some love
+the spacious stalls for the handicapped;
+some are accustomed to using the inner
+most stalls as they provide a sense of secu
+rity; others, on the other hand, like sitting
+on stalls closest to the window (to avoid ol
+factory suffering). There doesn't seem to
+
+be a type of stall that caters to everybody's
+taste. Even if there is one such type that at
+tracts more users than others, its populari
+ty would not last, either. Its frequent uti
+lization will eventually lead to littering and
+smell that are more prominent than the less
+frequently used ones, hence driving its po
+tential users away.
+So it seems that the approach of identi
+fying the least used stall beforehand is in
+feasible. How about randomly selecting a
+stall, then? In order to deduce a strategy*of
+stall choice that will minimize one's proba
+bility of getting infected, let's make the fol
+lowing assumptions. Since nobody knows
+how likely it is to get infected on any of the
+stalls and hence everybody employs more
+or less stable strategies when choosing
+which one to sit on, we can assume that the
+probability of getting infected on each of
+the stalls is static (it stays the same over
+time). For the purpose of illustration, we
+can further simplify our model by assuming
+that there are only two stalls in the bath
+room, A and B. The central question, then,
+becomes, how should one decide which
+stall to sit on without knowing the two
+stalls' respective probabilities of infecting
+
+their users with some virulent disease?
+Suppose the probability for stall A to in
+fect its user is a and that for stall B is b. As
+sume further that the user will enter the
+bathroom twice. She could employ one of
+the following strategies:
+1. Each time she enters the bathroom,
+toss a coin. If it's head, use stall A; if it's tail,
+use stall B.
+2. The first time she enters the bath
+room, toss a coin. If it's head, use stall A
+and stick with it the second time as well.
+Otherwise, if it's tail, use stall B both times.
+3. Use stall A the first time and stall B
+the second time.
+With the first stategy, one of the follow
+ing four cases could result with equal likeli
+hood: She uses stall A both times; she uses
+stall B both times; she uses A the first time,
+B the second time; and she uses B the first
+time, A the second time. The probabilities
+of not getting infected in each of the above
+cases are, (l-a) A 2, (l-b) A 2, (l-a)(l-b), (1-
+b)(l-a). Hence, the total probability of not
+getting infected is l/4*(l-a) A2+l/4*(l
+
+b) A 2+l/4*(l-a)(l-b)+l/4*(l-b)(l-a).
+With the second strategy, one of the fol
+lowing two cases occurs with equal likeli
+hood: she uses stall A both times or she
+uses stall B both times. The probability of
+not getting infected in the first case is (1-
+a) A 2 and that for the second case is (1-b) A 2.
+TTie total probability of not getting infected
+for this strategy is l/2*(l-a) A 2+l/2(l-b) A 2.
+With the third strategy, the probability
+of not getting infected should be (l-a)(l-b).
+The actual comparison of these three
+probabilities involves expanding the for
+mulae. For the sake of simplicity, let's plug
+in a=o.l and b=o.2. The three probabilities
+turn out to be .7225, .725, and .72. Hence
+forth, employing the second strategy ren
+ders the highest probability of not getting
+infected. So it seems that one should ran
+domly choose a bathroom stall and stick
+with it during her entire stay in the dorm.
+
+Robbie Yan is a junior in Arroyo. If you have
+a better bathroom strategy, you can email
+him at xyan@stanford.edu.
+As more and more Stanford students
+are getting infected by the flu, many have
+taken extreme caution to avoid the plague.
+One resident actually suggested to me that
+people might have picked up the disease
+while reliving themselves in bathrooms.
+This thought alarmed me to the possibility
+of getting infected on bathroom stalls and
+got me thinking about the best strategy to
+pick the appropriate stall in order to mini
+mize the risk of coming down with the
+plague.
+Intuition tells me that one should pick
+the stall least used by her fellow residents.
+The less a stall is utilized, the less infectious
+viruses and germs should be spread on the
+stall. However, how does one pick the most
+"unpopular" stall? Different people have
+different preferences on stalls: Some love
+the spacious stalls for the handicapped;
+some are accustomed to using the inner
+most stalls as they provide a sense of secu
+rity; others, on the other hand, like sitting
+on stalls closest to the window (to avoid ol
+factory suffering). There doesn't seem to
+
+be a type of stall that caters to everybody's
+taste. Even if there is one such type that at
+tracts more users than others, its populari
+ty would not last, either. Its frequent uti
+lization will eventually lead to littering and
+smell that are more prominent than the less
+frequently used ones, hence driving its po
+tential users away.
+So it seems that the approach of identi
+fying the least used stall beforehand is in
+feasible. How about randomly selecting a
+stall, then? In order to deduce a strategy*of
+stall choice that will minimize one's proba
+bility of getting infected, let's make the fol
+lowing assumptions. Since nobody knows
+how likely it is to get infected on any of the
+stalls and hence everybody employs more
+or less stable strategies when choosing
+which one to sit on, we can assume that the
+probability of getting infected on each of
+the stalls is static (it stays the same over
+time). For the purpose of illustration, we
+can further simplify our model by assuming
+that there are only two stalls in the bath
+room, A and B. The central question, then,
+becomes, how should one decide which
+stall to sit on without knowing the two
+stalls' respective probabilities of infecting
+
+their users with some virulent disease?
+Suppose the probability for stall A to in
+fect its user is a and that for stall B is b. As
+sume further that the user will enter the
+bathroom twice. She could employ one of
+the following strategies:
+1. Each time she enters the bathroom,
+toss a coin. If it's head, use stall A; if it's tail,
+use stall B.
+2. The first time she enters the bath
+room, toss a coin. If it's head, use stall A
+and stick with it the second time as well.
+Otherwise, if it's tail, use stall B both times.
+3. Use stall A the first time and stall B
+the second time.
+With the first stategy, one of the follow
+ing four cases could result with equal likeli
+hood: She uses stall A both times; she uses
+stall B both times; she uses A the first time,
+B the second time; and she uses B the first
+time, A the second time. The probabilities
+of not getting infected in each of the above
+cases are, (l-a) A 2, (l-b) A 2, (l-a)(l-b), (1-
+b)(l-a). Hence, the total probability of not
+getting infected is l/4*(l-a) A2+l/4*(l
+
+b) A 2+l/4*(l-a)(l-b)+l/4*(l-b)(l-a).
+With the second strategy, one of the fol
+lowing two cases occurs with equal likeli
+hood: she uses stall A both times or she
+uses stall B both times. The probability of
+not getting infected in the first case is (1-
+a) A 2 and that for the second case is (1-b) A 2.
+TTie total probability of not getting infected
+for this strategy is l/2*(l-a) A 2+l/2(l-b) A 2.
+With the third strategy, the probability
+of not getting infected should be (l-a)(l-b).
+The actual comparison of these three
+probabilities involves expanding the for
+mulae. For the sake of simplicity, let's plug
+in a=o.l and b=o.2. The three probabilities
+turn out to be .7225, .725, and .72. Hence
+forth, employing the second strategy ren
+ders the highest probability of not getting
+infected. So it seems that one should ran
+domly choose a bathroom stall and stick
+with it during her entire stay in the dorm.
+
+Robbie Yan is a junior in Arroyo. If you have
+a better bathroom strategy, you can email
+him at xyan@stanford.edu.
+As more and more Stanford students
+are getting infected by the flu, many have
+taken extreme caution to avoid the plague.
+One resident actually suggested to me that
+people might have picked up the disease
+while reliving themselves in bathrooms.
+This thought alarmed me to the possibility
+of getting infected on bathroom stalls and
+got me thinking about the best strategy to
+pick the appropriate stall in order to mini
+mize the risk of coming down with the
+plague.
+Intuition tells me that one should pick
+the stall least used by her fellow residents.
+The less a stall is utilized, the less infectious
+viruses and germs should be spread on the
+stall. However, how does one pick the most
+"unpopular" stall? Different people have
+different preferences on stalls: Some love
+the spacious stalls for the handicapped;
+some are accustomed to using the inner
+most stalls as they provide a sense of secu
+rity; others, on the other hand, like sitting
+on stalls closest to the window (to avoid ol
+factory suffering). There doesn't seem to
+
+be a type of stall that caters to everybody's
+taste. Even if there is one such type that at
+tracts more users than others, its populari
+ty would not last, either. Its frequent uti
+lization will eventually lead to littering and
+smell that are more prominent than the less
+frequently used ones, hence driving its po
+tential users away.
+So it seems that the approach of identi
+fying the least used stall beforehand is in
+feasible. How about randomly selecting a
+stall, then? In order to deduce a strategy*of
+stall choice that will minimize one's proba
+bility of getting infected, let's make the fol
+lowing assumptions. Since nobody knows
+how likely it is to get infected on any of the
+stalls and hence everybody employs more
+or less stable strategies when choosing
+which one to sit on, we can assume that the
+probability of getting infected on each of
+the stalls is static (it stays the same over
+time). For the purpose of illustration, we
+can further simplify our model by assuming
+that there are only two stalls in the bath
+room, A and B. The central question, then,
+becomes, how should one decide which
+stall to sit on without knowing the two
+stalls' respective probabilities of infecting
+
+their users with some virulent disease?
+Suppose the probability for stall A to in
+fect its user is a and that for stall B is b. As
+sume further that the user will enter the
+bathroom twice. She could employ one of
+the following strategies:
+1. Each time she enters the bathroom,
+toss a coin. If it's head, use stall A; if it's tail,
+use stall B.
+2. The first time she enters the bath
+room, toss a coin. If it's head, use stall A
+and stick with it the second time as well.
+Otherwise, if it's tail, use stall B both times.
+3. Use stall A the first time and stall B
+the second time.
+With the first stategy, one of the follow
+ing four cases could result with equal likeli
+hood: She uses stall A both times; she uses
+stall B both times; she uses A the first time,
+B the second time; and she uses B the first
+time, A the second time. The probabilities
+of not getting infected in each of the above
+cases are, (l-a) A 2, (l-b) A 2, (l-a)(l-b), (1-
+b)(l-a). Hence, the total probability of not
+getting infected is l/4*(l-a) A2+l/4*(l
+
+b) A 2+l/4*(l-a)(l-b)+l/4*(l-b)(l-a).
+With the second strategy, one of the fol
+lowing two cases occurs with equal likeli
+hood: she uses stall A both times or she
+uses stall B both times. The probability of
+not getting infected in the first case is (1-
+a) A 2 and that for the second case is (1-b) A 2.
+TTie total probability of not getting infected
+for this strategy is l/2*(l-a) A 2+l/2(l-b) A 2.
+With the third strategy, the probability
+of not getting infected should be (l-a)(l-b).
+The actual comparison of these three
+probabilities involves expanding the for
+mulae. For the sake of simplicity, let's plug
+in a=o.l and b=o.2. The three probabilities
+turn out to be .7225, .725, and .72. Hence
+forth, employing the second strategy ren
+ders the highest probability of not getting
+infected. So it seems that one should ran
+domly choose a bathroom stall and stick
+with it during her entire stay in the dorm.
+
+Robbie Yan is a junior in Arroyo. If you have
+a better bathroom strategy, you can email
+him at xyan@stanford.edu.
+As more and more Stanford students
+are getting infected by the flu, many have
+taken extreme caution to avoid the plague.
+One resident actually suggested to me that
+people might have picked up the disease
+while reliving themselves in bathrooms.
+This thought alarmed me to the possibility
+of getting infected on bathroom stalls and
+got me thinking about the best strategy to
+pick the appropriate stall in order to mini
+mize the risk of coming down with the
+plague.
+Intuition tells me that one should pick
+the stall least used by her fellow residents.
+The less a stall is utilized, the less infectious
+viruses and germs should be spread on the
+stall. However, how does one pick the most
+"unpopular" stall? Different people have
+different preferences on stalls: Some love
+the spacious stalls for the handicapped;
+some are accustomed to using the inner
+most stalls as they provide a sense of secu
+rity; others, on the other hand, like sitting
+on stalls closest to the window (to avoid ol
+factory suffering). There doesn't seem to
+
+be a type of stall that caters to everybody's
+taste. Even if there is one such type that at
+tracts more users than others, its populari
+ty would not last, either. Its frequent uti
+lization will eventually lead to littering and
+smell that are more prominent than the less
+frequently used ones, hence driving its po
+tential users away.
+So it seems that the approach of identi
+fying the least used stall beforehand is in
+feasible. How about randomly selecting a
+stall, then? In order to deduce a strategy*of
+stall choice that will minimize one's proba
+bility of getting infected, let's make the fol
+lowing assumptions. Since nobody knows
+how likely it is to get infected on any of the
+stalls and hence everybody employs more
+or less stable strategies when choosing
+which one to sit on, we can assume that the
+probability of getting infected on each of
+the stalls is static (it stays the same over
+time). For the purpose of illustration, we
+can further simplify our model by assuming
+that there are only two stalls in the bath
+room, A and B. The central question, then,
+becomes, how should one decide which
+stall to sit on without knowing the two
+stalls' respective probabilities of infecting
+
+their users with some virulent disease?
+Suppose the probability for stall A to in
+fect its user is a and that for stall B is b. As
+sume further that the user will enter the
+bathroom twice. She could employ one of
+the following strategies:
+1. Each time she enters the bathroom,
+toss a coin. If it's head, use stall A; if it's tail,
+use stall B.
+2. The first time she enters the bath
+room, toss a coin. If it's head, use stall A
+and stick with it the second time as well.
+Otherwise, if it's tail, use stall B both times.
+3. Use stall A the first time and stall B
+the second time.
+With the first stategy, one of the follow
+ing four cases could result with equal likeli
+hood: She uses stall A both times; she uses
+stall B both times; she uses A the first time,
+B the second time; and she uses B the first
+time, A the second time. The probabilities
+of not getting infected in each of the above
+cases are, (l-a) A 2, (l-b) A 2, (l-a)(l-b), (1-
+b)(l-a). Hence, the total probability of not
+getting infected is l/4*(l-a) A2+l/4*(l
+
+b) A 2+l/4*(l-a)(l-b)+l/4*(l-b)(l-a).
+With the second strategy, one of the fol
+lowing two cases occurs with equal likeli
+hood: she uses stall A both times or she
+uses stall B both times. The probability of
+not getting infected in the first case is (1-
+a) A 2 and that for the second case is (1-b) A 2.
+TTie total probability of not getting infected
+for this strategy is l/2*(l-a) A 2+l/2(l-b) A 2.
+With the third strategy, the probability
+of not getting infected should be (l-a)(l-b).
+The actual comparison of these three
+probabilities involves expanding the for
+mulae. For the sake of simplicity, let's plug
+in a=o.l and b=o.2. The three probabilities
+turn out to be .7225, .725, and .72. Hence
+forth, employing the second strategy ren
+ders the highest probability of not getting
+infected. So it seems that one should ran
+domly choose a bathroom stall and stick
+with it during her entire stay in the dorm.
+
+Robbie Yan is a junior in Arroyo. If you have
+a better bathroom strategy, you can email
+him at xyan@stanford.edu.
+As more and more Stanford students
+are getting infected by the flu, many have
+taken extreme caution to avoid the plague.
+One resident actually suggested to me that
+people might have picked up the disease
+while reliving themselves in bathrooms.
+This thought alarmed me to the possibility
+of getting infected on bathroom stalls and
+got me thinking about the best strategy to
+pick the appropriate stall in order to mini
+mize the risk of coming down with the
+plague.
+Intuition tells me that one should pick
+the stall least used by her fellow residents.
+The less a stall is utilized, the less infectious
+viruses and germs should be spread on the
+stall. However, how does one pick the most
+"unpopular" stall? Different people have
+different preferences on stalls: Some love
+the spacious stalls for the handicapped;
+some are accustomed to using the inner
+most stalls as they provide a sense of secu
+rity; others, on the other hand, like sitting
+on stalls closest to the window (to avoid ol
+factory suffering). There doesn't seem to
+
+be a type of stall that caters to everybody's
+taste. Even if there is one such type that at
+tracts more users than others, its populari
+ty would not last, either. Its frequent uti
+lization will eventually lead to littering and
+smell that are more prominent than the less
+frequently used ones, hence driving its po
+tential users away.
+So it seems that the approach of identi
+fying the least used stall beforehand is in
+feasible. How about randomly selecting a
+stall, then? In order to deduce a strategy*of
+stall choice that will minimize one's proba
+bility of getting infected, let's make the fol
+lowing assumptions. Since nobody knows
+how likely it is to get infected on any of the
+stalls and hence everybody employs more
+or less stable strategies when choosing
+which one to sit on, we can assume that the
+probability of getting infected on each of
+the stalls is static (it stays the same over
+time). For the purpose of illustration, we
+can further simplify our model by assuming
+that there are only two stalls in the bath
+room, A and B. The central question, then,
+becomes, how should one decide which
+stall to sit on without knowing the two
+stalls' respective probabilities of infecting
+
+their users with some virulent disease?
+Suppose the probability for stall A to in
+fect its user is a and that for stall B is b. As
+sume further that the user will enter the
+bathroom twice. She could employ one of
+the following strategies:
+1. Each time she enters the bathroom,
+toss a coin. If it's head, use stall A; if it's tail,
+use stall B.
+2. The first time she enters the bath
+room, toss a coin. If it's head, use stall A
+and stick with it the second time as well.
+Otherwise, if it's tail, use stall B both times.
+3. Use stall A the first time and stall B
+the second time.
+With the first stategy, one of the follow
+ing four cases could result with equal likeli
+hood: She uses stall A both times; she uses
+stall B both times; she uses A the first time,
+B the second time; and she uses B the first
+time, A the second time. The probabilities
+of not getting infected in each of the above
+cases are, (l-a) A 2, (l-b) A 2, (l-a)(l-b), (1-
+b)(l-a). Hence, the total probability of not
+getting infected is l/4*(l-a) A2+l/4*(l
+
+b) A 2+l/4*(l-a)(l-b)+l/4*(l-b)(l-a).
+With the second strategy, one of the fol
+lowing two cases occurs with equal likeli
+hood: she uses stall A both times or she
+uses stall B both times. The probability of
+not getting infected in the first case is (1-
+a) A 2 and that for the second case is (1-b) A 2.
+TTie total probability of not getting infected
+for this strategy is l/2*(l-a) A 2+l/2(l-b) A 2.
+With the third strategy, the probability
+of not getting infected should be (l-a)(l-b).
+The actual comparison of these three
+probabilities involves expanding the for
+mulae. For the sake of simplicity, let's plug
+in a=o.l and b=o.2. The three probabilities
+turn out to be .7225, .725, and .72. Hence
+forth, employing the second strategy ren
+ders the highest probability of not getting
+infected. So it seems that one should ran
+domly choose a bathroom stall and stick
+with it during her entire stay in the dorm.
+
+Robbie Yan is a junior in Arroyo. If you have
+a better bathroom strategy, you can email
+him at xyan@stanford.edu.

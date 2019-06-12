@@ -1,0 +1,567 @@
+# CPPC on-line security can be breached easily
+## 
+### Adam Kemezis Contributing writer 
+students who register with the Career
+Planning and Placement Center may be giv
+ing personal information to more people
+than they think, due to a glitch in the CPPC 's
+network security.
+Although the security issue is resolved
+when files are cleared each day, the personal
+files of a student registering for interview
+bids are open for several hours to anyone who
+knows where to look.
+Since the beginning of last quarter, stu
+dents looking for jobs have been able to regis
+ter for the CPPC's On-Campus Recruiting
+Program using the World Wide Web.
+Students using the system access the
+CPPC's web page and fill in a form that asks
+
+(or basic personal information, including so
+cial security numbers, as well as details of
+academic, extracurricular and workplace ex
+perience.
+This information is then stored in a file on
+the network which is temporarily accessible
+to anyone who has a Leland account and
+knows the name of the file and directory.
+The person who has accessed the account
+can then read and change information in
+cluded in the file. A list of those registration
+forms filled out in any given day is offered to
+whoever logs in.
+Lance Choy, assistant director of the
+CPPC, said he was unaware of the problem
+but would try to correct it immediately.
+Despite the few hours when a file is acces-
+sible, information is cleared every
+day at 4 p.m., removing the file in
+question from the network, Choy
+said. After the day information is
+submitted, it is secure.
+Choy said the CPPC realized
+last quarter that files for register
+ing for bids had been incorrectly set
+up. The solution to the earlier secu
+rity problem appeared to be the
+simple matter of changing the
+access privileges of the file so that
+only the CPPC could read it, he
+said. CPPC staff members are sup
+posed to be the only people with
+access to a file.
+
+But Choy said files are now list
+ed as available only to the CPPC'
+;dthough the information Ls avail
+able to effectively the entire cam
+pus.
+Although he offered no ideas for
+an immediate solution, Choy said, a
+computer error is likely the cause.
+Students coming out of the
+CPPC building were surprised to
+learn about the security lapse.
+While some students were upset
+over the lack of security, most
+assumed that because no one knew
+about the flaw in the system, no
+harm would come of it.
+Graduate student Steve Fong
+said, "it doesn't really matter."
+Brendan Harrington, another
+graduate student, planned to take
+extra precautions. "I have to check
+
+mine out to see if it's still cool, he
+said.
+However, Choy confirmed that
+there is no way for a student to
+access his or her file once it is off
+the network and suggested that
+concerned students "could re-sub
+mit" the registration to ensure
+accuracy.
+He also stressed that, while the
+lapse in security is not acceptable,
+the actual danger is extremely
+slight.
+"I don't know who would [mis
+use the information)." he said, "I
+don't think it's a big thing. I don't
+think people are malicious."
+Coterminal student Evan Shin
+was among those who agreed that
+misuse was unlikely, asking sim
+ply, "Who would do that?"
+students who register with the Career
+Planning and Placement Center may be giv
+ing personal information to more people
+than they think, due to a glitch in the CPPC 's
+network security.
+Although the security issue is resolved
+when files are cleared each day, the personal
+files of a student registering for interview
+bids are open for several hours to anyone who
+knows where to look.
+Since the beginning of last quarter, stu
+dents looking for jobs have been able to regis
+ter for the CPPC's On-Campus Recruiting
+Program using the World Wide Web.
+Students using the system access the
+CPPC's web page and fill in a form that asks
+
+(or basic personal information, including so
+cial security numbers, as well as details of
+academic, extracurricular and workplace ex
+perience.
+This information is then stored in a file on
+the network which is temporarily accessible
+to anyone who has a Leland account and
+knows the name of the file and directory.
+The person who has accessed the account
+can then read and change information in
+cluded in the file. A list of those registration
+forms filled out in any given day is offered to
+whoever logs in.
+Lance Choy, assistant director of the
+CPPC, said he was unaware of the problem
+but would try to correct it immediately.
+Despite the few hours when a file is acces-
+sible, information is cleared every
+day at 4 p.m., removing the file in
+question from the network, Choy
+said. After the day information is
+submitted, it is secure.
+Choy said the CPPC realized
+last quarter that files for register
+ing for bids had been incorrectly set
+up. The solution to the earlier secu
+rity problem appeared to be the
+simple matter of changing the
+access privileges of the file so that
+only the CPPC could read it, he
+said. CPPC staff members are sup
+posed to be the only people with
+access to a file.
+
+But Choy said files are now list
+ed as available only to the CPPC'
+;dthough the information Ls avail
+able to effectively the entire cam
+pus.
+Although he offered no ideas for
+an immediate solution, Choy said, a
+computer error is likely the cause.
+Students coming out of the
+CPPC building were surprised to
+learn about the security lapse.
+While some students were upset
+over the lack of security, most
+assumed that because no one knew
+about the flaw in the system, no
+harm would come of it.
+Graduate student Steve Fong
+said, "it doesn't really matter."
+Brendan Harrington, another
+graduate student, planned to take
+extra precautions. "I have to check
+
+mine out to see if it's still cool, he
+said.
+However, Choy confirmed that
+there is no way for a student to
+access his or her file once it is off
+the network and suggested that
+concerned students "could re-sub
+mit" the registration to ensure
+accuracy.
+He also stressed that, while the
+lapse in security is not acceptable,
+the actual danger is extremely
+slight.
+"I don't know who would [mis
+use the information)." he said, "I
+don't think it's a big thing. I don't
+think people are malicious."
+Coterminal student Evan Shin
+was among those who agreed that
+misuse was unlikely, asking sim
+ply, "Who would do that?"
+students who register with the Career
+Planning and Placement Center may be giv
+ing personal information to more people
+than they think, due to a glitch in the CPPC 's
+network security.
+Although the security issue is resolved
+when files are cleared each day, the personal
+files of a student registering for interview
+bids are open for several hours to anyone who
+knows where to look.
+Since the beginning of last quarter, stu
+dents looking for jobs have been able to regis
+ter for the CPPC's On-Campus Recruiting
+Program using the World Wide Web.
+Students using the system access the
+CPPC's web page and fill in a form that asks
+
+(or basic personal information, including so
+cial security numbers, as well as details of
+academic, extracurricular and workplace ex
+perience.
+This information is then stored in a file on
+the network which is temporarily accessible
+to anyone who has a Leland account and
+knows the name of the file and directory.
+The person who has accessed the account
+can then read and change information in
+cluded in the file. A list of those registration
+forms filled out in any given day is offered to
+whoever logs in.
+Lance Choy, assistant director of the
+CPPC, said he was unaware of the problem
+but would try to correct it immediately.
+Despite the few hours when a file is acces-
+sible, information is cleared every
+day at 4 p.m., removing the file in
+question from the network, Choy
+said. After the day information is
+submitted, it is secure.
+Choy said the CPPC realized
+last quarter that files for register
+ing for bids had been incorrectly set
+up. The solution to the earlier secu
+rity problem appeared to be the
+simple matter of changing the
+access privileges of the file so that
+only the CPPC could read it, he
+said. CPPC staff members are sup
+posed to be the only people with
+access to a file.
+
+But Choy said files are now list
+ed as available only to the CPPC'
+;dthough the information Ls avail
+able to effectively the entire cam
+pus.
+Although he offered no ideas for
+an immediate solution, Choy said, a
+computer error is likely the cause.
+Students coming out of the
+CPPC building were surprised to
+learn about the security lapse.
+While some students were upset
+over the lack of security, most
+assumed that because no one knew
+about the flaw in the system, no
+harm would come of it.
+Graduate student Steve Fong
+said, "it doesn't really matter."
+Brendan Harrington, another
+graduate student, planned to take
+extra precautions. "I have to check
+
+mine out to see if it's still cool, he
+said.
+However, Choy confirmed that
+there is no way for a student to
+access his or her file once it is off
+the network and suggested that
+concerned students "could re-sub
+mit" the registration to ensure
+accuracy.
+He also stressed that, while the
+lapse in security is not acceptable,
+the actual danger is extremely
+slight.
+"I don't know who would [mis
+use the information)." he said, "I
+don't think it's a big thing. I don't
+think people are malicious."
+Coterminal student Evan Shin
+was among those who agreed that
+misuse was unlikely, asking sim
+ply, "Who would do that?"
+students who register with the Career
+Planning and Placement Center may be giv
+ing personal information to more people
+than they think, due to a glitch in the CPPC 's
+network security.
+Although the security issue is resolved
+when files are cleared each day, the personal
+files of a student registering for interview
+bids are open for several hours to anyone who
+knows where to look.
+Since the beginning of last quarter, stu
+dents looking for jobs have been able to regis
+ter for the CPPC's On-Campus Recruiting
+Program using the World Wide Web.
+Students using the system access the
+CPPC's web page and fill in a form that asks
+
+(or basic personal information, including so
+cial security numbers, as well as details of
+academic, extracurricular and workplace ex
+perience.
+This information is then stored in a file on
+the network which is temporarily accessible
+to anyone who has a Leland account and
+knows the name of the file and directory.
+The person who has accessed the account
+can then read and change information in
+cluded in the file. A list of those registration
+forms filled out in any given day is offered to
+whoever logs in.
+Lance Choy, assistant director of the
+CPPC, said he was unaware of the problem
+but would try to correct it immediately.
+Despite the few hours when a file is acces-
+sible, information is cleared every
+day at 4 p.m., removing the file in
+question from the network, Choy
+said. After the day information is
+submitted, it is secure.
+Choy said the CPPC realized
+last quarter that files for register
+ing for bids had been incorrectly set
+up. The solution to the earlier secu
+rity problem appeared to be the
+simple matter of changing the
+access privileges of the file so that
+only the CPPC could read it, he
+said. CPPC staff members are sup
+posed to be the only people with
+access to a file.
+
+But Choy said files are now list
+ed as available only to the CPPC'
+;dthough the information Ls avail
+able to effectively the entire cam
+pus.
+Although he offered no ideas for
+an immediate solution, Choy said, a
+computer error is likely the cause.
+Students coming out of the
+CPPC building were surprised to
+learn about the security lapse.
+While some students were upset
+over the lack of security, most
+assumed that because no one knew
+about the flaw in the system, no
+harm would come of it.
+Graduate student Steve Fong
+said, "it doesn't really matter."
+Brendan Harrington, another
+graduate student, planned to take
+extra precautions. "I have to check
+
+mine out to see if it's still cool, he
+said.
+However, Choy confirmed that
+there is no way for a student to
+access his or her file once it is off
+the network and suggested that
+concerned students "could re-sub
+mit" the registration to ensure
+accuracy.
+He also stressed that, while the
+lapse in security is not acceptable,
+the actual danger is extremely
+slight.
+"I don't know who would [mis
+use the information)." he said, "I
+don't think it's a big thing. I don't
+think people are malicious."
+Coterminal student Evan Shin
+was among those who agreed that
+misuse was unlikely, asking sim
+ply, "Who would do that?"
+students who register with the Career
+Planning and Placement Center may be giv
+ing personal information to more people
+than they think, due to a glitch in the CPPC 's
+network security.
+Although the security issue is resolved
+when files are cleared each day, the personal
+files of a student registering for interview
+bids are open for several hours to anyone who
+knows where to look.
+Since the beginning of last quarter, stu
+dents looking for jobs have been able to regis
+ter for the CPPC's On-Campus Recruiting
+Program using the World Wide Web.
+Students using the system access the
+CPPC's web page and fill in a form that asks
+
+(or basic personal information, including so
+cial security numbers, as well as details of
+academic, extracurricular and workplace ex
+perience.
+This information is then stored in a file on
+the network which is temporarily accessible
+to anyone who has a Leland account and
+knows the name of the file and directory.
+The person who has accessed the account
+can then read and change information in
+cluded in the file. A list of those registration
+forms filled out in any given day is offered to
+whoever logs in.
+Lance Choy, assistant director of the
+CPPC, said he was unaware of the problem
+but would try to correct it immediately.
+Despite the few hours when a file is acces-
+sible, information is cleared every
+day at 4 p.m., removing the file in
+question from the network, Choy
+said. After the day information is
+submitted, it is secure.
+Choy said the CPPC realized
+last quarter that files for register
+ing for bids had been incorrectly set
+up. The solution to the earlier secu
+rity problem appeared to be the
+simple matter of changing the
+access privileges of the file so that
+only the CPPC could read it, he
+said. CPPC staff members are sup
+posed to be the only people with
+access to a file.
+
+But Choy said files are now list
+ed as available only to the CPPC'
+;dthough the information Ls avail
+able to effectively the entire cam
+pus.
+Although he offered no ideas for
+an immediate solution, Choy said, a
+computer error is likely the cause.
+Students coming out of the
+CPPC building were surprised to
+learn about the security lapse.
+While some students were upset
+over the lack of security, most
+assumed that because no one knew
+about the flaw in the system, no
+harm would come of it.
+Graduate student Steve Fong
+said, "it doesn't really matter."
+Brendan Harrington, another
+graduate student, planned to take
+extra precautions. "I have to check
+
+mine out to see if it's still cool, he
+said.
+However, Choy confirmed that
+there is no way for a student to
+access his or her file once it is off
+the network and suggested that
+concerned students "could re-sub
+mit" the registration to ensure
+accuracy.
+He also stressed that, while the
+lapse in security is not acceptable,
+the actual danger is extremely
+slight.
+"I don't know who would [mis
+use the information)." he said, "I
+don't think it's a big thing. I don't
+think people are malicious."
+Coterminal student Evan Shin
+was among those who agreed that
+misuse was unlikely, asking sim
+ply, "Who would do that?"
+students who register with the Career
+Planning and Placement Center may be giv
+ing personal information to more people
+than they think, due to a glitch in the CPPC 's
+network security.
+Although the security issue is resolved
+when files are cleared each day, the personal
+files of a student registering for interview
+bids are open for several hours to anyone who
+knows where to look.
+Since the beginning of last quarter, stu
+dents looking for jobs have been able to regis
+ter for the CPPC's On-Campus Recruiting
+Program using the World Wide Web.
+Students using the system access the
+CPPC's web page and fill in a form that asks
+
+(or basic personal information, including so
+cial security numbers, as well as details of
+academic, extracurricular and workplace ex
+perience.
+This information is then stored in a file on
+the network which is temporarily accessible
+to anyone who has a Leland account and
+knows the name of the file and directory.
+The person who has accessed the account
+can then read and change information in
+cluded in the file. A list of those registration
+forms filled out in any given day is offered to
+whoever logs in.
+Lance Choy, assistant director of the
+CPPC, said he was unaware of the problem
+but would try to correct it immediately.
+Despite the few hours when a file is acces-
+sible, information is cleared every
+day at 4 p.m., removing the file in
+question from the network, Choy
+said. After the day information is
+submitted, it is secure.
+Choy said the CPPC realized
+last quarter that files for register
+ing for bids had been incorrectly set
+up. The solution to the earlier secu
+rity problem appeared to be the
+simple matter of changing the
+access privileges of the file so that
+only the CPPC could read it, he
+said. CPPC staff members are sup
+posed to be the only people with
+access to a file.
+
+But Choy said files are now list
+ed as available only to the CPPC'
+;dthough the information Ls avail
+able to effectively the entire cam
+pus.
+Although he offered no ideas for
+an immediate solution, Choy said, a
+computer error is likely the cause.
+Students coming out of the
+CPPC building were surprised to
+learn about the security lapse.
+While some students were upset
+over the lack of security, most
+assumed that because no one knew
+about the flaw in the system, no
+harm would come of it.
+Graduate student Steve Fong
+said, "it doesn't really matter."
+Brendan Harrington, another
+graduate student, planned to take
+extra precautions. "I have to check
+
+mine out to see if it's still cool, he
+said.
+However, Choy confirmed that
+there is no way for a student to
+access his or her file once it is off
+the network and suggested that
+concerned students "could re-sub
+mit" the registration to ensure
+accuracy.
+He also stressed that, while the
+lapse in security is not acceptable,
+the actual danger is extremely
+slight.
+"I don't know who would [mis
+use the information)." he said, "I
+don't think it's a big thing. I don't
+think people are malicious."
+Coterminal student Evan Shin
+was among those who agreed that
+misuse was unlikely, asking sim
+ply, "Who would do that?"

@@ -1,0 +1,423 @@
+# Four-Game Stanford Statistics
+## 
+### 
+Passing , Receiving
+PA PC HI YDS T.D N O YDS AVG TD LG
+Cordova 100 42 5 534 3 Test 16 191 11.9 1 25
+Waldvogel 40 21 1 229 1 Hill 15 218 14.5 1 47
+Benjamin 15 11 2 128 1 Inge 12 122 10.2 1 29
+Williams 11 146 13.3 0 28
+D , . Singler 8 131 16.4 1 27
+Kusning Pappas 3 27 9.0 0 12
+TCB NYG AVG TD LG Laidlaw 3 24 8.0 1 13
+Laidlaw 54 175 3.2 0 27 Ostrom 3 13 4.3 0 5
+Inge 32 95 3.0 1 19 Tenn 2 12 6.0 0 6
+Tenn 8 49 6.1 0 22 Hoaglin 1 7 7.0 0 3
+Ostrom 10 20 2.0 0 8
+Stevenson 4 11 2.8 0 8 Punting
+Waldvogel 10 -3 -0.3 0 9 |\JQ YDS AVG LG
+Lofton 1 " 6 " 60 0 " 6 Lynn 30 1113 37.1 67
+Cordova 17 -22 -1.3 1 8
+Benjamin 2 -27 -13.5 0 -5 p unt Returns
+NO YDS AVG TD LG
+Scoring Anderson, R. 11 90 8.2 0 20
+TD 1-XP 2-XP FG PTS Blanchard 1 1 1.0 0 1
+Langford 0 7-7 0-0 5-9 22
+i n g e 2 0-0 o o 0-0 12 Kickoff Returns
+Laidlaw 1 0-0 0-0 0-0 6 w O YDS AVG TD LG
+Cordova 1 0-0 0-0 0-0 6 Anderson, R. 8 136 17.0 0 28
+Hill 1 0-0 0-0 0-0 6 (nge 6 12 0 20.0 0 26
+Singler 1 0-0 0-0 0-0 6 Ostrom 5 93 18.6 0 42-
+Test 1 0-0 0-0 0-0 6 Ke)|ar ! 16 16.0 0 16
+Passing , Receiving
+PA PC HI YDS T.D N O YDS AVG TD LG
+Cordova 100 42 5 534 3 Test 16 191 11.9 1 25
+Waldvogel 40 21 1 229 1 Hill 15 218 14.5 1 47
+Benjamin 15 11 2 128 1 Inge 12 122 10.2 1 29
+Williams 11 146 13.3 0 28
+D , . Singler 8 131 16.4 1 27
+Kusning Pappas 3 27 9.0 0 12
+TCB NYG AVG TD LG Laidlaw 3 24 8.0 1 13
+Laidlaw 54 175 3.2 0 27 Ostrom 3 13 4.3 0 5
+Inge 32 95 3.0 1 19 Tenn 2 12 6.0 0 6
+Tenn 8 49 6.1 0 22 Hoaglin 1 7 7.0 0 3
+Ostrom 10 20 2.0 0 8
+Stevenson 4 11 2.8 0 8 Punting
+Waldvogel 10 -3 -0.3 0 9 |\JQ YDS AVG LG
+Lofton 1 " 6 " 60 0 " 6 Lynn 30 1113 37.1 67
+Cordova 17 -22 -1.3 1 8
+Benjamin 2 -27 -13.5 0 -5 p unt Returns
+NO YDS AVG TD LG
+Scoring Anderson, R. 11 90 8.2 0 20
+TD 1-XP 2-XP FG PTS Blanchard 1 1 1.0 0 1
+Langford 0 7-7 0-0 5-9 22
+i n g e 2 0-0 o o 0-0 12 Kickoff Returns
+Laidlaw 1 0-0 0-0 0-0 6 w O YDS AVG TD LG
+Cordova 1 0-0 0-0 0-0 6 Anderson, R. 8 136 17.0 0 28
+Hill 1 0-0 0-0 0-0 6 (nge 6 12 0 20.0 0 26
+Singler 1 0-0 0-0 0-0 6 Ostrom 5 93 18.6 0 42-
+Test 1 0-0 0-0 0-0 6 Ke)|ar ! 16 16.0 0 16
+Passing , Receiving
+PA PC HI YDS T.D N O YDS AVG TD LG
+Cordova 100 42 5 534 3 Test 16 191 11.9 1 25
+Waldvogel 40 21 1 229 1 Hill 15 218 14.5 1 47
+Benjamin 15 11 2 128 1 Inge 12 122 10.2 1 29
+Williams 11 146 13.3 0 28
+D , . Singler 8 131 16.4 1 27
+Kusning Pappas 3 27 9.0 0 12
+TCB NYG AVG TD LG Laidlaw 3 24 8.0 1 13
+Laidlaw 54 175 3.2 0 27 Ostrom 3 13 4.3 0 5
+Inge 32 95 3.0 1 19 Tenn 2 12 6.0 0 6
+Tenn 8 49 6.1 0 22 Hoaglin 1 7 7.0 0 3
+Ostrom 10 20 2.0 0 8
+Stevenson 4 11 2.8 0 8 Punting
+Waldvogel 10 -3 -0.3 0 9 |\JQ YDS AVG LG
+Lofton 1 " 6 " 60 0 " 6 Lynn 30 1113 37.1 67
+Cordova 17 -22 -1.3 1 8
+Benjamin 2 -27 -13.5 0 -5 p unt Returns
+NO YDS AVG TD LG
+Scoring Anderson, R. 11 90 8.2 0 20
+TD 1-XP 2-XP FG PTS Blanchard 1 1 1.0 0 1
+Langford 0 7-7 0-0 5-9 22
+i n g e 2 0-0 o o 0-0 12 Kickoff Returns
+Laidlaw 1 0-0 0-0 0-0 6 w O YDS AVG TD LG
+Cordova 1 0-0 0-0 0-0 6 Anderson, R. 8 136 17.0 0 28
+Hill 1 0-0 0-0 0-0 6 (nge 6 12 0 20.0 0 26
+Singler 1 0-0 0-0 0-0 6 Ostrom 5 93 18.6 0 42-
+Test 1 0-0 0-0 0-0 6 Ke)|ar ! 16 16.0 0 16
+Passing , Receiving
+PA PC HI YDS T.D N O YDS AVG TD LG
+Cordova 100 42 5 534 3 Test 16 191 11.9 1 25
+Waldvogel 40 21 1 229 1 Hill 15 218 14.5 1 47
+Benjamin 15 11 2 128 1 Inge 12 122 10.2 1 29
+Williams 11 146 13.3 0 28
+D , . Singler 8 131 16.4 1 27
+Kusning Pappas 3 27 9.0 0 12
+TCB NYG AVG TD LG Laidlaw 3 24 8.0 1 13
+Laidlaw 54 175 3.2 0 27 Ostrom 3 13 4.3 0 5
+Inge 32 95 3.0 1 19 Tenn 2 12 6.0 0 6
+Tenn 8 49 6.1 0 22 Hoaglin 1 7 7.0 0 3
+Ostrom 10 20 2.0 0 8
+Stevenson 4 11 2.8 0 8 Punting
+Waldvogel 10 -3 -0.3 0 9 |\JQ YDS AVG LG
+Lofton 1 " 6 " 60 0 " 6 Lynn 30 1113 37.1 67
+Cordova 17 -22 -1.3 1 8
+Benjamin 2 -27 -13.5 0 -5 p unt Returns
+NO YDS AVG TD LG
+Scoring Anderson, R. 11 90 8.2 0 20
+TD 1-XP 2-XP FG PTS Blanchard 1 1 1.0 0 1
+Langford 0 7-7 0-0 5-9 22
+i n g e 2 0-0 o o 0-0 12 Kickoff Returns
+Laidlaw 1 0-0 0-0 0-0 6 w O YDS AVG TD LG
+Cordova 1 0-0 0-0 0-0 6 Anderson, R. 8 136 17.0 0 28
+Hill 1 0-0 0-0 0-0 6 (nge 6 12 0 20.0 0 26
+Singler 1 0-0 0-0 0-0 6 Ostrom 5 93 18.6 0 42-
+Test 1 0-0 0-0 0-0 6 Ke)|ar ! 16 16.0 0 16
+Passing , Receiving
+PA PC HI YDS T.D N O YDS AVG TD LG
+Cordova 100 42 5 534 3 Test 16 191 11.9 1 25
+Waldvogel 40 21 1 229 1 Hill 15 218 14.5 1 47
+Benjamin 15 11 2 128 1 Inge 12 122 10.2 1 29
+Williams 11 146 13.3 0 28
+D , . Singler 8 131 16.4 1 27
+Kusning Pappas 3 27 9.0 0 12
+TCB NYG AVG TD LG Laidlaw 3 24 8.0 1 13
+Laidlaw 54 175 3.2 0 27 Ostrom 3 13 4.3 0 5
+Inge 32 95 3.0 1 19 Tenn 2 12 6.0 0 6
+Tenn 8 49 6.1 0 22 Hoaglin 1 7 7.0 0 3
+Ostrom 10 20 2.0 0 8
+Stevenson 4 11 2.8 0 8 Punting
+Waldvogel 10 -3 -0.3 0 9 |\JQ YDS AVG LG
+Lofton 1 " 6 " 60 0 " 6 Lynn 30 1113 37.1 67
+Cordova 17 -22 -1.3 1 8
+Benjamin 2 -27 -13.5 0 -5 p unt Returns
+NO YDS AVG TD LG
+Scoring Anderson, R. 11 90 8.2 0 20
+TD 1-XP 2-XP FG PTS Blanchard 1 1 1.0 0 1
+Langford 0 7-7 0-0 5-9 22
+i n g e 2 0-0 o o 0-0 12 Kickoff Returns
+Laidlaw 1 0-0 0-0 0-0 6 w O YDS AVG TD LG
+Cordova 1 0-0 0-0 0-0 6 Anderson, R. 8 136 17.0 0 28
+Hill 1 0-0 0-0 0-0 6 (nge 6 12 0 20.0 0 26
+Singler 1 0-0 0-0 0-0 6 Ostrom 5 93 18.6 0 42-
+Test 1 0-0 0-0 0-0 6 Ke)|ar ! 16 16.0 0 16
+Passing , Receiving
+PA PC HI YDS T.D N O YDS AVG TD LG
+Cordova 100 42 5 534 3 Test 16 191 11.9 1 25
+Waldvogel 40 21 1 229 1 Hill 15 218 14.5 1 47
+Benjamin 15 11 2 128 1 Inge 12 122 10.2 1 29
+Williams 11 146 13.3 0 28
+D , . Singler 8 131 16.4 1 27
+Kusning Pappas 3 27 9.0 0 12
+TCB NYG AVG TD LG Laidlaw 3 24 8.0 1 13
+Laidlaw 54 175 3.2 0 27 Ostrom 3 13 4.3 0 5
+Inge 32 95 3.0 1 19 Tenn 2 12 6.0 0 6
+Tenn 8 49 6.1 0 22 Hoaglin 1 7 7.0 0 3
+Ostrom 10 20 2.0 0 8
+Stevenson 4 11 2.8 0 8 Punting
+Waldvogel 10 -3 -0.3 0 9 |\JQ YDS AVG LG
+Lofton 1 " 6 " 60 0 " 6 Lynn 30 1113 37.1 67
+Cordova 17 -22 -1.3 1 8
+Benjamin 2 -27 -13.5 0 -5 p unt Returns
+NO YDS AVG TD LG
+Scoring Anderson, R. 11 90 8.2 0 20
+TD 1-XP 2-XP FG PTS Blanchard 1 1 1.0 0 1
+Langford 0 7-7 0-0 5-9 22
+i n g e 2 0-0 o o 0-0 12 Kickoff Returns
+Laidlaw 1 0-0 0-0 0-0 6 w O YDS AVG TD LG
+Cordova 1 0-0 0-0 0-0 6 Anderson, R. 8 136 17.0 0 28
+Hill 1 0-0 0-0 0-0 6 (nge 6 12 0 20.0 0 26
+Singler 1 0-0 0-0 0-0 6 Ostrom 5 93 18.6 0 42-
+Test 1 0-0 0-0 0-0 6 Ke)|ar ! 16 16.0 0 16
+Passing , Receiving
+PA PC HI YDS T.D N O YDS AVG TD LG
+Cordova 100 42 5 534 3 Test 16 191 11.9 1 25
+Waldvogel 40 21 1 229 1 Hill 15 218 14.5 1 47
+Benjamin 15 11 2 128 1 Inge 12 122 10.2 1 29
+Williams 11 146 13.3 0 28
+D , . Singler 8 131 16.4 1 27
+Kusning Pappas 3 27 9.0 0 12
+TCB NYG AVG TD LG Laidlaw 3 24 8.0 1 13
+Laidlaw 54 175 3.2 0 27 Ostrom 3 13 4.3 0 5
+Inge 32 95 3.0 1 19 Tenn 2 12 6.0 0 6
+Tenn 8 49 6.1 0 22 Hoaglin 1 7 7.0 0 3
+Ostrom 10 20 2.0 0 8
+Stevenson 4 11 2.8 0 8 Punting
+Waldvogel 10 -3 -0.3 0 9 |\JQ YDS AVG LG
+Lofton 1 " 6 " 60 0 " 6 Lynn 30 1113 37.1 67
+Cordova 17 -22 -1.3 1 8
+Benjamin 2 -27 -13.5 0 -5 p unt Returns
+NO YDS AVG TD LG
+Scoring Anderson, R. 11 90 8.2 0 20
+TD 1-XP 2-XP FG PTS Blanchard 1 1 1.0 0 1
+Langford 0 7-7 0-0 5-9 22
+i n g e 2 0-0 o o 0-0 12 Kickoff Returns
+Laidlaw 1 0-0 0-0 0-0 6 w O YDS AVG TD LG
+Cordova 1 0-0 0-0 0-0 6 Anderson, R. 8 136 17.0 0 28
+Hill 1 0-0 0-0 0-0 6 (nge 6 12 0 20.0 0 26
+Singler 1 0-0 0-0 0-0 6 Ostrom 5 93 18.6 0 42-
+Test 1 0-0 0-0 0-0 6 Ke)|ar ! 16 16.0 0 16
+Passing , Receiving
+PA PC HI YDS T.D N O YDS AVG TD LG
+Cordova 100 42 5 534 3 Test 16 191 11.9 1 25
+Waldvogel 40 21 1 229 1 Hill 15 218 14.5 1 47
+Benjamin 15 11 2 128 1 Inge 12 122 10.2 1 29
+Williams 11 146 13.3 0 28
+D , . Singler 8 131 16.4 1 27
+Kusning Pappas 3 27 9.0 0 12
+TCB NYG AVG TD LG Laidlaw 3 24 8.0 1 13
+Laidlaw 54 175 3.2 0 27 Ostrom 3 13 4.3 0 5
+Inge 32 95 3.0 1 19 Tenn 2 12 6.0 0 6
+Tenn 8 49 6.1 0 22 Hoaglin 1 7 7.0 0 3
+Ostrom 10 20 2.0 0 8
+Stevenson 4 11 2.8 0 8 Punting
+Waldvogel 10 -3 -0.3 0 9 |\JQ YDS AVG LG
+Lofton 1 " 6 " 60 0 " 6 Lynn 30 1113 37.1 67
+Cordova 17 -22 -1.3 1 8
+Benjamin 2 -27 -13.5 0 -5 p unt Returns
+NO YDS AVG TD LG
+Scoring Anderson, R. 11 90 8.2 0 20
+TD 1-XP 2-XP FG PTS Blanchard 1 1 1.0 0 1
+Langford 0 7-7 0-0 5-9 22
+i n g e 2 0-0 o o 0-0 12 Kickoff Returns
+Laidlaw 1 0-0 0-0 0-0 6 w O YDS AVG TD LG
+Cordova 1 0-0 0-0 0-0 6 Anderson, R. 8 136 17.0 0 28
+Hill 1 0-0 0-0 0-0 6 (nge 6 12 0 20.0 0 26
+Singler 1 0-0 0-0 0-0 6 Ostrom 5 93 18.6 0 42-
+Test 1 0-0 0-0 0-0 6 Ke)|ar ! 16 16.0 0 16
+Passing , Receiving
+PA PC HI YDS T.D N O YDS AVG TD LG
+Cordova 100 42 5 534 3 Test 16 191 11.9 1 25
+Waldvogel 40 21 1 229 1 Hill 15 218 14.5 1 47
+Benjamin 15 11 2 128 1 Inge 12 122 10.2 1 29
+Williams 11 146 13.3 0 28
+D , . Singler 8 131 16.4 1 27
+Kusning Pappas 3 27 9.0 0 12
+TCB NYG AVG TD LG Laidlaw 3 24 8.0 1 13
+Laidlaw 54 175 3.2 0 27 Ostrom 3 13 4.3 0 5
+Inge 32 95 3.0 1 19 Tenn 2 12 6.0 0 6
+Tenn 8 49 6.1 0 22 Hoaglin 1 7 7.0 0 3
+Ostrom 10 20 2.0 0 8
+Stevenson 4 11 2.8 0 8 Punting
+Waldvogel 10 -3 -0.3 0 9 |\JQ YDS AVG LG
+Lofton 1 " 6 " 60 0 " 6 Lynn 30 1113 37.1 67
+Cordova 17 -22 -1.3 1 8
+Benjamin 2 -27 -13.5 0 -5 p unt Returns
+NO YDS AVG TD LG
+Scoring Anderson, R. 11 90 8.2 0 20
+TD 1-XP 2-XP FG PTS Blanchard 1 1 1.0 0 1
+Langford 0 7-7 0-0 5-9 22
+i n g e 2 0-0 o o 0-0 12 Kickoff Returns
+Laidlaw 1 0-0 0-0 0-0 6 w O YDS AVG TD LG
+Cordova 1 0-0 0-0 0-0 6 Anderson, R. 8 136 17.0 0 28
+Hill 1 0-0 0-0 0-0 6 (nge 6 12 0 20.0 0 26
+Singler 1 0-0 0-0 0-0 6 Ostrom 5 93 18.6 0 42-
+Test 1 0-0 0-0 0-0 6 Ke)|ar ! 16 16.0 0 16
+Passing , Receiving
+PA PC HI YDS T.D N O YDS AVG TD LG
+Cordova 100 42 5 534 3 Test 16 191 11.9 1 25
+Waldvogel 40 21 1 229 1 Hill 15 218 14.5 1 47
+Benjamin 15 11 2 128 1 Inge 12 122 10.2 1 29
+Williams 11 146 13.3 0 28
+D , . Singler 8 131 16.4 1 27
+Kusning Pappas 3 27 9.0 0 12
+TCB NYG AVG TD LG Laidlaw 3 24 8.0 1 13
+Laidlaw 54 175 3.2 0 27 Ostrom 3 13 4.3 0 5
+Inge 32 95 3.0 1 19 Tenn 2 12 6.0 0 6
+Tenn 8 49 6.1 0 22 Hoaglin 1 7 7.0 0 3
+Ostrom 10 20 2.0 0 8
+Stevenson 4 11 2.8 0 8 Punting
+Waldvogel 10 -3 -0.3 0 9 |\JQ YDS AVG LG
+Lofton 1 " 6 " 60 0 " 6 Lynn 30 1113 37.1 67
+Cordova 17 -22 -1.3 1 8
+Benjamin 2 -27 -13.5 0 -5 p unt Returns
+NO YDS AVG TD LG
+Scoring Anderson, R. 11 90 8.2 0 20
+TD 1-XP 2-XP FG PTS Blanchard 1 1 1.0 0 1
+Langford 0 7-7 0-0 5-9 22
+i n g e 2 0-0 o o 0-0 12 Kickoff Returns
+Laidlaw 1 0-0 0-0 0-0 6 w O YDS AVG TD LG
+Cordova 1 0-0 0-0 0-0 6 Anderson, R. 8 136 17.0 0 28
+Hill 1 0-0 0-0 0-0 6 (nge 6 12 0 20.0 0 26
+Singler 1 0-0 0-0 0-0 6 Ostrom 5 93 18.6 0 42-
+Test 1 0-0 0-0 0-0 6 Ke)|ar ! 16 16.0 0 16
+Passing , Receiving
+PA PC HI YDS T.D N O YDS AVG TD LG
+Cordova 100 42 5 534 3 Test 16 191 11.9 1 25
+Waldvogel 40 21 1 229 1 Hill 15 218 14.5 1 47
+Benjamin 15 11 2 128 1 Inge 12 122 10.2 1 29
+Williams 11 146 13.3 0 28
+D , . Singler 8 131 16.4 1 27
+Kusning Pappas 3 27 9.0 0 12
+TCB NYG AVG TD LG Laidlaw 3 24 8.0 1 13
+Laidlaw 54 175 3.2 0 27 Ostrom 3 13 4.3 0 5
+Inge 32 95 3.0 1 19 Tenn 2 12 6.0 0 6
+Tenn 8 49 6.1 0 22 Hoaglin 1 7 7.0 0 3
+Ostrom 10 20 2.0 0 8
+Stevenson 4 11 2.8 0 8 Punting
+Waldvogel 10 -3 -0.3 0 9 |\JQ YDS AVG LG
+Lofton 1 " 6 " 60 0 " 6 Lynn 30 1113 37.1 67
+Cordova 17 -22 -1.3 1 8
+Benjamin 2 -27 -13.5 0 -5 p unt Returns
+NO YDS AVG TD LG
+Scoring Anderson, R. 11 90 8.2 0 20
+TD 1-XP 2-XP FG PTS Blanchard 1 1 1.0 0 1
+Langford 0 7-7 0-0 5-9 22
+i n g e 2 0-0 o o 0-0 12 Kickoff Returns
+Laidlaw 1 0-0 0-0 0-0 6 w O YDS AVG TD LG
+Cordova 1 0-0 0-0 0-0 6 Anderson, R. 8 136 17.0 0 28
+Hill 1 0-0 0-0 0-0 6 (nge 6 12 0 20.0 0 26
+Singler 1 0-0 0-0 0-0 6 Ostrom 5 93 18.6 0 42-
+Test 1 0-0 0-0 0-0 6 Ke)|ar ! 16 16.0 0 16
+Passing , Receiving
+PA PC HI YDS T.D N O YDS AVG TD LG
+Cordova 100 42 5 534 3 Test 16 191 11.9 1 25
+Waldvogel 40 21 1 229 1 Hill 15 218 14.5 1 47
+Benjamin 15 11 2 128 1 Inge 12 122 10.2 1 29
+Williams 11 146 13.3 0 28
+D , . Singler 8 131 16.4 1 27
+Kusning Pappas 3 27 9.0 0 12
+TCB NYG AVG TD LG Laidlaw 3 24 8.0 1 13
+Laidlaw 54 175 3.2 0 27 Ostrom 3 13 4.3 0 5
+Inge 32 95 3.0 1 19 Tenn 2 12 6.0 0 6
+Tenn 8 49 6.1 0 22 Hoaglin 1 7 7.0 0 3
+Ostrom 10 20 2.0 0 8
+Stevenson 4 11 2.8 0 8 Punting
+Waldvogel 10 -3 -0.3 0 9 |\JQ YDS AVG LG
+Lofton 1 " 6 " 60 0 " 6 Lynn 30 1113 37.1 67
+Cordova 17 -22 -1.3 1 8
+Benjamin 2 -27 -13.5 0 -5 p unt Returns
+NO YDS AVG TD LG
+Scoring Anderson, R. 11 90 8.2 0 20
+TD 1-XP 2-XP FG PTS Blanchard 1 1 1.0 0 1
+Langford 0 7-7 0-0 5-9 22
+i n g e 2 0-0 o o 0-0 12 Kickoff Returns
+Laidlaw 1 0-0 0-0 0-0 6 w O YDS AVG TD LG
+Cordova 1 0-0 0-0 0-0 6 Anderson, R. 8 136 17.0 0 28
+Hill 1 0-0 0-0 0-0 6 (nge 6 12 0 20.0 0 26
+Singler 1 0-0 0-0 0-0 6 Ostrom 5 93 18.6 0 42-
+Test 1 0-0 0-0 0-0 6 Ke)|ar ! 16 16.0 0 16
+Passing , Receiving
+PA PC HI YDS T.D N O YDS AVG TD LG
+Cordova 100 42 5 534 3 Test 16 191 11.9 1 25
+Waldvogel 40 21 1 229 1 Hill 15 218 14.5 1 47
+Benjamin 15 11 2 128 1 Inge 12 122 10.2 1 29
+Williams 11 146 13.3 0 28
+D , . Singler 8 131 16.4 1 27
+Kusning Pappas 3 27 9.0 0 12
+TCB NYG AVG TD LG Laidlaw 3 24 8.0 1 13
+Laidlaw 54 175 3.2 0 27 Ostrom 3 13 4.3 0 5
+Inge 32 95 3.0 1 19 Tenn 2 12 6.0 0 6
+Tenn 8 49 6.1 0 22 Hoaglin 1 7 7.0 0 3
+Ostrom 10 20 2.0 0 8
+Stevenson 4 11 2.8 0 8 Punting
+Waldvogel 10 -3 -0.3 0 9 |\JQ YDS AVG LG
+Lofton 1 " 6 " 60 0 " 6 Lynn 30 1113 37.1 67
+Cordova 17 -22 -1.3 1 8
+Benjamin 2 -27 -13.5 0 -5 p unt Returns
+NO YDS AVG TD LG
+Scoring Anderson, R. 11 90 8.2 0 20
+TD 1-XP 2-XP FG PTS Blanchard 1 1 1.0 0 1
+Langford 0 7-7 0-0 5-9 22
+i n g e 2 0-0 o o 0-0 12 Kickoff Returns
+Laidlaw 1 0-0 0-0 0-0 6 w O YDS AVG TD LG
+Cordova 1 0-0 0-0 0-0 6 Anderson, R. 8 136 17.0 0 28
+Hill 1 0-0 0-0 0-0 6 (nge 6 12 0 20.0 0 26
+Singler 1 0-0 0-0 0-0 6 Ostrom 5 93 18.6 0 42-
+Test 1 0-0 0-0 0-0 6 Ke)|ar ! 16 16.0 0 16
+Passing , Receiving
+PA PC HI YDS T.D N O YDS AVG TD LG
+Cordova 100 42 5 534 3 Test 16 191 11.9 1 25
+Waldvogel 40 21 1 229 1 Hill 15 218 14.5 1 47
+Benjamin 15 11 2 128 1 Inge 12 122 10.2 1 29
+Williams 11 146 13.3 0 28
+D , . Singler 8 131 16.4 1 27
+Kusning Pappas 3 27 9.0 0 12
+TCB NYG AVG TD LG Laidlaw 3 24 8.0 1 13
+Laidlaw 54 175 3.2 0 27 Ostrom 3 13 4.3 0 5
+Inge 32 95 3.0 1 19 Tenn 2 12 6.0 0 6
+Tenn 8 49 6.1 0 22 Hoaglin 1 7 7.0 0 3
+Ostrom 10 20 2.0 0 8
+Stevenson 4 11 2.8 0 8 Punting
+Waldvogel 10 -3 -0.3 0 9 |\JQ YDS AVG LG
+Lofton 1 " 6 " 60 0 " 6 Lynn 30 1113 37.1 67
+Cordova 17 -22 -1.3 1 8
+Benjamin 2 -27 -13.5 0 -5 p unt Returns
+NO YDS AVG TD LG
+Scoring Anderson, R. 11 90 8.2 0 20
+TD 1-XP 2-XP FG PTS Blanchard 1 1 1.0 0 1
+Langford 0 7-7 0-0 5-9 22
+i n g e 2 0-0 o o 0-0 12 Kickoff Returns
+Laidlaw 1 0-0 0-0 0-0 6 w O YDS AVG TD LG
+Cordova 1 0-0 0-0 0-0 6 Anderson, R. 8 136 17.0 0 28
+Hill 1 0-0 0-0 0-0 6 (nge 6 12 0 20.0 0 26
+Singler 1 0-0 0-0 0-0 6 Ostrom 5 93 18.6 0 42-
+Test 1 0-0 0-0 0-0 6 Ke)|ar ! 16 16.0 0 16
+Passing , Receiving
+PA PC HI YDS T.D N O YDS AVG TD LG
+Cordova 100 42 5 534 3 Test 16 191 11.9 1 25
+Waldvogel 40 21 1 229 1 Hill 15 218 14.5 1 47
+Benjamin 15 11 2 128 1 Inge 12 122 10.2 1 29
+Williams 11 146 13.3 0 28
+D , . Singler 8 131 16.4 1 27
+Kusning Pappas 3 27 9.0 0 12
+TCB NYG AVG TD LG Laidlaw 3 24 8.0 1 13
+Laidlaw 54 175 3.2 0 27 Ostrom 3 13 4.3 0 5
+Inge 32 95 3.0 1 19 Tenn 2 12 6.0 0 6
+Tenn 8 49 6.1 0 22 Hoaglin 1 7 7.0 0 3
+Ostrom 10 20 2.0 0 8
+Stevenson 4 11 2.8 0 8 Punting
+Waldvogel 10 -3 -0.3 0 9 |\JQ YDS AVG LG
+Lofton 1 " 6 " 60 0 " 6 Lynn 30 1113 37.1 67
+Cordova 17 -22 -1.3 1 8
+Benjamin 2 -27 -13.5 0 -5 p unt Returns
+NO YDS AVG TD LG
+Scoring Anderson, R. 11 90 8.2 0 20
+TD 1-XP 2-XP FG PTS Blanchard 1 1 1.0 0 1
+Langford 0 7-7 0-0 5-9 22
+i n g e 2 0-0 o o 0-0 12 Kickoff Returns
+Laidlaw 1 0-0 0-0 0-0 6 w O YDS AVG TD LG
+Cordova 1 0-0 0-0 0-0 6 Anderson, R. 8 136 17.0 0 28
+Hill 1 0-0 0-0 0-0 6 (nge 6 12 0 20.0 0 26
+Singler 1 0-0 0-0 0-0 6 Ostrom 5 93 18.6 0 42-
+Test 1 0-0 0-0 0-0 6 Ke)|ar ! 16 16.0 0 16

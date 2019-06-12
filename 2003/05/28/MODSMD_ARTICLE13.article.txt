@@ -1,0 +1,1137 @@
+# Serving up Wi-Fi:
+## Networking Gone Wireless 
+### ERICA O'YOUNG 
+For the laptop-toting hoards of
+academia, businesspeople and web
+surfers, it's a dream come true.
+With the nation's Hyatts, Star
+bucks, airports and, yes, McDonald's
+scrambling onto the Wi-Fi bandwag
+on along with some of the biggest
+names in the technology industry, it
+is undeniable that the wireless revo
+lution is indisputably, irreversibly
+here.
+Universities are also following
+along. Available to all members of
+the Stanford community with a
+SUNet ID and password, a laptop
+computer with built-in wireless or a
+Type II PCMCIA slot and a wireless
+card, Stanford's current network ex
+tends to the Main Quad, Tressider,
+Meyer and Green Libraries, the grad
+schools, as well as several other build
+ings.
+But Stanford isn't the first. One of
+the oldest and largest university net
+works is Carnegie Mellon Universi
+ty's WLAN. Started as a research pro
+ject in 1994, it currently covers all
+buildings of the 103-acre campus.
+The problem, however, with uni
+versity implementation of wireless is
+funding. "Wireless networking
+doesn't come free. Some entity has to
+pick up the charges for the deploy
+ment, says Phil Reese, technical man
+ager of Stanford's Information Tech
+nology Systems and Services (ITSS).
+Each school and department on
+campus is responsible for establish
+ing their own in-building network,
+explains Reese. "ITSS is sponsored
+by Stanford to provide . . . the back
+bone that ties all of the individual
+networks together."
+Still in its infancy, Stanford's own
+wireless network supports between
+70 and 90 people at any given time
+on an average school day.
+Across the nation, the number of
+hotspots is skyrocketing. In the past
+year, Wired magazine reported a
+tenfold increase in the number of
+hotspots to 12,000 around the world,
+naming San Francisco's Levi Strauss
+Plaza as the "No. 1 cool hot spot" in
+the U.S.
+Businesses have been quick to rec
+ognize the potential of wireless in lur
+ing Internet-surfing customers. By
+summer, 400 Borders bookstores will
+offer Wi-Fi access. In a partnership
+announced last August, Starbucks
+and T-Mobile currently offer wireless
+access in more than 2,100 Starbucks
+coffee shops nationwide. Most re
+cently, McDonald's, working with
+San Francisco startup Cometa, will
+extend wireless to 300 McDonald
+restaurants in New York City, Chica
+go and a yet-to-be-announced Cali
+
+fornia town. Hilton, Mariott, Shera
+ton, Westin and VV hotels also plan to
+offer wireless access points in hun
+dreds of hotels in the United States,
+Canada, the United Kingdom and
+Germany. Wi-Fi is also making its
+way into the passenger lounges at
+San Francisco and Dallas-Fort Worth
+airports.
+Impatient Wi-Fi fans at home are
+taking matters in their own hands.
+With wireless packages just a $150
+credit card swipe away at the local
+Wal-Mart, the Wi-Fi movement is no
+tably the first real "grassroots" phe
+nomenon to hit the tech scene in a
+long time. The number of units sold
+is expected to double to 12 million
+this year, according to Wired maga
+zine, adding to the proliferating web
+of ad hoc community nets created
+both intentionally and unsuspecting
+ly by neighborhood base stations.
+The home market is expected to ex
+ceed all others.
+Meanwhile, computer maker
+Toshiba and chipmaker Intel
+promise to set up even more wireless
+
+hotspots in coffee shops, hotels and
+convenience stores across the United
+States. Like ISPs, however, indepen
+dent Wi-Fi providers are facing fierce
+competition as telecom firms enter
+the fray. Currently among the top
+service providers are AT&T, Boingo,
+Cometa, Surf and Sip and T-Mobile.
+They are backed, in dollars and in
+sweat, by longstanding technology
+heavyweights jostling to wield the
+hardware end of the business. While
+Apple, Dell and D-Link, as well as
+new-comer Vivato, strike out on their
+own to answer to the ever-increasing
+client base for base stations, others
+have chosen to partner with other
+hardware makers.
+San Jose's Cisco Systems, for ex
+ample, has formed a network hard
+ware giant with Intel, HP and Ather
+os. Working together, the companies
+provide free security and range-ex
+tending software to the makers of Wi-
+Fi chipsets, thus ensuring demand
+for their access points and other
+backend equipment. The Linksys
+Group, in addition, has partnered
+
+with Net2Phone, hoping that a low
+price, utilitarian approach and net
+work-extending products will appeal
+to customers.
+In the upcoming show of wireless
+laptop integration, Intel Corps
+much touted Centrino microproces
+sor aims to be one of the headlining
+acts. Specially tailored for laptop
+computers, the Centrino chip fea
+tures a built-in Wi-Fi transceiver that
+allows accelerated Internet access at
+up to 11 megabits per second, far
+faster than dial-up connections.
+More than a dozen computer makers
+are now introducing new Centrino
+based laptops.
+"Increasingly, people lugging lap
+tops are demanding Internet connec
+tions and power outlets," says Neil
+Yang, senior Intel component design
+engineer. "This phenomenon, cou
+pled with the emergence of Wi-Fi
+and technology like the Centrino,
+sets up the possibility of huge
+changes in the way people do mobile
+computing...and the way people
+work and live."
+
+
+ALI ALEMOZAFAR/The Stanford Daily
+Although laptop users usually need to purchase a separate wireless networking card to take advantage of Stanford's Wi-Fi net
+work, the technology is catching on. As most new laptops now have Wi-Fi capability built in, Stanford's wireless network can only
+grow in popularity.
+For the laptop-toting hoards of
+academia, businesspeople and web
+surfers, it's a dream come true.
+With the nation's Hyatts, Star
+bucks, airports and, yes, McDonald's
+scrambling onto the Wi-Fi bandwag
+on along with some of the biggest
+names in the technology industry, it
+is undeniable that the wireless revo
+lution is indisputably, irreversibly
+here.
+Universities are also following
+along. Available to all members of
+the Stanford community with a
+SUNet ID and password, a laptop
+computer with built-in wireless or a
+Type II PCMCIA slot and a wireless
+card, Stanford's current network ex
+tends to the Main Quad, Tressider,
+Meyer and Green Libraries, the grad
+schools, as well as several other build
+ings.
+But Stanford isn't the first. One of
+the oldest and largest university net
+works is Carnegie Mellon Universi
+ty's WLAN. Started as a research pro
+ject in 1994, it currently covers all
+buildings of the 103-acre campus.
+The problem, however, with uni
+versity implementation of wireless is
+funding. "Wireless networking
+doesn't come free. Some entity has to
+pick up the charges for the deploy
+ment, says Phil Reese, technical man
+ager of Stanford's Information Tech
+nology Systems and Services (ITSS).
+Each school and department on
+campus is responsible for establish
+ing their own in-building network,
+explains Reese. "ITSS is sponsored
+by Stanford to provide . . . the back
+bone that ties all of the individual
+networks together."
+Still in its infancy, Stanford's own
+wireless network supports between
+70 and 90 people at any given time
+on an average school day.
+Across the nation, the number of
+hotspots is skyrocketing. In the past
+year, Wired magazine reported a
+tenfold increase in the number of
+hotspots to 12,000 around the world,
+naming San Francisco's Levi Strauss
+Plaza as the "No. 1 cool hot spot" in
+the U.S.
+Businesses have been quick to rec
+ognize the potential of wireless in lur
+ing Internet-surfing customers. By
+summer, 400 Borders bookstores will
+offer Wi-Fi access. In a partnership
+announced last August, Starbucks
+and T-Mobile currently offer wireless
+access in more than 2,100 Starbucks
+coffee shops nationwide. Most re
+cently, McDonald's, working with
+San Francisco startup Cometa, will
+extend wireless to 300 McDonald
+restaurants in New York City, Chica
+go and a yet-to-be-announced Cali
+
+fornia town. Hilton, Mariott, Shera
+ton, Westin and VV hotels also plan to
+offer wireless access points in hun
+dreds of hotels in the United States,
+Canada, the United Kingdom and
+Germany. Wi-Fi is also making its
+way into the passenger lounges at
+San Francisco and Dallas-Fort Worth
+airports.
+Impatient Wi-Fi fans at home are
+taking matters in their own hands.
+With wireless packages just a $150
+credit card swipe away at the local
+Wal-Mart, the Wi-Fi movement is no
+tably the first real "grassroots" phe
+nomenon to hit the tech scene in a
+long time. The number of units sold
+is expected to double to 12 million
+this year, according to Wired maga
+zine, adding to the proliferating web
+of ad hoc community nets created
+both intentionally and unsuspecting
+ly by neighborhood base stations.
+The home market is expected to ex
+ceed all others.
+Meanwhile, computer maker
+Toshiba and chipmaker Intel
+promise to set up even more wireless
+
+hotspots in coffee shops, hotels and
+convenience stores across the United
+States. Like ISPs, however, indepen
+dent Wi-Fi providers are facing fierce
+competition as telecom firms enter
+the fray. Currently among the top
+service providers are AT&T, Boingo,
+Cometa, Surf and Sip and T-Mobile.
+They are backed, in dollars and in
+sweat, by longstanding technology
+heavyweights jostling to wield the
+hardware end of the business. While
+Apple, Dell and D-Link, as well as
+new-comer Vivato, strike out on their
+own to answer to the ever-increasing
+client base for base stations, others
+have chosen to partner with other
+hardware makers.
+San Jose's Cisco Systems, for ex
+ample, has formed a network hard
+ware giant with Intel, HP and Ather
+os. Working together, the companies
+provide free security and range-ex
+tending software to the makers of Wi-
+Fi chipsets, thus ensuring demand
+for their access points and other
+backend equipment. The Linksys
+Group, in addition, has partnered
+
+with Net2Phone, hoping that a low
+price, utilitarian approach and net
+work-extending products will appeal
+to customers.
+In the upcoming show of wireless
+laptop integration, Intel Corps
+much touted Centrino microproces
+sor aims to be one of the headlining
+acts. Specially tailored for laptop
+computers, the Centrino chip fea
+tures a built-in Wi-Fi transceiver that
+allows accelerated Internet access at
+up to 11 megabits per second, far
+faster than dial-up connections.
+More than a dozen computer makers
+are now introducing new Centrino
+based laptops.
+"Increasingly, people lugging lap
+tops are demanding Internet connec
+tions and power outlets," says Neil
+Yang, senior Intel component design
+engineer. "This phenomenon, cou
+pled with the emergence of Wi-Fi
+and technology like the Centrino,
+sets up the possibility of huge
+changes in the way people do mobile
+computing...and the way people
+work and live."
+
+
+ALI ALEMOZAFAR/The Stanford Daily
+Although laptop users usually need to purchase a separate wireless networking card to take advantage of Stanford's Wi-Fi net
+work, the technology is catching on. As most new laptops now have Wi-Fi capability built in, Stanford's wireless network can only
+grow in popularity.
+For the laptop-toting hoards of
+academia, businesspeople and web
+surfers, it's a dream come true.
+With the nation's Hyatts, Star
+bucks, airports and, yes, McDonald's
+scrambling onto the Wi-Fi bandwag
+on along with some of the biggest
+names in the technology industry, it
+is undeniable that the wireless revo
+lution is indisputably, irreversibly
+here.
+Universities are also following
+along. Available to all members of
+the Stanford community with a
+SUNet ID and password, a laptop
+computer with built-in wireless or a
+Type II PCMCIA slot and a wireless
+card, Stanford's current network ex
+tends to the Main Quad, Tressider,
+Meyer and Green Libraries, the grad
+schools, as well as several other build
+ings.
+But Stanford isn't the first. One of
+the oldest and largest university net
+works is Carnegie Mellon Universi
+ty's WLAN. Started as a research pro
+ject in 1994, it currently covers all
+buildings of the 103-acre campus.
+The problem, however, with uni
+versity implementation of wireless is
+funding. "Wireless networking
+doesn't come free. Some entity has to
+pick up the charges for the deploy
+ment, says Phil Reese, technical man
+ager of Stanford's Information Tech
+nology Systems and Services (ITSS).
+Each school and department on
+campus is responsible for establish
+ing their own in-building network,
+explains Reese. "ITSS is sponsored
+by Stanford to provide . . . the back
+bone that ties all of the individual
+networks together."
+Still in its infancy, Stanford's own
+wireless network supports between
+70 and 90 people at any given time
+on an average school day.
+Across the nation, the number of
+hotspots is skyrocketing. In the past
+year, Wired magazine reported a
+tenfold increase in the number of
+hotspots to 12,000 around the world,
+naming San Francisco's Levi Strauss
+Plaza as the "No. 1 cool hot spot" in
+the U.S.
+Businesses have been quick to rec
+ognize the potential of wireless in lur
+ing Internet-surfing customers. By
+summer, 400 Borders bookstores will
+offer Wi-Fi access. In a partnership
+announced last August, Starbucks
+and T-Mobile currently offer wireless
+access in more than 2,100 Starbucks
+coffee shops nationwide. Most re
+cently, McDonald's, working with
+San Francisco startup Cometa, will
+extend wireless to 300 McDonald
+restaurants in New York City, Chica
+go and a yet-to-be-announced Cali
+
+fornia town. Hilton, Mariott, Shera
+ton, Westin and VV hotels also plan to
+offer wireless access points in hun
+dreds of hotels in the United States,
+Canada, the United Kingdom and
+Germany. Wi-Fi is also making its
+way into the passenger lounges at
+San Francisco and Dallas-Fort Worth
+airports.
+Impatient Wi-Fi fans at home are
+taking matters in their own hands.
+With wireless packages just a $150
+credit card swipe away at the local
+Wal-Mart, the Wi-Fi movement is no
+tably the first real "grassroots" phe
+nomenon to hit the tech scene in a
+long time. The number of units sold
+is expected to double to 12 million
+this year, according to Wired maga
+zine, adding to the proliferating web
+of ad hoc community nets created
+both intentionally and unsuspecting
+ly by neighborhood base stations.
+The home market is expected to ex
+ceed all others.
+Meanwhile, computer maker
+Toshiba and chipmaker Intel
+promise to set up even more wireless
+
+hotspots in coffee shops, hotels and
+convenience stores across the United
+States. Like ISPs, however, indepen
+dent Wi-Fi providers are facing fierce
+competition as telecom firms enter
+the fray. Currently among the top
+service providers are AT&T, Boingo,
+Cometa, Surf and Sip and T-Mobile.
+They are backed, in dollars and in
+sweat, by longstanding technology
+heavyweights jostling to wield the
+hardware end of the business. While
+Apple, Dell and D-Link, as well as
+new-comer Vivato, strike out on their
+own to answer to the ever-increasing
+client base for base stations, others
+have chosen to partner with other
+hardware makers.
+San Jose's Cisco Systems, for ex
+ample, has formed a network hard
+ware giant with Intel, HP and Ather
+os. Working together, the companies
+provide free security and range-ex
+tending software to the makers of Wi-
+Fi chipsets, thus ensuring demand
+for their access points and other
+backend equipment. The Linksys
+Group, in addition, has partnered
+
+with Net2Phone, hoping that a low
+price, utilitarian approach and net
+work-extending products will appeal
+to customers.
+In the upcoming show of wireless
+laptop integration, Intel Corps
+much touted Centrino microproces
+sor aims to be one of the headlining
+acts. Specially tailored for laptop
+computers, the Centrino chip fea
+tures a built-in Wi-Fi transceiver that
+allows accelerated Internet access at
+up to 11 megabits per second, far
+faster than dial-up connections.
+More than a dozen computer makers
+are now introducing new Centrino
+based laptops.
+"Increasingly, people lugging lap
+tops are demanding Internet connec
+tions and power outlets," says Neil
+Yang, senior Intel component design
+engineer. "This phenomenon, cou
+pled with the emergence of Wi-Fi
+and technology like the Centrino,
+sets up the possibility of huge
+changes in the way people do mobile
+computing...and the way people
+work and live."
+
+
+ALI ALEMOZAFAR/The Stanford Daily
+Although laptop users usually need to purchase a separate wireless networking card to take advantage of Stanford's Wi-Fi net
+work, the technology is catching on. As most new laptops now have Wi-Fi capability built in, Stanford's wireless network can only
+grow in popularity.
+For the laptop-toting hoards of
+academia, businesspeople and web
+surfers, it's a dream come true.
+With the nation's Hyatts, Star
+bucks, airports and, yes, McDonald's
+scrambling onto the Wi-Fi bandwag
+on along with some of the biggest
+names in the technology industry, it
+is undeniable that the wireless revo
+lution is indisputably, irreversibly
+here.
+Universities are also following
+along. Available to all members of
+the Stanford community with a
+SUNet ID and password, a laptop
+computer with built-in wireless or a
+Type II PCMCIA slot and a wireless
+card, Stanford's current network ex
+tends to the Main Quad, Tressider,
+Meyer and Green Libraries, the grad
+schools, as well as several other build
+ings.
+But Stanford isn't the first. One of
+the oldest and largest university net
+works is Carnegie Mellon Universi
+ty's WLAN. Started as a research pro
+ject in 1994, it currently covers all
+buildings of the 103-acre campus.
+The problem, however, with uni
+versity implementation of wireless is
+funding. "Wireless networking
+doesn't come free. Some entity has to
+pick up the charges for the deploy
+ment, says Phil Reese, technical man
+ager of Stanford's Information Tech
+nology Systems and Services (ITSS).
+Each school and department on
+campus is responsible for establish
+ing their own in-building network,
+explains Reese. "ITSS is sponsored
+by Stanford to provide . . . the back
+bone that ties all of the individual
+networks together."
+Still in its infancy, Stanford's own
+wireless network supports between
+70 and 90 people at any given time
+on an average school day.
+Across the nation, the number of
+hotspots is skyrocketing. In the past
+year, Wired magazine reported a
+tenfold increase in the number of
+hotspots to 12,000 around the world,
+naming San Francisco's Levi Strauss
+Plaza as the "No. 1 cool hot spot" in
+the U.S.
+Businesses have been quick to rec
+ognize the potential of wireless in lur
+ing Internet-surfing customers. By
+summer, 400 Borders bookstores will
+offer Wi-Fi access. In a partnership
+announced last August, Starbucks
+and T-Mobile currently offer wireless
+access in more than 2,100 Starbucks
+coffee shops nationwide. Most re
+cently, McDonald's, working with
+San Francisco startup Cometa, will
+extend wireless to 300 McDonald
+restaurants in New York City, Chica
+go and a yet-to-be-announced Cali
+
+fornia town. Hilton, Mariott, Shera
+ton, Westin and VV hotels also plan to
+offer wireless access points in hun
+dreds of hotels in the United States,
+Canada, the United Kingdom and
+Germany. Wi-Fi is also making its
+way into the passenger lounges at
+San Francisco and Dallas-Fort Worth
+airports.
+Impatient Wi-Fi fans at home are
+taking matters in their own hands.
+With wireless packages just a $150
+credit card swipe away at the local
+Wal-Mart, the Wi-Fi movement is no
+tably the first real "grassroots" phe
+nomenon to hit the tech scene in a
+long time. The number of units sold
+is expected to double to 12 million
+this year, according to Wired maga
+zine, adding to the proliferating web
+of ad hoc community nets created
+both intentionally and unsuspecting
+ly by neighborhood base stations.
+The home market is expected to ex
+ceed all others.
+Meanwhile, computer maker
+Toshiba and chipmaker Intel
+promise to set up even more wireless
+
+hotspots in coffee shops, hotels and
+convenience stores across the United
+States. Like ISPs, however, indepen
+dent Wi-Fi providers are facing fierce
+competition as telecom firms enter
+the fray. Currently among the top
+service providers are AT&T, Boingo,
+Cometa, Surf and Sip and T-Mobile.
+They are backed, in dollars and in
+sweat, by longstanding technology
+heavyweights jostling to wield the
+hardware end of the business. While
+Apple, Dell and D-Link, as well as
+new-comer Vivato, strike out on their
+own to answer to the ever-increasing
+client base for base stations, others
+have chosen to partner with other
+hardware makers.
+San Jose's Cisco Systems, for ex
+ample, has formed a network hard
+ware giant with Intel, HP and Ather
+os. Working together, the companies
+provide free security and range-ex
+tending software to the makers of Wi-
+Fi chipsets, thus ensuring demand
+for their access points and other
+backend equipment. The Linksys
+Group, in addition, has partnered
+
+with Net2Phone, hoping that a low
+price, utilitarian approach and net
+work-extending products will appeal
+to customers.
+In the upcoming show of wireless
+laptop integration, Intel Corps
+much touted Centrino microproces
+sor aims to be one of the headlining
+acts. Specially tailored for laptop
+computers, the Centrino chip fea
+tures a built-in Wi-Fi transceiver that
+allows accelerated Internet access at
+up to 11 megabits per second, far
+faster than dial-up connections.
+More than a dozen computer makers
+are now introducing new Centrino
+based laptops.
+"Increasingly, people lugging lap
+tops are demanding Internet connec
+tions and power outlets," says Neil
+Yang, senior Intel component design
+engineer. "This phenomenon, cou
+pled with the emergence of Wi-Fi
+and technology like the Centrino,
+sets up the possibility of huge
+changes in the way people do mobile
+computing...and the way people
+work and live."
+
+
+ALI ALEMOZAFAR/The Stanford Daily
+Although laptop users usually need to purchase a separate wireless networking card to take advantage of Stanford's Wi-Fi net
+work, the technology is catching on. As most new laptops now have Wi-Fi capability built in, Stanford's wireless network can only
+grow in popularity.
+For the laptop-toting hoards of
+academia, businesspeople and web
+surfers, it's a dream come true.
+With the nation's Hyatts, Star
+bucks, airports and, yes, McDonald's
+scrambling onto the Wi-Fi bandwag
+on along with some of the biggest
+names in the technology industry, it
+is undeniable that the wireless revo
+lution is indisputably, irreversibly
+here.
+Universities are also following
+along. Available to all members of
+the Stanford community with a
+SUNet ID and password, a laptop
+computer with built-in wireless or a
+Type II PCMCIA slot and a wireless
+card, Stanford's current network ex
+tends to the Main Quad, Tressider,
+Meyer and Green Libraries, the grad
+schools, as well as several other build
+ings.
+But Stanford isn't the first. One of
+the oldest and largest university net
+works is Carnegie Mellon Universi
+ty's WLAN. Started as a research pro
+ject in 1994, it currently covers all
+buildings of the 103-acre campus.
+The problem, however, with uni
+versity implementation of wireless is
+funding. "Wireless networking
+doesn't come free. Some entity has to
+pick up the charges for the deploy
+ment, says Phil Reese, technical man
+ager of Stanford's Information Tech
+nology Systems and Services (ITSS).
+Each school and department on
+campus is responsible for establish
+ing their own in-building network,
+explains Reese. "ITSS is sponsored
+by Stanford to provide . . . the back
+bone that ties all of the individual
+networks together."
+Still in its infancy, Stanford's own
+wireless network supports between
+70 and 90 people at any given time
+on an average school day.
+Across the nation, the number of
+hotspots is skyrocketing. In the past
+year, Wired magazine reported a
+tenfold increase in the number of
+hotspots to 12,000 around the world,
+naming San Francisco's Levi Strauss
+Plaza as the "No. 1 cool hot spot" in
+the U.S.
+Businesses have been quick to rec
+ognize the potential of wireless in lur
+ing Internet-surfing customers. By
+summer, 400 Borders bookstores will
+offer Wi-Fi access. In a partnership
+announced last August, Starbucks
+and T-Mobile currently offer wireless
+access in more than 2,100 Starbucks
+coffee shops nationwide. Most re
+cently, McDonald's, working with
+San Francisco startup Cometa, will
+extend wireless to 300 McDonald
+restaurants in New York City, Chica
+go and a yet-to-be-announced Cali
+
+fornia town. Hilton, Mariott, Shera
+ton, Westin and VV hotels also plan to
+offer wireless access points in hun
+dreds of hotels in the United States,
+Canada, the United Kingdom and
+Germany. Wi-Fi is also making its
+way into the passenger lounges at
+San Francisco and Dallas-Fort Worth
+airports.
+Impatient Wi-Fi fans at home are
+taking matters in their own hands.
+With wireless packages just a $150
+credit card swipe away at the local
+Wal-Mart, the Wi-Fi movement is no
+tably the first real "grassroots" phe
+nomenon to hit the tech scene in a
+long time. The number of units sold
+is expected to double to 12 million
+this year, according to Wired maga
+zine, adding to the proliferating web
+of ad hoc community nets created
+both intentionally and unsuspecting
+ly by neighborhood base stations.
+The home market is expected to ex
+ceed all others.
+Meanwhile, computer maker
+Toshiba and chipmaker Intel
+promise to set up even more wireless
+
+hotspots in coffee shops, hotels and
+convenience stores across the United
+States. Like ISPs, however, indepen
+dent Wi-Fi providers are facing fierce
+competition as telecom firms enter
+the fray. Currently among the top
+service providers are AT&T, Boingo,
+Cometa, Surf and Sip and T-Mobile.
+They are backed, in dollars and in
+sweat, by longstanding technology
+heavyweights jostling to wield the
+hardware end of the business. While
+Apple, Dell and D-Link, as well as
+new-comer Vivato, strike out on their
+own to answer to the ever-increasing
+client base for base stations, others
+have chosen to partner with other
+hardware makers.
+San Jose's Cisco Systems, for ex
+ample, has formed a network hard
+ware giant with Intel, HP and Ather
+os. Working together, the companies
+provide free security and range-ex
+tending software to the makers of Wi-
+Fi chipsets, thus ensuring demand
+for their access points and other
+backend equipment. The Linksys
+Group, in addition, has partnered
+
+with Net2Phone, hoping that a low
+price, utilitarian approach and net
+work-extending products will appeal
+to customers.
+In the upcoming show of wireless
+laptop integration, Intel Corps
+much touted Centrino microproces
+sor aims to be one of the headlining
+acts. Specially tailored for laptop
+computers, the Centrino chip fea
+tures a built-in Wi-Fi transceiver that
+allows accelerated Internet access at
+up to 11 megabits per second, far
+faster than dial-up connections.
+More than a dozen computer makers
+are now introducing new Centrino
+based laptops.
+"Increasingly, people lugging lap
+tops are demanding Internet connec
+tions and power outlets," says Neil
+Yang, senior Intel component design
+engineer. "This phenomenon, cou
+pled with the emergence of Wi-Fi
+and technology like the Centrino,
+sets up the possibility of huge
+changes in the way people do mobile
+computing...and the way people
+work and live."
+
+
+ALI ALEMOZAFAR/The Stanford Daily
+Although laptop users usually need to purchase a separate wireless networking card to take advantage of Stanford's Wi-Fi net
+work, the technology is catching on. As most new laptops now have Wi-Fi capability built in, Stanford's wireless network can only
+grow in popularity.
+For the laptop-toting hoards of
+academia, businesspeople and web
+surfers, it's a dream come true.
+With the nation's Hyatts, Star
+bucks, airports and, yes, McDonald's
+scrambling onto the Wi-Fi bandwag
+on along with some of the biggest
+names in the technology industry, it
+is undeniable that the wireless revo
+lution is indisputably, irreversibly
+here.
+Universities are also following
+along. Available to all members of
+the Stanford community with a
+SUNet ID and password, a laptop
+computer with built-in wireless or a
+Type II PCMCIA slot and a wireless
+card, Stanford's current network ex
+tends to the Main Quad, Tressider,
+Meyer and Green Libraries, the grad
+schools, as well as several other build
+ings.
+But Stanford isn't the first. One of
+the oldest and largest university net
+works is Carnegie Mellon Universi
+ty's WLAN. Started as a research pro
+ject in 1994, it currently covers all
+buildings of the 103-acre campus.
+The problem, however, with uni
+versity implementation of wireless is
+funding. "Wireless networking
+doesn't come free. Some entity has to
+pick up the charges for the deploy
+ment, says Phil Reese, technical man
+ager of Stanford's Information Tech
+nology Systems and Services (ITSS).
+Each school and department on
+campus is responsible for establish
+ing their own in-building network,
+explains Reese. "ITSS is sponsored
+by Stanford to provide . . . the back
+bone that ties all of the individual
+networks together."
+Still in its infancy, Stanford's own
+wireless network supports between
+70 and 90 people at any given time
+on an average school day.
+Across the nation, the number of
+hotspots is skyrocketing. In the past
+year, Wired magazine reported a
+tenfold increase in the number of
+hotspots to 12,000 around the world,
+naming San Francisco's Levi Strauss
+Plaza as the "No. 1 cool hot spot" in
+the U.S.
+Businesses have been quick to rec
+ognize the potential of wireless in lur
+ing Internet-surfing customers. By
+summer, 400 Borders bookstores will
+offer Wi-Fi access. In a partnership
+announced last August, Starbucks
+and T-Mobile currently offer wireless
+access in more than 2,100 Starbucks
+coffee shops nationwide. Most re
+cently, McDonald's, working with
+San Francisco startup Cometa, will
+extend wireless to 300 McDonald
+restaurants in New York City, Chica
+go and a yet-to-be-announced Cali
+
+fornia town. Hilton, Mariott, Shera
+ton, Westin and VV hotels also plan to
+offer wireless access points in hun
+dreds of hotels in the United States,
+Canada, the United Kingdom and
+Germany. Wi-Fi is also making its
+way into the passenger lounges at
+San Francisco and Dallas-Fort Worth
+airports.
+Impatient Wi-Fi fans at home are
+taking matters in their own hands.
+With wireless packages just a $150
+credit card swipe away at the local
+Wal-Mart, the Wi-Fi movement is no
+tably the first real "grassroots" phe
+nomenon to hit the tech scene in a
+long time. The number of units sold
+is expected to double to 12 million
+this year, according to Wired maga
+zine, adding to the proliferating web
+of ad hoc community nets created
+both intentionally and unsuspecting
+ly by neighborhood base stations.
+The home market is expected to ex
+ceed all others.
+Meanwhile, computer maker
+Toshiba and chipmaker Intel
+promise to set up even more wireless
+
+hotspots in coffee shops, hotels and
+convenience stores across the United
+States. Like ISPs, however, indepen
+dent Wi-Fi providers are facing fierce
+competition as telecom firms enter
+the fray. Currently among the top
+service providers are AT&T, Boingo,
+Cometa, Surf and Sip and T-Mobile.
+They are backed, in dollars and in
+sweat, by longstanding technology
+heavyweights jostling to wield the
+hardware end of the business. While
+Apple, Dell and D-Link, as well as
+new-comer Vivato, strike out on their
+own to answer to the ever-increasing
+client base for base stations, others
+have chosen to partner with other
+hardware makers.
+San Jose's Cisco Systems, for ex
+ample, has formed a network hard
+ware giant with Intel, HP and Ather
+os. Working together, the companies
+provide free security and range-ex
+tending software to the makers of Wi-
+Fi chipsets, thus ensuring demand
+for their access points and other
+backend equipment. The Linksys
+Group, in addition, has partnered
+
+with Net2Phone, hoping that a low
+price, utilitarian approach and net
+work-extending products will appeal
+to customers.
+In the upcoming show of wireless
+laptop integration, Intel Corps
+much touted Centrino microproces
+sor aims to be one of the headlining
+acts. Specially tailored for laptop
+computers, the Centrino chip fea
+tures a built-in Wi-Fi transceiver that
+allows accelerated Internet access at
+up to 11 megabits per second, far
+faster than dial-up connections.
+More than a dozen computer makers
+are now introducing new Centrino
+based laptops.
+"Increasingly, people lugging lap
+tops are demanding Internet connec
+tions and power outlets," says Neil
+Yang, senior Intel component design
+engineer. "This phenomenon, cou
+pled with the emergence of Wi-Fi
+and technology like the Centrino,
+sets up the possibility of huge
+changes in the way people do mobile
+computing...and the way people
+work and live."
+
+
+ALI ALEMOZAFAR/The Stanford Daily
+Although laptop users usually need to purchase a separate wireless networking card to take advantage of Stanford's Wi-Fi net
+work, the technology is catching on. As most new laptops now have Wi-Fi capability built in, Stanford's wireless network can only
+grow in popularity.
+For the laptop-toting hoards of
+academia, businesspeople and web
+surfers, it's a dream come true.
+With the nation's Hyatts, Star
+bucks, airports and, yes, McDonald's
+scrambling onto the Wi-Fi bandwag
+on along with some of the biggest
+names in the technology industry, it
+is undeniable that the wireless revo
+lution is indisputably, irreversibly
+here.
+Universities are also following
+along. Available to all members of
+the Stanford community with a
+SUNet ID and password, a laptop
+computer with built-in wireless or a
+Type II PCMCIA slot and a wireless
+card, Stanford's current network ex
+tends to the Main Quad, Tressider,
+Meyer and Green Libraries, the grad
+schools, as well as several other build
+ings.
+But Stanford isn't the first. One of
+the oldest and largest university net
+works is Carnegie Mellon Universi
+ty's WLAN. Started as a research pro
+ject in 1994, it currently covers all
+buildings of the 103-acre campus.
+The problem, however, with uni
+versity implementation of wireless is
+funding. "Wireless networking
+doesn't come free. Some entity has to
+pick up the charges for the deploy
+ment, says Phil Reese, technical man
+ager of Stanford's Information Tech
+nology Systems and Services (ITSS).
+Each school and department on
+campus is responsible for establish
+ing their own in-building network,
+explains Reese. "ITSS is sponsored
+by Stanford to provide . . . the back
+bone that ties all of the individual
+networks together."
+Still in its infancy, Stanford's own
+wireless network supports between
+70 and 90 people at any given time
+on an average school day.
+Across the nation, the number of
+hotspots is skyrocketing. In the past
+year, Wired magazine reported a
+tenfold increase in the number of
+hotspots to 12,000 around the world,
+naming San Francisco's Levi Strauss
+Plaza as the "No. 1 cool hot spot" in
+the U.S.
+Businesses have been quick to rec
+ognize the potential of wireless in lur
+ing Internet-surfing customers. By
+summer, 400 Borders bookstores will
+offer Wi-Fi access. In a partnership
+announced last August, Starbucks
+and T-Mobile currently offer wireless
+access in more than 2,100 Starbucks
+coffee shops nationwide. Most re
+cently, McDonald's, working with
+San Francisco startup Cometa, will
+extend wireless to 300 McDonald
+restaurants in New York City, Chica
+go and a yet-to-be-announced Cali
+
+fornia town. Hilton, Mariott, Shera
+ton, Westin and VV hotels also plan to
+offer wireless access points in hun
+dreds of hotels in the United States,
+Canada, the United Kingdom and
+Germany. Wi-Fi is also making its
+way into the passenger lounges at
+San Francisco and Dallas-Fort Worth
+airports.
+Impatient Wi-Fi fans at home are
+taking matters in their own hands.
+With wireless packages just a $150
+credit card swipe away at the local
+Wal-Mart, the Wi-Fi movement is no
+tably the first real "grassroots" phe
+nomenon to hit the tech scene in a
+long time. The number of units sold
+is expected to double to 12 million
+this year, according to Wired maga
+zine, adding to the proliferating web
+of ad hoc community nets created
+both intentionally and unsuspecting
+ly by neighborhood base stations.
+The home market is expected to ex
+ceed all others.
+Meanwhile, computer maker
+Toshiba and chipmaker Intel
+promise to set up even more wireless
+
+hotspots in coffee shops, hotels and
+convenience stores across the United
+States. Like ISPs, however, indepen
+dent Wi-Fi providers are facing fierce
+competition as telecom firms enter
+the fray. Currently among the top
+service providers are AT&T, Boingo,
+Cometa, Surf and Sip and T-Mobile.
+They are backed, in dollars and in
+sweat, by longstanding technology
+heavyweights jostling to wield the
+hardware end of the business. While
+Apple, Dell and D-Link, as well as
+new-comer Vivato, strike out on their
+own to answer to the ever-increasing
+client base for base stations, others
+have chosen to partner with other
+hardware makers.
+San Jose's Cisco Systems, for ex
+ample, has formed a network hard
+ware giant with Intel, HP and Ather
+os. Working together, the companies
+provide free security and range-ex
+tending software to the makers of Wi-
+Fi chipsets, thus ensuring demand
+for their access points and other
+backend equipment. The Linksys
+Group, in addition, has partnered
+
+with Net2Phone, hoping that a low
+price, utilitarian approach and net
+work-extending products will appeal
+to customers.
+In the upcoming show of wireless
+laptop integration, Intel Corps
+much touted Centrino microproces
+sor aims to be one of the headlining
+acts. Specially tailored for laptop
+computers, the Centrino chip fea
+tures a built-in Wi-Fi transceiver that
+allows accelerated Internet access at
+up to 11 megabits per second, far
+faster than dial-up connections.
+More than a dozen computer makers
+are now introducing new Centrino
+based laptops.
+"Increasingly, people lugging lap
+tops are demanding Internet connec
+tions and power outlets," says Neil
+Yang, senior Intel component design
+engineer. "This phenomenon, cou
+pled with the emergence of Wi-Fi
+and technology like the Centrino,
+sets up the possibility of huge
+changes in the way people do mobile
+computing...and the way people
+work and live."
+
+
+ALI ALEMOZAFAR/The Stanford Daily
+Although laptop users usually need to purchase a separate wireless networking card to take advantage of Stanford's Wi-Fi net
+work, the technology is catching on. As most new laptops now have Wi-Fi capability built in, Stanford's wireless network can only
+grow in popularity.

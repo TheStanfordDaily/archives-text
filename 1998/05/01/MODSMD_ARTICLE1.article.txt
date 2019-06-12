@@ -1,0 +1,1178 @@
+# E-mail privacy often breached
+## 
+### Leslie A. Gordon Contributing writer 
+While composing e-mail mes
+sages in Meyer Library, you realize
+it's nearly 11 a.m. — time for class.
+You send your last e-mail, pack up
+your books and head out. When
+you return home later that after
+noon, your best friend, your dad
+and several other people on your e
+mail address book have left you
+angry phone messages wondering
+why you were so rude and vulgar in
+your last e-mails to them. Why?
+Because you failed to log off of
+your e-mail session in Meyer, the
+next person who sat down at that
+computer had access to your e-mail
+account. That unknown imposter
+sent offensive e-mails to nearly
+everyone in your e-mail address
+book. But to the recipients, the e
+mails appeared to have been sent
+by you.
+This is the most common way
+that e-mail privacy is violated on
+campus. But, unfortunately, it is
+not the only way. Privacy breaches
+affect not just students but the fac
+ulty and staff as well.
+"Everyone should be con
+cerned about [e-mail| privacy,"
+said Dennis Michael, the manager
+
+of UNIX systems who is in charge
+of the Leland systems and the
+Sweet Hall cluster.
+In addition to e-mail accounts
+being accessed after a user has
+failed to log off. "sniffers" — pro
+grams used by network intruders
+to gather user IDs and passwords
+have also created security prob
+lems. Last year, a hacker accessed
+nearly 240 e-mail IDs and pass
+words in the Durand Building's
+computer system.
+To deal with privacy breaches,
+the Faculty Senate's Committee
+on Academic Computing and In
+formation Systems has developed
+a Computer and Network Usage
+Policy.
+"Electronic mail and one's per
+sonal computer files are treated
+analogously to one's office files
+and regular mail," said Biochem
+istry Prof. Douglas Brutlag, chair
+of the committee, summarizing the
+policy. "It is considered an inva
+sion of privacy to read another's
+mail. In tact, it is a felony under
+( alifornia law to break into a com
+puter account and to copy or read
+another's files, e-mail or not."
+E-mail abuse bv a student is a
+
+
+Sam Mankiewiczl — Daily
+Maren Norton, along with running mate Santos Marroquin, celebrate
+their victory in the ASSU presidential election last night.
+violation of the Honor Code. "Not
+a pleasant situation at all." Brutlag
+said.
+University General Counsel
+Michael Roster noted, however,
+that e-mails are presumed to be re
+lated to University business and
+therefore are entitled to University
+access.
+That is, Stanford cannot guaran
+tee e-mail privacy because person
+al e-mails are "purely incidental"
+to its business.
+Although they may not consti
+tute a guarantee, the University
+does have a number of helpful pre
+vention methods and recommen
+dations to increase privacy.
+To prevent breaches like the
+one in the Durand Building, the
+Leland system now uses "Ker
+beros," a security system that pre
+vents packet sniffers by encrypting
+login IDs and passwords that trav
+el over the Internet. Unfortunate
+ly. Kerberos only encrypts the ID
+and password.
+
+As for prevention [of
+e-mail privacy breaches],
+the first line of defense is
+a good password.'
+— Adam Seishas
+
+The text of the e-mail can still he
+intercepted, according to Sweet
+Hall consultant Adam Seishas, a
+junior.
+"Most of these attacks are prob
+ably coming from somewhere off
+campus." Seishas said.
+More sophisticated encryption
+programs can protect the text of e
+mail messages, but they are often
+less than intuitive, usually work
+only with certain e-mail clients like
+Eudora, and require both the
+sender and receiver to have special
+software installed, according to
+Seishas.
+Brutlag noted that these "public
+
+key encryption programs are a
+significant advance in computer
+privacy. "It will allow us, for the
+first time, to send confidential in
+formation over the Internet with
+the assurance that it is sent by the
+person who encrypted it,"he said.
+In another e-mail privacy twist,
+you might be surprised to learn
+thiit even when you hit "delete" in
+a University e-mail program, the
+message is not deleted.
+Instead, the University main
+tains all e-mail messages on backup
+disks for one year as a safeguard
+against system crashes and to satis
+fy certain record-keeping obliga
+tions.
+Although system administra
+tors have access to these disks and
+are not required to show cause in
+order to do so, these administra
+tors only retrieve old messages if
+there is strong evidence of a viola
+tion of the Computer and Network
+Usage Policy, Brutlag said.
+Old e-mails could also be the
+subject of a subpoena directed at
+the University, but Roster said that
+e-mail privacy in this context has
+"not been a big issue."
+Acceording to Roster, at the
+same time, new software is being
+developed to read even backup
+tapes that have been erased and
+could be used when old tapes are
+the subject of litigation.
+In Stanford's case, old e-mails
+are most commonly accessed at the
+request of the user. But recovery of
+old e-mail messages is not easily
+done, according to Stephen
+Hansen, Computer Security Offi
+cer.
+"Recovering a given file from a
+backup tape is not a trivial task,"
+Hansen said. "The Leland system
+alone backs up hundreds of giga
+bytes of data every night. Recovery
+of a single file can take days or even
+weeks."
+Still, if you have a Leland e-mail
+account and you're uncomfortable
+with marked-for-deletion e-mails
+being maintained by the Universi
+ty. Brutlag has a tip:
+" The Leland backups are made
+in the earlv morning hours. If you
+
+set Eudora to read your mailbox
+every midnight and also ask Eudo
+ra to delete messages from the
+server, then no copies of the mes
+sages will exist on the Leland sys
+tem during the backup," he said.
+Brutlag warned, however, that
+this strategy requires users to back
+up message files themselves.
+
+'It is a felony under
+California law to break into
+a computer account and to
+copy or read another's files,
+e-mail or not.'
+— Douglas Brutlag
+
+"If you lose any mail — like los
+ing the Eudora folder on your hard
+drive — there will be nothing that
+the Leland people will be able to
+do to get your mail back for you,"
+he said.
+With his own e-mail account,
+Brutlag employs the opposite strat
+egy:
+To ensure his messages are
+backed up, he programs Eudora to
+keep his e-mails on the server for
+24 hours.
+"As for prevention [of e-mail
+privacy breaches]," Seishas said,
+"the first line of defense is a good
+password."
+The Sweet Hall staff recom
+mends choosing a password that is
+at least eight characters long, is not
+based on a dictionary word and
+contains at least one non-lower
+case letter, such as a number, up
+percase letter or a punctuation
+mark.
+Passwords should never be
+shared, and they should be re
+placed periodically.
+A poster in one campus com
+puter lab reads, "Passwords are
+like underwear. Change yours
+often."
+According to Brutlag, the most
+common instance of people read
+ing others' mail occurs when peo
+ple walk away from a computer.
+So remember to log off your
+next e-mail session in Meyer.
+While composing e-mail mes
+sages in Meyer Library, you realize
+it's nearly 11 a.m. — time for class.
+You send your last e-mail, pack up
+your books and head out. When
+you return home later that after
+noon, your best friend, your dad
+and several other people on your e
+mail address book have left you
+angry phone messages wondering
+why you were so rude and vulgar in
+your last e-mails to them. Why?
+Because you failed to log off of
+your e-mail session in Meyer, the
+next person who sat down at that
+computer had access to your e-mail
+account. That unknown imposter
+sent offensive e-mails to nearly
+everyone in your e-mail address
+book. But to the recipients, the e
+mails appeared to have been sent
+by you.
+This is the most common way
+that e-mail privacy is violated on
+campus. But, unfortunately, it is
+not the only way. Privacy breaches
+affect not just students but the fac
+ulty and staff as well.
+"Everyone should be con
+cerned about [e-mail| privacy,"
+said Dennis Michael, the manager
+
+of UNIX systems who is in charge
+of the Leland systems and the
+Sweet Hall cluster.
+In addition to e-mail accounts
+being accessed after a user has
+failed to log off. "sniffers" — pro
+grams used by network intruders
+to gather user IDs and passwords
+have also created security prob
+lems. Last year, a hacker accessed
+nearly 240 e-mail IDs and pass
+words in the Durand Building's
+computer system.
+To deal with privacy breaches,
+the Faculty Senate's Committee
+on Academic Computing and In
+formation Systems has developed
+a Computer and Network Usage
+Policy.
+"Electronic mail and one's per
+sonal computer files are treated
+analogously to one's office files
+and regular mail," said Biochem
+istry Prof. Douglas Brutlag, chair
+of the committee, summarizing the
+policy. "It is considered an inva
+sion of privacy to read another's
+mail. In tact, it is a felony under
+( alifornia law to break into a com
+puter account and to copy or read
+another's files, e-mail or not."
+E-mail abuse bv a student is a
+
+
+Sam Mankiewiczl — Daily
+Maren Norton, along with running mate Santos Marroquin, celebrate
+their victory in the ASSU presidential election last night.
+violation of the Honor Code. "Not
+a pleasant situation at all." Brutlag
+said.
+University General Counsel
+Michael Roster noted, however,
+that e-mails are presumed to be re
+lated to University business and
+therefore are entitled to University
+access.
+That is, Stanford cannot guaran
+tee e-mail privacy because person
+al e-mails are "purely incidental"
+to its business.
+Although they may not consti
+tute a guarantee, the University
+does have a number of helpful pre
+vention methods and recommen
+dations to increase privacy.
+To prevent breaches like the
+one in the Durand Building, the
+Leland system now uses "Ker
+beros," a security system that pre
+vents packet sniffers by encrypting
+login IDs and passwords that trav
+el over the Internet. Unfortunate
+ly. Kerberos only encrypts the ID
+and password.
+
+As for prevention [of
+e-mail privacy breaches],
+the first line of defense is
+a good password.'
+— Adam Seishas
+
+The text of the e-mail can still he
+intercepted, according to Sweet
+Hall consultant Adam Seishas, a
+junior.
+"Most of these attacks are prob
+ably coming from somewhere off
+campus." Seishas said.
+More sophisticated encryption
+programs can protect the text of e
+mail messages, but they are often
+less than intuitive, usually work
+only with certain e-mail clients like
+Eudora, and require both the
+sender and receiver to have special
+software installed, according to
+Seishas.
+Brutlag noted that these "public
+
+key encryption programs are a
+significant advance in computer
+privacy. "It will allow us, for the
+first time, to send confidential in
+formation over the Internet with
+the assurance that it is sent by the
+person who encrypted it,"he said.
+In another e-mail privacy twist,
+you might be surprised to learn
+thiit even when you hit "delete" in
+a University e-mail program, the
+message is not deleted.
+Instead, the University main
+tains all e-mail messages on backup
+disks for one year as a safeguard
+against system crashes and to satis
+fy certain record-keeping obliga
+tions.
+Although system administra
+tors have access to these disks and
+are not required to show cause in
+order to do so, these administra
+tors only retrieve old messages if
+there is strong evidence of a viola
+tion of the Computer and Network
+Usage Policy, Brutlag said.
+Old e-mails could also be the
+subject of a subpoena directed at
+the University, but Roster said that
+e-mail privacy in this context has
+"not been a big issue."
+Acceording to Roster, at the
+same time, new software is being
+developed to read even backup
+tapes that have been erased and
+could be used when old tapes are
+the subject of litigation.
+In Stanford's case, old e-mails
+are most commonly accessed at the
+request of the user. But recovery of
+old e-mail messages is not easily
+done, according to Stephen
+Hansen, Computer Security Offi
+cer.
+"Recovering a given file from a
+backup tape is not a trivial task,"
+Hansen said. "The Leland system
+alone backs up hundreds of giga
+bytes of data every night. Recovery
+of a single file can take days or even
+weeks."
+Still, if you have a Leland e-mail
+account and you're uncomfortable
+with marked-for-deletion e-mails
+being maintained by the Universi
+ty. Brutlag has a tip:
+" The Leland backups are made
+in the earlv morning hours. If you
+
+set Eudora to read your mailbox
+every midnight and also ask Eudo
+ra to delete messages from the
+server, then no copies of the mes
+sages will exist on the Leland sys
+tem during the backup," he said.
+Brutlag warned, however, that
+this strategy requires users to back
+up message files themselves.
+
+'It is a felony under
+California law to break into
+a computer account and to
+copy or read another's files,
+e-mail or not.'
+— Douglas Brutlag
+
+"If you lose any mail — like los
+ing the Eudora folder on your hard
+drive — there will be nothing that
+the Leland people will be able to
+do to get your mail back for you,"
+he said.
+With his own e-mail account,
+Brutlag employs the opposite strat
+egy:
+To ensure his messages are
+backed up, he programs Eudora to
+keep his e-mails on the server for
+24 hours.
+"As for prevention [of e-mail
+privacy breaches]," Seishas said,
+"the first line of defense is a good
+password."
+The Sweet Hall staff recom
+mends choosing a password that is
+at least eight characters long, is not
+based on a dictionary word and
+contains at least one non-lower
+case letter, such as a number, up
+percase letter or a punctuation
+mark.
+Passwords should never be
+shared, and they should be re
+placed periodically.
+A poster in one campus com
+puter lab reads, "Passwords are
+like underwear. Change yours
+often."
+According to Brutlag, the most
+common instance of people read
+ing others' mail occurs when peo
+ple walk away from a computer.
+So remember to log off your
+next e-mail session in Meyer.
+While composing e-mail mes
+sages in Meyer Library, you realize
+it's nearly 11 a.m. — time for class.
+You send your last e-mail, pack up
+your books and head out. When
+you return home later that after
+noon, your best friend, your dad
+and several other people on your e
+mail address book have left you
+angry phone messages wondering
+why you were so rude and vulgar in
+your last e-mails to them. Why?
+Because you failed to log off of
+your e-mail session in Meyer, the
+next person who sat down at that
+computer had access to your e-mail
+account. That unknown imposter
+sent offensive e-mails to nearly
+everyone in your e-mail address
+book. But to the recipients, the e
+mails appeared to have been sent
+by you.
+This is the most common way
+that e-mail privacy is violated on
+campus. But, unfortunately, it is
+not the only way. Privacy breaches
+affect not just students but the fac
+ulty and staff as well.
+"Everyone should be con
+cerned about [e-mail| privacy,"
+said Dennis Michael, the manager
+
+of UNIX systems who is in charge
+of the Leland systems and the
+Sweet Hall cluster.
+In addition to e-mail accounts
+being accessed after a user has
+failed to log off. "sniffers" — pro
+grams used by network intruders
+to gather user IDs and passwords
+have also created security prob
+lems. Last year, a hacker accessed
+nearly 240 e-mail IDs and pass
+words in the Durand Building's
+computer system.
+To deal with privacy breaches,
+the Faculty Senate's Committee
+on Academic Computing and In
+formation Systems has developed
+a Computer and Network Usage
+Policy.
+"Electronic mail and one's per
+sonal computer files are treated
+analogously to one's office files
+and regular mail," said Biochem
+istry Prof. Douglas Brutlag, chair
+of the committee, summarizing the
+policy. "It is considered an inva
+sion of privacy to read another's
+mail. In tact, it is a felony under
+( alifornia law to break into a com
+puter account and to copy or read
+another's files, e-mail or not."
+E-mail abuse bv a student is a
+
+
+Sam Mankiewiczl — Daily
+Maren Norton, along with running mate Santos Marroquin, celebrate
+their victory in the ASSU presidential election last night.
+violation of the Honor Code. "Not
+a pleasant situation at all." Brutlag
+said.
+University General Counsel
+Michael Roster noted, however,
+that e-mails are presumed to be re
+lated to University business and
+therefore are entitled to University
+access.
+That is, Stanford cannot guaran
+tee e-mail privacy because person
+al e-mails are "purely incidental"
+to its business.
+Although they may not consti
+tute a guarantee, the University
+does have a number of helpful pre
+vention methods and recommen
+dations to increase privacy.
+To prevent breaches like the
+one in the Durand Building, the
+Leland system now uses "Ker
+beros," a security system that pre
+vents packet sniffers by encrypting
+login IDs and passwords that trav
+el over the Internet. Unfortunate
+ly. Kerberos only encrypts the ID
+and password.
+
+As for prevention [of
+e-mail privacy breaches],
+the first line of defense is
+a good password.'
+— Adam Seishas
+
+The text of the e-mail can still he
+intercepted, according to Sweet
+Hall consultant Adam Seishas, a
+junior.
+"Most of these attacks are prob
+ably coming from somewhere off
+campus." Seishas said.
+More sophisticated encryption
+programs can protect the text of e
+mail messages, but they are often
+less than intuitive, usually work
+only with certain e-mail clients like
+Eudora, and require both the
+sender and receiver to have special
+software installed, according to
+Seishas.
+Brutlag noted that these "public
+
+key encryption programs are a
+significant advance in computer
+privacy. "It will allow us, for the
+first time, to send confidential in
+formation over the Internet with
+the assurance that it is sent by the
+person who encrypted it,"he said.
+In another e-mail privacy twist,
+you might be surprised to learn
+thiit even when you hit "delete" in
+a University e-mail program, the
+message is not deleted.
+Instead, the University main
+tains all e-mail messages on backup
+disks for one year as a safeguard
+against system crashes and to satis
+fy certain record-keeping obliga
+tions.
+Although system administra
+tors have access to these disks and
+are not required to show cause in
+order to do so, these administra
+tors only retrieve old messages if
+there is strong evidence of a viola
+tion of the Computer and Network
+Usage Policy, Brutlag said.
+Old e-mails could also be the
+subject of a subpoena directed at
+the University, but Roster said that
+e-mail privacy in this context has
+"not been a big issue."
+Acceording to Roster, at the
+same time, new software is being
+developed to read even backup
+tapes that have been erased and
+could be used when old tapes are
+the subject of litigation.
+In Stanford's case, old e-mails
+are most commonly accessed at the
+request of the user. But recovery of
+old e-mail messages is not easily
+done, according to Stephen
+Hansen, Computer Security Offi
+cer.
+"Recovering a given file from a
+backup tape is not a trivial task,"
+Hansen said. "The Leland system
+alone backs up hundreds of giga
+bytes of data every night. Recovery
+of a single file can take days or even
+weeks."
+Still, if you have a Leland e-mail
+account and you're uncomfortable
+with marked-for-deletion e-mails
+being maintained by the Universi
+ty. Brutlag has a tip:
+" The Leland backups are made
+in the earlv morning hours. If you
+
+set Eudora to read your mailbox
+every midnight and also ask Eudo
+ra to delete messages from the
+server, then no copies of the mes
+sages will exist on the Leland sys
+tem during the backup," he said.
+Brutlag warned, however, that
+this strategy requires users to back
+up message files themselves.
+
+'It is a felony under
+California law to break into
+a computer account and to
+copy or read another's files,
+e-mail or not.'
+— Douglas Brutlag
+
+"If you lose any mail — like los
+ing the Eudora folder on your hard
+drive — there will be nothing that
+the Leland people will be able to
+do to get your mail back for you,"
+he said.
+With his own e-mail account,
+Brutlag employs the opposite strat
+egy:
+To ensure his messages are
+backed up, he programs Eudora to
+keep his e-mails on the server for
+24 hours.
+"As for prevention [of e-mail
+privacy breaches]," Seishas said,
+"the first line of defense is a good
+password."
+The Sweet Hall staff recom
+mends choosing a password that is
+at least eight characters long, is not
+based on a dictionary word and
+contains at least one non-lower
+case letter, such as a number, up
+percase letter or a punctuation
+mark.
+Passwords should never be
+shared, and they should be re
+placed periodically.
+A poster in one campus com
+puter lab reads, "Passwords are
+like underwear. Change yours
+often."
+According to Brutlag, the most
+common instance of people read
+ing others' mail occurs when peo
+ple walk away from a computer.
+So remember to log off your
+next e-mail session in Meyer.
+While composing e-mail mes
+sages in Meyer Library, you realize
+it's nearly 11 a.m. — time for class.
+You send your last e-mail, pack up
+your books and head out. When
+you return home later that after
+noon, your best friend, your dad
+and several other people on your e
+mail address book have left you
+angry phone messages wondering
+why you were so rude and vulgar in
+your last e-mails to them. Why?
+Because you failed to log off of
+your e-mail session in Meyer, the
+next person who sat down at that
+computer had access to your e-mail
+account. That unknown imposter
+sent offensive e-mails to nearly
+everyone in your e-mail address
+book. But to the recipients, the e
+mails appeared to have been sent
+by you.
+This is the most common way
+that e-mail privacy is violated on
+campus. But, unfortunately, it is
+not the only way. Privacy breaches
+affect not just students but the fac
+ulty and staff as well.
+"Everyone should be con
+cerned about [e-mail| privacy,"
+said Dennis Michael, the manager
+
+of UNIX systems who is in charge
+of the Leland systems and the
+Sweet Hall cluster.
+In addition to e-mail accounts
+being accessed after a user has
+failed to log off. "sniffers" — pro
+grams used by network intruders
+to gather user IDs and passwords
+have also created security prob
+lems. Last year, a hacker accessed
+nearly 240 e-mail IDs and pass
+words in the Durand Building's
+computer system.
+To deal with privacy breaches,
+the Faculty Senate's Committee
+on Academic Computing and In
+formation Systems has developed
+a Computer and Network Usage
+Policy.
+"Electronic mail and one's per
+sonal computer files are treated
+analogously to one's office files
+and regular mail," said Biochem
+istry Prof. Douglas Brutlag, chair
+of the committee, summarizing the
+policy. "It is considered an inva
+sion of privacy to read another's
+mail. In tact, it is a felony under
+( alifornia law to break into a com
+puter account and to copy or read
+another's files, e-mail or not."
+E-mail abuse bv a student is a
+
+
+Sam Mankiewiczl — Daily
+Maren Norton, along with running mate Santos Marroquin, celebrate
+their victory in the ASSU presidential election last night.
+violation of the Honor Code. "Not
+a pleasant situation at all." Brutlag
+said.
+University General Counsel
+Michael Roster noted, however,
+that e-mails are presumed to be re
+lated to University business and
+therefore are entitled to University
+access.
+That is, Stanford cannot guaran
+tee e-mail privacy because person
+al e-mails are "purely incidental"
+to its business.
+Although they may not consti
+tute a guarantee, the University
+does have a number of helpful pre
+vention methods and recommen
+dations to increase privacy.
+To prevent breaches like the
+one in the Durand Building, the
+Leland system now uses "Ker
+beros," a security system that pre
+vents packet sniffers by encrypting
+login IDs and passwords that trav
+el over the Internet. Unfortunate
+ly. Kerberos only encrypts the ID
+and password.
+
+As for prevention [of
+e-mail privacy breaches],
+the first line of defense is
+a good password.'
+— Adam Seishas
+
+The text of the e-mail can still he
+intercepted, according to Sweet
+Hall consultant Adam Seishas, a
+junior.
+"Most of these attacks are prob
+ably coming from somewhere off
+campus." Seishas said.
+More sophisticated encryption
+programs can protect the text of e
+mail messages, but they are often
+less than intuitive, usually work
+only with certain e-mail clients like
+Eudora, and require both the
+sender and receiver to have special
+software installed, according to
+Seishas.
+Brutlag noted that these "public
+
+key encryption programs are a
+significant advance in computer
+privacy. "It will allow us, for the
+first time, to send confidential in
+formation over the Internet with
+the assurance that it is sent by the
+person who encrypted it,"he said.
+In another e-mail privacy twist,
+you might be surprised to learn
+thiit even when you hit "delete" in
+a University e-mail program, the
+message is not deleted.
+Instead, the University main
+tains all e-mail messages on backup
+disks for one year as a safeguard
+against system crashes and to satis
+fy certain record-keeping obliga
+tions.
+Although system administra
+tors have access to these disks and
+are not required to show cause in
+order to do so, these administra
+tors only retrieve old messages if
+there is strong evidence of a viola
+tion of the Computer and Network
+Usage Policy, Brutlag said.
+Old e-mails could also be the
+subject of a subpoena directed at
+the University, but Roster said that
+e-mail privacy in this context has
+"not been a big issue."
+Acceording to Roster, at the
+same time, new software is being
+developed to read even backup
+tapes that have been erased and
+could be used when old tapes are
+the subject of litigation.
+In Stanford's case, old e-mails
+are most commonly accessed at the
+request of the user. But recovery of
+old e-mail messages is not easily
+done, according to Stephen
+Hansen, Computer Security Offi
+cer.
+"Recovering a given file from a
+backup tape is not a trivial task,"
+Hansen said. "The Leland system
+alone backs up hundreds of giga
+bytes of data every night. Recovery
+of a single file can take days or even
+weeks."
+Still, if you have a Leland e-mail
+account and you're uncomfortable
+with marked-for-deletion e-mails
+being maintained by the Universi
+ty. Brutlag has a tip:
+" The Leland backups are made
+in the earlv morning hours. If you
+
+set Eudora to read your mailbox
+every midnight and also ask Eudo
+ra to delete messages from the
+server, then no copies of the mes
+sages will exist on the Leland sys
+tem during the backup," he said.
+Brutlag warned, however, that
+this strategy requires users to back
+up message files themselves.
+
+'It is a felony under
+California law to break into
+a computer account and to
+copy or read another's files,
+e-mail or not.'
+— Douglas Brutlag
+
+"If you lose any mail — like los
+ing the Eudora folder on your hard
+drive — there will be nothing that
+the Leland people will be able to
+do to get your mail back for you,"
+he said.
+With his own e-mail account,
+Brutlag employs the opposite strat
+egy:
+To ensure his messages are
+backed up, he programs Eudora to
+keep his e-mails on the server for
+24 hours.
+"As for prevention [of e-mail
+privacy breaches]," Seishas said,
+"the first line of defense is a good
+password."
+The Sweet Hall staff recom
+mends choosing a password that is
+at least eight characters long, is not
+based on a dictionary word and
+contains at least one non-lower
+case letter, such as a number, up
+percase letter or a punctuation
+mark.
+Passwords should never be
+shared, and they should be re
+placed periodically.
+A poster in one campus com
+puter lab reads, "Passwords are
+like underwear. Change yours
+often."
+According to Brutlag, the most
+common instance of people read
+ing others' mail occurs when peo
+ple walk away from a computer.
+So remember to log off your
+next e-mail session in Meyer.
+While composing e-mail mes
+sages in Meyer Library, you realize
+it's nearly 11 a.m. — time for class.
+You send your last e-mail, pack up
+your books and head out. When
+you return home later that after
+noon, your best friend, your dad
+and several other people on your e
+mail address book have left you
+angry phone messages wondering
+why you were so rude and vulgar in
+your last e-mails to them. Why?
+Because you failed to log off of
+your e-mail session in Meyer, the
+next person who sat down at that
+computer had access to your e-mail
+account. That unknown imposter
+sent offensive e-mails to nearly
+everyone in your e-mail address
+book. But to the recipients, the e
+mails appeared to have been sent
+by you.
+This is the most common way
+that e-mail privacy is violated on
+campus. But, unfortunately, it is
+not the only way. Privacy breaches
+affect not just students but the fac
+ulty and staff as well.
+"Everyone should be con
+cerned about [e-mail| privacy,"
+said Dennis Michael, the manager
+
+of UNIX systems who is in charge
+of the Leland systems and the
+Sweet Hall cluster.
+In addition to e-mail accounts
+being accessed after a user has
+failed to log off. "sniffers" — pro
+grams used by network intruders
+to gather user IDs and passwords
+have also created security prob
+lems. Last year, a hacker accessed
+nearly 240 e-mail IDs and pass
+words in the Durand Building's
+computer system.
+To deal with privacy breaches,
+the Faculty Senate's Committee
+on Academic Computing and In
+formation Systems has developed
+a Computer and Network Usage
+Policy.
+"Electronic mail and one's per
+sonal computer files are treated
+analogously to one's office files
+and regular mail," said Biochem
+istry Prof. Douglas Brutlag, chair
+of the committee, summarizing the
+policy. "It is considered an inva
+sion of privacy to read another's
+mail. In tact, it is a felony under
+( alifornia law to break into a com
+puter account and to copy or read
+another's files, e-mail or not."
+E-mail abuse bv a student is a
+
+
+Sam Mankiewiczl — Daily
+Maren Norton, along with running mate Santos Marroquin, celebrate
+their victory in the ASSU presidential election last night.
+violation of the Honor Code. "Not
+a pleasant situation at all." Brutlag
+said.
+University General Counsel
+Michael Roster noted, however,
+that e-mails are presumed to be re
+lated to University business and
+therefore are entitled to University
+access.
+That is, Stanford cannot guaran
+tee e-mail privacy because person
+al e-mails are "purely incidental"
+to its business.
+Although they may not consti
+tute a guarantee, the University
+does have a number of helpful pre
+vention methods and recommen
+dations to increase privacy.
+To prevent breaches like the
+one in the Durand Building, the
+Leland system now uses "Ker
+beros," a security system that pre
+vents packet sniffers by encrypting
+login IDs and passwords that trav
+el over the Internet. Unfortunate
+ly. Kerberos only encrypts the ID
+and password.
+
+As for prevention [of
+e-mail privacy breaches],
+the first line of defense is
+a good password.'
+— Adam Seishas
+
+The text of the e-mail can still he
+intercepted, according to Sweet
+Hall consultant Adam Seishas, a
+junior.
+"Most of these attacks are prob
+ably coming from somewhere off
+campus." Seishas said.
+More sophisticated encryption
+programs can protect the text of e
+mail messages, but they are often
+less than intuitive, usually work
+only with certain e-mail clients like
+Eudora, and require both the
+sender and receiver to have special
+software installed, according to
+Seishas.
+Brutlag noted that these "public
+
+key encryption programs are a
+significant advance in computer
+privacy. "It will allow us, for the
+first time, to send confidential in
+formation over the Internet with
+the assurance that it is sent by the
+person who encrypted it,"he said.
+In another e-mail privacy twist,
+you might be surprised to learn
+thiit even when you hit "delete" in
+a University e-mail program, the
+message is not deleted.
+Instead, the University main
+tains all e-mail messages on backup
+disks for one year as a safeguard
+against system crashes and to satis
+fy certain record-keeping obliga
+tions.
+Although system administra
+tors have access to these disks and
+are not required to show cause in
+order to do so, these administra
+tors only retrieve old messages if
+there is strong evidence of a viola
+tion of the Computer and Network
+Usage Policy, Brutlag said.
+Old e-mails could also be the
+subject of a subpoena directed at
+the University, but Roster said that
+e-mail privacy in this context has
+"not been a big issue."
+Acceording to Roster, at the
+same time, new software is being
+developed to read even backup
+tapes that have been erased and
+could be used when old tapes are
+the subject of litigation.
+In Stanford's case, old e-mails
+are most commonly accessed at the
+request of the user. But recovery of
+old e-mail messages is not easily
+done, according to Stephen
+Hansen, Computer Security Offi
+cer.
+"Recovering a given file from a
+backup tape is not a trivial task,"
+Hansen said. "The Leland system
+alone backs up hundreds of giga
+bytes of data every night. Recovery
+of a single file can take days or even
+weeks."
+Still, if you have a Leland e-mail
+account and you're uncomfortable
+with marked-for-deletion e-mails
+being maintained by the Universi
+ty. Brutlag has a tip:
+" The Leland backups are made
+in the earlv morning hours. If you
+
+set Eudora to read your mailbox
+every midnight and also ask Eudo
+ra to delete messages from the
+server, then no copies of the mes
+sages will exist on the Leland sys
+tem during the backup," he said.
+Brutlag warned, however, that
+this strategy requires users to back
+up message files themselves.
+
+'It is a felony under
+California law to break into
+a computer account and to
+copy or read another's files,
+e-mail or not.'
+— Douglas Brutlag
+
+"If you lose any mail — like los
+ing the Eudora folder on your hard
+drive — there will be nothing that
+the Leland people will be able to
+do to get your mail back for you,"
+he said.
+With his own e-mail account,
+Brutlag employs the opposite strat
+egy:
+To ensure his messages are
+backed up, he programs Eudora to
+keep his e-mails on the server for
+24 hours.
+"As for prevention [of e-mail
+privacy breaches]," Seishas said,
+"the first line of defense is a good
+password."
+The Sweet Hall staff recom
+mends choosing a password that is
+at least eight characters long, is not
+based on a dictionary word and
+contains at least one non-lower
+case letter, such as a number, up
+percase letter or a punctuation
+mark.
+Passwords should never be
+shared, and they should be re
+placed periodically.
+A poster in one campus com
+puter lab reads, "Passwords are
+like underwear. Change yours
+often."
+According to Brutlag, the most
+common instance of people read
+ing others' mail occurs when peo
+ple walk away from a computer.
+So remember to log off your
+next e-mail session in Meyer.

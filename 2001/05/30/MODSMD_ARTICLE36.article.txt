@@ -1,0 +1,787 @@
+# The 						Answer Pool sharks not just beer-guzzling girl hustlers; they know their math, too
+## 
+### STEPHANIE CHIANG CONTRIBUTING WRITER 
+(/ A ret illy hot guv just asked me out on a date.
+We're going to (I Cafe, which makes sense because
+he loves to f/lax pool, lint J'xieplayed poo! onl\ a cou
+ple t>j times before, anil / don 't want to make a fool
+oj myself! I've heard some of my friends, who hap
+pen to be physics and math majors, say that there's
+rhyme ami reason behind the art of playing pool.
+Any f/ointeis to help me make a great impression on
+m\ studl\ date?
+A: Your 112 riends arc right — I licit* is some
+method behind the madness. First off,
+here's a basie prim iple in playing pool:
+\\ lien you hit the <ue ball, the (tie ball trans
+fers energy to the object ball and creates
+paths foi both balls m a prcdw table mannei.
+(for simplicity's sake, we will assume no
+spin and a straight-on hit).
+Mere's an example: In Figure A, you will
+see both the cue ball and object ball in posi
+tion 1. I lie objet 1 ball is direi Ily in front o!
+the pocket. I he question is where to hit the
+
+object ball with the cue
+ball so that you'll sink
+the object ball I Ins
+can be determined
+with a bit ol vector
+math. Ihe <ue ball is
+hit and travels with a
+certain velo< itv (t'). II
+it does not hit the ob
+ject ball, it would con
+tinue along its path
+with that velot itv (v).
+However, as the
+cue ball hits the ob
+ject ball (illustrated
+in position 2), its ve
+lo< iiv is split between
+its "vertical" and
+"horizontal" compo
+nents. 1 hese compo
+nents, as a rule, must
+be perpendx ulai to
+ca< li ot her. To clari
+ly, remember vmn
+
+right iikiiih'lcv Well, think oi the path
+
+Iraveled with vchx itv v .is
+ilu- hypotenuse and the
+( oniponents as ol I lie
+Iriangle. I hus, t lie «ue
+I).ill moves hori/ont al l\
+with hoi i/ontal velocity t\
+.iikl the ol)je< I hall moves
+vet tm ally with verti< al ve
+lo( 11 \ i). ('.onvenienth . the
+ohjec t hall's vei tit al p.it li
+is exactly in line with the
+po< ket, so it goes right in.
+I lie moral ol the
+stoi \is th.it this <11\ ision be
+tween vertical and hoi i/on
+tal « oniponents alw a\ s hap
+pens. so \ou can gauge the
+pat lis ol the ( ue and object
+halls using theii perpendu -
+ul.ll i elationship. I sing this
+knowledge — and with
+some practice — you'll he
+able to send I lie < ue ball on
+a path sim b that its < onta< t
+w itli the object ball leads the
+obje< t ball i ight to a pocket.
+Kut, il you want to
+impi ess hini. lici e's a cool
+link It's deliniteh a setup,
+
+meaning thai nII iit*\t-i happen (lining a
+regular game, but he'll like this one. What
+you do is ,ii range live 01 six object balls in a
+seniit in le, with the last one at an angle to the
+po< ket (Figuie B). All you have to do is allow
+the ( lie ball to hit the first object b.ill, and the
+last object h.ill will head toward the pocket.
+Whv docs this work.-' Well, the vector com
+ponents ( ome into pla\ again, as thev always
+do: When the cue l>,ill hits the lit st object
+ball, its "diagonal" path is split up into its
+vertical .11 id horizontal components.
+\\ bile the In si objec 1 ball would have gone
+on path Ail it had not been touching the sec -
+ond objec 1 ball, it travels on path B (the vei ti
+< .11 component) and "hits" the second object
+I).ill with the 1101 izontal component (path (1).
+I lie a second object ball, which would have
+continued on ibis path (('.) il it were not
+tone hing object ball three, actualK travels on
+path I) and hits object ball loin with its hoi 1-
+zontal component. And so on, until the List
+object ball. I Ins object ball doesn't hit any
+other I». 111 s. so 11 follows us "undivided" path,
+1 ight into t he pocket.
+Let me know how the elate uocs!
+
+S/» ( ial thanks lo Mathematics Prof, ( './ink liray fin
+In !f> with tin matin main \ <>/ this article. (•<>! a ques
+tion for the l iis'ii'ct (Hrl? i.-mad queries to innova
+tion (<i daih.Stanford.edu.
+
+
+(/ A ret illy hot guv just asked me out on a date.
+We're going to (I Cafe, which makes sense because
+he loves to f/lax pool, lint J'xieplayed poo! onl\ a cou
+ple t>j times before, anil / don 't want to make a fool
+oj myself! I've heard some of my friends, who hap
+pen to be physics and math majors, say that there's
+rhyme ami reason behind the art of playing pool.
+Any f/ointeis to help me make a great impression on
+m\ studl\ date?
+A: Your 112 riends arc right — I licit* is some
+method behind the madness. First off,
+here's a basie prim iple in playing pool:
+\\ lien you hit the <ue ball, the (tie ball trans
+fers energy to the object ball and creates
+paths foi both balls m a prcdw table mannei.
+(for simplicity's sake, we will assume no
+spin and a straight-on hit).
+Mere's an example: In Figure A, you will
+see both the cue ball and object ball in posi
+tion 1. I lie objet 1 ball is direi Ily in front o!
+the pocket. I he question is where to hit the
+
+object ball with the cue
+ball so that you'll sink
+the object ball I Ins
+can be determined
+with a bit ol vector
+math. Ihe <ue ball is
+hit and travels with a
+certain velo< itv (t'). II
+it does not hit the ob
+ject ball, it would con
+tinue along its path
+with that velot itv (v).
+However, as the
+cue ball hits the ob
+ject ball (illustrated
+in position 2), its ve
+lo< iiv is split between
+its "vertical" and
+"horizontal" compo
+nents. 1 hese compo
+nents, as a rule, must
+be perpendx ulai to
+ca< li ot her. To clari
+ly, remember vmn
+
+right iikiiih'lcv Well, think oi the path
+
+Iraveled with vchx itv v .is
+ilu- hypotenuse and the
+( oniponents as ol I lie
+Iriangle. I hus, t lie «ue
+I).ill moves hori/ont al l\
+with hoi i/ontal velocity t\
+.iikl the ol)je< I hall moves
+vet tm ally with verti< al ve
+lo( 11 \ i). ('.onvenienth . the
+ohjec t hall's vei tit al p.it li
+is exactly in line with the
+po< ket, so it goes right in.
+I lie moral ol the
+stoi \is th.it this <11\ ision be
+tween vertical and hoi i/on
+tal « oniponents alw a\ s hap
+pens. so \ou can gauge the
+pat lis ol the ( ue and object
+halls using theii perpendu -
+ul.ll i elationship. I sing this
+knowledge — and with
+some practice — you'll he
+able to send I lie < ue ball on
+a path sim b that its < onta< t
+w itli the object ball leads the
+obje< t ball i ight to a pocket.
+Kut, il you want to
+impi ess hini. lici e's a cool
+link It's deliniteh a setup,
+
+meaning thai nII iit*\t-i happen (lining a
+regular game, but he'll like this one. What
+you do is ,ii range live 01 six object balls in a
+seniit in le, with the last one at an angle to the
+po< ket (Figuie B). All you have to do is allow
+the ( lie ball to hit the first object b.ill, and the
+last object h.ill will head toward the pocket.
+Whv docs this work.-' Well, the vector com
+ponents ( ome into pla\ again, as thev always
+do: When the cue l>,ill hits the lit st object
+ball, its "diagonal" path is split up into its
+vertical .11 id horizontal components.
+\\ bile the In si objec 1 ball would have gone
+on path Ail it had not been touching the sec -
+ond objec 1 ball, it travels on path B (the vei ti
+< .11 component) and "hits" the second object
+I).ill with the 1101 izontal component (path (1).
+I lie a second object ball, which would have
+continued on ibis path (('.) il it were not
+tone hing object ball three, actualK travels on
+path I) and hits object ball loin with its hoi 1-
+zontal component. And so on, until the List
+object ball. I Ins object ball doesn't hit any
+other I». 111 s. so 11 follows us "undivided" path,
+1 ight into t he pocket.
+Let me know how the elate uocs!
+
+S/» ( ial thanks lo Mathematics Prof, ( './ink liray fin
+In !f> with tin matin main \ <>/ this article. (•<>! a ques
+tion for the l iis'ii'ct (Hrl? i.-mad queries to innova
+tion (<i daih.Stanford.edu.
+
+
+(/ A ret illy hot guv just asked me out on a date.
+We're going to (I Cafe, which makes sense because
+he loves to f/lax pool, lint J'xieplayed poo! onl\ a cou
+ple t>j times before, anil / don 't want to make a fool
+oj myself! I've heard some of my friends, who hap
+pen to be physics and math majors, say that there's
+rhyme ami reason behind the art of playing pool.
+Any f/ointeis to help me make a great impression on
+m\ studl\ date?
+A: Your 112 riends arc right — I licit* is some
+method behind the madness. First off,
+here's a basie prim iple in playing pool:
+\\ lien you hit the <ue ball, the (tie ball trans
+fers energy to the object ball and creates
+paths foi both balls m a prcdw table mannei.
+(for simplicity's sake, we will assume no
+spin and a straight-on hit).
+Mere's an example: In Figure A, you will
+see both the cue ball and object ball in posi
+tion 1. I lie objet 1 ball is direi Ily in front o!
+the pocket. I he question is where to hit the
+
+object ball with the cue
+ball so that you'll sink
+the object ball I Ins
+can be determined
+with a bit ol vector
+math. Ihe <ue ball is
+hit and travels with a
+certain velo< itv (t'). II
+it does not hit the ob
+ject ball, it would con
+tinue along its path
+with that velot itv (v).
+However, as the
+cue ball hits the ob
+ject ball (illustrated
+in position 2), its ve
+lo< iiv is split between
+its "vertical" and
+"horizontal" compo
+nents. 1 hese compo
+nents, as a rule, must
+be perpendx ulai to
+ca< li ot her. To clari
+ly, remember vmn
+
+right iikiiih'lcv Well, think oi the path
+
+Iraveled with vchx itv v .is
+ilu- hypotenuse and the
+( oniponents as ol I lie
+Iriangle. I hus, t lie «ue
+I).ill moves hori/ont al l\
+with hoi i/ontal velocity t\
+.iikl the ol)je< I hall moves
+vet tm ally with verti< al ve
+lo( 11 \ i). ('.onvenienth . the
+ohjec t hall's vei tit al p.it li
+is exactly in line with the
+po< ket, so it goes right in.
+I lie moral ol the
+stoi \is th.it this <11\ ision be
+tween vertical and hoi i/on
+tal « oniponents alw a\ s hap
+pens. so \ou can gauge the
+pat lis ol the ( ue and object
+halls using theii perpendu -
+ul.ll i elationship. I sing this
+knowledge — and with
+some practice — you'll he
+able to send I lie < ue ball on
+a path sim b that its < onta< t
+w itli the object ball leads the
+obje< t ball i ight to a pocket.
+Kut, il you want to
+impi ess hini. lici e's a cool
+link It's deliniteh a setup,
+
+meaning thai nII iit*\t-i happen (lining a
+regular game, but he'll like this one. What
+you do is ,ii range live 01 six object balls in a
+seniit in le, with the last one at an angle to the
+po< ket (Figuie B). All you have to do is allow
+the ( lie ball to hit the first object b.ill, and the
+last object h.ill will head toward the pocket.
+Whv docs this work.-' Well, the vector com
+ponents ( ome into pla\ again, as thev always
+do: When the cue l>,ill hits the lit st object
+ball, its "diagonal" path is split up into its
+vertical .11 id horizontal components.
+\\ bile the In si objec 1 ball would have gone
+on path Ail it had not been touching the sec -
+ond objec 1 ball, it travels on path B (the vei ti
+< .11 component) and "hits" the second object
+I).ill with the 1101 izontal component (path (1).
+I lie a second object ball, which would have
+continued on ibis path (('.) il it were not
+tone hing object ball three, actualK travels on
+path I) and hits object ball loin with its hoi 1-
+zontal component. And so on, until the List
+object ball. I Ins object ball doesn't hit any
+other I». 111 s. so 11 follows us "undivided" path,
+1 ight into t he pocket.
+Let me know how the elate uocs!
+
+S/» ( ial thanks lo Mathematics Prof, ( './ink liray fin
+In !f> with tin matin main \ <>/ this article. (•<>! a ques
+tion for the l iis'ii'ct (Hrl? i.-mad queries to innova
+tion (<i daih.Stanford.edu.
+
+
+(/ A ret illy hot guv just asked me out on a date.
+We're going to (I Cafe, which makes sense because
+he loves to f/lax pool, lint J'xieplayed poo! onl\ a cou
+ple t>j times before, anil / don 't want to make a fool
+oj myself! I've heard some of my friends, who hap
+pen to be physics and math majors, say that there's
+rhyme ami reason behind the art of playing pool.
+Any f/ointeis to help me make a great impression on
+m\ studl\ date?
+A: Your 112 riends arc right — I licit* is some
+method behind the madness. First off,
+here's a basie prim iple in playing pool:
+\\ lien you hit the <ue ball, the (tie ball trans
+fers energy to the object ball and creates
+paths foi both balls m a prcdw table mannei.
+(for simplicity's sake, we will assume no
+spin and a straight-on hit).
+Mere's an example: In Figure A, you will
+see both the cue ball and object ball in posi
+tion 1. I lie objet 1 ball is direi Ily in front o!
+the pocket. I he question is where to hit the
+
+object ball with the cue
+ball so that you'll sink
+the object ball I Ins
+can be determined
+with a bit ol vector
+math. Ihe <ue ball is
+hit and travels with a
+certain velo< itv (t'). II
+it does not hit the ob
+ject ball, it would con
+tinue along its path
+with that velot itv (v).
+However, as the
+cue ball hits the ob
+ject ball (illustrated
+in position 2), its ve
+lo< iiv is split between
+its "vertical" and
+"horizontal" compo
+nents. 1 hese compo
+nents, as a rule, must
+be perpendx ulai to
+ca< li ot her. To clari
+ly, remember vmn
+
+right iikiiih'lcv Well, think oi the path
+
+Iraveled with vchx itv v .is
+ilu- hypotenuse and the
+( oniponents as ol I lie
+Iriangle. I hus, t lie «ue
+I).ill moves hori/ont al l\
+with hoi i/ontal velocity t\
+.iikl the ol)je< I hall moves
+vet tm ally with verti< al ve
+lo( 11 \ i). ('.onvenienth . the
+ohjec t hall's vei tit al p.it li
+is exactly in line with the
+po< ket, so it goes right in.
+I lie moral ol the
+stoi \is th.it this <11\ ision be
+tween vertical and hoi i/on
+tal « oniponents alw a\ s hap
+pens. so \ou can gauge the
+pat lis ol the ( ue and object
+halls using theii perpendu -
+ul.ll i elationship. I sing this
+knowledge — and with
+some practice — you'll he
+able to send I lie < ue ball on
+a path sim b that its < onta< t
+w itli the object ball leads the
+obje< t ball i ight to a pocket.
+Kut, il you want to
+impi ess hini. lici e's a cool
+link It's deliniteh a setup,
+
+meaning thai nII iit*\t-i happen (lining a
+regular game, but he'll like this one. What
+you do is ,ii range live 01 six object balls in a
+seniit in le, with the last one at an angle to the
+po< ket (Figuie B). All you have to do is allow
+the ( lie ball to hit the first object b.ill, and the
+last object h.ill will head toward the pocket.
+Whv docs this work.-' Well, the vector com
+ponents ( ome into pla\ again, as thev always
+do: When the cue l>,ill hits the lit st object
+ball, its "diagonal" path is split up into its
+vertical .11 id horizontal components.
+\\ bile the In si objec 1 ball would have gone
+on path Ail it had not been touching the sec -
+ond objec 1 ball, it travels on path B (the vei ti
+< .11 component) and "hits" the second object
+I).ill with the 1101 izontal component (path (1).
+I lie a second object ball, which would have
+continued on ibis path (('.) il it were not
+tone hing object ball three, actualK travels on
+path I) and hits object ball loin with its hoi 1-
+zontal component. And so on, until the List
+object ball. I Ins object ball doesn't hit any
+other I». 111 s. so 11 follows us "undivided" path,
+1 ight into t he pocket.
+Let me know how the elate uocs!
+
+S/» ( ial thanks lo Mathematics Prof, ( './ink liray fin
+In !f> with tin matin main \ <>/ this article. (•<>! a ques
+tion for the l iis'ii'ct (Hrl? i.-mad queries to innova
+tion (<i daih.Stanford.edu.
+
+
+(/ A ret illy hot guv just asked me out on a date.
+We're going to (I Cafe, which makes sense because
+he loves to f/lax pool, lint J'xieplayed poo! onl\ a cou
+ple t>j times before, anil / don 't want to make a fool
+oj myself! I've heard some of my friends, who hap
+pen to be physics and math majors, say that there's
+rhyme ami reason behind the art of playing pool.
+Any f/ointeis to help me make a great impression on
+m\ studl\ date?
+A: Your 112 riends arc right — I licit* is some
+method behind the madness. First off,
+here's a basie prim iple in playing pool:
+\\ lien you hit the <ue ball, the (tie ball trans
+fers energy to the object ball and creates
+paths foi both balls m a prcdw table mannei.
+(for simplicity's sake, we will assume no
+spin and a straight-on hit).
+Mere's an example: In Figure A, you will
+see both the cue ball and object ball in posi
+tion 1. I lie objet 1 ball is direi Ily in front o!
+the pocket. I he question is where to hit the
+
+object ball with the cue
+ball so that you'll sink
+the object ball I Ins
+can be determined
+with a bit ol vector
+math. Ihe <ue ball is
+hit and travels with a
+certain velo< itv (t'). II
+it does not hit the ob
+ject ball, it would con
+tinue along its path
+with that velot itv (v).
+However, as the
+cue ball hits the ob
+ject ball (illustrated
+in position 2), its ve
+lo< iiv is split between
+its "vertical" and
+"horizontal" compo
+nents. 1 hese compo
+nents, as a rule, must
+be perpendx ulai to
+ca< li ot her. To clari
+ly, remember vmn
+
+right iikiiih'lcv Well, think oi the path
+
+Iraveled with vchx itv v .is
+ilu- hypotenuse and the
+( oniponents as ol I lie
+Iriangle. I hus, t lie «ue
+I).ill moves hori/ont al l\
+with hoi i/ontal velocity t\
+.iikl the ol)je< I hall moves
+vet tm ally with verti< al ve
+lo( 11 \ i). ('.onvenienth . the
+ohjec t hall's vei tit al p.it li
+is exactly in line with the
+po< ket, so it goes right in.
+I lie moral ol the
+stoi \is th.it this <11\ ision be
+tween vertical and hoi i/on
+tal « oniponents alw a\ s hap
+pens. so \ou can gauge the
+pat lis ol the ( ue and object
+halls using theii perpendu -
+ul.ll i elationship. I sing this
+knowledge — and with
+some practice — you'll he
+able to send I lie < ue ball on
+a path sim b that its < onta< t
+w itli the object ball leads the
+obje< t ball i ight to a pocket.
+Kut, il you want to
+impi ess hini. lici e's a cool
+link It's deliniteh a setup,
+
+meaning thai nII iit*\t-i happen (lining a
+regular game, but he'll like this one. What
+you do is ,ii range live 01 six object balls in a
+seniit in le, with the last one at an angle to the
+po< ket (Figuie B). All you have to do is allow
+the ( lie ball to hit the first object b.ill, and the
+last object h.ill will head toward the pocket.
+Whv docs this work.-' Well, the vector com
+ponents ( ome into pla\ again, as thev always
+do: When the cue l>,ill hits the lit st object
+ball, its "diagonal" path is split up into its
+vertical .11 id horizontal components.
+\\ bile the In si objec 1 ball would have gone
+on path Ail it had not been touching the sec -
+ond objec 1 ball, it travels on path B (the vei ti
+< .11 component) and "hits" the second object
+I).ill with the 1101 izontal component (path (1).
+I lie a second object ball, which would have
+continued on ibis path (('.) il it were not
+tone hing object ball three, actualK travels on
+path I) and hits object ball loin with its hoi 1-
+zontal component. And so on, until the List
+object ball. I Ins object ball doesn't hit any
+other I». 111 s. so 11 follows us "undivided" path,
+1 ight into t he pocket.
+Let me know how the elate uocs!
+
+S/» ( ial thanks lo Mathematics Prof, ( './ink liray fin
+In !f> with tin matin main \ <>/ this article. (•<>! a ques
+tion for the l iis'ii'ct (Hrl? i.-mad queries to innova
+tion (<i daih.Stanford.edu.
+
+
+(/ A ret illy hot guv just asked me out on a date.
+We're going to (I Cafe, which makes sense because
+he loves to f/lax pool, lint J'xieplayed poo! onl\ a cou
+ple t>j times before, anil / don 't want to make a fool
+oj myself! I've heard some of my friends, who hap
+pen to be physics and math majors, say that there's
+rhyme ami reason behind the art of playing pool.
+Any f/ointeis to help me make a great impression on
+m\ studl\ date?
+A: Your 112 riends arc right — I licit* is some
+method behind the madness. First off,
+here's a basie prim iple in playing pool:
+\\ lien you hit the <ue ball, the (tie ball trans
+fers energy to the object ball and creates
+paths foi both balls m a prcdw table mannei.
+(for simplicity's sake, we will assume no
+spin and a straight-on hit).
+Mere's an example: In Figure A, you will
+see both the cue ball and object ball in posi
+tion 1. I lie objet 1 ball is direi Ily in front o!
+the pocket. I he question is where to hit the
+
+object ball with the cue
+ball so that you'll sink
+the object ball I Ins
+can be determined
+with a bit ol vector
+math. Ihe <ue ball is
+hit and travels with a
+certain velo< itv (t'). II
+it does not hit the ob
+ject ball, it would con
+tinue along its path
+with that velot itv (v).
+However, as the
+cue ball hits the ob
+ject ball (illustrated
+in position 2), its ve
+lo< iiv is split between
+its "vertical" and
+"horizontal" compo
+nents. 1 hese compo
+nents, as a rule, must
+be perpendx ulai to
+ca< li ot her. To clari
+ly, remember vmn
+
+right iikiiih'lcv Well, think oi the path
+
+Iraveled with vchx itv v .is
+ilu- hypotenuse and the
+( oniponents as ol I lie
+Iriangle. I hus, t lie «ue
+I).ill moves hori/ont al l\
+with hoi i/ontal velocity t\
+.iikl the ol)je< I hall moves
+vet tm ally with verti< al ve
+lo( 11 \ i). ('.onvenienth . the
+ohjec t hall's vei tit al p.it li
+is exactly in line with the
+po< ket, so it goes right in.
+I lie moral ol the
+stoi \is th.it this <11\ ision be
+tween vertical and hoi i/on
+tal « oniponents alw a\ s hap
+pens. so \ou can gauge the
+pat lis ol the ( ue and object
+halls using theii perpendu -
+ul.ll i elationship. I sing this
+knowledge — and with
+some practice — you'll he
+able to send I lie < ue ball on
+a path sim b that its < onta< t
+w itli the object ball leads the
+obje< t ball i ight to a pocket.
+Kut, il you want to
+impi ess hini. lici e's a cool
+link It's deliniteh a setup,
+
+meaning thai nII iit*\t-i happen (lining a
+regular game, but he'll like this one. What
+you do is ,ii range live 01 six object balls in a
+seniit in le, with the last one at an angle to the
+po< ket (Figuie B). All you have to do is allow
+the ( lie ball to hit the first object b.ill, and the
+last object h.ill will head toward the pocket.
+Whv docs this work.-' Well, the vector com
+ponents ( ome into pla\ again, as thev always
+do: When the cue l>,ill hits the lit st object
+ball, its "diagonal" path is split up into its
+vertical .11 id horizontal components.
+\\ bile the In si objec 1 ball would have gone
+on path Ail it had not been touching the sec -
+ond objec 1 ball, it travels on path B (the vei ti
+< .11 component) and "hits" the second object
+I).ill with the 1101 izontal component (path (1).
+I lie a second object ball, which would have
+continued on ibis path (('.) il it were not
+tone hing object ball three, actualK travels on
+path I) and hits object ball loin with its hoi 1-
+zontal component. And so on, until the List
+object ball. I Ins object ball doesn't hit any
+other I». 111 s. so 11 follows us "undivided" path,
+1 ight into t he pocket.
+Let me know how the elate uocs!
+
+S/» ( ial thanks lo Mathematics Prof, ( './ink liray fin
+In !f> with tin matin main \ <>/ this article. (•<>! a ques
+tion for the l iis'ii'ct (Hrl? i.-mad queries to innova
+tion (<i daih.Stanford.edu.
+
+
+(/ A ret illy hot guv just asked me out on a date.
+We're going to (I Cafe, which makes sense because
+he loves to f/lax pool, lint J'xieplayed poo! onl\ a cou
+ple t>j times before, anil / don 't want to make a fool
+oj myself! I've heard some of my friends, who hap
+pen to be physics and math majors, say that there's
+rhyme ami reason behind the art of playing pool.
+Any f/ointeis to help me make a great impression on
+m\ studl\ date?
+A: Your 112 riends arc right — I licit* is some
+method behind the madness. First off,
+here's a basie prim iple in playing pool:
+\\ lien you hit the <ue ball, the (tie ball trans
+fers energy to the object ball and creates
+paths foi both balls m a prcdw table mannei.
+(for simplicity's sake, we will assume no
+spin and a straight-on hit).
+Mere's an example: In Figure A, you will
+see both the cue ball and object ball in posi
+tion 1. I lie objet 1 ball is direi Ily in front o!
+the pocket. I he question is where to hit the
+
+object ball with the cue
+ball so that you'll sink
+the object ball I Ins
+can be determined
+with a bit ol vector
+math. Ihe <ue ball is
+hit and travels with a
+certain velo< itv (t'). II
+it does not hit the ob
+ject ball, it would con
+tinue along its path
+with that velot itv (v).
+However, as the
+cue ball hits the ob
+ject ball (illustrated
+in position 2), its ve
+lo< iiv is split between
+its "vertical" and
+"horizontal" compo
+nents. 1 hese compo
+nents, as a rule, must
+be perpendx ulai to
+ca< li ot her. To clari
+ly, remember vmn
+
+right iikiiih'lcv Well, think oi the path
+
+Iraveled with vchx itv v .is
+ilu- hypotenuse and the
+( oniponents as ol I lie
+Iriangle. I hus, t lie «ue
+I).ill moves hori/ont al l\
+with hoi i/ontal velocity t\
+.iikl the ol)je< I hall moves
+vet tm ally with verti< al ve
+lo( 11 \ i). ('.onvenienth . the
+ohjec t hall's vei tit al p.it li
+is exactly in line with the
+po< ket, so it goes right in.
+I lie moral ol the
+stoi \is th.it this <11\ ision be
+tween vertical and hoi i/on
+tal « oniponents alw a\ s hap
+pens. so \ou can gauge the
+pat lis ol the ( ue and object
+halls using theii perpendu -
+ul.ll i elationship. I sing this
+knowledge — and with
+some practice — you'll he
+able to send I lie < ue ball on
+a path sim b that its < onta< t
+w itli the object ball leads the
+obje< t ball i ight to a pocket.
+Kut, il you want to
+impi ess hini. lici e's a cool
+link It's deliniteh a setup,
+
+meaning thai nII iit*\t-i happen (lining a
+regular game, but he'll like this one. What
+you do is ,ii range live 01 six object balls in a
+seniit in le, with the last one at an angle to the
+po< ket (Figuie B). All you have to do is allow
+the ( lie ball to hit the first object b.ill, and the
+last object h.ill will head toward the pocket.
+Whv docs this work.-' Well, the vector com
+ponents ( ome into pla\ again, as thev always
+do: When the cue l>,ill hits the lit st object
+ball, its "diagonal" path is split up into its
+vertical .11 id horizontal components.
+\\ bile the In si objec 1 ball would have gone
+on path Ail it had not been touching the sec -
+ond objec 1 ball, it travels on path B (the vei ti
+< .11 component) and "hits" the second object
+I).ill with the 1101 izontal component (path (1).
+I lie a second object ball, which would have
+continued on ibis path (('.) il it were not
+tone hing object ball three, actualK travels on
+path I) and hits object ball loin with its hoi 1-
+zontal component. And so on, until the List
+object ball. I Ins object ball doesn't hit any
+other I». 111 s. so 11 follows us "undivided" path,
+1 ight into t he pocket.
+Let me know how the elate uocs!
+
+S/» ( ial thanks lo Mathematics Prof, ( './ink liray fin
+In !f> with tin matin main \ <>/ this article. (•<>! a ques
+tion for the l iis'ii'ct (Hrl? i.-mad queries to innova
+tion (<i daih.Stanford.edu.
+
+

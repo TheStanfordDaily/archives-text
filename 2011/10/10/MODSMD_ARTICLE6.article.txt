@@ -1,0 +1,955 @@
+# SPEAKERS & EVENTS
+## ACM hosts Hulu talk on "big data" 
+### ELLORA ISRANI DESK EDITOR 
+The Stanford Association for
+Computing Machinery (ACM) host
+ed its weekly Tech Talk last Friday
+night in the Gates Computer Science
+Building, featuring Shane Moriah
+'O9, a Flulu software developer who
+gave a talk titled, "I Know What You
+Watched Last Summer: An
+Overview of Hadoop, Big Data and
+Metrics at Hulu."
+ACM's weekly Tech Talks feature
+two students, faculty or community
+members giving talks about various
+computer science-related topics. The
+group's website deems the idea "sim
+ple smart people sharing their
+cool CS hacks, research and tech
+demos with the Stanford CS commu
+nity." This week's second speaker
+was Sam King 'l2 on "Computers,
+Exploitation and Empowerment."
+Moriah spoke on the relevance to
+data in almost every industry.
+"Metrics are the core of data
+driven business," he said. "Pretty
+much every business now every
+tech business, every non-tech busi
+ness is interested in metrics."
+"You can understand your users
+and usage, develop and track new ex
+isting products and, of course,
+there's money," he continued. "We
+make most of our money off of ad
+vertisements, so being able to track
+what advertisements are shown and
+when that's how we make our
+money."
+
+According to Moriah, data is used
+to track a variety of factors across the
+Hulu site: views per video, number of
+advertisements shown, quality of
+service, as well as "individual viewer
+data," or how people behave across
+the lifetime of their visit to the site.
+He also described how the com
+pany collects data through "bea
+cons" on web pages designed to
+track usage.
+"What you do [when you watch a
+video] is send this URL off," he said.
+"This is basically what happens when
+you load an advertisement... it gets
+sent back to us and processed."
+The company records the time, IP
+address, advertisement info, user lo
+cation and user ID for registered
+viewers using a URL-parsing key; it
+processes about one billion of these
+"beacons" per day, which Moriah
+called an "issue of scale."
+Data is also used to balance con
+tent and user interface, as well as to
+drive some larger company deci
+sions such as "negative results" com
+municating unsuccessful initiatives.
+"When we launch things, there is a
+tendency to do product design by
+gut, Steve Jobs' philosophy," he said.
+"That sometimes works ... Some
+times you see that your big dream
+projects should actually get axed."
+
+He also revealed that Hulu is "in
+the slow process of a site-redesign,
+which is perhaps a secret."
+The Stanford ACM, which
+Hackathon coordinator Alex Atal
+lah 'l4 calls a "computer enthusi
+ast" group, is a chapter of the na
+tionwide scientific and educational
+computing society. The Stanford
+chapter was founded in 2007 and
+has approximately 400 members;
+nationwide, membership was about
+
+83,000 as of 2007.
+The group reaches out to compa
+nies and students, inviting them to
+speak about whatever CS-related
+subject interests them. According to
+Atallah, the talks' audiences are fair
+ly consistent.
+"The vast majority are Stanford
+people, Stanford undergrads," he
+said. "It's maybe five percent from
+outside of Stanford and 90 percent
+undergrads. The people who come
+
+from outside of Stanford, some of
+them are entrepreneurs ... Others
+are just tech enthusiasts. They're re
+ally excited about it."
+He also said that attendees tend to
+be CS majors, although some are
+symbolic systems majors or those in
+terested in "general entrepreneur
+ship."
+As for ACM, Atallah described
+the group's mission as built around a
+triad.
+
+"ACM is the biggest computing
+enthusiast group on Stanford cam
+pus, and we try to get people togeth
+er, some of whom are not sure how
+to start an idea that they have, and
+some of them have the technical
+background, but want inspiration,"
+he said. "We try to get these people
+to create at hackathons, to listen at
+Tech Talks and to learn at work
+shops."
+
+ACM's next Tech Talk is Friday,
+Oct. 21 at 6 p.m. and will feature Ali
+Yahya 'lO on "Software Defined Net
+working."
+
+Contact Ellora Israni at ellora@stan
+ford.edu.
+
+
+WENDING LU/The Stanford Daily
+Hulu software developer Shane Moriah '09 spoke Friday evening about the use of data and metrics at Hulu as part
+of the weekly Tech Talks series hosted by the Stanford chapter of the Association for Computing Machinery.
+The Stanford Association for
+Computing Machinery (ACM) host
+ed its weekly Tech Talk last Friday
+night in the Gates Computer Science
+Building, featuring Shane Moriah
+'O9, a Flulu software developer who
+gave a talk titled, "I Know What You
+Watched Last Summer: An
+Overview of Hadoop, Big Data and
+Metrics at Hulu."
+ACM's weekly Tech Talks feature
+two students, faculty or community
+members giving talks about various
+computer science-related topics. The
+group's website deems the idea "sim
+ple smart people sharing their
+cool CS hacks, research and tech
+demos with the Stanford CS commu
+nity." This week's second speaker
+was Sam King 'l2 on "Computers,
+Exploitation and Empowerment."
+Moriah spoke on the relevance to
+data in almost every industry.
+"Metrics are the core of data
+driven business," he said. "Pretty
+much every business now every
+tech business, every non-tech busi
+ness is interested in metrics."
+"You can understand your users
+and usage, develop and track new ex
+isting products and, of course,
+there's money," he continued. "We
+make most of our money off of ad
+vertisements, so being able to track
+what advertisements are shown and
+when that's how we make our
+money."
+
+According to Moriah, data is used
+to track a variety of factors across the
+Hulu site: views per video, number of
+advertisements shown, quality of
+service, as well as "individual viewer
+data," or how people behave across
+the lifetime of their visit to the site.
+He also described how the com
+pany collects data through "bea
+cons" on web pages designed to
+track usage.
+"What you do [when you watch a
+video] is send this URL off," he said.
+"This is basically what happens when
+you load an advertisement... it gets
+sent back to us and processed."
+The company records the time, IP
+address, advertisement info, user lo
+cation and user ID for registered
+viewers using a URL-parsing key; it
+processes about one billion of these
+"beacons" per day, which Moriah
+called an "issue of scale."
+Data is also used to balance con
+tent and user interface, as well as to
+drive some larger company deci
+sions such as "negative results" com
+municating unsuccessful initiatives.
+"When we launch things, there is a
+tendency to do product design by
+gut, Steve Jobs' philosophy," he said.
+"That sometimes works ... Some
+times you see that your big dream
+projects should actually get axed."
+
+He also revealed that Hulu is "in
+the slow process of a site-redesign,
+which is perhaps a secret."
+The Stanford ACM, which
+Hackathon coordinator Alex Atal
+lah 'l4 calls a "computer enthusi
+ast" group, is a chapter of the na
+tionwide scientific and educational
+computing society. The Stanford
+chapter was founded in 2007 and
+has approximately 400 members;
+nationwide, membership was about
+
+83,000 as of 2007.
+The group reaches out to compa
+nies and students, inviting them to
+speak about whatever CS-related
+subject interests them. According to
+Atallah, the talks' audiences are fair
+ly consistent.
+"The vast majority are Stanford
+people, Stanford undergrads," he
+said. "It's maybe five percent from
+outside of Stanford and 90 percent
+undergrads. The people who come
+
+from outside of Stanford, some of
+them are entrepreneurs ... Others
+are just tech enthusiasts. They're re
+ally excited about it."
+He also said that attendees tend to
+be CS majors, although some are
+symbolic systems majors or those in
+terested in "general entrepreneur
+ship."
+As for ACM, Atallah described
+the group's mission as built around a
+triad.
+
+"ACM is the biggest computing
+enthusiast group on Stanford cam
+pus, and we try to get people togeth
+er, some of whom are not sure how
+to start an idea that they have, and
+some of them have the technical
+background, but want inspiration,"
+he said. "We try to get these people
+to create at hackathons, to listen at
+Tech Talks and to learn at work
+shops."
+
+ACM's next Tech Talk is Friday,
+Oct. 21 at 6 p.m. and will feature Ali
+Yahya 'lO on "Software Defined Net
+working."
+
+Contact Ellora Israni at ellora@stan
+ford.edu.
+
+
+WENDING LU/The Stanford Daily
+Hulu software developer Shane Moriah '09 spoke Friday evening about the use of data and metrics at Hulu as part
+of the weekly Tech Talks series hosted by the Stanford chapter of the Association for Computing Machinery.
+The Stanford Association for
+Computing Machinery (ACM) host
+ed its weekly Tech Talk last Friday
+night in the Gates Computer Science
+Building, featuring Shane Moriah
+'O9, a Flulu software developer who
+gave a talk titled, "I Know What You
+Watched Last Summer: An
+Overview of Hadoop, Big Data and
+Metrics at Hulu."
+ACM's weekly Tech Talks feature
+two students, faculty or community
+members giving talks about various
+computer science-related topics. The
+group's website deems the idea "sim
+ple smart people sharing their
+cool CS hacks, research and tech
+demos with the Stanford CS commu
+nity." This week's second speaker
+was Sam King 'l2 on "Computers,
+Exploitation and Empowerment."
+Moriah spoke on the relevance to
+data in almost every industry.
+"Metrics are the core of data
+driven business," he said. "Pretty
+much every business now every
+tech business, every non-tech busi
+ness is interested in metrics."
+"You can understand your users
+and usage, develop and track new ex
+isting products and, of course,
+there's money," he continued. "We
+make most of our money off of ad
+vertisements, so being able to track
+what advertisements are shown and
+when that's how we make our
+money."
+
+According to Moriah, data is used
+to track a variety of factors across the
+Hulu site: views per video, number of
+advertisements shown, quality of
+service, as well as "individual viewer
+data," or how people behave across
+the lifetime of their visit to the site.
+He also described how the com
+pany collects data through "bea
+cons" on web pages designed to
+track usage.
+"What you do [when you watch a
+video] is send this URL off," he said.
+"This is basically what happens when
+you load an advertisement... it gets
+sent back to us and processed."
+The company records the time, IP
+address, advertisement info, user lo
+cation and user ID for registered
+viewers using a URL-parsing key; it
+processes about one billion of these
+"beacons" per day, which Moriah
+called an "issue of scale."
+Data is also used to balance con
+tent and user interface, as well as to
+drive some larger company deci
+sions such as "negative results" com
+municating unsuccessful initiatives.
+"When we launch things, there is a
+tendency to do product design by
+gut, Steve Jobs' philosophy," he said.
+"That sometimes works ... Some
+times you see that your big dream
+projects should actually get axed."
+
+He also revealed that Hulu is "in
+the slow process of a site-redesign,
+which is perhaps a secret."
+The Stanford ACM, which
+Hackathon coordinator Alex Atal
+lah 'l4 calls a "computer enthusi
+ast" group, is a chapter of the na
+tionwide scientific and educational
+computing society. The Stanford
+chapter was founded in 2007 and
+has approximately 400 members;
+nationwide, membership was about
+
+83,000 as of 2007.
+The group reaches out to compa
+nies and students, inviting them to
+speak about whatever CS-related
+subject interests them. According to
+Atallah, the talks' audiences are fair
+ly consistent.
+"The vast majority are Stanford
+people, Stanford undergrads," he
+said. "It's maybe five percent from
+outside of Stanford and 90 percent
+undergrads. The people who come
+
+from outside of Stanford, some of
+them are entrepreneurs ... Others
+are just tech enthusiasts. They're re
+ally excited about it."
+He also said that attendees tend to
+be CS majors, although some are
+symbolic systems majors or those in
+terested in "general entrepreneur
+ship."
+As for ACM, Atallah described
+the group's mission as built around a
+triad.
+
+"ACM is the biggest computing
+enthusiast group on Stanford cam
+pus, and we try to get people togeth
+er, some of whom are not sure how
+to start an idea that they have, and
+some of them have the technical
+background, but want inspiration,"
+he said. "We try to get these people
+to create at hackathons, to listen at
+Tech Talks and to learn at work
+shops."
+
+ACM's next Tech Talk is Friday,
+Oct. 21 at 6 p.m. and will feature Ali
+Yahya 'lO on "Software Defined Net
+working."
+
+Contact Ellora Israni at ellora@stan
+ford.edu.
+
+
+WENDING LU/The Stanford Daily
+Hulu software developer Shane Moriah '09 spoke Friday evening about the use of data and metrics at Hulu as part
+of the weekly Tech Talks series hosted by the Stanford chapter of the Association for Computing Machinery.
+The Stanford Association for
+Computing Machinery (ACM) host
+ed its weekly Tech Talk last Friday
+night in the Gates Computer Science
+Building, featuring Shane Moriah
+'O9, a Flulu software developer who
+gave a talk titled, "I Know What You
+Watched Last Summer: An
+Overview of Hadoop, Big Data and
+Metrics at Hulu."
+ACM's weekly Tech Talks feature
+two students, faculty or community
+members giving talks about various
+computer science-related topics. The
+group's website deems the idea "sim
+ple smart people sharing their
+cool CS hacks, research and tech
+demos with the Stanford CS commu
+nity." This week's second speaker
+was Sam King 'l2 on "Computers,
+Exploitation and Empowerment."
+Moriah spoke on the relevance to
+data in almost every industry.
+"Metrics are the core of data
+driven business," he said. "Pretty
+much every business now every
+tech business, every non-tech busi
+ness is interested in metrics."
+"You can understand your users
+and usage, develop and track new ex
+isting products and, of course,
+there's money," he continued. "We
+make most of our money off of ad
+vertisements, so being able to track
+what advertisements are shown and
+when that's how we make our
+money."
+
+According to Moriah, data is used
+to track a variety of factors across the
+Hulu site: views per video, number of
+advertisements shown, quality of
+service, as well as "individual viewer
+data," or how people behave across
+the lifetime of their visit to the site.
+He also described how the com
+pany collects data through "bea
+cons" on web pages designed to
+track usage.
+"What you do [when you watch a
+video] is send this URL off," he said.
+"This is basically what happens when
+you load an advertisement... it gets
+sent back to us and processed."
+The company records the time, IP
+address, advertisement info, user lo
+cation and user ID for registered
+viewers using a URL-parsing key; it
+processes about one billion of these
+"beacons" per day, which Moriah
+called an "issue of scale."
+Data is also used to balance con
+tent and user interface, as well as to
+drive some larger company deci
+sions such as "negative results" com
+municating unsuccessful initiatives.
+"When we launch things, there is a
+tendency to do product design by
+gut, Steve Jobs' philosophy," he said.
+"That sometimes works ... Some
+times you see that your big dream
+projects should actually get axed."
+
+He also revealed that Hulu is "in
+the slow process of a site-redesign,
+which is perhaps a secret."
+The Stanford ACM, which
+Hackathon coordinator Alex Atal
+lah 'l4 calls a "computer enthusi
+ast" group, is a chapter of the na
+tionwide scientific and educational
+computing society. The Stanford
+chapter was founded in 2007 and
+has approximately 400 members;
+nationwide, membership was about
+
+83,000 as of 2007.
+The group reaches out to compa
+nies and students, inviting them to
+speak about whatever CS-related
+subject interests them. According to
+Atallah, the talks' audiences are fair
+ly consistent.
+"The vast majority are Stanford
+people, Stanford undergrads," he
+said. "It's maybe five percent from
+outside of Stanford and 90 percent
+undergrads. The people who come
+
+from outside of Stanford, some of
+them are entrepreneurs ... Others
+are just tech enthusiasts. They're re
+ally excited about it."
+He also said that attendees tend to
+be CS majors, although some are
+symbolic systems majors or those in
+terested in "general entrepreneur
+ship."
+As for ACM, Atallah described
+the group's mission as built around a
+triad.
+
+"ACM is the biggest computing
+enthusiast group on Stanford cam
+pus, and we try to get people togeth
+er, some of whom are not sure how
+to start an idea that they have, and
+some of them have the technical
+background, but want inspiration,"
+he said. "We try to get these people
+to create at hackathons, to listen at
+Tech Talks and to learn at work
+shops."
+
+ACM's next Tech Talk is Friday,
+Oct. 21 at 6 p.m. and will feature Ali
+Yahya 'lO on "Software Defined Net
+working."
+
+Contact Ellora Israni at ellora@stan
+ford.edu.
+
+
+WENDING LU/The Stanford Daily
+Hulu software developer Shane Moriah '09 spoke Friday evening about the use of data and metrics at Hulu as part
+of the weekly Tech Talks series hosted by the Stanford chapter of the Association for Computing Machinery.
+The Stanford Association for
+Computing Machinery (ACM) host
+ed its weekly Tech Talk last Friday
+night in the Gates Computer Science
+Building, featuring Shane Moriah
+'O9, a Flulu software developer who
+gave a talk titled, "I Know What You
+Watched Last Summer: An
+Overview of Hadoop, Big Data and
+Metrics at Hulu."
+ACM's weekly Tech Talks feature
+two students, faculty or community
+members giving talks about various
+computer science-related topics. The
+group's website deems the idea "sim
+ple smart people sharing their
+cool CS hacks, research and tech
+demos with the Stanford CS commu
+nity." This week's second speaker
+was Sam King 'l2 on "Computers,
+Exploitation and Empowerment."
+Moriah spoke on the relevance to
+data in almost every industry.
+"Metrics are the core of data
+driven business," he said. "Pretty
+much every business now every
+tech business, every non-tech busi
+ness is interested in metrics."
+"You can understand your users
+and usage, develop and track new ex
+isting products and, of course,
+there's money," he continued. "We
+make most of our money off of ad
+vertisements, so being able to track
+what advertisements are shown and
+when that's how we make our
+money."
+
+According to Moriah, data is used
+to track a variety of factors across the
+Hulu site: views per video, number of
+advertisements shown, quality of
+service, as well as "individual viewer
+data," or how people behave across
+the lifetime of their visit to the site.
+He also described how the com
+pany collects data through "bea
+cons" on web pages designed to
+track usage.
+"What you do [when you watch a
+video] is send this URL off," he said.
+"This is basically what happens when
+you load an advertisement... it gets
+sent back to us and processed."
+The company records the time, IP
+address, advertisement info, user lo
+cation and user ID for registered
+viewers using a URL-parsing key; it
+processes about one billion of these
+"beacons" per day, which Moriah
+called an "issue of scale."
+Data is also used to balance con
+tent and user interface, as well as to
+drive some larger company deci
+sions such as "negative results" com
+municating unsuccessful initiatives.
+"When we launch things, there is a
+tendency to do product design by
+gut, Steve Jobs' philosophy," he said.
+"That sometimes works ... Some
+times you see that your big dream
+projects should actually get axed."
+
+He also revealed that Hulu is "in
+the slow process of a site-redesign,
+which is perhaps a secret."
+The Stanford ACM, which
+Hackathon coordinator Alex Atal
+lah 'l4 calls a "computer enthusi
+ast" group, is a chapter of the na
+tionwide scientific and educational
+computing society. The Stanford
+chapter was founded in 2007 and
+has approximately 400 members;
+nationwide, membership was about
+
+83,000 as of 2007.
+The group reaches out to compa
+nies and students, inviting them to
+speak about whatever CS-related
+subject interests them. According to
+Atallah, the talks' audiences are fair
+ly consistent.
+"The vast majority are Stanford
+people, Stanford undergrads," he
+said. "It's maybe five percent from
+outside of Stanford and 90 percent
+undergrads. The people who come
+
+from outside of Stanford, some of
+them are entrepreneurs ... Others
+are just tech enthusiasts. They're re
+ally excited about it."
+He also said that attendees tend to
+be CS majors, although some are
+symbolic systems majors or those in
+terested in "general entrepreneur
+ship."
+As for ACM, Atallah described
+the group's mission as built around a
+triad.
+
+"ACM is the biggest computing
+enthusiast group on Stanford cam
+pus, and we try to get people togeth
+er, some of whom are not sure how
+to start an idea that they have, and
+some of them have the technical
+background, but want inspiration,"
+he said. "We try to get these people
+to create at hackathons, to listen at
+Tech Talks and to learn at work
+shops."
+
+ACM's next Tech Talk is Friday,
+Oct. 21 at 6 p.m. and will feature Ali
+Yahya 'lO on "Software Defined Net
+working."
+
+Contact Ellora Israni at ellora@stan
+ford.edu.
+
+
+WENDING LU/The Stanford Daily
+Hulu software developer Shane Moriah '09 spoke Friday evening about the use of data and metrics at Hulu as part
+of the weekly Tech Talks series hosted by the Stanford chapter of the Association for Computing Machinery.
+The Stanford Association for
+Computing Machinery (ACM) host
+ed its weekly Tech Talk last Friday
+night in the Gates Computer Science
+Building, featuring Shane Moriah
+'O9, a Flulu software developer who
+gave a talk titled, "I Know What You
+Watched Last Summer: An
+Overview of Hadoop, Big Data and
+Metrics at Hulu."
+ACM's weekly Tech Talks feature
+two students, faculty or community
+members giving talks about various
+computer science-related topics. The
+group's website deems the idea "sim
+ple smart people sharing their
+cool CS hacks, research and tech
+demos with the Stanford CS commu
+nity." This week's second speaker
+was Sam King 'l2 on "Computers,
+Exploitation and Empowerment."
+Moriah spoke on the relevance to
+data in almost every industry.
+"Metrics are the core of data
+driven business," he said. "Pretty
+much every business now every
+tech business, every non-tech busi
+ness is interested in metrics."
+"You can understand your users
+and usage, develop and track new ex
+isting products and, of course,
+there's money," he continued. "We
+make most of our money off of ad
+vertisements, so being able to track
+what advertisements are shown and
+when that's how we make our
+money."
+
+According to Moriah, data is used
+to track a variety of factors across the
+Hulu site: views per video, number of
+advertisements shown, quality of
+service, as well as "individual viewer
+data," or how people behave across
+the lifetime of their visit to the site.
+He also described how the com
+pany collects data through "bea
+cons" on web pages designed to
+track usage.
+"What you do [when you watch a
+video] is send this URL off," he said.
+"This is basically what happens when
+you load an advertisement... it gets
+sent back to us and processed."
+The company records the time, IP
+address, advertisement info, user lo
+cation and user ID for registered
+viewers using a URL-parsing key; it
+processes about one billion of these
+"beacons" per day, which Moriah
+called an "issue of scale."
+Data is also used to balance con
+tent and user interface, as well as to
+drive some larger company deci
+sions such as "negative results" com
+municating unsuccessful initiatives.
+"When we launch things, there is a
+tendency to do product design by
+gut, Steve Jobs' philosophy," he said.
+"That sometimes works ... Some
+times you see that your big dream
+projects should actually get axed."
+
+He also revealed that Hulu is "in
+the slow process of a site-redesign,
+which is perhaps a secret."
+The Stanford ACM, which
+Hackathon coordinator Alex Atal
+lah 'l4 calls a "computer enthusi
+ast" group, is a chapter of the na
+tionwide scientific and educational
+computing society. The Stanford
+chapter was founded in 2007 and
+has approximately 400 members;
+nationwide, membership was about
+
+83,000 as of 2007.
+The group reaches out to compa
+nies and students, inviting them to
+speak about whatever CS-related
+subject interests them. According to
+Atallah, the talks' audiences are fair
+ly consistent.
+"The vast majority are Stanford
+people, Stanford undergrads," he
+said. "It's maybe five percent from
+outside of Stanford and 90 percent
+undergrads. The people who come
+
+from outside of Stanford, some of
+them are entrepreneurs ... Others
+are just tech enthusiasts. They're re
+ally excited about it."
+He also said that attendees tend to
+be CS majors, although some are
+symbolic systems majors or those in
+terested in "general entrepreneur
+ship."
+As for ACM, Atallah described
+the group's mission as built around a
+triad.
+
+"ACM is the biggest computing
+enthusiast group on Stanford cam
+pus, and we try to get people togeth
+er, some of whom are not sure how
+to start an idea that they have, and
+some of them have the technical
+background, but want inspiration,"
+he said. "We try to get these people
+to create at hackathons, to listen at
+Tech Talks and to learn at work
+shops."
+
+ACM's next Tech Talk is Friday,
+Oct. 21 at 6 p.m. and will feature Ali
+Yahya 'lO on "Software Defined Net
+working."
+
+Contact Ellora Israni at ellora@stan
+ford.edu.
+
+
+WENDING LU/The Stanford Daily
+Hulu software developer Shane Moriah '09 spoke Friday evening about the use of data and metrics at Hulu as part
+of the weekly Tech Talks series hosted by the Stanford chapter of the Association for Computing Machinery.
+The Stanford Association for
+Computing Machinery (ACM) host
+ed its weekly Tech Talk last Friday
+night in the Gates Computer Science
+Building, featuring Shane Moriah
+'O9, a Flulu software developer who
+gave a talk titled, "I Know What You
+Watched Last Summer: An
+Overview of Hadoop, Big Data and
+Metrics at Hulu."
+ACM's weekly Tech Talks feature
+two students, faculty or community
+members giving talks about various
+computer science-related topics. The
+group's website deems the idea "sim
+ple smart people sharing their
+cool CS hacks, research and tech
+demos with the Stanford CS commu
+nity." This week's second speaker
+was Sam King 'l2 on "Computers,
+Exploitation and Empowerment."
+Moriah spoke on the relevance to
+data in almost every industry.
+"Metrics are the core of data
+driven business," he said. "Pretty
+much every business now every
+tech business, every non-tech busi
+ness is interested in metrics."
+"You can understand your users
+and usage, develop and track new ex
+isting products and, of course,
+there's money," he continued. "We
+make most of our money off of ad
+vertisements, so being able to track
+what advertisements are shown and
+when that's how we make our
+money."
+
+According to Moriah, data is used
+to track a variety of factors across the
+Hulu site: views per video, number of
+advertisements shown, quality of
+service, as well as "individual viewer
+data," or how people behave across
+the lifetime of their visit to the site.
+He also described how the com
+pany collects data through "bea
+cons" on web pages designed to
+track usage.
+"What you do [when you watch a
+video] is send this URL off," he said.
+"This is basically what happens when
+you load an advertisement... it gets
+sent back to us and processed."
+The company records the time, IP
+address, advertisement info, user lo
+cation and user ID for registered
+viewers using a URL-parsing key; it
+processes about one billion of these
+"beacons" per day, which Moriah
+called an "issue of scale."
+Data is also used to balance con
+tent and user interface, as well as to
+drive some larger company deci
+sions such as "negative results" com
+municating unsuccessful initiatives.
+"When we launch things, there is a
+tendency to do product design by
+gut, Steve Jobs' philosophy," he said.
+"That sometimes works ... Some
+times you see that your big dream
+projects should actually get axed."
+
+He also revealed that Hulu is "in
+the slow process of a site-redesign,
+which is perhaps a secret."
+The Stanford ACM, which
+Hackathon coordinator Alex Atal
+lah 'l4 calls a "computer enthusi
+ast" group, is a chapter of the na
+tionwide scientific and educational
+computing society. The Stanford
+chapter was founded in 2007 and
+has approximately 400 members;
+nationwide, membership was about
+
+83,000 as of 2007.
+The group reaches out to compa
+nies and students, inviting them to
+speak about whatever CS-related
+subject interests them. According to
+Atallah, the talks' audiences are fair
+ly consistent.
+"The vast majority are Stanford
+people, Stanford undergrads," he
+said. "It's maybe five percent from
+outside of Stanford and 90 percent
+undergrads. The people who come
+
+from outside of Stanford, some of
+them are entrepreneurs ... Others
+are just tech enthusiasts. They're re
+ally excited about it."
+He also said that attendees tend to
+be CS majors, although some are
+symbolic systems majors or those in
+terested in "general entrepreneur
+ship."
+As for ACM, Atallah described
+the group's mission as built around a
+triad.
+
+"ACM is the biggest computing
+enthusiast group on Stanford cam
+pus, and we try to get people togeth
+er, some of whom are not sure how
+to start an idea that they have, and
+some of them have the technical
+background, but want inspiration,"
+he said. "We try to get these people
+to create at hackathons, to listen at
+Tech Talks and to learn at work
+shops."
+
+ACM's next Tech Talk is Friday,
+Oct. 21 at 6 p.m. and will feature Ali
+Yahya 'lO on "Software Defined Net
+working."
+
+Contact Ellora Israni at ellora@stan
+ford.edu.
+
+
+WENDING LU/The Stanford Daily
+Hulu software developer Shane Moriah '09 spoke Friday evening about the use of data and metrics at Hulu as part
+of the weekly Tech Talks series hosted by the Stanford chapter of the Association for Computing Machinery.

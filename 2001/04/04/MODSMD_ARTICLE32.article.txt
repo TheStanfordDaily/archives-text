@@ -1,0 +1,773 @@
+# Bunny World challenges coders
+## 
+### VIC REKLAITIS CONTRIBUTING WRITER 
+li s Frida\ night on the Farm .11 the end of the
+(|iiarter, and there are more students tapping
+awav at keyboards in Sweet Hall than tapping
+at campus parties. Many ol those in Sweet
+ILi 11 are working on the infamous programming
+project known as BunnvWorld. Binim World is
+the final project f<>i (lompnter Science I<>S: "()b
+-jected Oriented Programming." I he goal of the
+project is to implement an editor fora simple
+graphical adventure game using the |ava pro
+gramming language.
+Wander among the I NIX workstations and it"s
+(leai that there ai e some common complaints al)out
+BunnvWorld. "It's taken all ol niv time for the last
+two and .1 half weeks," one unshaven computet sci
+ence major s.tid. "All this work just so I can pla\ a
+game tilled with bunnies and < ai rots!-" asked anoth
+ei. "Sweet 1 lall is < rowded and depressing" is a fre
+c|iient comment. ()thcr students are frustrated with
+their ptojec 1 group members.
+Computer Science Lecturei Nit k I'arlante
+tea( lies ( S I OS. Responding to the time-drain ((nn
+plaint, he explained. "When von graduate from
+Stanford, you will have 111 is computet skill — this
+• 'aim, ( apahlc on-the-ballness. Wli\ \ on came out .is
+.111 effective, knowledgeable programme] is from
+going through real problems — struggling with
+tliein and then solving them. And then repeating.
+( S 108 has been < he >sen as the com sc that gives \ou
+that. I hose who survive the crucible of Bunnv-
+World are supremeb confident in then program
+ming abilities.
+Although making .1 game editor might seem
+( hildish. Pal lante points out ili.it "it's understood in
+the education communit\ that people enjov msii.il
+projects." \i the same time. BunnvWorld requires
+deep, logical programming skills. Students must
+le.llll about manv of Java's features 011 their own
+.iiid ilien tie them into their project. "The word I
+like to use is 'orchestrate.'" I'arlante said of the
+process.
+W hen asked about Sweet Hall's distinctive op
+pressive atmosphere, I'arlantc's eves seem to focus
+off into the distance and he begins to reminisce.
+"When I w.is doing this in it was |ust ilie
+same," I'arlante said. "You would go to the (luster,
+and 11 would be you and vour team at two 111 the
+11101 niiii' and \ou would have c 1 innim hot ( hoc o
+late. M\ inemoiA of it is partialb miserable, but I
+also kind of enjoved it. There was some bonding
+there." ()ne computet s( ietue major who took the
+< l.iss, sophomore |orge Reves, agreed. "It's very
+stressful but it's great," Reves s.iid.
+
+Sweet Hall Consulting Coordinator Dwayne
+Yiin.in has another perspective on the grungy,
+diml\ lit and often crowded computet cluster.
+" I his place can he completely different at night
+(lining Dead Week. I'eople have projects due.
+I lic\ like to pull chait s around and work in groups
+and have pi//.i delivered and ice cream and music
+hl.u nig. I here are not a lot of labs whet e vou can do
+that sort of tiling. You can't bring food into the li
+brary. 1 here's a trade-off. We could put in all new
+furniture and chandeliers, but then vou couldn t
+have snack food at your workstation and we
+(oulcln't be open 2 I hours.
+"We are trying to get more chairs and new car
+peting. " \ ii nan said, bin there are no othei major
+plans for improvement or expansion of Sweet
+Hall. At the beginning of the academic year, new
+I \l\ computers were placed in the Meyer Li
+brary 2-1-hour Study Room, but, according to \ ir
+nau, there is currenth no space for another row of
+workstations.
+Nonetheless, Yirnau is confident that the over
+(rowding problem will be solved. " 1 here is always
+one limiting resource." he said, It used to be net
+woi k bandwidth. ()ne assignment called Ma/.eW ars
+foi one c lass took out the entire c luster.' Because of
+a better network arrangement, that does not bap
+pen am more. "Improvements are made all the time
+that students don't notice," Yirnau said.
+l-or mam ofCS I OS's budding computer scien
+tists, working with a team is often the most chal
+lenging part of BunnvWorld. Over the years, l\n
+lante lias found that "there are a couple teams each
+(|u.u ter that are not especially happv."
+For Reyes, the team programming experience is
+invaluable. "Working in a group poses a lot of chal
+lenges that you wouldn't get through writing a
+papei or doing an individual project. It helps me a
+lot." he said. He sees the occasional difficulties he
+had with bis team in a positive light. "I learned a lot
+about working with people, and it will impact how I
+c hoose mv project groups in the future.''
+I he Bunm World project is in many ways a trial
+In fire. Sweet Hall can be as intense and unpleasant
+as a furnace — just ask anyone there whose brain is
+fried from a 10-hour stint of programming. How
+ever. as (ore features of the program become func
+tional. extensions are added and, finally, I Kino I )av
+comes, many CS IDS students s.iv they have be
+come treniendoush satisfied with the experience.
+As tliev laugh at the antics of the K.vil Bunny of
+Death, show off extra whi/-bang features to their
+teaching assistant and exchange ideas for one last
+time with their team, some might even get a little
+niistv-eycd. "Oh, Bunny World," tliev might say.
+"you hurt so good."
+li s Frida\ night on the Farm .11 the end of the
+(|iiarter, and there are more students tapping
+awav at keyboards in Sweet Hall than tapping
+at campus parties. Many ol those in Sweet
+ILi 11 are working on the infamous programming
+project known as BunnvWorld. Binim World is
+the final project f<>i (lompnter Science I<>S: "()b
+-jected Oriented Programming." I he goal of the
+project is to implement an editor fora simple
+graphical adventure game using the |ava pro
+gramming language.
+Wander among the I NIX workstations and it"s
+(leai that there ai e some common complaints al)out
+BunnvWorld. "It's taken all ol niv time for the last
+two and .1 half weeks," one unshaven computet sci
+ence major s.tid. "All this work just so I can pla\ a
+game tilled with bunnies and < ai rots!-" asked anoth
+ei. "Sweet 1 lall is < rowded and depressing" is a fre
+c|iient comment. ()thcr students are frustrated with
+their ptojec 1 group members.
+Computer Science Lecturei Nit k I'arlante
+tea( lies ( S I OS. Responding to the time-drain ((nn
+plaint, he explained. "When von graduate from
+Stanford, you will have 111 is computet skill — this
+• 'aim, ( apahlc on-the-ballness. Wli\ \ on came out .is
+.111 effective, knowledgeable programme] is from
+going through real problems — struggling with
+tliein and then solving them. And then repeating.
+( S 108 has been < he >sen as the com sc that gives \ou
+that. I hose who survive the crucible of Bunnv-
+World are supremeb confident in then program
+ming abilities.
+Although making .1 game editor might seem
+( hildish. Pal lante points out ili.it "it's understood in
+the education communit\ that people enjov msii.il
+projects." \i the same time. BunnvWorld requires
+deep, logical programming skills. Students must
+le.llll about manv of Java's features 011 their own
+.iiid ilien tie them into their project. "The word I
+like to use is 'orchestrate.'" I'arlante said of the
+process.
+W hen asked about Sweet Hall's distinctive op
+pressive atmosphere, I'arlantc's eves seem to focus
+off into the distance and he begins to reminisce.
+"When I w.is doing this in it was |ust ilie
+same," I'arlante said. "You would go to the (luster,
+and 11 would be you and vour team at two 111 the
+11101 niiii' and \ou would have c 1 innim hot ( hoc o
+late. M\ inemoiA of it is partialb miserable, but I
+also kind of enjoved it. There was some bonding
+there." ()ne computet s( ietue major who took the
+< l.iss, sophomore |orge Reves, agreed. "It's very
+stressful but it's great," Reves s.iid.
+
+Sweet Hall Consulting Coordinator Dwayne
+Yiin.in has another perspective on the grungy,
+diml\ lit and often crowded computet cluster.
+" I his place can he completely different at night
+(lining Dead Week. I'eople have projects due.
+I lic\ like to pull chait s around and work in groups
+and have pi//.i delivered and ice cream and music
+hl.u nig. I here are not a lot of labs whet e vou can do
+that sort of tiling. You can't bring food into the li
+brary. 1 here's a trade-off. We could put in all new
+furniture and chandeliers, but then vou couldn t
+have snack food at your workstation and we
+(oulcln't be open 2 I hours.
+"We are trying to get more chairs and new car
+peting. " \ ii nan said, bin there are no othei major
+plans for improvement or expansion of Sweet
+Hall. At the beginning of the academic year, new
+I \l\ computers were placed in the Meyer Li
+brary 2-1-hour Study Room, but, according to \ ir
+nau, there is currenth no space for another row of
+workstations.
+Nonetheless, Yirnau is confident that the over
+(rowding problem will be solved. " 1 here is always
+one limiting resource." he said, It used to be net
+woi k bandwidth. ()ne assignment called Ma/.eW ars
+foi one c lass took out the entire c luster.' Because of
+a better network arrangement, that does not bap
+pen am more. "Improvements are made all the time
+that students don't notice," Yirnau said.
+l-or mam ofCS I OS's budding computer scien
+tists, working with a team is often the most chal
+lenging part of BunnvWorld. Over the years, l\n
+lante lias found that "there are a couple teams each
+(|u.u ter that are not especially happv."
+For Reyes, the team programming experience is
+invaluable. "Working in a group poses a lot of chal
+lenges that you wouldn't get through writing a
+papei or doing an individual project. It helps me a
+lot." he said. He sees the occasional difficulties he
+had with bis team in a positive light. "I learned a lot
+about working with people, and it will impact how I
+c hoose mv project groups in the future.''
+I he Bunm World project is in many ways a trial
+In fire. Sweet Hall can be as intense and unpleasant
+as a furnace — just ask anyone there whose brain is
+fried from a 10-hour stint of programming. How
+ever. as (ore features of the program become func
+tional. extensions are added and, finally, I Kino I )av
+comes, many CS IDS students s.iv they have be
+come treniendoush satisfied with the experience.
+As tliev laugh at the antics of the K.vil Bunny of
+Death, show off extra whi/-bang features to their
+teaching assistant and exchange ideas for one last
+time with their team, some might even get a little
+niistv-eycd. "Oh, Bunny World," tliev might say.
+"you hurt so good."
+li s Frida\ night on the Farm .11 the end of the
+(|iiarter, and there are more students tapping
+awav at keyboards in Sweet Hall than tapping
+at campus parties. Many ol those in Sweet
+ILi 11 are working on the infamous programming
+project known as BunnvWorld. Binim World is
+the final project f<>i (lompnter Science I<>S: "()b
+-jected Oriented Programming." I he goal of the
+project is to implement an editor fora simple
+graphical adventure game using the |ava pro
+gramming language.
+Wander among the I NIX workstations and it"s
+(leai that there ai e some common complaints al)out
+BunnvWorld. "It's taken all ol niv time for the last
+two and .1 half weeks," one unshaven computet sci
+ence major s.tid. "All this work just so I can pla\ a
+game tilled with bunnies and < ai rots!-" asked anoth
+ei. "Sweet 1 lall is < rowded and depressing" is a fre
+c|iient comment. ()thcr students are frustrated with
+their ptojec 1 group members.
+Computer Science Lecturei Nit k I'arlante
+tea( lies ( S I OS. Responding to the time-drain ((nn
+plaint, he explained. "When von graduate from
+Stanford, you will have 111 is computet skill — this
+• 'aim, ( apahlc on-the-ballness. Wli\ \ on came out .is
+.111 effective, knowledgeable programme] is from
+going through real problems — struggling with
+tliein and then solving them. And then repeating.
+( S 108 has been < he >sen as the com sc that gives \ou
+that. I hose who survive the crucible of Bunnv-
+World are supremeb confident in then program
+ming abilities.
+Although making .1 game editor might seem
+( hildish. Pal lante points out ili.it "it's understood in
+the education communit\ that people enjov msii.il
+projects." \i the same time. BunnvWorld requires
+deep, logical programming skills. Students must
+le.llll about manv of Java's features 011 their own
+.iiid ilien tie them into their project. "The word I
+like to use is 'orchestrate.'" I'arlante said of the
+process.
+W hen asked about Sweet Hall's distinctive op
+pressive atmosphere, I'arlantc's eves seem to focus
+off into the distance and he begins to reminisce.
+"When I w.is doing this in it was |ust ilie
+same," I'arlante said. "You would go to the (luster,
+and 11 would be you and vour team at two 111 the
+11101 niiii' and \ou would have c 1 innim hot ( hoc o
+late. M\ inemoiA of it is partialb miserable, but I
+also kind of enjoved it. There was some bonding
+there." ()ne computet s( ietue major who took the
+< l.iss, sophomore |orge Reves, agreed. "It's very
+stressful but it's great," Reves s.iid.
+
+Sweet Hall Consulting Coordinator Dwayne
+Yiin.in has another perspective on the grungy,
+diml\ lit and often crowded computet cluster.
+" I his place can he completely different at night
+(lining Dead Week. I'eople have projects due.
+I lic\ like to pull chait s around and work in groups
+and have pi//.i delivered and ice cream and music
+hl.u nig. I here are not a lot of labs whet e vou can do
+that sort of tiling. You can't bring food into the li
+brary. 1 here's a trade-off. We could put in all new
+furniture and chandeliers, but then vou couldn t
+have snack food at your workstation and we
+(oulcln't be open 2 I hours.
+"We are trying to get more chairs and new car
+peting. " \ ii nan said, bin there are no othei major
+plans for improvement or expansion of Sweet
+Hall. At the beginning of the academic year, new
+I \l\ computers were placed in the Meyer Li
+brary 2-1-hour Study Room, but, according to \ ir
+nau, there is currenth no space for another row of
+workstations.
+Nonetheless, Yirnau is confident that the over
+(rowding problem will be solved. " 1 here is always
+one limiting resource." he said, It used to be net
+woi k bandwidth. ()ne assignment called Ma/.eW ars
+foi one c lass took out the entire c luster.' Because of
+a better network arrangement, that does not bap
+pen am more. "Improvements are made all the time
+that students don't notice," Yirnau said.
+l-or mam ofCS I OS's budding computer scien
+tists, working with a team is often the most chal
+lenging part of BunnvWorld. Over the years, l\n
+lante lias found that "there are a couple teams each
+(|u.u ter that are not especially happv."
+For Reyes, the team programming experience is
+invaluable. "Working in a group poses a lot of chal
+lenges that you wouldn't get through writing a
+papei or doing an individual project. It helps me a
+lot." he said. He sees the occasional difficulties he
+had with bis team in a positive light. "I learned a lot
+about working with people, and it will impact how I
+c hoose mv project groups in the future.''
+I he Bunm World project is in many ways a trial
+In fire. Sweet Hall can be as intense and unpleasant
+as a furnace — just ask anyone there whose brain is
+fried from a 10-hour stint of programming. How
+ever. as (ore features of the program become func
+tional. extensions are added and, finally, I Kino I )av
+comes, many CS IDS students s.iv they have be
+come treniendoush satisfied with the experience.
+As tliev laugh at the antics of the K.vil Bunny of
+Death, show off extra whi/-bang features to their
+teaching assistant and exchange ideas for one last
+time with their team, some might even get a little
+niistv-eycd. "Oh, Bunny World," tliev might say.
+"you hurt so good."
+li s Frida\ night on the Farm .11 the end of the
+(|iiarter, and there are more students tapping
+awav at keyboards in Sweet Hall than tapping
+at campus parties. Many ol those in Sweet
+ILi 11 are working on the infamous programming
+project known as BunnvWorld. Binim World is
+the final project f<>i (lompnter Science I<>S: "()b
+-jected Oriented Programming." I he goal of the
+project is to implement an editor fora simple
+graphical adventure game using the |ava pro
+gramming language.
+Wander among the I NIX workstations and it"s
+(leai that there ai e some common complaints al)out
+BunnvWorld. "It's taken all ol niv time for the last
+two and .1 half weeks," one unshaven computet sci
+ence major s.tid. "All this work just so I can pla\ a
+game tilled with bunnies and < ai rots!-" asked anoth
+ei. "Sweet 1 lall is < rowded and depressing" is a fre
+c|iient comment. ()thcr students are frustrated with
+their ptojec 1 group members.
+Computer Science Lecturei Nit k I'arlante
+tea( lies ( S I OS. Responding to the time-drain ((nn
+plaint, he explained. "When von graduate from
+Stanford, you will have 111 is computet skill — this
+• 'aim, ( apahlc on-the-ballness. Wli\ \ on came out .is
+.111 effective, knowledgeable programme] is from
+going through real problems — struggling with
+tliein and then solving them. And then repeating.
+( S 108 has been < he >sen as the com sc that gives \ou
+that. I hose who survive the crucible of Bunnv-
+World are supremeb confident in then program
+ming abilities.
+Although making .1 game editor might seem
+( hildish. Pal lante points out ili.it "it's understood in
+the education communit\ that people enjov msii.il
+projects." \i the same time. BunnvWorld requires
+deep, logical programming skills. Students must
+le.llll about manv of Java's features 011 their own
+.iiid ilien tie them into their project. "The word I
+like to use is 'orchestrate.'" I'arlante said of the
+process.
+W hen asked about Sweet Hall's distinctive op
+pressive atmosphere, I'arlantc's eves seem to focus
+off into the distance and he begins to reminisce.
+"When I w.is doing this in it was |ust ilie
+same," I'arlante said. "You would go to the (luster,
+and 11 would be you and vour team at two 111 the
+11101 niiii' and \ou would have c 1 innim hot ( hoc o
+late. M\ inemoiA of it is partialb miserable, but I
+also kind of enjoved it. There was some bonding
+there." ()ne computet s( ietue major who took the
+< l.iss, sophomore |orge Reves, agreed. "It's very
+stressful but it's great," Reves s.iid.
+
+Sweet Hall Consulting Coordinator Dwayne
+Yiin.in has another perspective on the grungy,
+diml\ lit and often crowded computet cluster.
+" I his place can he completely different at night
+(lining Dead Week. I'eople have projects due.
+I lic\ like to pull chait s around and work in groups
+and have pi//.i delivered and ice cream and music
+hl.u nig. I here are not a lot of labs whet e vou can do
+that sort of tiling. You can't bring food into the li
+brary. 1 here's a trade-off. We could put in all new
+furniture and chandeliers, but then vou couldn t
+have snack food at your workstation and we
+(oulcln't be open 2 I hours.
+"We are trying to get more chairs and new car
+peting. " \ ii nan said, bin there are no othei major
+plans for improvement or expansion of Sweet
+Hall. At the beginning of the academic year, new
+I \l\ computers were placed in the Meyer Li
+brary 2-1-hour Study Room, but, according to \ ir
+nau, there is currenth no space for another row of
+workstations.
+Nonetheless, Yirnau is confident that the over
+(rowding problem will be solved. " 1 here is always
+one limiting resource." he said, It used to be net
+woi k bandwidth. ()ne assignment called Ma/.eW ars
+foi one c lass took out the entire c luster.' Because of
+a better network arrangement, that does not bap
+pen am more. "Improvements are made all the time
+that students don't notice," Yirnau said.
+l-or mam ofCS I OS's budding computer scien
+tists, working with a team is often the most chal
+lenging part of BunnvWorld. Over the years, l\n
+lante lias found that "there are a couple teams each
+(|u.u ter that are not especially happv."
+For Reyes, the team programming experience is
+invaluable. "Working in a group poses a lot of chal
+lenges that you wouldn't get through writing a
+papei or doing an individual project. It helps me a
+lot." he said. He sees the occasional difficulties he
+had with bis team in a positive light. "I learned a lot
+about working with people, and it will impact how I
+c hoose mv project groups in the future.''
+I he Bunm World project is in many ways a trial
+In fire. Sweet Hall can be as intense and unpleasant
+as a furnace — just ask anyone there whose brain is
+fried from a 10-hour stint of programming. How
+ever. as (ore features of the program become func
+tional. extensions are added and, finally, I Kino I )av
+comes, many CS IDS students s.iv they have be
+come treniendoush satisfied with the experience.
+As tliev laugh at the antics of the K.vil Bunny of
+Death, show off extra whi/-bang features to their
+teaching assistant and exchange ideas for one last
+time with their team, some might even get a little
+niistv-eycd. "Oh, Bunny World," tliev might say.
+"you hurt so good."
+li s Frida\ night on the Farm .11 the end of the
+(|iiarter, and there are more students tapping
+awav at keyboards in Sweet Hall than tapping
+at campus parties. Many ol those in Sweet
+ILi 11 are working on the infamous programming
+project known as BunnvWorld. Binim World is
+the final project f<>i (lompnter Science I<>S: "()b
+-jected Oriented Programming." I he goal of the
+project is to implement an editor fora simple
+graphical adventure game using the |ava pro
+gramming language.
+Wander among the I NIX workstations and it"s
+(leai that there ai e some common complaints al)out
+BunnvWorld. "It's taken all ol niv time for the last
+two and .1 half weeks," one unshaven computet sci
+ence major s.tid. "All this work just so I can pla\ a
+game tilled with bunnies and < ai rots!-" asked anoth
+ei. "Sweet 1 lall is < rowded and depressing" is a fre
+c|iient comment. ()thcr students are frustrated with
+their ptojec 1 group members.
+Computer Science Lecturei Nit k I'arlante
+tea( lies ( S I OS. Responding to the time-drain ((nn
+plaint, he explained. "When von graduate from
+Stanford, you will have 111 is computet skill — this
+• 'aim, ( apahlc on-the-ballness. Wli\ \ on came out .is
+.111 effective, knowledgeable programme] is from
+going through real problems — struggling with
+tliein and then solving them. And then repeating.
+( S 108 has been < he >sen as the com sc that gives \ou
+that. I hose who survive the crucible of Bunnv-
+World are supremeb confident in then program
+ming abilities.
+Although making .1 game editor might seem
+( hildish. Pal lante points out ili.it "it's understood in
+the education communit\ that people enjov msii.il
+projects." \i the same time. BunnvWorld requires
+deep, logical programming skills. Students must
+le.llll about manv of Java's features 011 their own
+.iiid ilien tie them into their project. "The word I
+like to use is 'orchestrate.'" I'arlante said of the
+process.
+W hen asked about Sweet Hall's distinctive op
+pressive atmosphere, I'arlantc's eves seem to focus
+off into the distance and he begins to reminisce.
+"When I w.is doing this in it was |ust ilie
+same," I'arlante said. "You would go to the (luster,
+and 11 would be you and vour team at two 111 the
+11101 niiii' and \ou would have c 1 innim hot ( hoc o
+late. M\ inemoiA of it is partialb miserable, but I
+also kind of enjoved it. There was some bonding
+there." ()ne computet s( ietue major who took the
+< l.iss, sophomore |orge Reves, agreed. "It's very
+stressful but it's great," Reves s.iid.
+
+Sweet Hall Consulting Coordinator Dwayne
+Yiin.in has another perspective on the grungy,
+diml\ lit and often crowded computet cluster.
+" I his place can he completely different at night
+(lining Dead Week. I'eople have projects due.
+I lic\ like to pull chait s around and work in groups
+and have pi//.i delivered and ice cream and music
+hl.u nig. I here are not a lot of labs whet e vou can do
+that sort of tiling. You can't bring food into the li
+brary. 1 here's a trade-off. We could put in all new
+furniture and chandeliers, but then vou couldn t
+have snack food at your workstation and we
+(oulcln't be open 2 I hours.
+"We are trying to get more chairs and new car
+peting. " \ ii nan said, bin there are no othei major
+plans for improvement or expansion of Sweet
+Hall. At the beginning of the academic year, new
+I \l\ computers were placed in the Meyer Li
+brary 2-1-hour Study Room, but, according to \ ir
+nau, there is currenth no space for another row of
+workstations.
+Nonetheless, Yirnau is confident that the over
+(rowding problem will be solved. " 1 here is always
+one limiting resource." he said, It used to be net
+woi k bandwidth. ()ne assignment called Ma/.eW ars
+foi one c lass took out the entire c luster.' Because of
+a better network arrangement, that does not bap
+pen am more. "Improvements are made all the time
+that students don't notice," Yirnau said.
+l-or mam ofCS I OS's budding computer scien
+tists, working with a team is often the most chal
+lenging part of BunnvWorld. Over the years, l\n
+lante lias found that "there are a couple teams each
+(|u.u ter that are not especially happv."
+For Reyes, the team programming experience is
+invaluable. "Working in a group poses a lot of chal
+lenges that you wouldn't get through writing a
+papei or doing an individual project. It helps me a
+lot." he said. He sees the occasional difficulties he
+had with bis team in a positive light. "I learned a lot
+about working with people, and it will impact how I
+c hoose mv project groups in the future.''
+I he Bunm World project is in many ways a trial
+In fire. Sweet Hall can be as intense and unpleasant
+as a furnace — just ask anyone there whose brain is
+fried from a 10-hour stint of programming. How
+ever. as (ore features of the program become func
+tional. extensions are added and, finally, I Kino I )av
+comes, many CS IDS students s.iv they have be
+come treniendoush satisfied with the experience.
+As tliev laugh at the antics of the K.vil Bunny of
+Death, show off extra whi/-bang features to their
+teaching assistant and exchange ideas for one last
+time with their team, some might even get a little
+niistv-eycd. "Oh, Bunny World," tliev might say.
+"you hurt so good."
+li s Frida\ night on the Farm .11 the end of the
+(|iiarter, and there are more students tapping
+awav at keyboards in Sweet Hall than tapping
+at campus parties. Many ol those in Sweet
+ILi 11 are working on the infamous programming
+project known as BunnvWorld. Binim World is
+the final project f<>i (lompnter Science I<>S: "()b
+-jected Oriented Programming." I he goal of the
+project is to implement an editor fora simple
+graphical adventure game using the |ava pro
+gramming language.
+Wander among the I NIX workstations and it"s
+(leai that there ai e some common complaints al)out
+BunnvWorld. "It's taken all ol niv time for the last
+two and .1 half weeks," one unshaven computet sci
+ence major s.tid. "All this work just so I can pla\ a
+game tilled with bunnies and < ai rots!-" asked anoth
+ei. "Sweet 1 lall is < rowded and depressing" is a fre
+c|iient comment. ()thcr students are frustrated with
+their ptojec 1 group members.
+Computer Science Lecturei Nit k I'arlante
+tea( lies ( S I OS. Responding to the time-drain ((nn
+plaint, he explained. "When von graduate from
+Stanford, you will have 111 is computet skill — this
+• 'aim, ( apahlc on-the-ballness. Wli\ \ on came out .is
+.111 effective, knowledgeable programme] is from
+going through real problems — struggling with
+tliein and then solving them. And then repeating.
+( S 108 has been < he >sen as the com sc that gives \ou
+that. I hose who survive the crucible of Bunnv-
+World are supremeb confident in then program
+ming abilities.
+Although making .1 game editor might seem
+( hildish. Pal lante points out ili.it "it's understood in
+the education communit\ that people enjov msii.il
+projects." \i the same time. BunnvWorld requires
+deep, logical programming skills. Students must
+le.llll about manv of Java's features 011 their own
+.iiid ilien tie them into their project. "The word I
+like to use is 'orchestrate.'" I'arlante said of the
+process.
+W hen asked about Sweet Hall's distinctive op
+pressive atmosphere, I'arlantc's eves seem to focus
+off into the distance and he begins to reminisce.
+"When I w.is doing this in it was |ust ilie
+same," I'arlante said. "You would go to the (luster,
+and 11 would be you and vour team at two 111 the
+11101 niiii' and \ou would have c 1 innim hot ( hoc o
+late. M\ inemoiA of it is partialb miserable, but I
+also kind of enjoved it. There was some bonding
+there." ()ne computet s( ietue major who took the
+< l.iss, sophomore |orge Reves, agreed. "It's very
+stressful but it's great," Reves s.iid.
+
+Sweet Hall Consulting Coordinator Dwayne
+Yiin.in has another perspective on the grungy,
+diml\ lit and often crowded computet cluster.
+" I his place can he completely different at night
+(lining Dead Week. I'eople have projects due.
+I lic\ like to pull chait s around and work in groups
+and have pi//.i delivered and ice cream and music
+hl.u nig. I here are not a lot of labs whet e vou can do
+that sort of tiling. You can't bring food into the li
+brary. 1 here's a trade-off. We could put in all new
+furniture and chandeliers, but then vou couldn t
+have snack food at your workstation and we
+(oulcln't be open 2 I hours.
+"We are trying to get more chairs and new car
+peting. " \ ii nan said, bin there are no othei major
+plans for improvement or expansion of Sweet
+Hall. At the beginning of the academic year, new
+I \l\ computers were placed in the Meyer Li
+brary 2-1-hour Study Room, but, according to \ ir
+nau, there is currenth no space for another row of
+workstations.
+Nonetheless, Yirnau is confident that the over
+(rowding problem will be solved. " 1 here is always
+one limiting resource." he said, It used to be net
+woi k bandwidth. ()ne assignment called Ma/.eW ars
+foi one c lass took out the entire c luster.' Because of
+a better network arrangement, that does not bap
+pen am more. "Improvements are made all the time
+that students don't notice," Yirnau said.
+l-or mam ofCS I OS's budding computer scien
+tists, working with a team is often the most chal
+lenging part of BunnvWorld. Over the years, l\n
+lante lias found that "there are a couple teams each
+(|u.u ter that are not especially happv."
+For Reyes, the team programming experience is
+invaluable. "Working in a group poses a lot of chal
+lenges that you wouldn't get through writing a
+papei or doing an individual project. It helps me a
+lot." he said. He sees the occasional difficulties he
+had with bis team in a positive light. "I learned a lot
+about working with people, and it will impact how I
+c hoose mv project groups in the future.''
+I he Bunm World project is in many ways a trial
+In fire. Sweet Hall can be as intense and unpleasant
+as a furnace — just ask anyone there whose brain is
+fried from a 10-hour stint of programming. How
+ever. as (ore features of the program become func
+tional. extensions are added and, finally, I Kino I )av
+comes, many CS IDS students s.iv they have be
+come treniendoush satisfied with the experience.
+As tliev laugh at the antics of the K.vil Bunny of
+Death, show off extra whi/-bang features to their
+teaching assistant and exchange ideas for one last
+time with their team, some might even get a little
+niistv-eycd. "Oh, Bunny World," tliev might say.
+"you hurt so good."
+li s Frida\ night on the Farm .11 the end of the
+(|iiarter, and there are more students tapping
+awav at keyboards in Sweet Hall than tapping
+at campus parties. Many ol those in Sweet
+ILi 11 are working on the infamous programming
+project known as BunnvWorld. Binim World is
+the final project f<>i (lompnter Science I<>S: "()b
+-jected Oriented Programming." I he goal of the
+project is to implement an editor fora simple
+graphical adventure game using the |ava pro
+gramming language.
+Wander among the I NIX workstations and it"s
+(leai that there ai e some common complaints al)out
+BunnvWorld. "It's taken all ol niv time for the last
+two and .1 half weeks," one unshaven computet sci
+ence major s.tid. "All this work just so I can pla\ a
+game tilled with bunnies and < ai rots!-" asked anoth
+ei. "Sweet 1 lall is < rowded and depressing" is a fre
+c|iient comment. ()thcr students are frustrated with
+their ptojec 1 group members.
+Computer Science Lecturei Nit k I'arlante
+tea( lies ( S I OS. Responding to the time-drain ((nn
+plaint, he explained. "When von graduate from
+Stanford, you will have 111 is computet skill — this
+• 'aim, ( apahlc on-the-ballness. Wli\ \ on came out .is
+.111 effective, knowledgeable programme] is from
+going through real problems — struggling with
+tliein and then solving them. And then repeating.
+( S 108 has been < he >sen as the com sc that gives \ou
+that. I hose who survive the crucible of Bunnv-
+World are supremeb confident in then program
+ming abilities.
+Although making .1 game editor might seem
+( hildish. Pal lante points out ili.it "it's understood in
+the education communit\ that people enjov msii.il
+projects." \i the same time. BunnvWorld requires
+deep, logical programming skills. Students must
+le.llll about manv of Java's features 011 their own
+.iiid ilien tie them into their project. "The word I
+like to use is 'orchestrate.'" I'arlante said of the
+process.
+W hen asked about Sweet Hall's distinctive op
+pressive atmosphere, I'arlantc's eves seem to focus
+off into the distance and he begins to reminisce.
+"When I w.is doing this in it was |ust ilie
+same," I'arlante said. "You would go to the (luster,
+and 11 would be you and vour team at two 111 the
+11101 niiii' and \ou would have c 1 innim hot ( hoc o
+late. M\ inemoiA of it is partialb miserable, but I
+also kind of enjoved it. There was some bonding
+there." ()ne computet s( ietue major who took the
+< l.iss, sophomore |orge Reves, agreed. "It's very
+stressful but it's great," Reves s.iid.
+
+Sweet Hall Consulting Coordinator Dwayne
+Yiin.in has another perspective on the grungy,
+diml\ lit and often crowded computet cluster.
+" I his place can he completely different at night
+(lining Dead Week. I'eople have projects due.
+I lic\ like to pull chait s around and work in groups
+and have pi//.i delivered and ice cream and music
+hl.u nig. I here are not a lot of labs whet e vou can do
+that sort of tiling. You can't bring food into the li
+brary. 1 here's a trade-off. We could put in all new
+furniture and chandeliers, but then vou couldn t
+have snack food at your workstation and we
+(oulcln't be open 2 I hours.
+"We are trying to get more chairs and new car
+peting. " \ ii nan said, bin there are no othei major
+plans for improvement or expansion of Sweet
+Hall. At the beginning of the academic year, new
+I \l\ computers were placed in the Meyer Li
+brary 2-1-hour Study Room, but, according to \ ir
+nau, there is currenth no space for another row of
+workstations.
+Nonetheless, Yirnau is confident that the over
+(rowding problem will be solved. " 1 here is always
+one limiting resource." he said, It used to be net
+woi k bandwidth. ()ne assignment called Ma/.eW ars
+foi one c lass took out the entire c luster.' Because of
+a better network arrangement, that does not bap
+pen am more. "Improvements are made all the time
+that students don't notice," Yirnau said.
+l-or mam ofCS I OS's budding computer scien
+tists, working with a team is often the most chal
+lenging part of BunnvWorld. Over the years, l\n
+lante lias found that "there are a couple teams each
+(|u.u ter that are not especially happv."
+For Reyes, the team programming experience is
+invaluable. "Working in a group poses a lot of chal
+lenges that you wouldn't get through writing a
+papei or doing an individual project. It helps me a
+lot." he said. He sees the occasional difficulties he
+had with bis team in a positive light. "I learned a lot
+about working with people, and it will impact how I
+c hoose mv project groups in the future.''
+I he Bunm World project is in many ways a trial
+In fire. Sweet Hall can be as intense and unpleasant
+as a furnace — just ask anyone there whose brain is
+fried from a 10-hour stint of programming. How
+ever. as (ore features of the program become func
+tional. extensions are added and, finally, I Kino I )av
+comes, many CS IDS students s.iv they have be
+come treniendoush satisfied with the experience.
+As tliev laugh at the antics of the K.vil Bunny of
+Death, show off extra whi/-bang features to their
+teaching assistant and exchange ideas for one last
+time with their team, some might even get a little
+niistv-eycd. "Oh, Bunny World," tliev might say.
+"you hurt so good."

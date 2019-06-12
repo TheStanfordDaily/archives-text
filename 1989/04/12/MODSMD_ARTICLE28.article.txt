@@ -1,0 +1,1435 @@
+# Science
+## Hypermedia marriage weds computers to social sciences 
+### Frank Chen 
+Imagine writing a research
+paper on Mozart's "Don Giovan
+ni." You sit down at a collection
+of computers, televisions and
+videodisc players and type
+"Mozart's Don Giovanni."
+Instantly a screenful of options
+appears. With the click of a but
+ton, watch the Metropolitan
+Opera's production of the opera
+on the television, hear accompa
+nying CD-quality music and per
+haps even partition off a corner
+of the screen to see the conduc
+tor's score.
+Afterwards, with a few more
+clicks, examine any relevant top
+ics: Mozart biographies, opera his
+tories and criticisms, makeup and
+costuming techniques, musical
+dictionaries, perhaps even a
+Salieri letter jeering Mozart's
+newest masterpiece.
+The creators of this multimedia
+marriage of video, audio and com
+puter devices, loosely called "hy
+permedia," — among other
+buzzwords — are striving to
+realize this research dream.
+Using computers to mediate be
+tween the user and millions of
+bits of data, hypermedia is a
+revolutionary way of organizing
+and accessing information.
+Traditional text-and-pictures
+biographies of Mozart might be
+replaced by hypermedia biogra
+phies with video clips, digital
+sound and the potential to access
+relevant material almost instantly.
+The computer's ability to store
+and locate data quickly will
+automate the laborious process of
+shuffling between volumes of
+books and reams of film.
+HyperCard for the Macintosh
+Tentative steps have already
+been made in this direction. The
+workhorse of hypermedia today is
+Apple Computer's "HyperCard,"
+an application program which al
+lows even computer novices to
+create vast, attractive and easy
+to-use databases of information.
+The organizational unit of "Hy
+perCard" is, appropriately, a card.
+Like a standard index card, users
+can place any visual information
+they want on a card, from names
+and addresses to full-color photo
+graphs, from Chinese characters
+to city maps.
+
+Related cards are collected into
+"stacks." For example, one might
+keep a "date stack" full of names,
+photos and phone numbers or,
+more likely, a "tape stack" full of
+the album covers and song titles
+from an album collection.
+
+The computer's
+ability to store and
+locate data quickly
+will automate the
+laborious process
+of shuffling be
+tween volumes of
+books and reams
+of film.
+
+The user can also put "buttons"
+on a stack. For example, one
+might put an arrow icon onto an
+address card. When the user
+moves the mouse onto the arrow
+and pushes the button, the next
+name and address in the stack
+appears.
+Interconnectivity
+Such an address book has linear
+structure. One card might lead to
+the next, just as one page in a
+book leads to the next page.
+But "HyperCard" also can dis
+play interconnectivity, complex re
+lations between a set of cards.
+With the same address stack, the
+user can push a map icon to bring
+up a detailed street map showing
+exactly where the person lives.
+From the map, the user can
+find other friends in the neigh
+borhood simply by pressing an
+other button.
+This feature demonstrates spa
+tial, rather than alphabetical, re
+lationships — perhaps a more
+natural way of thinking, say some
+computer scientists.
+To help keep track of the 1988
+election campaign, ABC News
+used a HyperCard application
+called MAGNA, Macintosh ABC
+General News Almanac. With
+MAGNA, journalists with no prior
+
+computer background could easily
+and quickly access any important
+election news, from a short biog
+raphy and picture of the leading
+contenders to Dukakis' stance on
+Star Wars to the political leanings
+of the lowa caucus.
+MAGNA contained thousands of
+facts gathered onto 5,000 cards
+and some 130 stacks.
+Good, but not perfect
+One of the problems of hyper
+media is memory. ABC's MAGNA
+obviously demanded a large
+amount of disk space, yet it only
+covered one election year.
+Fortunately for computer scien
+tists, new storage possibilities are
+making memory requirements
+less of a problem. "Compact Disc,
+Read Only Memory," for example,
+stores over 550 megabytes of data
+— the equivalent of 150,000 pages
+of text or 700 Macintosh floppy
+disks — on an audio CD-sized
+disc. The drawback of CD-ROM
+is identical to that of an audio
+CD; you can't record on a CD.
+Once made, the CD is unchange
+able.
+Emerging technology, like
+"Write Once, Read Many" drives
+— or WORM drives — and
+erasable CDs are beginning to
+challenge even that limitation.
+Neither of these devices have
+gained widespread acceptance yet.
+Hardware is another problem.
+What is the best way to connect
+a computer, a videodisc player and
+a television, for example, to
+achieve maximum effectiveness
+with the technique? Deciding
+which machines to connect is an
+other obvious dilemma.
+A popular combination today is
+an Macintosh computer, a Pioneer
+videodisc player and a Sony color
+TV. Electric Cadaver, a hyper
+media program developed at the
+Stanford Medical School, for ex
+ample, uses this combination, as
+does the English Department's
+Shakespeare Project (see accom
+panying article).
+As industry gropes towards a
+hypermedia standard and mem
+ory capacities continue to in
+crease, the marriage of video,
+audio and computer technology —
+the hypermedia dream — will be
+consummated.
+Imagine writing a research
+paper on Mozart's "Don Giovan
+ni." You sit down at a collection
+of computers, televisions and
+videodisc players and type
+"Mozart's Don Giovanni."
+Instantly a screenful of options
+appears. With the click of a but
+ton, watch the Metropolitan
+Opera's production of the opera
+on the television, hear accompa
+nying CD-quality music and per
+haps even partition off a corner
+of the screen to see the conduc
+tor's score.
+Afterwards, with a few more
+clicks, examine any relevant top
+ics: Mozart biographies, opera his
+tories and criticisms, makeup and
+costuming techniques, musical
+dictionaries, perhaps even a
+Salieri letter jeering Mozart's
+newest masterpiece.
+The creators of this multimedia
+marriage of video, audio and com
+puter devices, loosely called "hy
+permedia," — among other
+buzzwords — are striving to
+realize this research dream.
+Using computers to mediate be
+tween the user and millions of
+bits of data, hypermedia is a
+revolutionary way of organizing
+and accessing information.
+Traditional text-and-pictures
+biographies of Mozart might be
+replaced by hypermedia biogra
+phies with video clips, digital
+sound and the potential to access
+relevant material almost instantly.
+The computer's ability to store
+and locate data quickly will
+automate the laborious process of
+shuffling between volumes of
+books and reams of film.
+HyperCard for the Macintosh
+Tentative steps have already
+been made in this direction. The
+workhorse of hypermedia today is
+Apple Computer's "HyperCard,"
+an application program which al
+lows even computer novices to
+create vast, attractive and easy
+to-use databases of information.
+The organizational unit of "Hy
+perCard" is, appropriately, a card.
+Like a standard index card, users
+can place any visual information
+they want on a card, from names
+and addresses to full-color photo
+graphs, from Chinese characters
+to city maps.
+
+Related cards are collected into
+"stacks." For example, one might
+keep a "date stack" full of names,
+photos and phone numbers or,
+more likely, a "tape stack" full of
+the album covers and song titles
+from an album collection.
+
+The computer's
+ability to store and
+locate data quickly
+will automate the
+laborious process
+of shuffling be
+tween volumes of
+books and reams
+of film.
+
+The user can also put "buttons"
+on a stack. For example, one
+might put an arrow icon onto an
+address card. When the user
+moves the mouse onto the arrow
+and pushes the button, the next
+name and address in the stack
+appears.
+Interconnectivity
+Such an address book has linear
+structure. One card might lead to
+the next, just as one page in a
+book leads to the next page.
+But "HyperCard" also can dis
+play interconnectivity, complex re
+lations between a set of cards.
+With the same address stack, the
+user can push a map icon to bring
+up a detailed street map showing
+exactly where the person lives.
+From the map, the user can
+find other friends in the neigh
+borhood simply by pressing an
+other button.
+This feature demonstrates spa
+tial, rather than alphabetical, re
+lationships — perhaps a more
+natural way of thinking, say some
+computer scientists.
+To help keep track of the 1988
+election campaign, ABC News
+used a HyperCard application
+called MAGNA, Macintosh ABC
+General News Almanac. With
+MAGNA, journalists with no prior
+
+computer background could easily
+and quickly access any important
+election news, from a short biog
+raphy and picture of the leading
+contenders to Dukakis' stance on
+Star Wars to the political leanings
+of the lowa caucus.
+MAGNA contained thousands of
+facts gathered onto 5,000 cards
+and some 130 stacks.
+Good, but not perfect
+One of the problems of hyper
+media is memory. ABC's MAGNA
+obviously demanded a large
+amount of disk space, yet it only
+covered one election year.
+Fortunately for computer scien
+tists, new storage possibilities are
+making memory requirements
+less of a problem. "Compact Disc,
+Read Only Memory," for example,
+stores over 550 megabytes of data
+— the equivalent of 150,000 pages
+of text or 700 Macintosh floppy
+disks — on an audio CD-sized
+disc. The drawback of CD-ROM
+is identical to that of an audio
+CD; you can't record on a CD.
+Once made, the CD is unchange
+able.
+Emerging technology, like
+"Write Once, Read Many" drives
+— or WORM drives — and
+erasable CDs are beginning to
+challenge even that limitation.
+Neither of these devices have
+gained widespread acceptance yet.
+Hardware is another problem.
+What is the best way to connect
+a computer, a videodisc player and
+a television, for example, to
+achieve maximum effectiveness
+with the technique? Deciding
+which machines to connect is an
+other obvious dilemma.
+A popular combination today is
+an Macintosh computer, a Pioneer
+videodisc player and a Sony color
+TV. Electric Cadaver, a hyper
+media program developed at the
+Stanford Medical School, for ex
+ample, uses this combination, as
+does the English Department's
+Shakespeare Project (see accom
+panying article).
+As industry gropes towards a
+hypermedia standard and mem
+ory capacities continue to in
+crease, the marriage of video,
+audio and computer technology —
+the hypermedia dream — will be
+consummated.
+Imagine writing a research
+paper on Mozart's "Don Giovan
+ni." You sit down at a collection
+of computers, televisions and
+videodisc players and type
+"Mozart's Don Giovanni."
+Instantly a screenful of options
+appears. With the click of a but
+ton, watch the Metropolitan
+Opera's production of the opera
+on the television, hear accompa
+nying CD-quality music and per
+haps even partition off a corner
+of the screen to see the conduc
+tor's score.
+Afterwards, with a few more
+clicks, examine any relevant top
+ics: Mozart biographies, opera his
+tories and criticisms, makeup and
+costuming techniques, musical
+dictionaries, perhaps even a
+Salieri letter jeering Mozart's
+newest masterpiece.
+The creators of this multimedia
+marriage of video, audio and com
+puter devices, loosely called "hy
+permedia," — among other
+buzzwords — are striving to
+realize this research dream.
+Using computers to mediate be
+tween the user and millions of
+bits of data, hypermedia is a
+revolutionary way of organizing
+and accessing information.
+Traditional text-and-pictures
+biographies of Mozart might be
+replaced by hypermedia biogra
+phies with video clips, digital
+sound and the potential to access
+relevant material almost instantly.
+The computer's ability to store
+and locate data quickly will
+automate the laborious process of
+shuffling between volumes of
+books and reams of film.
+HyperCard for the Macintosh
+Tentative steps have already
+been made in this direction. The
+workhorse of hypermedia today is
+Apple Computer's "HyperCard,"
+an application program which al
+lows even computer novices to
+create vast, attractive and easy
+to-use databases of information.
+The organizational unit of "Hy
+perCard" is, appropriately, a card.
+Like a standard index card, users
+can place any visual information
+they want on a card, from names
+and addresses to full-color photo
+graphs, from Chinese characters
+to city maps.
+
+Related cards are collected into
+"stacks." For example, one might
+keep a "date stack" full of names,
+photos and phone numbers or,
+more likely, a "tape stack" full of
+the album covers and song titles
+from an album collection.
+
+The computer's
+ability to store and
+locate data quickly
+will automate the
+laborious process
+of shuffling be
+tween volumes of
+books and reams
+of film.
+
+The user can also put "buttons"
+on a stack. For example, one
+might put an arrow icon onto an
+address card. When the user
+moves the mouse onto the arrow
+and pushes the button, the next
+name and address in the stack
+appears.
+Interconnectivity
+Such an address book has linear
+structure. One card might lead to
+the next, just as one page in a
+book leads to the next page.
+But "HyperCard" also can dis
+play interconnectivity, complex re
+lations between a set of cards.
+With the same address stack, the
+user can push a map icon to bring
+up a detailed street map showing
+exactly where the person lives.
+From the map, the user can
+find other friends in the neigh
+borhood simply by pressing an
+other button.
+This feature demonstrates spa
+tial, rather than alphabetical, re
+lationships — perhaps a more
+natural way of thinking, say some
+computer scientists.
+To help keep track of the 1988
+election campaign, ABC News
+used a HyperCard application
+called MAGNA, Macintosh ABC
+General News Almanac. With
+MAGNA, journalists with no prior
+
+computer background could easily
+and quickly access any important
+election news, from a short biog
+raphy and picture of the leading
+contenders to Dukakis' stance on
+Star Wars to the political leanings
+of the lowa caucus.
+MAGNA contained thousands of
+facts gathered onto 5,000 cards
+and some 130 stacks.
+Good, but not perfect
+One of the problems of hyper
+media is memory. ABC's MAGNA
+obviously demanded a large
+amount of disk space, yet it only
+covered one election year.
+Fortunately for computer scien
+tists, new storage possibilities are
+making memory requirements
+less of a problem. "Compact Disc,
+Read Only Memory," for example,
+stores over 550 megabytes of data
+— the equivalent of 150,000 pages
+of text or 700 Macintosh floppy
+disks — on an audio CD-sized
+disc. The drawback of CD-ROM
+is identical to that of an audio
+CD; you can't record on a CD.
+Once made, the CD is unchange
+able.
+Emerging technology, like
+"Write Once, Read Many" drives
+— or WORM drives — and
+erasable CDs are beginning to
+challenge even that limitation.
+Neither of these devices have
+gained widespread acceptance yet.
+Hardware is another problem.
+What is the best way to connect
+a computer, a videodisc player and
+a television, for example, to
+achieve maximum effectiveness
+with the technique? Deciding
+which machines to connect is an
+other obvious dilemma.
+A popular combination today is
+an Macintosh computer, a Pioneer
+videodisc player and a Sony color
+TV. Electric Cadaver, a hyper
+media program developed at the
+Stanford Medical School, for ex
+ample, uses this combination, as
+does the English Department's
+Shakespeare Project (see accom
+panying article).
+As industry gropes towards a
+hypermedia standard and mem
+ory capacities continue to in
+crease, the marriage of video,
+audio and computer technology —
+the hypermedia dream — will be
+consummated.
+Imagine writing a research
+paper on Mozart's "Don Giovan
+ni." You sit down at a collection
+of computers, televisions and
+videodisc players and type
+"Mozart's Don Giovanni."
+Instantly a screenful of options
+appears. With the click of a but
+ton, watch the Metropolitan
+Opera's production of the opera
+on the television, hear accompa
+nying CD-quality music and per
+haps even partition off a corner
+of the screen to see the conduc
+tor's score.
+Afterwards, with a few more
+clicks, examine any relevant top
+ics: Mozart biographies, opera his
+tories and criticisms, makeup and
+costuming techniques, musical
+dictionaries, perhaps even a
+Salieri letter jeering Mozart's
+newest masterpiece.
+The creators of this multimedia
+marriage of video, audio and com
+puter devices, loosely called "hy
+permedia," — among other
+buzzwords — are striving to
+realize this research dream.
+Using computers to mediate be
+tween the user and millions of
+bits of data, hypermedia is a
+revolutionary way of organizing
+and accessing information.
+Traditional text-and-pictures
+biographies of Mozart might be
+replaced by hypermedia biogra
+phies with video clips, digital
+sound and the potential to access
+relevant material almost instantly.
+The computer's ability to store
+and locate data quickly will
+automate the laborious process of
+shuffling between volumes of
+books and reams of film.
+HyperCard for the Macintosh
+Tentative steps have already
+been made in this direction. The
+workhorse of hypermedia today is
+Apple Computer's "HyperCard,"
+an application program which al
+lows even computer novices to
+create vast, attractive and easy
+to-use databases of information.
+The organizational unit of "Hy
+perCard" is, appropriately, a card.
+Like a standard index card, users
+can place any visual information
+they want on a card, from names
+and addresses to full-color photo
+graphs, from Chinese characters
+to city maps.
+
+Related cards are collected into
+"stacks." For example, one might
+keep a "date stack" full of names,
+photos and phone numbers or,
+more likely, a "tape stack" full of
+the album covers and song titles
+from an album collection.
+
+The computer's
+ability to store and
+locate data quickly
+will automate the
+laborious process
+of shuffling be
+tween volumes of
+books and reams
+of film.
+
+The user can also put "buttons"
+on a stack. For example, one
+might put an arrow icon onto an
+address card. When the user
+moves the mouse onto the arrow
+and pushes the button, the next
+name and address in the stack
+appears.
+Interconnectivity
+Such an address book has linear
+structure. One card might lead to
+the next, just as one page in a
+book leads to the next page.
+But "HyperCard" also can dis
+play interconnectivity, complex re
+lations between a set of cards.
+With the same address stack, the
+user can push a map icon to bring
+up a detailed street map showing
+exactly where the person lives.
+From the map, the user can
+find other friends in the neigh
+borhood simply by pressing an
+other button.
+This feature demonstrates spa
+tial, rather than alphabetical, re
+lationships — perhaps a more
+natural way of thinking, say some
+computer scientists.
+To help keep track of the 1988
+election campaign, ABC News
+used a HyperCard application
+called MAGNA, Macintosh ABC
+General News Almanac. With
+MAGNA, journalists with no prior
+
+computer background could easily
+and quickly access any important
+election news, from a short biog
+raphy and picture of the leading
+contenders to Dukakis' stance on
+Star Wars to the political leanings
+of the lowa caucus.
+MAGNA contained thousands of
+facts gathered onto 5,000 cards
+and some 130 stacks.
+Good, but not perfect
+One of the problems of hyper
+media is memory. ABC's MAGNA
+obviously demanded a large
+amount of disk space, yet it only
+covered one election year.
+Fortunately for computer scien
+tists, new storage possibilities are
+making memory requirements
+less of a problem. "Compact Disc,
+Read Only Memory," for example,
+stores over 550 megabytes of data
+— the equivalent of 150,000 pages
+of text or 700 Macintosh floppy
+disks — on an audio CD-sized
+disc. The drawback of CD-ROM
+is identical to that of an audio
+CD; you can't record on a CD.
+Once made, the CD is unchange
+able.
+Emerging technology, like
+"Write Once, Read Many" drives
+— or WORM drives — and
+erasable CDs are beginning to
+challenge even that limitation.
+Neither of these devices have
+gained widespread acceptance yet.
+Hardware is another problem.
+What is the best way to connect
+a computer, a videodisc player and
+a television, for example, to
+achieve maximum effectiveness
+with the technique? Deciding
+which machines to connect is an
+other obvious dilemma.
+A popular combination today is
+an Macintosh computer, a Pioneer
+videodisc player and a Sony color
+TV. Electric Cadaver, a hyper
+media program developed at the
+Stanford Medical School, for ex
+ample, uses this combination, as
+does the English Department's
+Shakespeare Project (see accom
+panying article).
+As industry gropes towards a
+hypermedia standard and mem
+ory capacities continue to in
+crease, the marriage of video,
+audio and computer technology —
+the hypermedia dream — will be
+consummated.
+Imagine writing a research
+paper on Mozart's "Don Giovan
+ni." You sit down at a collection
+of computers, televisions and
+videodisc players and type
+"Mozart's Don Giovanni."
+Instantly a screenful of options
+appears. With the click of a but
+ton, watch the Metropolitan
+Opera's production of the opera
+on the television, hear accompa
+nying CD-quality music and per
+haps even partition off a corner
+of the screen to see the conduc
+tor's score.
+Afterwards, with a few more
+clicks, examine any relevant top
+ics: Mozart biographies, opera his
+tories and criticisms, makeup and
+costuming techniques, musical
+dictionaries, perhaps even a
+Salieri letter jeering Mozart's
+newest masterpiece.
+The creators of this multimedia
+marriage of video, audio and com
+puter devices, loosely called "hy
+permedia," — among other
+buzzwords — are striving to
+realize this research dream.
+Using computers to mediate be
+tween the user and millions of
+bits of data, hypermedia is a
+revolutionary way of organizing
+and accessing information.
+Traditional text-and-pictures
+biographies of Mozart might be
+replaced by hypermedia biogra
+phies with video clips, digital
+sound and the potential to access
+relevant material almost instantly.
+The computer's ability to store
+and locate data quickly will
+automate the laborious process of
+shuffling between volumes of
+books and reams of film.
+HyperCard for the Macintosh
+Tentative steps have already
+been made in this direction. The
+workhorse of hypermedia today is
+Apple Computer's "HyperCard,"
+an application program which al
+lows even computer novices to
+create vast, attractive and easy
+to-use databases of information.
+The organizational unit of "Hy
+perCard" is, appropriately, a card.
+Like a standard index card, users
+can place any visual information
+they want on a card, from names
+and addresses to full-color photo
+graphs, from Chinese characters
+to city maps.
+
+Related cards are collected into
+"stacks." For example, one might
+keep a "date stack" full of names,
+photos and phone numbers or,
+more likely, a "tape stack" full of
+the album covers and song titles
+from an album collection.
+
+The computer's
+ability to store and
+locate data quickly
+will automate the
+laborious process
+of shuffling be
+tween volumes of
+books and reams
+of film.
+
+The user can also put "buttons"
+on a stack. For example, one
+might put an arrow icon onto an
+address card. When the user
+moves the mouse onto the arrow
+and pushes the button, the next
+name and address in the stack
+appears.
+Interconnectivity
+Such an address book has linear
+structure. One card might lead to
+the next, just as one page in a
+book leads to the next page.
+But "HyperCard" also can dis
+play interconnectivity, complex re
+lations between a set of cards.
+With the same address stack, the
+user can push a map icon to bring
+up a detailed street map showing
+exactly where the person lives.
+From the map, the user can
+find other friends in the neigh
+borhood simply by pressing an
+other button.
+This feature demonstrates spa
+tial, rather than alphabetical, re
+lationships — perhaps a more
+natural way of thinking, say some
+computer scientists.
+To help keep track of the 1988
+election campaign, ABC News
+used a HyperCard application
+called MAGNA, Macintosh ABC
+General News Almanac. With
+MAGNA, journalists with no prior
+
+computer background could easily
+and quickly access any important
+election news, from a short biog
+raphy and picture of the leading
+contenders to Dukakis' stance on
+Star Wars to the political leanings
+of the lowa caucus.
+MAGNA contained thousands of
+facts gathered onto 5,000 cards
+and some 130 stacks.
+Good, but not perfect
+One of the problems of hyper
+media is memory. ABC's MAGNA
+obviously demanded a large
+amount of disk space, yet it only
+covered one election year.
+Fortunately for computer scien
+tists, new storage possibilities are
+making memory requirements
+less of a problem. "Compact Disc,
+Read Only Memory," for example,
+stores over 550 megabytes of data
+— the equivalent of 150,000 pages
+of text or 700 Macintosh floppy
+disks — on an audio CD-sized
+disc. The drawback of CD-ROM
+is identical to that of an audio
+CD; you can't record on a CD.
+Once made, the CD is unchange
+able.
+Emerging technology, like
+"Write Once, Read Many" drives
+— or WORM drives — and
+erasable CDs are beginning to
+challenge even that limitation.
+Neither of these devices have
+gained widespread acceptance yet.
+Hardware is another problem.
+What is the best way to connect
+a computer, a videodisc player and
+a television, for example, to
+achieve maximum effectiveness
+with the technique? Deciding
+which machines to connect is an
+other obvious dilemma.
+A popular combination today is
+an Macintosh computer, a Pioneer
+videodisc player and a Sony color
+TV. Electric Cadaver, a hyper
+media program developed at the
+Stanford Medical School, for ex
+ample, uses this combination, as
+does the English Department's
+Shakespeare Project (see accom
+panying article).
+As industry gropes towards a
+hypermedia standard and mem
+ory capacities continue to in
+crease, the marriage of video,
+audio and computer technology —
+the hypermedia dream — will be
+consummated.
+Imagine writing a research
+paper on Mozart's "Don Giovan
+ni." You sit down at a collection
+of computers, televisions and
+videodisc players and type
+"Mozart's Don Giovanni."
+Instantly a screenful of options
+appears. With the click of a but
+ton, watch the Metropolitan
+Opera's production of the opera
+on the television, hear accompa
+nying CD-quality music and per
+haps even partition off a corner
+of the screen to see the conduc
+tor's score.
+Afterwards, with a few more
+clicks, examine any relevant top
+ics: Mozart biographies, opera his
+tories and criticisms, makeup and
+costuming techniques, musical
+dictionaries, perhaps even a
+Salieri letter jeering Mozart's
+newest masterpiece.
+The creators of this multimedia
+marriage of video, audio and com
+puter devices, loosely called "hy
+permedia," — among other
+buzzwords — are striving to
+realize this research dream.
+Using computers to mediate be
+tween the user and millions of
+bits of data, hypermedia is a
+revolutionary way of organizing
+and accessing information.
+Traditional text-and-pictures
+biographies of Mozart might be
+replaced by hypermedia biogra
+phies with video clips, digital
+sound and the potential to access
+relevant material almost instantly.
+The computer's ability to store
+and locate data quickly will
+automate the laborious process of
+shuffling between volumes of
+books and reams of film.
+HyperCard for the Macintosh
+Tentative steps have already
+been made in this direction. The
+workhorse of hypermedia today is
+Apple Computer's "HyperCard,"
+an application program which al
+lows even computer novices to
+create vast, attractive and easy
+to-use databases of information.
+The organizational unit of "Hy
+perCard" is, appropriately, a card.
+Like a standard index card, users
+can place any visual information
+they want on a card, from names
+and addresses to full-color photo
+graphs, from Chinese characters
+to city maps.
+
+Related cards are collected into
+"stacks." For example, one might
+keep a "date stack" full of names,
+photos and phone numbers or,
+more likely, a "tape stack" full of
+the album covers and song titles
+from an album collection.
+
+The computer's
+ability to store and
+locate data quickly
+will automate the
+laborious process
+of shuffling be
+tween volumes of
+books and reams
+of film.
+
+The user can also put "buttons"
+on a stack. For example, one
+might put an arrow icon onto an
+address card. When the user
+moves the mouse onto the arrow
+and pushes the button, the next
+name and address in the stack
+appears.
+Interconnectivity
+Such an address book has linear
+structure. One card might lead to
+the next, just as one page in a
+book leads to the next page.
+But "HyperCard" also can dis
+play interconnectivity, complex re
+lations between a set of cards.
+With the same address stack, the
+user can push a map icon to bring
+up a detailed street map showing
+exactly where the person lives.
+From the map, the user can
+find other friends in the neigh
+borhood simply by pressing an
+other button.
+This feature demonstrates spa
+tial, rather than alphabetical, re
+lationships — perhaps a more
+natural way of thinking, say some
+computer scientists.
+To help keep track of the 1988
+election campaign, ABC News
+used a HyperCard application
+called MAGNA, Macintosh ABC
+General News Almanac. With
+MAGNA, journalists with no prior
+
+computer background could easily
+and quickly access any important
+election news, from a short biog
+raphy and picture of the leading
+contenders to Dukakis' stance on
+Star Wars to the political leanings
+of the lowa caucus.
+MAGNA contained thousands of
+facts gathered onto 5,000 cards
+and some 130 stacks.
+Good, but not perfect
+One of the problems of hyper
+media is memory. ABC's MAGNA
+obviously demanded a large
+amount of disk space, yet it only
+covered one election year.
+Fortunately for computer scien
+tists, new storage possibilities are
+making memory requirements
+less of a problem. "Compact Disc,
+Read Only Memory," for example,
+stores over 550 megabytes of data
+— the equivalent of 150,000 pages
+of text or 700 Macintosh floppy
+disks — on an audio CD-sized
+disc. The drawback of CD-ROM
+is identical to that of an audio
+CD; you can't record on a CD.
+Once made, the CD is unchange
+able.
+Emerging technology, like
+"Write Once, Read Many" drives
+— or WORM drives — and
+erasable CDs are beginning to
+challenge even that limitation.
+Neither of these devices have
+gained widespread acceptance yet.
+Hardware is another problem.
+What is the best way to connect
+a computer, a videodisc player and
+a television, for example, to
+achieve maximum effectiveness
+with the technique? Deciding
+which machines to connect is an
+other obvious dilemma.
+A popular combination today is
+an Macintosh computer, a Pioneer
+videodisc player and a Sony color
+TV. Electric Cadaver, a hyper
+media program developed at the
+Stanford Medical School, for ex
+ample, uses this combination, as
+does the English Department's
+Shakespeare Project (see accom
+panying article).
+As industry gropes towards a
+hypermedia standard and mem
+ory capacities continue to in
+crease, the marriage of video,
+audio and computer technology —
+the hypermedia dream — will be
+consummated.
+Imagine writing a research
+paper on Mozart's "Don Giovan
+ni." You sit down at a collection
+of computers, televisions and
+videodisc players and type
+"Mozart's Don Giovanni."
+Instantly a screenful of options
+appears. With the click of a but
+ton, watch the Metropolitan
+Opera's production of the opera
+on the television, hear accompa
+nying CD-quality music and per
+haps even partition off a corner
+of the screen to see the conduc
+tor's score.
+Afterwards, with a few more
+clicks, examine any relevant top
+ics: Mozart biographies, opera his
+tories and criticisms, makeup and
+costuming techniques, musical
+dictionaries, perhaps even a
+Salieri letter jeering Mozart's
+newest masterpiece.
+The creators of this multimedia
+marriage of video, audio and com
+puter devices, loosely called "hy
+permedia," — among other
+buzzwords — are striving to
+realize this research dream.
+Using computers to mediate be
+tween the user and millions of
+bits of data, hypermedia is a
+revolutionary way of organizing
+and accessing information.
+Traditional text-and-pictures
+biographies of Mozart might be
+replaced by hypermedia biogra
+phies with video clips, digital
+sound and the potential to access
+relevant material almost instantly.
+The computer's ability to store
+and locate data quickly will
+automate the laborious process of
+shuffling between volumes of
+books and reams of film.
+HyperCard for the Macintosh
+Tentative steps have already
+been made in this direction. The
+workhorse of hypermedia today is
+Apple Computer's "HyperCard,"
+an application program which al
+lows even computer novices to
+create vast, attractive and easy
+to-use databases of information.
+The organizational unit of "Hy
+perCard" is, appropriately, a card.
+Like a standard index card, users
+can place any visual information
+they want on a card, from names
+and addresses to full-color photo
+graphs, from Chinese characters
+to city maps.
+
+Related cards are collected into
+"stacks." For example, one might
+keep a "date stack" full of names,
+photos and phone numbers or,
+more likely, a "tape stack" full of
+the album covers and song titles
+from an album collection.
+
+The computer's
+ability to store and
+locate data quickly
+will automate the
+laborious process
+of shuffling be
+tween volumes of
+books and reams
+of film.
+
+The user can also put "buttons"
+on a stack. For example, one
+might put an arrow icon onto an
+address card. When the user
+moves the mouse onto the arrow
+and pushes the button, the next
+name and address in the stack
+appears.
+Interconnectivity
+Such an address book has linear
+structure. One card might lead to
+the next, just as one page in a
+book leads to the next page.
+But "HyperCard" also can dis
+play interconnectivity, complex re
+lations between a set of cards.
+With the same address stack, the
+user can push a map icon to bring
+up a detailed street map showing
+exactly where the person lives.
+From the map, the user can
+find other friends in the neigh
+borhood simply by pressing an
+other button.
+This feature demonstrates spa
+tial, rather than alphabetical, re
+lationships — perhaps a more
+natural way of thinking, say some
+computer scientists.
+To help keep track of the 1988
+election campaign, ABC News
+used a HyperCard application
+called MAGNA, Macintosh ABC
+General News Almanac. With
+MAGNA, journalists with no prior
+
+computer background could easily
+and quickly access any important
+election news, from a short biog
+raphy and picture of the leading
+contenders to Dukakis' stance on
+Star Wars to the political leanings
+of the lowa caucus.
+MAGNA contained thousands of
+facts gathered onto 5,000 cards
+and some 130 stacks.
+Good, but not perfect
+One of the problems of hyper
+media is memory. ABC's MAGNA
+obviously demanded a large
+amount of disk space, yet it only
+covered one election year.
+Fortunately for computer scien
+tists, new storage possibilities are
+making memory requirements
+less of a problem. "Compact Disc,
+Read Only Memory," for example,
+stores over 550 megabytes of data
+— the equivalent of 150,000 pages
+of text or 700 Macintosh floppy
+disks — on an audio CD-sized
+disc. The drawback of CD-ROM
+is identical to that of an audio
+CD; you can't record on a CD.
+Once made, the CD is unchange
+able.
+Emerging technology, like
+"Write Once, Read Many" drives
+— or WORM drives — and
+erasable CDs are beginning to
+challenge even that limitation.
+Neither of these devices have
+gained widespread acceptance yet.
+Hardware is another problem.
+What is the best way to connect
+a computer, a videodisc player and
+a television, for example, to
+achieve maximum effectiveness
+with the technique? Deciding
+which machines to connect is an
+other obvious dilemma.
+A popular combination today is
+an Macintosh computer, a Pioneer
+videodisc player and a Sony color
+TV. Electric Cadaver, a hyper
+media program developed at the
+Stanford Medical School, for ex
+ample, uses this combination, as
+does the English Department's
+Shakespeare Project (see accom
+panying article).
+As industry gropes towards a
+hypermedia standard and mem
+ory capacities continue to in
+crease, the marriage of video,
+audio and computer technology —
+the hypermedia dream — will be
+consummated.
+Imagine writing a research
+paper on Mozart's "Don Giovan
+ni." You sit down at a collection
+of computers, televisions and
+videodisc players and type
+"Mozart's Don Giovanni."
+Instantly a screenful of options
+appears. With the click of a but
+ton, watch the Metropolitan
+Opera's production of the opera
+on the television, hear accompa
+nying CD-quality music and per
+haps even partition off a corner
+of the screen to see the conduc
+tor's score.
+Afterwards, with a few more
+clicks, examine any relevant top
+ics: Mozart biographies, opera his
+tories and criticisms, makeup and
+costuming techniques, musical
+dictionaries, perhaps even a
+Salieri letter jeering Mozart's
+newest masterpiece.
+The creators of this multimedia
+marriage of video, audio and com
+puter devices, loosely called "hy
+permedia," — among other
+buzzwords — are striving to
+realize this research dream.
+Using computers to mediate be
+tween the user and millions of
+bits of data, hypermedia is a
+revolutionary way of organizing
+and accessing information.
+Traditional text-and-pictures
+biographies of Mozart might be
+replaced by hypermedia biogra
+phies with video clips, digital
+sound and the potential to access
+relevant material almost instantly.
+The computer's ability to store
+and locate data quickly will
+automate the laborious process of
+shuffling between volumes of
+books and reams of film.
+HyperCard for the Macintosh
+Tentative steps have already
+been made in this direction. The
+workhorse of hypermedia today is
+Apple Computer's "HyperCard,"
+an application program which al
+lows even computer novices to
+create vast, attractive and easy
+to-use databases of information.
+The organizational unit of "Hy
+perCard" is, appropriately, a card.
+Like a standard index card, users
+can place any visual information
+they want on a card, from names
+and addresses to full-color photo
+graphs, from Chinese characters
+to city maps.
+
+Related cards are collected into
+"stacks." For example, one might
+keep a "date stack" full of names,
+photos and phone numbers or,
+more likely, a "tape stack" full of
+the album covers and song titles
+from an album collection.
+
+The computer's
+ability to store and
+locate data quickly
+will automate the
+laborious process
+of shuffling be
+tween volumes of
+books and reams
+of film.
+
+The user can also put "buttons"
+on a stack. For example, one
+might put an arrow icon onto an
+address card. When the user
+moves the mouse onto the arrow
+and pushes the button, the next
+name and address in the stack
+appears.
+Interconnectivity
+Such an address book has linear
+structure. One card might lead to
+the next, just as one page in a
+book leads to the next page.
+But "HyperCard" also can dis
+play interconnectivity, complex re
+lations between a set of cards.
+With the same address stack, the
+user can push a map icon to bring
+up a detailed street map showing
+exactly where the person lives.
+From the map, the user can
+find other friends in the neigh
+borhood simply by pressing an
+other button.
+This feature demonstrates spa
+tial, rather than alphabetical, re
+lationships — perhaps a more
+natural way of thinking, say some
+computer scientists.
+To help keep track of the 1988
+election campaign, ABC News
+used a HyperCard application
+called MAGNA, Macintosh ABC
+General News Almanac. With
+MAGNA, journalists with no prior
+
+computer background could easily
+and quickly access any important
+election news, from a short biog
+raphy and picture of the leading
+contenders to Dukakis' stance on
+Star Wars to the political leanings
+of the lowa caucus.
+MAGNA contained thousands of
+facts gathered onto 5,000 cards
+and some 130 stacks.
+Good, but not perfect
+One of the problems of hyper
+media is memory. ABC's MAGNA
+obviously demanded a large
+amount of disk space, yet it only
+covered one election year.
+Fortunately for computer scien
+tists, new storage possibilities are
+making memory requirements
+less of a problem. "Compact Disc,
+Read Only Memory," for example,
+stores over 550 megabytes of data
+— the equivalent of 150,000 pages
+of text or 700 Macintosh floppy
+disks — on an audio CD-sized
+disc. The drawback of CD-ROM
+is identical to that of an audio
+CD; you can't record on a CD.
+Once made, the CD is unchange
+able.
+Emerging technology, like
+"Write Once, Read Many" drives
+— or WORM drives — and
+erasable CDs are beginning to
+challenge even that limitation.
+Neither of these devices have
+gained widespread acceptance yet.
+Hardware is another problem.
+What is the best way to connect
+a computer, a videodisc player and
+a television, for example, to
+achieve maximum effectiveness
+with the technique? Deciding
+which machines to connect is an
+other obvious dilemma.
+A popular combination today is
+an Macintosh computer, a Pioneer
+videodisc player and a Sony color
+TV. Electric Cadaver, a hyper
+media program developed at the
+Stanford Medical School, for ex
+ample, uses this combination, as
+does the English Department's
+Shakespeare Project (see accom
+panying article).
+As industry gropes towards a
+hypermedia standard and mem
+ory capacities continue to in
+crease, the marriage of video,
+audio and computer technology —
+the hypermedia dream — will be
+consummated.

@@ -1,0 +1,535 @@
+# Game theory boy tackles height and dating
+## 
+### ROBBIE YAN I GOT GAME [THEORY] 
+"I wish I was little bit taller,
+I wish I was a bailer
+I wish I had a girl who looked good
+I would call her
+I wish I had a rabbit in a hat with a bat
+and a '64 Impala"
+
+Much like the latter-day sociologist Skee-Lo, college men
+and women, while envisioning their future spouses, some
+times dwell on one particular aspect: height. While some
+folks would like their significant others to be of a certain
+height, others might fantasize about their own height: Some
+thing along the lines of a miraculous overnight growth. So
+what exactly is the ideal height for a man or for a woman?
+Certainly, the answer to this question varies, depending on
+whom you ask; however, we would like to model this in
+triguing problem and arrive at a global optimum.
+Let's start by coining the term "ideal height." Due to social
+conventions, we assume that most men in this country would
+like their girlfriends or wives to be five inches shorter than they
+are. Vice versa, most American women would like their
+boyfriends or husbands to be five inches taller. Given this cus
+tom, intuitively, if a man is petite, he probably doesn't have
+
+many options for a wife; on the other hand, if he is overly tall, the
+range of women he would be interested in must be quite limited
+as well (I'm almost certain that Robert Wadlow, once the tallest
+man in the world at 8-foot-4, wasn't too happy with his romantic
+life). Since the same situation applies to women, we can see that
+for both genders, there is an "acceptable range" of height differ
+ences they consciously or subconsciously impose on their future
+significant others. The ideal height, then, could be defined as the
+height at which the highest number of potential spouses falls into
+its corresponding "acceptable range."
+Let's model the height distribution of all American women
+as a normal distribution curve, also known as the bell-shaped
+curve. The bell curve, as you all recall from your probability
+class, approximates the macroscopic properties of many nat
+ural phenomena that involve a large number of random
+events. Let's assume further that the ideal height difference
+that a woman desires between herself and her significant
+other is five inches, and that the "acceptable range" is four to
+seven inches. The corresponding figures for men, then, would
+be an ideal height difference of negative five inches and an
+"acceptable range" of negative seven to negative four inches.
+According to the U.S. Department of Health and Human
+Services, the average U.S. woman between the ages of 18
+and 24 is 5-foot-3.7 tall with a standard deviation of 2.5 inch
+es. Hence, the distribution of American women's height
+could be modeled with the following equation:
+
+v = e"f-fa-uV)
+2(Z) !
+
+(V(2it)l)
+
+Where x is the woman's height and y is the percentage of
+American woman with height x, X=2.5 inches and p=s-foot
+-3.7.
+For a man q inches tall, the percentage of women that fall
+in his "acceptable range" could be obtained from the fol
+lowing integral:
+Z=J^y<ta
+The q that maximizes this equation is 5.5 inches above the
+average woman's height. Hence, the ideal height for men is
+5-foot-9.2.
+If we apply the same procedure to American men (aver
+age 5-foot-9.1), we could obtain the following result:
+Women's ideal height is 5-foot-3.6,5.5 inches below the av
+erage man's height.
+Luckily the ideal heights are not so far away from each
+gender's average heights themselves.
+But for all of you ladies out there worrying you are too
+short, have no fear: I am only 5-foot-8.
+Are you as'l "-5'6" freshman girl who enjoys long walks on
+the beach? E-mail Robbie at xyan@stanford.edu.
+"I wish I was little bit taller,
+I wish I was a bailer
+I wish I had a girl who looked good
+I would call her
+I wish I had a rabbit in a hat with a bat
+and a '64 Impala"
+
+Much like the latter-day sociologist Skee-Lo, college men
+and women, while envisioning their future spouses, some
+times dwell on one particular aspect: height. While some
+folks would like their significant others to be of a certain
+height, others might fantasize about their own height: Some
+thing along the lines of a miraculous overnight growth. So
+what exactly is the ideal height for a man or for a woman?
+Certainly, the answer to this question varies, depending on
+whom you ask; however, we would like to model this in
+triguing problem and arrive at a global optimum.
+Let's start by coining the term "ideal height." Due to social
+conventions, we assume that most men in this country would
+like their girlfriends or wives to be five inches shorter than they
+are. Vice versa, most American women would like their
+boyfriends or husbands to be five inches taller. Given this cus
+tom, intuitively, if a man is petite, he probably doesn't have
+
+many options for a wife; on the other hand, if he is overly tall, the
+range of women he would be interested in must be quite limited
+as well (I'm almost certain that Robert Wadlow, once the tallest
+man in the world at 8-foot-4, wasn't too happy with his romantic
+life). Since the same situation applies to women, we can see that
+for both genders, there is an "acceptable range" of height differ
+ences they consciously or subconsciously impose on their future
+significant others. The ideal height, then, could be defined as the
+height at which the highest number of potential spouses falls into
+its corresponding "acceptable range."
+Let's model the height distribution of all American women
+as a normal distribution curve, also known as the bell-shaped
+curve. The bell curve, as you all recall from your probability
+class, approximates the macroscopic properties of many nat
+ural phenomena that involve a large number of random
+events. Let's assume further that the ideal height difference
+that a woman desires between herself and her significant
+other is five inches, and that the "acceptable range" is four to
+seven inches. The corresponding figures for men, then, would
+be an ideal height difference of negative five inches and an
+"acceptable range" of negative seven to negative four inches.
+According to the U.S. Department of Health and Human
+Services, the average U.S. woman between the ages of 18
+and 24 is 5-foot-3.7 tall with a standard deviation of 2.5 inch
+es. Hence, the distribution of American women's height
+could be modeled with the following equation:
+
+v = e"f-fa-uV)
+2(Z) !
+
+(V(2it)l)
+
+Where x is the woman's height and y is the percentage of
+American woman with height x, X=2.5 inches and p=s-foot
+-3.7.
+For a man q inches tall, the percentage of women that fall
+in his "acceptable range" could be obtained from the fol
+lowing integral:
+Z=J^y<ta
+The q that maximizes this equation is 5.5 inches above the
+average woman's height. Hence, the ideal height for men is
+5-foot-9.2.
+If we apply the same procedure to American men (aver
+age 5-foot-9.1), we could obtain the following result:
+Women's ideal height is 5-foot-3.6,5.5 inches below the av
+erage man's height.
+Luckily the ideal heights are not so far away from each
+gender's average heights themselves.
+But for all of you ladies out there worrying you are too
+short, have no fear: I am only 5-foot-8.
+Are you as'l "-5'6" freshman girl who enjoys long walks on
+the beach? E-mail Robbie at xyan@stanford.edu.
+"I wish I was little bit taller,
+I wish I was a bailer
+I wish I had a girl who looked good
+I would call her
+I wish I had a rabbit in a hat with a bat
+and a '64 Impala"
+
+Much like the latter-day sociologist Skee-Lo, college men
+and women, while envisioning their future spouses, some
+times dwell on one particular aspect: height. While some
+folks would like their significant others to be of a certain
+height, others might fantasize about their own height: Some
+thing along the lines of a miraculous overnight growth. So
+what exactly is the ideal height for a man or for a woman?
+Certainly, the answer to this question varies, depending on
+whom you ask; however, we would like to model this in
+triguing problem and arrive at a global optimum.
+Let's start by coining the term "ideal height." Due to social
+conventions, we assume that most men in this country would
+like their girlfriends or wives to be five inches shorter than they
+are. Vice versa, most American women would like their
+boyfriends or husbands to be five inches taller. Given this cus
+tom, intuitively, if a man is petite, he probably doesn't have
+
+many options for a wife; on the other hand, if he is overly tall, the
+range of women he would be interested in must be quite limited
+as well (I'm almost certain that Robert Wadlow, once the tallest
+man in the world at 8-foot-4, wasn't too happy with his romantic
+life). Since the same situation applies to women, we can see that
+for both genders, there is an "acceptable range" of height differ
+ences they consciously or subconsciously impose on their future
+significant others. The ideal height, then, could be defined as the
+height at which the highest number of potential spouses falls into
+its corresponding "acceptable range."
+Let's model the height distribution of all American women
+as a normal distribution curve, also known as the bell-shaped
+curve. The bell curve, as you all recall from your probability
+class, approximates the macroscopic properties of many nat
+ural phenomena that involve a large number of random
+events. Let's assume further that the ideal height difference
+that a woman desires between herself and her significant
+other is five inches, and that the "acceptable range" is four to
+seven inches. The corresponding figures for men, then, would
+be an ideal height difference of negative five inches and an
+"acceptable range" of negative seven to negative four inches.
+According to the U.S. Department of Health and Human
+Services, the average U.S. woman between the ages of 18
+and 24 is 5-foot-3.7 tall with a standard deviation of 2.5 inch
+es. Hence, the distribution of American women's height
+could be modeled with the following equation:
+
+v = e"f-fa-uV)
+2(Z) !
+
+(V(2it)l)
+
+Where x is the woman's height and y is the percentage of
+American woman with height x, X=2.5 inches and p=s-foot
+-3.7.
+For a man q inches tall, the percentage of women that fall
+in his "acceptable range" could be obtained from the fol
+lowing integral:
+Z=J^y<ta
+The q that maximizes this equation is 5.5 inches above the
+average woman's height. Hence, the ideal height for men is
+5-foot-9.2.
+If we apply the same procedure to American men (aver
+age 5-foot-9.1), we could obtain the following result:
+Women's ideal height is 5-foot-3.6,5.5 inches below the av
+erage man's height.
+Luckily the ideal heights are not so far away from each
+gender's average heights themselves.
+But for all of you ladies out there worrying you are too
+short, have no fear: I am only 5-foot-8.
+Are you as'l "-5'6" freshman girl who enjoys long walks on
+the beach? E-mail Robbie at xyan@stanford.edu.
+"I wish I was little bit taller,
+I wish I was a bailer
+I wish I had a girl who looked good
+I would call her
+I wish I had a rabbit in a hat with a bat
+and a '64 Impala"
+
+Much like the latter-day sociologist Skee-Lo, college men
+and women, while envisioning their future spouses, some
+times dwell on one particular aspect: height. While some
+folks would like their significant others to be of a certain
+height, others might fantasize about their own height: Some
+thing along the lines of a miraculous overnight growth. So
+what exactly is the ideal height for a man or for a woman?
+Certainly, the answer to this question varies, depending on
+whom you ask; however, we would like to model this in
+triguing problem and arrive at a global optimum.
+Let's start by coining the term "ideal height." Due to social
+conventions, we assume that most men in this country would
+like their girlfriends or wives to be five inches shorter than they
+are. Vice versa, most American women would like their
+boyfriends or husbands to be five inches taller. Given this cus
+tom, intuitively, if a man is petite, he probably doesn't have
+
+many options for a wife; on the other hand, if he is overly tall, the
+range of women he would be interested in must be quite limited
+as well (I'm almost certain that Robert Wadlow, once the tallest
+man in the world at 8-foot-4, wasn't too happy with his romantic
+life). Since the same situation applies to women, we can see that
+for both genders, there is an "acceptable range" of height differ
+ences they consciously or subconsciously impose on their future
+significant others. The ideal height, then, could be defined as the
+height at which the highest number of potential spouses falls into
+its corresponding "acceptable range."
+Let's model the height distribution of all American women
+as a normal distribution curve, also known as the bell-shaped
+curve. The bell curve, as you all recall from your probability
+class, approximates the macroscopic properties of many nat
+ural phenomena that involve a large number of random
+events. Let's assume further that the ideal height difference
+that a woman desires between herself and her significant
+other is five inches, and that the "acceptable range" is four to
+seven inches. The corresponding figures for men, then, would
+be an ideal height difference of negative five inches and an
+"acceptable range" of negative seven to negative four inches.
+According to the U.S. Department of Health and Human
+Services, the average U.S. woman between the ages of 18
+and 24 is 5-foot-3.7 tall with a standard deviation of 2.5 inch
+es. Hence, the distribution of American women's height
+could be modeled with the following equation:
+
+v = e"f-fa-uV)
+2(Z) !
+
+(V(2it)l)
+
+Where x is the woman's height and y is the percentage of
+American woman with height x, X=2.5 inches and p=s-foot
+-3.7.
+For a man q inches tall, the percentage of women that fall
+in his "acceptable range" could be obtained from the fol
+lowing integral:
+Z=J^y<ta
+The q that maximizes this equation is 5.5 inches above the
+average woman's height. Hence, the ideal height for men is
+5-foot-9.2.
+If we apply the same procedure to American men (aver
+age 5-foot-9.1), we could obtain the following result:
+Women's ideal height is 5-foot-3.6,5.5 inches below the av
+erage man's height.
+Luckily the ideal heights are not so far away from each
+gender's average heights themselves.
+But for all of you ladies out there worrying you are too
+short, have no fear: I am only 5-foot-8.
+Are you as'l "-5'6" freshman girl who enjoys long walks on
+the beach? E-mail Robbie at xyan@stanford.edu.
+"I wish I was little bit taller,
+I wish I was a bailer
+I wish I had a girl who looked good
+I would call her
+I wish I had a rabbit in a hat with a bat
+and a '64 Impala"
+
+Much like the latter-day sociologist Skee-Lo, college men
+and women, while envisioning their future spouses, some
+times dwell on one particular aspect: height. While some
+folks would like their significant others to be of a certain
+height, others might fantasize about their own height: Some
+thing along the lines of a miraculous overnight growth. So
+what exactly is the ideal height for a man or for a woman?
+Certainly, the answer to this question varies, depending on
+whom you ask; however, we would like to model this in
+triguing problem and arrive at a global optimum.
+Let's start by coining the term "ideal height." Due to social
+conventions, we assume that most men in this country would
+like their girlfriends or wives to be five inches shorter than they
+are. Vice versa, most American women would like their
+boyfriends or husbands to be five inches taller. Given this cus
+tom, intuitively, if a man is petite, he probably doesn't have
+
+many options for a wife; on the other hand, if he is overly tall, the
+range of women he would be interested in must be quite limited
+as well (I'm almost certain that Robert Wadlow, once the tallest
+man in the world at 8-foot-4, wasn't too happy with his romantic
+life). Since the same situation applies to women, we can see that
+for both genders, there is an "acceptable range" of height differ
+ences they consciously or subconsciously impose on their future
+significant others. The ideal height, then, could be defined as the
+height at which the highest number of potential spouses falls into
+its corresponding "acceptable range."
+Let's model the height distribution of all American women
+as a normal distribution curve, also known as the bell-shaped
+curve. The bell curve, as you all recall from your probability
+class, approximates the macroscopic properties of many nat
+ural phenomena that involve a large number of random
+events. Let's assume further that the ideal height difference
+that a woman desires between herself and her significant
+other is five inches, and that the "acceptable range" is four to
+seven inches. The corresponding figures for men, then, would
+be an ideal height difference of negative five inches and an
+"acceptable range" of negative seven to negative four inches.
+According to the U.S. Department of Health and Human
+Services, the average U.S. woman between the ages of 18
+and 24 is 5-foot-3.7 tall with a standard deviation of 2.5 inch
+es. Hence, the distribution of American women's height
+could be modeled with the following equation:
+
+v = e"f-fa-uV)
+2(Z) !
+
+(V(2it)l)
+
+Where x is the woman's height and y is the percentage of
+American woman with height x, X=2.5 inches and p=s-foot
+-3.7.
+For a man q inches tall, the percentage of women that fall
+in his "acceptable range" could be obtained from the fol
+lowing integral:
+Z=J^y<ta
+The q that maximizes this equation is 5.5 inches above the
+average woman's height. Hence, the ideal height for men is
+5-foot-9.2.
+If we apply the same procedure to American men (aver
+age 5-foot-9.1), we could obtain the following result:
+Women's ideal height is 5-foot-3.6,5.5 inches below the av
+erage man's height.
+Luckily the ideal heights are not so far away from each
+gender's average heights themselves.
+But for all of you ladies out there worrying you are too
+short, have no fear: I am only 5-foot-8.
+Are you as'l "-5'6" freshman girl who enjoys long walks on
+the beach? E-mail Robbie at xyan@stanford.edu.
+"I wish I was little bit taller,
+I wish I was a bailer
+I wish I had a girl who looked good
+I would call her
+I wish I had a rabbit in a hat with a bat
+and a '64 Impala"
+
+Much like the latter-day sociologist Skee-Lo, college men
+and women, while envisioning their future spouses, some
+times dwell on one particular aspect: height. While some
+folks would like their significant others to be of a certain
+height, others might fantasize about their own height: Some
+thing along the lines of a miraculous overnight growth. So
+what exactly is the ideal height for a man or for a woman?
+Certainly, the answer to this question varies, depending on
+whom you ask; however, we would like to model this in
+triguing problem and arrive at a global optimum.
+Let's start by coining the term "ideal height." Due to social
+conventions, we assume that most men in this country would
+like their girlfriends or wives to be five inches shorter than they
+are. Vice versa, most American women would like their
+boyfriends or husbands to be five inches taller. Given this cus
+tom, intuitively, if a man is petite, he probably doesn't have
+
+many options for a wife; on the other hand, if he is overly tall, the
+range of women he would be interested in must be quite limited
+as well (I'm almost certain that Robert Wadlow, once the tallest
+man in the world at 8-foot-4, wasn't too happy with his romantic
+life). Since the same situation applies to women, we can see that
+for both genders, there is an "acceptable range" of height differ
+ences they consciously or subconsciously impose on their future
+significant others. The ideal height, then, could be defined as the
+height at which the highest number of potential spouses falls into
+its corresponding "acceptable range."
+Let's model the height distribution of all American women
+as a normal distribution curve, also known as the bell-shaped
+curve. The bell curve, as you all recall from your probability
+class, approximates the macroscopic properties of many nat
+ural phenomena that involve a large number of random
+events. Let's assume further that the ideal height difference
+that a woman desires between herself and her significant
+other is five inches, and that the "acceptable range" is four to
+seven inches. The corresponding figures for men, then, would
+be an ideal height difference of negative five inches and an
+"acceptable range" of negative seven to negative four inches.
+According to the U.S. Department of Health and Human
+Services, the average U.S. woman between the ages of 18
+and 24 is 5-foot-3.7 tall with a standard deviation of 2.5 inch
+es. Hence, the distribution of American women's height
+could be modeled with the following equation:
+
+v = e"f-fa-uV)
+2(Z) !
+
+(V(2it)l)
+
+Where x is the woman's height and y is the percentage of
+American woman with height x, X=2.5 inches and p=s-foot
+-3.7.
+For a man q inches tall, the percentage of women that fall
+in his "acceptable range" could be obtained from the fol
+lowing integral:
+Z=J^y<ta
+The q that maximizes this equation is 5.5 inches above the
+average woman's height. Hence, the ideal height for men is
+5-foot-9.2.
+If we apply the same procedure to American men (aver
+age 5-foot-9.1), we could obtain the following result:
+Women's ideal height is 5-foot-3.6,5.5 inches below the av
+erage man's height.
+Luckily the ideal heights are not so far away from each
+gender's average heights themselves.
+But for all of you ladies out there worrying you are too
+short, have no fear: I am only 5-foot-8.
+Are you as'l "-5'6" freshman girl who enjoys long walks on
+the beach? E-mail Robbie at xyan@stanford.edu.
+"I wish I was little bit taller,
+I wish I was a bailer
+I wish I had a girl who looked good
+I would call her
+I wish I had a rabbit in a hat with a bat
+and a '64 Impala"
+
+Much like the latter-day sociologist Skee-Lo, college men
+and women, while envisioning their future spouses, some
+times dwell on one particular aspect: height. While some
+folks would like their significant others to be of a certain
+height, others might fantasize about their own height: Some
+thing along the lines of a miraculous overnight growth. So
+what exactly is the ideal height for a man or for a woman?
+Certainly, the answer to this question varies, depending on
+whom you ask; however, we would like to model this in
+triguing problem and arrive at a global optimum.
+Let's start by coining the term "ideal height." Due to social
+conventions, we assume that most men in this country would
+like their girlfriends or wives to be five inches shorter than they
+are. Vice versa, most American women would like their
+boyfriends or husbands to be five inches taller. Given this cus
+tom, intuitively, if a man is petite, he probably doesn't have
+
+many options for a wife; on the other hand, if he is overly tall, the
+range of women he would be interested in must be quite limited
+as well (I'm almost certain that Robert Wadlow, once the tallest
+man in the world at 8-foot-4, wasn't too happy with his romantic
+life). Since the same situation applies to women, we can see that
+for both genders, there is an "acceptable range" of height differ
+ences they consciously or subconsciously impose on their future
+significant others. The ideal height, then, could be defined as the
+height at which the highest number of potential spouses falls into
+its corresponding "acceptable range."
+Let's model the height distribution of all American women
+as a normal distribution curve, also known as the bell-shaped
+curve. The bell curve, as you all recall from your probability
+class, approximates the macroscopic properties of many nat
+ural phenomena that involve a large number of random
+events. Let's assume further that the ideal height difference
+that a woman desires between herself and her significant
+other is five inches, and that the "acceptable range" is four to
+seven inches. The corresponding figures for men, then, would
+be an ideal height difference of negative five inches and an
+"acceptable range" of negative seven to negative four inches.
+According to the U.S. Department of Health and Human
+Services, the average U.S. woman between the ages of 18
+and 24 is 5-foot-3.7 tall with a standard deviation of 2.5 inch
+es. Hence, the distribution of American women's height
+could be modeled with the following equation:
+
+v = e"f-fa-uV)
+2(Z) !
+
+(V(2it)l)
+
+Where x is the woman's height and y is the percentage of
+American woman with height x, X=2.5 inches and p=s-foot
+-3.7.
+For a man q inches tall, the percentage of women that fall
+in his "acceptable range" could be obtained from the fol
+lowing integral:
+Z=J^y<ta
+The q that maximizes this equation is 5.5 inches above the
+average woman's height. Hence, the ideal height for men is
+5-foot-9.2.
+If we apply the same procedure to American men (aver
+age 5-foot-9.1), we could obtain the following result:
+Women's ideal height is 5-foot-3.6,5.5 inches below the av
+erage man's height.
+Luckily the ideal heights are not so far away from each
+gender's average heights themselves.
+But for all of you ladies out there worrying you are too
+short, have no fear: I am only 5-foot-8.
+Are you as'l "-5'6" freshman girl who enjoys long walks on
+the beach? E-mail Robbie at xyan@stanford.edu.

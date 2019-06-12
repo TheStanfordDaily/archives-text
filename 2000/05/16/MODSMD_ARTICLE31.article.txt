@@ -1,0 +1,1809 @@
+# a 						weekly look at science and techology at Stanford Innovation
+## The 						Digital David Prof. Marc Levoy pioneers 3-D scanner, jump Michelangelo preservation 
+### SALAS SARAIYA CONTRIBUTING WRITER 
+FROZEN BABY BOOM
+Prof. Djerassi predicts the
+future of contraception as
+technology improves.
+pg. B3
+
+Ever wondered what kind ol
+chisel marks are present on
+Michelangelo's "David"? Well, art
+historians have. And flying back and
+forth to Florence can get expensive.
+
+In six months to a year, the
+method of obtaining this
+type of data will c hange for
+ever. Thanks to Computer
+Science Prof. Marc Levoy's
+Michelangelo Project, 3-D
+models of "David" and other
+statues by Michelangelo will
+soon be available to re
+searchers all over the world.
+Description of project
+During Levoy's sabbatical
+year from 1998 to 1999, he
+led a team of faculty, gradu
+ate students and undergrad
+uate students to Italy to
+
+begin the project. There, they
+scanned many statues, including
+"David" and began the process of
+converting them into 3-1) computet
+models. At its peak, the team con
+sisted of 30 faculty, stall and stu
+dents at Stanford and the Universi
+ty of Washington.
+Gaining sole access to the muse
+ums was not an easy task. Levoy
+
+spent two years negotiating with the
+museums before going <>n the trip.
+The unique perspective the team
+gained by having access to the statue
+was invaluable. The team made
+some illuminating discoveries as a
+result of their perspe ive. The pro
+ject corrected the history books by
+
+noting that the "David" is actually
+almost 3 feet taller than previously
+thought (17 feet rather than 14 feet
+3 inches).
+Procedure
+l he process of converting the
+statues into models includes scan
+ning the statue wit ha rangefinder to
+
+determine the shape, taking many
+digital photos to determine the
+color and combining the gathered
+data to create the final !5D model.
+Scanning with the rangefinder
+The rangefinder consists of a
+
+laser and a digital video camera.
+The rangefinder shoots a laser
+stripe at the target to be scanned
+and the light is reflected by the tar
+get. The video camera views the
+contour of the stripe. This contour
+is then converted to a set of 3-1)
+points that reflect the shape of the
+target.
+The rangefinder is affixed to a
+
+pan-tilt head on an arm, which is at
+tached to a town that sits atop a
+movable gantry. I he rangefinder
+points the lasei towards the object
+and the distance i* recorded as de
+scribed above. It continues this
+process from one position while
+slowly making a nodding motion.
+
+The rangefinder also sweeps up to
+90 degrees from left to right to
+record overlapping scans. I lie scan
+ner can move forwards and back
+wards four feet 011 the arm and the
+arm can move up and down eight
+feet on the tower. Aftei the statue is
+completely scanned from one posi
+tion, the gantry is rolled to a differ
+ent position around the statue, and
+
+the process begins again. A re
+searcher programs this motion into
+the rangefinder, and then the
+rangefinder moves In itself.
+A common problem with the
+rangefinder is that the target does
+not alwavs reflect .ill the light from
+
+the laser stripe. In some cases, some
+of the light penetrates the surface of
+(lie target and so the brightest spot
+is actually behind the surface of the
+object. This process is called scatter
+ing. Specifically, marble tends to
+scatter some light. Also, parts of the
+marble are too dark to reflect the
+laser light. To account for these
+problems, all the distances recorded
+
+fora specific spot on the David are
+averaged together to get the dis
+tance that will be reflected in the
+computer model.
+Another problem is that the
+rangefinder moves automatically
+and can therefore hit the statue it
+
+not well-attended. Sometimes
+the rangefinder has to be
+positioned very close to the
+statue to record every nook
+and-crannv in the statue. To
+make sure the rangefinder
+does not hit the statue,
+someone watches its move
+ments at all times with
+his her linger on the red
+"Kmergency Stop" button.
+I he rangefinder also has
+padding attached to it to
+make sure that if the statue
+is hit, no damage will be
+clone.
+No statue has ever been
+daaged, and to the best of
+I.even's knowledge, the
+
+rangefinder lias never come into
+contact with a statue.
+Adding color
+A digital camera is used to deter
+mine the color of the object. The
+digital camera is attached to the
+
+
+Courtesy of The Digital Michelangelo Project
+Computer Science Prof. Marc Levoy's Digital Michelangelo Project produced a computer rendering of Michelangelo's unfin
+ishea statue of St. Matthew (detail of cheek above) in its first attempt to catalog the famous artist's sculptures as 3-D digital
+images. The project members use a laser scanner (right) mounted on a moveable armature to scan the various statues.
+
+
+same structure as the rangefinder.
+The scans are shot on the same
+setup of t|ie gantry, but the scans
+are taken separately from the dis
+tance measurements. While the
+laser measurements are taken
+with a moving rangefinder, the
+digital camera scans are taken
+when the rangefinder is still.
+Two scans of every spot are
+taken —112 one with ambient lighting
+and one with a spotlight and am
+bient lighting. Researchers then
+take the difference between the
+colors jof the two scans to deter
+mine (he color of the spot with
+only aispotlight. The effect of the
+spotlight can then be subtracted
+out to get the true color of the
+spot. I
+Artificial lighting can be placed
+on tl»e final computer model to see
+what) the statues would look like
+undfr different lighting condi
+tions.
+Creating a 3-D model
+In order to create a three-di
+mensional model, the distance
+measurements fora certain sec
+tion of the statue are placed into
+th/b correct position with relation
+to the whole statue. Later, opera
+tors try to overlap the scans with
+neighboring scans. The data set is
+then fed into the computer, where
+the computer tries to fully fit the
+icans together.
+Every point on the statue has
+three coordinates, and the shape
+connecting any three points in
+space is a triangle. When the
+pieces are fully placed together,
+the model resembles a lot ol trian
+gles fit together, also known as a
+
+triangular mesh.
+The last step is to place color on
+the model by melding the color
+data set with the rangefinder data
+set.
+Converting the distance mea
+surements to a 3-1) model is a long
+and labor-intensive process. The
+group has spent 4,000 man-hours
+on this part of the project and is
+still working on it. Currently, the
+group has achieved a 2 mm reso
+lution model of the David, but its
+goal is to achieve a.25 mm resolu
+tion model. This would be the
+same resolution as the laser mea
+surements.
+Issues
+One of the problems with such
+an exact rendering of statues is
+that few people have the resources
+to view it. fhe computer model of
+the David has 2 billion polygons,
+and 7,000 images. It occupies 32
+CB on a computer's hard drive.
+Oraduate student Matt Cint
+zon, who has worked extensively
+on the project, does not see this as
+a major problem, for two reasons.
+First of all, the Michelangelo pro
+ject has a deal with the Italian mu
+seums to restrict the models strict
+ly to "scientific researchers."
+Therefore, most people using tlie
+models would have state of the art
+computers. Secondly, through a
+process called decimation, the
+model can be simplified. Decima
+tion involves converting the vast
+number of small triangles in the
+model into a larger number of big
+ger triangles.
+Another possible problem that
+could arise is the issue of piracy.
+To ensure the integrity of the dig
+ital models, there has been talk of
+producing a three-dimensional
+digital watermark to make sure
+the models aren't copied.
+
+Levoy said lie wanted to "dis
+tribute as widely as possible," as
+long as the models did not become
+commercial.
+Future projects
+Using this scanning method,
+members of the project have
+scanned 10 statues, two building
+interiors and 1,163 map frag
+ments. The project's first scan was
+Michelangelo's "St. Matthew."
+One of the projects currently in
+the works, the Forma Urbis
+Romae, is along different lines
+than the others. The Forma Urbis
+Romae is a giant marble map of
+ancient Rome which, when it was
+complete, measured 60 feet
+across, 45 feet high, and was
+carved onto marble slabs several
+inch thick before it was shattered.
+Many historians have tried to
+piece together the map fragments
+to no avail. By scanning the frag
+ments and letting the computer
+assemble the puzzle pieces, the
+team hopes to succeed where oth
+ers have failed.
+Levoy sees many places in
+which the procedures could have
+been improved, including having
+a better scanner and a better cali
+bration system, but he also said
+that another similar project was
+not in the works. He said his gen
+eral research principle was to
+"prototype the project, relate
+lessons that we learned, and then
+leave it for someone else."
+Levoy mentioned some future
+projects that could yield interest
+ing results: creating digital li
+braries and archives, making a
+computer database that lasts 500
+years, distributing images, cata
+loging images and searching tor
+images. He also mentioned the
+possibility of a shape or image
+guided web.
+FROZEN BABY BOOM
+Prof. Djerassi predicts the
+future of contraception as
+technology improves.
+pg. B3
+
+Ever wondered what kind ol
+chisel marks are present on
+Michelangelo's "David"? Well, art
+historians have. And flying back and
+forth to Florence can get expensive.
+
+In six months to a year, the
+method of obtaining this
+type of data will c hange for
+ever. Thanks to Computer
+Science Prof. Marc Levoy's
+Michelangelo Project, 3-D
+models of "David" and other
+statues by Michelangelo will
+soon be available to re
+searchers all over the world.
+Description of project
+During Levoy's sabbatical
+year from 1998 to 1999, he
+led a team of faculty, gradu
+ate students and undergrad
+uate students to Italy to
+
+begin the project. There, they
+scanned many statues, including
+"David" and began the process of
+converting them into 3-1) computet
+models. At its peak, the team con
+sisted of 30 faculty, stall and stu
+dents at Stanford and the Universi
+ty of Washington.
+Gaining sole access to the muse
+ums was not an easy task. Levoy
+
+spent two years negotiating with the
+museums before going <>n the trip.
+The unique perspective the team
+gained by having access to the statue
+was invaluable. The team made
+some illuminating discoveries as a
+result of their perspe ive. The pro
+ject corrected the history books by
+
+noting that the "David" is actually
+almost 3 feet taller than previously
+thought (17 feet rather than 14 feet
+3 inches).
+Procedure
+l he process of converting the
+statues into models includes scan
+ning the statue wit ha rangefinder to
+
+determine the shape, taking many
+digital photos to determine the
+color and combining the gathered
+data to create the final !5D model.
+Scanning with the rangefinder
+The rangefinder consists of a
+
+laser and a digital video camera.
+The rangefinder shoots a laser
+stripe at the target to be scanned
+and the light is reflected by the tar
+get. The video camera views the
+contour of the stripe. This contour
+is then converted to a set of 3-1)
+points that reflect the shape of the
+target.
+The rangefinder is affixed to a
+
+pan-tilt head on an arm, which is at
+tached to a town that sits atop a
+movable gantry. I he rangefinder
+points the lasei towards the object
+and the distance i* recorded as de
+scribed above. It continues this
+process from one position while
+slowly making a nodding motion.
+
+The rangefinder also sweeps up to
+90 degrees from left to right to
+record overlapping scans. I lie scan
+ner can move forwards and back
+wards four feet 011 the arm and the
+arm can move up and down eight
+feet on the tower. Aftei the statue is
+completely scanned from one posi
+tion, the gantry is rolled to a differ
+ent position around the statue, and
+
+the process begins again. A re
+searcher programs this motion into
+the rangefinder, and then the
+rangefinder moves In itself.
+A common problem with the
+rangefinder is that the target does
+not alwavs reflect .ill the light from
+
+the laser stripe. In some cases, some
+of the light penetrates the surface of
+(lie target and so the brightest spot
+is actually behind the surface of the
+object. This process is called scatter
+ing. Specifically, marble tends to
+scatter some light. Also, parts of the
+marble are too dark to reflect the
+laser light. To account for these
+problems, all the distances recorded
+
+fora specific spot on the David are
+averaged together to get the dis
+tance that will be reflected in the
+computer model.
+Another problem is that the
+rangefinder moves automatically
+and can therefore hit the statue it
+
+not well-attended. Sometimes
+the rangefinder has to be
+positioned very close to the
+statue to record every nook
+and-crannv in the statue. To
+make sure the rangefinder
+does not hit the statue,
+someone watches its move
+ments at all times with
+his her linger on the red
+"Kmergency Stop" button.
+I he rangefinder also has
+padding attached to it to
+make sure that if the statue
+is hit, no damage will be
+clone.
+No statue has ever been
+daaged, and to the best of
+I.even's knowledge, the
+
+rangefinder lias never come into
+contact with a statue.
+Adding color
+A digital camera is used to deter
+mine the color of the object. The
+digital camera is attached to the
+
+
+Courtesy of The Digital Michelangelo Project
+Computer Science Prof. Marc Levoy's Digital Michelangelo Project produced a computer rendering of Michelangelo's unfin
+ishea statue of St. Matthew (detail of cheek above) in its first attempt to catalog the famous artist's sculptures as 3-D digital
+images. The project members use a laser scanner (right) mounted on a moveable armature to scan the various statues.
+
+
+same structure as the rangefinder.
+The scans are shot on the same
+setup of t|ie gantry, but the scans
+are taken separately from the dis
+tance measurements. While the
+laser measurements are taken
+with a moving rangefinder, the
+digital camera scans are taken
+when the rangefinder is still.
+Two scans of every spot are
+taken —112 one with ambient lighting
+and one with a spotlight and am
+bient lighting. Researchers then
+take the difference between the
+colors jof the two scans to deter
+mine (he color of the spot with
+only aispotlight. The effect of the
+spotlight can then be subtracted
+out to get the true color of the
+spot. I
+Artificial lighting can be placed
+on tl»e final computer model to see
+what) the statues would look like
+undfr different lighting condi
+tions.
+Creating a 3-D model
+In order to create a three-di
+mensional model, the distance
+measurements fora certain sec
+tion of the statue are placed into
+th/b correct position with relation
+to the whole statue. Later, opera
+tors try to overlap the scans with
+neighboring scans. The data set is
+then fed into the computer, where
+the computer tries to fully fit the
+icans together.
+Every point on the statue has
+three coordinates, and the shape
+connecting any three points in
+space is a triangle. When the
+pieces are fully placed together,
+the model resembles a lot ol trian
+gles fit together, also known as a
+
+triangular mesh.
+The last step is to place color on
+the model by melding the color
+data set with the rangefinder data
+set.
+Converting the distance mea
+surements to a 3-1) model is a long
+and labor-intensive process. The
+group has spent 4,000 man-hours
+on this part of the project and is
+still working on it. Currently, the
+group has achieved a 2 mm reso
+lution model of the David, but its
+goal is to achieve a.25 mm resolu
+tion model. This would be the
+same resolution as the laser mea
+surements.
+Issues
+One of the problems with such
+an exact rendering of statues is
+that few people have the resources
+to view it. fhe computer model of
+the David has 2 billion polygons,
+and 7,000 images. It occupies 32
+CB on a computer's hard drive.
+Oraduate student Matt Cint
+zon, who has worked extensively
+on the project, does not see this as
+a major problem, for two reasons.
+First of all, the Michelangelo pro
+ject has a deal with the Italian mu
+seums to restrict the models strict
+ly to "scientific researchers."
+Therefore, most people using tlie
+models would have state of the art
+computers. Secondly, through a
+process called decimation, the
+model can be simplified. Decima
+tion involves converting the vast
+number of small triangles in the
+model into a larger number of big
+ger triangles.
+Another possible problem that
+could arise is the issue of piracy.
+To ensure the integrity of the dig
+ital models, there has been talk of
+producing a three-dimensional
+digital watermark to make sure
+the models aren't copied.
+
+Levoy said lie wanted to "dis
+tribute as widely as possible," as
+long as the models did not become
+commercial.
+Future projects
+Using this scanning method,
+members of the project have
+scanned 10 statues, two building
+interiors and 1,163 map frag
+ments. The project's first scan was
+Michelangelo's "St. Matthew."
+One of the projects currently in
+the works, the Forma Urbis
+Romae, is along different lines
+than the others. The Forma Urbis
+Romae is a giant marble map of
+ancient Rome which, when it was
+complete, measured 60 feet
+across, 45 feet high, and was
+carved onto marble slabs several
+inch thick before it was shattered.
+Many historians have tried to
+piece together the map fragments
+to no avail. By scanning the frag
+ments and letting the computer
+assemble the puzzle pieces, the
+team hopes to succeed where oth
+ers have failed.
+Levoy sees many places in
+which the procedures could have
+been improved, including having
+a better scanner and a better cali
+bration system, but he also said
+that another similar project was
+not in the works. He said his gen
+eral research principle was to
+"prototype the project, relate
+lessons that we learned, and then
+leave it for someone else."
+Levoy mentioned some future
+projects that could yield interest
+ing results: creating digital li
+braries and archives, making a
+computer database that lasts 500
+years, distributing images, cata
+loging images and searching tor
+images. He also mentioned the
+possibility of a shape or image
+guided web.
+FROZEN BABY BOOM
+Prof. Djerassi predicts the
+future of contraception as
+technology improves.
+pg. B3
+
+Ever wondered what kind ol
+chisel marks are present on
+Michelangelo's "David"? Well, art
+historians have. And flying back and
+forth to Florence can get expensive.
+
+In six months to a year, the
+method of obtaining this
+type of data will c hange for
+ever. Thanks to Computer
+Science Prof. Marc Levoy's
+Michelangelo Project, 3-D
+models of "David" and other
+statues by Michelangelo will
+soon be available to re
+searchers all over the world.
+Description of project
+During Levoy's sabbatical
+year from 1998 to 1999, he
+led a team of faculty, gradu
+ate students and undergrad
+uate students to Italy to
+
+begin the project. There, they
+scanned many statues, including
+"David" and began the process of
+converting them into 3-1) computet
+models. At its peak, the team con
+sisted of 30 faculty, stall and stu
+dents at Stanford and the Universi
+ty of Washington.
+Gaining sole access to the muse
+ums was not an easy task. Levoy
+
+spent two years negotiating with the
+museums before going <>n the trip.
+The unique perspective the team
+gained by having access to the statue
+was invaluable. The team made
+some illuminating discoveries as a
+result of their perspe ive. The pro
+ject corrected the history books by
+
+noting that the "David" is actually
+almost 3 feet taller than previously
+thought (17 feet rather than 14 feet
+3 inches).
+Procedure
+l he process of converting the
+statues into models includes scan
+ning the statue wit ha rangefinder to
+
+determine the shape, taking many
+digital photos to determine the
+color and combining the gathered
+data to create the final !5D model.
+Scanning with the rangefinder
+The rangefinder consists of a
+
+laser and a digital video camera.
+The rangefinder shoots a laser
+stripe at the target to be scanned
+and the light is reflected by the tar
+get. The video camera views the
+contour of the stripe. This contour
+is then converted to a set of 3-1)
+points that reflect the shape of the
+target.
+The rangefinder is affixed to a
+
+pan-tilt head on an arm, which is at
+tached to a town that sits atop a
+movable gantry. I he rangefinder
+points the lasei towards the object
+and the distance i* recorded as de
+scribed above. It continues this
+process from one position while
+slowly making a nodding motion.
+
+The rangefinder also sweeps up to
+90 degrees from left to right to
+record overlapping scans. I lie scan
+ner can move forwards and back
+wards four feet 011 the arm and the
+arm can move up and down eight
+feet on the tower. Aftei the statue is
+completely scanned from one posi
+tion, the gantry is rolled to a differ
+ent position around the statue, and
+
+the process begins again. A re
+searcher programs this motion into
+the rangefinder, and then the
+rangefinder moves In itself.
+A common problem with the
+rangefinder is that the target does
+not alwavs reflect .ill the light from
+
+the laser stripe. In some cases, some
+of the light penetrates the surface of
+(lie target and so the brightest spot
+is actually behind the surface of the
+object. This process is called scatter
+ing. Specifically, marble tends to
+scatter some light. Also, parts of the
+marble are too dark to reflect the
+laser light. To account for these
+problems, all the distances recorded
+
+fora specific spot on the David are
+averaged together to get the dis
+tance that will be reflected in the
+computer model.
+Another problem is that the
+rangefinder moves automatically
+and can therefore hit the statue it
+
+not well-attended. Sometimes
+the rangefinder has to be
+positioned very close to the
+statue to record every nook
+and-crannv in the statue. To
+make sure the rangefinder
+does not hit the statue,
+someone watches its move
+ments at all times with
+his her linger on the red
+"Kmergency Stop" button.
+I he rangefinder also has
+padding attached to it to
+make sure that if the statue
+is hit, no damage will be
+clone.
+No statue has ever been
+daaged, and to the best of
+I.even's knowledge, the
+
+rangefinder lias never come into
+contact with a statue.
+Adding color
+A digital camera is used to deter
+mine the color of the object. The
+digital camera is attached to the
+
+
+Courtesy of The Digital Michelangelo Project
+Computer Science Prof. Marc Levoy's Digital Michelangelo Project produced a computer rendering of Michelangelo's unfin
+ishea statue of St. Matthew (detail of cheek above) in its first attempt to catalog the famous artist's sculptures as 3-D digital
+images. The project members use a laser scanner (right) mounted on a moveable armature to scan the various statues.
+
+
+same structure as the rangefinder.
+The scans are shot on the same
+setup of t|ie gantry, but the scans
+are taken separately from the dis
+tance measurements. While the
+laser measurements are taken
+with a moving rangefinder, the
+digital camera scans are taken
+when the rangefinder is still.
+Two scans of every spot are
+taken —112 one with ambient lighting
+and one with a spotlight and am
+bient lighting. Researchers then
+take the difference between the
+colors jof the two scans to deter
+mine (he color of the spot with
+only aispotlight. The effect of the
+spotlight can then be subtracted
+out to get the true color of the
+spot. I
+Artificial lighting can be placed
+on tl»e final computer model to see
+what) the statues would look like
+undfr different lighting condi
+tions.
+Creating a 3-D model
+In order to create a three-di
+mensional model, the distance
+measurements fora certain sec
+tion of the statue are placed into
+th/b correct position with relation
+to the whole statue. Later, opera
+tors try to overlap the scans with
+neighboring scans. The data set is
+then fed into the computer, where
+the computer tries to fully fit the
+icans together.
+Every point on the statue has
+three coordinates, and the shape
+connecting any three points in
+space is a triangle. When the
+pieces are fully placed together,
+the model resembles a lot ol trian
+gles fit together, also known as a
+
+triangular mesh.
+The last step is to place color on
+the model by melding the color
+data set with the rangefinder data
+set.
+Converting the distance mea
+surements to a 3-1) model is a long
+and labor-intensive process. The
+group has spent 4,000 man-hours
+on this part of the project and is
+still working on it. Currently, the
+group has achieved a 2 mm reso
+lution model of the David, but its
+goal is to achieve a.25 mm resolu
+tion model. This would be the
+same resolution as the laser mea
+surements.
+Issues
+One of the problems with such
+an exact rendering of statues is
+that few people have the resources
+to view it. fhe computer model of
+the David has 2 billion polygons,
+and 7,000 images. It occupies 32
+CB on a computer's hard drive.
+Oraduate student Matt Cint
+zon, who has worked extensively
+on the project, does not see this as
+a major problem, for two reasons.
+First of all, the Michelangelo pro
+ject has a deal with the Italian mu
+seums to restrict the models strict
+ly to "scientific researchers."
+Therefore, most people using tlie
+models would have state of the art
+computers. Secondly, through a
+process called decimation, the
+model can be simplified. Decima
+tion involves converting the vast
+number of small triangles in the
+model into a larger number of big
+ger triangles.
+Another possible problem that
+could arise is the issue of piracy.
+To ensure the integrity of the dig
+ital models, there has been talk of
+producing a three-dimensional
+digital watermark to make sure
+the models aren't copied.
+
+Levoy said lie wanted to "dis
+tribute as widely as possible," as
+long as the models did not become
+commercial.
+Future projects
+Using this scanning method,
+members of the project have
+scanned 10 statues, two building
+interiors and 1,163 map frag
+ments. The project's first scan was
+Michelangelo's "St. Matthew."
+One of the projects currently in
+the works, the Forma Urbis
+Romae, is along different lines
+than the others. The Forma Urbis
+Romae is a giant marble map of
+ancient Rome which, when it was
+complete, measured 60 feet
+across, 45 feet high, and was
+carved onto marble slabs several
+inch thick before it was shattered.
+Many historians have tried to
+piece together the map fragments
+to no avail. By scanning the frag
+ments and letting the computer
+assemble the puzzle pieces, the
+team hopes to succeed where oth
+ers have failed.
+Levoy sees many places in
+which the procedures could have
+been improved, including having
+a better scanner and a better cali
+bration system, but he also said
+that another similar project was
+not in the works. He said his gen
+eral research principle was to
+"prototype the project, relate
+lessons that we learned, and then
+leave it for someone else."
+Levoy mentioned some future
+projects that could yield interest
+ing results: creating digital li
+braries and archives, making a
+computer database that lasts 500
+years, distributing images, cata
+loging images and searching tor
+images. He also mentioned the
+possibility of a shape or image
+guided web.
+FROZEN BABY BOOM
+Prof. Djerassi predicts the
+future of contraception as
+technology improves.
+pg. B3
+
+Ever wondered what kind ol
+chisel marks are present on
+Michelangelo's "David"? Well, art
+historians have. And flying back and
+forth to Florence can get expensive.
+
+In six months to a year, the
+method of obtaining this
+type of data will c hange for
+ever. Thanks to Computer
+Science Prof. Marc Levoy's
+Michelangelo Project, 3-D
+models of "David" and other
+statues by Michelangelo will
+soon be available to re
+searchers all over the world.
+Description of project
+During Levoy's sabbatical
+year from 1998 to 1999, he
+led a team of faculty, gradu
+ate students and undergrad
+uate students to Italy to
+
+begin the project. There, they
+scanned many statues, including
+"David" and began the process of
+converting them into 3-1) computet
+models. At its peak, the team con
+sisted of 30 faculty, stall and stu
+dents at Stanford and the Universi
+ty of Washington.
+Gaining sole access to the muse
+ums was not an easy task. Levoy
+
+spent two years negotiating with the
+museums before going <>n the trip.
+The unique perspective the team
+gained by having access to the statue
+was invaluable. The team made
+some illuminating discoveries as a
+result of their perspe ive. The pro
+ject corrected the history books by
+
+noting that the "David" is actually
+almost 3 feet taller than previously
+thought (17 feet rather than 14 feet
+3 inches).
+Procedure
+l he process of converting the
+statues into models includes scan
+ning the statue wit ha rangefinder to
+
+determine the shape, taking many
+digital photos to determine the
+color and combining the gathered
+data to create the final !5D model.
+Scanning with the rangefinder
+The rangefinder consists of a
+
+laser and a digital video camera.
+The rangefinder shoots a laser
+stripe at the target to be scanned
+and the light is reflected by the tar
+get. The video camera views the
+contour of the stripe. This contour
+is then converted to a set of 3-1)
+points that reflect the shape of the
+target.
+The rangefinder is affixed to a
+
+pan-tilt head on an arm, which is at
+tached to a town that sits atop a
+movable gantry. I he rangefinder
+points the lasei towards the object
+and the distance i* recorded as de
+scribed above. It continues this
+process from one position while
+slowly making a nodding motion.
+
+The rangefinder also sweeps up to
+90 degrees from left to right to
+record overlapping scans. I lie scan
+ner can move forwards and back
+wards four feet 011 the arm and the
+arm can move up and down eight
+feet on the tower. Aftei the statue is
+completely scanned from one posi
+tion, the gantry is rolled to a differ
+ent position around the statue, and
+
+the process begins again. A re
+searcher programs this motion into
+the rangefinder, and then the
+rangefinder moves In itself.
+A common problem with the
+rangefinder is that the target does
+not alwavs reflect .ill the light from
+
+the laser stripe. In some cases, some
+of the light penetrates the surface of
+(lie target and so the brightest spot
+is actually behind the surface of the
+object. This process is called scatter
+ing. Specifically, marble tends to
+scatter some light. Also, parts of the
+marble are too dark to reflect the
+laser light. To account for these
+problems, all the distances recorded
+
+fora specific spot on the David are
+averaged together to get the dis
+tance that will be reflected in the
+computer model.
+Another problem is that the
+rangefinder moves automatically
+and can therefore hit the statue it
+
+not well-attended. Sometimes
+the rangefinder has to be
+positioned very close to the
+statue to record every nook
+and-crannv in the statue. To
+make sure the rangefinder
+does not hit the statue,
+someone watches its move
+ments at all times with
+his her linger on the red
+"Kmergency Stop" button.
+I he rangefinder also has
+padding attached to it to
+make sure that if the statue
+is hit, no damage will be
+clone.
+No statue has ever been
+daaged, and to the best of
+I.even's knowledge, the
+
+rangefinder lias never come into
+contact with a statue.
+Adding color
+A digital camera is used to deter
+mine the color of the object. The
+digital camera is attached to the
+
+
+Courtesy of The Digital Michelangelo Project
+Computer Science Prof. Marc Levoy's Digital Michelangelo Project produced a computer rendering of Michelangelo's unfin
+ishea statue of St. Matthew (detail of cheek above) in its first attempt to catalog the famous artist's sculptures as 3-D digital
+images. The project members use a laser scanner (right) mounted on a moveable armature to scan the various statues.
+
+
+same structure as the rangefinder.
+The scans are shot on the same
+setup of t|ie gantry, but the scans
+are taken separately from the dis
+tance measurements. While the
+laser measurements are taken
+with a moving rangefinder, the
+digital camera scans are taken
+when the rangefinder is still.
+Two scans of every spot are
+taken —112 one with ambient lighting
+and one with a spotlight and am
+bient lighting. Researchers then
+take the difference between the
+colors jof the two scans to deter
+mine (he color of the spot with
+only aispotlight. The effect of the
+spotlight can then be subtracted
+out to get the true color of the
+spot. I
+Artificial lighting can be placed
+on tl»e final computer model to see
+what) the statues would look like
+undfr different lighting condi
+tions.
+Creating a 3-D model
+In order to create a three-di
+mensional model, the distance
+measurements fora certain sec
+tion of the statue are placed into
+th/b correct position with relation
+to the whole statue. Later, opera
+tors try to overlap the scans with
+neighboring scans. The data set is
+then fed into the computer, where
+the computer tries to fully fit the
+icans together.
+Every point on the statue has
+three coordinates, and the shape
+connecting any three points in
+space is a triangle. When the
+pieces are fully placed together,
+the model resembles a lot ol trian
+gles fit together, also known as a
+
+triangular mesh.
+The last step is to place color on
+the model by melding the color
+data set with the rangefinder data
+set.
+Converting the distance mea
+surements to a 3-1) model is a long
+and labor-intensive process. The
+group has spent 4,000 man-hours
+on this part of the project and is
+still working on it. Currently, the
+group has achieved a 2 mm reso
+lution model of the David, but its
+goal is to achieve a.25 mm resolu
+tion model. This would be the
+same resolution as the laser mea
+surements.
+Issues
+One of the problems with such
+an exact rendering of statues is
+that few people have the resources
+to view it. fhe computer model of
+the David has 2 billion polygons,
+and 7,000 images. It occupies 32
+CB on a computer's hard drive.
+Oraduate student Matt Cint
+zon, who has worked extensively
+on the project, does not see this as
+a major problem, for two reasons.
+First of all, the Michelangelo pro
+ject has a deal with the Italian mu
+seums to restrict the models strict
+ly to "scientific researchers."
+Therefore, most people using tlie
+models would have state of the art
+computers. Secondly, through a
+process called decimation, the
+model can be simplified. Decima
+tion involves converting the vast
+number of small triangles in the
+model into a larger number of big
+ger triangles.
+Another possible problem that
+could arise is the issue of piracy.
+To ensure the integrity of the dig
+ital models, there has been talk of
+producing a three-dimensional
+digital watermark to make sure
+the models aren't copied.
+
+Levoy said lie wanted to "dis
+tribute as widely as possible," as
+long as the models did not become
+commercial.
+Future projects
+Using this scanning method,
+members of the project have
+scanned 10 statues, two building
+interiors and 1,163 map frag
+ments. The project's first scan was
+Michelangelo's "St. Matthew."
+One of the projects currently in
+the works, the Forma Urbis
+Romae, is along different lines
+than the others. The Forma Urbis
+Romae is a giant marble map of
+ancient Rome which, when it was
+complete, measured 60 feet
+across, 45 feet high, and was
+carved onto marble slabs several
+inch thick before it was shattered.
+Many historians have tried to
+piece together the map fragments
+to no avail. By scanning the frag
+ments and letting the computer
+assemble the puzzle pieces, the
+team hopes to succeed where oth
+ers have failed.
+Levoy sees many places in
+which the procedures could have
+been improved, including having
+a better scanner and a better cali
+bration system, but he also said
+that another similar project was
+not in the works. He said his gen
+eral research principle was to
+"prototype the project, relate
+lessons that we learned, and then
+leave it for someone else."
+Levoy mentioned some future
+projects that could yield interest
+ing results: creating digital li
+braries and archives, making a
+computer database that lasts 500
+years, distributing images, cata
+loging images and searching tor
+images. He also mentioned the
+possibility of a shape or image
+guided web.
+FROZEN BABY BOOM
+Prof. Djerassi predicts the
+future of contraception as
+technology improves.
+pg. B3
+
+Ever wondered what kind ol
+chisel marks are present on
+Michelangelo's "David"? Well, art
+historians have. And flying back and
+forth to Florence can get expensive.
+
+In six months to a year, the
+method of obtaining this
+type of data will c hange for
+ever. Thanks to Computer
+Science Prof. Marc Levoy's
+Michelangelo Project, 3-D
+models of "David" and other
+statues by Michelangelo will
+soon be available to re
+searchers all over the world.
+Description of project
+During Levoy's sabbatical
+year from 1998 to 1999, he
+led a team of faculty, gradu
+ate students and undergrad
+uate students to Italy to
+
+begin the project. There, they
+scanned many statues, including
+"David" and began the process of
+converting them into 3-1) computet
+models. At its peak, the team con
+sisted of 30 faculty, stall and stu
+dents at Stanford and the Universi
+ty of Washington.
+Gaining sole access to the muse
+ums was not an easy task. Levoy
+
+spent two years negotiating with the
+museums before going <>n the trip.
+The unique perspective the team
+gained by having access to the statue
+was invaluable. The team made
+some illuminating discoveries as a
+result of their perspe ive. The pro
+ject corrected the history books by
+
+noting that the "David" is actually
+almost 3 feet taller than previously
+thought (17 feet rather than 14 feet
+3 inches).
+Procedure
+l he process of converting the
+statues into models includes scan
+ning the statue wit ha rangefinder to
+
+determine the shape, taking many
+digital photos to determine the
+color and combining the gathered
+data to create the final !5D model.
+Scanning with the rangefinder
+The rangefinder consists of a
+
+laser and a digital video camera.
+The rangefinder shoots a laser
+stripe at the target to be scanned
+and the light is reflected by the tar
+get. The video camera views the
+contour of the stripe. This contour
+is then converted to a set of 3-1)
+points that reflect the shape of the
+target.
+The rangefinder is affixed to a
+
+pan-tilt head on an arm, which is at
+tached to a town that sits atop a
+movable gantry. I he rangefinder
+points the lasei towards the object
+and the distance i* recorded as de
+scribed above. It continues this
+process from one position while
+slowly making a nodding motion.
+
+The rangefinder also sweeps up to
+90 degrees from left to right to
+record overlapping scans. I lie scan
+ner can move forwards and back
+wards four feet 011 the arm and the
+arm can move up and down eight
+feet on the tower. Aftei the statue is
+completely scanned from one posi
+tion, the gantry is rolled to a differ
+ent position around the statue, and
+
+the process begins again. A re
+searcher programs this motion into
+the rangefinder, and then the
+rangefinder moves In itself.
+A common problem with the
+rangefinder is that the target does
+not alwavs reflect .ill the light from
+
+the laser stripe. In some cases, some
+of the light penetrates the surface of
+(lie target and so the brightest spot
+is actually behind the surface of the
+object. This process is called scatter
+ing. Specifically, marble tends to
+scatter some light. Also, parts of the
+marble are too dark to reflect the
+laser light. To account for these
+problems, all the distances recorded
+
+fora specific spot on the David are
+averaged together to get the dis
+tance that will be reflected in the
+computer model.
+Another problem is that the
+rangefinder moves automatically
+and can therefore hit the statue it
+
+not well-attended. Sometimes
+the rangefinder has to be
+positioned very close to the
+statue to record every nook
+and-crannv in the statue. To
+make sure the rangefinder
+does not hit the statue,
+someone watches its move
+ments at all times with
+his her linger on the red
+"Kmergency Stop" button.
+I he rangefinder also has
+padding attached to it to
+make sure that if the statue
+is hit, no damage will be
+clone.
+No statue has ever been
+daaged, and to the best of
+I.even's knowledge, the
+
+rangefinder lias never come into
+contact with a statue.
+Adding color
+A digital camera is used to deter
+mine the color of the object. The
+digital camera is attached to the
+
+
+Courtesy of The Digital Michelangelo Project
+Computer Science Prof. Marc Levoy's Digital Michelangelo Project produced a computer rendering of Michelangelo's unfin
+ishea statue of St. Matthew (detail of cheek above) in its first attempt to catalog the famous artist's sculptures as 3-D digital
+images. The project members use a laser scanner (right) mounted on a moveable armature to scan the various statues.
+
+
+same structure as the rangefinder.
+The scans are shot on the same
+setup of t|ie gantry, but the scans
+are taken separately from the dis
+tance measurements. While the
+laser measurements are taken
+with a moving rangefinder, the
+digital camera scans are taken
+when the rangefinder is still.
+Two scans of every spot are
+taken —112 one with ambient lighting
+and one with a spotlight and am
+bient lighting. Researchers then
+take the difference between the
+colors jof the two scans to deter
+mine (he color of the spot with
+only aispotlight. The effect of the
+spotlight can then be subtracted
+out to get the true color of the
+spot. I
+Artificial lighting can be placed
+on tl»e final computer model to see
+what) the statues would look like
+undfr different lighting condi
+tions.
+Creating a 3-D model
+In order to create a three-di
+mensional model, the distance
+measurements fora certain sec
+tion of the statue are placed into
+th/b correct position with relation
+to the whole statue. Later, opera
+tors try to overlap the scans with
+neighboring scans. The data set is
+then fed into the computer, where
+the computer tries to fully fit the
+icans together.
+Every point on the statue has
+three coordinates, and the shape
+connecting any three points in
+space is a triangle. When the
+pieces are fully placed together,
+the model resembles a lot ol trian
+gles fit together, also known as a
+
+triangular mesh.
+The last step is to place color on
+the model by melding the color
+data set with the rangefinder data
+set.
+Converting the distance mea
+surements to a 3-1) model is a long
+and labor-intensive process. The
+group has spent 4,000 man-hours
+on this part of the project and is
+still working on it. Currently, the
+group has achieved a 2 mm reso
+lution model of the David, but its
+goal is to achieve a.25 mm resolu
+tion model. This would be the
+same resolution as the laser mea
+surements.
+Issues
+One of the problems with such
+an exact rendering of statues is
+that few people have the resources
+to view it. fhe computer model of
+the David has 2 billion polygons,
+and 7,000 images. It occupies 32
+CB on a computer's hard drive.
+Oraduate student Matt Cint
+zon, who has worked extensively
+on the project, does not see this as
+a major problem, for two reasons.
+First of all, the Michelangelo pro
+ject has a deal with the Italian mu
+seums to restrict the models strict
+ly to "scientific researchers."
+Therefore, most people using tlie
+models would have state of the art
+computers. Secondly, through a
+process called decimation, the
+model can be simplified. Decima
+tion involves converting the vast
+number of small triangles in the
+model into a larger number of big
+ger triangles.
+Another possible problem that
+could arise is the issue of piracy.
+To ensure the integrity of the dig
+ital models, there has been talk of
+producing a three-dimensional
+digital watermark to make sure
+the models aren't copied.
+
+Levoy said lie wanted to "dis
+tribute as widely as possible," as
+long as the models did not become
+commercial.
+Future projects
+Using this scanning method,
+members of the project have
+scanned 10 statues, two building
+interiors and 1,163 map frag
+ments. The project's first scan was
+Michelangelo's "St. Matthew."
+One of the projects currently in
+the works, the Forma Urbis
+Romae, is along different lines
+than the others. The Forma Urbis
+Romae is a giant marble map of
+ancient Rome which, when it was
+complete, measured 60 feet
+across, 45 feet high, and was
+carved onto marble slabs several
+inch thick before it was shattered.
+Many historians have tried to
+piece together the map fragments
+to no avail. By scanning the frag
+ments and letting the computer
+assemble the puzzle pieces, the
+team hopes to succeed where oth
+ers have failed.
+Levoy sees many places in
+which the procedures could have
+been improved, including having
+a better scanner and a better cali
+bration system, but he also said
+that another similar project was
+not in the works. He said his gen
+eral research principle was to
+"prototype the project, relate
+lessons that we learned, and then
+leave it for someone else."
+Levoy mentioned some future
+projects that could yield interest
+ing results: creating digital li
+braries and archives, making a
+computer database that lasts 500
+years, distributing images, cata
+loging images and searching tor
+images. He also mentioned the
+possibility of a shape or image
+guided web.
+FROZEN BABY BOOM
+Prof. Djerassi predicts the
+future of contraception as
+technology improves.
+pg. B3
+
+Ever wondered what kind ol
+chisel marks are present on
+Michelangelo's "David"? Well, art
+historians have. And flying back and
+forth to Florence can get expensive.
+
+In six months to a year, the
+method of obtaining this
+type of data will c hange for
+ever. Thanks to Computer
+Science Prof. Marc Levoy's
+Michelangelo Project, 3-D
+models of "David" and other
+statues by Michelangelo will
+soon be available to re
+searchers all over the world.
+Description of project
+During Levoy's sabbatical
+year from 1998 to 1999, he
+led a team of faculty, gradu
+ate students and undergrad
+uate students to Italy to
+
+begin the project. There, they
+scanned many statues, including
+"David" and began the process of
+converting them into 3-1) computet
+models. At its peak, the team con
+sisted of 30 faculty, stall and stu
+dents at Stanford and the Universi
+ty of Washington.
+Gaining sole access to the muse
+ums was not an easy task. Levoy
+
+spent two years negotiating with the
+museums before going <>n the trip.
+The unique perspective the team
+gained by having access to the statue
+was invaluable. The team made
+some illuminating discoveries as a
+result of their perspe ive. The pro
+ject corrected the history books by
+
+noting that the "David" is actually
+almost 3 feet taller than previously
+thought (17 feet rather than 14 feet
+3 inches).
+Procedure
+l he process of converting the
+statues into models includes scan
+ning the statue wit ha rangefinder to
+
+determine the shape, taking many
+digital photos to determine the
+color and combining the gathered
+data to create the final !5D model.
+Scanning with the rangefinder
+The rangefinder consists of a
+
+laser and a digital video camera.
+The rangefinder shoots a laser
+stripe at the target to be scanned
+and the light is reflected by the tar
+get. The video camera views the
+contour of the stripe. This contour
+is then converted to a set of 3-1)
+points that reflect the shape of the
+target.
+The rangefinder is affixed to a
+
+pan-tilt head on an arm, which is at
+tached to a town that sits atop a
+movable gantry. I he rangefinder
+points the lasei towards the object
+and the distance i* recorded as de
+scribed above. It continues this
+process from one position while
+slowly making a nodding motion.
+
+The rangefinder also sweeps up to
+90 degrees from left to right to
+record overlapping scans. I lie scan
+ner can move forwards and back
+wards four feet 011 the arm and the
+arm can move up and down eight
+feet on the tower. Aftei the statue is
+completely scanned from one posi
+tion, the gantry is rolled to a differ
+ent position around the statue, and
+
+the process begins again. A re
+searcher programs this motion into
+the rangefinder, and then the
+rangefinder moves In itself.
+A common problem with the
+rangefinder is that the target does
+not alwavs reflect .ill the light from
+
+the laser stripe. In some cases, some
+of the light penetrates the surface of
+(lie target and so the brightest spot
+is actually behind the surface of the
+object. This process is called scatter
+ing. Specifically, marble tends to
+scatter some light. Also, parts of the
+marble are too dark to reflect the
+laser light. To account for these
+problems, all the distances recorded
+
+fora specific spot on the David are
+averaged together to get the dis
+tance that will be reflected in the
+computer model.
+Another problem is that the
+rangefinder moves automatically
+and can therefore hit the statue it
+
+not well-attended. Sometimes
+the rangefinder has to be
+positioned very close to the
+statue to record every nook
+and-crannv in the statue. To
+make sure the rangefinder
+does not hit the statue,
+someone watches its move
+ments at all times with
+his her linger on the red
+"Kmergency Stop" button.
+I he rangefinder also has
+padding attached to it to
+make sure that if the statue
+is hit, no damage will be
+clone.
+No statue has ever been
+daaged, and to the best of
+I.even's knowledge, the
+
+rangefinder lias never come into
+contact with a statue.
+Adding color
+A digital camera is used to deter
+mine the color of the object. The
+digital camera is attached to the
+
+
+Courtesy of The Digital Michelangelo Project
+Computer Science Prof. Marc Levoy's Digital Michelangelo Project produced a computer rendering of Michelangelo's unfin
+ishea statue of St. Matthew (detail of cheek above) in its first attempt to catalog the famous artist's sculptures as 3-D digital
+images. The project members use a laser scanner (right) mounted on a moveable armature to scan the various statues.
+
+
+same structure as the rangefinder.
+The scans are shot on the same
+setup of t|ie gantry, but the scans
+are taken separately from the dis
+tance measurements. While the
+laser measurements are taken
+with a moving rangefinder, the
+digital camera scans are taken
+when the rangefinder is still.
+Two scans of every spot are
+taken —112 one with ambient lighting
+and one with a spotlight and am
+bient lighting. Researchers then
+take the difference between the
+colors jof the two scans to deter
+mine (he color of the spot with
+only aispotlight. The effect of the
+spotlight can then be subtracted
+out to get the true color of the
+spot. I
+Artificial lighting can be placed
+on tl»e final computer model to see
+what) the statues would look like
+undfr different lighting condi
+tions.
+Creating a 3-D model
+In order to create a three-di
+mensional model, the distance
+measurements fora certain sec
+tion of the statue are placed into
+th/b correct position with relation
+to the whole statue. Later, opera
+tors try to overlap the scans with
+neighboring scans. The data set is
+then fed into the computer, where
+the computer tries to fully fit the
+icans together.
+Every point on the statue has
+three coordinates, and the shape
+connecting any three points in
+space is a triangle. When the
+pieces are fully placed together,
+the model resembles a lot ol trian
+gles fit together, also known as a
+
+triangular mesh.
+The last step is to place color on
+the model by melding the color
+data set with the rangefinder data
+set.
+Converting the distance mea
+surements to a 3-1) model is a long
+and labor-intensive process. The
+group has spent 4,000 man-hours
+on this part of the project and is
+still working on it. Currently, the
+group has achieved a 2 mm reso
+lution model of the David, but its
+goal is to achieve a.25 mm resolu
+tion model. This would be the
+same resolution as the laser mea
+surements.
+Issues
+One of the problems with such
+an exact rendering of statues is
+that few people have the resources
+to view it. fhe computer model of
+the David has 2 billion polygons,
+and 7,000 images. It occupies 32
+CB on a computer's hard drive.
+Oraduate student Matt Cint
+zon, who has worked extensively
+on the project, does not see this as
+a major problem, for two reasons.
+First of all, the Michelangelo pro
+ject has a deal with the Italian mu
+seums to restrict the models strict
+ly to "scientific researchers."
+Therefore, most people using tlie
+models would have state of the art
+computers. Secondly, through a
+process called decimation, the
+model can be simplified. Decima
+tion involves converting the vast
+number of small triangles in the
+model into a larger number of big
+ger triangles.
+Another possible problem that
+could arise is the issue of piracy.
+To ensure the integrity of the dig
+ital models, there has been talk of
+producing a three-dimensional
+digital watermark to make sure
+the models aren't copied.
+
+Levoy said lie wanted to "dis
+tribute as widely as possible," as
+long as the models did not become
+commercial.
+Future projects
+Using this scanning method,
+members of the project have
+scanned 10 statues, two building
+interiors and 1,163 map frag
+ments. The project's first scan was
+Michelangelo's "St. Matthew."
+One of the projects currently in
+the works, the Forma Urbis
+Romae, is along different lines
+than the others. The Forma Urbis
+Romae is a giant marble map of
+ancient Rome which, when it was
+complete, measured 60 feet
+across, 45 feet high, and was
+carved onto marble slabs several
+inch thick before it was shattered.
+Many historians have tried to
+piece together the map fragments
+to no avail. By scanning the frag
+ments and letting the computer
+assemble the puzzle pieces, the
+team hopes to succeed where oth
+ers have failed.
+Levoy sees many places in
+which the procedures could have
+been improved, including having
+a better scanner and a better cali
+bration system, but he also said
+that another similar project was
+not in the works. He said his gen
+eral research principle was to
+"prototype the project, relate
+lessons that we learned, and then
+leave it for someone else."
+Levoy mentioned some future
+projects that could yield interest
+ing results: creating digital li
+braries and archives, making a
+computer database that lasts 500
+years, distributing images, cata
+loging images and searching tor
+images. He also mentioned the
+possibility of a shape or image
+guided web.

@@ -1,0 +1,1083 @@
+# First output of Chinese characters by computer
+## Computer scientist wins praise for design 
+### Phil Fernandez 
+A new technique for gener
+ating Chinese characters by
+computer has been developed by
+a visiting scientist from the
+Peoples Republic of China
+working at the Computer Sci
+ence Department here.
+The work was done by Tung
+Yun-Mei, who based his studies
+on work done by Prof. Donald
+Knuth of the Computer Science
+Department. Tung's program is
+the first to allow a computer to
+output high quality Chinese
+
+characters.
+Earlier this year, Knuth an
+nounced his "Metafont" pro
+gram, a new method of typeface
+and page layout design that has
+been described as a printing in
+novation equal to that of Guten
+berg's movable type. Knuth and
+Tung use similar principles of
+character design.
+Two difficult problems were
+solved by Tung. The Chinese use
+brushes rather than pens for
+writing, making different types
+of lines. Also, there are 50.000 to
+60.000 Chinese characters, with
+6000 to 8000 in daily use. English
+uses only 26.
+Tung wanted his characters
+to be more than just readable.
+Chinese writing is an art form,
+and Tung wanted his work to be
+visually pleasing. Chinese char
+acters have a two-dimensional
+structure and can be divided
+into many subcharacters.
+"Whether or not a character
+looks nice depends not only on
+the niceness of basic strokes;
+the structure skeleton is much
+more important," Tung said.
+The program's goal was to cap
+ture the traditional beauty of
+Chinese calligraphy.
+Indications are that Tung has
+succeeded. Although he says he
+isn't a "qualified person, the
+sample (produced by the com
+puter) does appear to look bet
+ter than any of (my) hand
+writing, so there is good reason
+to expect that a more qualified
+person will be able to achieve
+truly excellent results."
+Knuth described Tung as a
+modest and "mild mannered"
+gentleman, and said he is im
+pressed by the computer scien
+tist's work. Knuth said it is "re
+markable that so much could be
+accomplished by one person."
+According to Knuth, the most
+important aspect of Tung's pro
+
+gram is its adaptability By
+varying commands to the com
+puter, different styles of the
+same character can be created.
+Knuth said the new system is
+"like a musical score instead of
+a recording of a performance."
+New and different variations
+can be applied to the basic
+"score."
+Tung. 44. is an associate sci
+entist at the Institute for Com
+puting Technology of the Chi
+nese Academy of Sciences. He
+came to Stanford two years ago
+as a member of an initial group
+of six Chinese scholars to work
+at the Computer Science De
+partment.
+Tung left Stanford to return to
+China in November and hopes to
+continue work on his program
+there He had not seen his wife
+and two children — who did not
+accompany him — since coming
+to Stanford.
+It is "not clear how fast (the
+Chinese) will use the system,"
+Knuth said. China does not have
+and use computers "for all but a
+small part of what we use them
+for," he said
+The first application of
+Tung's system will probably be
+the development of a library of
+characters for printing news
+papers and books, according to
+Knuth. The system will also
+progress further at Stanford be
+cause a man from Shanghai will
+soon be visiting the Computer
+Science Department to work
+with the hardware — the actual
+machinery which prints the
+characters.
+Knuth has called Tung's work
+"a big success for the project
+and the (Chinese) culture."
+
+
+Chinese computer graphics
+A new technique for gener
+ating Chinese characters by
+computer has been developed by
+a visiting scientist from the
+Peoples Republic of China
+working at the Computer Sci
+ence Department here.
+The work was done by Tung
+Yun-Mei, who based his studies
+on work done by Prof. Donald
+Knuth of the Computer Science
+Department. Tung's program is
+the first to allow a computer to
+output high quality Chinese
+
+characters.
+Earlier this year, Knuth an
+nounced his "Metafont" pro
+gram, a new method of typeface
+and page layout design that has
+been described as a printing in
+novation equal to that of Guten
+berg's movable type. Knuth and
+Tung use similar principles of
+character design.
+Two difficult problems were
+solved by Tung. The Chinese use
+brushes rather than pens for
+writing, making different types
+of lines. Also, there are 50.000 to
+60.000 Chinese characters, with
+6000 to 8000 in daily use. English
+uses only 26.
+Tung wanted his characters
+to be more than just readable.
+Chinese writing is an art form,
+and Tung wanted his work to be
+visually pleasing. Chinese char
+acters have a two-dimensional
+structure and can be divided
+into many subcharacters.
+"Whether or not a character
+looks nice depends not only on
+the niceness of basic strokes;
+the structure skeleton is much
+more important," Tung said.
+The program's goal was to cap
+ture the traditional beauty of
+Chinese calligraphy.
+Indications are that Tung has
+succeeded. Although he says he
+isn't a "qualified person, the
+sample (produced by the com
+puter) does appear to look bet
+ter than any of (my) hand
+writing, so there is good reason
+to expect that a more qualified
+person will be able to achieve
+truly excellent results."
+Knuth described Tung as a
+modest and "mild mannered"
+gentleman, and said he is im
+pressed by the computer scien
+tist's work. Knuth said it is "re
+markable that so much could be
+accomplished by one person."
+According to Knuth, the most
+important aspect of Tung's pro
+
+gram is its adaptability By
+varying commands to the com
+puter, different styles of the
+same character can be created.
+Knuth said the new system is
+"like a musical score instead of
+a recording of a performance."
+New and different variations
+can be applied to the basic
+"score."
+Tung. 44. is an associate sci
+entist at the Institute for Com
+puting Technology of the Chi
+nese Academy of Sciences. He
+came to Stanford two years ago
+as a member of an initial group
+of six Chinese scholars to work
+at the Computer Science De
+partment.
+Tung left Stanford to return to
+China in November and hopes to
+continue work on his program
+there He had not seen his wife
+and two children — who did not
+accompany him — since coming
+to Stanford.
+It is "not clear how fast (the
+Chinese) will use the system,"
+Knuth said. China does not have
+and use computers "for all but a
+small part of what we use them
+for," he said
+The first application of
+Tung's system will probably be
+the development of a library of
+characters for printing news
+papers and books, according to
+Knuth. The system will also
+progress further at Stanford be
+cause a man from Shanghai will
+soon be visiting the Computer
+Science Department to work
+with the hardware — the actual
+machinery which prints the
+characters.
+Knuth has called Tung's work
+"a big success for the project
+and the (Chinese) culture."
+
+
+Chinese computer graphics
+A new technique for gener
+ating Chinese characters by
+computer has been developed by
+a visiting scientist from the
+Peoples Republic of China
+working at the Computer Sci
+ence Department here.
+The work was done by Tung
+Yun-Mei, who based his studies
+on work done by Prof. Donald
+Knuth of the Computer Science
+Department. Tung's program is
+the first to allow a computer to
+output high quality Chinese
+
+characters.
+Earlier this year, Knuth an
+nounced his "Metafont" pro
+gram, a new method of typeface
+and page layout design that has
+been described as a printing in
+novation equal to that of Guten
+berg's movable type. Knuth and
+Tung use similar principles of
+character design.
+Two difficult problems were
+solved by Tung. The Chinese use
+brushes rather than pens for
+writing, making different types
+of lines. Also, there are 50.000 to
+60.000 Chinese characters, with
+6000 to 8000 in daily use. English
+uses only 26.
+Tung wanted his characters
+to be more than just readable.
+Chinese writing is an art form,
+and Tung wanted his work to be
+visually pleasing. Chinese char
+acters have a two-dimensional
+structure and can be divided
+into many subcharacters.
+"Whether or not a character
+looks nice depends not only on
+the niceness of basic strokes;
+the structure skeleton is much
+more important," Tung said.
+The program's goal was to cap
+ture the traditional beauty of
+Chinese calligraphy.
+Indications are that Tung has
+succeeded. Although he says he
+isn't a "qualified person, the
+sample (produced by the com
+puter) does appear to look bet
+ter than any of (my) hand
+writing, so there is good reason
+to expect that a more qualified
+person will be able to achieve
+truly excellent results."
+Knuth described Tung as a
+modest and "mild mannered"
+gentleman, and said he is im
+pressed by the computer scien
+tist's work. Knuth said it is "re
+markable that so much could be
+accomplished by one person."
+According to Knuth, the most
+important aspect of Tung's pro
+
+gram is its adaptability By
+varying commands to the com
+puter, different styles of the
+same character can be created.
+Knuth said the new system is
+"like a musical score instead of
+a recording of a performance."
+New and different variations
+can be applied to the basic
+"score."
+Tung. 44. is an associate sci
+entist at the Institute for Com
+puting Technology of the Chi
+nese Academy of Sciences. He
+came to Stanford two years ago
+as a member of an initial group
+of six Chinese scholars to work
+at the Computer Science De
+partment.
+Tung left Stanford to return to
+China in November and hopes to
+continue work on his program
+there He had not seen his wife
+and two children — who did not
+accompany him — since coming
+to Stanford.
+It is "not clear how fast (the
+Chinese) will use the system,"
+Knuth said. China does not have
+and use computers "for all but a
+small part of what we use them
+for," he said
+The first application of
+Tung's system will probably be
+the development of a library of
+characters for printing news
+papers and books, according to
+Knuth. The system will also
+progress further at Stanford be
+cause a man from Shanghai will
+soon be visiting the Computer
+Science Department to work
+with the hardware — the actual
+machinery which prints the
+characters.
+Knuth has called Tung's work
+"a big success for the project
+and the (Chinese) culture."
+
+
+Chinese computer graphics
+A new technique for gener
+ating Chinese characters by
+computer has been developed by
+a visiting scientist from the
+Peoples Republic of China
+working at the Computer Sci
+ence Department here.
+The work was done by Tung
+Yun-Mei, who based his studies
+on work done by Prof. Donald
+Knuth of the Computer Science
+Department. Tung's program is
+the first to allow a computer to
+output high quality Chinese
+
+characters.
+Earlier this year, Knuth an
+nounced his "Metafont" pro
+gram, a new method of typeface
+and page layout design that has
+been described as a printing in
+novation equal to that of Guten
+berg's movable type. Knuth and
+Tung use similar principles of
+character design.
+Two difficult problems were
+solved by Tung. The Chinese use
+brushes rather than pens for
+writing, making different types
+of lines. Also, there are 50.000 to
+60.000 Chinese characters, with
+6000 to 8000 in daily use. English
+uses only 26.
+Tung wanted his characters
+to be more than just readable.
+Chinese writing is an art form,
+and Tung wanted his work to be
+visually pleasing. Chinese char
+acters have a two-dimensional
+structure and can be divided
+into many subcharacters.
+"Whether or not a character
+looks nice depends not only on
+the niceness of basic strokes;
+the structure skeleton is much
+more important," Tung said.
+The program's goal was to cap
+ture the traditional beauty of
+Chinese calligraphy.
+Indications are that Tung has
+succeeded. Although he says he
+isn't a "qualified person, the
+sample (produced by the com
+puter) does appear to look bet
+ter than any of (my) hand
+writing, so there is good reason
+to expect that a more qualified
+person will be able to achieve
+truly excellent results."
+Knuth described Tung as a
+modest and "mild mannered"
+gentleman, and said he is im
+pressed by the computer scien
+tist's work. Knuth said it is "re
+markable that so much could be
+accomplished by one person."
+According to Knuth, the most
+important aspect of Tung's pro
+
+gram is its adaptability By
+varying commands to the com
+puter, different styles of the
+same character can be created.
+Knuth said the new system is
+"like a musical score instead of
+a recording of a performance."
+New and different variations
+can be applied to the basic
+"score."
+Tung. 44. is an associate sci
+entist at the Institute for Com
+puting Technology of the Chi
+nese Academy of Sciences. He
+came to Stanford two years ago
+as a member of an initial group
+of six Chinese scholars to work
+at the Computer Science De
+partment.
+Tung left Stanford to return to
+China in November and hopes to
+continue work on his program
+there He had not seen his wife
+and two children — who did not
+accompany him — since coming
+to Stanford.
+It is "not clear how fast (the
+Chinese) will use the system,"
+Knuth said. China does not have
+and use computers "for all but a
+small part of what we use them
+for," he said
+The first application of
+Tung's system will probably be
+the development of a library of
+characters for printing news
+papers and books, according to
+Knuth. The system will also
+progress further at Stanford be
+cause a man from Shanghai will
+soon be visiting the Computer
+Science Department to work
+with the hardware — the actual
+machinery which prints the
+characters.
+Knuth has called Tung's work
+"a big success for the project
+and the (Chinese) culture."
+
+
+Chinese computer graphics
+A new technique for gener
+ating Chinese characters by
+computer has been developed by
+a visiting scientist from the
+Peoples Republic of China
+working at the Computer Sci
+ence Department here.
+The work was done by Tung
+Yun-Mei, who based his studies
+on work done by Prof. Donald
+Knuth of the Computer Science
+Department. Tung's program is
+the first to allow a computer to
+output high quality Chinese
+
+characters.
+Earlier this year, Knuth an
+nounced his "Metafont" pro
+gram, a new method of typeface
+and page layout design that has
+been described as a printing in
+novation equal to that of Guten
+berg's movable type. Knuth and
+Tung use similar principles of
+character design.
+Two difficult problems were
+solved by Tung. The Chinese use
+brushes rather than pens for
+writing, making different types
+of lines. Also, there are 50.000 to
+60.000 Chinese characters, with
+6000 to 8000 in daily use. English
+uses only 26.
+Tung wanted his characters
+to be more than just readable.
+Chinese writing is an art form,
+and Tung wanted his work to be
+visually pleasing. Chinese char
+acters have a two-dimensional
+structure and can be divided
+into many subcharacters.
+"Whether or not a character
+looks nice depends not only on
+the niceness of basic strokes;
+the structure skeleton is much
+more important," Tung said.
+The program's goal was to cap
+ture the traditional beauty of
+Chinese calligraphy.
+Indications are that Tung has
+succeeded. Although he says he
+isn't a "qualified person, the
+sample (produced by the com
+puter) does appear to look bet
+ter than any of (my) hand
+writing, so there is good reason
+to expect that a more qualified
+person will be able to achieve
+truly excellent results."
+Knuth described Tung as a
+modest and "mild mannered"
+gentleman, and said he is im
+pressed by the computer scien
+tist's work. Knuth said it is "re
+markable that so much could be
+accomplished by one person."
+According to Knuth, the most
+important aspect of Tung's pro
+
+gram is its adaptability By
+varying commands to the com
+puter, different styles of the
+same character can be created.
+Knuth said the new system is
+"like a musical score instead of
+a recording of a performance."
+New and different variations
+can be applied to the basic
+"score."
+Tung. 44. is an associate sci
+entist at the Institute for Com
+puting Technology of the Chi
+nese Academy of Sciences. He
+came to Stanford two years ago
+as a member of an initial group
+of six Chinese scholars to work
+at the Computer Science De
+partment.
+Tung left Stanford to return to
+China in November and hopes to
+continue work on his program
+there He had not seen his wife
+and two children — who did not
+accompany him — since coming
+to Stanford.
+It is "not clear how fast (the
+Chinese) will use the system,"
+Knuth said. China does not have
+and use computers "for all but a
+small part of what we use them
+for," he said
+The first application of
+Tung's system will probably be
+the development of a library of
+characters for printing news
+papers and books, according to
+Knuth. The system will also
+progress further at Stanford be
+cause a man from Shanghai will
+soon be visiting the Computer
+Science Department to work
+with the hardware — the actual
+machinery which prints the
+characters.
+Knuth has called Tung's work
+"a big success for the project
+and the (Chinese) culture."
+
+
+Chinese computer graphics
+A new technique for gener
+ating Chinese characters by
+computer has been developed by
+a visiting scientist from the
+Peoples Republic of China
+working at the Computer Sci
+ence Department here.
+The work was done by Tung
+Yun-Mei, who based his studies
+on work done by Prof. Donald
+Knuth of the Computer Science
+Department. Tung's program is
+the first to allow a computer to
+output high quality Chinese
+
+characters.
+Earlier this year, Knuth an
+nounced his "Metafont" pro
+gram, a new method of typeface
+and page layout design that has
+been described as a printing in
+novation equal to that of Guten
+berg's movable type. Knuth and
+Tung use similar principles of
+character design.
+Two difficult problems were
+solved by Tung. The Chinese use
+brushes rather than pens for
+writing, making different types
+of lines. Also, there are 50.000 to
+60.000 Chinese characters, with
+6000 to 8000 in daily use. English
+uses only 26.
+Tung wanted his characters
+to be more than just readable.
+Chinese writing is an art form,
+and Tung wanted his work to be
+visually pleasing. Chinese char
+acters have a two-dimensional
+structure and can be divided
+into many subcharacters.
+"Whether or not a character
+looks nice depends not only on
+the niceness of basic strokes;
+the structure skeleton is much
+more important," Tung said.
+The program's goal was to cap
+ture the traditional beauty of
+Chinese calligraphy.
+Indications are that Tung has
+succeeded. Although he says he
+isn't a "qualified person, the
+sample (produced by the com
+puter) does appear to look bet
+ter than any of (my) hand
+writing, so there is good reason
+to expect that a more qualified
+person will be able to achieve
+truly excellent results."
+Knuth described Tung as a
+modest and "mild mannered"
+gentleman, and said he is im
+pressed by the computer scien
+tist's work. Knuth said it is "re
+markable that so much could be
+accomplished by one person."
+According to Knuth, the most
+important aspect of Tung's pro
+
+gram is its adaptability By
+varying commands to the com
+puter, different styles of the
+same character can be created.
+Knuth said the new system is
+"like a musical score instead of
+a recording of a performance."
+New and different variations
+can be applied to the basic
+"score."
+Tung. 44. is an associate sci
+entist at the Institute for Com
+puting Technology of the Chi
+nese Academy of Sciences. He
+came to Stanford two years ago
+as a member of an initial group
+of six Chinese scholars to work
+at the Computer Science De
+partment.
+Tung left Stanford to return to
+China in November and hopes to
+continue work on his program
+there He had not seen his wife
+and two children — who did not
+accompany him — since coming
+to Stanford.
+It is "not clear how fast (the
+Chinese) will use the system,"
+Knuth said. China does not have
+and use computers "for all but a
+small part of what we use them
+for," he said
+The first application of
+Tung's system will probably be
+the development of a library of
+characters for printing news
+papers and books, according to
+Knuth. The system will also
+progress further at Stanford be
+cause a man from Shanghai will
+soon be visiting the Computer
+Science Department to work
+with the hardware — the actual
+machinery which prints the
+characters.
+Knuth has called Tung's work
+"a big success for the project
+and the (Chinese) culture."
+
+
+Chinese computer graphics
+A new technique for gener
+ating Chinese characters by
+computer has been developed by
+a visiting scientist from the
+Peoples Republic of China
+working at the Computer Sci
+ence Department here.
+The work was done by Tung
+Yun-Mei, who based his studies
+on work done by Prof. Donald
+Knuth of the Computer Science
+Department. Tung's program is
+the first to allow a computer to
+output high quality Chinese
+
+characters.
+Earlier this year, Knuth an
+nounced his "Metafont" pro
+gram, a new method of typeface
+and page layout design that has
+been described as a printing in
+novation equal to that of Guten
+berg's movable type. Knuth and
+Tung use similar principles of
+character design.
+Two difficult problems were
+solved by Tung. The Chinese use
+brushes rather than pens for
+writing, making different types
+of lines. Also, there are 50.000 to
+60.000 Chinese characters, with
+6000 to 8000 in daily use. English
+uses only 26.
+Tung wanted his characters
+to be more than just readable.
+Chinese writing is an art form,
+and Tung wanted his work to be
+visually pleasing. Chinese char
+acters have a two-dimensional
+structure and can be divided
+into many subcharacters.
+"Whether or not a character
+looks nice depends not only on
+the niceness of basic strokes;
+the structure skeleton is much
+more important," Tung said.
+The program's goal was to cap
+ture the traditional beauty of
+Chinese calligraphy.
+Indications are that Tung has
+succeeded. Although he says he
+isn't a "qualified person, the
+sample (produced by the com
+puter) does appear to look bet
+ter than any of (my) hand
+writing, so there is good reason
+to expect that a more qualified
+person will be able to achieve
+truly excellent results."
+Knuth described Tung as a
+modest and "mild mannered"
+gentleman, and said he is im
+pressed by the computer scien
+tist's work. Knuth said it is "re
+markable that so much could be
+accomplished by one person."
+According to Knuth, the most
+important aspect of Tung's pro
+
+gram is its adaptability By
+varying commands to the com
+puter, different styles of the
+same character can be created.
+Knuth said the new system is
+"like a musical score instead of
+a recording of a performance."
+New and different variations
+can be applied to the basic
+"score."
+Tung. 44. is an associate sci
+entist at the Institute for Com
+puting Technology of the Chi
+nese Academy of Sciences. He
+came to Stanford two years ago
+as a member of an initial group
+of six Chinese scholars to work
+at the Computer Science De
+partment.
+Tung left Stanford to return to
+China in November and hopes to
+continue work on his program
+there He had not seen his wife
+and two children — who did not
+accompany him — since coming
+to Stanford.
+It is "not clear how fast (the
+Chinese) will use the system,"
+Knuth said. China does not have
+and use computers "for all but a
+small part of what we use them
+for," he said
+The first application of
+Tung's system will probably be
+the development of a library of
+characters for printing news
+papers and books, according to
+Knuth. The system will also
+progress further at Stanford be
+cause a man from Shanghai will
+soon be visiting the Computer
+Science Department to work
+with the hardware — the actual
+machinery which prints the
+characters.
+Knuth has called Tung's work
+"a big success for the project
+and the (Chinese) culture."
+
+
+Chinese computer graphics
+A new technique for gener
+ating Chinese characters by
+computer has been developed by
+a visiting scientist from the
+Peoples Republic of China
+working at the Computer Sci
+ence Department here.
+The work was done by Tung
+Yun-Mei, who based his studies
+on work done by Prof. Donald
+Knuth of the Computer Science
+Department. Tung's program is
+the first to allow a computer to
+output high quality Chinese
+
+characters.
+Earlier this year, Knuth an
+nounced his "Metafont" pro
+gram, a new method of typeface
+and page layout design that has
+been described as a printing in
+novation equal to that of Guten
+berg's movable type. Knuth and
+Tung use similar principles of
+character design.
+Two difficult problems were
+solved by Tung. The Chinese use
+brushes rather than pens for
+writing, making different types
+of lines. Also, there are 50.000 to
+60.000 Chinese characters, with
+6000 to 8000 in daily use. English
+uses only 26.
+Tung wanted his characters
+to be more than just readable.
+Chinese writing is an art form,
+and Tung wanted his work to be
+visually pleasing. Chinese char
+acters have a two-dimensional
+structure and can be divided
+into many subcharacters.
+"Whether or not a character
+looks nice depends not only on
+the niceness of basic strokes;
+the structure skeleton is much
+more important," Tung said.
+The program's goal was to cap
+ture the traditional beauty of
+Chinese calligraphy.
+Indications are that Tung has
+succeeded. Although he says he
+isn't a "qualified person, the
+sample (produced by the com
+puter) does appear to look bet
+ter than any of (my) hand
+writing, so there is good reason
+to expect that a more qualified
+person will be able to achieve
+truly excellent results."
+Knuth described Tung as a
+modest and "mild mannered"
+gentleman, and said he is im
+pressed by the computer scien
+tist's work. Knuth said it is "re
+markable that so much could be
+accomplished by one person."
+According to Knuth, the most
+important aspect of Tung's pro
+
+gram is its adaptability By
+varying commands to the com
+puter, different styles of the
+same character can be created.
+Knuth said the new system is
+"like a musical score instead of
+a recording of a performance."
+New and different variations
+can be applied to the basic
+"score."
+Tung. 44. is an associate sci
+entist at the Institute for Com
+puting Technology of the Chi
+nese Academy of Sciences. He
+came to Stanford two years ago
+as a member of an initial group
+of six Chinese scholars to work
+at the Computer Science De
+partment.
+Tung left Stanford to return to
+China in November and hopes to
+continue work on his program
+there He had not seen his wife
+and two children — who did not
+accompany him — since coming
+to Stanford.
+It is "not clear how fast (the
+Chinese) will use the system,"
+Knuth said. China does not have
+and use computers "for all but a
+small part of what we use them
+for," he said
+The first application of
+Tung's system will probably be
+the development of a library of
+characters for printing news
+papers and books, according to
+Knuth. The system will also
+progress further at Stanford be
+cause a man from Shanghai will
+soon be visiting the Computer
+Science Department to work
+with the hardware — the actual
+machinery which prints the
+characters.
+Knuth has called Tung's work
+"a big success for the project
+and the (Chinese) culture."
+
+
+Chinese computer graphics
+A new technique for gener
+ating Chinese characters by
+computer has been developed by
+a visiting scientist from the
+Peoples Republic of China
+working at the Computer Sci
+ence Department here.
+The work was done by Tung
+Yun-Mei, who based his studies
+on work done by Prof. Donald
+Knuth of the Computer Science
+Department. Tung's program is
+the first to allow a computer to
+output high quality Chinese
+
+characters.
+Earlier this year, Knuth an
+nounced his "Metafont" pro
+gram, a new method of typeface
+and page layout design that has
+been described as a printing in
+novation equal to that of Guten
+berg's movable type. Knuth and
+Tung use similar principles of
+character design.
+Two difficult problems were
+solved by Tung. The Chinese use
+brushes rather than pens for
+writing, making different types
+of lines. Also, there are 50.000 to
+60.000 Chinese characters, with
+6000 to 8000 in daily use. English
+uses only 26.
+Tung wanted his characters
+to be more than just readable.
+Chinese writing is an art form,
+and Tung wanted his work to be
+visually pleasing. Chinese char
+acters have a two-dimensional
+structure and can be divided
+into many subcharacters.
+"Whether or not a character
+looks nice depends not only on
+the niceness of basic strokes;
+the structure skeleton is much
+more important," Tung said.
+The program's goal was to cap
+ture the traditional beauty of
+Chinese calligraphy.
+Indications are that Tung has
+succeeded. Although he says he
+isn't a "qualified person, the
+sample (produced by the com
+puter) does appear to look bet
+ter than any of (my) hand
+writing, so there is good reason
+to expect that a more qualified
+person will be able to achieve
+truly excellent results."
+Knuth described Tung as a
+modest and "mild mannered"
+gentleman, and said he is im
+pressed by the computer scien
+tist's work. Knuth said it is "re
+markable that so much could be
+accomplished by one person."
+According to Knuth, the most
+important aspect of Tung's pro
+
+gram is its adaptability By
+varying commands to the com
+puter, different styles of the
+same character can be created.
+Knuth said the new system is
+"like a musical score instead of
+a recording of a performance."
+New and different variations
+can be applied to the basic
+"score."
+Tung. 44. is an associate sci
+entist at the Institute for Com
+puting Technology of the Chi
+nese Academy of Sciences. He
+came to Stanford two years ago
+as a member of an initial group
+of six Chinese scholars to work
+at the Computer Science De
+partment.
+Tung left Stanford to return to
+China in November and hopes to
+continue work on his program
+there He had not seen his wife
+and two children — who did not
+accompany him — since coming
+to Stanford.
+It is "not clear how fast (the
+Chinese) will use the system,"
+Knuth said. China does not have
+and use computers "for all but a
+small part of what we use them
+for," he said
+The first application of
+Tung's system will probably be
+the development of a library of
+characters for printing news
+papers and books, according to
+Knuth. The system will also
+progress further at Stanford be
+cause a man from Shanghai will
+soon be visiting the Computer
+Science Department to work
+with the hardware — the actual
+machinery which prints the
+characters.
+Knuth has called Tung's work
+"a big success for the project
+and the (Chinese) culture."
+
+
+Chinese computer graphics

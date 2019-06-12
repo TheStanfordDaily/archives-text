@@ -1,0 +1,778 @@
+# University takes thorough measures against Y2K bug
+## 
+### Neela Dasgupta Contributing writer 
+Many people expect explosions,
+computer crashes, delays and black
+outs as the calendar hits the ominous
+day of Jan. 1, 2(XX). At Stanford,
+though, students will be able to con
+tinue to check their e-mail and regis
+ter for classes on schedule, according
+to Stanford officials.
+Most facilities on campus are at
+the final stage of testing local critical
+systems, according to the Stanford
+edition of Y2K News, an electronic
+newsletter about campus-specific
+Y2K readiness efforts and methods
+that major industries are using to
+deal with the bug.
+"We're rolling ahead and right on
+schedule," said Jerry Weitz, Director
+of Information Systems Architec
+ture. "We should be prepared for the
+new millennium well before it ar
+rives."
+As a result, administrators expect
+no delays in beginning winter quarter
+next year. Undergraduate residences
+will open as scheduled on Sunday,
+Jan. 2, and classes will begin on Tues
+day, Jan. 4, said outgoing Provost
+Condoleezza Rice in a June letter to
+students, faculty and staff.
+While the last critical systems
+should be ready by the end of Sep
+tember, % percent of all central busi
+ness systems, including SNAP (pay
+roll), NSI (student information sys
+tem) and CHRIS (human re
+sources), have already been evaluat
+ed, fixed and tested for Y2K related
+issues, according to the newsletter.
+Checking central systems for Y2K
+bugs was relatively easy at Stanford
+compared to other universities be
+cause the systems were built with
+SPIRES, a database designed to sup
+port four-digit entries, Weitz said.
+Developed at the Stanford Linear
+Accelerator Center and brought to
+the University in the 19705, SPIRES
+stores these digits internally and thus
+
+allows full expression of dates.
+Many programs, however, did
+have problems that needed correc
+tion.
+"In our student systems, we used
+particular terminology to describe
+the year and quarter; for instance,
+quarter 1, year 96. If someone want
+ed to search for all years greater than
+1999,2(XX) would not appear because
+it would be stored as (X)," Weitz said.
+Extensive efforts have been made
+to rectify such problems. After Infor
+mation Technology Systems and Ser
+vices assessed and fixed problems in
+the SUNet system (the centrally
+managed portion of Stanford's net
+work), ITSS developed a completely
+independent version of SUNet just
+for Y2K testing.
+The Year 2000 Team, a joint ef
+fort of the Internal Audit depart
+ment and the ITSS Division, also cor
+rected problems with embedded
+chips throughout campus.
+"Embedded chips are systems
+like computers without the monitor
+and keyboard — they're in things
+like cars and elevators," Y2K Project
+Manager Karl Heinz said.
+Such chips, which have date func
+tions, are parts of medical equipment
+in Stanford Hospital, including life
+support systems, automatic dosage
+suppliers and heart pacemakers.
+"We went through medical litera
+ture and catalogues to research the
+products and found a few pieces of
+failure, but those pieces mostly failed
+in their recording function, not in
+their major operation," Weitz said.
+Although testing has been quite
+comprehensive, the team is prepar
+ing further by formulating contin
+gency plans for all of the separate
+schools and administrative units.
+However team leaders feel that these
+plans probably will not be used be
+cause systems have been tested so
+many times.
+"You really have to put on a hat of
+artificiality to say this could happen,"
+Heinz said.
+The contingency plans address
+potential problems like loss of power
+and loss of voice communication.
+There is a slim chance of these hap
+
+pening, Weitz said.
+The Y2K team has been keeping
+up to date on how the National
+American Energy Council solved
+their Y2K bug problems, and even in
+the case of a blackout, the campus
+generates its own electricity.
+Similarly, the team has main
+tained contact with telephone com
+panies to make sure phone lines will
+not be down during the rollover.
+
+ITSS has also monitored the
+progress of banks, dining services and
+financial institutions that support the
+University.
+If something still goes wrong, con
+tingency plans describe places where
+researchers can continue their work
+and provide alternative methods of
+communication. Regardless, the
+plans can also be useful for other
+emergencies, like earthquakes,
+
+Heinz said.
+While the team has been able to
+control on-campus activities, the
+world outside poses a new set of
+problems. Although regular classes
+will begin as scheduled, the overseas
+programs will have delays — the start
+dates of the winter quarter for stu
+dents living abroad have been post
+poned so that no one will need to fly
+before Jan. 3.
+
+In addition, the administration
+will be more understanding of stu
+dents who encounter flight delays on
+their return from winter break.
+"We will take extraordinary steps
+to hold people unaccountable if they
+can't travel on time." Heinz said.
+Such measures include delaying
+late fees for tuition payments and al
+lowing proxies for student dorm as
+signments.
+Many people expect explosions,
+computer crashes, delays and black
+outs as the calendar hits the ominous
+day of Jan. 1, 2(XX). At Stanford,
+though, students will be able to con
+tinue to check their e-mail and regis
+ter for classes on schedule, according
+to Stanford officials.
+Most facilities on campus are at
+the final stage of testing local critical
+systems, according to the Stanford
+edition of Y2K News, an electronic
+newsletter about campus-specific
+Y2K readiness efforts and methods
+that major industries are using to
+deal with the bug.
+"We're rolling ahead and right on
+schedule," said Jerry Weitz, Director
+of Information Systems Architec
+ture. "We should be prepared for the
+new millennium well before it ar
+rives."
+As a result, administrators expect
+no delays in beginning winter quarter
+next year. Undergraduate residences
+will open as scheduled on Sunday,
+Jan. 2, and classes will begin on Tues
+day, Jan. 4, said outgoing Provost
+Condoleezza Rice in a June letter to
+students, faculty and staff.
+While the last critical systems
+should be ready by the end of Sep
+tember, % percent of all central busi
+ness systems, including SNAP (pay
+roll), NSI (student information sys
+tem) and CHRIS (human re
+sources), have already been evaluat
+ed, fixed and tested for Y2K related
+issues, according to the newsletter.
+Checking central systems for Y2K
+bugs was relatively easy at Stanford
+compared to other universities be
+cause the systems were built with
+SPIRES, a database designed to sup
+port four-digit entries, Weitz said.
+Developed at the Stanford Linear
+Accelerator Center and brought to
+the University in the 19705, SPIRES
+stores these digits internally and thus
+
+allows full expression of dates.
+Many programs, however, did
+have problems that needed correc
+tion.
+"In our student systems, we used
+particular terminology to describe
+the year and quarter; for instance,
+quarter 1, year 96. If someone want
+ed to search for all years greater than
+1999,2(XX) would not appear because
+it would be stored as (X)," Weitz said.
+Extensive efforts have been made
+to rectify such problems. After Infor
+mation Technology Systems and Ser
+vices assessed and fixed problems in
+the SUNet system (the centrally
+managed portion of Stanford's net
+work), ITSS developed a completely
+independent version of SUNet just
+for Y2K testing.
+The Year 2000 Team, a joint ef
+fort of the Internal Audit depart
+ment and the ITSS Division, also cor
+rected problems with embedded
+chips throughout campus.
+"Embedded chips are systems
+like computers without the monitor
+and keyboard — they're in things
+like cars and elevators," Y2K Project
+Manager Karl Heinz said.
+Such chips, which have date func
+tions, are parts of medical equipment
+in Stanford Hospital, including life
+support systems, automatic dosage
+suppliers and heart pacemakers.
+"We went through medical litera
+ture and catalogues to research the
+products and found a few pieces of
+failure, but those pieces mostly failed
+in their recording function, not in
+their major operation," Weitz said.
+Although testing has been quite
+comprehensive, the team is prepar
+ing further by formulating contin
+gency plans for all of the separate
+schools and administrative units.
+However team leaders feel that these
+plans probably will not be used be
+cause systems have been tested so
+many times.
+"You really have to put on a hat of
+artificiality to say this could happen,"
+Heinz said.
+The contingency plans address
+potential problems like loss of power
+and loss of voice communication.
+There is a slim chance of these hap
+
+pening, Weitz said.
+The Y2K team has been keeping
+up to date on how the National
+American Energy Council solved
+their Y2K bug problems, and even in
+the case of a blackout, the campus
+generates its own electricity.
+Similarly, the team has main
+tained contact with telephone com
+panies to make sure phone lines will
+not be down during the rollover.
+
+ITSS has also monitored the
+progress of banks, dining services and
+financial institutions that support the
+University.
+If something still goes wrong, con
+tingency plans describe places where
+researchers can continue their work
+and provide alternative methods of
+communication. Regardless, the
+plans can also be useful for other
+emergencies, like earthquakes,
+
+Heinz said.
+While the team has been able to
+control on-campus activities, the
+world outside poses a new set of
+problems. Although regular classes
+will begin as scheduled, the overseas
+programs will have delays — the start
+dates of the winter quarter for stu
+dents living abroad have been post
+poned so that no one will need to fly
+before Jan. 3.
+
+In addition, the administration
+will be more understanding of stu
+dents who encounter flight delays on
+their return from winter break.
+"We will take extraordinary steps
+to hold people unaccountable if they
+can't travel on time." Heinz said.
+Such measures include delaying
+late fees for tuition payments and al
+lowing proxies for student dorm as
+signments.
+Many people expect explosions,
+computer crashes, delays and black
+outs as the calendar hits the ominous
+day of Jan. 1, 2(XX). At Stanford,
+though, students will be able to con
+tinue to check their e-mail and regis
+ter for classes on schedule, according
+to Stanford officials.
+Most facilities on campus are at
+the final stage of testing local critical
+systems, according to the Stanford
+edition of Y2K News, an electronic
+newsletter about campus-specific
+Y2K readiness efforts and methods
+that major industries are using to
+deal with the bug.
+"We're rolling ahead and right on
+schedule," said Jerry Weitz, Director
+of Information Systems Architec
+ture. "We should be prepared for the
+new millennium well before it ar
+rives."
+As a result, administrators expect
+no delays in beginning winter quarter
+next year. Undergraduate residences
+will open as scheduled on Sunday,
+Jan. 2, and classes will begin on Tues
+day, Jan. 4, said outgoing Provost
+Condoleezza Rice in a June letter to
+students, faculty and staff.
+While the last critical systems
+should be ready by the end of Sep
+tember, % percent of all central busi
+ness systems, including SNAP (pay
+roll), NSI (student information sys
+tem) and CHRIS (human re
+sources), have already been evaluat
+ed, fixed and tested for Y2K related
+issues, according to the newsletter.
+Checking central systems for Y2K
+bugs was relatively easy at Stanford
+compared to other universities be
+cause the systems were built with
+SPIRES, a database designed to sup
+port four-digit entries, Weitz said.
+Developed at the Stanford Linear
+Accelerator Center and brought to
+the University in the 19705, SPIRES
+stores these digits internally and thus
+
+allows full expression of dates.
+Many programs, however, did
+have problems that needed correc
+tion.
+"In our student systems, we used
+particular terminology to describe
+the year and quarter; for instance,
+quarter 1, year 96. If someone want
+ed to search for all years greater than
+1999,2(XX) would not appear because
+it would be stored as (X)," Weitz said.
+Extensive efforts have been made
+to rectify such problems. After Infor
+mation Technology Systems and Ser
+vices assessed and fixed problems in
+the SUNet system (the centrally
+managed portion of Stanford's net
+work), ITSS developed a completely
+independent version of SUNet just
+for Y2K testing.
+The Year 2000 Team, a joint ef
+fort of the Internal Audit depart
+ment and the ITSS Division, also cor
+rected problems with embedded
+chips throughout campus.
+"Embedded chips are systems
+like computers without the monitor
+and keyboard — they're in things
+like cars and elevators," Y2K Project
+Manager Karl Heinz said.
+Such chips, which have date func
+tions, are parts of medical equipment
+in Stanford Hospital, including life
+support systems, automatic dosage
+suppliers and heart pacemakers.
+"We went through medical litera
+ture and catalogues to research the
+products and found a few pieces of
+failure, but those pieces mostly failed
+in their recording function, not in
+their major operation," Weitz said.
+Although testing has been quite
+comprehensive, the team is prepar
+ing further by formulating contin
+gency plans for all of the separate
+schools and administrative units.
+However team leaders feel that these
+plans probably will not be used be
+cause systems have been tested so
+many times.
+"You really have to put on a hat of
+artificiality to say this could happen,"
+Heinz said.
+The contingency plans address
+potential problems like loss of power
+and loss of voice communication.
+There is a slim chance of these hap
+
+pening, Weitz said.
+The Y2K team has been keeping
+up to date on how the National
+American Energy Council solved
+their Y2K bug problems, and even in
+the case of a blackout, the campus
+generates its own electricity.
+Similarly, the team has main
+tained contact with telephone com
+panies to make sure phone lines will
+not be down during the rollover.
+
+ITSS has also monitored the
+progress of banks, dining services and
+financial institutions that support the
+University.
+If something still goes wrong, con
+tingency plans describe places where
+researchers can continue their work
+and provide alternative methods of
+communication. Regardless, the
+plans can also be useful for other
+emergencies, like earthquakes,
+
+Heinz said.
+While the team has been able to
+control on-campus activities, the
+world outside poses a new set of
+problems. Although regular classes
+will begin as scheduled, the overseas
+programs will have delays — the start
+dates of the winter quarter for stu
+dents living abroad have been post
+poned so that no one will need to fly
+before Jan. 3.
+
+In addition, the administration
+will be more understanding of stu
+dents who encounter flight delays on
+their return from winter break.
+"We will take extraordinary steps
+to hold people unaccountable if they
+can't travel on time." Heinz said.
+Such measures include delaying
+late fees for tuition payments and al
+lowing proxies for student dorm as
+signments.
+Many people expect explosions,
+computer crashes, delays and black
+outs as the calendar hits the ominous
+day of Jan. 1, 2(XX). At Stanford,
+though, students will be able to con
+tinue to check their e-mail and regis
+ter for classes on schedule, according
+to Stanford officials.
+Most facilities on campus are at
+the final stage of testing local critical
+systems, according to the Stanford
+edition of Y2K News, an electronic
+newsletter about campus-specific
+Y2K readiness efforts and methods
+that major industries are using to
+deal with the bug.
+"We're rolling ahead and right on
+schedule," said Jerry Weitz, Director
+of Information Systems Architec
+ture. "We should be prepared for the
+new millennium well before it ar
+rives."
+As a result, administrators expect
+no delays in beginning winter quarter
+next year. Undergraduate residences
+will open as scheduled on Sunday,
+Jan. 2, and classes will begin on Tues
+day, Jan. 4, said outgoing Provost
+Condoleezza Rice in a June letter to
+students, faculty and staff.
+While the last critical systems
+should be ready by the end of Sep
+tember, % percent of all central busi
+ness systems, including SNAP (pay
+roll), NSI (student information sys
+tem) and CHRIS (human re
+sources), have already been evaluat
+ed, fixed and tested for Y2K related
+issues, according to the newsletter.
+Checking central systems for Y2K
+bugs was relatively easy at Stanford
+compared to other universities be
+cause the systems were built with
+SPIRES, a database designed to sup
+port four-digit entries, Weitz said.
+Developed at the Stanford Linear
+Accelerator Center and brought to
+the University in the 19705, SPIRES
+stores these digits internally and thus
+
+allows full expression of dates.
+Many programs, however, did
+have problems that needed correc
+tion.
+"In our student systems, we used
+particular terminology to describe
+the year and quarter; for instance,
+quarter 1, year 96. If someone want
+ed to search for all years greater than
+1999,2(XX) would not appear because
+it would be stored as (X)," Weitz said.
+Extensive efforts have been made
+to rectify such problems. After Infor
+mation Technology Systems and Ser
+vices assessed and fixed problems in
+the SUNet system (the centrally
+managed portion of Stanford's net
+work), ITSS developed a completely
+independent version of SUNet just
+for Y2K testing.
+The Year 2000 Team, a joint ef
+fort of the Internal Audit depart
+ment and the ITSS Division, also cor
+rected problems with embedded
+chips throughout campus.
+"Embedded chips are systems
+like computers without the monitor
+and keyboard — they're in things
+like cars and elevators," Y2K Project
+Manager Karl Heinz said.
+Such chips, which have date func
+tions, are parts of medical equipment
+in Stanford Hospital, including life
+support systems, automatic dosage
+suppliers and heart pacemakers.
+"We went through medical litera
+ture and catalogues to research the
+products and found a few pieces of
+failure, but those pieces mostly failed
+in their recording function, not in
+their major operation," Weitz said.
+Although testing has been quite
+comprehensive, the team is prepar
+ing further by formulating contin
+gency plans for all of the separate
+schools and administrative units.
+However team leaders feel that these
+plans probably will not be used be
+cause systems have been tested so
+many times.
+"You really have to put on a hat of
+artificiality to say this could happen,"
+Heinz said.
+The contingency plans address
+potential problems like loss of power
+and loss of voice communication.
+There is a slim chance of these hap
+
+pening, Weitz said.
+The Y2K team has been keeping
+up to date on how the National
+American Energy Council solved
+their Y2K bug problems, and even in
+the case of a blackout, the campus
+generates its own electricity.
+Similarly, the team has main
+tained contact with telephone com
+panies to make sure phone lines will
+not be down during the rollover.
+
+ITSS has also monitored the
+progress of banks, dining services and
+financial institutions that support the
+University.
+If something still goes wrong, con
+tingency plans describe places where
+researchers can continue their work
+and provide alternative methods of
+communication. Regardless, the
+plans can also be useful for other
+emergencies, like earthquakes,
+
+Heinz said.
+While the team has been able to
+control on-campus activities, the
+world outside poses a new set of
+problems. Although regular classes
+will begin as scheduled, the overseas
+programs will have delays — the start
+dates of the winter quarter for stu
+dents living abroad have been post
+poned so that no one will need to fly
+before Jan. 3.
+
+In addition, the administration
+will be more understanding of stu
+dents who encounter flight delays on
+their return from winter break.
+"We will take extraordinary steps
+to hold people unaccountable if they
+can't travel on time." Heinz said.
+Such measures include delaying
+late fees for tuition payments and al
+lowing proxies for student dorm as
+signments.
+Many people expect explosions,
+computer crashes, delays and black
+outs as the calendar hits the ominous
+day of Jan. 1, 2(XX). At Stanford,
+though, students will be able to con
+tinue to check their e-mail and regis
+ter for classes on schedule, according
+to Stanford officials.
+Most facilities on campus are at
+the final stage of testing local critical
+systems, according to the Stanford
+edition of Y2K News, an electronic
+newsletter about campus-specific
+Y2K readiness efforts and methods
+that major industries are using to
+deal with the bug.
+"We're rolling ahead and right on
+schedule," said Jerry Weitz, Director
+of Information Systems Architec
+ture. "We should be prepared for the
+new millennium well before it ar
+rives."
+As a result, administrators expect
+no delays in beginning winter quarter
+next year. Undergraduate residences
+will open as scheduled on Sunday,
+Jan. 2, and classes will begin on Tues
+day, Jan. 4, said outgoing Provost
+Condoleezza Rice in a June letter to
+students, faculty and staff.
+While the last critical systems
+should be ready by the end of Sep
+tember, % percent of all central busi
+ness systems, including SNAP (pay
+roll), NSI (student information sys
+tem) and CHRIS (human re
+sources), have already been evaluat
+ed, fixed and tested for Y2K related
+issues, according to the newsletter.
+Checking central systems for Y2K
+bugs was relatively easy at Stanford
+compared to other universities be
+cause the systems were built with
+SPIRES, a database designed to sup
+port four-digit entries, Weitz said.
+Developed at the Stanford Linear
+Accelerator Center and brought to
+the University in the 19705, SPIRES
+stores these digits internally and thus
+
+allows full expression of dates.
+Many programs, however, did
+have problems that needed correc
+tion.
+"In our student systems, we used
+particular terminology to describe
+the year and quarter; for instance,
+quarter 1, year 96. If someone want
+ed to search for all years greater than
+1999,2(XX) would not appear because
+it would be stored as (X)," Weitz said.
+Extensive efforts have been made
+to rectify such problems. After Infor
+mation Technology Systems and Ser
+vices assessed and fixed problems in
+the SUNet system (the centrally
+managed portion of Stanford's net
+work), ITSS developed a completely
+independent version of SUNet just
+for Y2K testing.
+The Year 2000 Team, a joint ef
+fort of the Internal Audit depart
+ment and the ITSS Division, also cor
+rected problems with embedded
+chips throughout campus.
+"Embedded chips are systems
+like computers without the monitor
+and keyboard — they're in things
+like cars and elevators," Y2K Project
+Manager Karl Heinz said.
+Such chips, which have date func
+tions, are parts of medical equipment
+in Stanford Hospital, including life
+support systems, automatic dosage
+suppliers and heart pacemakers.
+"We went through medical litera
+ture and catalogues to research the
+products and found a few pieces of
+failure, but those pieces mostly failed
+in their recording function, not in
+their major operation," Weitz said.
+Although testing has been quite
+comprehensive, the team is prepar
+ing further by formulating contin
+gency plans for all of the separate
+schools and administrative units.
+However team leaders feel that these
+plans probably will not be used be
+cause systems have been tested so
+many times.
+"You really have to put on a hat of
+artificiality to say this could happen,"
+Heinz said.
+The contingency plans address
+potential problems like loss of power
+and loss of voice communication.
+There is a slim chance of these hap
+
+pening, Weitz said.
+The Y2K team has been keeping
+up to date on how the National
+American Energy Council solved
+their Y2K bug problems, and even in
+the case of a blackout, the campus
+generates its own electricity.
+Similarly, the team has main
+tained contact with telephone com
+panies to make sure phone lines will
+not be down during the rollover.
+
+ITSS has also monitored the
+progress of banks, dining services and
+financial institutions that support the
+University.
+If something still goes wrong, con
+tingency plans describe places where
+researchers can continue their work
+and provide alternative methods of
+communication. Regardless, the
+plans can also be useful for other
+emergencies, like earthquakes,
+
+Heinz said.
+While the team has been able to
+control on-campus activities, the
+world outside poses a new set of
+problems. Although regular classes
+will begin as scheduled, the overseas
+programs will have delays — the start
+dates of the winter quarter for stu
+dents living abroad have been post
+poned so that no one will need to fly
+before Jan. 3.
+
+In addition, the administration
+will be more understanding of stu
+dents who encounter flight delays on
+their return from winter break.
+"We will take extraordinary steps
+to hold people unaccountable if they
+can't travel on time." Heinz said.
+Such measures include delaying
+late fees for tuition payments and al
+lowing proxies for student dorm as
+signments.

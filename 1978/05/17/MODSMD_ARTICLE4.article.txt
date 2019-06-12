@@ -1,0 +1,1103 @@
+# New sound wave
+## Computer new instrument for musicians 
+### Yvonne Randle 
+A sound which seems to circle the room, a low
+pitched, reverberating tone, which fades into a
+chorus of voices, bells . . . music? Have beings from
+outer space sent us a message through musical
+sounds?
+Hardly. But some of the music that is produced at
+Stanford's Center for Computer Research in Music
+and Acoustics (CCRMA) does sound very much like
+something from a "Close Encounter of the Third
+Kind."
+The idea of using a computer to produce music is
+revolutionary. Computer music is a relatively new
+field, having its origins only 19 years ago.
+One of its originators, Max Matthews, working at
+Bell Laboratories, showed that one could combine
+the fine art of music with the technology of a compu
+ter. For this, he is sometimes called the grandfather of
+the process.
+The computer music program was brought to Stan
+ford about 10 years ago, but it wasn't until 1975 that
+CCRMA was established through funds from the Na
+tional Science Foundation and the National Endow
+ment for the Arts.
+Using a computer, it is possible both to record
+natural sounds and to produce sounds which have
+never been heard before.
+This is possible because, with a computer, the
+composer works not in individual notes, but in mil
+liseconds of sound. Numbers are used to represent
+sound in the form of sound waves. These can then be
+converted into voltage which goes to an amplifier to
+produce a tone.
+Because there are 25,000 numbers occurring each
+second to produce a tone, a change in the sequence
+of numbers will produce quite a different tone from
+the original. As Mike McNabb, a graduate student in
+music put it,"The main limitation is imagination."
+
+McNabb has spent approximately a year compos
+ing a work for the computer. The basic element of his
+composition is the recorded vioce of a soprano. He
+explained that the voice was stored in the computer
+as wave forms, which were later changed into a
+chorus effect.
+As one listens to the piece, the voice seems to
+move around the room in a somewhat circular fash
+ion. It has been altered to a point where it is almost
+unrecognizable as a human voice. Later in the com
+position, bells are added which blend in with the
+soprano's voice.
+The keyboard operator/musician can punch in a
+series of numbers which can produce the sound of
+any number of orchestral instruments, plus sounds
+which are not possible on any conventional music
+maker.
+As McNabb explained, there is a code for each
+instrument as well as a code for the tones which it is
+capable of playing. Once a tone has been produced,
+the musician can alter the original tone to produce a
+sound which he wants.
+This is done through analyzing and altering the set
+of sound waves which can be displayed on the termi
+nal screen. These represent, in milliseconds, the tone
+which is produced.
+It is possible, through the use of the computer, not
+only to alter a tone by changing its wave amplitude at
+a fraction of a millisecond, but also to edit out distor
+tion within a recording.
+McNabb is working on editing out certain "clicks"
+from his composition. As the wave pattern is dis
+played on the terminal screen, the clicks appear as
+irregular changes in the normal pattern. These are
+edited out by selecting two points on either side of
+the click's pattern which have about the same
+amplitude and connecting them with a relatively
+
+straight line, taking out the irregular pattern.
+The potential use for such a process seems very
+great. In addition to the new and different sounds
+which a computer can produce, it could allow musi
+cians a way of eliminating distortion within their re
+cordings to a degree not known in the past.
+Prof. )ohn Chowning and others at CCRMA are
+working on a plan to build the first all-digital record
+ing studio in which everything would be stored,
+mixed and then played on a master disc, all using a
+computer. McNabb said that he estimates the cost of
+such a project to be about half a million dollars.
+Another hope of most computer musicians is that
+the computer will become a "real" instrument.
+McNabb said he thought it would never replace con
+ventional instruments. Rather, as Robert Harvey,
+another graduate student put it,"It can be used to
+supplement the resources available to the musician."
+McNabb said that present synthesizers, like those
+used by many rock artists, lack the capability to con
+trol sound like the computer does. He said, however,
+that he would like to see the computer become more
+like a synthesizer in one way: the ability to operate in
+real time.
+Presently, the sound must to typed into the compu
+ter as a set of numbers, and then translated into
+sound. In real time, the sound would be heard as it is
+produced. This is possible now, but only on a limited
+basis.
+The idea of seeing a computer terminal brought out
+onto the stage of a rock concert, along with electric
+guitars, drums, etc., may seem like a very futuristic
+dream. However, with advancing technology, il may
+not be so far away.
+A sound which seems to circle the room, a low
+pitched, reverberating tone, which fades into a
+chorus of voices, bells . . . music? Have beings from
+outer space sent us a message through musical
+sounds?
+Hardly. But some of the music that is produced at
+Stanford's Center for Computer Research in Music
+and Acoustics (CCRMA) does sound very much like
+something from a "Close Encounter of the Third
+Kind."
+The idea of using a computer to produce music is
+revolutionary. Computer music is a relatively new
+field, having its origins only 19 years ago.
+One of its originators, Max Matthews, working at
+Bell Laboratories, showed that one could combine
+the fine art of music with the technology of a compu
+ter. For this, he is sometimes called the grandfather of
+the process.
+The computer music program was brought to Stan
+ford about 10 years ago, but it wasn't until 1975 that
+CCRMA was established through funds from the Na
+tional Science Foundation and the National Endow
+ment for the Arts.
+Using a computer, it is possible both to record
+natural sounds and to produce sounds which have
+never been heard before.
+This is possible because, with a computer, the
+composer works not in individual notes, but in mil
+liseconds of sound. Numbers are used to represent
+sound in the form of sound waves. These can then be
+converted into voltage which goes to an amplifier to
+produce a tone.
+Because there are 25,000 numbers occurring each
+second to produce a tone, a change in the sequence
+of numbers will produce quite a different tone from
+the original. As Mike McNabb, a graduate student in
+music put it,"The main limitation is imagination."
+
+McNabb has spent approximately a year compos
+ing a work for the computer. The basic element of his
+composition is the recorded vioce of a soprano. He
+explained that the voice was stored in the computer
+as wave forms, which were later changed into a
+chorus effect.
+As one listens to the piece, the voice seems to
+move around the room in a somewhat circular fash
+ion. It has been altered to a point where it is almost
+unrecognizable as a human voice. Later in the com
+position, bells are added which blend in with the
+soprano's voice.
+The keyboard operator/musician can punch in a
+series of numbers which can produce the sound of
+any number of orchestral instruments, plus sounds
+which are not possible on any conventional music
+maker.
+As McNabb explained, there is a code for each
+instrument as well as a code for the tones which it is
+capable of playing. Once a tone has been produced,
+the musician can alter the original tone to produce a
+sound which he wants.
+This is done through analyzing and altering the set
+of sound waves which can be displayed on the termi
+nal screen. These represent, in milliseconds, the tone
+which is produced.
+It is possible, through the use of the computer, not
+only to alter a tone by changing its wave amplitude at
+a fraction of a millisecond, but also to edit out distor
+tion within a recording.
+McNabb is working on editing out certain "clicks"
+from his composition. As the wave pattern is dis
+played on the terminal screen, the clicks appear as
+irregular changes in the normal pattern. These are
+edited out by selecting two points on either side of
+the click's pattern which have about the same
+amplitude and connecting them with a relatively
+
+straight line, taking out the irregular pattern.
+The potential use for such a process seems very
+great. In addition to the new and different sounds
+which a computer can produce, it could allow musi
+cians a way of eliminating distortion within their re
+cordings to a degree not known in the past.
+Prof. )ohn Chowning and others at CCRMA are
+working on a plan to build the first all-digital record
+ing studio in which everything would be stored,
+mixed and then played on a master disc, all using a
+computer. McNabb said that he estimates the cost of
+such a project to be about half a million dollars.
+Another hope of most computer musicians is that
+the computer will become a "real" instrument.
+McNabb said he thought it would never replace con
+ventional instruments. Rather, as Robert Harvey,
+another graduate student put it,"It can be used to
+supplement the resources available to the musician."
+McNabb said that present synthesizers, like those
+used by many rock artists, lack the capability to con
+trol sound like the computer does. He said, however,
+that he would like to see the computer become more
+like a synthesizer in one way: the ability to operate in
+real time.
+Presently, the sound must to typed into the compu
+ter as a set of numbers, and then translated into
+sound. In real time, the sound would be heard as it is
+produced. This is possible now, but only on a limited
+basis.
+The idea of seeing a computer terminal brought out
+onto the stage of a rock concert, along with electric
+guitars, drums, etc., may seem like a very futuristic
+dream. However, with advancing technology, il may
+not be so far away.
+A sound which seems to circle the room, a low
+pitched, reverberating tone, which fades into a
+chorus of voices, bells . . . music? Have beings from
+outer space sent us a message through musical
+sounds?
+Hardly. But some of the music that is produced at
+Stanford's Center for Computer Research in Music
+and Acoustics (CCRMA) does sound very much like
+something from a "Close Encounter of the Third
+Kind."
+The idea of using a computer to produce music is
+revolutionary. Computer music is a relatively new
+field, having its origins only 19 years ago.
+One of its originators, Max Matthews, working at
+Bell Laboratories, showed that one could combine
+the fine art of music with the technology of a compu
+ter. For this, he is sometimes called the grandfather of
+the process.
+The computer music program was brought to Stan
+ford about 10 years ago, but it wasn't until 1975 that
+CCRMA was established through funds from the Na
+tional Science Foundation and the National Endow
+ment for the Arts.
+Using a computer, it is possible both to record
+natural sounds and to produce sounds which have
+never been heard before.
+This is possible because, with a computer, the
+composer works not in individual notes, but in mil
+liseconds of sound. Numbers are used to represent
+sound in the form of sound waves. These can then be
+converted into voltage which goes to an amplifier to
+produce a tone.
+Because there are 25,000 numbers occurring each
+second to produce a tone, a change in the sequence
+of numbers will produce quite a different tone from
+the original. As Mike McNabb, a graduate student in
+music put it,"The main limitation is imagination."
+
+McNabb has spent approximately a year compos
+ing a work for the computer. The basic element of his
+composition is the recorded vioce of a soprano. He
+explained that the voice was stored in the computer
+as wave forms, which were later changed into a
+chorus effect.
+As one listens to the piece, the voice seems to
+move around the room in a somewhat circular fash
+ion. It has been altered to a point where it is almost
+unrecognizable as a human voice. Later in the com
+position, bells are added which blend in with the
+soprano's voice.
+The keyboard operator/musician can punch in a
+series of numbers which can produce the sound of
+any number of orchestral instruments, plus sounds
+which are not possible on any conventional music
+maker.
+As McNabb explained, there is a code for each
+instrument as well as a code for the tones which it is
+capable of playing. Once a tone has been produced,
+the musician can alter the original tone to produce a
+sound which he wants.
+This is done through analyzing and altering the set
+of sound waves which can be displayed on the termi
+nal screen. These represent, in milliseconds, the tone
+which is produced.
+It is possible, through the use of the computer, not
+only to alter a tone by changing its wave amplitude at
+a fraction of a millisecond, but also to edit out distor
+tion within a recording.
+McNabb is working on editing out certain "clicks"
+from his composition. As the wave pattern is dis
+played on the terminal screen, the clicks appear as
+irregular changes in the normal pattern. These are
+edited out by selecting two points on either side of
+the click's pattern which have about the same
+amplitude and connecting them with a relatively
+
+straight line, taking out the irregular pattern.
+The potential use for such a process seems very
+great. In addition to the new and different sounds
+which a computer can produce, it could allow musi
+cians a way of eliminating distortion within their re
+cordings to a degree not known in the past.
+Prof. )ohn Chowning and others at CCRMA are
+working on a plan to build the first all-digital record
+ing studio in which everything would be stored,
+mixed and then played on a master disc, all using a
+computer. McNabb said that he estimates the cost of
+such a project to be about half a million dollars.
+Another hope of most computer musicians is that
+the computer will become a "real" instrument.
+McNabb said he thought it would never replace con
+ventional instruments. Rather, as Robert Harvey,
+another graduate student put it,"It can be used to
+supplement the resources available to the musician."
+McNabb said that present synthesizers, like those
+used by many rock artists, lack the capability to con
+trol sound like the computer does. He said, however,
+that he would like to see the computer become more
+like a synthesizer in one way: the ability to operate in
+real time.
+Presently, the sound must to typed into the compu
+ter as a set of numbers, and then translated into
+sound. In real time, the sound would be heard as it is
+produced. This is possible now, but only on a limited
+basis.
+The idea of seeing a computer terminal brought out
+onto the stage of a rock concert, along with electric
+guitars, drums, etc., may seem like a very futuristic
+dream. However, with advancing technology, il may
+not be so far away.
+A sound which seems to circle the room, a low
+pitched, reverberating tone, which fades into a
+chorus of voices, bells . . . music? Have beings from
+outer space sent us a message through musical
+sounds?
+Hardly. But some of the music that is produced at
+Stanford's Center for Computer Research in Music
+and Acoustics (CCRMA) does sound very much like
+something from a "Close Encounter of the Third
+Kind."
+The idea of using a computer to produce music is
+revolutionary. Computer music is a relatively new
+field, having its origins only 19 years ago.
+One of its originators, Max Matthews, working at
+Bell Laboratories, showed that one could combine
+the fine art of music with the technology of a compu
+ter. For this, he is sometimes called the grandfather of
+the process.
+The computer music program was brought to Stan
+ford about 10 years ago, but it wasn't until 1975 that
+CCRMA was established through funds from the Na
+tional Science Foundation and the National Endow
+ment for the Arts.
+Using a computer, it is possible both to record
+natural sounds and to produce sounds which have
+never been heard before.
+This is possible because, with a computer, the
+composer works not in individual notes, but in mil
+liseconds of sound. Numbers are used to represent
+sound in the form of sound waves. These can then be
+converted into voltage which goes to an amplifier to
+produce a tone.
+Because there are 25,000 numbers occurring each
+second to produce a tone, a change in the sequence
+of numbers will produce quite a different tone from
+the original. As Mike McNabb, a graduate student in
+music put it,"The main limitation is imagination."
+
+McNabb has spent approximately a year compos
+ing a work for the computer. The basic element of his
+composition is the recorded vioce of a soprano. He
+explained that the voice was stored in the computer
+as wave forms, which were later changed into a
+chorus effect.
+As one listens to the piece, the voice seems to
+move around the room in a somewhat circular fash
+ion. It has been altered to a point where it is almost
+unrecognizable as a human voice. Later in the com
+position, bells are added which blend in with the
+soprano's voice.
+The keyboard operator/musician can punch in a
+series of numbers which can produce the sound of
+any number of orchestral instruments, plus sounds
+which are not possible on any conventional music
+maker.
+As McNabb explained, there is a code for each
+instrument as well as a code for the tones which it is
+capable of playing. Once a tone has been produced,
+the musician can alter the original tone to produce a
+sound which he wants.
+This is done through analyzing and altering the set
+of sound waves which can be displayed on the termi
+nal screen. These represent, in milliseconds, the tone
+which is produced.
+It is possible, through the use of the computer, not
+only to alter a tone by changing its wave amplitude at
+a fraction of a millisecond, but also to edit out distor
+tion within a recording.
+McNabb is working on editing out certain "clicks"
+from his composition. As the wave pattern is dis
+played on the terminal screen, the clicks appear as
+irregular changes in the normal pattern. These are
+edited out by selecting two points on either side of
+the click's pattern which have about the same
+amplitude and connecting them with a relatively
+
+straight line, taking out the irregular pattern.
+The potential use for such a process seems very
+great. In addition to the new and different sounds
+which a computer can produce, it could allow musi
+cians a way of eliminating distortion within their re
+cordings to a degree not known in the past.
+Prof. )ohn Chowning and others at CCRMA are
+working on a plan to build the first all-digital record
+ing studio in which everything would be stored,
+mixed and then played on a master disc, all using a
+computer. McNabb said that he estimates the cost of
+such a project to be about half a million dollars.
+Another hope of most computer musicians is that
+the computer will become a "real" instrument.
+McNabb said he thought it would never replace con
+ventional instruments. Rather, as Robert Harvey,
+another graduate student put it,"It can be used to
+supplement the resources available to the musician."
+McNabb said that present synthesizers, like those
+used by many rock artists, lack the capability to con
+trol sound like the computer does. He said, however,
+that he would like to see the computer become more
+like a synthesizer in one way: the ability to operate in
+real time.
+Presently, the sound must to typed into the compu
+ter as a set of numbers, and then translated into
+sound. In real time, the sound would be heard as it is
+produced. This is possible now, but only on a limited
+basis.
+The idea of seeing a computer terminal brought out
+onto the stage of a rock concert, along with electric
+guitars, drums, etc., may seem like a very futuristic
+dream. However, with advancing technology, il may
+not be so far away.
+A sound which seems to circle the room, a low
+pitched, reverberating tone, which fades into a
+chorus of voices, bells . . . music? Have beings from
+outer space sent us a message through musical
+sounds?
+Hardly. But some of the music that is produced at
+Stanford's Center for Computer Research in Music
+and Acoustics (CCRMA) does sound very much like
+something from a "Close Encounter of the Third
+Kind."
+The idea of using a computer to produce music is
+revolutionary. Computer music is a relatively new
+field, having its origins only 19 years ago.
+One of its originators, Max Matthews, working at
+Bell Laboratories, showed that one could combine
+the fine art of music with the technology of a compu
+ter. For this, he is sometimes called the grandfather of
+the process.
+The computer music program was brought to Stan
+ford about 10 years ago, but it wasn't until 1975 that
+CCRMA was established through funds from the Na
+tional Science Foundation and the National Endow
+ment for the Arts.
+Using a computer, it is possible both to record
+natural sounds and to produce sounds which have
+never been heard before.
+This is possible because, with a computer, the
+composer works not in individual notes, but in mil
+liseconds of sound. Numbers are used to represent
+sound in the form of sound waves. These can then be
+converted into voltage which goes to an amplifier to
+produce a tone.
+Because there are 25,000 numbers occurring each
+second to produce a tone, a change in the sequence
+of numbers will produce quite a different tone from
+the original. As Mike McNabb, a graduate student in
+music put it,"The main limitation is imagination."
+
+McNabb has spent approximately a year compos
+ing a work for the computer. The basic element of his
+composition is the recorded vioce of a soprano. He
+explained that the voice was stored in the computer
+as wave forms, which were later changed into a
+chorus effect.
+As one listens to the piece, the voice seems to
+move around the room in a somewhat circular fash
+ion. It has been altered to a point where it is almost
+unrecognizable as a human voice. Later in the com
+position, bells are added which blend in with the
+soprano's voice.
+The keyboard operator/musician can punch in a
+series of numbers which can produce the sound of
+any number of orchestral instruments, plus sounds
+which are not possible on any conventional music
+maker.
+As McNabb explained, there is a code for each
+instrument as well as a code for the tones which it is
+capable of playing. Once a tone has been produced,
+the musician can alter the original tone to produce a
+sound which he wants.
+This is done through analyzing and altering the set
+of sound waves which can be displayed on the termi
+nal screen. These represent, in milliseconds, the tone
+which is produced.
+It is possible, through the use of the computer, not
+only to alter a tone by changing its wave amplitude at
+a fraction of a millisecond, but also to edit out distor
+tion within a recording.
+McNabb is working on editing out certain "clicks"
+from his composition. As the wave pattern is dis
+played on the terminal screen, the clicks appear as
+irregular changes in the normal pattern. These are
+edited out by selecting two points on either side of
+the click's pattern which have about the same
+amplitude and connecting them with a relatively
+
+straight line, taking out the irregular pattern.
+The potential use for such a process seems very
+great. In addition to the new and different sounds
+which a computer can produce, it could allow musi
+cians a way of eliminating distortion within their re
+cordings to a degree not known in the past.
+Prof. )ohn Chowning and others at CCRMA are
+working on a plan to build the first all-digital record
+ing studio in which everything would be stored,
+mixed and then played on a master disc, all using a
+computer. McNabb said that he estimates the cost of
+such a project to be about half a million dollars.
+Another hope of most computer musicians is that
+the computer will become a "real" instrument.
+McNabb said he thought it would never replace con
+ventional instruments. Rather, as Robert Harvey,
+another graduate student put it,"It can be used to
+supplement the resources available to the musician."
+McNabb said that present synthesizers, like those
+used by many rock artists, lack the capability to con
+trol sound like the computer does. He said, however,
+that he would like to see the computer become more
+like a synthesizer in one way: the ability to operate in
+real time.
+Presently, the sound must to typed into the compu
+ter as a set of numbers, and then translated into
+sound. In real time, the sound would be heard as it is
+produced. This is possible now, but only on a limited
+basis.
+The idea of seeing a computer terminal brought out
+onto the stage of a rock concert, along with electric
+guitars, drums, etc., may seem like a very futuristic
+dream. However, with advancing technology, il may
+not be so far away.
+A sound which seems to circle the room, a low
+pitched, reverberating tone, which fades into a
+chorus of voices, bells . . . music? Have beings from
+outer space sent us a message through musical
+sounds?
+Hardly. But some of the music that is produced at
+Stanford's Center for Computer Research in Music
+and Acoustics (CCRMA) does sound very much like
+something from a "Close Encounter of the Third
+Kind."
+The idea of using a computer to produce music is
+revolutionary. Computer music is a relatively new
+field, having its origins only 19 years ago.
+One of its originators, Max Matthews, working at
+Bell Laboratories, showed that one could combine
+the fine art of music with the technology of a compu
+ter. For this, he is sometimes called the grandfather of
+the process.
+The computer music program was brought to Stan
+ford about 10 years ago, but it wasn't until 1975 that
+CCRMA was established through funds from the Na
+tional Science Foundation and the National Endow
+ment for the Arts.
+Using a computer, it is possible both to record
+natural sounds and to produce sounds which have
+never been heard before.
+This is possible because, with a computer, the
+composer works not in individual notes, but in mil
+liseconds of sound. Numbers are used to represent
+sound in the form of sound waves. These can then be
+converted into voltage which goes to an amplifier to
+produce a tone.
+Because there are 25,000 numbers occurring each
+second to produce a tone, a change in the sequence
+of numbers will produce quite a different tone from
+the original. As Mike McNabb, a graduate student in
+music put it,"The main limitation is imagination."
+
+McNabb has spent approximately a year compos
+ing a work for the computer. The basic element of his
+composition is the recorded vioce of a soprano. He
+explained that the voice was stored in the computer
+as wave forms, which were later changed into a
+chorus effect.
+As one listens to the piece, the voice seems to
+move around the room in a somewhat circular fash
+ion. It has been altered to a point where it is almost
+unrecognizable as a human voice. Later in the com
+position, bells are added which blend in with the
+soprano's voice.
+The keyboard operator/musician can punch in a
+series of numbers which can produce the sound of
+any number of orchestral instruments, plus sounds
+which are not possible on any conventional music
+maker.
+As McNabb explained, there is a code for each
+instrument as well as a code for the tones which it is
+capable of playing. Once a tone has been produced,
+the musician can alter the original tone to produce a
+sound which he wants.
+This is done through analyzing and altering the set
+of sound waves which can be displayed on the termi
+nal screen. These represent, in milliseconds, the tone
+which is produced.
+It is possible, through the use of the computer, not
+only to alter a tone by changing its wave amplitude at
+a fraction of a millisecond, but also to edit out distor
+tion within a recording.
+McNabb is working on editing out certain "clicks"
+from his composition. As the wave pattern is dis
+played on the terminal screen, the clicks appear as
+irregular changes in the normal pattern. These are
+edited out by selecting two points on either side of
+the click's pattern which have about the same
+amplitude and connecting them with a relatively
+
+straight line, taking out the irregular pattern.
+The potential use for such a process seems very
+great. In addition to the new and different sounds
+which a computer can produce, it could allow musi
+cians a way of eliminating distortion within their re
+cordings to a degree not known in the past.
+Prof. )ohn Chowning and others at CCRMA are
+working on a plan to build the first all-digital record
+ing studio in which everything would be stored,
+mixed and then played on a master disc, all using a
+computer. McNabb said that he estimates the cost of
+such a project to be about half a million dollars.
+Another hope of most computer musicians is that
+the computer will become a "real" instrument.
+McNabb said he thought it would never replace con
+ventional instruments. Rather, as Robert Harvey,
+another graduate student put it,"It can be used to
+supplement the resources available to the musician."
+McNabb said that present synthesizers, like those
+used by many rock artists, lack the capability to con
+trol sound like the computer does. He said, however,
+that he would like to see the computer become more
+like a synthesizer in one way: the ability to operate in
+real time.
+Presently, the sound must to typed into the compu
+ter as a set of numbers, and then translated into
+sound. In real time, the sound would be heard as it is
+produced. This is possible now, but only on a limited
+basis.
+The idea of seeing a computer terminal brought out
+onto the stage of a rock concert, along with electric
+guitars, drums, etc., may seem like a very futuristic
+dream. However, with advancing technology, il may
+not be so far away.
+A sound which seems to circle the room, a low
+pitched, reverberating tone, which fades into a
+chorus of voices, bells . . . music? Have beings from
+outer space sent us a message through musical
+sounds?
+Hardly. But some of the music that is produced at
+Stanford's Center for Computer Research in Music
+and Acoustics (CCRMA) does sound very much like
+something from a "Close Encounter of the Third
+Kind."
+The idea of using a computer to produce music is
+revolutionary. Computer music is a relatively new
+field, having its origins only 19 years ago.
+One of its originators, Max Matthews, working at
+Bell Laboratories, showed that one could combine
+the fine art of music with the technology of a compu
+ter. For this, he is sometimes called the grandfather of
+the process.
+The computer music program was brought to Stan
+ford about 10 years ago, but it wasn't until 1975 that
+CCRMA was established through funds from the Na
+tional Science Foundation and the National Endow
+ment for the Arts.
+Using a computer, it is possible both to record
+natural sounds and to produce sounds which have
+never been heard before.
+This is possible because, with a computer, the
+composer works not in individual notes, but in mil
+liseconds of sound. Numbers are used to represent
+sound in the form of sound waves. These can then be
+converted into voltage which goes to an amplifier to
+produce a tone.
+Because there are 25,000 numbers occurring each
+second to produce a tone, a change in the sequence
+of numbers will produce quite a different tone from
+the original. As Mike McNabb, a graduate student in
+music put it,"The main limitation is imagination."
+
+McNabb has spent approximately a year compos
+ing a work for the computer. The basic element of his
+composition is the recorded vioce of a soprano. He
+explained that the voice was stored in the computer
+as wave forms, which were later changed into a
+chorus effect.
+As one listens to the piece, the voice seems to
+move around the room in a somewhat circular fash
+ion. It has been altered to a point where it is almost
+unrecognizable as a human voice. Later in the com
+position, bells are added which blend in with the
+soprano's voice.
+The keyboard operator/musician can punch in a
+series of numbers which can produce the sound of
+any number of orchestral instruments, plus sounds
+which are not possible on any conventional music
+maker.
+As McNabb explained, there is a code for each
+instrument as well as a code for the tones which it is
+capable of playing. Once a tone has been produced,
+the musician can alter the original tone to produce a
+sound which he wants.
+This is done through analyzing and altering the set
+of sound waves which can be displayed on the termi
+nal screen. These represent, in milliseconds, the tone
+which is produced.
+It is possible, through the use of the computer, not
+only to alter a tone by changing its wave amplitude at
+a fraction of a millisecond, but also to edit out distor
+tion within a recording.
+McNabb is working on editing out certain "clicks"
+from his composition. As the wave pattern is dis
+played on the terminal screen, the clicks appear as
+irregular changes in the normal pattern. These are
+edited out by selecting two points on either side of
+the click's pattern which have about the same
+amplitude and connecting them with a relatively
+
+straight line, taking out the irregular pattern.
+The potential use for such a process seems very
+great. In addition to the new and different sounds
+which a computer can produce, it could allow musi
+cians a way of eliminating distortion within their re
+cordings to a degree not known in the past.
+Prof. )ohn Chowning and others at CCRMA are
+working on a plan to build the first all-digital record
+ing studio in which everything would be stored,
+mixed and then played on a master disc, all using a
+computer. McNabb said that he estimates the cost of
+such a project to be about half a million dollars.
+Another hope of most computer musicians is that
+the computer will become a "real" instrument.
+McNabb said he thought it would never replace con
+ventional instruments. Rather, as Robert Harvey,
+another graduate student put it,"It can be used to
+supplement the resources available to the musician."
+McNabb said that present synthesizers, like those
+used by many rock artists, lack the capability to con
+trol sound like the computer does. He said, however,
+that he would like to see the computer become more
+like a synthesizer in one way: the ability to operate in
+real time.
+Presently, the sound must to typed into the compu
+ter as a set of numbers, and then translated into
+sound. In real time, the sound would be heard as it is
+produced. This is possible now, but only on a limited
+basis.
+The idea of seeing a computer terminal brought out
+onto the stage of a rock concert, along with electric
+guitars, drums, etc., may seem like a very futuristic
+dream. However, with advancing technology, il may
+not be so far away.
+A sound which seems to circle the room, a low
+pitched, reverberating tone, which fades into a
+chorus of voices, bells . . . music? Have beings from
+outer space sent us a message through musical
+sounds?
+Hardly. But some of the music that is produced at
+Stanford's Center for Computer Research in Music
+and Acoustics (CCRMA) does sound very much like
+something from a "Close Encounter of the Third
+Kind."
+The idea of using a computer to produce music is
+revolutionary. Computer music is a relatively new
+field, having its origins only 19 years ago.
+One of its originators, Max Matthews, working at
+Bell Laboratories, showed that one could combine
+the fine art of music with the technology of a compu
+ter. For this, he is sometimes called the grandfather of
+the process.
+The computer music program was brought to Stan
+ford about 10 years ago, but it wasn't until 1975 that
+CCRMA was established through funds from the Na
+tional Science Foundation and the National Endow
+ment for the Arts.
+Using a computer, it is possible both to record
+natural sounds and to produce sounds which have
+never been heard before.
+This is possible because, with a computer, the
+composer works not in individual notes, but in mil
+liseconds of sound. Numbers are used to represent
+sound in the form of sound waves. These can then be
+converted into voltage which goes to an amplifier to
+produce a tone.
+Because there are 25,000 numbers occurring each
+second to produce a tone, a change in the sequence
+of numbers will produce quite a different tone from
+the original. As Mike McNabb, a graduate student in
+music put it,"The main limitation is imagination."
+
+McNabb has spent approximately a year compos
+ing a work for the computer. The basic element of his
+composition is the recorded vioce of a soprano. He
+explained that the voice was stored in the computer
+as wave forms, which were later changed into a
+chorus effect.
+As one listens to the piece, the voice seems to
+move around the room in a somewhat circular fash
+ion. It has been altered to a point where it is almost
+unrecognizable as a human voice. Later in the com
+position, bells are added which blend in with the
+soprano's voice.
+The keyboard operator/musician can punch in a
+series of numbers which can produce the sound of
+any number of orchestral instruments, plus sounds
+which are not possible on any conventional music
+maker.
+As McNabb explained, there is a code for each
+instrument as well as a code for the tones which it is
+capable of playing. Once a tone has been produced,
+the musician can alter the original tone to produce a
+sound which he wants.
+This is done through analyzing and altering the set
+of sound waves which can be displayed on the termi
+nal screen. These represent, in milliseconds, the tone
+which is produced.
+It is possible, through the use of the computer, not
+only to alter a tone by changing its wave amplitude at
+a fraction of a millisecond, but also to edit out distor
+tion within a recording.
+McNabb is working on editing out certain "clicks"
+from his composition. As the wave pattern is dis
+played on the terminal screen, the clicks appear as
+irregular changes in the normal pattern. These are
+edited out by selecting two points on either side of
+the click's pattern which have about the same
+amplitude and connecting them with a relatively
+
+straight line, taking out the irregular pattern.
+The potential use for such a process seems very
+great. In addition to the new and different sounds
+which a computer can produce, it could allow musi
+cians a way of eliminating distortion within their re
+cordings to a degree not known in the past.
+Prof. )ohn Chowning and others at CCRMA are
+working on a plan to build the first all-digital record
+ing studio in which everything would be stored,
+mixed and then played on a master disc, all using a
+computer. McNabb said that he estimates the cost of
+such a project to be about half a million dollars.
+Another hope of most computer musicians is that
+the computer will become a "real" instrument.
+McNabb said he thought it would never replace con
+ventional instruments. Rather, as Robert Harvey,
+another graduate student put it,"It can be used to
+supplement the resources available to the musician."
+McNabb said that present synthesizers, like those
+used by many rock artists, lack the capability to con
+trol sound like the computer does. He said, however,
+that he would like to see the computer become more
+like a synthesizer in one way: the ability to operate in
+real time.
+Presently, the sound must to typed into the compu
+ter as a set of numbers, and then translated into
+sound. In real time, the sound would be heard as it is
+produced. This is possible now, but only on a limited
+basis.
+The idea of seeing a computer terminal brought out
+onto the stage of a rock concert, along with electric
+guitars, drums, etc., may seem like a very futuristic
+dream. However, with advancing technology, il may
+not be so far away.
+A sound which seems to circle the room, a low
+pitched, reverberating tone, which fades into a
+chorus of voices, bells . . . music? Have beings from
+outer space sent us a message through musical
+sounds?
+Hardly. But some of the music that is produced at
+Stanford's Center for Computer Research in Music
+and Acoustics (CCRMA) does sound very much like
+something from a "Close Encounter of the Third
+Kind."
+The idea of using a computer to produce music is
+revolutionary. Computer music is a relatively new
+field, having its origins only 19 years ago.
+One of its originators, Max Matthews, working at
+Bell Laboratories, showed that one could combine
+the fine art of music with the technology of a compu
+ter. For this, he is sometimes called the grandfather of
+the process.
+The computer music program was brought to Stan
+ford about 10 years ago, but it wasn't until 1975 that
+CCRMA was established through funds from the Na
+tional Science Foundation and the National Endow
+ment for the Arts.
+Using a computer, it is possible both to record
+natural sounds and to produce sounds which have
+never been heard before.
+This is possible because, with a computer, the
+composer works not in individual notes, but in mil
+liseconds of sound. Numbers are used to represent
+sound in the form of sound waves. These can then be
+converted into voltage which goes to an amplifier to
+produce a tone.
+Because there are 25,000 numbers occurring each
+second to produce a tone, a change in the sequence
+of numbers will produce quite a different tone from
+the original. As Mike McNabb, a graduate student in
+music put it,"The main limitation is imagination."
+
+McNabb has spent approximately a year compos
+ing a work for the computer. The basic element of his
+composition is the recorded vioce of a soprano. He
+explained that the voice was stored in the computer
+as wave forms, which were later changed into a
+chorus effect.
+As one listens to the piece, the voice seems to
+move around the room in a somewhat circular fash
+ion. It has been altered to a point where it is almost
+unrecognizable as a human voice. Later in the com
+position, bells are added which blend in with the
+soprano's voice.
+The keyboard operator/musician can punch in a
+series of numbers which can produce the sound of
+any number of orchestral instruments, plus sounds
+which are not possible on any conventional music
+maker.
+As McNabb explained, there is a code for each
+instrument as well as a code for the tones which it is
+capable of playing. Once a tone has been produced,
+the musician can alter the original tone to produce a
+sound which he wants.
+This is done through analyzing and altering the set
+of sound waves which can be displayed on the termi
+nal screen. These represent, in milliseconds, the tone
+which is produced.
+It is possible, through the use of the computer, not
+only to alter a tone by changing its wave amplitude at
+a fraction of a millisecond, but also to edit out distor
+tion within a recording.
+McNabb is working on editing out certain "clicks"
+from his composition. As the wave pattern is dis
+played on the terminal screen, the clicks appear as
+irregular changes in the normal pattern. These are
+edited out by selecting two points on either side of
+the click's pattern which have about the same
+amplitude and connecting them with a relatively
+
+straight line, taking out the irregular pattern.
+The potential use for such a process seems very
+great. In addition to the new and different sounds
+which a computer can produce, it could allow musi
+cians a way of eliminating distortion within their re
+cordings to a degree not known in the past.
+Prof. )ohn Chowning and others at CCRMA are
+working on a plan to build the first all-digital record
+ing studio in which everything would be stored,
+mixed and then played on a master disc, all using a
+computer. McNabb said that he estimates the cost of
+such a project to be about half a million dollars.
+Another hope of most computer musicians is that
+the computer will become a "real" instrument.
+McNabb said he thought it would never replace con
+ventional instruments. Rather, as Robert Harvey,
+another graduate student put it,"It can be used to
+supplement the resources available to the musician."
+McNabb said that present synthesizers, like those
+used by many rock artists, lack the capability to con
+trol sound like the computer does. He said, however,
+that he would like to see the computer become more
+like a synthesizer in one way: the ability to operate in
+real time.
+Presently, the sound must to typed into the compu
+ter as a set of numbers, and then translated into
+sound. In real time, the sound would be heard as it is
+produced. This is possible now, but only on a limited
+basis.
+The idea of seeing a computer terminal brought out
+onto the stage of a rock concert, along with electric
+guitars, drums, etc., may seem like a very futuristic
+dream. However, with advancing technology, il may
+not be so far away.
+A sound which seems to circle the room, a low
+pitched, reverberating tone, which fades into a
+chorus of voices, bells . . . music? Have beings from
+outer space sent us a message through musical
+sounds?
+Hardly. But some of the music that is produced at
+Stanford's Center for Computer Research in Music
+and Acoustics (CCRMA) does sound very much like
+something from a "Close Encounter of the Third
+Kind."
+The idea of using a computer to produce music is
+revolutionary. Computer music is a relatively new
+field, having its origins only 19 years ago.
+One of its originators, Max Matthews, working at
+Bell Laboratories, showed that one could combine
+the fine art of music with the technology of a compu
+ter. For this, he is sometimes called the grandfather of
+the process.
+The computer music program was brought to Stan
+ford about 10 years ago, but it wasn't until 1975 that
+CCRMA was established through funds from the Na
+tional Science Foundation and the National Endow
+ment for the Arts.
+Using a computer, it is possible both to record
+natural sounds and to produce sounds which have
+never been heard before.
+This is possible because, with a computer, the
+composer works not in individual notes, but in mil
+liseconds of sound. Numbers are used to represent
+sound in the form of sound waves. These can then be
+converted into voltage which goes to an amplifier to
+produce a tone.
+Because there are 25,000 numbers occurring each
+second to produce a tone, a change in the sequence
+of numbers will produce quite a different tone from
+the original. As Mike McNabb, a graduate student in
+music put it,"The main limitation is imagination."
+
+McNabb has spent approximately a year compos
+ing a work for the computer. The basic element of his
+composition is the recorded vioce of a soprano. He
+explained that the voice was stored in the computer
+as wave forms, which were later changed into a
+chorus effect.
+As one listens to the piece, the voice seems to
+move around the room in a somewhat circular fash
+ion. It has been altered to a point where it is almost
+unrecognizable as a human voice. Later in the com
+position, bells are added which blend in with the
+soprano's voice.
+The keyboard operator/musician can punch in a
+series of numbers which can produce the sound of
+any number of orchestral instruments, plus sounds
+which are not possible on any conventional music
+maker.
+As McNabb explained, there is a code for each
+instrument as well as a code for the tones which it is
+capable of playing. Once a tone has been produced,
+the musician can alter the original tone to produce a
+sound which he wants.
+This is done through analyzing and altering the set
+of sound waves which can be displayed on the termi
+nal screen. These represent, in milliseconds, the tone
+which is produced.
+It is possible, through the use of the computer, not
+only to alter a tone by changing its wave amplitude at
+a fraction of a millisecond, but also to edit out distor
+tion within a recording.
+McNabb is working on editing out certain "clicks"
+from his composition. As the wave pattern is dis
+played on the terminal screen, the clicks appear as
+irregular changes in the normal pattern. These are
+edited out by selecting two points on either side of
+the click's pattern which have about the same
+amplitude and connecting them with a relatively
+
+straight line, taking out the irregular pattern.
+The potential use for such a process seems very
+great. In addition to the new and different sounds
+which a computer can produce, it could allow musi
+cians a way of eliminating distortion within their re
+cordings to a degree not known in the past.
+Prof. )ohn Chowning and others at CCRMA are
+working on a plan to build the first all-digital record
+ing studio in which everything would be stored,
+mixed and then played on a master disc, all using a
+computer. McNabb said that he estimates the cost of
+such a project to be about half a million dollars.
+Another hope of most computer musicians is that
+the computer will become a "real" instrument.
+McNabb said he thought it would never replace con
+ventional instruments. Rather, as Robert Harvey,
+another graduate student put it,"It can be used to
+supplement the resources available to the musician."
+McNabb said that present synthesizers, like those
+used by many rock artists, lack the capability to con
+trol sound like the computer does. He said, however,
+that he would like to see the computer become more
+like a synthesizer in one way: the ability to operate in
+real time.
+Presently, the sound must to typed into the compu
+ter as a set of numbers, and then translated into
+sound. In real time, the sound would be heard as it is
+produced. This is possible now, but only on a limited
+basis.
+The idea of seeing a computer terminal brought out
+onto the stage of a rock concert, along with electric
+guitars, drums, etc., may seem like a very futuristic
+dream. However, with advancing technology, il may
+not be so far away.

@@ -1,0 +1,1233 @@
+# Engineering Alumni Corner
+## MARIO F. ALVAREZ 
+### 
+In this section, we enlisted the help of Stanford alum Mario
+Alvarez, who has worked in the engineering sector for
+many years. We asked questions aimed at discovering
+what he did in his time on the Farm, about what led him
+to engineering, and about any advice he may have for
+current students. Here are his answers! You can contact
+Mario and many other alumni for career-related questions
+by logging onto
+https://www.stanfordalumni.org/career/scn/
+
+1973, MS ELECTRICAL ENGINEERING
+STANFORD UNIVERSITY
+I should explain first that I was married on October 12,
+1968 in my freshman year of college. By the time I fin
+ished undergraduate studies with a BSEE at Manhattan
+College in 1972, I had accepted a career position as
+Member of Technical Staff at AT&T Bell Labs in Holmdel
+NJ.
+What did you study in college? What were your favorite classes?
+I studied Electrical Engineering at both the graduate and
+undergraduate level. As I said before, my undergraduate
+degree is a BSEE from Manhattan College where I studied
+electronics and digital design. As a new hire at AT&T Bell
+Labs, I was eligible for a one of a kind opportunity known
+then as the One Year on Campus (OYOC) program. I
+was to select the University graduate program of my
+choice to earn a Master's degree on their tab. I applied
+and was accepted at MIT, University of Illinois at Urbana-
+Champaign, University of Michigan at Ann Arbor, and
+Stanford. I chose Stanford because at the time there was
+an option to take additional course credits to substitute for
+a master's thesis. This allowed me to complete my
+Master's degree requirements in one calendar year. I really
+enjoyed Fourier Transform Theory, and spent many a
+sleepless night at the Stanford computer center writing
+software for any one of several programming courses.
+What kinds of activities were you involved in while you were at
+Stanford? Did you join any clubs or student organizations?
+When I came to Stanford in September 1972, I brought
+my wife Liz, my 3 year old daughter Lizette, and my 1 year
+old son Marcus. Since I was born in Cuba, and my wife
+was also Cuban (although born in Queens NY), we tend
+ed to be attracted to other international students, but espe
+cially the Hispanic students living in Escondido Village. I
+had one year to finish my work, so I did not join any orga
+nizations, but my wife and I made lots of friends among
+the residents of the Escondido Village row houses
+designed for families with children.
+When you came to Stanford, did you have any thoughts about your
+career plons? If so, what were those thoughts?
+I was already employed by AT&T Bell Labs. My thoughts
+
+were to complete my education in telecommunications,
+and go back to work as an MTS in the Data
+Communications Laboratory at the Holmdel NJ facility.
+Looking back, I probably should have stayed in the Bay
+Area, where I could have been part of the revolution that
+rocked the area with startups like Cisco, and SUN for
+example.
+What did you do with your summers? (i.e. work, volunteer, travel,
+other experiences) What did you take away from those experi
+ences?
+I was busy taking courses during the summer months as
+well, since I needed to finish in one year. However, my wife
+and I enjoyed the San Francisco Bay Area immensely while
+we were there. I recall that the Bay itself is quite chilly, even
+in the summer months. I think it was Samuel Clemens who
+said: "Coldest winter I ever spent was a summer in San
+Francisco". My parents came to visit us and the children
+during the summer, and we had a wonderful time explor
+ing the City by the Bay, Sausalito, and the wine country
+whenever we had the chance.
+What was your first job after graduation and what did you have to
+do to find it?
+My first job was in the Data Communications Laboratory
+at AT&T Bell Labs in Holmdel NJ. I got this job from cam
+pus interviews at my undergraduate school.
+What were the major responsibilities in your first job? Was it what
+you expected?
+On of my first responsibilities as an MTS at Bell Labs was
+to come with a device that could decode DTMF signaling
+using digital rather than the traditional analog technolo
+gies. I used digital counters and clocks to build a time
+domain tone detector. Intel was just coming out with some
+of their first microprocessors at the time, but I stuck with
+the discrete logic design.
+How did your career evolve after that? How did you experiences
+lead to other opportunities?
+In 1976 I took a job with the Ford Motor Co Electrical
+and Electronics Division in Dearborn Michigan. My experi
+ence in digital design gave me the opportunity to create
+the prototype for what was later called the Electronic
+Engine Controller 3rd Generation, or EEC-111. I used small
+to medium scale integrated digital circuits to create shift
+registers, instruction counters, and instruction decoders to
+form a prototype for a microprocessor. I later took this
+design to Intel and Motorola to create a Large Scale
+Integrated circuit equivalent of this hardware design proto
+type. At the facility where I worked in Taylor Ml, we were
+able to attach sensors to and control a 1977 Ford LTD
+sedan with my design. My colleagues designed the elec
+tronic fuel injection circuit and the A/D Converters for the
+analog sensors.
+What skills and experiences from college were most important in
+your career development?
+
+What I learned more than anything else is how to adapt
+and evolve. The generation I contributed to was as fast
+moving as it is today. I learned how to analyze and think I
+new and creative ways. I also had to keep up with the lat
+est trends: the microprocessor, object oriented software,
+LAN/WAN technology, the ARPANET, and of course, the
+Internet.
+Please provide a brief description of your current role and exam
+ples of typical tasks or projects.
+Currently I am working for a Large Federal Government
+contractor, assigned to Business Development tasks as an
+Advanced Programs Systems Engineer. I write proposals to
+win bids with Federal, State and Local government pro
+grams. I specialize in Enterprise level web-enabled data
+base applications, Storage Area Networks, and embedded
+controllers.
+Please provide a brief chronology of your career —the major pro
+jects or turning points.
+My current employment is a brand new job for me. In my
+previous employment, I lead a team of 20 Java/J2EE soft
+ware developers at the Lakehurst Naval Engineering
+Center to create enterprise web-enabled database appli
+cations for the US Navy to be deployed on board Nimitz
+Class Aircraft Carriers. Before that, I was with a venture
+capital startup that developed Fiber Optic Switch/Router
+technology. I designed the embedded real-time software
+and digital controllers that operated the optical circuit
+packs for the All Optical MEMS based Dense Wavelength
+Division Multiplexor (DWDM). I hold 2 US Patents based
+on this work. In 1999, I was part of a Lucent Bell Labs
+team on the MONET project, which replaced an OC-48
+SONET ring with a DWDM network serving NASA, the
+NSA, the Naval Research Lab (NRL), DISA, DARPA, and
+the DIA.
+HERE IS A BRIEF CAREER CHRONOLOGY OF ACCOMPLISHMENTS:
+• ADMACS [2004 - 2005] Large J2EE/Oracle/JBoss
+App Suite for 300 users
+• SEI CMM Level 3 [2005] - ADMACS J2EE Project
+Certified
+• ASRLW [2003] - Architect of Web Application wins
+Navy CIO Award
+• DWDM Optical Switch [2000-2003] 2US Patents
+for Embedded Controllers
+• MONET [1998 - 2000] - DWDM All Optical Ring
+Wash DC NSA, NASA, NRL
+• SONET Ring Controller[2ooo] IUS and 1 European
+Patent with Lucent
+• National ISDN [1996 - 1998] - Software Features for
+Lucent ISDN Phones
+• ISDN TAPI [1993- 1996] Telephony Driver
+Software for ISDN Phones
+• Video Phone [1991 - 1993] - File Transfer software
+for ISDN Video Phone
+• AT&T 32 Bit uP [1985 1990] - Software
+Simulation/Test of IC Designs
+• Perkin Elmer Ethernet [1982 - 1985] Designed 2
+Product Ethernet Boards
+• RCA Labs Ethernet [1980 - 1982] - First
+Bus LAN Architecture Deployed
+• United States Patent 6,731,832, Alvarez et al,
+May 4 2004, "Detection of module
+insertion/removal in a modular optical net
+work, and methods and apparatus therefor"
+• United States Patent 6,766,113, Al-Salameh et
+al, July 20 2004, "Control channel processor
+and switching mechanism"
+• United States Patent 7,013,084, Abdella Battou
+et al, Mar 14, 2006, "Mutli-Tiered Control
+Architecture for Adaptive Optical Networks,
+and Methods and Aparatus Therefor"
+• European Patent no. EP116481 1 A, "Control
+Channel Processor and Switching Mechanism",
+AL-SALAMEH DANIEL Y (US); ALVAREZ MARIO
+F (US); LEVY DAVID S (US); SARATHY
+JITHAMITHRA (US); TZATHAS ANASTASIOS
+(US), Issued Dec 19, 2001
+If you could no back in lime, what do you wish you
+had known about the job-search process or careers in
+general as a college freshman? Another way of putting
+this is, what resources do you wish you had had at
+your disposal?
+I wish I knew that a technology revolution was
+coming to the Bay Area after I got my Master's
+Degree from Stanford. Where was the Internet
+when I needed it ?.
+What are a couple interesting things happening right
+now in your sector? Where can students go to Tina out
+more information (i.e. magazines, web sites, upcoming
+events)?
+I would recommend that students in Electrical
+Engineering get involved in the Institute of
+Electrical and Electronic Engineers (lEEE), the
+Association for Computing Machinery (ACM),
+and the lEEE Computer Society. Also, subscribe
+to any one of dozens of free magazines that
+chronicle the Computer Industry today. Keep
+an eye on Google; I see lots of interesting new
+ideas coming from them.
+
+In this section, we enlisted the help of Stanford alum Mario
+Alvarez, who has worked in the engineering sector for
+many years. We asked questions aimed at discovering
+what he did in his time on the Farm, about what led him
+to engineering, and about any advice he may have for
+current students. Here are his answers! You can contact
+Mario and many other alumni for career-related questions
+by logging onto
+https://www.stanfordalumni.org/career/scn/
+
+1973, MS ELECTRICAL ENGINEERING
+STANFORD UNIVERSITY
+I should explain first that I was married on October 12,
+1968 in my freshman year of college. By the time I fin
+ished undergraduate studies with a BSEE at Manhattan
+College in 1972, I had accepted a career position as
+Member of Technical Staff at AT&T Bell Labs in Holmdel
+NJ.
+What did you study in college? What were your favorite classes?
+I studied Electrical Engineering at both the graduate and
+undergraduate level. As I said before, my undergraduate
+degree is a BSEE from Manhattan College where I studied
+electronics and digital design. As a new hire at AT&T Bell
+Labs, I was eligible for a one of a kind opportunity known
+then as the One Year on Campus (OYOC) program. I
+was to select the University graduate program of my
+choice to earn a Master's degree on their tab. I applied
+and was accepted at MIT, University of Illinois at Urbana-
+Champaign, University of Michigan at Ann Arbor, and
+Stanford. I chose Stanford because at the time there was
+an option to take additional course credits to substitute for
+a master's thesis. This allowed me to complete my
+Master's degree requirements in one calendar year. I really
+enjoyed Fourier Transform Theory, and spent many a
+sleepless night at the Stanford computer center writing
+software for any one of several programming courses.
+What kinds of activities were you involved in while you were at
+Stanford? Did you join any clubs or student organizations?
+When I came to Stanford in September 1972, I brought
+my wife Liz, my 3 year old daughter Lizette, and my 1 year
+old son Marcus. Since I was born in Cuba, and my wife
+was also Cuban (although born in Queens NY), we tend
+ed to be attracted to other international students, but espe
+cially the Hispanic students living in Escondido Village. I
+had one year to finish my work, so I did not join any orga
+nizations, but my wife and I made lots of friends among
+the residents of the Escondido Village row houses
+designed for families with children.
+When you came to Stanford, did you have any thoughts about your
+career plons? If so, what were those thoughts?
+I was already employed by AT&T Bell Labs. My thoughts
+
+were to complete my education in telecommunications,
+and go back to work as an MTS in the Data
+Communications Laboratory at the Holmdel NJ facility.
+Looking back, I probably should have stayed in the Bay
+Area, where I could have been part of the revolution that
+rocked the area with startups like Cisco, and SUN for
+example.
+What did you do with your summers? (i.e. work, volunteer, travel,
+other experiences) What did you take away from those experi
+ences?
+I was busy taking courses during the summer months as
+well, since I needed to finish in one year. However, my wife
+and I enjoyed the San Francisco Bay Area immensely while
+we were there. I recall that the Bay itself is quite chilly, even
+in the summer months. I think it was Samuel Clemens who
+said: "Coldest winter I ever spent was a summer in San
+Francisco". My parents came to visit us and the children
+during the summer, and we had a wonderful time explor
+ing the City by the Bay, Sausalito, and the wine country
+whenever we had the chance.
+What was your first job after graduation and what did you have to
+do to find it?
+My first job was in the Data Communications Laboratory
+at AT&T Bell Labs in Holmdel NJ. I got this job from cam
+pus interviews at my undergraduate school.
+What were the major responsibilities in your first job? Was it what
+you expected?
+On of my first responsibilities as an MTS at Bell Labs was
+to come with a device that could decode DTMF signaling
+using digital rather than the traditional analog technolo
+gies. I used digital counters and clocks to build a time
+domain tone detector. Intel was just coming out with some
+of their first microprocessors at the time, but I stuck with
+the discrete logic design.
+How did your career evolve after that? How did you experiences
+lead to other opportunities?
+In 1976 I took a job with the Ford Motor Co Electrical
+and Electronics Division in Dearborn Michigan. My experi
+ence in digital design gave me the opportunity to create
+the prototype for what was later called the Electronic
+Engine Controller 3rd Generation, or EEC-111. I used small
+to medium scale integrated digital circuits to create shift
+registers, instruction counters, and instruction decoders to
+form a prototype for a microprocessor. I later took this
+design to Intel and Motorola to create a Large Scale
+Integrated circuit equivalent of this hardware design proto
+type. At the facility where I worked in Taylor Ml, we were
+able to attach sensors to and control a 1977 Ford LTD
+sedan with my design. My colleagues designed the elec
+tronic fuel injection circuit and the A/D Converters for the
+analog sensors.
+What skills and experiences from college were most important in
+your career development?
+
+What I learned more than anything else is how to adapt
+and evolve. The generation I contributed to was as fast
+moving as it is today. I learned how to analyze and think I
+new and creative ways. I also had to keep up with the lat
+est trends: the microprocessor, object oriented software,
+LAN/WAN technology, the ARPANET, and of course, the
+Internet.
+Please provide a brief description of your current role and exam
+ples of typical tasks or projects.
+Currently I am working for a Large Federal Government
+contractor, assigned to Business Development tasks as an
+Advanced Programs Systems Engineer. I write proposals to
+win bids with Federal, State and Local government pro
+grams. I specialize in Enterprise level web-enabled data
+base applications, Storage Area Networks, and embedded
+controllers.
+Please provide a brief chronology of your career —the major pro
+jects or turning points.
+My current employment is a brand new job for me. In my
+previous employment, I lead a team of 20 Java/J2EE soft
+ware developers at the Lakehurst Naval Engineering
+Center to create enterprise web-enabled database appli
+cations for the US Navy to be deployed on board Nimitz
+Class Aircraft Carriers. Before that, I was with a venture
+capital startup that developed Fiber Optic Switch/Router
+technology. I designed the embedded real-time software
+and digital controllers that operated the optical circuit
+packs for the All Optical MEMS based Dense Wavelength
+Division Multiplexor (DWDM). I hold 2 US Patents based
+on this work. In 1999, I was part of a Lucent Bell Labs
+team on the MONET project, which replaced an OC-48
+SONET ring with a DWDM network serving NASA, the
+NSA, the Naval Research Lab (NRL), DISA, DARPA, and
+the DIA.
+HERE IS A BRIEF CAREER CHRONOLOGY OF ACCOMPLISHMENTS:
+• ADMACS [2004 - 2005] Large J2EE/Oracle/JBoss
+App Suite for 300 users
+• SEI CMM Level 3 [2005] - ADMACS J2EE Project
+Certified
+• ASRLW [2003] - Architect of Web Application wins
+Navy CIO Award
+• DWDM Optical Switch [2000-2003] 2US Patents
+for Embedded Controllers
+• MONET [1998 - 2000] - DWDM All Optical Ring
+Wash DC NSA, NASA, NRL
+• SONET Ring Controller[2ooo] IUS and 1 European
+Patent with Lucent
+• National ISDN [1996 - 1998] - Software Features for
+Lucent ISDN Phones
+• ISDN TAPI [1993- 1996] Telephony Driver
+Software for ISDN Phones
+• Video Phone [1991 - 1993] - File Transfer software
+for ISDN Video Phone
+• AT&T 32 Bit uP [1985 1990] - Software
+Simulation/Test of IC Designs
+• Perkin Elmer Ethernet [1982 - 1985] Designed 2
+Product Ethernet Boards
+• RCA Labs Ethernet [1980 - 1982] - First
+Bus LAN Architecture Deployed
+• United States Patent 6,731,832, Alvarez et al,
+May 4 2004, "Detection of module
+insertion/removal in a modular optical net
+work, and methods and apparatus therefor"
+• United States Patent 6,766,113, Al-Salameh et
+al, July 20 2004, "Control channel processor
+and switching mechanism"
+• United States Patent 7,013,084, Abdella Battou
+et al, Mar 14, 2006, "Mutli-Tiered Control
+Architecture for Adaptive Optical Networks,
+and Methods and Aparatus Therefor"
+• European Patent no. EP116481 1 A, "Control
+Channel Processor and Switching Mechanism",
+AL-SALAMEH DANIEL Y (US); ALVAREZ MARIO
+F (US); LEVY DAVID S (US); SARATHY
+JITHAMITHRA (US); TZATHAS ANASTASIOS
+(US), Issued Dec 19, 2001
+If you could no back in lime, what do you wish you
+had known about the job-search process or careers in
+general as a college freshman? Another way of putting
+this is, what resources do you wish you had had at
+your disposal?
+I wish I knew that a technology revolution was
+coming to the Bay Area after I got my Master's
+Degree from Stanford. Where was the Internet
+when I needed it ?.
+What are a couple interesting things happening right
+now in your sector? Where can students go to Tina out
+more information (i.e. magazines, web sites, upcoming
+events)?
+I would recommend that students in Electrical
+Engineering get involved in the Institute of
+Electrical and Electronic Engineers (lEEE), the
+Association for Computing Machinery (ACM),
+and the lEEE Computer Society. Also, subscribe
+to any one of dozens of free magazines that
+chronicle the Computer Industry today. Keep
+an eye on Google; I see lots of interesting new
+ideas coming from them.
+
+In this section, we enlisted the help of Stanford alum Mario
+Alvarez, who has worked in the engineering sector for
+many years. We asked questions aimed at discovering
+what he did in his time on the Farm, about what led him
+to engineering, and about any advice he may have for
+current students. Here are his answers! You can contact
+Mario and many other alumni for career-related questions
+by logging onto
+https://www.stanfordalumni.org/career/scn/
+
+1973, MS ELECTRICAL ENGINEERING
+STANFORD UNIVERSITY
+I should explain first that I was married on October 12,
+1968 in my freshman year of college. By the time I fin
+ished undergraduate studies with a BSEE at Manhattan
+College in 1972, I had accepted a career position as
+Member of Technical Staff at AT&T Bell Labs in Holmdel
+NJ.
+What did you study in college? What were your favorite classes?
+I studied Electrical Engineering at both the graduate and
+undergraduate level. As I said before, my undergraduate
+degree is a BSEE from Manhattan College where I studied
+electronics and digital design. As a new hire at AT&T Bell
+Labs, I was eligible for a one of a kind opportunity known
+then as the One Year on Campus (OYOC) program. I
+was to select the University graduate program of my
+choice to earn a Master's degree on their tab. I applied
+and was accepted at MIT, University of Illinois at Urbana-
+Champaign, University of Michigan at Ann Arbor, and
+Stanford. I chose Stanford because at the time there was
+an option to take additional course credits to substitute for
+a master's thesis. This allowed me to complete my
+Master's degree requirements in one calendar year. I really
+enjoyed Fourier Transform Theory, and spent many a
+sleepless night at the Stanford computer center writing
+software for any one of several programming courses.
+What kinds of activities were you involved in while you were at
+Stanford? Did you join any clubs or student organizations?
+When I came to Stanford in September 1972, I brought
+my wife Liz, my 3 year old daughter Lizette, and my 1 year
+old son Marcus. Since I was born in Cuba, and my wife
+was also Cuban (although born in Queens NY), we tend
+ed to be attracted to other international students, but espe
+cially the Hispanic students living in Escondido Village. I
+had one year to finish my work, so I did not join any orga
+nizations, but my wife and I made lots of friends among
+the residents of the Escondido Village row houses
+designed for families with children.
+When you came to Stanford, did you have any thoughts about your
+career plons? If so, what were those thoughts?
+I was already employed by AT&T Bell Labs. My thoughts
+
+were to complete my education in telecommunications,
+and go back to work as an MTS in the Data
+Communications Laboratory at the Holmdel NJ facility.
+Looking back, I probably should have stayed in the Bay
+Area, where I could have been part of the revolution that
+rocked the area with startups like Cisco, and SUN for
+example.
+What did you do with your summers? (i.e. work, volunteer, travel,
+other experiences) What did you take away from those experi
+ences?
+I was busy taking courses during the summer months as
+well, since I needed to finish in one year. However, my wife
+and I enjoyed the San Francisco Bay Area immensely while
+we were there. I recall that the Bay itself is quite chilly, even
+in the summer months. I think it was Samuel Clemens who
+said: "Coldest winter I ever spent was a summer in San
+Francisco". My parents came to visit us and the children
+during the summer, and we had a wonderful time explor
+ing the City by the Bay, Sausalito, and the wine country
+whenever we had the chance.
+What was your first job after graduation and what did you have to
+do to find it?
+My first job was in the Data Communications Laboratory
+at AT&T Bell Labs in Holmdel NJ. I got this job from cam
+pus interviews at my undergraduate school.
+What were the major responsibilities in your first job? Was it what
+you expected?
+On of my first responsibilities as an MTS at Bell Labs was
+to come with a device that could decode DTMF signaling
+using digital rather than the traditional analog technolo
+gies. I used digital counters and clocks to build a time
+domain tone detector. Intel was just coming out with some
+of their first microprocessors at the time, but I stuck with
+the discrete logic design.
+How did your career evolve after that? How did you experiences
+lead to other opportunities?
+In 1976 I took a job with the Ford Motor Co Electrical
+and Electronics Division in Dearborn Michigan. My experi
+ence in digital design gave me the opportunity to create
+the prototype for what was later called the Electronic
+Engine Controller 3rd Generation, or EEC-111. I used small
+to medium scale integrated digital circuits to create shift
+registers, instruction counters, and instruction decoders to
+form a prototype for a microprocessor. I later took this
+design to Intel and Motorola to create a Large Scale
+Integrated circuit equivalent of this hardware design proto
+type. At the facility where I worked in Taylor Ml, we were
+able to attach sensors to and control a 1977 Ford LTD
+sedan with my design. My colleagues designed the elec
+tronic fuel injection circuit and the A/D Converters for the
+analog sensors.
+What skills and experiences from college were most important in
+your career development?
+
+What I learned more than anything else is how to adapt
+and evolve. The generation I contributed to was as fast
+moving as it is today. I learned how to analyze and think I
+new and creative ways. I also had to keep up with the lat
+est trends: the microprocessor, object oriented software,
+LAN/WAN technology, the ARPANET, and of course, the
+Internet.
+Please provide a brief description of your current role and exam
+ples of typical tasks or projects.
+Currently I am working for a Large Federal Government
+contractor, assigned to Business Development tasks as an
+Advanced Programs Systems Engineer. I write proposals to
+win bids with Federal, State and Local government pro
+grams. I specialize in Enterprise level web-enabled data
+base applications, Storage Area Networks, and embedded
+controllers.
+Please provide a brief chronology of your career —the major pro
+jects or turning points.
+My current employment is a brand new job for me. In my
+previous employment, I lead a team of 20 Java/J2EE soft
+ware developers at the Lakehurst Naval Engineering
+Center to create enterprise web-enabled database appli
+cations for the US Navy to be deployed on board Nimitz
+Class Aircraft Carriers. Before that, I was with a venture
+capital startup that developed Fiber Optic Switch/Router
+technology. I designed the embedded real-time software
+and digital controllers that operated the optical circuit
+packs for the All Optical MEMS based Dense Wavelength
+Division Multiplexor (DWDM). I hold 2 US Patents based
+on this work. In 1999, I was part of a Lucent Bell Labs
+team on the MONET project, which replaced an OC-48
+SONET ring with a DWDM network serving NASA, the
+NSA, the Naval Research Lab (NRL), DISA, DARPA, and
+the DIA.
+HERE IS A BRIEF CAREER CHRONOLOGY OF ACCOMPLISHMENTS:
+• ADMACS [2004 - 2005] Large J2EE/Oracle/JBoss
+App Suite for 300 users
+• SEI CMM Level 3 [2005] - ADMACS J2EE Project
+Certified
+• ASRLW [2003] - Architect of Web Application wins
+Navy CIO Award
+• DWDM Optical Switch [2000-2003] 2US Patents
+for Embedded Controllers
+• MONET [1998 - 2000] - DWDM All Optical Ring
+Wash DC NSA, NASA, NRL
+• SONET Ring Controller[2ooo] IUS and 1 European
+Patent with Lucent
+• National ISDN [1996 - 1998] - Software Features for
+Lucent ISDN Phones
+• ISDN TAPI [1993- 1996] Telephony Driver
+Software for ISDN Phones
+• Video Phone [1991 - 1993] - File Transfer software
+for ISDN Video Phone
+• AT&T 32 Bit uP [1985 1990] - Software
+Simulation/Test of IC Designs
+• Perkin Elmer Ethernet [1982 - 1985] Designed 2
+Product Ethernet Boards
+• RCA Labs Ethernet [1980 - 1982] - First
+Bus LAN Architecture Deployed
+• United States Patent 6,731,832, Alvarez et al,
+May 4 2004, "Detection of module
+insertion/removal in a modular optical net
+work, and methods and apparatus therefor"
+• United States Patent 6,766,113, Al-Salameh et
+al, July 20 2004, "Control channel processor
+and switching mechanism"
+• United States Patent 7,013,084, Abdella Battou
+et al, Mar 14, 2006, "Mutli-Tiered Control
+Architecture for Adaptive Optical Networks,
+and Methods and Aparatus Therefor"
+• European Patent no. EP116481 1 A, "Control
+Channel Processor and Switching Mechanism",
+AL-SALAMEH DANIEL Y (US); ALVAREZ MARIO
+F (US); LEVY DAVID S (US); SARATHY
+JITHAMITHRA (US); TZATHAS ANASTASIOS
+(US), Issued Dec 19, 2001
+If you could no back in lime, what do you wish you
+had known about the job-search process or careers in
+general as a college freshman? Another way of putting
+this is, what resources do you wish you had had at
+your disposal?
+I wish I knew that a technology revolution was
+coming to the Bay Area after I got my Master's
+Degree from Stanford. Where was the Internet
+when I needed it ?.
+What are a couple interesting things happening right
+now in your sector? Where can students go to Tina out
+more information (i.e. magazines, web sites, upcoming
+events)?
+I would recommend that students in Electrical
+Engineering get involved in the Institute of
+Electrical and Electronic Engineers (lEEE), the
+Association for Computing Machinery (ACM),
+and the lEEE Computer Society. Also, subscribe
+to any one of dozens of free magazines that
+chronicle the Computer Industry today. Keep
+an eye on Google; I see lots of interesting new
+ideas coming from them.
+
+In this section, we enlisted the help of Stanford alum Mario
+Alvarez, who has worked in the engineering sector for
+many years. We asked questions aimed at discovering
+what he did in his time on the Farm, about what led him
+to engineering, and about any advice he may have for
+current students. Here are his answers! You can contact
+Mario and many other alumni for career-related questions
+by logging onto
+https://www.stanfordalumni.org/career/scn/
+
+1973, MS ELECTRICAL ENGINEERING
+STANFORD UNIVERSITY
+I should explain first that I was married on October 12,
+1968 in my freshman year of college. By the time I fin
+ished undergraduate studies with a BSEE at Manhattan
+College in 1972, I had accepted a career position as
+Member of Technical Staff at AT&T Bell Labs in Holmdel
+NJ.
+What did you study in college? What were your favorite classes?
+I studied Electrical Engineering at both the graduate and
+undergraduate level. As I said before, my undergraduate
+degree is a BSEE from Manhattan College where I studied
+electronics and digital design. As a new hire at AT&T Bell
+Labs, I was eligible for a one of a kind opportunity known
+then as the One Year on Campus (OYOC) program. I
+was to select the University graduate program of my
+choice to earn a Master's degree on their tab. I applied
+and was accepted at MIT, University of Illinois at Urbana-
+Champaign, University of Michigan at Ann Arbor, and
+Stanford. I chose Stanford because at the time there was
+an option to take additional course credits to substitute for
+a master's thesis. This allowed me to complete my
+Master's degree requirements in one calendar year. I really
+enjoyed Fourier Transform Theory, and spent many a
+sleepless night at the Stanford computer center writing
+software for any one of several programming courses.
+What kinds of activities were you involved in while you were at
+Stanford? Did you join any clubs or student organizations?
+When I came to Stanford in September 1972, I brought
+my wife Liz, my 3 year old daughter Lizette, and my 1 year
+old son Marcus. Since I was born in Cuba, and my wife
+was also Cuban (although born in Queens NY), we tend
+ed to be attracted to other international students, but espe
+cially the Hispanic students living in Escondido Village. I
+had one year to finish my work, so I did not join any orga
+nizations, but my wife and I made lots of friends among
+the residents of the Escondido Village row houses
+designed for families with children.
+When you came to Stanford, did you have any thoughts about your
+career plons? If so, what were those thoughts?
+I was already employed by AT&T Bell Labs. My thoughts
+
+were to complete my education in telecommunications,
+and go back to work as an MTS in the Data
+Communications Laboratory at the Holmdel NJ facility.
+Looking back, I probably should have stayed in the Bay
+Area, where I could have been part of the revolution that
+rocked the area with startups like Cisco, and SUN for
+example.
+What did you do with your summers? (i.e. work, volunteer, travel,
+other experiences) What did you take away from those experi
+ences?
+I was busy taking courses during the summer months as
+well, since I needed to finish in one year. However, my wife
+and I enjoyed the San Francisco Bay Area immensely while
+we were there. I recall that the Bay itself is quite chilly, even
+in the summer months. I think it was Samuel Clemens who
+said: "Coldest winter I ever spent was a summer in San
+Francisco". My parents came to visit us and the children
+during the summer, and we had a wonderful time explor
+ing the City by the Bay, Sausalito, and the wine country
+whenever we had the chance.
+What was your first job after graduation and what did you have to
+do to find it?
+My first job was in the Data Communications Laboratory
+at AT&T Bell Labs in Holmdel NJ. I got this job from cam
+pus interviews at my undergraduate school.
+What were the major responsibilities in your first job? Was it what
+you expected?
+On of my first responsibilities as an MTS at Bell Labs was
+to come with a device that could decode DTMF signaling
+using digital rather than the traditional analog technolo
+gies. I used digital counters and clocks to build a time
+domain tone detector. Intel was just coming out with some
+of their first microprocessors at the time, but I stuck with
+the discrete logic design.
+How did your career evolve after that? How did you experiences
+lead to other opportunities?
+In 1976 I took a job with the Ford Motor Co Electrical
+and Electronics Division in Dearborn Michigan. My experi
+ence in digital design gave me the opportunity to create
+the prototype for what was later called the Electronic
+Engine Controller 3rd Generation, or EEC-111. I used small
+to medium scale integrated digital circuits to create shift
+registers, instruction counters, and instruction decoders to
+form a prototype for a microprocessor. I later took this
+design to Intel and Motorola to create a Large Scale
+Integrated circuit equivalent of this hardware design proto
+type. At the facility where I worked in Taylor Ml, we were
+able to attach sensors to and control a 1977 Ford LTD
+sedan with my design. My colleagues designed the elec
+tronic fuel injection circuit and the A/D Converters for the
+analog sensors.
+What skills and experiences from college were most important in
+your career development?
+
+What I learned more than anything else is how to adapt
+and evolve. The generation I contributed to was as fast
+moving as it is today. I learned how to analyze and think I
+new and creative ways. I also had to keep up with the lat
+est trends: the microprocessor, object oriented software,
+LAN/WAN technology, the ARPANET, and of course, the
+Internet.
+Please provide a brief description of your current role and exam
+ples of typical tasks or projects.
+Currently I am working for a Large Federal Government
+contractor, assigned to Business Development tasks as an
+Advanced Programs Systems Engineer. I write proposals to
+win bids with Federal, State and Local government pro
+grams. I specialize in Enterprise level web-enabled data
+base applications, Storage Area Networks, and embedded
+controllers.
+Please provide a brief chronology of your career —the major pro
+jects or turning points.
+My current employment is a brand new job for me. In my
+previous employment, I lead a team of 20 Java/J2EE soft
+ware developers at the Lakehurst Naval Engineering
+Center to create enterprise web-enabled database appli
+cations for the US Navy to be deployed on board Nimitz
+Class Aircraft Carriers. Before that, I was with a venture
+capital startup that developed Fiber Optic Switch/Router
+technology. I designed the embedded real-time software
+and digital controllers that operated the optical circuit
+packs for the All Optical MEMS based Dense Wavelength
+Division Multiplexor (DWDM). I hold 2 US Patents based
+on this work. In 1999, I was part of a Lucent Bell Labs
+team on the MONET project, which replaced an OC-48
+SONET ring with a DWDM network serving NASA, the
+NSA, the Naval Research Lab (NRL), DISA, DARPA, and
+the DIA.
+HERE IS A BRIEF CAREER CHRONOLOGY OF ACCOMPLISHMENTS:
+• ADMACS [2004 - 2005] Large J2EE/Oracle/JBoss
+App Suite for 300 users
+• SEI CMM Level 3 [2005] - ADMACS J2EE Project
+Certified
+• ASRLW [2003] - Architect of Web Application wins
+Navy CIO Award
+• DWDM Optical Switch [2000-2003] 2US Patents
+for Embedded Controllers
+• MONET [1998 - 2000] - DWDM All Optical Ring
+Wash DC NSA, NASA, NRL
+• SONET Ring Controller[2ooo] IUS and 1 European
+Patent with Lucent
+• National ISDN [1996 - 1998] - Software Features for
+Lucent ISDN Phones
+• ISDN TAPI [1993- 1996] Telephony Driver
+Software for ISDN Phones
+• Video Phone [1991 - 1993] - File Transfer software
+for ISDN Video Phone
+• AT&T 32 Bit uP [1985 1990] - Software
+Simulation/Test of IC Designs
+• Perkin Elmer Ethernet [1982 - 1985] Designed 2
+Product Ethernet Boards
+• RCA Labs Ethernet [1980 - 1982] - First
+Bus LAN Architecture Deployed
+• United States Patent 6,731,832, Alvarez et al,
+May 4 2004, "Detection of module
+insertion/removal in a modular optical net
+work, and methods and apparatus therefor"
+• United States Patent 6,766,113, Al-Salameh et
+al, July 20 2004, "Control channel processor
+and switching mechanism"
+• United States Patent 7,013,084, Abdella Battou
+et al, Mar 14, 2006, "Mutli-Tiered Control
+Architecture for Adaptive Optical Networks,
+and Methods and Aparatus Therefor"
+• European Patent no. EP116481 1 A, "Control
+Channel Processor and Switching Mechanism",
+AL-SALAMEH DANIEL Y (US); ALVAREZ MARIO
+F (US); LEVY DAVID S (US); SARATHY
+JITHAMITHRA (US); TZATHAS ANASTASIOS
+(US), Issued Dec 19, 2001
+If you could no back in lime, what do you wish you
+had known about the job-search process or careers in
+general as a college freshman? Another way of putting
+this is, what resources do you wish you had had at
+your disposal?
+I wish I knew that a technology revolution was
+coming to the Bay Area after I got my Master's
+Degree from Stanford. Where was the Internet
+when I needed it ?.
+What are a couple interesting things happening right
+now in your sector? Where can students go to Tina out
+more information (i.e. magazines, web sites, upcoming
+events)?
+I would recommend that students in Electrical
+Engineering get involved in the Institute of
+Electrical and Electronic Engineers (lEEE), the
+Association for Computing Machinery (ACM),
+and the lEEE Computer Society. Also, subscribe
+to any one of dozens of free magazines that
+chronicle the Computer Industry today. Keep
+an eye on Google; I see lots of interesting new
+ideas coming from them.
+
+In this section, we enlisted the help of Stanford alum Mario
+Alvarez, who has worked in the engineering sector for
+many years. We asked questions aimed at discovering
+what he did in his time on the Farm, about what led him
+to engineering, and about any advice he may have for
+current students. Here are his answers! You can contact
+Mario and many other alumni for career-related questions
+by logging onto
+https://www.stanfordalumni.org/career/scn/
+
+1973, MS ELECTRICAL ENGINEERING
+STANFORD UNIVERSITY
+I should explain first that I was married on October 12,
+1968 in my freshman year of college. By the time I fin
+ished undergraduate studies with a BSEE at Manhattan
+College in 1972, I had accepted a career position as
+Member of Technical Staff at AT&T Bell Labs in Holmdel
+NJ.
+What did you study in college? What were your favorite classes?
+I studied Electrical Engineering at both the graduate and
+undergraduate level. As I said before, my undergraduate
+degree is a BSEE from Manhattan College where I studied
+electronics and digital design. As a new hire at AT&T Bell
+Labs, I was eligible for a one of a kind opportunity known
+then as the One Year on Campus (OYOC) program. I
+was to select the University graduate program of my
+choice to earn a Master's degree on their tab. I applied
+and was accepted at MIT, University of Illinois at Urbana-
+Champaign, University of Michigan at Ann Arbor, and
+Stanford. I chose Stanford because at the time there was
+an option to take additional course credits to substitute for
+a master's thesis. This allowed me to complete my
+Master's degree requirements in one calendar year. I really
+enjoyed Fourier Transform Theory, and spent many a
+sleepless night at the Stanford computer center writing
+software for any one of several programming courses.
+What kinds of activities were you involved in while you were at
+Stanford? Did you join any clubs or student organizations?
+When I came to Stanford in September 1972, I brought
+my wife Liz, my 3 year old daughter Lizette, and my 1 year
+old son Marcus. Since I was born in Cuba, and my wife
+was also Cuban (although born in Queens NY), we tend
+ed to be attracted to other international students, but espe
+cially the Hispanic students living in Escondido Village. I
+had one year to finish my work, so I did not join any orga
+nizations, but my wife and I made lots of friends among
+the residents of the Escondido Village row houses
+designed for families with children.
+When you came to Stanford, did you have any thoughts about your
+career plons? If so, what were those thoughts?
+I was already employed by AT&T Bell Labs. My thoughts
+
+were to complete my education in telecommunications,
+and go back to work as an MTS in the Data
+Communications Laboratory at the Holmdel NJ facility.
+Looking back, I probably should have stayed in the Bay
+Area, where I could have been part of the revolution that
+rocked the area with startups like Cisco, and SUN for
+example.
+What did you do with your summers? (i.e. work, volunteer, travel,
+other experiences) What did you take away from those experi
+ences?
+I was busy taking courses during the summer months as
+well, since I needed to finish in one year. However, my wife
+and I enjoyed the San Francisco Bay Area immensely while
+we were there. I recall that the Bay itself is quite chilly, even
+in the summer months. I think it was Samuel Clemens who
+said: "Coldest winter I ever spent was a summer in San
+Francisco". My parents came to visit us and the children
+during the summer, and we had a wonderful time explor
+ing the City by the Bay, Sausalito, and the wine country
+whenever we had the chance.
+What was your first job after graduation and what did you have to
+do to find it?
+My first job was in the Data Communications Laboratory
+at AT&T Bell Labs in Holmdel NJ. I got this job from cam
+pus interviews at my undergraduate school.
+What were the major responsibilities in your first job? Was it what
+you expected?
+On of my first responsibilities as an MTS at Bell Labs was
+to come with a device that could decode DTMF signaling
+using digital rather than the traditional analog technolo
+gies. I used digital counters and clocks to build a time
+domain tone detector. Intel was just coming out with some
+of their first microprocessors at the time, but I stuck with
+the discrete logic design.
+How did your career evolve after that? How did you experiences
+lead to other opportunities?
+In 1976 I took a job with the Ford Motor Co Electrical
+and Electronics Division in Dearborn Michigan. My experi
+ence in digital design gave me the opportunity to create
+the prototype for what was later called the Electronic
+Engine Controller 3rd Generation, or EEC-111. I used small
+to medium scale integrated digital circuits to create shift
+registers, instruction counters, and instruction decoders to
+form a prototype for a microprocessor. I later took this
+design to Intel and Motorola to create a Large Scale
+Integrated circuit equivalent of this hardware design proto
+type. At the facility where I worked in Taylor Ml, we were
+able to attach sensors to and control a 1977 Ford LTD
+sedan with my design. My colleagues designed the elec
+tronic fuel injection circuit and the A/D Converters for the
+analog sensors.
+What skills and experiences from college were most important in
+your career development?
+
+What I learned more than anything else is how to adapt
+and evolve. The generation I contributed to was as fast
+moving as it is today. I learned how to analyze and think I
+new and creative ways. I also had to keep up with the lat
+est trends: the microprocessor, object oriented software,
+LAN/WAN technology, the ARPANET, and of course, the
+Internet.
+Please provide a brief description of your current role and exam
+ples of typical tasks or projects.
+Currently I am working for a Large Federal Government
+contractor, assigned to Business Development tasks as an
+Advanced Programs Systems Engineer. I write proposals to
+win bids with Federal, State and Local government pro
+grams. I specialize in Enterprise level web-enabled data
+base applications, Storage Area Networks, and embedded
+controllers.
+Please provide a brief chronology of your career —the major pro
+jects or turning points.
+My current employment is a brand new job for me. In my
+previous employment, I lead a team of 20 Java/J2EE soft
+ware developers at the Lakehurst Naval Engineering
+Center to create enterprise web-enabled database appli
+cations for the US Navy to be deployed on board Nimitz
+Class Aircraft Carriers. Before that, I was with a venture
+capital startup that developed Fiber Optic Switch/Router
+technology. I designed the embedded real-time software
+and digital controllers that operated the optical circuit
+packs for the All Optical MEMS based Dense Wavelength
+Division Multiplexor (DWDM). I hold 2 US Patents based
+on this work. In 1999, I was part of a Lucent Bell Labs
+team on the MONET project, which replaced an OC-48
+SONET ring with a DWDM network serving NASA, the
+NSA, the Naval Research Lab (NRL), DISA, DARPA, and
+the DIA.
+HERE IS A BRIEF CAREER CHRONOLOGY OF ACCOMPLISHMENTS:
+• ADMACS [2004 - 2005] Large J2EE/Oracle/JBoss
+App Suite for 300 users
+• SEI CMM Level 3 [2005] - ADMACS J2EE Project
+Certified
+• ASRLW [2003] - Architect of Web Application wins
+Navy CIO Award
+• DWDM Optical Switch [2000-2003] 2US Patents
+for Embedded Controllers
+• MONET [1998 - 2000] - DWDM All Optical Ring
+Wash DC NSA, NASA, NRL
+• SONET Ring Controller[2ooo] IUS and 1 European
+Patent with Lucent
+• National ISDN [1996 - 1998] - Software Features for
+Lucent ISDN Phones
+• ISDN TAPI [1993- 1996] Telephony Driver
+Software for ISDN Phones
+• Video Phone [1991 - 1993] - File Transfer software
+for ISDN Video Phone
+• AT&T 32 Bit uP [1985 1990] - Software
+Simulation/Test of IC Designs
+• Perkin Elmer Ethernet [1982 - 1985] Designed 2
+Product Ethernet Boards
+• RCA Labs Ethernet [1980 - 1982] - First
+Bus LAN Architecture Deployed
+• United States Patent 6,731,832, Alvarez et al,
+May 4 2004, "Detection of module
+insertion/removal in a modular optical net
+work, and methods and apparatus therefor"
+• United States Patent 6,766,113, Al-Salameh et
+al, July 20 2004, "Control channel processor
+and switching mechanism"
+• United States Patent 7,013,084, Abdella Battou
+et al, Mar 14, 2006, "Mutli-Tiered Control
+Architecture for Adaptive Optical Networks,
+and Methods and Aparatus Therefor"
+• European Patent no. EP116481 1 A, "Control
+Channel Processor and Switching Mechanism",
+AL-SALAMEH DANIEL Y (US); ALVAREZ MARIO
+F (US); LEVY DAVID S (US); SARATHY
+JITHAMITHRA (US); TZATHAS ANASTASIOS
+(US), Issued Dec 19, 2001
+If you could no back in lime, what do you wish you
+had known about the job-search process or careers in
+general as a college freshman? Another way of putting
+this is, what resources do you wish you had had at
+your disposal?
+I wish I knew that a technology revolution was
+coming to the Bay Area after I got my Master's
+Degree from Stanford. Where was the Internet
+when I needed it ?.
+What are a couple interesting things happening right
+now in your sector? Where can students go to Tina out
+more information (i.e. magazines, web sites, upcoming
+events)?
+I would recommend that students in Electrical
+Engineering get involved in the Institute of
+Electrical and Electronic Engineers (lEEE), the
+Association for Computing Machinery (ACM),
+and the lEEE Computer Society. Also, subscribe
+to any one of dozens of free magazines that
+chronicle the Computer Industry today. Keep
+an eye on Google; I see lots of interesting new
+ideas coming from them.
+
+In this section, we enlisted the help of Stanford alum Mario
+Alvarez, who has worked in the engineering sector for
+many years. We asked questions aimed at discovering
+what he did in his time on the Farm, about what led him
+to engineering, and about any advice he may have for
+current students. Here are his answers! You can contact
+Mario and many other alumni for career-related questions
+by logging onto
+https://www.stanfordalumni.org/career/scn/
+
+1973, MS ELECTRICAL ENGINEERING
+STANFORD UNIVERSITY
+I should explain first that I was married on October 12,
+1968 in my freshman year of college. By the time I fin
+ished undergraduate studies with a BSEE at Manhattan
+College in 1972, I had accepted a career position as
+Member of Technical Staff at AT&T Bell Labs in Holmdel
+NJ.
+What did you study in college? What were your favorite classes?
+I studied Electrical Engineering at both the graduate and
+undergraduate level. As I said before, my undergraduate
+degree is a BSEE from Manhattan College where I studied
+electronics and digital design. As a new hire at AT&T Bell
+Labs, I was eligible for a one of a kind opportunity known
+then as the One Year on Campus (OYOC) program. I
+was to select the University graduate program of my
+choice to earn a Master's degree on their tab. I applied
+and was accepted at MIT, University of Illinois at Urbana-
+Champaign, University of Michigan at Ann Arbor, and
+Stanford. I chose Stanford because at the time there was
+an option to take additional course credits to substitute for
+a master's thesis. This allowed me to complete my
+Master's degree requirements in one calendar year. I really
+enjoyed Fourier Transform Theory, and spent many a
+sleepless night at the Stanford computer center writing
+software for any one of several programming courses.
+What kinds of activities were you involved in while you were at
+Stanford? Did you join any clubs or student organizations?
+When I came to Stanford in September 1972, I brought
+my wife Liz, my 3 year old daughter Lizette, and my 1 year
+old son Marcus. Since I was born in Cuba, and my wife
+was also Cuban (although born in Queens NY), we tend
+ed to be attracted to other international students, but espe
+cially the Hispanic students living in Escondido Village. I
+had one year to finish my work, so I did not join any orga
+nizations, but my wife and I made lots of friends among
+the residents of the Escondido Village row houses
+designed for families with children.
+When you came to Stanford, did you have any thoughts about your
+career plons? If so, what were those thoughts?
+I was already employed by AT&T Bell Labs. My thoughts
+
+were to complete my education in telecommunications,
+and go back to work as an MTS in the Data
+Communications Laboratory at the Holmdel NJ facility.
+Looking back, I probably should have stayed in the Bay
+Area, where I could have been part of the revolution that
+rocked the area with startups like Cisco, and SUN for
+example.
+What did you do with your summers? (i.e. work, volunteer, travel,
+other experiences) What did you take away from those experi
+ences?
+I was busy taking courses during the summer months as
+well, since I needed to finish in one year. However, my wife
+and I enjoyed the San Francisco Bay Area immensely while
+we were there. I recall that the Bay itself is quite chilly, even
+in the summer months. I think it was Samuel Clemens who
+said: "Coldest winter I ever spent was a summer in San
+Francisco". My parents came to visit us and the children
+during the summer, and we had a wonderful time explor
+ing the City by the Bay, Sausalito, and the wine country
+whenever we had the chance.
+What was your first job after graduation and what did you have to
+do to find it?
+My first job was in the Data Communications Laboratory
+at AT&T Bell Labs in Holmdel NJ. I got this job from cam
+pus interviews at my undergraduate school.
+What were the major responsibilities in your first job? Was it what
+you expected?
+On of my first responsibilities as an MTS at Bell Labs was
+to come with a device that could decode DTMF signaling
+using digital rather than the traditional analog technolo
+gies. I used digital counters and clocks to build a time
+domain tone detector. Intel was just coming out with some
+of their first microprocessors at the time, but I stuck with
+the discrete logic design.
+How did your career evolve after that? How did you experiences
+lead to other opportunities?
+In 1976 I took a job with the Ford Motor Co Electrical
+and Electronics Division in Dearborn Michigan. My experi
+ence in digital design gave me the opportunity to create
+the prototype for what was later called the Electronic
+Engine Controller 3rd Generation, or EEC-111. I used small
+to medium scale integrated digital circuits to create shift
+registers, instruction counters, and instruction decoders to
+form a prototype for a microprocessor. I later took this
+design to Intel and Motorola to create a Large Scale
+Integrated circuit equivalent of this hardware design proto
+type. At the facility where I worked in Taylor Ml, we were
+able to attach sensors to and control a 1977 Ford LTD
+sedan with my design. My colleagues designed the elec
+tronic fuel injection circuit and the A/D Converters for the
+analog sensors.
+What skills and experiences from college were most important in
+your career development?
+
+What I learned more than anything else is how to adapt
+and evolve. The generation I contributed to was as fast
+moving as it is today. I learned how to analyze and think I
+new and creative ways. I also had to keep up with the lat
+est trends: the microprocessor, object oriented software,
+LAN/WAN technology, the ARPANET, and of course, the
+Internet.
+Please provide a brief description of your current role and exam
+ples of typical tasks or projects.
+Currently I am working for a Large Federal Government
+contractor, assigned to Business Development tasks as an
+Advanced Programs Systems Engineer. I write proposals to
+win bids with Federal, State and Local government pro
+grams. I specialize in Enterprise level web-enabled data
+base applications, Storage Area Networks, and embedded
+controllers.
+Please provide a brief chronology of your career —the major pro
+jects or turning points.
+My current employment is a brand new job for me. In my
+previous employment, I lead a team of 20 Java/J2EE soft
+ware developers at the Lakehurst Naval Engineering
+Center to create enterprise web-enabled database appli
+cations for the US Navy to be deployed on board Nimitz
+Class Aircraft Carriers. Before that, I was with a venture
+capital startup that developed Fiber Optic Switch/Router
+technology. I designed the embedded real-time software
+and digital controllers that operated the optical circuit
+packs for the All Optical MEMS based Dense Wavelength
+Division Multiplexor (DWDM). I hold 2 US Patents based
+on this work. In 1999, I was part of a Lucent Bell Labs
+team on the MONET project, which replaced an OC-48
+SONET ring with a DWDM network serving NASA, the
+NSA, the Naval Research Lab (NRL), DISA, DARPA, and
+the DIA.
+HERE IS A BRIEF CAREER CHRONOLOGY OF ACCOMPLISHMENTS:
+• ADMACS [2004 - 2005] Large J2EE/Oracle/JBoss
+App Suite for 300 users
+• SEI CMM Level 3 [2005] - ADMACS J2EE Project
+Certified
+• ASRLW [2003] - Architect of Web Application wins
+Navy CIO Award
+• DWDM Optical Switch [2000-2003] 2US Patents
+for Embedded Controllers
+• MONET [1998 - 2000] - DWDM All Optical Ring
+Wash DC NSA, NASA, NRL
+• SONET Ring Controller[2ooo] IUS and 1 European
+Patent with Lucent
+• National ISDN [1996 - 1998] - Software Features for
+Lucent ISDN Phones
+• ISDN TAPI [1993- 1996] Telephony Driver
+Software for ISDN Phones
+• Video Phone [1991 - 1993] - File Transfer software
+for ISDN Video Phone
+• AT&T 32 Bit uP [1985 1990] - Software
+Simulation/Test of IC Designs
+• Perkin Elmer Ethernet [1982 - 1985] Designed 2
+Product Ethernet Boards
+• RCA Labs Ethernet [1980 - 1982] - First
+Bus LAN Architecture Deployed
+• United States Patent 6,731,832, Alvarez et al,
+May 4 2004, "Detection of module
+insertion/removal in a modular optical net
+work, and methods and apparatus therefor"
+• United States Patent 6,766,113, Al-Salameh et
+al, July 20 2004, "Control channel processor
+and switching mechanism"
+• United States Patent 7,013,084, Abdella Battou
+et al, Mar 14, 2006, "Mutli-Tiered Control
+Architecture for Adaptive Optical Networks,
+and Methods and Aparatus Therefor"
+• European Patent no. EP116481 1 A, "Control
+Channel Processor and Switching Mechanism",
+AL-SALAMEH DANIEL Y (US); ALVAREZ MARIO
+F (US); LEVY DAVID S (US); SARATHY
+JITHAMITHRA (US); TZATHAS ANASTASIOS
+(US), Issued Dec 19, 2001
+If you could no back in lime, what do you wish you
+had known about the job-search process or careers in
+general as a college freshman? Another way of putting
+this is, what resources do you wish you had had at
+your disposal?
+I wish I knew that a technology revolution was
+coming to the Bay Area after I got my Master's
+Degree from Stanford. Where was the Internet
+when I needed it ?.
+What are a couple interesting things happening right
+now in your sector? Where can students go to Tina out
+more information (i.e. magazines, web sites, upcoming
+events)?
+I would recommend that students in Electrical
+Engineering get involved in the Institute of
+Electrical and Electronic Engineers (lEEE), the
+Association for Computing Machinery (ACM),
+and the lEEE Computer Society. Also, subscribe
+to any one of dozens of free magazines that
+chronicle the Computer Industry today. Keep
+an eye on Google; I see lots of interesting new
+ideas coming from them.
+

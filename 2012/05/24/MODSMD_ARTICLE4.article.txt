@@ -1,0 +1,1179 @@
+# RESEARCH
+## Stanford team explores hypersonic flight theory 
+### FELIX BOYEAUX CONTRIBUTING WRITER 
+The possibility of hyperson
+ic flight offering endless po
+tential in air and space travel
+but also posing numerous engi
+neering challenges recently
+became the domain of Stanford
+engineers. The Stanford Predic
+tive Science Academic Alliance
+Program (PSAAP) received a
+five-year $2O million grant from
+the U.S. Department of Energy
+(DOE) to investigate the sub
+
+ject virtually.
+The DOE awarded grants to
+five universities interested in
+researching and developing so
+lutions to overarching prob
+lems as varied as the hyperve
+locity impact of metallic projec
+tiles and the atmospheric re
+entry of space capsules. The
+Stanford team chose to tackle
+the challenge of hypersonic
+flight, which could potentially
+result in speeds of up to 15
+
+
+M.J MA/The Stanford Daily
+times the speed of sound.
+"We considered many appli
+cations for our predictive science
+program before submitting our
+final proposal," said Parviz Moin
+M.S. '75 '7B Ph.D. '7B, professor
+of mechanical engineering and
+PSAAP faculty director. "We fi
+nally settled with hypersonic
+flight as we thought it would be a
+project we would have fun with
+and enjoy working on, and it was
+a technological grand challenge."
+The project also allows for
+multidisciplinary cooperation
+between the Computer Science,
+Aeronautic and Astronautic En
+gineering, Mechanical Engineer
+
+ing and Mathematics depart
+ments, as well as Stanford's Insti
+tute for Computational and
+Mathematical Engineering.
+"An overarching problem like
+this one is the best catalyst to
+promote interdisciplinary re
+search," Moin said. "Thanks to
+the combined work of these de
+partments, we have already
+pushed and developed new nu
+merical techniques, physical
+models and computational plat
+forms that are paving the way for
+predictive science."
+Stanford is at the cutting edge
+of research in the discipline, ac
+cording to Moin, having even pi
+oneered a new science known as
+uncertainty quantification.
+"Uncertainty quantification
+allows us to assess uncertainties
+in our numerical solutions,"
+Moin explained. "We can back
+
+up our predictions with data
+about the error bounds.This
+might be the most important
+topic in the future of computa
+tional science."
+Moin also highlighted the im
+pact of the DOE grant on the
+program's operations.
+"We have essentially been
+able to create a new mini nation
+al laboratory," Moin said. "We
+have a large cadre of postdoctor
+al fellows and graduate students
+who interact in away that has
+never been seen before. It has
+been a paradigm shift in the way
+we do research."
+The "large cadre" of faculty,
+postdoctoral fellows and gradu
+ate students is necessary to tackle
+the challenges of hypersonic
+flight, according to Moin.
+"Nobody has been able to sus
+tain hypersonic flight propulsion
+
+for a longer amount of time,"
+Moin said. "Most tests have
+failed, and the few who succeeded
+lasted for only a few seconds."
+The problem, Moin said, is that
+at hypersonic speed air flows into
+the combustion chamber of a
+scramjet engine at speeds up to
+Mach 15. The time in which the
+combustion has to occur is infini
+tesimally short, and mastering
+such a reaction is the main chal
+lenge of the project.
+"The equations are all well
+known, but they are very hard to
+solve," Moin said.
+The team's extensive collabo
+ration with the Computer Science
+Department, and the use of some
+of the world's fastest supercom
+puters to model hypersonic flight,
+is a direct consequence of the
+equations' complexity.
+"We are heading towards exas
+
+cale computations, with more
+than one quintillion flops [float
+ing-point operations per second]
+and one million cores running si
+multaneously," Moin said, ex
+plaining that the coding and han
+dling of such supercomputers has
+required extensive Computer Sci
+ence involvement.
+The breakthroughs the Stan
+ford PSAAP team has already
+made and anticipates making in
+researching hypersonic flight are
+likely to impact many other fields.
+"We now know how to simu
+late very complex flow dynam
+ics," Moin said. "This very tech
+nology can also be applied to au
+tomobiles, wind turbines, new en
+ergy conversion technologies and
+in environmental science."
+
+Contact Felix Boyeaux atfboyeaux
+@stanford.edu.
+The possibility of hyperson
+ic flight offering endless po
+tential in air and space travel
+but also posing numerous engi
+neering challenges recently
+became the domain of Stanford
+engineers. The Stanford Predic
+tive Science Academic Alliance
+Program (PSAAP) received a
+five-year $2O million grant from
+the U.S. Department of Energy
+(DOE) to investigate the sub
+
+ject virtually.
+The DOE awarded grants to
+five universities interested in
+researching and developing so
+lutions to overarching prob
+lems as varied as the hyperve
+locity impact of metallic projec
+tiles and the atmospheric re
+entry of space capsules. The
+Stanford team chose to tackle
+the challenge of hypersonic
+flight, which could potentially
+result in speeds of up to 15
+
+
+M.J MA/The Stanford Daily
+times the speed of sound.
+"We considered many appli
+cations for our predictive science
+program before submitting our
+final proposal," said Parviz Moin
+M.S. '75 '7B Ph.D. '7B, professor
+of mechanical engineering and
+PSAAP faculty director. "We fi
+nally settled with hypersonic
+flight as we thought it would be a
+project we would have fun with
+and enjoy working on, and it was
+a technological grand challenge."
+The project also allows for
+multidisciplinary cooperation
+between the Computer Science,
+Aeronautic and Astronautic En
+gineering, Mechanical Engineer
+
+ing and Mathematics depart
+ments, as well as Stanford's Insti
+tute for Computational and
+Mathematical Engineering.
+"An overarching problem like
+this one is the best catalyst to
+promote interdisciplinary re
+search," Moin said. "Thanks to
+the combined work of these de
+partments, we have already
+pushed and developed new nu
+merical techniques, physical
+models and computational plat
+forms that are paving the way for
+predictive science."
+Stanford is at the cutting edge
+of research in the discipline, ac
+cording to Moin, having even pi
+oneered a new science known as
+uncertainty quantification.
+"Uncertainty quantification
+allows us to assess uncertainties
+in our numerical solutions,"
+Moin explained. "We can back
+
+up our predictions with data
+about the error bounds.This
+might be the most important
+topic in the future of computa
+tional science."
+Moin also highlighted the im
+pact of the DOE grant on the
+program's operations.
+"We have essentially been
+able to create a new mini nation
+al laboratory," Moin said. "We
+have a large cadre of postdoctor
+al fellows and graduate students
+who interact in away that has
+never been seen before. It has
+been a paradigm shift in the way
+we do research."
+The "large cadre" of faculty,
+postdoctoral fellows and gradu
+ate students is necessary to tackle
+the challenges of hypersonic
+flight, according to Moin.
+"Nobody has been able to sus
+tain hypersonic flight propulsion
+
+for a longer amount of time,"
+Moin said. "Most tests have
+failed, and the few who succeeded
+lasted for only a few seconds."
+The problem, Moin said, is that
+at hypersonic speed air flows into
+the combustion chamber of a
+scramjet engine at speeds up to
+Mach 15. The time in which the
+combustion has to occur is infini
+tesimally short, and mastering
+such a reaction is the main chal
+lenge of the project.
+"The equations are all well
+known, but they are very hard to
+solve," Moin said.
+The team's extensive collabo
+ration with the Computer Science
+Department, and the use of some
+of the world's fastest supercom
+puters to model hypersonic flight,
+is a direct consequence of the
+equations' complexity.
+"We are heading towards exas
+
+cale computations, with more
+than one quintillion flops [float
+ing-point operations per second]
+and one million cores running si
+multaneously," Moin said, ex
+plaining that the coding and han
+dling of such supercomputers has
+required extensive Computer Sci
+ence involvement.
+The breakthroughs the Stan
+ford PSAAP team has already
+made and anticipates making in
+researching hypersonic flight are
+likely to impact many other fields.
+"We now know how to simu
+late very complex flow dynam
+ics," Moin said. "This very tech
+nology can also be applied to au
+tomobiles, wind turbines, new en
+ergy conversion technologies and
+in environmental science."
+
+Contact Felix Boyeaux atfboyeaux
+@stanford.edu.
+The possibility of hyperson
+ic flight offering endless po
+tential in air and space travel
+but also posing numerous engi
+neering challenges recently
+became the domain of Stanford
+engineers. The Stanford Predic
+tive Science Academic Alliance
+Program (PSAAP) received a
+five-year $2O million grant from
+the U.S. Department of Energy
+(DOE) to investigate the sub
+
+ject virtually.
+The DOE awarded grants to
+five universities interested in
+researching and developing so
+lutions to overarching prob
+lems as varied as the hyperve
+locity impact of metallic projec
+tiles and the atmospheric re
+entry of space capsules. The
+Stanford team chose to tackle
+the challenge of hypersonic
+flight, which could potentially
+result in speeds of up to 15
+
+
+M.J MA/The Stanford Daily
+times the speed of sound.
+"We considered many appli
+cations for our predictive science
+program before submitting our
+final proposal," said Parviz Moin
+M.S. '75 '7B Ph.D. '7B, professor
+of mechanical engineering and
+PSAAP faculty director. "We fi
+nally settled with hypersonic
+flight as we thought it would be a
+project we would have fun with
+and enjoy working on, and it was
+a technological grand challenge."
+The project also allows for
+multidisciplinary cooperation
+between the Computer Science,
+Aeronautic and Astronautic En
+gineering, Mechanical Engineer
+
+ing and Mathematics depart
+ments, as well as Stanford's Insti
+tute for Computational and
+Mathematical Engineering.
+"An overarching problem like
+this one is the best catalyst to
+promote interdisciplinary re
+search," Moin said. "Thanks to
+the combined work of these de
+partments, we have already
+pushed and developed new nu
+merical techniques, physical
+models and computational plat
+forms that are paving the way for
+predictive science."
+Stanford is at the cutting edge
+of research in the discipline, ac
+cording to Moin, having even pi
+oneered a new science known as
+uncertainty quantification.
+"Uncertainty quantification
+allows us to assess uncertainties
+in our numerical solutions,"
+Moin explained. "We can back
+
+up our predictions with data
+about the error bounds.This
+might be the most important
+topic in the future of computa
+tional science."
+Moin also highlighted the im
+pact of the DOE grant on the
+program's operations.
+"We have essentially been
+able to create a new mini nation
+al laboratory," Moin said. "We
+have a large cadre of postdoctor
+al fellows and graduate students
+who interact in away that has
+never been seen before. It has
+been a paradigm shift in the way
+we do research."
+The "large cadre" of faculty,
+postdoctoral fellows and gradu
+ate students is necessary to tackle
+the challenges of hypersonic
+flight, according to Moin.
+"Nobody has been able to sus
+tain hypersonic flight propulsion
+
+for a longer amount of time,"
+Moin said. "Most tests have
+failed, and the few who succeeded
+lasted for only a few seconds."
+The problem, Moin said, is that
+at hypersonic speed air flows into
+the combustion chamber of a
+scramjet engine at speeds up to
+Mach 15. The time in which the
+combustion has to occur is infini
+tesimally short, and mastering
+such a reaction is the main chal
+lenge of the project.
+"The equations are all well
+known, but they are very hard to
+solve," Moin said.
+The team's extensive collabo
+ration with the Computer Science
+Department, and the use of some
+of the world's fastest supercom
+puters to model hypersonic flight,
+is a direct consequence of the
+equations' complexity.
+"We are heading towards exas
+
+cale computations, with more
+than one quintillion flops [float
+ing-point operations per second]
+and one million cores running si
+multaneously," Moin said, ex
+plaining that the coding and han
+dling of such supercomputers has
+required extensive Computer Sci
+ence involvement.
+The breakthroughs the Stan
+ford PSAAP team has already
+made and anticipates making in
+researching hypersonic flight are
+likely to impact many other fields.
+"We now know how to simu
+late very complex flow dynam
+ics," Moin said. "This very tech
+nology can also be applied to au
+tomobiles, wind turbines, new en
+ergy conversion technologies and
+in environmental science."
+
+Contact Felix Boyeaux atfboyeaux
+@stanford.edu.
+The possibility of hyperson
+ic flight offering endless po
+tential in air and space travel
+but also posing numerous engi
+neering challenges recently
+became the domain of Stanford
+engineers. The Stanford Predic
+tive Science Academic Alliance
+Program (PSAAP) received a
+five-year $2O million grant from
+the U.S. Department of Energy
+(DOE) to investigate the sub
+
+ject virtually.
+The DOE awarded grants to
+five universities interested in
+researching and developing so
+lutions to overarching prob
+lems as varied as the hyperve
+locity impact of metallic projec
+tiles and the atmospheric re
+entry of space capsules. The
+Stanford team chose to tackle
+the challenge of hypersonic
+flight, which could potentially
+result in speeds of up to 15
+
+
+M.J MA/The Stanford Daily
+times the speed of sound.
+"We considered many appli
+cations for our predictive science
+program before submitting our
+final proposal," said Parviz Moin
+M.S. '75 '7B Ph.D. '7B, professor
+of mechanical engineering and
+PSAAP faculty director. "We fi
+nally settled with hypersonic
+flight as we thought it would be a
+project we would have fun with
+and enjoy working on, and it was
+a technological grand challenge."
+The project also allows for
+multidisciplinary cooperation
+between the Computer Science,
+Aeronautic and Astronautic En
+gineering, Mechanical Engineer
+
+ing and Mathematics depart
+ments, as well as Stanford's Insti
+tute for Computational and
+Mathematical Engineering.
+"An overarching problem like
+this one is the best catalyst to
+promote interdisciplinary re
+search," Moin said. "Thanks to
+the combined work of these de
+partments, we have already
+pushed and developed new nu
+merical techniques, physical
+models and computational plat
+forms that are paving the way for
+predictive science."
+Stanford is at the cutting edge
+of research in the discipline, ac
+cording to Moin, having even pi
+oneered a new science known as
+uncertainty quantification.
+"Uncertainty quantification
+allows us to assess uncertainties
+in our numerical solutions,"
+Moin explained. "We can back
+
+up our predictions with data
+about the error bounds.This
+might be the most important
+topic in the future of computa
+tional science."
+Moin also highlighted the im
+pact of the DOE grant on the
+program's operations.
+"We have essentially been
+able to create a new mini nation
+al laboratory," Moin said. "We
+have a large cadre of postdoctor
+al fellows and graduate students
+who interact in away that has
+never been seen before. It has
+been a paradigm shift in the way
+we do research."
+The "large cadre" of faculty,
+postdoctoral fellows and gradu
+ate students is necessary to tackle
+the challenges of hypersonic
+flight, according to Moin.
+"Nobody has been able to sus
+tain hypersonic flight propulsion
+
+for a longer amount of time,"
+Moin said. "Most tests have
+failed, and the few who succeeded
+lasted for only a few seconds."
+The problem, Moin said, is that
+at hypersonic speed air flows into
+the combustion chamber of a
+scramjet engine at speeds up to
+Mach 15. The time in which the
+combustion has to occur is infini
+tesimally short, and mastering
+such a reaction is the main chal
+lenge of the project.
+"The equations are all well
+known, but they are very hard to
+solve," Moin said.
+The team's extensive collabo
+ration with the Computer Science
+Department, and the use of some
+of the world's fastest supercom
+puters to model hypersonic flight,
+is a direct consequence of the
+equations' complexity.
+"We are heading towards exas
+
+cale computations, with more
+than one quintillion flops [float
+ing-point operations per second]
+and one million cores running si
+multaneously," Moin said, ex
+plaining that the coding and han
+dling of such supercomputers has
+required extensive Computer Sci
+ence involvement.
+The breakthroughs the Stan
+ford PSAAP team has already
+made and anticipates making in
+researching hypersonic flight are
+likely to impact many other fields.
+"We now know how to simu
+late very complex flow dynam
+ics," Moin said. "This very tech
+nology can also be applied to au
+tomobiles, wind turbines, new en
+ergy conversion technologies and
+in environmental science."
+
+Contact Felix Boyeaux atfboyeaux
+@stanford.edu.
+The possibility of hyperson
+ic flight offering endless po
+tential in air and space travel
+but also posing numerous engi
+neering challenges recently
+became the domain of Stanford
+engineers. The Stanford Predic
+tive Science Academic Alliance
+Program (PSAAP) received a
+five-year $2O million grant from
+the U.S. Department of Energy
+(DOE) to investigate the sub
+
+ject virtually.
+The DOE awarded grants to
+five universities interested in
+researching and developing so
+lutions to overarching prob
+lems as varied as the hyperve
+locity impact of metallic projec
+tiles and the atmospheric re
+entry of space capsules. The
+Stanford team chose to tackle
+the challenge of hypersonic
+flight, which could potentially
+result in speeds of up to 15
+
+
+M.J MA/The Stanford Daily
+times the speed of sound.
+"We considered many appli
+cations for our predictive science
+program before submitting our
+final proposal," said Parviz Moin
+M.S. '75 '7B Ph.D. '7B, professor
+of mechanical engineering and
+PSAAP faculty director. "We fi
+nally settled with hypersonic
+flight as we thought it would be a
+project we would have fun with
+and enjoy working on, and it was
+a technological grand challenge."
+The project also allows for
+multidisciplinary cooperation
+between the Computer Science,
+Aeronautic and Astronautic En
+gineering, Mechanical Engineer
+
+ing and Mathematics depart
+ments, as well as Stanford's Insti
+tute for Computational and
+Mathematical Engineering.
+"An overarching problem like
+this one is the best catalyst to
+promote interdisciplinary re
+search," Moin said. "Thanks to
+the combined work of these de
+partments, we have already
+pushed and developed new nu
+merical techniques, physical
+models and computational plat
+forms that are paving the way for
+predictive science."
+Stanford is at the cutting edge
+of research in the discipline, ac
+cording to Moin, having even pi
+oneered a new science known as
+uncertainty quantification.
+"Uncertainty quantification
+allows us to assess uncertainties
+in our numerical solutions,"
+Moin explained. "We can back
+
+up our predictions with data
+about the error bounds.This
+might be the most important
+topic in the future of computa
+tional science."
+Moin also highlighted the im
+pact of the DOE grant on the
+program's operations.
+"We have essentially been
+able to create a new mini nation
+al laboratory," Moin said. "We
+have a large cadre of postdoctor
+al fellows and graduate students
+who interact in away that has
+never been seen before. It has
+been a paradigm shift in the way
+we do research."
+The "large cadre" of faculty,
+postdoctoral fellows and gradu
+ate students is necessary to tackle
+the challenges of hypersonic
+flight, according to Moin.
+"Nobody has been able to sus
+tain hypersonic flight propulsion
+
+for a longer amount of time,"
+Moin said. "Most tests have
+failed, and the few who succeeded
+lasted for only a few seconds."
+The problem, Moin said, is that
+at hypersonic speed air flows into
+the combustion chamber of a
+scramjet engine at speeds up to
+Mach 15. The time in which the
+combustion has to occur is infini
+tesimally short, and mastering
+such a reaction is the main chal
+lenge of the project.
+"The equations are all well
+known, but they are very hard to
+solve," Moin said.
+The team's extensive collabo
+ration with the Computer Science
+Department, and the use of some
+of the world's fastest supercom
+puters to model hypersonic flight,
+is a direct consequence of the
+equations' complexity.
+"We are heading towards exas
+
+cale computations, with more
+than one quintillion flops [float
+ing-point operations per second]
+and one million cores running si
+multaneously," Moin said, ex
+plaining that the coding and han
+dling of such supercomputers has
+required extensive Computer Sci
+ence involvement.
+The breakthroughs the Stan
+ford PSAAP team has already
+made and anticipates making in
+researching hypersonic flight are
+likely to impact many other fields.
+"We now know how to simu
+late very complex flow dynam
+ics," Moin said. "This very tech
+nology can also be applied to au
+tomobiles, wind turbines, new en
+ergy conversion technologies and
+in environmental science."
+
+Contact Felix Boyeaux atfboyeaux
+@stanford.edu.
+The possibility of hyperson
+ic flight offering endless po
+tential in air and space travel
+but also posing numerous engi
+neering challenges recently
+became the domain of Stanford
+engineers. The Stanford Predic
+tive Science Academic Alliance
+Program (PSAAP) received a
+five-year $2O million grant from
+the U.S. Department of Energy
+(DOE) to investigate the sub
+
+ject virtually.
+The DOE awarded grants to
+five universities interested in
+researching and developing so
+lutions to overarching prob
+lems as varied as the hyperve
+locity impact of metallic projec
+tiles and the atmospheric re
+entry of space capsules. The
+Stanford team chose to tackle
+the challenge of hypersonic
+flight, which could potentially
+result in speeds of up to 15
+
+
+M.J MA/The Stanford Daily
+times the speed of sound.
+"We considered many appli
+cations for our predictive science
+program before submitting our
+final proposal," said Parviz Moin
+M.S. '75 '7B Ph.D. '7B, professor
+of mechanical engineering and
+PSAAP faculty director. "We fi
+nally settled with hypersonic
+flight as we thought it would be a
+project we would have fun with
+and enjoy working on, and it was
+a technological grand challenge."
+The project also allows for
+multidisciplinary cooperation
+between the Computer Science,
+Aeronautic and Astronautic En
+gineering, Mechanical Engineer
+
+ing and Mathematics depart
+ments, as well as Stanford's Insti
+tute for Computational and
+Mathematical Engineering.
+"An overarching problem like
+this one is the best catalyst to
+promote interdisciplinary re
+search," Moin said. "Thanks to
+the combined work of these de
+partments, we have already
+pushed and developed new nu
+merical techniques, physical
+models and computational plat
+forms that are paving the way for
+predictive science."
+Stanford is at the cutting edge
+of research in the discipline, ac
+cording to Moin, having even pi
+oneered a new science known as
+uncertainty quantification.
+"Uncertainty quantification
+allows us to assess uncertainties
+in our numerical solutions,"
+Moin explained. "We can back
+
+up our predictions with data
+about the error bounds.This
+might be the most important
+topic in the future of computa
+tional science."
+Moin also highlighted the im
+pact of the DOE grant on the
+program's operations.
+"We have essentially been
+able to create a new mini nation
+al laboratory," Moin said. "We
+have a large cadre of postdoctor
+al fellows and graduate students
+who interact in away that has
+never been seen before. It has
+been a paradigm shift in the way
+we do research."
+The "large cadre" of faculty,
+postdoctoral fellows and gradu
+ate students is necessary to tackle
+the challenges of hypersonic
+flight, according to Moin.
+"Nobody has been able to sus
+tain hypersonic flight propulsion
+
+for a longer amount of time,"
+Moin said. "Most tests have
+failed, and the few who succeeded
+lasted for only a few seconds."
+The problem, Moin said, is that
+at hypersonic speed air flows into
+the combustion chamber of a
+scramjet engine at speeds up to
+Mach 15. The time in which the
+combustion has to occur is infini
+tesimally short, and mastering
+such a reaction is the main chal
+lenge of the project.
+"The equations are all well
+known, but they are very hard to
+solve," Moin said.
+The team's extensive collabo
+ration with the Computer Science
+Department, and the use of some
+of the world's fastest supercom
+puters to model hypersonic flight,
+is a direct consequence of the
+equations' complexity.
+"We are heading towards exas
+
+cale computations, with more
+than one quintillion flops [float
+ing-point operations per second]
+and one million cores running si
+multaneously," Moin said, ex
+plaining that the coding and han
+dling of such supercomputers has
+required extensive Computer Sci
+ence involvement.
+The breakthroughs the Stan
+ford PSAAP team has already
+made and anticipates making in
+researching hypersonic flight are
+likely to impact many other fields.
+"We now know how to simu
+late very complex flow dynam
+ics," Moin said. "This very tech
+nology can also be applied to au
+tomobiles, wind turbines, new en
+ergy conversion technologies and
+in environmental science."
+
+Contact Felix Boyeaux atfboyeaux
+@stanford.edu.
+The possibility of hyperson
+ic flight offering endless po
+tential in air and space travel
+but also posing numerous engi
+neering challenges recently
+became the domain of Stanford
+engineers. The Stanford Predic
+tive Science Academic Alliance
+Program (PSAAP) received a
+five-year $2O million grant from
+the U.S. Department of Energy
+(DOE) to investigate the sub
+
+ject virtually.
+The DOE awarded grants to
+five universities interested in
+researching and developing so
+lutions to overarching prob
+lems as varied as the hyperve
+locity impact of metallic projec
+tiles and the atmospheric re
+entry of space capsules. The
+Stanford team chose to tackle
+the challenge of hypersonic
+flight, which could potentially
+result in speeds of up to 15
+
+
+M.J MA/The Stanford Daily
+times the speed of sound.
+"We considered many appli
+cations for our predictive science
+program before submitting our
+final proposal," said Parviz Moin
+M.S. '75 '7B Ph.D. '7B, professor
+of mechanical engineering and
+PSAAP faculty director. "We fi
+nally settled with hypersonic
+flight as we thought it would be a
+project we would have fun with
+and enjoy working on, and it was
+a technological grand challenge."
+The project also allows for
+multidisciplinary cooperation
+between the Computer Science,
+Aeronautic and Astronautic En
+gineering, Mechanical Engineer
+
+ing and Mathematics depart
+ments, as well as Stanford's Insti
+tute for Computational and
+Mathematical Engineering.
+"An overarching problem like
+this one is the best catalyst to
+promote interdisciplinary re
+search," Moin said. "Thanks to
+the combined work of these de
+partments, we have already
+pushed and developed new nu
+merical techniques, physical
+models and computational plat
+forms that are paving the way for
+predictive science."
+Stanford is at the cutting edge
+of research in the discipline, ac
+cording to Moin, having even pi
+oneered a new science known as
+uncertainty quantification.
+"Uncertainty quantification
+allows us to assess uncertainties
+in our numerical solutions,"
+Moin explained. "We can back
+
+up our predictions with data
+about the error bounds.This
+might be the most important
+topic in the future of computa
+tional science."
+Moin also highlighted the im
+pact of the DOE grant on the
+program's operations.
+"We have essentially been
+able to create a new mini nation
+al laboratory," Moin said. "We
+have a large cadre of postdoctor
+al fellows and graduate students
+who interact in away that has
+never been seen before. It has
+been a paradigm shift in the way
+we do research."
+The "large cadre" of faculty,
+postdoctoral fellows and gradu
+ate students is necessary to tackle
+the challenges of hypersonic
+flight, according to Moin.
+"Nobody has been able to sus
+tain hypersonic flight propulsion
+
+for a longer amount of time,"
+Moin said. "Most tests have
+failed, and the few who succeeded
+lasted for only a few seconds."
+The problem, Moin said, is that
+at hypersonic speed air flows into
+the combustion chamber of a
+scramjet engine at speeds up to
+Mach 15. The time in which the
+combustion has to occur is infini
+tesimally short, and mastering
+such a reaction is the main chal
+lenge of the project.
+"The equations are all well
+known, but they are very hard to
+solve," Moin said.
+The team's extensive collabo
+ration with the Computer Science
+Department, and the use of some
+of the world's fastest supercom
+puters to model hypersonic flight,
+is a direct consequence of the
+equations' complexity.
+"We are heading towards exas
+
+cale computations, with more
+than one quintillion flops [float
+ing-point operations per second]
+and one million cores running si
+multaneously," Moin said, ex
+plaining that the coding and han
+dling of such supercomputers has
+required extensive Computer Sci
+ence involvement.
+The breakthroughs the Stan
+ford PSAAP team has already
+made and anticipates making in
+researching hypersonic flight are
+likely to impact many other fields.
+"We now know how to simu
+late very complex flow dynam
+ics," Moin said. "This very tech
+nology can also be applied to au
+tomobiles, wind turbines, new en
+ergy conversion technologies and
+in environmental science."
+
+Contact Felix Boyeaux atfboyeaux
+@stanford.edu.
+The possibility of hyperson
+ic flight offering endless po
+tential in air and space travel
+but also posing numerous engi
+neering challenges recently
+became the domain of Stanford
+engineers. The Stanford Predic
+tive Science Academic Alliance
+Program (PSAAP) received a
+five-year $2O million grant from
+the U.S. Department of Energy
+(DOE) to investigate the sub
+
+ject virtually.
+The DOE awarded grants to
+five universities interested in
+researching and developing so
+lutions to overarching prob
+lems as varied as the hyperve
+locity impact of metallic projec
+tiles and the atmospheric re
+entry of space capsules. The
+Stanford team chose to tackle
+the challenge of hypersonic
+flight, which could potentially
+result in speeds of up to 15
+
+
+M.J MA/The Stanford Daily
+times the speed of sound.
+"We considered many appli
+cations for our predictive science
+program before submitting our
+final proposal," said Parviz Moin
+M.S. '75 '7B Ph.D. '7B, professor
+of mechanical engineering and
+PSAAP faculty director. "We fi
+nally settled with hypersonic
+flight as we thought it would be a
+project we would have fun with
+and enjoy working on, and it was
+a technological grand challenge."
+The project also allows for
+multidisciplinary cooperation
+between the Computer Science,
+Aeronautic and Astronautic En
+gineering, Mechanical Engineer
+
+ing and Mathematics depart
+ments, as well as Stanford's Insti
+tute for Computational and
+Mathematical Engineering.
+"An overarching problem like
+this one is the best catalyst to
+promote interdisciplinary re
+search," Moin said. "Thanks to
+the combined work of these de
+partments, we have already
+pushed and developed new nu
+merical techniques, physical
+models and computational plat
+forms that are paving the way for
+predictive science."
+Stanford is at the cutting edge
+of research in the discipline, ac
+cording to Moin, having even pi
+oneered a new science known as
+uncertainty quantification.
+"Uncertainty quantification
+allows us to assess uncertainties
+in our numerical solutions,"
+Moin explained. "We can back
+
+up our predictions with data
+about the error bounds.This
+might be the most important
+topic in the future of computa
+tional science."
+Moin also highlighted the im
+pact of the DOE grant on the
+program's operations.
+"We have essentially been
+able to create a new mini nation
+al laboratory," Moin said. "We
+have a large cadre of postdoctor
+al fellows and graduate students
+who interact in away that has
+never been seen before. It has
+been a paradigm shift in the way
+we do research."
+The "large cadre" of faculty,
+postdoctoral fellows and gradu
+ate students is necessary to tackle
+the challenges of hypersonic
+flight, according to Moin.
+"Nobody has been able to sus
+tain hypersonic flight propulsion
+
+for a longer amount of time,"
+Moin said. "Most tests have
+failed, and the few who succeeded
+lasted for only a few seconds."
+The problem, Moin said, is that
+at hypersonic speed air flows into
+the combustion chamber of a
+scramjet engine at speeds up to
+Mach 15. The time in which the
+combustion has to occur is infini
+tesimally short, and mastering
+such a reaction is the main chal
+lenge of the project.
+"The equations are all well
+known, but they are very hard to
+solve," Moin said.
+The team's extensive collabo
+ration with the Computer Science
+Department, and the use of some
+of the world's fastest supercom
+puters to model hypersonic flight,
+is a direct consequence of the
+equations' complexity.
+"We are heading towards exas
+
+cale computations, with more
+than one quintillion flops [float
+ing-point operations per second]
+and one million cores running si
+multaneously," Moin said, ex
+plaining that the coding and han
+dling of such supercomputers has
+required extensive Computer Sci
+ence involvement.
+The breakthroughs the Stan
+ford PSAAP team has already
+made and anticipates making in
+researching hypersonic flight are
+likely to impact many other fields.
+"We now know how to simu
+late very complex flow dynam
+ics," Moin said. "This very tech
+nology can also be applied to au
+tomobiles, wind turbines, new en
+ergy conversion technologies and
+in environmental science."
+
+Contact Felix Boyeaux atfboyeaux
+@stanford.edu.

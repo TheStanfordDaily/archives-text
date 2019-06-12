@@ -1,0 +1,2067 @@
+# Stanford Work Described
+## Making Computers Think 
+### 
+Computer experts hate to
+hear their machines called "elec
+tronic brains" because they say,
+a computer can't think. It can
+only do what its human "pro
+grammer" tells it to.
+But they may have to get
+used to it if computer scientists
+at Stanford and a few other re
+search centers succeed in mak
+ing the complex machines "do
+intellectual work" as described
+by Prof. John McCarthy in the
+University's 1967-68 Annual Fi
+nancial Report.
+As principal investigator for
+the Computer Science Depart
+ment's Artificial Intelligence
+Project, Prof. McCarthy points
+out that computers now are of
+limited usefulness. "Present
+computer programs are not
+
+really intelligent and have very
+limited ability to recognize pat
+terns," he said.
+"For example, no one has yet
+written a computer program
+capable of identifying people in
+a picture—something a child
+can do readily. Although hu
+mans are able to perform such
+tasks without effort, we don't
+fully know how to specify such
+tasks as a precise sequence of
+steps to be carried out by a
+computer."
+His description of a "hand
+eye" research project is a good
+illustration of the enormous
+complications presented in at
+tempting to computerize a sim
+ple task. The hand-eye research
+involves a mechanical arm and
+hand linked by computer to a
+TV camera. The first objective
+to to get them to work together
+to stack blocks, as a two-year
+old might. Later, more difficult
+tasks can be undertaken.
+"One of the first programs
+to be written using the camera,"
+said Prof. McCarthy, "locates
+cube-shaped blocks by starting
+at the bottom of the (TV) pic
+ture and examining each hori
+zontal line to a point at a time
+until it finds a light spot. If the
+computer reads the full field of
+view, it will receive 333 times
+250, or 83,250 numbers, each of
+which gives the light intensity
+in one direction from the cam
+era. The problem is to reduce
+this huge mass of information
+into a few essential statements.
+Such a description of the scene
+can be used by (another) pro
+gram that finds blocks and
+stacks them with the aid of
+
+(the) artificial arm and hand.
+"All this is just a first step
+toward a long range goal of be
+ing able to make computers do
+useful work," said the Stanford
+scientist. "Through this process
+we envisage computers perform
+ing such tasks as driving cars
+and automatically constructing
+houses. The results . . . could
+be useful in probing space, in
+cluding the exploration of
+Mars."
+Other thinking tasks the
+Stanford researchers are prod
+ding computers to do include
+chess-playing, speech recogni
+tion, and a "Heuristic Dendral
+program" aimed at better un
+derstanding of the hypothesis
+forming process of human
+thought.
+"We write chess programs,"
+said Prof. McCarthy, "not be
+cause it is important that com
+puters play good chess, but be
+cause chess provides a good
+means for comparing our ideas
+
+about the processes of intelli
+gence with human performance.
+"While the machine can look
+at several thousand positions in
+choosing its move—many times
+as many as a human examines
+—it wastes most of this effort
+in examining positions which a
+human does not bother with for
+various reasons. Our new pro
+gram will contain several
+strategies intended to reduce
+the amount of waste motion."
+There is no way to speak
+or write to a computer, he said,
+except by punched cards or tele
+typed symbols. In this research
+the computer's "ear" is a micro
+phone. It picks up air pressure
+changes that the computer re
+cords at the rate of 20,000 per
+second.
+"Although our work in the
+artificial intelligence laboratory
+thus far has been exceedingly
+complex," Prof. McCarthy con
+cluded, "we still are on the
+outermost frontier. We have a
+long way to go."
+Computer experts hate to
+hear their machines called "elec
+tronic brains" because they say,
+a computer can't think. It can
+only do what its human "pro
+grammer" tells it to.
+But they may have to get
+used to it if computer scientists
+at Stanford and a few other re
+search centers succeed in mak
+ing the complex machines "do
+intellectual work" as described
+by Prof. John McCarthy in the
+University's 1967-68 Annual Fi
+nancial Report.
+As principal investigator for
+the Computer Science Depart
+ment's Artificial Intelligence
+Project, Prof. McCarthy points
+out that computers now are of
+limited usefulness. "Present
+computer programs are not
+
+really intelligent and have very
+limited ability to recognize pat
+terns," he said.
+"For example, no one has yet
+written a computer program
+capable of identifying people in
+a picture—something a child
+can do readily. Although hu
+mans are able to perform such
+tasks without effort, we don't
+fully know how to specify such
+tasks as a precise sequence of
+steps to be carried out by a
+computer."
+His description of a "hand
+eye" research project is a good
+illustration of the enormous
+complications presented in at
+tempting to computerize a sim
+ple task. The hand-eye research
+involves a mechanical arm and
+hand linked by computer to a
+TV camera. The first objective
+to to get them to work together
+to stack blocks, as a two-year
+old might. Later, more difficult
+tasks can be undertaken.
+"One of the first programs
+to be written using the camera,"
+said Prof. McCarthy, "locates
+cube-shaped blocks by starting
+at the bottom of the (TV) pic
+ture and examining each hori
+zontal line to a point at a time
+until it finds a light spot. If the
+computer reads the full field of
+view, it will receive 333 times
+250, or 83,250 numbers, each of
+which gives the light intensity
+in one direction from the cam
+era. The problem is to reduce
+this huge mass of information
+into a few essential statements.
+Such a description of the scene
+can be used by (another) pro
+gram that finds blocks and
+stacks them with the aid of
+
+(the) artificial arm and hand.
+"All this is just a first step
+toward a long range goal of be
+ing able to make computers do
+useful work," said the Stanford
+scientist. "Through this process
+we envisage computers perform
+ing such tasks as driving cars
+and automatically constructing
+houses. The results . . . could
+be useful in probing space, in
+cluding the exploration of
+Mars."
+Other thinking tasks the
+Stanford researchers are prod
+ding computers to do include
+chess-playing, speech recogni
+tion, and a "Heuristic Dendral
+program" aimed at better un
+derstanding of the hypothesis
+forming process of human
+thought.
+"We write chess programs,"
+said Prof. McCarthy, "not be
+cause it is important that com
+puters play good chess, but be
+cause chess provides a good
+means for comparing our ideas
+
+about the processes of intelli
+gence with human performance.
+"While the machine can look
+at several thousand positions in
+choosing its move—many times
+as many as a human examines
+—it wastes most of this effort
+in examining positions which a
+human does not bother with for
+various reasons. Our new pro
+gram will contain several
+strategies intended to reduce
+the amount of waste motion."
+There is no way to speak
+or write to a computer, he said,
+except by punched cards or tele
+typed symbols. In this research
+the computer's "ear" is a micro
+phone. It picks up air pressure
+changes that the computer re
+cords at the rate of 20,000 per
+second.
+"Although our work in the
+artificial intelligence laboratory
+thus far has been exceedingly
+complex," Prof. McCarthy con
+cluded, "we still are on the
+outermost frontier. We have a
+long way to go."
+Computer experts hate to
+hear their machines called "elec
+tronic brains" because they say,
+a computer can't think. It can
+only do what its human "pro
+grammer" tells it to.
+But they may have to get
+used to it if computer scientists
+at Stanford and a few other re
+search centers succeed in mak
+ing the complex machines "do
+intellectual work" as described
+by Prof. John McCarthy in the
+University's 1967-68 Annual Fi
+nancial Report.
+As principal investigator for
+the Computer Science Depart
+ment's Artificial Intelligence
+Project, Prof. McCarthy points
+out that computers now are of
+limited usefulness. "Present
+computer programs are not
+
+really intelligent and have very
+limited ability to recognize pat
+terns," he said.
+"For example, no one has yet
+written a computer program
+capable of identifying people in
+a picture—something a child
+can do readily. Although hu
+mans are able to perform such
+tasks without effort, we don't
+fully know how to specify such
+tasks as a precise sequence of
+steps to be carried out by a
+computer."
+His description of a "hand
+eye" research project is a good
+illustration of the enormous
+complications presented in at
+tempting to computerize a sim
+ple task. The hand-eye research
+involves a mechanical arm and
+hand linked by computer to a
+TV camera. The first objective
+to to get them to work together
+to stack blocks, as a two-year
+old might. Later, more difficult
+tasks can be undertaken.
+"One of the first programs
+to be written using the camera,"
+said Prof. McCarthy, "locates
+cube-shaped blocks by starting
+at the bottom of the (TV) pic
+ture and examining each hori
+zontal line to a point at a time
+until it finds a light spot. If the
+computer reads the full field of
+view, it will receive 333 times
+250, or 83,250 numbers, each of
+which gives the light intensity
+in one direction from the cam
+era. The problem is to reduce
+this huge mass of information
+into a few essential statements.
+Such a description of the scene
+can be used by (another) pro
+gram that finds blocks and
+stacks them with the aid of
+
+(the) artificial arm and hand.
+"All this is just a first step
+toward a long range goal of be
+ing able to make computers do
+useful work," said the Stanford
+scientist. "Through this process
+we envisage computers perform
+ing such tasks as driving cars
+and automatically constructing
+houses. The results . . . could
+be useful in probing space, in
+cluding the exploration of
+Mars."
+Other thinking tasks the
+Stanford researchers are prod
+ding computers to do include
+chess-playing, speech recogni
+tion, and a "Heuristic Dendral
+program" aimed at better un
+derstanding of the hypothesis
+forming process of human
+thought.
+"We write chess programs,"
+said Prof. McCarthy, "not be
+cause it is important that com
+puters play good chess, but be
+cause chess provides a good
+means for comparing our ideas
+
+about the processes of intelli
+gence with human performance.
+"While the machine can look
+at several thousand positions in
+choosing its move—many times
+as many as a human examines
+—it wastes most of this effort
+in examining positions which a
+human does not bother with for
+various reasons. Our new pro
+gram will contain several
+strategies intended to reduce
+the amount of waste motion."
+There is no way to speak
+or write to a computer, he said,
+except by punched cards or tele
+typed symbols. In this research
+the computer's "ear" is a micro
+phone. It picks up air pressure
+changes that the computer re
+cords at the rate of 20,000 per
+second.
+"Although our work in the
+artificial intelligence laboratory
+thus far has been exceedingly
+complex," Prof. McCarthy con
+cluded, "we still are on the
+outermost frontier. We have a
+long way to go."
+Computer experts hate to
+hear their machines called "elec
+tronic brains" because they say,
+a computer can't think. It can
+only do what its human "pro
+grammer" tells it to.
+But they may have to get
+used to it if computer scientists
+at Stanford and a few other re
+search centers succeed in mak
+ing the complex machines "do
+intellectual work" as described
+by Prof. John McCarthy in the
+University's 1967-68 Annual Fi
+nancial Report.
+As principal investigator for
+the Computer Science Depart
+ment's Artificial Intelligence
+Project, Prof. McCarthy points
+out that computers now are of
+limited usefulness. "Present
+computer programs are not
+
+really intelligent and have very
+limited ability to recognize pat
+terns," he said.
+"For example, no one has yet
+written a computer program
+capable of identifying people in
+a picture—something a child
+can do readily. Although hu
+mans are able to perform such
+tasks without effort, we don't
+fully know how to specify such
+tasks as a precise sequence of
+steps to be carried out by a
+computer."
+His description of a "hand
+eye" research project is a good
+illustration of the enormous
+complications presented in at
+tempting to computerize a sim
+ple task. The hand-eye research
+involves a mechanical arm and
+hand linked by computer to a
+TV camera. The first objective
+to to get them to work together
+to stack blocks, as a two-year
+old might. Later, more difficult
+tasks can be undertaken.
+"One of the first programs
+to be written using the camera,"
+said Prof. McCarthy, "locates
+cube-shaped blocks by starting
+at the bottom of the (TV) pic
+ture and examining each hori
+zontal line to a point at a time
+until it finds a light spot. If the
+computer reads the full field of
+view, it will receive 333 times
+250, or 83,250 numbers, each of
+which gives the light intensity
+in one direction from the cam
+era. The problem is to reduce
+this huge mass of information
+into a few essential statements.
+Such a description of the scene
+can be used by (another) pro
+gram that finds blocks and
+stacks them with the aid of
+
+(the) artificial arm and hand.
+"All this is just a first step
+toward a long range goal of be
+ing able to make computers do
+useful work," said the Stanford
+scientist. "Through this process
+we envisage computers perform
+ing such tasks as driving cars
+and automatically constructing
+houses. The results . . . could
+be useful in probing space, in
+cluding the exploration of
+Mars."
+Other thinking tasks the
+Stanford researchers are prod
+ding computers to do include
+chess-playing, speech recogni
+tion, and a "Heuristic Dendral
+program" aimed at better un
+derstanding of the hypothesis
+forming process of human
+thought.
+"We write chess programs,"
+said Prof. McCarthy, "not be
+cause it is important that com
+puters play good chess, but be
+cause chess provides a good
+means for comparing our ideas
+
+about the processes of intelli
+gence with human performance.
+"While the machine can look
+at several thousand positions in
+choosing its move—many times
+as many as a human examines
+—it wastes most of this effort
+in examining positions which a
+human does not bother with for
+various reasons. Our new pro
+gram will contain several
+strategies intended to reduce
+the amount of waste motion."
+There is no way to speak
+or write to a computer, he said,
+except by punched cards or tele
+typed symbols. In this research
+the computer's "ear" is a micro
+phone. It picks up air pressure
+changes that the computer re
+cords at the rate of 20,000 per
+second.
+"Although our work in the
+artificial intelligence laboratory
+thus far has been exceedingly
+complex," Prof. McCarthy con
+cluded, "we still are on the
+outermost frontier. We have a
+long way to go."
+Computer experts hate to
+hear their machines called "elec
+tronic brains" because they say,
+a computer can't think. It can
+only do what its human "pro
+grammer" tells it to.
+But they may have to get
+used to it if computer scientists
+at Stanford and a few other re
+search centers succeed in mak
+ing the complex machines "do
+intellectual work" as described
+by Prof. John McCarthy in the
+University's 1967-68 Annual Fi
+nancial Report.
+As principal investigator for
+the Computer Science Depart
+ment's Artificial Intelligence
+Project, Prof. McCarthy points
+out that computers now are of
+limited usefulness. "Present
+computer programs are not
+
+really intelligent and have very
+limited ability to recognize pat
+terns," he said.
+"For example, no one has yet
+written a computer program
+capable of identifying people in
+a picture—something a child
+can do readily. Although hu
+mans are able to perform such
+tasks without effort, we don't
+fully know how to specify such
+tasks as a precise sequence of
+steps to be carried out by a
+computer."
+His description of a "hand
+eye" research project is a good
+illustration of the enormous
+complications presented in at
+tempting to computerize a sim
+ple task. The hand-eye research
+involves a mechanical arm and
+hand linked by computer to a
+TV camera. The first objective
+to to get them to work together
+to stack blocks, as a two-year
+old might. Later, more difficult
+tasks can be undertaken.
+"One of the first programs
+to be written using the camera,"
+said Prof. McCarthy, "locates
+cube-shaped blocks by starting
+at the bottom of the (TV) pic
+ture and examining each hori
+zontal line to a point at a time
+until it finds a light spot. If the
+computer reads the full field of
+view, it will receive 333 times
+250, or 83,250 numbers, each of
+which gives the light intensity
+in one direction from the cam
+era. The problem is to reduce
+this huge mass of information
+into a few essential statements.
+Such a description of the scene
+can be used by (another) pro
+gram that finds blocks and
+stacks them with the aid of
+
+(the) artificial arm and hand.
+"All this is just a first step
+toward a long range goal of be
+ing able to make computers do
+useful work," said the Stanford
+scientist. "Through this process
+we envisage computers perform
+ing such tasks as driving cars
+and automatically constructing
+houses. The results . . . could
+be useful in probing space, in
+cluding the exploration of
+Mars."
+Other thinking tasks the
+Stanford researchers are prod
+ding computers to do include
+chess-playing, speech recogni
+tion, and a "Heuristic Dendral
+program" aimed at better un
+derstanding of the hypothesis
+forming process of human
+thought.
+"We write chess programs,"
+said Prof. McCarthy, "not be
+cause it is important that com
+puters play good chess, but be
+cause chess provides a good
+means for comparing our ideas
+
+about the processes of intelli
+gence with human performance.
+"While the machine can look
+at several thousand positions in
+choosing its move—many times
+as many as a human examines
+—it wastes most of this effort
+in examining positions which a
+human does not bother with for
+various reasons. Our new pro
+gram will contain several
+strategies intended to reduce
+the amount of waste motion."
+There is no way to speak
+or write to a computer, he said,
+except by punched cards or tele
+typed symbols. In this research
+the computer's "ear" is a micro
+phone. It picks up air pressure
+changes that the computer re
+cords at the rate of 20,000 per
+second.
+"Although our work in the
+artificial intelligence laboratory
+thus far has been exceedingly
+complex," Prof. McCarthy con
+cluded, "we still are on the
+outermost frontier. We have a
+long way to go."
+Computer experts hate to
+hear their machines called "elec
+tronic brains" because they say,
+a computer can't think. It can
+only do what its human "pro
+grammer" tells it to.
+But they may have to get
+used to it if computer scientists
+at Stanford and a few other re
+search centers succeed in mak
+ing the complex machines "do
+intellectual work" as described
+by Prof. John McCarthy in the
+University's 1967-68 Annual Fi
+nancial Report.
+As principal investigator for
+the Computer Science Depart
+ment's Artificial Intelligence
+Project, Prof. McCarthy points
+out that computers now are of
+limited usefulness. "Present
+computer programs are not
+
+really intelligent and have very
+limited ability to recognize pat
+terns," he said.
+"For example, no one has yet
+written a computer program
+capable of identifying people in
+a picture—something a child
+can do readily. Although hu
+mans are able to perform such
+tasks without effort, we don't
+fully know how to specify such
+tasks as a precise sequence of
+steps to be carried out by a
+computer."
+His description of a "hand
+eye" research project is a good
+illustration of the enormous
+complications presented in at
+tempting to computerize a sim
+ple task. The hand-eye research
+involves a mechanical arm and
+hand linked by computer to a
+TV camera. The first objective
+to to get them to work together
+to stack blocks, as a two-year
+old might. Later, more difficult
+tasks can be undertaken.
+"One of the first programs
+to be written using the camera,"
+said Prof. McCarthy, "locates
+cube-shaped blocks by starting
+at the bottom of the (TV) pic
+ture and examining each hori
+zontal line to a point at a time
+until it finds a light spot. If the
+computer reads the full field of
+view, it will receive 333 times
+250, or 83,250 numbers, each of
+which gives the light intensity
+in one direction from the cam
+era. The problem is to reduce
+this huge mass of information
+into a few essential statements.
+Such a description of the scene
+can be used by (another) pro
+gram that finds blocks and
+stacks them with the aid of
+
+(the) artificial arm and hand.
+"All this is just a first step
+toward a long range goal of be
+ing able to make computers do
+useful work," said the Stanford
+scientist. "Through this process
+we envisage computers perform
+ing such tasks as driving cars
+and automatically constructing
+houses. The results . . . could
+be useful in probing space, in
+cluding the exploration of
+Mars."
+Other thinking tasks the
+Stanford researchers are prod
+ding computers to do include
+chess-playing, speech recogni
+tion, and a "Heuristic Dendral
+program" aimed at better un
+derstanding of the hypothesis
+forming process of human
+thought.
+"We write chess programs,"
+said Prof. McCarthy, "not be
+cause it is important that com
+puters play good chess, but be
+cause chess provides a good
+means for comparing our ideas
+
+about the processes of intelli
+gence with human performance.
+"While the machine can look
+at several thousand positions in
+choosing its move—many times
+as many as a human examines
+—it wastes most of this effort
+in examining positions which a
+human does not bother with for
+various reasons. Our new pro
+gram will contain several
+strategies intended to reduce
+the amount of waste motion."
+There is no way to speak
+or write to a computer, he said,
+except by punched cards or tele
+typed symbols. In this research
+the computer's "ear" is a micro
+phone. It picks up air pressure
+changes that the computer re
+cords at the rate of 20,000 per
+second.
+"Although our work in the
+artificial intelligence laboratory
+thus far has been exceedingly
+complex," Prof. McCarthy con
+cluded, "we still are on the
+outermost frontier. We have a
+long way to go."
+Computer experts hate to
+hear their machines called "elec
+tronic brains" because they say,
+a computer can't think. It can
+only do what its human "pro
+grammer" tells it to.
+But they may have to get
+used to it if computer scientists
+at Stanford and a few other re
+search centers succeed in mak
+ing the complex machines "do
+intellectual work" as described
+by Prof. John McCarthy in the
+University's 1967-68 Annual Fi
+nancial Report.
+As principal investigator for
+the Computer Science Depart
+ment's Artificial Intelligence
+Project, Prof. McCarthy points
+out that computers now are of
+limited usefulness. "Present
+computer programs are not
+
+really intelligent and have very
+limited ability to recognize pat
+terns," he said.
+"For example, no one has yet
+written a computer program
+capable of identifying people in
+a picture—something a child
+can do readily. Although hu
+mans are able to perform such
+tasks without effort, we don't
+fully know how to specify such
+tasks as a precise sequence of
+steps to be carried out by a
+computer."
+His description of a "hand
+eye" research project is a good
+illustration of the enormous
+complications presented in at
+tempting to computerize a sim
+ple task. The hand-eye research
+involves a mechanical arm and
+hand linked by computer to a
+TV camera. The first objective
+to to get them to work together
+to stack blocks, as a two-year
+old might. Later, more difficult
+tasks can be undertaken.
+"One of the first programs
+to be written using the camera,"
+said Prof. McCarthy, "locates
+cube-shaped blocks by starting
+at the bottom of the (TV) pic
+ture and examining each hori
+zontal line to a point at a time
+until it finds a light spot. If the
+computer reads the full field of
+view, it will receive 333 times
+250, or 83,250 numbers, each of
+which gives the light intensity
+in one direction from the cam
+era. The problem is to reduce
+this huge mass of information
+into a few essential statements.
+Such a description of the scene
+can be used by (another) pro
+gram that finds blocks and
+stacks them with the aid of
+
+(the) artificial arm and hand.
+"All this is just a first step
+toward a long range goal of be
+ing able to make computers do
+useful work," said the Stanford
+scientist. "Through this process
+we envisage computers perform
+ing such tasks as driving cars
+and automatically constructing
+houses. The results . . . could
+be useful in probing space, in
+cluding the exploration of
+Mars."
+Other thinking tasks the
+Stanford researchers are prod
+ding computers to do include
+chess-playing, speech recogni
+tion, and a "Heuristic Dendral
+program" aimed at better un
+derstanding of the hypothesis
+forming process of human
+thought.
+"We write chess programs,"
+said Prof. McCarthy, "not be
+cause it is important that com
+puters play good chess, but be
+cause chess provides a good
+means for comparing our ideas
+
+about the processes of intelli
+gence with human performance.
+"While the machine can look
+at several thousand positions in
+choosing its move—many times
+as many as a human examines
+—it wastes most of this effort
+in examining positions which a
+human does not bother with for
+various reasons. Our new pro
+gram will contain several
+strategies intended to reduce
+the amount of waste motion."
+There is no way to speak
+or write to a computer, he said,
+except by punched cards or tele
+typed symbols. In this research
+the computer's "ear" is a micro
+phone. It picks up air pressure
+changes that the computer re
+cords at the rate of 20,000 per
+second.
+"Although our work in the
+artificial intelligence laboratory
+thus far has been exceedingly
+complex," Prof. McCarthy con
+cluded, "we still are on the
+outermost frontier. We have a
+long way to go."
+Computer experts hate to
+hear their machines called "elec
+tronic brains" because they say,
+a computer can't think. It can
+only do what its human "pro
+grammer" tells it to.
+But they may have to get
+used to it if computer scientists
+at Stanford and a few other re
+search centers succeed in mak
+ing the complex machines "do
+intellectual work" as described
+by Prof. John McCarthy in the
+University's 1967-68 Annual Fi
+nancial Report.
+As principal investigator for
+the Computer Science Depart
+ment's Artificial Intelligence
+Project, Prof. McCarthy points
+out that computers now are of
+limited usefulness. "Present
+computer programs are not
+
+really intelligent and have very
+limited ability to recognize pat
+terns," he said.
+"For example, no one has yet
+written a computer program
+capable of identifying people in
+a picture—something a child
+can do readily. Although hu
+mans are able to perform such
+tasks without effort, we don't
+fully know how to specify such
+tasks as a precise sequence of
+steps to be carried out by a
+computer."
+His description of a "hand
+eye" research project is a good
+illustration of the enormous
+complications presented in at
+tempting to computerize a sim
+ple task. The hand-eye research
+involves a mechanical arm and
+hand linked by computer to a
+TV camera. The first objective
+to to get them to work together
+to stack blocks, as a two-year
+old might. Later, more difficult
+tasks can be undertaken.
+"One of the first programs
+to be written using the camera,"
+said Prof. McCarthy, "locates
+cube-shaped blocks by starting
+at the bottom of the (TV) pic
+ture and examining each hori
+zontal line to a point at a time
+until it finds a light spot. If the
+computer reads the full field of
+view, it will receive 333 times
+250, or 83,250 numbers, each of
+which gives the light intensity
+in one direction from the cam
+era. The problem is to reduce
+this huge mass of information
+into a few essential statements.
+Such a description of the scene
+can be used by (another) pro
+gram that finds blocks and
+stacks them with the aid of
+
+(the) artificial arm and hand.
+"All this is just a first step
+toward a long range goal of be
+ing able to make computers do
+useful work," said the Stanford
+scientist. "Through this process
+we envisage computers perform
+ing such tasks as driving cars
+and automatically constructing
+houses. The results . . . could
+be useful in probing space, in
+cluding the exploration of
+Mars."
+Other thinking tasks the
+Stanford researchers are prod
+ding computers to do include
+chess-playing, speech recogni
+tion, and a "Heuristic Dendral
+program" aimed at better un
+derstanding of the hypothesis
+forming process of human
+thought.
+"We write chess programs,"
+said Prof. McCarthy, "not be
+cause it is important that com
+puters play good chess, but be
+cause chess provides a good
+means for comparing our ideas
+
+about the processes of intelli
+gence with human performance.
+"While the machine can look
+at several thousand positions in
+choosing its move—many times
+as many as a human examines
+—it wastes most of this effort
+in examining positions which a
+human does not bother with for
+various reasons. Our new pro
+gram will contain several
+strategies intended to reduce
+the amount of waste motion."
+There is no way to speak
+or write to a computer, he said,
+except by punched cards or tele
+typed symbols. In this research
+the computer's "ear" is a micro
+phone. It picks up air pressure
+changes that the computer re
+cords at the rate of 20,000 per
+second.
+"Although our work in the
+artificial intelligence laboratory
+thus far has been exceedingly
+complex," Prof. McCarthy con
+cluded, "we still are on the
+outermost frontier. We have a
+long way to go."
+Computer experts hate to
+hear their machines called "elec
+tronic brains" because they say,
+a computer can't think. It can
+only do what its human "pro
+grammer" tells it to.
+But they may have to get
+used to it if computer scientists
+at Stanford and a few other re
+search centers succeed in mak
+ing the complex machines "do
+intellectual work" as described
+by Prof. John McCarthy in the
+University's 1967-68 Annual Fi
+nancial Report.
+As principal investigator for
+the Computer Science Depart
+ment's Artificial Intelligence
+Project, Prof. McCarthy points
+out that computers now are of
+limited usefulness. "Present
+computer programs are not
+
+really intelligent and have very
+limited ability to recognize pat
+terns," he said.
+"For example, no one has yet
+written a computer program
+capable of identifying people in
+a picture—something a child
+can do readily. Although hu
+mans are able to perform such
+tasks without effort, we don't
+fully know how to specify such
+tasks as a precise sequence of
+steps to be carried out by a
+computer."
+His description of a "hand
+eye" research project is a good
+illustration of the enormous
+complications presented in at
+tempting to computerize a sim
+ple task. The hand-eye research
+involves a mechanical arm and
+hand linked by computer to a
+TV camera. The first objective
+to to get them to work together
+to stack blocks, as a two-year
+old might. Later, more difficult
+tasks can be undertaken.
+"One of the first programs
+to be written using the camera,"
+said Prof. McCarthy, "locates
+cube-shaped blocks by starting
+at the bottom of the (TV) pic
+ture and examining each hori
+zontal line to a point at a time
+until it finds a light spot. If the
+computer reads the full field of
+view, it will receive 333 times
+250, or 83,250 numbers, each of
+which gives the light intensity
+in one direction from the cam
+era. The problem is to reduce
+this huge mass of information
+into a few essential statements.
+Such a description of the scene
+can be used by (another) pro
+gram that finds blocks and
+stacks them with the aid of
+
+(the) artificial arm and hand.
+"All this is just a first step
+toward a long range goal of be
+ing able to make computers do
+useful work," said the Stanford
+scientist. "Through this process
+we envisage computers perform
+ing such tasks as driving cars
+and automatically constructing
+houses. The results . . . could
+be useful in probing space, in
+cluding the exploration of
+Mars."
+Other thinking tasks the
+Stanford researchers are prod
+ding computers to do include
+chess-playing, speech recogni
+tion, and a "Heuristic Dendral
+program" aimed at better un
+derstanding of the hypothesis
+forming process of human
+thought.
+"We write chess programs,"
+said Prof. McCarthy, "not be
+cause it is important that com
+puters play good chess, but be
+cause chess provides a good
+means for comparing our ideas
+
+about the processes of intelli
+gence with human performance.
+"While the machine can look
+at several thousand positions in
+choosing its move—many times
+as many as a human examines
+—it wastes most of this effort
+in examining positions which a
+human does not bother with for
+various reasons. Our new pro
+gram will contain several
+strategies intended to reduce
+the amount of waste motion."
+There is no way to speak
+or write to a computer, he said,
+except by punched cards or tele
+typed symbols. In this research
+the computer's "ear" is a micro
+phone. It picks up air pressure
+changes that the computer re
+cords at the rate of 20,000 per
+second.
+"Although our work in the
+artificial intelligence laboratory
+thus far has been exceedingly
+complex," Prof. McCarthy con
+cluded, "we still are on the
+outermost frontier. We have a
+long way to go."
+Computer experts hate to
+hear their machines called "elec
+tronic brains" because they say,
+a computer can't think. It can
+only do what its human "pro
+grammer" tells it to.
+But they may have to get
+used to it if computer scientists
+at Stanford and a few other re
+search centers succeed in mak
+ing the complex machines "do
+intellectual work" as described
+by Prof. John McCarthy in the
+University's 1967-68 Annual Fi
+nancial Report.
+As principal investigator for
+the Computer Science Depart
+ment's Artificial Intelligence
+Project, Prof. McCarthy points
+out that computers now are of
+limited usefulness. "Present
+computer programs are not
+
+really intelligent and have very
+limited ability to recognize pat
+terns," he said.
+"For example, no one has yet
+written a computer program
+capable of identifying people in
+a picture—something a child
+can do readily. Although hu
+mans are able to perform such
+tasks without effort, we don't
+fully know how to specify such
+tasks as a precise sequence of
+steps to be carried out by a
+computer."
+His description of a "hand
+eye" research project is a good
+illustration of the enormous
+complications presented in at
+tempting to computerize a sim
+ple task. The hand-eye research
+involves a mechanical arm and
+hand linked by computer to a
+TV camera. The first objective
+to to get them to work together
+to stack blocks, as a two-year
+old might. Later, more difficult
+tasks can be undertaken.
+"One of the first programs
+to be written using the camera,"
+said Prof. McCarthy, "locates
+cube-shaped blocks by starting
+at the bottom of the (TV) pic
+ture and examining each hori
+zontal line to a point at a time
+until it finds a light spot. If the
+computer reads the full field of
+view, it will receive 333 times
+250, or 83,250 numbers, each of
+which gives the light intensity
+in one direction from the cam
+era. The problem is to reduce
+this huge mass of information
+into a few essential statements.
+Such a description of the scene
+can be used by (another) pro
+gram that finds blocks and
+stacks them with the aid of
+
+(the) artificial arm and hand.
+"All this is just a first step
+toward a long range goal of be
+ing able to make computers do
+useful work," said the Stanford
+scientist. "Through this process
+we envisage computers perform
+ing such tasks as driving cars
+and automatically constructing
+houses. The results . . . could
+be useful in probing space, in
+cluding the exploration of
+Mars."
+Other thinking tasks the
+Stanford researchers are prod
+ding computers to do include
+chess-playing, speech recogni
+tion, and a "Heuristic Dendral
+program" aimed at better un
+derstanding of the hypothesis
+forming process of human
+thought.
+"We write chess programs,"
+said Prof. McCarthy, "not be
+cause it is important that com
+puters play good chess, but be
+cause chess provides a good
+means for comparing our ideas
+
+about the processes of intelli
+gence with human performance.
+"While the machine can look
+at several thousand positions in
+choosing its move—many times
+as many as a human examines
+—it wastes most of this effort
+in examining positions which a
+human does not bother with for
+various reasons. Our new pro
+gram will contain several
+strategies intended to reduce
+the amount of waste motion."
+There is no way to speak
+or write to a computer, he said,
+except by punched cards or tele
+typed symbols. In this research
+the computer's "ear" is a micro
+phone. It picks up air pressure
+changes that the computer re
+cords at the rate of 20,000 per
+second.
+"Although our work in the
+artificial intelligence laboratory
+thus far has been exceedingly
+complex," Prof. McCarthy con
+cluded, "we still are on the
+outermost frontier. We have a
+long way to go."
+Computer experts hate to
+hear their machines called "elec
+tronic brains" because they say,
+a computer can't think. It can
+only do what its human "pro
+grammer" tells it to.
+But they may have to get
+used to it if computer scientists
+at Stanford and a few other re
+search centers succeed in mak
+ing the complex machines "do
+intellectual work" as described
+by Prof. John McCarthy in the
+University's 1967-68 Annual Fi
+nancial Report.
+As principal investigator for
+the Computer Science Depart
+ment's Artificial Intelligence
+Project, Prof. McCarthy points
+out that computers now are of
+limited usefulness. "Present
+computer programs are not
+
+really intelligent and have very
+limited ability to recognize pat
+terns," he said.
+"For example, no one has yet
+written a computer program
+capable of identifying people in
+a picture—something a child
+can do readily. Although hu
+mans are able to perform such
+tasks without effort, we don't
+fully know how to specify such
+tasks as a precise sequence of
+steps to be carried out by a
+computer."
+His description of a "hand
+eye" research project is a good
+illustration of the enormous
+complications presented in at
+tempting to computerize a sim
+ple task. The hand-eye research
+involves a mechanical arm and
+hand linked by computer to a
+TV camera. The first objective
+to to get them to work together
+to stack blocks, as a two-year
+old might. Later, more difficult
+tasks can be undertaken.
+"One of the first programs
+to be written using the camera,"
+said Prof. McCarthy, "locates
+cube-shaped blocks by starting
+at the bottom of the (TV) pic
+ture and examining each hori
+zontal line to a point at a time
+until it finds a light spot. If the
+computer reads the full field of
+view, it will receive 333 times
+250, or 83,250 numbers, each of
+which gives the light intensity
+in one direction from the cam
+era. The problem is to reduce
+this huge mass of information
+into a few essential statements.
+Such a description of the scene
+can be used by (another) pro
+gram that finds blocks and
+stacks them with the aid of
+
+(the) artificial arm and hand.
+"All this is just a first step
+toward a long range goal of be
+ing able to make computers do
+useful work," said the Stanford
+scientist. "Through this process
+we envisage computers perform
+ing such tasks as driving cars
+and automatically constructing
+houses. The results . . . could
+be useful in probing space, in
+cluding the exploration of
+Mars."
+Other thinking tasks the
+Stanford researchers are prod
+ding computers to do include
+chess-playing, speech recogni
+tion, and a "Heuristic Dendral
+program" aimed at better un
+derstanding of the hypothesis
+forming process of human
+thought.
+"We write chess programs,"
+said Prof. McCarthy, "not be
+cause it is important that com
+puters play good chess, but be
+cause chess provides a good
+means for comparing our ideas
+
+about the processes of intelli
+gence with human performance.
+"While the machine can look
+at several thousand positions in
+choosing its move—many times
+as many as a human examines
+—it wastes most of this effort
+in examining positions which a
+human does not bother with for
+various reasons. Our new pro
+gram will contain several
+strategies intended to reduce
+the amount of waste motion."
+There is no way to speak
+or write to a computer, he said,
+except by punched cards or tele
+typed symbols. In this research
+the computer's "ear" is a micro
+phone. It picks up air pressure
+changes that the computer re
+cords at the rate of 20,000 per
+second.
+"Although our work in the
+artificial intelligence laboratory
+thus far has been exceedingly
+complex," Prof. McCarthy con
+cluded, "we still are on the
+outermost frontier. We have a
+long way to go."
+Computer experts hate to
+hear their machines called "elec
+tronic brains" because they say,
+a computer can't think. It can
+only do what its human "pro
+grammer" tells it to.
+But they may have to get
+used to it if computer scientists
+at Stanford and a few other re
+search centers succeed in mak
+ing the complex machines "do
+intellectual work" as described
+by Prof. John McCarthy in the
+University's 1967-68 Annual Fi
+nancial Report.
+As principal investigator for
+the Computer Science Depart
+ment's Artificial Intelligence
+Project, Prof. McCarthy points
+out that computers now are of
+limited usefulness. "Present
+computer programs are not
+
+really intelligent and have very
+limited ability to recognize pat
+terns," he said.
+"For example, no one has yet
+written a computer program
+capable of identifying people in
+a picture—something a child
+can do readily. Although hu
+mans are able to perform such
+tasks without effort, we don't
+fully know how to specify such
+tasks as a precise sequence of
+steps to be carried out by a
+computer."
+His description of a "hand
+eye" research project is a good
+illustration of the enormous
+complications presented in at
+tempting to computerize a sim
+ple task. The hand-eye research
+involves a mechanical arm and
+hand linked by computer to a
+TV camera. The first objective
+to to get them to work together
+to stack blocks, as a two-year
+old might. Later, more difficult
+tasks can be undertaken.
+"One of the first programs
+to be written using the camera,"
+said Prof. McCarthy, "locates
+cube-shaped blocks by starting
+at the bottom of the (TV) pic
+ture and examining each hori
+zontal line to a point at a time
+until it finds a light spot. If the
+computer reads the full field of
+view, it will receive 333 times
+250, or 83,250 numbers, each of
+which gives the light intensity
+in one direction from the cam
+era. The problem is to reduce
+this huge mass of information
+into a few essential statements.
+Such a description of the scene
+can be used by (another) pro
+gram that finds blocks and
+stacks them with the aid of
+
+(the) artificial arm and hand.
+"All this is just a first step
+toward a long range goal of be
+ing able to make computers do
+useful work," said the Stanford
+scientist. "Through this process
+we envisage computers perform
+ing such tasks as driving cars
+and automatically constructing
+houses. The results . . . could
+be useful in probing space, in
+cluding the exploration of
+Mars."
+Other thinking tasks the
+Stanford researchers are prod
+ding computers to do include
+chess-playing, speech recogni
+tion, and a "Heuristic Dendral
+program" aimed at better un
+derstanding of the hypothesis
+forming process of human
+thought.
+"We write chess programs,"
+said Prof. McCarthy, "not be
+cause it is important that com
+puters play good chess, but be
+cause chess provides a good
+means for comparing our ideas
+
+about the processes of intelli
+gence with human performance.
+"While the machine can look
+at several thousand positions in
+choosing its move—many times
+as many as a human examines
+—it wastes most of this effort
+in examining positions which a
+human does not bother with for
+various reasons. Our new pro
+gram will contain several
+strategies intended to reduce
+the amount of waste motion."
+There is no way to speak
+or write to a computer, he said,
+except by punched cards or tele
+typed symbols. In this research
+the computer's "ear" is a micro
+phone. It picks up air pressure
+changes that the computer re
+cords at the rate of 20,000 per
+second.
+"Although our work in the
+artificial intelligence laboratory
+thus far has been exceedingly
+complex," Prof. McCarthy con
+cluded, "we still are on the
+outermost frontier. We have a
+long way to go."
+Computer experts hate to
+hear their machines called "elec
+tronic brains" because they say,
+a computer can't think. It can
+only do what its human "pro
+grammer" tells it to.
+But they may have to get
+used to it if computer scientists
+at Stanford and a few other re
+search centers succeed in mak
+ing the complex machines "do
+intellectual work" as described
+by Prof. John McCarthy in the
+University's 1967-68 Annual Fi
+nancial Report.
+As principal investigator for
+the Computer Science Depart
+ment's Artificial Intelligence
+Project, Prof. McCarthy points
+out that computers now are of
+limited usefulness. "Present
+computer programs are not
+
+really intelligent and have very
+limited ability to recognize pat
+terns," he said.
+"For example, no one has yet
+written a computer program
+capable of identifying people in
+a picture—something a child
+can do readily. Although hu
+mans are able to perform such
+tasks without effort, we don't
+fully know how to specify such
+tasks as a precise sequence of
+steps to be carried out by a
+computer."
+His description of a "hand
+eye" research project is a good
+illustration of the enormous
+complications presented in at
+tempting to computerize a sim
+ple task. The hand-eye research
+involves a mechanical arm and
+hand linked by computer to a
+TV camera. The first objective
+to to get them to work together
+to stack blocks, as a two-year
+old might. Later, more difficult
+tasks can be undertaken.
+"One of the first programs
+to be written using the camera,"
+said Prof. McCarthy, "locates
+cube-shaped blocks by starting
+at the bottom of the (TV) pic
+ture and examining each hori
+zontal line to a point at a time
+until it finds a light spot. If the
+computer reads the full field of
+view, it will receive 333 times
+250, or 83,250 numbers, each of
+which gives the light intensity
+in one direction from the cam
+era. The problem is to reduce
+this huge mass of information
+into a few essential statements.
+Such a description of the scene
+can be used by (another) pro
+gram that finds blocks and
+stacks them with the aid of
+
+(the) artificial arm and hand.
+"All this is just a first step
+toward a long range goal of be
+ing able to make computers do
+useful work," said the Stanford
+scientist. "Through this process
+we envisage computers perform
+ing such tasks as driving cars
+and automatically constructing
+houses. The results . . . could
+be useful in probing space, in
+cluding the exploration of
+Mars."
+Other thinking tasks the
+Stanford researchers are prod
+ding computers to do include
+chess-playing, speech recogni
+tion, and a "Heuristic Dendral
+program" aimed at better un
+derstanding of the hypothesis
+forming process of human
+thought.
+"We write chess programs,"
+said Prof. McCarthy, "not be
+cause it is important that com
+puters play good chess, but be
+cause chess provides a good
+means for comparing our ideas
+
+about the processes of intelli
+gence with human performance.
+"While the machine can look
+at several thousand positions in
+choosing its move—many times
+as many as a human examines
+—it wastes most of this effort
+in examining positions which a
+human does not bother with for
+various reasons. Our new pro
+gram will contain several
+strategies intended to reduce
+the amount of waste motion."
+There is no way to speak
+or write to a computer, he said,
+except by punched cards or tele
+typed symbols. In this research
+the computer's "ear" is a micro
+phone. It picks up air pressure
+changes that the computer re
+cords at the rate of 20,000 per
+second.
+"Although our work in the
+artificial intelligence laboratory
+thus far has been exceedingly
+complex," Prof. McCarthy con
+cluded, "we still are on the
+outermost frontier. We have a
+long way to go."
+Computer experts hate to
+hear their machines called "elec
+tronic brains" because they say,
+a computer can't think. It can
+only do what its human "pro
+grammer" tells it to.
+But they may have to get
+used to it if computer scientists
+at Stanford and a few other re
+search centers succeed in mak
+ing the complex machines "do
+intellectual work" as described
+by Prof. John McCarthy in the
+University's 1967-68 Annual Fi
+nancial Report.
+As principal investigator for
+the Computer Science Depart
+ment's Artificial Intelligence
+Project, Prof. McCarthy points
+out that computers now are of
+limited usefulness. "Present
+computer programs are not
+
+really intelligent and have very
+limited ability to recognize pat
+terns," he said.
+"For example, no one has yet
+written a computer program
+capable of identifying people in
+a picture—something a child
+can do readily. Although hu
+mans are able to perform such
+tasks without effort, we don't
+fully know how to specify such
+tasks as a precise sequence of
+steps to be carried out by a
+computer."
+His description of a "hand
+eye" research project is a good
+illustration of the enormous
+complications presented in at
+tempting to computerize a sim
+ple task. The hand-eye research
+involves a mechanical arm and
+hand linked by computer to a
+TV camera. The first objective
+to to get them to work together
+to stack blocks, as a two-year
+old might. Later, more difficult
+tasks can be undertaken.
+"One of the first programs
+to be written using the camera,"
+said Prof. McCarthy, "locates
+cube-shaped blocks by starting
+at the bottom of the (TV) pic
+ture and examining each hori
+zontal line to a point at a time
+until it finds a light spot. If the
+computer reads the full field of
+view, it will receive 333 times
+250, or 83,250 numbers, each of
+which gives the light intensity
+in one direction from the cam
+era. The problem is to reduce
+this huge mass of information
+into a few essential statements.
+Such a description of the scene
+can be used by (another) pro
+gram that finds blocks and
+stacks them with the aid of
+
+(the) artificial arm and hand.
+"All this is just a first step
+toward a long range goal of be
+ing able to make computers do
+useful work," said the Stanford
+scientist. "Through this process
+we envisage computers perform
+ing such tasks as driving cars
+and automatically constructing
+houses. The results . . . could
+be useful in probing space, in
+cluding the exploration of
+Mars."
+Other thinking tasks the
+Stanford researchers are prod
+ding computers to do include
+chess-playing, speech recogni
+tion, and a "Heuristic Dendral
+program" aimed at better un
+derstanding of the hypothesis
+forming process of human
+thought.
+"We write chess programs,"
+said Prof. McCarthy, "not be
+cause it is important that com
+puters play good chess, but be
+cause chess provides a good
+means for comparing our ideas
+
+about the processes of intelli
+gence with human performance.
+"While the machine can look
+at several thousand positions in
+choosing its move—many times
+as many as a human examines
+—it wastes most of this effort
+in examining positions which a
+human does not bother with for
+various reasons. Our new pro
+gram will contain several
+strategies intended to reduce
+the amount of waste motion."
+There is no way to speak
+or write to a computer, he said,
+except by punched cards or tele
+typed symbols. In this research
+the computer's "ear" is a micro
+phone. It picks up air pressure
+changes that the computer re
+cords at the rate of 20,000 per
+second.
+"Although our work in the
+artificial intelligence laboratory
+thus far has been exceedingly
+complex," Prof. McCarthy con
+cluded, "we still are on the
+outermost frontier. We have a
+long way to go."
+Computer experts hate to
+hear their machines called "elec
+tronic brains" because they say,
+a computer can't think. It can
+only do what its human "pro
+grammer" tells it to.
+But they may have to get
+used to it if computer scientists
+at Stanford and a few other re
+search centers succeed in mak
+ing the complex machines "do
+intellectual work" as described
+by Prof. John McCarthy in the
+University's 1967-68 Annual Fi
+nancial Report.
+As principal investigator for
+the Computer Science Depart
+ment's Artificial Intelligence
+Project, Prof. McCarthy points
+out that computers now are of
+limited usefulness. "Present
+computer programs are not
+
+really intelligent and have very
+limited ability to recognize pat
+terns," he said.
+"For example, no one has yet
+written a computer program
+capable of identifying people in
+a picture—something a child
+can do readily. Although hu
+mans are able to perform such
+tasks without effort, we don't
+fully know how to specify such
+tasks as a precise sequence of
+steps to be carried out by a
+computer."
+His description of a "hand
+eye" research project is a good
+illustration of the enormous
+complications presented in at
+tempting to computerize a sim
+ple task. The hand-eye research
+involves a mechanical arm and
+hand linked by computer to a
+TV camera. The first objective
+to to get them to work together
+to stack blocks, as a two-year
+old might. Later, more difficult
+tasks can be undertaken.
+"One of the first programs
+to be written using the camera,"
+said Prof. McCarthy, "locates
+cube-shaped blocks by starting
+at the bottom of the (TV) pic
+ture and examining each hori
+zontal line to a point at a time
+until it finds a light spot. If the
+computer reads the full field of
+view, it will receive 333 times
+250, or 83,250 numbers, each of
+which gives the light intensity
+in one direction from the cam
+era. The problem is to reduce
+this huge mass of information
+into a few essential statements.
+Such a description of the scene
+can be used by (another) pro
+gram that finds blocks and
+stacks them with the aid of
+
+(the) artificial arm and hand.
+"All this is just a first step
+toward a long range goal of be
+ing able to make computers do
+useful work," said the Stanford
+scientist. "Through this process
+we envisage computers perform
+ing such tasks as driving cars
+and automatically constructing
+houses. The results . . . could
+be useful in probing space, in
+cluding the exploration of
+Mars."
+Other thinking tasks the
+Stanford researchers are prod
+ding computers to do include
+chess-playing, speech recogni
+tion, and a "Heuristic Dendral
+program" aimed at better un
+derstanding of the hypothesis
+forming process of human
+thought.
+"We write chess programs,"
+said Prof. McCarthy, "not be
+cause it is important that com
+puters play good chess, but be
+cause chess provides a good
+means for comparing our ideas
+
+about the processes of intelli
+gence with human performance.
+"While the machine can look
+at several thousand positions in
+choosing its move—many times
+as many as a human examines
+—it wastes most of this effort
+in examining positions which a
+human does not bother with for
+various reasons. Our new pro
+gram will contain several
+strategies intended to reduce
+the amount of waste motion."
+There is no way to speak
+or write to a computer, he said,
+except by punched cards or tele
+typed symbols. In this research
+the computer's "ear" is a micro
+phone. It picks up air pressure
+changes that the computer re
+cords at the rate of 20,000 per
+second.
+"Although our work in the
+artificial intelligence laboratory
+thus far has been exceedingly
+complex," Prof. McCarthy con
+cluded, "we still are on the
+outermost frontier. We have a
+long way to go."
+Computer experts hate to
+hear their machines called "elec
+tronic brains" because they say,
+a computer can't think. It can
+only do what its human "pro
+grammer" tells it to.
+But they may have to get
+used to it if computer scientists
+at Stanford and a few other re
+search centers succeed in mak
+ing the complex machines "do
+intellectual work" as described
+by Prof. John McCarthy in the
+University's 1967-68 Annual Fi
+nancial Report.
+As principal investigator for
+the Computer Science Depart
+ment's Artificial Intelligence
+Project, Prof. McCarthy points
+out that computers now are of
+limited usefulness. "Present
+computer programs are not
+
+really intelligent and have very
+limited ability to recognize pat
+terns," he said.
+"For example, no one has yet
+written a computer program
+capable of identifying people in
+a picture—something a child
+can do readily. Although hu
+mans are able to perform such
+tasks without effort, we don't
+fully know how to specify such
+tasks as a precise sequence of
+steps to be carried out by a
+computer."
+His description of a "hand
+eye" research project is a good
+illustration of the enormous
+complications presented in at
+tempting to computerize a sim
+ple task. The hand-eye research
+involves a mechanical arm and
+hand linked by computer to a
+TV camera. The first objective
+to to get them to work together
+to stack blocks, as a two-year
+old might. Later, more difficult
+tasks can be undertaken.
+"One of the first programs
+to be written using the camera,"
+said Prof. McCarthy, "locates
+cube-shaped blocks by starting
+at the bottom of the (TV) pic
+ture and examining each hori
+zontal line to a point at a time
+until it finds a light spot. If the
+computer reads the full field of
+view, it will receive 333 times
+250, or 83,250 numbers, each of
+which gives the light intensity
+in one direction from the cam
+era. The problem is to reduce
+this huge mass of information
+into a few essential statements.
+Such a description of the scene
+can be used by (another) pro
+gram that finds blocks and
+stacks them with the aid of
+
+(the) artificial arm and hand.
+"All this is just a first step
+toward a long range goal of be
+ing able to make computers do
+useful work," said the Stanford
+scientist. "Through this process
+we envisage computers perform
+ing such tasks as driving cars
+and automatically constructing
+houses. The results . . . could
+be useful in probing space, in
+cluding the exploration of
+Mars."
+Other thinking tasks the
+Stanford researchers are prod
+ding computers to do include
+chess-playing, speech recogni
+tion, and a "Heuristic Dendral
+program" aimed at better un
+derstanding of the hypothesis
+forming process of human
+thought.
+"We write chess programs,"
+said Prof. McCarthy, "not be
+cause it is important that com
+puters play good chess, but be
+cause chess provides a good
+means for comparing our ideas
+
+about the processes of intelli
+gence with human performance.
+"While the machine can look
+at several thousand positions in
+choosing its move—many times
+as many as a human examines
+—it wastes most of this effort
+in examining positions which a
+human does not bother with for
+various reasons. Our new pro
+gram will contain several
+strategies intended to reduce
+the amount of waste motion."
+There is no way to speak
+or write to a computer, he said,
+except by punched cards or tele
+typed symbols. In this research
+the computer's "ear" is a micro
+phone. It picks up air pressure
+changes that the computer re
+cords at the rate of 20,000 per
+second.
+"Although our work in the
+artificial intelligence laboratory
+thus far has been exceedingly
+complex," Prof. McCarthy con
+cluded, "we still are on the
+outermost frontier. We have a
+long way to go."

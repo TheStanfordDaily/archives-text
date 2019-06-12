@@ -1,0 +1,850 @@
+# The 						Answer girl
+## Checkerboards not just for the nerds anymore 
+### STEPHANIE CHIANG CONTRIBUTING WRITER 
+Q: My friend told me
+about this hrainteaser he just
+saw. It consists oj a regular
+H-by-8-inch checkerboard
+and 32 regular (that is, 2-
+by-l-inch) dominoes. You
+can fit all the dominoes onto
+the board because the
+checkerboard lias 64
+squares, as do the dominoes
+added together.
+He claims that, if you cut
+away opposing comers of the
+checkerboard and take away
+one domino, there's no way
+\ou can fit all the dominoes
+that are left fully on the
+board. I'hat is, he flunks that
+there will always be two half
+dominoes — one half for each
+of the tiro dominoes — hang
+ing off the board. Is this true?
+I J so, why?
+A: Yes, your friend is
+right. In Figure A, you can
+clearly see that M2 2-by-l
+inch dominoes will com
+pletely till up the 8-by-8-
+inch checkerboard. 1 n
+Figure C, you will see the
+checkerboard with 11 it* op
+posing edges cut off. At
+first, it seems like the 31
+dominoes will be able to
+completely lit in the al
+tered board — in which
+there are (>'J squares — in
+.i snake-like pattern (plat
+ing dominoes from the top
+row right to left, then
+down the next row left to
+right and so on).
+Despite the many pos
+sible ways to arrange the
+dominoes on the board,
+there will always be two
+ha If-dominoes hanging
+off the board. How can I
+prove this? Well, if you
+look at a regular checker
+
+board, black squares al
+ternate with white
+squares so that each black
+square is surrounded bv
+white squares on .ill sides.
+So, let's look at the unal
+tered checkerboard's bot
+tom-most row and the
+right-most column in Fig
+ure A, which form a re
+verse-!, shape. We focus
+on them because they are
+the sides that will have
+squares cut out in the al
+tered board (Figure li)-
+Let's go through this
+carefully: Starting at the
+left bottom comer and
+going to the right in Fig
+ure A, it's white, black, w,
+b, w, b. w, b (which begins
+the column up), w, b, w, b,
+w, b, w. If you cut away
+the two opposing edges of
+the reverse-L shape that
+we have highlighted (Fig
+ure B), you are cutting
+away the left-most white
+square on the bottom row
+and the top-most white
+square on the column.
+Thus, two white squares
+are cut away.
+However, if von look at
+how dominoes are put on
+the board, you will see that
+tliev always take up one
+black square and one
+white square. That's the
+key to the answer. We've
+cut away two white squares
+instead of one white and
+one black square. So
+there's no way that you can
+fit all the dominoes on a
+board that has its opposing
+edges cut off.
+
+Special tlumks to ( '.lark Bray, a
+lecturer in the Mathematics De
+partment, for help on this artii le.
+dot a qiwstim for the Answer
+(iirlf E-mail queries to innova
+tion in <laily.stanford.edu.
+
+
+( vrie./( i StephanieChiang
+Figure A shows the 8 by-8-inch checkboard.
+
+
+Graphic by Yingjie Soon
+Figure B shows the reverse-L shaped path on the
+checkboard highlighted. Following this path will
+lead you this brainteaser's answer.
+
+
+( curtesy of Stephanie Chiang
+Figure C shows the checkerboard with the
+upper-right square and the lower-left square
+cut off
+Q: My friend told me
+about this hrainteaser he just
+saw. It consists oj a regular
+H-by-8-inch checkerboard
+and 32 regular (that is, 2-
+by-l-inch) dominoes. You
+can fit all the dominoes onto
+the board because the
+checkerboard lias 64
+squares, as do the dominoes
+added together.
+He claims that, if you cut
+away opposing comers of the
+checkerboard and take away
+one domino, there's no way
+\ou can fit all the dominoes
+that are left fully on the
+board. I'hat is, he flunks that
+there will always be two half
+dominoes — one half for each
+of the tiro dominoes — hang
+ing off the board. Is this true?
+I J so, why?
+A: Yes, your friend is
+right. In Figure A, you can
+clearly see that M2 2-by-l
+inch dominoes will com
+pletely till up the 8-by-8-
+inch checkerboard. 1 n
+Figure C, you will see the
+checkerboard with 11 it* op
+posing edges cut off. At
+first, it seems like the 31
+dominoes will be able to
+completely lit in the al
+tered board — in which
+there are (>'J squares — in
+.i snake-like pattern (plat
+ing dominoes from the top
+row right to left, then
+down the next row left to
+right and so on).
+Despite the many pos
+sible ways to arrange the
+dominoes on the board,
+there will always be two
+ha If-dominoes hanging
+off the board. How can I
+prove this? Well, if you
+look at a regular checker
+
+board, black squares al
+ternate with white
+squares so that each black
+square is surrounded bv
+white squares on .ill sides.
+So, let's look at the unal
+tered checkerboard's bot
+tom-most row and the
+right-most column in Fig
+ure A, which form a re
+verse-!, shape. We focus
+on them because they are
+the sides that will have
+squares cut out in the al
+tered board (Figure li)-
+Let's go through this
+carefully: Starting at the
+left bottom comer and
+going to the right in Fig
+ure A, it's white, black, w,
+b, w, b. w, b (which begins
+the column up), w, b, w, b,
+w, b, w. If you cut away
+the two opposing edges of
+the reverse-L shape that
+we have highlighted (Fig
+ure B), you are cutting
+away the left-most white
+square on the bottom row
+and the top-most white
+square on the column.
+Thus, two white squares
+are cut away.
+However, if von look at
+how dominoes are put on
+the board, you will see that
+tliev always take up one
+black square and one
+white square. That's the
+key to the answer. We've
+cut away two white squares
+instead of one white and
+one black square. So
+there's no way that you can
+fit all the dominoes on a
+board that has its opposing
+edges cut off.
+
+Special tlumks to ( '.lark Bray, a
+lecturer in the Mathematics De
+partment, for help on this artii le.
+dot a qiwstim for the Answer
+(iirlf E-mail queries to innova
+tion in <laily.stanford.edu.
+
+
+( vrie./( i StephanieChiang
+Figure A shows the 8 by-8-inch checkboard.
+
+
+Graphic by Yingjie Soon
+Figure B shows the reverse-L shaped path on the
+checkboard highlighted. Following this path will
+lead you this brainteaser's answer.
+
+
+( curtesy of Stephanie Chiang
+Figure C shows the checkerboard with the
+upper-right square and the lower-left square
+cut off
+Q: My friend told me
+about this hrainteaser he just
+saw. It consists oj a regular
+H-by-8-inch checkerboard
+and 32 regular (that is, 2-
+by-l-inch) dominoes. You
+can fit all the dominoes onto
+the board because the
+checkerboard lias 64
+squares, as do the dominoes
+added together.
+He claims that, if you cut
+away opposing comers of the
+checkerboard and take away
+one domino, there's no way
+\ou can fit all the dominoes
+that are left fully on the
+board. I'hat is, he flunks that
+there will always be two half
+dominoes — one half for each
+of the tiro dominoes — hang
+ing off the board. Is this true?
+I J so, why?
+A: Yes, your friend is
+right. In Figure A, you can
+clearly see that M2 2-by-l
+inch dominoes will com
+pletely till up the 8-by-8-
+inch checkerboard. 1 n
+Figure C, you will see the
+checkerboard with 11 it* op
+posing edges cut off. At
+first, it seems like the 31
+dominoes will be able to
+completely lit in the al
+tered board — in which
+there are (>'J squares — in
+.i snake-like pattern (plat
+ing dominoes from the top
+row right to left, then
+down the next row left to
+right and so on).
+Despite the many pos
+sible ways to arrange the
+dominoes on the board,
+there will always be two
+ha If-dominoes hanging
+off the board. How can I
+prove this? Well, if you
+look at a regular checker
+
+board, black squares al
+ternate with white
+squares so that each black
+square is surrounded bv
+white squares on .ill sides.
+So, let's look at the unal
+tered checkerboard's bot
+tom-most row and the
+right-most column in Fig
+ure A, which form a re
+verse-!, shape. We focus
+on them because they are
+the sides that will have
+squares cut out in the al
+tered board (Figure li)-
+Let's go through this
+carefully: Starting at the
+left bottom comer and
+going to the right in Fig
+ure A, it's white, black, w,
+b, w, b. w, b (which begins
+the column up), w, b, w, b,
+w, b, w. If you cut away
+the two opposing edges of
+the reverse-L shape that
+we have highlighted (Fig
+ure B), you are cutting
+away the left-most white
+square on the bottom row
+and the top-most white
+square on the column.
+Thus, two white squares
+are cut away.
+However, if von look at
+how dominoes are put on
+the board, you will see that
+tliev always take up one
+black square and one
+white square. That's the
+key to the answer. We've
+cut away two white squares
+instead of one white and
+one black square. So
+there's no way that you can
+fit all the dominoes on a
+board that has its opposing
+edges cut off.
+
+Special tlumks to ( '.lark Bray, a
+lecturer in the Mathematics De
+partment, for help on this artii le.
+dot a qiwstim for the Answer
+(iirlf E-mail queries to innova
+tion in <laily.stanford.edu.
+
+
+( vrie./( i StephanieChiang
+Figure A shows the 8 by-8-inch checkboard.
+
+
+Graphic by Yingjie Soon
+Figure B shows the reverse-L shaped path on the
+checkboard highlighted. Following this path will
+lead you this brainteaser's answer.
+
+
+( curtesy of Stephanie Chiang
+Figure C shows the checkerboard with the
+upper-right square and the lower-left square
+cut off
+Q: My friend told me
+about this hrainteaser he just
+saw. It consists oj a regular
+H-by-8-inch checkerboard
+and 32 regular (that is, 2-
+by-l-inch) dominoes. You
+can fit all the dominoes onto
+the board because the
+checkerboard lias 64
+squares, as do the dominoes
+added together.
+He claims that, if you cut
+away opposing comers of the
+checkerboard and take away
+one domino, there's no way
+\ou can fit all the dominoes
+that are left fully on the
+board. I'hat is, he flunks that
+there will always be two half
+dominoes — one half for each
+of the tiro dominoes — hang
+ing off the board. Is this true?
+I J so, why?
+A: Yes, your friend is
+right. In Figure A, you can
+clearly see that M2 2-by-l
+inch dominoes will com
+pletely till up the 8-by-8-
+inch checkerboard. 1 n
+Figure C, you will see the
+checkerboard with 11 it* op
+posing edges cut off. At
+first, it seems like the 31
+dominoes will be able to
+completely lit in the al
+tered board — in which
+there are (>'J squares — in
+.i snake-like pattern (plat
+ing dominoes from the top
+row right to left, then
+down the next row left to
+right and so on).
+Despite the many pos
+sible ways to arrange the
+dominoes on the board,
+there will always be two
+ha If-dominoes hanging
+off the board. How can I
+prove this? Well, if you
+look at a regular checker
+
+board, black squares al
+ternate with white
+squares so that each black
+square is surrounded bv
+white squares on .ill sides.
+So, let's look at the unal
+tered checkerboard's bot
+tom-most row and the
+right-most column in Fig
+ure A, which form a re
+verse-!, shape. We focus
+on them because they are
+the sides that will have
+squares cut out in the al
+tered board (Figure li)-
+Let's go through this
+carefully: Starting at the
+left bottom comer and
+going to the right in Fig
+ure A, it's white, black, w,
+b, w, b. w, b (which begins
+the column up), w, b, w, b,
+w, b, w. If you cut away
+the two opposing edges of
+the reverse-L shape that
+we have highlighted (Fig
+ure B), you are cutting
+away the left-most white
+square on the bottom row
+and the top-most white
+square on the column.
+Thus, two white squares
+are cut away.
+However, if von look at
+how dominoes are put on
+the board, you will see that
+tliev always take up one
+black square and one
+white square. That's the
+key to the answer. We've
+cut away two white squares
+instead of one white and
+one black square. So
+there's no way that you can
+fit all the dominoes on a
+board that has its opposing
+edges cut off.
+
+Special tlumks to ( '.lark Bray, a
+lecturer in the Mathematics De
+partment, for help on this artii le.
+dot a qiwstim for the Answer
+(iirlf E-mail queries to innova
+tion in <laily.stanford.edu.
+
+
+( vrie./( i StephanieChiang
+Figure A shows the 8 by-8-inch checkboard.
+
+
+Graphic by Yingjie Soon
+Figure B shows the reverse-L shaped path on the
+checkboard highlighted. Following this path will
+lead you this brainteaser's answer.
+
+
+( curtesy of Stephanie Chiang
+Figure C shows the checkerboard with the
+upper-right square and the lower-left square
+cut off
+Q: My friend told me
+about this hrainteaser he just
+saw. It consists oj a regular
+H-by-8-inch checkerboard
+and 32 regular (that is, 2-
+by-l-inch) dominoes. You
+can fit all the dominoes onto
+the board because the
+checkerboard lias 64
+squares, as do the dominoes
+added together.
+He claims that, if you cut
+away opposing comers of the
+checkerboard and take away
+one domino, there's no way
+\ou can fit all the dominoes
+that are left fully on the
+board. I'hat is, he flunks that
+there will always be two half
+dominoes — one half for each
+of the tiro dominoes — hang
+ing off the board. Is this true?
+I J so, why?
+A: Yes, your friend is
+right. In Figure A, you can
+clearly see that M2 2-by-l
+inch dominoes will com
+pletely till up the 8-by-8-
+inch checkerboard. 1 n
+Figure C, you will see the
+checkerboard with 11 it* op
+posing edges cut off. At
+first, it seems like the 31
+dominoes will be able to
+completely lit in the al
+tered board — in which
+there are (>'J squares — in
+.i snake-like pattern (plat
+ing dominoes from the top
+row right to left, then
+down the next row left to
+right and so on).
+Despite the many pos
+sible ways to arrange the
+dominoes on the board,
+there will always be two
+ha If-dominoes hanging
+off the board. How can I
+prove this? Well, if you
+look at a regular checker
+
+board, black squares al
+ternate with white
+squares so that each black
+square is surrounded bv
+white squares on .ill sides.
+So, let's look at the unal
+tered checkerboard's bot
+tom-most row and the
+right-most column in Fig
+ure A, which form a re
+verse-!, shape. We focus
+on them because they are
+the sides that will have
+squares cut out in the al
+tered board (Figure li)-
+Let's go through this
+carefully: Starting at the
+left bottom comer and
+going to the right in Fig
+ure A, it's white, black, w,
+b, w, b. w, b (which begins
+the column up), w, b, w, b,
+w, b, w. If you cut away
+the two opposing edges of
+the reverse-L shape that
+we have highlighted (Fig
+ure B), you are cutting
+away the left-most white
+square on the bottom row
+and the top-most white
+square on the column.
+Thus, two white squares
+are cut away.
+However, if von look at
+how dominoes are put on
+the board, you will see that
+tliev always take up one
+black square and one
+white square. That's the
+key to the answer. We've
+cut away two white squares
+instead of one white and
+one black square. So
+there's no way that you can
+fit all the dominoes on a
+board that has its opposing
+edges cut off.
+
+Special tlumks to ( '.lark Bray, a
+lecturer in the Mathematics De
+partment, for help on this artii le.
+dot a qiwstim for the Answer
+(iirlf E-mail queries to innova
+tion in <laily.stanford.edu.
+
+
+( vrie./( i StephanieChiang
+Figure A shows the 8 by-8-inch checkboard.
+
+
+Graphic by Yingjie Soon
+Figure B shows the reverse-L shaped path on the
+checkboard highlighted. Following this path will
+lead you this brainteaser's answer.
+
+
+( curtesy of Stephanie Chiang
+Figure C shows the checkerboard with the
+upper-right square and the lower-left square
+cut off
+Q: My friend told me
+about this hrainteaser he just
+saw. It consists oj a regular
+H-by-8-inch checkerboard
+and 32 regular (that is, 2-
+by-l-inch) dominoes. You
+can fit all the dominoes onto
+the board because the
+checkerboard lias 64
+squares, as do the dominoes
+added together.
+He claims that, if you cut
+away opposing comers of the
+checkerboard and take away
+one domino, there's no way
+\ou can fit all the dominoes
+that are left fully on the
+board. I'hat is, he flunks that
+there will always be two half
+dominoes — one half for each
+of the tiro dominoes — hang
+ing off the board. Is this true?
+I J so, why?
+A: Yes, your friend is
+right. In Figure A, you can
+clearly see that M2 2-by-l
+inch dominoes will com
+pletely till up the 8-by-8-
+inch checkerboard. 1 n
+Figure C, you will see the
+checkerboard with 11 it* op
+posing edges cut off. At
+first, it seems like the 31
+dominoes will be able to
+completely lit in the al
+tered board — in which
+there are (>'J squares — in
+.i snake-like pattern (plat
+ing dominoes from the top
+row right to left, then
+down the next row left to
+right and so on).
+Despite the many pos
+sible ways to arrange the
+dominoes on the board,
+there will always be two
+ha If-dominoes hanging
+off the board. How can I
+prove this? Well, if you
+look at a regular checker
+
+board, black squares al
+ternate with white
+squares so that each black
+square is surrounded bv
+white squares on .ill sides.
+So, let's look at the unal
+tered checkerboard's bot
+tom-most row and the
+right-most column in Fig
+ure A, which form a re
+verse-!, shape. We focus
+on them because they are
+the sides that will have
+squares cut out in the al
+tered board (Figure li)-
+Let's go through this
+carefully: Starting at the
+left bottom comer and
+going to the right in Fig
+ure A, it's white, black, w,
+b, w, b. w, b (which begins
+the column up), w, b, w, b,
+w, b, w. If you cut away
+the two opposing edges of
+the reverse-L shape that
+we have highlighted (Fig
+ure B), you are cutting
+away the left-most white
+square on the bottom row
+and the top-most white
+square on the column.
+Thus, two white squares
+are cut away.
+However, if von look at
+how dominoes are put on
+the board, you will see that
+tliev always take up one
+black square and one
+white square. That's the
+key to the answer. We've
+cut away two white squares
+instead of one white and
+one black square. So
+there's no way that you can
+fit all the dominoes on a
+board that has its opposing
+edges cut off.
+
+Special tlumks to ( '.lark Bray, a
+lecturer in the Mathematics De
+partment, for help on this artii le.
+dot a qiwstim for the Answer
+(iirlf E-mail queries to innova
+tion in <laily.stanford.edu.
+
+
+( vrie./( i StephanieChiang
+Figure A shows the 8 by-8-inch checkboard.
+
+
+Graphic by Yingjie Soon
+Figure B shows the reverse-L shaped path on the
+checkboard highlighted. Following this path will
+lead you this brainteaser's answer.
+
+
+( curtesy of Stephanie Chiang
+Figure C shows the checkerboard with the
+upper-right square and the lower-left square
+cut off
+Q: My friend told me
+about this hrainteaser he just
+saw. It consists oj a regular
+H-by-8-inch checkerboard
+and 32 regular (that is, 2-
+by-l-inch) dominoes. You
+can fit all the dominoes onto
+the board because the
+checkerboard lias 64
+squares, as do the dominoes
+added together.
+He claims that, if you cut
+away opposing comers of the
+checkerboard and take away
+one domino, there's no way
+\ou can fit all the dominoes
+that are left fully on the
+board. I'hat is, he flunks that
+there will always be two half
+dominoes — one half for each
+of the tiro dominoes — hang
+ing off the board. Is this true?
+I J so, why?
+A: Yes, your friend is
+right. In Figure A, you can
+clearly see that M2 2-by-l
+inch dominoes will com
+pletely till up the 8-by-8-
+inch checkerboard. 1 n
+Figure C, you will see the
+checkerboard with 11 it* op
+posing edges cut off. At
+first, it seems like the 31
+dominoes will be able to
+completely lit in the al
+tered board — in which
+there are (>'J squares — in
+.i snake-like pattern (plat
+ing dominoes from the top
+row right to left, then
+down the next row left to
+right and so on).
+Despite the many pos
+sible ways to arrange the
+dominoes on the board,
+there will always be two
+ha If-dominoes hanging
+off the board. How can I
+prove this? Well, if you
+look at a regular checker
+
+board, black squares al
+ternate with white
+squares so that each black
+square is surrounded bv
+white squares on .ill sides.
+So, let's look at the unal
+tered checkerboard's bot
+tom-most row and the
+right-most column in Fig
+ure A, which form a re
+verse-!, shape. We focus
+on them because they are
+the sides that will have
+squares cut out in the al
+tered board (Figure li)-
+Let's go through this
+carefully: Starting at the
+left bottom comer and
+going to the right in Fig
+ure A, it's white, black, w,
+b, w, b. w, b (which begins
+the column up), w, b, w, b,
+w, b, w. If you cut away
+the two opposing edges of
+the reverse-L shape that
+we have highlighted (Fig
+ure B), you are cutting
+away the left-most white
+square on the bottom row
+and the top-most white
+square on the column.
+Thus, two white squares
+are cut away.
+However, if von look at
+how dominoes are put on
+the board, you will see that
+tliev always take up one
+black square and one
+white square. That's the
+key to the answer. We've
+cut away two white squares
+instead of one white and
+one black square. So
+there's no way that you can
+fit all the dominoes on a
+board that has its opposing
+edges cut off.
+
+Special tlumks to ( '.lark Bray, a
+lecturer in the Mathematics De
+partment, for help on this artii le.
+dot a qiwstim for the Answer
+(iirlf E-mail queries to innova
+tion in <laily.stanford.edu.
+
+
+( vrie./( i StephanieChiang
+Figure A shows the 8 by-8-inch checkboard.
+
+
+Graphic by Yingjie Soon
+Figure B shows the reverse-L shaped path on the
+checkboard highlighted. Following this path will
+lead you this brainteaser's answer.
+
+
+( curtesy of Stephanie Chiang
+Figure C shows the checkerboard with the
+upper-right square and the lower-left square
+cut off

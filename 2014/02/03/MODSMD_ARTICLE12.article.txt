@@ -1,0 +1,1251 @@
+# Study on Rails: My Issue with Office Hours
+## 
+### Liam Kinney 
+The question read: "Calculate a
+numerical value for the angu
+lar velocity of the right-hand
+ed orthogonal unitary basis A in the
+reference frame N for the situation
+of a particle traveling in circular
+motion at 12 meters per second."
+I recognized a few words in the
+statement from the El 5 lectures
+and readings, but there was a
+synaptic canyon in my head be
+tween the raw information I had
+and the answer to this question. I
+had read the chapters and attended
+the lectures with wide eyes and a
+busy pencil, but a master of rapid
+recall does not an engineer make.
+As usual it was my inability to apply
+the knowledge I had, rather than a
+shortage of it, that brought me to
+office hours.
+Late into the night, each fending
+off dinner-hunger with snacks, 50
+people crammed into 40 chairs and
+paid homage to the two answer
+keys in the room and their five cau
+tious mediators, the TAs. I sat down
+and put each problem through the
+usual three-step process:
+1. Work through the problem by
+myself until I get to that impossible
+part g, which involves some idea
+that the teacher hasn't covered yet
+or perhaps a mastery of some hiero
+glyphic programming language like
+MATLAB or Motion Genesis.
+2. Ask the people immediately
+around me to see if the problem has
+already been addressed en masse.
+3. Enter into the five-to-fifteen
+minute line for TA help. Usually, be
+fore I get to the front of the line, one
+
+of the TAs notices a trend, stands
+up and announces "We're gonna go
+over part g on this board over
+here!" This arrests the attention of
+every student in the room, since
+there have been rumors about part
+g floating around and this is the one
+chance you'll get unless you want
+to be phoning around for a walk
+through from a classmate in the
+wee hours of Tuesday morning.
+The result of the three-step
+process mentioned above, which I
+think everyone follows consciously
+or unconsciously, is a universal
+plateau of progress. The students
+who are on question 8 get roped in
+to advising those on question 3,
+which retards the progress of the
+advanced students and accelerates
+the progress of the sluggish ones.
+Despite any amount of effort, the
+entire class inevitably breaks
+against a dam problem like part g
+until the TAs open the floodgates.
+With the strong students helping
+the weak and the TAs waiting for
+maximum question capacity to re
+lease the answers, room-wide
+progress eventually levels off.
+At this point, the place sheds its
+former designation as office hours
+and becomes an elementary school
+classroom. The TAs tiptoe through
+each problem, averse to providing
+any original information of their
+own, but loose-lipped once someone
+shouts anything that sounds re
+motely similar to a step in the solu
+tion " vectors!" "factor!" "bub
+tract!" The students' homework
+becomes a part of the 3-hour assem
+
+bly line that is Engineering Depart
+ment office hours.
+At first glance, this doesn't seem
+like too bad a deal, but look at who's
+actually doing the work. Sure, it's
+just three hours on a Monday night
+for a juicy perfect score in a pesky
+fundamentals class, but the only
+thing you get out of it is the grade.
+I've watched a freshman in
+CME 100 hand her laptop to frus
+trated TAs who write her code for
+her, while she learns none of the
+MATLAB she needs for her major.
+I've seen students of Math 51 verge
+on plagiarism by copying the an
+swers off the one kid in their dorm
+who did the best, covering their
+tracks by altering their explana
+tions harmlessly here and there.
+I've listened to the crickets chirp in
+response to a Bio core TA asking,
+"So does everyone get how I did
+that?"
+Office hours are a crutch on
+which too many lean, and which the
+more advanced classes will knock
+away. Their intent is to create an ac
+cessible learning environment, but
+their effect is a desperate copying
+environment.
+Yet this is not always the case;
+office hours in the humanities often
+manifest themselves as rapt conver
+sations between a leader in the field
+and a handful of zealous pupils. The
+endemic is mostly sequestered to
+the STEM office hours, where ex
+hausted TAs are reduced to hand
+ing out explanations instead of pa
+tiently drawing them out of their
+students.
+The worst part is that, in these
+high-stress, time-sensitive environ
+ments where the "why" takes a
+backseat, it is the TAs who freely
+hand out answers who earn the pos
+itive reputations. This counterpro
+ductive behavior is being rewarded
+in all the wrong ways. The more
+students who flock to these 'good'
+TAs, the more who will be eventual
+ly dependent on them, office-hour
+symbiotic in aeternum.
+Perhaps this is not a problem
+that can be solved structurally, but
+the addiction can certainly be evad
+ed individually. Office hours are a
+fine environment in which to learn,
+but one has to make sure that he or
+she does learn. Though deadlines
+may approach and your priorities
+might begin to ache, hold the value
+of knowledge above that of the
+grade, and be careful that the work
+you do in office hours is indeed
+yours.
+
+Contact Limn Kinney at liamk@
+stanford.edu.
+The question read: "Calculate a
+numerical value for the angu
+lar velocity of the right-hand
+ed orthogonal unitary basis A in the
+reference frame N for the situation
+of a particle traveling in circular
+motion at 12 meters per second."
+I recognized a few words in the
+statement from the El 5 lectures
+and readings, but there was a
+synaptic canyon in my head be
+tween the raw information I had
+and the answer to this question. I
+had read the chapters and attended
+the lectures with wide eyes and a
+busy pencil, but a master of rapid
+recall does not an engineer make.
+As usual it was my inability to apply
+the knowledge I had, rather than a
+shortage of it, that brought me to
+office hours.
+Late into the night, each fending
+off dinner-hunger with snacks, 50
+people crammed into 40 chairs and
+paid homage to the two answer
+keys in the room and their five cau
+tious mediators, the TAs. I sat down
+and put each problem through the
+usual three-step process:
+1. Work through the problem by
+myself until I get to that impossible
+part g, which involves some idea
+that the teacher hasn't covered yet
+or perhaps a mastery of some hiero
+glyphic programming language like
+MATLAB or Motion Genesis.
+2. Ask the people immediately
+around me to see if the problem has
+already been addressed en masse.
+3. Enter into the five-to-fifteen
+minute line for TA help. Usually, be
+fore I get to the front of the line, one
+
+of the TAs notices a trend, stands
+up and announces "We're gonna go
+over part g on this board over
+here!" This arrests the attention of
+every student in the room, since
+there have been rumors about part
+g floating around and this is the one
+chance you'll get unless you want
+to be phoning around for a walk
+through from a classmate in the
+wee hours of Tuesday morning.
+The result of the three-step
+process mentioned above, which I
+think everyone follows consciously
+or unconsciously, is a universal
+plateau of progress. The students
+who are on question 8 get roped in
+to advising those on question 3,
+which retards the progress of the
+advanced students and accelerates
+the progress of the sluggish ones.
+Despite any amount of effort, the
+entire class inevitably breaks
+against a dam problem like part g
+until the TAs open the floodgates.
+With the strong students helping
+the weak and the TAs waiting for
+maximum question capacity to re
+lease the answers, room-wide
+progress eventually levels off.
+At this point, the place sheds its
+former designation as office hours
+and becomes an elementary school
+classroom. The TAs tiptoe through
+each problem, averse to providing
+any original information of their
+own, but loose-lipped once someone
+shouts anything that sounds re
+motely similar to a step in the solu
+tion " vectors!" "factor!" "bub
+tract!" The students' homework
+becomes a part of the 3-hour assem
+
+bly line that is Engineering Depart
+ment office hours.
+At first glance, this doesn't seem
+like too bad a deal, but look at who's
+actually doing the work. Sure, it's
+just three hours on a Monday night
+for a juicy perfect score in a pesky
+fundamentals class, but the only
+thing you get out of it is the grade.
+I've watched a freshman in
+CME 100 hand her laptop to frus
+trated TAs who write her code for
+her, while she learns none of the
+MATLAB she needs for her major.
+I've seen students of Math 51 verge
+on plagiarism by copying the an
+swers off the one kid in their dorm
+who did the best, covering their
+tracks by altering their explana
+tions harmlessly here and there.
+I've listened to the crickets chirp in
+response to a Bio core TA asking,
+"So does everyone get how I did
+that?"
+Office hours are a crutch on
+which too many lean, and which the
+more advanced classes will knock
+away. Their intent is to create an ac
+cessible learning environment, but
+their effect is a desperate copying
+environment.
+Yet this is not always the case;
+office hours in the humanities often
+manifest themselves as rapt conver
+sations between a leader in the field
+and a handful of zealous pupils. The
+endemic is mostly sequestered to
+the STEM office hours, where ex
+hausted TAs are reduced to hand
+ing out explanations instead of pa
+tiently drawing them out of their
+students.
+The worst part is that, in these
+high-stress, time-sensitive environ
+ments where the "why" takes a
+backseat, it is the TAs who freely
+hand out answers who earn the pos
+itive reputations. This counterpro
+ductive behavior is being rewarded
+in all the wrong ways. The more
+students who flock to these 'good'
+TAs, the more who will be eventual
+ly dependent on them, office-hour
+symbiotic in aeternum.
+Perhaps this is not a problem
+that can be solved structurally, but
+the addiction can certainly be evad
+ed individually. Office hours are a
+fine environment in which to learn,
+but one has to make sure that he or
+she does learn. Though deadlines
+may approach and your priorities
+might begin to ache, hold the value
+of knowledge above that of the
+grade, and be careful that the work
+you do in office hours is indeed
+yours.
+
+Contact Limn Kinney at liamk@
+stanford.edu.
+The question read: "Calculate a
+numerical value for the angu
+lar velocity of the right-hand
+ed orthogonal unitary basis A in the
+reference frame N for the situation
+of a particle traveling in circular
+motion at 12 meters per second."
+I recognized a few words in the
+statement from the El 5 lectures
+and readings, but there was a
+synaptic canyon in my head be
+tween the raw information I had
+and the answer to this question. I
+had read the chapters and attended
+the lectures with wide eyes and a
+busy pencil, but a master of rapid
+recall does not an engineer make.
+As usual it was my inability to apply
+the knowledge I had, rather than a
+shortage of it, that brought me to
+office hours.
+Late into the night, each fending
+off dinner-hunger with snacks, 50
+people crammed into 40 chairs and
+paid homage to the two answer
+keys in the room and their five cau
+tious mediators, the TAs. I sat down
+and put each problem through the
+usual three-step process:
+1. Work through the problem by
+myself until I get to that impossible
+part g, which involves some idea
+that the teacher hasn't covered yet
+or perhaps a mastery of some hiero
+glyphic programming language like
+MATLAB or Motion Genesis.
+2. Ask the people immediately
+around me to see if the problem has
+already been addressed en masse.
+3. Enter into the five-to-fifteen
+minute line for TA help. Usually, be
+fore I get to the front of the line, one
+
+of the TAs notices a trend, stands
+up and announces "We're gonna go
+over part g on this board over
+here!" This arrests the attention of
+every student in the room, since
+there have been rumors about part
+g floating around and this is the one
+chance you'll get unless you want
+to be phoning around for a walk
+through from a classmate in the
+wee hours of Tuesday morning.
+The result of the three-step
+process mentioned above, which I
+think everyone follows consciously
+or unconsciously, is a universal
+plateau of progress. The students
+who are on question 8 get roped in
+to advising those on question 3,
+which retards the progress of the
+advanced students and accelerates
+the progress of the sluggish ones.
+Despite any amount of effort, the
+entire class inevitably breaks
+against a dam problem like part g
+until the TAs open the floodgates.
+With the strong students helping
+the weak and the TAs waiting for
+maximum question capacity to re
+lease the answers, room-wide
+progress eventually levels off.
+At this point, the place sheds its
+former designation as office hours
+and becomes an elementary school
+classroom. The TAs tiptoe through
+each problem, averse to providing
+any original information of their
+own, but loose-lipped once someone
+shouts anything that sounds re
+motely similar to a step in the solu
+tion " vectors!" "factor!" "bub
+tract!" The students' homework
+becomes a part of the 3-hour assem
+
+bly line that is Engineering Depart
+ment office hours.
+At first glance, this doesn't seem
+like too bad a deal, but look at who's
+actually doing the work. Sure, it's
+just three hours on a Monday night
+for a juicy perfect score in a pesky
+fundamentals class, but the only
+thing you get out of it is the grade.
+I've watched a freshman in
+CME 100 hand her laptop to frus
+trated TAs who write her code for
+her, while she learns none of the
+MATLAB she needs for her major.
+I've seen students of Math 51 verge
+on plagiarism by copying the an
+swers off the one kid in their dorm
+who did the best, covering their
+tracks by altering their explana
+tions harmlessly here and there.
+I've listened to the crickets chirp in
+response to a Bio core TA asking,
+"So does everyone get how I did
+that?"
+Office hours are a crutch on
+which too many lean, and which the
+more advanced classes will knock
+away. Their intent is to create an ac
+cessible learning environment, but
+their effect is a desperate copying
+environment.
+Yet this is not always the case;
+office hours in the humanities often
+manifest themselves as rapt conver
+sations between a leader in the field
+and a handful of zealous pupils. The
+endemic is mostly sequestered to
+the STEM office hours, where ex
+hausted TAs are reduced to hand
+ing out explanations instead of pa
+tiently drawing them out of their
+students.
+The worst part is that, in these
+high-stress, time-sensitive environ
+ments where the "why" takes a
+backseat, it is the TAs who freely
+hand out answers who earn the pos
+itive reputations. This counterpro
+ductive behavior is being rewarded
+in all the wrong ways. The more
+students who flock to these 'good'
+TAs, the more who will be eventual
+ly dependent on them, office-hour
+symbiotic in aeternum.
+Perhaps this is not a problem
+that can be solved structurally, but
+the addiction can certainly be evad
+ed individually. Office hours are a
+fine environment in which to learn,
+but one has to make sure that he or
+she does learn. Though deadlines
+may approach and your priorities
+might begin to ache, hold the value
+of knowledge above that of the
+grade, and be careful that the work
+you do in office hours is indeed
+yours.
+
+Contact Limn Kinney at liamk@
+stanford.edu.
+The question read: "Calculate a
+numerical value for the angu
+lar velocity of the right-hand
+ed orthogonal unitary basis A in the
+reference frame N for the situation
+of a particle traveling in circular
+motion at 12 meters per second."
+I recognized a few words in the
+statement from the El 5 lectures
+and readings, but there was a
+synaptic canyon in my head be
+tween the raw information I had
+and the answer to this question. I
+had read the chapters and attended
+the lectures with wide eyes and a
+busy pencil, but a master of rapid
+recall does not an engineer make.
+As usual it was my inability to apply
+the knowledge I had, rather than a
+shortage of it, that brought me to
+office hours.
+Late into the night, each fending
+off dinner-hunger with snacks, 50
+people crammed into 40 chairs and
+paid homage to the two answer
+keys in the room and their five cau
+tious mediators, the TAs. I sat down
+and put each problem through the
+usual three-step process:
+1. Work through the problem by
+myself until I get to that impossible
+part g, which involves some idea
+that the teacher hasn't covered yet
+or perhaps a mastery of some hiero
+glyphic programming language like
+MATLAB or Motion Genesis.
+2. Ask the people immediately
+around me to see if the problem has
+already been addressed en masse.
+3. Enter into the five-to-fifteen
+minute line for TA help. Usually, be
+fore I get to the front of the line, one
+
+of the TAs notices a trend, stands
+up and announces "We're gonna go
+over part g on this board over
+here!" This arrests the attention of
+every student in the room, since
+there have been rumors about part
+g floating around and this is the one
+chance you'll get unless you want
+to be phoning around for a walk
+through from a classmate in the
+wee hours of Tuesday morning.
+The result of the three-step
+process mentioned above, which I
+think everyone follows consciously
+or unconsciously, is a universal
+plateau of progress. The students
+who are on question 8 get roped in
+to advising those on question 3,
+which retards the progress of the
+advanced students and accelerates
+the progress of the sluggish ones.
+Despite any amount of effort, the
+entire class inevitably breaks
+against a dam problem like part g
+until the TAs open the floodgates.
+With the strong students helping
+the weak and the TAs waiting for
+maximum question capacity to re
+lease the answers, room-wide
+progress eventually levels off.
+At this point, the place sheds its
+former designation as office hours
+and becomes an elementary school
+classroom. The TAs tiptoe through
+each problem, averse to providing
+any original information of their
+own, but loose-lipped once someone
+shouts anything that sounds re
+motely similar to a step in the solu
+tion " vectors!" "factor!" "bub
+tract!" The students' homework
+becomes a part of the 3-hour assem
+
+bly line that is Engineering Depart
+ment office hours.
+At first glance, this doesn't seem
+like too bad a deal, but look at who's
+actually doing the work. Sure, it's
+just three hours on a Monday night
+for a juicy perfect score in a pesky
+fundamentals class, but the only
+thing you get out of it is the grade.
+I've watched a freshman in
+CME 100 hand her laptop to frus
+trated TAs who write her code for
+her, while she learns none of the
+MATLAB she needs for her major.
+I've seen students of Math 51 verge
+on plagiarism by copying the an
+swers off the one kid in their dorm
+who did the best, covering their
+tracks by altering their explana
+tions harmlessly here and there.
+I've listened to the crickets chirp in
+response to a Bio core TA asking,
+"So does everyone get how I did
+that?"
+Office hours are a crutch on
+which too many lean, and which the
+more advanced classes will knock
+away. Their intent is to create an ac
+cessible learning environment, but
+their effect is a desperate copying
+environment.
+Yet this is not always the case;
+office hours in the humanities often
+manifest themselves as rapt conver
+sations between a leader in the field
+and a handful of zealous pupils. The
+endemic is mostly sequestered to
+the STEM office hours, where ex
+hausted TAs are reduced to hand
+ing out explanations instead of pa
+tiently drawing them out of their
+students.
+The worst part is that, in these
+high-stress, time-sensitive environ
+ments where the "why" takes a
+backseat, it is the TAs who freely
+hand out answers who earn the pos
+itive reputations. This counterpro
+ductive behavior is being rewarded
+in all the wrong ways. The more
+students who flock to these 'good'
+TAs, the more who will be eventual
+ly dependent on them, office-hour
+symbiotic in aeternum.
+Perhaps this is not a problem
+that can be solved structurally, but
+the addiction can certainly be evad
+ed individually. Office hours are a
+fine environment in which to learn,
+but one has to make sure that he or
+she does learn. Though deadlines
+may approach and your priorities
+might begin to ache, hold the value
+of knowledge above that of the
+grade, and be careful that the work
+you do in office hours is indeed
+yours.
+
+Contact Limn Kinney at liamk@
+stanford.edu.
+The question read: "Calculate a
+numerical value for the angu
+lar velocity of the right-hand
+ed orthogonal unitary basis A in the
+reference frame N for the situation
+of a particle traveling in circular
+motion at 12 meters per second."
+I recognized a few words in the
+statement from the El 5 lectures
+and readings, but there was a
+synaptic canyon in my head be
+tween the raw information I had
+and the answer to this question. I
+had read the chapters and attended
+the lectures with wide eyes and a
+busy pencil, but a master of rapid
+recall does not an engineer make.
+As usual it was my inability to apply
+the knowledge I had, rather than a
+shortage of it, that brought me to
+office hours.
+Late into the night, each fending
+off dinner-hunger with snacks, 50
+people crammed into 40 chairs and
+paid homage to the two answer
+keys in the room and their five cau
+tious mediators, the TAs. I sat down
+and put each problem through the
+usual three-step process:
+1. Work through the problem by
+myself until I get to that impossible
+part g, which involves some idea
+that the teacher hasn't covered yet
+or perhaps a mastery of some hiero
+glyphic programming language like
+MATLAB or Motion Genesis.
+2. Ask the people immediately
+around me to see if the problem has
+already been addressed en masse.
+3. Enter into the five-to-fifteen
+minute line for TA help. Usually, be
+fore I get to the front of the line, one
+
+of the TAs notices a trend, stands
+up and announces "We're gonna go
+over part g on this board over
+here!" This arrests the attention of
+every student in the room, since
+there have been rumors about part
+g floating around and this is the one
+chance you'll get unless you want
+to be phoning around for a walk
+through from a classmate in the
+wee hours of Tuesday morning.
+The result of the three-step
+process mentioned above, which I
+think everyone follows consciously
+or unconsciously, is a universal
+plateau of progress. The students
+who are on question 8 get roped in
+to advising those on question 3,
+which retards the progress of the
+advanced students and accelerates
+the progress of the sluggish ones.
+Despite any amount of effort, the
+entire class inevitably breaks
+against a dam problem like part g
+until the TAs open the floodgates.
+With the strong students helping
+the weak and the TAs waiting for
+maximum question capacity to re
+lease the answers, room-wide
+progress eventually levels off.
+At this point, the place sheds its
+former designation as office hours
+and becomes an elementary school
+classroom. The TAs tiptoe through
+each problem, averse to providing
+any original information of their
+own, but loose-lipped once someone
+shouts anything that sounds re
+motely similar to a step in the solu
+tion " vectors!" "factor!" "bub
+tract!" The students' homework
+becomes a part of the 3-hour assem
+
+bly line that is Engineering Depart
+ment office hours.
+At first glance, this doesn't seem
+like too bad a deal, but look at who's
+actually doing the work. Sure, it's
+just three hours on a Monday night
+for a juicy perfect score in a pesky
+fundamentals class, but the only
+thing you get out of it is the grade.
+I've watched a freshman in
+CME 100 hand her laptop to frus
+trated TAs who write her code for
+her, while she learns none of the
+MATLAB she needs for her major.
+I've seen students of Math 51 verge
+on plagiarism by copying the an
+swers off the one kid in their dorm
+who did the best, covering their
+tracks by altering their explana
+tions harmlessly here and there.
+I've listened to the crickets chirp in
+response to a Bio core TA asking,
+"So does everyone get how I did
+that?"
+Office hours are a crutch on
+which too many lean, and which the
+more advanced classes will knock
+away. Their intent is to create an ac
+cessible learning environment, but
+their effect is a desperate copying
+environment.
+Yet this is not always the case;
+office hours in the humanities often
+manifest themselves as rapt conver
+sations between a leader in the field
+and a handful of zealous pupils. The
+endemic is mostly sequestered to
+the STEM office hours, where ex
+hausted TAs are reduced to hand
+ing out explanations instead of pa
+tiently drawing them out of their
+students.
+The worst part is that, in these
+high-stress, time-sensitive environ
+ments where the "why" takes a
+backseat, it is the TAs who freely
+hand out answers who earn the pos
+itive reputations. This counterpro
+ductive behavior is being rewarded
+in all the wrong ways. The more
+students who flock to these 'good'
+TAs, the more who will be eventual
+ly dependent on them, office-hour
+symbiotic in aeternum.
+Perhaps this is not a problem
+that can be solved structurally, but
+the addiction can certainly be evad
+ed individually. Office hours are a
+fine environment in which to learn,
+but one has to make sure that he or
+she does learn. Though deadlines
+may approach and your priorities
+might begin to ache, hold the value
+of knowledge above that of the
+grade, and be careful that the work
+you do in office hours is indeed
+yours.
+
+Contact Limn Kinney at liamk@
+stanford.edu.
+The question read: "Calculate a
+numerical value for the angu
+lar velocity of the right-hand
+ed orthogonal unitary basis A in the
+reference frame N for the situation
+of a particle traveling in circular
+motion at 12 meters per second."
+I recognized a few words in the
+statement from the El 5 lectures
+and readings, but there was a
+synaptic canyon in my head be
+tween the raw information I had
+and the answer to this question. I
+had read the chapters and attended
+the lectures with wide eyes and a
+busy pencil, but a master of rapid
+recall does not an engineer make.
+As usual it was my inability to apply
+the knowledge I had, rather than a
+shortage of it, that brought me to
+office hours.
+Late into the night, each fending
+off dinner-hunger with snacks, 50
+people crammed into 40 chairs and
+paid homage to the two answer
+keys in the room and their five cau
+tious mediators, the TAs. I sat down
+and put each problem through the
+usual three-step process:
+1. Work through the problem by
+myself until I get to that impossible
+part g, which involves some idea
+that the teacher hasn't covered yet
+or perhaps a mastery of some hiero
+glyphic programming language like
+MATLAB or Motion Genesis.
+2. Ask the people immediately
+around me to see if the problem has
+already been addressed en masse.
+3. Enter into the five-to-fifteen
+minute line for TA help. Usually, be
+fore I get to the front of the line, one
+
+of the TAs notices a trend, stands
+up and announces "We're gonna go
+over part g on this board over
+here!" This arrests the attention of
+every student in the room, since
+there have been rumors about part
+g floating around and this is the one
+chance you'll get unless you want
+to be phoning around for a walk
+through from a classmate in the
+wee hours of Tuesday morning.
+The result of the three-step
+process mentioned above, which I
+think everyone follows consciously
+or unconsciously, is a universal
+plateau of progress. The students
+who are on question 8 get roped in
+to advising those on question 3,
+which retards the progress of the
+advanced students and accelerates
+the progress of the sluggish ones.
+Despite any amount of effort, the
+entire class inevitably breaks
+against a dam problem like part g
+until the TAs open the floodgates.
+With the strong students helping
+the weak and the TAs waiting for
+maximum question capacity to re
+lease the answers, room-wide
+progress eventually levels off.
+At this point, the place sheds its
+former designation as office hours
+and becomes an elementary school
+classroom. The TAs tiptoe through
+each problem, averse to providing
+any original information of their
+own, but loose-lipped once someone
+shouts anything that sounds re
+motely similar to a step in the solu
+tion " vectors!" "factor!" "bub
+tract!" The students' homework
+becomes a part of the 3-hour assem
+
+bly line that is Engineering Depart
+ment office hours.
+At first glance, this doesn't seem
+like too bad a deal, but look at who's
+actually doing the work. Sure, it's
+just three hours on a Monday night
+for a juicy perfect score in a pesky
+fundamentals class, but the only
+thing you get out of it is the grade.
+I've watched a freshman in
+CME 100 hand her laptop to frus
+trated TAs who write her code for
+her, while she learns none of the
+MATLAB she needs for her major.
+I've seen students of Math 51 verge
+on plagiarism by copying the an
+swers off the one kid in their dorm
+who did the best, covering their
+tracks by altering their explana
+tions harmlessly here and there.
+I've listened to the crickets chirp in
+response to a Bio core TA asking,
+"So does everyone get how I did
+that?"
+Office hours are a crutch on
+which too many lean, and which the
+more advanced classes will knock
+away. Their intent is to create an ac
+cessible learning environment, but
+their effect is a desperate copying
+environment.
+Yet this is not always the case;
+office hours in the humanities often
+manifest themselves as rapt conver
+sations between a leader in the field
+and a handful of zealous pupils. The
+endemic is mostly sequestered to
+the STEM office hours, where ex
+hausted TAs are reduced to hand
+ing out explanations instead of pa
+tiently drawing them out of their
+students.
+The worst part is that, in these
+high-stress, time-sensitive environ
+ments where the "why" takes a
+backseat, it is the TAs who freely
+hand out answers who earn the pos
+itive reputations. This counterpro
+ductive behavior is being rewarded
+in all the wrong ways. The more
+students who flock to these 'good'
+TAs, the more who will be eventual
+ly dependent on them, office-hour
+symbiotic in aeternum.
+Perhaps this is not a problem
+that can be solved structurally, but
+the addiction can certainly be evad
+ed individually. Office hours are a
+fine environment in which to learn,
+but one has to make sure that he or
+she does learn. Though deadlines
+may approach and your priorities
+might begin to ache, hold the value
+of knowledge above that of the
+grade, and be careful that the work
+you do in office hours is indeed
+yours.
+
+Contact Limn Kinney at liamk@
+stanford.edu.
+The question read: "Calculate a
+numerical value for the angu
+lar velocity of the right-hand
+ed orthogonal unitary basis A in the
+reference frame N for the situation
+of a particle traveling in circular
+motion at 12 meters per second."
+I recognized a few words in the
+statement from the El 5 lectures
+and readings, but there was a
+synaptic canyon in my head be
+tween the raw information I had
+and the answer to this question. I
+had read the chapters and attended
+the lectures with wide eyes and a
+busy pencil, but a master of rapid
+recall does not an engineer make.
+As usual it was my inability to apply
+the knowledge I had, rather than a
+shortage of it, that brought me to
+office hours.
+Late into the night, each fending
+off dinner-hunger with snacks, 50
+people crammed into 40 chairs and
+paid homage to the two answer
+keys in the room and their five cau
+tious mediators, the TAs. I sat down
+and put each problem through the
+usual three-step process:
+1. Work through the problem by
+myself until I get to that impossible
+part g, which involves some idea
+that the teacher hasn't covered yet
+or perhaps a mastery of some hiero
+glyphic programming language like
+MATLAB or Motion Genesis.
+2. Ask the people immediately
+around me to see if the problem has
+already been addressed en masse.
+3. Enter into the five-to-fifteen
+minute line for TA help. Usually, be
+fore I get to the front of the line, one
+
+of the TAs notices a trend, stands
+up and announces "We're gonna go
+over part g on this board over
+here!" This arrests the attention of
+every student in the room, since
+there have been rumors about part
+g floating around and this is the one
+chance you'll get unless you want
+to be phoning around for a walk
+through from a classmate in the
+wee hours of Tuesday morning.
+The result of the three-step
+process mentioned above, which I
+think everyone follows consciously
+or unconsciously, is a universal
+plateau of progress. The students
+who are on question 8 get roped in
+to advising those on question 3,
+which retards the progress of the
+advanced students and accelerates
+the progress of the sluggish ones.
+Despite any amount of effort, the
+entire class inevitably breaks
+against a dam problem like part g
+until the TAs open the floodgates.
+With the strong students helping
+the weak and the TAs waiting for
+maximum question capacity to re
+lease the answers, room-wide
+progress eventually levels off.
+At this point, the place sheds its
+former designation as office hours
+and becomes an elementary school
+classroom. The TAs tiptoe through
+each problem, averse to providing
+any original information of their
+own, but loose-lipped once someone
+shouts anything that sounds re
+motely similar to a step in the solu
+tion " vectors!" "factor!" "bub
+tract!" The students' homework
+becomes a part of the 3-hour assem
+
+bly line that is Engineering Depart
+ment office hours.
+At first glance, this doesn't seem
+like too bad a deal, but look at who's
+actually doing the work. Sure, it's
+just three hours on a Monday night
+for a juicy perfect score in a pesky
+fundamentals class, but the only
+thing you get out of it is the grade.
+I've watched a freshman in
+CME 100 hand her laptop to frus
+trated TAs who write her code for
+her, while she learns none of the
+MATLAB she needs for her major.
+I've seen students of Math 51 verge
+on plagiarism by copying the an
+swers off the one kid in their dorm
+who did the best, covering their
+tracks by altering their explana
+tions harmlessly here and there.
+I've listened to the crickets chirp in
+response to a Bio core TA asking,
+"So does everyone get how I did
+that?"
+Office hours are a crutch on
+which too many lean, and which the
+more advanced classes will knock
+away. Their intent is to create an ac
+cessible learning environment, but
+their effect is a desperate copying
+environment.
+Yet this is not always the case;
+office hours in the humanities often
+manifest themselves as rapt conver
+sations between a leader in the field
+and a handful of zealous pupils. The
+endemic is mostly sequestered to
+the STEM office hours, where ex
+hausted TAs are reduced to hand
+ing out explanations instead of pa
+tiently drawing them out of their
+students.
+The worst part is that, in these
+high-stress, time-sensitive environ
+ments where the "why" takes a
+backseat, it is the TAs who freely
+hand out answers who earn the pos
+itive reputations. This counterpro
+ductive behavior is being rewarded
+in all the wrong ways. The more
+students who flock to these 'good'
+TAs, the more who will be eventual
+ly dependent on them, office-hour
+symbiotic in aeternum.
+Perhaps this is not a problem
+that can be solved structurally, but
+the addiction can certainly be evad
+ed individually. Office hours are a
+fine environment in which to learn,
+but one has to make sure that he or
+she does learn. Though deadlines
+may approach and your priorities
+might begin to ache, hold the value
+of knowledge above that of the
+grade, and be careful that the work
+you do in office hours is indeed
+yours.
+
+Contact Limn Kinney at liamk@
+stanford.edu.
+The question read: "Calculate a
+numerical value for the angu
+lar velocity of the right-hand
+ed orthogonal unitary basis A in the
+reference frame N for the situation
+of a particle traveling in circular
+motion at 12 meters per second."
+I recognized a few words in the
+statement from the El 5 lectures
+and readings, but there was a
+synaptic canyon in my head be
+tween the raw information I had
+and the answer to this question. I
+had read the chapters and attended
+the lectures with wide eyes and a
+busy pencil, but a master of rapid
+recall does not an engineer make.
+As usual it was my inability to apply
+the knowledge I had, rather than a
+shortage of it, that brought me to
+office hours.
+Late into the night, each fending
+off dinner-hunger with snacks, 50
+people crammed into 40 chairs and
+paid homage to the two answer
+keys in the room and their five cau
+tious mediators, the TAs. I sat down
+and put each problem through the
+usual three-step process:
+1. Work through the problem by
+myself until I get to that impossible
+part g, which involves some idea
+that the teacher hasn't covered yet
+or perhaps a mastery of some hiero
+glyphic programming language like
+MATLAB or Motion Genesis.
+2. Ask the people immediately
+around me to see if the problem has
+already been addressed en masse.
+3. Enter into the five-to-fifteen
+minute line for TA help. Usually, be
+fore I get to the front of the line, one
+
+of the TAs notices a trend, stands
+up and announces "We're gonna go
+over part g on this board over
+here!" This arrests the attention of
+every student in the room, since
+there have been rumors about part
+g floating around and this is the one
+chance you'll get unless you want
+to be phoning around for a walk
+through from a classmate in the
+wee hours of Tuesday morning.
+The result of the three-step
+process mentioned above, which I
+think everyone follows consciously
+or unconsciously, is a universal
+plateau of progress. The students
+who are on question 8 get roped in
+to advising those on question 3,
+which retards the progress of the
+advanced students and accelerates
+the progress of the sluggish ones.
+Despite any amount of effort, the
+entire class inevitably breaks
+against a dam problem like part g
+until the TAs open the floodgates.
+With the strong students helping
+the weak and the TAs waiting for
+maximum question capacity to re
+lease the answers, room-wide
+progress eventually levels off.
+At this point, the place sheds its
+former designation as office hours
+and becomes an elementary school
+classroom. The TAs tiptoe through
+each problem, averse to providing
+any original information of their
+own, but loose-lipped once someone
+shouts anything that sounds re
+motely similar to a step in the solu
+tion " vectors!" "factor!" "bub
+tract!" The students' homework
+becomes a part of the 3-hour assem
+
+bly line that is Engineering Depart
+ment office hours.
+At first glance, this doesn't seem
+like too bad a deal, but look at who's
+actually doing the work. Sure, it's
+just three hours on a Monday night
+for a juicy perfect score in a pesky
+fundamentals class, but the only
+thing you get out of it is the grade.
+I've watched a freshman in
+CME 100 hand her laptop to frus
+trated TAs who write her code for
+her, while she learns none of the
+MATLAB she needs for her major.
+I've seen students of Math 51 verge
+on plagiarism by copying the an
+swers off the one kid in their dorm
+who did the best, covering their
+tracks by altering their explana
+tions harmlessly here and there.
+I've listened to the crickets chirp in
+response to a Bio core TA asking,
+"So does everyone get how I did
+that?"
+Office hours are a crutch on
+which too many lean, and which the
+more advanced classes will knock
+away. Their intent is to create an ac
+cessible learning environment, but
+their effect is a desperate copying
+environment.
+Yet this is not always the case;
+office hours in the humanities often
+manifest themselves as rapt conver
+sations between a leader in the field
+and a handful of zealous pupils. The
+endemic is mostly sequestered to
+the STEM office hours, where ex
+hausted TAs are reduced to hand
+ing out explanations instead of pa
+tiently drawing them out of their
+students.
+The worst part is that, in these
+high-stress, time-sensitive environ
+ments where the "why" takes a
+backseat, it is the TAs who freely
+hand out answers who earn the pos
+itive reputations. This counterpro
+ductive behavior is being rewarded
+in all the wrong ways. The more
+students who flock to these 'good'
+TAs, the more who will be eventual
+ly dependent on them, office-hour
+symbiotic in aeternum.
+Perhaps this is not a problem
+that can be solved structurally, but
+the addiction can certainly be evad
+ed individually. Office hours are a
+fine environment in which to learn,
+but one has to make sure that he or
+she does learn. Though deadlines
+may approach and your priorities
+might begin to ache, hold the value
+of knowledge above that of the
+grade, and be careful that the work
+you do in office hours is indeed
+yours.
+
+Contact Limn Kinney at liamk@
+stanford.edu.

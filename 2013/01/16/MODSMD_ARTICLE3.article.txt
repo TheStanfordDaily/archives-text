@@ -1,0 +1,1039 @@
+# ACADEMICS
+## Aero, lab develops open-source software 
+### KYLE GSCHWEND 
+In the world of aerospace
+engineering, the problems are
+hard, but their solutions are often
+harder. In this field of science,
+understanding the governing
+equations of flow are key to find
+ing such solutions, but this used
+to require an expensive piece of
+software often $50,000 per
+license. Thanks to a group of
+Stanford researchers, that will
+now change.
+On Jan. 15 in the William H.
+Durand Building, the Aerospace
+Design Laboratory (ADL) held a
+workshop to release its new proj
+ect; a free, open-source program
+for designing computational fluid
+dynamics (CFD) codes used in
+aerospace engineering.
+The team officially unveiled
+the open-source CFD code,
+known as Stanford University
+Unstructured (SU2), during the
+workshop. The new software
+aims to compute accurate numer
+ical portraits of the flow over an
+airfoil or other surface.
+In June 2011, the ADL team
+began working towards a first
+version of SU2. Francisco
+Palacios, who provided a skele
+ton of the code at the out
+set, laid out the vision
+for the code's
+structure.
+
+"We literally started from
+scratch," he said. "This was the
+type of job that would take 10
+people working full-time for six
+months to get a basic code up and
+running."
+The ADL team decided to
+write the program in C++ to
+exploit its objected-oriented
+properties.
+"Basically, we didn't want to
+have to rewrite elements of the
+code that were already imple
+mented," ADL member Sean
+Copeland 'lO M.S., 'l3 Ph.D. said.
+The team also added a Python
+interface in order to "cool the
+code," in Palacios' words, and
+because Python is used extensive
+ly in the scientific community.
+During the event, three prob
+lem solving workshops were held
+to introduce attendees to the code,
+and members of the Aeronautics
+and Astronautics lab, includ
+ing Francisco Palacios,
+research associate and
+founder of the
+group, and Juan
+Alonso,
+
+associate professor of aeronautics
+and astronautics, spoke about the
+program.
+After six months of building
+and testing the code, the first ver
+sion of SU2 was released in
+January 2012, and has
+since undergone two
+major upgrades, with
+planned stable releases
+every six months for the fore
+seeable future.
+The ADL team has made a
+
+significant effort to grow the SU2
+community through outreach
+efforts that include Facebook,
+Twitter and an online forum.
+Leading researchers from around
+the world have also reached out to
+the ADL team about joining a
+SU2 core development team.
+"Like with our Ph.D. stu
+dents, developers from a variety
+of backgrounds will be able to
+
+
+
+
+Courtesy of Aerospace Design Lab
+The Stanford Aerospace Design Lab Team, who have released a
+free, open-source program that designs flow dynamics, a task that
+would otherwise cost over $50,000 with conventional proprietary
+software. The team debuted the program at an event at their lab
+on Tuesday and have been working on the project since 2011.
+
+
+Courtesy of Aerospace Design Lab
+(Above) A Navier-Stokes flow, a simulation of a cylinder generating vortices, is used to check code is working correctly. (Left) A simulation of the sensitivity of drag to changes in the shape of a next generation NASA/Lockheed-Martin aircraft design.
+create extensions to the code
+that fit their particular inter
+ests," Palacios said.
+SU2 has already been
+downloaded more than
+3,000 times in 114 different
+countries, and is currently
+being used in the design of a
+supersonic passenger jet,
+
+which promises three-hour
+flights across the United
+States with the same engine
+efficiency as today's stan
+dard commercial trans
+ports.
+The event attracted a
+continuum of companies and
+individuals, some of whom
+have no direct connection to
+fluid dynamics, in addition to
+leading academic institu
+tions such as MIT, NASA,
+medical device makers and
+large aerospace and defense
+
+companies.
+Although the response
+has been positive to the
+ADEs latest batch of
+upgrades, Copeland con
+cedes that the job is far from
+over.
+"We aim to pursue the
+state of the art, and until
+that has been done, our job
+won't be completed,"
+Copeland said.
+
+Contact Kyle Gschwend at
+kyleg2@ Stanford, edu.
+In the world of aerospace
+engineering, the problems are
+hard, but their solutions are often
+harder. In this field of science,
+understanding the governing
+equations of flow are key to find
+ing such solutions, but this used
+to require an expensive piece of
+software often $50,000 per
+license. Thanks to a group of
+Stanford researchers, that will
+now change.
+On Jan. 15 in the William H.
+Durand Building, the Aerospace
+Design Laboratory (ADL) held a
+workshop to release its new proj
+ect; a free, open-source program
+for designing computational fluid
+dynamics (CFD) codes used in
+aerospace engineering.
+The team officially unveiled
+the open-source CFD code,
+known as Stanford University
+Unstructured (SU2), during the
+workshop. The new software
+aims to compute accurate numer
+ical portraits of the flow over an
+airfoil or other surface.
+In June 2011, the ADL team
+began working towards a first
+version of SU2. Francisco
+Palacios, who provided a skele
+ton of the code at the out
+set, laid out the vision
+for the code's
+structure.
+
+"We literally started from
+scratch," he said. "This was the
+type of job that would take 10
+people working full-time for six
+months to get a basic code up and
+running."
+The ADL team decided to
+write the program in C++ to
+exploit its objected-oriented
+properties.
+"Basically, we didn't want to
+have to rewrite elements of the
+code that were already imple
+mented," ADL member Sean
+Copeland 'lO M.S., 'l3 Ph.D. said.
+The team also added a Python
+interface in order to "cool the
+code," in Palacios' words, and
+because Python is used extensive
+ly in the scientific community.
+During the event, three prob
+lem solving workshops were held
+to introduce attendees to the code,
+and members of the Aeronautics
+and Astronautics lab, includ
+ing Francisco Palacios,
+research associate and
+founder of the
+group, and Juan
+Alonso,
+
+associate professor of aeronautics
+and astronautics, spoke about the
+program.
+After six months of building
+and testing the code, the first ver
+sion of SU2 was released in
+January 2012, and has
+since undergone two
+major upgrades, with
+planned stable releases
+every six months for the fore
+seeable future.
+The ADL team has made a
+
+significant effort to grow the SU2
+community through outreach
+efforts that include Facebook,
+Twitter and an online forum.
+Leading researchers from around
+the world have also reached out to
+the ADL team about joining a
+SU2 core development team.
+"Like with our Ph.D. stu
+dents, developers from a variety
+of backgrounds will be able to
+
+
+
+
+Courtesy of Aerospace Design Lab
+The Stanford Aerospace Design Lab Team, who have released a
+free, open-source program that designs flow dynamics, a task that
+would otherwise cost over $50,000 with conventional proprietary
+software. The team debuted the program at an event at their lab
+on Tuesday and have been working on the project since 2011.
+
+
+Courtesy of Aerospace Design Lab
+(Above) A Navier-Stokes flow, a simulation of a cylinder generating vortices, is used to check code is working correctly. (Left) A simulation of the sensitivity of drag to changes in the shape of a next generation NASA/Lockheed-Martin aircraft design.
+create extensions to the code
+that fit their particular inter
+ests," Palacios said.
+SU2 has already been
+downloaded more than
+3,000 times in 114 different
+countries, and is currently
+being used in the design of a
+supersonic passenger jet,
+
+which promises three-hour
+flights across the United
+States with the same engine
+efficiency as today's stan
+dard commercial trans
+ports.
+The event attracted a
+continuum of companies and
+individuals, some of whom
+have no direct connection to
+fluid dynamics, in addition to
+leading academic institu
+tions such as MIT, NASA,
+medical device makers and
+large aerospace and defense
+
+companies.
+Although the response
+has been positive to the
+ADEs latest batch of
+upgrades, Copeland con
+cedes that the job is far from
+over.
+"We aim to pursue the
+state of the art, and until
+that has been done, our job
+won't be completed,"
+Copeland said.
+
+Contact Kyle Gschwend at
+kyleg2@ Stanford, edu.
+In the world of aerospace
+engineering, the problems are
+hard, but their solutions are often
+harder. In this field of science,
+understanding the governing
+equations of flow are key to find
+ing such solutions, but this used
+to require an expensive piece of
+software often $50,000 per
+license. Thanks to a group of
+Stanford researchers, that will
+now change.
+On Jan. 15 in the William H.
+Durand Building, the Aerospace
+Design Laboratory (ADL) held a
+workshop to release its new proj
+ect; a free, open-source program
+for designing computational fluid
+dynamics (CFD) codes used in
+aerospace engineering.
+The team officially unveiled
+the open-source CFD code,
+known as Stanford University
+Unstructured (SU2), during the
+workshop. The new software
+aims to compute accurate numer
+ical portraits of the flow over an
+airfoil or other surface.
+In June 2011, the ADL team
+began working towards a first
+version of SU2. Francisco
+Palacios, who provided a skele
+ton of the code at the out
+set, laid out the vision
+for the code's
+structure.
+
+"We literally started from
+scratch," he said. "This was the
+type of job that would take 10
+people working full-time for six
+months to get a basic code up and
+running."
+The ADL team decided to
+write the program in C++ to
+exploit its objected-oriented
+properties.
+"Basically, we didn't want to
+have to rewrite elements of the
+code that were already imple
+mented," ADL member Sean
+Copeland 'lO M.S., 'l3 Ph.D. said.
+The team also added a Python
+interface in order to "cool the
+code," in Palacios' words, and
+because Python is used extensive
+ly in the scientific community.
+During the event, three prob
+lem solving workshops were held
+to introduce attendees to the code,
+and members of the Aeronautics
+and Astronautics lab, includ
+ing Francisco Palacios,
+research associate and
+founder of the
+group, and Juan
+Alonso,
+
+associate professor of aeronautics
+and astronautics, spoke about the
+program.
+After six months of building
+and testing the code, the first ver
+sion of SU2 was released in
+January 2012, and has
+since undergone two
+major upgrades, with
+planned stable releases
+every six months for the fore
+seeable future.
+The ADL team has made a
+
+significant effort to grow the SU2
+community through outreach
+efforts that include Facebook,
+Twitter and an online forum.
+Leading researchers from around
+the world have also reached out to
+the ADL team about joining a
+SU2 core development team.
+"Like with our Ph.D. stu
+dents, developers from a variety
+of backgrounds will be able to
+
+
+
+
+Courtesy of Aerospace Design Lab
+The Stanford Aerospace Design Lab Team, who have released a
+free, open-source program that designs flow dynamics, a task that
+would otherwise cost over $50,000 with conventional proprietary
+software. The team debuted the program at an event at their lab
+on Tuesday and have been working on the project since 2011.
+
+
+Courtesy of Aerospace Design Lab
+(Above) A Navier-Stokes flow, a simulation of a cylinder generating vortices, is used to check code is working correctly. (Left) A simulation of the sensitivity of drag to changes in the shape of a next generation NASA/Lockheed-Martin aircraft design.
+create extensions to the code
+that fit their particular inter
+ests," Palacios said.
+SU2 has already been
+downloaded more than
+3,000 times in 114 different
+countries, and is currently
+being used in the design of a
+supersonic passenger jet,
+
+which promises three-hour
+flights across the United
+States with the same engine
+efficiency as today's stan
+dard commercial trans
+ports.
+The event attracted a
+continuum of companies and
+individuals, some of whom
+have no direct connection to
+fluid dynamics, in addition to
+leading academic institu
+tions such as MIT, NASA,
+medical device makers and
+large aerospace and defense
+
+companies.
+Although the response
+has been positive to the
+ADEs latest batch of
+upgrades, Copeland con
+cedes that the job is far from
+over.
+"We aim to pursue the
+state of the art, and until
+that has been done, our job
+won't be completed,"
+Copeland said.
+
+Contact Kyle Gschwend at
+kyleg2@ Stanford, edu.
+In the world of aerospace
+engineering, the problems are
+hard, but their solutions are often
+harder. In this field of science,
+understanding the governing
+equations of flow are key to find
+ing such solutions, but this used
+to require an expensive piece of
+software often $50,000 per
+license. Thanks to a group of
+Stanford researchers, that will
+now change.
+On Jan. 15 in the William H.
+Durand Building, the Aerospace
+Design Laboratory (ADL) held a
+workshop to release its new proj
+ect; a free, open-source program
+for designing computational fluid
+dynamics (CFD) codes used in
+aerospace engineering.
+The team officially unveiled
+the open-source CFD code,
+known as Stanford University
+Unstructured (SU2), during the
+workshop. The new software
+aims to compute accurate numer
+ical portraits of the flow over an
+airfoil or other surface.
+In June 2011, the ADL team
+began working towards a first
+version of SU2. Francisco
+Palacios, who provided a skele
+ton of the code at the out
+set, laid out the vision
+for the code's
+structure.
+
+"We literally started from
+scratch," he said. "This was the
+type of job that would take 10
+people working full-time for six
+months to get a basic code up and
+running."
+The ADL team decided to
+write the program in C++ to
+exploit its objected-oriented
+properties.
+"Basically, we didn't want to
+have to rewrite elements of the
+code that were already imple
+mented," ADL member Sean
+Copeland 'lO M.S., 'l3 Ph.D. said.
+The team also added a Python
+interface in order to "cool the
+code," in Palacios' words, and
+because Python is used extensive
+ly in the scientific community.
+During the event, three prob
+lem solving workshops were held
+to introduce attendees to the code,
+and members of the Aeronautics
+and Astronautics lab, includ
+ing Francisco Palacios,
+research associate and
+founder of the
+group, and Juan
+Alonso,
+
+associate professor of aeronautics
+and astronautics, spoke about the
+program.
+After six months of building
+and testing the code, the first ver
+sion of SU2 was released in
+January 2012, and has
+since undergone two
+major upgrades, with
+planned stable releases
+every six months for the fore
+seeable future.
+The ADL team has made a
+
+significant effort to grow the SU2
+community through outreach
+efforts that include Facebook,
+Twitter and an online forum.
+Leading researchers from around
+the world have also reached out to
+the ADL team about joining a
+SU2 core development team.
+"Like with our Ph.D. stu
+dents, developers from a variety
+of backgrounds will be able to
+
+
+
+
+Courtesy of Aerospace Design Lab
+The Stanford Aerospace Design Lab Team, who have released a
+free, open-source program that designs flow dynamics, a task that
+would otherwise cost over $50,000 with conventional proprietary
+software. The team debuted the program at an event at their lab
+on Tuesday and have been working on the project since 2011.
+
+
+Courtesy of Aerospace Design Lab
+(Above) A Navier-Stokes flow, a simulation of a cylinder generating vortices, is used to check code is working correctly. (Left) A simulation of the sensitivity of drag to changes in the shape of a next generation NASA/Lockheed-Martin aircraft design.
+create extensions to the code
+that fit their particular inter
+ests," Palacios said.
+SU2 has already been
+downloaded more than
+3,000 times in 114 different
+countries, and is currently
+being used in the design of a
+supersonic passenger jet,
+
+which promises three-hour
+flights across the United
+States with the same engine
+efficiency as today's stan
+dard commercial trans
+ports.
+The event attracted a
+continuum of companies and
+individuals, some of whom
+have no direct connection to
+fluid dynamics, in addition to
+leading academic institu
+tions such as MIT, NASA,
+medical device makers and
+large aerospace and defense
+
+companies.
+Although the response
+has been positive to the
+ADEs latest batch of
+upgrades, Copeland con
+cedes that the job is far from
+over.
+"We aim to pursue the
+state of the art, and until
+that has been done, our job
+won't be completed,"
+Copeland said.
+
+Contact Kyle Gschwend at
+kyleg2@ Stanford, edu.
+In the world of aerospace
+engineering, the problems are
+hard, but their solutions are often
+harder. In this field of science,
+understanding the governing
+equations of flow are key to find
+ing such solutions, but this used
+to require an expensive piece of
+software often $50,000 per
+license. Thanks to a group of
+Stanford researchers, that will
+now change.
+On Jan. 15 in the William H.
+Durand Building, the Aerospace
+Design Laboratory (ADL) held a
+workshop to release its new proj
+ect; a free, open-source program
+for designing computational fluid
+dynamics (CFD) codes used in
+aerospace engineering.
+The team officially unveiled
+the open-source CFD code,
+known as Stanford University
+Unstructured (SU2), during the
+workshop. The new software
+aims to compute accurate numer
+ical portraits of the flow over an
+airfoil or other surface.
+In June 2011, the ADL team
+began working towards a first
+version of SU2. Francisco
+Palacios, who provided a skele
+ton of the code at the out
+set, laid out the vision
+for the code's
+structure.
+
+"We literally started from
+scratch," he said. "This was the
+type of job that would take 10
+people working full-time for six
+months to get a basic code up and
+running."
+The ADL team decided to
+write the program in C++ to
+exploit its objected-oriented
+properties.
+"Basically, we didn't want to
+have to rewrite elements of the
+code that were already imple
+mented," ADL member Sean
+Copeland 'lO M.S., 'l3 Ph.D. said.
+The team also added a Python
+interface in order to "cool the
+code," in Palacios' words, and
+because Python is used extensive
+ly in the scientific community.
+During the event, three prob
+lem solving workshops were held
+to introduce attendees to the code,
+and members of the Aeronautics
+and Astronautics lab, includ
+ing Francisco Palacios,
+research associate and
+founder of the
+group, and Juan
+Alonso,
+
+associate professor of aeronautics
+and astronautics, spoke about the
+program.
+After six months of building
+and testing the code, the first ver
+sion of SU2 was released in
+January 2012, and has
+since undergone two
+major upgrades, with
+planned stable releases
+every six months for the fore
+seeable future.
+The ADL team has made a
+
+significant effort to grow the SU2
+community through outreach
+efforts that include Facebook,
+Twitter and an online forum.
+Leading researchers from around
+the world have also reached out to
+the ADL team about joining a
+SU2 core development team.
+"Like with our Ph.D. stu
+dents, developers from a variety
+of backgrounds will be able to
+
+
+
+
+Courtesy of Aerospace Design Lab
+The Stanford Aerospace Design Lab Team, who have released a
+free, open-source program that designs flow dynamics, a task that
+would otherwise cost over $50,000 with conventional proprietary
+software. The team debuted the program at an event at their lab
+on Tuesday and have been working on the project since 2011.
+
+
+Courtesy of Aerospace Design Lab
+(Above) A Navier-Stokes flow, a simulation of a cylinder generating vortices, is used to check code is working correctly. (Left) A simulation of the sensitivity of drag to changes in the shape of a next generation NASA/Lockheed-Martin aircraft design.
+create extensions to the code
+that fit their particular inter
+ests," Palacios said.
+SU2 has already been
+downloaded more than
+3,000 times in 114 different
+countries, and is currently
+being used in the design of a
+supersonic passenger jet,
+
+which promises three-hour
+flights across the United
+States with the same engine
+efficiency as today's stan
+dard commercial trans
+ports.
+The event attracted a
+continuum of companies and
+individuals, some of whom
+have no direct connection to
+fluid dynamics, in addition to
+leading academic institu
+tions such as MIT, NASA,
+medical device makers and
+large aerospace and defense
+
+companies.
+Although the response
+has been positive to the
+ADEs latest batch of
+upgrades, Copeland con
+cedes that the job is far from
+over.
+"We aim to pursue the
+state of the art, and until
+that has been done, our job
+won't be completed,"
+Copeland said.
+
+Contact Kyle Gschwend at
+kyleg2@ Stanford, edu.
+In the world of aerospace
+engineering, the problems are
+hard, but their solutions are often
+harder. In this field of science,
+understanding the governing
+equations of flow are key to find
+ing such solutions, but this used
+to require an expensive piece of
+software often $50,000 per
+license. Thanks to a group of
+Stanford researchers, that will
+now change.
+On Jan. 15 in the William H.
+Durand Building, the Aerospace
+Design Laboratory (ADL) held a
+workshop to release its new proj
+ect; a free, open-source program
+for designing computational fluid
+dynamics (CFD) codes used in
+aerospace engineering.
+The team officially unveiled
+the open-source CFD code,
+known as Stanford University
+Unstructured (SU2), during the
+workshop. The new software
+aims to compute accurate numer
+ical portraits of the flow over an
+airfoil or other surface.
+In June 2011, the ADL team
+began working towards a first
+version of SU2. Francisco
+Palacios, who provided a skele
+ton of the code at the out
+set, laid out the vision
+for the code's
+structure.
+
+"We literally started from
+scratch," he said. "This was the
+type of job that would take 10
+people working full-time for six
+months to get a basic code up and
+running."
+The ADL team decided to
+write the program in C++ to
+exploit its objected-oriented
+properties.
+"Basically, we didn't want to
+have to rewrite elements of the
+code that were already imple
+mented," ADL member Sean
+Copeland 'lO M.S., 'l3 Ph.D. said.
+The team also added a Python
+interface in order to "cool the
+code," in Palacios' words, and
+because Python is used extensive
+ly in the scientific community.
+During the event, three prob
+lem solving workshops were held
+to introduce attendees to the code,
+and members of the Aeronautics
+and Astronautics lab, includ
+ing Francisco Palacios,
+research associate and
+founder of the
+group, and Juan
+Alonso,
+
+associate professor of aeronautics
+and astronautics, spoke about the
+program.
+After six months of building
+and testing the code, the first ver
+sion of SU2 was released in
+January 2012, and has
+since undergone two
+major upgrades, with
+planned stable releases
+every six months for the fore
+seeable future.
+The ADL team has made a
+
+significant effort to grow the SU2
+community through outreach
+efforts that include Facebook,
+Twitter and an online forum.
+Leading researchers from around
+the world have also reached out to
+the ADL team about joining a
+SU2 core development team.
+"Like with our Ph.D. stu
+dents, developers from a variety
+of backgrounds will be able to
+
+
+
+
+Courtesy of Aerospace Design Lab
+The Stanford Aerospace Design Lab Team, who have released a
+free, open-source program that designs flow dynamics, a task that
+would otherwise cost over $50,000 with conventional proprietary
+software. The team debuted the program at an event at their lab
+on Tuesday and have been working on the project since 2011.
+
+
+Courtesy of Aerospace Design Lab
+(Above) A Navier-Stokes flow, a simulation of a cylinder generating vortices, is used to check code is working correctly. (Left) A simulation of the sensitivity of drag to changes in the shape of a next generation NASA/Lockheed-Martin aircraft design.
+create extensions to the code
+that fit their particular inter
+ests," Palacios said.
+SU2 has already been
+downloaded more than
+3,000 times in 114 different
+countries, and is currently
+being used in the design of a
+supersonic passenger jet,
+
+which promises three-hour
+flights across the United
+States with the same engine
+efficiency as today's stan
+dard commercial trans
+ports.
+The event attracted a
+continuum of companies and
+individuals, some of whom
+have no direct connection to
+fluid dynamics, in addition to
+leading academic institu
+tions such as MIT, NASA,
+medical device makers and
+large aerospace and defense
+
+companies.
+Although the response
+has been positive to the
+ADEs latest batch of
+upgrades, Copeland con
+cedes that the job is far from
+over.
+"We aim to pursue the
+state of the art, and until
+that has been done, our job
+won't be completed,"
+Copeland said.
+
+Contact Kyle Gschwend at
+kyleg2@ Stanford, edu.
+In the world of aerospace
+engineering, the problems are
+hard, but their solutions are often
+harder. In this field of science,
+understanding the governing
+equations of flow are key to find
+ing such solutions, but this used
+to require an expensive piece of
+software often $50,000 per
+license. Thanks to a group of
+Stanford researchers, that will
+now change.
+On Jan. 15 in the William H.
+Durand Building, the Aerospace
+Design Laboratory (ADL) held a
+workshop to release its new proj
+ect; a free, open-source program
+for designing computational fluid
+dynamics (CFD) codes used in
+aerospace engineering.
+The team officially unveiled
+the open-source CFD code,
+known as Stanford University
+Unstructured (SU2), during the
+workshop. The new software
+aims to compute accurate numer
+ical portraits of the flow over an
+airfoil or other surface.
+In June 2011, the ADL team
+began working towards a first
+version of SU2. Francisco
+Palacios, who provided a skele
+ton of the code at the out
+set, laid out the vision
+for the code's
+structure.
+
+"We literally started from
+scratch," he said. "This was the
+type of job that would take 10
+people working full-time for six
+months to get a basic code up and
+running."
+The ADL team decided to
+write the program in C++ to
+exploit its objected-oriented
+properties.
+"Basically, we didn't want to
+have to rewrite elements of the
+code that were already imple
+mented," ADL member Sean
+Copeland 'lO M.S., 'l3 Ph.D. said.
+The team also added a Python
+interface in order to "cool the
+code," in Palacios' words, and
+because Python is used extensive
+ly in the scientific community.
+During the event, three prob
+lem solving workshops were held
+to introduce attendees to the code,
+and members of the Aeronautics
+and Astronautics lab, includ
+ing Francisco Palacios,
+research associate and
+founder of the
+group, and Juan
+Alonso,
+
+associate professor of aeronautics
+and astronautics, spoke about the
+program.
+After six months of building
+and testing the code, the first ver
+sion of SU2 was released in
+January 2012, and has
+since undergone two
+major upgrades, with
+planned stable releases
+every six months for the fore
+seeable future.
+The ADL team has made a
+
+significant effort to grow the SU2
+community through outreach
+efforts that include Facebook,
+Twitter and an online forum.
+Leading researchers from around
+the world have also reached out to
+the ADL team about joining a
+SU2 core development team.
+"Like with our Ph.D. stu
+dents, developers from a variety
+of backgrounds will be able to
+
+
+
+
+Courtesy of Aerospace Design Lab
+The Stanford Aerospace Design Lab Team, who have released a
+free, open-source program that designs flow dynamics, a task that
+would otherwise cost over $50,000 with conventional proprietary
+software. The team debuted the program at an event at their lab
+on Tuesday and have been working on the project since 2011.
+
+
+Courtesy of Aerospace Design Lab
+(Above) A Navier-Stokes flow, a simulation of a cylinder generating vortices, is used to check code is working correctly. (Left) A simulation of the sensitivity of drag to changes in the shape of a next generation NASA/Lockheed-Martin aircraft design.
+create extensions to the code
+that fit their particular inter
+ests," Palacios said.
+SU2 has already been
+downloaded more than
+3,000 times in 114 different
+countries, and is currently
+being used in the design of a
+supersonic passenger jet,
+
+which promises three-hour
+flights across the United
+States with the same engine
+efficiency as today's stan
+dard commercial trans
+ports.
+The event attracted a
+continuum of companies and
+individuals, some of whom
+have no direct connection to
+fluid dynamics, in addition to
+leading academic institu
+tions such as MIT, NASA,
+medical device makers and
+large aerospace and defense
+
+companies.
+Although the response
+has been positive to the
+ADEs latest batch of
+upgrades, Copeland con
+cedes that the job is far from
+over.
+"We aim to pursue the
+state of the art, and until
+that has been done, our job
+won't be completed,"
+Copeland said.
+
+Contact Kyle Gschwend at
+kyleg2@ Stanford, edu.

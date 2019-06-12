@@ -1,0 +1,957 @@
+# Hybrid electric car wave of future
+## 
+### Jeremy Thibeaux 
+A new breed of car may soon usurp
+the gasoline-powered automobile.
+The hybrid electric vehicle (HEV) is
+the subject of the Stanford Hybrid Auto
+mobile Research Project (SHARP).
+Researchers say it will be more efficient,
+cleaner and may well outperform gaso
+line engines as technology improves.
+The most significant disadvantage of
+the present-day automobile is, according
+to Popular Science, that only "13 per
+cent of the energy released by an inter
+nal combustion engine ends up as a use
+ful driving force." Another source of
+energy loss comes during braking, when
+all of the car's kinetic energy is lost on
+the brake pads.
+Electric vehicles are much more effi
+cient than gasoline powered vehicles and
+produce zero emissions, but battery
+technology will not allow somebody to
+travel more than 60 miles without effec
+tively "running out of gas."
+Hybrid electric vehicles offer a practi
+cal compromise. They retain the range
+of gasoline-powered vehicles by using a
+gasoline-powered auxiliary power unit
+(APU) to supplement the car's power
+supply. This APU generates electricity
+when the vehicle's battery is low on
+charge, so instead of taking the car
+home to recharge the battery, the
+recharging can take place while on the
+road.
+While retaining the same size gas
+tank, the range of hybrid electric vehi
+cles extends beyond those of convention
+al gasoline cars because the gasoline is
+used more efficiently.
+The Stanford hybrid project is part of
+an effort by a number of universities to
+explore the possibilities in the design of
+
+these vehicles. The project has corporate
+sponsors as well: Ford Motor Co. donat
+ed an Escort station wagon which the
+Stanford students converted.
+SHARP'S electrified Escort has com
+peted in the HEV Challenge since 1993.
+Thi3 competition — held in June and
+sponsored by the Department of Energy
+and the Big Three auto makers (General
+Motors, Ford and Chrysler) — pits the
+HEV designs of 30 different universities
+against each other.
+But Shawn Sarbacker, one of
+SHARP'S coordinators and a graduate
+student in mechanical engineering, said,
+"our biggest competition is ourselves.
+Ours is the most technologically
+advanced car . .. people try to do more
+than they can possibly accomplish."
+This ambition has led to accolades for
+the design of Stanford's car, which has
+won second place in the category each
+year. But it has also resulted in
+mediocre overall performance because of
+mishaps due to attempting such a com
+plex design, project members said.
+"We were the only team that designed
+their own motor," said Ernest Villanue
+va, a senior majoring in mechanical
+engineering and the program's other
+coordinator.
+Villanueva also pointed out the com
+plexity of SHARP'S control system.
+Where most of the entrants in the HEV
+Challenge require the driver to manual
+ly turn on the gasoline generator when
+the battery power is low, "We wanted
+the car to be driven just like any other
+vehicle. . . . We wanted a monitor to be
+able to turn on the APU automatically,"
+he said.
+SHARP'S control system runs on a
+microprocessor control system also
+developed in-house. When the battery
+
+has only 20 percent of its charge, the
+control system switches on the APU
+automatically to extend the range of the
+vehicle.
+The APU runs at a steady number of
+rpm to maximize the power output. The
+current generator is set at 6000 rpm, but
+team members said they hope to replace
+the old 23-horsepower (hp) generator
+with a new BMW motorcycle engine
+which will put out 60 hp, at somewhere
+between 2,000 and 3,000 rpm.
+Regenerative braking is another tech
+nology being implemented in HEVs.
+Energy lost during braking is preserved
+by turning the electric motor into a gen
+erator. As a generator, it will give power
+back to the batteries, while at the same
+time providing a reverse torque on the
+wheels to slow the car down.
+When asked how the car actually per
+formed, Sarbacker said, "The 0 to 60
+design point for the SHARP car is 8.2
+seconds. Right now acceleration is limit
+ed due to manufacturing defects in the
+drive motor. ... In cooperation with
+FMC Corporation in Santa Clara, we are
+bringing the drive motor to design per
+formance level. When the manufactur
+ing problems are corrected, the motor
+will put out 75 hp and we expect it to
+achieve an eight-second 0 to 60."
+He also hastened to point out that 75
+hp for electric vehicles is impressive
+since "electric motors develop full
+torque at 0 rpm."
+The car gets about 40 mpg, a 50 per
+cent improvement over the normal
+Escort, and its top speed should be
+around 80 mph.
+Anyone is welcome to participate in
+SHARP, members said.
+"We encourage everybody to come
+out. There are tons of opportunities to
+find something you are interested in,"
+Sarbacker said.
+This year there are mainly under
+graduates participating in the project,
+which is a mixed blessing, Sarbacker
+added. "There is a steeper learning
+curve, but once they figure out what's
+going on they are extremely dedicated to
+the project. They offer continuity on the
+project from year to year," he said.
+"It is a great chance for a student to
+get exposed to engineering in real world
+situations," he added. "There is a lot of
+work to be done on proving the technol
+ogy as well as showing it can be pro
+duced cost effectively."
+The team works on a car for three
+years, and this is the last year for the
+Escort. But, Sarbacker said, "We are
+writing a proposal to develop a new vehi
+cle for next year which will probably be
+another Ford or a Saturn."
+
+
+Courtesy of Ernest Villanueva
+The Stanford Hybrid Automobile Research Project's hybrid gas/elecrlc Ford
+Escort wagon.
+A new breed of car may soon usurp
+the gasoline-powered automobile.
+The hybrid electric vehicle (HEV) is
+the subject of the Stanford Hybrid Auto
+mobile Research Project (SHARP).
+Researchers say it will be more efficient,
+cleaner and may well outperform gaso
+line engines as technology improves.
+The most significant disadvantage of
+the present-day automobile is, according
+to Popular Science, that only "13 per
+cent of the energy released by an inter
+nal combustion engine ends up as a use
+ful driving force." Another source of
+energy loss comes during braking, when
+all of the car's kinetic energy is lost on
+the brake pads.
+Electric vehicles are much more effi
+cient than gasoline powered vehicles and
+produce zero emissions, but battery
+technology will not allow somebody to
+travel more than 60 miles without effec
+tively "running out of gas."
+Hybrid electric vehicles offer a practi
+cal compromise. They retain the range
+of gasoline-powered vehicles by using a
+gasoline-powered auxiliary power unit
+(APU) to supplement the car's power
+supply. This APU generates electricity
+when the vehicle's battery is low on
+charge, so instead of taking the car
+home to recharge the battery, the
+recharging can take place while on the
+road.
+While retaining the same size gas
+tank, the range of hybrid electric vehi
+cles extends beyond those of convention
+al gasoline cars because the gasoline is
+used more efficiently.
+The Stanford hybrid project is part of
+an effort by a number of universities to
+explore the possibilities in the design of
+
+these vehicles. The project has corporate
+sponsors as well: Ford Motor Co. donat
+ed an Escort station wagon which the
+Stanford students converted.
+SHARP'S electrified Escort has com
+peted in the HEV Challenge since 1993.
+Thi3 competition — held in June and
+sponsored by the Department of Energy
+and the Big Three auto makers (General
+Motors, Ford and Chrysler) — pits the
+HEV designs of 30 different universities
+against each other.
+But Shawn Sarbacker, one of
+SHARP'S coordinators and a graduate
+student in mechanical engineering, said,
+"our biggest competition is ourselves.
+Ours is the most technologically
+advanced car . .. people try to do more
+than they can possibly accomplish."
+This ambition has led to accolades for
+the design of Stanford's car, which has
+won second place in the category each
+year. But it has also resulted in
+mediocre overall performance because of
+mishaps due to attempting such a com
+plex design, project members said.
+"We were the only team that designed
+their own motor," said Ernest Villanue
+va, a senior majoring in mechanical
+engineering and the program's other
+coordinator.
+Villanueva also pointed out the com
+plexity of SHARP'S control system.
+Where most of the entrants in the HEV
+Challenge require the driver to manual
+ly turn on the gasoline generator when
+the battery power is low, "We wanted
+the car to be driven just like any other
+vehicle. . . . We wanted a monitor to be
+able to turn on the APU automatically,"
+he said.
+SHARP'S control system runs on a
+microprocessor control system also
+developed in-house. When the battery
+
+has only 20 percent of its charge, the
+control system switches on the APU
+automatically to extend the range of the
+vehicle.
+The APU runs at a steady number of
+rpm to maximize the power output. The
+current generator is set at 6000 rpm, but
+team members said they hope to replace
+the old 23-horsepower (hp) generator
+with a new BMW motorcycle engine
+which will put out 60 hp, at somewhere
+between 2,000 and 3,000 rpm.
+Regenerative braking is another tech
+nology being implemented in HEVs.
+Energy lost during braking is preserved
+by turning the electric motor into a gen
+erator. As a generator, it will give power
+back to the batteries, while at the same
+time providing a reverse torque on the
+wheels to slow the car down.
+When asked how the car actually per
+formed, Sarbacker said, "The 0 to 60
+design point for the SHARP car is 8.2
+seconds. Right now acceleration is limit
+ed due to manufacturing defects in the
+drive motor. ... In cooperation with
+FMC Corporation in Santa Clara, we are
+bringing the drive motor to design per
+formance level. When the manufactur
+ing problems are corrected, the motor
+will put out 75 hp and we expect it to
+achieve an eight-second 0 to 60."
+He also hastened to point out that 75
+hp for electric vehicles is impressive
+since "electric motors develop full
+torque at 0 rpm."
+The car gets about 40 mpg, a 50 per
+cent improvement over the normal
+Escort, and its top speed should be
+around 80 mph.
+Anyone is welcome to participate in
+SHARP, members said.
+"We encourage everybody to come
+out. There are tons of opportunities to
+find something you are interested in,"
+Sarbacker said.
+This year there are mainly under
+graduates participating in the project,
+which is a mixed blessing, Sarbacker
+added. "There is a steeper learning
+curve, but once they figure out what's
+going on they are extremely dedicated to
+the project. They offer continuity on the
+project from year to year," he said.
+"It is a great chance for a student to
+get exposed to engineering in real world
+situations," he added. "There is a lot of
+work to be done on proving the technol
+ogy as well as showing it can be pro
+duced cost effectively."
+The team works on a car for three
+years, and this is the last year for the
+Escort. But, Sarbacker said, "We are
+writing a proposal to develop a new vehi
+cle for next year which will probably be
+another Ford or a Saturn."
+
+
+Courtesy of Ernest Villanueva
+The Stanford Hybrid Automobile Research Project's hybrid gas/elecrlc Ford
+Escort wagon.
+A new breed of car may soon usurp
+the gasoline-powered automobile.
+The hybrid electric vehicle (HEV) is
+the subject of the Stanford Hybrid Auto
+mobile Research Project (SHARP).
+Researchers say it will be more efficient,
+cleaner and may well outperform gaso
+line engines as technology improves.
+The most significant disadvantage of
+the present-day automobile is, according
+to Popular Science, that only "13 per
+cent of the energy released by an inter
+nal combustion engine ends up as a use
+ful driving force." Another source of
+energy loss comes during braking, when
+all of the car's kinetic energy is lost on
+the brake pads.
+Electric vehicles are much more effi
+cient than gasoline powered vehicles and
+produce zero emissions, but battery
+technology will not allow somebody to
+travel more than 60 miles without effec
+tively "running out of gas."
+Hybrid electric vehicles offer a practi
+cal compromise. They retain the range
+of gasoline-powered vehicles by using a
+gasoline-powered auxiliary power unit
+(APU) to supplement the car's power
+supply. This APU generates electricity
+when the vehicle's battery is low on
+charge, so instead of taking the car
+home to recharge the battery, the
+recharging can take place while on the
+road.
+While retaining the same size gas
+tank, the range of hybrid electric vehi
+cles extends beyond those of convention
+al gasoline cars because the gasoline is
+used more efficiently.
+The Stanford hybrid project is part of
+an effort by a number of universities to
+explore the possibilities in the design of
+
+these vehicles. The project has corporate
+sponsors as well: Ford Motor Co. donat
+ed an Escort station wagon which the
+Stanford students converted.
+SHARP'S electrified Escort has com
+peted in the HEV Challenge since 1993.
+Thi3 competition — held in June and
+sponsored by the Department of Energy
+and the Big Three auto makers (General
+Motors, Ford and Chrysler) — pits the
+HEV designs of 30 different universities
+against each other.
+But Shawn Sarbacker, one of
+SHARP'S coordinators and a graduate
+student in mechanical engineering, said,
+"our biggest competition is ourselves.
+Ours is the most technologically
+advanced car . .. people try to do more
+than they can possibly accomplish."
+This ambition has led to accolades for
+the design of Stanford's car, which has
+won second place in the category each
+year. But it has also resulted in
+mediocre overall performance because of
+mishaps due to attempting such a com
+plex design, project members said.
+"We were the only team that designed
+their own motor," said Ernest Villanue
+va, a senior majoring in mechanical
+engineering and the program's other
+coordinator.
+Villanueva also pointed out the com
+plexity of SHARP'S control system.
+Where most of the entrants in the HEV
+Challenge require the driver to manual
+ly turn on the gasoline generator when
+the battery power is low, "We wanted
+the car to be driven just like any other
+vehicle. . . . We wanted a monitor to be
+able to turn on the APU automatically,"
+he said.
+SHARP'S control system runs on a
+microprocessor control system also
+developed in-house. When the battery
+
+has only 20 percent of its charge, the
+control system switches on the APU
+automatically to extend the range of the
+vehicle.
+The APU runs at a steady number of
+rpm to maximize the power output. The
+current generator is set at 6000 rpm, but
+team members said they hope to replace
+the old 23-horsepower (hp) generator
+with a new BMW motorcycle engine
+which will put out 60 hp, at somewhere
+between 2,000 and 3,000 rpm.
+Regenerative braking is another tech
+nology being implemented in HEVs.
+Energy lost during braking is preserved
+by turning the electric motor into a gen
+erator. As a generator, it will give power
+back to the batteries, while at the same
+time providing a reverse torque on the
+wheels to slow the car down.
+When asked how the car actually per
+formed, Sarbacker said, "The 0 to 60
+design point for the SHARP car is 8.2
+seconds. Right now acceleration is limit
+ed due to manufacturing defects in the
+drive motor. ... In cooperation with
+FMC Corporation in Santa Clara, we are
+bringing the drive motor to design per
+formance level. When the manufactur
+ing problems are corrected, the motor
+will put out 75 hp and we expect it to
+achieve an eight-second 0 to 60."
+He also hastened to point out that 75
+hp for electric vehicles is impressive
+since "electric motors develop full
+torque at 0 rpm."
+The car gets about 40 mpg, a 50 per
+cent improvement over the normal
+Escort, and its top speed should be
+around 80 mph.
+Anyone is welcome to participate in
+SHARP, members said.
+"We encourage everybody to come
+out. There are tons of opportunities to
+find something you are interested in,"
+Sarbacker said.
+This year there are mainly under
+graduates participating in the project,
+which is a mixed blessing, Sarbacker
+added. "There is a steeper learning
+curve, but once they figure out what's
+going on they are extremely dedicated to
+the project. They offer continuity on the
+project from year to year," he said.
+"It is a great chance for a student to
+get exposed to engineering in real world
+situations," he added. "There is a lot of
+work to be done on proving the technol
+ogy as well as showing it can be pro
+duced cost effectively."
+The team works on a car for three
+years, and this is the last year for the
+Escort. But, Sarbacker said, "We are
+writing a proposal to develop a new vehi
+cle for next year which will probably be
+another Ford or a Saturn."
+
+
+Courtesy of Ernest Villanueva
+The Stanford Hybrid Automobile Research Project's hybrid gas/elecrlc Ford
+Escort wagon.
+A new breed of car may soon usurp
+the gasoline-powered automobile.
+The hybrid electric vehicle (HEV) is
+the subject of the Stanford Hybrid Auto
+mobile Research Project (SHARP).
+Researchers say it will be more efficient,
+cleaner and may well outperform gaso
+line engines as technology improves.
+The most significant disadvantage of
+the present-day automobile is, according
+to Popular Science, that only "13 per
+cent of the energy released by an inter
+nal combustion engine ends up as a use
+ful driving force." Another source of
+energy loss comes during braking, when
+all of the car's kinetic energy is lost on
+the brake pads.
+Electric vehicles are much more effi
+cient than gasoline powered vehicles and
+produce zero emissions, but battery
+technology will not allow somebody to
+travel more than 60 miles without effec
+tively "running out of gas."
+Hybrid electric vehicles offer a practi
+cal compromise. They retain the range
+of gasoline-powered vehicles by using a
+gasoline-powered auxiliary power unit
+(APU) to supplement the car's power
+supply. This APU generates electricity
+when the vehicle's battery is low on
+charge, so instead of taking the car
+home to recharge the battery, the
+recharging can take place while on the
+road.
+While retaining the same size gas
+tank, the range of hybrid electric vehi
+cles extends beyond those of convention
+al gasoline cars because the gasoline is
+used more efficiently.
+The Stanford hybrid project is part of
+an effort by a number of universities to
+explore the possibilities in the design of
+
+these vehicles. The project has corporate
+sponsors as well: Ford Motor Co. donat
+ed an Escort station wagon which the
+Stanford students converted.
+SHARP'S electrified Escort has com
+peted in the HEV Challenge since 1993.
+Thi3 competition — held in June and
+sponsored by the Department of Energy
+and the Big Three auto makers (General
+Motors, Ford and Chrysler) — pits the
+HEV designs of 30 different universities
+against each other.
+But Shawn Sarbacker, one of
+SHARP'S coordinators and a graduate
+student in mechanical engineering, said,
+"our biggest competition is ourselves.
+Ours is the most technologically
+advanced car . .. people try to do more
+than they can possibly accomplish."
+This ambition has led to accolades for
+the design of Stanford's car, which has
+won second place in the category each
+year. But it has also resulted in
+mediocre overall performance because of
+mishaps due to attempting such a com
+plex design, project members said.
+"We were the only team that designed
+their own motor," said Ernest Villanue
+va, a senior majoring in mechanical
+engineering and the program's other
+coordinator.
+Villanueva also pointed out the com
+plexity of SHARP'S control system.
+Where most of the entrants in the HEV
+Challenge require the driver to manual
+ly turn on the gasoline generator when
+the battery power is low, "We wanted
+the car to be driven just like any other
+vehicle. . . . We wanted a monitor to be
+able to turn on the APU automatically,"
+he said.
+SHARP'S control system runs on a
+microprocessor control system also
+developed in-house. When the battery
+
+has only 20 percent of its charge, the
+control system switches on the APU
+automatically to extend the range of the
+vehicle.
+The APU runs at a steady number of
+rpm to maximize the power output. The
+current generator is set at 6000 rpm, but
+team members said they hope to replace
+the old 23-horsepower (hp) generator
+with a new BMW motorcycle engine
+which will put out 60 hp, at somewhere
+between 2,000 and 3,000 rpm.
+Regenerative braking is another tech
+nology being implemented in HEVs.
+Energy lost during braking is preserved
+by turning the electric motor into a gen
+erator. As a generator, it will give power
+back to the batteries, while at the same
+time providing a reverse torque on the
+wheels to slow the car down.
+When asked how the car actually per
+formed, Sarbacker said, "The 0 to 60
+design point for the SHARP car is 8.2
+seconds. Right now acceleration is limit
+ed due to manufacturing defects in the
+drive motor. ... In cooperation with
+FMC Corporation in Santa Clara, we are
+bringing the drive motor to design per
+formance level. When the manufactur
+ing problems are corrected, the motor
+will put out 75 hp and we expect it to
+achieve an eight-second 0 to 60."
+He also hastened to point out that 75
+hp for electric vehicles is impressive
+since "electric motors develop full
+torque at 0 rpm."
+The car gets about 40 mpg, a 50 per
+cent improvement over the normal
+Escort, and its top speed should be
+around 80 mph.
+Anyone is welcome to participate in
+SHARP, members said.
+"We encourage everybody to come
+out. There are tons of opportunities to
+find something you are interested in,"
+Sarbacker said.
+This year there are mainly under
+graduates participating in the project,
+which is a mixed blessing, Sarbacker
+added. "There is a steeper learning
+curve, but once they figure out what's
+going on they are extremely dedicated to
+the project. They offer continuity on the
+project from year to year," he said.
+"It is a great chance for a student to
+get exposed to engineering in real world
+situations," he added. "There is a lot of
+work to be done on proving the technol
+ogy as well as showing it can be pro
+duced cost effectively."
+The team works on a car for three
+years, and this is the last year for the
+Escort. But, Sarbacker said, "We are
+writing a proposal to develop a new vehi
+cle for next year which will probably be
+another Ford or a Saturn."
+
+
+Courtesy of Ernest Villanueva
+The Stanford Hybrid Automobile Research Project's hybrid gas/elecrlc Ford
+Escort wagon.
+A new breed of car may soon usurp
+the gasoline-powered automobile.
+The hybrid electric vehicle (HEV) is
+the subject of the Stanford Hybrid Auto
+mobile Research Project (SHARP).
+Researchers say it will be more efficient,
+cleaner and may well outperform gaso
+line engines as technology improves.
+The most significant disadvantage of
+the present-day automobile is, according
+to Popular Science, that only "13 per
+cent of the energy released by an inter
+nal combustion engine ends up as a use
+ful driving force." Another source of
+energy loss comes during braking, when
+all of the car's kinetic energy is lost on
+the brake pads.
+Electric vehicles are much more effi
+cient than gasoline powered vehicles and
+produce zero emissions, but battery
+technology will not allow somebody to
+travel more than 60 miles without effec
+tively "running out of gas."
+Hybrid electric vehicles offer a practi
+cal compromise. They retain the range
+of gasoline-powered vehicles by using a
+gasoline-powered auxiliary power unit
+(APU) to supplement the car's power
+supply. This APU generates electricity
+when the vehicle's battery is low on
+charge, so instead of taking the car
+home to recharge the battery, the
+recharging can take place while on the
+road.
+While retaining the same size gas
+tank, the range of hybrid electric vehi
+cles extends beyond those of convention
+al gasoline cars because the gasoline is
+used more efficiently.
+The Stanford hybrid project is part of
+an effort by a number of universities to
+explore the possibilities in the design of
+
+these vehicles. The project has corporate
+sponsors as well: Ford Motor Co. donat
+ed an Escort station wagon which the
+Stanford students converted.
+SHARP'S electrified Escort has com
+peted in the HEV Challenge since 1993.
+Thi3 competition — held in June and
+sponsored by the Department of Energy
+and the Big Three auto makers (General
+Motors, Ford and Chrysler) — pits the
+HEV designs of 30 different universities
+against each other.
+But Shawn Sarbacker, one of
+SHARP'S coordinators and a graduate
+student in mechanical engineering, said,
+"our biggest competition is ourselves.
+Ours is the most technologically
+advanced car . .. people try to do more
+than they can possibly accomplish."
+This ambition has led to accolades for
+the design of Stanford's car, which has
+won second place in the category each
+year. But it has also resulted in
+mediocre overall performance because of
+mishaps due to attempting such a com
+plex design, project members said.
+"We were the only team that designed
+their own motor," said Ernest Villanue
+va, a senior majoring in mechanical
+engineering and the program's other
+coordinator.
+Villanueva also pointed out the com
+plexity of SHARP'S control system.
+Where most of the entrants in the HEV
+Challenge require the driver to manual
+ly turn on the gasoline generator when
+the battery power is low, "We wanted
+the car to be driven just like any other
+vehicle. . . . We wanted a monitor to be
+able to turn on the APU automatically,"
+he said.
+SHARP'S control system runs on a
+microprocessor control system also
+developed in-house. When the battery
+
+has only 20 percent of its charge, the
+control system switches on the APU
+automatically to extend the range of the
+vehicle.
+The APU runs at a steady number of
+rpm to maximize the power output. The
+current generator is set at 6000 rpm, but
+team members said they hope to replace
+the old 23-horsepower (hp) generator
+with a new BMW motorcycle engine
+which will put out 60 hp, at somewhere
+between 2,000 and 3,000 rpm.
+Regenerative braking is another tech
+nology being implemented in HEVs.
+Energy lost during braking is preserved
+by turning the electric motor into a gen
+erator. As a generator, it will give power
+back to the batteries, while at the same
+time providing a reverse torque on the
+wheels to slow the car down.
+When asked how the car actually per
+formed, Sarbacker said, "The 0 to 60
+design point for the SHARP car is 8.2
+seconds. Right now acceleration is limit
+ed due to manufacturing defects in the
+drive motor. ... In cooperation with
+FMC Corporation in Santa Clara, we are
+bringing the drive motor to design per
+formance level. When the manufactur
+ing problems are corrected, the motor
+will put out 75 hp and we expect it to
+achieve an eight-second 0 to 60."
+He also hastened to point out that 75
+hp for electric vehicles is impressive
+since "electric motors develop full
+torque at 0 rpm."
+The car gets about 40 mpg, a 50 per
+cent improvement over the normal
+Escort, and its top speed should be
+around 80 mph.
+Anyone is welcome to participate in
+SHARP, members said.
+"We encourage everybody to come
+out. There are tons of opportunities to
+find something you are interested in,"
+Sarbacker said.
+This year there are mainly under
+graduates participating in the project,
+which is a mixed blessing, Sarbacker
+added. "There is a steeper learning
+curve, but once they figure out what's
+going on they are extremely dedicated to
+the project. They offer continuity on the
+project from year to year," he said.
+"It is a great chance for a student to
+get exposed to engineering in real world
+situations," he added. "There is a lot of
+work to be done on proving the technol
+ogy as well as showing it can be pro
+duced cost effectively."
+The team works on a car for three
+years, and this is the last year for the
+Escort. But, Sarbacker said, "We are
+writing a proposal to develop a new vehi
+cle for next year which will probably be
+another Ford or a Saturn."
+
+
+Courtesy of Ernest Villanueva
+The Stanford Hybrid Automobile Research Project's hybrid gas/elecrlc Ford
+Escort wagon.
+A new breed of car may soon usurp
+the gasoline-powered automobile.
+The hybrid electric vehicle (HEV) is
+the subject of the Stanford Hybrid Auto
+mobile Research Project (SHARP).
+Researchers say it will be more efficient,
+cleaner and may well outperform gaso
+line engines as technology improves.
+The most significant disadvantage of
+the present-day automobile is, according
+to Popular Science, that only "13 per
+cent of the energy released by an inter
+nal combustion engine ends up as a use
+ful driving force." Another source of
+energy loss comes during braking, when
+all of the car's kinetic energy is lost on
+the brake pads.
+Electric vehicles are much more effi
+cient than gasoline powered vehicles and
+produce zero emissions, but battery
+technology will not allow somebody to
+travel more than 60 miles without effec
+tively "running out of gas."
+Hybrid electric vehicles offer a practi
+cal compromise. They retain the range
+of gasoline-powered vehicles by using a
+gasoline-powered auxiliary power unit
+(APU) to supplement the car's power
+supply. This APU generates electricity
+when the vehicle's battery is low on
+charge, so instead of taking the car
+home to recharge the battery, the
+recharging can take place while on the
+road.
+While retaining the same size gas
+tank, the range of hybrid electric vehi
+cles extends beyond those of convention
+al gasoline cars because the gasoline is
+used more efficiently.
+The Stanford hybrid project is part of
+an effort by a number of universities to
+explore the possibilities in the design of
+
+these vehicles. The project has corporate
+sponsors as well: Ford Motor Co. donat
+ed an Escort station wagon which the
+Stanford students converted.
+SHARP'S electrified Escort has com
+peted in the HEV Challenge since 1993.
+Thi3 competition — held in June and
+sponsored by the Department of Energy
+and the Big Three auto makers (General
+Motors, Ford and Chrysler) — pits the
+HEV designs of 30 different universities
+against each other.
+But Shawn Sarbacker, one of
+SHARP'S coordinators and a graduate
+student in mechanical engineering, said,
+"our biggest competition is ourselves.
+Ours is the most technologically
+advanced car . .. people try to do more
+than they can possibly accomplish."
+This ambition has led to accolades for
+the design of Stanford's car, which has
+won second place in the category each
+year. But it has also resulted in
+mediocre overall performance because of
+mishaps due to attempting such a com
+plex design, project members said.
+"We were the only team that designed
+their own motor," said Ernest Villanue
+va, a senior majoring in mechanical
+engineering and the program's other
+coordinator.
+Villanueva also pointed out the com
+plexity of SHARP'S control system.
+Where most of the entrants in the HEV
+Challenge require the driver to manual
+ly turn on the gasoline generator when
+the battery power is low, "We wanted
+the car to be driven just like any other
+vehicle. . . . We wanted a monitor to be
+able to turn on the APU automatically,"
+he said.
+SHARP'S control system runs on a
+microprocessor control system also
+developed in-house. When the battery
+
+has only 20 percent of its charge, the
+control system switches on the APU
+automatically to extend the range of the
+vehicle.
+The APU runs at a steady number of
+rpm to maximize the power output. The
+current generator is set at 6000 rpm, but
+team members said they hope to replace
+the old 23-horsepower (hp) generator
+with a new BMW motorcycle engine
+which will put out 60 hp, at somewhere
+between 2,000 and 3,000 rpm.
+Regenerative braking is another tech
+nology being implemented in HEVs.
+Energy lost during braking is preserved
+by turning the electric motor into a gen
+erator. As a generator, it will give power
+back to the batteries, while at the same
+time providing a reverse torque on the
+wheels to slow the car down.
+When asked how the car actually per
+formed, Sarbacker said, "The 0 to 60
+design point for the SHARP car is 8.2
+seconds. Right now acceleration is limit
+ed due to manufacturing defects in the
+drive motor. ... In cooperation with
+FMC Corporation in Santa Clara, we are
+bringing the drive motor to design per
+formance level. When the manufactur
+ing problems are corrected, the motor
+will put out 75 hp and we expect it to
+achieve an eight-second 0 to 60."
+He also hastened to point out that 75
+hp for electric vehicles is impressive
+since "electric motors develop full
+torque at 0 rpm."
+The car gets about 40 mpg, a 50 per
+cent improvement over the normal
+Escort, and its top speed should be
+around 80 mph.
+Anyone is welcome to participate in
+SHARP, members said.
+"We encourage everybody to come
+out. There are tons of opportunities to
+find something you are interested in,"
+Sarbacker said.
+This year there are mainly under
+graduates participating in the project,
+which is a mixed blessing, Sarbacker
+added. "There is a steeper learning
+curve, but once they figure out what's
+going on they are extremely dedicated to
+the project. They offer continuity on the
+project from year to year," he said.
+"It is a great chance for a student to
+get exposed to engineering in real world
+situations," he added. "There is a lot of
+work to be done on proving the technol
+ogy as well as showing it can be pro
+duced cost effectively."
+The team works on a car for three
+years, and this is the last year for the
+Escort. But, Sarbacker said, "We are
+writing a proposal to develop a new vehi
+cle for next year which will probably be
+another Ford or a Saturn."
+
+
+Courtesy of Ernest Villanueva
+The Stanford Hybrid Automobile Research Project's hybrid gas/elecrlc Ford
+Escort wagon.

@@ -1,0 +1,657 @@
+# New technology gives you just the fax (in 3-D)
+## 
+### Rajani Rajan 
+Thanks to a breakthrough discovery at
+Stanford's Computer Graphics Laboratory,
+the ability to fax your mom a three-dimen
+sional replica of your latest artistic master
+piece may be just around the corner.
+A research team headed by Computer Sci
+ence and Electrical Engineering Prof. Marc
+Levoy has developed the technology to create
+highly accurate three-dimensional computer
+models of real-world objects, which am then
+be electronically sent to manufacturers.
+Once scanned and sent, identical copies of
+the original object can be made.
+The revolutionary technique was tested
+
+two weeks ago, when Levoy's group scanned
+in a small statuette of a "happy Buddha,"
+sent the computer model to 3-D Systems in
+Valencia, Calif, and received an identical
+version of the statuette a few days later.
+The idea of using computer graphics to
+create real-life replicas is not new. But the
+techniques used in this development are
+faster and more accurate, researchers say. It
+represents a solution to the "central problem
+in the computer vision field for 20 years,"
+Levoy said.
+The actual scanning process involves set
+ting the model on a rotating platform and
+using a red laser light scanner and
+camera to create the computerized
+image.
+"The scanner emits a plane of
+laser light and 'paints' a line onto
+the model," said Brian Curless, a
+doctoral student working on the
+project. A camera then observes
+the profile of this stripe and uses
+the data to create a "mesh" de
+scribing the surface.
+
+'The scanner emits
+a plane of laser
+light and paints' a
+line onto the
+model.'
+— Brian Curless
+
+After about 58 scans, re
+searchers used the data for the
+Buddha to create a highly detailed
+computer model consisting of
+about 800,000 polygons.
+Earlier, lengthier processes
+would have required a person to
+manually touch individual points
+on the object with a probe, said doc
+toral student Brian Freyburger,
+also a team member. In contrast,
+the new method takes only a few
+
+hours.
+Someday, if the computer mod
+eling technology can be combined
+with the ability to instantaneously
+create a tangible object, one might
+be able to fax identical versions of
+real-life objects back and forth.
+"It's a very cool concept," Frey
+burger said.
+The idea of "faxing" an actual
+object might seem like science fic
+tion, but there are countless appli
+cations that can be used with these
+developments as they presently
+stand. Companies like Industrial
+Light and Magic — which creates
+special effects — have a need for
+computerized versions of real-life
+objects and are interested in Stan
+ford's technology.
+In addition, Levoy described
+how archaeologists can use the
+technique to sain rare artifacts
+and "send models all over the
+world." Companies such as Ford
+can use computer models to simpli
+fy the complicated process of de
+signing cylinder heads, he added.
+The group is still working on
+improving its scanning procedure,
+with researchers looking into the
+"next best view problem" — inac
+curacies caused when the laser
+can't reach portions of the object.
+The team also hopes to com
+pletely automate the scanning
+process.
+As for scanning other objects,
+Freyburger asserted, "(Curless) is
+always on the lookout for things to
+scan. . . . We're really willing to try
+anything."
+
+
+Courtesy of Stanford Computer Graphics Laboratory
+For its "fax" trip to Southern California, the "happy Buddha" statue shown at the far left became the 3-D
+computer model in the center. That electronic model was used as a model for the plastic replica on the
+right.
+Thanks to a breakthrough discovery at
+Stanford's Computer Graphics Laboratory,
+the ability to fax your mom a three-dimen
+sional replica of your latest artistic master
+piece may be just around the corner.
+A research team headed by Computer Sci
+ence and Electrical Engineering Prof. Marc
+Levoy has developed the technology to create
+highly accurate three-dimensional computer
+models of real-world objects, which am then
+be electronically sent to manufacturers.
+Once scanned and sent, identical copies of
+the original object can be made.
+The revolutionary technique was tested
+
+two weeks ago, when Levoy's group scanned
+in a small statuette of a "happy Buddha,"
+sent the computer model to 3-D Systems in
+Valencia, Calif, and received an identical
+version of the statuette a few days later.
+The idea of using computer graphics to
+create real-life replicas is not new. But the
+techniques used in this development are
+faster and more accurate, researchers say. It
+represents a solution to the "central problem
+in the computer vision field for 20 years,"
+Levoy said.
+The actual scanning process involves set
+ting the model on a rotating platform and
+using a red laser light scanner and
+camera to create the computerized
+image.
+"The scanner emits a plane of
+laser light and 'paints' a line onto
+the model," said Brian Curless, a
+doctoral student working on the
+project. A camera then observes
+the profile of this stripe and uses
+the data to create a "mesh" de
+scribing the surface.
+
+'The scanner emits
+a plane of laser
+light and paints' a
+line onto the
+model.'
+— Brian Curless
+
+After about 58 scans, re
+searchers used the data for the
+Buddha to create a highly detailed
+computer model consisting of
+about 800,000 polygons.
+Earlier, lengthier processes
+would have required a person to
+manually touch individual points
+on the object with a probe, said doc
+toral student Brian Freyburger,
+also a team member. In contrast,
+the new method takes only a few
+
+hours.
+Someday, if the computer mod
+eling technology can be combined
+with the ability to instantaneously
+create a tangible object, one might
+be able to fax identical versions of
+real-life objects back and forth.
+"It's a very cool concept," Frey
+burger said.
+The idea of "faxing" an actual
+object might seem like science fic
+tion, but there are countless appli
+cations that can be used with these
+developments as they presently
+stand. Companies like Industrial
+Light and Magic — which creates
+special effects — have a need for
+computerized versions of real-life
+objects and are interested in Stan
+ford's technology.
+In addition, Levoy described
+how archaeologists can use the
+technique to sain rare artifacts
+and "send models all over the
+world." Companies such as Ford
+can use computer models to simpli
+fy the complicated process of de
+signing cylinder heads, he added.
+The group is still working on
+improving its scanning procedure,
+with researchers looking into the
+"next best view problem" — inac
+curacies caused when the laser
+can't reach portions of the object.
+The team also hopes to com
+pletely automate the scanning
+process.
+As for scanning other objects,
+Freyburger asserted, "(Curless) is
+always on the lookout for things to
+scan. . . . We're really willing to try
+anything."
+
+
+Courtesy of Stanford Computer Graphics Laboratory
+For its "fax" trip to Southern California, the "happy Buddha" statue shown at the far left became the 3-D
+computer model in the center. That electronic model was used as a model for the plastic replica on the
+right.
+Thanks to a breakthrough discovery at
+Stanford's Computer Graphics Laboratory,
+the ability to fax your mom a three-dimen
+sional replica of your latest artistic master
+piece may be just around the corner.
+A research team headed by Computer Sci
+ence and Electrical Engineering Prof. Marc
+Levoy has developed the technology to create
+highly accurate three-dimensional computer
+models of real-world objects, which am then
+be electronically sent to manufacturers.
+Once scanned and sent, identical copies of
+the original object can be made.
+The revolutionary technique was tested
+
+two weeks ago, when Levoy's group scanned
+in a small statuette of a "happy Buddha,"
+sent the computer model to 3-D Systems in
+Valencia, Calif, and received an identical
+version of the statuette a few days later.
+The idea of using computer graphics to
+create real-life replicas is not new. But the
+techniques used in this development are
+faster and more accurate, researchers say. It
+represents a solution to the "central problem
+in the computer vision field for 20 years,"
+Levoy said.
+The actual scanning process involves set
+ting the model on a rotating platform and
+using a red laser light scanner and
+camera to create the computerized
+image.
+"The scanner emits a plane of
+laser light and 'paints' a line onto
+the model," said Brian Curless, a
+doctoral student working on the
+project. A camera then observes
+the profile of this stripe and uses
+the data to create a "mesh" de
+scribing the surface.
+
+'The scanner emits
+a plane of laser
+light and paints' a
+line onto the
+model.'
+— Brian Curless
+
+After about 58 scans, re
+searchers used the data for the
+Buddha to create a highly detailed
+computer model consisting of
+about 800,000 polygons.
+Earlier, lengthier processes
+would have required a person to
+manually touch individual points
+on the object with a probe, said doc
+toral student Brian Freyburger,
+also a team member. In contrast,
+the new method takes only a few
+
+hours.
+Someday, if the computer mod
+eling technology can be combined
+with the ability to instantaneously
+create a tangible object, one might
+be able to fax identical versions of
+real-life objects back and forth.
+"It's a very cool concept," Frey
+burger said.
+The idea of "faxing" an actual
+object might seem like science fic
+tion, but there are countless appli
+cations that can be used with these
+developments as they presently
+stand. Companies like Industrial
+Light and Magic — which creates
+special effects — have a need for
+computerized versions of real-life
+objects and are interested in Stan
+ford's technology.
+In addition, Levoy described
+how archaeologists can use the
+technique to sain rare artifacts
+and "send models all over the
+world." Companies such as Ford
+can use computer models to simpli
+fy the complicated process of de
+signing cylinder heads, he added.
+The group is still working on
+improving its scanning procedure,
+with researchers looking into the
+"next best view problem" — inac
+curacies caused when the laser
+can't reach portions of the object.
+The team also hopes to com
+pletely automate the scanning
+process.
+As for scanning other objects,
+Freyburger asserted, "(Curless) is
+always on the lookout for things to
+scan. . . . We're really willing to try
+anything."
+
+
+Courtesy of Stanford Computer Graphics Laboratory
+For its "fax" trip to Southern California, the "happy Buddha" statue shown at the far left became the 3-D
+computer model in the center. That electronic model was used as a model for the plastic replica on the
+right.
+Thanks to a breakthrough discovery at
+Stanford's Computer Graphics Laboratory,
+the ability to fax your mom a three-dimen
+sional replica of your latest artistic master
+piece may be just around the corner.
+A research team headed by Computer Sci
+ence and Electrical Engineering Prof. Marc
+Levoy has developed the technology to create
+highly accurate three-dimensional computer
+models of real-world objects, which am then
+be electronically sent to manufacturers.
+Once scanned and sent, identical copies of
+the original object can be made.
+The revolutionary technique was tested
+
+two weeks ago, when Levoy's group scanned
+in a small statuette of a "happy Buddha,"
+sent the computer model to 3-D Systems in
+Valencia, Calif, and received an identical
+version of the statuette a few days later.
+The idea of using computer graphics to
+create real-life replicas is not new. But the
+techniques used in this development are
+faster and more accurate, researchers say. It
+represents a solution to the "central problem
+in the computer vision field for 20 years,"
+Levoy said.
+The actual scanning process involves set
+ting the model on a rotating platform and
+using a red laser light scanner and
+camera to create the computerized
+image.
+"The scanner emits a plane of
+laser light and 'paints' a line onto
+the model," said Brian Curless, a
+doctoral student working on the
+project. A camera then observes
+the profile of this stripe and uses
+the data to create a "mesh" de
+scribing the surface.
+
+'The scanner emits
+a plane of laser
+light and paints' a
+line onto the
+model.'
+— Brian Curless
+
+After about 58 scans, re
+searchers used the data for the
+Buddha to create a highly detailed
+computer model consisting of
+about 800,000 polygons.
+Earlier, lengthier processes
+would have required a person to
+manually touch individual points
+on the object with a probe, said doc
+toral student Brian Freyburger,
+also a team member. In contrast,
+the new method takes only a few
+
+hours.
+Someday, if the computer mod
+eling technology can be combined
+with the ability to instantaneously
+create a tangible object, one might
+be able to fax identical versions of
+real-life objects back and forth.
+"It's a very cool concept," Frey
+burger said.
+The idea of "faxing" an actual
+object might seem like science fic
+tion, but there are countless appli
+cations that can be used with these
+developments as they presently
+stand. Companies like Industrial
+Light and Magic — which creates
+special effects — have a need for
+computerized versions of real-life
+objects and are interested in Stan
+ford's technology.
+In addition, Levoy described
+how archaeologists can use the
+technique to sain rare artifacts
+and "send models all over the
+world." Companies such as Ford
+can use computer models to simpli
+fy the complicated process of de
+signing cylinder heads, he added.
+The group is still working on
+improving its scanning procedure,
+with researchers looking into the
+"next best view problem" — inac
+curacies caused when the laser
+can't reach portions of the object.
+The team also hopes to com
+pletely automate the scanning
+process.
+As for scanning other objects,
+Freyburger asserted, "(Curless) is
+always on the lookout for things to
+scan. . . . We're really willing to try
+anything."
+
+
+Courtesy of Stanford Computer Graphics Laboratory
+For its "fax" trip to Southern California, the "happy Buddha" statue shown at the far left became the 3-D
+computer model in the center. That electronic model was used as a model for the plastic replica on the
+right.
+Thanks to a breakthrough discovery at
+Stanford's Computer Graphics Laboratory,
+the ability to fax your mom a three-dimen
+sional replica of your latest artistic master
+piece may be just around the corner.
+A research team headed by Computer Sci
+ence and Electrical Engineering Prof. Marc
+Levoy has developed the technology to create
+highly accurate three-dimensional computer
+models of real-world objects, which am then
+be electronically sent to manufacturers.
+Once scanned and sent, identical copies of
+the original object can be made.
+The revolutionary technique was tested
+
+two weeks ago, when Levoy's group scanned
+in a small statuette of a "happy Buddha,"
+sent the computer model to 3-D Systems in
+Valencia, Calif, and received an identical
+version of the statuette a few days later.
+The idea of using computer graphics to
+create real-life replicas is not new. But the
+techniques used in this development are
+faster and more accurate, researchers say. It
+represents a solution to the "central problem
+in the computer vision field for 20 years,"
+Levoy said.
+The actual scanning process involves set
+ting the model on a rotating platform and
+using a red laser light scanner and
+camera to create the computerized
+image.
+"The scanner emits a plane of
+laser light and 'paints' a line onto
+the model," said Brian Curless, a
+doctoral student working on the
+project. A camera then observes
+the profile of this stripe and uses
+the data to create a "mesh" de
+scribing the surface.
+
+'The scanner emits
+a plane of laser
+light and paints' a
+line onto the
+model.'
+— Brian Curless
+
+After about 58 scans, re
+searchers used the data for the
+Buddha to create a highly detailed
+computer model consisting of
+about 800,000 polygons.
+Earlier, lengthier processes
+would have required a person to
+manually touch individual points
+on the object with a probe, said doc
+toral student Brian Freyburger,
+also a team member. In contrast,
+the new method takes only a few
+
+hours.
+Someday, if the computer mod
+eling technology can be combined
+with the ability to instantaneously
+create a tangible object, one might
+be able to fax identical versions of
+real-life objects back and forth.
+"It's a very cool concept," Frey
+burger said.
+The idea of "faxing" an actual
+object might seem like science fic
+tion, but there are countless appli
+cations that can be used with these
+developments as they presently
+stand. Companies like Industrial
+Light and Magic — which creates
+special effects — have a need for
+computerized versions of real-life
+objects and are interested in Stan
+ford's technology.
+In addition, Levoy described
+how archaeologists can use the
+technique to sain rare artifacts
+and "send models all over the
+world." Companies such as Ford
+can use computer models to simpli
+fy the complicated process of de
+signing cylinder heads, he added.
+The group is still working on
+improving its scanning procedure,
+with researchers looking into the
+"next best view problem" — inac
+curacies caused when the laser
+can't reach portions of the object.
+The team also hopes to com
+pletely automate the scanning
+process.
+As for scanning other objects,
+Freyburger asserted, "(Curless) is
+always on the lookout for things to
+scan. . . . We're really willing to try
+anything."
+
+
+Courtesy of Stanford Computer Graphics Laboratory
+For its "fax" trip to Southern California, the "happy Buddha" statue shown at the far left became the 3-D
+computer model in the center. That electronic model was used as a model for the plastic replica on the
+right.
+Thanks to a breakthrough discovery at
+Stanford's Computer Graphics Laboratory,
+the ability to fax your mom a three-dimen
+sional replica of your latest artistic master
+piece may be just around the corner.
+A research team headed by Computer Sci
+ence and Electrical Engineering Prof. Marc
+Levoy has developed the technology to create
+highly accurate three-dimensional computer
+models of real-world objects, which am then
+be electronically sent to manufacturers.
+Once scanned and sent, identical copies of
+the original object can be made.
+The revolutionary technique was tested
+
+two weeks ago, when Levoy's group scanned
+in a small statuette of a "happy Buddha,"
+sent the computer model to 3-D Systems in
+Valencia, Calif, and received an identical
+version of the statuette a few days later.
+The idea of using computer graphics to
+create real-life replicas is not new. But the
+techniques used in this development are
+faster and more accurate, researchers say. It
+represents a solution to the "central problem
+in the computer vision field for 20 years,"
+Levoy said.
+The actual scanning process involves set
+ting the model on a rotating platform and
+using a red laser light scanner and
+camera to create the computerized
+image.
+"The scanner emits a plane of
+laser light and 'paints' a line onto
+the model," said Brian Curless, a
+doctoral student working on the
+project. A camera then observes
+the profile of this stripe and uses
+the data to create a "mesh" de
+scribing the surface.
+
+'The scanner emits
+a plane of laser
+light and paints' a
+line onto the
+model.'
+— Brian Curless
+
+After about 58 scans, re
+searchers used the data for the
+Buddha to create a highly detailed
+computer model consisting of
+about 800,000 polygons.
+Earlier, lengthier processes
+would have required a person to
+manually touch individual points
+on the object with a probe, said doc
+toral student Brian Freyburger,
+also a team member. In contrast,
+the new method takes only a few
+
+hours.
+Someday, if the computer mod
+eling technology can be combined
+with the ability to instantaneously
+create a tangible object, one might
+be able to fax identical versions of
+real-life objects back and forth.
+"It's a very cool concept," Frey
+burger said.
+The idea of "faxing" an actual
+object might seem like science fic
+tion, but there are countless appli
+cations that can be used with these
+developments as they presently
+stand. Companies like Industrial
+Light and Magic — which creates
+special effects — have a need for
+computerized versions of real-life
+objects and are interested in Stan
+ford's technology.
+In addition, Levoy described
+how archaeologists can use the
+technique to sain rare artifacts
+and "send models all over the
+world." Companies such as Ford
+can use computer models to simpli
+fy the complicated process of de
+signing cylinder heads, he added.
+The group is still working on
+improving its scanning procedure,
+with researchers looking into the
+"next best view problem" — inac
+curacies caused when the laser
+can't reach portions of the object.
+The team also hopes to com
+pletely automate the scanning
+process.
+As for scanning other objects,
+Freyburger asserted, "(Curless) is
+always on the lookout for things to
+scan. . . . We're really willing to try
+anything."
+
+
+Courtesy of Stanford Computer Graphics Laboratory
+For its "fax" trip to Southern California, the "happy Buddha" statue shown at the far left became the 3-D
+computer model in the center. That electronic model was used as a model for the plastic replica on the
+right.

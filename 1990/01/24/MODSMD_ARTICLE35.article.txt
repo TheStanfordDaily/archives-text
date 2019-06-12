@@ -1,0 +1,507 @@
+# Math wiz goes for record books
+## 
+### Garrett R. Vargas 
+If you were asked to take the
+13th root of a 100-digit number,
+you would probably find the task
+nearly impossible. Don't feel bad.
+Even a computer would have trou
+ble with that task.
+But what if you were required
+to solve that problem in your head
+— in under a minute?
+That's exactly what John Over
+deck, a first-year graduate student
+in statistics, is able to do. At the
+age of 13, while he was taking
+calculus, he was looking through
+the "Guinness Book of Records"
+and noticed that the world's
+record for extracting the 13th root
+of a 100-digit number was 1 min
+ute, 28.8 seconds.
+
+Intrigued and anxious to break
+the record, Overdeck decided to
+determine exactly how Willem
+Klein, the record holder, per
+formed this incredible feat.
+Overdeck noticed some interest
+ing properties about 13th powers
+that make it convenient to find
+13th roots. For example, he
+noticed that a number and its
+13th power always end in the
+same digit.
+Over several years, Overdeck
+has reduced the task of extracting
+the 13th root of a 100-digit num
+ber considerably. The task, as
+Overdeck explains it, is actually
+much simpler than it appears on
+the surface.
+Overdeck's algorithm involves
+only nine of the 100 digits in
+
+volved — the first six and the last
+three.
+He has developed a table that
+allows him to approximate the
+13th root from the first six digits
+by pinpointing these digits be
+tween two consecutive entries in
+his table.
+By then interpolating, or es
+timating the answer from the two
+known ones, he is able to limit
+the 13th root to a range of a few
+hundred possibilities.
+In another table, Overdeck is
+able to pinpoint the exact 13th
+root from the final three digits.
+These tables are surprisingly
+simple considering that there are
+almost 8 million integers that are
+perfect 13th roots of 100-digit
+numbers.
+If you were asked to take the
+13th root of a 100-digit number,
+you would probably find the task
+nearly impossible. Don't feel bad.
+Even a computer would have trou
+ble with that task.
+But what if you were required
+to solve that problem in your head
+— in under a minute?
+That's exactly what John Over
+deck, a first-year graduate student
+in statistics, is able to do. At the
+age of 13, while he was taking
+calculus, he was looking through
+the "Guinness Book of Records"
+and noticed that the world's
+record for extracting the 13th root
+of a 100-digit number was 1 min
+ute, 28.8 seconds.
+
+Intrigued and anxious to break
+the record, Overdeck decided to
+determine exactly how Willem
+Klein, the record holder, per
+formed this incredible feat.
+Overdeck noticed some interest
+ing properties about 13th powers
+that make it convenient to find
+13th roots. For example, he
+noticed that a number and its
+13th power always end in the
+same digit.
+Over several years, Overdeck
+has reduced the task of extracting
+the 13th root of a 100-digit num
+ber considerably. The task, as
+Overdeck explains it, is actually
+much simpler than it appears on
+the surface.
+Overdeck's algorithm involves
+only nine of the 100 digits in
+
+volved — the first six and the last
+three.
+He has developed a table that
+allows him to approximate the
+13th root from the first six digits
+by pinpointing these digits be
+tween two consecutive entries in
+his table.
+By then interpolating, or es
+timating the answer from the two
+known ones, he is able to limit
+the 13th root to a range of a few
+hundred possibilities.
+In another table, Overdeck is
+able to pinpoint the exact 13th
+root from the final three digits.
+These tables are surprisingly
+simple considering that there are
+almost 8 million integers that are
+perfect 13th roots of 100-digit
+numbers.
+If you were asked to take the
+13th root of a 100-digit number,
+you would probably find the task
+nearly impossible. Don't feel bad.
+Even a computer would have trou
+ble with that task.
+But what if you were required
+to solve that problem in your head
+— in under a minute?
+That's exactly what John Over
+deck, a first-year graduate student
+in statistics, is able to do. At the
+age of 13, while he was taking
+calculus, he was looking through
+the "Guinness Book of Records"
+and noticed that the world's
+record for extracting the 13th root
+of a 100-digit number was 1 min
+ute, 28.8 seconds.
+
+Intrigued and anxious to break
+the record, Overdeck decided to
+determine exactly how Willem
+Klein, the record holder, per
+formed this incredible feat.
+Overdeck noticed some interest
+ing properties about 13th powers
+that make it convenient to find
+13th roots. For example, he
+noticed that a number and its
+13th power always end in the
+same digit.
+Over several years, Overdeck
+has reduced the task of extracting
+the 13th root of a 100-digit num
+ber considerably. The task, as
+Overdeck explains it, is actually
+much simpler than it appears on
+the surface.
+Overdeck's algorithm involves
+only nine of the 100 digits in
+
+volved — the first six and the last
+three.
+He has developed a table that
+allows him to approximate the
+13th root from the first six digits
+by pinpointing these digits be
+tween two consecutive entries in
+his table.
+By then interpolating, or es
+timating the answer from the two
+known ones, he is able to limit
+the 13th root to a range of a few
+hundred possibilities.
+In another table, Overdeck is
+able to pinpoint the exact 13th
+root from the final three digits.
+These tables are surprisingly
+simple considering that there are
+almost 8 million integers that are
+perfect 13th roots of 100-digit
+numbers.
+If you were asked to take the
+13th root of a 100-digit number,
+you would probably find the task
+nearly impossible. Don't feel bad.
+Even a computer would have trou
+ble with that task.
+But what if you were required
+to solve that problem in your head
+— in under a minute?
+That's exactly what John Over
+deck, a first-year graduate student
+in statistics, is able to do. At the
+age of 13, while he was taking
+calculus, he was looking through
+the "Guinness Book of Records"
+and noticed that the world's
+record for extracting the 13th root
+of a 100-digit number was 1 min
+ute, 28.8 seconds.
+
+Intrigued and anxious to break
+the record, Overdeck decided to
+determine exactly how Willem
+Klein, the record holder, per
+formed this incredible feat.
+Overdeck noticed some interest
+ing properties about 13th powers
+that make it convenient to find
+13th roots. For example, he
+noticed that a number and its
+13th power always end in the
+same digit.
+Over several years, Overdeck
+has reduced the task of extracting
+the 13th root of a 100-digit num
+ber considerably. The task, as
+Overdeck explains it, is actually
+much simpler than it appears on
+the surface.
+Overdeck's algorithm involves
+only nine of the 100 digits in
+
+volved — the first six and the last
+three.
+He has developed a table that
+allows him to approximate the
+13th root from the first six digits
+by pinpointing these digits be
+tween two consecutive entries in
+his table.
+By then interpolating, or es
+timating the answer from the two
+known ones, he is able to limit
+the 13th root to a range of a few
+hundred possibilities.
+In another table, Overdeck is
+able to pinpoint the exact 13th
+root from the final three digits.
+These tables are surprisingly
+simple considering that there are
+almost 8 million integers that are
+perfect 13th roots of 100-digit
+numbers.
+If you were asked to take the
+13th root of a 100-digit number,
+you would probably find the task
+nearly impossible. Don't feel bad.
+Even a computer would have trou
+ble with that task.
+But what if you were required
+to solve that problem in your head
+— in under a minute?
+That's exactly what John Over
+deck, a first-year graduate student
+in statistics, is able to do. At the
+age of 13, while he was taking
+calculus, he was looking through
+the "Guinness Book of Records"
+and noticed that the world's
+record for extracting the 13th root
+of a 100-digit number was 1 min
+ute, 28.8 seconds.
+
+Intrigued and anxious to break
+the record, Overdeck decided to
+determine exactly how Willem
+Klein, the record holder, per
+formed this incredible feat.
+Overdeck noticed some interest
+ing properties about 13th powers
+that make it convenient to find
+13th roots. For example, he
+noticed that a number and its
+13th power always end in the
+same digit.
+Over several years, Overdeck
+has reduced the task of extracting
+the 13th root of a 100-digit num
+ber considerably. The task, as
+Overdeck explains it, is actually
+much simpler than it appears on
+the surface.
+Overdeck's algorithm involves
+only nine of the 100 digits in
+
+volved — the first six and the last
+three.
+He has developed a table that
+allows him to approximate the
+13th root from the first six digits
+by pinpointing these digits be
+tween two consecutive entries in
+his table.
+By then interpolating, or es
+timating the answer from the two
+known ones, he is able to limit
+the 13th root to a range of a few
+hundred possibilities.
+In another table, Overdeck is
+able to pinpoint the exact 13th
+root from the final three digits.
+These tables are surprisingly
+simple considering that there are
+almost 8 million integers that are
+perfect 13th roots of 100-digit
+numbers.
+If you were asked to take the
+13th root of a 100-digit number,
+you would probably find the task
+nearly impossible. Don't feel bad.
+Even a computer would have trou
+ble with that task.
+But what if you were required
+to solve that problem in your head
+— in under a minute?
+That's exactly what John Over
+deck, a first-year graduate student
+in statistics, is able to do. At the
+age of 13, while he was taking
+calculus, he was looking through
+the "Guinness Book of Records"
+and noticed that the world's
+record for extracting the 13th root
+of a 100-digit number was 1 min
+ute, 28.8 seconds.
+
+Intrigued and anxious to break
+the record, Overdeck decided to
+determine exactly how Willem
+Klein, the record holder, per
+formed this incredible feat.
+Overdeck noticed some interest
+ing properties about 13th powers
+that make it convenient to find
+13th roots. For example, he
+noticed that a number and its
+13th power always end in the
+same digit.
+Over several years, Overdeck
+has reduced the task of extracting
+the 13th root of a 100-digit num
+ber considerably. The task, as
+Overdeck explains it, is actually
+much simpler than it appears on
+the surface.
+Overdeck's algorithm involves
+only nine of the 100 digits in
+
+volved — the first six and the last
+three.
+He has developed a table that
+allows him to approximate the
+13th root from the first six digits
+by pinpointing these digits be
+tween two consecutive entries in
+his table.
+By then interpolating, or es
+timating the answer from the two
+known ones, he is able to limit
+the 13th root to a range of a few
+hundred possibilities.
+In another table, Overdeck is
+able to pinpoint the exact 13th
+root from the final three digits.
+These tables are surprisingly
+simple considering that there are
+almost 8 million integers that are
+perfect 13th roots of 100-digit
+numbers.
+If you were asked to take the
+13th root of a 100-digit number,
+you would probably find the task
+nearly impossible. Don't feel bad.
+Even a computer would have trou
+ble with that task.
+But what if you were required
+to solve that problem in your head
+— in under a minute?
+That's exactly what John Over
+deck, a first-year graduate student
+in statistics, is able to do. At the
+age of 13, while he was taking
+calculus, he was looking through
+the "Guinness Book of Records"
+and noticed that the world's
+record for extracting the 13th root
+of a 100-digit number was 1 min
+ute, 28.8 seconds.
+
+Intrigued and anxious to break
+the record, Overdeck decided to
+determine exactly how Willem
+Klein, the record holder, per
+formed this incredible feat.
+Overdeck noticed some interest
+ing properties about 13th powers
+that make it convenient to find
+13th roots. For example, he
+noticed that a number and its
+13th power always end in the
+same digit.
+Over several years, Overdeck
+has reduced the task of extracting
+the 13th root of a 100-digit num
+ber considerably. The task, as
+Overdeck explains it, is actually
+much simpler than it appears on
+the surface.
+Overdeck's algorithm involves
+only nine of the 100 digits in
+
+volved — the first six and the last
+three.
+He has developed a table that
+allows him to approximate the
+13th root from the first six digits
+by pinpointing these digits be
+tween two consecutive entries in
+his table.
+By then interpolating, or es
+timating the answer from the two
+known ones, he is able to limit
+the 13th root to a range of a few
+hundred possibilities.
+In another table, Overdeck is
+able to pinpoint the exact 13th
+root from the final three digits.
+These tables are surprisingly
+simple considering that there are
+almost 8 million integers that are
+perfect 13th roots of 100-digit
+numbers.
+If you were asked to take the
+13th root of a 100-digit number,
+you would probably find the task
+nearly impossible. Don't feel bad.
+Even a computer would have trou
+ble with that task.
+But what if you were required
+to solve that problem in your head
+— in under a minute?
+That's exactly what John Over
+deck, a first-year graduate student
+in statistics, is able to do. At the
+age of 13, while he was taking
+calculus, he was looking through
+the "Guinness Book of Records"
+and noticed that the world's
+record for extracting the 13th root
+of a 100-digit number was 1 min
+ute, 28.8 seconds.
+
+Intrigued and anxious to break
+the record, Overdeck decided to
+determine exactly how Willem
+Klein, the record holder, per
+formed this incredible feat.
+Overdeck noticed some interest
+ing properties about 13th powers
+that make it convenient to find
+13th roots. For example, he
+noticed that a number and its
+13th power always end in the
+same digit.
+Over several years, Overdeck
+has reduced the task of extracting
+the 13th root of a 100-digit num
+ber considerably. The task, as
+Overdeck explains it, is actually
+much simpler than it appears on
+the surface.
+Overdeck's algorithm involves
+only nine of the 100 digits in
+
+volved — the first six and the last
+three.
+He has developed a table that
+allows him to approximate the
+13th root from the first six digits
+by pinpointing these digits be
+tween two consecutive entries in
+his table.
+By then interpolating, or es
+timating the answer from the two
+known ones, he is able to limit
+the 13th root to a range of a few
+hundred possibilities.
+In another table, Overdeck is
+able to pinpoint the exact 13th
+root from the final three digits.
+These tables are surprisingly
+simple considering that there are
+almost 8 million integers that are
+perfect 13th roots of 100-digit
+numbers.

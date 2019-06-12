@@ -1,0 +1,779 @@
+# Speakers dissect e-voting concerns
+## 
+### ALBERT CHIOU CONTRIBUTING WRITER 
+"The votes of we, the people, are now the se
+crets of corporations," said Faye Anderson, a
+Stanford Law School graduate and the writer
+and producer of "Counting on Democracy," a
+nationally televised documentary about the 2000
+Florida presidential election. Anderson was one
+of five speakers who examined the problems of
+electronic voting machines in a panel discussion
+hosted last night by the Stanford Law School's
+Center for Internet and Society.
+After the events surrounding the 2000 presi
+dential election recount, the federal government
+set aside millions for states to upgrade their vot
+ing equipment. Many of these states, including
+California, are now turning to electronic voting.
+According to the panelists, new e-voting ma
+chines are not the solution to the problem.
+"We are completely dependent upon the relia
+bility of these machines," said Computer Science
+Prof. David Dill. According to Dill, a voter using
+the machine will have no idea what happened to
+his or her vote. He compared the e-voting ma
+chines to having a person standing in the booth to
+record people's votes. In the end, voters could
+never be sure whether they cast their votes for the
+right candidate or even cast their votes at all.
+Unfortunately, there is no way to check the
+accuracy of e-voting machines. Due to the Digi
+
+tal Millennium Copyright Act of 1998, compa
+nies that manufacture the machines do not have
+to share their code with the public.
+The secrecy behind the source code was a con
+cern for many of the panelists since one of the
+main liabilities of e-voting is its susceptibility to
+hacking.
+"It's very easy to hide malicious code in a
+large program," said Barbara Simon, a technolo
+gy policy consultant. She stated that the hackers
+might very well come from within the company
+manufacturing the machines.
+"The biggest breaches of security in the last
+decades have been from insiders," she said. "You
+can buy someone off."
+Because the manufacturers have tight dead
+lines for finishing the machines so that they are
+ready for the next election, they don't have much
+time to check the code for problems. Also, due to
+the Digital Millennium Copyright Act, outside
+experts cannot inspect the code
+For these reasons. Dill stressed the need for
+accountability. The current e-voting machines,
+which usually have a touch-screen interface,
+record votes in a format that Dill said can be tam
+pered with before they are counted. After the
+votes are added to the ballot machine, there
+would be no way of going back to check whether
+each vote was cast correctly.
+To solve this problem, he proposed that the
+touch-screen voting machines be directly at
+
+tached to a ballot machine. The voter could then
+be given the choice of whether to accept or reject
+the ballot, and then receive a receipt. This would
+also open up the opportunity fora hand recount
+should candidates desire one.
+Two of the panelists — Electronic Frontier
+Foundation attorney Cindy Cohn and Stanford
+law student Nina Holly — are involved in a law
+suit concerning the problems associated with e
+voting. Recent e-mail leaks from Diebold Elec
+tion Systems, an e-voting machine manufacturer,
+suggest that the source codes used for the ma
+chines possess vulnerabilities that are not cur
+rently being fixed.
+Cohn shared some of the leaked emails with
+the audience. In one, a Diebold technician com
+plained to a co-worker that he did not want to
+run a systems test on the code. His colleague re
+sponded by telling him to run a memory test on
+the program instead, and then just re-label it,
+telling him that it would "make them happy."
+When these e-mail archives were posted on
+the Internet by two Swarthmore students,
+Diebold hit them with a cease-and-desist order,
+claiming that they were violating the Digital Mil
+lennium Copyright. The two students, along with
+Internet provider OPG, took Diebold to court.
+Though the company later withdrew its cease
+and-desist order, Cohn and Holly are still in-
+volved after filing a motion for the
+judge to rule on the case.
+Despite the questions about the
+machines, one in four California
+voters will be using a Diebold voting
+machine in the upcoming presiden
+tial primary.
+"The votes of we, the people, are now the se
+crets of corporations," said Faye Anderson, a
+Stanford Law School graduate and the writer
+and producer of "Counting on Democracy," a
+nationally televised documentary about the 2000
+Florida presidential election. Anderson was one
+of five speakers who examined the problems of
+electronic voting machines in a panel discussion
+hosted last night by the Stanford Law School's
+Center for Internet and Society.
+After the events surrounding the 2000 presi
+dential election recount, the federal government
+set aside millions for states to upgrade their vot
+ing equipment. Many of these states, including
+California, are now turning to electronic voting.
+According to the panelists, new e-voting ma
+chines are not the solution to the problem.
+"We are completely dependent upon the relia
+bility of these machines," said Computer Science
+Prof. David Dill. According to Dill, a voter using
+the machine will have no idea what happened to
+his or her vote. He compared the e-voting ma
+chines to having a person standing in the booth to
+record people's votes. In the end, voters could
+never be sure whether they cast their votes for the
+right candidate or even cast their votes at all.
+Unfortunately, there is no way to check the
+accuracy of e-voting machines. Due to the Digi
+
+tal Millennium Copyright Act of 1998, compa
+nies that manufacture the machines do not have
+to share their code with the public.
+The secrecy behind the source code was a con
+cern for many of the panelists since one of the
+main liabilities of e-voting is its susceptibility to
+hacking.
+"It's very easy to hide malicious code in a
+large program," said Barbara Simon, a technolo
+gy policy consultant. She stated that the hackers
+might very well come from within the company
+manufacturing the machines.
+"The biggest breaches of security in the last
+decades have been from insiders," she said. "You
+can buy someone off."
+Because the manufacturers have tight dead
+lines for finishing the machines so that they are
+ready for the next election, they don't have much
+time to check the code for problems. Also, due to
+the Digital Millennium Copyright Act, outside
+experts cannot inspect the code
+For these reasons. Dill stressed the need for
+accountability. The current e-voting machines,
+which usually have a touch-screen interface,
+record votes in a format that Dill said can be tam
+pered with before they are counted. After the
+votes are added to the ballot machine, there
+would be no way of going back to check whether
+each vote was cast correctly.
+To solve this problem, he proposed that the
+touch-screen voting machines be directly at
+
+tached to a ballot machine. The voter could then
+be given the choice of whether to accept or reject
+the ballot, and then receive a receipt. This would
+also open up the opportunity fora hand recount
+should candidates desire one.
+Two of the panelists — Electronic Frontier
+Foundation attorney Cindy Cohn and Stanford
+law student Nina Holly — are involved in a law
+suit concerning the problems associated with e
+voting. Recent e-mail leaks from Diebold Elec
+tion Systems, an e-voting machine manufacturer,
+suggest that the source codes used for the ma
+chines possess vulnerabilities that are not cur
+rently being fixed.
+Cohn shared some of the leaked emails with
+the audience. In one, a Diebold technician com
+plained to a co-worker that he did not want to
+run a systems test on the code. His colleague re
+sponded by telling him to run a memory test on
+the program instead, and then just re-label it,
+telling him that it would "make them happy."
+When these e-mail archives were posted on
+the Internet by two Swarthmore students,
+Diebold hit them with a cease-and-desist order,
+claiming that they were violating the Digital Mil
+lennium Copyright. The two students, along with
+Internet provider OPG, took Diebold to court.
+Though the company later withdrew its cease
+and-desist order, Cohn and Holly are still in-
+volved after filing a motion for the
+judge to rule on the case.
+Despite the questions about the
+machines, one in four California
+voters will be using a Diebold voting
+machine in the upcoming presiden
+tial primary.
+"The votes of we, the people, are now the se
+crets of corporations," said Faye Anderson, a
+Stanford Law School graduate and the writer
+and producer of "Counting on Democracy," a
+nationally televised documentary about the 2000
+Florida presidential election. Anderson was one
+of five speakers who examined the problems of
+electronic voting machines in a panel discussion
+hosted last night by the Stanford Law School's
+Center for Internet and Society.
+After the events surrounding the 2000 presi
+dential election recount, the federal government
+set aside millions for states to upgrade their vot
+ing equipment. Many of these states, including
+California, are now turning to electronic voting.
+According to the panelists, new e-voting ma
+chines are not the solution to the problem.
+"We are completely dependent upon the relia
+bility of these machines," said Computer Science
+Prof. David Dill. According to Dill, a voter using
+the machine will have no idea what happened to
+his or her vote. He compared the e-voting ma
+chines to having a person standing in the booth to
+record people's votes. In the end, voters could
+never be sure whether they cast their votes for the
+right candidate or even cast their votes at all.
+Unfortunately, there is no way to check the
+accuracy of e-voting machines. Due to the Digi
+
+tal Millennium Copyright Act of 1998, compa
+nies that manufacture the machines do not have
+to share their code with the public.
+The secrecy behind the source code was a con
+cern for many of the panelists since one of the
+main liabilities of e-voting is its susceptibility to
+hacking.
+"It's very easy to hide malicious code in a
+large program," said Barbara Simon, a technolo
+gy policy consultant. She stated that the hackers
+might very well come from within the company
+manufacturing the machines.
+"The biggest breaches of security in the last
+decades have been from insiders," she said. "You
+can buy someone off."
+Because the manufacturers have tight dead
+lines for finishing the machines so that they are
+ready for the next election, they don't have much
+time to check the code for problems. Also, due to
+the Digital Millennium Copyright Act, outside
+experts cannot inspect the code
+For these reasons. Dill stressed the need for
+accountability. The current e-voting machines,
+which usually have a touch-screen interface,
+record votes in a format that Dill said can be tam
+pered with before they are counted. After the
+votes are added to the ballot machine, there
+would be no way of going back to check whether
+each vote was cast correctly.
+To solve this problem, he proposed that the
+touch-screen voting machines be directly at
+
+tached to a ballot machine. The voter could then
+be given the choice of whether to accept or reject
+the ballot, and then receive a receipt. This would
+also open up the opportunity fora hand recount
+should candidates desire one.
+Two of the panelists — Electronic Frontier
+Foundation attorney Cindy Cohn and Stanford
+law student Nina Holly — are involved in a law
+suit concerning the problems associated with e
+voting. Recent e-mail leaks from Diebold Elec
+tion Systems, an e-voting machine manufacturer,
+suggest that the source codes used for the ma
+chines possess vulnerabilities that are not cur
+rently being fixed.
+Cohn shared some of the leaked emails with
+the audience. In one, a Diebold technician com
+plained to a co-worker that he did not want to
+run a systems test on the code. His colleague re
+sponded by telling him to run a memory test on
+the program instead, and then just re-label it,
+telling him that it would "make them happy."
+When these e-mail archives were posted on
+the Internet by two Swarthmore students,
+Diebold hit them with a cease-and-desist order,
+claiming that they were violating the Digital Mil
+lennium Copyright. The two students, along with
+Internet provider OPG, took Diebold to court.
+Though the company later withdrew its cease
+and-desist order, Cohn and Holly are still in-
+volved after filing a motion for the
+judge to rule on the case.
+Despite the questions about the
+machines, one in four California
+voters will be using a Diebold voting
+machine in the upcoming presiden
+tial primary.
+"The votes of we, the people, are now the se
+crets of corporations," said Faye Anderson, a
+Stanford Law School graduate and the writer
+and producer of "Counting on Democracy," a
+nationally televised documentary about the 2000
+Florida presidential election. Anderson was one
+of five speakers who examined the problems of
+electronic voting machines in a panel discussion
+hosted last night by the Stanford Law School's
+Center for Internet and Society.
+After the events surrounding the 2000 presi
+dential election recount, the federal government
+set aside millions for states to upgrade their vot
+ing equipment. Many of these states, including
+California, are now turning to electronic voting.
+According to the panelists, new e-voting ma
+chines are not the solution to the problem.
+"We are completely dependent upon the relia
+bility of these machines," said Computer Science
+Prof. David Dill. According to Dill, a voter using
+the machine will have no idea what happened to
+his or her vote. He compared the e-voting ma
+chines to having a person standing in the booth to
+record people's votes. In the end, voters could
+never be sure whether they cast their votes for the
+right candidate or even cast their votes at all.
+Unfortunately, there is no way to check the
+accuracy of e-voting machines. Due to the Digi
+
+tal Millennium Copyright Act of 1998, compa
+nies that manufacture the machines do not have
+to share their code with the public.
+The secrecy behind the source code was a con
+cern for many of the panelists since one of the
+main liabilities of e-voting is its susceptibility to
+hacking.
+"It's very easy to hide malicious code in a
+large program," said Barbara Simon, a technolo
+gy policy consultant. She stated that the hackers
+might very well come from within the company
+manufacturing the machines.
+"The biggest breaches of security in the last
+decades have been from insiders," she said. "You
+can buy someone off."
+Because the manufacturers have tight dead
+lines for finishing the machines so that they are
+ready for the next election, they don't have much
+time to check the code for problems. Also, due to
+the Digital Millennium Copyright Act, outside
+experts cannot inspect the code
+For these reasons. Dill stressed the need for
+accountability. The current e-voting machines,
+which usually have a touch-screen interface,
+record votes in a format that Dill said can be tam
+pered with before they are counted. After the
+votes are added to the ballot machine, there
+would be no way of going back to check whether
+each vote was cast correctly.
+To solve this problem, he proposed that the
+touch-screen voting machines be directly at
+
+tached to a ballot machine. The voter could then
+be given the choice of whether to accept or reject
+the ballot, and then receive a receipt. This would
+also open up the opportunity fora hand recount
+should candidates desire one.
+Two of the panelists — Electronic Frontier
+Foundation attorney Cindy Cohn and Stanford
+law student Nina Holly — are involved in a law
+suit concerning the problems associated with e
+voting. Recent e-mail leaks from Diebold Elec
+tion Systems, an e-voting machine manufacturer,
+suggest that the source codes used for the ma
+chines possess vulnerabilities that are not cur
+rently being fixed.
+Cohn shared some of the leaked emails with
+the audience. In one, a Diebold technician com
+plained to a co-worker that he did not want to
+run a systems test on the code. His colleague re
+sponded by telling him to run a memory test on
+the program instead, and then just re-label it,
+telling him that it would "make them happy."
+When these e-mail archives were posted on
+the Internet by two Swarthmore students,
+Diebold hit them with a cease-and-desist order,
+claiming that they were violating the Digital Mil
+lennium Copyright. The two students, along with
+Internet provider OPG, took Diebold to court.
+Though the company later withdrew its cease
+and-desist order, Cohn and Holly are still in-
+volved after filing a motion for the
+judge to rule on the case.
+Despite the questions about the
+machines, one in four California
+voters will be using a Diebold voting
+machine in the upcoming presiden
+tial primary.
+"The votes of we, the people, are now the se
+crets of corporations," said Faye Anderson, a
+Stanford Law School graduate and the writer
+and producer of "Counting on Democracy," a
+nationally televised documentary about the 2000
+Florida presidential election. Anderson was one
+of five speakers who examined the problems of
+electronic voting machines in a panel discussion
+hosted last night by the Stanford Law School's
+Center for Internet and Society.
+After the events surrounding the 2000 presi
+dential election recount, the federal government
+set aside millions for states to upgrade their vot
+ing equipment. Many of these states, including
+California, are now turning to electronic voting.
+According to the panelists, new e-voting ma
+chines are not the solution to the problem.
+"We are completely dependent upon the relia
+bility of these machines," said Computer Science
+Prof. David Dill. According to Dill, a voter using
+the machine will have no idea what happened to
+his or her vote. He compared the e-voting ma
+chines to having a person standing in the booth to
+record people's votes. In the end, voters could
+never be sure whether they cast their votes for the
+right candidate or even cast their votes at all.
+Unfortunately, there is no way to check the
+accuracy of e-voting machines. Due to the Digi
+
+tal Millennium Copyright Act of 1998, compa
+nies that manufacture the machines do not have
+to share their code with the public.
+The secrecy behind the source code was a con
+cern for many of the panelists since one of the
+main liabilities of e-voting is its susceptibility to
+hacking.
+"It's very easy to hide malicious code in a
+large program," said Barbara Simon, a technolo
+gy policy consultant. She stated that the hackers
+might very well come from within the company
+manufacturing the machines.
+"The biggest breaches of security in the last
+decades have been from insiders," she said. "You
+can buy someone off."
+Because the manufacturers have tight dead
+lines for finishing the machines so that they are
+ready for the next election, they don't have much
+time to check the code for problems. Also, due to
+the Digital Millennium Copyright Act, outside
+experts cannot inspect the code
+For these reasons. Dill stressed the need for
+accountability. The current e-voting machines,
+which usually have a touch-screen interface,
+record votes in a format that Dill said can be tam
+pered with before they are counted. After the
+votes are added to the ballot machine, there
+would be no way of going back to check whether
+each vote was cast correctly.
+To solve this problem, he proposed that the
+touch-screen voting machines be directly at
+
+tached to a ballot machine. The voter could then
+be given the choice of whether to accept or reject
+the ballot, and then receive a receipt. This would
+also open up the opportunity fora hand recount
+should candidates desire one.
+Two of the panelists — Electronic Frontier
+Foundation attorney Cindy Cohn and Stanford
+law student Nina Holly — are involved in a law
+suit concerning the problems associated with e
+voting. Recent e-mail leaks from Diebold Elec
+tion Systems, an e-voting machine manufacturer,
+suggest that the source codes used for the ma
+chines possess vulnerabilities that are not cur
+rently being fixed.
+Cohn shared some of the leaked emails with
+the audience. In one, a Diebold technician com
+plained to a co-worker that he did not want to
+run a systems test on the code. His colleague re
+sponded by telling him to run a memory test on
+the program instead, and then just re-label it,
+telling him that it would "make them happy."
+When these e-mail archives were posted on
+the Internet by two Swarthmore students,
+Diebold hit them with a cease-and-desist order,
+claiming that they were violating the Digital Mil
+lennium Copyright. The two students, along with
+Internet provider OPG, took Diebold to court.
+Though the company later withdrew its cease
+and-desist order, Cohn and Holly are still in-
+volved after filing a motion for the
+judge to rule on the case.
+Despite the questions about the
+machines, one in four California
+voters will be using a Diebold voting
+machine in the upcoming presiden
+tial primary.
+"The votes of we, the people, are now the se
+crets of corporations," said Faye Anderson, a
+Stanford Law School graduate and the writer
+and producer of "Counting on Democracy," a
+nationally televised documentary about the 2000
+Florida presidential election. Anderson was one
+of five speakers who examined the problems of
+electronic voting machines in a panel discussion
+hosted last night by the Stanford Law School's
+Center for Internet and Society.
+After the events surrounding the 2000 presi
+dential election recount, the federal government
+set aside millions for states to upgrade their vot
+ing equipment. Many of these states, including
+California, are now turning to electronic voting.
+According to the panelists, new e-voting ma
+chines are not the solution to the problem.
+"We are completely dependent upon the relia
+bility of these machines," said Computer Science
+Prof. David Dill. According to Dill, a voter using
+the machine will have no idea what happened to
+his or her vote. He compared the e-voting ma
+chines to having a person standing in the booth to
+record people's votes. In the end, voters could
+never be sure whether they cast their votes for the
+right candidate or even cast their votes at all.
+Unfortunately, there is no way to check the
+accuracy of e-voting machines. Due to the Digi
+
+tal Millennium Copyright Act of 1998, compa
+nies that manufacture the machines do not have
+to share their code with the public.
+The secrecy behind the source code was a con
+cern for many of the panelists since one of the
+main liabilities of e-voting is its susceptibility to
+hacking.
+"It's very easy to hide malicious code in a
+large program," said Barbara Simon, a technolo
+gy policy consultant. She stated that the hackers
+might very well come from within the company
+manufacturing the machines.
+"The biggest breaches of security in the last
+decades have been from insiders," she said. "You
+can buy someone off."
+Because the manufacturers have tight dead
+lines for finishing the machines so that they are
+ready for the next election, they don't have much
+time to check the code for problems. Also, due to
+the Digital Millennium Copyright Act, outside
+experts cannot inspect the code
+For these reasons. Dill stressed the need for
+accountability. The current e-voting machines,
+which usually have a touch-screen interface,
+record votes in a format that Dill said can be tam
+pered with before they are counted. After the
+votes are added to the ballot machine, there
+would be no way of going back to check whether
+each vote was cast correctly.
+To solve this problem, he proposed that the
+touch-screen voting machines be directly at
+
+tached to a ballot machine. The voter could then
+be given the choice of whether to accept or reject
+the ballot, and then receive a receipt. This would
+also open up the opportunity fora hand recount
+should candidates desire one.
+Two of the panelists — Electronic Frontier
+Foundation attorney Cindy Cohn and Stanford
+law student Nina Holly — are involved in a law
+suit concerning the problems associated with e
+voting. Recent e-mail leaks from Diebold Elec
+tion Systems, an e-voting machine manufacturer,
+suggest that the source codes used for the ma
+chines possess vulnerabilities that are not cur
+rently being fixed.
+Cohn shared some of the leaked emails with
+the audience. In one, a Diebold technician com
+plained to a co-worker that he did not want to
+run a systems test on the code. His colleague re
+sponded by telling him to run a memory test on
+the program instead, and then just re-label it,
+telling him that it would "make them happy."
+When these e-mail archives were posted on
+the Internet by two Swarthmore students,
+Diebold hit them with a cease-and-desist order,
+claiming that they were violating the Digital Mil
+lennium Copyright. The two students, along with
+Internet provider OPG, took Diebold to court.
+Though the company later withdrew its cease
+and-desist order, Cohn and Holly are still in-
+volved after filing a motion for the
+judge to rule on the case.
+Despite the questions about the
+machines, one in four California
+voters will be using a Diebold voting
+machine in the upcoming presiden
+tial primary.
+"The votes of we, the people, are now the se
+crets of corporations," said Faye Anderson, a
+Stanford Law School graduate and the writer
+and producer of "Counting on Democracy," a
+nationally televised documentary about the 2000
+Florida presidential election. Anderson was one
+of five speakers who examined the problems of
+electronic voting machines in a panel discussion
+hosted last night by the Stanford Law School's
+Center for Internet and Society.
+After the events surrounding the 2000 presi
+dential election recount, the federal government
+set aside millions for states to upgrade their vot
+ing equipment. Many of these states, including
+California, are now turning to electronic voting.
+According to the panelists, new e-voting ma
+chines are not the solution to the problem.
+"We are completely dependent upon the relia
+bility of these machines," said Computer Science
+Prof. David Dill. According to Dill, a voter using
+the machine will have no idea what happened to
+his or her vote. He compared the e-voting ma
+chines to having a person standing in the booth to
+record people's votes. In the end, voters could
+never be sure whether they cast their votes for the
+right candidate or even cast their votes at all.
+Unfortunately, there is no way to check the
+accuracy of e-voting machines. Due to the Digi
+
+tal Millennium Copyright Act of 1998, compa
+nies that manufacture the machines do not have
+to share their code with the public.
+The secrecy behind the source code was a con
+cern for many of the panelists since one of the
+main liabilities of e-voting is its susceptibility to
+hacking.
+"It's very easy to hide malicious code in a
+large program," said Barbara Simon, a technolo
+gy policy consultant. She stated that the hackers
+might very well come from within the company
+manufacturing the machines.
+"The biggest breaches of security in the last
+decades have been from insiders," she said. "You
+can buy someone off."
+Because the manufacturers have tight dead
+lines for finishing the machines so that they are
+ready for the next election, they don't have much
+time to check the code for problems. Also, due to
+the Digital Millennium Copyright Act, outside
+experts cannot inspect the code
+For these reasons. Dill stressed the need for
+accountability. The current e-voting machines,
+which usually have a touch-screen interface,
+record votes in a format that Dill said can be tam
+pered with before they are counted. After the
+votes are added to the ballot machine, there
+would be no way of going back to check whether
+each vote was cast correctly.
+To solve this problem, he proposed that the
+touch-screen voting machines be directly at
+
+tached to a ballot machine. The voter could then
+be given the choice of whether to accept or reject
+the ballot, and then receive a receipt. This would
+also open up the opportunity fora hand recount
+should candidates desire one.
+Two of the panelists — Electronic Frontier
+Foundation attorney Cindy Cohn and Stanford
+law student Nina Holly — are involved in a law
+suit concerning the problems associated with e
+voting. Recent e-mail leaks from Diebold Elec
+tion Systems, an e-voting machine manufacturer,
+suggest that the source codes used for the ma
+chines possess vulnerabilities that are not cur
+rently being fixed.
+Cohn shared some of the leaked emails with
+the audience. In one, a Diebold technician com
+plained to a co-worker that he did not want to
+run a systems test on the code. His colleague re
+sponded by telling him to run a memory test on
+the program instead, and then just re-label it,
+telling him that it would "make them happy."
+When these e-mail archives were posted on
+the Internet by two Swarthmore students,
+Diebold hit them with a cease-and-desist order,
+claiming that they were violating the Digital Mil
+lennium Copyright. The two students, along with
+Internet provider OPG, took Diebold to court.
+Though the company later withdrew its cease
+and-desist order, Cohn and Holly are still in-
+volved after filing a motion for the
+judge to rule on the case.
+Despite the questions about the
+machines, one in four California
+voters will be using a Diebold voting
+machine in the upcoming presiden
+tial primary.
+"The votes of we, the people, are now the se
+crets of corporations," said Faye Anderson, a
+Stanford Law School graduate and the writer
+and producer of "Counting on Democracy," a
+nationally televised documentary about the 2000
+Florida presidential election. Anderson was one
+of five speakers who examined the problems of
+electronic voting machines in a panel discussion
+hosted last night by the Stanford Law School's
+Center for Internet and Society.
+After the events surrounding the 2000 presi
+dential election recount, the federal government
+set aside millions for states to upgrade their vot
+ing equipment. Many of these states, including
+California, are now turning to electronic voting.
+According to the panelists, new e-voting ma
+chines are not the solution to the problem.
+"We are completely dependent upon the relia
+bility of these machines," said Computer Science
+Prof. David Dill. According to Dill, a voter using
+the machine will have no idea what happened to
+his or her vote. He compared the e-voting ma
+chines to having a person standing in the booth to
+record people's votes. In the end, voters could
+never be sure whether they cast their votes for the
+right candidate or even cast their votes at all.
+Unfortunately, there is no way to check the
+accuracy of e-voting machines. Due to the Digi
+
+tal Millennium Copyright Act of 1998, compa
+nies that manufacture the machines do not have
+to share their code with the public.
+The secrecy behind the source code was a con
+cern for many of the panelists since one of the
+main liabilities of e-voting is its susceptibility to
+hacking.
+"It's very easy to hide malicious code in a
+large program," said Barbara Simon, a technolo
+gy policy consultant. She stated that the hackers
+might very well come from within the company
+manufacturing the machines.
+"The biggest breaches of security in the last
+decades have been from insiders," she said. "You
+can buy someone off."
+Because the manufacturers have tight dead
+lines for finishing the machines so that they are
+ready for the next election, they don't have much
+time to check the code for problems. Also, due to
+the Digital Millennium Copyright Act, outside
+experts cannot inspect the code
+For these reasons. Dill stressed the need for
+accountability. The current e-voting machines,
+which usually have a touch-screen interface,
+record votes in a format that Dill said can be tam
+pered with before they are counted. After the
+votes are added to the ballot machine, there
+would be no way of going back to check whether
+each vote was cast correctly.
+To solve this problem, he proposed that the
+touch-screen voting machines be directly at
+
+tached to a ballot machine. The voter could then
+be given the choice of whether to accept or reject
+the ballot, and then receive a receipt. This would
+also open up the opportunity fora hand recount
+should candidates desire one.
+Two of the panelists — Electronic Frontier
+Foundation attorney Cindy Cohn and Stanford
+law student Nina Holly — are involved in a law
+suit concerning the problems associated with e
+voting. Recent e-mail leaks from Diebold Elec
+tion Systems, an e-voting machine manufacturer,
+suggest that the source codes used for the ma
+chines possess vulnerabilities that are not cur
+rently being fixed.
+Cohn shared some of the leaked emails with
+the audience. In one, a Diebold technician com
+plained to a co-worker that he did not want to
+run a systems test on the code. His colleague re
+sponded by telling him to run a memory test on
+the program instead, and then just re-label it,
+telling him that it would "make them happy."
+When these e-mail archives were posted on
+the Internet by two Swarthmore students,
+Diebold hit them with a cease-and-desist order,
+claiming that they were violating the Digital Mil
+lennium Copyright. The two students, along with
+Internet provider OPG, took Diebold to court.
+Though the company later withdrew its cease
+and-desist order, Cohn and Holly are still in-
+volved after filing a motion for the
+judge to rule on the case.
+Despite the questions about the
+machines, one in four California
+voters will be using a Diebold voting
+machine in the upcoming presiden
+tial primary.

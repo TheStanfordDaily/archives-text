@@ -1,0 +1,1059 @@
+# SCIENCE
+## Lab Write-ups 
+### 
+Tumors To Get Heat Treatment
+A new technique to measure body temperature,
+which would allow doctors to non-invasively treat
+tumors with heat, has been suggested by Stanford Uni
+versity scientists.
+This technique, called microwave radiometry, has
+been used by radioastronomers to record tempera
+tures of stars. Now engineers want to use it to detect
+the small amount of microwaves emitted by warm,
+living bodies.
+Precise readings of the temperatures within a tumor
+would aid the success of a new therapy, called hyper
+thermia, which is designed to kill cancers with heat.
+The Stanford Medical Center is currently testing hy
+perthermia in combination with radiation treatments.
+The key to hyperthermia is keeping the tumor
+tissues evenly warmed to a temperature a few degrees
+above body heat. Present methods using heat are in
+vasive, however, hence the need for alternatives.
+Dr. Stavros Prionas, research associate in radiology
+here, and Dr. George Hahn of the Medical School out
+lined the requirements for microwave radiometry in a
+recent issue of the journal Bioelectromagnetics.
+The Stanford hyperthermia group, of which the doc
+tors are a part, intends to develop a microwave ap
+plicator that can double as a sensor. The applicator, a
+palm-sixed plate with an embedded spiral antenna, will
+intermittently scan the temperature of the tumor and
+nearby tissue as it delivers warming microwaves.
+Electronic circuits will adjust the amount of
+microwaves applied, to correct any deviations from the
+desired temperature and thus keep the tumor evenly
+heated.
+Cost of the instrument as yet is prohibitive for
+
+routine clinical use, Prionas said. But he expects the
+price to come down, he added, as many of the compo
+nents required to detect microwaves within the human
+body "are already cheaper than they were a few
+decades ago."
+Computers Offer Doctors Advice
+Artificial intelligence (AI) in medicine — computer
+programs that attempt to act as medical experts or
+consultants — is likely to begin appearing in clinics
+soon.
+Stanford, as one of the world's leading centers for AI
+research, is spearheading this process.
+At the Medical Center's outpatient oncology clinic,
+patients with Hodgkin's disease, some lymphomas and
+breast cancer, have been treated with the help of a
+program called ONCOCIN. The program keeps track
+of the patient's progress, advises on laboratory tests
+and recommends drug therapies. Since almost no two
+cases of these diseases are exactly alike, and since
+many of the therapeutic drugs are toxic, physicians in
+the clinic generally accept the help.
+The researchers are now adapting the program for
+the small computers that doctors' offices can afford.
+ONCOCIN is perhaps the largest of the medical AI
+projects going on at Stanford. However, there are
+several other related projects.
+A program called PUFF, derived from another Stan
+ford AI program, has been actually interpreting physio
+logical tests of lung patients at the Pacific Medical Cen
+ter in San Francisco. A program to help physicians
+evaluate professional journal reports is under develop
+ment.
+
+Another program, called PATHFINDER, is an at
+tempt to advise pathologists on the proper classifica
+tion of lymph node abnormalities viewed under the mi
+croscope. This program is being built in collaboration
+with the University of Southern California.
+REFEREE, a program being written by Bruce Bu
+chanan of the Knowledge Systems Laboratory (KSL)
+and William Brown and Daniel Feldman of the Medical
+Center, is an attempt to try to build an adviser for in
+terpreting papers from the medical literature. REF
+EREE will give the physician a feel for the reliability of
+the data in the reported study.
+PROTEAN, developed by Buchanan and Barbara
+Hayes-Roth of KSL, along with about 10 students and
+nuclear magnetic resonance expert Oleg Jardetzky,
+will help researchers determine the structures of
+protein molecules.
+Student Experiment on Shuttle
+An experiment to study plant growth in space de
+signed by Chia-Lien Wang, a Stanford undergraduate,
+is scheduled to be aboard today's long-delayed space
+shuttle flight.
+The experiment will examine how plants grow in a
+gravity-free environment. The results could help sci
+entists better understand how terrestrial plant roots
+"know" to grow downward.
+One hypothesis is that the plant hormone auxin
+becomes concentrated in the downward direction by
+the earth's gravity. Somehow, this high concentration
+may cause the plant to grow in this direction, explained
+Wang.
+The experiment involves placing corn seeds, some
+
+that have been germinated before launching and some
+that will be germinated in space, in a plastic bag with a
+fixative in an adjoining, separate bag. Breaking the seal
+on the fixative will arrest all of the plants' growth at the
+same time. The behavior of the roots in zero gravity
+may help confirm Wang's hypothesis.
+Wang's experiment is the result of a contest called
+the Student Shuttle Involvement Project (SSIP). She
+entered the contest in the fall of 1981 as a senior in
+high school.
+She was contacted last spring when a sponsor,
+Randy Moore, a biology professor at Baylor Univer
+sity, was found to help her turn her idea into a practical
+experiment.
+Miniaturized Page Wins Prize
+Tom Newman, a Stanford electrical engineering stu
+dent, has reduced a page of text to a size so small that
+an area the size of a postage stamp could contain the
+text of 1,000 Bibles. He created the technology capa
+ble of reducing an entire encyclopedia onto the head of
+a pin.
+With his accomplishment, Newman met a challenge
+with a cash prize of $1,000 posed in a 1960 article en
+titled "There's Plenty of Room at the Bottom" by
+physicist Richard Feynman of the California Institute of
+Technology, a 1965 Nobel laureate.
+The challenge was "to the first guy who can take the
+information on the page of a book and put it on an area
+1/25,000 smaller in linear scale in such a manner that it
+can be read by an electron microscope," Feynman
+wrote.
+Tumors To Get Heat Treatment
+A new technique to measure body temperature,
+which would allow doctors to non-invasively treat
+tumors with heat, has been suggested by Stanford Uni
+versity scientists.
+This technique, called microwave radiometry, has
+been used by radioastronomers to record tempera
+tures of stars. Now engineers want to use it to detect
+the small amount of microwaves emitted by warm,
+living bodies.
+Precise readings of the temperatures within a tumor
+would aid the success of a new therapy, called hyper
+thermia, which is designed to kill cancers with heat.
+The Stanford Medical Center is currently testing hy
+perthermia in combination with radiation treatments.
+The key to hyperthermia is keeping the tumor
+tissues evenly warmed to a temperature a few degrees
+above body heat. Present methods using heat are in
+vasive, however, hence the need for alternatives.
+Dr. Stavros Prionas, research associate in radiology
+here, and Dr. George Hahn of the Medical School out
+lined the requirements for microwave radiometry in a
+recent issue of the journal Bioelectromagnetics.
+The Stanford hyperthermia group, of which the doc
+tors are a part, intends to develop a microwave ap
+plicator that can double as a sensor. The applicator, a
+palm-sixed plate with an embedded spiral antenna, will
+intermittently scan the temperature of the tumor and
+nearby tissue as it delivers warming microwaves.
+Electronic circuits will adjust the amount of
+microwaves applied, to correct any deviations from the
+desired temperature and thus keep the tumor evenly
+heated.
+Cost of the instrument as yet is prohibitive for
+
+routine clinical use, Prionas said. But he expects the
+price to come down, he added, as many of the compo
+nents required to detect microwaves within the human
+body "are already cheaper than they were a few
+decades ago."
+Computers Offer Doctors Advice
+Artificial intelligence (AI) in medicine — computer
+programs that attempt to act as medical experts or
+consultants — is likely to begin appearing in clinics
+soon.
+Stanford, as one of the world's leading centers for AI
+research, is spearheading this process.
+At the Medical Center's outpatient oncology clinic,
+patients with Hodgkin's disease, some lymphomas and
+breast cancer, have been treated with the help of a
+program called ONCOCIN. The program keeps track
+of the patient's progress, advises on laboratory tests
+and recommends drug therapies. Since almost no two
+cases of these diseases are exactly alike, and since
+many of the therapeutic drugs are toxic, physicians in
+the clinic generally accept the help.
+The researchers are now adapting the program for
+the small computers that doctors' offices can afford.
+ONCOCIN is perhaps the largest of the medical AI
+projects going on at Stanford. However, there are
+several other related projects.
+A program called PUFF, derived from another Stan
+ford AI program, has been actually interpreting physio
+logical tests of lung patients at the Pacific Medical Cen
+ter in San Francisco. A program to help physicians
+evaluate professional journal reports is under develop
+ment.
+
+Another program, called PATHFINDER, is an at
+tempt to advise pathologists on the proper classifica
+tion of lymph node abnormalities viewed under the mi
+croscope. This program is being built in collaboration
+with the University of Southern California.
+REFEREE, a program being written by Bruce Bu
+chanan of the Knowledge Systems Laboratory (KSL)
+and William Brown and Daniel Feldman of the Medical
+Center, is an attempt to try to build an adviser for in
+terpreting papers from the medical literature. REF
+EREE will give the physician a feel for the reliability of
+the data in the reported study.
+PROTEAN, developed by Buchanan and Barbara
+Hayes-Roth of KSL, along with about 10 students and
+nuclear magnetic resonance expert Oleg Jardetzky,
+will help researchers determine the structures of
+protein molecules.
+Student Experiment on Shuttle
+An experiment to study plant growth in space de
+signed by Chia-Lien Wang, a Stanford undergraduate,
+is scheduled to be aboard today's long-delayed space
+shuttle flight.
+The experiment will examine how plants grow in a
+gravity-free environment. The results could help sci
+entists better understand how terrestrial plant roots
+"know" to grow downward.
+One hypothesis is that the plant hormone auxin
+becomes concentrated in the downward direction by
+the earth's gravity. Somehow, this high concentration
+may cause the plant to grow in this direction, explained
+Wang.
+The experiment involves placing corn seeds, some
+
+that have been germinated before launching and some
+that will be germinated in space, in a plastic bag with a
+fixative in an adjoining, separate bag. Breaking the seal
+on the fixative will arrest all of the plants' growth at the
+same time. The behavior of the roots in zero gravity
+may help confirm Wang's hypothesis.
+Wang's experiment is the result of a contest called
+the Student Shuttle Involvement Project (SSIP). She
+entered the contest in the fall of 1981 as a senior in
+high school.
+She was contacted last spring when a sponsor,
+Randy Moore, a biology professor at Baylor Univer
+sity, was found to help her turn her idea into a practical
+experiment.
+Miniaturized Page Wins Prize
+Tom Newman, a Stanford electrical engineering stu
+dent, has reduced a page of text to a size so small that
+an area the size of a postage stamp could contain the
+text of 1,000 Bibles. He created the technology capa
+ble of reducing an entire encyclopedia onto the head of
+a pin.
+With his accomplishment, Newman met a challenge
+with a cash prize of $1,000 posed in a 1960 article en
+titled "There's Plenty of Room at the Bottom" by
+physicist Richard Feynman of the California Institute of
+Technology, a 1965 Nobel laureate.
+The challenge was "to the first guy who can take the
+information on the page of a book and put it on an area
+1/25,000 smaller in linear scale in such a manner that it
+can be read by an electron microscope," Feynman
+wrote.
+Tumors To Get Heat Treatment
+A new technique to measure body temperature,
+which would allow doctors to non-invasively treat
+tumors with heat, has been suggested by Stanford Uni
+versity scientists.
+This technique, called microwave radiometry, has
+been used by radioastronomers to record tempera
+tures of stars. Now engineers want to use it to detect
+the small amount of microwaves emitted by warm,
+living bodies.
+Precise readings of the temperatures within a tumor
+would aid the success of a new therapy, called hyper
+thermia, which is designed to kill cancers with heat.
+The Stanford Medical Center is currently testing hy
+perthermia in combination with radiation treatments.
+The key to hyperthermia is keeping the tumor
+tissues evenly warmed to a temperature a few degrees
+above body heat. Present methods using heat are in
+vasive, however, hence the need for alternatives.
+Dr. Stavros Prionas, research associate in radiology
+here, and Dr. George Hahn of the Medical School out
+lined the requirements for microwave radiometry in a
+recent issue of the journal Bioelectromagnetics.
+The Stanford hyperthermia group, of which the doc
+tors are a part, intends to develop a microwave ap
+plicator that can double as a sensor. The applicator, a
+palm-sixed plate with an embedded spiral antenna, will
+intermittently scan the temperature of the tumor and
+nearby tissue as it delivers warming microwaves.
+Electronic circuits will adjust the amount of
+microwaves applied, to correct any deviations from the
+desired temperature and thus keep the tumor evenly
+heated.
+Cost of the instrument as yet is prohibitive for
+
+routine clinical use, Prionas said. But he expects the
+price to come down, he added, as many of the compo
+nents required to detect microwaves within the human
+body "are already cheaper than they were a few
+decades ago."
+Computers Offer Doctors Advice
+Artificial intelligence (AI) in medicine — computer
+programs that attempt to act as medical experts or
+consultants — is likely to begin appearing in clinics
+soon.
+Stanford, as one of the world's leading centers for AI
+research, is spearheading this process.
+At the Medical Center's outpatient oncology clinic,
+patients with Hodgkin's disease, some lymphomas and
+breast cancer, have been treated with the help of a
+program called ONCOCIN. The program keeps track
+of the patient's progress, advises on laboratory tests
+and recommends drug therapies. Since almost no two
+cases of these diseases are exactly alike, and since
+many of the therapeutic drugs are toxic, physicians in
+the clinic generally accept the help.
+The researchers are now adapting the program for
+the small computers that doctors' offices can afford.
+ONCOCIN is perhaps the largest of the medical AI
+projects going on at Stanford. However, there are
+several other related projects.
+A program called PUFF, derived from another Stan
+ford AI program, has been actually interpreting physio
+logical tests of lung patients at the Pacific Medical Cen
+ter in San Francisco. A program to help physicians
+evaluate professional journal reports is under develop
+ment.
+
+Another program, called PATHFINDER, is an at
+tempt to advise pathologists on the proper classifica
+tion of lymph node abnormalities viewed under the mi
+croscope. This program is being built in collaboration
+with the University of Southern California.
+REFEREE, a program being written by Bruce Bu
+chanan of the Knowledge Systems Laboratory (KSL)
+and William Brown and Daniel Feldman of the Medical
+Center, is an attempt to try to build an adviser for in
+terpreting papers from the medical literature. REF
+EREE will give the physician a feel for the reliability of
+the data in the reported study.
+PROTEAN, developed by Buchanan and Barbara
+Hayes-Roth of KSL, along with about 10 students and
+nuclear magnetic resonance expert Oleg Jardetzky,
+will help researchers determine the structures of
+protein molecules.
+Student Experiment on Shuttle
+An experiment to study plant growth in space de
+signed by Chia-Lien Wang, a Stanford undergraduate,
+is scheduled to be aboard today's long-delayed space
+shuttle flight.
+The experiment will examine how plants grow in a
+gravity-free environment. The results could help sci
+entists better understand how terrestrial plant roots
+"know" to grow downward.
+One hypothesis is that the plant hormone auxin
+becomes concentrated in the downward direction by
+the earth's gravity. Somehow, this high concentration
+may cause the plant to grow in this direction, explained
+Wang.
+The experiment involves placing corn seeds, some
+
+that have been germinated before launching and some
+that will be germinated in space, in a plastic bag with a
+fixative in an adjoining, separate bag. Breaking the seal
+on the fixative will arrest all of the plants' growth at the
+same time. The behavior of the roots in zero gravity
+may help confirm Wang's hypothesis.
+Wang's experiment is the result of a contest called
+the Student Shuttle Involvement Project (SSIP). She
+entered the contest in the fall of 1981 as a senior in
+high school.
+She was contacted last spring when a sponsor,
+Randy Moore, a biology professor at Baylor Univer
+sity, was found to help her turn her idea into a practical
+experiment.
+Miniaturized Page Wins Prize
+Tom Newman, a Stanford electrical engineering stu
+dent, has reduced a page of text to a size so small that
+an area the size of a postage stamp could contain the
+text of 1,000 Bibles. He created the technology capa
+ble of reducing an entire encyclopedia onto the head of
+a pin.
+With his accomplishment, Newman met a challenge
+with a cash prize of $1,000 posed in a 1960 article en
+titled "There's Plenty of Room at the Bottom" by
+physicist Richard Feynman of the California Institute of
+Technology, a 1965 Nobel laureate.
+The challenge was "to the first guy who can take the
+information on the page of a book and put it on an area
+1/25,000 smaller in linear scale in such a manner that it
+can be read by an electron microscope," Feynman
+wrote.
+Tumors To Get Heat Treatment
+A new technique to measure body temperature,
+which would allow doctors to non-invasively treat
+tumors with heat, has been suggested by Stanford Uni
+versity scientists.
+This technique, called microwave radiometry, has
+been used by radioastronomers to record tempera
+tures of stars. Now engineers want to use it to detect
+the small amount of microwaves emitted by warm,
+living bodies.
+Precise readings of the temperatures within a tumor
+would aid the success of a new therapy, called hyper
+thermia, which is designed to kill cancers with heat.
+The Stanford Medical Center is currently testing hy
+perthermia in combination with radiation treatments.
+The key to hyperthermia is keeping the tumor
+tissues evenly warmed to a temperature a few degrees
+above body heat. Present methods using heat are in
+vasive, however, hence the need for alternatives.
+Dr. Stavros Prionas, research associate in radiology
+here, and Dr. George Hahn of the Medical School out
+lined the requirements for microwave radiometry in a
+recent issue of the journal Bioelectromagnetics.
+The Stanford hyperthermia group, of which the doc
+tors are a part, intends to develop a microwave ap
+plicator that can double as a sensor. The applicator, a
+palm-sixed plate with an embedded spiral antenna, will
+intermittently scan the temperature of the tumor and
+nearby tissue as it delivers warming microwaves.
+Electronic circuits will adjust the amount of
+microwaves applied, to correct any deviations from the
+desired temperature and thus keep the tumor evenly
+heated.
+Cost of the instrument as yet is prohibitive for
+
+routine clinical use, Prionas said. But he expects the
+price to come down, he added, as many of the compo
+nents required to detect microwaves within the human
+body "are already cheaper than they were a few
+decades ago."
+Computers Offer Doctors Advice
+Artificial intelligence (AI) in medicine — computer
+programs that attempt to act as medical experts or
+consultants — is likely to begin appearing in clinics
+soon.
+Stanford, as one of the world's leading centers for AI
+research, is spearheading this process.
+At the Medical Center's outpatient oncology clinic,
+patients with Hodgkin's disease, some lymphomas and
+breast cancer, have been treated with the help of a
+program called ONCOCIN. The program keeps track
+of the patient's progress, advises on laboratory tests
+and recommends drug therapies. Since almost no two
+cases of these diseases are exactly alike, and since
+many of the therapeutic drugs are toxic, physicians in
+the clinic generally accept the help.
+The researchers are now adapting the program for
+the small computers that doctors' offices can afford.
+ONCOCIN is perhaps the largest of the medical AI
+projects going on at Stanford. However, there are
+several other related projects.
+A program called PUFF, derived from another Stan
+ford AI program, has been actually interpreting physio
+logical tests of lung patients at the Pacific Medical Cen
+ter in San Francisco. A program to help physicians
+evaluate professional journal reports is under develop
+ment.
+
+Another program, called PATHFINDER, is an at
+tempt to advise pathologists on the proper classifica
+tion of lymph node abnormalities viewed under the mi
+croscope. This program is being built in collaboration
+with the University of Southern California.
+REFEREE, a program being written by Bruce Bu
+chanan of the Knowledge Systems Laboratory (KSL)
+and William Brown and Daniel Feldman of the Medical
+Center, is an attempt to try to build an adviser for in
+terpreting papers from the medical literature. REF
+EREE will give the physician a feel for the reliability of
+the data in the reported study.
+PROTEAN, developed by Buchanan and Barbara
+Hayes-Roth of KSL, along with about 10 students and
+nuclear magnetic resonance expert Oleg Jardetzky,
+will help researchers determine the structures of
+protein molecules.
+Student Experiment on Shuttle
+An experiment to study plant growth in space de
+signed by Chia-Lien Wang, a Stanford undergraduate,
+is scheduled to be aboard today's long-delayed space
+shuttle flight.
+The experiment will examine how plants grow in a
+gravity-free environment. The results could help sci
+entists better understand how terrestrial plant roots
+"know" to grow downward.
+One hypothesis is that the plant hormone auxin
+becomes concentrated in the downward direction by
+the earth's gravity. Somehow, this high concentration
+may cause the plant to grow in this direction, explained
+Wang.
+The experiment involves placing corn seeds, some
+
+that have been germinated before launching and some
+that will be germinated in space, in a plastic bag with a
+fixative in an adjoining, separate bag. Breaking the seal
+on the fixative will arrest all of the plants' growth at the
+same time. The behavior of the roots in zero gravity
+may help confirm Wang's hypothesis.
+Wang's experiment is the result of a contest called
+the Student Shuttle Involvement Project (SSIP). She
+entered the contest in the fall of 1981 as a senior in
+high school.
+She was contacted last spring when a sponsor,
+Randy Moore, a biology professor at Baylor Univer
+sity, was found to help her turn her idea into a practical
+experiment.
+Miniaturized Page Wins Prize
+Tom Newman, a Stanford electrical engineering stu
+dent, has reduced a page of text to a size so small that
+an area the size of a postage stamp could contain the
+text of 1,000 Bibles. He created the technology capa
+ble of reducing an entire encyclopedia onto the head of
+a pin.
+With his accomplishment, Newman met a challenge
+with a cash prize of $1,000 posed in a 1960 article en
+titled "There's Plenty of Room at the Bottom" by
+physicist Richard Feynman of the California Institute of
+Technology, a 1965 Nobel laureate.
+The challenge was "to the first guy who can take the
+information on the page of a book and put it on an area
+1/25,000 smaller in linear scale in such a manner that it
+can be read by an electron microscope," Feynman
+wrote.
+Tumors To Get Heat Treatment
+A new technique to measure body temperature,
+which would allow doctors to non-invasively treat
+tumors with heat, has been suggested by Stanford Uni
+versity scientists.
+This technique, called microwave radiometry, has
+been used by radioastronomers to record tempera
+tures of stars. Now engineers want to use it to detect
+the small amount of microwaves emitted by warm,
+living bodies.
+Precise readings of the temperatures within a tumor
+would aid the success of a new therapy, called hyper
+thermia, which is designed to kill cancers with heat.
+The Stanford Medical Center is currently testing hy
+perthermia in combination with radiation treatments.
+The key to hyperthermia is keeping the tumor
+tissues evenly warmed to a temperature a few degrees
+above body heat. Present methods using heat are in
+vasive, however, hence the need for alternatives.
+Dr. Stavros Prionas, research associate in radiology
+here, and Dr. George Hahn of the Medical School out
+lined the requirements for microwave radiometry in a
+recent issue of the journal Bioelectromagnetics.
+The Stanford hyperthermia group, of which the doc
+tors are a part, intends to develop a microwave ap
+plicator that can double as a sensor. The applicator, a
+palm-sixed plate with an embedded spiral antenna, will
+intermittently scan the temperature of the tumor and
+nearby tissue as it delivers warming microwaves.
+Electronic circuits will adjust the amount of
+microwaves applied, to correct any deviations from the
+desired temperature and thus keep the tumor evenly
+heated.
+Cost of the instrument as yet is prohibitive for
+
+routine clinical use, Prionas said. But he expects the
+price to come down, he added, as many of the compo
+nents required to detect microwaves within the human
+body "are already cheaper than they were a few
+decades ago."
+Computers Offer Doctors Advice
+Artificial intelligence (AI) in medicine — computer
+programs that attempt to act as medical experts or
+consultants — is likely to begin appearing in clinics
+soon.
+Stanford, as one of the world's leading centers for AI
+research, is spearheading this process.
+At the Medical Center's outpatient oncology clinic,
+patients with Hodgkin's disease, some lymphomas and
+breast cancer, have been treated with the help of a
+program called ONCOCIN. The program keeps track
+of the patient's progress, advises on laboratory tests
+and recommends drug therapies. Since almost no two
+cases of these diseases are exactly alike, and since
+many of the therapeutic drugs are toxic, physicians in
+the clinic generally accept the help.
+The researchers are now adapting the program for
+the small computers that doctors' offices can afford.
+ONCOCIN is perhaps the largest of the medical AI
+projects going on at Stanford. However, there are
+several other related projects.
+A program called PUFF, derived from another Stan
+ford AI program, has been actually interpreting physio
+logical tests of lung patients at the Pacific Medical Cen
+ter in San Francisco. A program to help physicians
+evaluate professional journal reports is under develop
+ment.
+
+Another program, called PATHFINDER, is an at
+tempt to advise pathologists on the proper classifica
+tion of lymph node abnormalities viewed under the mi
+croscope. This program is being built in collaboration
+with the University of Southern California.
+REFEREE, a program being written by Bruce Bu
+chanan of the Knowledge Systems Laboratory (KSL)
+and William Brown and Daniel Feldman of the Medical
+Center, is an attempt to try to build an adviser for in
+terpreting papers from the medical literature. REF
+EREE will give the physician a feel for the reliability of
+the data in the reported study.
+PROTEAN, developed by Buchanan and Barbara
+Hayes-Roth of KSL, along with about 10 students and
+nuclear magnetic resonance expert Oleg Jardetzky,
+will help researchers determine the structures of
+protein molecules.
+Student Experiment on Shuttle
+An experiment to study plant growth in space de
+signed by Chia-Lien Wang, a Stanford undergraduate,
+is scheduled to be aboard today's long-delayed space
+shuttle flight.
+The experiment will examine how plants grow in a
+gravity-free environment. The results could help sci
+entists better understand how terrestrial plant roots
+"know" to grow downward.
+One hypothesis is that the plant hormone auxin
+becomes concentrated in the downward direction by
+the earth's gravity. Somehow, this high concentration
+may cause the plant to grow in this direction, explained
+Wang.
+The experiment involves placing corn seeds, some
+
+that have been germinated before launching and some
+that will be germinated in space, in a plastic bag with a
+fixative in an adjoining, separate bag. Breaking the seal
+on the fixative will arrest all of the plants' growth at the
+same time. The behavior of the roots in zero gravity
+may help confirm Wang's hypothesis.
+Wang's experiment is the result of a contest called
+the Student Shuttle Involvement Project (SSIP). She
+entered the contest in the fall of 1981 as a senior in
+high school.
+She was contacted last spring when a sponsor,
+Randy Moore, a biology professor at Baylor Univer
+sity, was found to help her turn her idea into a practical
+experiment.
+Miniaturized Page Wins Prize
+Tom Newman, a Stanford electrical engineering stu
+dent, has reduced a page of text to a size so small that
+an area the size of a postage stamp could contain the
+text of 1,000 Bibles. He created the technology capa
+ble of reducing an entire encyclopedia onto the head of
+a pin.
+With his accomplishment, Newman met a challenge
+with a cash prize of $1,000 posed in a 1960 article en
+titled "There's Plenty of Room at the Bottom" by
+physicist Richard Feynman of the California Institute of
+Technology, a 1965 Nobel laureate.
+The challenge was "to the first guy who can take the
+information on the page of a book and put it on an area
+1/25,000 smaller in linear scale in such a manner that it
+can be read by an electron microscope," Feynman
+wrote.
+Tumors To Get Heat Treatment
+A new technique to measure body temperature,
+which would allow doctors to non-invasively treat
+tumors with heat, has been suggested by Stanford Uni
+versity scientists.
+This technique, called microwave radiometry, has
+been used by radioastronomers to record tempera
+tures of stars. Now engineers want to use it to detect
+the small amount of microwaves emitted by warm,
+living bodies.
+Precise readings of the temperatures within a tumor
+would aid the success of a new therapy, called hyper
+thermia, which is designed to kill cancers with heat.
+The Stanford Medical Center is currently testing hy
+perthermia in combination with radiation treatments.
+The key to hyperthermia is keeping the tumor
+tissues evenly warmed to a temperature a few degrees
+above body heat. Present methods using heat are in
+vasive, however, hence the need for alternatives.
+Dr. Stavros Prionas, research associate in radiology
+here, and Dr. George Hahn of the Medical School out
+lined the requirements for microwave radiometry in a
+recent issue of the journal Bioelectromagnetics.
+The Stanford hyperthermia group, of which the doc
+tors are a part, intends to develop a microwave ap
+plicator that can double as a sensor. The applicator, a
+palm-sixed plate with an embedded spiral antenna, will
+intermittently scan the temperature of the tumor and
+nearby tissue as it delivers warming microwaves.
+Electronic circuits will adjust the amount of
+microwaves applied, to correct any deviations from the
+desired temperature and thus keep the tumor evenly
+heated.
+Cost of the instrument as yet is prohibitive for
+
+routine clinical use, Prionas said. But he expects the
+price to come down, he added, as many of the compo
+nents required to detect microwaves within the human
+body "are already cheaper than they were a few
+decades ago."
+Computers Offer Doctors Advice
+Artificial intelligence (AI) in medicine — computer
+programs that attempt to act as medical experts or
+consultants — is likely to begin appearing in clinics
+soon.
+Stanford, as one of the world's leading centers for AI
+research, is spearheading this process.
+At the Medical Center's outpatient oncology clinic,
+patients with Hodgkin's disease, some lymphomas and
+breast cancer, have been treated with the help of a
+program called ONCOCIN. The program keeps track
+of the patient's progress, advises on laboratory tests
+and recommends drug therapies. Since almost no two
+cases of these diseases are exactly alike, and since
+many of the therapeutic drugs are toxic, physicians in
+the clinic generally accept the help.
+The researchers are now adapting the program for
+the small computers that doctors' offices can afford.
+ONCOCIN is perhaps the largest of the medical AI
+projects going on at Stanford. However, there are
+several other related projects.
+A program called PUFF, derived from another Stan
+ford AI program, has been actually interpreting physio
+logical tests of lung patients at the Pacific Medical Cen
+ter in San Francisco. A program to help physicians
+evaluate professional journal reports is under develop
+ment.
+
+Another program, called PATHFINDER, is an at
+tempt to advise pathologists on the proper classifica
+tion of lymph node abnormalities viewed under the mi
+croscope. This program is being built in collaboration
+with the University of Southern California.
+REFEREE, a program being written by Bruce Bu
+chanan of the Knowledge Systems Laboratory (KSL)
+and William Brown and Daniel Feldman of the Medical
+Center, is an attempt to try to build an adviser for in
+terpreting papers from the medical literature. REF
+EREE will give the physician a feel for the reliability of
+the data in the reported study.
+PROTEAN, developed by Buchanan and Barbara
+Hayes-Roth of KSL, along with about 10 students and
+nuclear magnetic resonance expert Oleg Jardetzky,
+will help researchers determine the structures of
+protein molecules.
+Student Experiment on Shuttle
+An experiment to study plant growth in space de
+signed by Chia-Lien Wang, a Stanford undergraduate,
+is scheduled to be aboard today's long-delayed space
+shuttle flight.
+The experiment will examine how plants grow in a
+gravity-free environment. The results could help sci
+entists better understand how terrestrial plant roots
+"know" to grow downward.
+One hypothesis is that the plant hormone auxin
+becomes concentrated in the downward direction by
+the earth's gravity. Somehow, this high concentration
+may cause the plant to grow in this direction, explained
+Wang.
+The experiment involves placing corn seeds, some
+
+that have been germinated before launching and some
+that will be germinated in space, in a plastic bag with a
+fixative in an adjoining, separate bag. Breaking the seal
+on the fixative will arrest all of the plants' growth at the
+same time. The behavior of the roots in zero gravity
+may help confirm Wang's hypothesis.
+Wang's experiment is the result of a contest called
+the Student Shuttle Involvement Project (SSIP). She
+entered the contest in the fall of 1981 as a senior in
+high school.
+She was contacted last spring when a sponsor,
+Randy Moore, a biology professor at Baylor Univer
+sity, was found to help her turn her idea into a practical
+experiment.
+Miniaturized Page Wins Prize
+Tom Newman, a Stanford electrical engineering stu
+dent, has reduced a page of text to a size so small that
+an area the size of a postage stamp could contain the
+text of 1,000 Bibles. He created the technology capa
+ble of reducing an entire encyclopedia onto the head of
+a pin.
+With his accomplishment, Newman met a challenge
+with a cash prize of $1,000 posed in a 1960 article en
+titled "There's Plenty of Room at the Bottom" by
+physicist Richard Feynman of the California Institute of
+Technology, a 1965 Nobel laureate.
+The challenge was "to the first guy who can take the
+information on the page of a book and put it on an area
+1/25,000 smaller in linear scale in such a manner that it
+can be read by an electron microscope," Feynman
+wrote.
+Tumors To Get Heat Treatment
+A new technique to measure body temperature,
+which would allow doctors to non-invasively treat
+tumors with heat, has been suggested by Stanford Uni
+versity scientists.
+This technique, called microwave radiometry, has
+been used by radioastronomers to record tempera
+tures of stars. Now engineers want to use it to detect
+the small amount of microwaves emitted by warm,
+living bodies.
+Precise readings of the temperatures within a tumor
+would aid the success of a new therapy, called hyper
+thermia, which is designed to kill cancers with heat.
+The Stanford Medical Center is currently testing hy
+perthermia in combination with radiation treatments.
+The key to hyperthermia is keeping the tumor
+tissues evenly warmed to a temperature a few degrees
+above body heat. Present methods using heat are in
+vasive, however, hence the need for alternatives.
+Dr. Stavros Prionas, research associate in radiology
+here, and Dr. George Hahn of the Medical School out
+lined the requirements for microwave radiometry in a
+recent issue of the journal Bioelectromagnetics.
+The Stanford hyperthermia group, of which the doc
+tors are a part, intends to develop a microwave ap
+plicator that can double as a sensor. The applicator, a
+palm-sixed plate with an embedded spiral antenna, will
+intermittently scan the temperature of the tumor and
+nearby tissue as it delivers warming microwaves.
+Electronic circuits will adjust the amount of
+microwaves applied, to correct any deviations from the
+desired temperature and thus keep the tumor evenly
+heated.
+Cost of the instrument as yet is prohibitive for
+
+routine clinical use, Prionas said. But he expects the
+price to come down, he added, as many of the compo
+nents required to detect microwaves within the human
+body "are already cheaper than they were a few
+decades ago."
+Computers Offer Doctors Advice
+Artificial intelligence (AI) in medicine — computer
+programs that attempt to act as medical experts or
+consultants — is likely to begin appearing in clinics
+soon.
+Stanford, as one of the world's leading centers for AI
+research, is spearheading this process.
+At the Medical Center's outpatient oncology clinic,
+patients with Hodgkin's disease, some lymphomas and
+breast cancer, have been treated with the help of a
+program called ONCOCIN. The program keeps track
+of the patient's progress, advises on laboratory tests
+and recommends drug therapies. Since almost no two
+cases of these diseases are exactly alike, and since
+many of the therapeutic drugs are toxic, physicians in
+the clinic generally accept the help.
+The researchers are now adapting the program for
+the small computers that doctors' offices can afford.
+ONCOCIN is perhaps the largest of the medical AI
+projects going on at Stanford. However, there are
+several other related projects.
+A program called PUFF, derived from another Stan
+ford AI program, has been actually interpreting physio
+logical tests of lung patients at the Pacific Medical Cen
+ter in San Francisco. A program to help physicians
+evaluate professional journal reports is under develop
+ment.
+
+Another program, called PATHFINDER, is an at
+tempt to advise pathologists on the proper classifica
+tion of lymph node abnormalities viewed under the mi
+croscope. This program is being built in collaboration
+with the University of Southern California.
+REFEREE, a program being written by Bruce Bu
+chanan of the Knowledge Systems Laboratory (KSL)
+and William Brown and Daniel Feldman of the Medical
+Center, is an attempt to try to build an adviser for in
+terpreting papers from the medical literature. REF
+EREE will give the physician a feel for the reliability of
+the data in the reported study.
+PROTEAN, developed by Buchanan and Barbara
+Hayes-Roth of KSL, along with about 10 students and
+nuclear magnetic resonance expert Oleg Jardetzky,
+will help researchers determine the structures of
+protein molecules.
+Student Experiment on Shuttle
+An experiment to study plant growth in space de
+signed by Chia-Lien Wang, a Stanford undergraduate,
+is scheduled to be aboard today's long-delayed space
+shuttle flight.
+The experiment will examine how plants grow in a
+gravity-free environment. The results could help sci
+entists better understand how terrestrial plant roots
+"know" to grow downward.
+One hypothesis is that the plant hormone auxin
+becomes concentrated in the downward direction by
+the earth's gravity. Somehow, this high concentration
+may cause the plant to grow in this direction, explained
+Wang.
+The experiment involves placing corn seeds, some
+
+that have been germinated before launching and some
+that will be germinated in space, in a plastic bag with a
+fixative in an adjoining, separate bag. Breaking the seal
+on the fixative will arrest all of the plants' growth at the
+same time. The behavior of the roots in zero gravity
+may help confirm Wang's hypothesis.
+Wang's experiment is the result of a contest called
+the Student Shuttle Involvement Project (SSIP). She
+entered the contest in the fall of 1981 as a senior in
+high school.
+She was contacted last spring when a sponsor,
+Randy Moore, a biology professor at Baylor Univer
+sity, was found to help her turn her idea into a practical
+experiment.
+Miniaturized Page Wins Prize
+Tom Newman, a Stanford electrical engineering stu
+dent, has reduced a page of text to a size so small that
+an area the size of a postage stamp could contain the
+text of 1,000 Bibles. He created the technology capa
+ble of reducing an entire encyclopedia onto the head of
+a pin.
+With his accomplishment, Newman met a challenge
+with a cash prize of $1,000 posed in a 1960 article en
+titled "There's Plenty of Room at the Bottom" by
+physicist Richard Feynman of the California Institute of
+Technology, a 1965 Nobel laureate.
+The challenge was "to the first guy who can take the
+information on the page of a book and put it on an area
+1/25,000 smaller in linear scale in such a manner that it
+can be read by an electron microscope," Feynman
+wrote.
+Tumors To Get Heat Treatment
+A new technique to measure body temperature,
+which would allow doctors to non-invasively treat
+tumors with heat, has been suggested by Stanford Uni
+versity scientists.
+This technique, called microwave radiometry, has
+been used by radioastronomers to record tempera
+tures of stars. Now engineers want to use it to detect
+the small amount of microwaves emitted by warm,
+living bodies.
+Precise readings of the temperatures within a tumor
+would aid the success of a new therapy, called hyper
+thermia, which is designed to kill cancers with heat.
+The Stanford Medical Center is currently testing hy
+perthermia in combination with radiation treatments.
+The key to hyperthermia is keeping the tumor
+tissues evenly warmed to a temperature a few degrees
+above body heat. Present methods using heat are in
+vasive, however, hence the need for alternatives.
+Dr. Stavros Prionas, research associate in radiology
+here, and Dr. George Hahn of the Medical School out
+lined the requirements for microwave radiometry in a
+recent issue of the journal Bioelectromagnetics.
+The Stanford hyperthermia group, of which the doc
+tors are a part, intends to develop a microwave ap
+plicator that can double as a sensor. The applicator, a
+palm-sixed plate with an embedded spiral antenna, will
+intermittently scan the temperature of the tumor and
+nearby tissue as it delivers warming microwaves.
+Electronic circuits will adjust the amount of
+microwaves applied, to correct any deviations from the
+desired temperature and thus keep the tumor evenly
+heated.
+Cost of the instrument as yet is prohibitive for
+
+routine clinical use, Prionas said. But he expects the
+price to come down, he added, as many of the compo
+nents required to detect microwaves within the human
+body "are already cheaper than they were a few
+decades ago."
+Computers Offer Doctors Advice
+Artificial intelligence (AI) in medicine — computer
+programs that attempt to act as medical experts or
+consultants — is likely to begin appearing in clinics
+soon.
+Stanford, as one of the world's leading centers for AI
+research, is spearheading this process.
+At the Medical Center's outpatient oncology clinic,
+patients with Hodgkin's disease, some lymphomas and
+breast cancer, have been treated with the help of a
+program called ONCOCIN. The program keeps track
+of the patient's progress, advises on laboratory tests
+and recommends drug therapies. Since almost no two
+cases of these diseases are exactly alike, and since
+many of the therapeutic drugs are toxic, physicians in
+the clinic generally accept the help.
+The researchers are now adapting the program for
+the small computers that doctors' offices can afford.
+ONCOCIN is perhaps the largest of the medical AI
+projects going on at Stanford. However, there are
+several other related projects.
+A program called PUFF, derived from another Stan
+ford AI program, has been actually interpreting physio
+logical tests of lung patients at the Pacific Medical Cen
+ter in San Francisco. A program to help physicians
+evaluate professional journal reports is under develop
+ment.
+
+Another program, called PATHFINDER, is an at
+tempt to advise pathologists on the proper classifica
+tion of lymph node abnormalities viewed under the mi
+croscope. This program is being built in collaboration
+with the University of Southern California.
+REFEREE, a program being written by Bruce Bu
+chanan of the Knowledge Systems Laboratory (KSL)
+and William Brown and Daniel Feldman of the Medical
+Center, is an attempt to try to build an adviser for in
+terpreting papers from the medical literature. REF
+EREE will give the physician a feel for the reliability of
+the data in the reported study.
+PROTEAN, developed by Buchanan and Barbara
+Hayes-Roth of KSL, along with about 10 students and
+nuclear magnetic resonance expert Oleg Jardetzky,
+will help researchers determine the structures of
+protein molecules.
+Student Experiment on Shuttle
+An experiment to study plant growth in space de
+signed by Chia-Lien Wang, a Stanford undergraduate,
+is scheduled to be aboard today's long-delayed space
+shuttle flight.
+The experiment will examine how plants grow in a
+gravity-free environment. The results could help sci
+entists better understand how terrestrial plant roots
+"know" to grow downward.
+One hypothesis is that the plant hormone auxin
+becomes concentrated in the downward direction by
+the earth's gravity. Somehow, this high concentration
+may cause the plant to grow in this direction, explained
+Wang.
+The experiment involves placing corn seeds, some
+
+that have been germinated before launching and some
+that will be germinated in space, in a plastic bag with a
+fixative in an adjoining, separate bag. Breaking the seal
+on the fixative will arrest all of the plants' growth at the
+same time. The behavior of the roots in zero gravity
+may help confirm Wang's hypothesis.
+Wang's experiment is the result of a contest called
+the Student Shuttle Involvement Project (SSIP). She
+entered the contest in the fall of 1981 as a senior in
+high school.
+She was contacted last spring when a sponsor,
+Randy Moore, a biology professor at Baylor Univer
+sity, was found to help her turn her idea into a practical
+experiment.
+Miniaturized Page Wins Prize
+Tom Newman, a Stanford electrical engineering stu
+dent, has reduced a page of text to a size so small that
+an area the size of a postage stamp could contain the
+text of 1,000 Bibles. He created the technology capa
+ble of reducing an entire encyclopedia onto the head of
+a pin.
+With his accomplishment, Newman met a challenge
+with a cash prize of $1,000 posed in a 1960 article en
+titled "There's Plenty of Room at the Bottom" by
+physicist Richard Feynman of the California Institute of
+Technology, a 1965 Nobel laureate.
+The challenge was "to the first guy who can take the
+information on the page of a book and put it on an area
+1/25,000 smaller in linear scale in such a manner that it
+can be read by an electron microscope," Feynman
+wrote.

@@ -1,0 +1,1539 @@
+# Electronic skin gives robots a light touch
+## 
+### ALEX TARG 
+How do you give a robot
+a sense ot touch?
+A group of Stanford in
+vestigators say they may
+have found the answer by
+developing a new device
+they call "robot skin." This
+double-threat product is a
+hybrid combining densely
+packed pressure and tem
+perature sensors with in
+tegrated circuit data pro
+cessing elements all em
+bedded in a durable yet
+paper thin flexible "skin."
+Miniature electronic cir
+cuitry has become the hal
+lmark of the silicon chip in
+dustry during the last 20
+years. Now researchers in
+the Stanford Integrated Cir
+cuits Laboratory (IC Lab)
+are adding a new twist to
+the technology by manu
+facturing miniaturized me
+chanical devices as well as
+circuits.
+Micromachining, the
+process by which plain
+silicon crystals are trans
+formed into tiny machines,
+takes advantage of the
+same high-yield batch
+fabrication techniques that
+make silicon computer
+chips so cheap. However,
+instead of taking advantage
+of silicon's unusual electri
+cal properties, the micro
+scopic manufacturing
+
+process relies on chemical
+and crystalline attributes.
+Dr. Phillip Barth, senior
+research associate in the IC
+Lab, and Dr. James Angell,
+protessor of electrial engi
+neering, use chemical
+etching techniques to build
+miniaturized, precisely
+placed and positioned pits,
+holes, pyramids, trenches,
+cantilevers, diaphragms
+and walls which intercon
+nect to form functional
+electromechanical sensors.
+Bv fusing the technolo
+gies of electronics and
+micromachining, Barth
+hopes to produce devices
+superior to those resulting
+from either technology by
+itself. Using the data pro
+cessing power of integrated
+circuits associated with
+each of thousands ot sen
+sors on a piece of "robot
+skin," Barth hopes to per
+form much of the robot's
+analysis at the site of
+stimulus, eliminating the
+logistical problems of data
+transmission and inter
+ference which might result
+if all data were sent to a
+central brain.
+This "on site" analysis
+scheme is similar to that
+used by humans to inter
+pret tactile sensations com
+ing from real skin. Exploit
+ing this similarity, two
+
+graduate students, Mark
+Zdeblick and Steve
+Douglass are "both
+working on tactile force
+sensing structures, digging
+into the physiological back
+ground and trying to figure
+out how skin senses and
+does signal processing at a
+neurological level," said
+Barth.
+"In addition, we are
+trying to discover ways of
+interpreting shapes from
+our sensory data in an ef
+fort to aid in shape detec
+tion using computer
+simulations," Barth said.
+"In terms of precision and
+resolution, even though
+the field is still in its in
+fancy, we think we can
+sense just about everything
+human skin can feel. Our
+next step is to look at infor
+mation processing times on
+these things to try to get a
+real-time processing capa
+bility," he said.
+Possible applications of
+micromachined devices in
+clude microscopically
+small, yet perfectly formed
+valves, springs, mirrors,
+nozzles , connectors and
+sensors for properties such
+as acceleration and chemi
+cal concentration in addi
+tion to pressure and tem
+perature. There is an espe
+cially urgent need for such
+inexpensively made high
+performance devices be
+cause the electronics for
+automatic control systems
+
+using such sensors have
+become so cheap due to
+mass manufacturing of in
+tegrated circuits.
+The next step in commer
+cial applications is to
+cheaply produce hybrids
+containing both sensors
+and integrated circuits on a
+single chip.
+Although the list of possi
+ble applications is almost
+endless, Barth has already
+built some devices for
+biomedicine, including a
+high resolution tempera
+ture sensor for use in can
+cer hyperthermia therapy.
+The tiny array of sensors,
+using the same type of cir
+cuit as in the robot skin, is
+so thin that it easily fits into
+a hyperdermic needle and
+can measure tissue temper
+atures with great precision.
+One problem Barth has
+encountered is that of in
+stability in devices im
+planted in tissue. Eventu
+ally, over the course of
+months of contact with
+human fluids, the devices
+begin to malfunction be
+cause the body fluids pene
+trate the protective plastic
+coverings. However, Barth
+is confident that w/tb fur
+ther experimentation, thU.
+failure- mode writ he"
+averted. Among those
+working on this project are
+undergraduates Kevin
+Holisenger, Shinya
+Akamine and Alice Vang.
+
+
+Lisa Lynch/Daily
+ROBOT SKIN: This development may allow electronic fin
+gers to surpass the sensitivity of human finger tips. The
+gold-colored flexible polyimide film is jam-packed with
+miniature sensors and in final form will contain specially
+designed integrated circuits to perform the function of
+human nerve synapses and ganglia, providing a degree of
+processing power and sensitivity no human can match.
+
+
+Lisa Lynch/Daily
+MICROMACHINE MANUFACTURER: n r . Philip Barth
+of the Stanford Integrated Circuits Laboraioiy
+standard engineering equipment such as the curve tracer
+and probe station above to test and improve his exotic
+devices such as microscopic pressure and temperature
+sensors.
+How do you give a robot
+a sense ot touch?
+A group of Stanford in
+vestigators say they may
+have found the answer by
+developing a new device
+they call "robot skin." This
+double-threat product is a
+hybrid combining densely
+packed pressure and tem
+perature sensors with in
+tegrated circuit data pro
+cessing elements all em
+bedded in a durable yet
+paper thin flexible "skin."
+Miniature electronic cir
+cuitry has become the hal
+lmark of the silicon chip in
+dustry during the last 20
+years. Now researchers in
+the Stanford Integrated Cir
+cuits Laboratory (IC Lab)
+are adding a new twist to
+the technology by manu
+facturing miniaturized me
+chanical devices as well as
+circuits.
+Micromachining, the
+process by which plain
+silicon crystals are trans
+formed into tiny machines,
+takes advantage of the
+same high-yield batch
+fabrication techniques that
+make silicon computer
+chips so cheap. However,
+instead of taking advantage
+of silicon's unusual electri
+cal properties, the micro
+scopic manufacturing
+
+process relies on chemical
+and crystalline attributes.
+Dr. Phillip Barth, senior
+research associate in the IC
+Lab, and Dr. James Angell,
+protessor of electrial engi
+neering, use chemical
+etching techniques to build
+miniaturized, precisely
+placed and positioned pits,
+holes, pyramids, trenches,
+cantilevers, diaphragms
+and walls which intercon
+nect to form functional
+electromechanical sensors.
+Bv fusing the technolo
+gies of electronics and
+micromachining, Barth
+hopes to produce devices
+superior to those resulting
+from either technology by
+itself. Using the data pro
+cessing power of integrated
+circuits associated with
+each of thousands ot sen
+sors on a piece of "robot
+skin," Barth hopes to per
+form much of the robot's
+analysis at the site of
+stimulus, eliminating the
+logistical problems of data
+transmission and inter
+ference which might result
+if all data were sent to a
+central brain.
+This "on site" analysis
+scheme is similar to that
+used by humans to inter
+pret tactile sensations com
+ing from real skin. Exploit
+ing this similarity, two
+
+graduate students, Mark
+Zdeblick and Steve
+Douglass are "both
+working on tactile force
+sensing structures, digging
+into the physiological back
+ground and trying to figure
+out how skin senses and
+does signal processing at a
+neurological level," said
+Barth.
+"In addition, we are
+trying to discover ways of
+interpreting shapes from
+our sensory data in an ef
+fort to aid in shape detec
+tion using computer
+simulations," Barth said.
+"In terms of precision and
+resolution, even though
+the field is still in its in
+fancy, we think we can
+sense just about everything
+human skin can feel. Our
+next step is to look at infor
+mation processing times on
+these things to try to get a
+real-time processing capa
+bility," he said.
+Possible applications of
+micromachined devices in
+clude microscopically
+small, yet perfectly formed
+valves, springs, mirrors,
+nozzles , connectors and
+sensors for properties such
+as acceleration and chemi
+cal concentration in addi
+tion to pressure and tem
+perature. There is an espe
+cially urgent need for such
+inexpensively made high
+performance devices be
+cause the electronics for
+automatic control systems
+
+using such sensors have
+become so cheap due to
+mass manufacturing of in
+tegrated circuits.
+The next step in commer
+cial applications is to
+cheaply produce hybrids
+containing both sensors
+and integrated circuits on a
+single chip.
+Although the list of possi
+ble applications is almost
+endless, Barth has already
+built some devices for
+biomedicine, including a
+high resolution tempera
+ture sensor for use in can
+cer hyperthermia therapy.
+The tiny array of sensors,
+using the same type of cir
+cuit as in the robot skin, is
+so thin that it easily fits into
+a hyperdermic needle and
+can measure tissue temper
+atures with great precision.
+One problem Barth has
+encountered is that of in
+stability in devices im
+planted in tissue. Eventu
+ally, over the course of
+months of contact with
+human fluids, the devices
+begin to malfunction be
+cause the body fluids pene
+trate the protective plastic
+coverings. However, Barth
+is confident that w/tb fur
+ther experimentation, thU.
+failure- mode writ he"
+averted. Among those
+working on this project are
+undergraduates Kevin
+Holisenger, Shinya
+Akamine and Alice Vang.
+
+
+Lisa Lynch/Daily
+ROBOT SKIN: This development may allow electronic fin
+gers to surpass the sensitivity of human finger tips. The
+gold-colored flexible polyimide film is jam-packed with
+miniature sensors and in final form will contain specially
+designed integrated circuits to perform the function of
+human nerve synapses and ganglia, providing a degree of
+processing power and sensitivity no human can match.
+
+
+Lisa Lynch/Daily
+MICROMACHINE MANUFACTURER: n r . Philip Barth
+of the Stanford Integrated Circuits Laboraioiy
+standard engineering equipment such as the curve tracer
+and probe station above to test and improve his exotic
+devices such as microscopic pressure and temperature
+sensors.
+How do you give a robot
+a sense ot touch?
+A group of Stanford in
+vestigators say they may
+have found the answer by
+developing a new device
+they call "robot skin." This
+double-threat product is a
+hybrid combining densely
+packed pressure and tem
+perature sensors with in
+tegrated circuit data pro
+cessing elements all em
+bedded in a durable yet
+paper thin flexible "skin."
+Miniature electronic cir
+cuitry has become the hal
+lmark of the silicon chip in
+dustry during the last 20
+years. Now researchers in
+the Stanford Integrated Cir
+cuits Laboratory (IC Lab)
+are adding a new twist to
+the technology by manu
+facturing miniaturized me
+chanical devices as well as
+circuits.
+Micromachining, the
+process by which plain
+silicon crystals are trans
+formed into tiny machines,
+takes advantage of the
+same high-yield batch
+fabrication techniques that
+make silicon computer
+chips so cheap. However,
+instead of taking advantage
+of silicon's unusual electri
+cal properties, the micro
+scopic manufacturing
+
+process relies on chemical
+and crystalline attributes.
+Dr. Phillip Barth, senior
+research associate in the IC
+Lab, and Dr. James Angell,
+protessor of electrial engi
+neering, use chemical
+etching techniques to build
+miniaturized, precisely
+placed and positioned pits,
+holes, pyramids, trenches,
+cantilevers, diaphragms
+and walls which intercon
+nect to form functional
+electromechanical sensors.
+Bv fusing the technolo
+gies of electronics and
+micromachining, Barth
+hopes to produce devices
+superior to those resulting
+from either technology by
+itself. Using the data pro
+cessing power of integrated
+circuits associated with
+each of thousands ot sen
+sors on a piece of "robot
+skin," Barth hopes to per
+form much of the robot's
+analysis at the site of
+stimulus, eliminating the
+logistical problems of data
+transmission and inter
+ference which might result
+if all data were sent to a
+central brain.
+This "on site" analysis
+scheme is similar to that
+used by humans to inter
+pret tactile sensations com
+ing from real skin. Exploit
+ing this similarity, two
+
+graduate students, Mark
+Zdeblick and Steve
+Douglass are "both
+working on tactile force
+sensing structures, digging
+into the physiological back
+ground and trying to figure
+out how skin senses and
+does signal processing at a
+neurological level," said
+Barth.
+"In addition, we are
+trying to discover ways of
+interpreting shapes from
+our sensory data in an ef
+fort to aid in shape detec
+tion using computer
+simulations," Barth said.
+"In terms of precision and
+resolution, even though
+the field is still in its in
+fancy, we think we can
+sense just about everything
+human skin can feel. Our
+next step is to look at infor
+mation processing times on
+these things to try to get a
+real-time processing capa
+bility," he said.
+Possible applications of
+micromachined devices in
+clude microscopically
+small, yet perfectly formed
+valves, springs, mirrors,
+nozzles , connectors and
+sensors for properties such
+as acceleration and chemi
+cal concentration in addi
+tion to pressure and tem
+perature. There is an espe
+cially urgent need for such
+inexpensively made high
+performance devices be
+cause the electronics for
+automatic control systems
+
+using such sensors have
+become so cheap due to
+mass manufacturing of in
+tegrated circuits.
+The next step in commer
+cial applications is to
+cheaply produce hybrids
+containing both sensors
+and integrated circuits on a
+single chip.
+Although the list of possi
+ble applications is almost
+endless, Barth has already
+built some devices for
+biomedicine, including a
+high resolution tempera
+ture sensor for use in can
+cer hyperthermia therapy.
+The tiny array of sensors,
+using the same type of cir
+cuit as in the robot skin, is
+so thin that it easily fits into
+a hyperdermic needle and
+can measure tissue temper
+atures with great precision.
+One problem Barth has
+encountered is that of in
+stability in devices im
+planted in tissue. Eventu
+ally, over the course of
+months of contact with
+human fluids, the devices
+begin to malfunction be
+cause the body fluids pene
+trate the protective plastic
+coverings. However, Barth
+is confident that w/tb fur
+ther experimentation, thU.
+failure- mode writ he"
+averted. Among those
+working on this project are
+undergraduates Kevin
+Holisenger, Shinya
+Akamine and Alice Vang.
+
+
+Lisa Lynch/Daily
+ROBOT SKIN: This development may allow electronic fin
+gers to surpass the sensitivity of human finger tips. The
+gold-colored flexible polyimide film is jam-packed with
+miniature sensors and in final form will contain specially
+designed integrated circuits to perform the function of
+human nerve synapses and ganglia, providing a degree of
+processing power and sensitivity no human can match.
+
+
+Lisa Lynch/Daily
+MICROMACHINE MANUFACTURER: n r . Philip Barth
+of the Stanford Integrated Circuits Laboraioiy
+standard engineering equipment such as the curve tracer
+and probe station above to test and improve his exotic
+devices such as microscopic pressure and temperature
+sensors.
+How do you give a robot
+a sense ot touch?
+A group of Stanford in
+vestigators say they may
+have found the answer by
+developing a new device
+they call "robot skin." This
+double-threat product is a
+hybrid combining densely
+packed pressure and tem
+perature sensors with in
+tegrated circuit data pro
+cessing elements all em
+bedded in a durable yet
+paper thin flexible "skin."
+Miniature electronic cir
+cuitry has become the hal
+lmark of the silicon chip in
+dustry during the last 20
+years. Now researchers in
+the Stanford Integrated Cir
+cuits Laboratory (IC Lab)
+are adding a new twist to
+the technology by manu
+facturing miniaturized me
+chanical devices as well as
+circuits.
+Micromachining, the
+process by which plain
+silicon crystals are trans
+formed into tiny machines,
+takes advantage of the
+same high-yield batch
+fabrication techniques that
+make silicon computer
+chips so cheap. However,
+instead of taking advantage
+of silicon's unusual electri
+cal properties, the micro
+scopic manufacturing
+
+process relies on chemical
+and crystalline attributes.
+Dr. Phillip Barth, senior
+research associate in the IC
+Lab, and Dr. James Angell,
+protessor of electrial engi
+neering, use chemical
+etching techniques to build
+miniaturized, precisely
+placed and positioned pits,
+holes, pyramids, trenches,
+cantilevers, diaphragms
+and walls which intercon
+nect to form functional
+electromechanical sensors.
+Bv fusing the technolo
+gies of electronics and
+micromachining, Barth
+hopes to produce devices
+superior to those resulting
+from either technology by
+itself. Using the data pro
+cessing power of integrated
+circuits associated with
+each of thousands ot sen
+sors on a piece of "robot
+skin," Barth hopes to per
+form much of the robot's
+analysis at the site of
+stimulus, eliminating the
+logistical problems of data
+transmission and inter
+ference which might result
+if all data were sent to a
+central brain.
+This "on site" analysis
+scheme is similar to that
+used by humans to inter
+pret tactile sensations com
+ing from real skin. Exploit
+ing this similarity, two
+
+graduate students, Mark
+Zdeblick and Steve
+Douglass are "both
+working on tactile force
+sensing structures, digging
+into the physiological back
+ground and trying to figure
+out how skin senses and
+does signal processing at a
+neurological level," said
+Barth.
+"In addition, we are
+trying to discover ways of
+interpreting shapes from
+our sensory data in an ef
+fort to aid in shape detec
+tion using computer
+simulations," Barth said.
+"In terms of precision and
+resolution, even though
+the field is still in its in
+fancy, we think we can
+sense just about everything
+human skin can feel. Our
+next step is to look at infor
+mation processing times on
+these things to try to get a
+real-time processing capa
+bility," he said.
+Possible applications of
+micromachined devices in
+clude microscopically
+small, yet perfectly formed
+valves, springs, mirrors,
+nozzles , connectors and
+sensors for properties such
+as acceleration and chemi
+cal concentration in addi
+tion to pressure and tem
+perature. There is an espe
+cially urgent need for such
+inexpensively made high
+performance devices be
+cause the electronics for
+automatic control systems
+
+using such sensors have
+become so cheap due to
+mass manufacturing of in
+tegrated circuits.
+The next step in commer
+cial applications is to
+cheaply produce hybrids
+containing both sensors
+and integrated circuits on a
+single chip.
+Although the list of possi
+ble applications is almost
+endless, Barth has already
+built some devices for
+biomedicine, including a
+high resolution tempera
+ture sensor for use in can
+cer hyperthermia therapy.
+The tiny array of sensors,
+using the same type of cir
+cuit as in the robot skin, is
+so thin that it easily fits into
+a hyperdermic needle and
+can measure tissue temper
+atures with great precision.
+One problem Barth has
+encountered is that of in
+stability in devices im
+planted in tissue. Eventu
+ally, over the course of
+months of contact with
+human fluids, the devices
+begin to malfunction be
+cause the body fluids pene
+trate the protective plastic
+coverings. However, Barth
+is confident that w/tb fur
+ther experimentation, thU.
+failure- mode writ he"
+averted. Among those
+working on this project are
+undergraduates Kevin
+Holisenger, Shinya
+Akamine and Alice Vang.
+
+
+Lisa Lynch/Daily
+ROBOT SKIN: This development may allow electronic fin
+gers to surpass the sensitivity of human finger tips. The
+gold-colored flexible polyimide film is jam-packed with
+miniature sensors and in final form will contain specially
+designed integrated circuits to perform the function of
+human nerve synapses and ganglia, providing a degree of
+processing power and sensitivity no human can match.
+
+
+Lisa Lynch/Daily
+MICROMACHINE MANUFACTURER: n r . Philip Barth
+of the Stanford Integrated Circuits Laboraioiy
+standard engineering equipment such as the curve tracer
+and probe station above to test and improve his exotic
+devices such as microscopic pressure and temperature
+sensors.
+How do you give a robot
+a sense ot touch?
+A group of Stanford in
+vestigators say they may
+have found the answer by
+developing a new device
+they call "robot skin." This
+double-threat product is a
+hybrid combining densely
+packed pressure and tem
+perature sensors with in
+tegrated circuit data pro
+cessing elements all em
+bedded in a durable yet
+paper thin flexible "skin."
+Miniature electronic cir
+cuitry has become the hal
+lmark of the silicon chip in
+dustry during the last 20
+years. Now researchers in
+the Stanford Integrated Cir
+cuits Laboratory (IC Lab)
+are adding a new twist to
+the technology by manu
+facturing miniaturized me
+chanical devices as well as
+circuits.
+Micromachining, the
+process by which plain
+silicon crystals are trans
+formed into tiny machines,
+takes advantage of the
+same high-yield batch
+fabrication techniques that
+make silicon computer
+chips so cheap. However,
+instead of taking advantage
+of silicon's unusual electri
+cal properties, the micro
+scopic manufacturing
+
+process relies on chemical
+and crystalline attributes.
+Dr. Phillip Barth, senior
+research associate in the IC
+Lab, and Dr. James Angell,
+protessor of electrial engi
+neering, use chemical
+etching techniques to build
+miniaturized, precisely
+placed and positioned pits,
+holes, pyramids, trenches,
+cantilevers, diaphragms
+and walls which intercon
+nect to form functional
+electromechanical sensors.
+Bv fusing the technolo
+gies of electronics and
+micromachining, Barth
+hopes to produce devices
+superior to those resulting
+from either technology by
+itself. Using the data pro
+cessing power of integrated
+circuits associated with
+each of thousands ot sen
+sors on a piece of "robot
+skin," Barth hopes to per
+form much of the robot's
+analysis at the site of
+stimulus, eliminating the
+logistical problems of data
+transmission and inter
+ference which might result
+if all data were sent to a
+central brain.
+This "on site" analysis
+scheme is similar to that
+used by humans to inter
+pret tactile sensations com
+ing from real skin. Exploit
+ing this similarity, two
+
+graduate students, Mark
+Zdeblick and Steve
+Douglass are "both
+working on tactile force
+sensing structures, digging
+into the physiological back
+ground and trying to figure
+out how skin senses and
+does signal processing at a
+neurological level," said
+Barth.
+"In addition, we are
+trying to discover ways of
+interpreting shapes from
+our sensory data in an ef
+fort to aid in shape detec
+tion using computer
+simulations," Barth said.
+"In terms of precision and
+resolution, even though
+the field is still in its in
+fancy, we think we can
+sense just about everything
+human skin can feel. Our
+next step is to look at infor
+mation processing times on
+these things to try to get a
+real-time processing capa
+bility," he said.
+Possible applications of
+micromachined devices in
+clude microscopically
+small, yet perfectly formed
+valves, springs, mirrors,
+nozzles , connectors and
+sensors for properties such
+as acceleration and chemi
+cal concentration in addi
+tion to pressure and tem
+perature. There is an espe
+cially urgent need for such
+inexpensively made high
+performance devices be
+cause the electronics for
+automatic control systems
+
+using such sensors have
+become so cheap due to
+mass manufacturing of in
+tegrated circuits.
+The next step in commer
+cial applications is to
+cheaply produce hybrids
+containing both sensors
+and integrated circuits on a
+single chip.
+Although the list of possi
+ble applications is almost
+endless, Barth has already
+built some devices for
+biomedicine, including a
+high resolution tempera
+ture sensor for use in can
+cer hyperthermia therapy.
+The tiny array of sensors,
+using the same type of cir
+cuit as in the robot skin, is
+so thin that it easily fits into
+a hyperdermic needle and
+can measure tissue temper
+atures with great precision.
+One problem Barth has
+encountered is that of in
+stability in devices im
+planted in tissue. Eventu
+ally, over the course of
+months of contact with
+human fluids, the devices
+begin to malfunction be
+cause the body fluids pene
+trate the protective plastic
+coverings. However, Barth
+is confident that w/tb fur
+ther experimentation, thU.
+failure- mode writ he"
+averted. Among those
+working on this project are
+undergraduates Kevin
+Holisenger, Shinya
+Akamine and Alice Vang.
+
+
+Lisa Lynch/Daily
+ROBOT SKIN: This development may allow electronic fin
+gers to surpass the sensitivity of human finger tips. The
+gold-colored flexible polyimide film is jam-packed with
+miniature sensors and in final form will contain specially
+designed integrated circuits to perform the function of
+human nerve synapses and ganglia, providing a degree of
+processing power and sensitivity no human can match.
+
+
+Lisa Lynch/Daily
+MICROMACHINE MANUFACTURER: n r . Philip Barth
+of the Stanford Integrated Circuits Laboraioiy
+standard engineering equipment such as the curve tracer
+and probe station above to test and improve his exotic
+devices such as microscopic pressure and temperature
+sensors.
+How do you give a robot
+a sense ot touch?
+A group of Stanford in
+vestigators say they may
+have found the answer by
+developing a new device
+they call "robot skin." This
+double-threat product is a
+hybrid combining densely
+packed pressure and tem
+perature sensors with in
+tegrated circuit data pro
+cessing elements all em
+bedded in a durable yet
+paper thin flexible "skin."
+Miniature electronic cir
+cuitry has become the hal
+lmark of the silicon chip in
+dustry during the last 20
+years. Now researchers in
+the Stanford Integrated Cir
+cuits Laboratory (IC Lab)
+are adding a new twist to
+the technology by manu
+facturing miniaturized me
+chanical devices as well as
+circuits.
+Micromachining, the
+process by which plain
+silicon crystals are trans
+formed into tiny machines,
+takes advantage of the
+same high-yield batch
+fabrication techniques that
+make silicon computer
+chips so cheap. However,
+instead of taking advantage
+of silicon's unusual electri
+cal properties, the micro
+scopic manufacturing
+
+process relies on chemical
+and crystalline attributes.
+Dr. Phillip Barth, senior
+research associate in the IC
+Lab, and Dr. James Angell,
+protessor of electrial engi
+neering, use chemical
+etching techniques to build
+miniaturized, precisely
+placed and positioned pits,
+holes, pyramids, trenches,
+cantilevers, diaphragms
+and walls which intercon
+nect to form functional
+electromechanical sensors.
+Bv fusing the technolo
+gies of electronics and
+micromachining, Barth
+hopes to produce devices
+superior to those resulting
+from either technology by
+itself. Using the data pro
+cessing power of integrated
+circuits associated with
+each of thousands ot sen
+sors on a piece of "robot
+skin," Barth hopes to per
+form much of the robot's
+analysis at the site of
+stimulus, eliminating the
+logistical problems of data
+transmission and inter
+ference which might result
+if all data were sent to a
+central brain.
+This "on site" analysis
+scheme is similar to that
+used by humans to inter
+pret tactile sensations com
+ing from real skin. Exploit
+ing this similarity, two
+
+graduate students, Mark
+Zdeblick and Steve
+Douglass are "both
+working on tactile force
+sensing structures, digging
+into the physiological back
+ground and trying to figure
+out how skin senses and
+does signal processing at a
+neurological level," said
+Barth.
+"In addition, we are
+trying to discover ways of
+interpreting shapes from
+our sensory data in an ef
+fort to aid in shape detec
+tion using computer
+simulations," Barth said.
+"In terms of precision and
+resolution, even though
+the field is still in its in
+fancy, we think we can
+sense just about everything
+human skin can feel. Our
+next step is to look at infor
+mation processing times on
+these things to try to get a
+real-time processing capa
+bility," he said.
+Possible applications of
+micromachined devices in
+clude microscopically
+small, yet perfectly formed
+valves, springs, mirrors,
+nozzles , connectors and
+sensors for properties such
+as acceleration and chemi
+cal concentration in addi
+tion to pressure and tem
+perature. There is an espe
+cially urgent need for such
+inexpensively made high
+performance devices be
+cause the electronics for
+automatic control systems
+
+using such sensors have
+become so cheap due to
+mass manufacturing of in
+tegrated circuits.
+The next step in commer
+cial applications is to
+cheaply produce hybrids
+containing both sensors
+and integrated circuits on a
+single chip.
+Although the list of possi
+ble applications is almost
+endless, Barth has already
+built some devices for
+biomedicine, including a
+high resolution tempera
+ture sensor for use in can
+cer hyperthermia therapy.
+The tiny array of sensors,
+using the same type of cir
+cuit as in the robot skin, is
+so thin that it easily fits into
+a hyperdermic needle and
+can measure tissue temper
+atures with great precision.
+One problem Barth has
+encountered is that of in
+stability in devices im
+planted in tissue. Eventu
+ally, over the course of
+months of contact with
+human fluids, the devices
+begin to malfunction be
+cause the body fluids pene
+trate the protective plastic
+coverings. However, Barth
+is confident that w/tb fur
+ther experimentation, thU.
+failure- mode writ he"
+averted. Among those
+working on this project are
+undergraduates Kevin
+Holisenger, Shinya
+Akamine and Alice Vang.
+
+
+Lisa Lynch/Daily
+ROBOT SKIN: This development may allow electronic fin
+gers to surpass the sensitivity of human finger tips. The
+gold-colored flexible polyimide film is jam-packed with
+miniature sensors and in final form will contain specially
+designed integrated circuits to perform the function of
+human nerve synapses and ganglia, providing a degree of
+processing power and sensitivity no human can match.
+
+
+Lisa Lynch/Daily
+MICROMACHINE MANUFACTURER: n r . Philip Barth
+of the Stanford Integrated Circuits Laboraioiy
+standard engineering equipment such as the curve tracer
+and probe station above to test and improve his exotic
+devices such as microscopic pressure and temperature
+sensors.
+How do you give a robot
+a sense ot touch?
+A group of Stanford in
+vestigators say they may
+have found the answer by
+developing a new device
+they call "robot skin." This
+double-threat product is a
+hybrid combining densely
+packed pressure and tem
+perature sensors with in
+tegrated circuit data pro
+cessing elements all em
+bedded in a durable yet
+paper thin flexible "skin."
+Miniature electronic cir
+cuitry has become the hal
+lmark of the silicon chip in
+dustry during the last 20
+years. Now researchers in
+the Stanford Integrated Cir
+cuits Laboratory (IC Lab)
+are adding a new twist to
+the technology by manu
+facturing miniaturized me
+chanical devices as well as
+circuits.
+Micromachining, the
+process by which plain
+silicon crystals are trans
+formed into tiny machines,
+takes advantage of the
+same high-yield batch
+fabrication techniques that
+make silicon computer
+chips so cheap. However,
+instead of taking advantage
+of silicon's unusual electri
+cal properties, the micro
+scopic manufacturing
+
+process relies on chemical
+and crystalline attributes.
+Dr. Phillip Barth, senior
+research associate in the IC
+Lab, and Dr. James Angell,
+protessor of electrial engi
+neering, use chemical
+etching techniques to build
+miniaturized, precisely
+placed and positioned pits,
+holes, pyramids, trenches,
+cantilevers, diaphragms
+and walls which intercon
+nect to form functional
+electromechanical sensors.
+Bv fusing the technolo
+gies of electronics and
+micromachining, Barth
+hopes to produce devices
+superior to those resulting
+from either technology by
+itself. Using the data pro
+cessing power of integrated
+circuits associated with
+each of thousands ot sen
+sors on a piece of "robot
+skin," Barth hopes to per
+form much of the robot's
+analysis at the site of
+stimulus, eliminating the
+logistical problems of data
+transmission and inter
+ference which might result
+if all data were sent to a
+central brain.
+This "on site" analysis
+scheme is similar to that
+used by humans to inter
+pret tactile sensations com
+ing from real skin. Exploit
+ing this similarity, two
+
+graduate students, Mark
+Zdeblick and Steve
+Douglass are "both
+working on tactile force
+sensing structures, digging
+into the physiological back
+ground and trying to figure
+out how skin senses and
+does signal processing at a
+neurological level," said
+Barth.
+"In addition, we are
+trying to discover ways of
+interpreting shapes from
+our sensory data in an ef
+fort to aid in shape detec
+tion using computer
+simulations," Barth said.
+"In terms of precision and
+resolution, even though
+the field is still in its in
+fancy, we think we can
+sense just about everything
+human skin can feel. Our
+next step is to look at infor
+mation processing times on
+these things to try to get a
+real-time processing capa
+bility," he said.
+Possible applications of
+micromachined devices in
+clude microscopically
+small, yet perfectly formed
+valves, springs, mirrors,
+nozzles , connectors and
+sensors for properties such
+as acceleration and chemi
+cal concentration in addi
+tion to pressure and tem
+perature. There is an espe
+cially urgent need for such
+inexpensively made high
+performance devices be
+cause the electronics for
+automatic control systems
+
+using such sensors have
+become so cheap due to
+mass manufacturing of in
+tegrated circuits.
+The next step in commer
+cial applications is to
+cheaply produce hybrids
+containing both sensors
+and integrated circuits on a
+single chip.
+Although the list of possi
+ble applications is almost
+endless, Barth has already
+built some devices for
+biomedicine, including a
+high resolution tempera
+ture sensor for use in can
+cer hyperthermia therapy.
+The tiny array of sensors,
+using the same type of cir
+cuit as in the robot skin, is
+so thin that it easily fits into
+a hyperdermic needle and
+can measure tissue temper
+atures with great precision.
+One problem Barth has
+encountered is that of in
+stability in devices im
+planted in tissue. Eventu
+ally, over the course of
+months of contact with
+human fluids, the devices
+begin to malfunction be
+cause the body fluids pene
+trate the protective plastic
+coverings. However, Barth
+is confident that w/tb fur
+ther experimentation, thU.
+failure- mode writ he"
+averted. Among those
+working on this project are
+undergraduates Kevin
+Holisenger, Shinya
+Akamine and Alice Vang.
+
+
+Lisa Lynch/Daily
+ROBOT SKIN: This development may allow electronic fin
+gers to surpass the sensitivity of human finger tips. The
+gold-colored flexible polyimide film is jam-packed with
+miniature sensors and in final form will contain specially
+designed integrated circuits to perform the function of
+human nerve synapses and ganglia, providing a degree of
+processing power and sensitivity no human can match.
+
+
+Lisa Lynch/Daily
+MICROMACHINE MANUFACTURER: n r . Philip Barth
+of the Stanford Integrated Circuits Laboraioiy
+standard engineering equipment such as the curve tracer
+and probe station above to test and improve his exotic
+devices such as microscopic pressure and temperature
+sensors.
+How do you give a robot
+a sense ot touch?
+A group of Stanford in
+vestigators say they may
+have found the answer by
+developing a new device
+they call "robot skin." This
+double-threat product is a
+hybrid combining densely
+packed pressure and tem
+perature sensors with in
+tegrated circuit data pro
+cessing elements all em
+bedded in a durable yet
+paper thin flexible "skin."
+Miniature electronic cir
+cuitry has become the hal
+lmark of the silicon chip in
+dustry during the last 20
+years. Now researchers in
+the Stanford Integrated Cir
+cuits Laboratory (IC Lab)
+are adding a new twist to
+the technology by manu
+facturing miniaturized me
+chanical devices as well as
+circuits.
+Micromachining, the
+process by which plain
+silicon crystals are trans
+formed into tiny machines,
+takes advantage of the
+same high-yield batch
+fabrication techniques that
+make silicon computer
+chips so cheap. However,
+instead of taking advantage
+of silicon's unusual electri
+cal properties, the micro
+scopic manufacturing
+
+process relies on chemical
+and crystalline attributes.
+Dr. Phillip Barth, senior
+research associate in the IC
+Lab, and Dr. James Angell,
+protessor of electrial engi
+neering, use chemical
+etching techniques to build
+miniaturized, precisely
+placed and positioned pits,
+holes, pyramids, trenches,
+cantilevers, diaphragms
+and walls which intercon
+nect to form functional
+electromechanical sensors.
+Bv fusing the technolo
+gies of electronics and
+micromachining, Barth
+hopes to produce devices
+superior to those resulting
+from either technology by
+itself. Using the data pro
+cessing power of integrated
+circuits associated with
+each of thousands ot sen
+sors on a piece of "robot
+skin," Barth hopes to per
+form much of the robot's
+analysis at the site of
+stimulus, eliminating the
+logistical problems of data
+transmission and inter
+ference which might result
+if all data were sent to a
+central brain.
+This "on site" analysis
+scheme is similar to that
+used by humans to inter
+pret tactile sensations com
+ing from real skin. Exploit
+ing this similarity, two
+
+graduate students, Mark
+Zdeblick and Steve
+Douglass are "both
+working on tactile force
+sensing structures, digging
+into the physiological back
+ground and trying to figure
+out how skin senses and
+does signal processing at a
+neurological level," said
+Barth.
+"In addition, we are
+trying to discover ways of
+interpreting shapes from
+our sensory data in an ef
+fort to aid in shape detec
+tion using computer
+simulations," Barth said.
+"In terms of precision and
+resolution, even though
+the field is still in its in
+fancy, we think we can
+sense just about everything
+human skin can feel. Our
+next step is to look at infor
+mation processing times on
+these things to try to get a
+real-time processing capa
+bility," he said.
+Possible applications of
+micromachined devices in
+clude microscopically
+small, yet perfectly formed
+valves, springs, mirrors,
+nozzles , connectors and
+sensors for properties such
+as acceleration and chemi
+cal concentration in addi
+tion to pressure and tem
+perature. There is an espe
+cially urgent need for such
+inexpensively made high
+performance devices be
+cause the electronics for
+automatic control systems
+
+using such sensors have
+become so cheap due to
+mass manufacturing of in
+tegrated circuits.
+The next step in commer
+cial applications is to
+cheaply produce hybrids
+containing both sensors
+and integrated circuits on a
+single chip.
+Although the list of possi
+ble applications is almost
+endless, Barth has already
+built some devices for
+biomedicine, including a
+high resolution tempera
+ture sensor for use in can
+cer hyperthermia therapy.
+The tiny array of sensors,
+using the same type of cir
+cuit as in the robot skin, is
+so thin that it easily fits into
+a hyperdermic needle and
+can measure tissue temper
+atures with great precision.
+One problem Barth has
+encountered is that of in
+stability in devices im
+planted in tissue. Eventu
+ally, over the course of
+months of contact with
+human fluids, the devices
+begin to malfunction be
+cause the body fluids pene
+trate the protective plastic
+coverings. However, Barth
+is confident that w/tb fur
+ther experimentation, thU.
+failure- mode writ he"
+averted. Among those
+working on this project are
+undergraduates Kevin
+Holisenger, Shinya
+Akamine and Alice Vang.
+
+
+Lisa Lynch/Daily
+ROBOT SKIN: This development may allow electronic fin
+gers to surpass the sensitivity of human finger tips. The
+gold-colored flexible polyimide film is jam-packed with
+miniature sensors and in final form will contain specially
+designed integrated circuits to perform the function of
+human nerve synapses and ganglia, providing a degree of
+processing power and sensitivity no human can match.
+
+
+Lisa Lynch/Daily
+MICROMACHINE MANUFACTURER: n r . Philip Barth
+of the Stanford Integrated Circuits Laboraioiy
+standard engineering equipment such as the curve tracer
+and probe station above to test and improve his exotic
+devices such as microscopic pressure and temperature
+sensors.

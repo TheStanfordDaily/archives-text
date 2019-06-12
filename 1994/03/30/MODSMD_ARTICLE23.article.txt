@@ -1,0 +1,724 @@
+# The 						Science Bug
+## Objects cool down faster in a colder environment 
+### Chris Patil Staff writer 
+Do things get colder faster when
+their surroundings are colder'? For
+example, if I put a soda or beer can in
+the freezer, will it chill faster than if 1 had
+put it in the fridge? Also, why do metal con
+tainers get colder in the fridge than plastic
+ones ?
+— Mr. Heat Miser
+A: Thanks for your question, Heat. I'll
+hazard a guess that you're the right
+brained type and begin my answer
+with some intuitive reasons why I must
+answer your first question in the affirma
+tive.
+If the rate of cooling (i.e., the rate of heat
+energy flow from a warm body to a colder
+one) were independent of the temperature
+difference between an object and its sur
+roundings, the following would all be true:
+• Because your body is as competent as,
+say, mine at compensating for a given rate of
+heat loss to the environment, it would be as
+safe for you to swim buck naked in the
+North Sea as it would be to do so in de
+Guerre pool.
+• The physics demonstration in which a
+professor plunges a rubber ball into liquid
+nitrogen and then smashes it against a wall
+would be impractical, because the ball would
+take a really long time to freeze.
+• A beer would chill just as fast in the
+refrigerator as it would it the freezer.
+None of these examples sounds realistic,
+of course, because the rate of heat flow from
+one object to another is dependent on the
+temperature difference between the two
+objects in question.
+The engineers among the readership will
+be titillated to know that this dependence is
+expressed simply by a petite equation
+known to the sages as Fourier's Law. (Yes,
+the Fourier, the same Frog responsible for
+those lovely transformers that so many EEs
+will learn to love and hate over the next few
+years.) Fourier's Law states, concisely
+enough,that
+Q=(kAAT)/L
+where Q, the rate of heat transfer between
+
+two bodies, is related to K, the conductance
+(of the beer can, for example), A is the area
+of the can, L is the thickness of the can walls
+and AT is the temperature difference
+between the bodies.
+The beer can question posed by this
+week's generous contributor is easily
+framed in terms of Fourier's Law. Suppose
+you have two identical cans of Bergermeis
+ter — both initially at room temperature —
+and you put one in the fridge and the other
+in the freezer. Since K, A, and L are the
+same for both cans, and AT is larger
+between the kitchen and the freezer than
+between the kitchen and the fridge, the beer
+you put next to the popsicles will chill more
+rapidly. Voila! better living through science.
+This approach is not without its hazards,
+however. If you forget and leave the beer in
+the freezer, it will eventually freeze, rupture
+the can and give you a chance to find out
+first-hand why Barley n' Hops Ripple will
+never be the Flavor of the Month.
+Fortuitously, Fourier's Law also has
+something to say about why chilled metal
+cans feel cooler to the touch than plastic
+containers of the same temperature.
+Despite Mr. Miser's somewhat mislead
+ing query, metal containers do not "get cold
+er in the fridge" than plastic ones. A fairly
+straightforward argument invoking the Sec
+ond Law of Thermodynamics tells us that,
+given enough time, everything in a refriger
+ation compartment will equilibrate to the
+same temperature.
+Here, the difference between our two
+hypothetical cans is not AT but K, the con
+ductance of the container walls. Because
+plastic has a significantly lower heat con
+ductance than metal, the rate of heat flow
+from your hand to a plastic container will be
+slower. Ergo, it doesn't feel as cold.
+
+Drop your scientific questions in the Bug
+box, located just outside The Daily offices, or
+e-mail them to cpatiKfpleland.stanford.edu.
+The Bug depends on questions submitted by
+the public for this column's weekly topics.
+He urges readers who submit questions to
+request anonymity, provide a suitable
+pseudonym or explicitly grant permission to
+print their real name and include a phone
+number at which they can be reached.
+
+Do things get colder faster when
+their surroundings are colder'? For
+example, if I put a soda or beer can in
+the freezer, will it chill faster than if 1 had
+put it in the fridge? Also, why do metal con
+tainers get colder in the fridge than plastic
+ones ?
+— Mr. Heat Miser
+A: Thanks for your question, Heat. I'll
+hazard a guess that you're the right
+brained type and begin my answer
+with some intuitive reasons why I must
+answer your first question in the affirma
+tive.
+If the rate of cooling (i.e., the rate of heat
+energy flow from a warm body to a colder
+one) were independent of the temperature
+difference between an object and its sur
+roundings, the following would all be true:
+• Because your body is as competent as,
+say, mine at compensating for a given rate of
+heat loss to the environment, it would be as
+safe for you to swim buck naked in the
+North Sea as it would be to do so in de
+Guerre pool.
+• The physics demonstration in which a
+professor plunges a rubber ball into liquid
+nitrogen and then smashes it against a wall
+would be impractical, because the ball would
+take a really long time to freeze.
+• A beer would chill just as fast in the
+refrigerator as it would it the freezer.
+None of these examples sounds realistic,
+of course, because the rate of heat flow from
+one object to another is dependent on the
+temperature difference between the two
+objects in question.
+The engineers among the readership will
+be titillated to know that this dependence is
+expressed simply by a petite equation
+known to the sages as Fourier's Law. (Yes,
+the Fourier, the same Frog responsible for
+those lovely transformers that so many EEs
+will learn to love and hate over the next few
+years.) Fourier's Law states, concisely
+enough,that
+Q=(kAAT)/L
+where Q, the rate of heat transfer between
+
+two bodies, is related to K, the conductance
+(of the beer can, for example), A is the area
+of the can, L is the thickness of the can walls
+and AT is the temperature difference
+between the bodies.
+The beer can question posed by this
+week's generous contributor is easily
+framed in terms of Fourier's Law. Suppose
+you have two identical cans of Bergermeis
+ter — both initially at room temperature —
+and you put one in the fridge and the other
+in the freezer. Since K, A, and L are the
+same for both cans, and AT is larger
+between the kitchen and the freezer than
+between the kitchen and the fridge, the beer
+you put next to the popsicles will chill more
+rapidly. Voila! better living through science.
+This approach is not without its hazards,
+however. If you forget and leave the beer in
+the freezer, it will eventually freeze, rupture
+the can and give you a chance to find out
+first-hand why Barley n' Hops Ripple will
+never be the Flavor of the Month.
+Fortuitously, Fourier's Law also has
+something to say about why chilled metal
+cans feel cooler to the touch than plastic
+containers of the same temperature.
+Despite Mr. Miser's somewhat mislead
+ing query, metal containers do not "get cold
+er in the fridge" than plastic ones. A fairly
+straightforward argument invoking the Sec
+ond Law of Thermodynamics tells us that,
+given enough time, everything in a refriger
+ation compartment will equilibrate to the
+same temperature.
+Here, the difference between our two
+hypothetical cans is not AT but K, the con
+ductance of the container walls. Because
+plastic has a significantly lower heat con
+ductance than metal, the rate of heat flow
+from your hand to a plastic container will be
+slower. Ergo, it doesn't feel as cold.
+
+Drop your scientific questions in the Bug
+box, located just outside The Daily offices, or
+e-mail them to cpatiKfpleland.stanford.edu.
+The Bug depends on questions submitted by
+the public for this column's weekly topics.
+He urges readers who submit questions to
+request anonymity, provide a suitable
+pseudonym or explicitly grant permission to
+print their real name and include a phone
+number at which they can be reached.
+
+Do things get colder faster when
+their surroundings are colder'? For
+example, if I put a soda or beer can in
+the freezer, will it chill faster than if 1 had
+put it in the fridge? Also, why do metal con
+tainers get colder in the fridge than plastic
+ones ?
+— Mr. Heat Miser
+A: Thanks for your question, Heat. I'll
+hazard a guess that you're the right
+brained type and begin my answer
+with some intuitive reasons why I must
+answer your first question in the affirma
+tive.
+If the rate of cooling (i.e., the rate of heat
+energy flow from a warm body to a colder
+one) were independent of the temperature
+difference between an object and its sur
+roundings, the following would all be true:
+• Because your body is as competent as,
+say, mine at compensating for a given rate of
+heat loss to the environment, it would be as
+safe for you to swim buck naked in the
+North Sea as it would be to do so in de
+Guerre pool.
+• The physics demonstration in which a
+professor plunges a rubber ball into liquid
+nitrogen and then smashes it against a wall
+would be impractical, because the ball would
+take a really long time to freeze.
+• A beer would chill just as fast in the
+refrigerator as it would it the freezer.
+None of these examples sounds realistic,
+of course, because the rate of heat flow from
+one object to another is dependent on the
+temperature difference between the two
+objects in question.
+The engineers among the readership will
+be titillated to know that this dependence is
+expressed simply by a petite equation
+known to the sages as Fourier's Law. (Yes,
+the Fourier, the same Frog responsible for
+those lovely transformers that so many EEs
+will learn to love and hate over the next few
+years.) Fourier's Law states, concisely
+enough,that
+Q=(kAAT)/L
+where Q, the rate of heat transfer between
+
+two bodies, is related to K, the conductance
+(of the beer can, for example), A is the area
+of the can, L is the thickness of the can walls
+and AT is the temperature difference
+between the bodies.
+The beer can question posed by this
+week's generous contributor is easily
+framed in terms of Fourier's Law. Suppose
+you have two identical cans of Bergermeis
+ter — both initially at room temperature —
+and you put one in the fridge and the other
+in the freezer. Since K, A, and L are the
+same for both cans, and AT is larger
+between the kitchen and the freezer than
+between the kitchen and the fridge, the beer
+you put next to the popsicles will chill more
+rapidly. Voila! better living through science.
+This approach is not without its hazards,
+however. If you forget and leave the beer in
+the freezer, it will eventually freeze, rupture
+the can and give you a chance to find out
+first-hand why Barley n' Hops Ripple will
+never be the Flavor of the Month.
+Fortuitously, Fourier's Law also has
+something to say about why chilled metal
+cans feel cooler to the touch than plastic
+containers of the same temperature.
+Despite Mr. Miser's somewhat mislead
+ing query, metal containers do not "get cold
+er in the fridge" than plastic ones. A fairly
+straightforward argument invoking the Sec
+ond Law of Thermodynamics tells us that,
+given enough time, everything in a refriger
+ation compartment will equilibrate to the
+same temperature.
+Here, the difference between our two
+hypothetical cans is not AT but K, the con
+ductance of the container walls. Because
+plastic has a significantly lower heat con
+ductance than metal, the rate of heat flow
+from your hand to a plastic container will be
+slower. Ergo, it doesn't feel as cold.
+
+Drop your scientific questions in the Bug
+box, located just outside The Daily offices, or
+e-mail them to cpatiKfpleland.stanford.edu.
+The Bug depends on questions submitted by
+the public for this column's weekly topics.
+He urges readers who submit questions to
+request anonymity, provide a suitable
+pseudonym or explicitly grant permission to
+print their real name and include a phone
+number at which they can be reached.
+
+Do things get colder faster when
+their surroundings are colder'? For
+example, if I put a soda or beer can in
+the freezer, will it chill faster than if 1 had
+put it in the fridge? Also, why do metal con
+tainers get colder in the fridge than plastic
+ones ?
+— Mr. Heat Miser
+A: Thanks for your question, Heat. I'll
+hazard a guess that you're the right
+brained type and begin my answer
+with some intuitive reasons why I must
+answer your first question in the affirma
+tive.
+If the rate of cooling (i.e., the rate of heat
+energy flow from a warm body to a colder
+one) were independent of the temperature
+difference between an object and its sur
+roundings, the following would all be true:
+• Because your body is as competent as,
+say, mine at compensating for a given rate of
+heat loss to the environment, it would be as
+safe for you to swim buck naked in the
+North Sea as it would be to do so in de
+Guerre pool.
+• The physics demonstration in which a
+professor plunges a rubber ball into liquid
+nitrogen and then smashes it against a wall
+would be impractical, because the ball would
+take a really long time to freeze.
+• A beer would chill just as fast in the
+refrigerator as it would it the freezer.
+None of these examples sounds realistic,
+of course, because the rate of heat flow from
+one object to another is dependent on the
+temperature difference between the two
+objects in question.
+The engineers among the readership will
+be titillated to know that this dependence is
+expressed simply by a petite equation
+known to the sages as Fourier's Law. (Yes,
+the Fourier, the same Frog responsible for
+those lovely transformers that so many EEs
+will learn to love and hate over the next few
+years.) Fourier's Law states, concisely
+enough,that
+Q=(kAAT)/L
+where Q, the rate of heat transfer between
+
+two bodies, is related to K, the conductance
+(of the beer can, for example), A is the area
+of the can, L is the thickness of the can walls
+and AT is the temperature difference
+between the bodies.
+The beer can question posed by this
+week's generous contributor is easily
+framed in terms of Fourier's Law. Suppose
+you have two identical cans of Bergermeis
+ter — both initially at room temperature —
+and you put one in the fridge and the other
+in the freezer. Since K, A, and L are the
+same for both cans, and AT is larger
+between the kitchen and the freezer than
+between the kitchen and the fridge, the beer
+you put next to the popsicles will chill more
+rapidly. Voila! better living through science.
+This approach is not without its hazards,
+however. If you forget and leave the beer in
+the freezer, it will eventually freeze, rupture
+the can and give you a chance to find out
+first-hand why Barley n' Hops Ripple will
+never be the Flavor of the Month.
+Fortuitously, Fourier's Law also has
+something to say about why chilled metal
+cans feel cooler to the touch than plastic
+containers of the same temperature.
+Despite Mr. Miser's somewhat mislead
+ing query, metal containers do not "get cold
+er in the fridge" than plastic ones. A fairly
+straightforward argument invoking the Sec
+ond Law of Thermodynamics tells us that,
+given enough time, everything in a refriger
+ation compartment will equilibrate to the
+same temperature.
+Here, the difference between our two
+hypothetical cans is not AT but K, the con
+ductance of the container walls. Because
+plastic has a significantly lower heat con
+ductance than metal, the rate of heat flow
+from your hand to a plastic container will be
+slower. Ergo, it doesn't feel as cold.
+
+Drop your scientific questions in the Bug
+box, located just outside The Daily offices, or
+e-mail them to cpatiKfpleland.stanford.edu.
+The Bug depends on questions submitted by
+the public for this column's weekly topics.
+He urges readers who submit questions to
+request anonymity, provide a suitable
+pseudonym or explicitly grant permission to
+print their real name and include a phone
+number at which they can be reached.
+
+Do things get colder faster when
+their surroundings are colder'? For
+example, if I put a soda or beer can in
+the freezer, will it chill faster than if 1 had
+put it in the fridge? Also, why do metal con
+tainers get colder in the fridge than plastic
+ones ?
+— Mr. Heat Miser
+A: Thanks for your question, Heat. I'll
+hazard a guess that you're the right
+brained type and begin my answer
+with some intuitive reasons why I must
+answer your first question in the affirma
+tive.
+If the rate of cooling (i.e., the rate of heat
+energy flow from a warm body to a colder
+one) were independent of the temperature
+difference between an object and its sur
+roundings, the following would all be true:
+• Because your body is as competent as,
+say, mine at compensating for a given rate of
+heat loss to the environment, it would be as
+safe for you to swim buck naked in the
+North Sea as it would be to do so in de
+Guerre pool.
+• The physics demonstration in which a
+professor plunges a rubber ball into liquid
+nitrogen and then smashes it against a wall
+would be impractical, because the ball would
+take a really long time to freeze.
+• A beer would chill just as fast in the
+refrigerator as it would it the freezer.
+None of these examples sounds realistic,
+of course, because the rate of heat flow from
+one object to another is dependent on the
+temperature difference between the two
+objects in question.
+The engineers among the readership will
+be titillated to know that this dependence is
+expressed simply by a petite equation
+known to the sages as Fourier's Law. (Yes,
+the Fourier, the same Frog responsible for
+those lovely transformers that so many EEs
+will learn to love and hate over the next few
+years.) Fourier's Law states, concisely
+enough,that
+Q=(kAAT)/L
+where Q, the rate of heat transfer between
+
+two bodies, is related to K, the conductance
+(of the beer can, for example), A is the area
+of the can, L is the thickness of the can walls
+and AT is the temperature difference
+between the bodies.
+The beer can question posed by this
+week's generous contributor is easily
+framed in terms of Fourier's Law. Suppose
+you have two identical cans of Bergermeis
+ter — both initially at room temperature —
+and you put one in the fridge and the other
+in the freezer. Since K, A, and L are the
+same for both cans, and AT is larger
+between the kitchen and the freezer than
+between the kitchen and the fridge, the beer
+you put next to the popsicles will chill more
+rapidly. Voila! better living through science.
+This approach is not without its hazards,
+however. If you forget and leave the beer in
+the freezer, it will eventually freeze, rupture
+the can and give you a chance to find out
+first-hand why Barley n' Hops Ripple will
+never be the Flavor of the Month.
+Fortuitously, Fourier's Law also has
+something to say about why chilled metal
+cans feel cooler to the touch than plastic
+containers of the same temperature.
+Despite Mr. Miser's somewhat mislead
+ing query, metal containers do not "get cold
+er in the fridge" than plastic ones. A fairly
+straightforward argument invoking the Sec
+ond Law of Thermodynamics tells us that,
+given enough time, everything in a refriger
+ation compartment will equilibrate to the
+same temperature.
+Here, the difference between our two
+hypothetical cans is not AT but K, the con
+ductance of the container walls. Because
+plastic has a significantly lower heat con
+ductance than metal, the rate of heat flow
+from your hand to a plastic container will be
+slower. Ergo, it doesn't feel as cold.
+
+Drop your scientific questions in the Bug
+box, located just outside The Daily offices, or
+e-mail them to cpatiKfpleland.stanford.edu.
+The Bug depends on questions submitted by
+the public for this column's weekly topics.
+He urges readers who submit questions to
+request anonymity, provide a suitable
+pseudonym or explicitly grant permission to
+print their real name and include a phone
+number at which they can be reached.
+
+Do things get colder faster when
+their surroundings are colder'? For
+example, if I put a soda or beer can in
+the freezer, will it chill faster than if 1 had
+put it in the fridge? Also, why do metal con
+tainers get colder in the fridge than plastic
+ones ?
+— Mr. Heat Miser
+A: Thanks for your question, Heat. I'll
+hazard a guess that you're the right
+brained type and begin my answer
+with some intuitive reasons why I must
+answer your first question in the affirma
+tive.
+If the rate of cooling (i.e., the rate of heat
+energy flow from a warm body to a colder
+one) were independent of the temperature
+difference between an object and its sur
+roundings, the following would all be true:
+• Because your body is as competent as,
+say, mine at compensating for a given rate of
+heat loss to the environment, it would be as
+safe for you to swim buck naked in the
+North Sea as it would be to do so in de
+Guerre pool.
+• The physics demonstration in which a
+professor plunges a rubber ball into liquid
+nitrogen and then smashes it against a wall
+would be impractical, because the ball would
+take a really long time to freeze.
+• A beer would chill just as fast in the
+refrigerator as it would it the freezer.
+None of these examples sounds realistic,
+of course, because the rate of heat flow from
+one object to another is dependent on the
+temperature difference between the two
+objects in question.
+The engineers among the readership will
+be titillated to know that this dependence is
+expressed simply by a petite equation
+known to the sages as Fourier's Law. (Yes,
+the Fourier, the same Frog responsible for
+those lovely transformers that so many EEs
+will learn to love and hate over the next few
+years.) Fourier's Law states, concisely
+enough,that
+Q=(kAAT)/L
+where Q, the rate of heat transfer between
+
+two bodies, is related to K, the conductance
+(of the beer can, for example), A is the area
+of the can, L is the thickness of the can walls
+and AT is the temperature difference
+between the bodies.
+The beer can question posed by this
+week's generous contributor is easily
+framed in terms of Fourier's Law. Suppose
+you have two identical cans of Bergermeis
+ter — both initially at room temperature —
+and you put one in the fridge and the other
+in the freezer. Since K, A, and L are the
+same for both cans, and AT is larger
+between the kitchen and the freezer than
+between the kitchen and the fridge, the beer
+you put next to the popsicles will chill more
+rapidly. Voila! better living through science.
+This approach is not without its hazards,
+however. If you forget and leave the beer in
+the freezer, it will eventually freeze, rupture
+the can and give you a chance to find out
+first-hand why Barley n' Hops Ripple will
+never be the Flavor of the Month.
+Fortuitously, Fourier's Law also has
+something to say about why chilled metal
+cans feel cooler to the touch than plastic
+containers of the same temperature.
+Despite Mr. Miser's somewhat mislead
+ing query, metal containers do not "get cold
+er in the fridge" than plastic ones. A fairly
+straightforward argument invoking the Sec
+ond Law of Thermodynamics tells us that,
+given enough time, everything in a refriger
+ation compartment will equilibrate to the
+same temperature.
+Here, the difference between our two
+hypothetical cans is not AT but K, the con
+ductance of the container walls. Because
+plastic has a significantly lower heat con
+ductance than metal, the rate of heat flow
+from your hand to a plastic container will be
+slower. Ergo, it doesn't feel as cold.
+
+Drop your scientific questions in the Bug
+box, located just outside The Daily offices, or
+e-mail them to cpatiKfpleland.stanford.edu.
+The Bug depends on questions submitted by
+the public for this column's weekly topics.
+He urges readers who submit questions to
+request anonymity, provide a suitable
+pseudonym or explicitly grant permission to
+print their real name and include a phone
+number at which they can be reached.
+
+Do things get colder faster when
+their surroundings are colder'? For
+example, if I put a soda or beer can in
+the freezer, will it chill faster than if 1 had
+put it in the fridge? Also, why do metal con
+tainers get colder in the fridge than plastic
+ones ?
+— Mr. Heat Miser
+A: Thanks for your question, Heat. I'll
+hazard a guess that you're the right
+brained type and begin my answer
+with some intuitive reasons why I must
+answer your first question in the affirma
+tive.
+If the rate of cooling (i.e., the rate of heat
+energy flow from a warm body to a colder
+one) were independent of the temperature
+difference between an object and its sur
+roundings, the following would all be true:
+• Because your body is as competent as,
+say, mine at compensating for a given rate of
+heat loss to the environment, it would be as
+safe for you to swim buck naked in the
+North Sea as it would be to do so in de
+Guerre pool.
+• The physics demonstration in which a
+professor plunges a rubber ball into liquid
+nitrogen and then smashes it against a wall
+would be impractical, because the ball would
+take a really long time to freeze.
+• A beer would chill just as fast in the
+refrigerator as it would it the freezer.
+None of these examples sounds realistic,
+of course, because the rate of heat flow from
+one object to another is dependent on the
+temperature difference between the two
+objects in question.
+The engineers among the readership will
+be titillated to know that this dependence is
+expressed simply by a petite equation
+known to the sages as Fourier's Law. (Yes,
+the Fourier, the same Frog responsible for
+those lovely transformers that so many EEs
+will learn to love and hate over the next few
+years.) Fourier's Law states, concisely
+enough,that
+Q=(kAAT)/L
+where Q, the rate of heat transfer between
+
+two bodies, is related to K, the conductance
+(of the beer can, for example), A is the area
+of the can, L is the thickness of the can walls
+and AT is the temperature difference
+between the bodies.
+The beer can question posed by this
+week's generous contributor is easily
+framed in terms of Fourier's Law. Suppose
+you have two identical cans of Bergermeis
+ter — both initially at room temperature —
+and you put one in the fridge and the other
+in the freezer. Since K, A, and L are the
+same for both cans, and AT is larger
+between the kitchen and the freezer than
+between the kitchen and the fridge, the beer
+you put next to the popsicles will chill more
+rapidly. Voila! better living through science.
+This approach is not without its hazards,
+however. If you forget and leave the beer in
+the freezer, it will eventually freeze, rupture
+the can and give you a chance to find out
+first-hand why Barley n' Hops Ripple will
+never be the Flavor of the Month.
+Fortuitously, Fourier's Law also has
+something to say about why chilled metal
+cans feel cooler to the touch than plastic
+containers of the same temperature.
+Despite Mr. Miser's somewhat mislead
+ing query, metal containers do not "get cold
+er in the fridge" than plastic ones. A fairly
+straightforward argument invoking the Sec
+ond Law of Thermodynamics tells us that,
+given enough time, everything in a refriger
+ation compartment will equilibrate to the
+same temperature.
+Here, the difference between our two
+hypothetical cans is not AT but K, the con
+ductance of the container walls. Because
+plastic has a significantly lower heat con
+ductance than metal, the rate of heat flow
+from your hand to a plastic container will be
+slower. Ergo, it doesn't feel as cold.
+
+Drop your scientific questions in the Bug
+box, located just outside The Daily offices, or
+e-mail them to cpatiKfpleland.stanford.edu.
+The Bug depends on questions submitted by
+the public for this column's weekly topics.
+He urges readers who submit questions to
+request anonymity, provide a suitable
+pseudonym or explicitly grant permission to
+print their real name and include a phone
+number at which they can be reached.
+

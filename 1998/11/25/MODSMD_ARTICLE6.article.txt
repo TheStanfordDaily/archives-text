@@ -1,0 +1,573 @@
+# Nearly 300 passwords stolen
+## Computer hackers get into EE server 
+### Alex Tung Staff writer 
+For the second time in two
+months, a computer hacker broke
+into University computers, this time
+stealing passwords for almost 300 e
+mail accounts.
+An outside hacker logged into the
+Electrical Engineering departmental
+computer, compromising all ac
+counts on the server, as well as 61 Le
+land system accounts.
+"It looked like the hacker was
+going for power and wanted to con
+trol the system, not necessarily what
+was on it." said David Brumley, a
+specialist in the Computer Security
+Office.
+The hacker, using a stolen pass
+word, broke into the system at
+around 7 p.m. on Oct. 31 and stayed
+in the system for six days, Brumley
+said. The intruder used a "sniffer." a
+software program that can intercept
+user names and*passwords, to initial
+ly get into the system. Once in.the
+hacker installed programs on the sys
+tem to collect user passwords.
+Brumley said that although there
+were no reports of tampering with e
+mail accounts, the security office did
+shut down all the Leland accounts af
+fected. forcing students to go to
+Sweet Hall to change their pass
+words.
+" That upset a few people, but it's
+an evil necessity," Brumley said.
+The Electrical Engineering De
+partment. which has control over its
+departmental accounts, has warned
+everyone with accounts on its server
+to change their passwords immedi
+ately to avoid further complications.
+The security office was able to
+trace the hacker to an Internet ser
+vice provider but was unable to pro
+ceed further without outside assis
+tance.
+The I Jniversity elected not to call
+the FBI. because minimal damage
+was done. Brumley said there was no
+tampering with user accounts, but the
+department did have to reinstall the
+system software, as is customary for
+an incident such as this.
+The number of computer security
+incidents has increased recently, due
+
+to more widespread use of automat
+ed scanning programs, according to
+Brumley. These programs allow
+hackers to look for vulnerabilities in
+hundreds of machines at a time.
+Just last week more than 18,000
+scans were performed on Stanford
+computers. Each scan is counted as
+coming from one source but could
+encompass many computers.
+The intrusion on the electrical en
+gineering server is far from an isolat
+ed incident.
+Earlier this month hackers broke
+into computers on the Leland system
+to extract more than S.(KK) user pass
+words. in what was considered the
+first major break-in to the Leland sys
+tem.
+In June, 3,(XX) researchers at the
+Stanford Linear Accelerator Center
+fell victim to hackers and were left
+without Internet access for a week.
+Last April a hacker found his way
+into the system in the Durand Build
+ing and stole 24C) e-mail passwords.
+Although past incidents have in
+volved hackers deleting doctoral the
+ses from the system. Brumley said the
+goal of hackers is not always to gain
+access to Stanford data.
+Sometimes they use a computer
+system as a "jumping spot" to break
+into other systems, such as banks, so
+that their actions will be harder for
+the victims to trace.
+Generally, however, hackers can
+only gain initial access to Stanford
+computers by logging into a machine
+on campus.
+The PC-Stanford software pack
+age. which includes Kerberos securi
+ty protection, provides users with a
+secure login.
+The Kerberos system encrypts a
+user's login information so hackers
+cannot access it.
+"It's more or less technically in
+feasible for someone to crack Ker
+beros protection," Brumley said.
+Dennis Michael, manager of the
+Leland systems in Sweet Hall, said
+the problem is that campus computer
+users are not logging in with the pro
+tection of Kerberos.
+"We're trying to get rid of clear
+text passwords so that sniffers won't
+work," he said.
+For the second time in two
+months, a computer hacker broke
+into University computers, this time
+stealing passwords for almost 300 e
+mail accounts.
+An outside hacker logged into the
+Electrical Engineering departmental
+computer, compromising all ac
+counts on the server, as well as 61 Le
+land system accounts.
+"It looked like the hacker was
+going for power and wanted to con
+trol the system, not necessarily what
+was on it." said David Brumley, a
+specialist in the Computer Security
+Office.
+The hacker, using a stolen pass
+word, broke into the system at
+around 7 p.m. on Oct. 31 and stayed
+in the system for six days, Brumley
+said. The intruder used a "sniffer." a
+software program that can intercept
+user names and*passwords, to initial
+ly get into the system. Once in.the
+hacker installed programs on the sys
+tem to collect user passwords.
+Brumley said that although there
+were no reports of tampering with e
+mail accounts, the security office did
+shut down all the Leland accounts af
+fected. forcing students to go to
+Sweet Hall to change their pass
+words.
+" That upset a few people, but it's
+an evil necessity," Brumley said.
+The Electrical Engineering De
+partment. which has control over its
+departmental accounts, has warned
+everyone with accounts on its server
+to change their passwords immedi
+ately to avoid further complications.
+The security office was able to
+trace the hacker to an Internet ser
+vice provider but was unable to pro
+ceed further without outside assis
+tance.
+The I Jniversity elected not to call
+the FBI. because minimal damage
+was done. Brumley said there was no
+tampering with user accounts, but the
+department did have to reinstall the
+system software, as is customary for
+an incident such as this.
+The number of computer security
+incidents has increased recently, due
+
+to more widespread use of automat
+ed scanning programs, according to
+Brumley. These programs allow
+hackers to look for vulnerabilities in
+hundreds of machines at a time.
+Just last week more than 18,000
+scans were performed on Stanford
+computers. Each scan is counted as
+coming from one source but could
+encompass many computers.
+The intrusion on the electrical en
+gineering server is far from an isolat
+ed incident.
+Earlier this month hackers broke
+into computers on the Leland system
+to extract more than S.(KK) user pass
+words. in what was considered the
+first major break-in to the Leland sys
+tem.
+In June, 3,(XX) researchers at the
+Stanford Linear Accelerator Center
+fell victim to hackers and were left
+without Internet access for a week.
+Last April a hacker found his way
+into the system in the Durand Build
+ing and stole 24C) e-mail passwords.
+Although past incidents have in
+volved hackers deleting doctoral the
+ses from the system. Brumley said the
+goal of hackers is not always to gain
+access to Stanford data.
+Sometimes they use a computer
+system as a "jumping spot" to break
+into other systems, such as banks, so
+that their actions will be harder for
+the victims to trace.
+Generally, however, hackers can
+only gain initial access to Stanford
+computers by logging into a machine
+on campus.
+The PC-Stanford software pack
+age. which includes Kerberos securi
+ty protection, provides users with a
+secure login.
+The Kerberos system encrypts a
+user's login information so hackers
+cannot access it.
+"It's more or less technically in
+feasible for someone to crack Ker
+beros protection," Brumley said.
+Dennis Michael, manager of the
+Leland systems in Sweet Hall, said
+the problem is that campus computer
+users are not logging in with the pro
+tection of Kerberos.
+"We're trying to get rid of clear
+text passwords so that sniffers won't
+work," he said.
+For the second time in two
+months, a computer hacker broke
+into University computers, this time
+stealing passwords for almost 300 e
+mail accounts.
+An outside hacker logged into the
+Electrical Engineering departmental
+computer, compromising all ac
+counts on the server, as well as 61 Le
+land system accounts.
+"It looked like the hacker was
+going for power and wanted to con
+trol the system, not necessarily what
+was on it." said David Brumley, a
+specialist in the Computer Security
+Office.
+The hacker, using a stolen pass
+word, broke into the system at
+around 7 p.m. on Oct. 31 and stayed
+in the system for six days, Brumley
+said. The intruder used a "sniffer." a
+software program that can intercept
+user names and*passwords, to initial
+ly get into the system. Once in.the
+hacker installed programs on the sys
+tem to collect user passwords.
+Brumley said that although there
+were no reports of tampering with e
+mail accounts, the security office did
+shut down all the Leland accounts af
+fected. forcing students to go to
+Sweet Hall to change their pass
+words.
+" That upset a few people, but it's
+an evil necessity," Brumley said.
+The Electrical Engineering De
+partment. which has control over its
+departmental accounts, has warned
+everyone with accounts on its server
+to change their passwords immedi
+ately to avoid further complications.
+The security office was able to
+trace the hacker to an Internet ser
+vice provider but was unable to pro
+ceed further without outside assis
+tance.
+The I Jniversity elected not to call
+the FBI. because minimal damage
+was done. Brumley said there was no
+tampering with user accounts, but the
+department did have to reinstall the
+system software, as is customary for
+an incident such as this.
+The number of computer security
+incidents has increased recently, due
+
+to more widespread use of automat
+ed scanning programs, according to
+Brumley. These programs allow
+hackers to look for vulnerabilities in
+hundreds of machines at a time.
+Just last week more than 18,000
+scans were performed on Stanford
+computers. Each scan is counted as
+coming from one source but could
+encompass many computers.
+The intrusion on the electrical en
+gineering server is far from an isolat
+ed incident.
+Earlier this month hackers broke
+into computers on the Leland system
+to extract more than S.(KK) user pass
+words. in what was considered the
+first major break-in to the Leland sys
+tem.
+In June, 3,(XX) researchers at the
+Stanford Linear Accelerator Center
+fell victim to hackers and were left
+without Internet access for a week.
+Last April a hacker found his way
+into the system in the Durand Build
+ing and stole 24C) e-mail passwords.
+Although past incidents have in
+volved hackers deleting doctoral the
+ses from the system. Brumley said the
+goal of hackers is not always to gain
+access to Stanford data.
+Sometimes they use a computer
+system as a "jumping spot" to break
+into other systems, such as banks, so
+that their actions will be harder for
+the victims to trace.
+Generally, however, hackers can
+only gain initial access to Stanford
+computers by logging into a machine
+on campus.
+The PC-Stanford software pack
+age. which includes Kerberos securi
+ty protection, provides users with a
+secure login.
+The Kerberos system encrypts a
+user's login information so hackers
+cannot access it.
+"It's more or less technically in
+feasible for someone to crack Ker
+beros protection," Brumley said.
+Dennis Michael, manager of the
+Leland systems in Sweet Hall, said
+the problem is that campus computer
+users are not logging in with the pro
+tection of Kerberos.
+"We're trying to get rid of clear
+text passwords so that sniffers won't
+work," he said.
+For the second time in two
+months, a computer hacker broke
+into University computers, this time
+stealing passwords for almost 300 e
+mail accounts.
+An outside hacker logged into the
+Electrical Engineering departmental
+computer, compromising all ac
+counts on the server, as well as 61 Le
+land system accounts.
+"It looked like the hacker was
+going for power and wanted to con
+trol the system, not necessarily what
+was on it." said David Brumley, a
+specialist in the Computer Security
+Office.
+The hacker, using a stolen pass
+word, broke into the system at
+around 7 p.m. on Oct. 31 and stayed
+in the system for six days, Brumley
+said. The intruder used a "sniffer." a
+software program that can intercept
+user names and*passwords, to initial
+ly get into the system. Once in.the
+hacker installed programs on the sys
+tem to collect user passwords.
+Brumley said that although there
+were no reports of tampering with e
+mail accounts, the security office did
+shut down all the Leland accounts af
+fected. forcing students to go to
+Sweet Hall to change their pass
+words.
+" That upset a few people, but it's
+an evil necessity," Brumley said.
+The Electrical Engineering De
+partment. which has control over its
+departmental accounts, has warned
+everyone with accounts on its server
+to change their passwords immedi
+ately to avoid further complications.
+The security office was able to
+trace the hacker to an Internet ser
+vice provider but was unable to pro
+ceed further without outside assis
+tance.
+The I Jniversity elected not to call
+the FBI. because minimal damage
+was done. Brumley said there was no
+tampering with user accounts, but the
+department did have to reinstall the
+system software, as is customary for
+an incident such as this.
+The number of computer security
+incidents has increased recently, due
+
+to more widespread use of automat
+ed scanning programs, according to
+Brumley. These programs allow
+hackers to look for vulnerabilities in
+hundreds of machines at a time.
+Just last week more than 18,000
+scans were performed on Stanford
+computers. Each scan is counted as
+coming from one source but could
+encompass many computers.
+The intrusion on the electrical en
+gineering server is far from an isolat
+ed incident.
+Earlier this month hackers broke
+into computers on the Leland system
+to extract more than S.(KK) user pass
+words. in what was considered the
+first major break-in to the Leland sys
+tem.
+In June, 3,(XX) researchers at the
+Stanford Linear Accelerator Center
+fell victim to hackers and were left
+without Internet access for a week.
+Last April a hacker found his way
+into the system in the Durand Build
+ing and stole 24C) e-mail passwords.
+Although past incidents have in
+volved hackers deleting doctoral the
+ses from the system. Brumley said the
+goal of hackers is not always to gain
+access to Stanford data.
+Sometimes they use a computer
+system as a "jumping spot" to break
+into other systems, such as banks, so
+that their actions will be harder for
+the victims to trace.
+Generally, however, hackers can
+only gain initial access to Stanford
+computers by logging into a machine
+on campus.
+The PC-Stanford software pack
+age. which includes Kerberos securi
+ty protection, provides users with a
+secure login.
+The Kerberos system encrypts a
+user's login information so hackers
+cannot access it.
+"It's more or less technically in
+feasible for someone to crack Ker
+beros protection," Brumley said.
+Dennis Michael, manager of the
+Leland systems in Sweet Hall, said
+the problem is that campus computer
+users are not logging in with the pro
+tection of Kerberos.
+"We're trying to get rid of clear
+text passwords so that sniffers won't
+work," he said.
+For the second time in two
+months, a computer hacker broke
+into University computers, this time
+stealing passwords for almost 300 e
+mail accounts.
+An outside hacker logged into the
+Electrical Engineering departmental
+computer, compromising all ac
+counts on the server, as well as 61 Le
+land system accounts.
+"It looked like the hacker was
+going for power and wanted to con
+trol the system, not necessarily what
+was on it." said David Brumley, a
+specialist in the Computer Security
+Office.
+The hacker, using a stolen pass
+word, broke into the system at
+around 7 p.m. on Oct. 31 and stayed
+in the system for six days, Brumley
+said. The intruder used a "sniffer." a
+software program that can intercept
+user names and*passwords, to initial
+ly get into the system. Once in.the
+hacker installed programs on the sys
+tem to collect user passwords.
+Brumley said that although there
+were no reports of tampering with e
+mail accounts, the security office did
+shut down all the Leland accounts af
+fected. forcing students to go to
+Sweet Hall to change their pass
+words.
+" That upset a few people, but it's
+an evil necessity," Brumley said.
+The Electrical Engineering De
+partment. which has control over its
+departmental accounts, has warned
+everyone with accounts on its server
+to change their passwords immedi
+ately to avoid further complications.
+The security office was able to
+trace the hacker to an Internet ser
+vice provider but was unable to pro
+ceed further without outside assis
+tance.
+The I Jniversity elected not to call
+the FBI. because minimal damage
+was done. Brumley said there was no
+tampering with user accounts, but the
+department did have to reinstall the
+system software, as is customary for
+an incident such as this.
+The number of computer security
+incidents has increased recently, due
+
+to more widespread use of automat
+ed scanning programs, according to
+Brumley. These programs allow
+hackers to look for vulnerabilities in
+hundreds of machines at a time.
+Just last week more than 18,000
+scans were performed on Stanford
+computers. Each scan is counted as
+coming from one source but could
+encompass many computers.
+The intrusion on the electrical en
+gineering server is far from an isolat
+ed incident.
+Earlier this month hackers broke
+into computers on the Leland system
+to extract more than S.(KK) user pass
+words. in what was considered the
+first major break-in to the Leland sys
+tem.
+In June, 3,(XX) researchers at the
+Stanford Linear Accelerator Center
+fell victim to hackers and were left
+without Internet access for a week.
+Last April a hacker found his way
+into the system in the Durand Build
+ing and stole 24C) e-mail passwords.
+Although past incidents have in
+volved hackers deleting doctoral the
+ses from the system. Brumley said the
+goal of hackers is not always to gain
+access to Stanford data.
+Sometimes they use a computer
+system as a "jumping spot" to break
+into other systems, such as banks, so
+that their actions will be harder for
+the victims to trace.
+Generally, however, hackers can
+only gain initial access to Stanford
+computers by logging into a machine
+on campus.
+The PC-Stanford software pack
+age. which includes Kerberos securi
+ty protection, provides users with a
+secure login.
+The Kerberos system encrypts a
+user's login information so hackers
+cannot access it.
+"It's more or less technically in
+feasible for someone to crack Ker
+beros protection," Brumley said.
+Dennis Michael, manager of the
+Leland systems in Sweet Hall, said
+the problem is that campus computer
+users are not logging in with the pro
+tection of Kerberos.
+"We're trying to get rid of clear
+text passwords so that sniffers won't
+work," he said.

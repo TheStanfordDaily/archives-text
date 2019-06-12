@@ -1,0 +1,948 @@
+# Bugs suppress surges
+## 
+### Dave Ehrhardt Brian White Staff writers 
+Q # / need a new pair of sun
+• glasses, and a friend tells
+me that 1 ought to make sure
+that they protect against UV,
+that I shouldn't get a cheap
+pair. Can you advise?
+A .The Bugs assume that
+• you mean ultraviolet ra
+diation and not ultra-violence
+from futuristic hoods. Accord
+ing to the August 1988 issue
+of Consumer Reports, excessive
+exposure to UV can damage
+your eyes, especially if you have
+had cataract surgery.
+The first two components of
+your eye which light passes
+through, the cornea and the
+lens, act as UV filters for the
+sensitive retina at the back of
+the eye. Radiation of
+wavelengths shorter than 295
+nanometers is almost com
+pletely absorbed by molecules
+in the cornea. Although this
+results in some cellular dam
+age, this is of little consequence
+to the cornea, which can repair
+itself rapidly.
+UV radiation above 295
+nanometers which makes it
+through the cornea is stopped
+by the lens. Unfortunately, the
+lens does not share the cornea's
+ability to repair itself. Accum
+ulated damage due to UV ab
+sorption may contribute to the
+gradual denaturation of the
+lens proteins. The denatured
+proteins can form a cataract.
+To minimize eye exposure to
+strong UV radiation, you can
+stay in the library on bright
+sunny days or invest in a pair
+of sunglasses. Consumer
+Reports tested 180 pairs of sun
+glasses for their ability to ab
+sorb UV light. They found that
+every pair, whether they cost
+$8 or $150, blocked 95 percent
+or more of UVB. UVB is
+wavelengths below 318
+nanometers, the most damag
+ing part of the UV spectrum.
+This is a level that should be
+quite adequate for general use,
+such as hanging out in White
+Plaza.
+Although it may be neces
+sary to spend big bucks to
+really impress the poseurs in
+White Plaza, it is not necessary
+to do so to get better eye protec
+tion.
+, I have a Macintosh like
+\?J • so many other students
+ana am wondering how impor
+tant it is to have one of those
+multi-outlet noise/surge sup
+pressors. What are the chances
+that my computer will fry if I
+don't have one? Also, my dorm
+room has only two-pronged out
+lets. Will this negate the effects
+
+of the surge suppressor?
+A. Since the author of that
+• question claimed to be a
+junior in Electrical Engineer
+ing here at Stanford, we
+decided to call MIT which ob
+viously has a more substantial
+EE department. The nerds
+there told us that most surge
+suppressors contain two types
+of electronic protection: Elec
+tromagnetic Interference fil
+ters and Metal-Oxide Varistors.
+Both types are designed to
+protect your computer from po
+tentially dangerous variations
+in the voltage coming from
+your outlets.
+EMI filters are designed to
+selectively pass the 60-cycle
+per-second power line fre
+quency, but block higher
+frequencies. Light dimmers,
+motor speed controls and fluo
+rescent lights all produce high
+frequency noise which is
+carried by the power lines to
+your computer. This noise is
+in the right frequency range to
+be mistaken for data by the
+computer and cause soft errors
+such as dropped digits, crashes
+and lost data.
+MOVs are designed to absorb
+high-voltage, high-energy
+surges which cannot be blocked
+by EMI filters. These surges
+are most commonly produced
+by nearby lightning strikes and
+msyor Con-Ed glitches. With
+out MOVs, these surges could
+pass through your computer's
+power supply and burn out
+sensitive components.
+Just like so-called
+earthquake-proof buildings,
+EMI filters and MOVs do not
+make you invulnerable to all
+nastiness. If the EMI is strong
+enough (big motors on the
+same circuit as your room for
+example), it will get through
+and cause soft errors. Likewise,
+if lightning strikes your power
+pole, your computer will be
+nuked, MOVs or not.
+
+
+The Science
+Bugs
+Q # / need a new pair of sun
+• glasses, and a friend tells
+me that 1 ought to make sure
+that they protect against UV,
+that I shouldn't get a cheap
+pair. Can you advise?
+A .The Bugs assume that
+• you mean ultraviolet ra
+diation and not ultra-violence
+from futuristic hoods. Accord
+ing to the August 1988 issue
+of Consumer Reports, excessive
+exposure to UV can damage
+your eyes, especially if you have
+had cataract surgery.
+The first two components of
+your eye which light passes
+through, the cornea and the
+lens, act as UV filters for the
+sensitive retina at the back of
+the eye. Radiation of
+wavelengths shorter than 295
+nanometers is almost com
+pletely absorbed by molecules
+in the cornea. Although this
+results in some cellular dam
+age, this is of little consequence
+to the cornea, which can repair
+itself rapidly.
+UV radiation above 295
+nanometers which makes it
+through the cornea is stopped
+by the lens. Unfortunately, the
+lens does not share the cornea's
+ability to repair itself. Accum
+ulated damage due to UV ab
+sorption may contribute to the
+gradual denaturation of the
+lens proteins. The denatured
+proteins can form a cataract.
+To minimize eye exposure to
+strong UV radiation, you can
+stay in the library on bright
+sunny days or invest in a pair
+of sunglasses. Consumer
+Reports tested 180 pairs of sun
+glasses for their ability to ab
+sorb UV light. They found that
+every pair, whether they cost
+$8 or $150, blocked 95 percent
+or more of UVB. UVB is
+wavelengths below 318
+nanometers, the most damag
+ing part of the UV spectrum.
+This is a level that should be
+quite adequate for general use,
+such as hanging out in White
+Plaza.
+Although it may be neces
+sary to spend big bucks to
+really impress the poseurs in
+White Plaza, it is not necessary
+to do so to get better eye protec
+tion.
+, I have a Macintosh like
+\?J • so many other students
+ana am wondering how impor
+tant it is to have one of those
+multi-outlet noise/surge sup
+pressors. What are the chances
+that my computer will fry if I
+don't have one? Also, my dorm
+room has only two-pronged out
+lets. Will this negate the effects
+
+of the surge suppressor?
+A. Since the author of that
+• question claimed to be a
+junior in Electrical Engineer
+ing here at Stanford, we
+decided to call MIT which ob
+viously has a more substantial
+EE department. The nerds
+there told us that most surge
+suppressors contain two types
+of electronic protection: Elec
+tromagnetic Interference fil
+ters and Metal-Oxide Varistors.
+Both types are designed to
+protect your computer from po
+tentially dangerous variations
+in the voltage coming from
+your outlets.
+EMI filters are designed to
+selectively pass the 60-cycle
+per-second power line fre
+quency, but block higher
+frequencies. Light dimmers,
+motor speed controls and fluo
+rescent lights all produce high
+frequency noise which is
+carried by the power lines to
+your computer. This noise is
+in the right frequency range to
+be mistaken for data by the
+computer and cause soft errors
+such as dropped digits, crashes
+and lost data.
+MOVs are designed to absorb
+high-voltage, high-energy
+surges which cannot be blocked
+by EMI filters. These surges
+are most commonly produced
+by nearby lightning strikes and
+msyor Con-Ed glitches. With
+out MOVs, these surges could
+pass through your computer's
+power supply and burn out
+sensitive components.
+Just like so-called
+earthquake-proof buildings,
+EMI filters and MOVs do not
+make you invulnerable to all
+nastiness. If the EMI is strong
+enough (big motors on the
+same circuit as your room for
+example), it will get through
+and cause soft errors. Likewise,
+if lightning strikes your power
+pole, your computer will be
+nuked, MOVs or not.
+
+
+The Science
+Bugs
+Q # / need a new pair of sun
+• glasses, and a friend tells
+me that 1 ought to make sure
+that they protect against UV,
+that I shouldn't get a cheap
+pair. Can you advise?
+A .The Bugs assume that
+• you mean ultraviolet ra
+diation and not ultra-violence
+from futuristic hoods. Accord
+ing to the August 1988 issue
+of Consumer Reports, excessive
+exposure to UV can damage
+your eyes, especially if you have
+had cataract surgery.
+The first two components of
+your eye which light passes
+through, the cornea and the
+lens, act as UV filters for the
+sensitive retina at the back of
+the eye. Radiation of
+wavelengths shorter than 295
+nanometers is almost com
+pletely absorbed by molecules
+in the cornea. Although this
+results in some cellular dam
+age, this is of little consequence
+to the cornea, which can repair
+itself rapidly.
+UV radiation above 295
+nanometers which makes it
+through the cornea is stopped
+by the lens. Unfortunately, the
+lens does not share the cornea's
+ability to repair itself. Accum
+ulated damage due to UV ab
+sorption may contribute to the
+gradual denaturation of the
+lens proteins. The denatured
+proteins can form a cataract.
+To minimize eye exposure to
+strong UV radiation, you can
+stay in the library on bright
+sunny days or invest in a pair
+of sunglasses. Consumer
+Reports tested 180 pairs of sun
+glasses for their ability to ab
+sorb UV light. They found that
+every pair, whether they cost
+$8 or $150, blocked 95 percent
+or more of UVB. UVB is
+wavelengths below 318
+nanometers, the most damag
+ing part of the UV spectrum.
+This is a level that should be
+quite adequate for general use,
+such as hanging out in White
+Plaza.
+Although it may be neces
+sary to spend big bucks to
+really impress the poseurs in
+White Plaza, it is not necessary
+to do so to get better eye protec
+tion.
+, I have a Macintosh like
+\?J • so many other students
+ana am wondering how impor
+tant it is to have one of those
+multi-outlet noise/surge sup
+pressors. What are the chances
+that my computer will fry if I
+don't have one? Also, my dorm
+room has only two-pronged out
+lets. Will this negate the effects
+
+of the surge suppressor?
+A. Since the author of that
+• question claimed to be a
+junior in Electrical Engineer
+ing here at Stanford, we
+decided to call MIT which ob
+viously has a more substantial
+EE department. The nerds
+there told us that most surge
+suppressors contain two types
+of electronic protection: Elec
+tromagnetic Interference fil
+ters and Metal-Oxide Varistors.
+Both types are designed to
+protect your computer from po
+tentially dangerous variations
+in the voltage coming from
+your outlets.
+EMI filters are designed to
+selectively pass the 60-cycle
+per-second power line fre
+quency, but block higher
+frequencies. Light dimmers,
+motor speed controls and fluo
+rescent lights all produce high
+frequency noise which is
+carried by the power lines to
+your computer. This noise is
+in the right frequency range to
+be mistaken for data by the
+computer and cause soft errors
+such as dropped digits, crashes
+and lost data.
+MOVs are designed to absorb
+high-voltage, high-energy
+surges which cannot be blocked
+by EMI filters. These surges
+are most commonly produced
+by nearby lightning strikes and
+msyor Con-Ed glitches. With
+out MOVs, these surges could
+pass through your computer's
+power supply and burn out
+sensitive components.
+Just like so-called
+earthquake-proof buildings,
+EMI filters and MOVs do not
+make you invulnerable to all
+nastiness. If the EMI is strong
+enough (big motors on the
+same circuit as your room for
+example), it will get through
+and cause soft errors. Likewise,
+if lightning strikes your power
+pole, your computer will be
+nuked, MOVs or not.
+
+
+The Science
+Bugs
+Q # / need a new pair of sun
+• glasses, and a friend tells
+me that 1 ought to make sure
+that they protect against UV,
+that I shouldn't get a cheap
+pair. Can you advise?
+A .The Bugs assume that
+• you mean ultraviolet ra
+diation and not ultra-violence
+from futuristic hoods. Accord
+ing to the August 1988 issue
+of Consumer Reports, excessive
+exposure to UV can damage
+your eyes, especially if you have
+had cataract surgery.
+The first two components of
+your eye which light passes
+through, the cornea and the
+lens, act as UV filters for the
+sensitive retina at the back of
+the eye. Radiation of
+wavelengths shorter than 295
+nanometers is almost com
+pletely absorbed by molecules
+in the cornea. Although this
+results in some cellular dam
+age, this is of little consequence
+to the cornea, which can repair
+itself rapidly.
+UV radiation above 295
+nanometers which makes it
+through the cornea is stopped
+by the lens. Unfortunately, the
+lens does not share the cornea's
+ability to repair itself. Accum
+ulated damage due to UV ab
+sorption may contribute to the
+gradual denaturation of the
+lens proteins. The denatured
+proteins can form a cataract.
+To minimize eye exposure to
+strong UV radiation, you can
+stay in the library on bright
+sunny days or invest in a pair
+of sunglasses. Consumer
+Reports tested 180 pairs of sun
+glasses for their ability to ab
+sorb UV light. They found that
+every pair, whether they cost
+$8 or $150, blocked 95 percent
+or more of UVB. UVB is
+wavelengths below 318
+nanometers, the most damag
+ing part of the UV spectrum.
+This is a level that should be
+quite adequate for general use,
+such as hanging out in White
+Plaza.
+Although it may be neces
+sary to spend big bucks to
+really impress the poseurs in
+White Plaza, it is not necessary
+to do so to get better eye protec
+tion.
+, I have a Macintosh like
+\?J • so many other students
+ana am wondering how impor
+tant it is to have one of those
+multi-outlet noise/surge sup
+pressors. What are the chances
+that my computer will fry if I
+don't have one? Also, my dorm
+room has only two-pronged out
+lets. Will this negate the effects
+
+of the surge suppressor?
+A. Since the author of that
+• question claimed to be a
+junior in Electrical Engineer
+ing here at Stanford, we
+decided to call MIT which ob
+viously has a more substantial
+EE department. The nerds
+there told us that most surge
+suppressors contain two types
+of electronic protection: Elec
+tromagnetic Interference fil
+ters and Metal-Oxide Varistors.
+Both types are designed to
+protect your computer from po
+tentially dangerous variations
+in the voltage coming from
+your outlets.
+EMI filters are designed to
+selectively pass the 60-cycle
+per-second power line fre
+quency, but block higher
+frequencies. Light dimmers,
+motor speed controls and fluo
+rescent lights all produce high
+frequency noise which is
+carried by the power lines to
+your computer. This noise is
+in the right frequency range to
+be mistaken for data by the
+computer and cause soft errors
+such as dropped digits, crashes
+and lost data.
+MOVs are designed to absorb
+high-voltage, high-energy
+surges which cannot be blocked
+by EMI filters. These surges
+are most commonly produced
+by nearby lightning strikes and
+msyor Con-Ed glitches. With
+out MOVs, these surges could
+pass through your computer's
+power supply and burn out
+sensitive components.
+Just like so-called
+earthquake-proof buildings,
+EMI filters and MOVs do not
+make you invulnerable to all
+nastiness. If the EMI is strong
+enough (big motors on the
+same circuit as your room for
+example), it will get through
+and cause soft errors. Likewise,
+if lightning strikes your power
+pole, your computer will be
+nuked, MOVs or not.
+
+
+The Science
+Bugs
+Q # / need a new pair of sun
+• glasses, and a friend tells
+me that 1 ought to make sure
+that they protect against UV,
+that I shouldn't get a cheap
+pair. Can you advise?
+A .The Bugs assume that
+• you mean ultraviolet ra
+diation and not ultra-violence
+from futuristic hoods. Accord
+ing to the August 1988 issue
+of Consumer Reports, excessive
+exposure to UV can damage
+your eyes, especially if you have
+had cataract surgery.
+The first two components of
+your eye which light passes
+through, the cornea and the
+lens, act as UV filters for the
+sensitive retina at the back of
+the eye. Radiation of
+wavelengths shorter than 295
+nanometers is almost com
+pletely absorbed by molecules
+in the cornea. Although this
+results in some cellular dam
+age, this is of little consequence
+to the cornea, which can repair
+itself rapidly.
+UV radiation above 295
+nanometers which makes it
+through the cornea is stopped
+by the lens. Unfortunately, the
+lens does not share the cornea's
+ability to repair itself. Accum
+ulated damage due to UV ab
+sorption may contribute to the
+gradual denaturation of the
+lens proteins. The denatured
+proteins can form a cataract.
+To minimize eye exposure to
+strong UV radiation, you can
+stay in the library on bright
+sunny days or invest in a pair
+of sunglasses. Consumer
+Reports tested 180 pairs of sun
+glasses for their ability to ab
+sorb UV light. They found that
+every pair, whether they cost
+$8 or $150, blocked 95 percent
+or more of UVB. UVB is
+wavelengths below 318
+nanometers, the most damag
+ing part of the UV spectrum.
+This is a level that should be
+quite adequate for general use,
+such as hanging out in White
+Plaza.
+Although it may be neces
+sary to spend big bucks to
+really impress the poseurs in
+White Plaza, it is not necessary
+to do so to get better eye protec
+tion.
+, I have a Macintosh like
+\?J • so many other students
+ana am wondering how impor
+tant it is to have one of those
+multi-outlet noise/surge sup
+pressors. What are the chances
+that my computer will fry if I
+don't have one? Also, my dorm
+room has only two-pronged out
+lets. Will this negate the effects
+
+of the surge suppressor?
+A. Since the author of that
+• question claimed to be a
+junior in Electrical Engineer
+ing here at Stanford, we
+decided to call MIT which ob
+viously has a more substantial
+EE department. The nerds
+there told us that most surge
+suppressors contain two types
+of electronic protection: Elec
+tromagnetic Interference fil
+ters and Metal-Oxide Varistors.
+Both types are designed to
+protect your computer from po
+tentially dangerous variations
+in the voltage coming from
+your outlets.
+EMI filters are designed to
+selectively pass the 60-cycle
+per-second power line fre
+quency, but block higher
+frequencies. Light dimmers,
+motor speed controls and fluo
+rescent lights all produce high
+frequency noise which is
+carried by the power lines to
+your computer. This noise is
+in the right frequency range to
+be mistaken for data by the
+computer and cause soft errors
+such as dropped digits, crashes
+and lost data.
+MOVs are designed to absorb
+high-voltage, high-energy
+surges which cannot be blocked
+by EMI filters. These surges
+are most commonly produced
+by nearby lightning strikes and
+msyor Con-Ed glitches. With
+out MOVs, these surges could
+pass through your computer's
+power supply and burn out
+sensitive components.
+Just like so-called
+earthquake-proof buildings,
+EMI filters and MOVs do not
+make you invulnerable to all
+nastiness. If the EMI is strong
+enough (big motors on the
+same circuit as your room for
+example), it will get through
+and cause soft errors. Likewise,
+if lightning strikes your power
+pole, your computer will be
+nuked, MOVs or not.
+
+
+The Science
+Bugs
+Q # / need a new pair of sun
+• glasses, and a friend tells
+me that 1 ought to make sure
+that they protect against UV,
+that I shouldn't get a cheap
+pair. Can you advise?
+A .The Bugs assume that
+• you mean ultraviolet ra
+diation and not ultra-violence
+from futuristic hoods. Accord
+ing to the August 1988 issue
+of Consumer Reports, excessive
+exposure to UV can damage
+your eyes, especially if you have
+had cataract surgery.
+The first two components of
+your eye which light passes
+through, the cornea and the
+lens, act as UV filters for the
+sensitive retina at the back of
+the eye. Radiation of
+wavelengths shorter than 295
+nanometers is almost com
+pletely absorbed by molecules
+in the cornea. Although this
+results in some cellular dam
+age, this is of little consequence
+to the cornea, which can repair
+itself rapidly.
+UV radiation above 295
+nanometers which makes it
+through the cornea is stopped
+by the lens. Unfortunately, the
+lens does not share the cornea's
+ability to repair itself. Accum
+ulated damage due to UV ab
+sorption may contribute to the
+gradual denaturation of the
+lens proteins. The denatured
+proteins can form a cataract.
+To minimize eye exposure to
+strong UV radiation, you can
+stay in the library on bright
+sunny days or invest in a pair
+of sunglasses. Consumer
+Reports tested 180 pairs of sun
+glasses for their ability to ab
+sorb UV light. They found that
+every pair, whether they cost
+$8 or $150, blocked 95 percent
+or more of UVB. UVB is
+wavelengths below 318
+nanometers, the most damag
+ing part of the UV spectrum.
+This is a level that should be
+quite adequate for general use,
+such as hanging out in White
+Plaza.
+Although it may be neces
+sary to spend big bucks to
+really impress the poseurs in
+White Plaza, it is not necessary
+to do so to get better eye protec
+tion.
+, I have a Macintosh like
+\?J • so many other students
+ana am wondering how impor
+tant it is to have one of those
+multi-outlet noise/surge sup
+pressors. What are the chances
+that my computer will fry if I
+don't have one? Also, my dorm
+room has only two-pronged out
+lets. Will this negate the effects
+
+of the surge suppressor?
+A. Since the author of that
+• question claimed to be a
+junior in Electrical Engineer
+ing here at Stanford, we
+decided to call MIT which ob
+viously has a more substantial
+EE department. The nerds
+there told us that most surge
+suppressors contain two types
+of electronic protection: Elec
+tromagnetic Interference fil
+ters and Metal-Oxide Varistors.
+Both types are designed to
+protect your computer from po
+tentially dangerous variations
+in the voltage coming from
+your outlets.
+EMI filters are designed to
+selectively pass the 60-cycle
+per-second power line fre
+quency, but block higher
+frequencies. Light dimmers,
+motor speed controls and fluo
+rescent lights all produce high
+frequency noise which is
+carried by the power lines to
+your computer. This noise is
+in the right frequency range to
+be mistaken for data by the
+computer and cause soft errors
+such as dropped digits, crashes
+and lost data.
+MOVs are designed to absorb
+high-voltage, high-energy
+surges which cannot be blocked
+by EMI filters. These surges
+are most commonly produced
+by nearby lightning strikes and
+msyor Con-Ed glitches. With
+out MOVs, these surges could
+pass through your computer's
+power supply and burn out
+sensitive components.
+Just like so-called
+earthquake-proof buildings,
+EMI filters and MOVs do not
+make you invulnerable to all
+nastiness. If the EMI is strong
+enough (big motors on the
+same circuit as your room for
+example), it will get through
+and cause soft errors. Likewise,
+if lightning strikes your power
+pole, your computer will be
+nuked, MOVs or not.
+
+
+The Science
+Bugs
+Q # / need a new pair of sun
+• glasses, and a friend tells
+me that 1 ought to make sure
+that they protect against UV,
+that I shouldn't get a cheap
+pair. Can you advise?
+A .The Bugs assume that
+• you mean ultraviolet ra
+diation and not ultra-violence
+from futuristic hoods. Accord
+ing to the August 1988 issue
+of Consumer Reports, excessive
+exposure to UV can damage
+your eyes, especially if you have
+had cataract surgery.
+The first two components of
+your eye which light passes
+through, the cornea and the
+lens, act as UV filters for the
+sensitive retina at the back of
+the eye. Radiation of
+wavelengths shorter than 295
+nanometers is almost com
+pletely absorbed by molecules
+in the cornea. Although this
+results in some cellular dam
+age, this is of little consequence
+to the cornea, which can repair
+itself rapidly.
+UV radiation above 295
+nanometers which makes it
+through the cornea is stopped
+by the lens. Unfortunately, the
+lens does not share the cornea's
+ability to repair itself. Accum
+ulated damage due to UV ab
+sorption may contribute to the
+gradual denaturation of the
+lens proteins. The denatured
+proteins can form a cataract.
+To minimize eye exposure to
+strong UV radiation, you can
+stay in the library on bright
+sunny days or invest in a pair
+of sunglasses. Consumer
+Reports tested 180 pairs of sun
+glasses for their ability to ab
+sorb UV light. They found that
+every pair, whether they cost
+$8 or $150, blocked 95 percent
+or more of UVB. UVB is
+wavelengths below 318
+nanometers, the most damag
+ing part of the UV spectrum.
+This is a level that should be
+quite adequate for general use,
+such as hanging out in White
+Plaza.
+Although it may be neces
+sary to spend big bucks to
+really impress the poseurs in
+White Plaza, it is not necessary
+to do so to get better eye protec
+tion.
+, I have a Macintosh like
+\?J • so many other students
+ana am wondering how impor
+tant it is to have one of those
+multi-outlet noise/surge sup
+pressors. What are the chances
+that my computer will fry if I
+don't have one? Also, my dorm
+room has only two-pronged out
+lets. Will this negate the effects
+
+of the surge suppressor?
+A. Since the author of that
+• question claimed to be a
+junior in Electrical Engineer
+ing here at Stanford, we
+decided to call MIT which ob
+viously has a more substantial
+EE department. The nerds
+there told us that most surge
+suppressors contain two types
+of electronic protection: Elec
+tromagnetic Interference fil
+ters and Metal-Oxide Varistors.
+Both types are designed to
+protect your computer from po
+tentially dangerous variations
+in the voltage coming from
+your outlets.
+EMI filters are designed to
+selectively pass the 60-cycle
+per-second power line fre
+quency, but block higher
+frequencies. Light dimmers,
+motor speed controls and fluo
+rescent lights all produce high
+frequency noise which is
+carried by the power lines to
+your computer. This noise is
+in the right frequency range to
+be mistaken for data by the
+computer and cause soft errors
+such as dropped digits, crashes
+and lost data.
+MOVs are designed to absorb
+high-voltage, high-energy
+surges which cannot be blocked
+by EMI filters. These surges
+are most commonly produced
+by nearby lightning strikes and
+msyor Con-Ed glitches. With
+out MOVs, these surges could
+pass through your computer's
+power supply and burn out
+sensitive components.
+Just like so-called
+earthquake-proof buildings,
+EMI filters and MOVs do not
+make you invulnerable to all
+nastiness. If the EMI is strong
+enough (big motors on the
+same circuit as your room for
+example), it will get through
+and cause soft errors. Likewise,
+if lightning strikes your power
+pole, your computer will be
+nuked, MOVs or not.
+
+
+The Science
+Bugs

@@ -1,0 +1,1499 @@
+# Course Work funding expires, administrators explore alternatives
+## 
+### EUGENIE KIM CAMILLE RICKETTS 
+After the expiration of a grant from the Andrew
+W. Mellon Foundation that used to fund Stanford's
+CourseWork software, the University has been
+scrambling to find a way to pay for the program's cost
+ly maintenance.
+Since CourseWork's inception two years ago, fac
+ulty members have had free access to the service due
+to the Mellon Foundation's grant, which amounted to
+$500,000 over a two-year period. However, the termi
+nation of the grant earlier this year has prompted the
+University to ask departments to consider sharing an
+nual costs, which Academic Computing has estimated
+at $730,000 per year for maintenance alone.
+Many faculty members were struck by the admin
+istration's proposal to charge individual departments
+or even instructors. In an e-mail sent out to the School
+of Engineering last fall, Dean Jim Plummer wrote,
+"The bottom line here is that the costs of using course
+ware are going to be passed on to its users one way or
+another."
+Plummer said that Provost John Etchemendy rec
+ommended a few courses of action for the school. Ei
+ther the school could directly pay Academic Comput
+ing to maintain the system, or the provost's office
+
+could take care of the cost of maintenance, which
+would still mean a $100,000 cut in the school's gener
+al funds.
+Etchemendy's third suggestion was for the school
+to discontinue using CourseWork altogether.
+Indeed, in response to the higher costs, the Elec
+trical Engineering Department has abandoned
+CourseWork for a free alternative: a program called
+CCNet, which was developed by Stanford graduate
+student Keyvan Mohajer. Professors who use the soft
+ware said it works well, allowing for a smooth transi
+tion from CourseWork.
+Mohajer developed CCNet, which offers the same
+range of tools as CourseWork, during his undergrad
+uate study at the University of Toronto. After his
+alma mater successfully adopted the software, he de
+cided to license it to the Stanford Electrical Engineer
+ing Department free of charge. However, he says this
+type of software should reasonably cost $100,000 to
+$400,000 per year.
+"I wanted to contribute to my department," Mo
+hajer said. "I was really, really happy to be here. I al
+ways wanted to go to Stanford since I was 18, and I got
+in, and they gave me funding."
+
+Mohajer said he wanted to do
+something for Stanford after being
+accepted.
+"So I offered not only the license
+but also my time to promote, main
+tain and support it, and I've been
+doing that for the past four years,"
+he explained.
+Mohajer was surprised by the
+amount of money the University is
+requesting for system upkeep and
+said that it would be necessary to cut
+costs so that faculty remain willing to
+use CourseWork. He added that he
+would be willing to make CCNet
+available to all departments on cam
+pus if it could help reduce expenses.
+
+At Stanford, CCNet requires no
+maintenance costs and only a few
+hours of work uploading new cours
+es each quarter, for which Mohajer
+assumes full responsibility.
+This has led some engineering
+faculty members to question why
+CourseWork is so expensive.
+Lois Brooks, director of Acade
+mic Computing, says that almost all
+of the expenses are used to pay six
+staff members who manage differ
+ent parts of the CourseWork soft
+ware.
+CourseWork provides services
+for approximately 600 courses each
+quarter, in contrast to the more than
+150 engineering courses on CCNet.
+It began in 1998, developed in the
+Stanford Learning Lab by Scott
+Stocker, the current director of Web
+communications. The software was
+created to allow human biology stu
+
+dents to access problem sets online.
+Since then, the project has adapted
+to faculty needs and now includes
+special resources for disabled and
+foreign language students.
+With the addition of these new
+features, the Academic Computing
+staff has invested more time and en
+ergy in satisfying the growing num
+ber of requests for new tools.
+"We are a victim of our own suc
+cess," said Daisy Flemming, one of
+the key software developers.
+"CourseWork is very successful, so
+demand for features and requests for
+support are high."
+Flemming said the support team
+plays an important role in the sys
+tem's maintenance.
+"They put in extra hours during
+the weekend because they are very
+committed to the project and want
+the users to have good experiences
+
+with the product," she said. "We re
+ally need extra help and support, and
+not managing to get any funding in
+this area really let us down."
+In contrast, Mohajer said that he
+has received no requests for support
+since CCNet went online at Stan
+ford, which could help explain the
+disparity between maintenance costs
+for the two programs.
+"I don't know where the $730,000
+figure comes from," Stocker said. "I
+would imagine that most of that is
+staff positions."
+But according to Brooks, every
+one who helps maintain the Course-
+Work system was already employed
+by the University, and simply inte
+grated the program into their exist
+ing job descriptions.
+Both Brooks and Stocker ac
+knowledged that the University is
+making an effort to cut costs in the
+
+near future.
+"I understand that they are begin
+ning to work with several other uni
+versities to adapt CourseWork into
+an open-source system that would be
+shared among those schools, which
+eventually should lower the overall
+cost for each university," Stocker
+said.
+Indeed, The Chronicle of Higher
+Education reported yesterday that
+Stanford, along with the Indiana
+University system, the Massachu
+setts Institute of Technology and the
+University of Michigan at Ann
+Arbor, has announced a $6.8 million
+collaborative venture to create
+open-source courseware tools and
+related software for higher-educa
+tion institutions.
+The Mellon Foundation has do
+nated $2.4 million for the project,
+called the Sakai Project, and each of
+
+the four institutions is providing ser
+vices worth about $1.1 million over
+two years.
+"There have been a lot of break
+throughs in Java technology since we
+launched CourseWork," Flemming
+said. "If we want to take advantage
+of them we need to redesign the
+framework. If we don't move for
+ward with the rest of the world, our
+code will become obsolete and our
+services will become harder to main
+tain."
+For now, Brooks said that
+Etchemendy will ultimately decide
+who pays for CourseWork. One idea
+is to distribute costs according to
+which departments use the system
+most. It is unlikely that individual
+faculty members will be charged, but
+if departments incur the new costs,
+resources might be cut for both stu
+dents and staff.
+After the expiration of a grant from the Andrew
+W. Mellon Foundation that used to fund Stanford's
+CourseWork software, the University has been
+scrambling to find a way to pay for the program's cost
+ly maintenance.
+Since CourseWork's inception two years ago, fac
+ulty members have had free access to the service due
+to the Mellon Foundation's grant, which amounted to
+$500,000 over a two-year period. However, the termi
+nation of the grant earlier this year has prompted the
+University to ask departments to consider sharing an
+nual costs, which Academic Computing has estimated
+at $730,000 per year for maintenance alone.
+Many faculty members were struck by the admin
+istration's proposal to charge individual departments
+or even instructors. In an e-mail sent out to the School
+of Engineering last fall, Dean Jim Plummer wrote,
+"The bottom line here is that the costs of using course
+ware are going to be passed on to its users one way or
+another."
+Plummer said that Provost John Etchemendy rec
+ommended a few courses of action for the school. Ei
+ther the school could directly pay Academic Comput
+ing to maintain the system, or the provost's office
+
+could take care of the cost of maintenance, which
+would still mean a $100,000 cut in the school's gener
+al funds.
+Etchemendy's third suggestion was for the school
+to discontinue using CourseWork altogether.
+Indeed, in response to the higher costs, the Elec
+trical Engineering Department has abandoned
+CourseWork for a free alternative: a program called
+CCNet, which was developed by Stanford graduate
+student Keyvan Mohajer. Professors who use the soft
+ware said it works well, allowing for a smooth transi
+tion from CourseWork.
+Mohajer developed CCNet, which offers the same
+range of tools as CourseWork, during his undergrad
+uate study at the University of Toronto. After his
+alma mater successfully adopted the software, he de
+cided to license it to the Stanford Electrical Engineer
+ing Department free of charge. However, he says this
+type of software should reasonably cost $100,000 to
+$400,000 per year.
+"I wanted to contribute to my department," Mo
+hajer said. "I was really, really happy to be here. I al
+ways wanted to go to Stanford since I was 18, and I got
+in, and they gave me funding."
+
+Mohajer said he wanted to do
+something for Stanford after being
+accepted.
+"So I offered not only the license
+but also my time to promote, main
+tain and support it, and I've been
+doing that for the past four years,"
+he explained.
+Mohajer was surprised by the
+amount of money the University is
+requesting for system upkeep and
+said that it would be necessary to cut
+costs so that faculty remain willing to
+use CourseWork. He added that he
+would be willing to make CCNet
+available to all departments on cam
+pus if it could help reduce expenses.
+
+At Stanford, CCNet requires no
+maintenance costs and only a few
+hours of work uploading new cours
+es each quarter, for which Mohajer
+assumes full responsibility.
+This has led some engineering
+faculty members to question why
+CourseWork is so expensive.
+Lois Brooks, director of Acade
+mic Computing, says that almost all
+of the expenses are used to pay six
+staff members who manage differ
+ent parts of the CourseWork soft
+ware.
+CourseWork provides services
+for approximately 600 courses each
+quarter, in contrast to the more than
+150 engineering courses on CCNet.
+It began in 1998, developed in the
+Stanford Learning Lab by Scott
+Stocker, the current director of Web
+communications. The software was
+created to allow human biology stu
+
+dents to access problem sets online.
+Since then, the project has adapted
+to faculty needs and now includes
+special resources for disabled and
+foreign language students.
+With the addition of these new
+features, the Academic Computing
+staff has invested more time and en
+ergy in satisfying the growing num
+ber of requests for new tools.
+"We are a victim of our own suc
+cess," said Daisy Flemming, one of
+the key software developers.
+"CourseWork is very successful, so
+demand for features and requests for
+support are high."
+Flemming said the support team
+plays an important role in the sys
+tem's maintenance.
+"They put in extra hours during
+the weekend because they are very
+committed to the project and want
+the users to have good experiences
+
+with the product," she said. "We re
+ally need extra help and support, and
+not managing to get any funding in
+this area really let us down."
+In contrast, Mohajer said that he
+has received no requests for support
+since CCNet went online at Stan
+ford, which could help explain the
+disparity between maintenance costs
+for the two programs.
+"I don't know where the $730,000
+figure comes from," Stocker said. "I
+would imagine that most of that is
+staff positions."
+But according to Brooks, every
+one who helps maintain the Course-
+Work system was already employed
+by the University, and simply inte
+grated the program into their exist
+ing job descriptions.
+Both Brooks and Stocker ac
+knowledged that the University is
+making an effort to cut costs in the
+
+near future.
+"I understand that they are begin
+ning to work with several other uni
+versities to adapt CourseWork into
+an open-source system that would be
+shared among those schools, which
+eventually should lower the overall
+cost for each university," Stocker
+said.
+Indeed, The Chronicle of Higher
+Education reported yesterday that
+Stanford, along with the Indiana
+University system, the Massachu
+setts Institute of Technology and the
+University of Michigan at Ann
+Arbor, has announced a $6.8 million
+collaborative venture to create
+open-source courseware tools and
+related software for higher-educa
+tion institutions.
+The Mellon Foundation has do
+nated $2.4 million for the project,
+called the Sakai Project, and each of
+
+the four institutions is providing ser
+vices worth about $1.1 million over
+two years.
+"There have been a lot of break
+throughs in Java technology since we
+launched CourseWork," Flemming
+said. "If we want to take advantage
+of them we need to redesign the
+framework. If we don't move for
+ward with the rest of the world, our
+code will become obsolete and our
+services will become harder to main
+tain."
+For now, Brooks said that
+Etchemendy will ultimately decide
+who pays for CourseWork. One idea
+is to distribute costs according to
+which departments use the system
+most. It is unlikely that individual
+faculty members will be charged, but
+if departments incur the new costs,
+resources might be cut for both stu
+dents and staff.
+After the expiration of a grant from the Andrew
+W. Mellon Foundation that used to fund Stanford's
+CourseWork software, the University has been
+scrambling to find a way to pay for the program's cost
+ly maintenance.
+Since CourseWork's inception two years ago, fac
+ulty members have had free access to the service due
+to the Mellon Foundation's grant, which amounted to
+$500,000 over a two-year period. However, the termi
+nation of the grant earlier this year has prompted the
+University to ask departments to consider sharing an
+nual costs, which Academic Computing has estimated
+at $730,000 per year for maintenance alone.
+Many faculty members were struck by the admin
+istration's proposal to charge individual departments
+or even instructors. In an e-mail sent out to the School
+of Engineering last fall, Dean Jim Plummer wrote,
+"The bottom line here is that the costs of using course
+ware are going to be passed on to its users one way or
+another."
+Plummer said that Provost John Etchemendy rec
+ommended a few courses of action for the school. Ei
+ther the school could directly pay Academic Comput
+ing to maintain the system, or the provost's office
+
+could take care of the cost of maintenance, which
+would still mean a $100,000 cut in the school's gener
+al funds.
+Etchemendy's third suggestion was for the school
+to discontinue using CourseWork altogether.
+Indeed, in response to the higher costs, the Elec
+trical Engineering Department has abandoned
+CourseWork for a free alternative: a program called
+CCNet, which was developed by Stanford graduate
+student Keyvan Mohajer. Professors who use the soft
+ware said it works well, allowing for a smooth transi
+tion from CourseWork.
+Mohajer developed CCNet, which offers the same
+range of tools as CourseWork, during his undergrad
+uate study at the University of Toronto. After his
+alma mater successfully adopted the software, he de
+cided to license it to the Stanford Electrical Engineer
+ing Department free of charge. However, he says this
+type of software should reasonably cost $100,000 to
+$400,000 per year.
+"I wanted to contribute to my department," Mo
+hajer said. "I was really, really happy to be here. I al
+ways wanted to go to Stanford since I was 18, and I got
+in, and they gave me funding."
+
+Mohajer said he wanted to do
+something for Stanford after being
+accepted.
+"So I offered not only the license
+but also my time to promote, main
+tain and support it, and I've been
+doing that for the past four years,"
+he explained.
+Mohajer was surprised by the
+amount of money the University is
+requesting for system upkeep and
+said that it would be necessary to cut
+costs so that faculty remain willing to
+use CourseWork. He added that he
+would be willing to make CCNet
+available to all departments on cam
+pus if it could help reduce expenses.
+
+At Stanford, CCNet requires no
+maintenance costs and only a few
+hours of work uploading new cours
+es each quarter, for which Mohajer
+assumes full responsibility.
+This has led some engineering
+faculty members to question why
+CourseWork is so expensive.
+Lois Brooks, director of Acade
+mic Computing, says that almost all
+of the expenses are used to pay six
+staff members who manage differ
+ent parts of the CourseWork soft
+ware.
+CourseWork provides services
+for approximately 600 courses each
+quarter, in contrast to the more than
+150 engineering courses on CCNet.
+It began in 1998, developed in the
+Stanford Learning Lab by Scott
+Stocker, the current director of Web
+communications. The software was
+created to allow human biology stu
+
+dents to access problem sets online.
+Since then, the project has adapted
+to faculty needs and now includes
+special resources for disabled and
+foreign language students.
+With the addition of these new
+features, the Academic Computing
+staff has invested more time and en
+ergy in satisfying the growing num
+ber of requests for new tools.
+"We are a victim of our own suc
+cess," said Daisy Flemming, one of
+the key software developers.
+"CourseWork is very successful, so
+demand for features and requests for
+support are high."
+Flemming said the support team
+plays an important role in the sys
+tem's maintenance.
+"They put in extra hours during
+the weekend because they are very
+committed to the project and want
+the users to have good experiences
+
+with the product," she said. "We re
+ally need extra help and support, and
+not managing to get any funding in
+this area really let us down."
+In contrast, Mohajer said that he
+has received no requests for support
+since CCNet went online at Stan
+ford, which could help explain the
+disparity between maintenance costs
+for the two programs.
+"I don't know where the $730,000
+figure comes from," Stocker said. "I
+would imagine that most of that is
+staff positions."
+But according to Brooks, every
+one who helps maintain the Course-
+Work system was already employed
+by the University, and simply inte
+grated the program into their exist
+ing job descriptions.
+Both Brooks and Stocker ac
+knowledged that the University is
+making an effort to cut costs in the
+
+near future.
+"I understand that they are begin
+ning to work with several other uni
+versities to adapt CourseWork into
+an open-source system that would be
+shared among those schools, which
+eventually should lower the overall
+cost for each university," Stocker
+said.
+Indeed, The Chronicle of Higher
+Education reported yesterday that
+Stanford, along with the Indiana
+University system, the Massachu
+setts Institute of Technology and the
+University of Michigan at Ann
+Arbor, has announced a $6.8 million
+collaborative venture to create
+open-source courseware tools and
+related software for higher-educa
+tion institutions.
+The Mellon Foundation has do
+nated $2.4 million for the project,
+called the Sakai Project, and each of
+
+the four institutions is providing ser
+vices worth about $1.1 million over
+two years.
+"There have been a lot of break
+throughs in Java technology since we
+launched CourseWork," Flemming
+said. "If we want to take advantage
+of them we need to redesign the
+framework. If we don't move for
+ward with the rest of the world, our
+code will become obsolete and our
+services will become harder to main
+tain."
+For now, Brooks said that
+Etchemendy will ultimately decide
+who pays for CourseWork. One idea
+is to distribute costs according to
+which departments use the system
+most. It is unlikely that individual
+faculty members will be charged, but
+if departments incur the new costs,
+resources might be cut for both stu
+dents and staff.
+After the expiration of a grant from the Andrew
+W. Mellon Foundation that used to fund Stanford's
+CourseWork software, the University has been
+scrambling to find a way to pay for the program's cost
+ly maintenance.
+Since CourseWork's inception two years ago, fac
+ulty members have had free access to the service due
+to the Mellon Foundation's grant, which amounted to
+$500,000 over a two-year period. However, the termi
+nation of the grant earlier this year has prompted the
+University to ask departments to consider sharing an
+nual costs, which Academic Computing has estimated
+at $730,000 per year for maintenance alone.
+Many faculty members were struck by the admin
+istration's proposal to charge individual departments
+or even instructors. In an e-mail sent out to the School
+of Engineering last fall, Dean Jim Plummer wrote,
+"The bottom line here is that the costs of using course
+ware are going to be passed on to its users one way or
+another."
+Plummer said that Provost John Etchemendy rec
+ommended a few courses of action for the school. Ei
+ther the school could directly pay Academic Comput
+ing to maintain the system, or the provost's office
+
+could take care of the cost of maintenance, which
+would still mean a $100,000 cut in the school's gener
+al funds.
+Etchemendy's third suggestion was for the school
+to discontinue using CourseWork altogether.
+Indeed, in response to the higher costs, the Elec
+trical Engineering Department has abandoned
+CourseWork for a free alternative: a program called
+CCNet, which was developed by Stanford graduate
+student Keyvan Mohajer. Professors who use the soft
+ware said it works well, allowing for a smooth transi
+tion from CourseWork.
+Mohajer developed CCNet, which offers the same
+range of tools as CourseWork, during his undergrad
+uate study at the University of Toronto. After his
+alma mater successfully adopted the software, he de
+cided to license it to the Stanford Electrical Engineer
+ing Department free of charge. However, he says this
+type of software should reasonably cost $100,000 to
+$400,000 per year.
+"I wanted to contribute to my department," Mo
+hajer said. "I was really, really happy to be here. I al
+ways wanted to go to Stanford since I was 18, and I got
+in, and they gave me funding."
+
+Mohajer said he wanted to do
+something for Stanford after being
+accepted.
+"So I offered not only the license
+but also my time to promote, main
+tain and support it, and I've been
+doing that for the past four years,"
+he explained.
+Mohajer was surprised by the
+amount of money the University is
+requesting for system upkeep and
+said that it would be necessary to cut
+costs so that faculty remain willing to
+use CourseWork. He added that he
+would be willing to make CCNet
+available to all departments on cam
+pus if it could help reduce expenses.
+
+At Stanford, CCNet requires no
+maintenance costs and only a few
+hours of work uploading new cours
+es each quarter, for which Mohajer
+assumes full responsibility.
+This has led some engineering
+faculty members to question why
+CourseWork is so expensive.
+Lois Brooks, director of Acade
+mic Computing, says that almost all
+of the expenses are used to pay six
+staff members who manage differ
+ent parts of the CourseWork soft
+ware.
+CourseWork provides services
+for approximately 600 courses each
+quarter, in contrast to the more than
+150 engineering courses on CCNet.
+It began in 1998, developed in the
+Stanford Learning Lab by Scott
+Stocker, the current director of Web
+communications. The software was
+created to allow human biology stu
+
+dents to access problem sets online.
+Since then, the project has adapted
+to faculty needs and now includes
+special resources for disabled and
+foreign language students.
+With the addition of these new
+features, the Academic Computing
+staff has invested more time and en
+ergy in satisfying the growing num
+ber of requests for new tools.
+"We are a victim of our own suc
+cess," said Daisy Flemming, one of
+the key software developers.
+"CourseWork is very successful, so
+demand for features and requests for
+support are high."
+Flemming said the support team
+plays an important role in the sys
+tem's maintenance.
+"They put in extra hours during
+the weekend because they are very
+committed to the project and want
+the users to have good experiences
+
+with the product," she said. "We re
+ally need extra help and support, and
+not managing to get any funding in
+this area really let us down."
+In contrast, Mohajer said that he
+has received no requests for support
+since CCNet went online at Stan
+ford, which could help explain the
+disparity between maintenance costs
+for the two programs.
+"I don't know where the $730,000
+figure comes from," Stocker said. "I
+would imagine that most of that is
+staff positions."
+But according to Brooks, every
+one who helps maintain the Course-
+Work system was already employed
+by the University, and simply inte
+grated the program into their exist
+ing job descriptions.
+Both Brooks and Stocker ac
+knowledged that the University is
+making an effort to cut costs in the
+
+near future.
+"I understand that they are begin
+ning to work with several other uni
+versities to adapt CourseWork into
+an open-source system that would be
+shared among those schools, which
+eventually should lower the overall
+cost for each university," Stocker
+said.
+Indeed, The Chronicle of Higher
+Education reported yesterday that
+Stanford, along with the Indiana
+University system, the Massachu
+setts Institute of Technology and the
+University of Michigan at Ann
+Arbor, has announced a $6.8 million
+collaborative venture to create
+open-source courseware tools and
+related software for higher-educa
+tion institutions.
+The Mellon Foundation has do
+nated $2.4 million for the project,
+called the Sakai Project, and each of
+
+the four institutions is providing ser
+vices worth about $1.1 million over
+two years.
+"There have been a lot of break
+throughs in Java technology since we
+launched CourseWork," Flemming
+said. "If we want to take advantage
+of them we need to redesign the
+framework. If we don't move for
+ward with the rest of the world, our
+code will become obsolete and our
+services will become harder to main
+tain."
+For now, Brooks said that
+Etchemendy will ultimately decide
+who pays for CourseWork. One idea
+is to distribute costs according to
+which departments use the system
+most. It is unlikely that individual
+faculty members will be charged, but
+if departments incur the new costs,
+resources might be cut for both stu
+dents and staff.
+After the expiration of a grant from the Andrew
+W. Mellon Foundation that used to fund Stanford's
+CourseWork software, the University has been
+scrambling to find a way to pay for the program's cost
+ly maintenance.
+Since CourseWork's inception two years ago, fac
+ulty members have had free access to the service due
+to the Mellon Foundation's grant, which amounted to
+$500,000 over a two-year period. However, the termi
+nation of the grant earlier this year has prompted the
+University to ask departments to consider sharing an
+nual costs, which Academic Computing has estimated
+at $730,000 per year for maintenance alone.
+Many faculty members were struck by the admin
+istration's proposal to charge individual departments
+or even instructors. In an e-mail sent out to the School
+of Engineering last fall, Dean Jim Plummer wrote,
+"The bottom line here is that the costs of using course
+ware are going to be passed on to its users one way or
+another."
+Plummer said that Provost John Etchemendy rec
+ommended a few courses of action for the school. Ei
+ther the school could directly pay Academic Comput
+ing to maintain the system, or the provost's office
+
+could take care of the cost of maintenance, which
+would still mean a $100,000 cut in the school's gener
+al funds.
+Etchemendy's third suggestion was for the school
+to discontinue using CourseWork altogether.
+Indeed, in response to the higher costs, the Elec
+trical Engineering Department has abandoned
+CourseWork for a free alternative: a program called
+CCNet, which was developed by Stanford graduate
+student Keyvan Mohajer. Professors who use the soft
+ware said it works well, allowing for a smooth transi
+tion from CourseWork.
+Mohajer developed CCNet, which offers the same
+range of tools as CourseWork, during his undergrad
+uate study at the University of Toronto. After his
+alma mater successfully adopted the software, he de
+cided to license it to the Stanford Electrical Engineer
+ing Department free of charge. However, he says this
+type of software should reasonably cost $100,000 to
+$400,000 per year.
+"I wanted to contribute to my department," Mo
+hajer said. "I was really, really happy to be here. I al
+ways wanted to go to Stanford since I was 18, and I got
+in, and they gave me funding."
+
+Mohajer said he wanted to do
+something for Stanford after being
+accepted.
+"So I offered not only the license
+but also my time to promote, main
+tain and support it, and I've been
+doing that for the past four years,"
+he explained.
+Mohajer was surprised by the
+amount of money the University is
+requesting for system upkeep and
+said that it would be necessary to cut
+costs so that faculty remain willing to
+use CourseWork. He added that he
+would be willing to make CCNet
+available to all departments on cam
+pus if it could help reduce expenses.
+
+At Stanford, CCNet requires no
+maintenance costs and only a few
+hours of work uploading new cours
+es each quarter, for which Mohajer
+assumes full responsibility.
+This has led some engineering
+faculty members to question why
+CourseWork is so expensive.
+Lois Brooks, director of Acade
+mic Computing, says that almost all
+of the expenses are used to pay six
+staff members who manage differ
+ent parts of the CourseWork soft
+ware.
+CourseWork provides services
+for approximately 600 courses each
+quarter, in contrast to the more than
+150 engineering courses on CCNet.
+It began in 1998, developed in the
+Stanford Learning Lab by Scott
+Stocker, the current director of Web
+communications. The software was
+created to allow human biology stu
+
+dents to access problem sets online.
+Since then, the project has adapted
+to faculty needs and now includes
+special resources for disabled and
+foreign language students.
+With the addition of these new
+features, the Academic Computing
+staff has invested more time and en
+ergy in satisfying the growing num
+ber of requests for new tools.
+"We are a victim of our own suc
+cess," said Daisy Flemming, one of
+the key software developers.
+"CourseWork is very successful, so
+demand for features and requests for
+support are high."
+Flemming said the support team
+plays an important role in the sys
+tem's maintenance.
+"They put in extra hours during
+the weekend because they are very
+committed to the project and want
+the users to have good experiences
+
+with the product," she said. "We re
+ally need extra help and support, and
+not managing to get any funding in
+this area really let us down."
+In contrast, Mohajer said that he
+has received no requests for support
+since CCNet went online at Stan
+ford, which could help explain the
+disparity between maintenance costs
+for the two programs.
+"I don't know where the $730,000
+figure comes from," Stocker said. "I
+would imagine that most of that is
+staff positions."
+But according to Brooks, every
+one who helps maintain the Course-
+Work system was already employed
+by the University, and simply inte
+grated the program into their exist
+ing job descriptions.
+Both Brooks and Stocker ac
+knowledged that the University is
+making an effort to cut costs in the
+
+near future.
+"I understand that they are begin
+ning to work with several other uni
+versities to adapt CourseWork into
+an open-source system that would be
+shared among those schools, which
+eventually should lower the overall
+cost for each university," Stocker
+said.
+Indeed, The Chronicle of Higher
+Education reported yesterday that
+Stanford, along with the Indiana
+University system, the Massachu
+setts Institute of Technology and the
+University of Michigan at Ann
+Arbor, has announced a $6.8 million
+collaborative venture to create
+open-source courseware tools and
+related software for higher-educa
+tion institutions.
+The Mellon Foundation has do
+nated $2.4 million for the project,
+called the Sakai Project, and each of
+
+the four institutions is providing ser
+vices worth about $1.1 million over
+two years.
+"There have been a lot of break
+throughs in Java technology since we
+launched CourseWork," Flemming
+said. "If we want to take advantage
+of them we need to redesign the
+framework. If we don't move for
+ward with the rest of the world, our
+code will become obsolete and our
+services will become harder to main
+tain."
+For now, Brooks said that
+Etchemendy will ultimately decide
+who pays for CourseWork. One idea
+is to distribute costs according to
+which departments use the system
+most. It is unlikely that individual
+faculty members will be charged, but
+if departments incur the new costs,
+resources might be cut for both stu
+dents and staff.
+After the expiration of a grant from the Andrew
+W. Mellon Foundation that used to fund Stanford's
+CourseWork software, the University has been
+scrambling to find a way to pay for the program's cost
+ly maintenance.
+Since CourseWork's inception two years ago, fac
+ulty members have had free access to the service due
+to the Mellon Foundation's grant, which amounted to
+$500,000 over a two-year period. However, the termi
+nation of the grant earlier this year has prompted the
+University to ask departments to consider sharing an
+nual costs, which Academic Computing has estimated
+at $730,000 per year for maintenance alone.
+Many faculty members were struck by the admin
+istration's proposal to charge individual departments
+or even instructors. In an e-mail sent out to the School
+of Engineering last fall, Dean Jim Plummer wrote,
+"The bottom line here is that the costs of using course
+ware are going to be passed on to its users one way or
+another."
+Plummer said that Provost John Etchemendy rec
+ommended a few courses of action for the school. Ei
+ther the school could directly pay Academic Comput
+ing to maintain the system, or the provost's office
+
+could take care of the cost of maintenance, which
+would still mean a $100,000 cut in the school's gener
+al funds.
+Etchemendy's third suggestion was for the school
+to discontinue using CourseWork altogether.
+Indeed, in response to the higher costs, the Elec
+trical Engineering Department has abandoned
+CourseWork for a free alternative: a program called
+CCNet, which was developed by Stanford graduate
+student Keyvan Mohajer. Professors who use the soft
+ware said it works well, allowing for a smooth transi
+tion from CourseWork.
+Mohajer developed CCNet, which offers the same
+range of tools as CourseWork, during his undergrad
+uate study at the University of Toronto. After his
+alma mater successfully adopted the software, he de
+cided to license it to the Stanford Electrical Engineer
+ing Department free of charge. However, he says this
+type of software should reasonably cost $100,000 to
+$400,000 per year.
+"I wanted to contribute to my department," Mo
+hajer said. "I was really, really happy to be here. I al
+ways wanted to go to Stanford since I was 18, and I got
+in, and they gave me funding."
+
+Mohajer said he wanted to do
+something for Stanford after being
+accepted.
+"So I offered not only the license
+but also my time to promote, main
+tain and support it, and I've been
+doing that for the past four years,"
+he explained.
+Mohajer was surprised by the
+amount of money the University is
+requesting for system upkeep and
+said that it would be necessary to cut
+costs so that faculty remain willing to
+use CourseWork. He added that he
+would be willing to make CCNet
+available to all departments on cam
+pus if it could help reduce expenses.
+
+At Stanford, CCNet requires no
+maintenance costs and only a few
+hours of work uploading new cours
+es each quarter, for which Mohajer
+assumes full responsibility.
+This has led some engineering
+faculty members to question why
+CourseWork is so expensive.
+Lois Brooks, director of Acade
+mic Computing, says that almost all
+of the expenses are used to pay six
+staff members who manage differ
+ent parts of the CourseWork soft
+ware.
+CourseWork provides services
+for approximately 600 courses each
+quarter, in contrast to the more than
+150 engineering courses on CCNet.
+It began in 1998, developed in the
+Stanford Learning Lab by Scott
+Stocker, the current director of Web
+communications. The software was
+created to allow human biology stu
+
+dents to access problem sets online.
+Since then, the project has adapted
+to faculty needs and now includes
+special resources for disabled and
+foreign language students.
+With the addition of these new
+features, the Academic Computing
+staff has invested more time and en
+ergy in satisfying the growing num
+ber of requests for new tools.
+"We are a victim of our own suc
+cess," said Daisy Flemming, one of
+the key software developers.
+"CourseWork is very successful, so
+demand for features and requests for
+support are high."
+Flemming said the support team
+plays an important role in the sys
+tem's maintenance.
+"They put in extra hours during
+the weekend because they are very
+committed to the project and want
+the users to have good experiences
+
+with the product," she said. "We re
+ally need extra help and support, and
+not managing to get any funding in
+this area really let us down."
+In contrast, Mohajer said that he
+has received no requests for support
+since CCNet went online at Stan
+ford, which could help explain the
+disparity between maintenance costs
+for the two programs.
+"I don't know where the $730,000
+figure comes from," Stocker said. "I
+would imagine that most of that is
+staff positions."
+But according to Brooks, every
+one who helps maintain the Course-
+Work system was already employed
+by the University, and simply inte
+grated the program into their exist
+ing job descriptions.
+Both Brooks and Stocker ac
+knowledged that the University is
+making an effort to cut costs in the
+
+near future.
+"I understand that they are begin
+ning to work with several other uni
+versities to adapt CourseWork into
+an open-source system that would be
+shared among those schools, which
+eventually should lower the overall
+cost for each university," Stocker
+said.
+Indeed, The Chronicle of Higher
+Education reported yesterday that
+Stanford, along with the Indiana
+University system, the Massachu
+setts Institute of Technology and the
+University of Michigan at Ann
+Arbor, has announced a $6.8 million
+collaborative venture to create
+open-source courseware tools and
+related software for higher-educa
+tion institutions.
+The Mellon Foundation has do
+nated $2.4 million for the project,
+called the Sakai Project, and each of
+
+the four institutions is providing ser
+vices worth about $1.1 million over
+two years.
+"There have been a lot of break
+throughs in Java technology since we
+launched CourseWork," Flemming
+said. "If we want to take advantage
+of them we need to redesign the
+framework. If we don't move for
+ward with the rest of the world, our
+code will become obsolete and our
+services will become harder to main
+tain."
+For now, Brooks said that
+Etchemendy will ultimately decide
+who pays for CourseWork. One idea
+is to distribute costs according to
+which departments use the system
+most. It is unlikely that individual
+faculty members will be charged, but
+if departments incur the new costs,
+resources might be cut for both stu
+dents and staff.
+After the expiration of a grant from the Andrew
+W. Mellon Foundation that used to fund Stanford's
+CourseWork software, the University has been
+scrambling to find a way to pay for the program's cost
+ly maintenance.
+Since CourseWork's inception two years ago, fac
+ulty members have had free access to the service due
+to the Mellon Foundation's grant, which amounted to
+$500,000 over a two-year period. However, the termi
+nation of the grant earlier this year has prompted the
+University to ask departments to consider sharing an
+nual costs, which Academic Computing has estimated
+at $730,000 per year for maintenance alone.
+Many faculty members were struck by the admin
+istration's proposal to charge individual departments
+or even instructors. In an e-mail sent out to the School
+of Engineering last fall, Dean Jim Plummer wrote,
+"The bottom line here is that the costs of using course
+ware are going to be passed on to its users one way or
+another."
+Plummer said that Provost John Etchemendy rec
+ommended a few courses of action for the school. Ei
+ther the school could directly pay Academic Comput
+ing to maintain the system, or the provost's office
+
+could take care of the cost of maintenance, which
+would still mean a $100,000 cut in the school's gener
+al funds.
+Etchemendy's third suggestion was for the school
+to discontinue using CourseWork altogether.
+Indeed, in response to the higher costs, the Elec
+trical Engineering Department has abandoned
+CourseWork for a free alternative: a program called
+CCNet, which was developed by Stanford graduate
+student Keyvan Mohajer. Professors who use the soft
+ware said it works well, allowing for a smooth transi
+tion from CourseWork.
+Mohajer developed CCNet, which offers the same
+range of tools as CourseWork, during his undergrad
+uate study at the University of Toronto. After his
+alma mater successfully adopted the software, he de
+cided to license it to the Stanford Electrical Engineer
+ing Department free of charge. However, he says this
+type of software should reasonably cost $100,000 to
+$400,000 per year.
+"I wanted to contribute to my department," Mo
+hajer said. "I was really, really happy to be here. I al
+ways wanted to go to Stanford since I was 18, and I got
+in, and they gave me funding."
+
+Mohajer said he wanted to do
+something for Stanford after being
+accepted.
+"So I offered not only the license
+but also my time to promote, main
+tain and support it, and I've been
+doing that for the past four years,"
+he explained.
+Mohajer was surprised by the
+amount of money the University is
+requesting for system upkeep and
+said that it would be necessary to cut
+costs so that faculty remain willing to
+use CourseWork. He added that he
+would be willing to make CCNet
+available to all departments on cam
+pus if it could help reduce expenses.
+
+At Stanford, CCNet requires no
+maintenance costs and only a few
+hours of work uploading new cours
+es each quarter, for which Mohajer
+assumes full responsibility.
+This has led some engineering
+faculty members to question why
+CourseWork is so expensive.
+Lois Brooks, director of Acade
+mic Computing, says that almost all
+of the expenses are used to pay six
+staff members who manage differ
+ent parts of the CourseWork soft
+ware.
+CourseWork provides services
+for approximately 600 courses each
+quarter, in contrast to the more than
+150 engineering courses on CCNet.
+It began in 1998, developed in the
+Stanford Learning Lab by Scott
+Stocker, the current director of Web
+communications. The software was
+created to allow human biology stu
+
+dents to access problem sets online.
+Since then, the project has adapted
+to faculty needs and now includes
+special resources for disabled and
+foreign language students.
+With the addition of these new
+features, the Academic Computing
+staff has invested more time and en
+ergy in satisfying the growing num
+ber of requests for new tools.
+"We are a victim of our own suc
+cess," said Daisy Flemming, one of
+the key software developers.
+"CourseWork is very successful, so
+demand for features and requests for
+support are high."
+Flemming said the support team
+plays an important role in the sys
+tem's maintenance.
+"They put in extra hours during
+the weekend because they are very
+committed to the project and want
+the users to have good experiences
+
+with the product," she said. "We re
+ally need extra help and support, and
+not managing to get any funding in
+this area really let us down."
+In contrast, Mohajer said that he
+has received no requests for support
+since CCNet went online at Stan
+ford, which could help explain the
+disparity between maintenance costs
+for the two programs.
+"I don't know where the $730,000
+figure comes from," Stocker said. "I
+would imagine that most of that is
+staff positions."
+But according to Brooks, every
+one who helps maintain the Course-
+Work system was already employed
+by the University, and simply inte
+grated the program into their exist
+ing job descriptions.
+Both Brooks and Stocker ac
+knowledged that the University is
+making an effort to cut costs in the
+
+near future.
+"I understand that they are begin
+ning to work with several other uni
+versities to adapt CourseWork into
+an open-source system that would be
+shared among those schools, which
+eventually should lower the overall
+cost for each university," Stocker
+said.
+Indeed, The Chronicle of Higher
+Education reported yesterday that
+Stanford, along with the Indiana
+University system, the Massachu
+setts Institute of Technology and the
+University of Michigan at Ann
+Arbor, has announced a $6.8 million
+collaborative venture to create
+open-source courseware tools and
+related software for higher-educa
+tion institutions.
+The Mellon Foundation has do
+nated $2.4 million for the project,
+called the Sakai Project, and each of
+
+the four institutions is providing ser
+vices worth about $1.1 million over
+two years.
+"There have been a lot of break
+throughs in Java technology since we
+launched CourseWork," Flemming
+said. "If we want to take advantage
+of them we need to redesign the
+framework. If we don't move for
+ward with the rest of the world, our
+code will become obsolete and our
+services will become harder to main
+tain."
+For now, Brooks said that
+Etchemendy will ultimately decide
+who pays for CourseWork. One idea
+is to distribute costs according to
+which departments use the system
+most. It is unlikely that individual
+faculty members will be charged, but
+if departments incur the new costs,
+resources might be cut for both stu
+dents and staff.
+After the expiration of a grant from the Andrew
+W. Mellon Foundation that used to fund Stanford's
+CourseWork software, the University has been
+scrambling to find a way to pay for the program's cost
+ly maintenance.
+Since CourseWork's inception two years ago, fac
+ulty members have had free access to the service due
+to the Mellon Foundation's grant, which amounted to
+$500,000 over a two-year period. However, the termi
+nation of the grant earlier this year has prompted the
+University to ask departments to consider sharing an
+nual costs, which Academic Computing has estimated
+at $730,000 per year for maintenance alone.
+Many faculty members were struck by the admin
+istration's proposal to charge individual departments
+or even instructors. In an e-mail sent out to the School
+of Engineering last fall, Dean Jim Plummer wrote,
+"The bottom line here is that the costs of using course
+ware are going to be passed on to its users one way or
+another."
+Plummer said that Provost John Etchemendy rec
+ommended a few courses of action for the school. Ei
+ther the school could directly pay Academic Comput
+ing to maintain the system, or the provost's office
+
+could take care of the cost of maintenance, which
+would still mean a $100,000 cut in the school's gener
+al funds.
+Etchemendy's third suggestion was for the school
+to discontinue using CourseWork altogether.
+Indeed, in response to the higher costs, the Elec
+trical Engineering Department has abandoned
+CourseWork for a free alternative: a program called
+CCNet, which was developed by Stanford graduate
+student Keyvan Mohajer. Professors who use the soft
+ware said it works well, allowing for a smooth transi
+tion from CourseWork.
+Mohajer developed CCNet, which offers the same
+range of tools as CourseWork, during his undergrad
+uate study at the University of Toronto. After his
+alma mater successfully adopted the software, he de
+cided to license it to the Stanford Electrical Engineer
+ing Department free of charge. However, he says this
+type of software should reasonably cost $100,000 to
+$400,000 per year.
+"I wanted to contribute to my department," Mo
+hajer said. "I was really, really happy to be here. I al
+ways wanted to go to Stanford since I was 18, and I got
+in, and they gave me funding."
+
+Mohajer said he wanted to do
+something for Stanford after being
+accepted.
+"So I offered not only the license
+but also my time to promote, main
+tain and support it, and I've been
+doing that for the past four years,"
+he explained.
+Mohajer was surprised by the
+amount of money the University is
+requesting for system upkeep and
+said that it would be necessary to cut
+costs so that faculty remain willing to
+use CourseWork. He added that he
+would be willing to make CCNet
+available to all departments on cam
+pus if it could help reduce expenses.
+
+At Stanford, CCNet requires no
+maintenance costs and only a few
+hours of work uploading new cours
+es each quarter, for which Mohajer
+assumes full responsibility.
+This has led some engineering
+faculty members to question why
+CourseWork is so expensive.
+Lois Brooks, director of Acade
+mic Computing, says that almost all
+of the expenses are used to pay six
+staff members who manage differ
+ent parts of the CourseWork soft
+ware.
+CourseWork provides services
+for approximately 600 courses each
+quarter, in contrast to the more than
+150 engineering courses on CCNet.
+It began in 1998, developed in the
+Stanford Learning Lab by Scott
+Stocker, the current director of Web
+communications. The software was
+created to allow human biology stu
+
+dents to access problem sets online.
+Since then, the project has adapted
+to faculty needs and now includes
+special resources for disabled and
+foreign language students.
+With the addition of these new
+features, the Academic Computing
+staff has invested more time and en
+ergy in satisfying the growing num
+ber of requests for new tools.
+"We are a victim of our own suc
+cess," said Daisy Flemming, one of
+the key software developers.
+"CourseWork is very successful, so
+demand for features and requests for
+support are high."
+Flemming said the support team
+plays an important role in the sys
+tem's maintenance.
+"They put in extra hours during
+the weekend because they are very
+committed to the project and want
+the users to have good experiences
+
+with the product," she said. "We re
+ally need extra help and support, and
+not managing to get any funding in
+this area really let us down."
+In contrast, Mohajer said that he
+has received no requests for support
+since CCNet went online at Stan
+ford, which could help explain the
+disparity between maintenance costs
+for the two programs.
+"I don't know where the $730,000
+figure comes from," Stocker said. "I
+would imagine that most of that is
+staff positions."
+But according to Brooks, every
+one who helps maintain the Course-
+Work system was already employed
+by the University, and simply inte
+grated the program into their exist
+ing job descriptions.
+Both Brooks and Stocker ac
+knowledged that the University is
+making an effort to cut costs in the
+
+near future.
+"I understand that they are begin
+ning to work with several other uni
+versities to adapt CourseWork into
+an open-source system that would be
+shared among those schools, which
+eventually should lower the overall
+cost for each university," Stocker
+said.
+Indeed, The Chronicle of Higher
+Education reported yesterday that
+Stanford, along with the Indiana
+University system, the Massachu
+setts Institute of Technology and the
+University of Michigan at Ann
+Arbor, has announced a $6.8 million
+collaborative venture to create
+open-source courseware tools and
+related software for higher-educa
+tion institutions.
+The Mellon Foundation has do
+nated $2.4 million for the project,
+called the Sakai Project, and each of
+
+the four institutions is providing ser
+vices worth about $1.1 million over
+two years.
+"There have been a lot of break
+throughs in Java technology since we
+launched CourseWork," Flemming
+said. "If we want to take advantage
+of them we need to redesign the
+framework. If we don't move for
+ward with the rest of the world, our
+code will become obsolete and our
+services will become harder to main
+tain."
+For now, Brooks said that
+Etchemendy will ultimately decide
+who pays for CourseWork. One idea
+is to distribute costs according to
+which departments use the system
+most. It is unlikely that individual
+faculty members will be charged, but
+if departments incur the new costs,
+resources might be cut for both stu
+dents and staff.

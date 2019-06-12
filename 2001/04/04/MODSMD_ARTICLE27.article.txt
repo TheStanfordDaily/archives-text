@@ -1,0 +1,913 @@
+# a 						weekly look at science and techology at Stanford Innovation
+## Online voting to eliminate hanging chads 
+### ANKUR SHAH 
+In the aftermath ol last vear's electoral crisis in
+Florida, many people have been searching tor a solu
+tion to make the voting process more reliable. Ac
+cording to the scientists and polio makers at Yote
+-1 lere. a Seattle-based Internet voting pro\ iclei. online
+voting is the necessan solution.
+"Florida highlighted problems with the current
+system that we've been pointing out tor years," s.iid
+Derek Dictson, manager of (iov eminent \llaiis .it
+Yotellere. Industrv insiders have long pointed out
+the high error rates of punch c aids and optic .il scan
+ners, currently the two most popular tabulation de
+vices in the United States, Hut onl\ recent lv have sci
+entists been able to develop and implement online
+protocols that satisfv essential secutitv criteria, in
+cluding eligibility, anonvmitv. verifiabilitv and in
+tegrity.
+Vote Here's technology. developed priniarih h\
+c hief scientist (.. Andrew Nell, evolves from the field
+of data security, in which the companv owns four
+patents. All of Yotel leu 's voting protocols build upon
+well-known ci v ptographic sv steins, such as Public Kev
+Infrastructure and the Digital Signature Standard. As
+such, they have been shown to be niatheinaticallv se
+cure. to resist popular attacks and to tabulate votes
+without error.
+()f course, there is no such thing .is pertec t securi
+tv in practice. No system is immune to user manipula
+tion (e.g. blackmail), user error (e.g. forget fulness) or
+
+brute-force let linit al attacks. I he most senile option
+tor online voting remains "on-site." In this scenario,
+computet terminals running Yotellere software
+
+would be installed at typical
+precinct locations. Though
+this solution presents little
+increase in convenience lor
+the voter, tabulation error
+rates should I.ill to() percent
+— computers tvpicallv
+don't make addition mis
+takes.
+Yotel lere has tested this
+tvpe of on-site voting in 15
+separate trials, including
+mock presidential elections
+in Sacramento and San
+Diego, with encouraging
+results. Ihe company cin -
+tenth investigating imple
+menting the system on a
+countvwide level, taking ad
+vantage of Hew mone\ allo
+cated to fixing voting prob
+lems in the wake of the No
+vember election.
+\ otellere also voiced
+an intent to keep capital
+
+prices of their software at a comparable level to
+other types ot balloting equipment in order to
+make it feasible for poorer counties — like main of
+
+those that had problems last November — to up
+grade. To do otherwise would violate the Supreme
+Court's decision on the Florida fiasco, which
+
+deemed it unconstitutional
+for some counties to suffer
+higher rates of voter error
+than others.
+Yotel lere also plans to test
+its sv stems statew ide, but. he
+fore that's possible, some of
+the Federal Flection Com
+mission's archaic laws have
+to c hange. As ol now, the
+commission hasn't revised
+its c ei titic at ion standards —
+v\ hie h slate s use to decide
+what sv steins are appropri
+ate loi tlieii elections — in
+over a decade.
+Due to the flurrv of interest
+last November's events gen
+erated in alternative voting
+sv stems, Yotel lere antic i
+pates new commission stan
+dards some time next vear.
+W hen the current revisions
+are published, it will most
+likelv be a green light tor on-
+
+line* voting. .ii least of the oil-site variety. Indeed. Die t
+s(>ii s.iitl that, "though Novemhei's events were terri
+ble toi the countrv. the\ were great tor out (oinpanv.'
+
+Further developments in online voting are a long
+wav off. Kven Diet son admitted that YoteHere's tech
+nology could not vet handle "remote" voting, where
+voters could log on to the election from any Web-ac
+cessible location. Remote voting introduces a host ot
+difficulties associated with malicious attacks on the
+voting svstem. Routers, internet sen ice providers,
+computers and individual software applications are
+all too susceptible to vim and hacking: the genesis of a
+cryptographic nightmare.
+Kven il the technology were to become available,
+democratic social polio has a long wa\ to go as well.
+Allowing citi/ens who have computers to vote at
+home corresponds to giving them better acc ess to the
+ballot box than citi/ens without computers; this vio
+lates basic notions ot democracy, especially when ac
+cess distinctions are split heavily along race and class
+lines. Other social implications that are still poorly
+understood include the ramifications of increased
+voter turnout without increasing the percentage ot
+informed voters and the education ot voters distrust
+ful of such technology.
+On March (>. the National Workshop on Internet
+Voting, a non-profit organization funded by the Na
+tional Science Foundation, published its report,
+which found online voting to be tec hnically feasible
+but socially nuclei researched. In the coming years,
+answering the soc i.il questions voting technology rais
+es tor our democracy — questions of voting turnout,
+education and availability — will prove to be more dif
+ficult than implementing the technology.
+
+In the aftermath ol last vear's electoral crisis in
+Florida, many people have been searching tor a solu
+tion to make the voting process more reliable. Ac
+cording to the scientists and polio makers at Yote
+-1 lere. a Seattle-based Internet voting pro\ iclei. online
+voting is the necessan solution.
+"Florida highlighted problems with the current
+system that we've been pointing out tor years," s.iid
+Derek Dictson, manager of (iov eminent \llaiis .it
+Yotellere. Industrv insiders have long pointed out
+the high error rates of punch c aids and optic .il scan
+ners, currently the two most popular tabulation de
+vices in the United States, Hut onl\ recent lv have sci
+entists been able to develop and implement online
+protocols that satisfv essential secutitv criteria, in
+cluding eligibility, anonvmitv. verifiabilitv and in
+tegrity.
+Vote Here's technology. developed priniarih h\
+c hief scientist (.. Andrew Nell, evolves from the field
+of data security, in which the companv owns four
+patents. All of Yotel leu 's voting protocols build upon
+well-known ci v ptographic sv steins, such as Public Kev
+Infrastructure and the Digital Signature Standard. As
+such, they have been shown to be niatheinaticallv se
+cure. to resist popular attacks and to tabulate votes
+without error.
+()f course, there is no such thing .is pertec t securi
+tv in practice. No system is immune to user manipula
+tion (e.g. blackmail), user error (e.g. forget fulness) or
+
+brute-force let linit al attacks. I he most senile option
+tor online voting remains "on-site." In this scenario,
+computet terminals running Yotellere software
+
+would be installed at typical
+precinct locations. Though
+this solution presents little
+increase in convenience lor
+the voter, tabulation error
+rates should I.ill to() percent
+— computers tvpicallv
+don't make addition mis
+takes.
+Yotel lere has tested this
+tvpe of on-site voting in 15
+separate trials, including
+mock presidential elections
+in Sacramento and San
+Diego, with encouraging
+results. Ihe company cin -
+tenth investigating imple
+menting the system on a
+countvwide level, taking ad
+vantage of Hew mone\ allo
+cated to fixing voting prob
+lems in the wake of the No
+vember election.
+\ otellere also voiced
+an intent to keep capital
+
+prices of their software at a comparable level to
+other types ot balloting equipment in order to
+make it feasible for poorer counties — like main of
+
+those that had problems last November — to up
+grade. To do otherwise would violate the Supreme
+Court's decision on the Florida fiasco, which
+
+deemed it unconstitutional
+for some counties to suffer
+higher rates of voter error
+than others.
+Yotel lere also plans to test
+its sv stems statew ide, but. he
+fore that's possible, some of
+the Federal Flection Com
+mission's archaic laws have
+to c hange. As ol now, the
+commission hasn't revised
+its c ei titic at ion standards —
+v\ hie h slate s use to decide
+what sv steins are appropri
+ate loi tlieii elections — in
+over a decade.
+Due to the flurrv of interest
+last November's events gen
+erated in alternative voting
+sv stems, Yotel lere antic i
+pates new commission stan
+dards some time next vear.
+W hen the current revisions
+are published, it will most
+likelv be a green light tor on-
+
+line* voting. .ii least of the oil-site variety. Indeed. Die t
+s(>ii s.iitl that, "though Novemhei's events were terri
+ble toi the countrv. the\ were great tor out (oinpanv.'
+
+Further developments in online voting are a long
+wav off. Kven Diet son admitted that YoteHere's tech
+nology could not vet handle "remote" voting, where
+voters could log on to the election from any Web-ac
+cessible location. Remote voting introduces a host ot
+difficulties associated with malicious attacks on the
+voting svstem. Routers, internet sen ice providers,
+computers and individual software applications are
+all too susceptible to vim and hacking: the genesis of a
+cryptographic nightmare.
+Kven il the technology were to become available,
+democratic social polio has a long wa\ to go as well.
+Allowing citi/ens who have computers to vote at
+home corresponds to giving them better acc ess to the
+ballot box than citi/ens without computers; this vio
+lates basic notions ot democracy, especially when ac
+cess distinctions are split heavily along race and class
+lines. Other social implications that are still poorly
+understood include the ramifications of increased
+voter turnout without increasing the percentage ot
+informed voters and the education ot voters distrust
+ful of such technology.
+On March (>. the National Workshop on Internet
+Voting, a non-profit organization funded by the Na
+tional Science Foundation, published its report,
+which found online voting to be tec hnically feasible
+but socially nuclei researched. In the coming years,
+answering the soc i.il questions voting technology rais
+es tor our democracy — questions of voting turnout,
+education and availability — will prove to be more dif
+ficult than implementing the technology.
+
+In the aftermath ol last vear's electoral crisis in
+Florida, many people have been searching tor a solu
+tion to make the voting process more reliable. Ac
+cording to the scientists and polio makers at Yote
+-1 lere. a Seattle-based Internet voting pro\ iclei. online
+voting is the necessan solution.
+"Florida highlighted problems with the current
+system that we've been pointing out tor years," s.iid
+Derek Dictson, manager of (iov eminent \llaiis .it
+Yotellere. Industrv insiders have long pointed out
+the high error rates of punch c aids and optic .il scan
+ners, currently the two most popular tabulation de
+vices in the United States, Hut onl\ recent lv have sci
+entists been able to develop and implement online
+protocols that satisfv essential secutitv criteria, in
+cluding eligibility, anonvmitv. verifiabilitv and in
+tegrity.
+Vote Here's technology. developed priniarih h\
+c hief scientist (.. Andrew Nell, evolves from the field
+of data security, in which the companv owns four
+patents. All of Yotel leu 's voting protocols build upon
+well-known ci v ptographic sv steins, such as Public Kev
+Infrastructure and the Digital Signature Standard. As
+such, they have been shown to be niatheinaticallv se
+cure. to resist popular attacks and to tabulate votes
+without error.
+()f course, there is no such thing .is pertec t securi
+tv in practice. No system is immune to user manipula
+tion (e.g. blackmail), user error (e.g. forget fulness) or
+
+brute-force let linit al attacks. I he most senile option
+tor online voting remains "on-site." In this scenario,
+computet terminals running Yotellere software
+
+would be installed at typical
+precinct locations. Though
+this solution presents little
+increase in convenience lor
+the voter, tabulation error
+rates should I.ill to() percent
+— computers tvpicallv
+don't make addition mis
+takes.
+Yotel lere has tested this
+tvpe of on-site voting in 15
+separate trials, including
+mock presidential elections
+in Sacramento and San
+Diego, with encouraging
+results. Ihe company cin -
+tenth investigating imple
+menting the system on a
+countvwide level, taking ad
+vantage of Hew mone\ allo
+cated to fixing voting prob
+lems in the wake of the No
+vember election.
+\ otellere also voiced
+an intent to keep capital
+
+prices of their software at a comparable level to
+other types ot balloting equipment in order to
+make it feasible for poorer counties — like main of
+
+those that had problems last November — to up
+grade. To do otherwise would violate the Supreme
+Court's decision on the Florida fiasco, which
+
+deemed it unconstitutional
+for some counties to suffer
+higher rates of voter error
+than others.
+Yotel lere also plans to test
+its sv stems statew ide, but. he
+fore that's possible, some of
+the Federal Flection Com
+mission's archaic laws have
+to c hange. As ol now, the
+commission hasn't revised
+its c ei titic at ion standards —
+v\ hie h slate s use to decide
+what sv steins are appropri
+ate loi tlieii elections — in
+over a decade.
+Due to the flurrv of interest
+last November's events gen
+erated in alternative voting
+sv stems, Yotel lere antic i
+pates new commission stan
+dards some time next vear.
+W hen the current revisions
+are published, it will most
+likelv be a green light tor on-
+
+line* voting. .ii least of the oil-site variety. Indeed. Die t
+s(>ii s.iitl that, "though Novemhei's events were terri
+ble toi the countrv. the\ were great tor out (oinpanv.'
+
+Further developments in online voting are a long
+wav off. Kven Diet son admitted that YoteHere's tech
+nology could not vet handle "remote" voting, where
+voters could log on to the election from any Web-ac
+cessible location. Remote voting introduces a host ot
+difficulties associated with malicious attacks on the
+voting svstem. Routers, internet sen ice providers,
+computers and individual software applications are
+all too susceptible to vim and hacking: the genesis of a
+cryptographic nightmare.
+Kven il the technology were to become available,
+democratic social polio has a long wa\ to go as well.
+Allowing citi/ens who have computers to vote at
+home corresponds to giving them better acc ess to the
+ballot box than citi/ens without computers; this vio
+lates basic notions ot democracy, especially when ac
+cess distinctions are split heavily along race and class
+lines. Other social implications that are still poorly
+understood include the ramifications of increased
+voter turnout without increasing the percentage ot
+informed voters and the education ot voters distrust
+ful of such technology.
+On March (>. the National Workshop on Internet
+Voting, a non-profit organization funded by the Na
+tional Science Foundation, published its report,
+which found online voting to be tec hnically feasible
+but socially nuclei researched. In the coming years,
+answering the soc i.il questions voting technology rais
+es tor our democracy — questions of voting turnout,
+education and availability — will prove to be more dif
+ficult than implementing the technology.
+
+In the aftermath ol last vear's electoral crisis in
+Florida, many people have been searching tor a solu
+tion to make the voting process more reliable. Ac
+cording to the scientists and polio makers at Yote
+-1 lere. a Seattle-based Internet voting pro\ iclei. online
+voting is the necessan solution.
+"Florida highlighted problems with the current
+system that we've been pointing out tor years," s.iid
+Derek Dictson, manager of (iov eminent \llaiis .it
+Yotellere. Industrv insiders have long pointed out
+the high error rates of punch c aids and optic .il scan
+ners, currently the two most popular tabulation de
+vices in the United States, Hut onl\ recent lv have sci
+entists been able to develop and implement online
+protocols that satisfv essential secutitv criteria, in
+cluding eligibility, anonvmitv. verifiabilitv and in
+tegrity.
+Vote Here's technology. developed priniarih h\
+c hief scientist (.. Andrew Nell, evolves from the field
+of data security, in which the companv owns four
+patents. All of Yotel leu 's voting protocols build upon
+well-known ci v ptographic sv steins, such as Public Kev
+Infrastructure and the Digital Signature Standard. As
+such, they have been shown to be niatheinaticallv se
+cure. to resist popular attacks and to tabulate votes
+without error.
+()f course, there is no such thing .is pertec t securi
+tv in practice. No system is immune to user manipula
+tion (e.g. blackmail), user error (e.g. forget fulness) or
+
+brute-force let linit al attacks. I he most senile option
+tor online voting remains "on-site." In this scenario,
+computet terminals running Yotellere software
+
+would be installed at typical
+precinct locations. Though
+this solution presents little
+increase in convenience lor
+the voter, tabulation error
+rates should I.ill to() percent
+— computers tvpicallv
+don't make addition mis
+takes.
+Yotel lere has tested this
+tvpe of on-site voting in 15
+separate trials, including
+mock presidential elections
+in Sacramento and San
+Diego, with encouraging
+results. Ihe company cin -
+tenth investigating imple
+menting the system on a
+countvwide level, taking ad
+vantage of Hew mone\ allo
+cated to fixing voting prob
+lems in the wake of the No
+vember election.
+\ otellere also voiced
+an intent to keep capital
+
+prices of their software at a comparable level to
+other types ot balloting equipment in order to
+make it feasible for poorer counties — like main of
+
+those that had problems last November — to up
+grade. To do otherwise would violate the Supreme
+Court's decision on the Florida fiasco, which
+
+deemed it unconstitutional
+for some counties to suffer
+higher rates of voter error
+than others.
+Yotel lere also plans to test
+its sv stems statew ide, but. he
+fore that's possible, some of
+the Federal Flection Com
+mission's archaic laws have
+to c hange. As ol now, the
+commission hasn't revised
+its c ei titic at ion standards —
+v\ hie h slate s use to decide
+what sv steins are appropri
+ate loi tlieii elections — in
+over a decade.
+Due to the flurrv of interest
+last November's events gen
+erated in alternative voting
+sv stems, Yotel lere antic i
+pates new commission stan
+dards some time next vear.
+W hen the current revisions
+are published, it will most
+likelv be a green light tor on-
+
+line* voting. .ii least of the oil-site variety. Indeed. Die t
+s(>ii s.iitl that, "though Novemhei's events were terri
+ble toi the countrv. the\ were great tor out (oinpanv.'
+
+Further developments in online voting are a long
+wav off. Kven Diet son admitted that YoteHere's tech
+nology could not vet handle "remote" voting, where
+voters could log on to the election from any Web-ac
+cessible location. Remote voting introduces a host ot
+difficulties associated with malicious attacks on the
+voting svstem. Routers, internet sen ice providers,
+computers and individual software applications are
+all too susceptible to vim and hacking: the genesis of a
+cryptographic nightmare.
+Kven il the technology were to become available,
+democratic social polio has a long wa\ to go as well.
+Allowing citi/ens who have computers to vote at
+home corresponds to giving them better acc ess to the
+ballot box than citi/ens without computers; this vio
+lates basic notions ot democracy, especially when ac
+cess distinctions are split heavily along race and class
+lines. Other social implications that are still poorly
+understood include the ramifications of increased
+voter turnout without increasing the percentage ot
+informed voters and the education ot voters distrust
+ful of such technology.
+On March (>. the National Workshop on Internet
+Voting, a non-profit organization funded by the Na
+tional Science Foundation, published its report,
+which found online voting to be tec hnically feasible
+but socially nuclei researched. In the coming years,
+answering the soc i.il questions voting technology rais
+es tor our democracy — questions of voting turnout,
+education and availability — will prove to be more dif
+ficult than implementing the technology.
+
+In the aftermath ol last vear's electoral crisis in
+Florida, many people have been searching tor a solu
+tion to make the voting process more reliable. Ac
+cording to the scientists and polio makers at Yote
+-1 lere. a Seattle-based Internet voting pro\ iclei. online
+voting is the necessan solution.
+"Florida highlighted problems with the current
+system that we've been pointing out tor years," s.iid
+Derek Dictson, manager of (iov eminent \llaiis .it
+Yotellere. Industrv insiders have long pointed out
+the high error rates of punch c aids and optic .il scan
+ners, currently the two most popular tabulation de
+vices in the United States, Hut onl\ recent lv have sci
+entists been able to develop and implement online
+protocols that satisfv essential secutitv criteria, in
+cluding eligibility, anonvmitv. verifiabilitv and in
+tegrity.
+Vote Here's technology. developed priniarih h\
+c hief scientist (.. Andrew Nell, evolves from the field
+of data security, in which the companv owns four
+patents. All of Yotel leu 's voting protocols build upon
+well-known ci v ptographic sv steins, such as Public Kev
+Infrastructure and the Digital Signature Standard. As
+such, they have been shown to be niatheinaticallv se
+cure. to resist popular attacks and to tabulate votes
+without error.
+()f course, there is no such thing .is pertec t securi
+tv in practice. No system is immune to user manipula
+tion (e.g. blackmail), user error (e.g. forget fulness) or
+
+brute-force let linit al attacks. I he most senile option
+tor online voting remains "on-site." In this scenario,
+computet terminals running Yotellere software
+
+would be installed at typical
+precinct locations. Though
+this solution presents little
+increase in convenience lor
+the voter, tabulation error
+rates should I.ill to() percent
+— computers tvpicallv
+don't make addition mis
+takes.
+Yotel lere has tested this
+tvpe of on-site voting in 15
+separate trials, including
+mock presidential elections
+in Sacramento and San
+Diego, with encouraging
+results. Ihe company cin -
+tenth investigating imple
+menting the system on a
+countvwide level, taking ad
+vantage of Hew mone\ allo
+cated to fixing voting prob
+lems in the wake of the No
+vember election.
+\ otellere also voiced
+an intent to keep capital
+
+prices of their software at a comparable level to
+other types ot balloting equipment in order to
+make it feasible for poorer counties — like main of
+
+those that had problems last November — to up
+grade. To do otherwise would violate the Supreme
+Court's decision on the Florida fiasco, which
+
+deemed it unconstitutional
+for some counties to suffer
+higher rates of voter error
+than others.
+Yotel lere also plans to test
+its sv stems statew ide, but. he
+fore that's possible, some of
+the Federal Flection Com
+mission's archaic laws have
+to c hange. As ol now, the
+commission hasn't revised
+its c ei titic at ion standards —
+v\ hie h slate s use to decide
+what sv steins are appropri
+ate loi tlieii elections — in
+over a decade.
+Due to the flurrv of interest
+last November's events gen
+erated in alternative voting
+sv stems, Yotel lere antic i
+pates new commission stan
+dards some time next vear.
+W hen the current revisions
+are published, it will most
+likelv be a green light tor on-
+
+line* voting. .ii least of the oil-site variety. Indeed. Die t
+s(>ii s.iitl that, "though Novemhei's events were terri
+ble toi the countrv. the\ were great tor out (oinpanv.'
+
+Further developments in online voting are a long
+wav off. Kven Diet son admitted that YoteHere's tech
+nology could not vet handle "remote" voting, where
+voters could log on to the election from any Web-ac
+cessible location. Remote voting introduces a host ot
+difficulties associated with malicious attacks on the
+voting svstem. Routers, internet sen ice providers,
+computers and individual software applications are
+all too susceptible to vim and hacking: the genesis of a
+cryptographic nightmare.
+Kven il the technology were to become available,
+democratic social polio has a long wa\ to go as well.
+Allowing citi/ens who have computers to vote at
+home corresponds to giving them better acc ess to the
+ballot box than citi/ens without computers; this vio
+lates basic notions ot democracy, especially when ac
+cess distinctions are split heavily along race and class
+lines. Other social implications that are still poorly
+understood include the ramifications of increased
+voter turnout without increasing the percentage ot
+informed voters and the education ot voters distrust
+ful of such technology.
+On March (>. the National Workshop on Internet
+Voting, a non-profit organization funded by the Na
+tional Science Foundation, published its report,
+which found online voting to be tec hnically feasible
+but socially nuclei researched. In the coming years,
+answering the soc i.il questions voting technology rais
+es tor our democracy — questions of voting turnout,
+education and availability — will prove to be more dif
+ficult than implementing the technology.
+
+In the aftermath ol last vear's electoral crisis in
+Florida, many people have been searching tor a solu
+tion to make the voting process more reliable. Ac
+cording to the scientists and polio makers at Yote
+-1 lere. a Seattle-based Internet voting pro\ iclei. online
+voting is the necessan solution.
+"Florida highlighted problems with the current
+system that we've been pointing out tor years," s.iid
+Derek Dictson, manager of (iov eminent \llaiis .it
+Yotellere. Industrv insiders have long pointed out
+the high error rates of punch c aids and optic .il scan
+ners, currently the two most popular tabulation de
+vices in the United States, Hut onl\ recent lv have sci
+entists been able to develop and implement online
+protocols that satisfv essential secutitv criteria, in
+cluding eligibility, anonvmitv. verifiabilitv and in
+tegrity.
+Vote Here's technology. developed priniarih h\
+c hief scientist (.. Andrew Nell, evolves from the field
+of data security, in which the companv owns four
+patents. All of Yotel leu 's voting protocols build upon
+well-known ci v ptographic sv steins, such as Public Kev
+Infrastructure and the Digital Signature Standard. As
+such, they have been shown to be niatheinaticallv se
+cure. to resist popular attacks and to tabulate votes
+without error.
+()f course, there is no such thing .is pertec t securi
+tv in practice. No system is immune to user manipula
+tion (e.g. blackmail), user error (e.g. forget fulness) or
+
+brute-force let linit al attacks. I he most senile option
+tor online voting remains "on-site." In this scenario,
+computet terminals running Yotellere software
+
+would be installed at typical
+precinct locations. Though
+this solution presents little
+increase in convenience lor
+the voter, tabulation error
+rates should I.ill to() percent
+— computers tvpicallv
+don't make addition mis
+takes.
+Yotel lere has tested this
+tvpe of on-site voting in 15
+separate trials, including
+mock presidential elections
+in Sacramento and San
+Diego, with encouraging
+results. Ihe company cin -
+tenth investigating imple
+menting the system on a
+countvwide level, taking ad
+vantage of Hew mone\ allo
+cated to fixing voting prob
+lems in the wake of the No
+vember election.
+\ otellere also voiced
+an intent to keep capital
+
+prices of their software at a comparable level to
+other types ot balloting equipment in order to
+make it feasible for poorer counties — like main of
+
+those that had problems last November — to up
+grade. To do otherwise would violate the Supreme
+Court's decision on the Florida fiasco, which
+
+deemed it unconstitutional
+for some counties to suffer
+higher rates of voter error
+than others.
+Yotel lere also plans to test
+its sv stems statew ide, but. he
+fore that's possible, some of
+the Federal Flection Com
+mission's archaic laws have
+to c hange. As ol now, the
+commission hasn't revised
+its c ei titic at ion standards —
+v\ hie h slate s use to decide
+what sv steins are appropri
+ate loi tlieii elections — in
+over a decade.
+Due to the flurrv of interest
+last November's events gen
+erated in alternative voting
+sv stems, Yotel lere antic i
+pates new commission stan
+dards some time next vear.
+W hen the current revisions
+are published, it will most
+likelv be a green light tor on-
+
+line* voting. .ii least of the oil-site variety. Indeed. Die t
+s(>ii s.iitl that, "though Novemhei's events were terri
+ble toi the countrv. the\ were great tor out (oinpanv.'
+
+Further developments in online voting are a long
+wav off. Kven Diet son admitted that YoteHere's tech
+nology could not vet handle "remote" voting, where
+voters could log on to the election from any Web-ac
+cessible location. Remote voting introduces a host ot
+difficulties associated with malicious attacks on the
+voting svstem. Routers, internet sen ice providers,
+computers and individual software applications are
+all too susceptible to vim and hacking: the genesis of a
+cryptographic nightmare.
+Kven il the technology were to become available,
+democratic social polio has a long wa\ to go as well.
+Allowing citi/ens who have computers to vote at
+home corresponds to giving them better acc ess to the
+ballot box than citi/ens without computers; this vio
+lates basic notions ot democracy, especially when ac
+cess distinctions are split heavily along race and class
+lines. Other social implications that are still poorly
+understood include the ramifications of increased
+voter turnout without increasing the percentage ot
+informed voters and the education ot voters distrust
+ful of such technology.
+On March (>. the National Workshop on Internet
+Voting, a non-profit organization funded by the Na
+tional Science Foundation, published its report,
+which found online voting to be tec hnically feasible
+but socially nuclei researched. In the coming years,
+answering the soc i.il questions voting technology rais
+es tor our democracy — questions of voting turnout,
+education and availability — will prove to be more dif
+ficult than implementing the technology.
+
+In the aftermath ol last vear's electoral crisis in
+Florida, many people have been searching tor a solu
+tion to make the voting process more reliable. Ac
+cording to the scientists and polio makers at Yote
+-1 lere. a Seattle-based Internet voting pro\ iclei. online
+voting is the necessan solution.
+"Florida highlighted problems with the current
+system that we've been pointing out tor years," s.iid
+Derek Dictson, manager of (iov eminent \llaiis .it
+Yotellere. Industrv insiders have long pointed out
+the high error rates of punch c aids and optic .il scan
+ners, currently the two most popular tabulation de
+vices in the United States, Hut onl\ recent lv have sci
+entists been able to develop and implement online
+protocols that satisfv essential secutitv criteria, in
+cluding eligibility, anonvmitv. verifiabilitv and in
+tegrity.
+Vote Here's technology. developed priniarih h\
+c hief scientist (.. Andrew Nell, evolves from the field
+of data security, in which the companv owns four
+patents. All of Yotel leu 's voting protocols build upon
+well-known ci v ptographic sv steins, such as Public Kev
+Infrastructure and the Digital Signature Standard. As
+such, they have been shown to be niatheinaticallv se
+cure. to resist popular attacks and to tabulate votes
+without error.
+()f course, there is no such thing .is pertec t securi
+tv in practice. No system is immune to user manipula
+tion (e.g. blackmail), user error (e.g. forget fulness) or
+
+brute-force let linit al attacks. I he most senile option
+tor online voting remains "on-site." In this scenario,
+computet terminals running Yotellere software
+
+would be installed at typical
+precinct locations. Though
+this solution presents little
+increase in convenience lor
+the voter, tabulation error
+rates should I.ill to() percent
+— computers tvpicallv
+don't make addition mis
+takes.
+Yotel lere has tested this
+tvpe of on-site voting in 15
+separate trials, including
+mock presidential elections
+in Sacramento and San
+Diego, with encouraging
+results. Ihe company cin -
+tenth investigating imple
+menting the system on a
+countvwide level, taking ad
+vantage of Hew mone\ allo
+cated to fixing voting prob
+lems in the wake of the No
+vember election.
+\ otellere also voiced
+an intent to keep capital
+
+prices of their software at a comparable level to
+other types ot balloting equipment in order to
+make it feasible for poorer counties — like main of
+
+those that had problems last November — to up
+grade. To do otherwise would violate the Supreme
+Court's decision on the Florida fiasco, which
+
+deemed it unconstitutional
+for some counties to suffer
+higher rates of voter error
+than others.
+Yotel lere also plans to test
+its sv stems statew ide, but. he
+fore that's possible, some of
+the Federal Flection Com
+mission's archaic laws have
+to c hange. As ol now, the
+commission hasn't revised
+its c ei titic at ion standards —
+v\ hie h slate s use to decide
+what sv steins are appropri
+ate loi tlieii elections — in
+over a decade.
+Due to the flurrv of interest
+last November's events gen
+erated in alternative voting
+sv stems, Yotel lere antic i
+pates new commission stan
+dards some time next vear.
+W hen the current revisions
+are published, it will most
+likelv be a green light tor on-
+
+line* voting. .ii least of the oil-site variety. Indeed. Die t
+s(>ii s.iitl that, "though Novemhei's events were terri
+ble toi the countrv. the\ were great tor out (oinpanv.'
+
+Further developments in online voting are a long
+wav off. Kven Diet son admitted that YoteHere's tech
+nology could not vet handle "remote" voting, where
+voters could log on to the election from any Web-ac
+cessible location. Remote voting introduces a host ot
+difficulties associated with malicious attacks on the
+voting svstem. Routers, internet sen ice providers,
+computers and individual software applications are
+all too susceptible to vim and hacking: the genesis of a
+cryptographic nightmare.
+Kven il the technology were to become available,
+democratic social polio has a long wa\ to go as well.
+Allowing citi/ens who have computers to vote at
+home corresponds to giving them better acc ess to the
+ballot box than citi/ens without computers; this vio
+lates basic notions ot democracy, especially when ac
+cess distinctions are split heavily along race and class
+lines. Other social implications that are still poorly
+understood include the ramifications of increased
+voter turnout without increasing the percentage ot
+informed voters and the education ot voters distrust
+ful of such technology.
+On March (>. the National Workshop on Internet
+Voting, a non-profit organization funded by the Na
+tional Science Foundation, published its report,
+which found online voting to be tec hnically feasible
+but socially nuclei researched. In the coming years,
+answering the soc i.il questions voting technology rais
+es tor our democracy — questions of voting turnout,
+education and availability — will prove to be more dif
+ficult than implementing the technology.
+

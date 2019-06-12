@@ -1,0 +1,1081 @@
+# CORPORATE SPONSORSHIP
+## 
+### 
+It was not long ago that tablets,
+smart phones and tiny MP3 play
+ers existed more in the realm of
+science fiction than in the backpacks
+of Stanford students. At the heart of
+all these gadgets is the semiconduc
+tor chip. The hunger for smarter and
+sleeker gadgets requires chips that
+are faster, smaller and more capable
+all of which creates significant
+engineering challenges for those in
+volved in the manufacture of semi
+conductors.
+In 1965 Intel's Gordon Moore
+made a legendary observation that
+the number of transistors on a chip
+doubles every 12 (later revised to
+18-24) months. This observation,
+which came to be known as
+"Moore's Law," has been the foun
+dation and fundamental driver of
+the semiconductor industry ever
+since. Amazingly, 45 years later,
+Moore's Law is still essentially in
+tact, and the transistor count on
+modern integrated circuits has risen
+from up to 500 in 1965 to over three
+billion transistors today.
+Not surprisingly, keeping up with
+Moore's Law has been no easy feat
+for companies in the semiconductor
+industry, especially those companies
+that develop the tools necessary for
+the manufacture of the smaller and
+faster chips needed to power new
+technologies.
+As a software engineer with over
+20 years in the semiconductor indus
+try, I have worked on and with a va
+riety of technologies to ensure that
+the required equipment keep up
+with Moore's Law. Currently, I am at
+KLA-Tencor, a leading semicon
+ductor equipment company respon
+sible for manufacturing crucial in
+spection and metrology (precision
+measurement) products and tools
+for the chip-making industry.
+Throughout the different stages of
+the chip manufacturing process our
+tools inspect and measure the pro
+duction wafers (the base material of
+
+semiconductors) to ensure the chips
+are defect-free and that chipmakers
+like Intel can maximize the number
+of usable chips they get from each
+wafer.
+To keep up with Moore's Law,
+our tools must double their capabil
+ities every two years, so we face
+many daunting engineering chal
+lenges. My colleagues at KLA-Ten
+cor, in a wide range of technical dis
+ciplines, grapple with Gordon
+Moore's dictum every single day:
+Mechanical Engineers: These en
+gineers work on mechanical stages
+that may require reliable positional
+accuracy of a few nanometers. Or
+they may work on stages that only
+require positional accuracy of 100
+nanometers, but must be able to
+move quickly and smoothly with no
+more than 5 nanometers of error.
+Because of Moore's law, the stages
+required in the next few years will
+need to be even more accurate.
+Optical Engineers: These engi
+neers may work on lens assemblies
+that require large, flat fields of view.
+Such optics are used to image and
+manufacture transistors as small as
+22 nanometers, all the while using
+light with wavelengths ten times as
+large. This is like trying to stamp out
+typewriter sized lettering with a
+sledgehammer.
+Electrical Engineers: Electrical
+Engineers design sensor boards ca
+pable of capturing images at 20
+GB/sec (think of this as over 100 un
+compressed 1080p HD image
+streams). These boards send these
+images at 20 GB/sec over fiber op
+tics to computers that process the
+images in real-time, looking for fea
+tures that are too small to resolve. At
+these speeds and sensitivities, even
+one hundred extra photons picked
+up or lost by the sensor matters, so
+the challenge is to run extremely fast
+but without appreciable noise.
+Software Engineers: Software
+Engineers in my field work on pro
+grams with millions of lines of code
+and that run on clusters of ma
+chines. The cluster might be a
+unique mix of Windows, Linux,
+Apple and embedded systems. And
+the tools are programmed using lan
+guages from Java and C#, to C and
+assembly, to Python.
+Algorithm Specialists: Algo
+rithm Specialists design and imple
+ment new algorithms to detect
+
+problems on the wafers. Because
+of 45 years of Moore's Law, the fea
+tures and defects on the wafers are
+so small they can no longer be re
+solved by the inspectors. This is a
+problem similar to searching for
+unresolvable extra-solar planets ..
+. but much faster. Here, state-of
+the-art image processing tech
+niques are employed, and the
+image processing still requires a
+cluster of computers to ship with
+each tool. Tools ship today that in
+clude clusters that in 2007 would
+have made the Top 500 supercom
+puter list.
+And all this out of companies
+whose names most people have
+never heard of, yet are central to
+
+the manufacture of the chips that
+are the building blocks of their
+HDTVs, laptops, and increasingly,
+even cars.
+The last 40 years have been quite
+a ride. And the next 40 years look to
+be quite a ride, too.
+Watch a series of lectures by
+KLA-Tencor CEO Rick Wallace at
+the Stanford Business school:
+http://ecorner.stanford.edu
+Mark Roulo is a Software Archi
+tect at KLA-Tencor, a leading semi
+conductor
+test equipment company. For more
+information about KLA-Tencor, go
+to www.kla-tencor.com.
+It was not long ago that tablets,
+smart phones and tiny MP3 play
+ers existed more in the realm of
+science fiction than in the backpacks
+of Stanford students. At the heart of
+all these gadgets is the semiconduc
+tor chip. The hunger for smarter and
+sleeker gadgets requires chips that
+are faster, smaller and more capable
+all of which creates significant
+engineering challenges for those in
+volved in the manufacture of semi
+conductors.
+In 1965 Intel's Gordon Moore
+made a legendary observation that
+the number of transistors on a chip
+doubles every 12 (later revised to
+18-24) months. This observation,
+which came to be known as
+"Moore's Law," has been the foun
+dation and fundamental driver of
+the semiconductor industry ever
+since. Amazingly, 45 years later,
+Moore's Law is still essentially in
+tact, and the transistor count on
+modern integrated circuits has risen
+from up to 500 in 1965 to over three
+billion transistors today.
+Not surprisingly, keeping up with
+Moore's Law has been no easy feat
+for companies in the semiconductor
+industry, especially those companies
+that develop the tools necessary for
+the manufacture of the smaller and
+faster chips needed to power new
+technologies.
+As a software engineer with over
+20 years in the semiconductor indus
+try, I have worked on and with a va
+riety of technologies to ensure that
+the required equipment keep up
+with Moore's Law. Currently, I am at
+KLA-Tencor, a leading semicon
+ductor equipment company respon
+sible for manufacturing crucial in
+spection and metrology (precision
+measurement) products and tools
+for the chip-making industry.
+Throughout the different stages of
+the chip manufacturing process our
+tools inspect and measure the pro
+duction wafers (the base material of
+
+semiconductors) to ensure the chips
+are defect-free and that chipmakers
+like Intel can maximize the number
+of usable chips they get from each
+wafer.
+To keep up with Moore's Law,
+our tools must double their capabil
+ities every two years, so we face
+many daunting engineering chal
+lenges. My colleagues at KLA-Ten
+cor, in a wide range of technical dis
+ciplines, grapple with Gordon
+Moore's dictum every single day:
+Mechanical Engineers: These en
+gineers work on mechanical stages
+that may require reliable positional
+accuracy of a few nanometers. Or
+they may work on stages that only
+require positional accuracy of 100
+nanometers, but must be able to
+move quickly and smoothly with no
+more than 5 nanometers of error.
+Because of Moore's law, the stages
+required in the next few years will
+need to be even more accurate.
+Optical Engineers: These engi
+neers may work on lens assemblies
+that require large, flat fields of view.
+Such optics are used to image and
+manufacture transistors as small as
+22 nanometers, all the while using
+light with wavelengths ten times as
+large. This is like trying to stamp out
+typewriter sized lettering with a
+sledgehammer.
+Electrical Engineers: Electrical
+Engineers design sensor boards ca
+pable of capturing images at 20
+GB/sec (think of this as over 100 un
+compressed 1080p HD image
+streams). These boards send these
+images at 20 GB/sec over fiber op
+tics to computers that process the
+images in real-time, looking for fea
+tures that are too small to resolve. At
+these speeds and sensitivities, even
+one hundred extra photons picked
+up or lost by the sensor matters, so
+the challenge is to run extremely fast
+but without appreciable noise.
+Software Engineers: Software
+Engineers in my field work on pro
+grams with millions of lines of code
+and that run on clusters of ma
+chines. The cluster might be a
+unique mix of Windows, Linux,
+Apple and embedded systems. And
+the tools are programmed using lan
+guages from Java and C#, to C and
+assembly, to Python.
+Algorithm Specialists: Algo
+rithm Specialists design and imple
+ment new algorithms to detect
+
+problems on the wafers. Because
+of 45 years of Moore's Law, the fea
+tures and defects on the wafers are
+so small they can no longer be re
+solved by the inspectors. This is a
+problem similar to searching for
+unresolvable extra-solar planets ..
+. but much faster. Here, state-of
+the-art image processing tech
+niques are employed, and the
+image processing still requires a
+cluster of computers to ship with
+each tool. Tools ship today that in
+clude clusters that in 2007 would
+have made the Top 500 supercom
+puter list.
+And all this out of companies
+whose names most people have
+never heard of, yet are central to
+
+the manufacture of the chips that
+are the building blocks of their
+HDTVs, laptops, and increasingly,
+even cars.
+The last 40 years have been quite
+a ride. And the next 40 years look to
+be quite a ride, too.
+Watch a series of lectures by
+KLA-Tencor CEO Rick Wallace at
+the Stanford Business school:
+http://ecorner.stanford.edu
+Mark Roulo is a Software Archi
+tect at KLA-Tencor, a leading semi
+conductor
+test equipment company. For more
+information about KLA-Tencor, go
+to www.kla-tencor.com.
+It was not long ago that tablets,
+smart phones and tiny MP3 play
+ers existed more in the realm of
+science fiction than in the backpacks
+of Stanford students. At the heart of
+all these gadgets is the semiconduc
+tor chip. The hunger for smarter and
+sleeker gadgets requires chips that
+are faster, smaller and more capable
+all of which creates significant
+engineering challenges for those in
+volved in the manufacture of semi
+conductors.
+In 1965 Intel's Gordon Moore
+made a legendary observation that
+the number of transistors on a chip
+doubles every 12 (later revised to
+18-24) months. This observation,
+which came to be known as
+"Moore's Law," has been the foun
+dation and fundamental driver of
+the semiconductor industry ever
+since. Amazingly, 45 years later,
+Moore's Law is still essentially in
+tact, and the transistor count on
+modern integrated circuits has risen
+from up to 500 in 1965 to over three
+billion transistors today.
+Not surprisingly, keeping up with
+Moore's Law has been no easy feat
+for companies in the semiconductor
+industry, especially those companies
+that develop the tools necessary for
+the manufacture of the smaller and
+faster chips needed to power new
+technologies.
+As a software engineer with over
+20 years in the semiconductor indus
+try, I have worked on and with a va
+riety of technologies to ensure that
+the required equipment keep up
+with Moore's Law. Currently, I am at
+KLA-Tencor, a leading semicon
+ductor equipment company respon
+sible for manufacturing crucial in
+spection and metrology (precision
+measurement) products and tools
+for the chip-making industry.
+Throughout the different stages of
+the chip manufacturing process our
+tools inspect and measure the pro
+duction wafers (the base material of
+
+semiconductors) to ensure the chips
+are defect-free and that chipmakers
+like Intel can maximize the number
+of usable chips they get from each
+wafer.
+To keep up with Moore's Law,
+our tools must double their capabil
+ities every two years, so we face
+many daunting engineering chal
+lenges. My colleagues at KLA-Ten
+cor, in a wide range of technical dis
+ciplines, grapple with Gordon
+Moore's dictum every single day:
+Mechanical Engineers: These en
+gineers work on mechanical stages
+that may require reliable positional
+accuracy of a few nanometers. Or
+they may work on stages that only
+require positional accuracy of 100
+nanometers, but must be able to
+move quickly and smoothly with no
+more than 5 nanometers of error.
+Because of Moore's law, the stages
+required in the next few years will
+need to be even more accurate.
+Optical Engineers: These engi
+neers may work on lens assemblies
+that require large, flat fields of view.
+Such optics are used to image and
+manufacture transistors as small as
+22 nanometers, all the while using
+light with wavelengths ten times as
+large. This is like trying to stamp out
+typewriter sized lettering with a
+sledgehammer.
+Electrical Engineers: Electrical
+Engineers design sensor boards ca
+pable of capturing images at 20
+GB/sec (think of this as over 100 un
+compressed 1080p HD image
+streams). These boards send these
+images at 20 GB/sec over fiber op
+tics to computers that process the
+images in real-time, looking for fea
+tures that are too small to resolve. At
+these speeds and sensitivities, even
+one hundred extra photons picked
+up or lost by the sensor matters, so
+the challenge is to run extremely fast
+but without appreciable noise.
+Software Engineers: Software
+Engineers in my field work on pro
+grams with millions of lines of code
+and that run on clusters of ma
+chines. The cluster might be a
+unique mix of Windows, Linux,
+Apple and embedded systems. And
+the tools are programmed using lan
+guages from Java and C#, to C and
+assembly, to Python.
+Algorithm Specialists: Algo
+rithm Specialists design and imple
+ment new algorithms to detect
+
+problems on the wafers. Because
+of 45 years of Moore's Law, the fea
+tures and defects on the wafers are
+so small they can no longer be re
+solved by the inspectors. This is a
+problem similar to searching for
+unresolvable extra-solar planets ..
+. but much faster. Here, state-of
+the-art image processing tech
+niques are employed, and the
+image processing still requires a
+cluster of computers to ship with
+each tool. Tools ship today that in
+clude clusters that in 2007 would
+have made the Top 500 supercom
+puter list.
+And all this out of companies
+whose names most people have
+never heard of, yet are central to
+
+the manufacture of the chips that
+are the building blocks of their
+HDTVs, laptops, and increasingly,
+even cars.
+The last 40 years have been quite
+a ride. And the next 40 years look to
+be quite a ride, too.
+Watch a series of lectures by
+KLA-Tencor CEO Rick Wallace at
+the Stanford Business school:
+http://ecorner.stanford.edu
+Mark Roulo is a Software Archi
+tect at KLA-Tencor, a leading semi
+conductor
+test equipment company. For more
+information about KLA-Tencor, go
+to www.kla-tencor.com.
+It was not long ago that tablets,
+smart phones and tiny MP3 play
+ers existed more in the realm of
+science fiction than in the backpacks
+of Stanford students. At the heart of
+all these gadgets is the semiconduc
+tor chip. The hunger for smarter and
+sleeker gadgets requires chips that
+are faster, smaller and more capable
+all of which creates significant
+engineering challenges for those in
+volved in the manufacture of semi
+conductors.
+In 1965 Intel's Gordon Moore
+made a legendary observation that
+the number of transistors on a chip
+doubles every 12 (later revised to
+18-24) months. This observation,
+which came to be known as
+"Moore's Law," has been the foun
+dation and fundamental driver of
+the semiconductor industry ever
+since. Amazingly, 45 years later,
+Moore's Law is still essentially in
+tact, and the transistor count on
+modern integrated circuits has risen
+from up to 500 in 1965 to over three
+billion transistors today.
+Not surprisingly, keeping up with
+Moore's Law has been no easy feat
+for companies in the semiconductor
+industry, especially those companies
+that develop the tools necessary for
+the manufacture of the smaller and
+faster chips needed to power new
+technologies.
+As a software engineer with over
+20 years in the semiconductor indus
+try, I have worked on and with a va
+riety of technologies to ensure that
+the required equipment keep up
+with Moore's Law. Currently, I am at
+KLA-Tencor, a leading semicon
+ductor equipment company respon
+sible for manufacturing crucial in
+spection and metrology (precision
+measurement) products and tools
+for the chip-making industry.
+Throughout the different stages of
+the chip manufacturing process our
+tools inspect and measure the pro
+duction wafers (the base material of
+
+semiconductors) to ensure the chips
+are defect-free and that chipmakers
+like Intel can maximize the number
+of usable chips they get from each
+wafer.
+To keep up with Moore's Law,
+our tools must double their capabil
+ities every two years, so we face
+many daunting engineering chal
+lenges. My colleagues at KLA-Ten
+cor, in a wide range of technical dis
+ciplines, grapple with Gordon
+Moore's dictum every single day:
+Mechanical Engineers: These en
+gineers work on mechanical stages
+that may require reliable positional
+accuracy of a few nanometers. Or
+they may work on stages that only
+require positional accuracy of 100
+nanometers, but must be able to
+move quickly and smoothly with no
+more than 5 nanometers of error.
+Because of Moore's law, the stages
+required in the next few years will
+need to be even more accurate.
+Optical Engineers: These engi
+neers may work on lens assemblies
+that require large, flat fields of view.
+Such optics are used to image and
+manufacture transistors as small as
+22 nanometers, all the while using
+light with wavelengths ten times as
+large. This is like trying to stamp out
+typewriter sized lettering with a
+sledgehammer.
+Electrical Engineers: Electrical
+Engineers design sensor boards ca
+pable of capturing images at 20
+GB/sec (think of this as over 100 un
+compressed 1080p HD image
+streams). These boards send these
+images at 20 GB/sec over fiber op
+tics to computers that process the
+images in real-time, looking for fea
+tures that are too small to resolve. At
+these speeds and sensitivities, even
+one hundred extra photons picked
+up or lost by the sensor matters, so
+the challenge is to run extremely fast
+but without appreciable noise.
+Software Engineers: Software
+Engineers in my field work on pro
+grams with millions of lines of code
+and that run on clusters of ma
+chines. The cluster might be a
+unique mix of Windows, Linux,
+Apple and embedded systems. And
+the tools are programmed using lan
+guages from Java and C#, to C and
+assembly, to Python.
+Algorithm Specialists: Algo
+rithm Specialists design and imple
+ment new algorithms to detect
+
+problems on the wafers. Because
+of 45 years of Moore's Law, the fea
+tures and defects on the wafers are
+so small they can no longer be re
+solved by the inspectors. This is a
+problem similar to searching for
+unresolvable extra-solar planets ..
+. but much faster. Here, state-of
+the-art image processing tech
+niques are employed, and the
+image processing still requires a
+cluster of computers to ship with
+each tool. Tools ship today that in
+clude clusters that in 2007 would
+have made the Top 500 supercom
+puter list.
+And all this out of companies
+whose names most people have
+never heard of, yet are central to
+
+the manufacture of the chips that
+are the building blocks of their
+HDTVs, laptops, and increasingly,
+even cars.
+The last 40 years have been quite
+a ride. And the next 40 years look to
+be quite a ride, too.
+Watch a series of lectures by
+KLA-Tencor CEO Rick Wallace at
+the Stanford Business school:
+http://ecorner.stanford.edu
+Mark Roulo is a Software Archi
+tect at KLA-Tencor, a leading semi
+conductor
+test equipment company. For more
+information about KLA-Tencor, go
+to www.kla-tencor.com.
+It was not long ago that tablets,
+smart phones and tiny MP3 play
+ers existed more in the realm of
+science fiction than in the backpacks
+of Stanford students. At the heart of
+all these gadgets is the semiconduc
+tor chip. The hunger for smarter and
+sleeker gadgets requires chips that
+are faster, smaller and more capable
+all of which creates significant
+engineering challenges for those in
+volved in the manufacture of semi
+conductors.
+In 1965 Intel's Gordon Moore
+made a legendary observation that
+the number of transistors on a chip
+doubles every 12 (later revised to
+18-24) months. This observation,
+which came to be known as
+"Moore's Law," has been the foun
+dation and fundamental driver of
+the semiconductor industry ever
+since. Amazingly, 45 years later,
+Moore's Law is still essentially in
+tact, and the transistor count on
+modern integrated circuits has risen
+from up to 500 in 1965 to over three
+billion transistors today.
+Not surprisingly, keeping up with
+Moore's Law has been no easy feat
+for companies in the semiconductor
+industry, especially those companies
+that develop the tools necessary for
+the manufacture of the smaller and
+faster chips needed to power new
+technologies.
+As a software engineer with over
+20 years in the semiconductor indus
+try, I have worked on and with a va
+riety of technologies to ensure that
+the required equipment keep up
+with Moore's Law. Currently, I am at
+KLA-Tencor, a leading semicon
+ductor equipment company respon
+sible for manufacturing crucial in
+spection and metrology (precision
+measurement) products and tools
+for the chip-making industry.
+Throughout the different stages of
+the chip manufacturing process our
+tools inspect and measure the pro
+duction wafers (the base material of
+
+semiconductors) to ensure the chips
+are defect-free and that chipmakers
+like Intel can maximize the number
+of usable chips they get from each
+wafer.
+To keep up with Moore's Law,
+our tools must double their capabil
+ities every two years, so we face
+many daunting engineering chal
+lenges. My colleagues at KLA-Ten
+cor, in a wide range of technical dis
+ciplines, grapple with Gordon
+Moore's dictum every single day:
+Mechanical Engineers: These en
+gineers work on mechanical stages
+that may require reliable positional
+accuracy of a few nanometers. Or
+they may work on stages that only
+require positional accuracy of 100
+nanometers, but must be able to
+move quickly and smoothly with no
+more than 5 nanometers of error.
+Because of Moore's law, the stages
+required in the next few years will
+need to be even more accurate.
+Optical Engineers: These engi
+neers may work on lens assemblies
+that require large, flat fields of view.
+Such optics are used to image and
+manufacture transistors as small as
+22 nanometers, all the while using
+light with wavelengths ten times as
+large. This is like trying to stamp out
+typewriter sized lettering with a
+sledgehammer.
+Electrical Engineers: Electrical
+Engineers design sensor boards ca
+pable of capturing images at 20
+GB/sec (think of this as over 100 un
+compressed 1080p HD image
+streams). These boards send these
+images at 20 GB/sec over fiber op
+tics to computers that process the
+images in real-time, looking for fea
+tures that are too small to resolve. At
+these speeds and sensitivities, even
+one hundred extra photons picked
+up or lost by the sensor matters, so
+the challenge is to run extremely fast
+but without appreciable noise.
+Software Engineers: Software
+Engineers in my field work on pro
+grams with millions of lines of code
+and that run on clusters of ma
+chines. The cluster might be a
+unique mix of Windows, Linux,
+Apple and embedded systems. And
+the tools are programmed using lan
+guages from Java and C#, to C and
+assembly, to Python.
+Algorithm Specialists: Algo
+rithm Specialists design and imple
+ment new algorithms to detect
+
+problems on the wafers. Because
+of 45 years of Moore's Law, the fea
+tures and defects on the wafers are
+so small they can no longer be re
+solved by the inspectors. This is a
+problem similar to searching for
+unresolvable extra-solar planets ..
+. but much faster. Here, state-of
+the-art image processing tech
+niques are employed, and the
+image processing still requires a
+cluster of computers to ship with
+each tool. Tools ship today that in
+clude clusters that in 2007 would
+have made the Top 500 supercom
+puter list.
+And all this out of companies
+whose names most people have
+never heard of, yet are central to
+
+the manufacture of the chips that
+are the building blocks of their
+HDTVs, laptops, and increasingly,
+even cars.
+The last 40 years have been quite
+a ride. And the next 40 years look to
+be quite a ride, too.
+Watch a series of lectures by
+KLA-Tencor CEO Rick Wallace at
+the Stanford Business school:
+http://ecorner.stanford.edu
+Mark Roulo is a Software Archi
+tect at KLA-Tencor, a leading semi
+conductor
+test equipment company. For more
+information about KLA-Tencor, go
+to www.kla-tencor.com.
+It was not long ago that tablets,
+smart phones and tiny MP3 play
+ers existed more in the realm of
+science fiction than in the backpacks
+of Stanford students. At the heart of
+all these gadgets is the semiconduc
+tor chip. The hunger for smarter and
+sleeker gadgets requires chips that
+are faster, smaller and more capable
+all of which creates significant
+engineering challenges for those in
+volved in the manufacture of semi
+conductors.
+In 1965 Intel's Gordon Moore
+made a legendary observation that
+the number of transistors on a chip
+doubles every 12 (later revised to
+18-24) months. This observation,
+which came to be known as
+"Moore's Law," has been the foun
+dation and fundamental driver of
+the semiconductor industry ever
+since. Amazingly, 45 years later,
+Moore's Law is still essentially in
+tact, and the transistor count on
+modern integrated circuits has risen
+from up to 500 in 1965 to over three
+billion transistors today.
+Not surprisingly, keeping up with
+Moore's Law has been no easy feat
+for companies in the semiconductor
+industry, especially those companies
+that develop the tools necessary for
+the manufacture of the smaller and
+faster chips needed to power new
+technologies.
+As a software engineer with over
+20 years in the semiconductor indus
+try, I have worked on and with a va
+riety of technologies to ensure that
+the required equipment keep up
+with Moore's Law. Currently, I am at
+KLA-Tencor, a leading semicon
+ductor equipment company respon
+sible for manufacturing crucial in
+spection and metrology (precision
+measurement) products and tools
+for the chip-making industry.
+Throughout the different stages of
+the chip manufacturing process our
+tools inspect and measure the pro
+duction wafers (the base material of
+
+semiconductors) to ensure the chips
+are defect-free and that chipmakers
+like Intel can maximize the number
+of usable chips they get from each
+wafer.
+To keep up with Moore's Law,
+our tools must double their capabil
+ities every two years, so we face
+many daunting engineering chal
+lenges. My colleagues at KLA-Ten
+cor, in a wide range of technical dis
+ciplines, grapple with Gordon
+Moore's dictum every single day:
+Mechanical Engineers: These en
+gineers work on mechanical stages
+that may require reliable positional
+accuracy of a few nanometers. Or
+they may work on stages that only
+require positional accuracy of 100
+nanometers, but must be able to
+move quickly and smoothly with no
+more than 5 nanometers of error.
+Because of Moore's law, the stages
+required in the next few years will
+need to be even more accurate.
+Optical Engineers: These engi
+neers may work on lens assemblies
+that require large, flat fields of view.
+Such optics are used to image and
+manufacture transistors as small as
+22 nanometers, all the while using
+light with wavelengths ten times as
+large. This is like trying to stamp out
+typewriter sized lettering with a
+sledgehammer.
+Electrical Engineers: Electrical
+Engineers design sensor boards ca
+pable of capturing images at 20
+GB/sec (think of this as over 100 un
+compressed 1080p HD image
+streams). These boards send these
+images at 20 GB/sec over fiber op
+tics to computers that process the
+images in real-time, looking for fea
+tures that are too small to resolve. At
+these speeds and sensitivities, even
+one hundred extra photons picked
+up or lost by the sensor matters, so
+the challenge is to run extremely fast
+but without appreciable noise.
+Software Engineers: Software
+Engineers in my field work on pro
+grams with millions of lines of code
+and that run on clusters of ma
+chines. The cluster might be a
+unique mix of Windows, Linux,
+Apple and embedded systems. And
+the tools are programmed using lan
+guages from Java and C#, to C and
+assembly, to Python.
+Algorithm Specialists: Algo
+rithm Specialists design and imple
+ment new algorithms to detect
+
+problems on the wafers. Because
+of 45 years of Moore's Law, the fea
+tures and defects on the wafers are
+so small they can no longer be re
+solved by the inspectors. This is a
+problem similar to searching for
+unresolvable extra-solar planets ..
+. but much faster. Here, state-of
+the-art image processing tech
+niques are employed, and the
+image processing still requires a
+cluster of computers to ship with
+each tool. Tools ship today that in
+clude clusters that in 2007 would
+have made the Top 500 supercom
+puter list.
+And all this out of companies
+whose names most people have
+never heard of, yet are central to
+
+the manufacture of the chips that
+are the building blocks of their
+HDTVs, laptops, and increasingly,
+even cars.
+The last 40 years have been quite
+a ride. And the next 40 years look to
+be quite a ride, too.
+Watch a series of lectures by
+KLA-Tencor CEO Rick Wallace at
+the Stanford Business school:
+http://ecorner.stanford.edu
+Mark Roulo is a Software Archi
+tect at KLA-Tencor, a leading semi
+conductor
+test equipment company. For more
+information about KLA-Tencor, go
+to www.kla-tencor.com.
+It was not long ago that tablets,
+smart phones and tiny MP3 play
+ers existed more in the realm of
+science fiction than in the backpacks
+of Stanford students. At the heart of
+all these gadgets is the semiconduc
+tor chip. The hunger for smarter and
+sleeker gadgets requires chips that
+are faster, smaller and more capable
+all of which creates significant
+engineering challenges for those in
+volved in the manufacture of semi
+conductors.
+In 1965 Intel's Gordon Moore
+made a legendary observation that
+the number of transistors on a chip
+doubles every 12 (later revised to
+18-24) months. This observation,
+which came to be known as
+"Moore's Law," has been the foun
+dation and fundamental driver of
+the semiconductor industry ever
+since. Amazingly, 45 years later,
+Moore's Law is still essentially in
+tact, and the transistor count on
+modern integrated circuits has risen
+from up to 500 in 1965 to over three
+billion transistors today.
+Not surprisingly, keeping up with
+Moore's Law has been no easy feat
+for companies in the semiconductor
+industry, especially those companies
+that develop the tools necessary for
+the manufacture of the smaller and
+faster chips needed to power new
+technologies.
+As a software engineer with over
+20 years in the semiconductor indus
+try, I have worked on and with a va
+riety of technologies to ensure that
+the required equipment keep up
+with Moore's Law. Currently, I am at
+KLA-Tencor, a leading semicon
+ductor equipment company respon
+sible for manufacturing crucial in
+spection and metrology (precision
+measurement) products and tools
+for the chip-making industry.
+Throughout the different stages of
+the chip manufacturing process our
+tools inspect and measure the pro
+duction wafers (the base material of
+
+semiconductors) to ensure the chips
+are defect-free and that chipmakers
+like Intel can maximize the number
+of usable chips they get from each
+wafer.
+To keep up with Moore's Law,
+our tools must double their capabil
+ities every two years, so we face
+many daunting engineering chal
+lenges. My colleagues at KLA-Ten
+cor, in a wide range of technical dis
+ciplines, grapple with Gordon
+Moore's dictum every single day:
+Mechanical Engineers: These en
+gineers work on mechanical stages
+that may require reliable positional
+accuracy of a few nanometers. Or
+they may work on stages that only
+require positional accuracy of 100
+nanometers, but must be able to
+move quickly and smoothly with no
+more than 5 nanometers of error.
+Because of Moore's law, the stages
+required in the next few years will
+need to be even more accurate.
+Optical Engineers: These engi
+neers may work on lens assemblies
+that require large, flat fields of view.
+Such optics are used to image and
+manufacture transistors as small as
+22 nanometers, all the while using
+light with wavelengths ten times as
+large. This is like trying to stamp out
+typewriter sized lettering with a
+sledgehammer.
+Electrical Engineers: Electrical
+Engineers design sensor boards ca
+pable of capturing images at 20
+GB/sec (think of this as over 100 un
+compressed 1080p HD image
+streams). These boards send these
+images at 20 GB/sec over fiber op
+tics to computers that process the
+images in real-time, looking for fea
+tures that are too small to resolve. At
+these speeds and sensitivities, even
+one hundred extra photons picked
+up or lost by the sensor matters, so
+the challenge is to run extremely fast
+but without appreciable noise.
+Software Engineers: Software
+Engineers in my field work on pro
+grams with millions of lines of code
+and that run on clusters of ma
+chines. The cluster might be a
+unique mix of Windows, Linux,
+Apple and embedded systems. And
+the tools are programmed using lan
+guages from Java and C#, to C and
+assembly, to Python.
+Algorithm Specialists: Algo
+rithm Specialists design and imple
+ment new algorithms to detect
+
+problems on the wafers. Because
+of 45 years of Moore's Law, the fea
+tures and defects on the wafers are
+so small they can no longer be re
+solved by the inspectors. This is a
+problem similar to searching for
+unresolvable extra-solar planets ..
+. but much faster. Here, state-of
+the-art image processing tech
+niques are employed, and the
+image processing still requires a
+cluster of computers to ship with
+each tool. Tools ship today that in
+clude clusters that in 2007 would
+have made the Top 500 supercom
+puter list.
+And all this out of companies
+whose names most people have
+never heard of, yet are central to
+
+the manufacture of the chips that
+are the building blocks of their
+HDTVs, laptops, and increasingly,
+even cars.
+The last 40 years have been quite
+a ride. And the next 40 years look to
+be quite a ride, too.
+Watch a series of lectures by
+KLA-Tencor CEO Rick Wallace at
+the Stanford Business school:
+http://ecorner.stanford.edu
+Mark Roulo is a Software Archi
+tect at KLA-Tencor, a leading semi
+conductor
+test equipment company. For more
+information about KLA-Tencor, go
+to www.kla-tencor.com.

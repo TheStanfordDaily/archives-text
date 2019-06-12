@@ -1,0 +1,1214 @@
+# Intel-based processors give Apple some extra crunch
+## 
+### 
+This week. Mac aficionados descended
+on San Francisco's Moscone center for
+Macworld, the one-week expo con
+cerned with everything Apple.
+The conference floor buzzed with life. As
+flabby programmers flirted with young fe
+male trade reps. iPod gizmos and gadgets
+vied for space among rows of gleaning new
+Intel-based laptops. Apple put on an impres
+sive show.
+The Macworld expo offers the perfect op
+portunity to reflect on some of Apple's new
+innovations. Mac users will benefit from the
+new Intel processor and an overhaul of the
+iLife software suite. The rest of the world
+may appreciate some lesser-known progress
+that Apple has made over the past few
+months to bring 11.264 — a new. high-quality
+video standard — to the Internet.
+Bait and Switch
+The biggest news from the conference was
+that Apple has switched away from IBM's
+PowerPC processor a new line of Intel-based
+processors. This has been a long anticipated
+transition, but most doubted that Apple
+would release the new Intel machines so early.
+For years, Apple used IBM's PowerPC
+processor to run its computers. Rumors
+abounded that the IBM processor wasn't up
+to par with the more efficient Intel processor
+in PC computers and laptops. Although
+Apple made progress by releasing a new
+iMac with a faster IBM G5 processor,
+Apple's premiere laptop line — the Power-
+Book — was stuck with a slower (14 proces
+
+sor. Pundits speculated that the G5 processor
+was too power hungry and dissipated too
+much heat to fit into the sleek body of a
+Powerßook.
+All of that changed when Apple's Chief
+Executive Officer Steve Jobs unveiled a new.
+faster iMac and a Powerbook renamed the
+MacßookPro. While the iMac looks un
+changed and the MacßookPro retains its
+shiny aluminum casing and translucent
+Apple logo, both computers now run off of a
+new Intel Dual Core Duo processor. Apple
+claims the processor is up to four times faster
+than its predecessors. Both computers have a
+built-in iSight Web camera with remote con
+trol, and the laptop comes with a nifty, trip
+proof magnetic power cord.
+After toying around with the new laptop.
+I think Mac users will be pleased. It is every
+thing the old laptops were — but faster.
+I)o I Stay or Do I Go Now?
+If you're looking to buy a Mac, you should
+jump in now and get the new Intel machines.
+Buying a G5 or G4 machine now would be a
+mistake, as the Intel processors are clearly
+
+the wave of the future.
+But if you already own a Mac, there's no
+need to toss out your old Ci 4 laptop just yet.
+The new Intel machines don't benefit from
+their fast processors when running most ex
+ternal software such as Microsoft Word. For
+the time being, these programs are run
+through a translator called Rosetta that al
+lows the old PowerPC software to speak to
+the new Intel processor. I Jntil Microsoft and
+Adobe release new versions of their software
+specifically designed for the Intel Apples,
+Mac users should not feel compelled to give
+up their current machines.
+Lights, Camera, Action
+For the % percent of computer users who
+don't choose Apple, the new Intel Macs don't
+really change much. Apple, however, has
+made some quieter adjustments to which Mac
+and non-Mac users alike should pay attention.
+Apple, for example, is pushing the new
+11.2M video standard which shows promise
+at becoming a de facto standard for video on
+the Web.
+For years, no one could agree on any for
+mat for sending video. Browsing the Web al
+ways seemed to require at least three video
+players, including Apple's Quicktime, Mi
+crosoft's Windows Media Player and Real
+Network's Real Player.
+II dot what?
+Although they all try to accomplish the
+same thing, not all video algorithms — or
+
+codecs — are equal. Stupid codecs send a se
+ries of pictures one after another and the
+computer displays it. Smarter codecs use
+high-level tricks to save themselves from
+sending images. For instance, a clever codec
+will send one image and then tell the comput
+er how to change it. over time. Rather than
+send a new image, a codec might say, "move
+this clump of pixels over" or "make every
+thing darker." It also might send more infor
+mation to parts of the video that has lots of
+action and less to parts that have dark shad
+ows. These higher-level directives save pre
+cious network bandwidth and allow the
+codec to cram more information and bigger
+images at better resolutions down the same
+Internet connection.
+Unfortunately, no one has ever been able
+to agree on a clever way for sending video in
+a wide range of situations. Microsoft's Win
+dows Media 4 codec came very close, but it
+was closed-source and only Microsoft knew
+how it works. MPEG-2 worked well for
+DVDs and MDTV broadcasts hut it didn't
+work well for streaming. This past year, how
+ever, the international standards body ITIJ-
+T finalized the H. 264 standard — a very ro
+bust video codec that uses all the tricks in the
+book to send high quality video through slow
+connections.
+One Standard to Rule them All
+H.2f>4 could finally be the one standard
+for video that almost everyone will use.
+H.2M is already widely used in the video sur
+veillance industry and it's a required stan
+
+dard on both new HDTV-DVD formats.
+ITianks to Apple's inclusion in Quicktime 7.
+11.264 is also gaining traction online.
+To see for yourself, download Apple's
+Quicktime 7 at http://quicktime.com or grab
+VLC at http://www.videolan.org/vlc/. ITien
+head to http://apple.com/trailers/ and check
+out a movie trailer in 11.264. One of the ad
+vantages of 11.264 is that the algorithm works
+on a wide range of screen sizes from 11DTV
+resolution down to an iPod. On my tests,
+11.264 looks pristine with almost lossless
+video quality even though it compresses to
+si/es comparable to low quality DivX or
+MP! (i videos.
+Fora real treat, see Sony's Bravia adver
+tisement at http://bravia-advert.com. Watch
+in vivid color as a quarter million super-balls
+bounce down San Francisco hills. Ilien check
+out the "Behnid the Scenes" footage to see
+how they did it. Both of these videos arc in
+11.264 and in both cases, the quality makes
+the video.
+Unfortunately. 11.264 is not for the light of
+heart. Compression comes at a cost. You'll
+need at least a fairly recent computer to
+watch 11.264 video. My old PowerMac G4
+444 Mhz lacks the computing power to play
+11.264 in realtime.
+A new Intel iMac. however, will have no
+problems. Once again Apple puts on an im
+pressive show.
+Andrew Leifer is a junior studying physics
+and is founder of HouldcrConiputinx.com, a
+small computer consulting firm. E-mail him
+at andrew.leifer@stanford.edu
+
+
+Andrew
+Leifer
+Tech Talk
+This week. Mac aficionados descended
+on San Francisco's Moscone center for
+Macworld, the one-week expo con
+cerned with everything Apple.
+The conference floor buzzed with life. As
+flabby programmers flirted with young fe
+male trade reps. iPod gizmos and gadgets
+vied for space among rows of gleaning new
+Intel-based laptops. Apple put on an impres
+sive show.
+The Macworld expo offers the perfect op
+portunity to reflect on some of Apple's new
+innovations. Mac users will benefit from the
+new Intel processor and an overhaul of the
+iLife software suite. The rest of the world
+may appreciate some lesser-known progress
+that Apple has made over the past few
+months to bring 11.264 — a new. high-quality
+video standard — to the Internet.
+Bait and Switch
+The biggest news from the conference was
+that Apple has switched away from IBM's
+PowerPC processor a new line of Intel-based
+processors. This has been a long anticipated
+transition, but most doubted that Apple
+would release the new Intel machines so early.
+For years, Apple used IBM's PowerPC
+processor to run its computers. Rumors
+abounded that the IBM processor wasn't up
+to par with the more efficient Intel processor
+in PC computers and laptops. Although
+Apple made progress by releasing a new
+iMac with a faster IBM G5 processor,
+Apple's premiere laptop line — the Power-
+Book — was stuck with a slower (14 proces
+
+sor. Pundits speculated that the G5 processor
+was too power hungry and dissipated too
+much heat to fit into the sleek body of a
+Powerßook.
+All of that changed when Apple's Chief
+Executive Officer Steve Jobs unveiled a new.
+faster iMac and a Powerbook renamed the
+MacßookPro. While the iMac looks un
+changed and the MacßookPro retains its
+shiny aluminum casing and translucent
+Apple logo, both computers now run off of a
+new Intel Dual Core Duo processor. Apple
+claims the processor is up to four times faster
+than its predecessors. Both computers have a
+built-in iSight Web camera with remote con
+trol, and the laptop comes with a nifty, trip
+proof magnetic power cord.
+After toying around with the new laptop.
+I think Mac users will be pleased. It is every
+thing the old laptops were — but faster.
+I)o I Stay or Do I Go Now?
+If you're looking to buy a Mac, you should
+jump in now and get the new Intel machines.
+Buying a G5 or G4 machine now would be a
+mistake, as the Intel processors are clearly
+
+the wave of the future.
+But if you already own a Mac, there's no
+need to toss out your old Ci 4 laptop just yet.
+The new Intel machines don't benefit from
+their fast processors when running most ex
+ternal software such as Microsoft Word. For
+the time being, these programs are run
+through a translator called Rosetta that al
+lows the old PowerPC software to speak to
+the new Intel processor. I Jntil Microsoft and
+Adobe release new versions of their software
+specifically designed for the Intel Apples,
+Mac users should not feel compelled to give
+up their current machines.
+Lights, Camera, Action
+For the % percent of computer users who
+don't choose Apple, the new Intel Macs don't
+really change much. Apple, however, has
+made some quieter adjustments to which Mac
+and non-Mac users alike should pay attention.
+Apple, for example, is pushing the new
+11.2M video standard which shows promise
+at becoming a de facto standard for video on
+the Web.
+For years, no one could agree on any for
+mat for sending video. Browsing the Web al
+ways seemed to require at least three video
+players, including Apple's Quicktime, Mi
+crosoft's Windows Media Player and Real
+Network's Real Player.
+II dot what?
+Although they all try to accomplish the
+same thing, not all video algorithms — or
+
+codecs — are equal. Stupid codecs send a se
+ries of pictures one after another and the
+computer displays it. Smarter codecs use
+high-level tricks to save themselves from
+sending images. For instance, a clever codec
+will send one image and then tell the comput
+er how to change it. over time. Rather than
+send a new image, a codec might say, "move
+this clump of pixels over" or "make every
+thing darker." It also might send more infor
+mation to parts of the video that has lots of
+action and less to parts that have dark shad
+ows. These higher-level directives save pre
+cious network bandwidth and allow the
+codec to cram more information and bigger
+images at better resolutions down the same
+Internet connection.
+Unfortunately, no one has ever been able
+to agree on a clever way for sending video in
+a wide range of situations. Microsoft's Win
+dows Media 4 codec came very close, but it
+was closed-source and only Microsoft knew
+how it works. MPEG-2 worked well for
+DVDs and MDTV broadcasts hut it didn't
+work well for streaming. This past year, how
+ever, the international standards body ITIJ-
+T finalized the H. 264 standard — a very ro
+bust video codec that uses all the tricks in the
+book to send high quality video through slow
+connections.
+One Standard to Rule them All
+H.2f>4 could finally be the one standard
+for video that almost everyone will use.
+H.2M is already widely used in the video sur
+veillance industry and it's a required stan
+
+dard on both new HDTV-DVD formats.
+ITianks to Apple's inclusion in Quicktime 7.
+11.264 is also gaining traction online.
+To see for yourself, download Apple's
+Quicktime 7 at http://quicktime.com or grab
+VLC at http://www.videolan.org/vlc/. ITien
+head to http://apple.com/trailers/ and check
+out a movie trailer in 11.264. One of the ad
+vantages of 11.264 is that the algorithm works
+on a wide range of screen sizes from 11DTV
+resolution down to an iPod. On my tests,
+11.264 looks pristine with almost lossless
+video quality even though it compresses to
+si/es comparable to low quality DivX or
+MP! (i videos.
+Fora real treat, see Sony's Bravia adver
+tisement at http://bravia-advert.com. Watch
+in vivid color as a quarter million super-balls
+bounce down San Francisco hills. Ilien check
+out the "Behnid the Scenes" footage to see
+how they did it. Both of these videos arc in
+11.264 and in both cases, the quality makes
+the video.
+Unfortunately. 11.264 is not for the light of
+heart. Compression comes at a cost. You'll
+need at least a fairly recent computer to
+watch 11.264 video. My old PowerMac G4
+444 Mhz lacks the computing power to play
+11.264 in realtime.
+A new Intel iMac. however, will have no
+problems. Once again Apple puts on an im
+pressive show.
+Andrew Leifer is a junior studying physics
+and is founder of HouldcrConiputinx.com, a
+small computer consulting firm. E-mail him
+at andrew.leifer@stanford.edu
+
+
+Andrew
+Leifer
+Tech Talk
+This week. Mac aficionados descended
+on San Francisco's Moscone center for
+Macworld, the one-week expo con
+cerned with everything Apple.
+The conference floor buzzed with life. As
+flabby programmers flirted with young fe
+male trade reps. iPod gizmos and gadgets
+vied for space among rows of gleaning new
+Intel-based laptops. Apple put on an impres
+sive show.
+The Macworld expo offers the perfect op
+portunity to reflect on some of Apple's new
+innovations. Mac users will benefit from the
+new Intel processor and an overhaul of the
+iLife software suite. The rest of the world
+may appreciate some lesser-known progress
+that Apple has made over the past few
+months to bring 11.264 — a new. high-quality
+video standard — to the Internet.
+Bait and Switch
+The biggest news from the conference was
+that Apple has switched away from IBM's
+PowerPC processor a new line of Intel-based
+processors. This has been a long anticipated
+transition, but most doubted that Apple
+would release the new Intel machines so early.
+For years, Apple used IBM's PowerPC
+processor to run its computers. Rumors
+abounded that the IBM processor wasn't up
+to par with the more efficient Intel processor
+in PC computers and laptops. Although
+Apple made progress by releasing a new
+iMac with a faster IBM G5 processor,
+Apple's premiere laptop line — the Power-
+Book — was stuck with a slower (14 proces
+
+sor. Pundits speculated that the G5 processor
+was too power hungry and dissipated too
+much heat to fit into the sleek body of a
+Powerßook.
+All of that changed when Apple's Chief
+Executive Officer Steve Jobs unveiled a new.
+faster iMac and a Powerbook renamed the
+MacßookPro. While the iMac looks un
+changed and the MacßookPro retains its
+shiny aluminum casing and translucent
+Apple logo, both computers now run off of a
+new Intel Dual Core Duo processor. Apple
+claims the processor is up to four times faster
+than its predecessors. Both computers have a
+built-in iSight Web camera with remote con
+trol, and the laptop comes with a nifty, trip
+proof magnetic power cord.
+After toying around with the new laptop.
+I think Mac users will be pleased. It is every
+thing the old laptops were — but faster.
+I)o I Stay or Do I Go Now?
+If you're looking to buy a Mac, you should
+jump in now and get the new Intel machines.
+Buying a G5 or G4 machine now would be a
+mistake, as the Intel processors are clearly
+
+the wave of the future.
+But if you already own a Mac, there's no
+need to toss out your old Ci 4 laptop just yet.
+The new Intel machines don't benefit from
+their fast processors when running most ex
+ternal software such as Microsoft Word. For
+the time being, these programs are run
+through a translator called Rosetta that al
+lows the old PowerPC software to speak to
+the new Intel processor. I Jntil Microsoft and
+Adobe release new versions of their software
+specifically designed for the Intel Apples,
+Mac users should not feel compelled to give
+up their current machines.
+Lights, Camera, Action
+For the % percent of computer users who
+don't choose Apple, the new Intel Macs don't
+really change much. Apple, however, has
+made some quieter adjustments to which Mac
+and non-Mac users alike should pay attention.
+Apple, for example, is pushing the new
+11.2M video standard which shows promise
+at becoming a de facto standard for video on
+the Web.
+For years, no one could agree on any for
+mat for sending video. Browsing the Web al
+ways seemed to require at least three video
+players, including Apple's Quicktime, Mi
+crosoft's Windows Media Player and Real
+Network's Real Player.
+II dot what?
+Although they all try to accomplish the
+same thing, not all video algorithms — or
+
+codecs — are equal. Stupid codecs send a se
+ries of pictures one after another and the
+computer displays it. Smarter codecs use
+high-level tricks to save themselves from
+sending images. For instance, a clever codec
+will send one image and then tell the comput
+er how to change it. over time. Rather than
+send a new image, a codec might say, "move
+this clump of pixels over" or "make every
+thing darker." It also might send more infor
+mation to parts of the video that has lots of
+action and less to parts that have dark shad
+ows. These higher-level directives save pre
+cious network bandwidth and allow the
+codec to cram more information and bigger
+images at better resolutions down the same
+Internet connection.
+Unfortunately, no one has ever been able
+to agree on a clever way for sending video in
+a wide range of situations. Microsoft's Win
+dows Media 4 codec came very close, but it
+was closed-source and only Microsoft knew
+how it works. MPEG-2 worked well for
+DVDs and MDTV broadcasts hut it didn't
+work well for streaming. This past year, how
+ever, the international standards body ITIJ-
+T finalized the H. 264 standard — a very ro
+bust video codec that uses all the tricks in the
+book to send high quality video through slow
+connections.
+One Standard to Rule them All
+H.2f>4 could finally be the one standard
+for video that almost everyone will use.
+H.2M is already widely used in the video sur
+veillance industry and it's a required stan
+
+dard on both new HDTV-DVD formats.
+ITianks to Apple's inclusion in Quicktime 7.
+11.264 is also gaining traction online.
+To see for yourself, download Apple's
+Quicktime 7 at http://quicktime.com or grab
+VLC at http://www.videolan.org/vlc/. ITien
+head to http://apple.com/trailers/ and check
+out a movie trailer in 11.264. One of the ad
+vantages of 11.264 is that the algorithm works
+on a wide range of screen sizes from 11DTV
+resolution down to an iPod. On my tests,
+11.264 looks pristine with almost lossless
+video quality even though it compresses to
+si/es comparable to low quality DivX or
+MP! (i videos.
+Fora real treat, see Sony's Bravia adver
+tisement at http://bravia-advert.com. Watch
+in vivid color as a quarter million super-balls
+bounce down San Francisco hills. Ilien check
+out the "Behnid the Scenes" footage to see
+how they did it. Both of these videos arc in
+11.264 and in both cases, the quality makes
+the video.
+Unfortunately. 11.264 is not for the light of
+heart. Compression comes at a cost. You'll
+need at least a fairly recent computer to
+watch 11.264 video. My old PowerMac G4
+444 Mhz lacks the computing power to play
+11.264 in realtime.
+A new Intel iMac. however, will have no
+problems. Once again Apple puts on an im
+pressive show.
+Andrew Leifer is a junior studying physics
+and is founder of HouldcrConiputinx.com, a
+small computer consulting firm. E-mail him
+at andrew.leifer@stanford.edu
+
+
+Andrew
+Leifer
+Tech Talk
+This week. Mac aficionados descended
+on San Francisco's Moscone center for
+Macworld, the one-week expo con
+cerned with everything Apple.
+The conference floor buzzed with life. As
+flabby programmers flirted with young fe
+male trade reps. iPod gizmos and gadgets
+vied for space among rows of gleaning new
+Intel-based laptops. Apple put on an impres
+sive show.
+The Macworld expo offers the perfect op
+portunity to reflect on some of Apple's new
+innovations. Mac users will benefit from the
+new Intel processor and an overhaul of the
+iLife software suite. The rest of the world
+may appreciate some lesser-known progress
+that Apple has made over the past few
+months to bring 11.264 — a new. high-quality
+video standard — to the Internet.
+Bait and Switch
+The biggest news from the conference was
+that Apple has switched away from IBM's
+PowerPC processor a new line of Intel-based
+processors. This has been a long anticipated
+transition, but most doubted that Apple
+would release the new Intel machines so early.
+For years, Apple used IBM's PowerPC
+processor to run its computers. Rumors
+abounded that the IBM processor wasn't up
+to par with the more efficient Intel processor
+in PC computers and laptops. Although
+Apple made progress by releasing a new
+iMac with a faster IBM G5 processor,
+Apple's premiere laptop line — the Power-
+Book — was stuck with a slower (14 proces
+
+sor. Pundits speculated that the G5 processor
+was too power hungry and dissipated too
+much heat to fit into the sleek body of a
+Powerßook.
+All of that changed when Apple's Chief
+Executive Officer Steve Jobs unveiled a new.
+faster iMac and a Powerbook renamed the
+MacßookPro. While the iMac looks un
+changed and the MacßookPro retains its
+shiny aluminum casing and translucent
+Apple logo, both computers now run off of a
+new Intel Dual Core Duo processor. Apple
+claims the processor is up to four times faster
+than its predecessors. Both computers have a
+built-in iSight Web camera with remote con
+trol, and the laptop comes with a nifty, trip
+proof magnetic power cord.
+After toying around with the new laptop.
+I think Mac users will be pleased. It is every
+thing the old laptops were — but faster.
+I)o I Stay or Do I Go Now?
+If you're looking to buy a Mac, you should
+jump in now and get the new Intel machines.
+Buying a G5 or G4 machine now would be a
+mistake, as the Intel processors are clearly
+
+the wave of the future.
+But if you already own a Mac, there's no
+need to toss out your old Ci 4 laptop just yet.
+The new Intel machines don't benefit from
+their fast processors when running most ex
+ternal software such as Microsoft Word. For
+the time being, these programs are run
+through a translator called Rosetta that al
+lows the old PowerPC software to speak to
+the new Intel processor. I Jntil Microsoft and
+Adobe release new versions of their software
+specifically designed for the Intel Apples,
+Mac users should not feel compelled to give
+up their current machines.
+Lights, Camera, Action
+For the % percent of computer users who
+don't choose Apple, the new Intel Macs don't
+really change much. Apple, however, has
+made some quieter adjustments to which Mac
+and non-Mac users alike should pay attention.
+Apple, for example, is pushing the new
+11.2M video standard which shows promise
+at becoming a de facto standard for video on
+the Web.
+For years, no one could agree on any for
+mat for sending video. Browsing the Web al
+ways seemed to require at least three video
+players, including Apple's Quicktime, Mi
+crosoft's Windows Media Player and Real
+Network's Real Player.
+II dot what?
+Although they all try to accomplish the
+same thing, not all video algorithms — or
+
+codecs — are equal. Stupid codecs send a se
+ries of pictures one after another and the
+computer displays it. Smarter codecs use
+high-level tricks to save themselves from
+sending images. For instance, a clever codec
+will send one image and then tell the comput
+er how to change it. over time. Rather than
+send a new image, a codec might say, "move
+this clump of pixels over" or "make every
+thing darker." It also might send more infor
+mation to parts of the video that has lots of
+action and less to parts that have dark shad
+ows. These higher-level directives save pre
+cious network bandwidth and allow the
+codec to cram more information and bigger
+images at better resolutions down the same
+Internet connection.
+Unfortunately, no one has ever been able
+to agree on a clever way for sending video in
+a wide range of situations. Microsoft's Win
+dows Media 4 codec came very close, but it
+was closed-source and only Microsoft knew
+how it works. MPEG-2 worked well for
+DVDs and MDTV broadcasts hut it didn't
+work well for streaming. This past year, how
+ever, the international standards body ITIJ-
+T finalized the H. 264 standard — a very ro
+bust video codec that uses all the tricks in the
+book to send high quality video through slow
+connections.
+One Standard to Rule them All
+H.2f>4 could finally be the one standard
+for video that almost everyone will use.
+H.2M is already widely used in the video sur
+veillance industry and it's a required stan
+
+dard on both new HDTV-DVD formats.
+ITianks to Apple's inclusion in Quicktime 7.
+11.264 is also gaining traction online.
+To see for yourself, download Apple's
+Quicktime 7 at http://quicktime.com or grab
+VLC at http://www.videolan.org/vlc/. ITien
+head to http://apple.com/trailers/ and check
+out a movie trailer in 11.264. One of the ad
+vantages of 11.264 is that the algorithm works
+on a wide range of screen sizes from 11DTV
+resolution down to an iPod. On my tests,
+11.264 looks pristine with almost lossless
+video quality even though it compresses to
+si/es comparable to low quality DivX or
+MP! (i videos.
+Fora real treat, see Sony's Bravia adver
+tisement at http://bravia-advert.com. Watch
+in vivid color as a quarter million super-balls
+bounce down San Francisco hills. Ilien check
+out the "Behnid the Scenes" footage to see
+how they did it. Both of these videos arc in
+11.264 and in both cases, the quality makes
+the video.
+Unfortunately. 11.264 is not for the light of
+heart. Compression comes at a cost. You'll
+need at least a fairly recent computer to
+watch 11.264 video. My old PowerMac G4
+444 Mhz lacks the computing power to play
+11.264 in realtime.
+A new Intel iMac. however, will have no
+problems. Once again Apple puts on an im
+pressive show.
+Andrew Leifer is a junior studying physics
+and is founder of HouldcrConiputinx.com, a
+small computer consulting firm. E-mail him
+at andrew.leifer@stanford.edu
+
+
+Andrew
+Leifer
+Tech Talk
+This week. Mac aficionados descended
+on San Francisco's Moscone center for
+Macworld, the one-week expo con
+cerned with everything Apple.
+The conference floor buzzed with life. As
+flabby programmers flirted with young fe
+male trade reps. iPod gizmos and gadgets
+vied for space among rows of gleaning new
+Intel-based laptops. Apple put on an impres
+sive show.
+The Macworld expo offers the perfect op
+portunity to reflect on some of Apple's new
+innovations. Mac users will benefit from the
+new Intel processor and an overhaul of the
+iLife software suite. The rest of the world
+may appreciate some lesser-known progress
+that Apple has made over the past few
+months to bring 11.264 — a new. high-quality
+video standard — to the Internet.
+Bait and Switch
+The biggest news from the conference was
+that Apple has switched away from IBM's
+PowerPC processor a new line of Intel-based
+processors. This has been a long anticipated
+transition, but most doubted that Apple
+would release the new Intel machines so early.
+For years, Apple used IBM's PowerPC
+processor to run its computers. Rumors
+abounded that the IBM processor wasn't up
+to par with the more efficient Intel processor
+in PC computers and laptops. Although
+Apple made progress by releasing a new
+iMac with a faster IBM G5 processor,
+Apple's premiere laptop line — the Power-
+Book — was stuck with a slower (14 proces
+
+sor. Pundits speculated that the G5 processor
+was too power hungry and dissipated too
+much heat to fit into the sleek body of a
+Powerßook.
+All of that changed when Apple's Chief
+Executive Officer Steve Jobs unveiled a new.
+faster iMac and a Powerbook renamed the
+MacßookPro. While the iMac looks un
+changed and the MacßookPro retains its
+shiny aluminum casing and translucent
+Apple logo, both computers now run off of a
+new Intel Dual Core Duo processor. Apple
+claims the processor is up to four times faster
+than its predecessors. Both computers have a
+built-in iSight Web camera with remote con
+trol, and the laptop comes with a nifty, trip
+proof magnetic power cord.
+After toying around with the new laptop.
+I think Mac users will be pleased. It is every
+thing the old laptops were — but faster.
+I)o I Stay or Do I Go Now?
+If you're looking to buy a Mac, you should
+jump in now and get the new Intel machines.
+Buying a G5 or G4 machine now would be a
+mistake, as the Intel processors are clearly
+
+the wave of the future.
+But if you already own a Mac, there's no
+need to toss out your old Ci 4 laptop just yet.
+The new Intel machines don't benefit from
+their fast processors when running most ex
+ternal software such as Microsoft Word. For
+the time being, these programs are run
+through a translator called Rosetta that al
+lows the old PowerPC software to speak to
+the new Intel processor. I Jntil Microsoft and
+Adobe release new versions of their software
+specifically designed for the Intel Apples,
+Mac users should not feel compelled to give
+up their current machines.
+Lights, Camera, Action
+For the % percent of computer users who
+don't choose Apple, the new Intel Macs don't
+really change much. Apple, however, has
+made some quieter adjustments to which Mac
+and non-Mac users alike should pay attention.
+Apple, for example, is pushing the new
+11.2M video standard which shows promise
+at becoming a de facto standard for video on
+the Web.
+For years, no one could agree on any for
+mat for sending video. Browsing the Web al
+ways seemed to require at least three video
+players, including Apple's Quicktime, Mi
+crosoft's Windows Media Player and Real
+Network's Real Player.
+II dot what?
+Although they all try to accomplish the
+same thing, not all video algorithms — or
+
+codecs — are equal. Stupid codecs send a se
+ries of pictures one after another and the
+computer displays it. Smarter codecs use
+high-level tricks to save themselves from
+sending images. For instance, a clever codec
+will send one image and then tell the comput
+er how to change it. over time. Rather than
+send a new image, a codec might say, "move
+this clump of pixels over" or "make every
+thing darker." It also might send more infor
+mation to parts of the video that has lots of
+action and less to parts that have dark shad
+ows. These higher-level directives save pre
+cious network bandwidth and allow the
+codec to cram more information and bigger
+images at better resolutions down the same
+Internet connection.
+Unfortunately, no one has ever been able
+to agree on a clever way for sending video in
+a wide range of situations. Microsoft's Win
+dows Media 4 codec came very close, but it
+was closed-source and only Microsoft knew
+how it works. MPEG-2 worked well for
+DVDs and MDTV broadcasts hut it didn't
+work well for streaming. This past year, how
+ever, the international standards body ITIJ-
+T finalized the H. 264 standard — a very ro
+bust video codec that uses all the tricks in the
+book to send high quality video through slow
+connections.
+One Standard to Rule them All
+H.2f>4 could finally be the one standard
+for video that almost everyone will use.
+H.2M is already widely used in the video sur
+veillance industry and it's a required stan
+
+dard on both new HDTV-DVD formats.
+ITianks to Apple's inclusion in Quicktime 7.
+11.264 is also gaining traction online.
+To see for yourself, download Apple's
+Quicktime 7 at http://quicktime.com or grab
+VLC at http://www.videolan.org/vlc/. ITien
+head to http://apple.com/trailers/ and check
+out a movie trailer in 11.264. One of the ad
+vantages of 11.264 is that the algorithm works
+on a wide range of screen sizes from 11DTV
+resolution down to an iPod. On my tests,
+11.264 looks pristine with almost lossless
+video quality even though it compresses to
+si/es comparable to low quality DivX or
+MP! (i videos.
+Fora real treat, see Sony's Bravia adver
+tisement at http://bravia-advert.com. Watch
+in vivid color as a quarter million super-balls
+bounce down San Francisco hills. Ilien check
+out the "Behnid the Scenes" footage to see
+how they did it. Both of these videos arc in
+11.264 and in both cases, the quality makes
+the video.
+Unfortunately. 11.264 is not for the light of
+heart. Compression comes at a cost. You'll
+need at least a fairly recent computer to
+watch 11.264 video. My old PowerMac G4
+444 Mhz lacks the computing power to play
+11.264 in realtime.
+A new Intel iMac. however, will have no
+problems. Once again Apple puts on an im
+pressive show.
+Andrew Leifer is a junior studying physics
+and is founder of HouldcrConiputinx.com, a
+small computer consulting firm. E-mail him
+at andrew.leifer@stanford.edu
+
+
+Andrew
+Leifer
+Tech Talk
+This week. Mac aficionados descended
+on San Francisco's Moscone center for
+Macworld, the one-week expo con
+cerned with everything Apple.
+The conference floor buzzed with life. As
+flabby programmers flirted with young fe
+male trade reps. iPod gizmos and gadgets
+vied for space among rows of gleaning new
+Intel-based laptops. Apple put on an impres
+sive show.
+The Macworld expo offers the perfect op
+portunity to reflect on some of Apple's new
+innovations. Mac users will benefit from the
+new Intel processor and an overhaul of the
+iLife software suite. The rest of the world
+may appreciate some lesser-known progress
+that Apple has made over the past few
+months to bring 11.264 — a new. high-quality
+video standard — to the Internet.
+Bait and Switch
+The biggest news from the conference was
+that Apple has switched away from IBM's
+PowerPC processor a new line of Intel-based
+processors. This has been a long anticipated
+transition, but most doubted that Apple
+would release the new Intel machines so early.
+For years, Apple used IBM's PowerPC
+processor to run its computers. Rumors
+abounded that the IBM processor wasn't up
+to par with the more efficient Intel processor
+in PC computers and laptops. Although
+Apple made progress by releasing a new
+iMac with a faster IBM G5 processor,
+Apple's premiere laptop line — the Power-
+Book — was stuck with a slower (14 proces
+
+sor. Pundits speculated that the G5 processor
+was too power hungry and dissipated too
+much heat to fit into the sleek body of a
+Powerßook.
+All of that changed when Apple's Chief
+Executive Officer Steve Jobs unveiled a new.
+faster iMac and a Powerbook renamed the
+MacßookPro. While the iMac looks un
+changed and the MacßookPro retains its
+shiny aluminum casing and translucent
+Apple logo, both computers now run off of a
+new Intel Dual Core Duo processor. Apple
+claims the processor is up to four times faster
+than its predecessors. Both computers have a
+built-in iSight Web camera with remote con
+trol, and the laptop comes with a nifty, trip
+proof magnetic power cord.
+After toying around with the new laptop.
+I think Mac users will be pleased. It is every
+thing the old laptops were — but faster.
+I)o I Stay or Do I Go Now?
+If you're looking to buy a Mac, you should
+jump in now and get the new Intel machines.
+Buying a G5 or G4 machine now would be a
+mistake, as the Intel processors are clearly
+
+the wave of the future.
+But if you already own a Mac, there's no
+need to toss out your old Ci 4 laptop just yet.
+The new Intel machines don't benefit from
+their fast processors when running most ex
+ternal software such as Microsoft Word. For
+the time being, these programs are run
+through a translator called Rosetta that al
+lows the old PowerPC software to speak to
+the new Intel processor. I Jntil Microsoft and
+Adobe release new versions of their software
+specifically designed for the Intel Apples,
+Mac users should not feel compelled to give
+up their current machines.
+Lights, Camera, Action
+For the % percent of computer users who
+don't choose Apple, the new Intel Macs don't
+really change much. Apple, however, has
+made some quieter adjustments to which Mac
+and non-Mac users alike should pay attention.
+Apple, for example, is pushing the new
+11.2M video standard which shows promise
+at becoming a de facto standard for video on
+the Web.
+For years, no one could agree on any for
+mat for sending video. Browsing the Web al
+ways seemed to require at least three video
+players, including Apple's Quicktime, Mi
+crosoft's Windows Media Player and Real
+Network's Real Player.
+II dot what?
+Although they all try to accomplish the
+same thing, not all video algorithms — or
+
+codecs — are equal. Stupid codecs send a se
+ries of pictures one after another and the
+computer displays it. Smarter codecs use
+high-level tricks to save themselves from
+sending images. For instance, a clever codec
+will send one image and then tell the comput
+er how to change it. over time. Rather than
+send a new image, a codec might say, "move
+this clump of pixels over" or "make every
+thing darker." It also might send more infor
+mation to parts of the video that has lots of
+action and less to parts that have dark shad
+ows. These higher-level directives save pre
+cious network bandwidth and allow the
+codec to cram more information and bigger
+images at better resolutions down the same
+Internet connection.
+Unfortunately, no one has ever been able
+to agree on a clever way for sending video in
+a wide range of situations. Microsoft's Win
+dows Media 4 codec came very close, but it
+was closed-source and only Microsoft knew
+how it works. MPEG-2 worked well for
+DVDs and MDTV broadcasts hut it didn't
+work well for streaming. This past year, how
+ever, the international standards body ITIJ-
+T finalized the H. 264 standard — a very ro
+bust video codec that uses all the tricks in the
+book to send high quality video through slow
+connections.
+One Standard to Rule them All
+H.2f>4 could finally be the one standard
+for video that almost everyone will use.
+H.2M is already widely used in the video sur
+veillance industry and it's a required stan
+
+dard on both new HDTV-DVD formats.
+ITianks to Apple's inclusion in Quicktime 7.
+11.264 is also gaining traction online.
+To see for yourself, download Apple's
+Quicktime 7 at http://quicktime.com or grab
+VLC at http://www.videolan.org/vlc/. ITien
+head to http://apple.com/trailers/ and check
+out a movie trailer in 11.264. One of the ad
+vantages of 11.264 is that the algorithm works
+on a wide range of screen sizes from 11DTV
+resolution down to an iPod. On my tests,
+11.264 looks pristine with almost lossless
+video quality even though it compresses to
+si/es comparable to low quality DivX or
+MP! (i videos.
+Fora real treat, see Sony's Bravia adver
+tisement at http://bravia-advert.com. Watch
+in vivid color as a quarter million super-balls
+bounce down San Francisco hills. Ilien check
+out the "Behnid the Scenes" footage to see
+how they did it. Both of these videos arc in
+11.264 and in both cases, the quality makes
+the video.
+Unfortunately. 11.264 is not for the light of
+heart. Compression comes at a cost. You'll
+need at least a fairly recent computer to
+watch 11.264 video. My old PowerMac G4
+444 Mhz lacks the computing power to play
+11.264 in realtime.
+A new Intel iMac. however, will have no
+problems. Once again Apple puts on an im
+pressive show.
+Andrew Leifer is a junior studying physics
+and is founder of HouldcrConiputinx.com, a
+small computer consulting firm. E-mail him
+at andrew.leifer@stanford.edu
+
+
+Andrew
+Leifer
+Tech Talk
+This week. Mac aficionados descended
+on San Francisco's Moscone center for
+Macworld, the one-week expo con
+cerned with everything Apple.
+The conference floor buzzed with life. As
+flabby programmers flirted with young fe
+male trade reps. iPod gizmos and gadgets
+vied for space among rows of gleaning new
+Intel-based laptops. Apple put on an impres
+sive show.
+The Macworld expo offers the perfect op
+portunity to reflect on some of Apple's new
+innovations. Mac users will benefit from the
+new Intel processor and an overhaul of the
+iLife software suite. The rest of the world
+may appreciate some lesser-known progress
+that Apple has made over the past few
+months to bring 11.264 — a new. high-quality
+video standard — to the Internet.
+Bait and Switch
+The biggest news from the conference was
+that Apple has switched away from IBM's
+PowerPC processor a new line of Intel-based
+processors. This has been a long anticipated
+transition, but most doubted that Apple
+would release the new Intel machines so early.
+For years, Apple used IBM's PowerPC
+processor to run its computers. Rumors
+abounded that the IBM processor wasn't up
+to par with the more efficient Intel processor
+in PC computers and laptops. Although
+Apple made progress by releasing a new
+iMac with a faster IBM G5 processor,
+Apple's premiere laptop line — the Power-
+Book — was stuck with a slower (14 proces
+
+sor. Pundits speculated that the G5 processor
+was too power hungry and dissipated too
+much heat to fit into the sleek body of a
+Powerßook.
+All of that changed when Apple's Chief
+Executive Officer Steve Jobs unveiled a new.
+faster iMac and a Powerbook renamed the
+MacßookPro. While the iMac looks un
+changed and the MacßookPro retains its
+shiny aluminum casing and translucent
+Apple logo, both computers now run off of a
+new Intel Dual Core Duo processor. Apple
+claims the processor is up to four times faster
+than its predecessors. Both computers have a
+built-in iSight Web camera with remote con
+trol, and the laptop comes with a nifty, trip
+proof magnetic power cord.
+After toying around with the new laptop.
+I think Mac users will be pleased. It is every
+thing the old laptops were — but faster.
+I)o I Stay or Do I Go Now?
+If you're looking to buy a Mac, you should
+jump in now and get the new Intel machines.
+Buying a G5 or G4 machine now would be a
+mistake, as the Intel processors are clearly
+
+the wave of the future.
+But if you already own a Mac, there's no
+need to toss out your old Ci 4 laptop just yet.
+The new Intel machines don't benefit from
+their fast processors when running most ex
+ternal software such as Microsoft Word. For
+the time being, these programs are run
+through a translator called Rosetta that al
+lows the old PowerPC software to speak to
+the new Intel processor. I Jntil Microsoft and
+Adobe release new versions of their software
+specifically designed for the Intel Apples,
+Mac users should not feel compelled to give
+up their current machines.
+Lights, Camera, Action
+For the % percent of computer users who
+don't choose Apple, the new Intel Macs don't
+really change much. Apple, however, has
+made some quieter adjustments to which Mac
+and non-Mac users alike should pay attention.
+Apple, for example, is pushing the new
+11.2M video standard which shows promise
+at becoming a de facto standard for video on
+the Web.
+For years, no one could agree on any for
+mat for sending video. Browsing the Web al
+ways seemed to require at least three video
+players, including Apple's Quicktime, Mi
+crosoft's Windows Media Player and Real
+Network's Real Player.
+II dot what?
+Although they all try to accomplish the
+same thing, not all video algorithms — or
+
+codecs — are equal. Stupid codecs send a se
+ries of pictures one after another and the
+computer displays it. Smarter codecs use
+high-level tricks to save themselves from
+sending images. For instance, a clever codec
+will send one image and then tell the comput
+er how to change it. over time. Rather than
+send a new image, a codec might say, "move
+this clump of pixels over" or "make every
+thing darker." It also might send more infor
+mation to parts of the video that has lots of
+action and less to parts that have dark shad
+ows. These higher-level directives save pre
+cious network bandwidth and allow the
+codec to cram more information and bigger
+images at better resolutions down the same
+Internet connection.
+Unfortunately, no one has ever been able
+to agree on a clever way for sending video in
+a wide range of situations. Microsoft's Win
+dows Media 4 codec came very close, but it
+was closed-source and only Microsoft knew
+how it works. MPEG-2 worked well for
+DVDs and MDTV broadcasts hut it didn't
+work well for streaming. This past year, how
+ever, the international standards body ITIJ-
+T finalized the H. 264 standard — a very ro
+bust video codec that uses all the tricks in the
+book to send high quality video through slow
+connections.
+One Standard to Rule them All
+H.2f>4 could finally be the one standard
+for video that almost everyone will use.
+H.2M is already widely used in the video sur
+veillance industry and it's a required stan
+
+dard on both new HDTV-DVD formats.
+ITianks to Apple's inclusion in Quicktime 7.
+11.264 is also gaining traction online.
+To see for yourself, download Apple's
+Quicktime 7 at http://quicktime.com or grab
+VLC at http://www.videolan.org/vlc/. ITien
+head to http://apple.com/trailers/ and check
+out a movie trailer in 11.264. One of the ad
+vantages of 11.264 is that the algorithm works
+on a wide range of screen sizes from 11DTV
+resolution down to an iPod. On my tests,
+11.264 looks pristine with almost lossless
+video quality even though it compresses to
+si/es comparable to low quality DivX or
+MP! (i videos.
+Fora real treat, see Sony's Bravia adver
+tisement at http://bravia-advert.com. Watch
+in vivid color as a quarter million super-balls
+bounce down San Francisco hills. Ilien check
+out the "Behnid the Scenes" footage to see
+how they did it. Both of these videos arc in
+11.264 and in both cases, the quality makes
+the video.
+Unfortunately. 11.264 is not for the light of
+heart. Compression comes at a cost. You'll
+need at least a fairly recent computer to
+watch 11.264 video. My old PowerMac G4
+444 Mhz lacks the computing power to play
+11.264 in realtime.
+A new Intel iMac. however, will have no
+problems. Once again Apple puts on an im
+pressive show.
+Andrew Leifer is a junior studying physics
+and is founder of HouldcrConiputinx.com, a
+small computer consulting firm. E-mail him
+at andrew.leifer@stanford.edu
+
+
+Andrew
+Leifer
+Tech Talk

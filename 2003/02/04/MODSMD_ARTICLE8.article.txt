@@ -1,0 +1,843 @@
+# Worm burrows into servers
+## 
+### CORINA YEN CONTRIBUTING WRITER 
+A virus-like worm attacked the Internet world
+wide last weekend — and hit Stanford's servers —
+slowing Internet traffic and overwhelming the
+world's digital pipelines. According to Stanford's
+Director of Information Security Services, Ced
+Bennett, the worm was first detected the evening of
+Jan. 24, and at one point, Stanford's network was
+being hit with nearly 400,000 attempts per minute
+from the Internet due to the worm's monopolizing
+bandwidth.
+The MS SQL Server worm created a generalized
+distributed denial of service (DdoS) that did not
+allow access or slowed normal access to Web sites.
+The worm, also known as "W32.Slammer" and
+"Sapphire," attacked MS SQL Server systems. It
+caused problems all over the world, ranging from
+computer failures at Korea Telecom Freetel that
+left millions of Internet users in South Korea with
+out service, to the inability of most of Bank of Amer
+ica's ATMs to process transactions, the Associated
+Press reported.
+At Stanford, many Stanford Hospital servers and
+several University servers that use MS SQL Server
+
+had problems. SQL Server is only used on a few
+Stanford servers, though, because it is not a part of
+a default Windows installation.
+The most widely felt effects were reduced access
+to web servers and other network services.
+"There were no related problems with individ
+ual computers in [my dorm]," said Residential
+Computer Coordinator Eric Boyes, a senior. "The
+noticeable effect was that the entire Internet slowed
+to a crawl nation wide... Stanford residents felt the
+same slowdown that the rest of the world experi
+enced."
+The SQL worm attacked a known vulnerability
+of Microsoft database software, SQL Server 2000.
+Upon successful infection of a system, the worm
+replicated itself and used the new host to search for
+other computers and to launch additional attacks
+over the network, according to Bennett. The attack
+was non-destructive to local machines.
+"It didn't affect that many machines, that wasn't
+a major problem," Bennett said. "[But] it was af
+fecting our traffic. Most people saw they couldn't
+get to Web sites because they were acting like they
+were broken. There was so much traffic they
+couldn't get through."
+While the worm propagated
+rapidly, it was relatively easy to
+control and stop once identified.
+"It was contained pretty fast. At
+Stanford it was stopped over the
+weekend. Monday and Tuesday
+we finished cleaning up," Bennett
+said.
+There is a known patch for the
+software vulnerability that pro
+vides an easy fix. Information
+Technology Systems and Services
+and other staff started controlling
+the problem on Saturday morn
+ing, Bennett said. Infected servers
+were taken off-line and repaired
+or cut off from the network until
+the owner could rectify the situa
+tion. A filter was placed on SUNet
+to stop any off-campus host from
+further using the specific port
+being exploited by the worm.
+ITSS has been working to pre
+vent future viruses and worms
+from infecting Stanford comput
+ers, making security software like
+Norton Antivirus available for
+free and blocking certain high-risk
+hosts, among other things. Ben
+nett sees a need for balance,
+though, between blocking things
+from entering Stanford's network
+and keeping the network open be
+cause of Stanford's identity as a
+university. It is also raising aware
+ness in the community about the
+dangers of computer viruses and
+how to protect against them.
+"Prevention is a difficult task
+when there are thousands of mem
+bers in the Stanford community,"
+Boyes said. "In the end, it is up to in
+dividual computer users to help
+keep their network safe from attack."
+Bennett considers the attack
+one of the dangers of the Internet
+and expects such problems to arise
+again in the future. The ITSS staff
+doubled its size last year, in recog
+nition of the need for increased se
+curity to keep computers safe as
+resources increase on the Internet.
+"As a worm, it was not destruc
+tive, but it could've been. We can
+see something like this as a warn
+ing. That same worm could've
+come through and done a lot of
+damage," Bennett said.
+Boyes agreed: "Viruses and
+worms are a major issue. Stanford
+is a prime target for electronic at
+tack because of our strong net
+work infrastructure."
+The FBl's National Infrastruc
+ture Protection Center is still
+searching for the source of the at
+tack. London-based market intelli
+gence firm Mi2g said that this
+worm caused between $950 mil
+lion and $1.2 billion in lost produc
+tivity in its first five days worldwide.
+A virus-like worm attacked the Internet world
+wide last weekend — and hit Stanford's servers —
+slowing Internet traffic and overwhelming the
+world's digital pipelines. According to Stanford's
+Director of Information Security Services, Ced
+Bennett, the worm was first detected the evening of
+Jan. 24, and at one point, Stanford's network was
+being hit with nearly 400,000 attempts per minute
+from the Internet due to the worm's monopolizing
+bandwidth.
+The MS SQL Server worm created a generalized
+distributed denial of service (DdoS) that did not
+allow access or slowed normal access to Web sites.
+The worm, also known as "W32.Slammer" and
+"Sapphire," attacked MS SQL Server systems. It
+caused problems all over the world, ranging from
+computer failures at Korea Telecom Freetel that
+left millions of Internet users in South Korea with
+out service, to the inability of most of Bank of Amer
+ica's ATMs to process transactions, the Associated
+Press reported.
+At Stanford, many Stanford Hospital servers and
+several University servers that use MS SQL Server
+
+had problems. SQL Server is only used on a few
+Stanford servers, though, because it is not a part of
+a default Windows installation.
+The most widely felt effects were reduced access
+to web servers and other network services.
+"There were no related problems with individ
+ual computers in [my dorm]," said Residential
+Computer Coordinator Eric Boyes, a senior. "The
+noticeable effect was that the entire Internet slowed
+to a crawl nation wide... Stanford residents felt the
+same slowdown that the rest of the world experi
+enced."
+The SQL worm attacked a known vulnerability
+of Microsoft database software, SQL Server 2000.
+Upon successful infection of a system, the worm
+replicated itself and used the new host to search for
+other computers and to launch additional attacks
+over the network, according to Bennett. The attack
+was non-destructive to local machines.
+"It didn't affect that many machines, that wasn't
+a major problem," Bennett said. "[But] it was af
+fecting our traffic. Most people saw they couldn't
+get to Web sites because they were acting like they
+were broken. There was so much traffic they
+couldn't get through."
+While the worm propagated
+rapidly, it was relatively easy to
+control and stop once identified.
+"It was contained pretty fast. At
+Stanford it was stopped over the
+weekend. Monday and Tuesday
+we finished cleaning up," Bennett
+said.
+There is a known patch for the
+software vulnerability that pro
+vides an easy fix. Information
+Technology Systems and Services
+and other staff started controlling
+the problem on Saturday morn
+ing, Bennett said. Infected servers
+were taken off-line and repaired
+or cut off from the network until
+the owner could rectify the situa
+tion. A filter was placed on SUNet
+to stop any off-campus host from
+further using the specific port
+being exploited by the worm.
+ITSS has been working to pre
+vent future viruses and worms
+from infecting Stanford comput
+ers, making security software like
+Norton Antivirus available for
+free and blocking certain high-risk
+hosts, among other things. Ben
+nett sees a need for balance,
+though, between blocking things
+from entering Stanford's network
+and keeping the network open be
+cause of Stanford's identity as a
+university. It is also raising aware
+ness in the community about the
+dangers of computer viruses and
+how to protect against them.
+"Prevention is a difficult task
+when there are thousands of mem
+bers in the Stanford community,"
+Boyes said. "In the end, it is up to in
+dividual computer users to help
+keep their network safe from attack."
+Bennett considers the attack
+one of the dangers of the Internet
+and expects such problems to arise
+again in the future. The ITSS staff
+doubled its size last year, in recog
+nition of the need for increased se
+curity to keep computers safe as
+resources increase on the Internet.
+"As a worm, it was not destruc
+tive, but it could've been. We can
+see something like this as a warn
+ing. That same worm could've
+come through and done a lot of
+damage," Bennett said.
+Boyes agreed: "Viruses and
+worms are a major issue. Stanford
+is a prime target for electronic at
+tack because of our strong net
+work infrastructure."
+The FBl's National Infrastruc
+ture Protection Center is still
+searching for the source of the at
+tack. London-based market intelli
+gence firm Mi2g said that this
+worm caused between $950 mil
+lion and $1.2 billion in lost produc
+tivity in its first five days worldwide.
+A virus-like worm attacked the Internet world
+wide last weekend — and hit Stanford's servers —
+slowing Internet traffic and overwhelming the
+world's digital pipelines. According to Stanford's
+Director of Information Security Services, Ced
+Bennett, the worm was first detected the evening of
+Jan. 24, and at one point, Stanford's network was
+being hit with nearly 400,000 attempts per minute
+from the Internet due to the worm's monopolizing
+bandwidth.
+The MS SQL Server worm created a generalized
+distributed denial of service (DdoS) that did not
+allow access or slowed normal access to Web sites.
+The worm, also known as "W32.Slammer" and
+"Sapphire," attacked MS SQL Server systems. It
+caused problems all over the world, ranging from
+computer failures at Korea Telecom Freetel that
+left millions of Internet users in South Korea with
+out service, to the inability of most of Bank of Amer
+ica's ATMs to process transactions, the Associated
+Press reported.
+At Stanford, many Stanford Hospital servers and
+several University servers that use MS SQL Server
+
+had problems. SQL Server is only used on a few
+Stanford servers, though, because it is not a part of
+a default Windows installation.
+The most widely felt effects were reduced access
+to web servers and other network services.
+"There were no related problems with individ
+ual computers in [my dorm]," said Residential
+Computer Coordinator Eric Boyes, a senior. "The
+noticeable effect was that the entire Internet slowed
+to a crawl nation wide... Stanford residents felt the
+same slowdown that the rest of the world experi
+enced."
+The SQL worm attacked a known vulnerability
+of Microsoft database software, SQL Server 2000.
+Upon successful infection of a system, the worm
+replicated itself and used the new host to search for
+other computers and to launch additional attacks
+over the network, according to Bennett. The attack
+was non-destructive to local machines.
+"It didn't affect that many machines, that wasn't
+a major problem," Bennett said. "[But] it was af
+fecting our traffic. Most people saw they couldn't
+get to Web sites because they were acting like they
+were broken. There was so much traffic they
+couldn't get through."
+While the worm propagated
+rapidly, it was relatively easy to
+control and stop once identified.
+"It was contained pretty fast. At
+Stanford it was stopped over the
+weekend. Monday and Tuesday
+we finished cleaning up," Bennett
+said.
+There is a known patch for the
+software vulnerability that pro
+vides an easy fix. Information
+Technology Systems and Services
+and other staff started controlling
+the problem on Saturday morn
+ing, Bennett said. Infected servers
+were taken off-line and repaired
+or cut off from the network until
+the owner could rectify the situa
+tion. A filter was placed on SUNet
+to stop any off-campus host from
+further using the specific port
+being exploited by the worm.
+ITSS has been working to pre
+vent future viruses and worms
+from infecting Stanford comput
+ers, making security software like
+Norton Antivirus available for
+free and blocking certain high-risk
+hosts, among other things. Ben
+nett sees a need for balance,
+though, between blocking things
+from entering Stanford's network
+and keeping the network open be
+cause of Stanford's identity as a
+university. It is also raising aware
+ness in the community about the
+dangers of computer viruses and
+how to protect against them.
+"Prevention is a difficult task
+when there are thousands of mem
+bers in the Stanford community,"
+Boyes said. "In the end, it is up to in
+dividual computer users to help
+keep their network safe from attack."
+Bennett considers the attack
+one of the dangers of the Internet
+and expects such problems to arise
+again in the future. The ITSS staff
+doubled its size last year, in recog
+nition of the need for increased se
+curity to keep computers safe as
+resources increase on the Internet.
+"As a worm, it was not destruc
+tive, but it could've been. We can
+see something like this as a warn
+ing. That same worm could've
+come through and done a lot of
+damage," Bennett said.
+Boyes agreed: "Viruses and
+worms are a major issue. Stanford
+is a prime target for electronic at
+tack because of our strong net
+work infrastructure."
+The FBl's National Infrastruc
+ture Protection Center is still
+searching for the source of the at
+tack. London-based market intelli
+gence firm Mi2g said that this
+worm caused between $950 mil
+lion and $1.2 billion in lost produc
+tivity in its first five days worldwide.
+A virus-like worm attacked the Internet world
+wide last weekend — and hit Stanford's servers —
+slowing Internet traffic and overwhelming the
+world's digital pipelines. According to Stanford's
+Director of Information Security Services, Ced
+Bennett, the worm was first detected the evening of
+Jan. 24, and at one point, Stanford's network was
+being hit with nearly 400,000 attempts per minute
+from the Internet due to the worm's monopolizing
+bandwidth.
+The MS SQL Server worm created a generalized
+distributed denial of service (DdoS) that did not
+allow access or slowed normal access to Web sites.
+The worm, also known as "W32.Slammer" and
+"Sapphire," attacked MS SQL Server systems. It
+caused problems all over the world, ranging from
+computer failures at Korea Telecom Freetel that
+left millions of Internet users in South Korea with
+out service, to the inability of most of Bank of Amer
+ica's ATMs to process transactions, the Associated
+Press reported.
+At Stanford, many Stanford Hospital servers and
+several University servers that use MS SQL Server
+
+had problems. SQL Server is only used on a few
+Stanford servers, though, because it is not a part of
+a default Windows installation.
+The most widely felt effects were reduced access
+to web servers and other network services.
+"There were no related problems with individ
+ual computers in [my dorm]," said Residential
+Computer Coordinator Eric Boyes, a senior. "The
+noticeable effect was that the entire Internet slowed
+to a crawl nation wide... Stanford residents felt the
+same slowdown that the rest of the world experi
+enced."
+The SQL worm attacked a known vulnerability
+of Microsoft database software, SQL Server 2000.
+Upon successful infection of a system, the worm
+replicated itself and used the new host to search for
+other computers and to launch additional attacks
+over the network, according to Bennett. The attack
+was non-destructive to local machines.
+"It didn't affect that many machines, that wasn't
+a major problem," Bennett said. "[But] it was af
+fecting our traffic. Most people saw they couldn't
+get to Web sites because they were acting like they
+were broken. There was so much traffic they
+couldn't get through."
+While the worm propagated
+rapidly, it was relatively easy to
+control and stop once identified.
+"It was contained pretty fast. At
+Stanford it was stopped over the
+weekend. Monday and Tuesday
+we finished cleaning up," Bennett
+said.
+There is a known patch for the
+software vulnerability that pro
+vides an easy fix. Information
+Technology Systems and Services
+and other staff started controlling
+the problem on Saturday morn
+ing, Bennett said. Infected servers
+were taken off-line and repaired
+or cut off from the network until
+the owner could rectify the situa
+tion. A filter was placed on SUNet
+to stop any off-campus host from
+further using the specific port
+being exploited by the worm.
+ITSS has been working to pre
+vent future viruses and worms
+from infecting Stanford comput
+ers, making security software like
+Norton Antivirus available for
+free and blocking certain high-risk
+hosts, among other things. Ben
+nett sees a need for balance,
+though, between blocking things
+from entering Stanford's network
+and keeping the network open be
+cause of Stanford's identity as a
+university. It is also raising aware
+ness in the community about the
+dangers of computer viruses and
+how to protect against them.
+"Prevention is a difficult task
+when there are thousands of mem
+bers in the Stanford community,"
+Boyes said. "In the end, it is up to in
+dividual computer users to help
+keep their network safe from attack."
+Bennett considers the attack
+one of the dangers of the Internet
+and expects such problems to arise
+again in the future. The ITSS staff
+doubled its size last year, in recog
+nition of the need for increased se
+curity to keep computers safe as
+resources increase on the Internet.
+"As a worm, it was not destruc
+tive, but it could've been. We can
+see something like this as a warn
+ing. That same worm could've
+come through and done a lot of
+damage," Bennett said.
+Boyes agreed: "Viruses and
+worms are a major issue. Stanford
+is a prime target for electronic at
+tack because of our strong net
+work infrastructure."
+The FBl's National Infrastruc
+ture Protection Center is still
+searching for the source of the at
+tack. London-based market intelli
+gence firm Mi2g said that this
+worm caused between $950 mil
+lion and $1.2 billion in lost produc
+tivity in its first five days worldwide.
+A virus-like worm attacked the Internet world
+wide last weekend — and hit Stanford's servers —
+slowing Internet traffic and overwhelming the
+world's digital pipelines. According to Stanford's
+Director of Information Security Services, Ced
+Bennett, the worm was first detected the evening of
+Jan. 24, and at one point, Stanford's network was
+being hit with nearly 400,000 attempts per minute
+from the Internet due to the worm's monopolizing
+bandwidth.
+The MS SQL Server worm created a generalized
+distributed denial of service (DdoS) that did not
+allow access or slowed normal access to Web sites.
+The worm, also known as "W32.Slammer" and
+"Sapphire," attacked MS SQL Server systems. It
+caused problems all over the world, ranging from
+computer failures at Korea Telecom Freetel that
+left millions of Internet users in South Korea with
+out service, to the inability of most of Bank of Amer
+ica's ATMs to process transactions, the Associated
+Press reported.
+At Stanford, many Stanford Hospital servers and
+several University servers that use MS SQL Server
+
+had problems. SQL Server is only used on a few
+Stanford servers, though, because it is not a part of
+a default Windows installation.
+The most widely felt effects were reduced access
+to web servers and other network services.
+"There were no related problems with individ
+ual computers in [my dorm]," said Residential
+Computer Coordinator Eric Boyes, a senior. "The
+noticeable effect was that the entire Internet slowed
+to a crawl nation wide... Stanford residents felt the
+same slowdown that the rest of the world experi
+enced."
+The SQL worm attacked a known vulnerability
+of Microsoft database software, SQL Server 2000.
+Upon successful infection of a system, the worm
+replicated itself and used the new host to search for
+other computers and to launch additional attacks
+over the network, according to Bennett. The attack
+was non-destructive to local machines.
+"It didn't affect that many machines, that wasn't
+a major problem," Bennett said. "[But] it was af
+fecting our traffic. Most people saw they couldn't
+get to Web sites because they were acting like they
+were broken. There was so much traffic they
+couldn't get through."
+While the worm propagated
+rapidly, it was relatively easy to
+control and stop once identified.
+"It was contained pretty fast. At
+Stanford it was stopped over the
+weekend. Monday and Tuesday
+we finished cleaning up," Bennett
+said.
+There is a known patch for the
+software vulnerability that pro
+vides an easy fix. Information
+Technology Systems and Services
+and other staff started controlling
+the problem on Saturday morn
+ing, Bennett said. Infected servers
+were taken off-line and repaired
+or cut off from the network until
+the owner could rectify the situa
+tion. A filter was placed on SUNet
+to stop any off-campus host from
+further using the specific port
+being exploited by the worm.
+ITSS has been working to pre
+vent future viruses and worms
+from infecting Stanford comput
+ers, making security software like
+Norton Antivirus available for
+free and blocking certain high-risk
+hosts, among other things. Ben
+nett sees a need for balance,
+though, between blocking things
+from entering Stanford's network
+and keeping the network open be
+cause of Stanford's identity as a
+university. It is also raising aware
+ness in the community about the
+dangers of computer viruses and
+how to protect against them.
+"Prevention is a difficult task
+when there are thousands of mem
+bers in the Stanford community,"
+Boyes said. "In the end, it is up to in
+dividual computer users to help
+keep their network safe from attack."
+Bennett considers the attack
+one of the dangers of the Internet
+and expects such problems to arise
+again in the future. The ITSS staff
+doubled its size last year, in recog
+nition of the need for increased se
+curity to keep computers safe as
+resources increase on the Internet.
+"As a worm, it was not destruc
+tive, but it could've been. We can
+see something like this as a warn
+ing. That same worm could've
+come through and done a lot of
+damage," Bennett said.
+Boyes agreed: "Viruses and
+worms are a major issue. Stanford
+is a prime target for electronic at
+tack because of our strong net
+work infrastructure."
+The FBl's National Infrastruc
+ture Protection Center is still
+searching for the source of the at
+tack. London-based market intelli
+gence firm Mi2g said that this
+worm caused between $950 mil
+lion and $1.2 billion in lost produc
+tivity in its first five days worldwide.
+A virus-like worm attacked the Internet world
+wide last weekend — and hit Stanford's servers —
+slowing Internet traffic and overwhelming the
+world's digital pipelines. According to Stanford's
+Director of Information Security Services, Ced
+Bennett, the worm was first detected the evening of
+Jan. 24, and at one point, Stanford's network was
+being hit with nearly 400,000 attempts per minute
+from the Internet due to the worm's monopolizing
+bandwidth.
+The MS SQL Server worm created a generalized
+distributed denial of service (DdoS) that did not
+allow access or slowed normal access to Web sites.
+The worm, also known as "W32.Slammer" and
+"Sapphire," attacked MS SQL Server systems. It
+caused problems all over the world, ranging from
+computer failures at Korea Telecom Freetel that
+left millions of Internet users in South Korea with
+out service, to the inability of most of Bank of Amer
+ica's ATMs to process transactions, the Associated
+Press reported.
+At Stanford, many Stanford Hospital servers and
+several University servers that use MS SQL Server
+
+had problems. SQL Server is only used on a few
+Stanford servers, though, because it is not a part of
+a default Windows installation.
+The most widely felt effects were reduced access
+to web servers and other network services.
+"There were no related problems with individ
+ual computers in [my dorm]," said Residential
+Computer Coordinator Eric Boyes, a senior. "The
+noticeable effect was that the entire Internet slowed
+to a crawl nation wide... Stanford residents felt the
+same slowdown that the rest of the world experi
+enced."
+The SQL worm attacked a known vulnerability
+of Microsoft database software, SQL Server 2000.
+Upon successful infection of a system, the worm
+replicated itself and used the new host to search for
+other computers and to launch additional attacks
+over the network, according to Bennett. The attack
+was non-destructive to local machines.
+"It didn't affect that many machines, that wasn't
+a major problem," Bennett said. "[But] it was af
+fecting our traffic. Most people saw they couldn't
+get to Web sites because they were acting like they
+were broken. There was so much traffic they
+couldn't get through."
+While the worm propagated
+rapidly, it was relatively easy to
+control and stop once identified.
+"It was contained pretty fast. At
+Stanford it was stopped over the
+weekend. Monday and Tuesday
+we finished cleaning up," Bennett
+said.
+There is a known patch for the
+software vulnerability that pro
+vides an easy fix. Information
+Technology Systems and Services
+and other staff started controlling
+the problem on Saturday morn
+ing, Bennett said. Infected servers
+were taken off-line and repaired
+or cut off from the network until
+the owner could rectify the situa
+tion. A filter was placed on SUNet
+to stop any off-campus host from
+further using the specific port
+being exploited by the worm.
+ITSS has been working to pre
+vent future viruses and worms
+from infecting Stanford comput
+ers, making security software like
+Norton Antivirus available for
+free and blocking certain high-risk
+hosts, among other things. Ben
+nett sees a need for balance,
+though, between blocking things
+from entering Stanford's network
+and keeping the network open be
+cause of Stanford's identity as a
+university. It is also raising aware
+ness in the community about the
+dangers of computer viruses and
+how to protect against them.
+"Prevention is a difficult task
+when there are thousands of mem
+bers in the Stanford community,"
+Boyes said. "In the end, it is up to in
+dividual computer users to help
+keep their network safe from attack."
+Bennett considers the attack
+one of the dangers of the Internet
+and expects such problems to arise
+again in the future. The ITSS staff
+doubled its size last year, in recog
+nition of the need for increased se
+curity to keep computers safe as
+resources increase on the Internet.
+"As a worm, it was not destruc
+tive, but it could've been. We can
+see something like this as a warn
+ing. That same worm could've
+come through and done a lot of
+damage," Bennett said.
+Boyes agreed: "Viruses and
+worms are a major issue. Stanford
+is a prime target for electronic at
+tack because of our strong net
+work infrastructure."
+The FBl's National Infrastruc
+ture Protection Center is still
+searching for the source of the at
+tack. London-based market intelli
+gence firm Mi2g said that this
+worm caused between $950 mil
+lion and $1.2 billion in lost produc
+tivity in its first five days worldwide.
+A virus-like worm attacked the Internet world
+wide last weekend — and hit Stanford's servers —
+slowing Internet traffic and overwhelming the
+world's digital pipelines. According to Stanford's
+Director of Information Security Services, Ced
+Bennett, the worm was first detected the evening of
+Jan. 24, and at one point, Stanford's network was
+being hit with nearly 400,000 attempts per minute
+from the Internet due to the worm's monopolizing
+bandwidth.
+The MS SQL Server worm created a generalized
+distributed denial of service (DdoS) that did not
+allow access or slowed normal access to Web sites.
+The worm, also known as "W32.Slammer" and
+"Sapphire," attacked MS SQL Server systems. It
+caused problems all over the world, ranging from
+computer failures at Korea Telecom Freetel that
+left millions of Internet users in South Korea with
+out service, to the inability of most of Bank of Amer
+ica's ATMs to process transactions, the Associated
+Press reported.
+At Stanford, many Stanford Hospital servers and
+several University servers that use MS SQL Server
+
+had problems. SQL Server is only used on a few
+Stanford servers, though, because it is not a part of
+a default Windows installation.
+The most widely felt effects were reduced access
+to web servers and other network services.
+"There were no related problems with individ
+ual computers in [my dorm]," said Residential
+Computer Coordinator Eric Boyes, a senior. "The
+noticeable effect was that the entire Internet slowed
+to a crawl nation wide... Stanford residents felt the
+same slowdown that the rest of the world experi
+enced."
+The SQL worm attacked a known vulnerability
+of Microsoft database software, SQL Server 2000.
+Upon successful infection of a system, the worm
+replicated itself and used the new host to search for
+other computers and to launch additional attacks
+over the network, according to Bennett. The attack
+was non-destructive to local machines.
+"It didn't affect that many machines, that wasn't
+a major problem," Bennett said. "[But] it was af
+fecting our traffic. Most people saw they couldn't
+get to Web sites because they were acting like they
+were broken. There was so much traffic they
+couldn't get through."
+While the worm propagated
+rapidly, it was relatively easy to
+control and stop once identified.
+"It was contained pretty fast. At
+Stanford it was stopped over the
+weekend. Monday and Tuesday
+we finished cleaning up," Bennett
+said.
+There is a known patch for the
+software vulnerability that pro
+vides an easy fix. Information
+Technology Systems and Services
+and other staff started controlling
+the problem on Saturday morn
+ing, Bennett said. Infected servers
+were taken off-line and repaired
+or cut off from the network until
+the owner could rectify the situa
+tion. A filter was placed on SUNet
+to stop any off-campus host from
+further using the specific port
+being exploited by the worm.
+ITSS has been working to pre
+vent future viruses and worms
+from infecting Stanford comput
+ers, making security software like
+Norton Antivirus available for
+free and blocking certain high-risk
+hosts, among other things. Ben
+nett sees a need for balance,
+though, between blocking things
+from entering Stanford's network
+and keeping the network open be
+cause of Stanford's identity as a
+university. It is also raising aware
+ness in the community about the
+dangers of computer viruses and
+how to protect against them.
+"Prevention is a difficult task
+when there are thousands of mem
+bers in the Stanford community,"
+Boyes said. "In the end, it is up to in
+dividual computer users to help
+keep their network safe from attack."
+Bennett considers the attack
+one of the dangers of the Internet
+and expects such problems to arise
+again in the future. The ITSS staff
+doubled its size last year, in recog
+nition of the need for increased se
+curity to keep computers safe as
+resources increase on the Internet.
+"As a worm, it was not destruc
+tive, but it could've been. We can
+see something like this as a warn
+ing. That same worm could've
+come through and done a lot of
+damage," Bennett said.
+Boyes agreed: "Viruses and
+worms are a major issue. Stanford
+is a prime target for electronic at
+tack because of our strong net
+work infrastructure."
+The FBl's National Infrastruc
+ture Protection Center is still
+searching for the source of the at
+tack. London-based market intelli
+gence firm Mi2g said that this
+worm caused between $950 mil
+lion and $1.2 billion in lost produc
+tivity in its first five days worldwide.

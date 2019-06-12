@@ -1,0 +1,1081 @@
+# RESEARCH
+## Scholars model, address political polarization 
+### LAN ANH LE CONTRIBUTING WRITER 
+As the partisan divides in American soci
+ety continue to deepen, a team of Stanford
+researchers has developed an algorithm
+demonstrating the process behind that po
+larization and created Internet-based so
+cial systems to counter the trend.
+The team, composed of Associate Pro
+fessor of Management Science and Engi
+neering Ashish Goel M.S. '9B Ph.D. '99 and
+doctoral candidates Pranav Dandekar and
+David Lee, examined how people form
+opinions and how their viewpoints evolve
+over time due to outside influences such as
+
+social networks.
+"When two people look at a blog and as a
+result their beliefs become more extreme in
+opposite directions, the blog has a polariz
+ing effect," Dandekar explained. "We want
+ed to come up with a model to explain this
+effect."
+Before developing their own model, the
+researchers looked at existing models that
+attempt to describe the formation of public
+opinion based on homophily, the sociological
+theory which assumes that "like seeks like."
+However, homophily models predict in
+creasing uniformity of opinion over time, as
+people seek to minimize disagreement with
+in their networks of friends and relations
+
+and as holders of similar opinions tend to
+aggregate. Those attributes made the mod
+el unsuitable to explaining America's polar
+ization.
+"It turns out that you can't have polar
+ization with this kind of model," Dandekar
+said. "When an individual's opinion con
+verges to an average of those in his or her
+network, depolarization happens. Instead,
+polarization is when opinions diverge."
+The team sought to create an alterna
+tive model to explain polarization based on
+biased assimilation, a different psychologi
+cal concept.
+"We wanted to capture this phe
+nomenon that leads to polarization
+in the way that we define it," Dan
+dekar said. "The model would final
+ly provide an adequate answer to
+the question of whether or not peo
+ple have some biases that they nat
+urally gravitate to."
+According to the theory of bi
+ased assimilation, people favor evi
+dence that confirms their beliefs
+and reject information that goes
+against their preconceptions, which
+explains why two people can come
+to completely different conclusions
+given identical evidence.
+"In seeing mixed evidence,
+meaning both the pros and cons, of
+
+issues like gun control or nuclear
+proliferation, people usually take in
+information that affirms their ex
+isting viewpoint and reject whatev
+er that goes against it," Lee said.
+"At the end, people have more ex
+treme opinions."
+The researchers used their
+knowledge about polarization to
+create Internet-based social sys
+tems that allow people to identify
+similarities instead of differ
+ences between their political
+views and collaborate on solutions
+to issues such as the budget crisis.
+"The important question is
+when people have to come up with a
+budget, it's difficult for them to do
+it because of polarized views and
+disagreements," Lee said. "We are
+finding away to promote consensus
+in such situations."
+One system developed by the
+team is a federal budget simulation
+
+called Widescope, which allows
+users to propose their own budgets
+with detailed annotations explain
+ing their viewpoints. Through
+Widescope, users can collaborate
+on budgets and eventually vote on
+
+the proposals.
+"It's like a process of elimina
+tion. Eventually the best budget
+proposals will make it to the end
+through a series of voting proce
+dures," Dandekar said. "The goal is
+to come to a consensus and collabo
+rate to find solutions in a democrat
+ic manner."
+Lee and Dandekar said that
+Widescope was inspired by direct
+democracy systems, in which the
+entire electorate takes part in mak
+ing laws and other political deci
+sions. Through Widescope, Ameri
+cans can simulate playing a larger
+role in the legislative process in
+cluding learning how to come to a
+consensus on divisive issues
+than they might otherwise do.
+"In the last few years, there has
+been an explosion of social net
+works," Dandekar said. "The ques
+tion here is can we harmonize
+
+this engagement in social network
+ing to drive public policy? Can peo
+ple come together on these Inter
+net-based social platforms to dis
+cuss an issue and come to agree
+ment?"
+
+Both Dandekar and Lee agreed
+that a website like Widescope has
+the potential to generate relatively
+accurate representations of the
+public opinion on a wide range of
+political issues, from health care re
+form to federal budgets.
+
+"We are interested in whether
+or not we can use the Internet to
+promote consensus and power
+democracy," Lee said. "Aggregate
+solutions from the crowd can be a
+very effective one. So can we use
+the wisdom of the majority to make
+decisions?"
+
+Contact Lan Anh Le at lananhle@
+stanford.edu,
+
+Can we use the
+wisdom of the
+majority to
+make decisions?
+DAVID LEE,
+PH.D. CANDIDATE
+As the partisan divides in American soci
+ety continue to deepen, a team of Stanford
+researchers has developed an algorithm
+demonstrating the process behind that po
+larization and created Internet-based so
+cial systems to counter the trend.
+The team, composed of Associate Pro
+fessor of Management Science and Engi
+neering Ashish Goel M.S. '9B Ph.D. '99 and
+doctoral candidates Pranav Dandekar and
+David Lee, examined how people form
+opinions and how their viewpoints evolve
+over time due to outside influences such as
+
+social networks.
+"When two people look at a blog and as a
+result their beliefs become more extreme in
+opposite directions, the blog has a polariz
+ing effect," Dandekar explained. "We want
+ed to come up with a model to explain this
+effect."
+Before developing their own model, the
+researchers looked at existing models that
+attempt to describe the formation of public
+opinion based on homophily, the sociological
+theory which assumes that "like seeks like."
+However, homophily models predict in
+creasing uniformity of opinion over time, as
+people seek to minimize disagreement with
+in their networks of friends and relations
+
+and as holders of similar opinions tend to
+aggregate. Those attributes made the mod
+el unsuitable to explaining America's polar
+ization.
+"It turns out that you can't have polar
+ization with this kind of model," Dandekar
+said. "When an individual's opinion con
+verges to an average of those in his or her
+network, depolarization happens. Instead,
+polarization is when opinions diverge."
+The team sought to create an alterna
+tive model to explain polarization based on
+biased assimilation, a different psychologi
+cal concept.
+"We wanted to capture this phe
+nomenon that leads to polarization
+in the way that we define it," Dan
+dekar said. "The model would final
+ly provide an adequate answer to
+the question of whether or not peo
+ple have some biases that they nat
+urally gravitate to."
+According to the theory of bi
+ased assimilation, people favor evi
+dence that confirms their beliefs
+and reject information that goes
+against their preconceptions, which
+explains why two people can come
+to completely different conclusions
+given identical evidence.
+"In seeing mixed evidence,
+meaning both the pros and cons, of
+
+issues like gun control or nuclear
+proliferation, people usually take in
+information that affirms their ex
+isting viewpoint and reject whatev
+er that goes against it," Lee said.
+"At the end, people have more ex
+treme opinions."
+The researchers used their
+knowledge about polarization to
+create Internet-based social sys
+tems that allow people to identify
+similarities instead of differ
+ences between their political
+views and collaborate on solutions
+to issues such as the budget crisis.
+"The important question is
+when people have to come up with a
+budget, it's difficult for them to do
+it because of polarized views and
+disagreements," Lee said. "We are
+finding away to promote consensus
+in such situations."
+One system developed by the
+team is a federal budget simulation
+
+called Widescope, which allows
+users to propose their own budgets
+with detailed annotations explain
+ing their viewpoints. Through
+Widescope, users can collaborate
+on budgets and eventually vote on
+
+the proposals.
+"It's like a process of elimina
+tion. Eventually the best budget
+proposals will make it to the end
+through a series of voting proce
+dures," Dandekar said. "The goal is
+to come to a consensus and collabo
+rate to find solutions in a democrat
+ic manner."
+Lee and Dandekar said that
+Widescope was inspired by direct
+democracy systems, in which the
+entire electorate takes part in mak
+ing laws and other political deci
+sions. Through Widescope, Ameri
+cans can simulate playing a larger
+role in the legislative process in
+cluding learning how to come to a
+consensus on divisive issues
+than they might otherwise do.
+"In the last few years, there has
+been an explosion of social net
+works," Dandekar said. "The ques
+tion here is can we harmonize
+
+this engagement in social network
+ing to drive public policy? Can peo
+ple come together on these Inter
+net-based social platforms to dis
+cuss an issue and come to agree
+ment?"
+
+Both Dandekar and Lee agreed
+that a website like Widescope has
+the potential to generate relatively
+accurate representations of the
+public opinion on a wide range of
+political issues, from health care re
+form to federal budgets.
+
+"We are interested in whether
+or not we can use the Internet to
+promote consensus and power
+democracy," Lee said. "Aggregate
+solutions from the crowd can be a
+very effective one. So can we use
+the wisdom of the majority to make
+decisions?"
+
+Contact Lan Anh Le at lananhle@
+stanford.edu,
+
+Can we use the
+wisdom of the
+majority to
+make decisions?
+DAVID LEE,
+PH.D. CANDIDATE
+As the partisan divides in American soci
+ety continue to deepen, a team of Stanford
+researchers has developed an algorithm
+demonstrating the process behind that po
+larization and created Internet-based so
+cial systems to counter the trend.
+The team, composed of Associate Pro
+fessor of Management Science and Engi
+neering Ashish Goel M.S. '9B Ph.D. '99 and
+doctoral candidates Pranav Dandekar and
+David Lee, examined how people form
+opinions and how their viewpoints evolve
+over time due to outside influences such as
+
+social networks.
+"When two people look at a blog and as a
+result their beliefs become more extreme in
+opposite directions, the blog has a polariz
+ing effect," Dandekar explained. "We want
+ed to come up with a model to explain this
+effect."
+Before developing their own model, the
+researchers looked at existing models that
+attempt to describe the formation of public
+opinion based on homophily, the sociological
+theory which assumes that "like seeks like."
+However, homophily models predict in
+creasing uniformity of opinion over time, as
+people seek to minimize disagreement with
+in their networks of friends and relations
+
+and as holders of similar opinions tend to
+aggregate. Those attributes made the mod
+el unsuitable to explaining America's polar
+ization.
+"It turns out that you can't have polar
+ization with this kind of model," Dandekar
+said. "When an individual's opinion con
+verges to an average of those in his or her
+network, depolarization happens. Instead,
+polarization is when opinions diverge."
+The team sought to create an alterna
+tive model to explain polarization based on
+biased assimilation, a different psychologi
+cal concept.
+"We wanted to capture this phe
+nomenon that leads to polarization
+in the way that we define it," Dan
+dekar said. "The model would final
+ly provide an adequate answer to
+the question of whether or not peo
+ple have some biases that they nat
+urally gravitate to."
+According to the theory of bi
+ased assimilation, people favor evi
+dence that confirms their beliefs
+and reject information that goes
+against their preconceptions, which
+explains why two people can come
+to completely different conclusions
+given identical evidence.
+"In seeing mixed evidence,
+meaning both the pros and cons, of
+
+issues like gun control or nuclear
+proliferation, people usually take in
+information that affirms their ex
+isting viewpoint and reject whatev
+er that goes against it," Lee said.
+"At the end, people have more ex
+treme opinions."
+The researchers used their
+knowledge about polarization to
+create Internet-based social sys
+tems that allow people to identify
+similarities instead of differ
+ences between their political
+views and collaborate on solutions
+to issues such as the budget crisis.
+"The important question is
+when people have to come up with a
+budget, it's difficult for them to do
+it because of polarized views and
+disagreements," Lee said. "We are
+finding away to promote consensus
+in such situations."
+One system developed by the
+team is a federal budget simulation
+
+called Widescope, which allows
+users to propose their own budgets
+with detailed annotations explain
+ing their viewpoints. Through
+Widescope, users can collaborate
+on budgets and eventually vote on
+
+the proposals.
+"It's like a process of elimina
+tion. Eventually the best budget
+proposals will make it to the end
+through a series of voting proce
+dures," Dandekar said. "The goal is
+to come to a consensus and collabo
+rate to find solutions in a democrat
+ic manner."
+Lee and Dandekar said that
+Widescope was inspired by direct
+democracy systems, in which the
+entire electorate takes part in mak
+ing laws and other political deci
+sions. Through Widescope, Ameri
+cans can simulate playing a larger
+role in the legislative process in
+cluding learning how to come to a
+consensus on divisive issues
+than they might otherwise do.
+"In the last few years, there has
+been an explosion of social net
+works," Dandekar said. "The ques
+tion here is can we harmonize
+
+this engagement in social network
+ing to drive public policy? Can peo
+ple come together on these Inter
+net-based social platforms to dis
+cuss an issue and come to agree
+ment?"
+
+Both Dandekar and Lee agreed
+that a website like Widescope has
+the potential to generate relatively
+accurate representations of the
+public opinion on a wide range of
+political issues, from health care re
+form to federal budgets.
+
+"We are interested in whether
+or not we can use the Internet to
+promote consensus and power
+democracy," Lee said. "Aggregate
+solutions from the crowd can be a
+very effective one. So can we use
+the wisdom of the majority to make
+decisions?"
+
+Contact Lan Anh Le at lananhle@
+stanford.edu,
+
+Can we use the
+wisdom of the
+majority to
+make decisions?
+DAVID LEE,
+PH.D. CANDIDATE
+As the partisan divides in American soci
+ety continue to deepen, a team of Stanford
+researchers has developed an algorithm
+demonstrating the process behind that po
+larization and created Internet-based so
+cial systems to counter the trend.
+The team, composed of Associate Pro
+fessor of Management Science and Engi
+neering Ashish Goel M.S. '9B Ph.D. '99 and
+doctoral candidates Pranav Dandekar and
+David Lee, examined how people form
+opinions and how their viewpoints evolve
+over time due to outside influences such as
+
+social networks.
+"When two people look at a blog and as a
+result their beliefs become more extreme in
+opposite directions, the blog has a polariz
+ing effect," Dandekar explained. "We want
+ed to come up with a model to explain this
+effect."
+Before developing their own model, the
+researchers looked at existing models that
+attempt to describe the formation of public
+opinion based on homophily, the sociological
+theory which assumes that "like seeks like."
+However, homophily models predict in
+creasing uniformity of opinion over time, as
+people seek to minimize disagreement with
+in their networks of friends and relations
+
+and as holders of similar opinions tend to
+aggregate. Those attributes made the mod
+el unsuitable to explaining America's polar
+ization.
+"It turns out that you can't have polar
+ization with this kind of model," Dandekar
+said. "When an individual's opinion con
+verges to an average of those in his or her
+network, depolarization happens. Instead,
+polarization is when opinions diverge."
+The team sought to create an alterna
+tive model to explain polarization based on
+biased assimilation, a different psychologi
+cal concept.
+"We wanted to capture this phe
+nomenon that leads to polarization
+in the way that we define it," Dan
+dekar said. "The model would final
+ly provide an adequate answer to
+the question of whether or not peo
+ple have some biases that they nat
+urally gravitate to."
+According to the theory of bi
+ased assimilation, people favor evi
+dence that confirms their beliefs
+and reject information that goes
+against their preconceptions, which
+explains why two people can come
+to completely different conclusions
+given identical evidence.
+"In seeing mixed evidence,
+meaning both the pros and cons, of
+
+issues like gun control or nuclear
+proliferation, people usually take in
+information that affirms their ex
+isting viewpoint and reject whatev
+er that goes against it," Lee said.
+"At the end, people have more ex
+treme opinions."
+The researchers used their
+knowledge about polarization to
+create Internet-based social sys
+tems that allow people to identify
+similarities instead of differ
+ences between their political
+views and collaborate on solutions
+to issues such as the budget crisis.
+"The important question is
+when people have to come up with a
+budget, it's difficult for them to do
+it because of polarized views and
+disagreements," Lee said. "We are
+finding away to promote consensus
+in such situations."
+One system developed by the
+team is a federal budget simulation
+
+called Widescope, which allows
+users to propose their own budgets
+with detailed annotations explain
+ing their viewpoints. Through
+Widescope, users can collaborate
+on budgets and eventually vote on
+
+the proposals.
+"It's like a process of elimina
+tion. Eventually the best budget
+proposals will make it to the end
+through a series of voting proce
+dures," Dandekar said. "The goal is
+to come to a consensus and collabo
+rate to find solutions in a democrat
+ic manner."
+Lee and Dandekar said that
+Widescope was inspired by direct
+democracy systems, in which the
+entire electorate takes part in mak
+ing laws and other political deci
+sions. Through Widescope, Ameri
+cans can simulate playing a larger
+role in the legislative process in
+cluding learning how to come to a
+consensus on divisive issues
+than they might otherwise do.
+"In the last few years, there has
+been an explosion of social net
+works," Dandekar said. "The ques
+tion here is can we harmonize
+
+this engagement in social network
+ing to drive public policy? Can peo
+ple come together on these Inter
+net-based social platforms to dis
+cuss an issue and come to agree
+ment?"
+
+Both Dandekar and Lee agreed
+that a website like Widescope has
+the potential to generate relatively
+accurate representations of the
+public opinion on a wide range of
+political issues, from health care re
+form to federal budgets.
+
+"We are interested in whether
+or not we can use the Internet to
+promote consensus and power
+democracy," Lee said. "Aggregate
+solutions from the crowd can be a
+very effective one. So can we use
+the wisdom of the majority to make
+decisions?"
+
+Contact Lan Anh Le at lananhle@
+stanford.edu,
+
+Can we use the
+wisdom of the
+majority to
+make decisions?
+DAVID LEE,
+PH.D. CANDIDATE
+As the partisan divides in American soci
+ety continue to deepen, a team of Stanford
+researchers has developed an algorithm
+demonstrating the process behind that po
+larization and created Internet-based so
+cial systems to counter the trend.
+The team, composed of Associate Pro
+fessor of Management Science and Engi
+neering Ashish Goel M.S. '9B Ph.D. '99 and
+doctoral candidates Pranav Dandekar and
+David Lee, examined how people form
+opinions and how their viewpoints evolve
+over time due to outside influences such as
+
+social networks.
+"When two people look at a blog and as a
+result their beliefs become more extreme in
+opposite directions, the blog has a polariz
+ing effect," Dandekar explained. "We want
+ed to come up with a model to explain this
+effect."
+Before developing their own model, the
+researchers looked at existing models that
+attempt to describe the formation of public
+opinion based on homophily, the sociological
+theory which assumes that "like seeks like."
+However, homophily models predict in
+creasing uniformity of opinion over time, as
+people seek to minimize disagreement with
+in their networks of friends and relations
+
+and as holders of similar opinions tend to
+aggregate. Those attributes made the mod
+el unsuitable to explaining America's polar
+ization.
+"It turns out that you can't have polar
+ization with this kind of model," Dandekar
+said. "When an individual's opinion con
+verges to an average of those in his or her
+network, depolarization happens. Instead,
+polarization is when opinions diverge."
+The team sought to create an alterna
+tive model to explain polarization based on
+biased assimilation, a different psychologi
+cal concept.
+"We wanted to capture this phe
+nomenon that leads to polarization
+in the way that we define it," Dan
+dekar said. "The model would final
+ly provide an adequate answer to
+the question of whether or not peo
+ple have some biases that they nat
+urally gravitate to."
+According to the theory of bi
+ased assimilation, people favor evi
+dence that confirms their beliefs
+and reject information that goes
+against their preconceptions, which
+explains why two people can come
+to completely different conclusions
+given identical evidence.
+"In seeing mixed evidence,
+meaning both the pros and cons, of
+
+issues like gun control or nuclear
+proliferation, people usually take in
+information that affirms their ex
+isting viewpoint and reject whatev
+er that goes against it," Lee said.
+"At the end, people have more ex
+treme opinions."
+The researchers used their
+knowledge about polarization to
+create Internet-based social sys
+tems that allow people to identify
+similarities instead of differ
+ences between their political
+views and collaborate on solutions
+to issues such as the budget crisis.
+"The important question is
+when people have to come up with a
+budget, it's difficult for them to do
+it because of polarized views and
+disagreements," Lee said. "We are
+finding away to promote consensus
+in such situations."
+One system developed by the
+team is a federal budget simulation
+
+called Widescope, which allows
+users to propose their own budgets
+with detailed annotations explain
+ing their viewpoints. Through
+Widescope, users can collaborate
+on budgets and eventually vote on
+
+the proposals.
+"It's like a process of elimina
+tion. Eventually the best budget
+proposals will make it to the end
+through a series of voting proce
+dures," Dandekar said. "The goal is
+to come to a consensus and collabo
+rate to find solutions in a democrat
+ic manner."
+Lee and Dandekar said that
+Widescope was inspired by direct
+democracy systems, in which the
+entire electorate takes part in mak
+ing laws and other political deci
+sions. Through Widescope, Ameri
+cans can simulate playing a larger
+role in the legislative process in
+cluding learning how to come to a
+consensus on divisive issues
+than they might otherwise do.
+"In the last few years, there has
+been an explosion of social net
+works," Dandekar said. "The ques
+tion here is can we harmonize
+
+this engagement in social network
+ing to drive public policy? Can peo
+ple come together on these Inter
+net-based social platforms to dis
+cuss an issue and come to agree
+ment?"
+
+Both Dandekar and Lee agreed
+that a website like Widescope has
+the potential to generate relatively
+accurate representations of the
+public opinion on a wide range of
+political issues, from health care re
+form to federal budgets.
+
+"We are interested in whether
+or not we can use the Internet to
+promote consensus and power
+democracy," Lee said. "Aggregate
+solutions from the crowd can be a
+very effective one. So can we use
+the wisdom of the majority to make
+decisions?"
+
+Contact Lan Anh Le at lananhle@
+stanford.edu,
+
+Can we use the
+wisdom of the
+majority to
+make decisions?
+DAVID LEE,
+PH.D. CANDIDATE
+As the partisan divides in American soci
+ety continue to deepen, a team of Stanford
+researchers has developed an algorithm
+demonstrating the process behind that po
+larization and created Internet-based so
+cial systems to counter the trend.
+The team, composed of Associate Pro
+fessor of Management Science and Engi
+neering Ashish Goel M.S. '9B Ph.D. '99 and
+doctoral candidates Pranav Dandekar and
+David Lee, examined how people form
+opinions and how their viewpoints evolve
+over time due to outside influences such as
+
+social networks.
+"When two people look at a blog and as a
+result their beliefs become more extreme in
+opposite directions, the blog has a polariz
+ing effect," Dandekar explained. "We want
+ed to come up with a model to explain this
+effect."
+Before developing their own model, the
+researchers looked at existing models that
+attempt to describe the formation of public
+opinion based on homophily, the sociological
+theory which assumes that "like seeks like."
+However, homophily models predict in
+creasing uniformity of opinion over time, as
+people seek to minimize disagreement with
+in their networks of friends and relations
+
+and as holders of similar opinions tend to
+aggregate. Those attributes made the mod
+el unsuitable to explaining America's polar
+ization.
+"It turns out that you can't have polar
+ization with this kind of model," Dandekar
+said. "When an individual's opinion con
+verges to an average of those in his or her
+network, depolarization happens. Instead,
+polarization is when opinions diverge."
+The team sought to create an alterna
+tive model to explain polarization based on
+biased assimilation, a different psychologi
+cal concept.
+"We wanted to capture this phe
+nomenon that leads to polarization
+in the way that we define it," Dan
+dekar said. "The model would final
+ly provide an adequate answer to
+the question of whether or not peo
+ple have some biases that they nat
+urally gravitate to."
+According to the theory of bi
+ased assimilation, people favor evi
+dence that confirms their beliefs
+and reject information that goes
+against their preconceptions, which
+explains why two people can come
+to completely different conclusions
+given identical evidence.
+"In seeing mixed evidence,
+meaning both the pros and cons, of
+
+issues like gun control or nuclear
+proliferation, people usually take in
+information that affirms their ex
+isting viewpoint and reject whatev
+er that goes against it," Lee said.
+"At the end, people have more ex
+treme opinions."
+The researchers used their
+knowledge about polarization to
+create Internet-based social sys
+tems that allow people to identify
+similarities instead of differ
+ences between their political
+views and collaborate on solutions
+to issues such as the budget crisis.
+"The important question is
+when people have to come up with a
+budget, it's difficult for them to do
+it because of polarized views and
+disagreements," Lee said. "We are
+finding away to promote consensus
+in such situations."
+One system developed by the
+team is a federal budget simulation
+
+called Widescope, which allows
+users to propose their own budgets
+with detailed annotations explain
+ing their viewpoints. Through
+Widescope, users can collaborate
+on budgets and eventually vote on
+
+the proposals.
+"It's like a process of elimina
+tion. Eventually the best budget
+proposals will make it to the end
+through a series of voting proce
+dures," Dandekar said. "The goal is
+to come to a consensus and collabo
+rate to find solutions in a democrat
+ic manner."
+Lee and Dandekar said that
+Widescope was inspired by direct
+democracy systems, in which the
+entire electorate takes part in mak
+ing laws and other political deci
+sions. Through Widescope, Ameri
+cans can simulate playing a larger
+role in the legislative process in
+cluding learning how to come to a
+consensus on divisive issues
+than they might otherwise do.
+"In the last few years, there has
+been an explosion of social net
+works," Dandekar said. "The ques
+tion here is can we harmonize
+
+this engagement in social network
+ing to drive public policy? Can peo
+ple come together on these Inter
+net-based social platforms to dis
+cuss an issue and come to agree
+ment?"
+
+Both Dandekar and Lee agreed
+that a website like Widescope has
+the potential to generate relatively
+accurate representations of the
+public opinion on a wide range of
+political issues, from health care re
+form to federal budgets.
+
+"We are interested in whether
+or not we can use the Internet to
+promote consensus and power
+democracy," Lee said. "Aggregate
+solutions from the crowd can be a
+very effective one. So can we use
+the wisdom of the majority to make
+decisions?"
+
+Contact Lan Anh Le at lananhle@
+stanford.edu,
+
+Can we use the
+wisdom of the
+majority to
+make decisions?
+DAVID LEE,
+PH.D. CANDIDATE
+As the partisan divides in American soci
+ety continue to deepen, a team of Stanford
+researchers has developed an algorithm
+demonstrating the process behind that po
+larization and created Internet-based so
+cial systems to counter the trend.
+The team, composed of Associate Pro
+fessor of Management Science and Engi
+neering Ashish Goel M.S. '9B Ph.D. '99 and
+doctoral candidates Pranav Dandekar and
+David Lee, examined how people form
+opinions and how their viewpoints evolve
+over time due to outside influences such as
+
+social networks.
+"When two people look at a blog and as a
+result their beliefs become more extreme in
+opposite directions, the blog has a polariz
+ing effect," Dandekar explained. "We want
+ed to come up with a model to explain this
+effect."
+Before developing their own model, the
+researchers looked at existing models that
+attempt to describe the formation of public
+opinion based on homophily, the sociological
+theory which assumes that "like seeks like."
+However, homophily models predict in
+creasing uniformity of opinion over time, as
+people seek to minimize disagreement with
+in their networks of friends and relations
+
+and as holders of similar opinions tend to
+aggregate. Those attributes made the mod
+el unsuitable to explaining America's polar
+ization.
+"It turns out that you can't have polar
+ization with this kind of model," Dandekar
+said. "When an individual's opinion con
+verges to an average of those in his or her
+network, depolarization happens. Instead,
+polarization is when opinions diverge."
+The team sought to create an alterna
+tive model to explain polarization based on
+biased assimilation, a different psychologi
+cal concept.
+"We wanted to capture this phe
+nomenon that leads to polarization
+in the way that we define it," Dan
+dekar said. "The model would final
+ly provide an adequate answer to
+the question of whether or not peo
+ple have some biases that they nat
+urally gravitate to."
+According to the theory of bi
+ased assimilation, people favor evi
+dence that confirms their beliefs
+and reject information that goes
+against their preconceptions, which
+explains why two people can come
+to completely different conclusions
+given identical evidence.
+"In seeing mixed evidence,
+meaning both the pros and cons, of
+
+issues like gun control or nuclear
+proliferation, people usually take in
+information that affirms their ex
+isting viewpoint and reject whatev
+er that goes against it," Lee said.
+"At the end, people have more ex
+treme opinions."
+The researchers used their
+knowledge about polarization to
+create Internet-based social sys
+tems that allow people to identify
+similarities instead of differ
+ences between their political
+views and collaborate on solutions
+to issues such as the budget crisis.
+"The important question is
+when people have to come up with a
+budget, it's difficult for them to do
+it because of polarized views and
+disagreements," Lee said. "We are
+finding away to promote consensus
+in such situations."
+One system developed by the
+team is a federal budget simulation
+
+called Widescope, which allows
+users to propose their own budgets
+with detailed annotations explain
+ing their viewpoints. Through
+Widescope, users can collaborate
+on budgets and eventually vote on
+
+the proposals.
+"It's like a process of elimina
+tion. Eventually the best budget
+proposals will make it to the end
+through a series of voting proce
+dures," Dandekar said. "The goal is
+to come to a consensus and collabo
+rate to find solutions in a democrat
+ic manner."
+Lee and Dandekar said that
+Widescope was inspired by direct
+democracy systems, in which the
+entire electorate takes part in mak
+ing laws and other political deci
+sions. Through Widescope, Ameri
+cans can simulate playing a larger
+role in the legislative process in
+cluding learning how to come to a
+consensus on divisive issues
+than they might otherwise do.
+"In the last few years, there has
+been an explosion of social net
+works," Dandekar said. "The ques
+tion here is can we harmonize
+
+this engagement in social network
+ing to drive public policy? Can peo
+ple come together on these Inter
+net-based social platforms to dis
+cuss an issue and come to agree
+ment?"
+
+Both Dandekar and Lee agreed
+that a website like Widescope has
+the potential to generate relatively
+accurate representations of the
+public opinion on a wide range of
+political issues, from health care re
+form to federal budgets.
+
+"We are interested in whether
+or not we can use the Internet to
+promote consensus and power
+democracy," Lee said. "Aggregate
+solutions from the crowd can be a
+very effective one. So can we use
+the wisdom of the majority to make
+decisions?"
+
+Contact Lan Anh Le at lananhle@
+stanford.edu,
+
+Can we use the
+wisdom of the
+majority to
+make decisions?
+DAVID LEE,
+PH.D. CANDIDATE

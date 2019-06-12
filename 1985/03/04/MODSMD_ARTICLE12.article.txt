@@ -1,0 +1,971 @@
+# Features
+## Computer abuse spurs laws and technology 
+### LARRY WEBER 
+Computers have been around since the late 19505. So
+have computer hackers and security forces to foil them.
+Laws to punish those who illegally access information
+stored in computers, however, are relatively new.
+In 1979, a California state law made it a felony to gain
+"unauthorized computer access" with malicious intent to
+destroy data, to attempt to defraud, or to access consumer
+credit information. Within the last two years, the law has
+been modified to include trespassers, or those who merely
+access without proper authorization regardless of their in
+tent.
+For the computer hacker, "the situation is totally differ
+ent now, said Joan Birkhead, security administrator for
+Stanford s computing facilitators, Information Technol
+ogy Services (ITS).
+"When you go around destroying data bases or stealing
+information, that's not funny, that's crime," said Santa
+Clara County District Attorney Doug Southard, founder
+of a high-technology crime task force called DATTA
+(District Attorney's Technology Theft Association).
+The possibility ot such crime turned up on the Univer
+sity of Southern California campus early last month, forc
+ing officials there to investigate allegations that fake
+transcripts were created and placed into the school's com
+puter records and that phony degrees were being sold for
+as much as $25,000. Although USC Vice Provost Sylvia
+Manning said the investigation has yet to turn up any
+evidence, the allegations raise general questions concern
+ing the vulnerability of an educational institution's
+computer-stored information.
+"We see a lot of attempts to gain the system," said
+Birkhead of ITS. "But they're like grains of sand against
+the side of a house."
+Stanford's computer system, according to Birkhead, is
+like a mansion of information that has many entrances.
+Each entrance requires fewer or more passwords or access
+codes to get through it depending on the sensitivity of the
+data behind its doors. After the necessary initial account
+identification — a single password — some information
+can be summoned and read. More sensitive information,
+such as student academic records, requires knowledge of
+access codes to get through three or more doors.
+When an unauthorized person attempts to access with
+out knowing the proper codes, the computer's security
+detects a disturbance in the system and can boot the
+
+would-be hacker. A disturbance can be felt at any level of
+access, whether an individual gets through "door one' or
+"door two."
+The security system is "a built-in means of waving Hags
+for us in cases where attention needs to be paid,"
+Birkhead said.
+She cited the case of the Homestead High School stu
+dent who reportedly recently tried to access his academic
+record, information stored in the computer banks of 11 S,
+as an example of security in action. According to
+Birkhead, the young man had somehow caught a glance ot
+the correct password, but had forgotten it. Once the com
+puter alerted ITS officials that someone was tumbling
+
+around Homestead's privileged information, the password
+was changed ahead of schedule.
+"Passwords are not static. In that case, we changed it
+immediately," Birkhead said. As a result, the student was
+caught before he was able to access the information he
+was reportedly seeking.
+I he student's glimpsing of the access code brings up the
+issue of internal breaches of trust. They are a constant n«k
+to information security, according to Stanford Registrar
+Sally Mahoney.
+"The problem of inside abuse is a general problem that
+exists with records, whether they are in manuscript or
+computers," she said. "Record systems are largely depen
+
+dent on the integrity of individuals."
+USC's Manning confirmed Mahoney's view, saying that
+more than 20 cases of grade changing occurred at the
+school as the result of university employees accepting
+money bribes from students. "There is always the chance
+that someone is corruptible," she said. According to Man
+ning, the implicated employees were quickly fired.
+" Cirkhead indicated that at Stanford, the student wan
+ting grade changes is one brand of hacker among a poten
+tial many, owing to the diverse types of information ITS
+stores here.
+"Stanford is like any business. Our computers have a lot
+of applications," she said.
+She said that Stanford the corporation, Stanford the
+educational institution, Stanford the private grant
+receiving university and Stanford the hospital all place
+information-storing demands on ITS.
+Because of the recognized responsibility that ITS faces,
+"Everyone in the University administrative community is
+interested in maintaining computer security needs at ap
+propriate levels," Birkhead said.
+The situation is different at LOTS, according to student
+computer consultant David Chen. "We can always restore
+material here from back-up tapes," he said.
+Stating that although LOTS would be easier to access
+than University computers due to its lack of obscure
+passwords, Chen said there is no reason for excessive
+precaution at LOTS. "We have no sensitive information
+stored here," he said.
+On trying to get through ITS' security, he said, "It
+would be pretty hard."
+According to Birkhead. it is also getting harder. "As the
+operating environment gets upgraded for new features
+available to the market, so does the security surrounding
+it," she said. "We keep enhancing it (ITS security)."
+The toughness of security measures and new laws
+protecting data bases have been the results of a new tech
+nology with new demands, said District Attorney Sout
+hard.
+"Up to now. it has been a relatively unfamiliar technol
+ogy, and we are trying to establish what is right and wrong
+to establish an effective deterrent to unnacceptable be
+havior," he said.
+"There are criminal remedies available and society has
+to treat this kind of behavior as a crime when the facts are
+present," he added.
+
+Computers have been around since the late 19505. So
+have computer hackers and security forces to foil them.
+Laws to punish those who illegally access information
+stored in computers, however, are relatively new.
+In 1979, a California state law made it a felony to gain
+"unauthorized computer access" with malicious intent to
+destroy data, to attempt to defraud, or to access consumer
+credit information. Within the last two years, the law has
+been modified to include trespassers, or those who merely
+access without proper authorization regardless of their in
+tent.
+For the computer hacker, "the situation is totally differ
+ent now, said Joan Birkhead, security administrator for
+Stanford s computing facilitators, Information Technol
+ogy Services (ITS).
+"When you go around destroying data bases or stealing
+information, that's not funny, that's crime," said Santa
+Clara County District Attorney Doug Southard, founder
+of a high-technology crime task force called DATTA
+(District Attorney's Technology Theft Association).
+The possibility ot such crime turned up on the Univer
+sity of Southern California campus early last month, forc
+ing officials there to investigate allegations that fake
+transcripts were created and placed into the school's com
+puter records and that phony degrees were being sold for
+as much as $25,000. Although USC Vice Provost Sylvia
+Manning said the investigation has yet to turn up any
+evidence, the allegations raise general questions concern
+ing the vulnerability of an educational institution's
+computer-stored information.
+"We see a lot of attempts to gain the system," said
+Birkhead of ITS. "But they're like grains of sand against
+the side of a house."
+Stanford's computer system, according to Birkhead, is
+like a mansion of information that has many entrances.
+Each entrance requires fewer or more passwords or access
+codes to get through it depending on the sensitivity of the
+data behind its doors. After the necessary initial account
+identification — a single password — some information
+can be summoned and read. More sensitive information,
+such as student academic records, requires knowledge of
+access codes to get through three or more doors.
+When an unauthorized person attempts to access with
+out knowing the proper codes, the computer's security
+detects a disturbance in the system and can boot the
+
+would-be hacker. A disturbance can be felt at any level of
+access, whether an individual gets through "door one' or
+"door two."
+The security system is "a built-in means of waving Hags
+for us in cases where attention needs to be paid,"
+Birkhead said.
+She cited the case of the Homestead High School stu
+dent who reportedly recently tried to access his academic
+record, information stored in the computer banks of 11 S,
+as an example of security in action. According to
+Birkhead, the young man had somehow caught a glance ot
+the correct password, but had forgotten it. Once the com
+puter alerted ITS officials that someone was tumbling
+
+around Homestead's privileged information, the password
+was changed ahead of schedule.
+"Passwords are not static. In that case, we changed it
+immediately," Birkhead said. As a result, the student was
+caught before he was able to access the information he
+was reportedly seeking.
+I he student's glimpsing of the access code brings up the
+issue of internal breaches of trust. They are a constant n«k
+to information security, according to Stanford Registrar
+Sally Mahoney.
+"The problem of inside abuse is a general problem that
+exists with records, whether they are in manuscript or
+computers," she said. "Record systems are largely depen
+
+dent on the integrity of individuals."
+USC's Manning confirmed Mahoney's view, saying that
+more than 20 cases of grade changing occurred at the
+school as the result of university employees accepting
+money bribes from students. "There is always the chance
+that someone is corruptible," she said. According to Man
+ning, the implicated employees were quickly fired.
+" Cirkhead indicated that at Stanford, the student wan
+ting grade changes is one brand of hacker among a poten
+tial many, owing to the diverse types of information ITS
+stores here.
+"Stanford is like any business. Our computers have a lot
+of applications," she said.
+She said that Stanford the corporation, Stanford the
+educational institution, Stanford the private grant
+receiving university and Stanford the hospital all place
+information-storing demands on ITS.
+Because of the recognized responsibility that ITS faces,
+"Everyone in the University administrative community is
+interested in maintaining computer security needs at ap
+propriate levels," Birkhead said.
+The situation is different at LOTS, according to student
+computer consultant David Chen. "We can always restore
+material here from back-up tapes," he said.
+Stating that although LOTS would be easier to access
+than University computers due to its lack of obscure
+passwords, Chen said there is no reason for excessive
+precaution at LOTS. "We have no sensitive information
+stored here," he said.
+On trying to get through ITS' security, he said, "It
+would be pretty hard."
+According to Birkhead. it is also getting harder. "As the
+operating environment gets upgraded for new features
+available to the market, so does the security surrounding
+it," she said. "We keep enhancing it (ITS security)."
+The toughness of security measures and new laws
+protecting data bases have been the results of a new tech
+nology with new demands, said District Attorney Sout
+hard.
+"Up to now. it has been a relatively unfamiliar technol
+ogy, and we are trying to establish what is right and wrong
+to establish an effective deterrent to unnacceptable be
+havior," he said.
+"There are criminal remedies available and society has
+to treat this kind of behavior as a crime when the facts are
+present," he added.
+
+Computers have been around since the late 19505. So
+have computer hackers and security forces to foil them.
+Laws to punish those who illegally access information
+stored in computers, however, are relatively new.
+In 1979, a California state law made it a felony to gain
+"unauthorized computer access" with malicious intent to
+destroy data, to attempt to defraud, or to access consumer
+credit information. Within the last two years, the law has
+been modified to include trespassers, or those who merely
+access without proper authorization regardless of their in
+tent.
+For the computer hacker, "the situation is totally differ
+ent now, said Joan Birkhead, security administrator for
+Stanford s computing facilitators, Information Technol
+ogy Services (ITS).
+"When you go around destroying data bases or stealing
+information, that's not funny, that's crime," said Santa
+Clara County District Attorney Doug Southard, founder
+of a high-technology crime task force called DATTA
+(District Attorney's Technology Theft Association).
+The possibility ot such crime turned up on the Univer
+sity of Southern California campus early last month, forc
+ing officials there to investigate allegations that fake
+transcripts were created and placed into the school's com
+puter records and that phony degrees were being sold for
+as much as $25,000. Although USC Vice Provost Sylvia
+Manning said the investigation has yet to turn up any
+evidence, the allegations raise general questions concern
+ing the vulnerability of an educational institution's
+computer-stored information.
+"We see a lot of attempts to gain the system," said
+Birkhead of ITS. "But they're like grains of sand against
+the side of a house."
+Stanford's computer system, according to Birkhead, is
+like a mansion of information that has many entrances.
+Each entrance requires fewer or more passwords or access
+codes to get through it depending on the sensitivity of the
+data behind its doors. After the necessary initial account
+identification — a single password — some information
+can be summoned and read. More sensitive information,
+such as student academic records, requires knowledge of
+access codes to get through three or more doors.
+When an unauthorized person attempts to access with
+out knowing the proper codes, the computer's security
+detects a disturbance in the system and can boot the
+
+would-be hacker. A disturbance can be felt at any level of
+access, whether an individual gets through "door one' or
+"door two."
+The security system is "a built-in means of waving Hags
+for us in cases where attention needs to be paid,"
+Birkhead said.
+She cited the case of the Homestead High School stu
+dent who reportedly recently tried to access his academic
+record, information stored in the computer banks of 11 S,
+as an example of security in action. According to
+Birkhead, the young man had somehow caught a glance ot
+the correct password, but had forgotten it. Once the com
+puter alerted ITS officials that someone was tumbling
+
+around Homestead's privileged information, the password
+was changed ahead of schedule.
+"Passwords are not static. In that case, we changed it
+immediately," Birkhead said. As a result, the student was
+caught before he was able to access the information he
+was reportedly seeking.
+I he student's glimpsing of the access code brings up the
+issue of internal breaches of trust. They are a constant n«k
+to information security, according to Stanford Registrar
+Sally Mahoney.
+"The problem of inside abuse is a general problem that
+exists with records, whether they are in manuscript or
+computers," she said. "Record systems are largely depen
+
+dent on the integrity of individuals."
+USC's Manning confirmed Mahoney's view, saying that
+more than 20 cases of grade changing occurred at the
+school as the result of university employees accepting
+money bribes from students. "There is always the chance
+that someone is corruptible," she said. According to Man
+ning, the implicated employees were quickly fired.
+" Cirkhead indicated that at Stanford, the student wan
+ting grade changes is one brand of hacker among a poten
+tial many, owing to the diverse types of information ITS
+stores here.
+"Stanford is like any business. Our computers have a lot
+of applications," she said.
+She said that Stanford the corporation, Stanford the
+educational institution, Stanford the private grant
+receiving university and Stanford the hospital all place
+information-storing demands on ITS.
+Because of the recognized responsibility that ITS faces,
+"Everyone in the University administrative community is
+interested in maintaining computer security needs at ap
+propriate levels," Birkhead said.
+The situation is different at LOTS, according to student
+computer consultant David Chen. "We can always restore
+material here from back-up tapes," he said.
+Stating that although LOTS would be easier to access
+than University computers due to its lack of obscure
+passwords, Chen said there is no reason for excessive
+precaution at LOTS. "We have no sensitive information
+stored here," he said.
+On trying to get through ITS' security, he said, "It
+would be pretty hard."
+According to Birkhead. it is also getting harder. "As the
+operating environment gets upgraded for new features
+available to the market, so does the security surrounding
+it," she said. "We keep enhancing it (ITS security)."
+The toughness of security measures and new laws
+protecting data bases have been the results of a new tech
+nology with new demands, said District Attorney Sout
+hard.
+"Up to now. it has been a relatively unfamiliar technol
+ogy, and we are trying to establish what is right and wrong
+to establish an effective deterrent to unnacceptable be
+havior," he said.
+"There are criminal remedies available and society has
+to treat this kind of behavior as a crime when the facts are
+present," he added.
+
+Computers have been around since the late 19505. So
+have computer hackers and security forces to foil them.
+Laws to punish those who illegally access information
+stored in computers, however, are relatively new.
+In 1979, a California state law made it a felony to gain
+"unauthorized computer access" with malicious intent to
+destroy data, to attempt to defraud, or to access consumer
+credit information. Within the last two years, the law has
+been modified to include trespassers, or those who merely
+access without proper authorization regardless of their in
+tent.
+For the computer hacker, "the situation is totally differ
+ent now, said Joan Birkhead, security administrator for
+Stanford s computing facilitators, Information Technol
+ogy Services (ITS).
+"When you go around destroying data bases or stealing
+information, that's not funny, that's crime," said Santa
+Clara County District Attorney Doug Southard, founder
+of a high-technology crime task force called DATTA
+(District Attorney's Technology Theft Association).
+The possibility ot such crime turned up on the Univer
+sity of Southern California campus early last month, forc
+ing officials there to investigate allegations that fake
+transcripts were created and placed into the school's com
+puter records and that phony degrees were being sold for
+as much as $25,000. Although USC Vice Provost Sylvia
+Manning said the investigation has yet to turn up any
+evidence, the allegations raise general questions concern
+ing the vulnerability of an educational institution's
+computer-stored information.
+"We see a lot of attempts to gain the system," said
+Birkhead of ITS. "But they're like grains of sand against
+the side of a house."
+Stanford's computer system, according to Birkhead, is
+like a mansion of information that has many entrances.
+Each entrance requires fewer or more passwords or access
+codes to get through it depending on the sensitivity of the
+data behind its doors. After the necessary initial account
+identification — a single password — some information
+can be summoned and read. More sensitive information,
+such as student academic records, requires knowledge of
+access codes to get through three or more doors.
+When an unauthorized person attempts to access with
+out knowing the proper codes, the computer's security
+detects a disturbance in the system and can boot the
+
+would-be hacker. A disturbance can be felt at any level of
+access, whether an individual gets through "door one' or
+"door two."
+The security system is "a built-in means of waving Hags
+for us in cases where attention needs to be paid,"
+Birkhead said.
+She cited the case of the Homestead High School stu
+dent who reportedly recently tried to access his academic
+record, information stored in the computer banks of 11 S,
+as an example of security in action. According to
+Birkhead, the young man had somehow caught a glance ot
+the correct password, but had forgotten it. Once the com
+puter alerted ITS officials that someone was tumbling
+
+around Homestead's privileged information, the password
+was changed ahead of schedule.
+"Passwords are not static. In that case, we changed it
+immediately," Birkhead said. As a result, the student was
+caught before he was able to access the information he
+was reportedly seeking.
+I he student's glimpsing of the access code brings up the
+issue of internal breaches of trust. They are a constant n«k
+to information security, according to Stanford Registrar
+Sally Mahoney.
+"The problem of inside abuse is a general problem that
+exists with records, whether they are in manuscript or
+computers," she said. "Record systems are largely depen
+
+dent on the integrity of individuals."
+USC's Manning confirmed Mahoney's view, saying that
+more than 20 cases of grade changing occurred at the
+school as the result of university employees accepting
+money bribes from students. "There is always the chance
+that someone is corruptible," she said. According to Man
+ning, the implicated employees were quickly fired.
+" Cirkhead indicated that at Stanford, the student wan
+ting grade changes is one brand of hacker among a poten
+tial many, owing to the diverse types of information ITS
+stores here.
+"Stanford is like any business. Our computers have a lot
+of applications," she said.
+She said that Stanford the corporation, Stanford the
+educational institution, Stanford the private grant
+receiving university and Stanford the hospital all place
+information-storing demands on ITS.
+Because of the recognized responsibility that ITS faces,
+"Everyone in the University administrative community is
+interested in maintaining computer security needs at ap
+propriate levels," Birkhead said.
+The situation is different at LOTS, according to student
+computer consultant David Chen. "We can always restore
+material here from back-up tapes," he said.
+Stating that although LOTS would be easier to access
+than University computers due to its lack of obscure
+passwords, Chen said there is no reason for excessive
+precaution at LOTS. "We have no sensitive information
+stored here," he said.
+On trying to get through ITS' security, he said, "It
+would be pretty hard."
+According to Birkhead. it is also getting harder. "As the
+operating environment gets upgraded for new features
+available to the market, so does the security surrounding
+it," she said. "We keep enhancing it (ITS security)."
+The toughness of security measures and new laws
+protecting data bases have been the results of a new tech
+nology with new demands, said District Attorney Sout
+hard.
+"Up to now. it has been a relatively unfamiliar technol
+ogy, and we are trying to establish what is right and wrong
+to establish an effective deterrent to unnacceptable be
+havior," he said.
+"There are criminal remedies available and society has
+to treat this kind of behavior as a crime when the facts are
+present," he added.
+
+Computers have been around since the late 19505. So
+have computer hackers and security forces to foil them.
+Laws to punish those who illegally access information
+stored in computers, however, are relatively new.
+In 1979, a California state law made it a felony to gain
+"unauthorized computer access" with malicious intent to
+destroy data, to attempt to defraud, or to access consumer
+credit information. Within the last two years, the law has
+been modified to include trespassers, or those who merely
+access without proper authorization regardless of their in
+tent.
+For the computer hacker, "the situation is totally differ
+ent now, said Joan Birkhead, security administrator for
+Stanford s computing facilitators, Information Technol
+ogy Services (ITS).
+"When you go around destroying data bases or stealing
+information, that's not funny, that's crime," said Santa
+Clara County District Attorney Doug Southard, founder
+of a high-technology crime task force called DATTA
+(District Attorney's Technology Theft Association).
+The possibility ot such crime turned up on the Univer
+sity of Southern California campus early last month, forc
+ing officials there to investigate allegations that fake
+transcripts were created and placed into the school's com
+puter records and that phony degrees were being sold for
+as much as $25,000. Although USC Vice Provost Sylvia
+Manning said the investigation has yet to turn up any
+evidence, the allegations raise general questions concern
+ing the vulnerability of an educational institution's
+computer-stored information.
+"We see a lot of attempts to gain the system," said
+Birkhead of ITS. "But they're like grains of sand against
+the side of a house."
+Stanford's computer system, according to Birkhead, is
+like a mansion of information that has many entrances.
+Each entrance requires fewer or more passwords or access
+codes to get through it depending on the sensitivity of the
+data behind its doors. After the necessary initial account
+identification — a single password — some information
+can be summoned and read. More sensitive information,
+such as student academic records, requires knowledge of
+access codes to get through three or more doors.
+When an unauthorized person attempts to access with
+out knowing the proper codes, the computer's security
+detects a disturbance in the system and can boot the
+
+would-be hacker. A disturbance can be felt at any level of
+access, whether an individual gets through "door one' or
+"door two."
+The security system is "a built-in means of waving Hags
+for us in cases where attention needs to be paid,"
+Birkhead said.
+She cited the case of the Homestead High School stu
+dent who reportedly recently tried to access his academic
+record, information stored in the computer banks of 11 S,
+as an example of security in action. According to
+Birkhead, the young man had somehow caught a glance ot
+the correct password, but had forgotten it. Once the com
+puter alerted ITS officials that someone was tumbling
+
+around Homestead's privileged information, the password
+was changed ahead of schedule.
+"Passwords are not static. In that case, we changed it
+immediately," Birkhead said. As a result, the student was
+caught before he was able to access the information he
+was reportedly seeking.
+I he student's glimpsing of the access code brings up the
+issue of internal breaches of trust. They are a constant n«k
+to information security, according to Stanford Registrar
+Sally Mahoney.
+"The problem of inside abuse is a general problem that
+exists with records, whether they are in manuscript or
+computers," she said. "Record systems are largely depen
+
+dent on the integrity of individuals."
+USC's Manning confirmed Mahoney's view, saying that
+more than 20 cases of grade changing occurred at the
+school as the result of university employees accepting
+money bribes from students. "There is always the chance
+that someone is corruptible," she said. According to Man
+ning, the implicated employees were quickly fired.
+" Cirkhead indicated that at Stanford, the student wan
+ting grade changes is one brand of hacker among a poten
+tial many, owing to the diverse types of information ITS
+stores here.
+"Stanford is like any business. Our computers have a lot
+of applications," she said.
+She said that Stanford the corporation, Stanford the
+educational institution, Stanford the private grant
+receiving university and Stanford the hospital all place
+information-storing demands on ITS.
+Because of the recognized responsibility that ITS faces,
+"Everyone in the University administrative community is
+interested in maintaining computer security needs at ap
+propriate levels," Birkhead said.
+The situation is different at LOTS, according to student
+computer consultant David Chen. "We can always restore
+material here from back-up tapes," he said.
+Stating that although LOTS would be easier to access
+than University computers due to its lack of obscure
+passwords, Chen said there is no reason for excessive
+precaution at LOTS. "We have no sensitive information
+stored here," he said.
+On trying to get through ITS' security, he said, "It
+would be pretty hard."
+According to Birkhead. it is also getting harder. "As the
+operating environment gets upgraded for new features
+available to the market, so does the security surrounding
+it," she said. "We keep enhancing it (ITS security)."
+The toughness of security measures and new laws
+protecting data bases have been the results of a new tech
+nology with new demands, said District Attorney Sout
+hard.
+"Up to now. it has been a relatively unfamiliar technol
+ogy, and we are trying to establish what is right and wrong
+to establish an effective deterrent to unnacceptable be
+havior," he said.
+"There are criminal remedies available and society has
+to treat this kind of behavior as a crime when the facts are
+present," he added.
+
+Computers have been around since the late 19505. So
+have computer hackers and security forces to foil them.
+Laws to punish those who illegally access information
+stored in computers, however, are relatively new.
+In 1979, a California state law made it a felony to gain
+"unauthorized computer access" with malicious intent to
+destroy data, to attempt to defraud, or to access consumer
+credit information. Within the last two years, the law has
+been modified to include trespassers, or those who merely
+access without proper authorization regardless of their in
+tent.
+For the computer hacker, "the situation is totally differ
+ent now, said Joan Birkhead, security administrator for
+Stanford s computing facilitators, Information Technol
+ogy Services (ITS).
+"When you go around destroying data bases or stealing
+information, that's not funny, that's crime," said Santa
+Clara County District Attorney Doug Southard, founder
+of a high-technology crime task force called DATTA
+(District Attorney's Technology Theft Association).
+The possibility ot such crime turned up on the Univer
+sity of Southern California campus early last month, forc
+ing officials there to investigate allegations that fake
+transcripts were created and placed into the school's com
+puter records and that phony degrees were being sold for
+as much as $25,000. Although USC Vice Provost Sylvia
+Manning said the investigation has yet to turn up any
+evidence, the allegations raise general questions concern
+ing the vulnerability of an educational institution's
+computer-stored information.
+"We see a lot of attempts to gain the system," said
+Birkhead of ITS. "But they're like grains of sand against
+the side of a house."
+Stanford's computer system, according to Birkhead, is
+like a mansion of information that has many entrances.
+Each entrance requires fewer or more passwords or access
+codes to get through it depending on the sensitivity of the
+data behind its doors. After the necessary initial account
+identification — a single password — some information
+can be summoned and read. More sensitive information,
+such as student academic records, requires knowledge of
+access codes to get through three or more doors.
+When an unauthorized person attempts to access with
+out knowing the proper codes, the computer's security
+detects a disturbance in the system and can boot the
+
+would-be hacker. A disturbance can be felt at any level of
+access, whether an individual gets through "door one' or
+"door two."
+The security system is "a built-in means of waving Hags
+for us in cases where attention needs to be paid,"
+Birkhead said.
+She cited the case of the Homestead High School stu
+dent who reportedly recently tried to access his academic
+record, information stored in the computer banks of 11 S,
+as an example of security in action. According to
+Birkhead, the young man had somehow caught a glance ot
+the correct password, but had forgotten it. Once the com
+puter alerted ITS officials that someone was tumbling
+
+around Homestead's privileged information, the password
+was changed ahead of schedule.
+"Passwords are not static. In that case, we changed it
+immediately," Birkhead said. As a result, the student was
+caught before he was able to access the information he
+was reportedly seeking.
+I he student's glimpsing of the access code brings up the
+issue of internal breaches of trust. They are a constant n«k
+to information security, according to Stanford Registrar
+Sally Mahoney.
+"The problem of inside abuse is a general problem that
+exists with records, whether they are in manuscript or
+computers," she said. "Record systems are largely depen
+
+dent on the integrity of individuals."
+USC's Manning confirmed Mahoney's view, saying that
+more than 20 cases of grade changing occurred at the
+school as the result of university employees accepting
+money bribes from students. "There is always the chance
+that someone is corruptible," she said. According to Man
+ning, the implicated employees were quickly fired.
+" Cirkhead indicated that at Stanford, the student wan
+ting grade changes is one brand of hacker among a poten
+tial many, owing to the diverse types of information ITS
+stores here.
+"Stanford is like any business. Our computers have a lot
+of applications," she said.
+She said that Stanford the corporation, Stanford the
+educational institution, Stanford the private grant
+receiving university and Stanford the hospital all place
+information-storing demands on ITS.
+Because of the recognized responsibility that ITS faces,
+"Everyone in the University administrative community is
+interested in maintaining computer security needs at ap
+propriate levels," Birkhead said.
+The situation is different at LOTS, according to student
+computer consultant David Chen. "We can always restore
+material here from back-up tapes," he said.
+Stating that although LOTS would be easier to access
+than University computers due to its lack of obscure
+passwords, Chen said there is no reason for excessive
+precaution at LOTS. "We have no sensitive information
+stored here," he said.
+On trying to get through ITS' security, he said, "It
+would be pretty hard."
+According to Birkhead. it is also getting harder. "As the
+operating environment gets upgraded for new features
+available to the market, so does the security surrounding
+it," she said. "We keep enhancing it (ITS security)."
+The toughness of security measures and new laws
+protecting data bases have been the results of a new tech
+nology with new demands, said District Attorney Sout
+hard.
+"Up to now. it has been a relatively unfamiliar technol
+ogy, and we are trying to establish what is right and wrong
+to establish an effective deterrent to unnacceptable be
+havior," he said.
+"There are criminal remedies available and society has
+to treat this kind of behavior as a crime when the facts are
+present," he added.
+
+Computers have been around since the late 19505. So
+have computer hackers and security forces to foil them.
+Laws to punish those who illegally access information
+stored in computers, however, are relatively new.
+In 1979, a California state law made it a felony to gain
+"unauthorized computer access" with malicious intent to
+destroy data, to attempt to defraud, or to access consumer
+credit information. Within the last two years, the law has
+been modified to include trespassers, or those who merely
+access without proper authorization regardless of their in
+tent.
+For the computer hacker, "the situation is totally differ
+ent now, said Joan Birkhead, security administrator for
+Stanford s computing facilitators, Information Technol
+ogy Services (ITS).
+"When you go around destroying data bases or stealing
+information, that's not funny, that's crime," said Santa
+Clara County District Attorney Doug Southard, founder
+of a high-technology crime task force called DATTA
+(District Attorney's Technology Theft Association).
+The possibility ot such crime turned up on the Univer
+sity of Southern California campus early last month, forc
+ing officials there to investigate allegations that fake
+transcripts were created and placed into the school's com
+puter records and that phony degrees were being sold for
+as much as $25,000. Although USC Vice Provost Sylvia
+Manning said the investigation has yet to turn up any
+evidence, the allegations raise general questions concern
+ing the vulnerability of an educational institution's
+computer-stored information.
+"We see a lot of attempts to gain the system," said
+Birkhead of ITS. "But they're like grains of sand against
+the side of a house."
+Stanford's computer system, according to Birkhead, is
+like a mansion of information that has many entrances.
+Each entrance requires fewer or more passwords or access
+codes to get through it depending on the sensitivity of the
+data behind its doors. After the necessary initial account
+identification — a single password — some information
+can be summoned and read. More sensitive information,
+such as student academic records, requires knowledge of
+access codes to get through three or more doors.
+When an unauthorized person attempts to access with
+out knowing the proper codes, the computer's security
+detects a disturbance in the system and can boot the
+
+would-be hacker. A disturbance can be felt at any level of
+access, whether an individual gets through "door one' or
+"door two."
+The security system is "a built-in means of waving Hags
+for us in cases where attention needs to be paid,"
+Birkhead said.
+She cited the case of the Homestead High School stu
+dent who reportedly recently tried to access his academic
+record, information stored in the computer banks of 11 S,
+as an example of security in action. According to
+Birkhead, the young man had somehow caught a glance ot
+the correct password, but had forgotten it. Once the com
+puter alerted ITS officials that someone was tumbling
+
+around Homestead's privileged information, the password
+was changed ahead of schedule.
+"Passwords are not static. In that case, we changed it
+immediately," Birkhead said. As a result, the student was
+caught before he was able to access the information he
+was reportedly seeking.
+I he student's glimpsing of the access code brings up the
+issue of internal breaches of trust. They are a constant n«k
+to information security, according to Stanford Registrar
+Sally Mahoney.
+"The problem of inside abuse is a general problem that
+exists with records, whether they are in manuscript or
+computers," she said. "Record systems are largely depen
+
+dent on the integrity of individuals."
+USC's Manning confirmed Mahoney's view, saying that
+more than 20 cases of grade changing occurred at the
+school as the result of university employees accepting
+money bribes from students. "There is always the chance
+that someone is corruptible," she said. According to Man
+ning, the implicated employees were quickly fired.
+" Cirkhead indicated that at Stanford, the student wan
+ting grade changes is one brand of hacker among a poten
+tial many, owing to the diverse types of information ITS
+stores here.
+"Stanford is like any business. Our computers have a lot
+of applications," she said.
+She said that Stanford the corporation, Stanford the
+educational institution, Stanford the private grant
+receiving university and Stanford the hospital all place
+information-storing demands on ITS.
+Because of the recognized responsibility that ITS faces,
+"Everyone in the University administrative community is
+interested in maintaining computer security needs at ap
+propriate levels," Birkhead said.
+The situation is different at LOTS, according to student
+computer consultant David Chen. "We can always restore
+material here from back-up tapes," he said.
+Stating that although LOTS would be easier to access
+than University computers due to its lack of obscure
+passwords, Chen said there is no reason for excessive
+precaution at LOTS. "We have no sensitive information
+stored here," he said.
+On trying to get through ITS' security, he said, "It
+would be pretty hard."
+According to Birkhead. it is also getting harder. "As the
+operating environment gets upgraded for new features
+available to the market, so does the security surrounding
+it," she said. "We keep enhancing it (ITS security)."
+The toughness of security measures and new laws
+protecting data bases have been the results of a new tech
+nology with new demands, said District Attorney Sout
+hard.
+"Up to now. it has been a relatively unfamiliar technol
+ogy, and we are trying to establish what is right and wrong
+to establish an effective deterrent to unnacceptable be
+havior," he said.
+"There are criminal remedies available and society has
+to treat this kind of behavior as a crime when the facts are
+present," he added.
+
+Computers have been around since the late 19505. So
+have computer hackers and security forces to foil them.
+Laws to punish those who illegally access information
+stored in computers, however, are relatively new.
+In 1979, a California state law made it a felony to gain
+"unauthorized computer access" with malicious intent to
+destroy data, to attempt to defraud, or to access consumer
+credit information. Within the last two years, the law has
+been modified to include trespassers, or those who merely
+access without proper authorization regardless of their in
+tent.
+For the computer hacker, "the situation is totally differ
+ent now, said Joan Birkhead, security administrator for
+Stanford s computing facilitators, Information Technol
+ogy Services (ITS).
+"When you go around destroying data bases or stealing
+information, that's not funny, that's crime," said Santa
+Clara County District Attorney Doug Southard, founder
+of a high-technology crime task force called DATTA
+(District Attorney's Technology Theft Association).
+The possibility ot such crime turned up on the Univer
+sity of Southern California campus early last month, forc
+ing officials there to investigate allegations that fake
+transcripts were created and placed into the school's com
+puter records and that phony degrees were being sold for
+as much as $25,000. Although USC Vice Provost Sylvia
+Manning said the investigation has yet to turn up any
+evidence, the allegations raise general questions concern
+ing the vulnerability of an educational institution's
+computer-stored information.
+"We see a lot of attempts to gain the system," said
+Birkhead of ITS. "But they're like grains of sand against
+the side of a house."
+Stanford's computer system, according to Birkhead, is
+like a mansion of information that has many entrances.
+Each entrance requires fewer or more passwords or access
+codes to get through it depending on the sensitivity of the
+data behind its doors. After the necessary initial account
+identification — a single password — some information
+can be summoned and read. More sensitive information,
+such as student academic records, requires knowledge of
+access codes to get through three or more doors.
+When an unauthorized person attempts to access with
+out knowing the proper codes, the computer's security
+detects a disturbance in the system and can boot the
+
+would-be hacker. A disturbance can be felt at any level of
+access, whether an individual gets through "door one' or
+"door two."
+The security system is "a built-in means of waving Hags
+for us in cases where attention needs to be paid,"
+Birkhead said.
+She cited the case of the Homestead High School stu
+dent who reportedly recently tried to access his academic
+record, information stored in the computer banks of 11 S,
+as an example of security in action. According to
+Birkhead, the young man had somehow caught a glance ot
+the correct password, but had forgotten it. Once the com
+puter alerted ITS officials that someone was tumbling
+
+around Homestead's privileged information, the password
+was changed ahead of schedule.
+"Passwords are not static. In that case, we changed it
+immediately," Birkhead said. As a result, the student was
+caught before he was able to access the information he
+was reportedly seeking.
+I he student's glimpsing of the access code brings up the
+issue of internal breaches of trust. They are a constant n«k
+to information security, according to Stanford Registrar
+Sally Mahoney.
+"The problem of inside abuse is a general problem that
+exists with records, whether they are in manuscript or
+computers," she said. "Record systems are largely depen
+
+dent on the integrity of individuals."
+USC's Manning confirmed Mahoney's view, saying that
+more than 20 cases of grade changing occurred at the
+school as the result of university employees accepting
+money bribes from students. "There is always the chance
+that someone is corruptible," she said. According to Man
+ning, the implicated employees were quickly fired.
+" Cirkhead indicated that at Stanford, the student wan
+ting grade changes is one brand of hacker among a poten
+tial many, owing to the diverse types of information ITS
+stores here.
+"Stanford is like any business. Our computers have a lot
+of applications," she said.
+She said that Stanford the corporation, Stanford the
+educational institution, Stanford the private grant
+receiving university and Stanford the hospital all place
+information-storing demands on ITS.
+Because of the recognized responsibility that ITS faces,
+"Everyone in the University administrative community is
+interested in maintaining computer security needs at ap
+propriate levels," Birkhead said.
+The situation is different at LOTS, according to student
+computer consultant David Chen. "We can always restore
+material here from back-up tapes," he said.
+Stating that although LOTS would be easier to access
+than University computers due to its lack of obscure
+passwords, Chen said there is no reason for excessive
+precaution at LOTS. "We have no sensitive information
+stored here," he said.
+On trying to get through ITS' security, he said, "It
+would be pretty hard."
+According to Birkhead. it is also getting harder. "As the
+operating environment gets upgraded for new features
+available to the market, so does the security surrounding
+it," she said. "We keep enhancing it (ITS security)."
+The toughness of security measures and new laws
+protecting data bases have been the results of a new tech
+nology with new demands, said District Attorney Sout
+hard.
+"Up to now. it has been a relatively unfamiliar technol
+ogy, and we are trying to establish what is right and wrong
+to establish an effective deterrent to unnacceptable be
+havior," he said.
+"There are criminal remedies available and society has
+to treat this kind of behavior as a crime when the facts are
+present," he added.
+

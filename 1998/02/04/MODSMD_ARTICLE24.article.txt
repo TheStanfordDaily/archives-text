@@ -1,0 +1,733 @@
+# Surgery without scalpels:
+## Robots destroy brain tumors 
+### Saurabh Prakash Editorial staff 
+Researchers from the Computer
+Science Department working in
+collaboration with the Department
+of Neurosurgery may make certain
+surgical procedures as painless and
+unintimidating as a dental checkup.
+The robotic system devised hy
+these scientists uses precisely tar
+geted beams of radiation to destroy
+brain tumors without drawing a
+single drop of blood.
+In this type of treatment, a
+patient wearing street clothes
+walks into a surgical arena contain
+ing only a large robotic arm con
+trolled by a real-time imaging sys
+tem. After surgeons secure the
+patient on a bed, the robot spends
+a few minutes performing the
+surgery. The patient is then free to
+go home.
+The team that designed the
+robotic system included Assoc.
+Neurosurgery Prof. John Adler
+and Computer Science Prof. Jean-
+Claude Latombe. A former doctor
+al student in Latombe's lab, Rhea
+Tombropolous, and one of
+Latombe's former research associ
+ates, Achim Schweikard, were also
+vital to this project.
+Like other radiotherapy
+machines, the robot employs radia
+tion to destroy tumors. It sequen
+tially emits beams of radiation at
+the cancerous growth from several
+different directions. Each beam is
+individually weak, but their inter
+section gives the tissue a lethal
+dose of radiation.
+Conventional radiotherapy
+machines use a similar process to
+destroy tumors. But while the
+robot developed at Stanford can
+
+aim a radiation beam from hun
+dreds of angles, conventional
+machines can irradiate only while
+traveling along an arc-shaped path
+circumscribing the patient's head.
+Surgeons using conventional
+radiotherapy devices also have to
+screw the patient's head to a frame
+to prevent the slightest shift in cra
+nial position: such a shilt would
+deliver a lethal dose of radiation to
+healthy brain tissue.
+Because of these and other limi-
+
+tations, conventional radiotherapy
+devices are useful only for treating
+certain sphericallv-shaped brain
+tumors. They cannot target irregu
+larlv shaped malignancies without
+severely damaging adjacent
+healthy tissue.
+Consequently, surgery is the
+onlv viable treatment for mam
+
+patients with brain tumors. Like all
+surgical procedures, these invasive
+operations require lengths hospital
+stays and can be painful, expensive
+and risky.
+Ihe robot developed b\
+Latombe and Adler incorporates
+several technologies which over
+come the limitations ot convention
+al radiosurgery devices and permit
+selective irradiation ol often irreg
+ularly-shaped brain tumors.
+To identifv the location of the
+
+tumor, surgeons t.ike a three
+dimensional computer-aided
+tomographs scan or magnetic reso
+nance imaging of the patient's cra
+nium. After devising a plan ot
+treatment, surgeons feed the data
+into a computer which controls the
+robot's movements.
+I he robot's arm can aim a beam
+
+of radiation at the tumor from hun
+dreds of different angles Software
+developed bv Latombe's research
+group instructs the robotic arm to
+deliver radiation in sueh a wav that
+the tumor gets the high dose.
+Even irregularly shaped tumors
+ranging in diameter from approxi
+mately live to Nl millimeters can be
+targeted by the robot.
+I nlike conventional radiothera
+py machines, a non-intrusive
+restraint lightlv holds the patient's
+head in place during treatment.
+Two X-rays cameras located
+orthogonal to each other monitor
+the patient's head for shifts in posi
+tion Every half second, these X
+ray cameras relay a pair ol images
+to the computer controlling the
+robotic arm's movements.
+Software designed by Latombe
+compares the pictures generated
+bv the X-ray cameras to a previ
+ously generated MKI or ( ATscan.
+With submillimeter accuracy, the
+computer adjusts the path of the
+radiation beam to compensate for
+patient movement.
+Though the new system is still
+waiting for approval bv the Fixkl
+and Drug Administration, clinical
+trials at the Stanford Medical Cen
+ter and elsewhere have shown that
+the robot performs as well, if not
+better, than intrusive surgery.
+Some inoperable tumors
+those which cannot be removed
+surgically without risking irrepara
+ble and severe damage to the sur
+rounding tissue — can be
+destroyed with the robot.
+The Stanford researchers are
+hopeful that with FDA approval,
+neurosurgeons will use their robot
+to treat tumors throughout the ner
+vous system.
+
+
+Courtesy of Jean-Claude latombe
+Radiation beams aimed from different directions intersect at a brain
+tumor, delivering a lethal dosage of radiation to the cancerous tis
+sue.
+Researchers from the Computer
+Science Department working in
+collaboration with the Department
+of Neurosurgery may make certain
+surgical procedures as painless and
+unintimidating as a dental checkup.
+The robotic system devised hy
+these scientists uses precisely tar
+geted beams of radiation to destroy
+brain tumors without drawing a
+single drop of blood.
+In this type of treatment, a
+patient wearing street clothes
+walks into a surgical arena contain
+ing only a large robotic arm con
+trolled by a real-time imaging sys
+tem. After surgeons secure the
+patient on a bed, the robot spends
+a few minutes performing the
+surgery. The patient is then free to
+go home.
+The team that designed the
+robotic system included Assoc.
+Neurosurgery Prof. John Adler
+and Computer Science Prof. Jean-
+Claude Latombe. A former doctor
+al student in Latombe's lab, Rhea
+Tombropolous, and one of
+Latombe's former research associ
+ates, Achim Schweikard, were also
+vital to this project.
+Like other radiotherapy
+machines, the robot employs radia
+tion to destroy tumors. It sequen
+tially emits beams of radiation at
+the cancerous growth from several
+different directions. Each beam is
+individually weak, but their inter
+section gives the tissue a lethal
+dose of radiation.
+Conventional radiotherapy
+machines use a similar process to
+destroy tumors. But while the
+robot developed at Stanford can
+
+aim a radiation beam from hun
+dreds of angles, conventional
+machines can irradiate only while
+traveling along an arc-shaped path
+circumscribing the patient's head.
+Surgeons using conventional
+radiotherapy devices also have to
+screw the patient's head to a frame
+to prevent the slightest shift in cra
+nial position: such a shilt would
+deliver a lethal dose of radiation to
+healthy brain tissue.
+Because of these and other limi-
+
+tations, conventional radiotherapy
+devices are useful only for treating
+certain sphericallv-shaped brain
+tumors. They cannot target irregu
+larlv shaped malignancies without
+severely damaging adjacent
+healthy tissue.
+Consequently, surgery is the
+onlv viable treatment for mam
+
+patients with brain tumors. Like all
+surgical procedures, these invasive
+operations require lengths hospital
+stays and can be painful, expensive
+and risky.
+Ihe robot developed b\
+Latombe and Adler incorporates
+several technologies which over
+come the limitations ot convention
+al radiosurgery devices and permit
+selective irradiation ol often irreg
+ularly-shaped brain tumors.
+To identifv the location of the
+
+tumor, surgeons t.ike a three
+dimensional computer-aided
+tomographs scan or magnetic reso
+nance imaging of the patient's cra
+nium. After devising a plan ot
+treatment, surgeons feed the data
+into a computer which controls the
+robot's movements.
+I he robot's arm can aim a beam
+
+of radiation at the tumor from hun
+dreds of different angles Software
+developed bv Latombe's research
+group instructs the robotic arm to
+deliver radiation in sueh a wav that
+the tumor gets the high dose.
+Even irregularly shaped tumors
+ranging in diameter from approxi
+mately live to Nl millimeters can be
+targeted by the robot.
+I nlike conventional radiothera
+py machines, a non-intrusive
+restraint lightlv holds the patient's
+head in place during treatment.
+Two X-rays cameras located
+orthogonal to each other monitor
+the patient's head for shifts in posi
+tion Every half second, these X
+ray cameras relay a pair ol images
+to the computer controlling the
+robotic arm's movements.
+Software designed by Latombe
+compares the pictures generated
+bv the X-ray cameras to a previ
+ously generated MKI or ( ATscan.
+With submillimeter accuracy, the
+computer adjusts the path of the
+radiation beam to compensate for
+patient movement.
+Though the new system is still
+waiting for approval bv the Fixkl
+and Drug Administration, clinical
+trials at the Stanford Medical Cen
+ter and elsewhere have shown that
+the robot performs as well, if not
+better, than intrusive surgery.
+Some inoperable tumors
+those which cannot be removed
+surgically without risking irrepara
+ble and severe damage to the sur
+rounding tissue — can be
+destroyed with the robot.
+The Stanford researchers are
+hopeful that with FDA approval,
+neurosurgeons will use their robot
+to treat tumors throughout the ner
+vous system.
+
+
+Courtesy of Jean-Claude latombe
+Radiation beams aimed from different directions intersect at a brain
+tumor, delivering a lethal dosage of radiation to the cancerous tis
+sue.
+Researchers from the Computer
+Science Department working in
+collaboration with the Department
+of Neurosurgery may make certain
+surgical procedures as painless and
+unintimidating as a dental checkup.
+The robotic system devised hy
+these scientists uses precisely tar
+geted beams of radiation to destroy
+brain tumors without drawing a
+single drop of blood.
+In this type of treatment, a
+patient wearing street clothes
+walks into a surgical arena contain
+ing only a large robotic arm con
+trolled by a real-time imaging sys
+tem. After surgeons secure the
+patient on a bed, the robot spends
+a few minutes performing the
+surgery. The patient is then free to
+go home.
+The team that designed the
+robotic system included Assoc.
+Neurosurgery Prof. John Adler
+and Computer Science Prof. Jean-
+Claude Latombe. A former doctor
+al student in Latombe's lab, Rhea
+Tombropolous, and one of
+Latombe's former research associ
+ates, Achim Schweikard, were also
+vital to this project.
+Like other radiotherapy
+machines, the robot employs radia
+tion to destroy tumors. It sequen
+tially emits beams of radiation at
+the cancerous growth from several
+different directions. Each beam is
+individually weak, but their inter
+section gives the tissue a lethal
+dose of radiation.
+Conventional radiotherapy
+machines use a similar process to
+destroy tumors. But while the
+robot developed at Stanford can
+
+aim a radiation beam from hun
+dreds of angles, conventional
+machines can irradiate only while
+traveling along an arc-shaped path
+circumscribing the patient's head.
+Surgeons using conventional
+radiotherapy devices also have to
+screw the patient's head to a frame
+to prevent the slightest shift in cra
+nial position: such a shilt would
+deliver a lethal dose of radiation to
+healthy brain tissue.
+Because of these and other limi-
+
+tations, conventional radiotherapy
+devices are useful only for treating
+certain sphericallv-shaped brain
+tumors. They cannot target irregu
+larlv shaped malignancies without
+severely damaging adjacent
+healthy tissue.
+Consequently, surgery is the
+onlv viable treatment for mam
+
+patients with brain tumors. Like all
+surgical procedures, these invasive
+operations require lengths hospital
+stays and can be painful, expensive
+and risky.
+Ihe robot developed b\
+Latombe and Adler incorporates
+several technologies which over
+come the limitations ot convention
+al radiosurgery devices and permit
+selective irradiation ol often irreg
+ularly-shaped brain tumors.
+To identifv the location of the
+
+tumor, surgeons t.ike a three
+dimensional computer-aided
+tomographs scan or magnetic reso
+nance imaging of the patient's cra
+nium. After devising a plan ot
+treatment, surgeons feed the data
+into a computer which controls the
+robot's movements.
+I he robot's arm can aim a beam
+
+of radiation at the tumor from hun
+dreds of different angles Software
+developed bv Latombe's research
+group instructs the robotic arm to
+deliver radiation in sueh a wav that
+the tumor gets the high dose.
+Even irregularly shaped tumors
+ranging in diameter from approxi
+mately live to Nl millimeters can be
+targeted by the robot.
+I nlike conventional radiothera
+py machines, a non-intrusive
+restraint lightlv holds the patient's
+head in place during treatment.
+Two X-rays cameras located
+orthogonal to each other monitor
+the patient's head for shifts in posi
+tion Every half second, these X
+ray cameras relay a pair ol images
+to the computer controlling the
+robotic arm's movements.
+Software designed by Latombe
+compares the pictures generated
+bv the X-ray cameras to a previ
+ously generated MKI or ( ATscan.
+With submillimeter accuracy, the
+computer adjusts the path of the
+radiation beam to compensate for
+patient movement.
+Though the new system is still
+waiting for approval bv the Fixkl
+and Drug Administration, clinical
+trials at the Stanford Medical Cen
+ter and elsewhere have shown that
+the robot performs as well, if not
+better, than intrusive surgery.
+Some inoperable tumors
+those which cannot be removed
+surgically without risking irrepara
+ble and severe damage to the sur
+rounding tissue — can be
+destroyed with the robot.
+The Stanford researchers are
+hopeful that with FDA approval,
+neurosurgeons will use their robot
+to treat tumors throughout the ner
+vous system.
+
+
+Courtesy of Jean-Claude latombe
+Radiation beams aimed from different directions intersect at a brain
+tumor, delivering a lethal dosage of radiation to the cancerous tis
+sue.
+Researchers from the Computer
+Science Department working in
+collaboration with the Department
+of Neurosurgery may make certain
+surgical procedures as painless and
+unintimidating as a dental checkup.
+The robotic system devised hy
+these scientists uses precisely tar
+geted beams of radiation to destroy
+brain tumors without drawing a
+single drop of blood.
+In this type of treatment, a
+patient wearing street clothes
+walks into a surgical arena contain
+ing only a large robotic arm con
+trolled by a real-time imaging sys
+tem. After surgeons secure the
+patient on a bed, the robot spends
+a few minutes performing the
+surgery. The patient is then free to
+go home.
+The team that designed the
+robotic system included Assoc.
+Neurosurgery Prof. John Adler
+and Computer Science Prof. Jean-
+Claude Latombe. A former doctor
+al student in Latombe's lab, Rhea
+Tombropolous, and one of
+Latombe's former research associ
+ates, Achim Schweikard, were also
+vital to this project.
+Like other radiotherapy
+machines, the robot employs radia
+tion to destroy tumors. It sequen
+tially emits beams of radiation at
+the cancerous growth from several
+different directions. Each beam is
+individually weak, but their inter
+section gives the tissue a lethal
+dose of radiation.
+Conventional radiotherapy
+machines use a similar process to
+destroy tumors. But while the
+robot developed at Stanford can
+
+aim a radiation beam from hun
+dreds of angles, conventional
+machines can irradiate only while
+traveling along an arc-shaped path
+circumscribing the patient's head.
+Surgeons using conventional
+radiotherapy devices also have to
+screw the patient's head to a frame
+to prevent the slightest shift in cra
+nial position: such a shilt would
+deliver a lethal dose of radiation to
+healthy brain tissue.
+Because of these and other limi-
+
+tations, conventional radiotherapy
+devices are useful only for treating
+certain sphericallv-shaped brain
+tumors. They cannot target irregu
+larlv shaped malignancies without
+severely damaging adjacent
+healthy tissue.
+Consequently, surgery is the
+onlv viable treatment for mam
+
+patients with brain tumors. Like all
+surgical procedures, these invasive
+operations require lengths hospital
+stays and can be painful, expensive
+and risky.
+Ihe robot developed b\
+Latombe and Adler incorporates
+several technologies which over
+come the limitations ot convention
+al radiosurgery devices and permit
+selective irradiation ol often irreg
+ularly-shaped brain tumors.
+To identifv the location of the
+
+tumor, surgeons t.ike a three
+dimensional computer-aided
+tomographs scan or magnetic reso
+nance imaging of the patient's cra
+nium. After devising a plan ot
+treatment, surgeons feed the data
+into a computer which controls the
+robot's movements.
+I he robot's arm can aim a beam
+
+of radiation at the tumor from hun
+dreds of different angles Software
+developed bv Latombe's research
+group instructs the robotic arm to
+deliver radiation in sueh a wav that
+the tumor gets the high dose.
+Even irregularly shaped tumors
+ranging in diameter from approxi
+mately live to Nl millimeters can be
+targeted by the robot.
+I nlike conventional radiothera
+py machines, a non-intrusive
+restraint lightlv holds the patient's
+head in place during treatment.
+Two X-rays cameras located
+orthogonal to each other monitor
+the patient's head for shifts in posi
+tion Every half second, these X
+ray cameras relay a pair ol images
+to the computer controlling the
+robotic arm's movements.
+Software designed by Latombe
+compares the pictures generated
+bv the X-ray cameras to a previ
+ously generated MKI or ( ATscan.
+With submillimeter accuracy, the
+computer adjusts the path of the
+radiation beam to compensate for
+patient movement.
+Though the new system is still
+waiting for approval bv the Fixkl
+and Drug Administration, clinical
+trials at the Stanford Medical Cen
+ter and elsewhere have shown that
+the robot performs as well, if not
+better, than intrusive surgery.
+Some inoperable tumors
+those which cannot be removed
+surgically without risking irrepara
+ble and severe damage to the sur
+rounding tissue — can be
+destroyed with the robot.
+The Stanford researchers are
+hopeful that with FDA approval,
+neurosurgeons will use their robot
+to treat tumors throughout the ner
+vous system.
+
+
+Courtesy of Jean-Claude latombe
+Radiation beams aimed from different directions intersect at a brain
+tumor, delivering a lethal dosage of radiation to the cancerous tis
+sue.
+Researchers from the Computer
+Science Department working in
+collaboration with the Department
+of Neurosurgery may make certain
+surgical procedures as painless and
+unintimidating as a dental checkup.
+The robotic system devised hy
+these scientists uses precisely tar
+geted beams of radiation to destroy
+brain tumors without drawing a
+single drop of blood.
+In this type of treatment, a
+patient wearing street clothes
+walks into a surgical arena contain
+ing only a large robotic arm con
+trolled by a real-time imaging sys
+tem. After surgeons secure the
+patient on a bed, the robot spends
+a few minutes performing the
+surgery. The patient is then free to
+go home.
+The team that designed the
+robotic system included Assoc.
+Neurosurgery Prof. John Adler
+and Computer Science Prof. Jean-
+Claude Latombe. A former doctor
+al student in Latombe's lab, Rhea
+Tombropolous, and one of
+Latombe's former research associ
+ates, Achim Schweikard, were also
+vital to this project.
+Like other radiotherapy
+machines, the robot employs radia
+tion to destroy tumors. It sequen
+tially emits beams of radiation at
+the cancerous growth from several
+different directions. Each beam is
+individually weak, but their inter
+section gives the tissue a lethal
+dose of radiation.
+Conventional radiotherapy
+machines use a similar process to
+destroy tumors. But while the
+robot developed at Stanford can
+
+aim a radiation beam from hun
+dreds of angles, conventional
+machines can irradiate only while
+traveling along an arc-shaped path
+circumscribing the patient's head.
+Surgeons using conventional
+radiotherapy devices also have to
+screw the patient's head to a frame
+to prevent the slightest shift in cra
+nial position: such a shilt would
+deliver a lethal dose of radiation to
+healthy brain tissue.
+Because of these and other limi-
+
+tations, conventional radiotherapy
+devices are useful only for treating
+certain sphericallv-shaped brain
+tumors. They cannot target irregu
+larlv shaped malignancies without
+severely damaging adjacent
+healthy tissue.
+Consequently, surgery is the
+onlv viable treatment for mam
+
+patients with brain tumors. Like all
+surgical procedures, these invasive
+operations require lengths hospital
+stays and can be painful, expensive
+and risky.
+Ihe robot developed b\
+Latombe and Adler incorporates
+several technologies which over
+come the limitations ot convention
+al radiosurgery devices and permit
+selective irradiation ol often irreg
+ularly-shaped brain tumors.
+To identifv the location of the
+
+tumor, surgeons t.ike a three
+dimensional computer-aided
+tomographs scan or magnetic reso
+nance imaging of the patient's cra
+nium. After devising a plan ot
+treatment, surgeons feed the data
+into a computer which controls the
+robot's movements.
+I he robot's arm can aim a beam
+
+of radiation at the tumor from hun
+dreds of different angles Software
+developed bv Latombe's research
+group instructs the robotic arm to
+deliver radiation in sueh a wav that
+the tumor gets the high dose.
+Even irregularly shaped tumors
+ranging in diameter from approxi
+mately live to Nl millimeters can be
+targeted by the robot.
+I nlike conventional radiothera
+py machines, a non-intrusive
+restraint lightlv holds the patient's
+head in place during treatment.
+Two X-rays cameras located
+orthogonal to each other monitor
+the patient's head for shifts in posi
+tion Every half second, these X
+ray cameras relay a pair ol images
+to the computer controlling the
+robotic arm's movements.
+Software designed by Latombe
+compares the pictures generated
+bv the X-ray cameras to a previ
+ously generated MKI or ( ATscan.
+With submillimeter accuracy, the
+computer adjusts the path of the
+radiation beam to compensate for
+patient movement.
+Though the new system is still
+waiting for approval bv the Fixkl
+and Drug Administration, clinical
+trials at the Stanford Medical Cen
+ter and elsewhere have shown that
+the robot performs as well, if not
+better, than intrusive surgery.
+Some inoperable tumors
+those which cannot be removed
+surgically without risking irrepara
+ble and severe damage to the sur
+rounding tissue — can be
+destroyed with the robot.
+The Stanford researchers are
+hopeful that with FDA approval,
+neurosurgeons will use their robot
+to treat tumors throughout the ner
+vous system.
+
+
+Courtesy of Jean-Claude latombe
+Radiation beams aimed from different directions intersect at a brain
+tumor, delivering a lethal dosage of radiation to the cancerous tis
+sue.

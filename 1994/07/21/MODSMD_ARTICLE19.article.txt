@@ -1,0 +1,1893 @@
+# Managing the Risks of Nature
+## Stanford faculty and graduates push the limits of natural disaster research and preparedness 
+### Patricia Henley 
+Chris Austin loans forward in his
+chair, happily intent upon the
+computer he is using for a disas
+ter simulation. He clicks the cursor
+on the symbol of a lightning bolt,
+and selects "earthquake" from the
+menu that appears. His gaze never
+leaves the screen as he clicks on yet
+another symbol, a small world
+globe.
+Austin, a civil engineer at Menlo
+Park's Risk Management Solutions
+(RMS), Inc. plays with computer
+simulations to predict insurance
+losses. He currently works with
+earthquakes and hurricanes, but the
+company hopes to expand to include
+tornadoes, hail, floods and rain —
+any disaster covered by the nation's
+insurance industry. Striving to be
+come the masters of disasters,
+Austin and his co-workers tire cheer
+ful about natural catastrophes.
+"I'm not saying we want them to
+occur," says Austin, "but if they hap
+pen, it's exciting. Everyone wants to
+go be a snoop, to see what happened
+to all the buildings and what's stand
+ing and what's not and why."
+Austin is not ghoulish, just im
+mersed in his job at RMS. The com
+pany started in 1988 as an out
+growth of research done at Stan
+ford's Blume Engineering Center.
+Austin, a 1993 Stanford graduate,
+estimates that 75 percent of the
+company's 120 employees are from
+Stanford. Haresh Shah, chair of the
+Civil Engineering Department, is
+on the board of directors at RMS.
+Both Austin and Shah are en
+thusiastic about the use of comput
+ers to predict earthquake damages,
+although the disasters displayed on
+their glowing screens can be grim.
+According to Shah, a modern, day
+time repetition of the 1906 San
+Francisco earthquake would cause
+damages from $100 billion to $180
+billion.
+A Tokyo earthquake measuring
+7.8 on the Richter scale, occurring
+
+at 4 p.m. on a dry, windy day, would
+cost $1.5 trillion to $2 trillion in
+damages. In comparison, the
+Northridge earthquake in January
+was the most expensive in United
+States history, Shah said, with $20
+billion to $30 billion in damages.
+Fast-growing populations in
+earthquake areas plus inadequate
+building techniques have increased
+the potential for disaster, says
+Shah. Now, computers allow insur
+ance companies to pinpoint high
+risk areas and poor building con
+struction, telling them where to
+raise rates. Shah suggests that the
+high cost of insurance may be the
+"carrot and stick" that force the use
+of earthquake-minimizing con
+struction techniques.
+Quake damage is minimized by
+using flexible materials such as
+wood and steel rather than unstable
+brick, masonry or concrete. Con
+nections — where the foundation is
+bolted to the frame or where walls
+and roof meet — should be strong
+enough to withstand violent jolts.
+And "soft story" construction — in
+which the bottom floor of a multi
+story building is supported on
+columns — require reinforcing
+walls.
+If owners cannot insure a piece of
+property, says Shah, they will up
+grade the construction. He predict
+ed a 20-year cycle for insurance
+companies to affect the standards of
+builders, engineers and architects.
+"If I'm an architect and you're
+an engineer on a project, and our
+property can not be insured, then
+next time the owners will not come
+to us," Shah said. "They will say,
+'you're a bunch of bozos who do not
+know how to build. It takes a long
+time for this cycle to be complete,
+but it is a very good way for long
+term protection from earth
+quakes."
+Without this spur from insur
+ance companies, Shah believes eco-
+
+nomic pressure will continue to pre
+vent the use of earthquake-mini
+mizing techniques on new buildings
+and updates of existing structures.
+The technological advances from 50
+years of earthquake research can
+not solve the problem alone.
+"It's not practical," says Shah.
+"There isn't enough money,
+enough resources, enough will to
+implement the current knowledge.
+So with all the wonderful things
+that are going on around the world,
+it's terrible to see that every earth
+quake brings more death and more
+economic losses."
+To predict these losses, RMS pro
+duces the Investment Risk Assess
+ment System, a computer program
+which analyzes information from
+several databases. Austin is enthu
+siastic about the capabilities of
+IRAS.
+"The overall idea is to help insur
+ance companies estimate what their
+losses could be. I think they use it
+mostly to price and to figure out
+how much money they should save
+so that when a big earthquake
+comes they can afford to pay it and
+not go bankrupt."
+Fear of bankruptcy has led the
+five largest insurance companies in
+California to stop issuing new
+homeowners' policies. The Los An
+geles Times reported on July 6 that
+rebuilding after the Northridge
+earthquake will cost more than in
+surance companies had originally
+estimated.
+Besides predicting possible costs,
+IRAS is a useful tool alter a disaster
+occurs says Austin. An insurance
+company can quickly determine
+where to send claims adjusters —
+even before the policyholders can
+call.
+Increased efficiency is possible
+because the IRAS software is based
+on what is known as a geographic
+information system. Using the rela
+tively new GIS technology, complex
+
+maps and data can be combined in
+layers of interactive information.
+"If you had two maps that had
+land, and one had land use and one
+had land price, you could merge
+them together and come out with a
+database that had both the use and
+the price," Austin said. "Before, you
+couldn't do that."
+During a demonstration, Austin
+showed how the IRAS system
+works. After receiving an address,
+IRAS uses GIS data to determine
+latitude and longitude, nearness to
+known earthquake faults, struc
+tures in the area, and soil conditions.
+Next, the program asks a series of
+questions about the property.
+"These are all yes/no, highymedi
+um/low type answers," Austin ex
+plained. "We try to keep it simple for
+the insurance person using it."
+With the data entered, IRAS can
+then earthquake simulations, from
+which a list ranking the probabili
+ties and costs of possible losses can
+be generated.
+"The worst case is 8.3 on the San
+Andreas," Austin said cheerfully.
+"Your house is four miles from the
+fault. They expect an 8.3 on the San
+Andreas every 750 years or so.
+When that happens, 12 percent, 13
+percent of your building is going to
+be destroyed."
+Properties can be entered one at a
+time, or a large database can be
+dumped into the system and evalu
+ated. IRAS is used by insurance
+companies, re-insurance companies
+(who write policies covering large
+losses by insurance companies), and
+mortgage brokers. These clients
+lease the program from RMS. A one
+year lease for a single computer
+costs approximately $35,000.
+Currently, few have access to
+IRAS, but mortgage companies
+have proposed making the system
+part of the loan process. Planning is
+tentative, but RMS stafT hope that
+within a vear, home buvers will be
+
+able to use IRAS to check potential
+homes. And when that happens,
+Austin believes that easily available
+information about soil conditions
+and earthquake risks may have
+some affect on resale values as well
+as insurance costs.
+RMS is one of three companies
+that have adapted the highly com
+plex GIS technology to the insur
+ance industry. EQE International,
+Inc., of San Francisco and Applied
+Insurance Research, Inc., of Boston
+also produce software to calculate
+disaster probabilities.
+The ability to predict damages
+from a quake is of particular impor
+tance to everyone at Stanford, Shah
+said, because of the University's
+unique location.
+"Our campus has the distinction
+of having one of the most active
+faults on this planet," explains
+Shah, referring to the San Andreas
+fault. "As a matter of fact, we al
+ways kid with our friends at Berke
+ley. They also have a fault which
+crosses their stadium, but their
+fault is a lot smaller than ours."
+All joking aside, Shah cites a re
+cent prediction of a 90 percent
+chance of a major Bay Area quake
+within the next 30 years. If such a
+quake does occur, it will have a dev
+astating effect on the heavily popu
+lated areas surrounding campus.
+This is where the IRAS program
+may have a positive, long-term ef
+fect.
+And while, use of IRAS and simi
+lar programs will probably increase
+insurance premiums, in the long
+run, Shah feels that, it will also help
+to improve building practices over
+time.
+Hence, Austin's work with com
+puters at RMS might indirectly de
+crease earthquake damages. What
+ever the outcome, Austin enjoys the
+challenge of his unique job.
+"It's different," he said. "There's
+not a
+
+
+\a/ _ M . I • . « • «» Joshua Polk — Daily
+Well on their way to becoming masters of disaster," Stanford graduate Chris Austin and civil engineer
+ing professor Haresh Shah are certain that computer research is one of the most effective ways to studv
+the possible after effects of natural disasters like earthquakes.
+Chris Austin loans forward in his
+chair, happily intent upon the
+computer he is using for a disas
+ter simulation. He clicks the cursor
+on the symbol of a lightning bolt,
+and selects "earthquake" from the
+menu that appears. His gaze never
+leaves the screen as he clicks on yet
+another symbol, a small world
+globe.
+Austin, a civil engineer at Menlo
+Park's Risk Management Solutions
+(RMS), Inc. plays with computer
+simulations to predict insurance
+losses. He currently works with
+earthquakes and hurricanes, but the
+company hopes to expand to include
+tornadoes, hail, floods and rain —
+any disaster covered by the nation's
+insurance industry. Striving to be
+come the masters of disasters,
+Austin and his co-workers tire cheer
+ful about natural catastrophes.
+"I'm not saying we want them to
+occur," says Austin, "but if they hap
+pen, it's exciting. Everyone wants to
+go be a snoop, to see what happened
+to all the buildings and what's stand
+ing and what's not and why."
+Austin is not ghoulish, just im
+mersed in his job at RMS. The com
+pany started in 1988 as an out
+growth of research done at Stan
+ford's Blume Engineering Center.
+Austin, a 1993 Stanford graduate,
+estimates that 75 percent of the
+company's 120 employees are from
+Stanford. Haresh Shah, chair of the
+Civil Engineering Department, is
+on the board of directors at RMS.
+Both Austin and Shah are en
+thusiastic about the use of comput
+ers to predict earthquake damages,
+although the disasters displayed on
+their glowing screens can be grim.
+According to Shah, a modern, day
+time repetition of the 1906 San
+Francisco earthquake would cause
+damages from $100 billion to $180
+billion.
+A Tokyo earthquake measuring
+7.8 on the Richter scale, occurring
+
+at 4 p.m. on a dry, windy day, would
+cost $1.5 trillion to $2 trillion in
+damages. In comparison, the
+Northridge earthquake in January
+was the most expensive in United
+States history, Shah said, with $20
+billion to $30 billion in damages.
+Fast-growing populations in
+earthquake areas plus inadequate
+building techniques have increased
+the potential for disaster, says
+Shah. Now, computers allow insur
+ance companies to pinpoint high
+risk areas and poor building con
+struction, telling them where to
+raise rates. Shah suggests that the
+high cost of insurance may be the
+"carrot and stick" that force the use
+of earthquake-minimizing con
+struction techniques.
+Quake damage is minimized by
+using flexible materials such as
+wood and steel rather than unstable
+brick, masonry or concrete. Con
+nections — where the foundation is
+bolted to the frame or where walls
+and roof meet — should be strong
+enough to withstand violent jolts.
+And "soft story" construction — in
+which the bottom floor of a multi
+story building is supported on
+columns — require reinforcing
+walls.
+If owners cannot insure a piece of
+property, says Shah, they will up
+grade the construction. He predict
+ed a 20-year cycle for insurance
+companies to affect the standards of
+builders, engineers and architects.
+"If I'm an architect and you're
+an engineer on a project, and our
+property can not be insured, then
+next time the owners will not come
+to us," Shah said. "They will say,
+'you're a bunch of bozos who do not
+know how to build. It takes a long
+time for this cycle to be complete,
+but it is a very good way for long
+term protection from earth
+quakes."
+Without this spur from insur
+ance companies, Shah believes eco-
+
+nomic pressure will continue to pre
+vent the use of earthquake-mini
+mizing techniques on new buildings
+and updates of existing structures.
+The technological advances from 50
+years of earthquake research can
+not solve the problem alone.
+"It's not practical," says Shah.
+"There isn't enough money,
+enough resources, enough will to
+implement the current knowledge.
+So with all the wonderful things
+that are going on around the world,
+it's terrible to see that every earth
+quake brings more death and more
+economic losses."
+To predict these losses, RMS pro
+duces the Investment Risk Assess
+ment System, a computer program
+which analyzes information from
+several databases. Austin is enthu
+siastic about the capabilities of
+IRAS.
+"The overall idea is to help insur
+ance companies estimate what their
+losses could be. I think they use it
+mostly to price and to figure out
+how much money they should save
+so that when a big earthquake
+comes they can afford to pay it and
+not go bankrupt."
+Fear of bankruptcy has led the
+five largest insurance companies in
+California to stop issuing new
+homeowners' policies. The Los An
+geles Times reported on July 6 that
+rebuilding after the Northridge
+earthquake will cost more than in
+surance companies had originally
+estimated.
+Besides predicting possible costs,
+IRAS is a useful tool alter a disaster
+occurs says Austin. An insurance
+company can quickly determine
+where to send claims adjusters —
+even before the policyholders can
+call.
+Increased efficiency is possible
+because the IRAS software is based
+on what is known as a geographic
+information system. Using the rela
+tively new GIS technology, complex
+
+maps and data can be combined in
+layers of interactive information.
+"If you had two maps that had
+land, and one had land use and one
+had land price, you could merge
+them together and come out with a
+database that had both the use and
+the price," Austin said. "Before, you
+couldn't do that."
+During a demonstration, Austin
+showed how the IRAS system
+works. After receiving an address,
+IRAS uses GIS data to determine
+latitude and longitude, nearness to
+known earthquake faults, struc
+tures in the area, and soil conditions.
+Next, the program asks a series of
+questions about the property.
+"These are all yes/no, highymedi
+um/low type answers," Austin ex
+plained. "We try to keep it simple for
+the insurance person using it."
+With the data entered, IRAS can
+then earthquake simulations, from
+which a list ranking the probabili
+ties and costs of possible losses can
+be generated.
+"The worst case is 8.3 on the San
+Andreas," Austin said cheerfully.
+"Your house is four miles from the
+fault. They expect an 8.3 on the San
+Andreas every 750 years or so.
+When that happens, 12 percent, 13
+percent of your building is going to
+be destroyed."
+Properties can be entered one at a
+time, or a large database can be
+dumped into the system and evalu
+ated. IRAS is used by insurance
+companies, re-insurance companies
+(who write policies covering large
+losses by insurance companies), and
+mortgage brokers. These clients
+lease the program from RMS. A one
+year lease for a single computer
+costs approximately $35,000.
+Currently, few have access to
+IRAS, but mortgage companies
+have proposed making the system
+part of the loan process. Planning is
+tentative, but RMS stafT hope that
+within a vear, home buvers will be
+
+able to use IRAS to check potential
+homes. And when that happens,
+Austin believes that easily available
+information about soil conditions
+and earthquake risks may have
+some affect on resale values as well
+as insurance costs.
+RMS is one of three companies
+that have adapted the highly com
+plex GIS technology to the insur
+ance industry. EQE International,
+Inc., of San Francisco and Applied
+Insurance Research, Inc., of Boston
+also produce software to calculate
+disaster probabilities.
+The ability to predict damages
+from a quake is of particular impor
+tance to everyone at Stanford, Shah
+said, because of the University's
+unique location.
+"Our campus has the distinction
+of having one of the most active
+faults on this planet," explains
+Shah, referring to the San Andreas
+fault. "As a matter of fact, we al
+ways kid with our friends at Berke
+ley. They also have a fault which
+crosses their stadium, but their
+fault is a lot smaller than ours."
+All joking aside, Shah cites a re
+cent prediction of a 90 percent
+chance of a major Bay Area quake
+within the next 30 years. If such a
+quake does occur, it will have a dev
+astating effect on the heavily popu
+lated areas surrounding campus.
+This is where the IRAS program
+may have a positive, long-term ef
+fect.
+And while, use of IRAS and simi
+lar programs will probably increase
+insurance premiums, in the long
+run, Shah feels that, it will also help
+to improve building practices over
+time.
+Hence, Austin's work with com
+puters at RMS might indirectly de
+crease earthquake damages. What
+ever the outcome, Austin enjoys the
+challenge of his unique job.
+"It's different," he said. "There's
+not a
+
+
+\a/ _ M . I • . « • «» Joshua Polk — Daily
+Well on their way to becoming masters of disaster," Stanford graduate Chris Austin and civil engineer
+ing professor Haresh Shah are certain that computer research is one of the most effective ways to studv
+the possible after effects of natural disasters like earthquakes.
+Chris Austin loans forward in his
+chair, happily intent upon the
+computer he is using for a disas
+ter simulation. He clicks the cursor
+on the symbol of a lightning bolt,
+and selects "earthquake" from the
+menu that appears. His gaze never
+leaves the screen as he clicks on yet
+another symbol, a small world
+globe.
+Austin, a civil engineer at Menlo
+Park's Risk Management Solutions
+(RMS), Inc. plays with computer
+simulations to predict insurance
+losses. He currently works with
+earthquakes and hurricanes, but the
+company hopes to expand to include
+tornadoes, hail, floods and rain —
+any disaster covered by the nation's
+insurance industry. Striving to be
+come the masters of disasters,
+Austin and his co-workers tire cheer
+ful about natural catastrophes.
+"I'm not saying we want them to
+occur," says Austin, "but if they hap
+pen, it's exciting. Everyone wants to
+go be a snoop, to see what happened
+to all the buildings and what's stand
+ing and what's not and why."
+Austin is not ghoulish, just im
+mersed in his job at RMS. The com
+pany started in 1988 as an out
+growth of research done at Stan
+ford's Blume Engineering Center.
+Austin, a 1993 Stanford graduate,
+estimates that 75 percent of the
+company's 120 employees are from
+Stanford. Haresh Shah, chair of the
+Civil Engineering Department, is
+on the board of directors at RMS.
+Both Austin and Shah are en
+thusiastic about the use of comput
+ers to predict earthquake damages,
+although the disasters displayed on
+their glowing screens can be grim.
+According to Shah, a modern, day
+time repetition of the 1906 San
+Francisco earthquake would cause
+damages from $100 billion to $180
+billion.
+A Tokyo earthquake measuring
+7.8 on the Richter scale, occurring
+
+at 4 p.m. on a dry, windy day, would
+cost $1.5 trillion to $2 trillion in
+damages. In comparison, the
+Northridge earthquake in January
+was the most expensive in United
+States history, Shah said, with $20
+billion to $30 billion in damages.
+Fast-growing populations in
+earthquake areas plus inadequate
+building techniques have increased
+the potential for disaster, says
+Shah. Now, computers allow insur
+ance companies to pinpoint high
+risk areas and poor building con
+struction, telling them where to
+raise rates. Shah suggests that the
+high cost of insurance may be the
+"carrot and stick" that force the use
+of earthquake-minimizing con
+struction techniques.
+Quake damage is minimized by
+using flexible materials such as
+wood and steel rather than unstable
+brick, masonry or concrete. Con
+nections — where the foundation is
+bolted to the frame or where walls
+and roof meet — should be strong
+enough to withstand violent jolts.
+And "soft story" construction — in
+which the bottom floor of a multi
+story building is supported on
+columns — require reinforcing
+walls.
+If owners cannot insure a piece of
+property, says Shah, they will up
+grade the construction. He predict
+ed a 20-year cycle for insurance
+companies to affect the standards of
+builders, engineers and architects.
+"If I'm an architect and you're
+an engineer on a project, and our
+property can not be insured, then
+next time the owners will not come
+to us," Shah said. "They will say,
+'you're a bunch of bozos who do not
+know how to build. It takes a long
+time for this cycle to be complete,
+but it is a very good way for long
+term protection from earth
+quakes."
+Without this spur from insur
+ance companies, Shah believes eco-
+
+nomic pressure will continue to pre
+vent the use of earthquake-mini
+mizing techniques on new buildings
+and updates of existing structures.
+The technological advances from 50
+years of earthquake research can
+not solve the problem alone.
+"It's not practical," says Shah.
+"There isn't enough money,
+enough resources, enough will to
+implement the current knowledge.
+So with all the wonderful things
+that are going on around the world,
+it's terrible to see that every earth
+quake brings more death and more
+economic losses."
+To predict these losses, RMS pro
+duces the Investment Risk Assess
+ment System, a computer program
+which analyzes information from
+several databases. Austin is enthu
+siastic about the capabilities of
+IRAS.
+"The overall idea is to help insur
+ance companies estimate what their
+losses could be. I think they use it
+mostly to price and to figure out
+how much money they should save
+so that when a big earthquake
+comes they can afford to pay it and
+not go bankrupt."
+Fear of bankruptcy has led the
+five largest insurance companies in
+California to stop issuing new
+homeowners' policies. The Los An
+geles Times reported on July 6 that
+rebuilding after the Northridge
+earthquake will cost more than in
+surance companies had originally
+estimated.
+Besides predicting possible costs,
+IRAS is a useful tool alter a disaster
+occurs says Austin. An insurance
+company can quickly determine
+where to send claims adjusters —
+even before the policyholders can
+call.
+Increased efficiency is possible
+because the IRAS software is based
+on what is known as a geographic
+information system. Using the rela
+tively new GIS technology, complex
+
+maps and data can be combined in
+layers of interactive information.
+"If you had two maps that had
+land, and one had land use and one
+had land price, you could merge
+them together and come out with a
+database that had both the use and
+the price," Austin said. "Before, you
+couldn't do that."
+During a demonstration, Austin
+showed how the IRAS system
+works. After receiving an address,
+IRAS uses GIS data to determine
+latitude and longitude, nearness to
+known earthquake faults, struc
+tures in the area, and soil conditions.
+Next, the program asks a series of
+questions about the property.
+"These are all yes/no, highymedi
+um/low type answers," Austin ex
+plained. "We try to keep it simple for
+the insurance person using it."
+With the data entered, IRAS can
+then earthquake simulations, from
+which a list ranking the probabili
+ties and costs of possible losses can
+be generated.
+"The worst case is 8.3 on the San
+Andreas," Austin said cheerfully.
+"Your house is four miles from the
+fault. They expect an 8.3 on the San
+Andreas every 750 years or so.
+When that happens, 12 percent, 13
+percent of your building is going to
+be destroyed."
+Properties can be entered one at a
+time, or a large database can be
+dumped into the system and evalu
+ated. IRAS is used by insurance
+companies, re-insurance companies
+(who write policies covering large
+losses by insurance companies), and
+mortgage brokers. These clients
+lease the program from RMS. A one
+year lease for a single computer
+costs approximately $35,000.
+Currently, few have access to
+IRAS, but mortgage companies
+have proposed making the system
+part of the loan process. Planning is
+tentative, but RMS stafT hope that
+within a vear, home buvers will be
+
+able to use IRAS to check potential
+homes. And when that happens,
+Austin believes that easily available
+information about soil conditions
+and earthquake risks may have
+some affect on resale values as well
+as insurance costs.
+RMS is one of three companies
+that have adapted the highly com
+plex GIS technology to the insur
+ance industry. EQE International,
+Inc., of San Francisco and Applied
+Insurance Research, Inc., of Boston
+also produce software to calculate
+disaster probabilities.
+The ability to predict damages
+from a quake is of particular impor
+tance to everyone at Stanford, Shah
+said, because of the University's
+unique location.
+"Our campus has the distinction
+of having one of the most active
+faults on this planet," explains
+Shah, referring to the San Andreas
+fault. "As a matter of fact, we al
+ways kid with our friends at Berke
+ley. They also have a fault which
+crosses their stadium, but their
+fault is a lot smaller than ours."
+All joking aside, Shah cites a re
+cent prediction of a 90 percent
+chance of a major Bay Area quake
+within the next 30 years. If such a
+quake does occur, it will have a dev
+astating effect on the heavily popu
+lated areas surrounding campus.
+This is where the IRAS program
+may have a positive, long-term ef
+fect.
+And while, use of IRAS and simi
+lar programs will probably increase
+insurance premiums, in the long
+run, Shah feels that, it will also help
+to improve building practices over
+time.
+Hence, Austin's work with com
+puters at RMS might indirectly de
+crease earthquake damages. What
+ever the outcome, Austin enjoys the
+challenge of his unique job.
+"It's different," he said. "There's
+not a
+
+
+\a/ _ M . I • . « • «» Joshua Polk — Daily
+Well on their way to becoming masters of disaster," Stanford graduate Chris Austin and civil engineer
+ing professor Haresh Shah are certain that computer research is one of the most effective ways to studv
+the possible after effects of natural disasters like earthquakes.
+Chris Austin loans forward in his
+chair, happily intent upon the
+computer he is using for a disas
+ter simulation. He clicks the cursor
+on the symbol of a lightning bolt,
+and selects "earthquake" from the
+menu that appears. His gaze never
+leaves the screen as he clicks on yet
+another symbol, a small world
+globe.
+Austin, a civil engineer at Menlo
+Park's Risk Management Solutions
+(RMS), Inc. plays with computer
+simulations to predict insurance
+losses. He currently works with
+earthquakes and hurricanes, but the
+company hopes to expand to include
+tornadoes, hail, floods and rain —
+any disaster covered by the nation's
+insurance industry. Striving to be
+come the masters of disasters,
+Austin and his co-workers tire cheer
+ful about natural catastrophes.
+"I'm not saying we want them to
+occur," says Austin, "but if they hap
+pen, it's exciting. Everyone wants to
+go be a snoop, to see what happened
+to all the buildings and what's stand
+ing and what's not and why."
+Austin is not ghoulish, just im
+mersed in his job at RMS. The com
+pany started in 1988 as an out
+growth of research done at Stan
+ford's Blume Engineering Center.
+Austin, a 1993 Stanford graduate,
+estimates that 75 percent of the
+company's 120 employees are from
+Stanford. Haresh Shah, chair of the
+Civil Engineering Department, is
+on the board of directors at RMS.
+Both Austin and Shah are en
+thusiastic about the use of comput
+ers to predict earthquake damages,
+although the disasters displayed on
+their glowing screens can be grim.
+According to Shah, a modern, day
+time repetition of the 1906 San
+Francisco earthquake would cause
+damages from $100 billion to $180
+billion.
+A Tokyo earthquake measuring
+7.8 on the Richter scale, occurring
+
+at 4 p.m. on a dry, windy day, would
+cost $1.5 trillion to $2 trillion in
+damages. In comparison, the
+Northridge earthquake in January
+was the most expensive in United
+States history, Shah said, with $20
+billion to $30 billion in damages.
+Fast-growing populations in
+earthquake areas plus inadequate
+building techniques have increased
+the potential for disaster, says
+Shah. Now, computers allow insur
+ance companies to pinpoint high
+risk areas and poor building con
+struction, telling them where to
+raise rates. Shah suggests that the
+high cost of insurance may be the
+"carrot and stick" that force the use
+of earthquake-minimizing con
+struction techniques.
+Quake damage is minimized by
+using flexible materials such as
+wood and steel rather than unstable
+brick, masonry or concrete. Con
+nections — where the foundation is
+bolted to the frame or where walls
+and roof meet — should be strong
+enough to withstand violent jolts.
+And "soft story" construction — in
+which the bottom floor of a multi
+story building is supported on
+columns — require reinforcing
+walls.
+If owners cannot insure a piece of
+property, says Shah, they will up
+grade the construction. He predict
+ed a 20-year cycle for insurance
+companies to affect the standards of
+builders, engineers and architects.
+"If I'm an architect and you're
+an engineer on a project, and our
+property can not be insured, then
+next time the owners will not come
+to us," Shah said. "They will say,
+'you're a bunch of bozos who do not
+know how to build. It takes a long
+time for this cycle to be complete,
+but it is a very good way for long
+term protection from earth
+quakes."
+Without this spur from insur
+ance companies, Shah believes eco-
+
+nomic pressure will continue to pre
+vent the use of earthquake-mini
+mizing techniques on new buildings
+and updates of existing structures.
+The technological advances from 50
+years of earthquake research can
+not solve the problem alone.
+"It's not practical," says Shah.
+"There isn't enough money,
+enough resources, enough will to
+implement the current knowledge.
+So with all the wonderful things
+that are going on around the world,
+it's terrible to see that every earth
+quake brings more death and more
+economic losses."
+To predict these losses, RMS pro
+duces the Investment Risk Assess
+ment System, a computer program
+which analyzes information from
+several databases. Austin is enthu
+siastic about the capabilities of
+IRAS.
+"The overall idea is to help insur
+ance companies estimate what their
+losses could be. I think they use it
+mostly to price and to figure out
+how much money they should save
+so that when a big earthquake
+comes they can afford to pay it and
+not go bankrupt."
+Fear of bankruptcy has led the
+five largest insurance companies in
+California to stop issuing new
+homeowners' policies. The Los An
+geles Times reported on July 6 that
+rebuilding after the Northridge
+earthquake will cost more than in
+surance companies had originally
+estimated.
+Besides predicting possible costs,
+IRAS is a useful tool alter a disaster
+occurs says Austin. An insurance
+company can quickly determine
+where to send claims adjusters —
+even before the policyholders can
+call.
+Increased efficiency is possible
+because the IRAS software is based
+on what is known as a geographic
+information system. Using the rela
+tively new GIS technology, complex
+
+maps and data can be combined in
+layers of interactive information.
+"If you had two maps that had
+land, and one had land use and one
+had land price, you could merge
+them together and come out with a
+database that had both the use and
+the price," Austin said. "Before, you
+couldn't do that."
+During a demonstration, Austin
+showed how the IRAS system
+works. After receiving an address,
+IRAS uses GIS data to determine
+latitude and longitude, nearness to
+known earthquake faults, struc
+tures in the area, and soil conditions.
+Next, the program asks a series of
+questions about the property.
+"These are all yes/no, highymedi
+um/low type answers," Austin ex
+plained. "We try to keep it simple for
+the insurance person using it."
+With the data entered, IRAS can
+then earthquake simulations, from
+which a list ranking the probabili
+ties and costs of possible losses can
+be generated.
+"The worst case is 8.3 on the San
+Andreas," Austin said cheerfully.
+"Your house is four miles from the
+fault. They expect an 8.3 on the San
+Andreas every 750 years or so.
+When that happens, 12 percent, 13
+percent of your building is going to
+be destroyed."
+Properties can be entered one at a
+time, or a large database can be
+dumped into the system and evalu
+ated. IRAS is used by insurance
+companies, re-insurance companies
+(who write policies covering large
+losses by insurance companies), and
+mortgage brokers. These clients
+lease the program from RMS. A one
+year lease for a single computer
+costs approximately $35,000.
+Currently, few have access to
+IRAS, but mortgage companies
+have proposed making the system
+part of the loan process. Planning is
+tentative, but RMS stafT hope that
+within a vear, home buvers will be
+
+able to use IRAS to check potential
+homes. And when that happens,
+Austin believes that easily available
+information about soil conditions
+and earthquake risks may have
+some affect on resale values as well
+as insurance costs.
+RMS is one of three companies
+that have adapted the highly com
+plex GIS technology to the insur
+ance industry. EQE International,
+Inc., of San Francisco and Applied
+Insurance Research, Inc., of Boston
+also produce software to calculate
+disaster probabilities.
+The ability to predict damages
+from a quake is of particular impor
+tance to everyone at Stanford, Shah
+said, because of the University's
+unique location.
+"Our campus has the distinction
+of having one of the most active
+faults on this planet," explains
+Shah, referring to the San Andreas
+fault. "As a matter of fact, we al
+ways kid with our friends at Berke
+ley. They also have a fault which
+crosses their stadium, but their
+fault is a lot smaller than ours."
+All joking aside, Shah cites a re
+cent prediction of a 90 percent
+chance of a major Bay Area quake
+within the next 30 years. If such a
+quake does occur, it will have a dev
+astating effect on the heavily popu
+lated areas surrounding campus.
+This is where the IRAS program
+may have a positive, long-term ef
+fect.
+And while, use of IRAS and simi
+lar programs will probably increase
+insurance premiums, in the long
+run, Shah feels that, it will also help
+to improve building practices over
+time.
+Hence, Austin's work with com
+puters at RMS might indirectly de
+crease earthquake damages. What
+ever the outcome, Austin enjoys the
+challenge of his unique job.
+"It's different," he said. "There's
+not a
+
+
+\a/ _ M . I • . « • «» Joshua Polk — Daily
+Well on their way to becoming masters of disaster," Stanford graduate Chris Austin and civil engineer
+ing professor Haresh Shah are certain that computer research is one of the most effective ways to studv
+the possible after effects of natural disasters like earthquakes.
+Chris Austin loans forward in his
+chair, happily intent upon the
+computer he is using for a disas
+ter simulation. He clicks the cursor
+on the symbol of a lightning bolt,
+and selects "earthquake" from the
+menu that appears. His gaze never
+leaves the screen as he clicks on yet
+another symbol, a small world
+globe.
+Austin, a civil engineer at Menlo
+Park's Risk Management Solutions
+(RMS), Inc. plays with computer
+simulations to predict insurance
+losses. He currently works with
+earthquakes and hurricanes, but the
+company hopes to expand to include
+tornadoes, hail, floods and rain —
+any disaster covered by the nation's
+insurance industry. Striving to be
+come the masters of disasters,
+Austin and his co-workers tire cheer
+ful about natural catastrophes.
+"I'm not saying we want them to
+occur," says Austin, "but if they hap
+pen, it's exciting. Everyone wants to
+go be a snoop, to see what happened
+to all the buildings and what's stand
+ing and what's not and why."
+Austin is not ghoulish, just im
+mersed in his job at RMS. The com
+pany started in 1988 as an out
+growth of research done at Stan
+ford's Blume Engineering Center.
+Austin, a 1993 Stanford graduate,
+estimates that 75 percent of the
+company's 120 employees are from
+Stanford. Haresh Shah, chair of the
+Civil Engineering Department, is
+on the board of directors at RMS.
+Both Austin and Shah are en
+thusiastic about the use of comput
+ers to predict earthquake damages,
+although the disasters displayed on
+their glowing screens can be grim.
+According to Shah, a modern, day
+time repetition of the 1906 San
+Francisco earthquake would cause
+damages from $100 billion to $180
+billion.
+A Tokyo earthquake measuring
+7.8 on the Richter scale, occurring
+
+at 4 p.m. on a dry, windy day, would
+cost $1.5 trillion to $2 trillion in
+damages. In comparison, the
+Northridge earthquake in January
+was the most expensive in United
+States history, Shah said, with $20
+billion to $30 billion in damages.
+Fast-growing populations in
+earthquake areas plus inadequate
+building techniques have increased
+the potential for disaster, says
+Shah. Now, computers allow insur
+ance companies to pinpoint high
+risk areas and poor building con
+struction, telling them where to
+raise rates. Shah suggests that the
+high cost of insurance may be the
+"carrot and stick" that force the use
+of earthquake-minimizing con
+struction techniques.
+Quake damage is minimized by
+using flexible materials such as
+wood and steel rather than unstable
+brick, masonry or concrete. Con
+nections — where the foundation is
+bolted to the frame or where walls
+and roof meet — should be strong
+enough to withstand violent jolts.
+And "soft story" construction — in
+which the bottom floor of a multi
+story building is supported on
+columns — require reinforcing
+walls.
+If owners cannot insure a piece of
+property, says Shah, they will up
+grade the construction. He predict
+ed a 20-year cycle for insurance
+companies to affect the standards of
+builders, engineers and architects.
+"If I'm an architect and you're
+an engineer on a project, and our
+property can not be insured, then
+next time the owners will not come
+to us," Shah said. "They will say,
+'you're a bunch of bozos who do not
+know how to build. It takes a long
+time for this cycle to be complete,
+but it is a very good way for long
+term protection from earth
+quakes."
+Without this spur from insur
+ance companies, Shah believes eco-
+
+nomic pressure will continue to pre
+vent the use of earthquake-mini
+mizing techniques on new buildings
+and updates of existing structures.
+The technological advances from 50
+years of earthquake research can
+not solve the problem alone.
+"It's not practical," says Shah.
+"There isn't enough money,
+enough resources, enough will to
+implement the current knowledge.
+So with all the wonderful things
+that are going on around the world,
+it's terrible to see that every earth
+quake brings more death and more
+economic losses."
+To predict these losses, RMS pro
+duces the Investment Risk Assess
+ment System, a computer program
+which analyzes information from
+several databases. Austin is enthu
+siastic about the capabilities of
+IRAS.
+"The overall idea is to help insur
+ance companies estimate what their
+losses could be. I think they use it
+mostly to price and to figure out
+how much money they should save
+so that when a big earthquake
+comes they can afford to pay it and
+not go bankrupt."
+Fear of bankruptcy has led the
+five largest insurance companies in
+California to stop issuing new
+homeowners' policies. The Los An
+geles Times reported on July 6 that
+rebuilding after the Northridge
+earthquake will cost more than in
+surance companies had originally
+estimated.
+Besides predicting possible costs,
+IRAS is a useful tool alter a disaster
+occurs says Austin. An insurance
+company can quickly determine
+where to send claims adjusters —
+even before the policyholders can
+call.
+Increased efficiency is possible
+because the IRAS software is based
+on what is known as a geographic
+information system. Using the rela
+tively new GIS technology, complex
+
+maps and data can be combined in
+layers of interactive information.
+"If you had two maps that had
+land, and one had land use and one
+had land price, you could merge
+them together and come out with a
+database that had both the use and
+the price," Austin said. "Before, you
+couldn't do that."
+During a demonstration, Austin
+showed how the IRAS system
+works. After receiving an address,
+IRAS uses GIS data to determine
+latitude and longitude, nearness to
+known earthquake faults, struc
+tures in the area, and soil conditions.
+Next, the program asks a series of
+questions about the property.
+"These are all yes/no, highymedi
+um/low type answers," Austin ex
+plained. "We try to keep it simple for
+the insurance person using it."
+With the data entered, IRAS can
+then earthquake simulations, from
+which a list ranking the probabili
+ties and costs of possible losses can
+be generated.
+"The worst case is 8.3 on the San
+Andreas," Austin said cheerfully.
+"Your house is four miles from the
+fault. They expect an 8.3 on the San
+Andreas every 750 years or so.
+When that happens, 12 percent, 13
+percent of your building is going to
+be destroyed."
+Properties can be entered one at a
+time, or a large database can be
+dumped into the system and evalu
+ated. IRAS is used by insurance
+companies, re-insurance companies
+(who write policies covering large
+losses by insurance companies), and
+mortgage brokers. These clients
+lease the program from RMS. A one
+year lease for a single computer
+costs approximately $35,000.
+Currently, few have access to
+IRAS, but mortgage companies
+have proposed making the system
+part of the loan process. Planning is
+tentative, but RMS stafT hope that
+within a vear, home buvers will be
+
+able to use IRAS to check potential
+homes. And when that happens,
+Austin believes that easily available
+information about soil conditions
+and earthquake risks may have
+some affect on resale values as well
+as insurance costs.
+RMS is one of three companies
+that have adapted the highly com
+plex GIS technology to the insur
+ance industry. EQE International,
+Inc., of San Francisco and Applied
+Insurance Research, Inc., of Boston
+also produce software to calculate
+disaster probabilities.
+The ability to predict damages
+from a quake is of particular impor
+tance to everyone at Stanford, Shah
+said, because of the University's
+unique location.
+"Our campus has the distinction
+of having one of the most active
+faults on this planet," explains
+Shah, referring to the San Andreas
+fault. "As a matter of fact, we al
+ways kid with our friends at Berke
+ley. They also have a fault which
+crosses their stadium, but their
+fault is a lot smaller than ours."
+All joking aside, Shah cites a re
+cent prediction of a 90 percent
+chance of a major Bay Area quake
+within the next 30 years. If such a
+quake does occur, it will have a dev
+astating effect on the heavily popu
+lated areas surrounding campus.
+This is where the IRAS program
+may have a positive, long-term ef
+fect.
+And while, use of IRAS and simi
+lar programs will probably increase
+insurance premiums, in the long
+run, Shah feels that, it will also help
+to improve building practices over
+time.
+Hence, Austin's work with com
+puters at RMS might indirectly de
+crease earthquake damages. What
+ever the outcome, Austin enjoys the
+challenge of his unique job.
+"It's different," he said. "There's
+not a
+
+
+\a/ _ M . I • . « • «» Joshua Polk — Daily
+Well on their way to becoming masters of disaster," Stanford graduate Chris Austin and civil engineer
+ing professor Haresh Shah are certain that computer research is one of the most effective ways to studv
+the possible after effects of natural disasters like earthquakes.
+Chris Austin loans forward in his
+chair, happily intent upon the
+computer he is using for a disas
+ter simulation. He clicks the cursor
+on the symbol of a lightning bolt,
+and selects "earthquake" from the
+menu that appears. His gaze never
+leaves the screen as he clicks on yet
+another symbol, a small world
+globe.
+Austin, a civil engineer at Menlo
+Park's Risk Management Solutions
+(RMS), Inc. plays with computer
+simulations to predict insurance
+losses. He currently works with
+earthquakes and hurricanes, but the
+company hopes to expand to include
+tornadoes, hail, floods and rain —
+any disaster covered by the nation's
+insurance industry. Striving to be
+come the masters of disasters,
+Austin and his co-workers tire cheer
+ful about natural catastrophes.
+"I'm not saying we want them to
+occur," says Austin, "but if they hap
+pen, it's exciting. Everyone wants to
+go be a snoop, to see what happened
+to all the buildings and what's stand
+ing and what's not and why."
+Austin is not ghoulish, just im
+mersed in his job at RMS. The com
+pany started in 1988 as an out
+growth of research done at Stan
+ford's Blume Engineering Center.
+Austin, a 1993 Stanford graduate,
+estimates that 75 percent of the
+company's 120 employees are from
+Stanford. Haresh Shah, chair of the
+Civil Engineering Department, is
+on the board of directors at RMS.
+Both Austin and Shah are en
+thusiastic about the use of comput
+ers to predict earthquake damages,
+although the disasters displayed on
+their glowing screens can be grim.
+According to Shah, a modern, day
+time repetition of the 1906 San
+Francisco earthquake would cause
+damages from $100 billion to $180
+billion.
+A Tokyo earthquake measuring
+7.8 on the Richter scale, occurring
+
+at 4 p.m. on a dry, windy day, would
+cost $1.5 trillion to $2 trillion in
+damages. In comparison, the
+Northridge earthquake in January
+was the most expensive in United
+States history, Shah said, with $20
+billion to $30 billion in damages.
+Fast-growing populations in
+earthquake areas plus inadequate
+building techniques have increased
+the potential for disaster, says
+Shah. Now, computers allow insur
+ance companies to pinpoint high
+risk areas and poor building con
+struction, telling them where to
+raise rates. Shah suggests that the
+high cost of insurance may be the
+"carrot and stick" that force the use
+of earthquake-minimizing con
+struction techniques.
+Quake damage is minimized by
+using flexible materials such as
+wood and steel rather than unstable
+brick, masonry or concrete. Con
+nections — where the foundation is
+bolted to the frame or where walls
+and roof meet — should be strong
+enough to withstand violent jolts.
+And "soft story" construction — in
+which the bottom floor of a multi
+story building is supported on
+columns — require reinforcing
+walls.
+If owners cannot insure a piece of
+property, says Shah, they will up
+grade the construction. He predict
+ed a 20-year cycle for insurance
+companies to affect the standards of
+builders, engineers and architects.
+"If I'm an architect and you're
+an engineer on a project, and our
+property can not be insured, then
+next time the owners will not come
+to us," Shah said. "They will say,
+'you're a bunch of bozos who do not
+know how to build. It takes a long
+time for this cycle to be complete,
+but it is a very good way for long
+term protection from earth
+quakes."
+Without this spur from insur
+ance companies, Shah believes eco-
+
+nomic pressure will continue to pre
+vent the use of earthquake-mini
+mizing techniques on new buildings
+and updates of existing structures.
+The technological advances from 50
+years of earthquake research can
+not solve the problem alone.
+"It's not practical," says Shah.
+"There isn't enough money,
+enough resources, enough will to
+implement the current knowledge.
+So with all the wonderful things
+that are going on around the world,
+it's terrible to see that every earth
+quake brings more death and more
+economic losses."
+To predict these losses, RMS pro
+duces the Investment Risk Assess
+ment System, a computer program
+which analyzes information from
+several databases. Austin is enthu
+siastic about the capabilities of
+IRAS.
+"The overall idea is to help insur
+ance companies estimate what their
+losses could be. I think they use it
+mostly to price and to figure out
+how much money they should save
+so that when a big earthquake
+comes they can afford to pay it and
+not go bankrupt."
+Fear of bankruptcy has led the
+five largest insurance companies in
+California to stop issuing new
+homeowners' policies. The Los An
+geles Times reported on July 6 that
+rebuilding after the Northridge
+earthquake will cost more than in
+surance companies had originally
+estimated.
+Besides predicting possible costs,
+IRAS is a useful tool alter a disaster
+occurs says Austin. An insurance
+company can quickly determine
+where to send claims adjusters —
+even before the policyholders can
+call.
+Increased efficiency is possible
+because the IRAS software is based
+on what is known as a geographic
+information system. Using the rela
+tively new GIS technology, complex
+
+maps and data can be combined in
+layers of interactive information.
+"If you had two maps that had
+land, and one had land use and one
+had land price, you could merge
+them together and come out with a
+database that had both the use and
+the price," Austin said. "Before, you
+couldn't do that."
+During a demonstration, Austin
+showed how the IRAS system
+works. After receiving an address,
+IRAS uses GIS data to determine
+latitude and longitude, nearness to
+known earthquake faults, struc
+tures in the area, and soil conditions.
+Next, the program asks a series of
+questions about the property.
+"These are all yes/no, highymedi
+um/low type answers," Austin ex
+plained. "We try to keep it simple for
+the insurance person using it."
+With the data entered, IRAS can
+then earthquake simulations, from
+which a list ranking the probabili
+ties and costs of possible losses can
+be generated.
+"The worst case is 8.3 on the San
+Andreas," Austin said cheerfully.
+"Your house is four miles from the
+fault. They expect an 8.3 on the San
+Andreas every 750 years or so.
+When that happens, 12 percent, 13
+percent of your building is going to
+be destroyed."
+Properties can be entered one at a
+time, or a large database can be
+dumped into the system and evalu
+ated. IRAS is used by insurance
+companies, re-insurance companies
+(who write policies covering large
+losses by insurance companies), and
+mortgage brokers. These clients
+lease the program from RMS. A one
+year lease for a single computer
+costs approximately $35,000.
+Currently, few have access to
+IRAS, but mortgage companies
+have proposed making the system
+part of the loan process. Planning is
+tentative, but RMS stafT hope that
+within a vear, home buvers will be
+
+able to use IRAS to check potential
+homes. And when that happens,
+Austin believes that easily available
+information about soil conditions
+and earthquake risks may have
+some affect on resale values as well
+as insurance costs.
+RMS is one of three companies
+that have adapted the highly com
+plex GIS technology to the insur
+ance industry. EQE International,
+Inc., of San Francisco and Applied
+Insurance Research, Inc., of Boston
+also produce software to calculate
+disaster probabilities.
+The ability to predict damages
+from a quake is of particular impor
+tance to everyone at Stanford, Shah
+said, because of the University's
+unique location.
+"Our campus has the distinction
+of having one of the most active
+faults on this planet," explains
+Shah, referring to the San Andreas
+fault. "As a matter of fact, we al
+ways kid with our friends at Berke
+ley. They also have a fault which
+crosses their stadium, but their
+fault is a lot smaller than ours."
+All joking aside, Shah cites a re
+cent prediction of a 90 percent
+chance of a major Bay Area quake
+within the next 30 years. If such a
+quake does occur, it will have a dev
+astating effect on the heavily popu
+lated areas surrounding campus.
+This is where the IRAS program
+may have a positive, long-term ef
+fect.
+And while, use of IRAS and simi
+lar programs will probably increase
+insurance premiums, in the long
+run, Shah feels that, it will also help
+to improve building practices over
+time.
+Hence, Austin's work with com
+puters at RMS might indirectly de
+crease earthquake damages. What
+ever the outcome, Austin enjoys the
+challenge of his unique job.
+"It's different," he said. "There's
+not a
+
+
+\a/ _ M . I • . « • «» Joshua Polk — Daily
+Well on their way to becoming masters of disaster," Stanford graduate Chris Austin and civil engineer
+ing professor Haresh Shah are certain that computer research is one of the most effective ways to studv
+the possible after effects of natural disasters like earthquakes.
+Chris Austin loans forward in his
+chair, happily intent upon the
+computer he is using for a disas
+ter simulation. He clicks the cursor
+on the symbol of a lightning bolt,
+and selects "earthquake" from the
+menu that appears. His gaze never
+leaves the screen as he clicks on yet
+another symbol, a small world
+globe.
+Austin, a civil engineer at Menlo
+Park's Risk Management Solutions
+(RMS), Inc. plays with computer
+simulations to predict insurance
+losses. He currently works with
+earthquakes and hurricanes, but the
+company hopes to expand to include
+tornadoes, hail, floods and rain —
+any disaster covered by the nation's
+insurance industry. Striving to be
+come the masters of disasters,
+Austin and his co-workers tire cheer
+ful about natural catastrophes.
+"I'm not saying we want them to
+occur," says Austin, "but if they hap
+pen, it's exciting. Everyone wants to
+go be a snoop, to see what happened
+to all the buildings and what's stand
+ing and what's not and why."
+Austin is not ghoulish, just im
+mersed in his job at RMS. The com
+pany started in 1988 as an out
+growth of research done at Stan
+ford's Blume Engineering Center.
+Austin, a 1993 Stanford graduate,
+estimates that 75 percent of the
+company's 120 employees are from
+Stanford. Haresh Shah, chair of the
+Civil Engineering Department, is
+on the board of directors at RMS.
+Both Austin and Shah are en
+thusiastic about the use of comput
+ers to predict earthquake damages,
+although the disasters displayed on
+their glowing screens can be grim.
+According to Shah, a modern, day
+time repetition of the 1906 San
+Francisco earthquake would cause
+damages from $100 billion to $180
+billion.
+A Tokyo earthquake measuring
+7.8 on the Richter scale, occurring
+
+at 4 p.m. on a dry, windy day, would
+cost $1.5 trillion to $2 trillion in
+damages. In comparison, the
+Northridge earthquake in January
+was the most expensive in United
+States history, Shah said, with $20
+billion to $30 billion in damages.
+Fast-growing populations in
+earthquake areas plus inadequate
+building techniques have increased
+the potential for disaster, says
+Shah. Now, computers allow insur
+ance companies to pinpoint high
+risk areas and poor building con
+struction, telling them where to
+raise rates. Shah suggests that the
+high cost of insurance may be the
+"carrot and stick" that force the use
+of earthquake-minimizing con
+struction techniques.
+Quake damage is minimized by
+using flexible materials such as
+wood and steel rather than unstable
+brick, masonry or concrete. Con
+nections — where the foundation is
+bolted to the frame or where walls
+and roof meet — should be strong
+enough to withstand violent jolts.
+And "soft story" construction — in
+which the bottom floor of a multi
+story building is supported on
+columns — require reinforcing
+walls.
+If owners cannot insure a piece of
+property, says Shah, they will up
+grade the construction. He predict
+ed a 20-year cycle for insurance
+companies to affect the standards of
+builders, engineers and architects.
+"If I'm an architect and you're
+an engineer on a project, and our
+property can not be insured, then
+next time the owners will not come
+to us," Shah said. "They will say,
+'you're a bunch of bozos who do not
+know how to build. It takes a long
+time for this cycle to be complete,
+but it is a very good way for long
+term protection from earth
+quakes."
+Without this spur from insur
+ance companies, Shah believes eco-
+
+nomic pressure will continue to pre
+vent the use of earthquake-mini
+mizing techniques on new buildings
+and updates of existing structures.
+The technological advances from 50
+years of earthquake research can
+not solve the problem alone.
+"It's not practical," says Shah.
+"There isn't enough money,
+enough resources, enough will to
+implement the current knowledge.
+So with all the wonderful things
+that are going on around the world,
+it's terrible to see that every earth
+quake brings more death and more
+economic losses."
+To predict these losses, RMS pro
+duces the Investment Risk Assess
+ment System, a computer program
+which analyzes information from
+several databases. Austin is enthu
+siastic about the capabilities of
+IRAS.
+"The overall idea is to help insur
+ance companies estimate what their
+losses could be. I think they use it
+mostly to price and to figure out
+how much money they should save
+so that when a big earthquake
+comes they can afford to pay it and
+not go bankrupt."
+Fear of bankruptcy has led the
+five largest insurance companies in
+California to stop issuing new
+homeowners' policies. The Los An
+geles Times reported on July 6 that
+rebuilding after the Northridge
+earthquake will cost more than in
+surance companies had originally
+estimated.
+Besides predicting possible costs,
+IRAS is a useful tool alter a disaster
+occurs says Austin. An insurance
+company can quickly determine
+where to send claims adjusters —
+even before the policyholders can
+call.
+Increased efficiency is possible
+because the IRAS software is based
+on what is known as a geographic
+information system. Using the rela
+tively new GIS technology, complex
+
+maps and data can be combined in
+layers of interactive information.
+"If you had two maps that had
+land, and one had land use and one
+had land price, you could merge
+them together and come out with a
+database that had both the use and
+the price," Austin said. "Before, you
+couldn't do that."
+During a demonstration, Austin
+showed how the IRAS system
+works. After receiving an address,
+IRAS uses GIS data to determine
+latitude and longitude, nearness to
+known earthquake faults, struc
+tures in the area, and soil conditions.
+Next, the program asks a series of
+questions about the property.
+"These are all yes/no, highymedi
+um/low type answers," Austin ex
+plained. "We try to keep it simple for
+the insurance person using it."
+With the data entered, IRAS can
+then earthquake simulations, from
+which a list ranking the probabili
+ties and costs of possible losses can
+be generated.
+"The worst case is 8.3 on the San
+Andreas," Austin said cheerfully.
+"Your house is four miles from the
+fault. They expect an 8.3 on the San
+Andreas every 750 years or so.
+When that happens, 12 percent, 13
+percent of your building is going to
+be destroyed."
+Properties can be entered one at a
+time, or a large database can be
+dumped into the system and evalu
+ated. IRAS is used by insurance
+companies, re-insurance companies
+(who write policies covering large
+losses by insurance companies), and
+mortgage brokers. These clients
+lease the program from RMS. A one
+year lease for a single computer
+costs approximately $35,000.
+Currently, few have access to
+IRAS, but mortgage companies
+have proposed making the system
+part of the loan process. Planning is
+tentative, but RMS stafT hope that
+within a vear, home buvers will be
+
+able to use IRAS to check potential
+homes. And when that happens,
+Austin believes that easily available
+information about soil conditions
+and earthquake risks may have
+some affect on resale values as well
+as insurance costs.
+RMS is one of three companies
+that have adapted the highly com
+plex GIS technology to the insur
+ance industry. EQE International,
+Inc., of San Francisco and Applied
+Insurance Research, Inc., of Boston
+also produce software to calculate
+disaster probabilities.
+The ability to predict damages
+from a quake is of particular impor
+tance to everyone at Stanford, Shah
+said, because of the University's
+unique location.
+"Our campus has the distinction
+of having one of the most active
+faults on this planet," explains
+Shah, referring to the San Andreas
+fault. "As a matter of fact, we al
+ways kid with our friends at Berke
+ley. They also have a fault which
+crosses their stadium, but their
+fault is a lot smaller than ours."
+All joking aside, Shah cites a re
+cent prediction of a 90 percent
+chance of a major Bay Area quake
+within the next 30 years. If such a
+quake does occur, it will have a dev
+astating effect on the heavily popu
+lated areas surrounding campus.
+This is where the IRAS program
+may have a positive, long-term ef
+fect.
+And while, use of IRAS and simi
+lar programs will probably increase
+insurance premiums, in the long
+run, Shah feels that, it will also help
+to improve building practices over
+time.
+Hence, Austin's work with com
+puters at RMS might indirectly de
+crease earthquake damages. What
+ever the outcome, Austin enjoys the
+challenge of his unique job.
+"It's different," he said. "There's
+not a
+
+
+\a/ _ M . I • . « • «» Joshua Polk — Daily
+Well on their way to becoming masters of disaster," Stanford graduate Chris Austin and civil engineer
+ing professor Haresh Shah are certain that computer research is one of the most effective ways to studv
+the possible after effects of natural disasters like earthquakes.

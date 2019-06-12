@@ -1,0 +1,878 @@
+# System 7.0 software seems slightly slower
+## 
+### Mark Rogowsky Senior staff writer 
+me pick up last week's discussion with
+a few general observations about System 7.0.
+Though you won't be able to buy a copy until
+May 13, developers and other select persons
+have had their hands on the new baby for
+months. Be aware, these thoughts are based
+on something called System 7.0b4 — a beta
+version of the software. (Although the one
+that will be for sale promises to be nearly
+identical.)
+First of all, I have to note that 7.0 seems to
+be slow. I have tested it only on the Macintosh
+Ilci and Ilsi — both fast machines — and I
+find their performance hampered. Characters
+seem to take an extra fraction of a second to
+appear when typed; icons get cleaned up at a
+snail's pace. I could be crazy, but it really feels
+this way. The delay is particularly noticeable
+when the display is set to use color.
+The likely cause of the slowness is that 7.0
+makes use of gray shading in drawing win
+dows and icons — a new feature. The result
+is a richer display, one more like that of the
+NeXT computer. But Apple's gray-shaded
+windows and scroll boxes seem a bit like
+clunky add-ons. Whereas the integrated look
+of the NeXT seems state of the art, Apple
+may need to overhaul the Mac look complete
+ly before gray scale catches on. The close
+boxes and zoom boxes, for instance, look silly
+as they currently appear in 7.0.
+Anyway, things speed up a great deal
+when you go back into monochrome mode,
+but then you're stuck without color for any
+applications. In all fairness, I must note that
+the Ilci and Ilsi have built-in video circuits
+that are less speed-efficient than most moni
+tor interface cards. They might be particular-
+
+ly susceptible to a perfor
+mance hit. Most people with
+SEs and SE/30s — which
+can't display gray shades any
+way — might notice less of a
+performance hit.
+Then again, they might
+not. Another interesting fea
+ture of 7.0 is that it includes
+the code for what Apple used
+to call Desktop Manager. The
+wizards in Cupertino invent-
+
+Ed Desktop Manager to address one of the
+shortcomings of the Macintosh file system:
+When you had thousands of files on a hard
+disk, the Mac would choke.
+Desktop Manager was shipped with
+Apple Share — the venerable file-server soft
+ware — and was often used by hacker types
+who had big hard disks with lots of goodies.
+Desktop Manager prevented the choking, to
+be sure, but also slowed some things down,
+including opening folders.
+In 7.0, you don't need to open folders to
+look at them, you simply click on a small
+arrow positioned to the left of the folder. The
+arrow turns 90 degrees clockwise and the
+contents of the folder are displayed below it,
+slightly indented in outline form.
+Once again, though, I get a nagging feel
+ing that it takes too long for the outline list to
+appear. Now I realize that I should be factor
+ing in the time I used to wait for the window
+to open (and maybe subtract it completely for
+an accurate computation), but it doesn't
+seem quite right.
+This points up an interesting problem. As
+I work on nothing but fast Macs (the slowest
+machine I use is the SE/30), I'm a little out of
+touch with the older machines. Every once in
+a while, though, I sit down at one of the few
+
+SEs we have left around the
+office and am boggled at how
+slow it performs. Disk access,
+screen redraw, etc. creep
+along without the zip I'm
+accustomed to.
+Because of this, I've become
+a performance snob. Nothing
+less than a 68030 Mac will do
+for me. Many of you probably
+feel just the opposite. Sales of
+the Classic, a low-cost SE
+
+really, are off the charts. But you all must
+wonder whether 7.0 is what you're looking
+for. After upgrading your computer's memo
+ry to at least two megabytes — and probably
+four or five, you'll be ready to run 7.0.
+But if your already tortoise-like machines
+are slowed any further — bank on the fact
+they will be — you may not want 7.0 at all.
+System 7.0 gurus should note that we
+haven't factored TrueType, which is guaran
+teed to cost processing time, into the equa
+tions yet.
+These last two installments have no doubt
+read like a diatribe against System 7.0 to
+more than a few of you. So be it. After all the
+hype and all the delays, someone needs to
+play devil's advocate and ask the fundamen
+tal questions.
+There are a lot of things to like about Sys
+tem 7.0 — and I will share those soon. My
+brief acquaintance with it suggests that we'll
+be friends for a long time. I await the official
+release date with anticipation and excite
+ment. By the way — it's only 19 days away.
+
+Mark Rogowsky is The Daily's computer sys
+tems manager. He wrote this column under
+System 7.0 — and his machine didn't crash
+once.
+
+me pick up last week's discussion with
+a few general observations about System 7.0.
+Though you won't be able to buy a copy until
+May 13, developers and other select persons
+have had their hands on the new baby for
+months. Be aware, these thoughts are based
+on something called System 7.0b4 — a beta
+version of the software. (Although the one
+that will be for sale promises to be nearly
+identical.)
+First of all, I have to note that 7.0 seems to
+be slow. I have tested it only on the Macintosh
+Ilci and Ilsi — both fast machines — and I
+find their performance hampered. Characters
+seem to take an extra fraction of a second to
+appear when typed; icons get cleaned up at a
+snail's pace. I could be crazy, but it really feels
+this way. The delay is particularly noticeable
+when the display is set to use color.
+The likely cause of the slowness is that 7.0
+makes use of gray shading in drawing win
+dows and icons — a new feature. The result
+is a richer display, one more like that of the
+NeXT computer. But Apple's gray-shaded
+windows and scroll boxes seem a bit like
+clunky add-ons. Whereas the integrated look
+of the NeXT seems state of the art, Apple
+may need to overhaul the Mac look complete
+ly before gray scale catches on. The close
+boxes and zoom boxes, for instance, look silly
+as they currently appear in 7.0.
+Anyway, things speed up a great deal
+when you go back into monochrome mode,
+but then you're stuck without color for any
+applications. In all fairness, I must note that
+the Ilci and Ilsi have built-in video circuits
+that are less speed-efficient than most moni
+tor interface cards. They might be particular-
+
+ly susceptible to a perfor
+mance hit. Most people with
+SEs and SE/30s — which
+can't display gray shades any
+way — might notice less of a
+performance hit.
+Then again, they might
+not. Another interesting fea
+ture of 7.0 is that it includes
+the code for what Apple used
+to call Desktop Manager. The
+wizards in Cupertino invent-
+
+Ed Desktop Manager to address one of the
+shortcomings of the Macintosh file system:
+When you had thousands of files on a hard
+disk, the Mac would choke.
+Desktop Manager was shipped with
+Apple Share — the venerable file-server soft
+ware — and was often used by hacker types
+who had big hard disks with lots of goodies.
+Desktop Manager prevented the choking, to
+be sure, but also slowed some things down,
+including opening folders.
+In 7.0, you don't need to open folders to
+look at them, you simply click on a small
+arrow positioned to the left of the folder. The
+arrow turns 90 degrees clockwise and the
+contents of the folder are displayed below it,
+slightly indented in outline form.
+Once again, though, I get a nagging feel
+ing that it takes too long for the outline list to
+appear. Now I realize that I should be factor
+ing in the time I used to wait for the window
+to open (and maybe subtract it completely for
+an accurate computation), but it doesn't
+seem quite right.
+This points up an interesting problem. As
+I work on nothing but fast Macs (the slowest
+machine I use is the SE/30), I'm a little out of
+touch with the older machines. Every once in
+a while, though, I sit down at one of the few
+
+SEs we have left around the
+office and am boggled at how
+slow it performs. Disk access,
+screen redraw, etc. creep
+along without the zip I'm
+accustomed to.
+Because of this, I've become
+a performance snob. Nothing
+less than a 68030 Mac will do
+for me. Many of you probably
+feel just the opposite. Sales of
+the Classic, a low-cost SE
+
+really, are off the charts. But you all must
+wonder whether 7.0 is what you're looking
+for. After upgrading your computer's memo
+ry to at least two megabytes — and probably
+four or five, you'll be ready to run 7.0.
+But if your already tortoise-like machines
+are slowed any further — bank on the fact
+they will be — you may not want 7.0 at all.
+System 7.0 gurus should note that we
+haven't factored TrueType, which is guaran
+teed to cost processing time, into the equa
+tions yet.
+These last two installments have no doubt
+read like a diatribe against System 7.0 to
+more than a few of you. So be it. After all the
+hype and all the delays, someone needs to
+play devil's advocate and ask the fundamen
+tal questions.
+There are a lot of things to like about Sys
+tem 7.0 — and I will share those soon. My
+brief acquaintance with it suggests that we'll
+be friends for a long time. I await the official
+release date with anticipation and excite
+ment. By the way — it's only 19 days away.
+
+Mark Rogowsky is The Daily's computer sys
+tems manager. He wrote this column under
+System 7.0 — and his machine didn't crash
+once.
+
+me pick up last week's discussion with
+a few general observations about System 7.0.
+Though you won't be able to buy a copy until
+May 13, developers and other select persons
+have had their hands on the new baby for
+months. Be aware, these thoughts are based
+on something called System 7.0b4 — a beta
+version of the software. (Although the one
+that will be for sale promises to be nearly
+identical.)
+First of all, I have to note that 7.0 seems to
+be slow. I have tested it only on the Macintosh
+Ilci and Ilsi — both fast machines — and I
+find their performance hampered. Characters
+seem to take an extra fraction of a second to
+appear when typed; icons get cleaned up at a
+snail's pace. I could be crazy, but it really feels
+this way. The delay is particularly noticeable
+when the display is set to use color.
+The likely cause of the slowness is that 7.0
+makes use of gray shading in drawing win
+dows and icons — a new feature. The result
+is a richer display, one more like that of the
+NeXT computer. But Apple's gray-shaded
+windows and scroll boxes seem a bit like
+clunky add-ons. Whereas the integrated look
+of the NeXT seems state of the art, Apple
+may need to overhaul the Mac look complete
+ly before gray scale catches on. The close
+boxes and zoom boxes, for instance, look silly
+as they currently appear in 7.0.
+Anyway, things speed up a great deal
+when you go back into monochrome mode,
+but then you're stuck without color for any
+applications. In all fairness, I must note that
+the Ilci and Ilsi have built-in video circuits
+that are less speed-efficient than most moni
+tor interface cards. They might be particular-
+
+ly susceptible to a perfor
+mance hit. Most people with
+SEs and SE/30s — which
+can't display gray shades any
+way — might notice less of a
+performance hit.
+Then again, they might
+not. Another interesting fea
+ture of 7.0 is that it includes
+the code for what Apple used
+to call Desktop Manager. The
+wizards in Cupertino invent-
+
+Ed Desktop Manager to address one of the
+shortcomings of the Macintosh file system:
+When you had thousands of files on a hard
+disk, the Mac would choke.
+Desktop Manager was shipped with
+Apple Share — the venerable file-server soft
+ware — and was often used by hacker types
+who had big hard disks with lots of goodies.
+Desktop Manager prevented the choking, to
+be sure, but also slowed some things down,
+including opening folders.
+In 7.0, you don't need to open folders to
+look at them, you simply click on a small
+arrow positioned to the left of the folder. The
+arrow turns 90 degrees clockwise and the
+contents of the folder are displayed below it,
+slightly indented in outline form.
+Once again, though, I get a nagging feel
+ing that it takes too long for the outline list to
+appear. Now I realize that I should be factor
+ing in the time I used to wait for the window
+to open (and maybe subtract it completely for
+an accurate computation), but it doesn't
+seem quite right.
+This points up an interesting problem. As
+I work on nothing but fast Macs (the slowest
+machine I use is the SE/30), I'm a little out of
+touch with the older machines. Every once in
+a while, though, I sit down at one of the few
+
+SEs we have left around the
+office and am boggled at how
+slow it performs. Disk access,
+screen redraw, etc. creep
+along without the zip I'm
+accustomed to.
+Because of this, I've become
+a performance snob. Nothing
+less than a 68030 Mac will do
+for me. Many of you probably
+feel just the opposite. Sales of
+the Classic, a low-cost SE
+
+really, are off the charts. But you all must
+wonder whether 7.0 is what you're looking
+for. After upgrading your computer's memo
+ry to at least two megabytes — and probably
+four or five, you'll be ready to run 7.0.
+But if your already tortoise-like machines
+are slowed any further — bank on the fact
+they will be — you may not want 7.0 at all.
+System 7.0 gurus should note that we
+haven't factored TrueType, which is guaran
+teed to cost processing time, into the equa
+tions yet.
+These last two installments have no doubt
+read like a diatribe against System 7.0 to
+more than a few of you. So be it. After all the
+hype and all the delays, someone needs to
+play devil's advocate and ask the fundamen
+tal questions.
+There are a lot of things to like about Sys
+tem 7.0 — and I will share those soon. My
+brief acquaintance with it suggests that we'll
+be friends for a long time. I await the official
+release date with anticipation and excite
+ment. By the way — it's only 19 days away.
+
+Mark Rogowsky is The Daily's computer sys
+tems manager. He wrote this column under
+System 7.0 — and his machine didn't crash
+once.
+
+me pick up last week's discussion with
+a few general observations about System 7.0.
+Though you won't be able to buy a copy until
+May 13, developers and other select persons
+have had their hands on the new baby for
+months. Be aware, these thoughts are based
+on something called System 7.0b4 — a beta
+version of the software. (Although the one
+that will be for sale promises to be nearly
+identical.)
+First of all, I have to note that 7.0 seems to
+be slow. I have tested it only on the Macintosh
+Ilci and Ilsi — both fast machines — and I
+find their performance hampered. Characters
+seem to take an extra fraction of a second to
+appear when typed; icons get cleaned up at a
+snail's pace. I could be crazy, but it really feels
+this way. The delay is particularly noticeable
+when the display is set to use color.
+The likely cause of the slowness is that 7.0
+makes use of gray shading in drawing win
+dows and icons — a new feature. The result
+is a richer display, one more like that of the
+NeXT computer. But Apple's gray-shaded
+windows and scroll boxes seem a bit like
+clunky add-ons. Whereas the integrated look
+of the NeXT seems state of the art, Apple
+may need to overhaul the Mac look complete
+ly before gray scale catches on. The close
+boxes and zoom boxes, for instance, look silly
+as they currently appear in 7.0.
+Anyway, things speed up a great deal
+when you go back into monochrome mode,
+but then you're stuck without color for any
+applications. In all fairness, I must note that
+the Ilci and Ilsi have built-in video circuits
+that are less speed-efficient than most moni
+tor interface cards. They might be particular-
+
+ly susceptible to a perfor
+mance hit. Most people with
+SEs and SE/30s — which
+can't display gray shades any
+way — might notice less of a
+performance hit.
+Then again, they might
+not. Another interesting fea
+ture of 7.0 is that it includes
+the code for what Apple used
+to call Desktop Manager. The
+wizards in Cupertino invent-
+
+Ed Desktop Manager to address one of the
+shortcomings of the Macintosh file system:
+When you had thousands of files on a hard
+disk, the Mac would choke.
+Desktop Manager was shipped with
+Apple Share — the venerable file-server soft
+ware — and was often used by hacker types
+who had big hard disks with lots of goodies.
+Desktop Manager prevented the choking, to
+be sure, but also slowed some things down,
+including opening folders.
+In 7.0, you don't need to open folders to
+look at them, you simply click on a small
+arrow positioned to the left of the folder. The
+arrow turns 90 degrees clockwise and the
+contents of the folder are displayed below it,
+slightly indented in outline form.
+Once again, though, I get a nagging feel
+ing that it takes too long for the outline list to
+appear. Now I realize that I should be factor
+ing in the time I used to wait for the window
+to open (and maybe subtract it completely for
+an accurate computation), but it doesn't
+seem quite right.
+This points up an interesting problem. As
+I work on nothing but fast Macs (the slowest
+machine I use is the SE/30), I'm a little out of
+touch with the older machines. Every once in
+a while, though, I sit down at one of the few
+
+SEs we have left around the
+office and am boggled at how
+slow it performs. Disk access,
+screen redraw, etc. creep
+along without the zip I'm
+accustomed to.
+Because of this, I've become
+a performance snob. Nothing
+less than a 68030 Mac will do
+for me. Many of you probably
+feel just the opposite. Sales of
+the Classic, a low-cost SE
+
+really, are off the charts. But you all must
+wonder whether 7.0 is what you're looking
+for. After upgrading your computer's memo
+ry to at least two megabytes — and probably
+four or five, you'll be ready to run 7.0.
+But if your already tortoise-like machines
+are slowed any further — bank on the fact
+they will be — you may not want 7.0 at all.
+System 7.0 gurus should note that we
+haven't factored TrueType, which is guaran
+teed to cost processing time, into the equa
+tions yet.
+These last two installments have no doubt
+read like a diatribe against System 7.0 to
+more than a few of you. So be it. After all the
+hype and all the delays, someone needs to
+play devil's advocate and ask the fundamen
+tal questions.
+There are a lot of things to like about Sys
+tem 7.0 — and I will share those soon. My
+brief acquaintance with it suggests that we'll
+be friends for a long time. I await the official
+release date with anticipation and excite
+ment. By the way — it's only 19 days away.
+
+Mark Rogowsky is The Daily's computer sys
+tems manager. He wrote this column under
+System 7.0 — and his machine didn't crash
+once.
+
+me pick up last week's discussion with
+a few general observations about System 7.0.
+Though you won't be able to buy a copy until
+May 13, developers and other select persons
+have had their hands on the new baby for
+months. Be aware, these thoughts are based
+on something called System 7.0b4 — a beta
+version of the software. (Although the one
+that will be for sale promises to be nearly
+identical.)
+First of all, I have to note that 7.0 seems to
+be slow. I have tested it only on the Macintosh
+Ilci and Ilsi — both fast machines — and I
+find their performance hampered. Characters
+seem to take an extra fraction of a second to
+appear when typed; icons get cleaned up at a
+snail's pace. I could be crazy, but it really feels
+this way. The delay is particularly noticeable
+when the display is set to use color.
+The likely cause of the slowness is that 7.0
+makes use of gray shading in drawing win
+dows and icons — a new feature. The result
+is a richer display, one more like that of the
+NeXT computer. But Apple's gray-shaded
+windows and scroll boxes seem a bit like
+clunky add-ons. Whereas the integrated look
+of the NeXT seems state of the art, Apple
+may need to overhaul the Mac look complete
+ly before gray scale catches on. The close
+boxes and zoom boxes, for instance, look silly
+as they currently appear in 7.0.
+Anyway, things speed up a great deal
+when you go back into monochrome mode,
+but then you're stuck without color for any
+applications. In all fairness, I must note that
+the Ilci and Ilsi have built-in video circuits
+that are less speed-efficient than most moni
+tor interface cards. They might be particular-
+
+ly susceptible to a perfor
+mance hit. Most people with
+SEs and SE/30s — which
+can't display gray shades any
+way — might notice less of a
+performance hit.
+Then again, they might
+not. Another interesting fea
+ture of 7.0 is that it includes
+the code for what Apple used
+to call Desktop Manager. The
+wizards in Cupertino invent-
+
+Ed Desktop Manager to address one of the
+shortcomings of the Macintosh file system:
+When you had thousands of files on a hard
+disk, the Mac would choke.
+Desktop Manager was shipped with
+Apple Share — the venerable file-server soft
+ware — and was often used by hacker types
+who had big hard disks with lots of goodies.
+Desktop Manager prevented the choking, to
+be sure, but also slowed some things down,
+including opening folders.
+In 7.0, you don't need to open folders to
+look at them, you simply click on a small
+arrow positioned to the left of the folder. The
+arrow turns 90 degrees clockwise and the
+contents of the folder are displayed below it,
+slightly indented in outline form.
+Once again, though, I get a nagging feel
+ing that it takes too long for the outline list to
+appear. Now I realize that I should be factor
+ing in the time I used to wait for the window
+to open (and maybe subtract it completely for
+an accurate computation), but it doesn't
+seem quite right.
+This points up an interesting problem. As
+I work on nothing but fast Macs (the slowest
+machine I use is the SE/30), I'm a little out of
+touch with the older machines. Every once in
+a while, though, I sit down at one of the few
+
+SEs we have left around the
+office and am boggled at how
+slow it performs. Disk access,
+screen redraw, etc. creep
+along without the zip I'm
+accustomed to.
+Because of this, I've become
+a performance snob. Nothing
+less than a 68030 Mac will do
+for me. Many of you probably
+feel just the opposite. Sales of
+the Classic, a low-cost SE
+
+really, are off the charts. But you all must
+wonder whether 7.0 is what you're looking
+for. After upgrading your computer's memo
+ry to at least two megabytes — and probably
+four or five, you'll be ready to run 7.0.
+But if your already tortoise-like machines
+are slowed any further — bank on the fact
+they will be — you may not want 7.0 at all.
+System 7.0 gurus should note that we
+haven't factored TrueType, which is guaran
+teed to cost processing time, into the equa
+tions yet.
+These last two installments have no doubt
+read like a diatribe against System 7.0 to
+more than a few of you. So be it. After all the
+hype and all the delays, someone needs to
+play devil's advocate and ask the fundamen
+tal questions.
+There are a lot of things to like about Sys
+tem 7.0 — and I will share those soon. My
+brief acquaintance with it suggests that we'll
+be friends for a long time. I await the official
+release date with anticipation and excite
+ment. By the way — it's only 19 days away.
+
+Mark Rogowsky is The Daily's computer sys
+tems manager. He wrote this column under
+System 7.0 — and his machine didn't crash
+once.
+
+me pick up last week's discussion with
+a few general observations about System 7.0.
+Though you won't be able to buy a copy until
+May 13, developers and other select persons
+have had their hands on the new baby for
+months. Be aware, these thoughts are based
+on something called System 7.0b4 — a beta
+version of the software. (Although the one
+that will be for sale promises to be nearly
+identical.)
+First of all, I have to note that 7.0 seems to
+be slow. I have tested it only on the Macintosh
+Ilci and Ilsi — both fast machines — and I
+find their performance hampered. Characters
+seem to take an extra fraction of a second to
+appear when typed; icons get cleaned up at a
+snail's pace. I could be crazy, but it really feels
+this way. The delay is particularly noticeable
+when the display is set to use color.
+The likely cause of the slowness is that 7.0
+makes use of gray shading in drawing win
+dows and icons — a new feature. The result
+is a richer display, one more like that of the
+NeXT computer. But Apple's gray-shaded
+windows and scroll boxes seem a bit like
+clunky add-ons. Whereas the integrated look
+of the NeXT seems state of the art, Apple
+may need to overhaul the Mac look complete
+ly before gray scale catches on. The close
+boxes and zoom boxes, for instance, look silly
+as they currently appear in 7.0.
+Anyway, things speed up a great deal
+when you go back into monochrome mode,
+but then you're stuck without color for any
+applications. In all fairness, I must note that
+the Ilci and Ilsi have built-in video circuits
+that are less speed-efficient than most moni
+tor interface cards. They might be particular-
+
+ly susceptible to a perfor
+mance hit. Most people with
+SEs and SE/30s — which
+can't display gray shades any
+way — might notice less of a
+performance hit.
+Then again, they might
+not. Another interesting fea
+ture of 7.0 is that it includes
+the code for what Apple used
+to call Desktop Manager. The
+wizards in Cupertino invent-
+
+Ed Desktop Manager to address one of the
+shortcomings of the Macintosh file system:
+When you had thousands of files on a hard
+disk, the Mac would choke.
+Desktop Manager was shipped with
+Apple Share — the venerable file-server soft
+ware — and was often used by hacker types
+who had big hard disks with lots of goodies.
+Desktop Manager prevented the choking, to
+be sure, but also slowed some things down,
+including opening folders.
+In 7.0, you don't need to open folders to
+look at them, you simply click on a small
+arrow positioned to the left of the folder. The
+arrow turns 90 degrees clockwise and the
+contents of the folder are displayed below it,
+slightly indented in outline form.
+Once again, though, I get a nagging feel
+ing that it takes too long for the outline list to
+appear. Now I realize that I should be factor
+ing in the time I used to wait for the window
+to open (and maybe subtract it completely for
+an accurate computation), but it doesn't
+seem quite right.
+This points up an interesting problem. As
+I work on nothing but fast Macs (the slowest
+machine I use is the SE/30), I'm a little out of
+touch with the older machines. Every once in
+a while, though, I sit down at one of the few
+
+SEs we have left around the
+office and am boggled at how
+slow it performs. Disk access,
+screen redraw, etc. creep
+along without the zip I'm
+accustomed to.
+Because of this, I've become
+a performance snob. Nothing
+less than a 68030 Mac will do
+for me. Many of you probably
+feel just the opposite. Sales of
+the Classic, a low-cost SE
+
+really, are off the charts. But you all must
+wonder whether 7.0 is what you're looking
+for. After upgrading your computer's memo
+ry to at least two megabytes — and probably
+four or five, you'll be ready to run 7.0.
+But if your already tortoise-like machines
+are slowed any further — bank on the fact
+they will be — you may not want 7.0 at all.
+System 7.0 gurus should note that we
+haven't factored TrueType, which is guaran
+teed to cost processing time, into the equa
+tions yet.
+These last two installments have no doubt
+read like a diatribe against System 7.0 to
+more than a few of you. So be it. After all the
+hype and all the delays, someone needs to
+play devil's advocate and ask the fundamen
+tal questions.
+There are a lot of things to like about Sys
+tem 7.0 — and I will share those soon. My
+brief acquaintance with it suggests that we'll
+be friends for a long time. I await the official
+release date with anticipation and excite
+ment. By the way — it's only 19 days away.
+
+Mark Rogowsky is The Daily's computer sys
+tems manager. He wrote this column under
+System 7.0 — and his machine didn't crash
+once.
+
+me pick up last week's discussion with
+a few general observations about System 7.0.
+Though you won't be able to buy a copy until
+May 13, developers and other select persons
+have had their hands on the new baby for
+months. Be aware, these thoughts are based
+on something called System 7.0b4 — a beta
+version of the software. (Although the one
+that will be for sale promises to be nearly
+identical.)
+First of all, I have to note that 7.0 seems to
+be slow. I have tested it only on the Macintosh
+Ilci and Ilsi — both fast machines — and I
+find their performance hampered. Characters
+seem to take an extra fraction of a second to
+appear when typed; icons get cleaned up at a
+snail's pace. I could be crazy, but it really feels
+this way. The delay is particularly noticeable
+when the display is set to use color.
+The likely cause of the slowness is that 7.0
+makes use of gray shading in drawing win
+dows and icons — a new feature. The result
+is a richer display, one more like that of the
+NeXT computer. But Apple's gray-shaded
+windows and scroll boxes seem a bit like
+clunky add-ons. Whereas the integrated look
+of the NeXT seems state of the art, Apple
+may need to overhaul the Mac look complete
+ly before gray scale catches on. The close
+boxes and zoom boxes, for instance, look silly
+as they currently appear in 7.0.
+Anyway, things speed up a great deal
+when you go back into monochrome mode,
+but then you're stuck without color for any
+applications. In all fairness, I must note that
+the Ilci and Ilsi have built-in video circuits
+that are less speed-efficient than most moni
+tor interface cards. They might be particular-
+
+ly susceptible to a perfor
+mance hit. Most people with
+SEs and SE/30s — which
+can't display gray shades any
+way — might notice less of a
+performance hit.
+Then again, they might
+not. Another interesting fea
+ture of 7.0 is that it includes
+the code for what Apple used
+to call Desktop Manager. The
+wizards in Cupertino invent-
+
+Ed Desktop Manager to address one of the
+shortcomings of the Macintosh file system:
+When you had thousands of files on a hard
+disk, the Mac would choke.
+Desktop Manager was shipped with
+Apple Share — the venerable file-server soft
+ware — and was often used by hacker types
+who had big hard disks with lots of goodies.
+Desktop Manager prevented the choking, to
+be sure, but also slowed some things down,
+including opening folders.
+In 7.0, you don't need to open folders to
+look at them, you simply click on a small
+arrow positioned to the left of the folder. The
+arrow turns 90 degrees clockwise and the
+contents of the folder are displayed below it,
+slightly indented in outline form.
+Once again, though, I get a nagging feel
+ing that it takes too long for the outline list to
+appear. Now I realize that I should be factor
+ing in the time I used to wait for the window
+to open (and maybe subtract it completely for
+an accurate computation), but it doesn't
+seem quite right.
+This points up an interesting problem. As
+I work on nothing but fast Macs (the slowest
+machine I use is the SE/30), I'm a little out of
+touch with the older machines. Every once in
+a while, though, I sit down at one of the few
+
+SEs we have left around the
+office and am boggled at how
+slow it performs. Disk access,
+screen redraw, etc. creep
+along without the zip I'm
+accustomed to.
+Because of this, I've become
+a performance snob. Nothing
+less than a 68030 Mac will do
+for me. Many of you probably
+feel just the opposite. Sales of
+the Classic, a low-cost SE
+
+really, are off the charts. But you all must
+wonder whether 7.0 is what you're looking
+for. After upgrading your computer's memo
+ry to at least two megabytes — and probably
+four or five, you'll be ready to run 7.0.
+But if your already tortoise-like machines
+are slowed any further — bank on the fact
+they will be — you may not want 7.0 at all.
+System 7.0 gurus should note that we
+haven't factored TrueType, which is guaran
+teed to cost processing time, into the equa
+tions yet.
+These last two installments have no doubt
+read like a diatribe against System 7.0 to
+more than a few of you. So be it. After all the
+hype and all the delays, someone needs to
+play devil's advocate and ask the fundamen
+tal questions.
+There are a lot of things to like about Sys
+tem 7.0 — and I will share those soon. My
+brief acquaintance with it suggests that we'll
+be friends for a long time. I await the official
+release date with anticipation and excite
+ment. By the way — it's only 19 days away.
+
+Mark Rogowsky is The Daily's computer sys
+tems manager. He wrote this column under
+System 7.0 — and his machine didn't crash
+once.
+

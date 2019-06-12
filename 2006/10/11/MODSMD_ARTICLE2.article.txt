@@ -1,0 +1,738 @@
+# TECHNOLOGY
+## Robot car to tackle city streets stanford Racing Team has big plans for 2007 Grand Challenge 
+### RAHUL KANAKIA STAFF WRITER 
+Look, Ma, no humans.
+Such is the rallying cry of the Stanford Racing
+Team, composed of nearly forty Stanford faculty,
+researchers and graduate students. The team has
+been in collaboration with Volkswagen's Silicon
+Valley lab to try to win the 2007 Defense Ad
+vanced Research Projects Agency (DARPA)
+Grand Challenge, seeking a car that can navigate
+a simulated urban environment for sixty miles in
+less than six hours, without any human guidance.
+To win the $2 million prize money, the Stanford
+team must do all this while finishing first in what
+will likely be a field of more than thirty teams.
+The Racing Team is fresh off a first-place finish
+in the 2006 DARPA Grand Challenge, where its
+robot car. a Volkswagen Touareg dubbed "Stan
+ley," won a race through the desert.
+Michael Montemerlo, senior researcher at
+Stanford's Al Labs and software lead for the Rac
+ing Team, said the squad faces additional chal
+lenges this year.
+"Last year, you had a robot that had to com
+plete a course in the desert all by itself without any
+manual intervention," Montemerlo said. "So you
+press the go button and either it makes it or it
+doesn't. In the urban challenge it also has to act
+reasonably in the face of other traffic."
+According to Montemerlo — the new car, a
+Passat donated by Volkswagen — will have to re
+liably detect and track a variety of new obstacles.
+These will range from static hazards, such as curbs
+and holes, to dynamic hazards including cars, bicy
+cles and pedestrians. And it will have to do so
+while obeying traffic laws, acting appropriately at
+intersections and doing everything else an experi
+enced human driver would.
+David Stavens, a fifth-year Ph.D. candidate in
+computer science and co-creator of Stanley, said
+the team is in it for the "humanitarian aspect".
+With 43,000 deaths on the road every year, count
+less lives could be saved if human drivers were re
+placed by machines that could potentially have
+quicker reactions, better senses and never get
+tired.
+"We have a tremendous amount ot space
+on this campus devoted to parking." Stavens
+said. "But an automatic car could drop you
+off and go park itself some distance away."
+Stavens said that an automated car could
+be a more efficient use of both time and
+money. For instance, three or four people
+could easily share one car, since it could drive
+itself between their locations. And commut
+ing time would no longer consist of wasted
+hours stuck on either end of the working day.
+In a self-driving car, the passenger's attention
+could be focused on more productive tasks,
+such as answering email.
+"It could also affect traffic," Montemerlo
+added. "With communication between vehi
+cles, you could increase [traffic flow] substan
+tially so you actually get places faster on the
+highway. And you can imagine people driving
+who can't drive today, such as elderly people
+who can't see very well. Or even kids. Their
+parents could put them in the car and send
+them to where they need to go."
+Montemerlo emphasized that the move
+towards autonomous cars like Stanley and
+the winner of the 2007 Grand Challenge
+would not happen overnight.
+"I don't think cars will become au
+tonomous instantly," Montemerlo said.point
+ing to "smart" anti-lock brakes that are al
+ready in cars. "You should think of that car as
+being just a tiny bit autonomous. Cars are
+going to have more and more of these adap
+tive systems and one day you'll wake up. and
+you'll have a car that's able to drive itself."
+The Stanford Racing Team is led by Sebas
+tion Thrun. an assistant professor of comput
+er science and the head of Stanford's 150-per
+son AI Labs. Last year, Stanley was first out of
+23 robot cars to compete in a 132-mile race
+through the Nevada desert and one of only
+four which successfully completed the drive.
+The team took away $2 million from last
+year's race. Some of the prize money was
+used to fund this year's research, while the
+rest went to the School of Engineering to
+endow a scholarship.
+"From now until pretty much indefinitely
+there will be a student funded by Stanley's
+prize money," Stavens said.
+This year, the Racing Team sought money
+from a variety of sponsors, including Mohr
+Davidow Ventures, Intel. Google and NXP
+Semiconductors. Sponsors donated money in
+return for the right to put logos on the au
+tonomous car and exchange information with
+the team. The team also applied for and re
+ceived a technology development grant from
+DARPA. which may total up to $1 million.
+The team also includes members of Volkswa
+gen Labs, based in Palo Alto.
+Look, Ma, no humans.
+Such is the rallying cry of the Stanford Racing
+Team, composed of nearly forty Stanford faculty,
+researchers and graduate students. The team has
+been in collaboration with Volkswagen's Silicon
+Valley lab to try to win the 2007 Defense Ad
+vanced Research Projects Agency (DARPA)
+Grand Challenge, seeking a car that can navigate
+a simulated urban environment for sixty miles in
+less than six hours, without any human guidance.
+To win the $2 million prize money, the Stanford
+team must do all this while finishing first in what
+will likely be a field of more than thirty teams.
+The Racing Team is fresh off a first-place finish
+in the 2006 DARPA Grand Challenge, where its
+robot car. a Volkswagen Touareg dubbed "Stan
+ley," won a race through the desert.
+Michael Montemerlo, senior researcher at
+Stanford's Al Labs and software lead for the Rac
+ing Team, said the squad faces additional chal
+lenges this year.
+"Last year, you had a robot that had to com
+plete a course in the desert all by itself without any
+manual intervention," Montemerlo said. "So you
+press the go button and either it makes it or it
+doesn't. In the urban challenge it also has to act
+reasonably in the face of other traffic."
+According to Montemerlo — the new car, a
+Passat donated by Volkswagen — will have to re
+liably detect and track a variety of new obstacles.
+These will range from static hazards, such as curbs
+and holes, to dynamic hazards including cars, bicy
+cles and pedestrians. And it will have to do so
+while obeying traffic laws, acting appropriately at
+intersections and doing everything else an experi
+enced human driver would.
+David Stavens, a fifth-year Ph.D. candidate in
+computer science and co-creator of Stanley, said
+the team is in it for the "humanitarian aspect".
+With 43,000 deaths on the road every year, count
+less lives could be saved if human drivers were re
+placed by machines that could potentially have
+quicker reactions, better senses and never get
+tired.
+"We have a tremendous amount ot space
+on this campus devoted to parking." Stavens
+said. "But an automatic car could drop you
+off and go park itself some distance away."
+Stavens said that an automated car could
+be a more efficient use of both time and
+money. For instance, three or four people
+could easily share one car, since it could drive
+itself between their locations. And commut
+ing time would no longer consist of wasted
+hours stuck on either end of the working day.
+In a self-driving car, the passenger's attention
+could be focused on more productive tasks,
+such as answering email.
+"It could also affect traffic," Montemerlo
+added. "With communication between vehi
+cles, you could increase [traffic flow] substan
+tially so you actually get places faster on the
+highway. And you can imagine people driving
+who can't drive today, such as elderly people
+who can't see very well. Or even kids. Their
+parents could put them in the car and send
+them to where they need to go."
+Montemerlo emphasized that the move
+towards autonomous cars like Stanley and
+the winner of the 2007 Grand Challenge
+would not happen overnight.
+"I don't think cars will become au
+tonomous instantly," Montemerlo said.point
+ing to "smart" anti-lock brakes that are al
+ready in cars. "You should think of that car as
+being just a tiny bit autonomous. Cars are
+going to have more and more of these adap
+tive systems and one day you'll wake up. and
+you'll have a car that's able to drive itself."
+The Stanford Racing Team is led by Sebas
+tion Thrun. an assistant professor of comput
+er science and the head of Stanford's 150-per
+son AI Labs. Last year, Stanley was first out of
+23 robot cars to compete in a 132-mile race
+through the Nevada desert and one of only
+four which successfully completed the drive.
+The team took away $2 million from last
+year's race. Some of the prize money was
+used to fund this year's research, while the
+rest went to the School of Engineering to
+endow a scholarship.
+"From now until pretty much indefinitely
+there will be a student funded by Stanley's
+prize money," Stavens said.
+This year, the Racing Team sought money
+from a variety of sponsors, including Mohr
+Davidow Ventures, Intel. Google and NXP
+Semiconductors. Sponsors donated money in
+return for the right to put logos on the au
+tonomous car and exchange information with
+the team. The team also applied for and re
+ceived a technology development grant from
+DARPA. which may total up to $1 million.
+The team also includes members of Volkswa
+gen Labs, based in Palo Alto.
+Look, Ma, no humans.
+Such is the rallying cry of the Stanford Racing
+Team, composed of nearly forty Stanford faculty,
+researchers and graduate students. The team has
+been in collaboration with Volkswagen's Silicon
+Valley lab to try to win the 2007 Defense Ad
+vanced Research Projects Agency (DARPA)
+Grand Challenge, seeking a car that can navigate
+a simulated urban environment for sixty miles in
+less than six hours, without any human guidance.
+To win the $2 million prize money, the Stanford
+team must do all this while finishing first in what
+will likely be a field of more than thirty teams.
+The Racing Team is fresh off a first-place finish
+in the 2006 DARPA Grand Challenge, where its
+robot car. a Volkswagen Touareg dubbed "Stan
+ley," won a race through the desert.
+Michael Montemerlo, senior researcher at
+Stanford's Al Labs and software lead for the Rac
+ing Team, said the squad faces additional chal
+lenges this year.
+"Last year, you had a robot that had to com
+plete a course in the desert all by itself without any
+manual intervention," Montemerlo said. "So you
+press the go button and either it makes it or it
+doesn't. In the urban challenge it also has to act
+reasonably in the face of other traffic."
+According to Montemerlo — the new car, a
+Passat donated by Volkswagen — will have to re
+liably detect and track a variety of new obstacles.
+These will range from static hazards, such as curbs
+and holes, to dynamic hazards including cars, bicy
+cles and pedestrians. And it will have to do so
+while obeying traffic laws, acting appropriately at
+intersections and doing everything else an experi
+enced human driver would.
+David Stavens, a fifth-year Ph.D. candidate in
+computer science and co-creator of Stanley, said
+the team is in it for the "humanitarian aspect".
+With 43,000 deaths on the road every year, count
+less lives could be saved if human drivers were re
+placed by machines that could potentially have
+quicker reactions, better senses and never get
+tired.
+"We have a tremendous amount ot space
+on this campus devoted to parking." Stavens
+said. "But an automatic car could drop you
+off and go park itself some distance away."
+Stavens said that an automated car could
+be a more efficient use of both time and
+money. For instance, three or four people
+could easily share one car, since it could drive
+itself between their locations. And commut
+ing time would no longer consist of wasted
+hours stuck on either end of the working day.
+In a self-driving car, the passenger's attention
+could be focused on more productive tasks,
+such as answering email.
+"It could also affect traffic," Montemerlo
+added. "With communication between vehi
+cles, you could increase [traffic flow] substan
+tially so you actually get places faster on the
+highway. And you can imagine people driving
+who can't drive today, such as elderly people
+who can't see very well. Or even kids. Their
+parents could put them in the car and send
+them to where they need to go."
+Montemerlo emphasized that the move
+towards autonomous cars like Stanley and
+the winner of the 2007 Grand Challenge
+would not happen overnight.
+"I don't think cars will become au
+tonomous instantly," Montemerlo said.point
+ing to "smart" anti-lock brakes that are al
+ready in cars. "You should think of that car as
+being just a tiny bit autonomous. Cars are
+going to have more and more of these adap
+tive systems and one day you'll wake up. and
+you'll have a car that's able to drive itself."
+The Stanford Racing Team is led by Sebas
+tion Thrun. an assistant professor of comput
+er science and the head of Stanford's 150-per
+son AI Labs. Last year, Stanley was first out of
+23 robot cars to compete in a 132-mile race
+through the Nevada desert and one of only
+four which successfully completed the drive.
+The team took away $2 million from last
+year's race. Some of the prize money was
+used to fund this year's research, while the
+rest went to the School of Engineering to
+endow a scholarship.
+"From now until pretty much indefinitely
+there will be a student funded by Stanley's
+prize money," Stavens said.
+This year, the Racing Team sought money
+from a variety of sponsors, including Mohr
+Davidow Ventures, Intel. Google and NXP
+Semiconductors. Sponsors donated money in
+return for the right to put logos on the au
+tonomous car and exchange information with
+the team. The team also applied for and re
+ceived a technology development grant from
+DARPA. which may total up to $1 million.
+The team also includes members of Volkswa
+gen Labs, based in Palo Alto.
+Look, Ma, no humans.
+Such is the rallying cry of the Stanford Racing
+Team, composed of nearly forty Stanford faculty,
+researchers and graduate students. The team has
+been in collaboration with Volkswagen's Silicon
+Valley lab to try to win the 2007 Defense Ad
+vanced Research Projects Agency (DARPA)
+Grand Challenge, seeking a car that can navigate
+a simulated urban environment for sixty miles in
+less than six hours, without any human guidance.
+To win the $2 million prize money, the Stanford
+team must do all this while finishing first in what
+will likely be a field of more than thirty teams.
+The Racing Team is fresh off a first-place finish
+in the 2006 DARPA Grand Challenge, where its
+robot car. a Volkswagen Touareg dubbed "Stan
+ley," won a race through the desert.
+Michael Montemerlo, senior researcher at
+Stanford's Al Labs and software lead for the Rac
+ing Team, said the squad faces additional chal
+lenges this year.
+"Last year, you had a robot that had to com
+plete a course in the desert all by itself without any
+manual intervention," Montemerlo said. "So you
+press the go button and either it makes it or it
+doesn't. In the urban challenge it also has to act
+reasonably in the face of other traffic."
+According to Montemerlo — the new car, a
+Passat donated by Volkswagen — will have to re
+liably detect and track a variety of new obstacles.
+These will range from static hazards, such as curbs
+and holes, to dynamic hazards including cars, bicy
+cles and pedestrians. And it will have to do so
+while obeying traffic laws, acting appropriately at
+intersections and doing everything else an experi
+enced human driver would.
+David Stavens, a fifth-year Ph.D. candidate in
+computer science and co-creator of Stanley, said
+the team is in it for the "humanitarian aspect".
+With 43,000 deaths on the road every year, count
+less lives could be saved if human drivers were re
+placed by machines that could potentially have
+quicker reactions, better senses and never get
+tired.
+"We have a tremendous amount ot space
+on this campus devoted to parking." Stavens
+said. "But an automatic car could drop you
+off and go park itself some distance away."
+Stavens said that an automated car could
+be a more efficient use of both time and
+money. For instance, three or four people
+could easily share one car, since it could drive
+itself between their locations. And commut
+ing time would no longer consist of wasted
+hours stuck on either end of the working day.
+In a self-driving car, the passenger's attention
+could be focused on more productive tasks,
+such as answering email.
+"It could also affect traffic," Montemerlo
+added. "With communication between vehi
+cles, you could increase [traffic flow] substan
+tially so you actually get places faster on the
+highway. And you can imagine people driving
+who can't drive today, such as elderly people
+who can't see very well. Or even kids. Their
+parents could put them in the car and send
+them to where they need to go."
+Montemerlo emphasized that the move
+towards autonomous cars like Stanley and
+the winner of the 2007 Grand Challenge
+would not happen overnight.
+"I don't think cars will become au
+tonomous instantly," Montemerlo said.point
+ing to "smart" anti-lock brakes that are al
+ready in cars. "You should think of that car as
+being just a tiny bit autonomous. Cars are
+going to have more and more of these adap
+tive systems and one day you'll wake up. and
+you'll have a car that's able to drive itself."
+The Stanford Racing Team is led by Sebas
+tion Thrun. an assistant professor of comput
+er science and the head of Stanford's 150-per
+son AI Labs. Last year, Stanley was first out of
+23 robot cars to compete in a 132-mile race
+through the Nevada desert and one of only
+four which successfully completed the drive.
+The team took away $2 million from last
+year's race. Some of the prize money was
+used to fund this year's research, while the
+rest went to the School of Engineering to
+endow a scholarship.
+"From now until pretty much indefinitely
+there will be a student funded by Stanley's
+prize money," Stavens said.
+This year, the Racing Team sought money
+from a variety of sponsors, including Mohr
+Davidow Ventures, Intel. Google and NXP
+Semiconductors. Sponsors donated money in
+return for the right to put logos on the au
+tonomous car and exchange information with
+the team. The team also applied for and re
+ceived a technology development grant from
+DARPA. which may total up to $1 million.
+The team also includes members of Volkswa
+gen Labs, based in Palo Alto.
+Look, Ma, no humans.
+Such is the rallying cry of the Stanford Racing
+Team, composed of nearly forty Stanford faculty,
+researchers and graduate students. The team has
+been in collaboration with Volkswagen's Silicon
+Valley lab to try to win the 2007 Defense Ad
+vanced Research Projects Agency (DARPA)
+Grand Challenge, seeking a car that can navigate
+a simulated urban environment for sixty miles in
+less than six hours, without any human guidance.
+To win the $2 million prize money, the Stanford
+team must do all this while finishing first in what
+will likely be a field of more than thirty teams.
+The Racing Team is fresh off a first-place finish
+in the 2006 DARPA Grand Challenge, where its
+robot car. a Volkswagen Touareg dubbed "Stan
+ley," won a race through the desert.
+Michael Montemerlo, senior researcher at
+Stanford's Al Labs and software lead for the Rac
+ing Team, said the squad faces additional chal
+lenges this year.
+"Last year, you had a robot that had to com
+plete a course in the desert all by itself without any
+manual intervention," Montemerlo said. "So you
+press the go button and either it makes it or it
+doesn't. In the urban challenge it also has to act
+reasonably in the face of other traffic."
+According to Montemerlo — the new car, a
+Passat donated by Volkswagen — will have to re
+liably detect and track a variety of new obstacles.
+These will range from static hazards, such as curbs
+and holes, to dynamic hazards including cars, bicy
+cles and pedestrians. And it will have to do so
+while obeying traffic laws, acting appropriately at
+intersections and doing everything else an experi
+enced human driver would.
+David Stavens, a fifth-year Ph.D. candidate in
+computer science and co-creator of Stanley, said
+the team is in it for the "humanitarian aspect".
+With 43,000 deaths on the road every year, count
+less lives could be saved if human drivers were re
+placed by machines that could potentially have
+quicker reactions, better senses and never get
+tired.
+"We have a tremendous amount ot space
+on this campus devoted to parking." Stavens
+said. "But an automatic car could drop you
+off and go park itself some distance away."
+Stavens said that an automated car could
+be a more efficient use of both time and
+money. For instance, three or four people
+could easily share one car, since it could drive
+itself between their locations. And commut
+ing time would no longer consist of wasted
+hours stuck on either end of the working day.
+In a self-driving car, the passenger's attention
+could be focused on more productive tasks,
+such as answering email.
+"It could also affect traffic," Montemerlo
+added. "With communication between vehi
+cles, you could increase [traffic flow] substan
+tially so you actually get places faster on the
+highway. And you can imagine people driving
+who can't drive today, such as elderly people
+who can't see very well. Or even kids. Their
+parents could put them in the car and send
+them to where they need to go."
+Montemerlo emphasized that the move
+towards autonomous cars like Stanley and
+the winner of the 2007 Grand Challenge
+would not happen overnight.
+"I don't think cars will become au
+tonomous instantly," Montemerlo said.point
+ing to "smart" anti-lock brakes that are al
+ready in cars. "You should think of that car as
+being just a tiny bit autonomous. Cars are
+going to have more and more of these adap
+tive systems and one day you'll wake up. and
+you'll have a car that's able to drive itself."
+The Stanford Racing Team is led by Sebas
+tion Thrun. an assistant professor of comput
+er science and the head of Stanford's 150-per
+son AI Labs. Last year, Stanley was first out of
+23 robot cars to compete in a 132-mile race
+through the Nevada desert and one of only
+four which successfully completed the drive.
+The team took away $2 million from last
+year's race. Some of the prize money was
+used to fund this year's research, while the
+rest went to the School of Engineering to
+endow a scholarship.
+"From now until pretty much indefinitely
+there will be a student funded by Stanley's
+prize money," Stavens said.
+This year, the Racing Team sought money
+from a variety of sponsors, including Mohr
+Davidow Ventures, Intel. Google and NXP
+Semiconductors. Sponsors donated money in
+return for the right to put logos on the au
+tonomous car and exchange information with
+the team. The team also applied for and re
+ceived a technology development grant from
+DARPA. which may total up to $1 million.
+The team also includes members of Volkswa
+gen Labs, based in Palo Alto.
+Look, Ma, no humans.
+Such is the rallying cry of the Stanford Racing
+Team, composed of nearly forty Stanford faculty,
+researchers and graduate students. The team has
+been in collaboration with Volkswagen's Silicon
+Valley lab to try to win the 2007 Defense Ad
+vanced Research Projects Agency (DARPA)
+Grand Challenge, seeking a car that can navigate
+a simulated urban environment for sixty miles in
+less than six hours, without any human guidance.
+To win the $2 million prize money, the Stanford
+team must do all this while finishing first in what
+will likely be a field of more than thirty teams.
+The Racing Team is fresh off a first-place finish
+in the 2006 DARPA Grand Challenge, where its
+robot car. a Volkswagen Touareg dubbed "Stan
+ley," won a race through the desert.
+Michael Montemerlo, senior researcher at
+Stanford's Al Labs and software lead for the Rac
+ing Team, said the squad faces additional chal
+lenges this year.
+"Last year, you had a robot that had to com
+plete a course in the desert all by itself without any
+manual intervention," Montemerlo said. "So you
+press the go button and either it makes it or it
+doesn't. In the urban challenge it also has to act
+reasonably in the face of other traffic."
+According to Montemerlo — the new car, a
+Passat donated by Volkswagen — will have to re
+liably detect and track a variety of new obstacles.
+These will range from static hazards, such as curbs
+and holes, to dynamic hazards including cars, bicy
+cles and pedestrians. And it will have to do so
+while obeying traffic laws, acting appropriately at
+intersections and doing everything else an experi
+enced human driver would.
+David Stavens, a fifth-year Ph.D. candidate in
+computer science and co-creator of Stanley, said
+the team is in it for the "humanitarian aspect".
+With 43,000 deaths on the road every year, count
+less lives could be saved if human drivers were re
+placed by machines that could potentially have
+quicker reactions, better senses and never get
+tired.
+"We have a tremendous amount ot space
+on this campus devoted to parking." Stavens
+said. "But an automatic car could drop you
+off and go park itself some distance away."
+Stavens said that an automated car could
+be a more efficient use of both time and
+money. For instance, three or four people
+could easily share one car, since it could drive
+itself between their locations. And commut
+ing time would no longer consist of wasted
+hours stuck on either end of the working day.
+In a self-driving car, the passenger's attention
+could be focused on more productive tasks,
+such as answering email.
+"It could also affect traffic," Montemerlo
+added. "With communication between vehi
+cles, you could increase [traffic flow] substan
+tially so you actually get places faster on the
+highway. And you can imagine people driving
+who can't drive today, such as elderly people
+who can't see very well. Or even kids. Their
+parents could put them in the car and send
+them to where they need to go."
+Montemerlo emphasized that the move
+towards autonomous cars like Stanley and
+the winner of the 2007 Grand Challenge
+would not happen overnight.
+"I don't think cars will become au
+tonomous instantly," Montemerlo said.point
+ing to "smart" anti-lock brakes that are al
+ready in cars. "You should think of that car as
+being just a tiny bit autonomous. Cars are
+going to have more and more of these adap
+tive systems and one day you'll wake up. and
+you'll have a car that's able to drive itself."
+The Stanford Racing Team is led by Sebas
+tion Thrun. an assistant professor of comput
+er science and the head of Stanford's 150-per
+son AI Labs. Last year, Stanley was first out of
+23 robot cars to compete in a 132-mile race
+through the Nevada desert and one of only
+four which successfully completed the drive.
+The team took away $2 million from last
+year's race. Some of the prize money was
+used to fund this year's research, while the
+rest went to the School of Engineering to
+endow a scholarship.
+"From now until pretty much indefinitely
+there will be a student funded by Stanley's
+prize money," Stavens said.
+This year, the Racing Team sought money
+from a variety of sponsors, including Mohr
+Davidow Ventures, Intel. Google and NXP
+Semiconductors. Sponsors donated money in
+return for the right to put logos on the au
+tonomous car and exchange information with
+the team. The team also applied for and re
+ceived a technology development grant from
+DARPA. which may total up to $1 million.
+The team also includes members of Volkswa
+gen Labs, based in Palo Alto.
+Look, Ma, no humans.
+Such is the rallying cry of the Stanford Racing
+Team, composed of nearly forty Stanford faculty,
+researchers and graduate students. The team has
+been in collaboration with Volkswagen's Silicon
+Valley lab to try to win the 2007 Defense Ad
+vanced Research Projects Agency (DARPA)
+Grand Challenge, seeking a car that can navigate
+a simulated urban environment for sixty miles in
+less than six hours, without any human guidance.
+To win the $2 million prize money, the Stanford
+team must do all this while finishing first in what
+will likely be a field of more than thirty teams.
+The Racing Team is fresh off a first-place finish
+in the 2006 DARPA Grand Challenge, where its
+robot car. a Volkswagen Touareg dubbed "Stan
+ley," won a race through the desert.
+Michael Montemerlo, senior researcher at
+Stanford's Al Labs and software lead for the Rac
+ing Team, said the squad faces additional chal
+lenges this year.
+"Last year, you had a robot that had to com
+plete a course in the desert all by itself without any
+manual intervention," Montemerlo said. "So you
+press the go button and either it makes it or it
+doesn't. In the urban challenge it also has to act
+reasonably in the face of other traffic."
+According to Montemerlo — the new car, a
+Passat donated by Volkswagen — will have to re
+liably detect and track a variety of new obstacles.
+These will range from static hazards, such as curbs
+and holes, to dynamic hazards including cars, bicy
+cles and pedestrians. And it will have to do so
+while obeying traffic laws, acting appropriately at
+intersections and doing everything else an experi
+enced human driver would.
+David Stavens, a fifth-year Ph.D. candidate in
+computer science and co-creator of Stanley, said
+the team is in it for the "humanitarian aspect".
+With 43,000 deaths on the road every year, count
+less lives could be saved if human drivers were re
+placed by machines that could potentially have
+quicker reactions, better senses and never get
+tired.
+"We have a tremendous amount ot space
+on this campus devoted to parking." Stavens
+said. "But an automatic car could drop you
+off and go park itself some distance away."
+Stavens said that an automated car could
+be a more efficient use of both time and
+money. For instance, three or four people
+could easily share one car, since it could drive
+itself between their locations. And commut
+ing time would no longer consist of wasted
+hours stuck on either end of the working day.
+In a self-driving car, the passenger's attention
+could be focused on more productive tasks,
+such as answering email.
+"It could also affect traffic," Montemerlo
+added. "With communication between vehi
+cles, you could increase [traffic flow] substan
+tially so you actually get places faster on the
+highway. And you can imagine people driving
+who can't drive today, such as elderly people
+who can't see very well. Or even kids. Their
+parents could put them in the car and send
+them to where they need to go."
+Montemerlo emphasized that the move
+towards autonomous cars like Stanley and
+the winner of the 2007 Grand Challenge
+would not happen overnight.
+"I don't think cars will become au
+tonomous instantly," Montemerlo said.point
+ing to "smart" anti-lock brakes that are al
+ready in cars. "You should think of that car as
+being just a tiny bit autonomous. Cars are
+going to have more and more of these adap
+tive systems and one day you'll wake up. and
+you'll have a car that's able to drive itself."
+The Stanford Racing Team is led by Sebas
+tion Thrun. an assistant professor of comput
+er science and the head of Stanford's 150-per
+son AI Labs. Last year, Stanley was first out of
+23 robot cars to compete in a 132-mile race
+through the Nevada desert and one of only
+four which successfully completed the drive.
+The team took away $2 million from last
+year's race. Some of the prize money was
+used to fund this year's research, while the
+rest went to the School of Engineering to
+endow a scholarship.
+"From now until pretty much indefinitely
+there will be a student funded by Stanley's
+prize money," Stavens said.
+This year, the Racing Team sought money
+from a variety of sponsors, including Mohr
+Davidow Ventures, Intel. Google and NXP
+Semiconductors. Sponsors donated money in
+return for the right to put logos on the au
+tonomous car and exchange information with
+the team. The team also applied for and re
+ceived a technology development grant from
+DARPA. which may total up to $1 million.
+The team also includes members of Volkswa
+gen Labs, based in Palo Alto.

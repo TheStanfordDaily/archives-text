@@ -1,0 +1,675 @@
+# SCIENCE & TECH
+## Program advances 3-D images Program creates models using advanced algorithm 
+### NIKHIL KAMAT 
+Photographers may now he able to
+do more than print their work: they can
+instantly turn it into navigable virtual 3-
+O worlds. Stanford computer scientists
+have come a step closer to realizing this
+goal through the development of an
+algorithm that can render accurate
+three-dimensional models from ordi
+nary photographs.
+ITie Make3d algorithm, developed
+by Computer Science Prof. Andrew Ng
+and postdoctoral student Ashutosh
+Saxena. uses data from a large set of
+carefully analyzed images taken from
+all across campus to relate the relative
+depth of objects in various circum
+stances to properties of the two-dimen
+sional image, ITiis depth data is then
+used to extrapolate the relative posi
+tions and shapes of objects in new pho
+tographs introduced to the algorithm.
+"We also applied
+it in robotic
+grasping."
+
+-ASHUTOSH SAXENA,
+D iJ | I i. |r J pn f
+
+"If you look at a single image you
+will notice that some parts of the
+image relate to the depth — for
+example, the sky is usually far away,"
+Saxena said. "The machine learning
+algorithm, which is a branch of arti
+ficial intelligence, learns the rela
+tions, so it learns the relation
+between the image and the depth or
+/ the 3-D structure."
+According to Ng, the concept was
+traditionally considered as a techni
+cal impossibility until recently
+because of the difficulties in differ
+entiating two-dimensional and
+three-dimensional objects.
+"There are many cues that you
+and 1 are very good at combining to
+, estimate distances, and our software
+learns to use similar cues from data."
+Ng said. "After the learning process
+( is completed, we then show it a new
+picture and it estimates the distance
+from every object in the scene."
+Both Ng and Saxena acknowl
+•' edged the commercial possibilities
+for the algorithm. Currently there
+aie hopes that it will be used to
+improve object detection for com
+'X) plicated structures like faces or mov
+ing objects. Saxena noted that rapid
+construction of virtual worlds and
+( characters for video games is one of
+many possibilities to which the tech
+nology can be applied. The algo
+rithm has already been extensively
+applied in identification of objects in
+robotics.
+"There was a little RC car that
+- we designed which had a single cam
+era that took an image to find out
+where it should go and drove at
+faster speeds, like five meters per
+second, for a long time without hit
+ting obstacles," Saxena said. "We
+also applied it in robotic grasping
+work because to grasp something
+you need to understand the 3-D
+structure of the problem, for exam
+ple the unloading of a dishwasher."
+Though the technology has been
+applied in robotics, there are still
+many obstacles in perfecting its 3-D
+rendering capabilities. Currently, the
+algorithm does not construct accu
+rate 3-D models of small objects and
+has a tendency to create undesirable
+distortions when rendering faces
+and bodies. There are currently a
+number of plans being implemented
+to improve the accuracy of the 3-D
+
+models.
+"We will allow users to spend five
+to ten seconds on an image and help
+the algorithm out and create the 3-D
+models in the way that they desire,"
+Saxena said. "We also are planning
+to address 3-D reconstructions of
+objects."
+Ng noted that future applications
+of the algorithm may include accu
+rate modeling of houses for the real
+estate industry and modeling fly
+through views for applications like
+Google Karth. Ng even suggested
+the possibility applying the applica
+tion to personal photos.
+Demonstrations of the algorithm
+can be viewed at http://make3d.stan
+ford.edu.
+
+Contact Nikhil Kamat at nvkamatte
+Stanford.edit.
+Photographers may now he able to
+do more than print their work: they can
+instantly turn it into navigable virtual 3-
+O worlds. Stanford computer scientists
+have come a step closer to realizing this
+goal through the development of an
+algorithm that can render accurate
+three-dimensional models from ordi
+nary photographs.
+ITie Make3d algorithm, developed
+by Computer Science Prof. Andrew Ng
+and postdoctoral student Ashutosh
+Saxena. uses data from a large set of
+carefully analyzed images taken from
+all across campus to relate the relative
+depth of objects in various circum
+stances to properties of the two-dimen
+sional image, ITiis depth data is then
+used to extrapolate the relative posi
+tions and shapes of objects in new pho
+tographs introduced to the algorithm.
+"We also applied
+it in robotic
+grasping."
+
+-ASHUTOSH SAXENA,
+D iJ | I i. |r J pn f
+
+"If you look at a single image you
+will notice that some parts of the
+image relate to the depth — for
+example, the sky is usually far away,"
+Saxena said. "The machine learning
+algorithm, which is a branch of arti
+ficial intelligence, learns the rela
+tions, so it learns the relation
+between the image and the depth or
+/ the 3-D structure."
+According to Ng, the concept was
+traditionally considered as a techni
+cal impossibility until recently
+because of the difficulties in differ
+entiating two-dimensional and
+three-dimensional objects.
+"There are many cues that you
+and 1 are very good at combining to
+, estimate distances, and our software
+learns to use similar cues from data."
+Ng said. "After the learning process
+( is completed, we then show it a new
+picture and it estimates the distance
+from every object in the scene."
+Both Ng and Saxena acknowl
+•' edged the commercial possibilities
+for the algorithm. Currently there
+aie hopes that it will be used to
+improve object detection for com
+'X) plicated structures like faces or mov
+ing objects. Saxena noted that rapid
+construction of virtual worlds and
+( characters for video games is one of
+many possibilities to which the tech
+nology can be applied. The algo
+rithm has already been extensively
+applied in identification of objects in
+robotics.
+"There was a little RC car that
+- we designed which had a single cam
+era that took an image to find out
+where it should go and drove at
+faster speeds, like five meters per
+second, for a long time without hit
+ting obstacles," Saxena said. "We
+also applied it in robotic grasping
+work because to grasp something
+you need to understand the 3-D
+structure of the problem, for exam
+ple the unloading of a dishwasher."
+Though the technology has been
+applied in robotics, there are still
+many obstacles in perfecting its 3-D
+rendering capabilities. Currently, the
+algorithm does not construct accu
+rate 3-D models of small objects and
+has a tendency to create undesirable
+distortions when rendering faces
+and bodies. There are currently a
+number of plans being implemented
+to improve the accuracy of the 3-D
+
+models.
+"We will allow users to spend five
+to ten seconds on an image and help
+the algorithm out and create the 3-D
+models in the way that they desire,"
+Saxena said. "We also are planning
+to address 3-D reconstructions of
+objects."
+Ng noted that future applications
+of the algorithm may include accu
+rate modeling of houses for the real
+estate industry and modeling fly
+through views for applications like
+Google Karth. Ng even suggested
+the possibility applying the applica
+tion to personal photos.
+Demonstrations of the algorithm
+can be viewed at http://make3d.stan
+ford.edu.
+
+Contact Nikhil Kamat at nvkamatte
+Stanford.edit.
+Photographers may now he able to
+do more than print their work: they can
+instantly turn it into navigable virtual 3-
+O worlds. Stanford computer scientists
+have come a step closer to realizing this
+goal through the development of an
+algorithm that can render accurate
+three-dimensional models from ordi
+nary photographs.
+ITie Make3d algorithm, developed
+by Computer Science Prof. Andrew Ng
+and postdoctoral student Ashutosh
+Saxena. uses data from a large set of
+carefully analyzed images taken from
+all across campus to relate the relative
+depth of objects in various circum
+stances to properties of the two-dimen
+sional image, ITiis depth data is then
+used to extrapolate the relative posi
+tions and shapes of objects in new pho
+tographs introduced to the algorithm.
+"We also applied
+it in robotic
+grasping."
+
+-ASHUTOSH SAXENA,
+D iJ | I i. |r J pn f
+
+"If you look at a single image you
+will notice that some parts of the
+image relate to the depth — for
+example, the sky is usually far away,"
+Saxena said. "The machine learning
+algorithm, which is a branch of arti
+ficial intelligence, learns the rela
+tions, so it learns the relation
+between the image and the depth or
+/ the 3-D structure."
+According to Ng, the concept was
+traditionally considered as a techni
+cal impossibility until recently
+because of the difficulties in differ
+entiating two-dimensional and
+three-dimensional objects.
+"There are many cues that you
+and 1 are very good at combining to
+, estimate distances, and our software
+learns to use similar cues from data."
+Ng said. "After the learning process
+( is completed, we then show it a new
+picture and it estimates the distance
+from every object in the scene."
+Both Ng and Saxena acknowl
+•' edged the commercial possibilities
+for the algorithm. Currently there
+aie hopes that it will be used to
+improve object detection for com
+'X) plicated structures like faces or mov
+ing objects. Saxena noted that rapid
+construction of virtual worlds and
+( characters for video games is one of
+many possibilities to which the tech
+nology can be applied. The algo
+rithm has already been extensively
+applied in identification of objects in
+robotics.
+"There was a little RC car that
+- we designed which had a single cam
+era that took an image to find out
+where it should go and drove at
+faster speeds, like five meters per
+second, for a long time without hit
+ting obstacles," Saxena said. "We
+also applied it in robotic grasping
+work because to grasp something
+you need to understand the 3-D
+structure of the problem, for exam
+ple the unloading of a dishwasher."
+Though the technology has been
+applied in robotics, there are still
+many obstacles in perfecting its 3-D
+rendering capabilities. Currently, the
+algorithm does not construct accu
+rate 3-D models of small objects and
+has a tendency to create undesirable
+distortions when rendering faces
+and bodies. There are currently a
+number of plans being implemented
+to improve the accuracy of the 3-D
+
+models.
+"We will allow users to spend five
+to ten seconds on an image and help
+the algorithm out and create the 3-D
+models in the way that they desire,"
+Saxena said. "We also are planning
+to address 3-D reconstructions of
+objects."
+Ng noted that future applications
+of the algorithm may include accu
+rate modeling of houses for the real
+estate industry and modeling fly
+through views for applications like
+Google Karth. Ng even suggested
+the possibility applying the applica
+tion to personal photos.
+Demonstrations of the algorithm
+can be viewed at http://make3d.stan
+ford.edu.
+
+Contact Nikhil Kamat at nvkamatte
+Stanford.edit.
+Photographers may now he able to
+do more than print their work: they can
+instantly turn it into navigable virtual 3-
+O worlds. Stanford computer scientists
+have come a step closer to realizing this
+goal through the development of an
+algorithm that can render accurate
+three-dimensional models from ordi
+nary photographs.
+ITie Make3d algorithm, developed
+by Computer Science Prof. Andrew Ng
+and postdoctoral student Ashutosh
+Saxena. uses data from a large set of
+carefully analyzed images taken from
+all across campus to relate the relative
+depth of objects in various circum
+stances to properties of the two-dimen
+sional image, ITiis depth data is then
+used to extrapolate the relative posi
+tions and shapes of objects in new pho
+tographs introduced to the algorithm.
+"We also applied
+it in robotic
+grasping."
+
+-ASHUTOSH SAXENA,
+D iJ | I i. |r J pn f
+
+"If you look at a single image you
+will notice that some parts of the
+image relate to the depth — for
+example, the sky is usually far away,"
+Saxena said. "The machine learning
+algorithm, which is a branch of arti
+ficial intelligence, learns the rela
+tions, so it learns the relation
+between the image and the depth or
+/ the 3-D structure."
+According to Ng, the concept was
+traditionally considered as a techni
+cal impossibility until recently
+because of the difficulties in differ
+entiating two-dimensional and
+three-dimensional objects.
+"There are many cues that you
+and 1 are very good at combining to
+, estimate distances, and our software
+learns to use similar cues from data."
+Ng said. "After the learning process
+( is completed, we then show it a new
+picture and it estimates the distance
+from every object in the scene."
+Both Ng and Saxena acknowl
+•' edged the commercial possibilities
+for the algorithm. Currently there
+aie hopes that it will be used to
+improve object detection for com
+'X) plicated structures like faces or mov
+ing objects. Saxena noted that rapid
+construction of virtual worlds and
+( characters for video games is one of
+many possibilities to which the tech
+nology can be applied. The algo
+rithm has already been extensively
+applied in identification of objects in
+robotics.
+"There was a little RC car that
+- we designed which had a single cam
+era that took an image to find out
+where it should go and drove at
+faster speeds, like five meters per
+second, for a long time without hit
+ting obstacles," Saxena said. "We
+also applied it in robotic grasping
+work because to grasp something
+you need to understand the 3-D
+structure of the problem, for exam
+ple the unloading of a dishwasher."
+Though the technology has been
+applied in robotics, there are still
+many obstacles in perfecting its 3-D
+rendering capabilities. Currently, the
+algorithm does not construct accu
+rate 3-D models of small objects and
+has a tendency to create undesirable
+distortions when rendering faces
+and bodies. There are currently a
+number of plans being implemented
+to improve the accuracy of the 3-D
+
+models.
+"We will allow users to spend five
+to ten seconds on an image and help
+the algorithm out and create the 3-D
+models in the way that they desire,"
+Saxena said. "We also are planning
+to address 3-D reconstructions of
+objects."
+Ng noted that future applications
+of the algorithm may include accu
+rate modeling of houses for the real
+estate industry and modeling fly
+through views for applications like
+Google Karth. Ng even suggested
+the possibility applying the applica
+tion to personal photos.
+Demonstrations of the algorithm
+can be viewed at http://make3d.stan
+ford.edu.
+
+Contact Nikhil Kamat at nvkamatte
+Stanford.edit.
+Photographers may now he able to
+do more than print their work: they can
+instantly turn it into navigable virtual 3-
+O worlds. Stanford computer scientists
+have come a step closer to realizing this
+goal through the development of an
+algorithm that can render accurate
+three-dimensional models from ordi
+nary photographs.
+ITie Make3d algorithm, developed
+by Computer Science Prof. Andrew Ng
+and postdoctoral student Ashutosh
+Saxena. uses data from a large set of
+carefully analyzed images taken from
+all across campus to relate the relative
+depth of objects in various circum
+stances to properties of the two-dimen
+sional image, ITiis depth data is then
+used to extrapolate the relative posi
+tions and shapes of objects in new pho
+tographs introduced to the algorithm.
+"We also applied
+it in robotic
+grasping."
+
+-ASHUTOSH SAXENA,
+D iJ | I i. |r J pn f
+
+"If you look at a single image you
+will notice that some parts of the
+image relate to the depth — for
+example, the sky is usually far away,"
+Saxena said. "The machine learning
+algorithm, which is a branch of arti
+ficial intelligence, learns the rela
+tions, so it learns the relation
+between the image and the depth or
+/ the 3-D structure."
+According to Ng, the concept was
+traditionally considered as a techni
+cal impossibility until recently
+because of the difficulties in differ
+entiating two-dimensional and
+three-dimensional objects.
+"There are many cues that you
+and 1 are very good at combining to
+, estimate distances, and our software
+learns to use similar cues from data."
+Ng said. "After the learning process
+( is completed, we then show it a new
+picture and it estimates the distance
+from every object in the scene."
+Both Ng and Saxena acknowl
+•' edged the commercial possibilities
+for the algorithm. Currently there
+aie hopes that it will be used to
+improve object detection for com
+'X) plicated structures like faces or mov
+ing objects. Saxena noted that rapid
+construction of virtual worlds and
+( characters for video games is one of
+many possibilities to which the tech
+nology can be applied. The algo
+rithm has already been extensively
+applied in identification of objects in
+robotics.
+"There was a little RC car that
+- we designed which had a single cam
+era that took an image to find out
+where it should go and drove at
+faster speeds, like five meters per
+second, for a long time without hit
+ting obstacles," Saxena said. "We
+also applied it in robotic grasping
+work because to grasp something
+you need to understand the 3-D
+structure of the problem, for exam
+ple the unloading of a dishwasher."
+Though the technology has been
+applied in robotics, there are still
+many obstacles in perfecting its 3-D
+rendering capabilities. Currently, the
+algorithm does not construct accu
+rate 3-D models of small objects and
+has a tendency to create undesirable
+distortions when rendering faces
+and bodies. There are currently a
+number of plans being implemented
+to improve the accuracy of the 3-D
+
+models.
+"We will allow users to spend five
+to ten seconds on an image and help
+the algorithm out and create the 3-D
+models in the way that they desire,"
+Saxena said. "We also are planning
+to address 3-D reconstructions of
+objects."
+Ng noted that future applications
+of the algorithm may include accu
+rate modeling of houses for the real
+estate industry and modeling fly
+through views for applications like
+Google Karth. Ng even suggested
+the possibility applying the applica
+tion to personal photos.
+Demonstrations of the algorithm
+can be viewed at http://make3d.stan
+ford.edu.
+
+Contact Nikhil Kamat at nvkamatte
+Stanford.edit.
+Photographers may now he able to
+do more than print their work: they can
+instantly turn it into navigable virtual 3-
+O worlds. Stanford computer scientists
+have come a step closer to realizing this
+goal through the development of an
+algorithm that can render accurate
+three-dimensional models from ordi
+nary photographs.
+ITie Make3d algorithm, developed
+by Computer Science Prof. Andrew Ng
+and postdoctoral student Ashutosh
+Saxena. uses data from a large set of
+carefully analyzed images taken from
+all across campus to relate the relative
+depth of objects in various circum
+stances to properties of the two-dimen
+sional image, ITiis depth data is then
+used to extrapolate the relative posi
+tions and shapes of objects in new pho
+tographs introduced to the algorithm.
+"We also applied
+it in robotic
+grasping."
+
+-ASHUTOSH SAXENA,
+D iJ | I i. |r J pn f
+
+"If you look at a single image you
+will notice that some parts of the
+image relate to the depth — for
+example, the sky is usually far away,"
+Saxena said. "The machine learning
+algorithm, which is a branch of arti
+ficial intelligence, learns the rela
+tions, so it learns the relation
+between the image and the depth or
+/ the 3-D structure."
+According to Ng, the concept was
+traditionally considered as a techni
+cal impossibility until recently
+because of the difficulties in differ
+entiating two-dimensional and
+three-dimensional objects.
+"There are many cues that you
+and 1 are very good at combining to
+, estimate distances, and our software
+learns to use similar cues from data."
+Ng said. "After the learning process
+( is completed, we then show it a new
+picture and it estimates the distance
+from every object in the scene."
+Both Ng and Saxena acknowl
+•' edged the commercial possibilities
+for the algorithm. Currently there
+aie hopes that it will be used to
+improve object detection for com
+'X) plicated structures like faces or mov
+ing objects. Saxena noted that rapid
+construction of virtual worlds and
+( characters for video games is one of
+many possibilities to which the tech
+nology can be applied. The algo
+rithm has already been extensively
+applied in identification of objects in
+robotics.
+"There was a little RC car that
+- we designed which had a single cam
+era that took an image to find out
+where it should go and drove at
+faster speeds, like five meters per
+second, for a long time without hit
+ting obstacles," Saxena said. "We
+also applied it in robotic grasping
+work because to grasp something
+you need to understand the 3-D
+structure of the problem, for exam
+ple the unloading of a dishwasher."
+Though the technology has been
+applied in robotics, there are still
+many obstacles in perfecting its 3-D
+rendering capabilities. Currently, the
+algorithm does not construct accu
+rate 3-D models of small objects and
+has a tendency to create undesirable
+distortions when rendering faces
+and bodies. There are currently a
+number of plans being implemented
+to improve the accuracy of the 3-D
+
+models.
+"We will allow users to spend five
+to ten seconds on an image and help
+the algorithm out and create the 3-D
+models in the way that they desire,"
+Saxena said. "We also are planning
+to address 3-D reconstructions of
+objects."
+Ng noted that future applications
+of the algorithm may include accu
+rate modeling of houses for the real
+estate industry and modeling fly
+through views for applications like
+Google Karth. Ng even suggested
+the possibility applying the applica
+tion to personal photos.
+Demonstrations of the algorithm
+can be viewed at http://make3d.stan
+ford.edu.
+
+Contact Nikhil Kamat at nvkamatte
+Stanford.edit.

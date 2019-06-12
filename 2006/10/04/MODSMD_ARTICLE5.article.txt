@@ -1,0 +1,696 @@
+# TECHNOLOGY
+## Spam deletion causes problems with Webmail 
+### RAHUL KANAKIA STAFF WRITER 
+Information Technology Systems and Services (ITSS) began
+deleting spam-tagged messages rather than delivering them
+yesterday afternoon to counteract problems with Webmail
+caused by a mysterious spike in message volume, a move that
+left some students wary.
+The spam deletion program, which was scheduled to start
+later this year, only deletes messages coded [SPAM:#####]. Ac
+cording to Nancy Ware, ITSS project manager, the number of
+"#"s in the message tag is directly proportional to how confi
+dent the software is that the message is actually spam.
+"TTiis designation means the certainty factor of the e-mail
+being a spam message is in the 90 to 99 percent range," Ware
+said. "When the central Stanford mail gateway servers receive
+the inbound message, it is sorted through this filter. Any mes
+sage that is coded at this level will be discarded prior to any pro
+cessing or forwarding.Therefore, these messages will never be
+received by the pobox servers and delivered to your e-mail ad
+dress."
+This measure was taken in response to reports of e-mail
+problems, beginning on Sept. 27, which included an inability to
+check or receive messages, delays in receiving e-mail and blank
+screens or lack of connection while using Webmail.
+Despite an e-mail, sent to campus RCCs, that described the
+new program, many students were previously unaware of the
+
+
+MICHAEL RAMM/The Stanford Daily
+change and expressed some con
+cerns about personal messages being
+marked as spam.
+"I would only want it implement
+ed if it were fairly conservative, since
+sometimes e-mail marked as spam is
+not," said Michael Dinerstein. a sen
+ior.
+Freshman Kimberly Chang
+shared those concerns.
+"Well a lot of my e-mails are
+tagged as spam, so I wouldn't want
+them to delete my spam e-mail." she
+said.
+Ware said that the problems were
+caused by a sudden spike in e-mail
+volume, but the causes ol that jump
+are still a mystery. IT Services sus
+pects that the spike was "due to high
+volumes of spam and increased e
+mail volume related to the return of
+students," Ware said. However, they
+were unable to rule out the possibili
+ty of a cyber-attack.
+" Ilirough the course of normal
+operations, we do provide additional
+allowances to handle surges and
+spikes in demand," she said. "How
+
+ever, the load patterns of last week
+significantly exceeded these plan
+ning buffers. Regrettably this creat
+ed a sudden degradation in our serv
+ice."
+As of yesterday. Ware said IT Ser
+vices had still never received a report
+of an e-mail tagged as the highest
+level of spam which turned out to be
+a false positive. But there are tools
+for looking at the headers of deleted
+messages and reporting false spam
+online at email.stanford.edu.
+However, students will not be
+able to opt out of the level five spam
+deletion program.
+"Since the e-mail is deleted right
+at the border of Stanford," Ware
+said, "it is never even processed.
+1 lowever. we may go back and retool
+that in time."
+In the future. IT Services is plan
+ning on implementing an automatic
+deletion program for level three and
+four spam messages marked
+[SPAM:###| and |SPAM:####| for
+which there is less certainty about
+their junk-mail status. Students will
+have the choice to opt out of this
+lower scale program.
+Despite concerns that personal
+mail might be weeded out, some stu
+dents welcomed the program.
+The spam software "actually
+
+works pretty well," said senior Ryan
+Hopkins. He called the automatic
+deletions "a great idea."
+Senior Lindsey Shauer agreed.
+"It's gotten to the point where,
+when I check my email, 1 delete 75
+percent of what is in my inbox," she
+said. "Spam is ruining my life."
+Information Technology Systems and Services (ITSS) began
+deleting spam-tagged messages rather than delivering them
+yesterday afternoon to counteract problems with Webmail
+caused by a mysterious spike in message volume, a move that
+left some students wary.
+The spam deletion program, which was scheduled to start
+later this year, only deletes messages coded [SPAM:#####]. Ac
+cording to Nancy Ware, ITSS project manager, the number of
+"#"s in the message tag is directly proportional to how confi
+dent the software is that the message is actually spam.
+"TTiis designation means the certainty factor of the e-mail
+being a spam message is in the 90 to 99 percent range," Ware
+said. "When the central Stanford mail gateway servers receive
+the inbound message, it is sorted through this filter. Any mes
+sage that is coded at this level will be discarded prior to any pro
+cessing or forwarding.Therefore, these messages will never be
+received by the pobox servers and delivered to your e-mail ad
+dress."
+This measure was taken in response to reports of e-mail
+problems, beginning on Sept. 27, which included an inability to
+check or receive messages, delays in receiving e-mail and blank
+screens or lack of connection while using Webmail.
+Despite an e-mail, sent to campus RCCs, that described the
+new program, many students were previously unaware of the
+
+
+MICHAEL RAMM/The Stanford Daily
+change and expressed some con
+cerns about personal messages being
+marked as spam.
+"I would only want it implement
+ed if it were fairly conservative, since
+sometimes e-mail marked as spam is
+not," said Michael Dinerstein. a sen
+ior.
+Freshman Kimberly Chang
+shared those concerns.
+"Well a lot of my e-mails are
+tagged as spam, so I wouldn't want
+them to delete my spam e-mail." she
+said.
+Ware said that the problems were
+caused by a sudden spike in e-mail
+volume, but the causes ol that jump
+are still a mystery. IT Services sus
+pects that the spike was "due to high
+volumes of spam and increased e
+mail volume related to the return of
+students," Ware said. However, they
+were unable to rule out the possibili
+ty of a cyber-attack.
+" Ilirough the course of normal
+operations, we do provide additional
+allowances to handle surges and
+spikes in demand," she said. "How
+
+ever, the load patterns of last week
+significantly exceeded these plan
+ning buffers. Regrettably this creat
+ed a sudden degradation in our serv
+ice."
+As of yesterday. Ware said IT Ser
+vices had still never received a report
+of an e-mail tagged as the highest
+level of spam which turned out to be
+a false positive. But there are tools
+for looking at the headers of deleted
+messages and reporting false spam
+online at email.stanford.edu.
+However, students will not be
+able to opt out of the level five spam
+deletion program.
+"Since the e-mail is deleted right
+at the border of Stanford," Ware
+said, "it is never even processed.
+1 lowever. we may go back and retool
+that in time."
+In the future. IT Services is plan
+ning on implementing an automatic
+deletion program for level three and
+four spam messages marked
+[SPAM:###| and |SPAM:####| for
+which there is less certainty about
+their junk-mail status. Students will
+have the choice to opt out of this
+lower scale program.
+Despite concerns that personal
+mail might be weeded out, some stu
+dents welcomed the program.
+The spam software "actually
+
+works pretty well," said senior Ryan
+Hopkins. He called the automatic
+deletions "a great idea."
+Senior Lindsey Shauer agreed.
+"It's gotten to the point where,
+when I check my email, 1 delete 75
+percent of what is in my inbox," she
+said. "Spam is ruining my life."
+Information Technology Systems and Services (ITSS) began
+deleting spam-tagged messages rather than delivering them
+yesterday afternoon to counteract problems with Webmail
+caused by a mysterious spike in message volume, a move that
+left some students wary.
+The spam deletion program, which was scheduled to start
+later this year, only deletes messages coded [SPAM:#####]. Ac
+cording to Nancy Ware, ITSS project manager, the number of
+"#"s in the message tag is directly proportional to how confi
+dent the software is that the message is actually spam.
+"TTiis designation means the certainty factor of the e-mail
+being a spam message is in the 90 to 99 percent range," Ware
+said. "When the central Stanford mail gateway servers receive
+the inbound message, it is sorted through this filter. Any mes
+sage that is coded at this level will be discarded prior to any pro
+cessing or forwarding.Therefore, these messages will never be
+received by the pobox servers and delivered to your e-mail ad
+dress."
+This measure was taken in response to reports of e-mail
+problems, beginning on Sept. 27, which included an inability to
+check or receive messages, delays in receiving e-mail and blank
+screens or lack of connection while using Webmail.
+Despite an e-mail, sent to campus RCCs, that described the
+new program, many students were previously unaware of the
+
+
+MICHAEL RAMM/The Stanford Daily
+change and expressed some con
+cerns about personal messages being
+marked as spam.
+"I would only want it implement
+ed if it were fairly conservative, since
+sometimes e-mail marked as spam is
+not," said Michael Dinerstein. a sen
+ior.
+Freshman Kimberly Chang
+shared those concerns.
+"Well a lot of my e-mails are
+tagged as spam, so I wouldn't want
+them to delete my spam e-mail." she
+said.
+Ware said that the problems were
+caused by a sudden spike in e-mail
+volume, but the causes ol that jump
+are still a mystery. IT Services sus
+pects that the spike was "due to high
+volumes of spam and increased e
+mail volume related to the return of
+students," Ware said. However, they
+were unable to rule out the possibili
+ty of a cyber-attack.
+" Ilirough the course of normal
+operations, we do provide additional
+allowances to handle surges and
+spikes in demand," she said. "How
+
+ever, the load patterns of last week
+significantly exceeded these plan
+ning buffers. Regrettably this creat
+ed a sudden degradation in our serv
+ice."
+As of yesterday. Ware said IT Ser
+vices had still never received a report
+of an e-mail tagged as the highest
+level of spam which turned out to be
+a false positive. But there are tools
+for looking at the headers of deleted
+messages and reporting false spam
+online at email.stanford.edu.
+However, students will not be
+able to opt out of the level five spam
+deletion program.
+"Since the e-mail is deleted right
+at the border of Stanford," Ware
+said, "it is never even processed.
+1 lowever. we may go back and retool
+that in time."
+In the future. IT Services is plan
+ning on implementing an automatic
+deletion program for level three and
+four spam messages marked
+[SPAM:###| and |SPAM:####| for
+which there is less certainty about
+their junk-mail status. Students will
+have the choice to opt out of this
+lower scale program.
+Despite concerns that personal
+mail might be weeded out, some stu
+dents welcomed the program.
+The spam software "actually
+
+works pretty well," said senior Ryan
+Hopkins. He called the automatic
+deletions "a great idea."
+Senior Lindsey Shauer agreed.
+"It's gotten to the point where,
+when I check my email, 1 delete 75
+percent of what is in my inbox," she
+said. "Spam is ruining my life."
+Information Technology Systems and Services (ITSS) began
+deleting spam-tagged messages rather than delivering them
+yesterday afternoon to counteract problems with Webmail
+caused by a mysterious spike in message volume, a move that
+left some students wary.
+The spam deletion program, which was scheduled to start
+later this year, only deletes messages coded [SPAM:#####]. Ac
+cording to Nancy Ware, ITSS project manager, the number of
+"#"s in the message tag is directly proportional to how confi
+dent the software is that the message is actually spam.
+"TTiis designation means the certainty factor of the e-mail
+being a spam message is in the 90 to 99 percent range," Ware
+said. "When the central Stanford mail gateway servers receive
+the inbound message, it is sorted through this filter. Any mes
+sage that is coded at this level will be discarded prior to any pro
+cessing or forwarding.Therefore, these messages will never be
+received by the pobox servers and delivered to your e-mail ad
+dress."
+This measure was taken in response to reports of e-mail
+problems, beginning on Sept. 27, which included an inability to
+check or receive messages, delays in receiving e-mail and blank
+screens or lack of connection while using Webmail.
+Despite an e-mail, sent to campus RCCs, that described the
+new program, many students were previously unaware of the
+
+
+MICHAEL RAMM/The Stanford Daily
+change and expressed some con
+cerns about personal messages being
+marked as spam.
+"I would only want it implement
+ed if it were fairly conservative, since
+sometimes e-mail marked as spam is
+not," said Michael Dinerstein. a sen
+ior.
+Freshman Kimberly Chang
+shared those concerns.
+"Well a lot of my e-mails are
+tagged as spam, so I wouldn't want
+them to delete my spam e-mail." she
+said.
+Ware said that the problems were
+caused by a sudden spike in e-mail
+volume, but the causes ol that jump
+are still a mystery. IT Services sus
+pects that the spike was "due to high
+volumes of spam and increased e
+mail volume related to the return of
+students," Ware said. However, they
+were unable to rule out the possibili
+ty of a cyber-attack.
+" Ilirough the course of normal
+operations, we do provide additional
+allowances to handle surges and
+spikes in demand," she said. "How
+
+ever, the load patterns of last week
+significantly exceeded these plan
+ning buffers. Regrettably this creat
+ed a sudden degradation in our serv
+ice."
+As of yesterday. Ware said IT Ser
+vices had still never received a report
+of an e-mail tagged as the highest
+level of spam which turned out to be
+a false positive. But there are tools
+for looking at the headers of deleted
+messages and reporting false spam
+online at email.stanford.edu.
+However, students will not be
+able to opt out of the level five spam
+deletion program.
+"Since the e-mail is deleted right
+at the border of Stanford," Ware
+said, "it is never even processed.
+1 lowever. we may go back and retool
+that in time."
+In the future. IT Services is plan
+ning on implementing an automatic
+deletion program for level three and
+four spam messages marked
+[SPAM:###| and |SPAM:####| for
+which there is less certainty about
+their junk-mail status. Students will
+have the choice to opt out of this
+lower scale program.
+Despite concerns that personal
+mail might be weeded out, some stu
+dents welcomed the program.
+The spam software "actually
+
+works pretty well," said senior Ryan
+Hopkins. He called the automatic
+deletions "a great idea."
+Senior Lindsey Shauer agreed.
+"It's gotten to the point where,
+when I check my email, 1 delete 75
+percent of what is in my inbox," she
+said. "Spam is ruining my life."
+Information Technology Systems and Services (ITSS) began
+deleting spam-tagged messages rather than delivering them
+yesterday afternoon to counteract problems with Webmail
+caused by a mysterious spike in message volume, a move that
+left some students wary.
+The spam deletion program, which was scheduled to start
+later this year, only deletes messages coded [SPAM:#####]. Ac
+cording to Nancy Ware, ITSS project manager, the number of
+"#"s in the message tag is directly proportional to how confi
+dent the software is that the message is actually spam.
+"TTiis designation means the certainty factor of the e-mail
+being a spam message is in the 90 to 99 percent range," Ware
+said. "When the central Stanford mail gateway servers receive
+the inbound message, it is sorted through this filter. Any mes
+sage that is coded at this level will be discarded prior to any pro
+cessing or forwarding.Therefore, these messages will never be
+received by the pobox servers and delivered to your e-mail ad
+dress."
+This measure was taken in response to reports of e-mail
+problems, beginning on Sept. 27, which included an inability to
+check or receive messages, delays in receiving e-mail and blank
+screens or lack of connection while using Webmail.
+Despite an e-mail, sent to campus RCCs, that described the
+new program, many students were previously unaware of the
+
+
+MICHAEL RAMM/The Stanford Daily
+change and expressed some con
+cerns about personal messages being
+marked as spam.
+"I would only want it implement
+ed if it were fairly conservative, since
+sometimes e-mail marked as spam is
+not," said Michael Dinerstein. a sen
+ior.
+Freshman Kimberly Chang
+shared those concerns.
+"Well a lot of my e-mails are
+tagged as spam, so I wouldn't want
+them to delete my spam e-mail." she
+said.
+Ware said that the problems were
+caused by a sudden spike in e-mail
+volume, but the causes ol that jump
+are still a mystery. IT Services sus
+pects that the spike was "due to high
+volumes of spam and increased e
+mail volume related to the return of
+students," Ware said. However, they
+were unable to rule out the possibili
+ty of a cyber-attack.
+" Ilirough the course of normal
+operations, we do provide additional
+allowances to handle surges and
+spikes in demand," she said. "How
+
+ever, the load patterns of last week
+significantly exceeded these plan
+ning buffers. Regrettably this creat
+ed a sudden degradation in our serv
+ice."
+As of yesterday. Ware said IT Ser
+vices had still never received a report
+of an e-mail tagged as the highest
+level of spam which turned out to be
+a false positive. But there are tools
+for looking at the headers of deleted
+messages and reporting false spam
+online at email.stanford.edu.
+However, students will not be
+able to opt out of the level five spam
+deletion program.
+"Since the e-mail is deleted right
+at the border of Stanford," Ware
+said, "it is never even processed.
+1 lowever. we may go back and retool
+that in time."
+In the future. IT Services is plan
+ning on implementing an automatic
+deletion program for level three and
+four spam messages marked
+[SPAM:###| and |SPAM:####| for
+which there is less certainty about
+their junk-mail status. Students will
+have the choice to opt out of this
+lower scale program.
+Despite concerns that personal
+mail might be weeded out, some stu
+dents welcomed the program.
+The spam software "actually
+
+works pretty well," said senior Ryan
+Hopkins. He called the automatic
+deletions "a great idea."
+Senior Lindsey Shauer agreed.
+"It's gotten to the point where,
+when I check my email, 1 delete 75
+percent of what is in my inbox," she
+said. "Spam is ruining my life."
+Information Technology Systems and Services (ITSS) began
+deleting spam-tagged messages rather than delivering them
+yesterday afternoon to counteract problems with Webmail
+caused by a mysterious spike in message volume, a move that
+left some students wary.
+The spam deletion program, which was scheduled to start
+later this year, only deletes messages coded [SPAM:#####]. Ac
+cording to Nancy Ware, ITSS project manager, the number of
+"#"s in the message tag is directly proportional to how confi
+dent the software is that the message is actually spam.
+"TTiis designation means the certainty factor of the e-mail
+being a spam message is in the 90 to 99 percent range," Ware
+said. "When the central Stanford mail gateway servers receive
+the inbound message, it is sorted through this filter. Any mes
+sage that is coded at this level will be discarded prior to any pro
+cessing or forwarding.Therefore, these messages will never be
+received by the pobox servers and delivered to your e-mail ad
+dress."
+This measure was taken in response to reports of e-mail
+problems, beginning on Sept. 27, which included an inability to
+check or receive messages, delays in receiving e-mail and blank
+screens or lack of connection while using Webmail.
+Despite an e-mail, sent to campus RCCs, that described the
+new program, many students were previously unaware of the
+
+
+MICHAEL RAMM/The Stanford Daily
+change and expressed some con
+cerns about personal messages being
+marked as spam.
+"I would only want it implement
+ed if it were fairly conservative, since
+sometimes e-mail marked as spam is
+not," said Michael Dinerstein. a sen
+ior.
+Freshman Kimberly Chang
+shared those concerns.
+"Well a lot of my e-mails are
+tagged as spam, so I wouldn't want
+them to delete my spam e-mail." she
+said.
+Ware said that the problems were
+caused by a sudden spike in e-mail
+volume, but the causes ol that jump
+are still a mystery. IT Services sus
+pects that the spike was "due to high
+volumes of spam and increased e
+mail volume related to the return of
+students," Ware said. However, they
+were unable to rule out the possibili
+ty of a cyber-attack.
+" Ilirough the course of normal
+operations, we do provide additional
+allowances to handle surges and
+spikes in demand," she said. "How
+
+ever, the load patterns of last week
+significantly exceeded these plan
+ning buffers. Regrettably this creat
+ed a sudden degradation in our serv
+ice."
+As of yesterday. Ware said IT Ser
+vices had still never received a report
+of an e-mail tagged as the highest
+level of spam which turned out to be
+a false positive. But there are tools
+for looking at the headers of deleted
+messages and reporting false spam
+online at email.stanford.edu.
+However, students will not be
+able to opt out of the level five spam
+deletion program.
+"Since the e-mail is deleted right
+at the border of Stanford," Ware
+said, "it is never even processed.
+1 lowever. we may go back and retool
+that in time."
+In the future. IT Services is plan
+ning on implementing an automatic
+deletion program for level three and
+four spam messages marked
+[SPAM:###| and |SPAM:####| for
+which there is less certainty about
+their junk-mail status. Students will
+have the choice to opt out of this
+lower scale program.
+Despite concerns that personal
+mail might be weeded out, some stu
+dents welcomed the program.
+The spam software "actually
+
+works pretty well," said senior Ryan
+Hopkins. He called the automatic
+deletions "a great idea."
+Senior Lindsey Shauer agreed.
+"It's gotten to the point where,
+when I check my email, 1 delete 75
+percent of what is in my inbox," she
+said. "Spam is ruining my life."
+Information Technology Systems and Services (ITSS) began
+deleting spam-tagged messages rather than delivering them
+yesterday afternoon to counteract problems with Webmail
+caused by a mysterious spike in message volume, a move that
+left some students wary.
+The spam deletion program, which was scheduled to start
+later this year, only deletes messages coded [SPAM:#####]. Ac
+cording to Nancy Ware, ITSS project manager, the number of
+"#"s in the message tag is directly proportional to how confi
+dent the software is that the message is actually spam.
+"TTiis designation means the certainty factor of the e-mail
+being a spam message is in the 90 to 99 percent range," Ware
+said. "When the central Stanford mail gateway servers receive
+the inbound message, it is sorted through this filter. Any mes
+sage that is coded at this level will be discarded prior to any pro
+cessing or forwarding.Therefore, these messages will never be
+received by the pobox servers and delivered to your e-mail ad
+dress."
+This measure was taken in response to reports of e-mail
+problems, beginning on Sept. 27, which included an inability to
+check or receive messages, delays in receiving e-mail and blank
+screens or lack of connection while using Webmail.
+Despite an e-mail, sent to campus RCCs, that described the
+new program, many students were previously unaware of the
+
+
+MICHAEL RAMM/The Stanford Daily
+change and expressed some con
+cerns about personal messages being
+marked as spam.
+"I would only want it implement
+ed if it were fairly conservative, since
+sometimes e-mail marked as spam is
+not," said Michael Dinerstein. a sen
+ior.
+Freshman Kimberly Chang
+shared those concerns.
+"Well a lot of my e-mails are
+tagged as spam, so I wouldn't want
+them to delete my spam e-mail." she
+said.
+Ware said that the problems were
+caused by a sudden spike in e-mail
+volume, but the causes ol that jump
+are still a mystery. IT Services sus
+pects that the spike was "due to high
+volumes of spam and increased e
+mail volume related to the return of
+students," Ware said. However, they
+were unable to rule out the possibili
+ty of a cyber-attack.
+" Ilirough the course of normal
+operations, we do provide additional
+allowances to handle surges and
+spikes in demand," she said. "How
+
+ever, the load patterns of last week
+significantly exceeded these plan
+ning buffers. Regrettably this creat
+ed a sudden degradation in our serv
+ice."
+As of yesterday. Ware said IT Ser
+vices had still never received a report
+of an e-mail tagged as the highest
+level of spam which turned out to be
+a false positive. But there are tools
+for looking at the headers of deleted
+messages and reporting false spam
+online at email.stanford.edu.
+However, students will not be
+able to opt out of the level five spam
+deletion program.
+"Since the e-mail is deleted right
+at the border of Stanford," Ware
+said, "it is never even processed.
+1 lowever. we may go back and retool
+that in time."
+In the future. IT Services is plan
+ning on implementing an automatic
+deletion program for level three and
+four spam messages marked
+[SPAM:###| and |SPAM:####| for
+which there is less certainty about
+their junk-mail status. Students will
+have the choice to opt out of this
+lower scale program.
+Despite concerns that personal
+mail might be weeded out, some stu
+dents welcomed the program.
+The spam software "actually
+
+works pretty well," said senior Ryan
+Hopkins. He called the automatic
+deletions "a great idea."
+Senior Lindsey Shauer agreed.
+"It's gotten to the point where,
+when I check my email, 1 delete 75
+percent of what is in my inbox," she
+said. "Spam is ruining my life."

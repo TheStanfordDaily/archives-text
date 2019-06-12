@@ -1,0 +1,1331 @@
+# OPINION
+## How to stop 10,000 students from snooping through your files 
+### Emma Pierson 
+Every Stanford student is given a
+computer account which allows
+them to store and manipulate
+files using Stanford's computers. After
+inspecting this system, known as AFS,
+I suspected it might be possible for
+anyone with an account to do two
+things:
+
+1. Rapidly harvest the Stanford
+email address of every single student
+(and many alumni), enabling them to
+potentially spam tens of thousands of
+people.
+
+2. Read the filenames for ex
+ample, "meganfox.jpg" that every
+student had stored in the home direc
+tories of their Stanford accounts (un
+less the students had know-how to ex
+plicitly make those filenames private; I
+describe how to do this at the end of
+the article).
+While for obvious reasons I'll skip
+the technical details of how one could
+
+do this, I wrote to Stanford's IT servic
+es (ITS) and they confirmed this was
+the case. This is not ITS's fault: they
+didn't design AFS (Carnegie Mellon
+did) and fixing an established system is
+hard. When I wrote to ITS, they re
+sponded rapidly and professionally,
+convincing me that there was no easy
+fix.
+I would nonetheless suggest that
+this system is worth modifying be
+cause both the email addresses and
+the filenames invite abuses.
+Firstly, people have attempted to
+harvest student emails in the past, and
+unscrupulous ASSU candidates, start
+up founders or anyone who's ever
+used the phrase "FORWARD WIDELY"
+might do it in the future. One could al
+so sell the addresses to a spam list.
+(Stanford does use an anti-spam sys-
+tem and other email controls to mitigate this
+problem.)
+Secondly, being able to access filenames
+allows you, in many cases, to determine what
+classes a student is taking, and this could
+make a large-scale demographic analysis pos
+sible. Do students with female-sounding IDs
+take different classes than students with
+male-sounding IDs? What about students
+whose ethnic backgrounds are identifiable
+from their IDs? This isn't the sort of analysis
+that Stanford wants to allow I know be
+cause ITS got annoyed when I asked.
+More pernicious are the potential dan
+gers posed to individual students. One could
+investigate whether specific athletes are tak
+ing different classes from the general popula
+tion. One could also look at whether children
+of famous parents take different classes, a
+question that those who scrutinize legacy ad
+missions would be interested in.
+
+It also would be easy to search for embar
+rassing filenames: I'd be willing to bet a lot of
+money that one of the many thousands of
+AFS users is storing porn. Even students who
+aren't that technically sophisticated could in
+vestigate individual acquaintances do you
+really want your embittered ex going through
+your computer? While most students proba
+bly save their most private files on laptops,
+should students who can't afford laptops have
+a lesser expectation of privacy?
+And beyond schoolwork and porn, there
+may be a lot of confidential, high-value data
+stored on AFS unpublished research,
+ideas for companies and so on. Having
+worked at tech companies, I can attest that
+even a quick scan of a company's filenames
+gives a lot of clues as to the directions it's ex
+ploring.
+I strongly advise against attempting
+to do any of this. Ignoring the fact that it's a
+massive violation of trust, Stanford monitors
+AFS usage and ITS has made it clear that they
+will pursue offenders. But enforcement will
+naturally be imperfect, since it may be hard
+to discriminate between valid cluster usage
+and large-scale harvesting.
+Ideally, Stanford students and affiliates
+should know that their filenames and emails
+cannot be harvested by one of the thousands
+of other users on the system and not have to
+trust the goodwill of others or retroactive
+sanctions. While this problem is not easy to
+fix, it is also not unfixable: The NSA, for ex
+
+ample, probably doesn't allow all its employ
+ees to access all its filenames. While it is true
+that in some cases we relax privacy for con
+venience, it's unclear what legitimate reason
+someone would have for reading other stu
+dents' filenames if they cannot open the files
+themselves.
+
+So I am writing this article for two rea
+sons: First, to make you aware of the problem
+so you can protect yourself. There is no way
+to prevent your email address from being har
+vested, but you can make your filenames pri
+vate quite easily:
+If you have a Mac:
+1. Click on the "Terminal" application.
+This might be a black square at the bottom
+of the screen. If you can't find it there, you
+can click on the magnifying glass in the
+top right corner of the screen and then
+type "Terminal" to search for Terminal.
+2. A little box should pop up. Click on
+it and log into your Stanford AFS account
+by typing "ssh username@corn.stanford.
+edu" where you replace "username" with
+your SUID. Press enter. You will have to
+enter your password.
+3. Once you have logged in, type in
+"fsr setacl ~ system:campushosts none"
+and press enter. Your files are now hidden
+from other students.
+
+If you do not have a Mac:
+1. Go to a computer in one of the
+Stanford labs and log on using the Mac op
+erating system; follow the instructions
+above.
+
+You can find a more detailed explanation
+of what these commands do on the ITS web
+site. If this sounds too complicated, there are
+a number of other fixes: your AFS account al
+so gives you access to a "private" folder, and
+anything placed in there will be hidden from
+other students. Alternately, you can store
+files on Google Docs or Stanford Box, neither
+of which can be seen by other students. Or
+you could give all your files very boring
+names ("not_kitty_cat_porn.png").
+The second reason I am writing this arti
+cle is my faith in the technical know-how of
+the Stanford community: I believe this sys
+tem can be improved, and hopefully one of
+you will, too. Looking for a summer project?
+EMMA PIERSON 'l3
+
+Emma graduated from Stanford last June with
+a B.S. in physics and a M.S. in computer sci
+ence. A Rhodes Scholar, she plans to pursue a
+doctorate in computational biology at Oxford.
+In her free time, Emma writes for her blog Ob
+session with Regression.
+Every Stanford student is given a
+computer account which allows
+them to store and manipulate
+files using Stanford's computers. After
+inspecting this system, known as AFS,
+I suspected it might be possible for
+anyone with an account to do two
+things:
+
+1. Rapidly harvest the Stanford
+email address of every single student
+(and many alumni), enabling them to
+potentially spam tens of thousands of
+people.
+
+2. Read the filenames for ex
+ample, "meganfox.jpg" that every
+student had stored in the home direc
+tories of their Stanford accounts (un
+less the students had know-how to ex
+plicitly make those filenames private; I
+describe how to do this at the end of
+the article).
+While for obvious reasons I'll skip
+the technical details of how one could
+
+do this, I wrote to Stanford's IT servic
+es (ITS) and they confirmed this was
+the case. This is not ITS's fault: they
+didn't design AFS (Carnegie Mellon
+did) and fixing an established system is
+hard. When I wrote to ITS, they re
+sponded rapidly and professionally,
+convincing me that there was no easy
+fix.
+I would nonetheless suggest that
+this system is worth modifying be
+cause both the email addresses and
+the filenames invite abuses.
+Firstly, people have attempted to
+harvest student emails in the past, and
+unscrupulous ASSU candidates, start
+up founders or anyone who's ever
+used the phrase "FORWARD WIDELY"
+might do it in the future. One could al
+so sell the addresses to a spam list.
+(Stanford does use an anti-spam sys-
+tem and other email controls to mitigate this
+problem.)
+Secondly, being able to access filenames
+allows you, in many cases, to determine what
+classes a student is taking, and this could
+make a large-scale demographic analysis pos
+sible. Do students with female-sounding IDs
+take different classes than students with
+male-sounding IDs? What about students
+whose ethnic backgrounds are identifiable
+from their IDs? This isn't the sort of analysis
+that Stanford wants to allow I know be
+cause ITS got annoyed when I asked.
+More pernicious are the potential dan
+gers posed to individual students. One could
+investigate whether specific athletes are tak
+ing different classes from the general popula
+tion. One could also look at whether children
+of famous parents take different classes, a
+question that those who scrutinize legacy ad
+missions would be interested in.
+
+It also would be easy to search for embar
+rassing filenames: I'd be willing to bet a lot of
+money that one of the many thousands of
+AFS users is storing porn. Even students who
+aren't that technically sophisticated could in
+vestigate individual acquaintances do you
+really want your embittered ex going through
+your computer? While most students proba
+bly save their most private files on laptops,
+should students who can't afford laptops have
+a lesser expectation of privacy?
+And beyond schoolwork and porn, there
+may be a lot of confidential, high-value data
+stored on AFS unpublished research,
+ideas for companies and so on. Having
+worked at tech companies, I can attest that
+even a quick scan of a company's filenames
+gives a lot of clues as to the directions it's ex
+ploring.
+I strongly advise against attempting
+to do any of this. Ignoring the fact that it's a
+massive violation of trust, Stanford monitors
+AFS usage and ITS has made it clear that they
+will pursue offenders. But enforcement will
+naturally be imperfect, since it may be hard
+to discriminate between valid cluster usage
+and large-scale harvesting.
+Ideally, Stanford students and affiliates
+should know that their filenames and emails
+cannot be harvested by one of the thousands
+of other users on the system and not have to
+trust the goodwill of others or retroactive
+sanctions. While this problem is not easy to
+fix, it is also not unfixable: The NSA, for ex
+
+ample, probably doesn't allow all its employ
+ees to access all its filenames. While it is true
+that in some cases we relax privacy for con
+venience, it's unclear what legitimate reason
+someone would have for reading other stu
+dents' filenames if they cannot open the files
+themselves.
+
+So I am writing this article for two rea
+sons: First, to make you aware of the problem
+so you can protect yourself. There is no way
+to prevent your email address from being har
+vested, but you can make your filenames pri
+vate quite easily:
+If you have a Mac:
+1. Click on the "Terminal" application.
+This might be a black square at the bottom
+of the screen. If you can't find it there, you
+can click on the magnifying glass in the
+top right corner of the screen and then
+type "Terminal" to search for Terminal.
+2. A little box should pop up. Click on
+it and log into your Stanford AFS account
+by typing "ssh username@corn.stanford.
+edu" where you replace "username" with
+your SUID. Press enter. You will have to
+enter your password.
+3. Once you have logged in, type in
+"fsr setacl ~ system:campushosts none"
+and press enter. Your files are now hidden
+from other students.
+
+If you do not have a Mac:
+1. Go to a computer in one of the
+Stanford labs and log on using the Mac op
+erating system; follow the instructions
+above.
+
+You can find a more detailed explanation
+of what these commands do on the ITS web
+site. If this sounds too complicated, there are
+a number of other fixes: your AFS account al
+so gives you access to a "private" folder, and
+anything placed in there will be hidden from
+other students. Alternately, you can store
+files on Google Docs or Stanford Box, neither
+of which can be seen by other students. Or
+you could give all your files very boring
+names ("not_kitty_cat_porn.png").
+The second reason I am writing this arti
+cle is my faith in the technical know-how of
+the Stanford community: I believe this sys
+tem can be improved, and hopefully one of
+you will, too. Looking for a summer project?
+EMMA PIERSON 'l3
+
+Emma graduated from Stanford last June with
+a B.S. in physics and a M.S. in computer sci
+ence. A Rhodes Scholar, she plans to pursue a
+doctorate in computational biology at Oxford.
+In her free time, Emma writes for her blog Ob
+session with Regression.
+Every Stanford student is given a
+computer account which allows
+them to store and manipulate
+files using Stanford's computers. After
+inspecting this system, known as AFS,
+I suspected it might be possible for
+anyone with an account to do two
+things:
+
+1. Rapidly harvest the Stanford
+email address of every single student
+(and many alumni), enabling them to
+potentially spam tens of thousands of
+people.
+
+2. Read the filenames for ex
+ample, "meganfox.jpg" that every
+student had stored in the home direc
+tories of their Stanford accounts (un
+less the students had know-how to ex
+plicitly make those filenames private; I
+describe how to do this at the end of
+the article).
+While for obvious reasons I'll skip
+the technical details of how one could
+
+do this, I wrote to Stanford's IT servic
+es (ITS) and they confirmed this was
+the case. This is not ITS's fault: they
+didn't design AFS (Carnegie Mellon
+did) and fixing an established system is
+hard. When I wrote to ITS, they re
+sponded rapidly and professionally,
+convincing me that there was no easy
+fix.
+I would nonetheless suggest that
+this system is worth modifying be
+cause both the email addresses and
+the filenames invite abuses.
+Firstly, people have attempted to
+harvest student emails in the past, and
+unscrupulous ASSU candidates, start
+up founders or anyone who's ever
+used the phrase "FORWARD WIDELY"
+might do it in the future. One could al
+so sell the addresses to a spam list.
+(Stanford does use an anti-spam sys-
+tem and other email controls to mitigate this
+problem.)
+Secondly, being able to access filenames
+allows you, in many cases, to determine what
+classes a student is taking, and this could
+make a large-scale demographic analysis pos
+sible. Do students with female-sounding IDs
+take different classes than students with
+male-sounding IDs? What about students
+whose ethnic backgrounds are identifiable
+from their IDs? This isn't the sort of analysis
+that Stanford wants to allow I know be
+cause ITS got annoyed when I asked.
+More pernicious are the potential dan
+gers posed to individual students. One could
+investigate whether specific athletes are tak
+ing different classes from the general popula
+tion. One could also look at whether children
+of famous parents take different classes, a
+question that those who scrutinize legacy ad
+missions would be interested in.
+
+It also would be easy to search for embar
+rassing filenames: I'd be willing to bet a lot of
+money that one of the many thousands of
+AFS users is storing porn. Even students who
+aren't that technically sophisticated could in
+vestigate individual acquaintances do you
+really want your embittered ex going through
+your computer? While most students proba
+bly save their most private files on laptops,
+should students who can't afford laptops have
+a lesser expectation of privacy?
+And beyond schoolwork and porn, there
+may be a lot of confidential, high-value data
+stored on AFS unpublished research,
+ideas for companies and so on. Having
+worked at tech companies, I can attest that
+even a quick scan of a company's filenames
+gives a lot of clues as to the directions it's ex
+ploring.
+I strongly advise against attempting
+to do any of this. Ignoring the fact that it's a
+massive violation of trust, Stanford monitors
+AFS usage and ITS has made it clear that they
+will pursue offenders. But enforcement will
+naturally be imperfect, since it may be hard
+to discriminate between valid cluster usage
+and large-scale harvesting.
+Ideally, Stanford students and affiliates
+should know that their filenames and emails
+cannot be harvested by one of the thousands
+of other users on the system and not have to
+trust the goodwill of others or retroactive
+sanctions. While this problem is not easy to
+fix, it is also not unfixable: The NSA, for ex
+
+ample, probably doesn't allow all its employ
+ees to access all its filenames. While it is true
+that in some cases we relax privacy for con
+venience, it's unclear what legitimate reason
+someone would have for reading other stu
+dents' filenames if they cannot open the files
+themselves.
+
+So I am writing this article for two rea
+sons: First, to make you aware of the problem
+so you can protect yourself. There is no way
+to prevent your email address from being har
+vested, but you can make your filenames pri
+vate quite easily:
+If you have a Mac:
+1. Click on the "Terminal" application.
+This might be a black square at the bottom
+of the screen. If you can't find it there, you
+can click on the magnifying glass in the
+top right corner of the screen and then
+type "Terminal" to search for Terminal.
+2. A little box should pop up. Click on
+it and log into your Stanford AFS account
+by typing "ssh username@corn.stanford.
+edu" where you replace "username" with
+your SUID. Press enter. You will have to
+enter your password.
+3. Once you have logged in, type in
+"fsr setacl ~ system:campushosts none"
+and press enter. Your files are now hidden
+from other students.
+
+If you do not have a Mac:
+1. Go to a computer in one of the
+Stanford labs and log on using the Mac op
+erating system; follow the instructions
+above.
+
+You can find a more detailed explanation
+of what these commands do on the ITS web
+site. If this sounds too complicated, there are
+a number of other fixes: your AFS account al
+so gives you access to a "private" folder, and
+anything placed in there will be hidden from
+other students. Alternately, you can store
+files on Google Docs or Stanford Box, neither
+of which can be seen by other students. Or
+you could give all your files very boring
+names ("not_kitty_cat_porn.png").
+The second reason I am writing this arti
+cle is my faith in the technical know-how of
+the Stanford community: I believe this sys
+tem can be improved, and hopefully one of
+you will, too. Looking for a summer project?
+EMMA PIERSON 'l3
+
+Emma graduated from Stanford last June with
+a B.S. in physics and a M.S. in computer sci
+ence. A Rhodes Scholar, she plans to pursue a
+doctorate in computational biology at Oxford.
+In her free time, Emma writes for her blog Ob
+session with Regression.
+Every Stanford student is given a
+computer account which allows
+them to store and manipulate
+files using Stanford's computers. After
+inspecting this system, known as AFS,
+I suspected it might be possible for
+anyone with an account to do two
+things:
+
+1. Rapidly harvest the Stanford
+email address of every single student
+(and many alumni), enabling them to
+potentially spam tens of thousands of
+people.
+
+2. Read the filenames for ex
+ample, "meganfox.jpg" that every
+student had stored in the home direc
+tories of their Stanford accounts (un
+less the students had know-how to ex
+plicitly make those filenames private; I
+describe how to do this at the end of
+the article).
+While for obvious reasons I'll skip
+the technical details of how one could
+
+do this, I wrote to Stanford's IT servic
+es (ITS) and they confirmed this was
+the case. This is not ITS's fault: they
+didn't design AFS (Carnegie Mellon
+did) and fixing an established system is
+hard. When I wrote to ITS, they re
+sponded rapidly and professionally,
+convincing me that there was no easy
+fix.
+I would nonetheless suggest that
+this system is worth modifying be
+cause both the email addresses and
+the filenames invite abuses.
+Firstly, people have attempted to
+harvest student emails in the past, and
+unscrupulous ASSU candidates, start
+up founders or anyone who's ever
+used the phrase "FORWARD WIDELY"
+might do it in the future. One could al
+so sell the addresses to a spam list.
+(Stanford does use an anti-spam sys-
+tem and other email controls to mitigate this
+problem.)
+Secondly, being able to access filenames
+allows you, in many cases, to determine what
+classes a student is taking, and this could
+make a large-scale demographic analysis pos
+sible. Do students with female-sounding IDs
+take different classes than students with
+male-sounding IDs? What about students
+whose ethnic backgrounds are identifiable
+from their IDs? This isn't the sort of analysis
+that Stanford wants to allow I know be
+cause ITS got annoyed when I asked.
+More pernicious are the potential dan
+gers posed to individual students. One could
+investigate whether specific athletes are tak
+ing different classes from the general popula
+tion. One could also look at whether children
+of famous parents take different classes, a
+question that those who scrutinize legacy ad
+missions would be interested in.
+
+It also would be easy to search for embar
+rassing filenames: I'd be willing to bet a lot of
+money that one of the many thousands of
+AFS users is storing porn. Even students who
+aren't that technically sophisticated could in
+vestigate individual acquaintances do you
+really want your embittered ex going through
+your computer? While most students proba
+bly save their most private files on laptops,
+should students who can't afford laptops have
+a lesser expectation of privacy?
+And beyond schoolwork and porn, there
+may be a lot of confidential, high-value data
+stored on AFS unpublished research,
+ideas for companies and so on. Having
+worked at tech companies, I can attest that
+even a quick scan of a company's filenames
+gives a lot of clues as to the directions it's ex
+ploring.
+I strongly advise against attempting
+to do any of this. Ignoring the fact that it's a
+massive violation of trust, Stanford monitors
+AFS usage and ITS has made it clear that they
+will pursue offenders. But enforcement will
+naturally be imperfect, since it may be hard
+to discriminate between valid cluster usage
+and large-scale harvesting.
+Ideally, Stanford students and affiliates
+should know that their filenames and emails
+cannot be harvested by one of the thousands
+of other users on the system and not have to
+trust the goodwill of others or retroactive
+sanctions. While this problem is not easy to
+fix, it is also not unfixable: The NSA, for ex
+
+ample, probably doesn't allow all its employ
+ees to access all its filenames. While it is true
+that in some cases we relax privacy for con
+venience, it's unclear what legitimate reason
+someone would have for reading other stu
+dents' filenames if they cannot open the files
+themselves.
+
+So I am writing this article for two rea
+sons: First, to make you aware of the problem
+so you can protect yourself. There is no way
+to prevent your email address from being har
+vested, but you can make your filenames pri
+vate quite easily:
+If you have a Mac:
+1. Click on the "Terminal" application.
+This might be a black square at the bottom
+of the screen. If you can't find it there, you
+can click on the magnifying glass in the
+top right corner of the screen and then
+type "Terminal" to search for Terminal.
+2. A little box should pop up. Click on
+it and log into your Stanford AFS account
+by typing "ssh username@corn.stanford.
+edu" where you replace "username" with
+your SUID. Press enter. You will have to
+enter your password.
+3. Once you have logged in, type in
+"fsr setacl ~ system:campushosts none"
+and press enter. Your files are now hidden
+from other students.
+
+If you do not have a Mac:
+1. Go to a computer in one of the
+Stanford labs and log on using the Mac op
+erating system; follow the instructions
+above.
+
+You can find a more detailed explanation
+of what these commands do on the ITS web
+site. If this sounds too complicated, there are
+a number of other fixes: your AFS account al
+so gives you access to a "private" folder, and
+anything placed in there will be hidden from
+other students. Alternately, you can store
+files on Google Docs or Stanford Box, neither
+of which can be seen by other students. Or
+you could give all your files very boring
+names ("not_kitty_cat_porn.png").
+The second reason I am writing this arti
+cle is my faith in the technical know-how of
+the Stanford community: I believe this sys
+tem can be improved, and hopefully one of
+you will, too. Looking for a summer project?
+EMMA PIERSON 'l3
+
+Emma graduated from Stanford last June with
+a B.S. in physics and a M.S. in computer sci
+ence. A Rhodes Scholar, she plans to pursue a
+doctorate in computational biology at Oxford.
+In her free time, Emma writes for her blog Ob
+session with Regression.
+Every Stanford student is given a
+computer account which allows
+them to store and manipulate
+files using Stanford's computers. After
+inspecting this system, known as AFS,
+I suspected it might be possible for
+anyone with an account to do two
+things:
+
+1. Rapidly harvest the Stanford
+email address of every single student
+(and many alumni), enabling them to
+potentially spam tens of thousands of
+people.
+
+2. Read the filenames for ex
+ample, "meganfox.jpg" that every
+student had stored in the home direc
+tories of their Stanford accounts (un
+less the students had know-how to ex
+plicitly make those filenames private; I
+describe how to do this at the end of
+the article).
+While for obvious reasons I'll skip
+the technical details of how one could
+
+do this, I wrote to Stanford's IT servic
+es (ITS) and they confirmed this was
+the case. This is not ITS's fault: they
+didn't design AFS (Carnegie Mellon
+did) and fixing an established system is
+hard. When I wrote to ITS, they re
+sponded rapidly and professionally,
+convincing me that there was no easy
+fix.
+I would nonetheless suggest that
+this system is worth modifying be
+cause both the email addresses and
+the filenames invite abuses.
+Firstly, people have attempted to
+harvest student emails in the past, and
+unscrupulous ASSU candidates, start
+up founders or anyone who's ever
+used the phrase "FORWARD WIDELY"
+might do it in the future. One could al
+so sell the addresses to a spam list.
+(Stanford does use an anti-spam sys-
+tem and other email controls to mitigate this
+problem.)
+Secondly, being able to access filenames
+allows you, in many cases, to determine what
+classes a student is taking, and this could
+make a large-scale demographic analysis pos
+sible. Do students with female-sounding IDs
+take different classes than students with
+male-sounding IDs? What about students
+whose ethnic backgrounds are identifiable
+from their IDs? This isn't the sort of analysis
+that Stanford wants to allow I know be
+cause ITS got annoyed when I asked.
+More pernicious are the potential dan
+gers posed to individual students. One could
+investigate whether specific athletes are tak
+ing different classes from the general popula
+tion. One could also look at whether children
+of famous parents take different classes, a
+question that those who scrutinize legacy ad
+missions would be interested in.
+
+It also would be easy to search for embar
+rassing filenames: I'd be willing to bet a lot of
+money that one of the many thousands of
+AFS users is storing porn. Even students who
+aren't that technically sophisticated could in
+vestigate individual acquaintances do you
+really want your embittered ex going through
+your computer? While most students proba
+bly save their most private files on laptops,
+should students who can't afford laptops have
+a lesser expectation of privacy?
+And beyond schoolwork and porn, there
+may be a lot of confidential, high-value data
+stored on AFS unpublished research,
+ideas for companies and so on. Having
+worked at tech companies, I can attest that
+even a quick scan of a company's filenames
+gives a lot of clues as to the directions it's ex
+ploring.
+I strongly advise against attempting
+to do any of this. Ignoring the fact that it's a
+massive violation of trust, Stanford monitors
+AFS usage and ITS has made it clear that they
+will pursue offenders. But enforcement will
+naturally be imperfect, since it may be hard
+to discriminate between valid cluster usage
+and large-scale harvesting.
+Ideally, Stanford students and affiliates
+should know that their filenames and emails
+cannot be harvested by one of the thousands
+of other users on the system and not have to
+trust the goodwill of others or retroactive
+sanctions. While this problem is not easy to
+fix, it is also not unfixable: The NSA, for ex
+
+ample, probably doesn't allow all its employ
+ees to access all its filenames. While it is true
+that in some cases we relax privacy for con
+venience, it's unclear what legitimate reason
+someone would have for reading other stu
+dents' filenames if they cannot open the files
+themselves.
+
+So I am writing this article for two rea
+sons: First, to make you aware of the problem
+so you can protect yourself. There is no way
+to prevent your email address from being har
+vested, but you can make your filenames pri
+vate quite easily:
+If you have a Mac:
+1. Click on the "Terminal" application.
+This might be a black square at the bottom
+of the screen. If you can't find it there, you
+can click on the magnifying glass in the
+top right corner of the screen and then
+type "Terminal" to search for Terminal.
+2. A little box should pop up. Click on
+it and log into your Stanford AFS account
+by typing "ssh username@corn.stanford.
+edu" where you replace "username" with
+your SUID. Press enter. You will have to
+enter your password.
+3. Once you have logged in, type in
+"fsr setacl ~ system:campushosts none"
+and press enter. Your files are now hidden
+from other students.
+
+If you do not have a Mac:
+1. Go to a computer in one of the
+Stanford labs and log on using the Mac op
+erating system; follow the instructions
+above.
+
+You can find a more detailed explanation
+of what these commands do on the ITS web
+site. If this sounds too complicated, there are
+a number of other fixes: your AFS account al
+so gives you access to a "private" folder, and
+anything placed in there will be hidden from
+other students. Alternately, you can store
+files on Google Docs or Stanford Box, neither
+of which can be seen by other students. Or
+you could give all your files very boring
+names ("not_kitty_cat_porn.png").
+The second reason I am writing this arti
+cle is my faith in the technical know-how of
+the Stanford community: I believe this sys
+tem can be improved, and hopefully one of
+you will, too. Looking for a summer project?
+EMMA PIERSON 'l3
+
+Emma graduated from Stanford last June with
+a B.S. in physics and a M.S. in computer sci
+ence. A Rhodes Scholar, she plans to pursue a
+doctorate in computational biology at Oxford.
+In her free time, Emma writes for her blog Ob
+session with Regression.
+Every Stanford student is given a
+computer account which allows
+them to store and manipulate
+files using Stanford's computers. After
+inspecting this system, known as AFS,
+I suspected it might be possible for
+anyone with an account to do two
+things:
+
+1. Rapidly harvest the Stanford
+email address of every single student
+(and many alumni), enabling them to
+potentially spam tens of thousands of
+people.
+
+2. Read the filenames for ex
+ample, "meganfox.jpg" that every
+student had stored in the home direc
+tories of their Stanford accounts (un
+less the students had know-how to ex
+plicitly make those filenames private; I
+describe how to do this at the end of
+the article).
+While for obvious reasons I'll skip
+the technical details of how one could
+
+do this, I wrote to Stanford's IT servic
+es (ITS) and they confirmed this was
+the case. This is not ITS's fault: they
+didn't design AFS (Carnegie Mellon
+did) and fixing an established system is
+hard. When I wrote to ITS, they re
+sponded rapidly and professionally,
+convincing me that there was no easy
+fix.
+I would nonetheless suggest that
+this system is worth modifying be
+cause both the email addresses and
+the filenames invite abuses.
+Firstly, people have attempted to
+harvest student emails in the past, and
+unscrupulous ASSU candidates, start
+up founders or anyone who's ever
+used the phrase "FORWARD WIDELY"
+might do it in the future. One could al
+so sell the addresses to a spam list.
+(Stanford does use an anti-spam sys-
+tem and other email controls to mitigate this
+problem.)
+Secondly, being able to access filenames
+allows you, in many cases, to determine what
+classes a student is taking, and this could
+make a large-scale demographic analysis pos
+sible. Do students with female-sounding IDs
+take different classes than students with
+male-sounding IDs? What about students
+whose ethnic backgrounds are identifiable
+from their IDs? This isn't the sort of analysis
+that Stanford wants to allow I know be
+cause ITS got annoyed when I asked.
+More pernicious are the potential dan
+gers posed to individual students. One could
+investigate whether specific athletes are tak
+ing different classes from the general popula
+tion. One could also look at whether children
+of famous parents take different classes, a
+question that those who scrutinize legacy ad
+missions would be interested in.
+
+It also would be easy to search for embar
+rassing filenames: I'd be willing to bet a lot of
+money that one of the many thousands of
+AFS users is storing porn. Even students who
+aren't that technically sophisticated could in
+vestigate individual acquaintances do you
+really want your embittered ex going through
+your computer? While most students proba
+bly save their most private files on laptops,
+should students who can't afford laptops have
+a lesser expectation of privacy?
+And beyond schoolwork and porn, there
+may be a lot of confidential, high-value data
+stored on AFS unpublished research,
+ideas for companies and so on. Having
+worked at tech companies, I can attest that
+even a quick scan of a company's filenames
+gives a lot of clues as to the directions it's ex
+ploring.
+I strongly advise against attempting
+to do any of this. Ignoring the fact that it's a
+massive violation of trust, Stanford monitors
+AFS usage and ITS has made it clear that they
+will pursue offenders. But enforcement will
+naturally be imperfect, since it may be hard
+to discriminate between valid cluster usage
+and large-scale harvesting.
+Ideally, Stanford students and affiliates
+should know that their filenames and emails
+cannot be harvested by one of the thousands
+of other users on the system and not have to
+trust the goodwill of others or retroactive
+sanctions. While this problem is not easy to
+fix, it is also not unfixable: The NSA, for ex
+
+ample, probably doesn't allow all its employ
+ees to access all its filenames. While it is true
+that in some cases we relax privacy for con
+venience, it's unclear what legitimate reason
+someone would have for reading other stu
+dents' filenames if they cannot open the files
+themselves.
+
+So I am writing this article for two rea
+sons: First, to make you aware of the problem
+so you can protect yourself. There is no way
+to prevent your email address from being har
+vested, but you can make your filenames pri
+vate quite easily:
+If you have a Mac:
+1. Click on the "Terminal" application.
+This might be a black square at the bottom
+of the screen. If you can't find it there, you
+can click on the magnifying glass in the
+top right corner of the screen and then
+type "Terminal" to search for Terminal.
+2. A little box should pop up. Click on
+it and log into your Stanford AFS account
+by typing "ssh username@corn.stanford.
+edu" where you replace "username" with
+your SUID. Press enter. You will have to
+enter your password.
+3. Once you have logged in, type in
+"fsr setacl ~ system:campushosts none"
+and press enter. Your files are now hidden
+from other students.
+
+If you do not have a Mac:
+1. Go to a computer in one of the
+Stanford labs and log on using the Mac op
+erating system; follow the instructions
+above.
+
+You can find a more detailed explanation
+of what these commands do on the ITS web
+site. If this sounds too complicated, there are
+a number of other fixes: your AFS account al
+so gives you access to a "private" folder, and
+anything placed in there will be hidden from
+other students. Alternately, you can store
+files on Google Docs or Stanford Box, neither
+of which can be seen by other students. Or
+you could give all your files very boring
+names ("not_kitty_cat_porn.png").
+The second reason I am writing this arti
+cle is my faith in the technical know-how of
+the Stanford community: I believe this sys
+tem can be improved, and hopefully one of
+you will, too. Looking for a summer project?
+EMMA PIERSON 'l3
+
+Emma graduated from Stanford last June with
+a B.S. in physics and a M.S. in computer sci
+ence. A Rhodes Scholar, she plans to pursue a
+doctorate in computational biology at Oxford.
+In her free time, Emma writes for her blog Ob
+session with Regression.
+Every Stanford student is given a
+computer account which allows
+them to store and manipulate
+files using Stanford's computers. After
+inspecting this system, known as AFS,
+I suspected it might be possible for
+anyone with an account to do two
+things:
+
+1. Rapidly harvest the Stanford
+email address of every single student
+(and many alumni), enabling them to
+potentially spam tens of thousands of
+people.
+
+2. Read the filenames for ex
+ample, "meganfox.jpg" that every
+student had stored in the home direc
+tories of their Stanford accounts (un
+less the students had know-how to ex
+plicitly make those filenames private; I
+describe how to do this at the end of
+the article).
+While for obvious reasons I'll skip
+the technical details of how one could
+
+do this, I wrote to Stanford's IT servic
+es (ITS) and they confirmed this was
+the case. This is not ITS's fault: they
+didn't design AFS (Carnegie Mellon
+did) and fixing an established system is
+hard. When I wrote to ITS, they re
+sponded rapidly and professionally,
+convincing me that there was no easy
+fix.
+I would nonetheless suggest that
+this system is worth modifying be
+cause both the email addresses and
+the filenames invite abuses.
+Firstly, people have attempted to
+harvest student emails in the past, and
+unscrupulous ASSU candidates, start
+up founders or anyone who's ever
+used the phrase "FORWARD WIDELY"
+might do it in the future. One could al
+so sell the addresses to a spam list.
+(Stanford does use an anti-spam sys-
+tem and other email controls to mitigate this
+problem.)
+Secondly, being able to access filenames
+allows you, in many cases, to determine what
+classes a student is taking, and this could
+make a large-scale demographic analysis pos
+sible. Do students with female-sounding IDs
+take different classes than students with
+male-sounding IDs? What about students
+whose ethnic backgrounds are identifiable
+from their IDs? This isn't the sort of analysis
+that Stanford wants to allow I know be
+cause ITS got annoyed when I asked.
+More pernicious are the potential dan
+gers posed to individual students. One could
+investigate whether specific athletes are tak
+ing different classes from the general popula
+tion. One could also look at whether children
+of famous parents take different classes, a
+question that those who scrutinize legacy ad
+missions would be interested in.
+
+It also would be easy to search for embar
+rassing filenames: I'd be willing to bet a lot of
+money that one of the many thousands of
+AFS users is storing porn. Even students who
+aren't that technically sophisticated could in
+vestigate individual acquaintances do you
+really want your embittered ex going through
+your computer? While most students proba
+bly save their most private files on laptops,
+should students who can't afford laptops have
+a lesser expectation of privacy?
+And beyond schoolwork and porn, there
+may be a lot of confidential, high-value data
+stored on AFS unpublished research,
+ideas for companies and so on. Having
+worked at tech companies, I can attest that
+even a quick scan of a company's filenames
+gives a lot of clues as to the directions it's ex
+ploring.
+I strongly advise against attempting
+to do any of this. Ignoring the fact that it's a
+massive violation of trust, Stanford monitors
+AFS usage and ITS has made it clear that they
+will pursue offenders. But enforcement will
+naturally be imperfect, since it may be hard
+to discriminate between valid cluster usage
+and large-scale harvesting.
+Ideally, Stanford students and affiliates
+should know that their filenames and emails
+cannot be harvested by one of the thousands
+of other users on the system and not have to
+trust the goodwill of others or retroactive
+sanctions. While this problem is not easy to
+fix, it is also not unfixable: The NSA, for ex
+
+ample, probably doesn't allow all its employ
+ees to access all its filenames. While it is true
+that in some cases we relax privacy for con
+venience, it's unclear what legitimate reason
+someone would have for reading other stu
+dents' filenames if they cannot open the files
+themselves.
+
+So I am writing this article for two rea
+sons: First, to make you aware of the problem
+so you can protect yourself. There is no way
+to prevent your email address from being har
+vested, but you can make your filenames pri
+vate quite easily:
+If you have a Mac:
+1. Click on the "Terminal" application.
+This might be a black square at the bottom
+of the screen. If you can't find it there, you
+can click on the magnifying glass in the
+top right corner of the screen and then
+type "Terminal" to search for Terminal.
+2. A little box should pop up. Click on
+it and log into your Stanford AFS account
+by typing "ssh username@corn.stanford.
+edu" where you replace "username" with
+your SUID. Press enter. You will have to
+enter your password.
+3. Once you have logged in, type in
+"fsr setacl ~ system:campushosts none"
+and press enter. Your files are now hidden
+from other students.
+
+If you do not have a Mac:
+1. Go to a computer in one of the
+Stanford labs and log on using the Mac op
+erating system; follow the instructions
+above.
+
+You can find a more detailed explanation
+of what these commands do on the ITS web
+site. If this sounds too complicated, there are
+a number of other fixes: your AFS account al
+so gives you access to a "private" folder, and
+anything placed in there will be hidden from
+other students. Alternately, you can store
+files on Google Docs or Stanford Box, neither
+of which can be seen by other students. Or
+you could give all your files very boring
+names ("not_kitty_cat_porn.png").
+The second reason I am writing this arti
+cle is my faith in the technical know-how of
+the Stanford community: I believe this sys
+tem can be improved, and hopefully one of
+you will, too. Looking for a summer project?
+EMMA PIERSON 'l3
+
+Emma graduated from Stanford last June with
+a B.S. in physics and a M.S. in computer sci
+ence. A Rhodes Scholar, she plans to pursue a
+doctorate in computational biology at Oxford.
+In her free time, Emma writes for her blog Ob
+session with Regression.
+Every Stanford student is given a
+computer account which allows
+them to store and manipulate
+files using Stanford's computers. After
+inspecting this system, known as AFS,
+I suspected it might be possible for
+anyone with an account to do two
+things:
+
+1. Rapidly harvest the Stanford
+email address of every single student
+(and many alumni), enabling them to
+potentially spam tens of thousands of
+people.
+
+2. Read the filenames for ex
+ample, "meganfox.jpg" that every
+student had stored in the home direc
+tories of their Stanford accounts (un
+less the students had know-how to ex
+plicitly make those filenames private; I
+describe how to do this at the end of
+the article).
+While for obvious reasons I'll skip
+the technical details of how one could
+
+do this, I wrote to Stanford's IT servic
+es (ITS) and they confirmed this was
+the case. This is not ITS's fault: they
+didn't design AFS (Carnegie Mellon
+did) and fixing an established system is
+hard. When I wrote to ITS, they re
+sponded rapidly and professionally,
+convincing me that there was no easy
+fix.
+I would nonetheless suggest that
+this system is worth modifying be
+cause both the email addresses and
+the filenames invite abuses.
+Firstly, people have attempted to
+harvest student emails in the past, and
+unscrupulous ASSU candidates, start
+up founders or anyone who's ever
+used the phrase "FORWARD WIDELY"
+might do it in the future. One could al
+so sell the addresses to a spam list.
+(Stanford does use an anti-spam sys-
+tem and other email controls to mitigate this
+problem.)
+Secondly, being able to access filenames
+allows you, in many cases, to determine what
+classes a student is taking, and this could
+make a large-scale demographic analysis pos
+sible. Do students with female-sounding IDs
+take different classes than students with
+male-sounding IDs? What about students
+whose ethnic backgrounds are identifiable
+from their IDs? This isn't the sort of analysis
+that Stanford wants to allow I know be
+cause ITS got annoyed when I asked.
+More pernicious are the potential dan
+gers posed to individual students. One could
+investigate whether specific athletes are tak
+ing different classes from the general popula
+tion. One could also look at whether children
+of famous parents take different classes, a
+question that those who scrutinize legacy ad
+missions would be interested in.
+
+It also would be easy to search for embar
+rassing filenames: I'd be willing to bet a lot of
+money that one of the many thousands of
+AFS users is storing porn. Even students who
+aren't that technically sophisticated could in
+vestigate individual acquaintances do you
+really want your embittered ex going through
+your computer? While most students proba
+bly save their most private files on laptops,
+should students who can't afford laptops have
+a lesser expectation of privacy?
+And beyond schoolwork and porn, there
+may be a lot of confidential, high-value data
+stored on AFS unpublished research,
+ideas for companies and so on. Having
+worked at tech companies, I can attest that
+even a quick scan of a company's filenames
+gives a lot of clues as to the directions it's ex
+ploring.
+I strongly advise against attempting
+to do any of this. Ignoring the fact that it's a
+massive violation of trust, Stanford monitors
+AFS usage and ITS has made it clear that they
+will pursue offenders. But enforcement will
+naturally be imperfect, since it may be hard
+to discriminate between valid cluster usage
+and large-scale harvesting.
+Ideally, Stanford students and affiliates
+should know that their filenames and emails
+cannot be harvested by one of the thousands
+of other users on the system and not have to
+trust the goodwill of others or retroactive
+sanctions. While this problem is not easy to
+fix, it is also not unfixable: The NSA, for ex
+
+ample, probably doesn't allow all its employ
+ees to access all its filenames. While it is true
+that in some cases we relax privacy for con
+venience, it's unclear what legitimate reason
+someone would have for reading other stu
+dents' filenames if they cannot open the files
+themselves.
+
+So I am writing this article for two rea
+sons: First, to make you aware of the problem
+so you can protect yourself. There is no way
+to prevent your email address from being har
+vested, but you can make your filenames pri
+vate quite easily:
+If you have a Mac:
+1. Click on the "Terminal" application.
+This might be a black square at the bottom
+of the screen. If you can't find it there, you
+can click on the magnifying glass in the
+top right corner of the screen and then
+type "Terminal" to search for Terminal.
+2. A little box should pop up. Click on
+it and log into your Stanford AFS account
+by typing "ssh username@corn.stanford.
+edu" where you replace "username" with
+your SUID. Press enter. You will have to
+enter your password.
+3. Once you have logged in, type in
+"fsr setacl ~ system:campushosts none"
+and press enter. Your files are now hidden
+from other students.
+
+If you do not have a Mac:
+1. Go to a computer in one of the
+Stanford labs and log on using the Mac op
+erating system; follow the instructions
+above.
+
+You can find a more detailed explanation
+of what these commands do on the ITS web
+site. If this sounds too complicated, there are
+a number of other fixes: your AFS account al
+so gives you access to a "private" folder, and
+anything placed in there will be hidden from
+other students. Alternately, you can store
+files on Google Docs or Stanford Box, neither
+of which can be seen by other students. Or
+you could give all your files very boring
+names ("not_kitty_cat_porn.png").
+The second reason I am writing this arti
+cle is my faith in the technical know-how of
+the Stanford community: I believe this sys
+tem can be improved, and hopefully one of
+you will, too. Looking for a summer project?
+EMMA PIERSON 'l3
+
+Emma graduated from Stanford last June with
+a B.S. in physics and a M.S. in computer sci
+ence. A Rhodes Scholar, she plans to pursue a
+doctorate in computational biology at Oxford.
+In her free time, Emma writes for her blog Ob
+session with Regression.

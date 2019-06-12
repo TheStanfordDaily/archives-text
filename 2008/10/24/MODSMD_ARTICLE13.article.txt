@@ -1,0 +1,1131 @@
+# The 						music machines
+## How technology is changing the orchestra 
+### 
+The scene is something out of an H.G. Wells story:
+Entering an old mansion on a hill, a visitor makes his
+way upstairs, past thick trails of wires, control panels
+mounted on the walls and experimental equipment. Then,
+inside a sealed room, a half sphere covered with metal disks
+purrs in varying pitches.
+The room is silent, save the tapping of a keyboard and a
+quivering female voice. Slowly, the singing grows louder,
+gradually bending into a fragile Middle Eastern melody.
+Then the voice hits a crescendo and morphs into something
+unexpected. "D'Oh! DO'h! DO'h," Homer Simpson's trade
+mark noise rings out in rapid succession.
+Behind a laptop, holding a joystick, a man with long
+dark hair smiles, "That's what we call 'The Joy of Chant.'"
+Experimental alien technology? A secret government project?
+Nope — a demonstration of the Stanford Laptop Orchestra,
+or SLOrK, a new addition to the campus music community.
+The orchestra is the brainchild of Ge Wang, a professor
+of music and, by courtesy, computer science. Working at the
+Center for Computer Research in Music and Audio
+(CCRMA) — a modernized mansion near Lake Lagunita that
+once served as the University President's house — Wang has
+scrambled the lines between musical periods, genres and
+even definitions. By replacing classical instruments with
+
+computers but retaining the orchestra's organizational
+model, SLOrK extends the modern phenomenon of digital
+music into the time-honored realm of the orchestra.
+Launched with the financial assistance of the School of
+Humanities and Sciences, SLOrK materialized last spring
+after several months of preparation. Between April and June,
+the group played four shows around campus, including at
+the New Guinea Sculpture Garden and CCRMA itself.
+Perhaps the highlight of SLOrK's first quarter was
+"Pacific Rim of Wire" a performance at the Pan-Asian Music
+Festival in Dinkelspiel Auditorium last April. For the per
+formance, SLOrK had a live Web cast to the Central
+Conservatory of Music in Beijing, China, over 6,000 miles
+away.
+"We were definitely happy with that one," Wang said.
+The Orchestra's Origins
+SLOrK is modeled after the Princeton Laptop Orchestra,
+or, appropriately, PLOrK. While studying for a Ph.D. in com
+puter science at Princeton, Wang helped found the world's
+first laptop orchestra. In the fall of 2005, Wang, alongside
+Princeton Professors Dan Trueman and Perry Cook, first
+thought of the idea.
+"We had to figure out what a laptop orchestra was all
+
+about," Wang confessed. For the next several years, Wang
+taught undergraduate and graduate seminars on PLOrK,
+drawing attention from media outlets like NPR and The New
+York Times. Then, hired to Stanford's faculty, he brought his
+idea with him.
+"PLOrK and SLOrk are similar in spirit, but different in
+most other ways," Wang said. SLOrK is bigger, featuring 20
+musicians in the ensemble. Importantly, PLOrK does not
+have salad bowl speakers. Hut, Wang emphasized, the orches
+tras arc used to wildly varying effects, depending on the
+piece.
+Though the original idea for a laptop orchestra came
+from Princeton, experimental musical projects like SLOrK
+are nothing new to Stanford. CCRMA has long played an
+important role in the development of musical technology,
+most notably in the world of synthesizers. In 1%7, Stanford
+Professor of Music John Chowning began developing the fre
+quency modulation synthesis, or FM synthesizer. This tech
+nique rapidly and repeatedly changed the basic frequency of
+a sound. By 1975, Chowning had patented the approach and
+soon after licensed the invention to Japanese technology
+manufacturer Yamaha. The resulting product became the
+template for the modern digital synthesizer, popular in the
+'70s and '80s with both rock bands — Kraftwerk, The Cars
+— and countless armatures. (It's not a stretch, then, to thank
+— or blame — Stanford for most '80s dance music.)
+Over the decades, with the help of Chowning and count
+less others, CCRMA has developed an academically open
+minded and innovative atmosphere.
+
+
+
+
+SLOrK members have combined technology with the
+everday by imbedding speakers into Ikea salad
+bowls. The speakers, in addition to amplifying music,
+add an eerie aesthetic to SLOrK performances.
+"The term 'cross-disciplinary' gets thrown around a lot
+nowadays," Wang said, "But we don't have to fake it...
+(CCRMA) is a nexus of so many disciplines and of academia
+and industry — and that's all reflected in the original vision."
+Stanford's SLOrK
+Certainly the Stanford Laptop Orchestra represents this
+original vision well. Founded with the help of 25 students —
+many music, science and technology co-term students — the
+group has flourished to include students with a wide spec
+trum of interests. Wang counts among his ranks "engineers
+more interested in learning about music," composers looking
+for a "new medium for their compositions" and even stu
+dents from "history, chemistry, electrical engineering" and
+more.
+Little technical knowledge is required to work with
+SLOrK. "You don't have to have any programming knowledge
+when you step into one of these SLOrK classes," Wang said.
+"We teach you ... You just have to want to make music
+together."
+The set-up is relatively simple. Members of the SLOrK
+operate black Apple Macbooks, which are connected via a
+series of cables to a spherical speaker system and control box
+for volume, among other things. Depending on the piece
+being played, the set up can include a joystick and other
+accessories.
+The laptops themselves are, as the group's title suggests,
+the heart of Wang's vision. Ensemble members — the "musi
+cians" — use a variety of different programs and configura
+tions to create a variety of different sounds, ranging from a
+human-like voice to percussion to the ambient noises of a
+casino. SLOrK relies on a coding language that Professor
+Wang developed while at Princeton known simply as
+"CHUcK." The language is made specifically for music and
+sound use, prototyping an instrument in a matter of min
+utes. "The computer itself is not an instrument. Wc have to
+craft it into one," Wang said.
+As with all technology, SLOrk is not without glitches.
+"There is a high attack factor — something could always
+wrong," Wang said. Before every performance ensemble
+members debug the coding that runs during the perform
+ance. Then, once they begin "playing," the laptops arc suscep
+tible to freezing and slowing, particularly when using the
+Internet. But that's all part of the thrill of relying on technol
+ogy, according to Wang: "It's all about dealing with uncer
+tainty and embracing the potential for failure."
+In addition to its innovative use of the laptop, SLOrK
+has worked to develop unique spherical speakers that are
+both visually and sonically arresting. Made from an amusing
+combination of high technology — the latest in audio speak
+ers — and decidedly low technology — wooden IKEA salad
+
+bowls — the speakers are beige with six small gray circles.
+The grey disks are the speakers themselves, roughly equiva
+lent to a good car stereo system. The result is wondrously
+alien, like something out of a science-fiction movie.
+But they are much more than decoration. The IKEA
+bowl speakers allow the orchestra's sounds to emanate out
+ward from the musician, giving the "laptop and the human
+their own sonic space," Wang said. The sound is "inside out,
+rather outside in," he added. "As a result, there is sonic inti
+macy, like a more traditional instrument — sound comes
+from a violin, not the amplification around it."
+Using the odd combination of a laptop and a salad bowl,
+ensemble members "play" music in a variety of ways. In one
+piece titled "Crystalis," a laptop generates sound based on
+touch. In a demonstration by Wang, the sounds varied
+depending on which key or part of the laptop he touched.
+Even tapping the laptop itself generated an ethereal squeal.
+"The laptop becomes a bow, where you can create sound
+with very sensitive gestures," Wang noted as he tapped away
+at a keyboard.
+The Human Touch
+This is where the human comes in. Like an actual
+orchestra, SLOrK pieces arc coordinated for an ensemble of
+people, so organization becomes crucial. The challenge is
+
+making 20 different laptops work together.
+"It is game-changing to go from one to many," Wang
+pointed out, "The challenge is ... How do we take advantage
+of the sound, making good use of the human and the com
+puter?"
+So far, around three dozen original pieces have been
+composed for SLOrK. The composer plays many different
+roles: designing the "instrument" to be used in the piece, pro
+gramming using CHUcK, organizing the composition and
+practicing with the ensemble.
+"There is a lot of trial and error along the way," Wang
+said.
+Central to SLOrK, of course, is the premise that comput
+ers are the future of music. Will laptops eventually replace
+real instruments?
+"1 get that fear a lot," Wang remarked. "My answer is, 1
+hope not."
+In Wang's mind, there is no trade-off.
+"Humans and computers are better at fundamentally
+different things... Computers are fast and precise," he said.
+"Humans are social and can communicate in so many differ
+ent ways. Our goal is to combine the best of both."
+— paul CRAFT
+contact paul: pcraft@stanford.edu
+
+
+The scene is something out of an H.G. Wells story:
+Entering an old mansion on a hill, a visitor makes his
+way upstairs, past thick trails of wires, control panels
+mounted on the walls and experimental equipment. Then,
+inside a sealed room, a half sphere covered with metal disks
+purrs in varying pitches.
+The room is silent, save the tapping of a keyboard and a
+quivering female voice. Slowly, the singing grows louder,
+gradually bending into a fragile Middle Eastern melody.
+Then the voice hits a crescendo and morphs into something
+unexpected. "D'Oh! DO'h! DO'h," Homer Simpson's trade
+mark noise rings out in rapid succession.
+Behind a laptop, holding a joystick, a man with long
+dark hair smiles, "That's what we call 'The Joy of Chant.'"
+Experimental alien technology? A secret government project?
+Nope — a demonstration of the Stanford Laptop Orchestra,
+or SLOrK, a new addition to the campus music community.
+The orchestra is the brainchild of Ge Wang, a professor
+of music and, by courtesy, computer science. Working at the
+Center for Computer Research in Music and Audio
+(CCRMA) — a modernized mansion near Lake Lagunita that
+once served as the University President's house — Wang has
+scrambled the lines between musical periods, genres and
+even definitions. By replacing classical instruments with
+
+computers but retaining the orchestra's organizational
+model, SLOrK extends the modern phenomenon of digital
+music into the time-honored realm of the orchestra.
+Launched with the financial assistance of the School of
+Humanities and Sciences, SLOrK materialized last spring
+after several months of preparation. Between April and June,
+the group played four shows around campus, including at
+the New Guinea Sculpture Garden and CCRMA itself.
+Perhaps the highlight of SLOrK's first quarter was
+"Pacific Rim of Wire" a performance at the Pan-Asian Music
+Festival in Dinkelspiel Auditorium last April. For the per
+formance, SLOrK had a live Web cast to the Central
+Conservatory of Music in Beijing, China, over 6,000 miles
+away.
+"We were definitely happy with that one," Wang said.
+The Orchestra's Origins
+SLOrK is modeled after the Princeton Laptop Orchestra,
+or, appropriately, PLOrK. While studying for a Ph.D. in com
+puter science at Princeton, Wang helped found the world's
+first laptop orchestra. In the fall of 2005, Wang, alongside
+Princeton Professors Dan Trueman and Perry Cook, first
+thought of the idea.
+"We had to figure out what a laptop orchestra was all
+
+about," Wang confessed. For the next several years, Wang
+taught undergraduate and graduate seminars on PLOrK,
+drawing attention from media outlets like NPR and The New
+York Times. Then, hired to Stanford's faculty, he brought his
+idea with him.
+"PLOrK and SLOrk are similar in spirit, but different in
+most other ways," Wang said. SLOrK is bigger, featuring 20
+musicians in the ensemble. Importantly, PLOrK does not
+have salad bowl speakers. Hut, Wang emphasized, the orches
+tras arc used to wildly varying effects, depending on the
+piece.
+Though the original idea for a laptop orchestra came
+from Princeton, experimental musical projects like SLOrK
+are nothing new to Stanford. CCRMA has long played an
+important role in the development of musical technology,
+most notably in the world of synthesizers. In 1%7, Stanford
+Professor of Music John Chowning began developing the fre
+quency modulation synthesis, or FM synthesizer. This tech
+nique rapidly and repeatedly changed the basic frequency of
+a sound. By 1975, Chowning had patented the approach and
+soon after licensed the invention to Japanese technology
+manufacturer Yamaha. The resulting product became the
+template for the modern digital synthesizer, popular in the
+'70s and '80s with both rock bands — Kraftwerk, The Cars
+— and countless armatures. (It's not a stretch, then, to thank
+— or blame — Stanford for most '80s dance music.)
+Over the decades, with the help of Chowning and count
+less others, CCRMA has developed an academically open
+minded and innovative atmosphere.
+
+
+
+
+SLOrK members have combined technology with the
+everday by imbedding speakers into Ikea salad
+bowls. The speakers, in addition to amplifying music,
+add an eerie aesthetic to SLOrK performances.
+"The term 'cross-disciplinary' gets thrown around a lot
+nowadays," Wang said, "But we don't have to fake it...
+(CCRMA) is a nexus of so many disciplines and of academia
+and industry — and that's all reflected in the original vision."
+Stanford's SLOrK
+Certainly the Stanford Laptop Orchestra represents this
+original vision well. Founded with the help of 25 students —
+many music, science and technology co-term students — the
+group has flourished to include students with a wide spec
+trum of interests. Wang counts among his ranks "engineers
+more interested in learning about music," composers looking
+for a "new medium for their compositions" and even stu
+dents from "history, chemistry, electrical engineering" and
+more.
+Little technical knowledge is required to work with
+SLOrK. "You don't have to have any programming knowledge
+when you step into one of these SLOrK classes," Wang said.
+"We teach you ... You just have to want to make music
+together."
+The set-up is relatively simple. Members of the SLOrK
+operate black Apple Macbooks, which are connected via a
+series of cables to a spherical speaker system and control box
+for volume, among other things. Depending on the piece
+being played, the set up can include a joystick and other
+accessories.
+The laptops themselves are, as the group's title suggests,
+the heart of Wang's vision. Ensemble members — the "musi
+cians" — use a variety of different programs and configura
+tions to create a variety of different sounds, ranging from a
+human-like voice to percussion to the ambient noises of a
+casino. SLOrK relies on a coding language that Professor
+Wang developed while at Princeton known simply as
+"CHUcK." The language is made specifically for music and
+sound use, prototyping an instrument in a matter of min
+utes. "The computer itself is not an instrument. Wc have to
+craft it into one," Wang said.
+As with all technology, SLOrk is not without glitches.
+"There is a high attack factor — something could always
+wrong," Wang said. Before every performance ensemble
+members debug the coding that runs during the perform
+ance. Then, once they begin "playing," the laptops arc suscep
+tible to freezing and slowing, particularly when using the
+Internet. But that's all part of the thrill of relying on technol
+ogy, according to Wang: "It's all about dealing with uncer
+tainty and embracing the potential for failure."
+In addition to its innovative use of the laptop, SLOrK
+has worked to develop unique spherical speakers that are
+both visually and sonically arresting. Made from an amusing
+combination of high technology — the latest in audio speak
+ers — and decidedly low technology — wooden IKEA salad
+
+bowls — the speakers are beige with six small gray circles.
+The grey disks are the speakers themselves, roughly equiva
+lent to a good car stereo system. The result is wondrously
+alien, like something out of a science-fiction movie.
+But they are much more than decoration. The IKEA
+bowl speakers allow the orchestra's sounds to emanate out
+ward from the musician, giving the "laptop and the human
+their own sonic space," Wang said. The sound is "inside out,
+rather outside in," he added. "As a result, there is sonic inti
+macy, like a more traditional instrument — sound comes
+from a violin, not the amplification around it."
+Using the odd combination of a laptop and a salad bowl,
+ensemble members "play" music in a variety of ways. In one
+piece titled "Crystalis," a laptop generates sound based on
+touch. In a demonstration by Wang, the sounds varied
+depending on which key or part of the laptop he touched.
+Even tapping the laptop itself generated an ethereal squeal.
+"The laptop becomes a bow, where you can create sound
+with very sensitive gestures," Wang noted as he tapped away
+at a keyboard.
+The Human Touch
+This is where the human comes in. Like an actual
+orchestra, SLOrK pieces arc coordinated for an ensemble of
+people, so organization becomes crucial. The challenge is
+
+making 20 different laptops work together.
+"It is game-changing to go from one to many," Wang
+pointed out, "The challenge is ... How do we take advantage
+of the sound, making good use of the human and the com
+puter?"
+So far, around three dozen original pieces have been
+composed for SLOrK. The composer plays many different
+roles: designing the "instrument" to be used in the piece, pro
+gramming using CHUcK, organizing the composition and
+practicing with the ensemble.
+"There is a lot of trial and error along the way," Wang
+said.
+Central to SLOrK, of course, is the premise that comput
+ers are the future of music. Will laptops eventually replace
+real instruments?
+"1 get that fear a lot," Wang remarked. "My answer is, 1
+hope not."
+In Wang's mind, there is no trade-off.
+"Humans and computers are better at fundamentally
+different things... Computers are fast and precise," he said.
+"Humans are social and can communicate in so many differ
+ent ways. Our goal is to combine the best of both."
+— paul CRAFT
+contact paul: pcraft@stanford.edu
+
+
+The scene is something out of an H.G. Wells story:
+Entering an old mansion on a hill, a visitor makes his
+way upstairs, past thick trails of wires, control panels
+mounted on the walls and experimental equipment. Then,
+inside a sealed room, a half sphere covered with metal disks
+purrs in varying pitches.
+The room is silent, save the tapping of a keyboard and a
+quivering female voice. Slowly, the singing grows louder,
+gradually bending into a fragile Middle Eastern melody.
+Then the voice hits a crescendo and morphs into something
+unexpected. "D'Oh! DO'h! DO'h," Homer Simpson's trade
+mark noise rings out in rapid succession.
+Behind a laptop, holding a joystick, a man with long
+dark hair smiles, "That's what we call 'The Joy of Chant.'"
+Experimental alien technology? A secret government project?
+Nope — a demonstration of the Stanford Laptop Orchestra,
+or SLOrK, a new addition to the campus music community.
+The orchestra is the brainchild of Ge Wang, a professor
+of music and, by courtesy, computer science. Working at the
+Center for Computer Research in Music and Audio
+(CCRMA) — a modernized mansion near Lake Lagunita that
+once served as the University President's house — Wang has
+scrambled the lines between musical periods, genres and
+even definitions. By replacing classical instruments with
+
+computers but retaining the orchestra's organizational
+model, SLOrK extends the modern phenomenon of digital
+music into the time-honored realm of the orchestra.
+Launched with the financial assistance of the School of
+Humanities and Sciences, SLOrK materialized last spring
+after several months of preparation. Between April and June,
+the group played four shows around campus, including at
+the New Guinea Sculpture Garden and CCRMA itself.
+Perhaps the highlight of SLOrK's first quarter was
+"Pacific Rim of Wire" a performance at the Pan-Asian Music
+Festival in Dinkelspiel Auditorium last April. For the per
+formance, SLOrK had a live Web cast to the Central
+Conservatory of Music in Beijing, China, over 6,000 miles
+away.
+"We were definitely happy with that one," Wang said.
+The Orchestra's Origins
+SLOrK is modeled after the Princeton Laptop Orchestra,
+or, appropriately, PLOrK. While studying for a Ph.D. in com
+puter science at Princeton, Wang helped found the world's
+first laptop orchestra. In the fall of 2005, Wang, alongside
+Princeton Professors Dan Trueman and Perry Cook, first
+thought of the idea.
+"We had to figure out what a laptop orchestra was all
+
+about," Wang confessed. For the next several years, Wang
+taught undergraduate and graduate seminars on PLOrK,
+drawing attention from media outlets like NPR and The New
+York Times. Then, hired to Stanford's faculty, he brought his
+idea with him.
+"PLOrK and SLOrk are similar in spirit, but different in
+most other ways," Wang said. SLOrK is bigger, featuring 20
+musicians in the ensemble. Importantly, PLOrK does not
+have salad bowl speakers. Hut, Wang emphasized, the orches
+tras arc used to wildly varying effects, depending on the
+piece.
+Though the original idea for a laptop orchestra came
+from Princeton, experimental musical projects like SLOrK
+are nothing new to Stanford. CCRMA has long played an
+important role in the development of musical technology,
+most notably in the world of synthesizers. In 1%7, Stanford
+Professor of Music John Chowning began developing the fre
+quency modulation synthesis, or FM synthesizer. This tech
+nique rapidly and repeatedly changed the basic frequency of
+a sound. By 1975, Chowning had patented the approach and
+soon after licensed the invention to Japanese technology
+manufacturer Yamaha. The resulting product became the
+template for the modern digital synthesizer, popular in the
+'70s and '80s with both rock bands — Kraftwerk, The Cars
+— and countless armatures. (It's not a stretch, then, to thank
+— or blame — Stanford for most '80s dance music.)
+Over the decades, with the help of Chowning and count
+less others, CCRMA has developed an academically open
+minded and innovative atmosphere.
+
+
+
+
+SLOrK members have combined technology with the
+everday by imbedding speakers into Ikea salad
+bowls. The speakers, in addition to amplifying music,
+add an eerie aesthetic to SLOrK performances.
+"The term 'cross-disciplinary' gets thrown around a lot
+nowadays," Wang said, "But we don't have to fake it...
+(CCRMA) is a nexus of so many disciplines and of academia
+and industry — and that's all reflected in the original vision."
+Stanford's SLOrK
+Certainly the Stanford Laptop Orchestra represents this
+original vision well. Founded with the help of 25 students —
+many music, science and technology co-term students — the
+group has flourished to include students with a wide spec
+trum of interests. Wang counts among his ranks "engineers
+more interested in learning about music," composers looking
+for a "new medium for their compositions" and even stu
+dents from "history, chemistry, electrical engineering" and
+more.
+Little technical knowledge is required to work with
+SLOrK. "You don't have to have any programming knowledge
+when you step into one of these SLOrK classes," Wang said.
+"We teach you ... You just have to want to make music
+together."
+The set-up is relatively simple. Members of the SLOrK
+operate black Apple Macbooks, which are connected via a
+series of cables to a spherical speaker system and control box
+for volume, among other things. Depending on the piece
+being played, the set up can include a joystick and other
+accessories.
+The laptops themselves are, as the group's title suggests,
+the heart of Wang's vision. Ensemble members — the "musi
+cians" — use a variety of different programs and configura
+tions to create a variety of different sounds, ranging from a
+human-like voice to percussion to the ambient noises of a
+casino. SLOrK relies on a coding language that Professor
+Wang developed while at Princeton known simply as
+"CHUcK." The language is made specifically for music and
+sound use, prototyping an instrument in a matter of min
+utes. "The computer itself is not an instrument. Wc have to
+craft it into one," Wang said.
+As with all technology, SLOrk is not without glitches.
+"There is a high attack factor — something could always
+wrong," Wang said. Before every performance ensemble
+members debug the coding that runs during the perform
+ance. Then, once they begin "playing," the laptops arc suscep
+tible to freezing and slowing, particularly when using the
+Internet. But that's all part of the thrill of relying on technol
+ogy, according to Wang: "It's all about dealing with uncer
+tainty and embracing the potential for failure."
+In addition to its innovative use of the laptop, SLOrK
+has worked to develop unique spherical speakers that are
+both visually and sonically arresting. Made from an amusing
+combination of high technology — the latest in audio speak
+ers — and decidedly low technology — wooden IKEA salad
+
+bowls — the speakers are beige with six small gray circles.
+The grey disks are the speakers themselves, roughly equiva
+lent to a good car stereo system. The result is wondrously
+alien, like something out of a science-fiction movie.
+But they are much more than decoration. The IKEA
+bowl speakers allow the orchestra's sounds to emanate out
+ward from the musician, giving the "laptop and the human
+their own sonic space," Wang said. The sound is "inside out,
+rather outside in," he added. "As a result, there is sonic inti
+macy, like a more traditional instrument — sound comes
+from a violin, not the amplification around it."
+Using the odd combination of a laptop and a salad bowl,
+ensemble members "play" music in a variety of ways. In one
+piece titled "Crystalis," a laptop generates sound based on
+touch. In a demonstration by Wang, the sounds varied
+depending on which key or part of the laptop he touched.
+Even tapping the laptop itself generated an ethereal squeal.
+"The laptop becomes a bow, where you can create sound
+with very sensitive gestures," Wang noted as he tapped away
+at a keyboard.
+The Human Touch
+This is where the human comes in. Like an actual
+orchestra, SLOrK pieces arc coordinated for an ensemble of
+people, so organization becomes crucial. The challenge is
+
+making 20 different laptops work together.
+"It is game-changing to go from one to many," Wang
+pointed out, "The challenge is ... How do we take advantage
+of the sound, making good use of the human and the com
+puter?"
+So far, around three dozen original pieces have been
+composed for SLOrK. The composer plays many different
+roles: designing the "instrument" to be used in the piece, pro
+gramming using CHUcK, organizing the composition and
+practicing with the ensemble.
+"There is a lot of trial and error along the way," Wang
+said.
+Central to SLOrK, of course, is the premise that comput
+ers are the future of music. Will laptops eventually replace
+real instruments?
+"1 get that fear a lot," Wang remarked. "My answer is, 1
+hope not."
+In Wang's mind, there is no trade-off.
+"Humans and computers are better at fundamentally
+different things... Computers are fast and precise," he said.
+"Humans are social and can communicate in so many differ
+ent ways. Our goal is to combine the best of both."
+— paul CRAFT
+contact paul: pcraft@stanford.edu
+
+
+The scene is something out of an H.G. Wells story:
+Entering an old mansion on a hill, a visitor makes his
+way upstairs, past thick trails of wires, control panels
+mounted on the walls and experimental equipment. Then,
+inside a sealed room, a half sphere covered with metal disks
+purrs in varying pitches.
+The room is silent, save the tapping of a keyboard and a
+quivering female voice. Slowly, the singing grows louder,
+gradually bending into a fragile Middle Eastern melody.
+Then the voice hits a crescendo and morphs into something
+unexpected. "D'Oh! DO'h! DO'h," Homer Simpson's trade
+mark noise rings out in rapid succession.
+Behind a laptop, holding a joystick, a man with long
+dark hair smiles, "That's what we call 'The Joy of Chant.'"
+Experimental alien technology? A secret government project?
+Nope — a demonstration of the Stanford Laptop Orchestra,
+or SLOrK, a new addition to the campus music community.
+The orchestra is the brainchild of Ge Wang, a professor
+of music and, by courtesy, computer science. Working at the
+Center for Computer Research in Music and Audio
+(CCRMA) — a modernized mansion near Lake Lagunita that
+once served as the University President's house — Wang has
+scrambled the lines between musical periods, genres and
+even definitions. By replacing classical instruments with
+
+computers but retaining the orchestra's organizational
+model, SLOrK extends the modern phenomenon of digital
+music into the time-honored realm of the orchestra.
+Launched with the financial assistance of the School of
+Humanities and Sciences, SLOrK materialized last spring
+after several months of preparation. Between April and June,
+the group played four shows around campus, including at
+the New Guinea Sculpture Garden and CCRMA itself.
+Perhaps the highlight of SLOrK's first quarter was
+"Pacific Rim of Wire" a performance at the Pan-Asian Music
+Festival in Dinkelspiel Auditorium last April. For the per
+formance, SLOrK had a live Web cast to the Central
+Conservatory of Music in Beijing, China, over 6,000 miles
+away.
+"We were definitely happy with that one," Wang said.
+The Orchestra's Origins
+SLOrK is modeled after the Princeton Laptop Orchestra,
+or, appropriately, PLOrK. While studying for a Ph.D. in com
+puter science at Princeton, Wang helped found the world's
+first laptop orchestra. In the fall of 2005, Wang, alongside
+Princeton Professors Dan Trueman and Perry Cook, first
+thought of the idea.
+"We had to figure out what a laptop orchestra was all
+
+about," Wang confessed. For the next several years, Wang
+taught undergraduate and graduate seminars on PLOrK,
+drawing attention from media outlets like NPR and The New
+York Times. Then, hired to Stanford's faculty, he brought his
+idea with him.
+"PLOrK and SLOrk are similar in spirit, but different in
+most other ways," Wang said. SLOrK is bigger, featuring 20
+musicians in the ensemble. Importantly, PLOrK does not
+have salad bowl speakers. Hut, Wang emphasized, the orches
+tras arc used to wildly varying effects, depending on the
+piece.
+Though the original idea for a laptop orchestra came
+from Princeton, experimental musical projects like SLOrK
+are nothing new to Stanford. CCRMA has long played an
+important role in the development of musical technology,
+most notably in the world of synthesizers. In 1%7, Stanford
+Professor of Music John Chowning began developing the fre
+quency modulation synthesis, or FM synthesizer. This tech
+nique rapidly and repeatedly changed the basic frequency of
+a sound. By 1975, Chowning had patented the approach and
+soon after licensed the invention to Japanese technology
+manufacturer Yamaha. The resulting product became the
+template for the modern digital synthesizer, popular in the
+'70s and '80s with both rock bands — Kraftwerk, The Cars
+— and countless armatures. (It's not a stretch, then, to thank
+— or blame — Stanford for most '80s dance music.)
+Over the decades, with the help of Chowning and count
+less others, CCRMA has developed an academically open
+minded and innovative atmosphere.
+
+
+
+
+SLOrK members have combined technology with the
+everday by imbedding speakers into Ikea salad
+bowls. The speakers, in addition to amplifying music,
+add an eerie aesthetic to SLOrK performances.
+"The term 'cross-disciplinary' gets thrown around a lot
+nowadays," Wang said, "But we don't have to fake it...
+(CCRMA) is a nexus of so many disciplines and of academia
+and industry — and that's all reflected in the original vision."
+Stanford's SLOrK
+Certainly the Stanford Laptop Orchestra represents this
+original vision well. Founded with the help of 25 students —
+many music, science and technology co-term students — the
+group has flourished to include students with a wide spec
+trum of interests. Wang counts among his ranks "engineers
+more interested in learning about music," composers looking
+for a "new medium for their compositions" and even stu
+dents from "history, chemistry, electrical engineering" and
+more.
+Little technical knowledge is required to work with
+SLOrK. "You don't have to have any programming knowledge
+when you step into one of these SLOrK classes," Wang said.
+"We teach you ... You just have to want to make music
+together."
+The set-up is relatively simple. Members of the SLOrK
+operate black Apple Macbooks, which are connected via a
+series of cables to a spherical speaker system and control box
+for volume, among other things. Depending on the piece
+being played, the set up can include a joystick and other
+accessories.
+The laptops themselves are, as the group's title suggests,
+the heart of Wang's vision. Ensemble members — the "musi
+cians" — use a variety of different programs and configura
+tions to create a variety of different sounds, ranging from a
+human-like voice to percussion to the ambient noises of a
+casino. SLOrK relies on a coding language that Professor
+Wang developed while at Princeton known simply as
+"CHUcK." The language is made specifically for music and
+sound use, prototyping an instrument in a matter of min
+utes. "The computer itself is not an instrument. Wc have to
+craft it into one," Wang said.
+As with all technology, SLOrk is not without glitches.
+"There is a high attack factor — something could always
+wrong," Wang said. Before every performance ensemble
+members debug the coding that runs during the perform
+ance. Then, once they begin "playing," the laptops arc suscep
+tible to freezing and slowing, particularly when using the
+Internet. But that's all part of the thrill of relying on technol
+ogy, according to Wang: "It's all about dealing with uncer
+tainty and embracing the potential for failure."
+In addition to its innovative use of the laptop, SLOrK
+has worked to develop unique spherical speakers that are
+both visually and sonically arresting. Made from an amusing
+combination of high technology — the latest in audio speak
+ers — and decidedly low technology — wooden IKEA salad
+
+bowls — the speakers are beige with six small gray circles.
+The grey disks are the speakers themselves, roughly equiva
+lent to a good car stereo system. The result is wondrously
+alien, like something out of a science-fiction movie.
+But they are much more than decoration. The IKEA
+bowl speakers allow the orchestra's sounds to emanate out
+ward from the musician, giving the "laptop and the human
+their own sonic space," Wang said. The sound is "inside out,
+rather outside in," he added. "As a result, there is sonic inti
+macy, like a more traditional instrument — sound comes
+from a violin, not the amplification around it."
+Using the odd combination of a laptop and a salad bowl,
+ensemble members "play" music in a variety of ways. In one
+piece titled "Crystalis," a laptop generates sound based on
+touch. In a demonstration by Wang, the sounds varied
+depending on which key or part of the laptop he touched.
+Even tapping the laptop itself generated an ethereal squeal.
+"The laptop becomes a bow, where you can create sound
+with very sensitive gestures," Wang noted as he tapped away
+at a keyboard.
+The Human Touch
+This is where the human comes in. Like an actual
+orchestra, SLOrK pieces arc coordinated for an ensemble of
+people, so organization becomes crucial. The challenge is
+
+making 20 different laptops work together.
+"It is game-changing to go from one to many," Wang
+pointed out, "The challenge is ... How do we take advantage
+of the sound, making good use of the human and the com
+puter?"
+So far, around three dozen original pieces have been
+composed for SLOrK. The composer plays many different
+roles: designing the "instrument" to be used in the piece, pro
+gramming using CHUcK, organizing the composition and
+practicing with the ensemble.
+"There is a lot of trial and error along the way," Wang
+said.
+Central to SLOrK, of course, is the premise that comput
+ers are the future of music. Will laptops eventually replace
+real instruments?
+"1 get that fear a lot," Wang remarked. "My answer is, 1
+hope not."
+In Wang's mind, there is no trade-off.
+"Humans and computers are better at fundamentally
+different things... Computers are fast and precise," he said.
+"Humans are social and can communicate in so many differ
+ent ways. Our goal is to combine the best of both."
+— paul CRAFT
+contact paul: pcraft@stanford.edu
+
+
+The scene is something out of an H.G. Wells story:
+Entering an old mansion on a hill, a visitor makes his
+way upstairs, past thick trails of wires, control panels
+mounted on the walls and experimental equipment. Then,
+inside a sealed room, a half sphere covered with metal disks
+purrs in varying pitches.
+The room is silent, save the tapping of a keyboard and a
+quivering female voice. Slowly, the singing grows louder,
+gradually bending into a fragile Middle Eastern melody.
+Then the voice hits a crescendo and morphs into something
+unexpected. "D'Oh! DO'h! DO'h," Homer Simpson's trade
+mark noise rings out in rapid succession.
+Behind a laptop, holding a joystick, a man with long
+dark hair smiles, "That's what we call 'The Joy of Chant.'"
+Experimental alien technology? A secret government project?
+Nope — a demonstration of the Stanford Laptop Orchestra,
+or SLOrK, a new addition to the campus music community.
+The orchestra is the brainchild of Ge Wang, a professor
+of music and, by courtesy, computer science. Working at the
+Center for Computer Research in Music and Audio
+(CCRMA) — a modernized mansion near Lake Lagunita that
+once served as the University President's house — Wang has
+scrambled the lines between musical periods, genres and
+even definitions. By replacing classical instruments with
+
+computers but retaining the orchestra's organizational
+model, SLOrK extends the modern phenomenon of digital
+music into the time-honored realm of the orchestra.
+Launched with the financial assistance of the School of
+Humanities and Sciences, SLOrK materialized last spring
+after several months of preparation. Between April and June,
+the group played four shows around campus, including at
+the New Guinea Sculpture Garden and CCRMA itself.
+Perhaps the highlight of SLOrK's first quarter was
+"Pacific Rim of Wire" a performance at the Pan-Asian Music
+Festival in Dinkelspiel Auditorium last April. For the per
+formance, SLOrK had a live Web cast to the Central
+Conservatory of Music in Beijing, China, over 6,000 miles
+away.
+"We were definitely happy with that one," Wang said.
+The Orchestra's Origins
+SLOrK is modeled after the Princeton Laptop Orchestra,
+or, appropriately, PLOrK. While studying for a Ph.D. in com
+puter science at Princeton, Wang helped found the world's
+first laptop orchestra. In the fall of 2005, Wang, alongside
+Princeton Professors Dan Trueman and Perry Cook, first
+thought of the idea.
+"We had to figure out what a laptop orchestra was all
+
+about," Wang confessed. For the next several years, Wang
+taught undergraduate and graduate seminars on PLOrK,
+drawing attention from media outlets like NPR and The New
+York Times. Then, hired to Stanford's faculty, he brought his
+idea with him.
+"PLOrK and SLOrk are similar in spirit, but different in
+most other ways," Wang said. SLOrK is bigger, featuring 20
+musicians in the ensemble. Importantly, PLOrK does not
+have salad bowl speakers. Hut, Wang emphasized, the orches
+tras arc used to wildly varying effects, depending on the
+piece.
+Though the original idea for a laptop orchestra came
+from Princeton, experimental musical projects like SLOrK
+are nothing new to Stanford. CCRMA has long played an
+important role in the development of musical technology,
+most notably in the world of synthesizers. In 1%7, Stanford
+Professor of Music John Chowning began developing the fre
+quency modulation synthesis, or FM synthesizer. This tech
+nique rapidly and repeatedly changed the basic frequency of
+a sound. By 1975, Chowning had patented the approach and
+soon after licensed the invention to Japanese technology
+manufacturer Yamaha. The resulting product became the
+template for the modern digital synthesizer, popular in the
+'70s and '80s with both rock bands — Kraftwerk, The Cars
+— and countless armatures. (It's not a stretch, then, to thank
+— or blame — Stanford for most '80s dance music.)
+Over the decades, with the help of Chowning and count
+less others, CCRMA has developed an academically open
+minded and innovative atmosphere.
+
+
+
+
+SLOrK members have combined technology with the
+everday by imbedding speakers into Ikea salad
+bowls. The speakers, in addition to amplifying music,
+add an eerie aesthetic to SLOrK performances.
+"The term 'cross-disciplinary' gets thrown around a lot
+nowadays," Wang said, "But we don't have to fake it...
+(CCRMA) is a nexus of so many disciplines and of academia
+and industry — and that's all reflected in the original vision."
+Stanford's SLOrK
+Certainly the Stanford Laptop Orchestra represents this
+original vision well. Founded with the help of 25 students —
+many music, science and technology co-term students — the
+group has flourished to include students with a wide spec
+trum of interests. Wang counts among his ranks "engineers
+more interested in learning about music," composers looking
+for a "new medium for their compositions" and even stu
+dents from "history, chemistry, electrical engineering" and
+more.
+Little technical knowledge is required to work with
+SLOrK. "You don't have to have any programming knowledge
+when you step into one of these SLOrK classes," Wang said.
+"We teach you ... You just have to want to make music
+together."
+The set-up is relatively simple. Members of the SLOrK
+operate black Apple Macbooks, which are connected via a
+series of cables to a spherical speaker system and control box
+for volume, among other things. Depending on the piece
+being played, the set up can include a joystick and other
+accessories.
+The laptops themselves are, as the group's title suggests,
+the heart of Wang's vision. Ensemble members — the "musi
+cians" — use a variety of different programs and configura
+tions to create a variety of different sounds, ranging from a
+human-like voice to percussion to the ambient noises of a
+casino. SLOrK relies on a coding language that Professor
+Wang developed while at Princeton known simply as
+"CHUcK." The language is made specifically for music and
+sound use, prototyping an instrument in a matter of min
+utes. "The computer itself is not an instrument. Wc have to
+craft it into one," Wang said.
+As with all technology, SLOrk is not without glitches.
+"There is a high attack factor — something could always
+wrong," Wang said. Before every performance ensemble
+members debug the coding that runs during the perform
+ance. Then, once they begin "playing," the laptops arc suscep
+tible to freezing and slowing, particularly when using the
+Internet. But that's all part of the thrill of relying on technol
+ogy, according to Wang: "It's all about dealing with uncer
+tainty and embracing the potential for failure."
+In addition to its innovative use of the laptop, SLOrK
+has worked to develop unique spherical speakers that are
+both visually and sonically arresting. Made from an amusing
+combination of high technology — the latest in audio speak
+ers — and decidedly low technology — wooden IKEA salad
+
+bowls — the speakers are beige with six small gray circles.
+The grey disks are the speakers themselves, roughly equiva
+lent to a good car stereo system. The result is wondrously
+alien, like something out of a science-fiction movie.
+But they are much more than decoration. The IKEA
+bowl speakers allow the orchestra's sounds to emanate out
+ward from the musician, giving the "laptop and the human
+their own sonic space," Wang said. The sound is "inside out,
+rather outside in," he added. "As a result, there is sonic inti
+macy, like a more traditional instrument — sound comes
+from a violin, not the amplification around it."
+Using the odd combination of a laptop and a salad bowl,
+ensemble members "play" music in a variety of ways. In one
+piece titled "Crystalis," a laptop generates sound based on
+touch. In a demonstration by Wang, the sounds varied
+depending on which key or part of the laptop he touched.
+Even tapping the laptop itself generated an ethereal squeal.
+"The laptop becomes a bow, where you can create sound
+with very sensitive gestures," Wang noted as he tapped away
+at a keyboard.
+The Human Touch
+This is where the human comes in. Like an actual
+orchestra, SLOrK pieces arc coordinated for an ensemble of
+people, so organization becomes crucial. The challenge is
+
+making 20 different laptops work together.
+"It is game-changing to go from one to many," Wang
+pointed out, "The challenge is ... How do we take advantage
+of the sound, making good use of the human and the com
+puter?"
+So far, around three dozen original pieces have been
+composed for SLOrK. The composer plays many different
+roles: designing the "instrument" to be used in the piece, pro
+gramming using CHUcK, organizing the composition and
+practicing with the ensemble.
+"There is a lot of trial and error along the way," Wang
+said.
+Central to SLOrK, of course, is the premise that comput
+ers are the future of music. Will laptops eventually replace
+real instruments?
+"1 get that fear a lot," Wang remarked. "My answer is, 1
+hope not."
+In Wang's mind, there is no trade-off.
+"Humans and computers are better at fundamentally
+different things... Computers are fast and precise," he said.
+"Humans are social and can communicate in so many differ
+ent ways. Our goal is to combine the best of both."
+— paul CRAFT
+contact paul: pcraft@stanford.edu
+
+
+The scene is something out of an H.G. Wells story:
+Entering an old mansion on a hill, a visitor makes his
+way upstairs, past thick trails of wires, control panels
+mounted on the walls and experimental equipment. Then,
+inside a sealed room, a half sphere covered with metal disks
+purrs in varying pitches.
+The room is silent, save the tapping of a keyboard and a
+quivering female voice. Slowly, the singing grows louder,
+gradually bending into a fragile Middle Eastern melody.
+Then the voice hits a crescendo and morphs into something
+unexpected. "D'Oh! DO'h! DO'h," Homer Simpson's trade
+mark noise rings out in rapid succession.
+Behind a laptop, holding a joystick, a man with long
+dark hair smiles, "That's what we call 'The Joy of Chant.'"
+Experimental alien technology? A secret government project?
+Nope — a demonstration of the Stanford Laptop Orchestra,
+or SLOrK, a new addition to the campus music community.
+The orchestra is the brainchild of Ge Wang, a professor
+of music and, by courtesy, computer science. Working at the
+Center for Computer Research in Music and Audio
+(CCRMA) — a modernized mansion near Lake Lagunita that
+once served as the University President's house — Wang has
+scrambled the lines between musical periods, genres and
+even definitions. By replacing classical instruments with
+
+computers but retaining the orchestra's organizational
+model, SLOrK extends the modern phenomenon of digital
+music into the time-honored realm of the orchestra.
+Launched with the financial assistance of the School of
+Humanities and Sciences, SLOrK materialized last spring
+after several months of preparation. Between April and June,
+the group played four shows around campus, including at
+the New Guinea Sculpture Garden and CCRMA itself.
+Perhaps the highlight of SLOrK's first quarter was
+"Pacific Rim of Wire" a performance at the Pan-Asian Music
+Festival in Dinkelspiel Auditorium last April. For the per
+formance, SLOrK had a live Web cast to the Central
+Conservatory of Music in Beijing, China, over 6,000 miles
+away.
+"We were definitely happy with that one," Wang said.
+The Orchestra's Origins
+SLOrK is modeled after the Princeton Laptop Orchestra,
+or, appropriately, PLOrK. While studying for a Ph.D. in com
+puter science at Princeton, Wang helped found the world's
+first laptop orchestra. In the fall of 2005, Wang, alongside
+Princeton Professors Dan Trueman and Perry Cook, first
+thought of the idea.
+"We had to figure out what a laptop orchestra was all
+
+about," Wang confessed. For the next several years, Wang
+taught undergraduate and graduate seminars on PLOrK,
+drawing attention from media outlets like NPR and The New
+York Times. Then, hired to Stanford's faculty, he brought his
+idea with him.
+"PLOrK and SLOrk are similar in spirit, but different in
+most other ways," Wang said. SLOrK is bigger, featuring 20
+musicians in the ensemble. Importantly, PLOrK does not
+have salad bowl speakers. Hut, Wang emphasized, the orches
+tras arc used to wildly varying effects, depending on the
+piece.
+Though the original idea for a laptop orchestra came
+from Princeton, experimental musical projects like SLOrK
+are nothing new to Stanford. CCRMA has long played an
+important role in the development of musical technology,
+most notably in the world of synthesizers. In 1%7, Stanford
+Professor of Music John Chowning began developing the fre
+quency modulation synthesis, or FM synthesizer. This tech
+nique rapidly and repeatedly changed the basic frequency of
+a sound. By 1975, Chowning had patented the approach and
+soon after licensed the invention to Japanese technology
+manufacturer Yamaha. The resulting product became the
+template for the modern digital synthesizer, popular in the
+'70s and '80s with both rock bands — Kraftwerk, The Cars
+— and countless armatures. (It's not a stretch, then, to thank
+— or blame — Stanford for most '80s dance music.)
+Over the decades, with the help of Chowning and count
+less others, CCRMA has developed an academically open
+minded and innovative atmosphere.
+
+
+
+
+SLOrK members have combined technology with the
+everday by imbedding speakers into Ikea salad
+bowls. The speakers, in addition to amplifying music,
+add an eerie aesthetic to SLOrK performances.
+"The term 'cross-disciplinary' gets thrown around a lot
+nowadays," Wang said, "But we don't have to fake it...
+(CCRMA) is a nexus of so many disciplines and of academia
+and industry — and that's all reflected in the original vision."
+Stanford's SLOrK
+Certainly the Stanford Laptop Orchestra represents this
+original vision well. Founded with the help of 25 students —
+many music, science and technology co-term students — the
+group has flourished to include students with a wide spec
+trum of interests. Wang counts among his ranks "engineers
+more interested in learning about music," composers looking
+for a "new medium for their compositions" and even stu
+dents from "history, chemistry, electrical engineering" and
+more.
+Little technical knowledge is required to work with
+SLOrK. "You don't have to have any programming knowledge
+when you step into one of these SLOrK classes," Wang said.
+"We teach you ... You just have to want to make music
+together."
+The set-up is relatively simple. Members of the SLOrK
+operate black Apple Macbooks, which are connected via a
+series of cables to a spherical speaker system and control box
+for volume, among other things. Depending on the piece
+being played, the set up can include a joystick and other
+accessories.
+The laptops themselves are, as the group's title suggests,
+the heart of Wang's vision. Ensemble members — the "musi
+cians" — use a variety of different programs and configura
+tions to create a variety of different sounds, ranging from a
+human-like voice to percussion to the ambient noises of a
+casino. SLOrK relies on a coding language that Professor
+Wang developed while at Princeton known simply as
+"CHUcK." The language is made specifically for music and
+sound use, prototyping an instrument in a matter of min
+utes. "The computer itself is not an instrument. Wc have to
+craft it into one," Wang said.
+As with all technology, SLOrk is not without glitches.
+"There is a high attack factor — something could always
+wrong," Wang said. Before every performance ensemble
+members debug the coding that runs during the perform
+ance. Then, once they begin "playing," the laptops arc suscep
+tible to freezing and slowing, particularly when using the
+Internet. But that's all part of the thrill of relying on technol
+ogy, according to Wang: "It's all about dealing with uncer
+tainty and embracing the potential for failure."
+In addition to its innovative use of the laptop, SLOrK
+has worked to develop unique spherical speakers that are
+both visually and sonically arresting. Made from an amusing
+combination of high technology — the latest in audio speak
+ers — and decidedly low technology — wooden IKEA salad
+
+bowls — the speakers are beige with six small gray circles.
+The grey disks are the speakers themselves, roughly equiva
+lent to a good car stereo system. The result is wondrously
+alien, like something out of a science-fiction movie.
+But they are much more than decoration. The IKEA
+bowl speakers allow the orchestra's sounds to emanate out
+ward from the musician, giving the "laptop and the human
+their own sonic space," Wang said. The sound is "inside out,
+rather outside in," he added. "As a result, there is sonic inti
+macy, like a more traditional instrument — sound comes
+from a violin, not the amplification around it."
+Using the odd combination of a laptop and a salad bowl,
+ensemble members "play" music in a variety of ways. In one
+piece titled "Crystalis," a laptop generates sound based on
+touch. In a demonstration by Wang, the sounds varied
+depending on which key or part of the laptop he touched.
+Even tapping the laptop itself generated an ethereal squeal.
+"The laptop becomes a bow, where you can create sound
+with very sensitive gestures," Wang noted as he tapped away
+at a keyboard.
+The Human Touch
+This is where the human comes in. Like an actual
+orchestra, SLOrK pieces arc coordinated for an ensemble of
+people, so organization becomes crucial. The challenge is
+
+making 20 different laptops work together.
+"It is game-changing to go from one to many," Wang
+pointed out, "The challenge is ... How do we take advantage
+of the sound, making good use of the human and the com
+puter?"
+So far, around three dozen original pieces have been
+composed for SLOrK. The composer plays many different
+roles: designing the "instrument" to be used in the piece, pro
+gramming using CHUcK, organizing the composition and
+practicing with the ensemble.
+"There is a lot of trial and error along the way," Wang
+said.
+Central to SLOrK, of course, is the premise that comput
+ers are the future of music. Will laptops eventually replace
+real instruments?
+"1 get that fear a lot," Wang remarked. "My answer is, 1
+hope not."
+In Wang's mind, there is no trade-off.
+"Humans and computers are better at fundamentally
+different things... Computers are fast and precise," he said.
+"Humans are social and can communicate in so many differ
+ent ways. Our goal is to combine the best of both."
+— paul CRAFT
+contact paul: pcraft@stanford.edu
+
+

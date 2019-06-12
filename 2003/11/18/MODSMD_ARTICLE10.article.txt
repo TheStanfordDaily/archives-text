@@ -1,0 +1,535 @@
+# The 						vectors and axioms of dating at Stanford
+## 
+### ROBBIE YAN I GOT GAME [THEORY] 
+It was both pleasing and disheartening for me to learn last
+week that there has been serious game theoretic research on
+dating, marriage, social status and apologies. Quite a few
+Stanford Economics Department professors and students
+are actually investing significant man-hours in such model
+ing. On the one hand, witnessing applications of math in such
+perplexing human phenomena is gratifying; on the other
+hand, when my theory is developed, it will unfortunately not
+be the first one out there.
+Let's begin today's dating session by reviewing the two
+axioms that we arrived at two weeks ago. Axiom One states
+that dating is nothing more than the assignment of probabil
+ity of potential marriage. In particular, the gross sum of all
+these probabilities should amount to one. Axiom Two states
+that the assignment of such probabilities dynamically
+evolves with respect to time due to non-static human condi
+tions.
+Given these two axioms under our belt, the problem then
+becomes, how exactly are the probabilities assigned? The
+third axiom attempts to address this mind-boggling question
+by first defining a list and two vectors that we all inherently
+possess.
+The list, called the feature list, is nothing more than a se
+
+quence of attributes that we deem of nontrivial significance
+in members of the opposite sex. This list should be universal
+for everybody, including attributes such as height, weight, fa
+cial appearance, intelligence, honesty, humor and money.
+Closely associated with the above list is a vector, called
+the weight vector. This vector records the weight that we as
+sign each of the attributes. Each component of the vector is
+a real value between zero and one, and the sum of all com
+ponent values should be one. For instance, to a woman that
+craves for tall men, she might assign 0.8 to the height at
+tribute; likewise, to a computer geek that seeks girls that can
+factor large prime numbers in polynomial time, intelligence
+might be given a 0.9 weight.
+The other vector is called the score vector. While the
+weight vector represents what attributes in significant others
+matter to each individual, the score vector is an individual's
+evaluation of a potential spouse in all those attributes.
+Henceforth, each component in the score vector spells out
+the quality of the candidate being evaluated in the corre
+sponding attribute. Each component of the vector must be a
+real value between negative 10 and positive 10. For example,
+suppose the feature hst looks like (height, weight, intelli
+gence, money), Alice's weight vector for this feature hst is
+(0.1, 0.3, 0.2, 0.4), and her score vector for Bob is (10, 9, 3, -
+1). That means that Alice believes that financial security is
+the defining characteristic of attractive men and that too bad
+
+for Bob, he scored poorly on the most important attribute.
+To obtain a general picture of how much Alice likes Bob,
+then, we multiply the weight of each attribute with its corre
+sponding score and sum the products: 0.1 * 10 + 0.3 * 9 + 0.2
+* 3 + 0.4 * (-1) = 3.9. Apparently, Bob's high score in weight
+compensated for his destituteness and yielded an overall ac
+ceptable rating.
+If we generalize the above analysis, we arrive at Axiom
+Three:
+Define f as the universal feature list.
+Suppose for a person A, w(A) is the weight vector for f.
+And when A evaluates B, s(A, B) is the scoring vector. Then
+the overall score that A assigns B is,
+score(A, B) = w(A) • s(A, B)
+Axiom Four comes more or less naturally. How much A
+is romantically interested in B is directly proportional to
+score(A, B). After all, it's intuitive that if somebody scores
+off your chart, you must be crazy about him or her.
+In short, one's interest in another person can be comput
+ed bv dot-multiplying one's weight vector and score vector.
+
+If the feature list is (appearance, ability to code, interest in clas
+sical music, passion for soccer etc... ), then my weight vector
+would be (0.3, 0.3, 0.2, 0.2, 0,0... (all zeros)). Think you can
+score above 5 with me? Then email me at xyan@stanford.edu.
+It was both pleasing and disheartening for me to learn last
+week that there has been serious game theoretic research on
+dating, marriage, social status and apologies. Quite a few
+Stanford Economics Department professors and students
+are actually investing significant man-hours in such model
+ing. On the one hand, witnessing applications of math in such
+perplexing human phenomena is gratifying; on the other
+hand, when my theory is developed, it will unfortunately not
+be the first one out there.
+Let's begin today's dating session by reviewing the two
+axioms that we arrived at two weeks ago. Axiom One states
+that dating is nothing more than the assignment of probabil
+ity of potential marriage. In particular, the gross sum of all
+these probabilities should amount to one. Axiom Two states
+that the assignment of such probabilities dynamically
+evolves with respect to time due to non-static human condi
+tions.
+Given these two axioms under our belt, the problem then
+becomes, how exactly are the probabilities assigned? The
+third axiom attempts to address this mind-boggling question
+by first defining a list and two vectors that we all inherently
+possess.
+The list, called the feature list, is nothing more than a se
+
+quence of attributes that we deem of nontrivial significance
+in members of the opposite sex. This list should be universal
+for everybody, including attributes such as height, weight, fa
+cial appearance, intelligence, honesty, humor and money.
+Closely associated with the above list is a vector, called
+the weight vector. This vector records the weight that we as
+sign each of the attributes. Each component of the vector is
+a real value between zero and one, and the sum of all com
+ponent values should be one. For instance, to a woman that
+craves for tall men, she might assign 0.8 to the height at
+tribute; likewise, to a computer geek that seeks girls that can
+factor large prime numbers in polynomial time, intelligence
+might be given a 0.9 weight.
+The other vector is called the score vector. While the
+weight vector represents what attributes in significant others
+matter to each individual, the score vector is an individual's
+evaluation of a potential spouse in all those attributes.
+Henceforth, each component in the score vector spells out
+the quality of the candidate being evaluated in the corre
+sponding attribute. Each component of the vector must be a
+real value between negative 10 and positive 10. For example,
+suppose the feature hst looks like (height, weight, intelli
+gence, money), Alice's weight vector for this feature hst is
+(0.1, 0.3, 0.2, 0.4), and her score vector for Bob is (10, 9, 3, -
+1). That means that Alice believes that financial security is
+the defining characteristic of attractive men and that too bad
+
+for Bob, he scored poorly on the most important attribute.
+To obtain a general picture of how much Alice likes Bob,
+then, we multiply the weight of each attribute with its corre
+sponding score and sum the products: 0.1 * 10 + 0.3 * 9 + 0.2
+* 3 + 0.4 * (-1) = 3.9. Apparently, Bob's high score in weight
+compensated for his destituteness and yielded an overall ac
+ceptable rating.
+If we generalize the above analysis, we arrive at Axiom
+Three:
+Define f as the universal feature list.
+Suppose for a person A, w(A) is the weight vector for f.
+And when A evaluates B, s(A, B) is the scoring vector. Then
+the overall score that A assigns B is,
+score(A, B) = w(A) • s(A, B)
+Axiom Four comes more or less naturally. How much A
+is romantically interested in B is directly proportional to
+score(A, B). After all, it's intuitive that if somebody scores
+off your chart, you must be crazy about him or her.
+In short, one's interest in another person can be comput
+ed bv dot-multiplying one's weight vector and score vector.
+
+If the feature list is (appearance, ability to code, interest in clas
+sical music, passion for soccer etc... ), then my weight vector
+would be (0.3, 0.3, 0.2, 0.2, 0,0... (all zeros)). Think you can
+score above 5 with me? Then email me at xyan@stanford.edu.
+It was both pleasing and disheartening for me to learn last
+week that there has been serious game theoretic research on
+dating, marriage, social status and apologies. Quite a few
+Stanford Economics Department professors and students
+are actually investing significant man-hours in such model
+ing. On the one hand, witnessing applications of math in such
+perplexing human phenomena is gratifying; on the other
+hand, when my theory is developed, it will unfortunately not
+be the first one out there.
+Let's begin today's dating session by reviewing the two
+axioms that we arrived at two weeks ago. Axiom One states
+that dating is nothing more than the assignment of probabil
+ity of potential marriage. In particular, the gross sum of all
+these probabilities should amount to one. Axiom Two states
+that the assignment of such probabilities dynamically
+evolves with respect to time due to non-static human condi
+tions.
+Given these two axioms under our belt, the problem then
+becomes, how exactly are the probabilities assigned? The
+third axiom attempts to address this mind-boggling question
+by first defining a list and two vectors that we all inherently
+possess.
+The list, called the feature list, is nothing more than a se
+
+quence of attributes that we deem of nontrivial significance
+in members of the opposite sex. This list should be universal
+for everybody, including attributes such as height, weight, fa
+cial appearance, intelligence, honesty, humor and money.
+Closely associated with the above list is a vector, called
+the weight vector. This vector records the weight that we as
+sign each of the attributes. Each component of the vector is
+a real value between zero and one, and the sum of all com
+ponent values should be one. For instance, to a woman that
+craves for tall men, she might assign 0.8 to the height at
+tribute; likewise, to a computer geek that seeks girls that can
+factor large prime numbers in polynomial time, intelligence
+might be given a 0.9 weight.
+The other vector is called the score vector. While the
+weight vector represents what attributes in significant others
+matter to each individual, the score vector is an individual's
+evaluation of a potential spouse in all those attributes.
+Henceforth, each component in the score vector spells out
+the quality of the candidate being evaluated in the corre
+sponding attribute. Each component of the vector must be a
+real value between negative 10 and positive 10. For example,
+suppose the feature hst looks like (height, weight, intelli
+gence, money), Alice's weight vector for this feature hst is
+(0.1, 0.3, 0.2, 0.4), and her score vector for Bob is (10, 9, 3, -
+1). That means that Alice believes that financial security is
+the defining characteristic of attractive men and that too bad
+
+for Bob, he scored poorly on the most important attribute.
+To obtain a general picture of how much Alice likes Bob,
+then, we multiply the weight of each attribute with its corre
+sponding score and sum the products: 0.1 * 10 + 0.3 * 9 + 0.2
+* 3 + 0.4 * (-1) = 3.9. Apparently, Bob's high score in weight
+compensated for his destituteness and yielded an overall ac
+ceptable rating.
+If we generalize the above analysis, we arrive at Axiom
+Three:
+Define f as the universal feature list.
+Suppose for a person A, w(A) is the weight vector for f.
+And when A evaluates B, s(A, B) is the scoring vector. Then
+the overall score that A assigns B is,
+score(A, B) = w(A) • s(A, B)
+Axiom Four comes more or less naturally. How much A
+is romantically interested in B is directly proportional to
+score(A, B). After all, it's intuitive that if somebody scores
+off your chart, you must be crazy about him or her.
+In short, one's interest in another person can be comput
+ed bv dot-multiplying one's weight vector and score vector.
+
+If the feature list is (appearance, ability to code, interest in clas
+sical music, passion for soccer etc... ), then my weight vector
+would be (0.3, 0.3, 0.2, 0.2, 0,0... (all zeros)). Think you can
+score above 5 with me? Then email me at xyan@stanford.edu.
+It was both pleasing and disheartening for me to learn last
+week that there has been serious game theoretic research on
+dating, marriage, social status and apologies. Quite a few
+Stanford Economics Department professors and students
+are actually investing significant man-hours in such model
+ing. On the one hand, witnessing applications of math in such
+perplexing human phenomena is gratifying; on the other
+hand, when my theory is developed, it will unfortunately not
+be the first one out there.
+Let's begin today's dating session by reviewing the two
+axioms that we arrived at two weeks ago. Axiom One states
+that dating is nothing more than the assignment of probabil
+ity of potential marriage. In particular, the gross sum of all
+these probabilities should amount to one. Axiom Two states
+that the assignment of such probabilities dynamically
+evolves with respect to time due to non-static human condi
+tions.
+Given these two axioms under our belt, the problem then
+becomes, how exactly are the probabilities assigned? The
+third axiom attempts to address this mind-boggling question
+by first defining a list and two vectors that we all inherently
+possess.
+The list, called the feature list, is nothing more than a se
+
+quence of attributes that we deem of nontrivial significance
+in members of the opposite sex. This list should be universal
+for everybody, including attributes such as height, weight, fa
+cial appearance, intelligence, honesty, humor and money.
+Closely associated with the above list is a vector, called
+the weight vector. This vector records the weight that we as
+sign each of the attributes. Each component of the vector is
+a real value between zero and one, and the sum of all com
+ponent values should be one. For instance, to a woman that
+craves for tall men, she might assign 0.8 to the height at
+tribute; likewise, to a computer geek that seeks girls that can
+factor large prime numbers in polynomial time, intelligence
+might be given a 0.9 weight.
+The other vector is called the score vector. While the
+weight vector represents what attributes in significant others
+matter to each individual, the score vector is an individual's
+evaluation of a potential spouse in all those attributes.
+Henceforth, each component in the score vector spells out
+the quality of the candidate being evaluated in the corre
+sponding attribute. Each component of the vector must be a
+real value between negative 10 and positive 10. For example,
+suppose the feature hst looks like (height, weight, intelli
+gence, money), Alice's weight vector for this feature hst is
+(0.1, 0.3, 0.2, 0.4), and her score vector for Bob is (10, 9, 3, -
+1). That means that Alice believes that financial security is
+the defining characteristic of attractive men and that too bad
+
+for Bob, he scored poorly on the most important attribute.
+To obtain a general picture of how much Alice likes Bob,
+then, we multiply the weight of each attribute with its corre
+sponding score and sum the products: 0.1 * 10 + 0.3 * 9 + 0.2
+* 3 + 0.4 * (-1) = 3.9. Apparently, Bob's high score in weight
+compensated for his destituteness and yielded an overall ac
+ceptable rating.
+If we generalize the above analysis, we arrive at Axiom
+Three:
+Define f as the universal feature list.
+Suppose for a person A, w(A) is the weight vector for f.
+And when A evaluates B, s(A, B) is the scoring vector. Then
+the overall score that A assigns B is,
+score(A, B) = w(A) • s(A, B)
+Axiom Four comes more or less naturally. How much A
+is romantically interested in B is directly proportional to
+score(A, B). After all, it's intuitive that if somebody scores
+off your chart, you must be crazy about him or her.
+In short, one's interest in another person can be comput
+ed bv dot-multiplying one's weight vector and score vector.
+
+If the feature list is (appearance, ability to code, interest in clas
+sical music, passion for soccer etc... ), then my weight vector
+would be (0.3, 0.3, 0.2, 0.2, 0,0... (all zeros)). Think you can
+score above 5 with me? Then email me at xyan@stanford.edu.
+It was both pleasing and disheartening for me to learn last
+week that there has been serious game theoretic research on
+dating, marriage, social status and apologies. Quite a few
+Stanford Economics Department professors and students
+are actually investing significant man-hours in such model
+ing. On the one hand, witnessing applications of math in such
+perplexing human phenomena is gratifying; on the other
+hand, when my theory is developed, it will unfortunately not
+be the first one out there.
+Let's begin today's dating session by reviewing the two
+axioms that we arrived at two weeks ago. Axiom One states
+that dating is nothing more than the assignment of probabil
+ity of potential marriage. In particular, the gross sum of all
+these probabilities should amount to one. Axiom Two states
+that the assignment of such probabilities dynamically
+evolves with respect to time due to non-static human condi
+tions.
+Given these two axioms under our belt, the problem then
+becomes, how exactly are the probabilities assigned? The
+third axiom attempts to address this mind-boggling question
+by first defining a list and two vectors that we all inherently
+possess.
+The list, called the feature list, is nothing more than a se
+
+quence of attributes that we deem of nontrivial significance
+in members of the opposite sex. This list should be universal
+for everybody, including attributes such as height, weight, fa
+cial appearance, intelligence, honesty, humor and money.
+Closely associated with the above list is a vector, called
+the weight vector. This vector records the weight that we as
+sign each of the attributes. Each component of the vector is
+a real value between zero and one, and the sum of all com
+ponent values should be one. For instance, to a woman that
+craves for tall men, she might assign 0.8 to the height at
+tribute; likewise, to a computer geek that seeks girls that can
+factor large prime numbers in polynomial time, intelligence
+might be given a 0.9 weight.
+The other vector is called the score vector. While the
+weight vector represents what attributes in significant others
+matter to each individual, the score vector is an individual's
+evaluation of a potential spouse in all those attributes.
+Henceforth, each component in the score vector spells out
+the quality of the candidate being evaluated in the corre
+sponding attribute. Each component of the vector must be a
+real value between negative 10 and positive 10. For example,
+suppose the feature hst looks like (height, weight, intelli
+gence, money), Alice's weight vector for this feature hst is
+(0.1, 0.3, 0.2, 0.4), and her score vector for Bob is (10, 9, 3, -
+1). That means that Alice believes that financial security is
+the defining characteristic of attractive men and that too bad
+
+for Bob, he scored poorly on the most important attribute.
+To obtain a general picture of how much Alice likes Bob,
+then, we multiply the weight of each attribute with its corre
+sponding score and sum the products: 0.1 * 10 + 0.3 * 9 + 0.2
+* 3 + 0.4 * (-1) = 3.9. Apparently, Bob's high score in weight
+compensated for his destituteness and yielded an overall ac
+ceptable rating.
+If we generalize the above analysis, we arrive at Axiom
+Three:
+Define f as the universal feature list.
+Suppose for a person A, w(A) is the weight vector for f.
+And when A evaluates B, s(A, B) is the scoring vector. Then
+the overall score that A assigns B is,
+score(A, B) = w(A) • s(A, B)
+Axiom Four comes more or less naturally. How much A
+is romantically interested in B is directly proportional to
+score(A, B). After all, it's intuitive that if somebody scores
+off your chart, you must be crazy about him or her.
+In short, one's interest in another person can be comput
+ed bv dot-multiplying one's weight vector and score vector.
+
+If the feature list is (appearance, ability to code, interest in clas
+sical music, passion for soccer etc... ), then my weight vector
+would be (0.3, 0.3, 0.2, 0.2, 0,0... (all zeros)). Think you can
+score above 5 with me? Then email me at xyan@stanford.edu.
+It was both pleasing and disheartening for me to learn last
+week that there has been serious game theoretic research on
+dating, marriage, social status and apologies. Quite a few
+Stanford Economics Department professors and students
+are actually investing significant man-hours in such model
+ing. On the one hand, witnessing applications of math in such
+perplexing human phenomena is gratifying; on the other
+hand, when my theory is developed, it will unfortunately not
+be the first one out there.
+Let's begin today's dating session by reviewing the two
+axioms that we arrived at two weeks ago. Axiom One states
+that dating is nothing more than the assignment of probabil
+ity of potential marriage. In particular, the gross sum of all
+these probabilities should amount to one. Axiom Two states
+that the assignment of such probabilities dynamically
+evolves with respect to time due to non-static human condi
+tions.
+Given these two axioms under our belt, the problem then
+becomes, how exactly are the probabilities assigned? The
+third axiom attempts to address this mind-boggling question
+by first defining a list and two vectors that we all inherently
+possess.
+The list, called the feature list, is nothing more than a se
+
+quence of attributes that we deem of nontrivial significance
+in members of the opposite sex. This list should be universal
+for everybody, including attributes such as height, weight, fa
+cial appearance, intelligence, honesty, humor and money.
+Closely associated with the above list is a vector, called
+the weight vector. This vector records the weight that we as
+sign each of the attributes. Each component of the vector is
+a real value between zero and one, and the sum of all com
+ponent values should be one. For instance, to a woman that
+craves for tall men, she might assign 0.8 to the height at
+tribute; likewise, to a computer geek that seeks girls that can
+factor large prime numbers in polynomial time, intelligence
+might be given a 0.9 weight.
+The other vector is called the score vector. While the
+weight vector represents what attributes in significant others
+matter to each individual, the score vector is an individual's
+evaluation of a potential spouse in all those attributes.
+Henceforth, each component in the score vector spells out
+the quality of the candidate being evaluated in the corre
+sponding attribute. Each component of the vector must be a
+real value between negative 10 and positive 10. For example,
+suppose the feature hst looks like (height, weight, intelli
+gence, money), Alice's weight vector for this feature hst is
+(0.1, 0.3, 0.2, 0.4), and her score vector for Bob is (10, 9, 3, -
+1). That means that Alice believes that financial security is
+the defining characteristic of attractive men and that too bad
+
+for Bob, he scored poorly on the most important attribute.
+To obtain a general picture of how much Alice likes Bob,
+then, we multiply the weight of each attribute with its corre
+sponding score and sum the products: 0.1 * 10 + 0.3 * 9 + 0.2
+* 3 + 0.4 * (-1) = 3.9. Apparently, Bob's high score in weight
+compensated for his destituteness and yielded an overall ac
+ceptable rating.
+If we generalize the above analysis, we arrive at Axiom
+Three:
+Define f as the universal feature list.
+Suppose for a person A, w(A) is the weight vector for f.
+And when A evaluates B, s(A, B) is the scoring vector. Then
+the overall score that A assigns B is,
+score(A, B) = w(A) • s(A, B)
+Axiom Four comes more or less naturally. How much A
+is romantically interested in B is directly proportional to
+score(A, B). After all, it's intuitive that if somebody scores
+off your chart, you must be crazy about him or her.
+In short, one's interest in another person can be comput
+ed bv dot-multiplying one's weight vector and score vector.
+
+If the feature list is (appearance, ability to code, interest in clas
+sical music, passion for soccer etc... ), then my weight vector
+would be (0.3, 0.3, 0.2, 0.2, 0,0... (all zeros)). Think you can
+score above 5 with me? Then email me at xyan@stanford.edu.
+It was both pleasing and disheartening for me to learn last
+week that there has been serious game theoretic research on
+dating, marriage, social status and apologies. Quite a few
+Stanford Economics Department professors and students
+are actually investing significant man-hours in such model
+ing. On the one hand, witnessing applications of math in such
+perplexing human phenomena is gratifying; on the other
+hand, when my theory is developed, it will unfortunately not
+be the first one out there.
+Let's begin today's dating session by reviewing the two
+axioms that we arrived at two weeks ago. Axiom One states
+that dating is nothing more than the assignment of probabil
+ity of potential marriage. In particular, the gross sum of all
+these probabilities should amount to one. Axiom Two states
+that the assignment of such probabilities dynamically
+evolves with respect to time due to non-static human condi
+tions.
+Given these two axioms under our belt, the problem then
+becomes, how exactly are the probabilities assigned? The
+third axiom attempts to address this mind-boggling question
+by first defining a list and two vectors that we all inherently
+possess.
+The list, called the feature list, is nothing more than a se
+
+quence of attributes that we deem of nontrivial significance
+in members of the opposite sex. This list should be universal
+for everybody, including attributes such as height, weight, fa
+cial appearance, intelligence, honesty, humor and money.
+Closely associated with the above list is a vector, called
+the weight vector. This vector records the weight that we as
+sign each of the attributes. Each component of the vector is
+a real value between zero and one, and the sum of all com
+ponent values should be one. For instance, to a woman that
+craves for tall men, she might assign 0.8 to the height at
+tribute; likewise, to a computer geek that seeks girls that can
+factor large prime numbers in polynomial time, intelligence
+might be given a 0.9 weight.
+The other vector is called the score vector. While the
+weight vector represents what attributes in significant others
+matter to each individual, the score vector is an individual's
+evaluation of a potential spouse in all those attributes.
+Henceforth, each component in the score vector spells out
+the quality of the candidate being evaluated in the corre
+sponding attribute. Each component of the vector must be a
+real value between negative 10 and positive 10. For example,
+suppose the feature hst looks like (height, weight, intelli
+gence, money), Alice's weight vector for this feature hst is
+(0.1, 0.3, 0.2, 0.4), and her score vector for Bob is (10, 9, 3, -
+1). That means that Alice believes that financial security is
+the defining characteristic of attractive men and that too bad
+
+for Bob, he scored poorly on the most important attribute.
+To obtain a general picture of how much Alice likes Bob,
+then, we multiply the weight of each attribute with its corre
+sponding score and sum the products: 0.1 * 10 + 0.3 * 9 + 0.2
+* 3 + 0.4 * (-1) = 3.9. Apparently, Bob's high score in weight
+compensated for his destituteness and yielded an overall ac
+ceptable rating.
+If we generalize the above analysis, we arrive at Axiom
+Three:
+Define f as the universal feature list.
+Suppose for a person A, w(A) is the weight vector for f.
+And when A evaluates B, s(A, B) is the scoring vector. Then
+the overall score that A assigns B is,
+score(A, B) = w(A) • s(A, B)
+Axiom Four comes more or less naturally. How much A
+is romantically interested in B is directly proportional to
+score(A, B). After all, it's intuitive that if somebody scores
+off your chart, you must be crazy about him or her.
+In short, one's interest in another person can be comput
+ed bv dot-multiplying one's weight vector and score vector.
+
+If the feature list is (appearance, ability to code, interest in clas
+sical music, passion for soccer etc... ), then my weight vector
+would be (0.3, 0.3, 0.2, 0.2, 0,0... (all zeros)). Think you can
+score above 5 with me? Then email me at xyan@stanford.edu.

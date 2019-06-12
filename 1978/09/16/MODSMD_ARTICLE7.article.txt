@@ -1,0 +1,883 @@
+# SJS Spartans
+## 
+### 
+NO. NAME POS. HT. WT. CLASS
+5 Frank Ratto P 5-10 180 So.
+7 Mike Ricupito QB 6-0 180 Fr.
+8 Damone Ranee WR 6-3 185 Fr.
+9 Paul Catanese QB 6-2 207 Fr.
+10 Hugh Williamson K 6-2 180 Fr.
+11 Ed Luther QB 6-2 202 Jr.
+12 Scott Ruiz QB 6-2 208 Fr.
+16 Stacey Bailey WR 6-0 170 Fr.
+17 Steve Hines DB 5-10 170 Jr.
+18 Hardy Lewis WR 6-0 175 Jr.
+19 Dennis Wylie DB 5-11 180 Sr.
+20 Stan Webster WR 5-11 175 Jr.
+21 Bernard Proctor WR 5-8 165 Jr.
+22 Dexter Tisby WR 5-10 180 Jr.
+23 Eric Humphrey HB 5-10 175 So.
+24 Derrick Martin DB 6-0 185 Jr.
+25 Arby Fields HB 6-0 190 Jr.
+28 Clarence Edwards DB 6-0 166 Jr.
+30 Chip Wilson FB 6-2 225 Jr.
+32 Kevin Cole HB 6-1 188 Sr.
+33 Jewerl Thomas, Jr. HB 5-11 217 Jr.
+34 Eric Hurt DB 6-0 170 Jr.
+35 Sam Papalii FB 5-11 205 Jr.
+38 Rayford Roberson LB 6-3 190 Sr.
+39 Rand Willard FB 6-1 205 Sr.
+40 Leroy Alexander HB 5-8 160 Jr.
+41 Tom Kretschmar DB 6-0 175 Jr.
+42 Cully Williamson DB 6-1 180 Sr.
+43 Jerry Edwards DB 5-10 175 Sr.
+44 James Richburg DB 5-11 180 Sr.
+45 Lowell Thomas LB 6-2 207 So.
+46 Mark Chapman DB 6-0 180 So.
+47 Hank Haynes DB 6-2 185 Fr.
+48 Bill Benjamin LB 6-3 205 Jr.
+49 John Kulusich LB 6-2 225 So.
+50 Bob Bitner C 6-3 208 So.
+51 Ben Braziel LB 6-4 220 Sr.
+
+NO. NAME POS. HT. WT. CLASS
+53 Ed Siegwart LB 6-1 230 Sr.
+56 Mike Katolin C 6-2 225 Jr.
+57 Dan Haniger LB 6-1 205 Jr.
+58 Jeff Jensen LB 6-5 218 Fr.
+59 Gilbert Martinez C 6-2 235 Sr.
+60 Scott Faust G 6-3 235 Sr.
+61 Dave Conner G 6-2 220 Sr.
+62 Cheyenne Tuufuli LB 6-2 230 Fr.
+63 Steve Hart G 6-2 220 Jr.
+64 Pete Mastelotto G 6-3 230 Jr.
+65 Ernest Dancer LB 6-3 220 Jr.
+66 Frank ManumaleunaLß 6-3 245 Sr.
+67 Pete Angelidakis G 6-3 242 So.
+69 Paul Bishop G 6-4 225 Jr.
+70 Duke Tuufuli T 6-4 250 Sr.
+71 Ralf Horn T 6-6 265 Jr.
+72 Bob Sims T 6-2 235 Sr.
+73 Rob Pernetti T 6-4 245 Fr.
+74 Max Hooper T 6-4 260 Fr.
+75 Bruce Evans C 6-3 237 So.
+76 Bernard Justiniani DT 6-3 255 So.
+77 Ricky Dozier DT 6-7 265 Jr.
+79 Gerald Scott T 6-6 250 Jr.
+80 Bart Nielson T 6-1 230 Fr.
+81 Tracy Franz TE 6-5 215 Fr.
+82 Dave Williams TE 6-7 235 Fr.
+83 Larry Cragin TE 6-2 200 Jr.
+85 Glen Santa Cruz WR 6-2 177 Fr.
+86 Napolean Sparks TE 6-2 220 Sr.
+88 Jeff Schweiger LB 6-4 227 So.
+89 Mike Kirtman WR 6-2 185 Sr.
+90 Anthony Green LB 6-1 224 Fr.
+92 Gus Parham DT 6-7 245 Sr.
+93 Nick DeLong NG 6-4 245 Sr.
+94 Vic Venuta DT 6-4 240 Sr.
+95 Willie Nevels NG 6-1 245 Sr.
+
+Probable Starters
+
+Offense
+Split End Mike Kirtman 89
+Left Taclde ... Bob Sims 72
+Left Guard Pete Angelidakis 67
+Center Gil Martinez 59
+Right Guard Steve Hart 63
+Right Tackle Max Hooper 74
+Tight End Napolean Sparks 86
+Quarterback Ed Luther 11
+Fullback Kevin Cole 32
+Halfback Jewerl Thomas 33
+Ranker Bernard Proctor 21
+Defense
+Left OLB Jeff Schweiger 88
+Left Tackle Nick DeLong 93
+Nose Guard . .Bernard Justiniani 76
+Right Tackle Vic Venuta 94
+Right OLB Bill Benjamin 48
+Left ILB Ed Siegwart 53
+Right ILB .. .Frank Manumaleuna 66
+Left Cornerback Steve Hines 17
+Strong Safety . .James Richburg 44
+Weak Safety .. .Cully Williamson 42
+Right Cornerback . .Dennis Wylie 19
+Specialists
+Place Kicker .. .Hugh Williamson 10
+Punter Frank Ratto 5
+Punt Returner. .James Richburg 44
+Derrick Martin 24
+Kickoff Returners Kevin Cole 32
+Stan Webster 20
+NO. NAME POS. HT. WT. CLASS
+5 Frank Ratto P 5-10 180 So.
+7 Mike Ricupito QB 6-0 180 Fr.
+8 Damone Ranee WR 6-3 185 Fr.
+9 Paul Catanese QB 6-2 207 Fr.
+10 Hugh Williamson K 6-2 180 Fr.
+11 Ed Luther QB 6-2 202 Jr.
+12 Scott Ruiz QB 6-2 208 Fr.
+16 Stacey Bailey WR 6-0 170 Fr.
+17 Steve Hines DB 5-10 170 Jr.
+18 Hardy Lewis WR 6-0 175 Jr.
+19 Dennis Wylie DB 5-11 180 Sr.
+20 Stan Webster WR 5-11 175 Jr.
+21 Bernard Proctor WR 5-8 165 Jr.
+22 Dexter Tisby WR 5-10 180 Jr.
+23 Eric Humphrey HB 5-10 175 So.
+24 Derrick Martin DB 6-0 185 Jr.
+25 Arby Fields HB 6-0 190 Jr.
+28 Clarence Edwards DB 6-0 166 Jr.
+30 Chip Wilson FB 6-2 225 Jr.
+32 Kevin Cole HB 6-1 188 Sr.
+33 Jewerl Thomas, Jr. HB 5-11 217 Jr.
+34 Eric Hurt DB 6-0 170 Jr.
+35 Sam Papalii FB 5-11 205 Jr.
+38 Rayford Roberson LB 6-3 190 Sr.
+39 Rand Willard FB 6-1 205 Sr.
+40 Leroy Alexander HB 5-8 160 Jr.
+41 Tom Kretschmar DB 6-0 175 Jr.
+42 Cully Williamson DB 6-1 180 Sr.
+43 Jerry Edwards DB 5-10 175 Sr.
+44 James Richburg DB 5-11 180 Sr.
+45 Lowell Thomas LB 6-2 207 So.
+46 Mark Chapman DB 6-0 180 So.
+47 Hank Haynes DB 6-2 185 Fr.
+48 Bill Benjamin LB 6-3 205 Jr.
+49 John Kulusich LB 6-2 225 So.
+50 Bob Bitner C 6-3 208 So.
+51 Ben Braziel LB 6-4 220 Sr.
+
+NO. NAME POS. HT. WT. CLASS
+53 Ed Siegwart LB 6-1 230 Sr.
+56 Mike Katolin C 6-2 225 Jr.
+57 Dan Haniger LB 6-1 205 Jr.
+58 Jeff Jensen LB 6-5 218 Fr.
+59 Gilbert Martinez C 6-2 235 Sr.
+60 Scott Faust G 6-3 235 Sr.
+61 Dave Conner G 6-2 220 Sr.
+62 Cheyenne Tuufuli LB 6-2 230 Fr.
+63 Steve Hart G 6-2 220 Jr.
+64 Pete Mastelotto G 6-3 230 Jr.
+65 Ernest Dancer LB 6-3 220 Jr.
+66 Frank ManumaleunaLß 6-3 245 Sr.
+67 Pete Angelidakis G 6-3 242 So.
+69 Paul Bishop G 6-4 225 Jr.
+70 Duke Tuufuli T 6-4 250 Sr.
+71 Ralf Horn T 6-6 265 Jr.
+72 Bob Sims T 6-2 235 Sr.
+73 Rob Pernetti T 6-4 245 Fr.
+74 Max Hooper T 6-4 260 Fr.
+75 Bruce Evans C 6-3 237 So.
+76 Bernard Justiniani DT 6-3 255 So.
+77 Ricky Dozier DT 6-7 265 Jr.
+79 Gerald Scott T 6-6 250 Jr.
+80 Bart Nielson T 6-1 230 Fr.
+81 Tracy Franz TE 6-5 215 Fr.
+82 Dave Williams TE 6-7 235 Fr.
+83 Larry Cragin TE 6-2 200 Jr.
+85 Glen Santa Cruz WR 6-2 177 Fr.
+86 Napolean Sparks TE 6-2 220 Sr.
+88 Jeff Schweiger LB 6-4 227 So.
+89 Mike Kirtman WR 6-2 185 Sr.
+90 Anthony Green LB 6-1 224 Fr.
+92 Gus Parham DT 6-7 245 Sr.
+93 Nick DeLong NG 6-4 245 Sr.
+94 Vic Venuta DT 6-4 240 Sr.
+95 Willie Nevels NG 6-1 245 Sr.
+
+Probable Starters
+
+Offense
+Split End Mike Kirtman 89
+Left Taclde ... Bob Sims 72
+Left Guard Pete Angelidakis 67
+Center Gil Martinez 59
+Right Guard Steve Hart 63
+Right Tackle Max Hooper 74
+Tight End Napolean Sparks 86
+Quarterback Ed Luther 11
+Fullback Kevin Cole 32
+Halfback Jewerl Thomas 33
+Ranker Bernard Proctor 21
+Defense
+Left OLB Jeff Schweiger 88
+Left Tackle Nick DeLong 93
+Nose Guard . .Bernard Justiniani 76
+Right Tackle Vic Venuta 94
+Right OLB Bill Benjamin 48
+Left ILB Ed Siegwart 53
+Right ILB .. .Frank Manumaleuna 66
+Left Cornerback Steve Hines 17
+Strong Safety . .James Richburg 44
+Weak Safety .. .Cully Williamson 42
+Right Cornerback . .Dennis Wylie 19
+Specialists
+Place Kicker .. .Hugh Williamson 10
+Punter Frank Ratto 5
+Punt Returner. .James Richburg 44
+Derrick Martin 24
+Kickoff Returners Kevin Cole 32
+Stan Webster 20
+NO. NAME POS. HT. WT. CLASS
+5 Frank Ratto P 5-10 180 So.
+7 Mike Ricupito QB 6-0 180 Fr.
+8 Damone Ranee WR 6-3 185 Fr.
+9 Paul Catanese QB 6-2 207 Fr.
+10 Hugh Williamson K 6-2 180 Fr.
+11 Ed Luther QB 6-2 202 Jr.
+12 Scott Ruiz QB 6-2 208 Fr.
+16 Stacey Bailey WR 6-0 170 Fr.
+17 Steve Hines DB 5-10 170 Jr.
+18 Hardy Lewis WR 6-0 175 Jr.
+19 Dennis Wylie DB 5-11 180 Sr.
+20 Stan Webster WR 5-11 175 Jr.
+21 Bernard Proctor WR 5-8 165 Jr.
+22 Dexter Tisby WR 5-10 180 Jr.
+23 Eric Humphrey HB 5-10 175 So.
+24 Derrick Martin DB 6-0 185 Jr.
+25 Arby Fields HB 6-0 190 Jr.
+28 Clarence Edwards DB 6-0 166 Jr.
+30 Chip Wilson FB 6-2 225 Jr.
+32 Kevin Cole HB 6-1 188 Sr.
+33 Jewerl Thomas, Jr. HB 5-11 217 Jr.
+34 Eric Hurt DB 6-0 170 Jr.
+35 Sam Papalii FB 5-11 205 Jr.
+38 Rayford Roberson LB 6-3 190 Sr.
+39 Rand Willard FB 6-1 205 Sr.
+40 Leroy Alexander HB 5-8 160 Jr.
+41 Tom Kretschmar DB 6-0 175 Jr.
+42 Cully Williamson DB 6-1 180 Sr.
+43 Jerry Edwards DB 5-10 175 Sr.
+44 James Richburg DB 5-11 180 Sr.
+45 Lowell Thomas LB 6-2 207 So.
+46 Mark Chapman DB 6-0 180 So.
+47 Hank Haynes DB 6-2 185 Fr.
+48 Bill Benjamin LB 6-3 205 Jr.
+49 John Kulusich LB 6-2 225 So.
+50 Bob Bitner C 6-3 208 So.
+51 Ben Braziel LB 6-4 220 Sr.
+
+NO. NAME POS. HT. WT. CLASS
+53 Ed Siegwart LB 6-1 230 Sr.
+56 Mike Katolin C 6-2 225 Jr.
+57 Dan Haniger LB 6-1 205 Jr.
+58 Jeff Jensen LB 6-5 218 Fr.
+59 Gilbert Martinez C 6-2 235 Sr.
+60 Scott Faust G 6-3 235 Sr.
+61 Dave Conner G 6-2 220 Sr.
+62 Cheyenne Tuufuli LB 6-2 230 Fr.
+63 Steve Hart G 6-2 220 Jr.
+64 Pete Mastelotto G 6-3 230 Jr.
+65 Ernest Dancer LB 6-3 220 Jr.
+66 Frank ManumaleunaLß 6-3 245 Sr.
+67 Pete Angelidakis G 6-3 242 So.
+69 Paul Bishop G 6-4 225 Jr.
+70 Duke Tuufuli T 6-4 250 Sr.
+71 Ralf Horn T 6-6 265 Jr.
+72 Bob Sims T 6-2 235 Sr.
+73 Rob Pernetti T 6-4 245 Fr.
+74 Max Hooper T 6-4 260 Fr.
+75 Bruce Evans C 6-3 237 So.
+76 Bernard Justiniani DT 6-3 255 So.
+77 Ricky Dozier DT 6-7 265 Jr.
+79 Gerald Scott T 6-6 250 Jr.
+80 Bart Nielson T 6-1 230 Fr.
+81 Tracy Franz TE 6-5 215 Fr.
+82 Dave Williams TE 6-7 235 Fr.
+83 Larry Cragin TE 6-2 200 Jr.
+85 Glen Santa Cruz WR 6-2 177 Fr.
+86 Napolean Sparks TE 6-2 220 Sr.
+88 Jeff Schweiger LB 6-4 227 So.
+89 Mike Kirtman WR 6-2 185 Sr.
+90 Anthony Green LB 6-1 224 Fr.
+92 Gus Parham DT 6-7 245 Sr.
+93 Nick DeLong NG 6-4 245 Sr.
+94 Vic Venuta DT 6-4 240 Sr.
+95 Willie Nevels NG 6-1 245 Sr.
+
+Probable Starters
+
+Offense
+Split End Mike Kirtman 89
+Left Taclde ... Bob Sims 72
+Left Guard Pete Angelidakis 67
+Center Gil Martinez 59
+Right Guard Steve Hart 63
+Right Tackle Max Hooper 74
+Tight End Napolean Sparks 86
+Quarterback Ed Luther 11
+Fullback Kevin Cole 32
+Halfback Jewerl Thomas 33
+Ranker Bernard Proctor 21
+Defense
+Left OLB Jeff Schweiger 88
+Left Tackle Nick DeLong 93
+Nose Guard . .Bernard Justiniani 76
+Right Tackle Vic Venuta 94
+Right OLB Bill Benjamin 48
+Left ILB Ed Siegwart 53
+Right ILB .. .Frank Manumaleuna 66
+Left Cornerback Steve Hines 17
+Strong Safety . .James Richburg 44
+Weak Safety .. .Cully Williamson 42
+Right Cornerback . .Dennis Wylie 19
+Specialists
+Place Kicker .. .Hugh Williamson 10
+Punter Frank Ratto 5
+Punt Returner. .James Richburg 44
+Derrick Martin 24
+Kickoff Returners Kevin Cole 32
+Stan Webster 20
+NO. NAME POS. HT. WT. CLASS
+5 Frank Ratto P 5-10 180 So.
+7 Mike Ricupito QB 6-0 180 Fr.
+8 Damone Ranee WR 6-3 185 Fr.
+9 Paul Catanese QB 6-2 207 Fr.
+10 Hugh Williamson K 6-2 180 Fr.
+11 Ed Luther QB 6-2 202 Jr.
+12 Scott Ruiz QB 6-2 208 Fr.
+16 Stacey Bailey WR 6-0 170 Fr.
+17 Steve Hines DB 5-10 170 Jr.
+18 Hardy Lewis WR 6-0 175 Jr.
+19 Dennis Wylie DB 5-11 180 Sr.
+20 Stan Webster WR 5-11 175 Jr.
+21 Bernard Proctor WR 5-8 165 Jr.
+22 Dexter Tisby WR 5-10 180 Jr.
+23 Eric Humphrey HB 5-10 175 So.
+24 Derrick Martin DB 6-0 185 Jr.
+25 Arby Fields HB 6-0 190 Jr.
+28 Clarence Edwards DB 6-0 166 Jr.
+30 Chip Wilson FB 6-2 225 Jr.
+32 Kevin Cole HB 6-1 188 Sr.
+33 Jewerl Thomas, Jr. HB 5-11 217 Jr.
+34 Eric Hurt DB 6-0 170 Jr.
+35 Sam Papalii FB 5-11 205 Jr.
+38 Rayford Roberson LB 6-3 190 Sr.
+39 Rand Willard FB 6-1 205 Sr.
+40 Leroy Alexander HB 5-8 160 Jr.
+41 Tom Kretschmar DB 6-0 175 Jr.
+42 Cully Williamson DB 6-1 180 Sr.
+43 Jerry Edwards DB 5-10 175 Sr.
+44 James Richburg DB 5-11 180 Sr.
+45 Lowell Thomas LB 6-2 207 So.
+46 Mark Chapman DB 6-0 180 So.
+47 Hank Haynes DB 6-2 185 Fr.
+48 Bill Benjamin LB 6-3 205 Jr.
+49 John Kulusich LB 6-2 225 So.
+50 Bob Bitner C 6-3 208 So.
+51 Ben Braziel LB 6-4 220 Sr.
+
+NO. NAME POS. HT. WT. CLASS
+53 Ed Siegwart LB 6-1 230 Sr.
+56 Mike Katolin C 6-2 225 Jr.
+57 Dan Haniger LB 6-1 205 Jr.
+58 Jeff Jensen LB 6-5 218 Fr.
+59 Gilbert Martinez C 6-2 235 Sr.
+60 Scott Faust G 6-3 235 Sr.
+61 Dave Conner G 6-2 220 Sr.
+62 Cheyenne Tuufuli LB 6-2 230 Fr.
+63 Steve Hart G 6-2 220 Jr.
+64 Pete Mastelotto G 6-3 230 Jr.
+65 Ernest Dancer LB 6-3 220 Jr.
+66 Frank ManumaleunaLß 6-3 245 Sr.
+67 Pete Angelidakis G 6-3 242 So.
+69 Paul Bishop G 6-4 225 Jr.
+70 Duke Tuufuli T 6-4 250 Sr.
+71 Ralf Horn T 6-6 265 Jr.
+72 Bob Sims T 6-2 235 Sr.
+73 Rob Pernetti T 6-4 245 Fr.
+74 Max Hooper T 6-4 260 Fr.
+75 Bruce Evans C 6-3 237 So.
+76 Bernard Justiniani DT 6-3 255 So.
+77 Ricky Dozier DT 6-7 265 Jr.
+79 Gerald Scott T 6-6 250 Jr.
+80 Bart Nielson T 6-1 230 Fr.
+81 Tracy Franz TE 6-5 215 Fr.
+82 Dave Williams TE 6-7 235 Fr.
+83 Larry Cragin TE 6-2 200 Jr.
+85 Glen Santa Cruz WR 6-2 177 Fr.
+86 Napolean Sparks TE 6-2 220 Sr.
+88 Jeff Schweiger LB 6-4 227 So.
+89 Mike Kirtman WR 6-2 185 Sr.
+90 Anthony Green LB 6-1 224 Fr.
+92 Gus Parham DT 6-7 245 Sr.
+93 Nick DeLong NG 6-4 245 Sr.
+94 Vic Venuta DT 6-4 240 Sr.
+95 Willie Nevels NG 6-1 245 Sr.
+
+Probable Starters
+
+Offense
+Split End Mike Kirtman 89
+Left Taclde ... Bob Sims 72
+Left Guard Pete Angelidakis 67
+Center Gil Martinez 59
+Right Guard Steve Hart 63
+Right Tackle Max Hooper 74
+Tight End Napolean Sparks 86
+Quarterback Ed Luther 11
+Fullback Kevin Cole 32
+Halfback Jewerl Thomas 33
+Ranker Bernard Proctor 21
+Defense
+Left OLB Jeff Schweiger 88
+Left Tackle Nick DeLong 93
+Nose Guard . .Bernard Justiniani 76
+Right Tackle Vic Venuta 94
+Right OLB Bill Benjamin 48
+Left ILB Ed Siegwart 53
+Right ILB .. .Frank Manumaleuna 66
+Left Cornerback Steve Hines 17
+Strong Safety . .James Richburg 44
+Weak Safety .. .Cully Williamson 42
+Right Cornerback . .Dennis Wylie 19
+Specialists
+Place Kicker .. .Hugh Williamson 10
+Punter Frank Ratto 5
+Punt Returner. .James Richburg 44
+Derrick Martin 24
+Kickoff Returners Kevin Cole 32
+Stan Webster 20
+NO. NAME POS. HT. WT. CLASS
+5 Frank Ratto P 5-10 180 So.
+7 Mike Ricupito QB 6-0 180 Fr.
+8 Damone Ranee WR 6-3 185 Fr.
+9 Paul Catanese QB 6-2 207 Fr.
+10 Hugh Williamson K 6-2 180 Fr.
+11 Ed Luther QB 6-2 202 Jr.
+12 Scott Ruiz QB 6-2 208 Fr.
+16 Stacey Bailey WR 6-0 170 Fr.
+17 Steve Hines DB 5-10 170 Jr.
+18 Hardy Lewis WR 6-0 175 Jr.
+19 Dennis Wylie DB 5-11 180 Sr.
+20 Stan Webster WR 5-11 175 Jr.
+21 Bernard Proctor WR 5-8 165 Jr.
+22 Dexter Tisby WR 5-10 180 Jr.
+23 Eric Humphrey HB 5-10 175 So.
+24 Derrick Martin DB 6-0 185 Jr.
+25 Arby Fields HB 6-0 190 Jr.
+28 Clarence Edwards DB 6-0 166 Jr.
+30 Chip Wilson FB 6-2 225 Jr.
+32 Kevin Cole HB 6-1 188 Sr.
+33 Jewerl Thomas, Jr. HB 5-11 217 Jr.
+34 Eric Hurt DB 6-0 170 Jr.
+35 Sam Papalii FB 5-11 205 Jr.
+38 Rayford Roberson LB 6-3 190 Sr.
+39 Rand Willard FB 6-1 205 Sr.
+40 Leroy Alexander HB 5-8 160 Jr.
+41 Tom Kretschmar DB 6-0 175 Jr.
+42 Cully Williamson DB 6-1 180 Sr.
+43 Jerry Edwards DB 5-10 175 Sr.
+44 James Richburg DB 5-11 180 Sr.
+45 Lowell Thomas LB 6-2 207 So.
+46 Mark Chapman DB 6-0 180 So.
+47 Hank Haynes DB 6-2 185 Fr.
+48 Bill Benjamin LB 6-3 205 Jr.
+49 John Kulusich LB 6-2 225 So.
+50 Bob Bitner C 6-3 208 So.
+51 Ben Braziel LB 6-4 220 Sr.
+
+NO. NAME POS. HT. WT. CLASS
+53 Ed Siegwart LB 6-1 230 Sr.
+56 Mike Katolin C 6-2 225 Jr.
+57 Dan Haniger LB 6-1 205 Jr.
+58 Jeff Jensen LB 6-5 218 Fr.
+59 Gilbert Martinez C 6-2 235 Sr.
+60 Scott Faust G 6-3 235 Sr.
+61 Dave Conner G 6-2 220 Sr.
+62 Cheyenne Tuufuli LB 6-2 230 Fr.
+63 Steve Hart G 6-2 220 Jr.
+64 Pete Mastelotto G 6-3 230 Jr.
+65 Ernest Dancer LB 6-3 220 Jr.
+66 Frank ManumaleunaLß 6-3 245 Sr.
+67 Pete Angelidakis G 6-3 242 So.
+69 Paul Bishop G 6-4 225 Jr.
+70 Duke Tuufuli T 6-4 250 Sr.
+71 Ralf Horn T 6-6 265 Jr.
+72 Bob Sims T 6-2 235 Sr.
+73 Rob Pernetti T 6-4 245 Fr.
+74 Max Hooper T 6-4 260 Fr.
+75 Bruce Evans C 6-3 237 So.
+76 Bernard Justiniani DT 6-3 255 So.
+77 Ricky Dozier DT 6-7 265 Jr.
+79 Gerald Scott T 6-6 250 Jr.
+80 Bart Nielson T 6-1 230 Fr.
+81 Tracy Franz TE 6-5 215 Fr.
+82 Dave Williams TE 6-7 235 Fr.
+83 Larry Cragin TE 6-2 200 Jr.
+85 Glen Santa Cruz WR 6-2 177 Fr.
+86 Napolean Sparks TE 6-2 220 Sr.
+88 Jeff Schweiger LB 6-4 227 So.
+89 Mike Kirtman WR 6-2 185 Sr.
+90 Anthony Green LB 6-1 224 Fr.
+92 Gus Parham DT 6-7 245 Sr.
+93 Nick DeLong NG 6-4 245 Sr.
+94 Vic Venuta DT 6-4 240 Sr.
+95 Willie Nevels NG 6-1 245 Sr.
+
+Probable Starters
+
+Offense
+Split End Mike Kirtman 89
+Left Taclde ... Bob Sims 72
+Left Guard Pete Angelidakis 67
+Center Gil Martinez 59
+Right Guard Steve Hart 63
+Right Tackle Max Hooper 74
+Tight End Napolean Sparks 86
+Quarterback Ed Luther 11
+Fullback Kevin Cole 32
+Halfback Jewerl Thomas 33
+Ranker Bernard Proctor 21
+Defense
+Left OLB Jeff Schweiger 88
+Left Tackle Nick DeLong 93
+Nose Guard . .Bernard Justiniani 76
+Right Tackle Vic Venuta 94
+Right OLB Bill Benjamin 48
+Left ILB Ed Siegwart 53
+Right ILB .. .Frank Manumaleuna 66
+Left Cornerback Steve Hines 17
+Strong Safety . .James Richburg 44
+Weak Safety .. .Cully Williamson 42
+Right Cornerback . .Dennis Wylie 19
+Specialists
+Place Kicker .. .Hugh Williamson 10
+Punter Frank Ratto 5
+Punt Returner. .James Richburg 44
+Derrick Martin 24
+Kickoff Returners Kevin Cole 32
+Stan Webster 20
+NO. NAME POS. HT. WT. CLASS
+5 Frank Ratto P 5-10 180 So.
+7 Mike Ricupito QB 6-0 180 Fr.
+8 Damone Ranee WR 6-3 185 Fr.
+9 Paul Catanese QB 6-2 207 Fr.
+10 Hugh Williamson K 6-2 180 Fr.
+11 Ed Luther QB 6-2 202 Jr.
+12 Scott Ruiz QB 6-2 208 Fr.
+16 Stacey Bailey WR 6-0 170 Fr.
+17 Steve Hines DB 5-10 170 Jr.
+18 Hardy Lewis WR 6-0 175 Jr.
+19 Dennis Wylie DB 5-11 180 Sr.
+20 Stan Webster WR 5-11 175 Jr.
+21 Bernard Proctor WR 5-8 165 Jr.
+22 Dexter Tisby WR 5-10 180 Jr.
+23 Eric Humphrey HB 5-10 175 So.
+24 Derrick Martin DB 6-0 185 Jr.
+25 Arby Fields HB 6-0 190 Jr.
+28 Clarence Edwards DB 6-0 166 Jr.
+30 Chip Wilson FB 6-2 225 Jr.
+32 Kevin Cole HB 6-1 188 Sr.
+33 Jewerl Thomas, Jr. HB 5-11 217 Jr.
+34 Eric Hurt DB 6-0 170 Jr.
+35 Sam Papalii FB 5-11 205 Jr.
+38 Rayford Roberson LB 6-3 190 Sr.
+39 Rand Willard FB 6-1 205 Sr.
+40 Leroy Alexander HB 5-8 160 Jr.
+41 Tom Kretschmar DB 6-0 175 Jr.
+42 Cully Williamson DB 6-1 180 Sr.
+43 Jerry Edwards DB 5-10 175 Sr.
+44 James Richburg DB 5-11 180 Sr.
+45 Lowell Thomas LB 6-2 207 So.
+46 Mark Chapman DB 6-0 180 So.
+47 Hank Haynes DB 6-2 185 Fr.
+48 Bill Benjamin LB 6-3 205 Jr.
+49 John Kulusich LB 6-2 225 So.
+50 Bob Bitner C 6-3 208 So.
+51 Ben Braziel LB 6-4 220 Sr.
+
+NO. NAME POS. HT. WT. CLASS
+53 Ed Siegwart LB 6-1 230 Sr.
+56 Mike Katolin C 6-2 225 Jr.
+57 Dan Haniger LB 6-1 205 Jr.
+58 Jeff Jensen LB 6-5 218 Fr.
+59 Gilbert Martinez C 6-2 235 Sr.
+60 Scott Faust G 6-3 235 Sr.
+61 Dave Conner G 6-2 220 Sr.
+62 Cheyenne Tuufuli LB 6-2 230 Fr.
+63 Steve Hart G 6-2 220 Jr.
+64 Pete Mastelotto G 6-3 230 Jr.
+65 Ernest Dancer LB 6-3 220 Jr.
+66 Frank ManumaleunaLß 6-3 245 Sr.
+67 Pete Angelidakis G 6-3 242 So.
+69 Paul Bishop G 6-4 225 Jr.
+70 Duke Tuufuli T 6-4 250 Sr.
+71 Ralf Horn T 6-6 265 Jr.
+72 Bob Sims T 6-2 235 Sr.
+73 Rob Pernetti T 6-4 245 Fr.
+74 Max Hooper T 6-4 260 Fr.
+75 Bruce Evans C 6-3 237 So.
+76 Bernard Justiniani DT 6-3 255 So.
+77 Ricky Dozier DT 6-7 265 Jr.
+79 Gerald Scott T 6-6 250 Jr.
+80 Bart Nielson T 6-1 230 Fr.
+81 Tracy Franz TE 6-5 215 Fr.
+82 Dave Williams TE 6-7 235 Fr.
+83 Larry Cragin TE 6-2 200 Jr.
+85 Glen Santa Cruz WR 6-2 177 Fr.
+86 Napolean Sparks TE 6-2 220 Sr.
+88 Jeff Schweiger LB 6-4 227 So.
+89 Mike Kirtman WR 6-2 185 Sr.
+90 Anthony Green LB 6-1 224 Fr.
+92 Gus Parham DT 6-7 245 Sr.
+93 Nick DeLong NG 6-4 245 Sr.
+94 Vic Venuta DT 6-4 240 Sr.
+95 Willie Nevels NG 6-1 245 Sr.
+
+Probable Starters
+
+Offense
+Split End Mike Kirtman 89
+Left Taclde ... Bob Sims 72
+Left Guard Pete Angelidakis 67
+Center Gil Martinez 59
+Right Guard Steve Hart 63
+Right Tackle Max Hooper 74
+Tight End Napolean Sparks 86
+Quarterback Ed Luther 11
+Fullback Kevin Cole 32
+Halfback Jewerl Thomas 33
+Ranker Bernard Proctor 21
+Defense
+Left OLB Jeff Schweiger 88
+Left Tackle Nick DeLong 93
+Nose Guard . .Bernard Justiniani 76
+Right Tackle Vic Venuta 94
+Right OLB Bill Benjamin 48
+Left ILB Ed Siegwart 53
+Right ILB .. .Frank Manumaleuna 66
+Left Cornerback Steve Hines 17
+Strong Safety . .James Richburg 44
+Weak Safety .. .Cully Williamson 42
+Right Cornerback . .Dennis Wylie 19
+Specialists
+Place Kicker .. .Hugh Williamson 10
+Punter Frank Ratto 5
+Punt Returner. .James Richburg 44
+Derrick Martin 24
+Kickoff Returners Kevin Cole 32
+Stan Webster 20
+NO. NAME POS. HT. WT. CLASS
+5 Frank Ratto P 5-10 180 So.
+7 Mike Ricupito QB 6-0 180 Fr.
+8 Damone Ranee WR 6-3 185 Fr.
+9 Paul Catanese QB 6-2 207 Fr.
+10 Hugh Williamson K 6-2 180 Fr.
+11 Ed Luther QB 6-2 202 Jr.
+12 Scott Ruiz QB 6-2 208 Fr.
+16 Stacey Bailey WR 6-0 170 Fr.
+17 Steve Hines DB 5-10 170 Jr.
+18 Hardy Lewis WR 6-0 175 Jr.
+19 Dennis Wylie DB 5-11 180 Sr.
+20 Stan Webster WR 5-11 175 Jr.
+21 Bernard Proctor WR 5-8 165 Jr.
+22 Dexter Tisby WR 5-10 180 Jr.
+23 Eric Humphrey HB 5-10 175 So.
+24 Derrick Martin DB 6-0 185 Jr.
+25 Arby Fields HB 6-0 190 Jr.
+28 Clarence Edwards DB 6-0 166 Jr.
+30 Chip Wilson FB 6-2 225 Jr.
+32 Kevin Cole HB 6-1 188 Sr.
+33 Jewerl Thomas, Jr. HB 5-11 217 Jr.
+34 Eric Hurt DB 6-0 170 Jr.
+35 Sam Papalii FB 5-11 205 Jr.
+38 Rayford Roberson LB 6-3 190 Sr.
+39 Rand Willard FB 6-1 205 Sr.
+40 Leroy Alexander HB 5-8 160 Jr.
+41 Tom Kretschmar DB 6-0 175 Jr.
+42 Cully Williamson DB 6-1 180 Sr.
+43 Jerry Edwards DB 5-10 175 Sr.
+44 James Richburg DB 5-11 180 Sr.
+45 Lowell Thomas LB 6-2 207 So.
+46 Mark Chapman DB 6-0 180 So.
+47 Hank Haynes DB 6-2 185 Fr.
+48 Bill Benjamin LB 6-3 205 Jr.
+49 John Kulusich LB 6-2 225 So.
+50 Bob Bitner C 6-3 208 So.
+51 Ben Braziel LB 6-4 220 Sr.
+
+NO. NAME POS. HT. WT. CLASS
+53 Ed Siegwart LB 6-1 230 Sr.
+56 Mike Katolin C 6-2 225 Jr.
+57 Dan Haniger LB 6-1 205 Jr.
+58 Jeff Jensen LB 6-5 218 Fr.
+59 Gilbert Martinez C 6-2 235 Sr.
+60 Scott Faust G 6-3 235 Sr.
+61 Dave Conner G 6-2 220 Sr.
+62 Cheyenne Tuufuli LB 6-2 230 Fr.
+63 Steve Hart G 6-2 220 Jr.
+64 Pete Mastelotto G 6-3 230 Jr.
+65 Ernest Dancer LB 6-3 220 Jr.
+66 Frank ManumaleunaLß 6-3 245 Sr.
+67 Pete Angelidakis G 6-3 242 So.
+69 Paul Bishop G 6-4 225 Jr.
+70 Duke Tuufuli T 6-4 250 Sr.
+71 Ralf Horn T 6-6 265 Jr.
+72 Bob Sims T 6-2 235 Sr.
+73 Rob Pernetti T 6-4 245 Fr.
+74 Max Hooper T 6-4 260 Fr.
+75 Bruce Evans C 6-3 237 So.
+76 Bernard Justiniani DT 6-3 255 So.
+77 Ricky Dozier DT 6-7 265 Jr.
+79 Gerald Scott T 6-6 250 Jr.
+80 Bart Nielson T 6-1 230 Fr.
+81 Tracy Franz TE 6-5 215 Fr.
+82 Dave Williams TE 6-7 235 Fr.
+83 Larry Cragin TE 6-2 200 Jr.
+85 Glen Santa Cruz WR 6-2 177 Fr.
+86 Napolean Sparks TE 6-2 220 Sr.
+88 Jeff Schweiger LB 6-4 227 So.
+89 Mike Kirtman WR 6-2 185 Sr.
+90 Anthony Green LB 6-1 224 Fr.
+92 Gus Parham DT 6-7 245 Sr.
+93 Nick DeLong NG 6-4 245 Sr.
+94 Vic Venuta DT 6-4 240 Sr.
+95 Willie Nevels NG 6-1 245 Sr.
+
+Probable Starters
+
+Offense
+Split End Mike Kirtman 89
+Left Taclde ... Bob Sims 72
+Left Guard Pete Angelidakis 67
+Center Gil Martinez 59
+Right Guard Steve Hart 63
+Right Tackle Max Hooper 74
+Tight End Napolean Sparks 86
+Quarterback Ed Luther 11
+Fullback Kevin Cole 32
+Halfback Jewerl Thomas 33
+Ranker Bernard Proctor 21
+Defense
+Left OLB Jeff Schweiger 88
+Left Tackle Nick DeLong 93
+Nose Guard . .Bernard Justiniani 76
+Right Tackle Vic Venuta 94
+Right OLB Bill Benjamin 48
+Left ILB Ed Siegwart 53
+Right ILB .. .Frank Manumaleuna 66
+Left Cornerback Steve Hines 17
+Strong Safety . .James Richburg 44
+Weak Safety .. .Cully Williamson 42
+Right Cornerback . .Dennis Wylie 19
+Specialists
+Place Kicker .. .Hugh Williamson 10
+Punter Frank Ratto 5
+Punt Returner. .James Richburg 44
+Derrick Martin 24
+Kickoff Returners Kevin Cole 32
+Stan Webster 20
+NO. NAME POS. HT. WT. CLASS
+5 Frank Ratto P 5-10 180 So.
+7 Mike Ricupito QB 6-0 180 Fr.
+8 Damone Ranee WR 6-3 185 Fr.
+9 Paul Catanese QB 6-2 207 Fr.
+10 Hugh Williamson K 6-2 180 Fr.
+11 Ed Luther QB 6-2 202 Jr.
+12 Scott Ruiz QB 6-2 208 Fr.
+16 Stacey Bailey WR 6-0 170 Fr.
+17 Steve Hines DB 5-10 170 Jr.
+18 Hardy Lewis WR 6-0 175 Jr.
+19 Dennis Wylie DB 5-11 180 Sr.
+20 Stan Webster WR 5-11 175 Jr.
+21 Bernard Proctor WR 5-8 165 Jr.
+22 Dexter Tisby WR 5-10 180 Jr.
+23 Eric Humphrey HB 5-10 175 So.
+24 Derrick Martin DB 6-0 185 Jr.
+25 Arby Fields HB 6-0 190 Jr.
+28 Clarence Edwards DB 6-0 166 Jr.
+30 Chip Wilson FB 6-2 225 Jr.
+32 Kevin Cole HB 6-1 188 Sr.
+33 Jewerl Thomas, Jr. HB 5-11 217 Jr.
+34 Eric Hurt DB 6-0 170 Jr.
+35 Sam Papalii FB 5-11 205 Jr.
+38 Rayford Roberson LB 6-3 190 Sr.
+39 Rand Willard FB 6-1 205 Sr.
+40 Leroy Alexander HB 5-8 160 Jr.
+41 Tom Kretschmar DB 6-0 175 Jr.
+42 Cully Williamson DB 6-1 180 Sr.
+43 Jerry Edwards DB 5-10 175 Sr.
+44 James Richburg DB 5-11 180 Sr.
+45 Lowell Thomas LB 6-2 207 So.
+46 Mark Chapman DB 6-0 180 So.
+47 Hank Haynes DB 6-2 185 Fr.
+48 Bill Benjamin LB 6-3 205 Jr.
+49 John Kulusich LB 6-2 225 So.
+50 Bob Bitner C 6-3 208 So.
+51 Ben Braziel LB 6-4 220 Sr.
+
+NO. NAME POS. HT. WT. CLASS
+53 Ed Siegwart LB 6-1 230 Sr.
+56 Mike Katolin C 6-2 225 Jr.
+57 Dan Haniger LB 6-1 205 Jr.
+58 Jeff Jensen LB 6-5 218 Fr.
+59 Gilbert Martinez C 6-2 235 Sr.
+60 Scott Faust G 6-3 235 Sr.
+61 Dave Conner G 6-2 220 Sr.
+62 Cheyenne Tuufuli LB 6-2 230 Fr.
+63 Steve Hart G 6-2 220 Jr.
+64 Pete Mastelotto G 6-3 230 Jr.
+65 Ernest Dancer LB 6-3 220 Jr.
+66 Frank ManumaleunaLß 6-3 245 Sr.
+67 Pete Angelidakis G 6-3 242 So.
+69 Paul Bishop G 6-4 225 Jr.
+70 Duke Tuufuli T 6-4 250 Sr.
+71 Ralf Horn T 6-6 265 Jr.
+72 Bob Sims T 6-2 235 Sr.
+73 Rob Pernetti T 6-4 245 Fr.
+74 Max Hooper T 6-4 260 Fr.
+75 Bruce Evans C 6-3 237 So.
+76 Bernard Justiniani DT 6-3 255 So.
+77 Ricky Dozier DT 6-7 265 Jr.
+79 Gerald Scott T 6-6 250 Jr.
+80 Bart Nielson T 6-1 230 Fr.
+81 Tracy Franz TE 6-5 215 Fr.
+82 Dave Williams TE 6-7 235 Fr.
+83 Larry Cragin TE 6-2 200 Jr.
+85 Glen Santa Cruz WR 6-2 177 Fr.
+86 Napolean Sparks TE 6-2 220 Sr.
+88 Jeff Schweiger LB 6-4 227 So.
+89 Mike Kirtman WR 6-2 185 Sr.
+90 Anthony Green LB 6-1 224 Fr.
+92 Gus Parham DT 6-7 245 Sr.
+93 Nick DeLong NG 6-4 245 Sr.
+94 Vic Venuta DT 6-4 240 Sr.
+95 Willie Nevels NG 6-1 245 Sr.
+
+Probable Starters
+
+Offense
+Split End Mike Kirtman 89
+Left Taclde ... Bob Sims 72
+Left Guard Pete Angelidakis 67
+Center Gil Martinez 59
+Right Guard Steve Hart 63
+Right Tackle Max Hooper 74
+Tight End Napolean Sparks 86
+Quarterback Ed Luther 11
+Fullback Kevin Cole 32
+Halfback Jewerl Thomas 33
+Ranker Bernard Proctor 21
+Defense
+Left OLB Jeff Schweiger 88
+Left Tackle Nick DeLong 93
+Nose Guard . .Bernard Justiniani 76
+Right Tackle Vic Venuta 94
+Right OLB Bill Benjamin 48
+Left ILB Ed Siegwart 53
+Right ILB .. .Frank Manumaleuna 66
+Left Cornerback Steve Hines 17
+Strong Safety . .James Richburg 44
+Weak Safety .. .Cully Williamson 42
+Right Cornerback . .Dennis Wylie 19
+Specialists
+Place Kicker .. .Hugh Williamson 10
+Punter Frank Ratto 5
+Punt Returner. .James Richburg 44
+Derrick Martin 24
+Kickoff Returners Kevin Cole 32
+Stan Webster 20

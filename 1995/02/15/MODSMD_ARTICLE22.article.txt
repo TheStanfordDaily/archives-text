@@ -1,0 +1,843 @@
+# FLASH tackles the limiting agent for computer speed
+## Developing faster processors 
+### Dev Nag Contributing writer 
+Most people think of computer micro
+processors as little brains. The analogy is
+not unreasonable; processors perform
+many of the same tasks that a brain
+would in the context of a computer, such
+as manipulating data, executing instruc
+tions and controlling interfaces to the
+outside world. In this sense, computer
+brains have grown increasingly faster
+and complex over the last 40 years.
+Intel's family of processors for PC's has
+descended from the lowly 8088 to the
+powerful Pentium (the chips you find in
+today's Power Macs are literally genera
+tions ahead of their Mac II counter
+parts). Sometimes it seems as if this
+advancement of microchips will continue
+forever. But John Hennessey, chairman
+of Stanford's Computer Science Depart
+ment, sees a different future.
+"It becomes increasingly difficult to
+build faster processors," he said. "It's
+more cost-effective and efficient, looking
+at the hardware, to build two fast pro
+cessors than to build one very fast pro
+cessor." Hennessey's current project,
+FLASH, is intended to link together a
+number of chips; in essence, a computer
+would have several smart brains rather
+than one brilliant mind.
+Multiprocessing, as this approach is
+called, has several advantages. For prob
+
+lems which require several independent
+computations, multiprocessors are far
+more efficient than single CPUs. Hen
+nessey's examples range from the funda
+mental to the fantastic. "Multiprocess
+ing is especially effective for large prob
+lems, like climate modeling, car crash
+simulations, structural analysis, even
+modeling the evolution of the universe,"
+he said.
+Most chips, like the introductory
+examples, run programs in a very
+sequential form. At any one point in
+time, they are only executing one
+instruction, storing one piece of data or
+reading one value. No matter how fast
+they can blaze through each line of code,
+they still have to wait until the previous
+one has been finished. Multiprocessors,
+conversely, can delegate certain tasks
+out to different chips, so that one chip
+could start running a new part of the
+program while another chip might be
+working on an earlier section.
+A related problem is that programs
+often alter data in the course of an exe
+cution, so what would happen if two sep
+arate processors tried to change the
+same data at the same time? "If one pro
+cessor is editing a file, and another pro
+cessor wants to see that data or change
+it, it will check to see if anyone else is
+using that data at the time," explained
+Hennessey. "If so, it has to wait."
+A related problem is load balancing.
+
+"Consider a car crash modeling. Let's
+say you have one processor taking care of
+the rear end of the car, and another asso
+ciated with the grill area of the car, near
+the front. When the car starts to crash,
+the grill will be collapsing. That's an
+enormous amount of computation,
+because you're dealing with strain and
+deformation and so on," Hennessey con
+tinued. "But the chip in the trunk of the
+car has no work to do. So what you have
+to do is shift work among the processors
+efficiently; maybe you'd have ten proces
+sors looking at the front of the car and
+one at the rear."Hennessey sees a long
+term trend towards multiprocessing,
+even on desktop machines. "Probably in
+ten years, people will have two proces
+sors in their computer, and a few years
+later, they'll have four, another few
+years eight, and so on," he said.
+And in terms of the scientific commu
+nity's needs, Hennessey perceives an
+instant market for multiprocessors. "A
+lot of the drive for this technology has
+come from the engineering and science
+community. The scientific problems are
+way beyond where we are with machines
+right now. There's a real thirst for this
+power. And the users are sophisticated
+enough to deal with the complexities,"
+he said.
+In terms of pure speed, two proces
+sors running at, say, 50 MHz can theo
+retically be as fast as one processor run
+ning at 100 MHz. "It has the potential to
+scale that way," Hennessey said. "If I
+can use the two 50 MHz processors effi
+ciently, and if they can communicate
+efficiently, and they're not always wait
+ing for each other, they can even be
+faster than the 100 MHz processor. But
+it's that wait time that presents prob
+lems." The main hardware problem
+deals with the connections between the
+processors. The time spent in communi
+cating between processors — the latency
+— is an important limit on the efficiency
+of the multiprocessors.
+And Hennessey plans to generalize
+this notion even further. The individual
+microchips in Hennessey's multiproces
+sors are linked in a fairly straightfor
+ward way — chips are laid out on a two
+dimensional grid, each processor con
+nected to its neighbors on each of its four
+sides. In this fashion, linear communica
+tion between chips (one chip being able
+to communicate with only one other
+chip), is replaced by a much more effi
+cient process. "Our sort of end goal is to
+build a distributed multiprocessor, a
+machine where the processors are
+spread around, say, a building. But
+they're all connected," he said. The lim
+iting agent would be the network linking
+the processors, but Hennessey sees net
+works increasing in speed as well.
+
+
+Andrew Martinez-Fonts — Daily
+Most people think of computer micro
+processors as little brains. The analogy is
+not unreasonable; processors perform
+many of the same tasks that a brain
+would in the context of a computer, such
+as manipulating data, executing instruc
+tions and controlling interfaces to the
+outside world. In this sense, computer
+brains have grown increasingly faster
+and complex over the last 40 years.
+Intel's family of processors for PC's has
+descended from the lowly 8088 to the
+powerful Pentium (the chips you find in
+today's Power Macs are literally genera
+tions ahead of their Mac II counter
+parts). Sometimes it seems as if this
+advancement of microchips will continue
+forever. But John Hennessey, chairman
+of Stanford's Computer Science Depart
+ment, sees a different future.
+"It becomes increasingly difficult to
+build faster processors," he said. "It's
+more cost-effective and efficient, looking
+at the hardware, to build two fast pro
+cessors than to build one very fast pro
+cessor." Hennessey's current project,
+FLASH, is intended to link together a
+number of chips; in essence, a computer
+would have several smart brains rather
+than one brilliant mind.
+Multiprocessing, as this approach is
+called, has several advantages. For prob
+
+lems which require several independent
+computations, multiprocessors are far
+more efficient than single CPUs. Hen
+nessey's examples range from the funda
+mental to the fantastic. "Multiprocess
+ing is especially effective for large prob
+lems, like climate modeling, car crash
+simulations, structural analysis, even
+modeling the evolution of the universe,"
+he said.
+Most chips, like the introductory
+examples, run programs in a very
+sequential form. At any one point in
+time, they are only executing one
+instruction, storing one piece of data or
+reading one value. No matter how fast
+they can blaze through each line of code,
+they still have to wait until the previous
+one has been finished. Multiprocessors,
+conversely, can delegate certain tasks
+out to different chips, so that one chip
+could start running a new part of the
+program while another chip might be
+working on an earlier section.
+A related problem is that programs
+often alter data in the course of an exe
+cution, so what would happen if two sep
+arate processors tried to change the
+same data at the same time? "If one pro
+cessor is editing a file, and another pro
+cessor wants to see that data or change
+it, it will check to see if anyone else is
+using that data at the time," explained
+Hennessey. "If so, it has to wait."
+A related problem is load balancing.
+
+"Consider a car crash modeling. Let's
+say you have one processor taking care of
+the rear end of the car, and another asso
+ciated with the grill area of the car, near
+the front. When the car starts to crash,
+the grill will be collapsing. That's an
+enormous amount of computation,
+because you're dealing with strain and
+deformation and so on," Hennessey con
+tinued. "But the chip in the trunk of the
+car has no work to do. So what you have
+to do is shift work among the processors
+efficiently; maybe you'd have ten proces
+sors looking at the front of the car and
+one at the rear."Hennessey sees a long
+term trend towards multiprocessing,
+even on desktop machines. "Probably in
+ten years, people will have two proces
+sors in their computer, and a few years
+later, they'll have four, another few
+years eight, and so on," he said.
+And in terms of the scientific commu
+nity's needs, Hennessey perceives an
+instant market for multiprocessors. "A
+lot of the drive for this technology has
+come from the engineering and science
+community. The scientific problems are
+way beyond where we are with machines
+right now. There's a real thirst for this
+power. And the users are sophisticated
+enough to deal with the complexities,"
+he said.
+In terms of pure speed, two proces
+sors running at, say, 50 MHz can theo
+retically be as fast as one processor run
+ning at 100 MHz. "It has the potential to
+scale that way," Hennessey said. "If I
+can use the two 50 MHz processors effi
+ciently, and if they can communicate
+efficiently, and they're not always wait
+ing for each other, they can even be
+faster than the 100 MHz processor. But
+it's that wait time that presents prob
+lems." The main hardware problem
+deals with the connections between the
+processors. The time spent in communi
+cating between processors — the latency
+— is an important limit on the efficiency
+of the multiprocessors.
+And Hennessey plans to generalize
+this notion even further. The individual
+microchips in Hennessey's multiproces
+sors are linked in a fairly straightfor
+ward way — chips are laid out on a two
+dimensional grid, each processor con
+nected to its neighbors on each of its four
+sides. In this fashion, linear communica
+tion between chips (one chip being able
+to communicate with only one other
+chip), is replaced by a much more effi
+cient process. "Our sort of end goal is to
+build a distributed multiprocessor, a
+machine where the processors are
+spread around, say, a building. But
+they're all connected," he said. The lim
+iting agent would be the network linking
+the processors, but Hennessey sees net
+works increasing in speed as well.
+
+
+Andrew Martinez-Fonts — Daily
+Most people think of computer micro
+processors as little brains. The analogy is
+not unreasonable; processors perform
+many of the same tasks that a brain
+would in the context of a computer, such
+as manipulating data, executing instruc
+tions and controlling interfaces to the
+outside world. In this sense, computer
+brains have grown increasingly faster
+and complex over the last 40 years.
+Intel's family of processors for PC's has
+descended from the lowly 8088 to the
+powerful Pentium (the chips you find in
+today's Power Macs are literally genera
+tions ahead of their Mac II counter
+parts). Sometimes it seems as if this
+advancement of microchips will continue
+forever. But John Hennessey, chairman
+of Stanford's Computer Science Depart
+ment, sees a different future.
+"It becomes increasingly difficult to
+build faster processors," he said. "It's
+more cost-effective and efficient, looking
+at the hardware, to build two fast pro
+cessors than to build one very fast pro
+cessor." Hennessey's current project,
+FLASH, is intended to link together a
+number of chips; in essence, a computer
+would have several smart brains rather
+than one brilliant mind.
+Multiprocessing, as this approach is
+called, has several advantages. For prob
+
+lems which require several independent
+computations, multiprocessors are far
+more efficient than single CPUs. Hen
+nessey's examples range from the funda
+mental to the fantastic. "Multiprocess
+ing is especially effective for large prob
+lems, like climate modeling, car crash
+simulations, structural analysis, even
+modeling the evolution of the universe,"
+he said.
+Most chips, like the introductory
+examples, run programs in a very
+sequential form. At any one point in
+time, they are only executing one
+instruction, storing one piece of data or
+reading one value. No matter how fast
+they can blaze through each line of code,
+they still have to wait until the previous
+one has been finished. Multiprocessors,
+conversely, can delegate certain tasks
+out to different chips, so that one chip
+could start running a new part of the
+program while another chip might be
+working on an earlier section.
+A related problem is that programs
+often alter data in the course of an exe
+cution, so what would happen if two sep
+arate processors tried to change the
+same data at the same time? "If one pro
+cessor is editing a file, and another pro
+cessor wants to see that data or change
+it, it will check to see if anyone else is
+using that data at the time," explained
+Hennessey. "If so, it has to wait."
+A related problem is load balancing.
+
+"Consider a car crash modeling. Let's
+say you have one processor taking care of
+the rear end of the car, and another asso
+ciated with the grill area of the car, near
+the front. When the car starts to crash,
+the grill will be collapsing. That's an
+enormous amount of computation,
+because you're dealing with strain and
+deformation and so on," Hennessey con
+tinued. "But the chip in the trunk of the
+car has no work to do. So what you have
+to do is shift work among the processors
+efficiently; maybe you'd have ten proces
+sors looking at the front of the car and
+one at the rear."Hennessey sees a long
+term trend towards multiprocessing,
+even on desktop machines. "Probably in
+ten years, people will have two proces
+sors in their computer, and a few years
+later, they'll have four, another few
+years eight, and so on," he said.
+And in terms of the scientific commu
+nity's needs, Hennessey perceives an
+instant market for multiprocessors. "A
+lot of the drive for this technology has
+come from the engineering and science
+community. The scientific problems are
+way beyond where we are with machines
+right now. There's a real thirst for this
+power. And the users are sophisticated
+enough to deal with the complexities,"
+he said.
+In terms of pure speed, two proces
+sors running at, say, 50 MHz can theo
+retically be as fast as one processor run
+ning at 100 MHz. "It has the potential to
+scale that way," Hennessey said. "If I
+can use the two 50 MHz processors effi
+ciently, and if they can communicate
+efficiently, and they're not always wait
+ing for each other, they can even be
+faster than the 100 MHz processor. But
+it's that wait time that presents prob
+lems." The main hardware problem
+deals with the connections between the
+processors. The time spent in communi
+cating between processors — the latency
+— is an important limit on the efficiency
+of the multiprocessors.
+And Hennessey plans to generalize
+this notion even further. The individual
+microchips in Hennessey's multiproces
+sors are linked in a fairly straightfor
+ward way — chips are laid out on a two
+dimensional grid, each processor con
+nected to its neighbors on each of its four
+sides. In this fashion, linear communica
+tion between chips (one chip being able
+to communicate with only one other
+chip), is replaced by a much more effi
+cient process. "Our sort of end goal is to
+build a distributed multiprocessor, a
+machine where the processors are
+spread around, say, a building. But
+they're all connected," he said. The lim
+iting agent would be the network linking
+the processors, but Hennessey sees net
+works increasing in speed as well.
+
+
+Andrew Martinez-Fonts — Daily
+Most people think of computer micro
+processors as little brains. The analogy is
+not unreasonable; processors perform
+many of the same tasks that a brain
+would in the context of a computer, such
+as manipulating data, executing instruc
+tions and controlling interfaces to the
+outside world. In this sense, computer
+brains have grown increasingly faster
+and complex over the last 40 years.
+Intel's family of processors for PC's has
+descended from the lowly 8088 to the
+powerful Pentium (the chips you find in
+today's Power Macs are literally genera
+tions ahead of their Mac II counter
+parts). Sometimes it seems as if this
+advancement of microchips will continue
+forever. But John Hennessey, chairman
+of Stanford's Computer Science Depart
+ment, sees a different future.
+"It becomes increasingly difficult to
+build faster processors," he said. "It's
+more cost-effective and efficient, looking
+at the hardware, to build two fast pro
+cessors than to build one very fast pro
+cessor." Hennessey's current project,
+FLASH, is intended to link together a
+number of chips; in essence, a computer
+would have several smart brains rather
+than one brilliant mind.
+Multiprocessing, as this approach is
+called, has several advantages. For prob
+
+lems which require several independent
+computations, multiprocessors are far
+more efficient than single CPUs. Hen
+nessey's examples range from the funda
+mental to the fantastic. "Multiprocess
+ing is especially effective for large prob
+lems, like climate modeling, car crash
+simulations, structural analysis, even
+modeling the evolution of the universe,"
+he said.
+Most chips, like the introductory
+examples, run programs in a very
+sequential form. At any one point in
+time, they are only executing one
+instruction, storing one piece of data or
+reading one value. No matter how fast
+they can blaze through each line of code,
+they still have to wait until the previous
+one has been finished. Multiprocessors,
+conversely, can delegate certain tasks
+out to different chips, so that one chip
+could start running a new part of the
+program while another chip might be
+working on an earlier section.
+A related problem is that programs
+often alter data in the course of an exe
+cution, so what would happen if two sep
+arate processors tried to change the
+same data at the same time? "If one pro
+cessor is editing a file, and another pro
+cessor wants to see that data or change
+it, it will check to see if anyone else is
+using that data at the time," explained
+Hennessey. "If so, it has to wait."
+A related problem is load balancing.
+
+"Consider a car crash modeling. Let's
+say you have one processor taking care of
+the rear end of the car, and another asso
+ciated with the grill area of the car, near
+the front. When the car starts to crash,
+the grill will be collapsing. That's an
+enormous amount of computation,
+because you're dealing with strain and
+deformation and so on," Hennessey con
+tinued. "But the chip in the trunk of the
+car has no work to do. So what you have
+to do is shift work among the processors
+efficiently; maybe you'd have ten proces
+sors looking at the front of the car and
+one at the rear."Hennessey sees a long
+term trend towards multiprocessing,
+even on desktop machines. "Probably in
+ten years, people will have two proces
+sors in their computer, and a few years
+later, they'll have four, another few
+years eight, and so on," he said.
+And in terms of the scientific commu
+nity's needs, Hennessey perceives an
+instant market for multiprocessors. "A
+lot of the drive for this technology has
+come from the engineering and science
+community. The scientific problems are
+way beyond where we are with machines
+right now. There's a real thirst for this
+power. And the users are sophisticated
+enough to deal with the complexities,"
+he said.
+In terms of pure speed, two proces
+sors running at, say, 50 MHz can theo
+retically be as fast as one processor run
+ning at 100 MHz. "It has the potential to
+scale that way," Hennessey said. "If I
+can use the two 50 MHz processors effi
+ciently, and if they can communicate
+efficiently, and they're not always wait
+ing for each other, they can even be
+faster than the 100 MHz processor. But
+it's that wait time that presents prob
+lems." The main hardware problem
+deals with the connections between the
+processors. The time spent in communi
+cating between processors — the latency
+— is an important limit on the efficiency
+of the multiprocessors.
+And Hennessey plans to generalize
+this notion even further. The individual
+microchips in Hennessey's multiproces
+sors are linked in a fairly straightfor
+ward way — chips are laid out on a two
+dimensional grid, each processor con
+nected to its neighbors on each of its four
+sides. In this fashion, linear communica
+tion between chips (one chip being able
+to communicate with only one other
+chip), is replaced by a much more effi
+cient process. "Our sort of end goal is to
+build a distributed multiprocessor, a
+machine where the processors are
+spread around, say, a building. But
+they're all connected," he said. The lim
+iting agent would be the network linking
+the processors, but Hennessey sees net
+works increasing in speed as well.
+
+
+Andrew Martinez-Fonts — Daily
+Most people think of computer micro
+processors as little brains. The analogy is
+not unreasonable; processors perform
+many of the same tasks that a brain
+would in the context of a computer, such
+as manipulating data, executing instruc
+tions and controlling interfaces to the
+outside world. In this sense, computer
+brains have grown increasingly faster
+and complex over the last 40 years.
+Intel's family of processors for PC's has
+descended from the lowly 8088 to the
+powerful Pentium (the chips you find in
+today's Power Macs are literally genera
+tions ahead of their Mac II counter
+parts). Sometimes it seems as if this
+advancement of microchips will continue
+forever. But John Hennessey, chairman
+of Stanford's Computer Science Depart
+ment, sees a different future.
+"It becomes increasingly difficult to
+build faster processors," he said. "It's
+more cost-effective and efficient, looking
+at the hardware, to build two fast pro
+cessors than to build one very fast pro
+cessor." Hennessey's current project,
+FLASH, is intended to link together a
+number of chips; in essence, a computer
+would have several smart brains rather
+than one brilliant mind.
+Multiprocessing, as this approach is
+called, has several advantages. For prob
+
+lems which require several independent
+computations, multiprocessors are far
+more efficient than single CPUs. Hen
+nessey's examples range from the funda
+mental to the fantastic. "Multiprocess
+ing is especially effective for large prob
+lems, like climate modeling, car crash
+simulations, structural analysis, even
+modeling the evolution of the universe,"
+he said.
+Most chips, like the introductory
+examples, run programs in a very
+sequential form. At any one point in
+time, they are only executing one
+instruction, storing one piece of data or
+reading one value. No matter how fast
+they can blaze through each line of code,
+they still have to wait until the previous
+one has been finished. Multiprocessors,
+conversely, can delegate certain tasks
+out to different chips, so that one chip
+could start running a new part of the
+program while another chip might be
+working on an earlier section.
+A related problem is that programs
+often alter data in the course of an exe
+cution, so what would happen if two sep
+arate processors tried to change the
+same data at the same time? "If one pro
+cessor is editing a file, and another pro
+cessor wants to see that data or change
+it, it will check to see if anyone else is
+using that data at the time," explained
+Hennessey. "If so, it has to wait."
+A related problem is load balancing.
+
+"Consider a car crash modeling. Let's
+say you have one processor taking care of
+the rear end of the car, and another asso
+ciated with the grill area of the car, near
+the front. When the car starts to crash,
+the grill will be collapsing. That's an
+enormous amount of computation,
+because you're dealing with strain and
+deformation and so on," Hennessey con
+tinued. "But the chip in the trunk of the
+car has no work to do. So what you have
+to do is shift work among the processors
+efficiently; maybe you'd have ten proces
+sors looking at the front of the car and
+one at the rear."Hennessey sees a long
+term trend towards multiprocessing,
+even on desktop machines. "Probably in
+ten years, people will have two proces
+sors in their computer, and a few years
+later, they'll have four, another few
+years eight, and so on," he said.
+And in terms of the scientific commu
+nity's needs, Hennessey perceives an
+instant market for multiprocessors. "A
+lot of the drive for this technology has
+come from the engineering and science
+community. The scientific problems are
+way beyond where we are with machines
+right now. There's a real thirst for this
+power. And the users are sophisticated
+enough to deal with the complexities,"
+he said.
+In terms of pure speed, two proces
+sors running at, say, 50 MHz can theo
+retically be as fast as one processor run
+ning at 100 MHz. "It has the potential to
+scale that way," Hennessey said. "If I
+can use the two 50 MHz processors effi
+ciently, and if they can communicate
+efficiently, and they're not always wait
+ing for each other, they can even be
+faster than the 100 MHz processor. But
+it's that wait time that presents prob
+lems." The main hardware problem
+deals with the connections between the
+processors. The time spent in communi
+cating between processors — the latency
+— is an important limit on the efficiency
+of the multiprocessors.
+And Hennessey plans to generalize
+this notion even further. The individual
+microchips in Hennessey's multiproces
+sors are linked in a fairly straightfor
+ward way — chips are laid out on a two
+dimensional grid, each processor con
+nected to its neighbors on each of its four
+sides. In this fashion, linear communica
+tion between chips (one chip being able
+to communicate with only one other
+chip), is replaced by a much more effi
+cient process. "Our sort of end goal is to
+build a distributed multiprocessor, a
+machine where the processors are
+spread around, say, a building. But
+they're all connected," he said. The lim
+iting agent would be the network linking
+the processors, but Hennessey sees net
+works increasing in speed as well.
+
+
+Andrew Martinez-Fonts — Daily
+Most people think of computer micro
+processors as little brains. The analogy is
+not unreasonable; processors perform
+many of the same tasks that a brain
+would in the context of a computer, such
+as manipulating data, executing instruc
+tions and controlling interfaces to the
+outside world. In this sense, computer
+brains have grown increasingly faster
+and complex over the last 40 years.
+Intel's family of processors for PC's has
+descended from the lowly 8088 to the
+powerful Pentium (the chips you find in
+today's Power Macs are literally genera
+tions ahead of their Mac II counter
+parts). Sometimes it seems as if this
+advancement of microchips will continue
+forever. But John Hennessey, chairman
+of Stanford's Computer Science Depart
+ment, sees a different future.
+"It becomes increasingly difficult to
+build faster processors," he said. "It's
+more cost-effective and efficient, looking
+at the hardware, to build two fast pro
+cessors than to build one very fast pro
+cessor." Hennessey's current project,
+FLASH, is intended to link together a
+number of chips; in essence, a computer
+would have several smart brains rather
+than one brilliant mind.
+Multiprocessing, as this approach is
+called, has several advantages. For prob
+
+lems which require several independent
+computations, multiprocessors are far
+more efficient than single CPUs. Hen
+nessey's examples range from the funda
+mental to the fantastic. "Multiprocess
+ing is especially effective for large prob
+lems, like climate modeling, car crash
+simulations, structural analysis, even
+modeling the evolution of the universe,"
+he said.
+Most chips, like the introductory
+examples, run programs in a very
+sequential form. At any one point in
+time, they are only executing one
+instruction, storing one piece of data or
+reading one value. No matter how fast
+they can blaze through each line of code,
+they still have to wait until the previous
+one has been finished. Multiprocessors,
+conversely, can delegate certain tasks
+out to different chips, so that one chip
+could start running a new part of the
+program while another chip might be
+working on an earlier section.
+A related problem is that programs
+often alter data in the course of an exe
+cution, so what would happen if two sep
+arate processors tried to change the
+same data at the same time? "If one pro
+cessor is editing a file, and another pro
+cessor wants to see that data or change
+it, it will check to see if anyone else is
+using that data at the time," explained
+Hennessey. "If so, it has to wait."
+A related problem is load balancing.
+
+"Consider a car crash modeling. Let's
+say you have one processor taking care of
+the rear end of the car, and another asso
+ciated with the grill area of the car, near
+the front. When the car starts to crash,
+the grill will be collapsing. That's an
+enormous amount of computation,
+because you're dealing with strain and
+deformation and so on," Hennessey con
+tinued. "But the chip in the trunk of the
+car has no work to do. So what you have
+to do is shift work among the processors
+efficiently; maybe you'd have ten proces
+sors looking at the front of the car and
+one at the rear."Hennessey sees a long
+term trend towards multiprocessing,
+even on desktop machines. "Probably in
+ten years, people will have two proces
+sors in their computer, and a few years
+later, they'll have four, another few
+years eight, and so on," he said.
+And in terms of the scientific commu
+nity's needs, Hennessey perceives an
+instant market for multiprocessors. "A
+lot of the drive for this technology has
+come from the engineering and science
+community. The scientific problems are
+way beyond where we are with machines
+right now. There's a real thirst for this
+power. And the users are sophisticated
+enough to deal with the complexities,"
+he said.
+In terms of pure speed, two proces
+sors running at, say, 50 MHz can theo
+retically be as fast as one processor run
+ning at 100 MHz. "It has the potential to
+scale that way," Hennessey said. "If I
+can use the two 50 MHz processors effi
+ciently, and if they can communicate
+efficiently, and they're not always wait
+ing for each other, they can even be
+faster than the 100 MHz processor. But
+it's that wait time that presents prob
+lems." The main hardware problem
+deals with the connections between the
+processors. The time spent in communi
+cating between processors — the latency
+— is an important limit on the efficiency
+of the multiprocessors.
+And Hennessey plans to generalize
+this notion even further. The individual
+microchips in Hennessey's multiproces
+sors are linked in a fairly straightfor
+ward way — chips are laid out on a two
+dimensional grid, each processor con
+nected to its neighbors on each of its four
+sides. In this fashion, linear communica
+tion between chips (one chip being able
+to communicate with only one other
+chip), is replaced by a much more effi
+cient process. "Our sort of end goal is to
+build a distributed multiprocessor, a
+machine where the processors are
+spread around, say, a building. But
+they're all connected," he said. The lim
+iting agent would be the network linking
+the processors, but Hennessey sees net
+works increasing in speed as well.
+
+
+Andrew Martinez-Fonts — Daily

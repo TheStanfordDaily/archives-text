@@ -1,0 +1,738 @@
+# Adv. 18 Page 6
+## 
+### 
+UNIFIED FIELD THEORY
+VE WE MISSED THE OBV
+Over three hundred years ago, Isaac Newton's Mathematical Principles of Natural Philosophy (the Principia), considered
+by many the greatest single intellectual achievement of all time, revolutionized man's conception of his universe. While, in
+the first quarter of this century, the Newtonian description of macro phenomena received a major adjustment from the
+mind of Albert Einstein, many of the original Newtonian concepts survive and remain the cornerstones of contemporary
+theory. Chief among these is the Newtonian concept of mass that appears in his second law of dynamics and his gravitational
+equation. Newtonian mass can be described as the proportionality constant of momentum, i.e., the momentum of a body
+divided by its velocity.
+Before Bejamin Franklin pondered over the proper words to frame the colonies' independence, almost three quarters of
+a century after the Principia first appeared, he conducted a series of experiments that provided the world with a new
+description for the phenomena of electricity. From his efforts arose the concept of electron flow and positive and negative
+charge. The charge concept would from that day forward, in a manner similar to Newtonian mass for macro phenomena,
+form the foundation of physicists' descriptions of micro world events.
+Multi field theories can be said to be the outgrowth of the use of mass to describe gravitational fields and charge to
+describe electromagnetic fields. In the last half century, two additional field laws, the strong field and weak field, have added
+to the confusion. Might, however, there be something inherent in these concepts of mass and charge, put forth long before
+the many subatomic particles were isolated and studied, that prevents the unification of macro and micro phenomena? And
+must we be forced to accept these concepts as axiomatic truths on which all physical knowledge must be supported? Einstein
+felt the key to future understanding rested on where our allegiance was placed. If we relied upon, and revered too heavily,
+the idols of our past, then we placed severe limits upon our knowledge. It was only through continual reflection on current
+foundations that we left the door open for more comprehensive understanding. "Concepts that have proved useful in the
+constitution of an order of things readily win such an influence over us that we forget their earthly origin, such concepts
+then become stamped as necessities of thought, as given a priori, so the path of scientific progress becomes impassable for
+a long period It might be said that Einstein intuitively felt that the current reliance on multi field theories represented proof
+in the fault of current conceptions. Divergent sets of physical laws for large and small was incongruous. While he sensed
+the answer to a unified field theory lay within general relativity theory and light's particle/wave duality, he was never able
+to unlock the mystery.
+I have used the term unified field as if it is familiar to the reader. A unified field theory simply suggests a set of laws,
+constructed from a single set of concepts, applying to all phenomena large and small.
+While mass was originally a macro concept, it was to find its way into descriptions of atomic phenomena. Particles such
+as electrons or protons should, it was believed, behave in some ways like macro bodies and could therefore be described
+in terms of distinct masses. But when equations of particles, in terms of masses, are mixed with equations of particles, in
+teTms of i harge, anomalies result. Rather than examining the concepts of mass and charge that engendered the anomalies,
+physicists blamed the anomalies on the particles themselves. The particles were then said to exhibit anomalous behavior!
+Cause and effect was replaced by uncertainty and probability in describing atomic phenomena. When Einstein didn't accept
+this creative solution to the problem, he separated himself from the mainstream of the physics community. From then on
+Einstein's views, and his quest for a unified field theory, were depicted as the folly of a once-great man who no longer
+possessed the creativity and intellectual prowess of his younger days.
+Fh<> difficulty of applying the mass concept in the atomic domain can be seen by considering a number of elementary
+partic e equations. We begin by comparing Bohr's equation for hydrogen electron angular momentum and the Deßrodie
+particle wave equation. From Bohr we have:
+p• r = nh/2ir where p = electron momentum —mv
+(electron mass times orbital velocity).
+r = distaince separating proton and electron in a hydrongen atom.
+h = Planck's constant
+n = principal quantum number
+Rearranging the Bohr Equation, we obtain:
+p/n * h/2irr
+For Bohr 2m (electron orbit) could be equated to electron wavelength (X), so we have:
+p/n = h/\
+Thus in classical Bohr theory electron momentum divided by the principal quantum number equals Planck's constant divided
+by wavelength.
+The Deßroglie matter wave equation for this same electron is:
+X =» h/p or p = h/A
+In that the Deßroglie equation is void of the principal quantum number, n, there appears to be conflict between Bohr and
+Deßroglie. This can be resolved by recognizing p/n and p are both equal to the actual electron momentum. In Bohr's case,
+the actual electron momentum is given by the ground state momentum divided by the principle quantum number n. In
+Deßroglie's case, p, by itself, is the electron's actual momentum, or:
+p = p g /n = h/A
+Remembering \ equaled 2irr, we can write:
+p g /n = h/2irr or p g r/n = h/2ir
+By reflecting on the above relationships we encounter an enigma. According to Newtonian dynamics, electron momentum
+will be equal to electron mass times electron velocity. As the hydrogen electron jumps from its ground state (n= 1) to a
+higher energy level p K /n or p, the actual electron momentum, is reduced. If electron mass is a constant, then a reduction
+in momentum must result in a corresponding reduction in electron velocity. By introducing two further elementary equa
+tions, we will demonstrate that this does not appear to be a possibility.
+When the hydrogen atom is treated in the classical manner, as a particle moving in an orbit around the proton the force
+on this electron is given by either of two equations.
+F = and F = q^/r 2 = q'/r 2 when q, ■q 2
+I have elected to use cgs units where q is in electrostatic units to avoid the use of the constant kin the charge equation.
+The equality of these equations can be shown by substituting in the contemporary values.
+F » mvVr = (9.1 x 10 jll g) (2.2 x 10 <> cm/sec) i
+5.3 x 10~ 9 cm
+= 8.3 x 10" 1 dynes
+F ■ qVr 2 = (4.8 x 1Q~ 10 esu)*
+(5.3 x 10"cm) 2
+= 8.2 x 10 1 dynes
+The slight difference in forces is attributed to the rounding of units. The ability to express the force on an electron from
+either of these two equations allows us to equate the equations and solve for q
+q 2 /H ■ mv^/r
+q = (mv'<r)''' or q = (mvr»v) ,/7
+Since q is a constant, the term mvr.v must be constant for any r. From review of the Bohr and Deßroglie equations, we have:
+P *r « p„»r/n ■ h/2ir
+That is to say, p»r equals a constant and, since p » mv, the term mvr in the charge equation will equal the constant h/2iT
+But can both mvr and mvr*v remain constant as r changes?
+At first glance, we do not appear to have a problem For instance, if r doubles, mv simply goes to 1/2 mv and the constant
+rules are obeyed. If, however, m is to stay constant, the reduction in mv must be totally accounted for by a reduction in
+electron velocity to 1/2 v. As there are two v terms in the equation, q « (mvr.v)" 2 , if vis reduc ed to 1/2 v when r goes to
+2 f , q| cannot remain constant There is no escape from this predicament We must choose between a variable mass i
+variable charge, or variations in both charge and mass as electron energy levels are c hanged
+Physicists appear to be correct in concluding elementary particles cannot be causally accounted for within the current
+conceptions that frame our laws of physics. However, it seems premature to conclude particles do not follow causal laws
+based upon other conceptions It is just as likely it is our concepts that are at fault, not the particles The mass and charge
+concepts, created before particle data was available, have painted physics into a corner generating the need for multi field
+theories in order to extricate itself.
+It is not possible in the limited space herein to propose a solutk>n to this dilemma, although in the writer's opinion Einstein
+was correcl in suggesting the answer lies within general relativity theory and a greater understanding of light Any riders
+«™h,no "eneral relativity might be a ( »plied to the problem, or in an empirical test validating electron
+HJO ck\l lU / w • - _I_J _• II
+nng i
+s dec
+pendency on energy level, should contact the writer at the address given bekwv
+Joel Sheinmel
+1501 Hillsdale Blvd., Suite 310 • San Mateo, CA 94402
+UNIFIED FIELD THEORY
+VE WE MISSED THE OBV
+Over three hundred years ago, Isaac Newton's Mathematical Principles of Natural Philosophy (the Principia), considered
+by many the greatest single intellectual achievement of all time, revolutionized man's conception of his universe. While, in
+the first quarter of this century, the Newtonian description of macro phenomena received a major adjustment from the
+mind of Albert Einstein, many of the original Newtonian concepts survive and remain the cornerstones of contemporary
+theory. Chief among these is the Newtonian concept of mass that appears in his second law of dynamics and his gravitational
+equation. Newtonian mass can be described as the proportionality constant of momentum, i.e., the momentum of a body
+divided by its velocity.
+Before Bejamin Franklin pondered over the proper words to frame the colonies' independence, almost three quarters of
+a century after the Principia first appeared, he conducted a series of experiments that provided the world with a new
+description for the phenomena of electricity. From his efforts arose the concept of electron flow and positive and negative
+charge. The charge concept would from that day forward, in a manner similar to Newtonian mass for macro phenomena,
+form the foundation of physicists' descriptions of micro world events.
+Multi field theories can be said to be the outgrowth of the use of mass to describe gravitational fields and charge to
+describe electromagnetic fields. In the last half century, two additional field laws, the strong field and weak field, have added
+to the confusion. Might, however, there be something inherent in these concepts of mass and charge, put forth long before
+the many subatomic particles were isolated and studied, that prevents the unification of macro and micro phenomena? And
+must we be forced to accept these concepts as axiomatic truths on which all physical knowledge must be supported? Einstein
+felt the key to future understanding rested on where our allegiance was placed. If we relied upon, and revered too heavily,
+the idols of our past, then we placed severe limits upon our knowledge. It was only through continual reflection on current
+foundations that we left the door open for more comprehensive understanding. "Concepts that have proved useful in the
+constitution of an order of things readily win such an influence over us that we forget their earthly origin, such concepts
+then become stamped as necessities of thought, as given a priori, so the path of scientific progress becomes impassable for
+a long period It might be said that Einstein intuitively felt that the current reliance on multi field theories represented proof
+in the fault of current conceptions. Divergent sets of physical laws for large and small was incongruous. While he sensed
+the answer to a unified field theory lay within general relativity theory and light's particle/wave duality, he was never able
+to unlock the mystery.
+I have used the term unified field as if it is familiar to the reader. A unified field theory simply suggests a set of laws,
+constructed from a single set of concepts, applying to all phenomena large and small.
+While mass was originally a macro concept, it was to find its way into descriptions of atomic phenomena. Particles such
+as electrons or protons should, it was believed, behave in some ways like macro bodies and could therefore be described
+in terms of distinct masses. But when equations of particles, in terms of masses, are mixed with equations of particles, in
+teTms of i harge, anomalies result. Rather than examining the concepts of mass and charge that engendered the anomalies,
+physicists blamed the anomalies on the particles themselves. The particles were then said to exhibit anomalous behavior!
+Cause and effect was replaced by uncertainty and probability in describing atomic phenomena. When Einstein didn't accept
+this creative solution to the problem, he separated himself from the mainstream of the physics community. From then on
+Einstein's views, and his quest for a unified field theory, were depicted as the folly of a once-great man who no longer
+possessed the creativity and intellectual prowess of his younger days.
+Fh<> difficulty of applying the mass concept in the atomic domain can be seen by considering a number of elementary
+partic e equations. We begin by comparing Bohr's equation for hydrogen electron angular momentum and the Deßrodie
+particle wave equation. From Bohr we have:
+p• r = nh/2ir where p = electron momentum —mv
+(electron mass times orbital velocity).
+r = distaince separating proton and electron in a hydrongen atom.
+h = Planck's constant
+n = principal quantum number
+Rearranging the Bohr Equation, we obtain:
+p/n * h/2irr
+For Bohr 2m (electron orbit) could be equated to electron wavelength (X), so we have:
+p/n = h/\
+Thus in classical Bohr theory electron momentum divided by the principal quantum number equals Planck's constant divided
+by wavelength.
+The Deßroglie matter wave equation for this same electron is:
+X =» h/p or p = h/A
+In that the Deßroglie equation is void of the principal quantum number, n, there appears to be conflict between Bohr and
+Deßroglie. This can be resolved by recognizing p/n and p are both equal to the actual electron momentum. In Bohr's case,
+the actual electron momentum is given by the ground state momentum divided by the principle quantum number n. In
+Deßroglie's case, p, by itself, is the electron's actual momentum, or:
+p = p g /n = h/A
+Remembering \ equaled 2irr, we can write:
+p g /n = h/2irr or p g r/n = h/2ir
+By reflecting on the above relationships we encounter an enigma. According to Newtonian dynamics, electron momentum
+will be equal to electron mass times electron velocity. As the hydrogen electron jumps from its ground state (n= 1) to a
+higher energy level p K /n or p, the actual electron momentum, is reduced. If electron mass is a constant, then a reduction
+in momentum must result in a corresponding reduction in electron velocity. By introducing two further elementary equa
+tions, we will demonstrate that this does not appear to be a possibility.
+When the hydrogen atom is treated in the classical manner, as a particle moving in an orbit around the proton the force
+on this electron is given by either of two equations.
+F = and F = q^/r 2 = q'/r 2 when q, ■q 2
+I have elected to use cgs units where q is in electrostatic units to avoid the use of the constant kin the charge equation.
+The equality of these equations can be shown by substituting in the contemporary values.
+F » mvVr = (9.1 x 10 jll g) (2.2 x 10 <> cm/sec) i
+5.3 x 10~ 9 cm
+= 8.3 x 10" 1 dynes
+F ■ qVr 2 = (4.8 x 1Q~ 10 esu)*
+(5.3 x 10"cm) 2
+= 8.2 x 10 1 dynes
+The slight difference in forces is attributed to the rounding of units. The ability to express the force on an electron from
+either of these two equations allows us to equate the equations and solve for q
+q 2 /H ■ mv^/r
+q = (mv'<r)''' or q = (mvr»v) ,/7
+Since q is a constant, the term mvr.v must be constant for any r. From review of the Bohr and Deßroglie equations, we have:
+P *r « p„»r/n ■ h/2ir
+That is to say, p»r equals a constant and, since p » mv, the term mvr in the charge equation will equal the constant h/2iT
+But can both mvr and mvr*v remain constant as r changes?
+At first glance, we do not appear to have a problem For instance, if r doubles, mv simply goes to 1/2 mv and the constant
+rules are obeyed. If, however, m is to stay constant, the reduction in mv must be totally accounted for by a reduction in
+electron velocity to 1/2 v. As there are two v terms in the equation, q « (mvr.v)" 2 , if vis reduc ed to 1/2 v when r goes to
+2 f , q| cannot remain constant There is no escape from this predicament We must choose between a variable mass i
+variable charge, or variations in both charge and mass as electron energy levels are c hanged
+Physicists appear to be correct in concluding elementary particles cannot be causally accounted for within the current
+conceptions that frame our laws of physics. However, it seems premature to conclude particles do not follow causal laws
+based upon other conceptions It is just as likely it is our concepts that are at fault, not the particles The mass and charge
+concepts, created before particle data was available, have painted physics into a corner generating the need for multi field
+theories in order to extricate itself.
+It is not possible in the limited space herein to propose a solutk>n to this dilemma, although in the writer's opinion Einstein
+was correcl in suggesting the answer lies within general relativity theory and a greater understanding of light Any riders
+«™h,no "eneral relativity might be a ( »plied to the problem, or in an empirical test validating electron
+HJO ck\l lU / w • - _I_J _• II
+nng i
+s dec
+pendency on energy level, should contact the writer at the address given bekwv
+Joel Sheinmel
+1501 Hillsdale Blvd., Suite 310 • San Mateo, CA 94402
+UNIFIED FIELD THEORY
+VE WE MISSED THE OBV
+Over three hundred years ago, Isaac Newton's Mathematical Principles of Natural Philosophy (the Principia), considered
+by many the greatest single intellectual achievement of all time, revolutionized man's conception of his universe. While, in
+the first quarter of this century, the Newtonian description of macro phenomena received a major adjustment from the
+mind of Albert Einstein, many of the original Newtonian concepts survive and remain the cornerstones of contemporary
+theory. Chief among these is the Newtonian concept of mass that appears in his second law of dynamics and his gravitational
+equation. Newtonian mass can be described as the proportionality constant of momentum, i.e., the momentum of a body
+divided by its velocity.
+Before Bejamin Franklin pondered over the proper words to frame the colonies' independence, almost three quarters of
+a century after the Principia first appeared, he conducted a series of experiments that provided the world with a new
+description for the phenomena of electricity. From his efforts arose the concept of electron flow and positive and negative
+charge. The charge concept would from that day forward, in a manner similar to Newtonian mass for macro phenomena,
+form the foundation of physicists' descriptions of micro world events.
+Multi field theories can be said to be the outgrowth of the use of mass to describe gravitational fields and charge to
+describe electromagnetic fields. In the last half century, two additional field laws, the strong field and weak field, have added
+to the confusion. Might, however, there be something inherent in these concepts of mass and charge, put forth long before
+the many subatomic particles were isolated and studied, that prevents the unification of macro and micro phenomena? And
+must we be forced to accept these concepts as axiomatic truths on which all physical knowledge must be supported? Einstein
+felt the key to future understanding rested on where our allegiance was placed. If we relied upon, and revered too heavily,
+the idols of our past, then we placed severe limits upon our knowledge. It was only through continual reflection on current
+foundations that we left the door open for more comprehensive understanding. "Concepts that have proved useful in the
+constitution of an order of things readily win such an influence over us that we forget their earthly origin, such concepts
+then become stamped as necessities of thought, as given a priori, so the path of scientific progress becomes impassable for
+a long period It might be said that Einstein intuitively felt that the current reliance on multi field theories represented proof
+in the fault of current conceptions. Divergent sets of physical laws for large and small was incongruous. While he sensed
+the answer to a unified field theory lay within general relativity theory and light's particle/wave duality, he was never able
+to unlock the mystery.
+I have used the term unified field as if it is familiar to the reader. A unified field theory simply suggests a set of laws,
+constructed from a single set of concepts, applying to all phenomena large and small.
+While mass was originally a macro concept, it was to find its way into descriptions of atomic phenomena. Particles such
+as electrons or protons should, it was believed, behave in some ways like macro bodies and could therefore be described
+in terms of distinct masses. But when equations of particles, in terms of masses, are mixed with equations of particles, in
+teTms of i harge, anomalies result. Rather than examining the concepts of mass and charge that engendered the anomalies,
+physicists blamed the anomalies on the particles themselves. The particles were then said to exhibit anomalous behavior!
+Cause and effect was replaced by uncertainty and probability in describing atomic phenomena. When Einstein didn't accept
+this creative solution to the problem, he separated himself from the mainstream of the physics community. From then on
+Einstein's views, and his quest for a unified field theory, were depicted as the folly of a once-great man who no longer
+possessed the creativity and intellectual prowess of his younger days.
+Fh<> difficulty of applying the mass concept in the atomic domain can be seen by considering a number of elementary
+partic e equations. We begin by comparing Bohr's equation for hydrogen electron angular momentum and the Deßrodie
+particle wave equation. From Bohr we have:
+p• r = nh/2ir where p = electron momentum —mv
+(electron mass times orbital velocity).
+r = distaince separating proton and electron in a hydrongen atom.
+h = Planck's constant
+n = principal quantum number
+Rearranging the Bohr Equation, we obtain:
+p/n * h/2irr
+For Bohr 2m (electron orbit) could be equated to electron wavelength (X), so we have:
+p/n = h/\
+Thus in classical Bohr theory electron momentum divided by the principal quantum number equals Planck's constant divided
+by wavelength.
+The Deßroglie matter wave equation for this same electron is:
+X =» h/p or p = h/A
+In that the Deßroglie equation is void of the principal quantum number, n, there appears to be conflict between Bohr and
+Deßroglie. This can be resolved by recognizing p/n and p are both equal to the actual electron momentum. In Bohr's case,
+the actual electron momentum is given by the ground state momentum divided by the principle quantum number n. In
+Deßroglie's case, p, by itself, is the electron's actual momentum, or:
+p = p g /n = h/A
+Remembering \ equaled 2irr, we can write:
+p g /n = h/2irr or p g r/n = h/2ir
+By reflecting on the above relationships we encounter an enigma. According to Newtonian dynamics, electron momentum
+will be equal to electron mass times electron velocity. As the hydrogen electron jumps from its ground state (n= 1) to a
+higher energy level p K /n or p, the actual electron momentum, is reduced. If electron mass is a constant, then a reduction
+in momentum must result in a corresponding reduction in electron velocity. By introducing two further elementary equa
+tions, we will demonstrate that this does not appear to be a possibility.
+When the hydrogen atom is treated in the classical manner, as a particle moving in an orbit around the proton the force
+on this electron is given by either of two equations.
+F = and F = q^/r 2 = q'/r 2 when q, ■q 2
+I have elected to use cgs units where q is in electrostatic units to avoid the use of the constant kin the charge equation.
+The equality of these equations can be shown by substituting in the contemporary values.
+F » mvVr = (9.1 x 10 jll g) (2.2 x 10 <> cm/sec) i
+5.3 x 10~ 9 cm
+= 8.3 x 10" 1 dynes
+F ■ qVr 2 = (4.8 x 1Q~ 10 esu)*
+(5.3 x 10"cm) 2
+= 8.2 x 10 1 dynes
+The slight difference in forces is attributed to the rounding of units. The ability to express the force on an electron from
+either of these two equations allows us to equate the equations and solve for q
+q 2 /H ■ mv^/r
+q = (mv'<r)''' or q = (mvr»v) ,/7
+Since q is a constant, the term mvr.v must be constant for any r. From review of the Bohr and Deßroglie equations, we have:
+P *r « p„»r/n ■ h/2ir
+That is to say, p»r equals a constant and, since p » mv, the term mvr in the charge equation will equal the constant h/2iT
+But can both mvr and mvr*v remain constant as r changes?
+At first glance, we do not appear to have a problem For instance, if r doubles, mv simply goes to 1/2 mv and the constant
+rules are obeyed. If, however, m is to stay constant, the reduction in mv must be totally accounted for by a reduction in
+electron velocity to 1/2 v. As there are two v terms in the equation, q « (mvr.v)" 2 , if vis reduc ed to 1/2 v when r goes to
+2 f , q| cannot remain constant There is no escape from this predicament We must choose between a variable mass i
+variable charge, or variations in both charge and mass as electron energy levels are c hanged
+Physicists appear to be correct in concluding elementary particles cannot be causally accounted for within the current
+conceptions that frame our laws of physics. However, it seems premature to conclude particles do not follow causal laws
+based upon other conceptions It is just as likely it is our concepts that are at fault, not the particles The mass and charge
+concepts, created before particle data was available, have painted physics into a corner generating the need for multi field
+theories in order to extricate itself.
+It is not possible in the limited space herein to propose a solutk>n to this dilemma, although in the writer's opinion Einstein
+was correcl in suggesting the answer lies within general relativity theory and a greater understanding of light Any riders
+«™h,no "eneral relativity might be a ( »plied to the problem, or in an empirical test validating electron
+HJO ck\l lU / w • - _I_J _• II
+nng i
+s dec
+pendency on energy level, should contact the writer at the address given bekwv
+Joel Sheinmel
+1501 Hillsdale Blvd., Suite 310 • San Mateo, CA 94402
+UNIFIED FIELD THEORY
+VE WE MISSED THE OBV
+Over three hundred years ago, Isaac Newton's Mathematical Principles of Natural Philosophy (the Principia), considered
+by many the greatest single intellectual achievement of all time, revolutionized man's conception of his universe. While, in
+the first quarter of this century, the Newtonian description of macro phenomena received a major adjustment from the
+mind of Albert Einstein, many of the original Newtonian concepts survive and remain the cornerstones of contemporary
+theory. Chief among these is the Newtonian concept of mass that appears in his second law of dynamics and his gravitational
+equation. Newtonian mass can be described as the proportionality constant of momentum, i.e., the momentum of a body
+divided by its velocity.
+Before Bejamin Franklin pondered over the proper words to frame the colonies' independence, almost three quarters of
+a century after the Principia first appeared, he conducted a series of experiments that provided the world with a new
+description for the phenomena of electricity. From his efforts arose the concept of electron flow and positive and negative
+charge. The charge concept would from that day forward, in a manner similar to Newtonian mass for macro phenomena,
+form the foundation of physicists' descriptions of micro world events.
+Multi field theories can be said to be the outgrowth of the use of mass to describe gravitational fields and charge to
+describe electromagnetic fields. In the last half century, two additional field laws, the strong field and weak field, have added
+to the confusion. Might, however, there be something inherent in these concepts of mass and charge, put forth long before
+the many subatomic particles were isolated and studied, that prevents the unification of macro and micro phenomena? And
+must we be forced to accept these concepts as axiomatic truths on which all physical knowledge must be supported? Einstein
+felt the key to future understanding rested on where our allegiance was placed. If we relied upon, and revered too heavily,
+the idols of our past, then we placed severe limits upon our knowledge. It was only through continual reflection on current
+foundations that we left the door open for more comprehensive understanding. "Concepts that have proved useful in the
+constitution of an order of things readily win such an influence over us that we forget their earthly origin, such concepts
+then become stamped as necessities of thought, as given a priori, so the path of scientific progress becomes impassable for
+a long period It might be said that Einstein intuitively felt that the current reliance on multi field theories represented proof
+in the fault of current conceptions. Divergent sets of physical laws for large and small was incongruous. While he sensed
+the answer to a unified field theory lay within general relativity theory and light's particle/wave duality, he was never able
+to unlock the mystery.
+I have used the term unified field as if it is familiar to the reader. A unified field theory simply suggests a set of laws,
+constructed from a single set of concepts, applying to all phenomena large and small.
+While mass was originally a macro concept, it was to find its way into descriptions of atomic phenomena. Particles such
+as electrons or protons should, it was believed, behave in some ways like macro bodies and could therefore be described
+in terms of distinct masses. But when equations of particles, in terms of masses, are mixed with equations of particles, in
+teTms of i harge, anomalies result. Rather than examining the concepts of mass and charge that engendered the anomalies,
+physicists blamed the anomalies on the particles themselves. The particles were then said to exhibit anomalous behavior!
+Cause and effect was replaced by uncertainty and probability in describing atomic phenomena. When Einstein didn't accept
+this creative solution to the problem, he separated himself from the mainstream of the physics community. From then on
+Einstein's views, and his quest for a unified field theory, were depicted as the folly of a once-great man who no longer
+possessed the creativity and intellectual prowess of his younger days.
+Fh<> difficulty of applying the mass concept in the atomic domain can be seen by considering a number of elementary
+partic e equations. We begin by comparing Bohr's equation for hydrogen electron angular momentum and the Deßrodie
+particle wave equation. From Bohr we have:
+p• r = nh/2ir where p = electron momentum —mv
+(electron mass times orbital velocity).
+r = distaince separating proton and electron in a hydrongen atom.
+h = Planck's constant
+n = principal quantum number
+Rearranging the Bohr Equation, we obtain:
+p/n * h/2irr
+For Bohr 2m (electron orbit) could be equated to electron wavelength (X), so we have:
+p/n = h/\
+Thus in classical Bohr theory electron momentum divided by the principal quantum number equals Planck's constant divided
+by wavelength.
+The Deßroglie matter wave equation for this same electron is:
+X =» h/p or p = h/A
+In that the Deßroglie equation is void of the principal quantum number, n, there appears to be conflict between Bohr and
+Deßroglie. This can be resolved by recognizing p/n and p are both equal to the actual electron momentum. In Bohr's case,
+the actual electron momentum is given by the ground state momentum divided by the principle quantum number n. In
+Deßroglie's case, p, by itself, is the electron's actual momentum, or:
+p = p g /n = h/A
+Remembering \ equaled 2irr, we can write:
+p g /n = h/2irr or p g r/n = h/2ir
+By reflecting on the above relationships we encounter an enigma. According to Newtonian dynamics, electron momentum
+will be equal to electron mass times electron velocity. As the hydrogen electron jumps from its ground state (n= 1) to a
+higher energy level p K /n or p, the actual electron momentum, is reduced. If electron mass is a constant, then a reduction
+in momentum must result in a corresponding reduction in electron velocity. By introducing two further elementary equa
+tions, we will demonstrate that this does not appear to be a possibility.
+When the hydrogen atom is treated in the classical manner, as a particle moving in an orbit around the proton the force
+on this electron is given by either of two equations.
+F = and F = q^/r 2 = q'/r 2 when q, ■q 2
+I have elected to use cgs units where q is in electrostatic units to avoid the use of the constant kin the charge equation.
+The equality of these equations can be shown by substituting in the contemporary values.
+F » mvVr = (9.1 x 10 jll g) (2.2 x 10 <> cm/sec) i
+5.3 x 10~ 9 cm
+= 8.3 x 10" 1 dynes
+F ■ qVr 2 = (4.8 x 1Q~ 10 esu)*
+(5.3 x 10"cm) 2
+= 8.2 x 10 1 dynes
+The slight difference in forces is attributed to the rounding of units. The ability to express the force on an electron from
+either of these two equations allows us to equate the equations and solve for q
+q 2 /H ■ mv^/r
+q = (mv'<r)''' or q = (mvr»v) ,/7
+Since q is a constant, the term mvr.v must be constant for any r. From review of the Bohr and Deßroglie equations, we have:
+P *r « p„»r/n ■ h/2ir
+That is to say, p»r equals a constant and, since p » mv, the term mvr in the charge equation will equal the constant h/2iT
+But can both mvr and mvr*v remain constant as r changes?
+At first glance, we do not appear to have a problem For instance, if r doubles, mv simply goes to 1/2 mv and the constant
+rules are obeyed. If, however, m is to stay constant, the reduction in mv must be totally accounted for by a reduction in
+electron velocity to 1/2 v. As there are two v terms in the equation, q « (mvr.v)" 2 , if vis reduc ed to 1/2 v when r goes to
+2 f , q| cannot remain constant There is no escape from this predicament We must choose between a variable mass i
+variable charge, or variations in both charge and mass as electron energy levels are c hanged
+Physicists appear to be correct in concluding elementary particles cannot be causally accounted for within the current
+conceptions that frame our laws of physics. However, it seems premature to conclude particles do not follow causal laws
+based upon other conceptions It is just as likely it is our concepts that are at fault, not the particles The mass and charge
+concepts, created before particle data was available, have painted physics into a corner generating the need for multi field
+theories in order to extricate itself.
+It is not possible in the limited space herein to propose a solutk>n to this dilemma, although in the writer's opinion Einstein
+was correcl in suggesting the answer lies within general relativity theory and a greater understanding of light Any riders
+«™h,no "eneral relativity might be a ( »plied to the problem, or in an empirical test validating electron
+HJO ck\l lU / w • - _I_J _• II
+nng i
+s dec
+pendency on energy level, should contact the writer at the address given bekwv
+Joel Sheinmel
+1501 Hillsdale Blvd., Suite 310 • San Mateo, CA 94402
+UNIFIED FIELD THEORY
+VE WE MISSED THE OBV
+Over three hundred years ago, Isaac Newton's Mathematical Principles of Natural Philosophy (the Principia), considered
+by many the greatest single intellectual achievement of all time, revolutionized man's conception of his universe. While, in
+the first quarter of this century, the Newtonian description of macro phenomena received a major adjustment from the
+mind of Albert Einstein, many of the original Newtonian concepts survive and remain the cornerstones of contemporary
+theory. Chief among these is the Newtonian concept of mass that appears in his second law of dynamics and his gravitational
+equation. Newtonian mass can be described as the proportionality constant of momentum, i.e., the momentum of a body
+divided by its velocity.
+Before Bejamin Franklin pondered over the proper words to frame the colonies' independence, almost three quarters of
+a century after the Principia first appeared, he conducted a series of experiments that provided the world with a new
+description for the phenomena of electricity. From his efforts arose the concept of electron flow and positive and negative
+charge. The charge concept would from that day forward, in a manner similar to Newtonian mass for macro phenomena,
+form the foundation of physicists' descriptions of micro world events.
+Multi field theories can be said to be the outgrowth of the use of mass to describe gravitational fields and charge to
+describe electromagnetic fields. In the last half century, two additional field laws, the strong field and weak field, have added
+to the confusion. Might, however, there be something inherent in these concepts of mass and charge, put forth long before
+the many subatomic particles were isolated and studied, that prevents the unification of macro and micro phenomena? And
+must we be forced to accept these concepts as axiomatic truths on which all physical knowledge must be supported? Einstein
+felt the key to future understanding rested on where our allegiance was placed. If we relied upon, and revered too heavily,
+the idols of our past, then we placed severe limits upon our knowledge. It was only through continual reflection on current
+foundations that we left the door open for more comprehensive understanding. "Concepts that have proved useful in the
+constitution of an order of things readily win such an influence over us that we forget their earthly origin, such concepts
+then become stamped as necessities of thought, as given a priori, so the path of scientific progress becomes impassable for
+a long period It might be said that Einstein intuitively felt that the current reliance on multi field theories represented proof
+in the fault of current conceptions. Divergent sets of physical laws for large and small was incongruous. While he sensed
+the answer to a unified field theory lay within general relativity theory and light's particle/wave duality, he was never able
+to unlock the mystery.
+I have used the term unified field as if it is familiar to the reader. A unified field theory simply suggests a set of laws,
+constructed from a single set of concepts, applying to all phenomena large and small.
+While mass was originally a macro concept, it was to find its way into descriptions of atomic phenomena. Particles such
+as electrons or protons should, it was believed, behave in some ways like macro bodies and could therefore be described
+in terms of distinct masses. But when equations of particles, in terms of masses, are mixed with equations of particles, in
+teTms of i harge, anomalies result. Rather than examining the concepts of mass and charge that engendered the anomalies,
+physicists blamed the anomalies on the particles themselves. The particles were then said to exhibit anomalous behavior!
+Cause and effect was replaced by uncertainty and probability in describing atomic phenomena. When Einstein didn't accept
+this creative solution to the problem, he separated himself from the mainstream of the physics community. From then on
+Einstein's views, and his quest for a unified field theory, were depicted as the folly of a once-great man who no longer
+possessed the creativity and intellectual prowess of his younger days.
+Fh<> difficulty of applying the mass concept in the atomic domain can be seen by considering a number of elementary
+partic e equations. We begin by comparing Bohr's equation for hydrogen electron angular momentum and the Deßrodie
+particle wave equation. From Bohr we have:
+p• r = nh/2ir where p = electron momentum —mv
+(electron mass times orbital velocity).
+r = distaince separating proton and electron in a hydrongen atom.
+h = Planck's constant
+n = principal quantum number
+Rearranging the Bohr Equation, we obtain:
+p/n * h/2irr
+For Bohr 2m (electron orbit) could be equated to electron wavelength (X), so we have:
+p/n = h/\
+Thus in classical Bohr theory electron momentum divided by the principal quantum number equals Planck's constant divided
+by wavelength.
+The Deßroglie matter wave equation for this same electron is:
+X =» h/p or p = h/A
+In that the Deßroglie equation is void of the principal quantum number, n, there appears to be conflict between Bohr and
+Deßroglie. This can be resolved by recognizing p/n and p are both equal to the actual electron momentum. In Bohr's case,
+the actual electron momentum is given by the ground state momentum divided by the principle quantum number n. In
+Deßroglie's case, p, by itself, is the electron's actual momentum, or:
+p = p g /n = h/A
+Remembering \ equaled 2irr, we can write:
+p g /n = h/2irr or p g r/n = h/2ir
+By reflecting on the above relationships we encounter an enigma. According to Newtonian dynamics, electron momentum
+will be equal to electron mass times electron velocity. As the hydrogen electron jumps from its ground state (n= 1) to a
+higher energy level p K /n or p, the actual electron momentum, is reduced. If electron mass is a constant, then a reduction
+in momentum must result in a corresponding reduction in electron velocity. By introducing two further elementary equa
+tions, we will demonstrate that this does not appear to be a possibility.
+When the hydrogen atom is treated in the classical manner, as a particle moving in an orbit around the proton the force
+on this electron is given by either of two equations.
+F = and F = q^/r 2 = q'/r 2 when q, ■q 2
+I have elected to use cgs units where q is in electrostatic units to avoid the use of the constant kin the charge equation.
+The equality of these equations can be shown by substituting in the contemporary values.
+F » mvVr = (9.1 x 10 jll g) (2.2 x 10 <> cm/sec) i
+5.3 x 10~ 9 cm
+= 8.3 x 10" 1 dynes
+F ■ qVr 2 = (4.8 x 1Q~ 10 esu)*
+(5.3 x 10"cm) 2
+= 8.2 x 10 1 dynes
+The slight difference in forces is attributed to the rounding of units. The ability to express the force on an electron from
+either of these two equations allows us to equate the equations and solve for q
+q 2 /H ■ mv^/r
+q = (mv'<r)''' or q = (mvr»v) ,/7
+Since q is a constant, the term mvr.v must be constant for any r. From review of the Bohr and Deßroglie equations, we have:
+P *r « p„»r/n ■ h/2ir
+That is to say, p»r equals a constant and, since p » mv, the term mvr in the charge equation will equal the constant h/2iT
+But can both mvr and mvr*v remain constant as r changes?
+At first glance, we do not appear to have a problem For instance, if r doubles, mv simply goes to 1/2 mv and the constant
+rules are obeyed. If, however, m is to stay constant, the reduction in mv must be totally accounted for by a reduction in
+electron velocity to 1/2 v. As there are two v terms in the equation, q « (mvr.v)" 2 , if vis reduc ed to 1/2 v when r goes to
+2 f , q| cannot remain constant There is no escape from this predicament We must choose between a variable mass i
+variable charge, or variations in both charge and mass as electron energy levels are c hanged
+Physicists appear to be correct in concluding elementary particles cannot be causally accounted for within the current
+conceptions that frame our laws of physics. However, it seems premature to conclude particles do not follow causal laws
+based upon other conceptions It is just as likely it is our concepts that are at fault, not the particles The mass and charge
+concepts, created before particle data was available, have painted physics into a corner generating the need for multi field
+theories in order to extricate itself.
+It is not possible in the limited space herein to propose a solutk>n to this dilemma, although in the writer's opinion Einstein
+was correcl in suggesting the answer lies within general relativity theory and a greater understanding of light Any riders
+«™h,no "eneral relativity might be a ( »plied to the problem, or in an empirical test validating electron
+HJO ck\l lU / w • - _I_J _• II
+nng i
+s dec
+pendency on energy level, should contact the writer at the address given bekwv
+Joel Sheinmel
+1501 Hillsdale Blvd., Suite 310 • San Mateo, CA 94402
+UNIFIED FIELD THEORY
+VE WE MISSED THE OBV
+Over three hundred years ago, Isaac Newton's Mathematical Principles of Natural Philosophy (the Principia), considered
+by many the greatest single intellectual achievement of all time, revolutionized man's conception of his universe. While, in
+the first quarter of this century, the Newtonian description of macro phenomena received a major adjustment from the
+mind of Albert Einstein, many of the original Newtonian concepts survive and remain the cornerstones of contemporary
+theory. Chief among these is the Newtonian concept of mass that appears in his second law of dynamics and his gravitational
+equation. Newtonian mass can be described as the proportionality constant of momentum, i.e., the momentum of a body
+divided by its velocity.
+Before Bejamin Franklin pondered over the proper words to frame the colonies' independence, almost three quarters of
+a century after the Principia first appeared, he conducted a series of experiments that provided the world with a new
+description for the phenomena of electricity. From his efforts arose the concept of electron flow and positive and negative
+charge. The charge concept would from that day forward, in a manner similar to Newtonian mass for macro phenomena,
+form the foundation of physicists' descriptions of micro world events.
+Multi field theories can be said to be the outgrowth of the use of mass to describe gravitational fields and charge to
+describe electromagnetic fields. In the last half century, two additional field laws, the strong field and weak field, have added
+to the confusion. Might, however, there be something inherent in these concepts of mass and charge, put forth long before
+the many subatomic particles were isolated and studied, that prevents the unification of macro and micro phenomena? And
+must we be forced to accept these concepts as axiomatic truths on which all physical knowledge must be supported? Einstein
+felt the key to future understanding rested on where our allegiance was placed. If we relied upon, and revered too heavily,
+the idols of our past, then we placed severe limits upon our knowledge. It was only through continual reflection on current
+foundations that we left the door open for more comprehensive understanding. "Concepts that have proved useful in the
+constitution of an order of things readily win such an influence over us that we forget their earthly origin, such concepts
+then become stamped as necessities of thought, as given a priori, so the path of scientific progress becomes impassable for
+a long period It might be said that Einstein intuitively felt that the current reliance on multi field theories represented proof
+in the fault of current conceptions. Divergent sets of physical laws for large and small was incongruous. While he sensed
+the answer to a unified field theory lay within general relativity theory and light's particle/wave duality, he was never able
+to unlock the mystery.
+I have used the term unified field as if it is familiar to the reader. A unified field theory simply suggests a set of laws,
+constructed from a single set of concepts, applying to all phenomena large and small.
+While mass was originally a macro concept, it was to find its way into descriptions of atomic phenomena. Particles such
+as electrons or protons should, it was believed, behave in some ways like macro bodies and could therefore be described
+in terms of distinct masses. But when equations of particles, in terms of masses, are mixed with equations of particles, in
+teTms of i harge, anomalies result. Rather than examining the concepts of mass and charge that engendered the anomalies,
+physicists blamed the anomalies on the particles themselves. The particles were then said to exhibit anomalous behavior!
+Cause and effect was replaced by uncertainty and probability in describing atomic phenomena. When Einstein didn't accept
+this creative solution to the problem, he separated himself from the mainstream of the physics community. From then on
+Einstein's views, and his quest for a unified field theory, were depicted as the folly of a once-great man who no longer
+possessed the creativity and intellectual prowess of his younger days.
+Fh<> difficulty of applying the mass concept in the atomic domain can be seen by considering a number of elementary
+partic e equations. We begin by comparing Bohr's equation for hydrogen electron angular momentum and the Deßrodie
+particle wave equation. From Bohr we have:
+p• r = nh/2ir where p = electron momentum —mv
+(electron mass times orbital velocity).
+r = distaince separating proton and electron in a hydrongen atom.
+h = Planck's constant
+n = principal quantum number
+Rearranging the Bohr Equation, we obtain:
+p/n * h/2irr
+For Bohr 2m (electron orbit) could be equated to electron wavelength (X), so we have:
+p/n = h/\
+Thus in classical Bohr theory electron momentum divided by the principal quantum number equals Planck's constant divided
+by wavelength.
+The Deßroglie matter wave equation for this same electron is:
+X =» h/p or p = h/A
+In that the Deßroglie equation is void of the principal quantum number, n, there appears to be conflict between Bohr and
+Deßroglie. This can be resolved by recognizing p/n and p are both equal to the actual electron momentum. In Bohr's case,
+the actual electron momentum is given by the ground state momentum divided by the principle quantum number n. In
+Deßroglie's case, p, by itself, is the electron's actual momentum, or:
+p = p g /n = h/A
+Remembering \ equaled 2irr, we can write:
+p g /n = h/2irr or p g r/n = h/2ir
+By reflecting on the above relationships we encounter an enigma. According to Newtonian dynamics, electron momentum
+will be equal to electron mass times electron velocity. As the hydrogen electron jumps from its ground state (n= 1) to a
+higher energy level p K /n or p, the actual electron momentum, is reduced. If electron mass is a constant, then a reduction
+in momentum must result in a corresponding reduction in electron velocity. By introducing two further elementary equa
+tions, we will demonstrate that this does not appear to be a possibility.
+When the hydrogen atom is treated in the classical manner, as a particle moving in an orbit around the proton the force
+on this electron is given by either of two equations.
+F = and F = q^/r 2 = q'/r 2 when q, ■q 2
+I have elected to use cgs units where q is in electrostatic units to avoid the use of the constant kin the charge equation.
+The equality of these equations can be shown by substituting in the contemporary values.
+F » mvVr = (9.1 x 10 jll g) (2.2 x 10 <> cm/sec) i
+5.3 x 10~ 9 cm
+= 8.3 x 10" 1 dynes
+F ■ qVr 2 = (4.8 x 1Q~ 10 esu)*
+(5.3 x 10"cm) 2
+= 8.2 x 10 1 dynes
+The slight difference in forces is attributed to the rounding of units. The ability to express the force on an electron from
+either of these two equations allows us to equate the equations and solve for q
+q 2 /H ■ mv^/r
+q = (mv'<r)''' or q = (mvr»v) ,/7
+Since q is a constant, the term mvr.v must be constant for any r. From review of the Bohr and Deßroglie equations, we have:
+P *r « p„»r/n ■ h/2ir
+That is to say, p»r equals a constant and, since p » mv, the term mvr in the charge equation will equal the constant h/2iT
+But can both mvr and mvr*v remain constant as r changes?
+At first glance, we do not appear to have a problem For instance, if r doubles, mv simply goes to 1/2 mv and the constant
+rules are obeyed. If, however, m is to stay constant, the reduction in mv must be totally accounted for by a reduction in
+electron velocity to 1/2 v. As there are two v terms in the equation, q « (mvr.v)" 2 , if vis reduc ed to 1/2 v when r goes to
+2 f , q| cannot remain constant There is no escape from this predicament We must choose between a variable mass i
+variable charge, or variations in both charge and mass as electron energy levels are c hanged
+Physicists appear to be correct in concluding elementary particles cannot be causally accounted for within the current
+conceptions that frame our laws of physics. However, it seems premature to conclude particles do not follow causal laws
+based upon other conceptions It is just as likely it is our concepts that are at fault, not the particles The mass and charge
+concepts, created before particle data was available, have painted physics into a corner generating the need for multi field
+theories in order to extricate itself.
+It is not possible in the limited space herein to propose a solutk>n to this dilemma, although in the writer's opinion Einstein
+was correcl in suggesting the answer lies within general relativity theory and a greater understanding of light Any riders
+«™h,no "eneral relativity might be a ( »plied to the problem, or in an empirical test validating electron
+HJO ck\l lU / w • - _I_J _• II
+nng i
+s dec
+pendency on energy level, should contact the writer at the address given bekwv
+Joel Sheinmel
+1501 Hillsdale Blvd., Suite 310 • San Mateo, CA 94402
+UNIFIED FIELD THEORY
+VE WE MISSED THE OBV
+Over three hundred years ago, Isaac Newton's Mathematical Principles of Natural Philosophy (the Principia), considered
+by many the greatest single intellectual achievement of all time, revolutionized man's conception of his universe. While, in
+the first quarter of this century, the Newtonian description of macro phenomena received a major adjustment from the
+mind of Albert Einstein, many of the original Newtonian concepts survive and remain the cornerstones of contemporary
+theory. Chief among these is the Newtonian concept of mass that appears in his second law of dynamics and his gravitational
+equation. Newtonian mass can be described as the proportionality constant of momentum, i.e., the momentum of a body
+divided by its velocity.
+Before Bejamin Franklin pondered over the proper words to frame the colonies' independence, almost three quarters of
+a century after the Principia first appeared, he conducted a series of experiments that provided the world with a new
+description for the phenomena of electricity. From his efforts arose the concept of electron flow and positive and negative
+charge. The charge concept would from that day forward, in a manner similar to Newtonian mass for macro phenomena,
+form the foundation of physicists' descriptions of micro world events.
+Multi field theories can be said to be the outgrowth of the use of mass to describe gravitational fields and charge to
+describe electromagnetic fields. In the last half century, two additional field laws, the strong field and weak field, have added
+to the confusion. Might, however, there be something inherent in these concepts of mass and charge, put forth long before
+the many subatomic particles were isolated and studied, that prevents the unification of macro and micro phenomena? And
+must we be forced to accept these concepts as axiomatic truths on which all physical knowledge must be supported? Einstein
+felt the key to future understanding rested on where our allegiance was placed. If we relied upon, and revered too heavily,
+the idols of our past, then we placed severe limits upon our knowledge. It was only through continual reflection on current
+foundations that we left the door open for more comprehensive understanding. "Concepts that have proved useful in the
+constitution of an order of things readily win such an influence over us that we forget their earthly origin, such concepts
+then become stamped as necessities of thought, as given a priori, so the path of scientific progress becomes impassable for
+a long period It might be said that Einstein intuitively felt that the current reliance on multi field theories represented proof
+in the fault of current conceptions. Divergent sets of physical laws for large and small was incongruous. While he sensed
+the answer to a unified field theory lay within general relativity theory and light's particle/wave duality, he was never able
+to unlock the mystery.
+I have used the term unified field as if it is familiar to the reader. A unified field theory simply suggests a set of laws,
+constructed from a single set of concepts, applying to all phenomena large and small.
+While mass was originally a macro concept, it was to find its way into descriptions of atomic phenomena. Particles such
+as electrons or protons should, it was believed, behave in some ways like macro bodies and could therefore be described
+in terms of distinct masses. But when equations of particles, in terms of masses, are mixed with equations of particles, in
+teTms of i harge, anomalies result. Rather than examining the concepts of mass and charge that engendered the anomalies,
+physicists blamed the anomalies on the particles themselves. The particles were then said to exhibit anomalous behavior!
+Cause and effect was replaced by uncertainty and probability in describing atomic phenomena. When Einstein didn't accept
+this creative solution to the problem, he separated himself from the mainstream of the physics community. From then on
+Einstein's views, and his quest for a unified field theory, were depicted as the folly of a once-great man who no longer
+possessed the creativity and intellectual prowess of his younger days.
+Fh<> difficulty of applying the mass concept in the atomic domain can be seen by considering a number of elementary
+partic e equations. We begin by comparing Bohr's equation for hydrogen electron angular momentum and the Deßrodie
+particle wave equation. From Bohr we have:
+p• r = nh/2ir where p = electron momentum —mv
+(electron mass times orbital velocity).
+r = distaince separating proton and electron in a hydrongen atom.
+h = Planck's constant
+n = principal quantum number
+Rearranging the Bohr Equation, we obtain:
+p/n * h/2irr
+For Bohr 2m (electron orbit) could be equated to electron wavelength (X), so we have:
+p/n = h/\
+Thus in classical Bohr theory electron momentum divided by the principal quantum number equals Planck's constant divided
+by wavelength.
+The Deßroglie matter wave equation for this same electron is:
+X =» h/p or p = h/A
+In that the Deßroglie equation is void of the principal quantum number, n, there appears to be conflict between Bohr and
+Deßroglie. This can be resolved by recognizing p/n and p are both equal to the actual electron momentum. In Bohr's case,
+the actual electron momentum is given by the ground state momentum divided by the principle quantum number n. In
+Deßroglie's case, p, by itself, is the electron's actual momentum, or:
+p = p g /n = h/A
+Remembering \ equaled 2irr, we can write:
+p g /n = h/2irr or p g r/n = h/2ir
+By reflecting on the above relationships we encounter an enigma. According to Newtonian dynamics, electron momentum
+will be equal to electron mass times electron velocity. As the hydrogen electron jumps from its ground state (n= 1) to a
+higher energy level p K /n or p, the actual electron momentum, is reduced. If electron mass is a constant, then a reduction
+in momentum must result in a corresponding reduction in electron velocity. By introducing two further elementary equa
+tions, we will demonstrate that this does not appear to be a possibility.
+When the hydrogen atom is treated in the classical manner, as a particle moving in an orbit around the proton the force
+on this electron is given by either of two equations.
+F = and F = q^/r 2 = q'/r 2 when q, ■q 2
+I have elected to use cgs units where q is in electrostatic units to avoid the use of the constant kin the charge equation.
+The equality of these equations can be shown by substituting in the contemporary values.
+F » mvVr = (9.1 x 10 jll g) (2.2 x 10 <> cm/sec) i
+5.3 x 10~ 9 cm
+= 8.3 x 10" 1 dynes
+F ■ qVr 2 = (4.8 x 1Q~ 10 esu)*
+(5.3 x 10"cm) 2
+= 8.2 x 10 1 dynes
+The slight difference in forces is attributed to the rounding of units. The ability to express the force on an electron from
+either of these two equations allows us to equate the equations and solve for q
+q 2 /H ■ mv^/r
+q = (mv'<r)''' or q = (mvr»v) ,/7
+Since q is a constant, the term mvr.v must be constant for any r. From review of the Bohr and Deßroglie equations, we have:
+P *r « p„»r/n ■ h/2ir
+That is to say, p»r equals a constant and, since p » mv, the term mvr in the charge equation will equal the constant h/2iT
+But can both mvr and mvr*v remain constant as r changes?
+At first glance, we do not appear to have a problem For instance, if r doubles, mv simply goes to 1/2 mv and the constant
+rules are obeyed. If, however, m is to stay constant, the reduction in mv must be totally accounted for by a reduction in
+electron velocity to 1/2 v. As there are two v terms in the equation, q « (mvr.v)" 2 , if vis reduc ed to 1/2 v when r goes to
+2 f , q| cannot remain constant There is no escape from this predicament We must choose between a variable mass i
+variable charge, or variations in both charge and mass as electron energy levels are c hanged
+Physicists appear to be correct in concluding elementary particles cannot be causally accounted for within the current
+conceptions that frame our laws of physics. However, it seems premature to conclude particles do not follow causal laws
+based upon other conceptions It is just as likely it is our concepts that are at fault, not the particles The mass and charge
+concepts, created before particle data was available, have painted physics into a corner generating the need for multi field
+theories in order to extricate itself.
+It is not possible in the limited space herein to propose a solutk>n to this dilemma, although in the writer's opinion Einstein
+was correcl in suggesting the answer lies within general relativity theory and a greater understanding of light Any riders
+«™h,no "eneral relativity might be a ( »plied to the problem, or in an empirical test validating electron
+HJO ck\l lU / w • - _I_J _• II
+nng i
+s dec
+pendency on energy level, should contact the writer at the address given bekwv
+Joel Sheinmel
+1501 Hillsdale Blvd., Suite 310 • San Mateo, CA 94402

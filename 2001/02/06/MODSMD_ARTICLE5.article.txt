@@ -1,0 +1,675 @@
+# Leland network apps upgrade
+## 
+### NICHOLAS CHAN CONTRIBUTING WRITER 
+In an effort to increase system security, Stan
+ford will bo upgrading several network applica
+tions over tlio no\t two months. (changes inc hide
+.1 now vorsion of Mac-l.eland within 1110 noxt fow
+weeks, and a change in o-inail sot in it \ b\ I ho bo
+ginning of April.
+Mac-Loland 1.4, which is in tho final stages of
+beta testing, will bo ablo to sot in ol\ support anv e
+mail client, such as Microsoft ()utlook or Netsc ape
+Messenger. Existing versions of Mac-l.eland onl\
+protect Kudora, Stanford's default e-mail client.
+PC-Leland 2.0 was completolv redone before
+its release this fall and is secure for e-mail clients
+and network applications, according to the office
+of Information Technologv Sy stems and Services.
+
+According to loni Cramer, manager of prod
+ui t design and delivery .it Information I echnolo
+g\ Sv stems and Services, Stanford's campus mail
+system accepts clear-text passwords. I bis means
+th.it 11soi I l)s and passwords be easily intercepted
+b\ hackers.
+"Suddenly. (he- indi\idu.il user's private data is
+exposed," (aamor said. "All your intellectual
+property is at risk.'
+B\ April, I .eland Systems hopes to change their
+nctwoi k so that the- system no longer accepts unen
+crypted passwords from Lcland e-mail accounts.
+Hackers have access to e-mail and official
+records when thev obtain a user's password. This
+breach of security allows hackers to send e-mail
+from other people's accounts and access these
+people's official records online.
+Also, oik e .1 hat ker at < esses .1 per
+son. il account, he 01 she also has
+an ess to the entire network.
+"Once someone lias penetrat
+ed Mini system, the\ (.111 spread
+to other parts of your network,"
+(aamer said.
+
+Most othei 1 .eland S\ stems use
+Kerheros .is .111 authentication
+mechanism. Instead ot sending
+passwords over the Internet. Ker
+heros creates an encrypted ticket
+that it sends to .1 < entral location.
+The ticket is then returned with
+permission to an ess applit ations,
+like e-mail programs or Axess,
+without the password ever leav
+ing the computer.
+"It's much I*l ter than what the al
+tcrnatives were in IWH). We've Urn
+
+tiring to £11 jxt >ple to use it for years.''
+snd Stephen I l.iiiscn, securitN officer
+.it Inf<>tm.itioii (ethnology Systems
+.Hid Vnut's.
+(>iit of the 22.000 users who log
+on to the network, about h.ilt ot
+them log on using unsecured con
+nections. Although PC.- and Mac-
+I .eland easih prevent most securi
+t\ prohlcms, many users are reluc
+tant totakethe extra casv step of in
+sulting and setting up the software
+on their computet s.
+
+Other users are connecting to
+the netwot k from off campus and
+are unable to install or use Viat
+or l'( M.eland.
+After securing Leland e-mail
+accounts, Leland Systems hopes
+to disallow all types of clear-text
+authenticating, and particularly
+Telnet, which allows users to
+check their e-mail through pro
+grams like I'ine. Hansen hopes
+to complete this process by the
+beginning of the 2002 winter
+
+quarter.
+After that change, 1 .eland Sys
+tems will set ure the I I I' servers,
+whit h allow usei s to store tiles on
+the Web.
+"All the features have already
+been there. We're just dosing a
+serurin hole. Hansen said.
+Cramer s.ml that users con
+necting from off-campus are en
+couraged to use Webmail, the
+new pilot program that runs like
+I lotmail.
+In an effort to increase system security, Stan
+ford will bo upgrading several network applica
+tions over tlio no\t two months. (changes inc hide
+.1 now vorsion of Mac-l.eland within 1110 noxt fow
+weeks, and a change in o-inail sot in it \ b\ I ho bo
+ginning of April.
+Mac-Loland 1.4, which is in tho final stages of
+beta testing, will bo ablo to sot in ol\ support anv e
+mail client, such as Microsoft ()utlook or Netsc ape
+Messenger. Existing versions of Mac-l.eland onl\
+protect Kudora, Stanford's default e-mail client.
+PC-Leland 2.0 was completolv redone before
+its release this fall and is secure for e-mail clients
+and network applications, according to the office
+of Information Technologv Sy stems and Services.
+
+According to loni Cramer, manager of prod
+ui t design and delivery .it Information I echnolo
+g\ Sv stems and Services, Stanford's campus mail
+system accepts clear-text passwords. I bis means
+th.it 11soi I l)s and passwords be easily intercepted
+b\ hackers.
+"Suddenly. (he- indi\idu.il user's private data is
+exposed," (aamor said. "All your intellectual
+property is at risk.'
+B\ April, I .eland Systems hopes to change their
+nctwoi k so that the- system no longer accepts unen
+crypted passwords from Lcland e-mail accounts.
+Hackers have access to e-mail and official
+records when thev obtain a user's password. This
+breach of security allows hackers to send e-mail
+from other people's accounts and access these
+people's official records online.
+Also, oik e .1 hat ker at < esses .1 per
+son. il account, he 01 she also has
+an ess to the entire network.
+"Once someone lias penetrat
+ed Mini system, the\ (.111 spread
+to other parts of your network,"
+(aamer said.
+
+Most othei 1 .eland S\ stems use
+Kerheros .is .111 authentication
+mechanism. Instead ot sending
+passwords over the Internet. Ker
+heros creates an encrypted ticket
+that it sends to .1 < entral location.
+The ticket is then returned with
+permission to an ess applit ations,
+like e-mail programs or Axess,
+without the password ever leav
+ing the computer.
+"It's much I*l ter than what the al
+tcrnatives were in IWH). We've Urn
+
+tiring to £11 jxt >ple to use it for years.''
+snd Stephen I l.iiiscn, securitN officer
+.it Inf<>tm.itioii (ethnology Systems
+.Hid Vnut's.
+(>iit of the 22.000 users who log
+on to the network, about h.ilt ot
+them log on using unsecured con
+nections. Although PC.- and Mac-
+I .eland easih prevent most securi
+t\ prohlcms, many users are reluc
+tant totakethe extra casv step of in
+sulting and setting up the software
+on their computet s.
+
+Other users are connecting to
+the netwot k from off campus and
+are unable to install or use Viat
+or l'( M.eland.
+After securing Leland e-mail
+accounts, Leland Systems hopes
+to disallow all types of clear-text
+authenticating, and particularly
+Telnet, which allows users to
+check their e-mail through pro
+grams like I'ine. Hansen hopes
+to complete this process by the
+beginning of the 2002 winter
+
+quarter.
+After that change, 1 .eland Sys
+tems will set ure the I I I' servers,
+whit h allow usei s to store tiles on
+the Web.
+"All the features have already
+been there. We're just dosing a
+serurin hole. Hansen said.
+Cramer s.ml that users con
+necting from off-campus are en
+couraged to use Webmail, the
+new pilot program that runs like
+I lotmail.
+In an effort to increase system security, Stan
+ford will bo upgrading several network applica
+tions over tlio no\t two months. (changes inc hide
+.1 now vorsion of Mac-l.eland within 1110 noxt fow
+weeks, and a change in o-inail sot in it \ b\ I ho bo
+ginning of April.
+Mac-Loland 1.4, which is in tho final stages of
+beta testing, will bo ablo to sot in ol\ support anv e
+mail client, such as Microsoft ()utlook or Netsc ape
+Messenger. Existing versions of Mac-l.eland onl\
+protect Kudora, Stanford's default e-mail client.
+PC-Leland 2.0 was completolv redone before
+its release this fall and is secure for e-mail clients
+and network applications, according to the office
+of Information Technologv Sy stems and Services.
+
+According to loni Cramer, manager of prod
+ui t design and delivery .it Information I echnolo
+g\ Sv stems and Services, Stanford's campus mail
+system accepts clear-text passwords. I bis means
+th.it 11soi I l)s and passwords be easily intercepted
+b\ hackers.
+"Suddenly. (he- indi\idu.il user's private data is
+exposed," (aamor said. "All your intellectual
+property is at risk.'
+B\ April, I .eland Systems hopes to change their
+nctwoi k so that the- system no longer accepts unen
+crypted passwords from Lcland e-mail accounts.
+Hackers have access to e-mail and official
+records when thev obtain a user's password. This
+breach of security allows hackers to send e-mail
+from other people's accounts and access these
+people's official records online.
+Also, oik e .1 hat ker at < esses .1 per
+son. il account, he 01 she also has
+an ess to the entire network.
+"Once someone lias penetrat
+ed Mini system, the\ (.111 spread
+to other parts of your network,"
+(aamer said.
+
+Most othei 1 .eland S\ stems use
+Kerheros .is .111 authentication
+mechanism. Instead ot sending
+passwords over the Internet. Ker
+heros creates an encrypted ticket
+that it sends to .1 < entral location.
+The ticket is then returned with
+permission to an ess applit ations,
+like e-mail programs or Axess,
+without the password ever leav
+ing the computer.
+"It's much I*l ter than what the al
+tcrnatives were in IWH). We've Urn
+
+tiring to £11 jxt >ple to use it for years.''
+snd Stephen I l.iiiscn, securitN officer
+.it Inf<>tm.itioii (ethnology Systems
+.Hid Vnut's.
+(>iit of the 22.000 users who log
+on to the network, about h.ilt ot
+them log on using unsecured con
+nections. Although PC.- and Mac-
+I .eland easih prevent most securi
+t\ prohlcms, many users are reluc
+tant totakethe extra casv step of in
+sulting and setting up the software
+on their computet s.
+
+Other users are connecting to
+the netwot k from off campus and
+are unable to install or use Viat
+or l'( M.eland.
+After securing Leland e-mail
+accounts, Leland Systems hopes
+to disallow all types of clear-text
+authenticating, and particularly
+Telnet, which allows users to
+check their e-mail through pro
+grams like I'ine. Hansen hopes
+to complete this process by the
+beginning of the 2002 winter
+
+quarter.
+After that change, 1 .eland Sys
+tems will set ure the I I I' servers,
+whit h allow usei s to store tiles on
+the Web.
+"All the features have already
+been there. We're just dosing a
+serurin hole. Hansen said.
+Cramer s.ml that users con
+necting from off-campus are en
+couraged to use Webmail, the
+new pilot program that runs like
+I lotmail.
+In an effort to increase system security, Stan
+ford will bo upgrading several network applica
+tions over tlio no\t two months. (changes inc hide
+.1 now vorsion of Mac-l.eland within 1110 noxt fow
+weeks, and a change in o-inail sot in it \ b\ I ho bo
+ginning of April.
+Mac-Loland 1.4, which is in tho final stages of
+beta testing, will bo ablo to sot in ol\ support anv e
+mail client, such as Microsoft ()utlook or Netsc ape
+Messenger. Existing versions of Mac-l.eland onl\
+protect Kudora, Stanford's default e-mail client.
+PC-Leland 2.0 was completolv redone before
+its release this fall and is secure for e-mail clients
+and network applications, according to the office
+of Information Technologv Sy stems and Services.
+
+According to loni Cramer, manager of prod
+ui t design and delivery .it Information I echnolo
+g\ Sv stems and Services, Stanford's campus mail
+system accepts clear-text passwords. I bis means
+th.it 11soi I l)s and passwords be easily intercepted
+b\ hackers.
+"Suddenly. (he- indi\idu.il user's private data is
+exposed," (aamor said. "All your intellectual
+property is at risk.'
+B\ April, I .eland Systems hopes to change their
+nctwoi k so that the- system no longer accepts unen
+crypted passwords from Lcland e-mail accounts.
+Hackers have access to e-mail and official
+records when thev obtain a user's password. This
+breach of security allows hackers to send e-mail
+from other people's accounts and access these
+people's official records online.
+Also, oik e .1 hat ker at < esses .1 per
+son. il account, he 01 she also has
+an ess to the entire network.
+"Once someone lias penetrat
+ed Mini system, the\ (.111 spread
+to other parts of your network,"
+(aamer said.
+
+Most othei 1 .eland S\ stems use
+Kerheros .is .111 authentication
+mechanism. Instead ot sending
+passwords over the Internet. Ker
+heros creates an encrypted ticket
+that it sends to .1 < entral location.
+The ticket is then returned with
+permission to an ess applit ations,
+like e-mail programs or Axess,
+without the password ever leav
+ing the computer.
+"It's much I*l ter than what the al
+tcrnatives were in IWH). We've Urn
+
+tiring to £11 jxt >ple to use it for years.''
+snd Stephen I l.iiiscn, securitN officer
+.it Inf<>tm.itioii (ethnology Systems
+.Hid Vnut's.
+(>iit of the 22.000 users who log
+on to the network, about h.ilt ot
+them log on using unsecured con
+nections. Although PC.- and Mac-
+I .eland easih prevent most securi
+t\ prohlcms, many users are reluc
+tant totakethe extra casv step of in
+sulting and setting up the software
+on their computet s.
+
+Other users are connecting to
+the netwot k from off campus and
+are unable to install or use Viat
+or l'( M.eland.
+After securing Leland e-mail
+accounts, Leland Systems hopes
+to disallow all types of clear-text
+authenticating, and particularly
+Telnet, which allows users to
+check their e-mail through pro
+grams like I'ine. Hansen hopes
+to complete this process by the
+beginning of the 2002 winter
+
+quarter.
+After that change, 1 .eland Sys
+tems will set ure the I I I' servers,
+whit h allow usei s to store tiles on
+the Web.
+"All the features have already
+been there. We're just dosing a
+serurin hole. Hansen said.
+Cramer s.ml that users con
+necting from off-campus are en
+couraged to use Webmail, the
+new pilot program that runs like
+I lotmail.
+In an effort to increase system security, Stan
+ford will bo upgrading several network applica
+tions over tlio no\t two months. (changes inc hide
+.1 now vorsion of Mac-l.eland within 1110 noxt fow
+weeks, and a change in o-inail sot in it \ b\ I ho bo
+ginning of April.
+Mac-Loland 1.4, which is in tho final stages of
+beta testing, will bo ablo to sot in ol\ support anv e
+mail client, such as Microsoft ()utlook or Netsc ape
+Messenger. Existing versions of Mac-l.eland onl\
+protect Kudora, Stanford's default e-mail client.
+PC-Leland 2.0 was completolv redone before
+its release this fall and is secure for e-mail clients
+and network applications, according to the office
+of Information Technologv Sy stems and Services.
+
+According to loni Cramer, manager of prod
+ui t design and delivery .it Information I echnolo
+g\ Sv stems and Services, Stanford's campus mail
+system accepts clear-text passwords. I bis means
+th.it 11soi I l)s and passwords be easily intercepted
+b\ hackers.
+"Suddenly. (he- indi\idu.il user's private data is
+exposed," (aamor said. "All your intellectual
+property is at risk.'
+B\ April, I .eland Systems hopes to change their
+nctwoi k so that the- system no longer accepts unen
+crypted passwords from Lcland e-mail accounts.
+Hackers have access to e-mail and official
+records when thev obtain a user's password. This
+breach of security allows hackers to send e-mail
+from other people's accounts and access these
+people's official records online.
+Also, oik e .1 hat ker at < esses .1 per
+son. il account, he 01 she also has
+an ess to the entire network.
+"Once someone lias penetrat
+ed Mini system, the\ (.111 spread
+to other parts of your network,"
+(aamer said.
+
+Most othei 1 .eland S\ stems use
+Kerheros .is .111 authentication
+mechanism. Instead ot sending
+passwords over the Internet. Ker
+heros creates an encrypted ticket
+that it sends to .1 < entral location.
+The ticket is then returned with
+permission to an ess applit ations,
+like e-mail programs or Axess,
+without the password ever leav
+ing the computer.
+"It's much I*l ter than what the al
+tcrnatives were in IWH). We've Urn
+
+tiring to £11 jxt >ple to use it for years.''
+snd Stephen I l.iiiscn, securitN officer
+.it Inf<>tm.itioii (ethnology Systems
+.Hid Vnut's.
+(>iit of the 22.000 users who log
+on to the network, about h.ilt ot
+them log on using unsecured con
+nections. Although PC.- and Mac-
+I .eland easih prevent most securi
+t\ prohlcms, many users are reluc
+tant totakethe extra casv step of in
+sulting and setting up the software
+on their computet s.
+
+Other users are connecting to
+the netwot k from off campus and
+are unable to install or use Viat
+or l'( M.eland.
+After securing Leland e-mail
+accounts, Leland Systems hopes
+to disallow all types of clear-text
+authenticating, and particularly
+Telnet, which allows users to
+check their e-mail through pro
+grams like I'ine. Hansen hopes
+to complete this process by the
+beginning of the 2002 winter
+
+quarter.
+After that change, 1 .eland Sys
+tems will set ure the I I I' servers,
+whit h allow usei s to store tiles on
+the Web.
+"All the features have already
+been there. We're just dosing a
+serurin hole. Hansen said.
+Cramer s.ml that users con
+necting from off-campus are en
+couraged to use Webmail, the
+new pilot program that runs like
+I lotmail.
+In an effort to increase system security, Stan
+ford will bo upgrading several network applica
+tions over tlio no\t two months. (changes inc hide
+.1 now vorsion of Mac-l.eland within 1110 noxt fow
+weeks, and a change in o-inail sot in it \ b\ I ho bo
+ginning of April.
+Mac-Loland 1.4, which is in tho final stages of
+beta testing, will bo ablo to sot in ol\ support anv e
+mail client, such as Microsoft ()utlook or Netsc ape
+Messenger. Existing versions of Mac-l.eland onl\
+protect Kudora, Stanford's default e-mail client.
+PC-Leland 2.0 was completolv redone before
+its release this fall and is secure for e-mail clients
+and network applications, according to the office
+of Information Technologv Sy stems and Services.
+
+According to loni Cramer, manager of prod
+ui t design and delivery .it Information I echnolo
+g\ Sv stems and Services, Stanford's campus mail
+system accepts clear-text passwords. I bis means
+th.it 11soi I l)s and passwords be easily intercepted
+b\ hackers.
+"Suddenly. (he- indi\idu.il user's private data is
+exposed," (aamor said. "All your intellectual
+property is at risk.'
+B\ April, I .eland Systems hopes to change their
+nctwoi k so that the- system no longer accepts unen
+crypted passwords from Lcland e-mail accounts.
+Hackers have access to e-mail and official
+records when thev obtain a user's password. This
+breach of security allows hackers to send e-mail
+from other people's accounts and access these
+people's official records online.
+Also, oik e .1 hat ker at < esses .1 per
+son. il account, he 01 she also has
+an ess to the entire network.
+"Once someone lias penetrat
+ed Mini system, the\ (.111 spread
+to other parts of your network,"
+(aamer said.
+
+Most othei 1 .eland S\ stems use
+Kerheros .is .111 authentication
+mechanism. Instead ot sending
+passwords over the Internet. Ker
+heros creates an encrypted ticket
+that it sends to .1 < entral location.
+The ticket is then returned with
+permission to an ess applit ations,
+like e-mail programs or Axess,
+without the password ever leav
+ing the computer.
+"It's much I*l ter than what the al
+tcrnatives were in IWH). We've Urn
+
+tiring to £11 jxt >ple to use it for years.''
+snd Stephen I l.iiiscn, securitN officer
+.it Inf<>tm.itioii (ethnology Systems
+.Hid Vnut's.
+(>iit of the 22.000 users who log
+on to the network, about h.ilt ot
+them log on using unsecured con
+nections. Although PC.- and Mac-
+I .eland easih prevent most securi
+t\ prohlcms, many users are reluc
+tant totakethe extra casv step of in
+sulting and setting up the software
+on their computet s.
+
+Other users are connecting to
+the netwot k from off campus and
+are unable to install or use Viat
+or l'( M.eland.
+After securing Leland e-mail
+accounts, Leland Systems hopes
+to disallow all types of clear-text
+authenticating, and particularly
+Telnet, which allows users to
+check their e-mail through pro
+grams like I'ine. Hansen hopes
+to complete this process by the
+beginning of the 2002 winter
+
+quarter.
+After that change, 1 .eland Sys
+tems will set ure the I I I' servers,
+whit h allow usei s to store tiles on
+the Web.
+"All the features have already
+been there. We're just dosing a
+serurin hole. Hansen said.
+Cramer s.ml that users con
+necting from off-campus are en
+couraged to use Webmail, the
+new pilot program that runs like
+I lotmail.
+In an effort to increase system security, Stan
+ford will bo upgrading several network applica
+tions over tlio no\t two months. (changes inc hide
+.1 now vorsion of Mac-l.eland within 1110 noxt fow
+weeks, and a change in o-inail sot in it \ b\ I ho bo
+ginning of April.
+Mac-Loland 1.4, which is in tho final stages of
+beta testing, will bo ablo to sot in ol\ support anv e
+mail client, such as Microsoft ()utlook or Netsc ape
+Messenger. Existing versions of Mac-l.eland onl\
+protect Kudora, Stanford's default e-mail client.
+PC-Leland 2.0 was completolv redone before
+its release this fall and is secure for e-mail clients
+and network applications, according to the office
+of Information Technologv Sy stems and Services.
+
+According to loni Cramer, manager of prod
+ui t design and delivery .it Information I echnolo
+g\ Sv stems and Services, Stanford's campus mail
+system accepts clear-text passwords. I bis means
+th.it 11soi I l)s and passwords be easily intercepted
+b\ hackers.
+"Suddenly. (he- indi\idu.il user's private data is
+exposed," (aamor said. "All your intellectual
+property is at risk.'
+B\ April, I .eland Systems hopes to change their
+nctwoi k so that the- system no longer accepts unen
+crypted passwords from Lcland e-mail accounts.
+Hackers have access to e-mail and official
+records when thev obtain a user's password. This
+breach of security allows hackers to send e-mail
+from other people's accounts and access these
+people's official records online.
+Also, oik e .1 hat ker at < esses .1 per
+son. il account, he 01 she also has
+an ess to the entire network.
+"Once someone lias penetrat
+ed Mini system, the\ (.111 spread
+to other parts of your network,"
+(aamer said.
+
+Most othei 1 .eland S\ stems use
+Kerheros .is .111 authentication
+mechanism. Instead ot sending
+passwords over the Internet. Ker
+heros creates an encrypted ticket
+that it sends to .1 < entral location.
+The ticket is then returned with
+permission to an ess applit ations,
+like e-mail programs or Axess,
+without the password ever leav
+ing the computer.
+"It's much I*l ter than what the al
+tcrnatives were in IWH). We've Urn
+
+tiring to £11 jxt >ple to use it for years.''
+snd Stephen I l.iiiscn, securitN officer
+.it Inf<>tm.itioii (ethnology Systems
+.Hid Vnut's.
+(>iit of the 22.000 users who log
+on to the network, about h.ilt ot
+them log on using unsecured con
+nections. Although PC.- and Mac-
+I .eland easih prevent most securi
+t\ prohlcms, many users are reluc
+tant totakethe extra casv step of in
+sulting and setting up the software
+on their computet s.
+
+Other users are connecting to
+the netwot k from off campus and
+are unable to install or use Viat
+or l'( M.eland.
+After securing Leland e-mail
+accounts, Leland Systems hopes
+to disallow all types of clear-text
+authenticating, and particularly
+Telnet, which allows users to
+check their e-mail through pro
+grams like I'ine. Hansen hopes
+to complete this process by the
+beginning of the 2002 winter
+
+quarter.
+After that change, 1 .eland Sys
+tems will set ure the I I I' servers,
+whit h allow usei s to store tiles on
+the Web.
+"All the features have already
+been there. We're just dosing a
+serurin hole. Hansen said.
+Cramer s.ml that users con
+necting from off-campus are en
+couraged to use Webmail, the
+new pilot program that runs like
+I lotmail.

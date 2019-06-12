@@ -1,0 +1,1459 @@
+# Science
+## Cryptography: improved way to hide information New techniques allow greater security for bank accounts and transmission of confidential material 
+### Peter Stevens Staff writer 
+With the increasing use of computer
+networks to send everything from bank
+ing information to criminal records, peo
+ple are encountering problems of how to
+keep sensitive information private. But
+special coding processes called "cryp
+
+tosystems" may prove to be the future of
+data security.
+Cryptosystems can protect valuable
+pieces of information from thieves and
+eavesdroppers by encrypting information
+before transmission and decoding it with
+a special "key" after it has been sent.
+Individual users will have different keys,
+just as no two front door keys are alike.
+These systems are becoming more
+common, and even those who are not
+computer users often encounter cryptog
+raphy on a daily basis.
+Virtually all bank transactions are
+secured by encrypting the data represent
+ing funds transfers and can only be
+accessed using a key.
+Encryption is a change of original data
+into "cipher-text." Once changed, the
+data can be sent over normal communi
+cations channels, such as phone lines or
+computer networks. The information is
+safe from prying eyes because only some
+one with the correct decrypting key can
+read the message.
+Once an obscure and relatively rare
+technology, recent advances have given
+cryptography greater eminence. In the
+future, researchers say, encryption will
+enable many more everyday transactions
+to be entirely electronic.
+The are two types of cryptography:
+"secret-key" systems and "public-key"
+
+ones.
+Currently, only a secret-key cryptosys-
+
+tem called Data Encryption
+Standard (DES) is widely
+
+used.
+
+Another system called RSA — named
+after its MIT creators: Ron Rivest, Adi
+Shamir and Len Adleman — is a com
+mercial implementation of the public-key
+cryptosystem.
+Public-key cryptography, which is
+rapidly gaining support, is a new way of
+thinking about encoding, decoding and
+authenticating data that laid the founda
+tions for the development of modern com
+bined secret-key and public-key cryptosys
+tems.
+Electrical Engineering Prof. Martin
+Hellman, who invented the idea of public
+key cryptography in the 19705, says the
+combination of the DES secret-key cryp
+tosystem with a public-key system, such
+as RSA, is widely seen as the direction of
+future cryptography.
+"Each of these systems have strengths
+and weaknesses. The combination of the
+two systems is much more useful than
+either alone," he said.
+The DES system does well with the
+encryption and decryption of data, such
+as bank information. The system is very
+fast, between 100 and 10,000 times faster
+than RSA, and still secure after 15 years
+of attempts to break its code.
+However, security is still a problem
+with the system. It cannot be used for
+authentication; that is, signing a message
+in such a way that the signature cannot
+be forged.
+In order for the DES system to work,
+both the sender and receiver must know
+a secret key. The sender has to give the
+receiver the secret key to decode the mes
+sage.
+The exposure of the secret key leaves it
+susceptible for an eavesdropper to steal
+the code and read private messages or get
+into a bank account. This is a fundamen
+tal difficulty with secret-key cryptogra
+phy systems.
+Fusing DES with public-key ciyptog
+raphy answers some of these problems.
+Public-key systems work on the principle
+of a key for encoding that is different
+from the key used for decoding.
+The key is in two parts. The public
+part is distributed widely — it is pub
+lished so that someone wishing to send a
+message can look up the encoding key for
+
+the intended recipient.
+For example, say Laurel wants to send
+a message to Hardy. Laurel looks up
+Hardy's public key in a directory, as you
+would get a phone number from a phone
+book. He uses Hardy's public key to
+encode the message.
+
+'Each of these systems
+have strengths and
+weaknesses. The
+combination of the two
+systems is much more
+useful than either alone.'
+— Prof. Martin Hellman
+
+Everyone has access to the key used to
+encode messages for Hardy. However,
+only Hardy is able to decode the message
+with the other portion of the key that he
+has kept private.
+Authentication, or the signing of mes
+sages, is the other major problem solved
+by public-key cryptosystems. Laurel uses
+his private key to encode his signature.
+Any recipient can use Laurel's public key
+to verify that only Laurel could have been
+the sender and no one "forged" his signa
+ture.
+The concept may seem simple, but
+researchers say that a great deal of tech
+nology is needed to fully develop such sys
+tems.
+Private key cryptosystem encoding is
+performed using a series of "black box"
+transpositions and substitutions
+designed to make the resulting cipher
+text reveal as little as possible about the
+original, uncoded text.
+Based on work at IBM and the Nation
+al Security Agency in the 19705, DES
+uses a 56-bit key to scramble plain text
+into cipher-text. The same 56-bit key is
+used to decode the message.
+The public-key cryptosystem, on the
+other hand, is based on a set of mathe
+
+matical operations. Using RSA as an
+example — a key generation function is
+used to create a two part key, one public
+part and one private part.
+The person would publish the public
+key and keep the private key secret. To
+decode a message, the person would use
+their private key. No one else can decode
+the message except for the person with
+the secret private key.
+Cryptosystems are defined as secure if
+breaking the code will either cost more
+than the secret information is worth, or if
+breaking it will take longer than the
+information is valuable.
+Fifteen years ago, a 56-bit DES key
+was reasonably secure against hackers
+simply trying all possible key combina
+tions. The problem is that computers
+available to code breakers increase in
+power by about 40 percent each year.
+In the future, a hacker will be able to
+assemble enough power to mount a seri
+ous attack on a DES encrypted message
+at a reasonable cost. Hellman and other
+cryptographers are currently working on
+ways to extend the life of DES in the face
+of this rapid technical change.
+Hellman said the policy issues raised
+by the diffusion of cryptography technol
+ogy is a concern. A wide array of law
+enforcement officials, business interests,
+academics and cryptography experts are
+all debating the merits of expanded cryp
+tographic systems.
+For example, law enforcement agen
+cies are arguing that all generally used
+cryptographic systems should be break
+able. Police are concerned about their
+eroding ability to understand informa
+tion they acquire through searches and
+wiretaps, said Hellman.
+Law enforcement officials claim their
+interests outweigh individual privacy
+issues for cases, especially when encryp
+tion is used to hide evidence of criminal
+activity.
+Though sympathetic to these con
+cerns, Hellman feels that privacy is
+important as well. "I think that, ulti
+mately, the decision will be made in favor
+of effective privacy, which means people
+will have general access to secure cryp
+tosystems."
+
+
+Jeff Sorrentno — Daily
+With the increasing use of computer
+networks to send everything from bank
+ing information to criminal records, peo
+ple are encountering problems of how to
+keep sensitive information private. But
+special coding processes called "cryp
+
+tosystems" may prove to be the future of
+data security.
+Cryptosystems can protect valuable
+pieces of information from thieves and
+eavesdroppers by encrypting information
+before transmission and decoding it with
+a special "key" after it has been sent.
+Individual users will have different keys,
+just as no two front door keys are alike.
+These systems are becoming more
+common, and even those who are not
+computer users often encounter cryptog
+raphy on a daily basis.
+Virtually all bank transactions are
+secured by encrypting the data represent
+ing funds transfers and can only be
+accessed using a key.
+Encryption is a change of original data
+into "cipher-text." Once changed, the
+data can be sent over normal communi
+cations channels, such as phone lines or
+computer networks. The information is
+safe from prying eyes because only some
+one with the correct decrypting key can
+read the message.
+Once an obscure and relatively rare
+technology, recent advances have given
+cryptography greater eminence. In the
+future, researchers say, encryption will
+enable many more everyday transactions
+to be entirely electronic.
+The are two types of cryptography:
+"secret-key" systems and "public-key"
+
+ones.
+Currently, only a secret-key cryptosys-
+
+tem called Data Encryption
+Standard (DES) is widely
+
+used.
+
+Another system called RSA — named
+after its MIT creators: Ron Rivest, Adi
+Shamir and Len Adleman — is a com
+mercial implementation of the public-key
+cryptosystem.
+Public-key cryptography, which is
+rapidly gaining support, is a new way of
+thinking about encoding, decoding and
+authenticating data that laid the founda
+tions for the development of modern com
+bined secret-key and public-key cryptosys
+tems.
+Electrical Engineering Prof. Martin
+Hellman, who invented the idea of public
+key cryptography in the 19705, says the
+combination of the DES secret-key cryp
+tosystem with a public-key system, such
+as RSA, is widely seen as the direction of
+future cryptography.
+"Each of these systems have strengths
+and weaknesses. The combination of the
+two systems is much more useful than
+either alone," he said.
+The DES system does well with the
+encryption and decryption of data, such
+as bank information. The system is very
+fast, between 100 and 10,000 times faster
+than RSA, and still secure after 15 years
+of attempts to break its code.
+However, security is still a problem
+with the system. It cannot be used for
+authentication; that is, signing a message
+in such a way that the signature cannot
+be forged.
+In order for the DES system to work,
+both the sender and receiver must know
+a secret key. The sender has to give the
+receiver the secret key to decode the mes
+sage.
+The exposure of the secret key leaves it
+susceptible for an eavesdropper to steal
+the code and read private messages or get
+into a bank account. This is a fundamen
+tal difficulty with secret-key cryptogra
+phy systems.
+Fusing DES with public-key ciyptog
+raphy answers some of these problems.
+Public-key systems work on the principle
+of a key for encoding that is different
+from the key used for decoding.
+The key is in two parts. The public
+part is distributed widely — it is pub
+lished so that someone wishing to send a
+message can look up the encoding key for
+
+the intended recipient.
+For example, say Laurel wants to send
+a message to Hardy. Laurel looks up
+Hardy's public key in a directory, as you
+would get a phone number from a phone
+book. He uses Hardy's public key to
+encode the message.
+
+'Each of these systems
+have strengths and
+weaknesses. The
+combination of the two
+systems is much more
+useful than either alone.'
+— Prof. Martin Hellman
+
+Everyone has access to the key used to
+encode messages for Hardy. However,
+only Hardy is able to decode the message
+with the other portion of the key that he
+has kept private.
+Authentication, or the signing of mes
+sages, is the other major problem solved
+by public-key cryptosystems. Laurel uses
+his private key to encode his signature.
+Any recipient can use Laurel's public key
+to verify that only Laurel could have been
+the sender and no one "forged" his signa
+ture.
+The concept may seem simple, but
+researchers say that a great deal of tech
+nology is needed to fully develop such sys
+tems.
+Private key cryptosystem encoding is
+performed using a series of "black box"
+transpositions and substitutions
+designed to make the resulting cipher
+text reveal as little as possible about the
+original, uncoded text.
+Based on work at IBM and the Nation
+al Security Agency in the 19705, DES
+uses a 56-bit key to scramble plain text
+into cipher-text. The same 56-bit key is
+used to decode the message.
+The public-key cryptosystem, on the
+other hand, is based on a set of mathe
+
+matical operations. Using RSA as an
+example — a key generation function is
+used to create a two part key, one public
+part and one private part.
+The person would publish the public
+key and keep the private key secret. To
+decode a message, the person would use
+their private key. No one else can decode
+the message except for the person with
+the secret private key.
+Cryptosystems are defined as secure if
+breaking the code will either cost more
+than the secret information is worth, or if
+breaking it will take longer than the
+information is valuable.
+Fifteen years ago, a 56-bit DES key
+was reasonably secure against hackers
+simply trying all possible key combina
+tions. The problem is that computers
+available to code breakers increase in
+power by about 40 percent each year.
+In the future, a hacker will be able to
+assemble enough power to mount a seri
+ous attack on a DES encrypted message
+at a reasonable cost. Hellman and other
+cryptographers are currently working on
+ways to extend the life of DES in the face
+of this rapid technical change.
+Hellman said the policy issues raised
+by the diffusion of cryptography technol
+ogy is a concern. A wide array of law
+enforcement officials, business interests,
+academics and cryptography experts are
+all debating the merits of expanded cryp
+tographic systems.
+For example, law enforcement agen
+cies are arguing that all generally used
+cryptographic systems should be break
+able. Police are concerned about their
+eroding ability to understand informa
+tion they acquire through searches and
+wiretaps, said Hellman.
+Law enforcement officials claim their
+interests outweigh individual privacy
+issues for cases, especially when encryp
+tion is used to hide evidence of criminal
+activity.
+Though sympathetic to these con
+cerns, Hellman feels that privacy is
+important as well. "I think that, ulti
+mately, the decision will be made in favor
+of effective privacy, which means people
+will have general access to secure cryp
+tosystems."
+
+
+Jeff Sorrentno — Daily
+With the increasing use of computer
+networks to send everything from bank
+ing information to criminal records, peo
+ple are encountering problems of how to
+keep sensitive information private. But
+special coding processes called "cryp
+
+tosystems" may prove to be the future of
+data security.
+Cryptosystems can protect valuable
+pieces of information from thieves and
+eavesdroppers by encrypting information
+before transmission and decoding it with
+a special "key" after it has been sent.
+Individual users will have different keys,
+just as no two front door keys are alike.
+These systems are becoming more
+common, and even those who are not
+computer users often encounter cryptog
+raphy on a daily basis.
+Virtually all bank transactions are
+secured by encrypting the data represent
+ing funds transfers and can only be
+accessed using a key.
+Encryption is a change of original data
+into "cipher-text." Once changed, the
+data can be sent over normal communi
+cations channels, such as phone lines or
+computer networks. The information is
+safe from prying eyes because only some
+one with the correct decrypting key can
+read the message.
+Once an obscure and relatively rare
+technology, recent advances have given
+cryptography greater eminence. In the
+future, researchers say, encryption will
+enable many more everyday transactions
+to be entirely electronic.
+The are two types of cryptography:
+"secret-key" systems and "public-key"
+
+ones.
+Currently, only a secret-key cryptosys-
+
+tem called Data Encryption
+Standard (DES) is widely
+
+used.
+
+Another system called RSA — named
+after its MIT creators: Ron Rivest, Adi
+Shamir and Len Adleman — is a com
+mercial implementation of the public-key
+cryptosystem.
+Public-key cryptography, which is
+rapidly gaining support, is a new way of
+thinking about encoding, decoding and
+authenticating data that laid the founda
+tions for the development of modern com
+bined secret-key and public-key cryptosys
+tems.
+Electrical Engineering Prof. Martin
+Hellman, who invented the idea of public
+key cryptography in the 19705, says the
+combination of the DES secret-key cryp
+tosystem with a public-key system, such
+as RSA, is widely seen as the direction of
+future cryptography.
+"Each of these systems have strengths
+and weaknesses. The combination of the
+two systems is much more useful than
+either alone," he said.
+The DES system does well with the
+encryption and decryption of data, such
+as bank information. The system is very
+fast, between 100 and 10,000 times faster
+than RSA, and still secure after 15 years
+of attempts to break its code.
+However, security is still a problem
+with the system. It cannot be used for
+authentication; that is, signing a message
+in such a way that the signature cannot
+be forged.
+In order for the DES system to work,
+both the sender and receiver must know
+a secret key. The sender has to give the
+receiver the secret key to decode the mes
+sage.
+The exposure of the secret key leaves it
+susceptible for an eavesdropper to steal
+the code and read private messages or get
+into a bank account. This is a fundamen
+tal difficulty with secret-key cryptogra
+phy systems.
+Fusing DES with public-key ciyptog
+raphy answers some of these problems.
+Public-key systems work on the principle
+of a key for encoding that is different
+from the key used for decoding.
+The key is in two parts. The public
+part is distributed widely — it is pub
+lished so that someone wishing to send a
+message can look up the encoding key for
+
+the intended recipient.
+For example, say Laurel wants to send
+a message to Hardy. Laurel looks up
+Hardy's public key in a directory, as you
+would get a phone number from a phone
+book. He uses Hardy's public key to
+encode the message.
+
+'Each of these systems
+have strengths and
+weaknesses. The
+combination of the two
+systems is much more
+useful than either alone.'
+— Prof. Martin Hellman
+
+Everyone has access to the key used to
+encode messages for Hardy. However,
+only Hardy is able to decode the message
+with the other portion of the key that he
+has kept private.
+Authentication, or the signing of mes
+sages, is the other major problem solved
+by public-key cryptosystems. Laurel uses
+his private key to encode his signature.
+Any recipient can use Laurel's public key
+to verify that only Laurel could have been
+the sender and no one "forged" his signa
+ture.
+The concept may seem simple, but
+researchers say that a great deal of tech
+nology is needed to fully develop such sys
+tems.
+Private key cryptosystem encoding is
+performed using a series of "black box"
+transpositions and substitutions
+designed to make the resulting cipher
+text reveal as little as possible about the
+original, uncoded text.
+Based on work at IBM and the Nation
+al Security Agency in the 19705, DES
+uses a 56-bit key to scramble plain text
+into cipher-text. The same 56-bit key is
+used to decode the message.
+The public-key cryptosystem, on the
+other hand, is based on a set of mathe
+
+matical operations. Using RSA as an
+example — a key generation function is
+used to create a two part key, one public
+part and one private part.
+The person would publish the public
+key and keep the private key secret. To
+decode a message, the person would use
+their private key. No one else can decode
+the message except for the person with
+the secret private key.
+Cryptosystems are defined as secure if
+breaking the code will either cost more
+than the secret information is worth, or if
+breaking it will take longer than the
+information is valuable.
+Fifteen years ago, a 56-bit DES key
+was reasonably secure against hackers
+simply trying all possible key combina
+tions. The problem is that computers
+available to code breakers increase in
+power by about 40 percent each year.
+In the future, a hacker will be able to
+assemble enough power to mount a seri
+ous attack on a DES encrypted message
+at a reasonable cost. Hellman and other
+cryptographers are currently working on
+ways to extend the life of DES in the face
+of this rapid technical change.
+Hellman said the policy issues raised
+by the diffusion of cryptography technol
+ogy is a concern. A wide array of law
+enforcement officials, business interests,
+academics and cryptography experts are
+all debating the merits of expanded cryp
+tographic systems.
+For example, law enforcement agen
+cies are arguing that all generally used
+cryptographic systems should be break
+able. Police are concerned about their
+eroding ability to understand informa
+tion they acquire through searches and
+wiretaps, said Hellman.
+Law enforcement officials claim their
+interests outweigh individual privacy
+issues for cases, especially when encryp
+tion is used to hide evidence of criminal
+activity.
+Though sympathetic to these con
+cerns, Hellman feels that privacy is
+important as well. "I think that, ulti
+mately, the decision will be made in favor
+of effective privacy, which means people
+will have general access to secure cryp
+tosystems."
+
+
+Jeff Sorrentno — Daily
+With the increasing use of computer
+networks to send everything from bank
+ing information to criminal records, peo
+ple are encountering problems of how to
+keep sensitive information private. But
+special coding processes called "cryp
+
+tosystems" may prove to be the future of
+data security.
+Cryptosystems can protect valuable
+pieces of information from thieves and
+eavesdroppers by encrypting information
+before transmission and decoding it with
+a special "key" after it has been sent.
+Individual users will have different keys,
+just as no two front door keys are alike.
+These systems are becoming more
+common, and even those who are not
+computer users often encounter cryptog
+raphy on a daily basis.
+Virtually all bank transactions are
+secured by encrypting the data represent
+ing funds transfers and can only be
+accessed using a key.
+Encryption is a change of original data
+into "cipher-text." Once changed, the
+data can be sent over normal communi
+cations channels, such as phone lines or
+computer networks. The information is
+safe from prying eyes because only some
+one with the correct decrypting key can
+read the message.
+Once an obscure and relatively rare
+technology, recent advances have given
+cryptography greater eminence. In the
+future, researchers say, encryption will
+enable many more everyday transactions
+to be entirely electronic.
+The are two types of cryptography:
+"secret-key" systems and "public-key"
+
+ones.
+Currently, only a secret-key cryptosys-
+
+tem called Data Encryption
+Standard (DES) is widely
+
+used.
+
+Another system called RSA — named
+after its MIT creators: Ron Rivest, Adi
+Shamir and Len Adleman — is a com
+mercial implementation of the public-key
+cryptosystem.
+Public-key cryptography, which is
+rapidly gaining support, is a new way of
+thinking about encoding, decoding and
+authenticating data that laid the founda
+tions for the development of modern com
+bined secret-key and public-key cryptosys
+tems.
+Electrical Engineering Prof. Martin
+Hellman, who invented the idea of public
+key cryptography in the 19705, says the
+combination of the DES secret-key cryp
+tosystem with a public-key system, such
+as RSA, is widely seen as the direction of
+future cryptography.
+"Each of these systems have strengths
+and weaknesses. The combination of the
+two systems is much more useful than
+either alone," he said.
+The DES system does well with the
+encryption and decryption of data, such
+as bank information. The system is very
+fast, between 100 and 10,000 times faster
+than RSA, and still secure after 15 years
+of attempts to break its code.
+However, security is still a problem
+with the system. It cannot be used for
+authentication; that is, signing a message
+in such a way that the signature cannot
+be forged.
+In order for the DES system to work,
+both the sender and receiver must know
+a secret key. The sender has to give the
+receiver the secret key to decode the mes
+sage.
+The exposure of the secret key leaves it
+susceptible for an eavesdropper to steal
+the code and read private messages or get
+into a bank account. This is a fundamen
+tal difficulty with secret-key cryptogra
+phy systems.
+Fusing DES with public-key ciyptog
+raphy answers some of these problems.
+Public-key systems work on the principle
+of a key for encoding that is different
+from the key used for decoding.
+The key is in two parts. The public
+part is distributed widely — it is pub
+lished so that someone wishing to send a
+message can look up the encoding key for
+
+the intended recipient.
+For example, say Laurel wants to send
+a message to Hardy. Laurel looks up
+Hardy's public key in a directory, as you
+would get a phone number from a phone
+book. He uses Hardy's public key to
+encode the message.
+
+'Each of these systems
+have strengths and
+weaknesses. The
+combination of the two
+systems is much more
+useful than either alone.'
+— Prof. Martin Hellman
+
+Everyone has access to the key used to
+encode messages for Hardy. However,
+only Hardy is able to decode the message
+with the other portion of the key that he
+has kept private.
+Authentication, or the signing of mes
+sages, is the other major problem solved
+by public-key cryptosystems. Laurel uses
+his private key to encode his signature.
+Any recipient can use Laurel's public key
+to verify that only Laurel could have been
+the sender and no one "forged" his signa
+ture.
+The concept may seem simple, but
+researchers say that a great deal of tech
+nology is needed to fully develop such sys
+tems.
+Private key cryptosystem encoding is
+performed using a series of "black box"
+transpositions and substitutions
+designed to make the resulting cipher
+text reveal as little as possible about the
+original, uncoded text.
+Based on work at IBM and the Nation
+al Security Agency in the 19705, DES
+uses a 56-bit key to scramble plain text
+into cipher-text. The same 56-bit key is
+used to decode the message.
+The public-key cryptosystem, on the
+other hand, is based on a set of mathe
+
+matical operations. Using RSA as an
+example — a key generation function is
+used to create a two part key, one public
+part and one private part.
+The person would publish the public
+key and keep the private key secret. To
+decode a message, the person would use
+their private key. No one else can decode
+the message except for the person with
+the secret private key.
+Cryptosystems are defined as secure if
+breaking the code will either cost more
+than the secret information is worth, or if
+breaking it will take longer than the
+information is valuable.
+Fifteen years ago, a 56-bit DES key
+was reasonably secure against hackers
+simply trying all possible key combina
+tions. The problem is that computers
+available to code breakers increase in
+power by about 40 percent each year.
+In the future, a hacker will be able to
+assemble enough power to mount a seri
+ous attack on a DES encrypted message
+at a reasonable cost. Hellman and other
+cryptographers are currently working on
+ways to extend the life of DES in the face
+of this rapid technical change.
+Hellman said the policy issues raised
+by the diffusion of cryptography technol
+ogy is a concern. A wide array of law
+enforcement officials, business interests,
+academics and cryptography experts are
+all debating the merits of expanded cryp
+tographic systems.
+For example, law enforcement agen
+cies are arguing that all generally used
+cryptographic systems should be break
+able. Police are concerned about their
+eroding ability to understand informa
+tion they acquire through searches and
+wiretaps, said Hellman.
+Law enforcement officials claim their
+interests outweigh individual privacy
+issues for cases, especially when encryp
+tion is used to hide evidence of criminal
+activity.
+Though sympathetic to these con
+cerns, Hellman feels that privacy is
+important as well. "I think that, ulti
+mately, the decision will be made in favor
+of effective privacy, which means people
+will have general access to secure cryp
+tosystems."
+
+
+Jeff Sorrentno — Daily
+With the increasing use of computer
+networks to send everything from bank
+ing information to criminal records, peo
+ple are encountering problems of how to
+keep sensitive information private. But
+special coding processes called "cryp
+
+tosystems" may prove to be the future of
+data security.
+Cryptosystems can protect valuable
+pieces of information from thieves and
+eavesdroppers by encrypting information
+before transmission and decoding it with
+a special "key" after it has been sent.
+Individual users will have different keys,
+just as no two front door keys are alike.
+These systems are becoming more
+common, and even those who are not
+computer users often encounter cryptog
+raphy on a daily basis.
+Virtually all bank transactions are
+secured by encrypting the data represent
+ing funds transfers and can only be
+accessed using a key.
+Encryption is a change of original data
+into "cipher-text." Once changed, the
+data can be sent over normal communi
+cations channels, such as phone lines or
+computer networks. The information is
+safe from prying eyes because only some
+one with the correct decrypting key can
+read the message.
+Once an obscure and relatively rare
+technology, recent advances have given
+cryptography greater eminence. In the
+future, researchers say, encryption will
+enable many more everyday transactions
+to be entirely electronic.
+The are two types of cryptography:
+"secret-key" systems and "public-key"
+
+ones.
+Currently, only a secret-key cryptosys-
+
+tem called Data Encryption
+Standard (DES) is widely
+
+used.
+
+Another system called RSA — named
+after its MIT creators: Ron Rivest, Adi
+Shamir and Len Adleman — is a com
+mercial implementation of the public-key
+cryptosystem.
+Public-key cryptography, which is
+rapidly gaining support, is a new way of
+thinking about encoding, decoding and
+authenticating data that laid the founda
+tions for the development of modern com
+bined secret-key and public-key cryptosys
+tems.
+Electrical Engineering Prof. Martin
+Hellman, who invented the idea of public
+key cryptography in the 19705, says the
+combination of the DES secret-key cryp
+tosystem with a public-key system, such
+as RSA, is widely seen as the direction of
+future cryptography.
+"Each of these systems have strengths
+and weaknesses. The combination of the
+two systems is much more useful than
+either alone," he said.
+The DES system does well with the
+encryption and decryption of data, such
+as bank information. The system is very
+fast, between 100 and 10,000 times faster
+than RSA, and still secure after 15 years
+of attempts to break its code.
+However, security is still a problem
+with the system. It cannot be used for
+authentication; that is, signing a message
+in such a way that the signature cannot
+be forged.
+In order for the DES system to work,
+both the sender and receiver must know
+a secret key. The sender has to give the
+receiver the secret key to decode the mes
+sage.
+The exposure of the secret key leaves it
+susceptible for an eavesdropper to steal
+the code and read private messages or get
+into a bank account. This is a fundamen
+tal difficulty with secret-key cryptogra
+phy systems.
+Fusing DES with public-key ciyptog
+raphy answers some of these problems.
+Public-key systems work on the principle
+of a key for encoding that is different
+from the key used for decoding.
+The key is in two parts. The public
+part is distributed widely — it is pub
+lished so that someone wishing to send a
+message can look up the encoding key for
+
+the intended recipient.
+For example, say Laurel wants to send
+a message to Hardy. Laurel looks up
+Hardy's public key in a directory, as you
+would get a phone number from a phone
+book. He uses Hardy's public key to
+encode the message.
+
+'Each of these systems
+have strengths and
+weaknesses. The
+combination of the two
+systems is much more
+useful than either alone.'
+— Prof. Martin Hellman
+
+Everyone has access to the key used to
+encode messages for Hardy. However,
+only Hardy is able to decode the message
+with the other portion of the key that he
+has kept private.
+Authentication, or the signing of mes
+sages, is the other major problem solved
+by public-key cryptosystems. Laurel uses
+his private key to encode his signature.
+Any recipient can use Laurel's public key
+to verify that only Laurel could have been
+the sender and no one "forged" his signa
+ture.
+The concept may seem simple, but
+researchers say that a great deal of tech
+nology is needed to fully develop such sys
+tems.
+Private key cryptosystem encoding is
+performed using a series of "black box"
+transpositions and substitutions
+designed to make the resulting cipher
+text reveal as little as possible about the
+original, uncoded text.
+Based on work at IBM and the Nation
+al Security Agency in the 19705, DES
+uses a 56-bit key to scramble plain text
+into cipher-text. The same 56-bit key is
+used to decode the message.
+The public-key cryptosystem, on the
+other hand, is based on a set of mathe
+
+matical operations. Using RSA as an
+example — a key generation function is
+used to create a two part key, one public
+part and one private part.
+The person would publish the public
+key and keep the private key secret. To
+decode a message, the person would use
+their private key. No one else can decode
+the message except for the person with
+the secret private key.
+Cryptosystems are defined as secure if
+breaking the code will either cost more
+than the secret information is worth, or if
+breaking it will take longer than the
+information is valuable.
+Fifteen years ago, a 56-bit DES key
+was reasonably secure against hackers
+simply trying all possible key combina
+tions. The problem is that computers
+available to code breakers increase in
+power by about 40 percent each year.
+In the future, a hacker will be able to
+assemble enough power to mount a seri
+ous attack on a DES encrypted message
+at a reasonable cost. Hellman and other
+cryptographers are currently working on
+ways to extend the life of DES in the face
+of this rapid technical change.
+Hellman said the policy issues raised
+by the diffusion of cryptography technol
+ogy is a concern. A wide array of law
+enforcement officials, business interests,
+academics and cryptography experts are
+all debating the merits of expanded cryp
+tographic systems.
+For example, law enforcement agen
+cies are arguing that all generally used
+cryptographic systems should be break
+able. Police are concerned about their
+eroding ability to understand informa
+tion they acquire through searches and
+wiretaps, said Hellman.
+Law enforcement officials claim their
+interests outweigh individual privacy
+issues for cases, especially when encryp
+tion is used to hide evidence of criminal
+activity.
+Though sympathetic to these con
+cerns, Hellman feels that privacy is
+important as well. "I think that, ulti
+mately, the decision will be made in favor
+of effective privacy, which means people
+will have general access to secure cryp
+tosystems."
+
+
+Jeff Sorrentno — Daily
+With the increasing use of computer
+networks to send everything from bank
+ing information to criminal records, peo
+ple are encountering problems of how to
+keep sensitive information private. But
+special coding processes called "cryp
+
+tosystems" may prove to be the future of
+data security.
+Cryptosystems can protect valuable
+pieces of information from thieves and
+eavesdroppers by encrypting information
+before transmission and decoding it with
+a special "key" after it has been sent.
+Individual users will have different keys,
+just as no two front door keys are alike.
+These systems are becoming more
+common, and even those who are not
+computer users often encounter cryptog
+raphy on a daily basis.
+Virtually all bank transactions are
+secured by encrypting the data represent
+ing funds transfers and can only be
+accessed using a key.
+Encryption is a change of original data
+into "cipher-text." Once changed, the
+data can be sent over normal communi
+cations channels, such as phone lines or
+computer networks. The information is
+safe from prying eyes because only some
+one with the correct decrypting key can
+read the message.
+Once an obscure and relatively rare
+technology, recent advances have given
+cryptography greater eminence. In the
+future, researchers say, encryption will
+enable many more everyday transactions
+to be entirely electronic.
+The are two types of cryptography:
+"secret-key" systems and "public-key"
+
+ones.
+Currently, only a secret-key cryptosys-
+
+tem called Data Encryption
+Standard (DES) is widely
+
+used.
+
+Another system called RSA — named
+after its MIT creators: Ron Rivest, Adi
+Shamir and Len Adleman — is a com
+mercial implementation of the public-key
+cryptosystem.
+Public-key cryptography, which is
+rapidly gaining support, is a new way of
+thinking about encoding, decoding and
+authenticating data that laid the founda
+tions for the development of modern com
+bined secret-key and public-key cryptosys
+tems.
+Electrical Engineering Prof. Martin
+Hellman, who invented the idea of public
+key cryptography in the 19705, says the
+combination of the DES secret-key cryp
+tosystem with a public-key system, such
+as RSA, is widely seen as the direction of
+future cryptography.
+"Each of these systems have strengths
+and weaknesses. The combination of the
+two systems is much more useful than
+either alone," he said.
+The DES system does well with the
+encryption and decryption of data, such
+as bank information. The system is very
+fast, between 100 and 10,000 times faster
+than RSA, and still secure after 15 years
+of attempts to break its code.
+However, security is still a problem
+with the system. It cannot be used for
+authentication; that is, signing a message
+in such a way that the signature cannot
+be forged.
+In order for the DES system to work,
+both the sender and receiver must know
+a secret key. The sender has to give the
+receiver the secret key to decode the mes
+sage.
+The exposure of the secret key leaves it
+susceptible for an eavesdropper to steal
+the code and read private messages or get
+into a bank account. This is a fundamen
+tal difficulty with secret-key cryptogra
+phy systems.
+Fusing DES with public-key ciyptog
+raphy answers some of these problems.
+Public-key systems work on the principle
+of a key for encoding that is different
+from the key used for decoding.
+The key is in two parts. The public
+part is distributed widely — it is pub
+lished so that someone wishing to send a
+message can look up the encoding key for
+
+the intended recipient.
+For example, say Laurel wants to send
+a message to Hardy. Laurel looks up
+Hardy's public key in a directory, as you
+would get a phone number from a phone
+book. He uses Hardy's public key to
+encode the message.
+
+'Each of these systems
+have strengths and
+weaknesses. The
+combination of the two
+systems is much more
+useful than either alone.'
+— Prof. Martin Hellman
+
+Everyone has access to the key used to
+encode messages for Hardy. However,
+only Hardy is able to decode the message
+with the other portion of the key that he
+has kept private.
+Authentication, or the signing of mes
+sages, is the other major problem solved
+by public-key cryptosystems. Laurel uses
+his private key to encode his signature.
+Any recipient can use Laurel's public key
+to verify that only Laurel could have been
+the sender and no one "forged" his signa
+ture.
+The concept may seem simple, but
+researchers say that a great deal of tech
+nology is needed to fully develop such sys
+tems.
+Private key cryptosystem encoding is
+performed using a series of "black box"
+transpositions and substitutions
+designed to make the resulting cipher
+text reveal as little as possible about the
+original, uncoded text.
+Based on work at IBM and the Nation
+al Security Agency in the 19705, DES
+uses a 56-bit key to scramble plain text
+into cipher-text. The same 56-bit key is
+used to decode the message.
+The public-key cryptosystem, on the
+other hand, is based on a set of mathe
+
+matical operations. Using RSA as an
+example — a key generation function is
+used to create a two part key, one public
+part and one private part.
+The person would publish the public
+key and keep the private key secret. To
+decode a message, the person would use
+their private key. No one else can decode
+the message except for the person with
+the secret private key.
+Cryptosystems are defined as secure if
+breaking the code will either cost more
+than the secret information is worth, or if
+breaking it will take longer than the
+information is valuable.
+Fifteen years ago, a 56-bit DES key
+was reasonably secure against hackers
+simply trying all possible key combina
+tions. The problem is that computers
+available to code breakers increase in
+power by about 40 percent each year.
+In the future, a hacker will be able to
+assemble enough power to mount a seri
+ous attack on a DES encrypted message
+at a reasonable cost. Hellman and other
+cryptographers are currently working on
+ways to extend the life of DES in the face
+of this rapid technical change.
+Hellman said the policy issues raised
+by the diffusion of cryptography technol
+ogy is a concern. A wide array of law
+enforcement officials, business interests,
+academics and cryptography experts are
+all debating the merits of expanded cryp
+tographic systems.
+For example, law enforcement agen
+cies are arguing that all generally used
+cryptographic systems should be break
+able. Police are concerned about their
+eroding ability to understand informa
+tion they acquire through searches and
+wiretaps, said Hellman.
+Law enforcement officials claim their
+interests outweigh individual privacy
+issues for cases, especially when encryp
+tion is used to hide evidence of criminal
+activity.
+Though sympathetic to these con
+cerns, Hellman feels that privacy is
+important as well. "I think that, ulti
+mately, the decision will be made in favor
+of effective privacy, which means people
+will have general access to secure cryp
+tosystems."
+
+
+Jeff Sorrentno — Daily
+With the increasing use of computer
+networks to send everything from bank
+ing information to criminal records, peo
+ple are encountering problems of how to
+keep sensitive information private. But
+special coding processes called "cryp
+
+tosystems" may prove to be the future of
+data security.
+Cryptosystems can protect valuable
+pieces of information from thieves and
+eavesdroppers by encrypting information
+before transmission and decoding it with
+a special "key" after it has been sent.
+Individual users will have different keys,
+just as no two front door keys are alike.
+These systems are becoming more
+common, and even those who are not
+computer users often encounter cryptog
+raphy on a daily basis.
+Virtually all bank transactions are
+secured by encrypting the data represent
+ing funds transfers and can only be
+accessed using a key.
+Encryption is a change of original data
+into "cipher-text." Once changed, the
+data can be sent over normal communi
+cations channels, such as phone lines or
+computer networks. The information is
+safe from prying eyes because only some
+one with the correct decrypting key can
+read the message.
+Once an obscure and relatively rare
+technology, recent advances have given
+cryptography greater eminence. In the
+future, researchers say, encryption will
+enable many more everyday transactions
+to be entirely electronic.
+The are two types of cryptography:
+"secret-key" systems and "public-key"
+
+ones.
+Currently, only a secret-key cryptosys-
+
+tem called Data Encryption
+Standard (DES) is widely
+
+used.
+
+Another system called RSA — named
+after its MIT creators: Ron Rivest, Adi
+Shamir and Len Adleman — is a com
+mercial implementation of the public-key
+cryptosystem.
+Public-key cryptography, which is
+rapidly gaining support, is a new way of
+thinking about encoding, decoding and
+authenticating data that laid the founda
+tions for the development of modern com
+bined secret-key and public-key cryptosys
+tems.
+Electrical Engineering Prof. Martin
+Hellman, who invented the idea of public
+key cryptography in the 19705, says the
+combination of the DES secret-key cryp
+tosystem with a public-key system, such
+as RSA, is widely seen as the direction of
+future cryptography.
+"Each of these systems have strengths
+and weaknesses. The combination of the
+two systems is much more useful than
+either alone," he said.
+The DES system does well with the
+encryption and decryption of data, such
+as bank information. The system is very
+fast, between 100 and 10,000 times faster
+than RSA, and still secure after 15 years
+of attempts to break its code.
+However, security is still a problem
+with the system. It cannot be used for
+authentication; that is, signing a message
+in such a way that the signature cannot
+be forged.
+In order for the DES system to work,
+both the sender and receiver must know
+a secret key. The sender has to give the
+receiver the secret key to decode the mes
+sage.
+The exposure of the secret key leaves it
+susceptible for an eavesdropper to steal
+the code and read private messages or get
+into a bank account. This is a fundamen
+tal difficulty with secret-key cryptogra
+phy systems.
+Fusing DES with public-key ciyptog
+raphy answers some of these problems.
+Public-key systems work on the principle
+of a key for encoding that is different
+from the key used for decoding.
+The key is in two parts. The public
+part is distributed widely — it is pub
+lished so that someone wishing to send a
+message can look up the encoding key for
+
+the intended recipient.
+For example, say Laurel wants to send
+a message to Hardy. Laurel looks up
+Hardy's public key in a directory, as you
+would get a phone number from a phone
+book. He uses Hardy's public key to
+encode the message.
+
+'Each of these systems
+have strengths and
+weaknesses. The
+combination of the two
+systems is much more
+useful than either alone.'
+— Prof. Martin Hellman
+
+Everyone has access to the key used to
+encode messages for Hardy. However,
+only Hardy is able to decode the message
+with the other portion of the key that he
+has kept private.
+Authentication, or the signing of mes
+sages, is the other major problem solved
+by public-key cryptosystems. Laurel uses
+his private key to encode his signature.
+Any recipient can use Laurel's public key
+to verify that only Laurel could have been
+the sender and no one "forged" his signa
+ture.
+The concept may seem simple, but
+researchers say that a great deal of tech
+nology is needed to fully develop such sys
+tems.
+Private key cryptosystem encoding is
+performed using a series of "black box"
+transpositions and substitutions
+designed to make the resulting cipher
+text reveal as little as possible about the
+original, uncoded text.
+Based on work at IBM and the Nation
+al Security Agency in the 19705, DES
+uses a 56-bit key to scramble plain text
+into cipher-text. The same 56-bit key is
+used to decode the message.
+The public-key cryptosystem, on the
+other hand, is based on a set of mathe
+
+matical operations. Using RSA as an
+example — a key generation function is
+used to create a two part key, one public
+part and one private part.
+The person would publish the public
+key and keep the private key secret. To
+decode a message, the person would use
+their private key. No one else can decode
+the message except for the person with
+the secret private key.
+Cryptosystems are defined as secure if
+breaking the code will either cost more
+than the secret information is worth, or if
+breaking it will take longer than the
+information is valuable.
+Fifteen years ago, a 56-bit DES key
+was reasonably secure against hackers
+simply trying all possible key combina
+tions. The problem is that computers
+available to code breakers increase in
+power by about 40 percent each year.
+In the future, a hacker will be able to
+assemble enough power to mount a seri
+ous attack on a DES encrypted message
+at a reasonable cost. Hellman and other
+cryptographers are currently working on
+ways to extend the life of DES in the face
+of this rapid technical change.
+Hellman said the policy issues raised
+by the diffusion of cryptography technol
+ogy is a concern. A wide array of law
+enforcement officials, business interests,
+academics and cryptography experts are
+all debating the merits of expanded cryp
+tographic systems.
+For example, law enforcement agen
+cies are arguing that all generally used
+cryptographic systems should be break
+able. Police are concerned about their
+eroding ability to understand informa
+tion they acquire through searches and
+wiretaps, said Hellman.
+Law enforcement officials claim their
+interests outweigh individual privacy
+issues for cases, especially when encryp
+tion is used to hide evidence of criminal
+activity.
+Though sympathetic to these con
+cerns, Hellman feels that privacy is
+important as well. "I think that, ulti
+mately, the decision will be made in favor
+of effective privacy, which means people
+will have general access to secure cryp
+tosystems."
+
+
+Jeff Sorrentno — Daily

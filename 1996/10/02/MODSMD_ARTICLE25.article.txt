@@ -1,0 +1,1263 @@
+# Program can link various databases
+## New kind of network may be created 
+### Joe Westersund Contributing writer 
+A revolutionary new network
+ing program designed by a Stan
+ford professor will allow informa
+tion from various databases to be
+combined automatically to answer
+questions from the user.
+The program, called Infomas
+ter, makes possible a linked system
+of databases instead of individual
+pages such as those currently
+found on the World Wide Web.
+While Infomaster can be accessed
+through the Web, the program
+may turn out to be the basis for a
+new kind of network called the
+World Information Network.
+While the Web "is a document
+managment system, Infomaster is
+an information management sys
+tem," said Michael Genesereth, a
+computer science professor and
+Infomaster creator. The Web only
+allows access to existing pages,
+which contain relatively unstruc
+tured information in the form of
+text, audio and video. Infomaster is
+designed to work on structured
+data sources, which can be
+searched and analyzed in more
+complicated ways.
+For example, a car buyer could
+have the computer assemble a list
+of two-door sedans from different
+makers, or a surgeon could
+retrieve a patient's health records
+from various departments around
+a hospital and even from other
+doctors.
+By bridging the gap between the
+different structures of the databas
+es, Infomaster can put information
+from different sources together to
+create a new page or chart.
+That means an Infomaster-user
+could retrieve data without having
+to know where it's stored, even if
+the data is spread around several
+locations. Until now, there has
+been no way to do that, Genesereth
+said.
+The Infomaster project began in
+1992 when a group called Com
+merce Net gave funding to create
+an online catalog capable of com
+paring products from different
+companies. After three years of
+development, Infomaster's first
+test in September 1995 combined
+the online classified ads of three
+area newspapers to create a com
+puterized housing index that is
+updated each day as the ads
+change, Genesereth said.
+Because Infomaster was devel
+oped at Stanford, many of the early
+applications may benefit students
+and staff here, he said.
+Tests have included an online
+conference room reservation sys
+tem for the Gates Computer Sci
+ence Building, a more sophisticat
+ed version of the WTiois campus
+directory and a few prototypes of
+the online catalog concept. All of
+these except the catalogs are avail
+able in their rough form via the
+Infomaster home page (http: info
+master. stanford.edu).
+The latest test of the Infomaster
+system is designed to give students
+more information for choosing
+classes.
+Students will be able to search
+for classes and professors with var
+ious characteristics, Genesereth
+said. For example, a geological and
+environmental sciences major
+could look for a class taught by a
+professor who is interested in plate
+tectonics and who has also been
+published in Geology Today.
+A prototype should be available
+in three to six months, said project
+manager Dennis Rayer, who works
+in the Office of Information Tech
+nology Systems and Services.
+This class-finding application is
+part of a bigger project started this
+September called the Stanford
+Information Network, a joint
+effort of the Computer Science
+Department and other University
+organizations, including the
+libraries and ITSS.
+The Stanford Information Net
+work would link together adminis
+trative databases on people, cours
+es, grades, events, as well as aca
+demic data from research like the
+Human Genome Project or the lat
+est calculations from the Eco
+nomics Department.
+The Infomaster program itself
+
+is designed to be applicable in a
+wide variety of situations. Gene
+sereth compared the current tests
+of the system to the laundry that
+a washing-machine salesman
+might use to demonstrate the
+machine — whether it's socks,
+jeans or Krusty the Klown boxers
+you're washing, he said, the real
+point is to show what the
+machine can do.
+Although Infomaster initially
+focused on commercial applica
+tions. Genesereth said he sees it as
+a very general tool "to help people
+who need information get the
+information they need."
+Genesereth said Infomaster
+could help make the economy run
+more efficiently because a freer
+flow of information about new and
+innovative products could grease
+the wheels of competition. New
+products would no longer stay
+unknown as comparative informa
+tion on all kinds of goods becomes
+easily available.
+For now, growth of the network
+of information united by Infomas
+ter is relatively slow. This is large
+ly due to the difficulty in making
+data from different sources com
+patible.
+Individual databases may use
+different names for the same infor
+mation, Genesereth said — one
+might list an "office number"
+while another gives the same infor
+mation under "location." And
+there's no standardized format for
+entering information like phone
+numbers — some lists may give the
+usual seven-digit number while
+another might use the five-digit
+abbreviation that is used with on
+campus phones.
+Coding these translations into
+the computer takes time and for
+now is only being done by Infomas
+ter's creators. Raver is the only
+employee currently working on
+this project full time.
+In a few years, database owners
+might be able to fit their own
+databases into the system, accord
+ing to Rayer. This mass input capa
+bility could pave the way for the
+kind of explosive growth that the
+World Wide Web has experienced.
+Data security may also present
+a challenge, according to the Stan
+ford Information Network propos
+al. Deciding who will get access to
+information over the network,
+whether users will have to pay for
+that service and who will be able
+(or required) to add databases to
+the system may present new legal
+questions.
+Because information from dif
+ferent databases is joined without
+the user necessarily knowing the
+source, new databases might need
+to be certified for accuracy to avoid
+polluting the network with inaccu
+rate data, Rayer said.
+Rayer said he hopes to be able to
+present parts of the Stanford net
+work at the International World
+Wide Web Conference that the
+University is hosting this April.
+New on-campus uses of Infomaster
+could be implemented as early as
+next year.
+Infomaster is likely to be mar
+keted to private companies as a
+way to integrate their own
+databases. According to Rayer,
+Internet giant Netscape Commu
+nications Corp. already makes a
+large proportion of its money by
+setting up "intranets" within com
+panies.
+
+
+Michael Genesereth
+A revolutionary new network
+ing program designed by a Stan
+ford professor will allow informa
+tion from various databases to be
+combined automatically to answer
+questions from the user.
+The program, called Infomas
+ter, makes possible a linked system
+of databases instead of individual
+pages such as those currently
+found on the World Wide Web.
+While Infomaster can be accessed
+through the Web, the program
+may turn out to be the basis for a
+new kind of network called the
+World Information Network.
+While the Web "is a document
+managment system, Infomaster is
+an information management sys
+tem," said Michael Genesereth, a
+computer science professor and
+Infomaster creator. The Web only
+allows access to existing pages,
+which contain relatively unstruc
+tured information in the form of
+text, audio and video. Infomaster is
+designed to work on structured
+data sources, which can be
+searched and analyzed in more
+complicated ways.
+For example, a car buyer could
+have the computer assemble a list
+of two-door sedans from different
+makers, or a surgeon could
+retrieve a patient's health records
+from various departments around
+a hospital and even from other
+doctors.
+By bridging the gap between the
+different structures of the databas
+es, Infomaster can put information
+from different sources together to
+create a new page or chart.
+That means an Infomaster-user
+could retrieve data without having
+to know where it's stored, even if
+the data is spread around several
+locations. Until now, there has
+been no way to do that, Genesereth
+said.
+The Infomaster project began in
+1992 when a group called Com
+merce Net gave funding to create
+an online catalog capable of com
+paring products from different
+companies. After three years of
+development, Infomaster's first
+test in September 1995 combined
+the online classified ads of three
+area newspapers to create a com
+puterized housing index that is
+updated each day as the ads
+change, Genesereth said.
+Because Infomaster was devel
+oped at Stanford, many of the early
+applications may benefit students
+and staff here, he said.
+Tests have included an online
+conference room reservation sys
+tem for the Gates Computer Sci
+ence Building, a more sophisticat
+ed version of the WTiois campus
+directory and a few prototypes of
+the online catalog concept. All of
+these except the catalogs are avail
+able in their rough form via the
+Infomaster home page (http: info
+master. stanford.edu).
+The latest test of the Infomaster
+system is designed to give students
+more information for choosing
+classes.
+Students will be able to search
+for classes and professors with var
+ious characteristics, Genesereth
+said. For example, a geological and
+environmental sciences major
+could look for a class taught by a
+professor who is interested in plate
+tectonics and who has also been
+published in Geology Today.
+A prototype should be available
+in three to six months, said project
+manager Dennis Rayer, who works
+in the Office of Information Tech
+nology Systems and Services.
+This class-finding application is
+part of a bigger project started this
+September called the Stanford
+Information Network, a joint
+effort of the Computer Science
+Department and other University
+organizations, including the
+libraries and ITSS.
+The Stanford Information Net
+work would link together adminis
+trative databases on people, cours
+es, grades, events, as well as aca
+demic data from research like the
+Human Genome Project or the lat
+est calculations from the Eco
+nomics Department.
+The Infomaster program itself
+
+is designed to be applicable in a
+wide variety of situations. Gene
+sereth compared the current tests
+of the system to the laundry that
+a washing-machine salesman
+might use to demonstrate the
+machine — whether it's socks,
+jeans or Krusty the Klown boxers
+you're washing, he said, the real
+point is to show what the
+machine can do.
+Although Infomaster initially
+focused on commercial applica
+tions. Genesereth said he sees it as
+a very general tool "to help people
+who need information get the
+information they need."
+Genesereth said Infomaster
+could help make the economy run
+more efficiently because a freer
+flow of information about new and
+innovative products could grease
+the wheels of competition. New
+products would no longer stay
+unknown as comparative informa
+tion on all kinds of goods becomes
+easily available.
+For now, growth of the network
+of information united by Infomas
+ter is relatively slow. This is large
+ly due to the difficulty in making
+data from different sources com
+patible.
+Individual databases may use
+different names for the same infor
+mation, Genesereth said — one
+might list an "office number"
+while another gives the same infor
+mation under "location." And
+there's no standardized format for
+entering information like phone
+numbers — some lists may give the
+usual seven-digit number while
+another might use the five-digit
+abbreviation that is used with on
+campus phones.
+Coding these translations into
+the computer takes time and for
+now is only being done by Infomas
+ter's creators. Raver is the only
+employee currently working on
+this project full time.
+In a few years, database owners
+might be able to fit their own
+databases into the system, accord
+ing to Rayer. This mass input capa
+bility could pave the way for the
+kind of explosive growth that the
+World Wide Web has experienced.
+Data security may also present
+a challenge, according to the Stan
+ford Information Network propos
+al. Deciding who will get access to
+information over the network,
+whether users will have to pay for
+that service and who will be able
+(or required) to add databases to
+the system may present new legal
+questions.
+Because information from dif
+ferent databases is joined without
+the user necessarily knowing the
+source, new databases might need
+to be certified for accuracy to avoid
+polluting the network with inaccu
+rate data, Rayer said.
+Rayer said he hopes to be able to
+present parts of the Stanford net
+work at the International World
+Wide Web Conference that the
+University is hosting this April.
+New on-campus uses of Infomaster
+could be implemented as early as
+next year.
+Infomaster is likely to be mar
+keted to private companies as a
+way to integrate their own
+databases. According to Rayer,
+Internet giant Netscape Commu
+nications Corp. already makes a
+large proportion of its money by
+setting up "intranets" within com
+panies.
+
+
+Michael Genesereth
+A revolutionary new network
+ing program designed by a Stan
+ford professor will allow informa
+tion from various databases to be
+combined automatically to answer
+questions from the user.
+The program, called Infomas
+ter, makes possible a linked system
+of databases instead of individual
+pages such as those currently
+found on the World Wide Web.
+While Infomaster can be accessed
+through the Web, the program
+may turn out to be the basis for a
+new kind of network called the
+World Information Network.
+While the Web "is a document
+managment system, Infomaster is
+an information management sys
+tem," said Michael Genesereth, a
+computer science professor and
+Infomaster creator. The Web only
+allows access to existing pages,
+which contain relatively unstruc
+tured information in the form of
+text, audio and video. Infomaster is
+designed to work on structured
+data sources, which can be
+searched and analyzed in more
+complicated ways.
+For example, a car buyer could
+have the computer assemble a list
+of two-door sedans from different
+makers, or a surgeon could
+retrieve a patient's health records
+from various departments around
+a hospital and even from other
+doctors.
+By bridging the gap between the
+different structures of the databas
+es, Infomaster can put information
+from different sources together to
+create a new page or chart.
+That means an Infomaster-user
+could retrieve data without having
+to know where it's stored, even if
+the data is spread around several
+locations. Until now, there has
+been no way to do that, Genesereth
+said.
+The Infomaster project began in
+1992 when a group called Com
+merce Net gave funding to create
+an online catalog capable of com
+paring products from different
+companies. After three years of
+development, Infomaster's first
+test in September 1995 combined
+the online classified ads of three
+area newspapers to create a com
+puterized housing index that is
+updated each day as the ads
+change, Genesereth said.
+Because Infomaster was devel
+oped at Stanford, many of the early
+applications may benefit students
+and staff here, he said.
+Tests have included an online
+conference room reservation sys
+tem for the Gates Computer Sci
+ence Building, a more sophisticat
+ed version of the WTiois campus
+directory and a few prototypes of
+the online catalog concept. All of
+these except the catalogs are avail
+able in their rough form via the
+Infomaster home page (http: info
+master. stanford.edu).
+The latest test of the Infomaster
+system is designed to give students
+more information for choosing
+classes.
+Students will be able to search
+for classes and professors with var
+ious characteristics, Genesereth
+said. For example, a geological and
+environmental sciences major
+could look for a class taught by a
+professor who is interested in plate
+tectonics and who has also been
+published in Geology Today.
+A prototype should be available
+in three to six months, said project
+manager Dennis Rayer, who works
+in the Office of Information Tech
+nology Systems and Services.
+This class-finding application is
+part of a bigger project started this
+September called the Stanford
+Information Network, a joint
+effort of the Computer Science
+Department and other University
+organizations, including the
+libraries and ITSS.
+The Stanford Information Net
+work would link together adminis
+trative databases on people, cours
+es, grades, events, as well as aca
+demic data from research like the
+Human Genome Project or the lat
+est calculations from the Eco
+nomics Department.
+The Infomaster program itself
+
+is designed to be applicable in a
+wide variety of situations. Gene
+sereth compared the current tests
+of the system to the laundry that
+a washing-machine salesman
+might use to demonstrate the
+machine — whether it's socks,
+jeans or Krusty the Klown boxers
+you're washing, he said, the real
+point is to show what the
+machine can do.
+Although Infomaster initially
+focused on commercial applica
+tions. Genesereth said he sees it as
+a very general tool "to help people
+who need information get the
+information they need."
+Genesereth said Infomaster
+could help make the economy run
+more efficiently because a freer
+flow of information about new and
+innovative products could grease
+the wheels of competition. New
+products would no longer stay
+unknown as comparative informa
+tion on all kinds of goods becomes
+easily available.
+For now, growth of the network
+of information united by Infomas
+ter is relatively slow. This is large
+ly due to the difficulty in making
+data from different sources com
+patible.
+Individual databases may use
+different names for the same infor
+mation, Genesereth said — one
+might list an "office number"
+while another gives the same infor
+mation under "location." And
+there's no standardized format for
+entering information like phone
+numbers — some lists may give the
+usual seven-digit number while
+another might use the five-digit
+abbreviation that is used with on
+campus phones.
+Coding these translations into
+the computer takes time and for
+now is only being done by Infomas
+ter's creators. Raver is the only
+employee currently working on
+this project full time.
+In a few years, database owners
+might be able to fit their own
+databases into the system, accord
+ing to Rayer. This mass input capa
+bility could pave the way for the
+kind of explosive growth that the
+World Wide Web has experienced.
+Data security may also present
+a challenge, according to the Stan
+ford Information Network propos
+al. Deciding who will get access to
+information over the network,
+whether users will have to pay for
+that service and who will be able
+(or required) to add databases to
+the system may present new legal
+questions.
+Because information from dif
+ferent databases is joined without
+the user necessarily knowing the
+source, new databases might need
+to be certified for accuracy to avoid
+polluting the network with inaccu
+rate data, Rayer said.
+Rayer said he hopes to be able to
+present parts of the Stanford net
+work at the International World
+Wide Web Conference that the
+University is hosting this April.
+New on-campus uses of Infomaster
+could be implemented as early as
+next year.
+Infomaster is likely to be mar
+keted to private companies as a
+way to integrate their own
+databases. According to Rayer,
+Internet giant Netscape Commu
+nications Corp. already makes a
+large proportion of its money by
+setting up "intranets" within com
+panies.
+
+
+Michael Genesereth
+A revolutionary new network
+ing program designed by a Stan
+ford professor will allow informa
+tion from various databases to be
+combined automatically to answer
+questions from the user.
+The program, called Infomas
+ter, makes possible a linked system
+of databases instead of individual
+pages such as those currently
+found on the World Wide Web.
+While Infomaster can be accessed
+through the Web, the program
+may turn out to be the basis for a
+new kind of network called the
+World Information Network.
+While the Web "is a document
+managment system, Infomaster is
+an information management sys
+tem," said Michael Genesereth, a
+computer science professor and
+Infomaster creator. The Web only
+allows access to existing pages,
+which contain relatively unstruc
+tured information in the form of
+text, audio and video. Infomaster is
+designed to work on structured
+data sources, which can be
+searched and analyzed in more
+complicated ways.
+For example, a car buyer could
+have the computer assemble a list
+of two-door sedans from different
+makers, or a surgeon could
+retrieve a patient's health records
+from various departments around
+a hospital and even from other
+doctors.
+By bridging the gap between the
+different structures of the databas
+es, Infomaster can put information
+from different sources together to
+create a new page or chart.
+That means an Infomaster-user
+could retrieve data without having
+to know where it's stored, even if
+the data is spread around several
+locations. Until now, there has
+been no way to do that, Genesereth
+said.
+The Infomaster project began in
+1992 when a group called Com
+merce Net gave funding to create
+an online catalog capable of com
+paring products from different
+companies. After three years of
+development, Infomaster's first
+test in September 1995 combined
+the online classified ads of three
+area newspapers to create a com
+puterized housing index that is
+updated each day as the ads
+change, Genesereth said.
+Because Infomaster was devel
+oped at Stanford, many of the early
+applications may benefit students
+and staff here, he said.
+Tests have included an online
+conference room reservation sys
+tem for the Gates Computer Sci
+ence Building, a more sophisticat
+ed version of the WTiois campus
+directory and a few prototypes of
+the online catalog concept. All of
+these except the catalogs are avail
+able in their rough form via the
+Infomaster home page (http: info
+master. stanford.edu).
+The latest test of the Infomaster
+system is designed to give students
+more information for choosing
+classes.
+Students will be able to search
+for classes and professors with var
+ious characteristics, Genesereth
+said. For example, a geological and
+environmental sciences major
+could look for a class taught by a
+professor who is interested in plate
+tectonics and who has also been
+published in Geology Today.
+A prototype should be available
+in three to six months, said project
+manager Dennis Rayer, who works
+in the Office of Information Tech
+nology Systems and Services.
+This class-finding application is
+part of a bigger project started this
+September called the Stanford
+Information Network, a joint
+effort of the Computer Science
+Department and other University
+organizations, including the
+libraries and ITSS.
+The Stanford Information Net
+work would link together adminis
+trative databases on people, cours
+es, grades, events, as well as aca
+demic data from research like the
+Human Genome Project or the lat
+est calculations from the Eco
+nomics Department.
+The Infomaster program itself
+
+is designed to be applicable in a
+wide variety of situations. Gene
+sereth compared the current tests
+of the system to the laundry that
+a washing-machine salesman
+might use to demonstrate the
+machine — whether it's socks,
+jeans or Krusty the Klown boxers
+you're washing, he said, the real
+point is to show what the
+machine can do.
+Although Infomaster initially
+focused on commercial applica
+tions. Genesereth said he sees it as
+a very general tool "to help people
+who need information get the
+information they need."
+Genesereth said Infomaster
+could help make the economy run
+more efficiently because a freer
+flow of information about new and
+innovative products could grease
+the wheels of competition. New
+products would no longer stay
+unknown as comparative informa
+tion on all kinds of goods becomes
+easily available.
+For now, growth of the network
+of information united by Infomas
+ter is relatively slow. This is large
+ly due to the difficulty in making
+data from different sources com
+patible.
+Individual databases may use
+different names for the same infor
+mation, Genesereth said — one
+might list an "office number"
+while another gives the same infor
+mation under "location." And
+there's no standardized format for
+entering information like phone
+numbers — some lists may give the
+usual seven-digit number while
+another might use the five-digit
+abbreviation that is used with on
+campus phones.
+Coding these translations into
+the computer takes time and for
+now is only being done by Infomas
+ter's creators. Raver is the only
+employee currently working on
+this project full time.
+In a few years, database owners
+might be able to fit their own
+databases into the system, accord
+ing to Rayer. This mass input capa
+bility could pave the way for the
+kind of explosive growth that the
+World Wide Web has experienced.
+Data security may also present
+a challenge, according to the Stan
+ford Information Network propos
+al. Deciding who will get access to
+information over the network,
+whether users will have to pay for
+that service and who will be able
+(or required) to add databases to
+the system may present new legal
+questions.
+Because information from dif
+ferent databases is joined without
+the user necessarily knowing the
+source, new databases might need
+to be certified for accuracy to avoid
+polluting the network with inaccu
+rate data, Rayer said.
+Rayer said he hopes to be able to
+present parts of the Stanford net
+work at the International World
+Wide Web Conference that the
+University is hosting this April.
+New on-campus uses of Infomaster
+could be implemented as early as
+next year.
+Infomaster is likely to be mar
+keted to private companies as a
+way to integrate their own
+databases. According to Rayer,
+Internet giant Netscape Commu
+nications Corp. already makes a
+large proportion of its money by
+setting up "intranets" within com
+panies.
+
+
+Michael Genesereth
+A revolutionary new network
+ing program designed by a Stan
+ford professor will allow informa
+tion from various databases to be
+combined automatically to answer
+questions from the user.
+The program, called Infomas
+ter, makes possible a linked system
+of databases instead of individual
+pages such as those currently
+found on the World Wide Web.
+While Infomaster can be accessed
+through the Web, the program
+may turn out to be the basis for a
+new kind of network called the
+World Information Network.
+While the Web "is a document
+managment system, Infomaster is
+an information management sys
+tem," said Michael Genesereth, a
+computer science professor and
+Infomaster creator. The Web only
+allows access to existing pages,
+which contain relatively unstruc
+tured information in the form of
+text, audio and video. Infomaster is
+designed to work on structured
+data sources, which can be
+searched and analyzed in more
+complicated ways.
+For example, a car buyer could
+have the computer assemble a list
+of two-door sedans from different
+makers, or a surgeon could
+retrieve a patient's health records
+from various departments around
+a hospital and even from other
+doctors.
+By bridging the gap between the
+different structures of the databas
+es, Infomaster can put information
+from different sources together to
+create a new page or chart.
+That means an Infomaster-user
+could retrieve data without having
+to know where it's stored, even if
+the data is spread around several
+locations. Until now, there has
+been no way to do that, Genesereth
+said.
+The Infomaster project began in
+1992 when a group called Com
+merce Net gave funding to create
+an online catalog capable of com
+paring products from different
+companies. After three years of
+development, Infomaster's first
+test in September 1995 combined
+the online classified ads of three
+area newspapers to create a com
+puterized housing index that is
+updated each day as the ads
+change, Genesereth said.
+Because Infomaster was devel
+oped at Stanford, many of the early
+applications may benefit students
+and staff here, he said.
+Tests have included an online
+conference room reservation sys
+tem for the Gates Computer Sci
+ence Building, a more sophisticat
+ed version of the WTiois campus
+directory and a few prototypes of
+the online catalog concept. All of
+these except the catalogs are avail
+able in their rough form via the
+Infomaster home page (http: info
+master. stanford.edu).
+The latest test of the Infomaster
+system is designed to give students
+more information for choosing
+classes.
+Students will be able to search
+for classes and professors with var
+ious characteristics, Genesereth
+said. For example, a geological and
+environmental sciences major
+could look for a class taught by a
+professor who is interested in plate
+tectonics and who has also been
+published in Geology Today.
+A prototype should be available
+in three to six months, said project
+manager Dennis Rayer, who works
+in the Office of Information Tech
+nology Systems and Services.
+This class-finding application is
+part of a bigger project started this
+September called the Stanford
+Information Network, a joint
+effort of the Computer Science
+Department and other University
+organizations, including the
+libraries and ITSS.
+The Stanford Information Net
+work would link together adminis
+trative databases on people, cours
+es, grades, events, as well as aca
+demic data from research like the
+Human Genome Project or the lat
+est calculations from the Eco
+nomics Department.
+The Infomaster program itself
+
+is designed to be applicable in a
+wide variety of situations. Gene
+sereth compared the current tests
+of the system to the laundry that
+a washing-machine salesman
+might use to demonstrate the
+machine — whether it's socks,
+jeans or Krusty the Klown boxers
+you're washing, he said, the real
+point is to show what the
+machine can do.
+Although Infomaster initially
+focused on commercial applica
+tions. Genesereth said he sees it as
+a very general tool "to help people
+who need information get the
+information they need."
+Genesereth said Infomaster
+could help make the economy run
+more efficiently because a freer
+flow of information about new and
+innovative products could grease
+the wheels of competition. New
+products would no longer stay
+unknown as comparative informa
+tion on all kinds of goods becomes
+easily available.
+For now, growth of the network
+of information united by Infomas
+ter is relatively slow. This is large
+ly due to the difficulty in making
+data from different sources com
+patible.
+Individual databases may use
+different names for the same infor
+mation, Genesereth said — one
+might list an "office number"
+while another gives the same infor
+mation under "location." And
+there's no standardized format for
+entering information like phone
+numbers — some lists may give the
+usual seven-digit number while
+another might use the five-digit
+abbreviation that is used with on
+campus phones.
+Coding these translations into
+the computer takes time and for
+now is only being done by Infomas
+ter's creators. Raver is the only
+employee currently working on
+this project full time.
+In a few years, database owners
+might be able to fit their own
+databases into the system, accord
+ing to Rayer. This mass input capa
+bility could pave the way for the
+kind of explosive growth that the
+World Wide Web has experienced.
+Data security may also present
+a challenge, according to the Stan
+ford Information Network propos
+al. Deciding who will get access to
+information over the network,
+whether users will have to pay for
+that service and who will be able
+(or required) to add databases to
+the system may present new legal
+questions.
+Because information from dif
+ferent databases is joined without
+the user necessarily knowing the
+source, new databases might need
+to be certified for accuracy to avoid
+polluting the network with inaccu
+rate data, Rayer said.
+Rayer said he hopes to be able to
+present parts of the Stanford net
+work at the International World
+Wide Web Conference that the
+University is hosting this April.
+New on-campus uses of Infomaster
+could be implemented as early as
+next year.
+Infomaster is likely to be mar
+keted to private companies as a
+way to integrate their own
+databases. According to Rayer,
+Internet giant Netscape Commu
+nications Corp. already makes a
+large proportion of its money by
+setting up "intranets" within com
+panies.
+
+
+Michael Genesereth
+A revolutionary new network
+ing program designed by a Stan
+ford professor will allow informa
+tion from various databases to be
+combined automatically to answer
+questions from the user.
+The program, called Infomas
+ter, makes possible a linked system
+of databases instead of individual
+pages such as those currently
+found on the World Wide Web.
+While Infomaster can be accessed
+through the Web, the program
+may turn out to be the basis for a
+new kind of network called the
+World Information Network.
+While the Web "is a document
+managment system, Infomaster is
+an information management sys
+tem," said Michael Genesereth, a
+computer science professor and
+Infomaster creator. The Web only
+allows access to existing pages,
+which contain relatively unstruc
+tured information in the form of
+text, audio and video. Infomaster is
+designed to work on structured
+data sources, which can be
+searched and analyzed in more
+complicated ways.
+For example, a car buyer could
+have the computer assemble a list
+of two-door sedans from different
+makers, or a surgeon could
+retrieve a patient's health records
+from various departments around
+a hospital and even from other
+doctors.
+By bridging the gap between the
+different structures of the databas
+es, Infomaster can put information
+from different sources together to
+create a new page or chart.
+That means an Infomaster-user
+could retrieve data without having
+to know where it's stored, even if
+the data is spread around several
+locations. Until now, there has
+been no way to do that, Genesereth
+said.
+The Infomaster project began in
+1992 when a group called Com
+merce Net gave funding to create
+an online catalog capable of com
+paring products from different
+companies. After three years of
+development, Infomaster's first
+test in September 1995 combined
+the online classified ads of three
+area newspapers to create a com
+puterized housing index that is
+updated each day as the ads
+change, Genesereth said.
+Because Infomaster was devel
+oped at Stanford, many of the early
+applications may benefit students
+and staff here, he said.
+Tests have included an online
+conference room reservation sys
+tem for the Gates Computer Sci
+ence Building, a more sophisticat
+ed version of the WTiois campus
+directory and a few prototypes of
+the online catalog concept. All of
+these except the catalogs are avail
+able in their rough form via the
+Infomaster home page (http: info
+master. stanford.edu).
+The latest test of the Infomaster
+system is designed to give students
+more information for choosing
+classes.
+Students will be able to search
+for classes and professors with var
+ious characteristics, Genesereth
+said. For example, a geological and
+environmental sciences major
+could look for a class taught by a
+professor who is interested in plate
+tectonics and who has also been
+published in Geology Today.
+A prototype should be available
+in three to six months, said project
+manager Dennis Rayer, who works
+in the Office of Information Tech
+nology Systems and Services.
+This class-finding application is
+part of a bigger project started this
+September called the Stanford
+Information Network, a joint
+effort of the Computer Science
+Department and other University
+organizations, including the
+libraries and ITSS.
+The Stanford Information Net
+work would link together adminis
+trative databases on people, cours
+es, grades, events, as well as aca
+demic data from research like the
+Human Genome Project or the lat
+est calculations from the Eco
+nomics Department.
+The Infomaster program itself
+
+is designed to be applicable in a
+wide variety of situations. Gene
+sereth compared the current tests
+of the system to the laundry that
+a washing-machine salesman
+might use to demonstrate the
+machine — whether it's socks,
+jeans or Krusty the Klown boxers
+you're washing, he said, the real
+point is to show what the
+machine can do.
+Although Infomaster initially
+focused on commercial applica
+tions. Genesereth said he sees it as
+a very general tool "to help people
+who need information get the
+information they need."
+Genesereth said Infomaster
+could help make the economy run
+more efficiently because a freer
+flow of information about new and
+innovative products could grease
+the wheels of competition. New
+products would no longer stay
+unknown as comparative informa
+tion on all kinds of goods becomes
+easily available.
+For now, growth of the network
+of information united by Infomas
+ter is relatively slow. This is large
+ly due to the difficulty in making
+data from different sources com
+patible.
+Individual databases may use
+different names for the same infor
+mation, Genesereth said — one
+might list an "office number"
+while another gives the same infor
+mation under "location." And
+there's no standardized format for
+entering information like phone
+numbers — some lists may give the
+usual seven-digit number while
+another might use the five-digit
+abbreviation that is used with on
+campus phones.
+Coding these translations into
+the computer takes time and for
+now is only being done by Infomas
+ter's creators. Raver is the only
+employee currently working on
+this project full time.
+In a few years, database owners
+might be able to fit their own
+databases into the system, accord
+ing to Rayer. This mass input capa
+bility could pave the way for the
+kind of explosive growth that the
+World Wide Web has experienced.
+Data security may also present
+a challenge, according to the Stan
+ford Information Network propos
+al. Deciding who will get access to
+information over the network,
+whether users will have to pay for
+that service and who will be able
+(or required) to add databases to
+the system may present new legal
+questions.
+Because information from dif
+ferent databases is joined without
+the user necessarily knowing the
+source, new databases might need
+to be certified for accuracy to avoid
+polluting the network with inaccu
+rate data, Rayer said.
+Rayer said he hopes to be able to
+present parts of the Stanford net
+work at the International World
+Wide Web Conference that the
+University is hosting this April.
+New on-campus uses of Infomaster
+could be implemented as early as
+next year.
+Infomaster is likely to be mar
+keted to private companies as a
+way to integrate their own
+databases. According to Rayer,
+Internet giant Netscape Commu
+nications Corp. already makes a
+large proportion of its money by
+setting up "intranets" within com
+panies.
+
+
+Michael Genesereth

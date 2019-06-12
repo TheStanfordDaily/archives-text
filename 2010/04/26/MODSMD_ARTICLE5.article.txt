@@ -1,0 +1,729 @@
+# STUDENT LIFE
+## Quiz Bowl team wins national title 
+### ELLEN HUET DESK EDITOR 
+"Proving the namesake property in one of these
+data structures relies on the Dynamic Finger Conjec
+ture, and data structures without their characteristic
+property can obtain it by running an algorithm
+named for Day, Stout and Warren. In one of these
+data structures, their characteristic property is main
+tained through operations like a zig-zag during
+searches."
+Around this point in the moderator's statement, a
+buzzer sounded. The University of Minnesota Quiz
+Bowl team, playing in the final round of Academic
+Competition Federation (ACF) Quiz Bowl Nationals
+against Stanford's team, gave an answer: "tree." When
+prompted for more, the team incorrectly answered
+"B-tree" instead of the correct "self-balanced binary
+search tree" a mistake that wasn't noted by the
+moderator at the time, but would later cost the Min
+nesota team their finals title and give Stanford's team
+its first ever national championship in ACF format.
+For the four-person team, a championship title in
+last weekend's national tournament is the cap on sev
+eral years of hard work. The tournament, hosted by
+the University of Maryland on April 17 and 18, was
+the fourth in a row for team member Arnav Moudgil
+'lO, a photo editor for The Daily.
+"It feels great to finally win," Moudgil said, who
+further noted that the team "got absolutely de
+stroyed" during his first year at nationals in 2007. In
+2008, the team placed sixth; in 2009, third.
+After an early Stanford lead, the University of
+
+
+ELLEN HUET/The Stanford Daily
+Stanford's four-person Quiz Bowl team competed in the national competition last weekend in
+Maryland and brought its first ever national championship trophy back to The Farm.
+Minnesota team began to catch up
+and eventually passed the Cardinal's
+score. At the end of the game, Min
+nesota stood ahead, but Stanford
+protested an earlier answer the
+question regarding self-balanced bi
+nary search trees and the question
+was ruled in Stanford's favor, giving it
+its national title.
+"It's not the nicest way of win
+ning," said Kristiaan de Greve, anoth
+er member of the team and a fifth
+year doctoral student in electrical en
+gineering. "The other team knew their
+answer was incorrect, but they were
+hoping it would be allowed."
+The team acknowledged that their
+most skilled player is Andrew Yaphe,
+a third-year law student who is widely
+recognized as the best player in the
+history of collegiate quiz bowl, having
+been the leading scorer on eight
+championship national teams.
+"He literally got 70 or 80 percent of
+our winning points at nationals," said
+Brian Lindquist, the fourth team
+member and fifth-year doctoral stu
+dent in physics. "But he also wouldn't
+have won without us."
+The tournament was demanding,
+with an extensive round-robin day on
+Saturday and a bracketed setup for
+the finals on Sunday. The team, how
+ever, is used to competition. All of the
+members have played at least five
+years, most having started in high
+school. With three graduate students
+and one undergraduate senior, the
+team was a bit of an exception to most
+
+teams which have fewer graduate stu
+dents. University of Minnesota, the
+team's final opponent, was all under
+graduates.
+"We might have been the oldest
+team there," Moudgil said.
+The team tossed around quiz bowl
+lingo in describing their preparation
+for the competition.
+"I'd say about half of the questions
+I got right was 'fraudulent' knowl
+edge," Lindquist said, referring to
+knowledge acquired specifically for
+quiz bowl, as opposed to information
+the players already knew from their
+general knowledge.
+De Greve also distinguished be
+tween ACF format and the other
+main format, National Academic
+Quiz Tournaments (NAQT), which is
+not timed and contains more popular
+culture subjects in questions, whereas
+ACF is "purely academic," De Greve
+said.
+"ACF has no 'trash' questions at
+all," he said, referring to non-academ
+ic questions found in NAQT competi
+tion.
+Although the team's win was an
+appreciated victory, the members em
+phasized that they play mostly for the
+joy of the game and the intellectual
+challenge.
+"It exposes you to a lot of new
+things that you might not otherwise
+learn about," Moudgil said. "I'm a bi
+ology major, I'm not gonna otherwise
+get that much exposure to, say, philos
+ophy."
+
+"I like competing," Lindquist said.
+"This is something that I can actually
+do well at, unlike sports."
+
+Contact Ellen Huet at ehuet@
+stanford.edu.
+"Proving the namesake property in one of these
+data structures relies on the Dynamic Finger Conjec
+ture, and data structures without their characteristic
+property can obtain it by running an algorithm
+named for Day, Stout and Warren. In one of these
+data structures, their characteristic property is main
+tained through operations like a zig-zag during
+searches."
+Around this point in the moderator's statement, a
+buzzer sounded. The University of Minnesota Quiz
+Bowl team, playing in the final round of Academic
+Competition Federation (ACF) Quiz Bowl Nationals
+against Stanford's team, gave an answer: "tree." When
+prompted for more, the team incorrectly answered
+"B-tree" instead of the correct "self-balanced binary
+search tree" a mistake that wasn't noted by the
+moderator at the time, but would later cost the Min
+nesota team their finals title and give Stanford's team
+its first ever national championship in ACF format.
+For the four-person team, a championship title in
+last weekend's national tournament is the cap on sev
+eral years of hard work. The tournament, hosted by
+the University of Maryland on April 17 and 18, was
+the fourth in a row for team member Arnav Moudgil
+'lO, a photo editor for The Daily.
+"It feels great to finally win," Moudgil said, who
+further noted that the team "got absolutely de
+stroyed" during his first year at nationals in 2007. In
+2008, the team placed sixth; in 2009, third.
+After an early Stanford lead, the University of
+
+
+ELLEN HUET/The Stanford Daily
+Stanford's four-person Quiz Bowl team competed in the national competition last weekend in
+Maryland and brought its first ever national championship trophy back to The Farm.
+Minnesota team began to catch up
+and eventually passed the Cardinal's
+score. At the end of the game, Min
+nesota stood ahead, but Stanford
+protested an earlier answer the
+question regarding self-balanced bi
+nary search trees and the question
+was ruled in Stanford's favor, giving it
+its national title.
+"It's not the nicest way of win
+ning," said Kristiaan de Greve, anoth
+er member of the team and a fifth
+year doctoral student in electrical en
+gineering. "The other team knew their
+answer was incorrect, but they were
+hoping it would be allowed."
+The team acknowledged that their
+most skilled player is Andrew Yaphe,
+a third-year law student who is widely
+recognized as the best player in the
+history of collegiate quiz bowl, having
+been the leading scorer on eight
+championship national teams.
+"He literally got 70 or 80 percent of
+our winning points at nationals," said
+Brian Lindquist, the fourth team
+member and fifth-year doctoral stu
+dent in physics. "But he also wouldn't
+have won without us."
+The tournament was demanding,
+with an extensive round-robin day on
+Saturday and a bracketed setup for
+the finals on Sunday. The team, how
+ever, is used to competition. All of the
+members have played at least five
+years, most having started in high
+school. With three graduate students
+and one undergraduate senior, the
+team was a bit of an exception to most
+
+teams which have fewer graduate stu
+dents. University of Minnesota, the
+team's final opponent, was all under
+graduates.
+"We might have been the oldest
+team there," Moudgil said.
+The team tossed around quiz bowl
+lingo in describing their preparation
+for the competition.
+"I'd say about half of the questions
+I got right was 'fraudulent' knowl
+edge," Lindquist said, referring to
+knowledge acquired specifically for
+quiz bowl, as opposed to information
+the players already knew from their
+general knowledge.
+De Greve also distinguished be
+tween ACF format and the other
+main format, National Academic
+Quiz Tournaments (NAQT), which is
+not timed and contains more popular
+culture subjects in questions, whereas
+ACF is "purely academic," De Greve
+said.
+"ACF has no 'trash' questions at
+all," he said, referring to non-academ
+ic questions found in NAQT competi
+tion.
+Although the team's win was an
+appreciated victory, the members em
+phasized that they play mostly for the
+joy of the game and the intellectual
+challenge.
+"It exposes you to a lot of new
+things that you might not otherwise
+learn about," Moudgil said. "I'm a bi
+ology major, I'm not gonna otherwise
+get that much exposure to, say, philos
+ophy."
+
+"I like competing," Lindquist said.
+"This is something that I can actually
+do well at, unlike sports."
+
+Contact Ellen Huet at ehuet@
+stanford.edu.
+"Proving the namesake property in one of these
+data structures relies on the Dynamic Finger Conjec
+ture, and data structures without their characteristic
+property can obtain it by running an algorithm
+named for Day, Stout and Warren. In one of these
+data structures, their characteristic property is main
+tained through operations like a zig-zag during
+searches."
+Around this point in the moderator's statement, a
+buzzer sounded. The University of Minnesota Quiz
+Bowl team, playing in the final round of Academic
+Competition Federation (ACF) Quiz Bowl Nationals
+against Stanford's team, gave an answer: "tree." When
+prompted for more, the team incorrectly answered
+"B-tree" instead of the correct "self-balanced binary
+search tree" a mistake that wasn't noted by the
+moderator at the time, but would later cost the Min
+nesota team their finals title and give Stanford's team
+its first ever national championship in ACF format.
+For the four-person team, a championship title in
+last weekend's national tournament is the cap on sev
+eral years of hard work. The tournament, hosted by
+the University of Maryland on April 17 and 18, was
+the fourth in a row for team member Arnav Moudgil
+'lO, a photo editor for The Daily.
+"It feels great to finally win," Moudgil said, who
+further noted that the team "got absolutely de
+stroyed" during his first year at nationals in 2007. In
+2008, the team placed sixth; in 2009, third.
+After an early Stanford lead, the University of
+
+
+ELLEN HUET/The Stanford Daily
+Stanford's four-person Quiz Bowl team competed in the national competition last weekend in
+Maryland and brought its first ever national championship trophy back to The Farm.
+Minnesota team began to catch up
+and eventually passed the Cardinal's
+score. At the end of the game, Min
+nesota stood ahead, but Stanford
+protested an earlier answer the
+question regarding self-balanced bi
+nary search trees and the question
+was ruled in Stanford's favor, giving it
+its national title.
+"It's not the nicest way of win
+ning," said Kristiaan de Greve, anoth
+er member of the team and a fifth
+year doctoral student in electrical en
+gineering. "The other team knew their
+answer was incorrect, but they were
+hoping it would be allowed."
+The team acknowledged that their
+most skilled player is Andrew Yaphe,
+a third-year law student who is widely
+recognized as the best player in the
+history of collegiate quiz bowl, having
+been the leading scorer on eight
+championship national teams.
+"He literally got 70 or 80 percent of
+our winning points at nationals," said
+Brian Lindquist, the fourth team
+member and fifth-year doctoral stu
+dent in physics. "But he also wouldn't
+have won without us."
+The tournament was demanding,
+with an extensive round-robin day on
+Saturday and a bracketed setup for
+the finals on Sunday. The team, how
+ever, is used to competition. All of the
+members have played at least five
+years, most having started in high
+school. With three graduate students
+and one undergraduate senior, the
+team was a bit of an exception to most
+
+teams which have fewer graduate stu
+dents. University of Minnesota, the
+team's final opponent, was all under
+graduates.
+"We might have been the oldest
+team there," Moudgil said.
+The team tossed around quiz bowl
+lingo in describing their preparation
+for the competition.
+"I'd say about half of the questions
+I got right was 'fraudulent' knowl
+edge," Lindquist said, referring to
+knowledge acquired specifically for
+quiz bowl, as opposed to information
+the players already knew from their
+general knowledge.
+De Greve also distinguished be
+tween ACF format and the other
+main format, National Academic
+Quiz Tournaments (NAQT), which is
+not timed and contains more popular
+culture subjects in questions, whereas
+ACF is "purely academic," De Greve
+said.
+"ACF has no 'trash' questions at
+all," he said, referring to non-academ
+ic questions found in NAQT competi
+tion.
+Although the team's win was an
+appreciated victory, the members em
+phasized that they play mostly for the
+joy of the game and the intellectual
+challenge.
+"It exposes you to a lot of new
+things that you might not otherwise
+learn about," Moudgil said. "I'm a bi
+ology major, I'm not gonna otherwise
+get that much exposure to, say, philos
+ophy."
+
+"I like competing," Lindquist said.
+"This is something that I can actually
+do well at, unlike sports."
+
+Contact Ellen Huet at ehuet@
+stanford.edu.
+"Proving the namesake property in one of these
+data structures relies on the Dynamic Finger Conjec
+ture, and data structures without their characteristic
+property can obtain it by running an algorithm
+named for Day, Stout and Warren. In one of these
+data structures, their characteristic property is main
+tained through operations like a zig-zag during
+searches."
+Around this point in the moderator's statement, a
+buzzer sounded. The University of Minnesota Quiz
+Bowl team, playing in the final round of Academic
+Competition Federation (ACF) Quiz Bowl Nationals
+against Stanford's team, gave an answer: "tree." When
+prompted for more, the team incorrectly answered
+"B-tree" instead of the correct "self-balanced binary
+search tree" a mistake that wasn't noted by the
+moderator at the time, but would later cost the Min
+nesota team their finals title and give Stanford's team
+its first ever national championship in ACF format.
+For the four-person team, a championship title in
+last weekend's national tournament is the cap on sev
+eral years of hard work. The tournament, hosted by
+the University of Maryland on April 17 and 18, was
+the fourth in a row for team member Arnav Moudgil
+'lO, a photo editor for The Daily.
+"It feels great to finally win," Moudgil said, who
+further noted that the team "got absolutely de
+stroyed" during his first year at nationals in 2007. In
+2008, the team placed sixth; in 2009, third.
+After an early Stanford lead, the University of
+
+
+ELLEN HUET/The Stanford Daily
+Stanford's four-person Quiz Bowl team competed in the national competition last weekend in
+Maryland and brought its first ever national championship trophy back to The Farm.
+Minnesota team began to catch up
+and eventually passed the Cardinal's
+score. At the end of the game, Min
+nesota stood ahead, but Stanford
+protested an earlier answer the
+question regarding self-balanced bi
+nary search trees and the question
+was ruled in Stanford's favor, giving it
+its national title.
+"It's not the nicest way of win
+ning," said Kristiaan de Greve, anoth
+er member of the team and a fifth
+year doctoral student in electrical en
+gineering. "The other team knew their
+answer was incorrect, but they were
+hoping it would be allowed."
+The team acknowledged that their
+most skilled player is Andrew Yaphe,
+a third-year law student who is widely
+recognized as the best player in the
+history of collegiate quiz bowl, having
+been the leading scorer on eight
+championship national teams.
+"He literally got 70 or 80 percent of
+our winning points at nationals," said
+Brian Lindquist, the fourth team
+member and fifth-year doctoral stu
+dent in physics. "But he also wouldn't
+have won without us."
+The tournament was demanding,
+with an extensive round-robin day on
+Saturday and a bracketed setup for
+the finals on Sunday. The team, how
+ever, is used to competition. All of the
+members have played at least five
+years, most having started in high
+school. With three graduate students
+and one undergraduate senior, the
+team was a bit of an exception to most
+
+teams which have fewer graduate stu
+dents. University of Minnesota, the
+team's final opponent, was all under
+graduates.
+"We might have been the oldest
+team there," Moudgil said.
+The team tossed around quiz bowl
+lingo in describing their preparation
+for the competition.
+"I'd say about half of the questions
+I got right was 'fraudulent' knowl
+edge," Lindquist said, referring to
+knowledge acquired specifically for
+quiz bowl, as opposed to information
+the players already knew from their
+general knowledge.
+De Greve also distinguished be
+tween ACF format and the other
+main format, National Academic
+Quiz Tournaments (NAQT), which is
+not timed and contains more popular
+culture subjects in questions, whereas
+ACF is "purely academic," De Greve
+said.
+"ACF has no 'trash' questions at
+all," he said, referring to non-academ
+ic questions found in NAQT competi
+tion.
+Although the team's win was an
+appreciated victory, the members em
+phasized that they play mostly for the
+joy of the game and the intellectual
+challenge.
+"It exposes you to a lot of new
+things that you might not otherwise
+learn about," Moudgil said. "I'm a bi
+ology major, I'm not gonna otherwise
+get that much exposure to, say, philos
+ophy."
+
+"I like competing," Lindquist said.
+"This is something that I can actually
+do well at, unlike sports."
+
+Contact Ellen Huet at ehuet@
+stanford.edu.
+"Proving the namesake property in one of these
+data structures relies on the Dynamic Finger Conjec
+ture, and data structures without their characteristic
+property can obtain it by running an algorithm
+named for Day, Stout and Warren. In one of these
+data structures, their characteristic property is main
+tained through operations like a zig-zag during
+searches."
+Around this point in the moderator's statement, a
+buzzer sounded. The University of Minnesota Quiz
+Bowl team, playing in the final round of Academic
+Competition Federation (ACF) Quiz Bowl Nationals
+against Stanford's team, gave an answer: "tree." When
+prompted for more, the team incorrectly answered
+"B-tree" instead of the correct "self-balanced binary
+search tree" a mistake that wasn't noted by the
+moderator at the time, but would later cost the Min
+nesota team their finals title and give Stanford's team
+its first ever national championship in ACF format.
+For the four-person team, a championship title in
+last weekend's national tournament is the cap on sev
+eral years of hard work. The tournament, hosted by
+the University of Maryland on April 17 and 18, was
+the fourth in a row for team member Arnav Moudgil
+'lO, a photo editor for The Daily.
+"It feels great to finally win," Moudgil said, who
+further noted that the team "got absolutely de
+stroyed" during his first year at nationals in 2007. In
+2008, the team placed sixth; in 2009, third.
+After an early Stanford lead, the University of
+
+
+ELLEN HUET/The Stanford Daily
+Stanford's four-person Quiz Bowl team competed in the national competition last weekend in
+Maryland and brought its first ever national championship trophy back to The Farm.
+Minnesota team began to catch up
+and eventually passed the Cardinal's
+score. At the end of the game, Min
+nesota stood ahead, but Stanford
+protested an earlier answer the
+question regarding self-balanced bi
+nary search trees and the question
+was ruled in Stanford's favor, giving it
+its national title.
+"It's not the nicest way of win
+ning," said Kristiaan de Greve, anoth
+er member of the team and a fifth
+year doctoral student in electrical en
+gineering. "The other team knew their
+answer was incorrect, but they were
+hoping it would be allowed."
+The team acknowledged that their
+most skilled player is Andrew Yaphe,
+a third-year law student who is widely
+recognized as the best player in the
+history of collegiate quiz bowl, having
+been the leading scorer on eight
+championship national teams.
+"He literally got 70 or 80 percent of
+our winning points at nationals," said
+Brian Lindquist, the fourth team
+member and fifth-year doctoral stu
+dent in physics. "But he also wouldn't
+have won without us."
+The tournament was demanding,
+with an extensive round-robin day on
+Saturday and a bracketed setup for
+the finals on Sunday. The team, how
+ever, is used to competition. All of the
+members have played at least five
+years, most having started in high
+school. With three graduate students
+and one undergraduate senior, the
+team was a bit of an exception to most
+
+teams which have fewer graduate stu
+dents. University of Minnesota, the
+team's final opponent, was all under
+graduates.
+"We might have been the oldest
+team there," Moudgil said.
+The team tossed around quiz bowl
+lingo in describing their preparation
+for the competition.
+"I'd say about half of the questions
+I got right was 'fraudulent' knowl
+edge," Lindquist said, referring to
+knowledge acquired specifically for
+quiz bowl, as opposed to information
+the players already knew from their
+general knowledge.
+De Greve also distinguished be
+tween ACF format and the other
+main format, National Academic
+Quiz Tournaments (NAQT), which is
+not timed and contains more popular
+culture subjects in questions, whereas
+ACF is "purely academic," De Greve
+said.
+"ACF has no 'trash' questions at
+all," he said, referring to non-academ
+ic questions found in NAQT competi
+tion.
+Although the team's win was an
+appreciated victory, the members em
+phasized that they play mostly for the
+joy of the game and the intellectual
+challenge.
+"It exposes you to a lot of new
+things that you might not otherwise
+learn about," Moudgil said. "I'm a bi
+ology major, I'm not gonna otherwise
+get that much exposure to, say, philos
+ophy."
+
+"I like competing," Lindquist said.
+"This is something that I can actually
+do well at, unlike sports."
+
+Contact Ellen Huet at ehuet@
+stanford.edu.
+"Proving the namesake property in one of these
+data structures relies on the Dynamic Finger Conjec
+ture, and data structures without their characteristic
+property can obtain it by running an algorithm
+named for Day, Stout and Warren. In one of these
+data structures, their characteristic property is main
+tained through operations like a zig-zag during
+searches."
+Around this point in the moderator's statement, a
+buzzer sounded. The University of Minnesota Quiz
+Bowl team, playing in the final round of Academic
+Competition Federation (ACF) Quiz Bowl Nationals
+against Stanford's team, gave an answer: "tree." When
+prompted for more, the team incorrectly answered
+"B-tree" instead of the correct "self-balanced binary
+search tree" a mistake that wasn't noted by the
+moderator at the time, but would later cost the Min
+nesota team their finals title and give Stanford's team
+its first ever national championship in ACF format.
+For the four-person team, a championship title in
+last weekend's national tournament is the cap on sev
+eral years of hard work. The tournament, hosted by
+the University of Maryland on April 17 and 18, was
+the fourth in a row for team member Arnav Moudgil
+'lO, a photo editor for The Daily.
+"It feels great to finally win," Moudgil said, who
+further noted that the team "got absolutely de
+stroyed" during his first year at nationals in 2007. In
+2008, the team placed sixth; in 2009, third.
+After an early Stanford lead, the University of
+
+
+ELLEN HUET/The Stanford Daily
+Stanford's four-person Quiz Bowl team competed in the national competition last weekend in
+Maryland and brought its first ever national championship trophy back to The Farm.
+Minnesota team began to catch up
+and eventually passed the Cardinal's
+score. At the end of the game, Min
+nesota stood ahead, but Stanford
+protested an earlier answer the
+question regarding self-balanced bi
+nary search trees and the question
+was ruled in Stanford's favor, giving it
+its national title.
+"It's not the nicest way of win
+ning," said Kristiaan de Greve, anoth
+er member of the team and a fifth
+year doctoral student in electrical en
+gineering. "The other team knew their
+answer was incorrect, but they were
+hoping it would be allowed."
+The team acknowledged that their
+most skilled player is Andrew Yaphe,
+a third-year law student who is widely
+recognized as the best player in the
+history of collegiate quiz bowl, having
+been the leading scorer on eight
+championship national teams.
+"He literally got 70 or 80 percent of
+our winning points at nationals," said
+Brian Lindquist, the fourth team
+member and fifth-year doctoral stu
+dent in physics. "But he also wouldn't
+have won without us."
+The tournament was demanding,
+with an extensive round-robin day on
+Saturday and a bracketed setup for
+the finals on Sunday. The team, how
+ever, is used to competition. All of the
+members have played at least five
+years, most having started in high
+school. With three graduate students
+and one undergraduate senior, the
+team was a bit of an exception to most
+
+teams which have fewer graduate stu
+dents. University of Minnesota, the
+team's final opponent, was all under
+graduates.
+"We might have been the oldest
+team there," Moudgil said.
+The team tossed around quiz bowl
+lingo in describing their preparation
+for the competition.
+"I'd say about half of the questions
+I got right was 'fraudulent' knowl
+edge," Lindquist said, referring to
+knowledge acquired specifically for
+quiz bowl, as opposed to information
+the players already knew from their
+general knowledge.
+De Greve also distinguished be
+tween ACF format and the other
+main format, National Academic
+Quiz Tournaments (NAQT), which is
+not timed and contains more popular
+culture subjects in questions, whereas
+ACF is "purely academic," De Greve
+said.
+"ACF has no 'trash' questions at
+all," he said, referring to non-academ
+ic questions found in NAQT competi
+tion.
+Although the team's win was an
+appreciated victory, the members em
+phasized that they play mostly for the
+joy of the game and the intellectual
+challenge.
+"It exposes you to a lot of new
+things that you might not otherwise
+learn about," Moudgil said. "I'm a bi
+ology major, I'm not gonna otherwise
+get that much exposure to, say, philos
+ophy."
+
+"I like competing," Lindquist said.
+"This is something that I can actually
+do well at, unlike sports."
+
+Contact Ellen Huet at ehuet@
+stanford.edu.

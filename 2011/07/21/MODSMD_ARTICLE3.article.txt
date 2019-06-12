@@ -1,0 +1,1151 @@
+# RESEARCH
+## Project offers free quake-tracking devices 
+### ELAINA KOROS INTERN 
+A local collaborative initiative to
+which Stanford is a contributor is asking
+residents of homes and schools along the
+Hayward Fault to install earthquake
+sensing devices that will create the
+"Quake-Catcher Network" (QCN) to
+monitor seismic activity.
+
+Inspired by SeisMac, a program that
+effectively turns Macintosh computers
+into seismographs, and BOINC, open
+source software that allows individuals
+to remotely donate their computers' un
+used processing power to researchers,
+QCN attaches sensors to personal com
+puters to create a low-cost yet dense seis
+mic network.
+
+"With 6,000 sensors, it's amazing what
+one can do," said geophysics assistant
+professor and QCN project leader Jesse
+
+Lawrence. "People are used to talking
+about tens or hundreds even, but not
+thousands."
+
+QCN has already installed 2,000 sen
+sors and plans to install at least 6,000
+more worldwide in the next couple of
+years, with the potential to grow to 60,000
+or more. Lawrence and USGS researcher
+Elizabeth Cochran lead the study.
+
+Last weekend, QCN volunteers trav
+eled to areas along the Hayward fault to
+install the sensors in the floors of project
+participants and connect them to their
+computers with USB cables. Equipped
+with a micro-electro-mechanical systems
+(MEMS) chip, each sensor can measure
+acceleration in three directions, making
+it possible to ascertain the direction of
+the earth's movement.
+
+When a MEMS chip detects a strong
+
+
+KEVIN TSUKII/The Stanford Daily
+The Quake-Catcher Network offers small devices that connect to computers around the
+Hayward fault and together measure seismic activity, including earthquakes.
+new motion, it uploads small bits
+of data to QCN's server to report a
+potential new event. If the motion
+proves isolated to one computer, it
+will appear as a blip and will not
+disrupt QCN's system. However, if
+the server receives data from many
+chips, it detects a regional event,
+such as an earthquake.
+
+"It's a little bit like the nervous
+system," Lawrence said. "If one
+nerve were to fire on your finger
+tip, you wouldn't notice, but when
+a bunch of them fire all at once,
+you notice that maybe there's an
+event there."
+"The sensor doesn't interfere
+at all with your computer, so you
+don't see it actually working, but
+you know it's there and that it's
+sending data to this big network,"
+said QCN administrator Claudia
+Baroni, who organizes volunteers
+and finances. "It's a huge amount
+of people working toward the
+same goal."
+
+The low cost of each sensor
+makes building a dense seismic
+network possible. Although larg
+er sensors can cost anywhere from
+$25,000 to $50,000 dollars and
+may cost an additional $lO,OOO a
+
+year to maintain, QCN's highest
+quality smaller sensors each cost
+only $l5O. An individual small
+sensor cannot measure ground
+motion as accurately as a larger
+sensor, but the sum of the small
+sensors creates a network, which
+can be better for monitoring
+strong motion.
+"We're not going to be observ
+ing earthquakes across the planet,
+but we'll be able to detect them re
+ally rapidly and very well up close,
+and this project is really aimed at
+looking at how the earthquakes
+look up close," Lawrence said.
+QCN experimented with a sim
+ilar program in New Zealand and
+plans to expand beyond the Hay
+ward fault, covering the entire
+Bay Area and parts of Southern
+California, the Pacific Northwest,
+Anchorage, Salt Lake City and
+Memphis. Expanding internation
+ally to Mexico, Taiwan, Peru and
+Chile is also a possibility, the re
+searchers said.
+
+QCN is funded by a National
+Science Foundation grant and
+small sums of money from agen
+cies like the Southern California
+Earthquake Center, the Incorpo
+rated Research Institutions for
+Seismology and the United Parcel
+Service (UPS). This funding al
+lows QCN to provide sensors to
+participants in certain regions for
+free. However, all individuals can
+
+buy sensors on QCN's website for
+$49, and teachers in all regions
+can request up to three sensors at
+a subsidized rate of five dollars.
+
+"I love that it gets the commu
+nity involved, because I am very
+passionate about helping people,
+and I think this is a great way to
+educate people about earth
+quakes, because we're installing
+seismometers in their homes and
+getting people involved in aware
+ness," said third-year geophysics
+graduate student Angela Chung.
+QCN's applied scientific objec
+tive is to determine whether or not
+the network can detect an earth
+quake's magnitude and location
+rapidly enough to alert the affect
+ed community before the waves
+actually reach them, creating an
+earthquake early-warning system.
+Additionally, QCN sensors can de
+tect earthquake magnitude, so
+they could help emergency ser
+vices find those who were hit the
+hardest by an earthquake.
+"[The goal of the project] from
+my perspective is to learn more
+about the Earth," Lawrence said.
+"From the practical side, it's to
+help us better understand earth
+quake hazards and how to better
+prepare and better respond to
+earthquake hazards."
+
+Contact Elaina Koros at ekoros@
+stanford.edu.
+A local collaborative initiative to
+which Stanford is a contributor is asking
+residents of homes and schools along the
+Hayward Fault to install earthquake
+sensing devices that will create the
+"Quake-Catcher Network" (QCN) to
+monitor seismic activity.
+
+Inspired by SeisMac, a program that
+effectively turns Macintosh computers
+into seismographs, and BOINC, open
+source software that allows individuals
+to remotely donate their computers' un
+used processing power to researchers,
+QCN attaches sensors to personal com
+puters to create a low-cost yet dense seis
+mic network.
+
+"With 6,000 sensors, it's amazing what
+one can do," said geophysics assistant
+professor and QCN project leader Jesse
+
+Lawrence. "People are used to talking
+about tens or hundreds even, but not
+thousands."
+
+QCN has already installed 2,000 sen
+sors and plans to install at least 6,000
+more worldwide in the next couple of
+years, with the potential to grow to 60,000
+or more. Lawrence and USGS researcher
+Elizabeth Cochran lead the study.
+
+Last weekend, QCN volunteers trav
+eled to areas along the Hayward fault to
+install the sensors in the floors of project
+participants and connect them to their
+computers with USB cables. Equipped
+with a micro-electro-mechanical systems
+(MEMS) chip, each sensor can measure
+acceleration in three directions, making
+it possible to ascertain the direction of
+the earth's movement.
+
+When a MEMS chip detects a strong
+
+
+KEVIN TSUKII/The Stanford Daily
+The Quake-Catcher Network offers small devices that connect to computers around the
+Hayward fault and together measure seismic activity, including earthquakes.
+new motion, it uploads small bits
+of data to QCN's server to report a
+potential new event. If the motion
+proves isolated to one computer, it
+will appear as a blip and will not
+disrupt QCN's system. However, if
+the server receives data from many
+chips, it detects a regional event,
+such as an earthquake.
+
+"It's a little bit like the nervous
+system," Lawrence said. "If one
+nerve were to fire on your finger
+tip, you wouldn't notice, but when
+a bunch of them fire all at once,
+you notice that maybe there's an
+event there."
+"The sensor doesn't interfere
+at all with your computer, so you
+don't see it actually working, but
+you know it's there and that it's
+sending data to this big network,"
+said QCN administrator Claudia
+Baroni, who organizes volunteers
+and finances. "It's a huge amount
+of people working toward the
+same goal."
+
+The low cost of each sensor
+makes building a dense seismic
+network possible. Although larg
+er sensors can cost anywhere from
+$25,000 to $50,000 dollars and
+may cost an additional $lO,OOO a
+
+year to maintain, QCN's highest
+quality smaller sensors each cost
+only $l5O. An individual small
+sensor cannot measure ground
+motion as accurately as a larger
+sensor, but the sum of the small
+sensors creates a network, which
+can be better for monitoring
+strong motion.
+"We're not going to be observ
+ing earthquakes across the planet,
+but we'll be able to detect them re
+ally rapidly and very well up close,
+and this project is really aimed at
+looking at how the earthquakes
+look up close," Lawrence said.
+QCN experimented with a sim
+ilar program in New Zealand and
+plans to expand beyond the Hay
+ward fault, covering the entire
+Bay Area and parts of Southern
+California, the Pacific Northwest,
+Anchorage, Salt Lake City and
+Memphis. Expanding internation
+ally to Mexico, Taiwan, Peru and
+Chile is also a possibility, the re
+searchers said.
+
+QCN is funded by a National
+Science Foundation grant and
+small sums of money from agen
+cies like the Southern California
+Earthquake Center, the Incorpo
+rated Research Institutions for
+Seismology and the United Parcel
+Service (UPS). This funding al
+lows QCN to provide sensors to
+participants in certain regions for
+free. However, all individuals can
+
+buy sensors on QCN's website for
+$49, and teachers in all regions
+can request up to three sensors at
+a subsidized rate of five dollars.
+
+"I love that it gets the commu
+nity involved, because I am very
+passionate about helping people,
+and I think this is a great way to
+educate people about earth
+quakes, because we're installing
+seismometers in their homes and
+getting people involved in aware
+ness," said third-year geophysics
+graduate student Angela Chung.
+QCN's applied scientific objec
+tive is to determine whether or not
+the network can detect an earth
+quake's magnitude and location
+rapidly enough to alert the affect
+ed community before the waves
+actually reach them, creating an
+earthquake early-warning system.
+Additionally, QCN sensors can de
+tect earthquake magnitude, so
+they could help emergency ser
+vices find those who were hit the
+hardest by an earthquake.
+"[The goal of the project] from
+my perspective is to learn more
+about the Earth," Lawrence said.
+"From the practical side, it's to
+help us better understand earth
+quake hazards and how to better
+prepare and better respond to
+earthquake hazards."
+
+Contact Elaina Koros at ekoros@
+stanford.edu.
+A local collaborative initiative to
+which Stanford is a contributor is asking
+residents of homes and schools along the
+Hayward Fault to install earthquake
+sensing devices that will create the
+"Quake-Catcher Network" (QCN) to
+monitor seismic activity.
+
+Inspired by SeisMac, a program that
+effectively turns Macintosh computers
+into seismographs, and BOINC, open
+source software that allows individuals
+to remotely donate their computers' un
+used processing power to researchers,
+QCN attaches sensors to personal com
+puters to create a low-cost yet dense seis
+mic network.
+
+"With 6,000 sensors, it's amazing what
+one can do," said geophysics assistant
+professor and QCN project leader Jesse
+
+Lawrence. "People are used to talking
+about tens or hundreds even, but not
+thousands."
+
+QCN has already installed 2,000 sen
+sors and plans to install at least 6,000
+more worldwide in the next couple of
+years, with the potential to grow to 60,000
+or more. Lawrence and USGS researcher
+Elizabeth Cochran lead the study.
+
+Last weekend, QCN volunteers trav
+eled to areas along the Hayward fault to
+install the sensors in the floors of project
+participants and connect them to their
+computers with USB cables. Equipped
+with a micro-electro-mechanical systems
+(MEMS) chip, each sensor can measure
+acceleration in three directions, making
+it possible to ascertain the direction of
+the earth's movement.
+
+When a MEMS chip detects a strong
+
+
+KEVIN TSUKII/The Stanford Daily
+The Quake-Catcher Network offers small devices that connect to computers around the
+Hayward fault and together measure seismic activity, including earthquakes.
+new motion, it uploads small bits
+of data to QCN's server to report a
+potential new event. If the motion
+proves isolated to one computer, it
+will appear as a blip and will not
+disrupt QCN's system. However, if
+the server receives data from many
+chips, it detects a regional event,
+such as an earthquake.
+
+"It's a little bit like the nervous
+system," Lawrence said. "If one
+nerve were to fire on your finger
+tip, you wouldn't notice, but when
+a bunch of them fire all at once,
+you notice that maybe there's an
+event there."
+"The sensor doesn't interfere
+at all with your computer, so you
+don't see it actually working, but
+you know it's there and that it's
+sending data to this big network,"
+said QCN administrator Claudia
+Baroni, who organizes volunteers
+and finances. "It's a huge amount
+of people working toward the
+same goal."
+
+The low cost of each sensor
+makes building a dense seismic
+network possible. Although larg
+er sensors can cost anywhere from
+$25,000 to $50,000 dollars and
+may cost an additional $lO,OOO a
+
+year to maintain, QCN's highest
+quality smaller sensors each cost
+only $l5O. An individual small
+sensor cannot measure ground
+motion as accurately as a larger
+sensor, but the sum of the small
+sensors creates a network, which
+can be better for monitoring
+strong motion.
+"We're not going to be observ
+ing earthquakes across the planet,
+but we'll be able to detect them re
+ally rapidly and very well up close,
+and this project is really aimed at
+looking at how the earthquakes
+look up close," Lawrence said.
+QCN experimented with a sim
+ilar program in New Zealand and
+plans to expand beyond the Hay
+ward fault, covering the entire
+Bay Area and parts of Southern
+California, the Pacific Northwest,
+Anchorage, Salt Lake City and
+Memphis. Expanding internation
+ally to Mexico, Taiwan, Peru and
+Chile is also a possibility, the re
+searchers said.
+
+QCN is funded by a National
+Science Foundation grant and
+small sums of money from agen
+cies like the Southern California
+Earthquake Center, the Incorpo
+rated Research Institutions for
+Seismology and the United Parcel
+Service (UPS). This funding al
+lows QCN to provide sensors to
+participants in certain regions for
+free. However, all individuals can
+
+buy sensors on QCN's website for
+$49, and teachers in all regions
+can request up to three sensors at
+a subsidized rate of five dollars.
+
+"I love that it gets the commu
+nity involved, because I am very
+passionate about helping people,
+and I think this is a great way to
+educate people about earth
+quakes, because we're installing
+seismometers in their homes and
+getting people involved in aware
+ness," said third-year geophysics
+graduate student Angela Chung.
+QCN's applied scientific objec
+tive is to determine whether or not
+the network can detect an earth
+quake's magnitude and location
+rapidly enough to alert the affect
+ed community before the waves
+actually reach them, creating an
+earthquake early-warning system.
+Additionally, QCN sensors can de
+tect earthquake magnitude, so
+they could help emergency ser
+vices find those who were hit the
+hardest by an earthquake.
+"[The goal of the project] from
+my perspective is to learn more
+about the Earth," Lawrence said.
+"From the practical side, it's to
+help us better understand earth
+quake hazards and how to better
+prepare and better respond to
+earthquake hazards."
+
+Contact Elaina Koros at ekoros@
+stanford.edu.
+A local collaborative initiative to
+which Stanford is a contributor is asking
+residents of homes and schools along the
+Hayward Fault to install earthquake
+sensing devices that will create the
+"Quake-Catcher Network" (QCN) to
+monitor seismic activity.
+
+Inspired by SeisMac, a program that
+effectively turns Macintosh computers
+into seismographs, and BOINC, open
+source software that allows individuals
+to remotely donate their computers' un
+used processing power to researchers,
+QCN attaches sensors to personal com
+puters to create a low-cost yet dense seis
+mic network.
+
+"With 6,000 sensors, it's amazing what
+one can do," said geophysics assistant
+professor and QCN project leader Jesse
+
+Lawrence. "People are used to talking
+about tens or hundreds even, but not
+thousands."
+
+QCN has already installed 2,000 sen
+sors and plans to install at least 6,000
+more worldwide in the next couple of
+years, with the potential to grow to 60,000
+or more. Lawrence and USGS researcher
+Elizabeth Cochran lead the study.
+
+Last weekend, QCN volunteers trav
+eled to areas along the Hayward fault to
+install the sensors in the floors of project
+participants and connect them to their
+computers with USB cables. Equipped
+with a micro-electro-mechanical systems
+(MEMS) chip, each sensor can measure
+acceleration in three directions, making
+it possible to ascertain the direction of
+the earth's movement.
+
+When a MEMS chip detects a strong
+
+
+KEVIN TSUKII/The Stanford Daily
+The Quake-Catcher Network offers small devices that connect to computers around the
+Hayward fault and together measure seismic activity, including earthquakes.
+new motion, it uploads small bits
+of data to QCN's server to report a
+potential new event. If the motion
+proves isolated to one computer, it
+will appear as a blip and will not
+disrupt QCN's system. However, if
+the server receives data from many
+chips, it detects a regional event,
+such as an earthquake.
+
+"It's a little bit like the nervous
+system," Lawrence said. "If one
+nerve were to fire on your finger
+tip, you wouldn't notice, but when
+a bunch of them fire all at once,
+you notice that maybe there's an
+event there."
+"The sensor doesn't interfere
+at all with your computer, so you
+don't see it actually working, but
+you know it's there and that it's
+sending data to this big network,"
+said QCN administrator Claudia
+Baroni, who organizes volunteers
+and finances. "It's a huge amount
+of people working toward the
+same goal."
+
+The low cost of each sensor
+makes building a dense seismic
+network possible. Although larg
+er sensors can cost anywhere from
+$25,000 to $50,000 dollars and
+may cost an additional $lO,OOO a
+
+year to maintain, QCN's highest
+quality smaller sensors each cost
+only $l5O. An individual small
+sensor cannot measure ground
+motion as accurately as a larger
+sensor, but the sum of the small
+sensors creates a network, which
+can be better for monitoring
+strong motion.
+"We're not going to be observ
+ing earthquakes across the planet,
+but we'll be able to detect them re
+ally rapidly and very well up close,
+and this project is really aimed at
+looking at how the earthquakes
+look up close," Lawrence said.
+QCN experimented with a sim
+ilar program in New Zealand and
+plans to expand beyond the Hay
+ward fault, covering the entire
+Bay Area and parts of Southern
+California, the Pacific Northwest,
+Anchorage, Salt Lake City and
+Memphis. Expanding internation
+ally to Mexico, Taiwan, Peru and
+Chile is also a possibility, the re
+searchers said.
+
+QCN is funded by a National
+Science Foundation grant and
+small sums of money from agen
+cies like the Southern California
+Earthquake Center, the Incorpo
+rated Research Institutions for
+Seismology and the United Parcel
+Service (UPS). This funding al
+lows QCN to provide sensors to
+participants in certain regions for
+free. However, all individuals can
+
+buy sensors on QCN's website for
+$49, and teachers in all regions
+can request up to three sensors at
+a subsidized rate of five dollars.
+
+"I love that it gets the commu
+nity involved, because I am very
+passionate about helping people,
+and I think this is a great way to
+educate people about earth
+quakes, because we're installing
+seismometers in their homes and
+getting people involved in aware
+ness," said third-year geophysics
+graduate student Angela Chung.
+QCN's applied scientific objec
+tive is to determine whether or not
+the network can detect an earth
+quake's magnitude and location
+rapidly enough to alert the affect
+ed community before the waves
+actually reach them, creating an
+earthquake early-warning system.
+Additionally, QCN sensors can de
+tect earthquake magnitude, so
+they could help emergency ser
+vices find those who were hit the
+hardest by an earthquake.
+"[The goal of the project] from
+my perspective is to learn more
+about the Earth," Lawrence said.
+"From the practical side, it's to
+help us better understand earth
+quake hazards and how to better
+prepare and better respond to
+earthquake hazards."
+
+Contact Elaina Koros at ekoros@
+stanford.edu.
+A local collaborative initiative to
+which Stanford is a contributor is asking
+residents of homes and schools along the
+Hayward Fault to install earthquake
+sensing devices that will create the
+"Quake-Catcher Network" (QCN) to
+monitor seismic activity.
+
+Inspired by SeisMac, a program that
+effectively turns Macintosh computers
+into seismographs, and BOINC, open
+source software that allows individuals
+to remotely donate their computers' un
+used processing power to researchers,
+QCN attaches sensors to personal com
+puters to create a low-cost yet dense seis
+mic network.
+
+"With 6,000 sensors, it's amazing what
+one can do," said geophysics assistant
+professor and QCN project leader Jesse
+
+Lawrence. "People are used to talking
+about tens or hundreds even, but not
+thousands."
+
+QCN has already installed 2,000 sen
+sors and plans to install at least 6,000
+more worldwide in the next couple of
+years, with the potential to grow to 60,000
+or more. Lawrence and USGS researcher
+Elizabeth Cochran lead the study.
+
+Last weekend, QCN volunteers trav
+eled to areas along the Hayward fault to
+install the sensors in the floors of project
+participants and connect them to their
+computers with USB cables. Equipped
+with a micro-electro-mechanical systems
+(MEMS) chip, each sensor can measure
+acceleration in three directions, making
+it possible to ascertain the direction of
+the earth's movement.
+
+When a MEMS chip detects a strong
+
+
+KEVIN TSUKII/The Stanford Daily
+The Quake-Catcher Network offers small devices that connect to computers around the
+Hayward fault and together measure seismic activity, including earthquakes.
+new motion, it uploads small bits
+of data to QCN's server to report a
+potential new event. If the motion
+proves isolated to one computer, it
+will appear as a blip and will not
+disrupt QCN's system. However, if
+the server receives data from many
+chips, it detects a regional event,
+such as an earthquake.
+
+"It's a little bit like the nervous
+system," Lawrence said. "If one
+nerve were to fire on your finger
+tip, you wouldn't notice, but when
+a bunch of them fire all at once,
+you notice that maybe there's an
+event there."
+"The sensor doesn't interfere
+at all with your computer, so you
+don't see it actually working, but
+you know it's there and that it's
+sending data to this big network,"
+said QCN administrator Claudia
+Baroni, who organizes volunteers
+and finances. "It's a huge amount
+of people working toward the
+same goal."
+
+The low cost of each sensor
+makes building a dense seismic
+network possible. Although larg
+er sensors can cost anywhere from
+$25,000 to $50,000 dollars and
+may cost an additional $lO,OOO a
+
+year to maintain, QCN's highest
+quality smaller sensors each cost
+only $l5O. An individual small
+sensor cannot measure ground
+motion as accurately as a larger
+sensor, but the sum of the small
+sensors creates a network, which
+can be better for monitoring
+strong motion.
+"We're not going to be observ
+ing earthquakes across the planet,
+but we'll be able to detect them re
+ally rapidly and very well up close,
+and this project is really aimed at
+looking at how the earthquakes
+look up close," Lawrence said.
+QCN experimented with a sim
+ilar program in New Zealand and
+plans to expand beyond the Hay
+ward fault, covering the entire
+Bay Area and parts of Southern
+California, the Pacific Northwest,
+Anchorage, Salt Lake City and
+Memphis. Expanding internation
+ally to Mexico, Taiwan, Peru and
+Chile is also a possibility, the re
+searchers said.
+
+QCN is funded by a National
+Science Foundation grant and
+small sums of money from agen
+cies like the Southern California
+Earthquake Center, the Incorpo
+rated Research Institutions for
+Seismology and the United Parcel
+Service (UPS). This funding al
+lows QCN to provide sensors to
+participants in certain regions for
+free. However, all individuals can
+
+buy sensors on QCN's website for
+$49, and teachers in all regions
+can request up to three sensors at
+a subsidized rate of five dollars.
+
+"I love that it gets the commu
+nity involved, because I am very
+passionate about helping people,
+and I think this is a great way to
+educate people about earth
+quakes, because we're installing
+seismometers in their homes and
+getting people involved in aware
+ness," said third-year geophysics
+graduate student Angela Chung.
+QCN's applied scientific objec
+tive is to determine whether or not
+the network can detect an earth
+quake's magnitude and location
+rapidly enough to alert the affect
+ed community before the waves
+actually reach them, creating an
+earthquake early-warning system.
+Additionally, QCN sensors can de
+tect earthquake magnitude, so
+they could help emergency ser
+vices find those who were hit the
+hardest by an earthquake.
+"[The goal of the project] from
+my perspective is to learn more
+about the Earth," Lawrence said.
+"From the practical side, it's to
+help us better understand earth
+quake hazards and how to better
+prepare and better respond to
+earthquake hazards."
+
+Contact Elaina Koros at ekoros@
+stanford.edu.
+A local collaborative initiative to
+which Stanford is a contributor is asking
+residents of homes and schools along the
+Hayward Fault to install earthquake
+sensing devices that will create the
+"Quake-Catcher Network" (QCN) to
+monitor seismic activity.
+
+Inspired by SeisMac, a program that
+effectively turns Macintosh computers
+into seismographs, and BOINC, open
+source software that allows individuals
+to remotely donate their computers' un
+used processing power to researchers,
+QCN attaches sensors to personal com
+puters to create a low-cost yet dense seis
+mic network.
+
+"With 6,000 sensors, it's amazing what
+one can do," said geophysics assistant
+professor and QCN project leader Jesse
+
+Lawrence. "People are used to talking
+about tens or hundreds even, but not
+thousands."
+
+QCN has already installed 2,000 sen
+sors and plans to install at least 6,000
+more worldwide in the next couple of
+years, with the potential to grow to 60,000
+or more. Lawrence and USGS researcher
+Elizabeth Cochran lead the study.
+
+Last weekend, QCN volunteers trav
+eled to areas along the Hayward fault to
+install the sensors in the floors of project
+participants and connect them to their
+computers with USB cables. Equipped
+with a micro-electro-mechanical systems
+(MEMS) chip, each sensor can measure
+acceleration in three directions, making
+it possible to ascertain the direction of
+the earth's movement.
+
+When a MEMS chip detects a strong
+
+
+KEVIN TSUKII/The Stanford Daily
+The Quake-Catcher Network offers small devices that connect to computers around the
+Hayward fault and together measure seismic activity, including earthquakes.
+new motion, it uploads small bits
+of data to QCN's server to report a
+potential new event. If the motion
+proves isolated to one computer, it
+will appear as a blip and will not
+disrupt QCN's system. However, if
+the server receives data from many
+chips, it detects a regional event,
+such as an earthquake.
+
+"It's a little bit like the nervous
+system," Lawrence said. "If one
+nerve were to fire on your finger
+tip, you wouldn't notice, but when
+a bunch of them fire all at once,
+you notice that maybe there's an
+event there."
+"The sensor doesn't interfere
+at all with your computer, so you
+don't see it actually working, but
+you know it's there and that it's
+sending data to this big network,"
+said QCN administrator Claudia
+Baroni, who organizes volunteers
+and finances. "It's a huge amount
+of people working toward the
+same goal."
+
+The low cost of each sensor
+makes building a dense seismic
+network possible. Although larg
+er sensors can cost anywhere from
+$25,000 to $50,000 dollars and
+may cost an additional $lO,OOO a
+
+year to maintain, QCN's highest
+quality smaller sensors each cost
+only $l5O. An individual small
+sensor cannot measure ground
+motion as accurately as a larger
+sensor, but the sum of the small
+sensors creates a network, which
+can be better for monitoring
+strong motion.
+"We're not going to be observ
+ing earthquakes across the planet,
+but we'll be able to detect them re
+ally rapidly and very well up close,
+and this project is really aimed at
+looking at how the earthquakes
+look up close," Lawrence said.
+QCN experimented with a sim
+ilar program in New Zealand and
+plans to expand beyond the Hay
+ward fault, covering the entire
+Bay Area and parts of Southern
+California, the Pacific Northwest,
+Anchorage, Salt Lake City and
+Memphis. Expanding internation
+ally to Mexico, Taiwan, Peru and
+Chile is also a possibility, the re
+searchers said.
+
+QCN is funded by a National
+Science Foundation grant and
+small sums of money from agen
+cies like the Southern California
+Earthquake Center, the Incorpo
+rated Research Institutions for
+Seismology and the United Parcel
+Service (UPS). This funding al
+lows QCN to provide sensors to
+participants in certain regions for
+free. However, all individuals can
+
+buy sensors on QCN's website for
+$49, and teachers in all regions
+can request up to three sensors at
+a subsidized rate of five dollars.
+
+"I love that it gets the commu
+nity involved, because I am very
+passionate about helping people,
+and I think this is a great way to
+educate people about earth
+quakes, because we're installing
+seismometers in their homes and
+getting people involved in aware
+ness," said third-year geophysics
+graduate student Angela Chung.
+QCN's applied scientific objec
+tive is to determine whether or not
+the network can detect an earth
+quake's magnitude and location
+rapidly enough to alert the affect
+ed community before the waves
+actually reach them, creating an
+earthquake early-warning system.
+Additionally, QCN sensors can de
+tect earthquake magnitude, so
+they could help emergency ser
+vices find those who were hit the
+hardest by an earthquake.
+"[The goal of the project] from
+my perspective is to learn more
+about the Earth," Lawrence said.
+"From the practical side, it's to
+help us better understand earth
+quake hazards and how to better
+prepare and better respond to
+earthquake hazards."
+
+Contact Elaina Koros at ekoros@
+stanford.edu.
+A local collaborative initiative to
+which Stanford is a contributor is asking
+residents of homes and schools along the
+Hayward Fault to install earthquake
+sensing devices that will create the
+"Quake-Catcher Network" (QCN) to
+monitor seismic activity.
+
+Inspired by SeisMac, a program that
+effectively turns Macintosh computers
+into seismographs, and BOINC, open
+source software that allows individuals
+to remotely donate their computers' un
+used processing power to researchers,
+QCN attaches sensors to personal com
+puters to create a low-cost yet dense seis
+mic network.
+
+"With 6,000 sensors, it's amazing what
+one can do," said geophysics assistant
+professor and QCN project leader Jesse
+
+Lawrence. "People are used to talking
+about tens or hundreds even, but not
+thousands."
+
+QCN has already installed 2,000 sen
+sors and plans to install at least 6,000
+more worldwide in the next couple of
+years, with the potential to grow to 60,000
+or more. Lawrence and USGS researcher
+Elizabeth Cochran lead the study.
+
+Last weekend, QCN volunteers trav
+eled to areas along the Hayward fault to
+install the sensors in the floors of project
+participants and connect them to their
+computers with USB cables. Equipped
+with a micro-electro-mechanical systems
+(MEMS) chip, each sensor can measure
+acceleration in three directions, making
+it possible to ascertain the direction of
+the earth's movement.
+
+When a MEMS chip detects a strong
+
+
+KEVIN TSUKII/The Stanford Daily
+The Quake-Catcher Network offers small devices that connect to computers around the
+Hayward fault and together measure seismic activity, including earthquakes.
+new motion, it uploads small bits
+of data to QCN's server to report a
+potential new event. If the motion
+proves isolated to one computer, it
+will appear as a blip and will not
+disrupt QCN's system. However, if
+the server receives data from many
+chips, it detects a regional event,
+such as an earthquake.
+
+"It's a little bit like the nervous
+system," Lawrence said. "If one
+nerve were to fire on your finger
+tip, you wouldn't notice, but when
+a bunch of them fire all at once,
+you notice that maybe there's an
+event there."
+"The sensor doesn't interfere
+at all with your computer, so you
+don't see it actually working, but
+you know it's there and that it's
+sending data to this big network,"
+said QCN administrator Claudia
+Baroni, who organizes volunteers
+and finances. "It's a huge amount
+of people working toward the
+same goal."
+
+The low cost of each sensor
+makes building a dense seismic
+network possible. Although larg
+er sensors can cost anywhere from
+$25,000 to $50,000 dollars and
+may cost an additional $lO,OOO a
+
+year to maintain, QCN's highest
+quality smaller sensors each cost
+only $l5O. An individual small
+sensor cannot measure ground
+motion as accurately as a larger
+sensor, but the sum of the small
+sensors creates a network, which
+can be better for monitoring
+strong motion.
+"We're not going to be observ
+ing earthquakes across the planet,
+but we'll be able to detect them re
+ally rapidly and very well up close,
+and this project is really aimed at
+looking at how the earthquakes
+look up close," Lawrence said.
+QCN experimented with a sim
+ilar program in New Zealand and
+plans to expand beyond the Hay
+ward fault, covering the entire
+Bay Area and parts of Southern
+California, the Pacific Northwest,
+Anchorage, Salt Lake City and
+Memphis. Expanding internation
+ally to Mexico, Taiwan, Peru and
+Chile is also a possibility, the re
+searchers said.
+
+QCN is funded by a National
+Science Foundation grant and
+small sums of money from agen
+cies like the Southern California
+Earthquake Center, the Incorpo
+rated Research Institutions for
+Seismology and the United Parcel
+Service (UPS). This funding al
+lows QCN to provide sensors to
+participants in certain regions for
+free. However, all individuals can
+
+buy sensors on QCN's website for
+$49, and teachers in all regions
+can request up to three sensors at
+a subsidized rate of five dollars.
+
+"I love that it gets the commu
+nity involved, because I am very
+passionate about helping people,
+and I think this is a great way to
+educate people about earth
+quakes, because we're installing
+seismometers in their homes and
+getting people involved in aware
+ness," said third-year geophysics
+graduate student Angela Chung.
+QCN's applied scientific objec
+tive is to determine whether or not
+the network can detect an earth
+quake's magnitude and location
+rapidly enough to alert the affect
+ed community before the waves
+actually reach them, creating an
+earthquake early-warning system.
+Additionally, QCN sensors can de
+tect earthquake magnitude, so
+they could help emergency ser
+vices find those who were hit the
+hardest by an earthquake.
+"[The goal of the project] from
+my perspective is to learn more
+about the Earth," Lawrence said.
+"From the practical side, it's to
+help us better understand earth
+quake hazards and how to better
+prepare and better respond to
+earthquake hazards."
+
+Contact Elaina Koros at ekoros@
+stanford.edu.

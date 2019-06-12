@@ -1,0 +1,1299 @@
+# Predicting the MLB season
+## 
+### Jacob Jaffe Stat on the Back 
+It's the second week of April,
+which means March Madness
+and the Masters have given
+way to the start of baseball
+season. And that means it's
+time for Jumping to Ridiculous
+Conclusions, Volume 2! Since I'm
+far too lazy to physically jump to
+these conclusions, here's my second
+annual way-too-early MLB col
+umn.
+Last year, I analyzed the first
+week of the season to predict what
+would happen at the end of the year,
+and to everyone's surprise, the first
+week didn't adequately predict the
+entire season.
+But I've learned my lesson. As a
+mathematical and computational
+science major, I can tell you that last
+year's sample size was far too big. So
+I've taken it upon myself to write
+this column after the first full week
+end of the season, when just 48 of
+the 2,430 games have been played.
+Here's what we've learned so far in
+Major League Baseball.
+As expected, the World Series
+looks like it could very well come
+down to a battle of eastern teams.
+Both the Mets and Orioles complet
+ed three-game home sweeps on
+Sunday thanks to starters that flirt
+ed with no-hitters. Next stop, Fall
+Classic!
+Likelihood of this happening:
+about the chance of me getting a
+double eagle in the final round of
+the Masters. And I've never played
+golf.
+In fact, winning your opening se
+ries isn't much of a sign of postsea
+son success. Three of the last four
+World Series champs lost their
+opening series 2-1. So maybe we
+should be looking for a Phillies-An
+gels World Series after both lost two
+in a row to sub-.500 central teams.
+Likelihood of this happening:
+decent. Despite their poor starts,
+both are expected to contend for
+their respective pennants. The
+Phillies are aging but still as talented
+as anyone in the National League,
+while the Angels pulled the ultimate
+offseason trifecta of adding the best
+hitter available (Albert Pujols),
+adding the best pitcher available
+(C.J. Wilson) and subtracting the
+worst hitter available (Jeff Mathis).
+If you want to look for a star
+pitcher in the American League,
+you could look at obvious guys like
+Justin Verlander and Jered Weaver,
+who each threw eight shutout in
+nings in their first start. But if you
+want a real Cy Young threat, how
+about Verlander's teammate Duane
+Below? He leads the majors with
+two wins already and has allowed
+just one baserunner all year.
+Likelihood of this happening:
+none. Sorry, Duane, but a middle re
+liever with zero career wins before
+this season isn't going to take home
+the trophy, even if you don't allow a
+run all year.
+As far as hitting, the early season
+hasn't lacked power. Four players
+Miguel Cabrera, Yoenis Ces
+pedes, Corey Hart and Jay Bruce
+have already hit three home runs
+apiece. Hart and Bruce are two of
+the better power hitters in the Na
+tional League, and Cabrera may
+very well be the best hitter in the
+game, but Cespedes has been cap
+turing the nation's attention (which
+is hard to do when you play for the
+A's) with his mammoth home runs.
+Could this quartet be at the top of
+the home run lists at season's end?
+Likelihood of this happening:
+unlikely, but definitely possible.
+With the departures of Pujols and
+Prince Fielder to the American
+League, the National League lost
+two of its three best home-run hit
+ters, so Hart and Bruce could be two
+of the best sluggers left. Cabrera has
+hit 30 home runs in seven of the past
+eight years, so I wouldn't put it past
+him. At some point, AL pitchers will
+stop throwing Cespedes belt-high
+fastballs and make him work for his
+homers, and you'd have to think that
+Pujols and Fielder (not to mention
+Jose Bautista and the whole Yan
+kees and Rangers rosters) will fac
+tor into the home run races.
+For all the good so far, there's of
+course been an equal amount of
+bad, and for some of the big boys,
+opening weekend was less than stel
+lar. Three of the past five champs
+the Giants, Yankees and Red Sox
+got swept in their opening series.
+This is particularly surprising for the
+
+Yankees, who, prior to their week
+end sweep at the hands of the Rays,
+had not been swept to start a season
+since 1998.Andthatyear New York
+won 114 games and the World Se
+ries. So don't cry for the Yankees yet
+(not that you ever would).
+Likelihood of this happening:
+very unlikely. For as much talent as
+the Yankees have (what else is
+new), there is a whole lot of other
+talent in that division. Winning over
+70 percent of the next 159 games
+will be almost impossible when
+over a third of them will be against
+Boston, Tampa Bay and Toronto, al
+though the World Series is certainly
+in play for the Bombers.
+
+With so much to be determined
+over the next seven months, I
+might as well throw my own guess
+es into the mix. I'll say the Rays,
+Tigers and Rangers will win their
+divisions in the American League,
+with the Yankees and Angels as
+the wild cards, and the Phillies,
+Reds and Diamondbacks will win
+their divisions in the National
+League, with the Cardinals and
+Giants as the wild cards. I'll go
+Rays-Reds in the World Series,
+with Tampa Bay bringing home its
+first title.
+Likelihood of this happening:
+not a chance.
+
+Likelihood of Jacob Jaffe writing
+about baseball each of the next nine
+weeks: 100 percent. Predict the
+topic of next week's column at jw
+jaffe@stanford.edu and follow him
+on Twitter @Jacob_Jaffe.
+It's the second week of April,
+which means March Madness
+and the Masters have given
+way to the start of baseball
+season. And that means it's
+time for Jumping to Ridiculous
+Conclusions, Volume 2! Since I'm
+far too lazy to physically jump to
+these conclusions, here's my second
+annual way-too-early MLB col
+umn.
+Last year, I analyzed the first
+week of the season to predict what
+would happen at the end of the year,
+and to everyone's surprise, the first
+week didn't adequately predict the
+entire season.
+But I've learned my lesson. As a
+mathematical and computational
+science major, I can tell you that last
+year's sample size was far too big. So
+I've taken it upon myself to write
+this column after the first full week
+end of the season, when just 48 of
+the 2,430 games have been played.
+Here's what we've learned so far in
+Major League Baseball.
+As expected, the World Series
+looks like it could very well come
+down to a battle of eastern teams.
+Both the Mets and Orioles complet
+ed three-game home sweeps on
+Sunday thanks to starters that flirt
+ed with no-hitters. Next stop, Fall
+Classic!
+Likelihood of this happening:
+about the chance of me getting a
+double eagle in the final round of
+the Masters. And I've never played
+golf.
+In fact, winning your opening se
+ries isn't much of a sign of postsea
+son success. Three of the last four
+World Series champs lost their
+opening series 2-1. So maybe we
+should be looking for a Phillies-An
+gels World Series after both lost two
+in a row to sub-.500 central teams.
+Likelihood of this happening:
+decent. Despite their poor starts,
+both are expected to contend for
+their respective pennants. The
+Phillies are aging but still as talented
+as anyone in the National League,
+while the Angels pulled the ultimate
+offseason trifecta of adding the best
+hitter available (Albert Pujols),
+adding the best pitcher available
+(C.J. Wilson) and subtracting the
+worst hitter available (Jeff Mathis).
+If you want to look for a star
+pitcher in the American League,
+you could look at obvious guys like
+Justin Verlander and Jered Weaver,
+who each threw eight shutout in
+nings in their first start. But if you
+want a real Cy Young threat, how
+about Verlander's teammate Duane
+Below? He leads the majors with
+two wins already and has allowed
+just one baserunner all year.
+Likelihood of this happening:
+none. Sorry, Duane, but a middle re
+liever with zero career wins before
+this season isn't going to take home
+the trophy, even if you don't allow a
+run all year.
+As far as hitting, the early season
+hasn't lacked power. Four players
+Miguel Cabrera, Yoenis Ces
+pedes, Corey Hart and Jay Bruce
+have already hit three home runs
+apiece. Hart and Bruce are two of
+the better power hitters in the Na
+tional League, and Cabrera may
+very well be the best hitter in the
+game, but Cespedes has been cap
+turing the nation's attention (which
+is hard to do when you play for the
+A's) with his mammoth home runs.
+Could this quartet be at the top of
+the home run lists at season's end?
+Likelihood of this happening:
+unlikely, but definitely possible.
+With the departures of Pujols and
+Prince Fielder to the American
+League, the National League lost
+two of its three best home-run hit
+ters, so Hart and Bruce could be two
+of the best sluggers left. Cabrera has
+hit 30 home runs in seven of the past
+eight years, so I wouldn't put it past
+him. At some point, AL pitchers will
+stop throwing Cespedes belt-high
+fastballs and make him work for his
+homers, and you'd have to think that
+Pujols and Fielder (not to mention
+Jose Bautista and the whole Yan
+kees and Rangers rosters) will fac
+tor into the home run races.
+For all the good so far, there's of
+course been an equal amount of
+bad, and for some of the big boys,
+opening weekend was less than stel
+lar. Three of the past five champs
+the Giants, Yankees and Red Sox
+got swept in their opening series.
+This is particularly surprising for the
+
+Yankees, who, prior to their week
+end sweep at the hands of the Rays,
+had not been swept to start a season
+since 1998.Andthatyear New York
+won 114 games and the World Se
+ries. So don't cry for the Yankees yet
+(not that you ever would).
+Likelihood of this happening:
+very unlikely. For as much talent as
+the Yankees have (what else is
+new), there is a whole lot of other
+talent in that division. Winning over
+70 percent of the next 159 games
+will be almost impossible when
+over a third of them will be against
+Boston, Tampa Bay and Toronto, al
+though the World Series is certainly
+in play for the Bombers.
+
+With so much to be determined
+over the next seven months, I
+might as well throw my own guess
+es into the mix. I'll say the Rays,
+Tigers and Rangers will win their
+divisions in the American League,
+with the Yankees and Angels as
+the wild cards, and the Phillies,
+Reds and Diamondbacks will win
+their divisions in the National
+League, with the Cardinals and
+Giants as the wild cards. I'll go
+Rays-Reds in the World Series,
+with Tampa Bay bringing home its
+first title.
+Likelihood of this happening:
+not a chance.
+
+Likelihood of Jacob Jaffe writing
+about baseball each of the next nine
+weeks: 100 percent. Predict the
+topic of next week's column at jw
+jaffe@stanford.edu and follow him
+on Twitter @Jacob_Jaffe.
+It's the second week of April,
+which means March Madness
+and the Masters have given
+way to the start of baseball
+season. And that means it's
+time for Jumping to Ridiculous
+Conclusions, Volume 2! Since I'm
+far too lazy to physically jump to
+these conclusions, here's my second
+annual way-too-early MLB col
+umn.
+Last year, I analyzed the first
+week of the season to predict what
+would happen at the end of the year,
+and to everyone's surprise, the first
+week didn't adequately predict the
+entire season.
+But I've learned my lesson. As a
+mathematical and computational
+science major, I can tell you that last
+year's sample size was far too big. So
+I've taken it upon myself to write
+this column after the first full week
+end of the season, when just 48 of
+the 2,430 games have been played.
+Here's what we've learned so far in
+Major League Baseball.
+As expected, the World Series
+looks like it could very well come
+down to a battle of eastern teams.
+Both the Mets and Orioles complet
+ed three-game home sweeps on
+Sunday thanks to starters that flirt
+ed with no-hitters. Next stop, Fall
+Classic!
+Likelihood of this happening:
+about the chance of me getting a
+double eagle in the final round of
+the Masters. And I've never played
+golf.
+In fact, winning your opening se
+ries isn't much of a sign of postsea
+son success. Three of the last four
+World Series champs lost their
+opening series 2-1. So maybe we
+should be looking for a Phillies-An
+gels World Series after both lost two
+in a row to sub-.500 central teams.
+Likelihood of this happening:
+decent. Despite their poor starts,
+both are expected to contend for
+their respective pennants. The
+Phillies are aging but still as talented
+as anyone in the National League,
+while the Angels pulled the ultimate
+offseason trifecta of adding the best
+hitter available (Albert Pujols),
+adding the best pitcher available
+(C.J. Wilson) and subtracting the
+worst hitter available (Jeff Mathis).
+If you want to look for a star
+pitcher in the American League,
+you could look at obvious guys like
+Justin Verlander and Jered Weaver,
+who each threw eight shutout in
+nings in their first start. But if you
+want a real Cy Young threat, how
+about Verlander's teammate Duane
+Below? He leads the majors with
+two wins already and has allowed
+just one baserunner all year.
+Likelihood of this happening:
+none. Sorry, Duane, but a middle re
+liever with zero career wins before
+this season isn't going to take home
+the trophy, even if you don't allow a
+run all year.
+As far as hitting, the early season
+hasn't lacked power. Four players
+Miguel Cabrera, Yoenis Ces
+pedes, Corey Hart and Jay Bruce
+have already hit three home runs
+apiece. Hart and Bruce are two of
+the better power hitters in the Na
+tional League, and Cabrera may
+very well be the best hitter in the
+game, but Cespedes has been cap
+turing the nation's attention (which
+is hard to do when you play for the
+A's) with his mammoth home runs.
+Could this quartet be at the top of
+the home run lists at season's end?
+Likelihood of this happening:
+unlikely, but definitely possible.
+With the departures of Pujols and
+Prince Fielder to the American
+League, the National League lost
+two of its three best home-run hit
+ters, so Hart and Bruce could be two
+of the best sluggers left. Cabrera has
+hit 30 home runs in seven of the past
+eight years, so I wouldn't put it past
+him. At some point, AL pitchers will
+stop throwing Cespedes belt-high
+fastballs and make him work for his
+homers, and you'd have to think that
+Pujols and Fielder (not to mention
+Jose Bautista and the whole Yan
+kees and Rangers rosters) will fac
+tor into the home run races.
+For all the good so far, there's of
+course been an equal amount of
+bad, and for some of the big boys,
+opening weekend was less than stel
+lar. Three of the past five champs
+the Giants, Yankees and Red Sox
+got swept in their opening series.
+This is particularly surprising for the
+
+Yankees, who, prior to their week
+end sweep at the hands of the Rays,
+had not been swept to start a season
+since 1998.Andthatyear New York
+won 114 games and the World Se
+ries. So don't cry for the Yankees yet
+(not that you ever would).
+Likelihood of this happening:
+very unlikely. For as much talent as
+the Yankees have (what else is
+new), there is a whole lot of other
+talent in that division. Winning over
+70 percent of the next 159 games
+will be almost impossible when
+over a third of them will be against
+Boston, Tampa Bay and Toronto, al
+though the World Series is certainly
+in play for the Bombers.
+
+With so much to be determined
+over the next seven months, I
+might as well throw my own guess
+es into the mix. I'll say the Rays,
+Tigers and Rangers will win their
+divisions in the American League,
+with the Yankees and Angels as
+the wild cards, and the Phillies,
+Reds and Diamondbacks will win
+their divisions in the National
+League, with the Cardinals and
+Giants as the wild cards. I'll go
+Rays-Reds in the World Series,
+with Tampa Bay bringing home its
+first title.
+Likelihood of this happening:
+not a chance.
+
+Likelihood of Jacob Jaffe writing
+about baseball each of the next nine
+weeks: 100 percent. Predict the
+topic of next week's column at jw
+jaffe@stanford.edu and follow him
+on Twitter @Jacob_Jaffe.
+It's the second week of April,
+which means March Madness
+and the Masters have given
+way to the start of baseball
+season. And that means it's
+time for Jumping to Ridiculous
+Conclusions, Volume 2! Since I'm
+far too lazy to physically jump to
+these conclusions, here's my second
+annual way-too-early MLB col
+umn.
+Last year, I analyzed the first
+week of the season to predict what
+would happen at the end of the year,
+and to everyone's surprise, the first
+week didn't adequately predict the
+entire season.
+But I've learned my lesson. As a
+mathematical and computational
+science major, I can tell you that last
+year's sample size was far too big. So
+I've taken it upon myself to write
+this column after the first full week
+end of the season, when just 48 of
+the 2,430 games have been played.
+Here's what we've learned so far in
+Major League Baseball.
+As expected, the World Series
+looks like it could very well come
+down to a battle of eastern teams.
+Both the Mets and Orioles complet
+ed three-game home sweeps on
+Sunday thanks to starters that flirt
+ed with no-hitters. Next stop, Fall
+Classic!
+Likelihood of this happening:
+about the chance of me getting a
+double eagle in the final round of
+the Masters. And I've never played
+golf.
+In fact, winning your opening se
+ries isn't much of a sign of postsea
+son success. Three of the last four
+World Series champs lost their
+opening series 2-1. So maybe we
+should be looking for a Phillies-An
+gels World Series after both lost two
+in a row to sub-.500 central teams.
+Likelihood of this happening:
+decent. Despite their poor starts,
+both are expected to contend for
+their respective pennants. The
+Phillies are aging but still as talented
+as anyone in the National League,
+while the Angels pulled the ultimate
+offseason trifecta of adding the best
+hitter available (Albert Pujols),
+adding the best pitcher available
+(C.J. Wilson) and subtracting the
+worst hitter available (Jeff Mathis).
+If you want to look for a star
+pitcher in the American League,
+you could look at obvious guys like
+Justin Verlander and Jered Weaver,
+who each threw eight shutout in
+nings in their first start. But if you
+want a real Cy Young threat, how
+about Verlander's teammate Duane
+Below? He leads the majors with
+two wins already and has allowed
+just one baserunner all year.
+Likelihood of this happening:
+none. Sorry, Duane, but a middle re
+liever with zero career wins before
+this season isn't going to take home
+the trophy, even if you don't allow a
+run all year.
+As far as hitting, the early season
+hasn't lacked power. Four players
+Miguel Cabrera, Yoenis Ces
+pedes, Corey Hart and Jay Bruce
+have already hit three home runs
+apiece. Hart and Bruce are two of
+the better power hitters in the Na
+tional League, and Cabrera may
+very well be the best hitter in the
+game, but Cespedes has been cap
+turing the nation's attention (which
+is hard to do when you play for the
+A's) with his mammoth home runs.
+Could this quartet be at the top of
+the home run lists at season's end?
+Likelihood of this happening:
+unlikely, but definitely possible.
+With the departures of Pujols and
+Prince Fielder to the American
+League, the National League lost
+two of its three best home-run hit
+ters, so Hart and Bruce could be two
+of the best sluggers left. Cabrera has
+hit 30 home runs in seven of the past
+eight years, so I wouldn't put it past
+him. At some point, AL pitchers will
+stop throwing Cespedes belt-high
+fastballs and make him work for his
+homers, and you'd have to think that
+Pujols and Fielder (not to mention
+Jose Bautista and the whole Yan
+kees and Rangers rosters) will fac
+tor into the home run races.
+For all the good so far, there's of
+course been an equal amount of
+bad, and for some of the big boys,
+opening weekend was less than stel
+lar. Three of the past five champs
+the Giants, Yankees and Red Sox
+got swept in their opening series.
+This is particularly surprising for the
+
+Yankees, who, prior to their week
+end sweep at the hands of the Rays,
+had not been swept to start a season
+since 1998.Andthatyear New York
+won 114 games and the World Se
+ries. So don't cry for the Yankees yet
+(not that you ever would).
+Likelihood of this happening:
+very unlikely. For as much talent as
+the Yankees have (what else is
+new), there is a whole lot of other
+talent in that division. Winning over
+70 percent of the next 159 games
+will be almost impossible when
+over a third of them will be against
+Boston, Tampa Bay and Toronto, al
+though the World Series is certainly
+in play for the Bombers.
+
+With so much to be determined
+over the next seven months, I
+might as well throw my own guess
+es into the mix. I'll say the Rays,
+Tigers and Rangers will win their
+divisions in the American League,
+with the Yankees and Angels as
+the wild cards, and the Phillies,
+Reds and Diamondbacks will win
+their divisions in the National
+League, with the Cardinals and
+Giants as the wild cards. I'll go
+Rays-Reds in the World Series,
+with Tampa Bay bringing home its
+first title.
+Likelihood of this happening:
+not a chance.
+
+Likelihood of Jacob Jaffe writing
+about baseball each of the next nine
+weeks: 100 percent. Predict the
+topic of next week's column at jw
+jaffe@stanford.edu and follow him
+on Twitter @Jacob_Jaffe.
+It's the second week of April,
+which means March Madness
+and the Masters have given
+way to the start of baseball
+season. And that means it's
+time for Jumping to Ridiculous
+Conclusions, Volume 2! Since I'm
+far too lazy to physically jump to
+these conclusions, here's my second
+annual way-too-early MLB col
+umn.
+Last year, I analyzed the first
+week of the season to predict what
+would happen at the end of the year,
+and to everyone's surprise, the first
+week didn't adequately predict the
+entire season.
+But I've learned my lesson. As a
+mathematical and computational
+science major, I can tell you that last
+year's sample size was far too big. So
+I've taken it upon myself to write
+this column after the first full week
+end of the season, when just 48 of
+the 2,430 games have been played.
+Here's what we've learned so far in
+Major League Baseball.
+As expected, the World Series
+looks like it could very well come
+down to a battle of eastern teams.
+Both the Mets and Orioles complet
+ed three-game home sweeps on
+Sunday thanks to starters that flirt
+ed with no-hitters. Next stop, Fall
+Classic!
+Likelihood of this happening:
+about the chance of me getting a
+double eagle in the final round of
+the Masters. And I've never played
+golf.
+In fact, winning your opening se
+ries isn't much of a sign of postsea
+son success. Three of the last four
+World Series champs lost their
+opening series 2-1. So maybe we
+should be looking for a Phillies-An
+gels World Series after both lost two
+in a row to sub-.500 central teams.
+Likelihood of this happening:
+decent. Despite their poor starts,
+both are expected to contend for
+their respective pennants. The
+Phillies are aging but still as talented
+as anyone in the National League,
+while the Angels pulled the ultimate
+offseason trifecta of adding the best
+hitter available (Albert Pujols),
+adding the best pitcher available
+(C.J. Wilson) and subtracting the
+worst hitter available (Jeff Mathis).
+If you want to look for a star
+pitcher in the American League,
+you could look at obvious guys like
+Justin Verlander and Jered Weaver,
+who each threw eight shutout in
+nings in their first start. But if you
+want a real Cy Young threat, how
+about Verlander's teammate Duane
+Below? He leads the majors with
+two wins already and has allowed
+just one baserunner all year.
+Likelihood of this happening:
+none. Sorry, Duane, but a middle re
+liever with zero career wins before
+this season isn't going to take home
+the trophy, even if you don't allow a
+run all year.
+As far as hitting, the early season
+hasn't lacked power. Four players
+Miguel Cabrera, Yoenis Ces
+pedes, Corey Hart and Jay Bruce
+have already hit three home runs
+apiece. Hart and Bruce are two of
+the better power hitters in the Na
+tional League, and Cabrera may
+very well be the best hitter in the
+game, but Cespedes has been cap
+turing the nation's attention (which
+is hard to do when you play for the
+A's) with his mammoth home runs.
+Could this quartet be at the top of
+the home run lists at season's end?
+Likelihood of this happening:
+unlikely, but definitely possible.
+With the departures of Pujols and
+Prince Fielder to the American
+League, the National League lost
+two of its three best home-run hit
+ters, so Hart and Bruce could be two
+of the best sluggers left. Cabrera has
+hit 30 home runs in seven of the past
+eight years, so I wouldn't put it past
+him. At some point, AL pitchers will
+stop throwing Cespedes belt-high
+fastballs and make him work for his
+homers, and you'd have to think that
+Pujols and Fielder (not to mention
+Jose Bautista and the whole Yan
+kees and Rangers rosters) will fac
+tor into the home run races.
+For all the good so far, there's of
+course been an equal amount of
+bad, and for some of the big boys,
+opening weekend was less than stel
+lar. Three of the past five champs
+the Giants, Yankees and Red Sox
+got swept in their opening series.
+This is particularly surprising for the
+
+Yankees, who, prior to their week
+end sweep at the hands of the Rays,
+had not been swept to start a season
+since 1998.Andthatyear New York
+won 114 games and the World Se
+ries. So don't cry for the Yankees yet
+(not that you ever would).
+Likelihood of this happening:
+very unlikely. For as much talent as
+the Yankees have (what else is
+new), there is a whole lot of other
+talent in that division. Winning over
+70 percent of the next 159 games
+will be almost impossible when
+over a third of them will be against
+Boston, Tampa Bay and Toronto, al
+though the World Series is certainly
+in play for the Bombers.
+
+With so much to be determined
+over the next seven months, I
+might as well throw my own guess
+es into the mix. I'll say the Rays,
+Tigers and Rangers will win their
+divisions in the American League,
+with the Yankees and Angels as
+the wild cards, and the Phillies,
+Reds and Diamondbacks will win
+their divisions in the National
+League, with the Cardinals and
+Giants as the wild cards. I'll go
+Rays-Reds in the World Series,
+with Tampa Bay bringing home its
+first title.
+Likelihood of this happening:
+not a chance.
+
+Likelihood of Jacob Jaffe writing
+about baseball each of the next nine
+weeks: 100 percent. Predict the
+topic of next week's column at jw
+jaffe@stanford.edu and follow him
+on Twitter @Jacob_Jaffe.
+It's the second week of April,
+which means March Madness
+and the Masters have given
+way to the start of baseball
+season. And that means it's
+time for Jumping to Ridiculous
+Conclusions, Volume 2! Since I'm
+far too lazy to physically jump to
+these conclusions, here's my second
+annual way-too-early MLB col
+umn.
+Last year, I analyzed the first
+week of the season to predict what
+would happen at the end of the year,
+and to everyone's surprise, the first
+week didn't adequately predict the
+entire season.
+But I've learned my lesson. As a
+mathematical and computational
+science major, I can tell you that last
+year's sample size was far too big. So
+I've taken it upon myself to write
+this column after the first full week
+end of the season, when just 48 of
+the 2,430 games have been played.
+Here's what we've learned so far in
+Major League Baseball.
+As expected, the World Series
+looks like it could very well come
+down to a battle of eastern teams.
+Both the Mets and Orioles complet
+ed three-game home sweeps on
+Sunday thanks to starters that flirt
+ed with no-hitters. Next stop, Fall
+Classic!
+Likelihood of this happening:
+about the chance of me getting a
+double eagle in the final round of
+the Masters. And I've never played
+golf.
+In fact, winning your opening se
+ries isn't much of a sign of postsea
+son success. Three of the last four
+World Series champs lost their
+opening series 2-1. So maybe we
+should be looking for a Phillies-An
+gels World Series after both lost two
+in a row to sub-.500 central teams.
+Likelihood of this happening:
+decent. Despite their poor starts,
+both are expected to contend for
+their respective pennants. The
+Phillies are aging but still as talented
+as anyone in the National League,
+while the Angels pulled the ultimate
+offseason trifecta of adding the best
+hitter available (Albert Pujols),
+adding the best pitcher available
+(C.J. Wilson) and subtracting the
+worst hitter available (Jeff Mathis).
+If you want to look for a star
+pitcher in the American League,
+you could look at obvious guys like
+Justin Verlander and Jered Weaver,
+who each threw eight shutout in
+nings in their first start. But if you
+want a real Cy Young threat, how
+about Verlander's teammate Duane
+Below? He leads the majors with
+two wins already and has allowed
+just one baserunner all year.
+Likelihood of this happening:
+none. Sorry, Duane, but a middle re
+liever with zero career wins before
+this season isn't going to take home
+the trophy, even if you don't allow a
+run all year.
+As far as hitting, the early season
+hasn't lacked power. Four players
+Miguel Cabrera, Yoenis Ces
+pedes, Corey Hart and Jay Bruce
+have already hit three home runs
+apiece. Hart and Bruce are two of
+the better power hitters in the Na
+tional League, and Cabrera may
+very well be the best hitter in the
+game, but Cespedes has been cap
+turing the nation's attention (which
+is hard to do when you play for the
+A's) with his mammoth home runs.
+Could this quartet be at the top of
+the home run lists at season's end?
+Likelihood of this happening:
+unlikely, but definitely possible.
+With the departures of Pujols and
+Prince Fielder to the American
+League, the National League lost
+two of its three best home-run hit
+ters, so Hart and Bruce could be two
+of the best sluggers left. Cabrera has
+hit 30 home runs in seven of the past
+eight years, so I wouldn't put it past
+him. At some point, AL pitchers will
+stop throwing Cespedes belt-high
+fastballs and make him work for his
+homers, and you'd have to think that
+Pujols and Fielder (not to mention
+Jose Bautista and the whole Yan
+kees and Rangers rosters) will fac
+tor into the home run races.
+For all the good so far, there's of
+course been an equal amount of
+bad, and for some of the big boys,
+opening weekend was less than stel
+lar. Three of the past five champs
+the Giants, Yankees and Red Sox
+got swept in their opening series.
+This is particularly surprising for the
+
+Yankees, who, prior to their week
+end sweep at the hands of the Rays,
+had not been swept to start a season
+since 1998.Andthatyear New York
+won 114 games and the World Se
+ries. So don't cry for the Yankees yet
+(not that you ever would).
+Likelihood of this happening:
+very unlikely. For as much talent as
+the Yankees have (what else is
+new), there is a whole lot of other
+talent in that division. Winning over
+70 percent of the next 159 games
+will be almost impossible when
+over a third of them will be against
+Boston, Tampa Bay and Toronto, al
+though the World Series is certainly
+in play for the Bombers.
+
+With so much to be determined
+over the next seven months, I
+might as well throw my own guess
+es into the mix. I'll say the Rays,
+Tigers and Rangers will win their
+divisions in the American League,
+with the Yankees and Angels as
+the wild cards, and the Phillies,
+Reds and Diamondbacks will win
+their divisions in the National
+League, with the Cardinals and
+Giants as the wild cards. I'll go
+Rays-Reds in the World Series,
+with Tampa Bay bringing home its
+first title.
+Likelihood of this happening:
+not a chance.
+
+Likelihood of Jacob Jaffe writing
+about baseball each of the next nine
+weeks: 100 percent. Predict the
+topic of next week's column at jw
+jaffe@stanford.edu and follow him
+on Twitter @Jacob_Jaffe.
+It's the second week of April,
+which means March Madness
+and the Masters have given
+way to the start of baseball
+season. And that means it's
+time for Jumping to Ridiculous
+Conclusions, Volume 2! Since I'm
+far too lazy to physically jump to
+these conclusions, here's my second
+annual way-too-early MLB col
+umn.
+Last year, I analyzed the first
+week of the season to predict what
+would happen at the end of the year,
+and to everyone's surprise, the first
+week didn't adequately predict the
+entire season.
+But I've learned my lesson. As a
+mathematical and computational
+science major, I can tell you that last
+year's sample size was far too big. So
+I've taken it upon myself to write
+this column after the first full week
+end of the season, when just 48 of
+the 2,430 games have been played.
+Here's what we've learned so far in
+Major League Baseball.
+As expected, the World Series
+looks like it could very well come
+down to a battle of eastern teams.
+Both the Mets and Orioles complet
+ed three-game home sweeps on
+Sunday thanks to starters that flirt
+ed with no-hitters. Next stop, Fall
+Classic!
+Likelihood of this happening:
+about the chance of me getting a
+double eagle in the final round of
+the Masters. And I've never played
+golf.
+In fact, winning your opening se
+ries isn't much of a sign of postsea
+son success. Three of the last four
+World Series champs lost their
+opening series 2-1. So maybe we
+should be looking for a Phillies-An
+gels World Series after both lost two
+in a row to sub-.500 central teams.
+Likelihood of this happening:
+decent. Despite their poor starts,
+both are expected to contend for
+their respective pennants. The
+Phillies are aging but still as talented
+as anyone in the National League,
+while the Angels pulled the ultimate
+offseason trifecta of adding the best
+hitter available (Albert Pujols),
+adding the best pitcher available
+(C.J. Wilson) and subtracting the
+worst hitter available (Jeff Mathis).
+If you want to look for a star
+pitcher in the American League,
+you could look at obvious guys like
+Justin Verlander and Jered Weaver,
+who each threw eight shutout in
+nings in their first start. But if you
+want a real Cy Young threat, how
+about Verlander's teammate Duane
+Below? He leads the majors with
+two wins already and has allowed
+just one baserunner all year.
+Likelihood of this happening:
+none. Sorry, Duane, but a middle re
+liever with zero career wins before
+this season isn't going to take home
+the trophy, even if you don't allow a
+run all year.
+As far as hitting, the early season
+hasn't lacked power. Four players
+Miguel Cabrera, Yoenis Ces
+pedes, Corey Hart and Jay Bruce
+have already hit three home runs
+apiece. Hart and Bruce are two of
+the better power hitters in the Na
+tional League, and Cabrera may
+very well be the best hitter in the
+game, but Cespedes has been cap
+turing the nation's attention (which
+is hard to do when you play for the
+A's) with his mammoth home runs.
+Could this quartet be at the top of
+the home run lists at season's end?
+Likelihood of this happening:
+unlikely, but definitely possible.
+With the departures of Pujols and
+Prince Fielder to the American
+League, the National League lost
+two of its three best home-run hit
+ters, so Hart and Bruce could be two
+of the best sluggers left. Cabrera has
+hit 30 home runs in seven of the past
+eight years, so I wouldn't put it past
+him. At some point, AL pitchers will
+stop throwing Cespedes belt-high
+fastballs and make him work for his
+homers, and you'd have to think that
+Pujols and Fielder (not to mention
+Jose Bautista and the whole Yan
+kees and Rangers rosters) will fac
+tor into the home run races.
+For all the good so far, there's of
+course been an equal amount of
+bad, and for some of the big boys,
+opening weekend was less than stel
+lar. Three of the past five champs
+the Giants, Yankees and Red Sox
+got swept in their opening series.
+This is particularly surprising for the
+
+Yankees, who, prior to their week
+end sweep at the hands of the Rays,
+had not been swept to start a season
+since 1998.Andthatyear New York
+won 114 games and the World Se
+ries. So don't cry for the Yankees yet
+(not that you ever would).
+Likelihood of this happening:
+very unlikely. For as much talent as
+the Yankees have (what else is
+new), there is a whole lot of other
+talent in that division. Winning over
+70 percent of the next 159 games
+will be almost impossible when
+over a third of them will be against
+Boston, Tampa Bay and Toronto, al
+though the World Series is certainly
+in play for the Bombers.
+
+With so much to be determined
+over the next seven months, I
+might as well throw my own guess
+es into the mix. I'll say the Rays,
+Tigers and Rangers will win their
+divisions in the American League,
+with the Yankees and Angels as
+the wild cards, and the Phillies,
+Reds and Diamondbacks will win
+their divisions in the National
+League, with the Cardinals and
+Giants as the wild cards. I'll go
+Rays-Reds in the World Series,
+with Tampa Bay bringing home its
+first title.
+Likelihood of this happening:
+not a chance.
+
+Likelihood of Jacob Jaffe writing
+about baseball each of the next nine
+weeks: 100 percent. Predict the
+topic of next week's column at jw
+jaffe@stanford.edu and follow him
+on Twitter @Jacob_Jaffe.
+It's the second week of April,
+which means March Madness
+and the Masters have given
+way to the start of baseball
+season. And that means it's
+time for Jumping to Ridiculous
+Conclusions, Volume 2! Since I'm
+far too lazy to physically jump to
+these conclusions, here's my second
+annual way-too-early MLB col
+umn.
+Last year, I analyzed the first
+week of the season to predict what
+would happen at the end of the year,
+and to everyone's surprise, the first
+week didn't adequately predict the
+entire season.
+But I've learned my lesson. As a
+mathematical and computational
+science major, I can tell you that last
+year's sample size was far too big. So
+I've taken it upon myself to write
+this column after the first full week
+end of the season, when just 48 of
+the 2,430 games have been played.
+Here's what we've learned so far in
+Major League Baseball.
+As expected, the World Series
+looks like it could very well come
+down to a battle of eastern teams.
+Both the Mets and Orioles complet
+ed three-game home sweeps on
+Sunday thanks to starters that flirt
+ed with no-hitters. Next stop, Fall
+Classic!
+Likelihood of this happening:
+about the chance of me getting a
+double eagle in the final round of
+the Masters. And I've never played
+golf.
+In fact, winning your opening se
+ries isn't much of a sign of postsea
+son success. Three of the last four
+World Series champs lost their
+opening series 2-1. So maybe we
+should be looking for a Phillies-An
+gels World Series after both lost two
+in a row to sub-.500 central teams.
+Likelihood of this happening:
+decent. Despite their poor starts,
+both are expected to contend for
+their respective pennants. The
+Phillies are aging but still as talented
+as anyone in the National League,
+while the Angels pulled the ultimate
+offseason trifecta of adding the best
+hitter available (Albert Pujols),
+adding the best pitcher available
+(C.J. Wilson) and subtracting the
+worst hitter available (Jeff Mathis).
+If you want to look for a star
+pitcher in the American League,
+you could look at obvious guys like
+Justin Verlander and Jered Weaver,
+who each threw eight shutout in
+nings in their first start. But if you
+want a real Cy Young threat, how
+about Verlander's teammate Duane
+Below? He leads the majors with
+two wins already and has allowed
+just one baserunner all year.
+Likelihood of this happening:
+none. Sorry, Duane, but a middle re
+liever with zero career wins before
+this season isn't going to take home
+the trophy, even if you don't allow a
+run all year.
+As far as hitting, the early season
+hasn't lacked power. Four players
+Miguel Cabrera, Yoenis Ces
+pedes, Corey Hart and Jay Bruce
+have already hit three home runs
+apiece. Hart and Bruce are two of
+the better power hitters in the Na
+tional League, and Cabrera may
+very well be the best hitter in the
+game, but Cespedes has been cap
+turing the nation's attention (which
+is hard to do when you play for the
+A's) with his mammoth home runs.
+Could this quartet be at the top of
+the home run lists at season's end?
+Likelihood of this happening:
+unlikely, but definitely possible.
+With the departures of Pujols and
+Prince Fielder to the American
+League, the National League lost
+two of its three best home-run hit
+ters, so Hart and Bruce could be two
+of the best sluggers left. Cabrera has
+hit 30 home runs in seven of the past
+eight years, so I wouldn't put it past
+him. At some point, AL pitchers will
+stop throwing Cespedes belt-high
+fastballs and make him work for his
+homers, and you'd have to think that
+Pujols and Fielder (not to mention
+Jose Bautista and the whole Yan
+kees and Rangers rosters) will fac
+tor into the home run races.
+For all the good so far, there's of
+course been an equal amount of
+bad, and for some of the big boys,
+opening weekend was less than stel
+lar. Three of the past five champs
+the Giants, Yankees and Red Sox
+got swept in their opening series.
+This is particularly surprising for the
+
+Yankees, who, prior to their week
+end sweep at the hands of the Rays,
+had not been swept to start a season
+since 1998.Andthatyear New York
+won 114 games and the World Se
+ries. So don't cry for the Yankees yet
+(not that you ever would).
+Likelihood of this happening:
+very unlikely. For as much talent as
+the Yankees have (what else is
+new), there is a whole lot of other
+talent in that division. Winning over
+70 percent of the next 159 games
+will be almost impossible when
+over a third of them will be against
+Boston, Tampa Bay and Toronto, al
+though the World Series is certainly
+in play for the Bombers.
+
+With so much to be determined
+over the next seven months, I
+might as well throw my own guess
+es into the mix. I'll say the Rays,
+Tigers and Rangers will win their
+divisions in the American League,
+with the Yankees and Angels as
+the wild cards, and the Phillies,
+Reds and Diamondbacks will win
+their divisions in the National
+League, with the Cardinals and
+Giants as the wild cards. I'll go
+Rays-Reds in the World Series,
+with Tampa Bay bringing home its
+first title.
+Likelihood of this happening:
+not a chance.
+
+Likelihood of Jacob Jaffe writing
+about baseball each of the next nine
+weeks: 100 percent. Predict the
+topic of next week's column at jw
+jaffe@stanford.edu and follow him
+on Twitter @Jacob_Jaffe.

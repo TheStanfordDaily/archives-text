@@ -1,0 +1,835 @@
+# Science
+## New microprocessor is fastest 
+### 
+Engineers at Stanford's Center for
+Integrated Systems (CIS) have de
+signed a microprocessor capable of
+hitting speeds of 20 million instruc
+tions a second and running in parallel
+with others like it.
+The chip, called the MIPS-X,
+makes use of a new design of com
+puter, the Reduced Instruction Set
+Computer, or RISC machine, as well
+as a popular integrated circuit tech
+nology known as Complementary
+Metal Oxide Semiconductor
+(CMOS).
+The design so far exists only in a
+computer database, but according to
+Mark Horowitz, assistant professor of
+electrical engineering and the team
+leader, a chip will be fabricated by the
+summer.
+The chip will be 8 millimeters by
+8.5 millimeters (three-tenths of an
+inch by thirty-four-hundreths of an
+inch) and will contain 150,000 tran
+sistors.
+"In fairness, the 20 million instruc
+tions is really the peak, the best it
+would ever do," Horowitz says. "We
+hope to have an effective throughput
+of 10 million to 12 million instruc
+tions per second."
+If a computer was built with 10 of
+those chips operating in parallel, it
+could perform 100 million instruc
+tions, making it one of the fastest
+-omputers in the world.
+
+Horowitz's project is the lineal de
+scendant of a computer called the
+MIPS, designed at Stanford by John
+Hennessey. The MIPS was one of the
+first of the RISC machines.
+RISC machines currently are the
+"designer jeans" of the computer in
+dustry. something of a fad, Horowitz
+explains, with many companies now
+producing them, and some, such as
+Hewlett-Packard, taking great risks
+on RISC technology.
+Essentially, a RISC computer takes
+the most commonly performed in
+
+structions and tries to implement
+them so they can run as fast as possi
+ble, even if it means sacrificing the
+speed of less common instructions.
+Since computers mostly do very
+simple things, the processor runs very
+quickly.
+"The project was really an experi
+ment in many different areas,"
+Horowitz says. "One was some issues
+in software design, or in combinations
+of hardware-software: How do you
+build very high performance
+machines, what do you need to put in
+
+hardware, what do you need to put in
+software?
+"The project has been accom
+plished with about 13 other people,
+most of them students, and two
+postdocs," Horowitz says. "People
+were about evenly divided between
+designers working on the hardware
+and software designers.
+"Part of the basic premise of both
+the original MIPS work and the
+MIPS-X is that a lot of the complexity
+that's normally placed in the hard
+ware of the processor can actually be
+migrated (moved) to the software.
+It's oftentimes easier to deal with it in
+terms of software than hardware, and
+since hardware design takes longer
+and has longer turn-around times,"
+he says.
+Software isn't necessarily slower
+than hardware, Horowitz says.
+The MIPS-X project was "also an
+experiment in just design: What does
+it take to design a large machine?"
+"I never really designed a large mi
+croprocessor. I was interested in
+seeing what it really involves, just in
+terms of silicon design techniques so I
+could have a better feel for what tools
+are available and what problems
+really are hard problems of design."
+The microprocessor makes use of
+CMOS, "commonly held as the cur
+rent generation technology, one that
+everyone should use."
+
+Engineers at Stanford's Center for
+Integrated Systems (CIS) have de
+signed a microprocessor capable of
+hitting speeds of 20 million instruc
+tions a second and running in parallel
+with others like it.
+The chip, called the MIPS-X,
+makes use of a new design of com
+puter, the Reduced Instruction Set
+Computer, or RISC machine, as well
+as a popular integrated circuit tech
+nology known as Complementary
+Metal Oxide Semiconductor
+(CMOS).
+The design so far exists only in a
+computer database, but according to
+Mark Horowitz, assistant professor of
+electrical engineering and the team
+leader, a chip will be fabricated by the
+summer.
+The chip will be 8 millimeters by
+8.5 millimeters (three-tenths of an
+inch by thirty-four-hundreths of an
+inch) and will contain 150,000 tran
+sistors.
+"In fairness, the 20 million instruc
+tions is really the peak, the best it
+would ever do," Horowitz says. "We
+hope to have an effective throughput
+of 10 million to 12 million instruc
+tions per second."
+If a computer was built with 10 of
+those chips operating in parallel, it
+could perform 100 million instruc
+tions, making it one of the fastest
+-omputers in the world.
+
+Horowitz's project is the lineal de
+scendant of a computer called the
+MIPS, designed at Stanford by John
+Hennessey. The MIPS was one of the
+first of the RISC machines.
+RISC machines currently are the
+"designer jeans" of the computer in
+dustry. something of a fad, Horowitz
+explains, with many companies now
+producing them, and some, such as
+Hewlett-Packard, taking great risks
+on RISC technology.
+Essentially, a RISC computer takes
+the most commonly performed in
+
+structions and tries to implement
+them so they can run as fast as possi
+ble, even if it means sacrificing the
+speed of less common instructions.
+Since computers mostly do very
+simple things, the processor runs very
+quickly.
+"The project was really an experi
+ment in many different areas,"
+Horowitz says. "One was some issues
+in software design, or in combinations
+of hardware-software: How do you
+build very high performance
+machines, what do you need to put in
+
+hardware, what do you need to put in
+software?
+"The project has been accom
+plished with about 13 other people,
+most of them students, and two
+postdocs," Horowitz says. "People
+were about evenly divided between
+designers working on the hardware
+and software designers.
+"Part of the basic premise of both
+the original MIPS work and the
+MIPS-X is that a lot of the complexity
+that's normally placed in the hard
+ware of the processor can actually be
+migrated (moved) to the software.
+It's oftentimes easier to deal with it in
+terms of software than hardware, and
+since hardware design takes longer
+and has longer turn-around times,"
+he says.
+Software isn't necessarily slower
+than hardware, Horowitz says.
+The MIPS-X project was "also an
+experiment in just design: What does
+it take to design a large machine?"
+"I never really designed a large mi
+croprocessor. I was interested in
+seeing what it really involves, just in
+terms of silicon design techniques so I
+could have a better feel for what tools
+are available and what problems
+really are hard problems of design."
+The microprocessor makes use of
+CMOS, "commonly held as the cur
+rent generation technology, one that
+everyone should use."
+
+Engineers at Stanford's Center for
+Integrated Systems (CIS) have de
+signed a microprocessor capable of
+hitting speeds of 20 million instruc
+tions a second and running in parallel
+with others like it.
+The chip, called the MIPS-X,
+makes use of a new design of com
+puter, the Reduced Instruction Set
+Computer, or RISC machine, as well
+as a popular integrated circuit tech
+nology known as Complementary
+Metal Oxide Semiconductor
+(CMOS).
+The design so far exists only in a
+computer database, but according to
+Mark Horowitz, assistant professor of
+electrical engineering and the team
+leader, a chip will be fabricated by the
+summer.
+The chip will be 8 millimeters by
+8.5 millimeters (three-tenths of an
+inch by thirty-four-hundreths of an
+inch) and will contain 150,000 tran
+sistors.
+"In fairness, the 20 million instruc
+tions is really the peak, the best it
+would ever do," Horowitz says. "We
+hope to have an effective throughput
+of 10 million to 12 million instruc
+tions per second."
+If a computer was built with 10 of
+those chips operating in parallel, it
+could perform 100 million instruc
+tions, making it one of the fastest
+-omputers in the world.
+
+Horowitz's project is the lineal de
+scendant of a computer called the
+MIPS, designed at Stanford by John
+Hennessey. The MIPS was one of the
+first of the RISC machines.
+RISC machines currently are the
+"designer jeans" of the computer in
+dustry. something of a fad, Horowitz
+explains, with many companies now
+producing them, and some, such as
+Hewlett-Packard, taking great risks
+on RISC technology.
+Essentially, a RISC computer takes
+the most commonly performed in
+
+structions and tries to implement
+them so they can run as fast as possi
+ble, even if it means sacrificing the
+speed of less common instructions.
+Since computers mostly do very
+simple things, the processor runs very
+quickly.
+"The project was really an experi
+ment in many different areas,"
+Horowitz says. "One was some issues
+in software design, or in combinations
+of hardware-software: How do you
+build very high performance
+machines, what do you need to put in
+
+hardware, what do you need to put in
+software?
+"The project has been accom
+plished with about 13 other people,
+most of them students, and two
+postdocs," Horowitz says. "People
+were about evenly divided between
+designers working on the hardware
+and software designers.
+"Part of the basic premise of both
+the original MIPS work and the
+MIPS-X is that a lot of the complexity
+that's normally placed in the hard
+ware of the processor can actually be
+migrated (moved) to the software.
+It's oftentimes easier to deal with it in
+terms of software than hardware, and
+since hardware design takes longer
+and has longer turn-around times,"
+he says.
+Software isn't necessarily slower
+than hardware, Horowitz says.
+The MIPS-X project was "also an
+experiment in just design: What does
+it take to design a large machine?"
+"I never really designed a large mi
+croprocessor. I was interested in
+seeing what it really involves, just in
+terms of silicon design techniques so I
+could have a better feel for what tools
+are available and what problems
+really are hard problems of design."
+The microprocessor makes use of
+CMOS, "commonly held as the cur
+rent generation technology, one that
+everyone should use."
+
+Engineers at Stanford's Center for
+Integrated Systems (CIS) have de
+signed a microprocessor capable of
+hitting speeds of 20 million instruc
+tions a second and running in parallel
+with others like it.
+The chip, called the MIPS-X,
+makes use of a new design of com
+puter, the Reduced Instruction Set
+Computer, or RISC machine, as well
+as a popular integrated circuit tech
+nology known as Complementary
+Metal Oxide Semiconductor
+(CMOS).
+The design so far exists only in a
+computer database, but according to
+Mark Horowitz, assistant professor of
+electrical engineering and the team
+leader, a chip will be fabricated by the
+summer.
+The chip will be 8 millimeters by
+8.5 millimeters (three-tenths of an
+inch by thirty-four-hundreths of an
+inch) and will contain 150,000 tran
+sistors.
+"In fairness, the 20 million instruc
+tions is really the peak, the best it
+would ever do," Horowitz says. "We
+hope to have an effective throughput
+of 10 million to 12 million instruc
+tions per second."
+If a computer was built with 10 of
+those chips operating in parallel, it
+could perform 100 million instruc
+tions, making it one of the fastest
+-omputers in the world.
+
+Horowitz's project is the lineal de
+scendant of a computer called the
+MIPS, designed at Stanford by John
+Hennessey. The MIPS was one of the
+first of the RISC machines.
+RISC machines currently are the
+"designer jeans" of the computer in
+dustry. something of a fad, Horowitz
+explains, with many companies now
+producing them, and some, such as
+Hewlett-Packard, taking great risks
+on RISC technology.
+Essentially, a RISC computer takes
+the most commonly performed in
+
+structions and tries to implement
+them so they can run as fast as possi
+ble, even if it means sacrificing the
+speed of less common instructions.
+Since computers mostly do very
+simple things, the processor runs very
+quickly.
+"The project was really an experi
+ment in many different areas,"
+Horowitz says. "One was some issues
+in software design, or in combinations
+of hardware-software: How do you
+build very high performance
+machines, what do you need to put in
+
+hardware, what do you need to put in
+software?
+"The project has been accom
+plished with about 13 other people,
+most of them students, and two
+postdocs," Horowitz says. "People
+were about evenly divided between
+designers working on the hardware
+and software designers.
+"Part of the basic premise of both
+the original MIPS work and the
+MIPS-X is that a lot of the complexity
+that's normally placed in the hard
+ware of the processor can actually be
+migrated (moved) to the software.
+It's oftentimes easier to deal with it in
+terms of software than hardware, and
+since hardware design takes longer
+and has longer turn-around times,"
+he says.
+Software isn't necessarily slower
+than hardware, Horowitz says.
+The MIPS-X project was "also an
+experiment in just design: What does
+it take to design a large machine?"
+"I never really designed a large mi
+croprocessor. I was interested in
+seeing what it really involves, just in
+terms of silicon design techniques so I
+could have a better feel for what tools
+are available and what problems
+really are hard problems of design."
+The microprocessor makes use of
+CMOS, "commonly held as the cur
+rent generation technology, one that
+everyone should use."
+
+Engineers at Stanford's Center for
+Integrated Systems (CIS) have de
+signed a microprocessor capable of
+hitting speeds of 20 million instruc
+tions a second and running in parallel
+with others like it.
+The chip, called the MIPS-X,
+makes use of a new design of com
+puter, the Reduced Instruction Set
+Computer, or RISC machine, as well
+as a popular integrated circuit tech
+nology known as Complementary
+Metal Oxide Semiconductor
+(CMOS).
+The design so far exists only in a
+computer database, but according to
+Mark Horowitz, assistant professor of
+electrical engineering and the team
+leader, a chip will be fabricated by the
+summer.
+The chip will be 8 millimeters by
+8.5 millimeters (three-tenths of an
+inch by thirty-four-hundreths of an
+inch) and will contain 150,000 tran
+sistors.
+"In fairness, the 20 million instruc
+tions is really the peak, the best it
+would ever do," Horowitz says. "We
+hope to have an effective throughput
+of 10 million to 12 million instruc
+tions per second."
+If a computer was built with 10 of
+those chips operating in parallel, it
+could perform 100 million instruc
+tions, making it one of the fastest
+-omputers in the world.
+
+Horowitz's project is the lineal de
+scendant of a computer called the
+MIPS, designed at Stanford by John
+Hennessey. The MIPS was one of the
+first of the RISC machines.
+RISC machines currently are the
+"designer jeans" of the computer in
+dustry. something of a fad, Horowitz
+explains, with many companies now
+producing them, and some, such as
+Hewlett-Packard, taking great risks
+on RISC technology.
+Essentially, a RISC computer takes
+the most commonly performed in
+
+structions and tries to implement
+them so they can run as fast as possi
+ble, even if it means sacrificing the
+speed of less common instructions.
+Since computers mostly do very
+simple things, the processor runs very
+quickly.
+"The project was really an experi
+ment in many different areas,"
+Horowitz says. "One was some issues
+in software design, or in combinations
+of hardware-software: How do you
+build very high performance
+machines, what do you need to put in
+
+hardware, what do you need to put in
+software?
+"The project has been accom
+plished with about 13 other people,
+most of them students, and two
+postdocs," Horowitz says. "People
+were about evenly divided between
+designers working on the hardware
+and software designers.
+"Part of the basic premise of both
+the original MIPS work and the
+MIPS-X is that a lot of the complexity
+that's normally placed in the hard
+ware of the processor can actually be
+migrated (moved) to the software.
+It's oftentimes easier to deal with it in
+terms of software than hardware, and
+since hardware design takes longer
+and has longer turn-around times,"
+he says.
+Software isn't necessarily slower
+than hardware, Horowitz says.
+The MIPS-X project was "also an
+experiment in just design: What does
+it take to design a large machine?"
+"I never really designed a large mi
+croprocessor. I was interested in
+seeing what it really involves, just in
+terms of silicon design techniques so I
+could have a better feel for what tools
+are available and what problems
+really are hard problems of design."
+The microprocessor makes use of
+CMOS, "commonly held as the cur
+rent generation technology, one that
+everyone should use."
+
+Engineers at Stanford's Center for
+Integrated Systems (CIS) have de
+signed a microprocessor capable of
+hitting speeds of 20 million instruc
+tions a second and running in parallel
+with others like it.
+The chip, called the MIPS-X,
+makes use of a new design of com
+puter, the Reduced Instruction Set
+Computer, or RISC machine, as well
+as a popular integrated circuit tech
+nology known as Complementary
+Metal Oxide Semiconductor
+(CMOS).
+The design so far exists only in a
+computer database, but according to
+Mark Horowitz, assistant professor of
+electrical engineering and the team
+leader, a chip will be fabricated by the
+summer.
+The chip will be 8 millimeters by
+8.5 millimeters (three-tenths of an
+inch by thirty-four-hundreths of an
+inch) and will contain 150,000 tran
+sistors.
+"In fairness, the 20 million instruc
+tions is really the peak, the best it
+would ever do," Horowitz says. "We
+hope to have an effective throughput
+of 10 million to 12 million instruc
+tions per second."
+If a computer was built with 10 of
+those chips operating in parallel, it
+could perform 100 million instruc
+tions, making it one of the fastest
+-omputers in the world.
+
+Horowitz's project is the lineal de
+scendant of a computer called the
+MIPS, designed at Stanford by John
+Hennessey. The MIPS was one of the
+first of the RISC machines.
+RISC machines currently are the
+"designer jeans" of the computer in
+dustry. something of a fad, Horowitz
+explains, with many companies now
+producing them, and some, such as
+Hewlett-Packard, taking great risks
+on RISC technology.
+Essentially, a RISC computer takes
+the most commonly performed in
+
+structions and tries to implement
+them so they can run as fast as possi
+ble, even if it means sacrificing the
+speed of less common instructions.
+Since computers mostly do very
+simple things, the processor runs very
+quickly.
+"The project was really an experi
+ment in many different areas,"
+Horowitz says. "One was some issues
+in software design, or in combinations
+of hardware-software: How do you
+build very high performance
+machines, what do you need to put in
+
+hardware, what do you need to put in
+software?
+"The project has been accom
+plished with about 13 other people,
+most of them students, and two
+postdocs," Horowitz says. "People
+were about evenly divided between
+designers working on the hardware
+and software designers.
+"Part of the basic premise of both
+the original MIPS work and the
+MIPS-X is that a lot of the complexity
+that's normally placed in the hard
+ware of the processor can actually be
+migrated (moved) to the software.
+It's oftentimes easier to deal with it in
+terms of software than hardware, and
+since hardware design takes longer
+and has longer turn-around times,"
+he says.
+Software isn't necessarily slower
+than hardware, Horowitz says.
+The MIPS-X project was "also an
+experiment in just design: What does
+it take to design a large machine?"
+"I never really designed a large mi
+croprocessor. I was interested in
+seeing what it really involves, just in
+terms of silicon design techniques so I
+could have a better feel for what tools
+are available and what problems
+really are hard problems of design."
+The microprocessor makes use of
+CMOS, "commonly held as the cur
+rent generation technology, one that
+everyone should use."
+
+Engineers at Stanford's Center for
+Integrated Systems (CIS) have de
+signed a microprocessor capable of
+hitting speeds of 20 million instruc
+tions a second and running in parallel
+with others like it.
+The chip, called the MIPS-X,
+makes use of a new design of com
+puter, the Reduced Instruction Set
+Computer, or RISC machine, as well
+as a popular integrated circuit tech
+nology known as Complementary
+Metal Oxide Semiconductor
+(CMOS).
+The design so far exists only in a
+computer database, but according to
+Mark Horowitz, assistant professor of
+electrical engineering and the team
+leader, a chip will be fabricated by the
+summer.
+The chip will be 8 millimeters by
+8.5 millimeters (three-tenths of an
+inch by thirty-four-hundreths of an
+inch) and will contain 150,000 tran
+sistors.
+"In fairness, the 20 million instruc
+tions is really the peak, the best it
+would ever do," Horowitz says. "We
+hope to have an effective throughput
+of 10 million to 12 million instruc
+tions per second."
+If a computer was built with 10 of
+those chips operating in parallel, it
+could perform 100 million instruc
+tions, making it one of the fastest
+-omputers in the world.
+
+Horowitz's project is the lineal de
+scendant of a computer called the
+MIPS, designed at Stanford by John
+Hennessey. The MIPS was one of the
+first of the RISC machines.
+RISC machines currently are the
+"designer jeans" of the computer in
+dustry. something of a fad, Horowitz
+explains, with many companies now
+producing them, and some, such as
+Hewlett-Packard, taking great risks
+on RISC technology.
+Essentially, a RISC computer takes
+the most commonly performed in
+
+structions and tries to implement
+them so they can run as fast as possi
+ble, even if it means sacrificing the
+speed of less common instructions.
+Since computers mostly do very
+simple things, the processor runs very
+quickly.
+"The project was really an experi
+ment in many different areas,"
+Horowitz says. "One was some issues
+in software design, or in combinations
+of hardware-software: How do you
+build very high performance
+machines, what do you need to put in
+
+hardware, what do you need to put in
+software?
+"The project has been accom
+plished with about 13 other people,
+most of them students, and two
+postdocs," Horowitz says. "People
+were about evenly divided between
+designers working on the hardware
+and software designers.
+"Part of the basic premise of both
+the original MIPS work and the
+MIPS-X is that a lot of the complexity
+that's normally placed in the hard
+ware of the processor can actually be
+migrated (moved) to the software.
+It's oftentimes easier to deal with it in
+terms of software than hardware, and
+since hardware design takes longer
+and has longer turn-around times,"
+he says.
+Software isn't necessarily slower
+than hardware, Horowitz says.
+The MIPS-X project was "also an
+experiment in just design: What does
+it take to design a large machine?"
+"I never really designed a large mi
+croprocessor. I was interested in
+seeing what it really involves, just in
+terms of silicon design techniques so I
+could have a better feel for what tools
+are available and what problems
+really are hard problems of design."
+The microprocessor makes use of
+CMOS, "commonly held as the cur
+rent generation technology, one that
+everyone should use."
+
+Engineers at Stanford's Center for
+Integrated Systems (CIS) have de
+signed a microprocessor capable of
+hitting speeds of 20 million instruc
+tions a second and running in parallel
+with others like it.
+The chip, called the MIPS-X,
+makes use of a new design of com
+puter, the Reduced Instruction Set
+Computer, or RISC machine, as well
+as a popular integrated circuit tech
+nology known as Complementary
+Metal Oxide Semiconductor
+(CMOS).
+The design so far exists only in a
+computer database, but according to
+Mark Horowitz, assistant professor of
+electrical engineering and the team
+leader, a chip will be fabricated by the
+summer.
+The chip will be 8 millimeters by
+8.5 millimeters (three-tenths of an
+inch by thirty-four-hundreths of an
+inch) and will contain 150,000 tran
+sistors.
+"In fairness, the 20 million instruc
+tions is really the peak, the best it
+would ever do," Horowitz says. "We
+hope to have an effective throughput
+of 10 million to 12 million instruc
+tions per second."
+If a computer was built with 10 of
+those chips operating in parallel, it
+could perform 100 million instruc
+tions, making it one of the fastest
+-omputers in the world.
+
+Horowitz's project is the lineal de
+scendant of a computer called the
+MIPS, designed at Stanford by John
+Hennessey. The MIPS was one of the
+first of the RISC machines.
+RISC machines currently are the
+"designer jeans" of the computer in
+dustry. something of a fad, Horowitz
+explains, with many companies now
+producing them, and some, such as
+Hewlett-Packard, taking great risks
+on RISC technology.
+Essentially, a RISC computer takes
+the most commonly performed in
+
+structions and tries to implement
+them so they can run as fast as possi
+ble, even if it means sacrificing the
+speed of less common instructions.
+Since computers mostly do very
+simple things, the processor runs very
+quickly.
+"The project was really an experi
+ment in many different areas,"
+Horowitz says. "One was some issues
+in software design, or in combinations
+of hardware-software: How do you
+build very high performance
+machines, what do you need to put in
+
+hardware, what do you need to put in
+software?
+"The project has been accom
+plished with about 13 other people,
+most of them students, and two
+postdocs," Horowitz says. "People
+were about evenly divided between
+designers working on the hardware
+and software designers.
+"Part of the basic premise of both
+the original MIPS work and the
+MIPS-X is that a lot of the complexity
+that's normally placed in the hard
+ware of the processor can actually be
+migrated (moved) to the software.
+It's oftentimes easier to deal with it in
+terms of software than hardware, and
+since hardware design takes longer
+and has longer turn-around times,"
+he says.
+Software isn't necessarily slower
+than hardware, Horowitz says.
+The MIPS-X project was "also an
+experiment in just design: What does
+it take to design a large machine?"
+"I never really designed a large mi
+croprocessor. I was interested in
+seeing what it really involves, just in
+terms of silicon design techniques so I
+could have a better feel for what tools
+are available and what problems
+really are hard problems of design."
+The microprocessor makes use of
+CMOS, "commonly held as the cur
+rent generation technology, one that
+everyone should use."
+

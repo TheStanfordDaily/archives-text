@@ -1,0 +1,1531 @@
+# Science
+## Powerful new computers modeled after brain 
+### Ingrid Wickelgren Editorial staff 
+The "electronic brains" that have
+dominated in the computer revolution
+are most unlike the brains that have
+dominated in evolution. But brain-style
+computers are back with a new mutation
+that may make them more fit than their
+electronic ancestors.
+Although few have actually been con
+structed, brain-style computers are at the
+forefront of the computer revolution.
+They promise higher speeds, enhanced
+computer learning and ability to process
+Sensory information, and insights into
+how the human brain works.
+, Brain-style computers have gained
+elevated status only recently, but their
+history dates back to the beginning of
+computing, according to David Rumel
+hart, professor of psychology at Stanford.
+"In the early days of computing,
+people didn't know how to use comput
+ing machines," Rumelhart said. People
+had to decide between two fundamental
+design principles for computers — the
+one based on the brain or the current
+one.
+The most obvious model on which to
+base the design of a man-made thinking
+machine is its thinking biological analog,
+the human brain. This structure was con
+sidered by early computer scientists, but
+the structure that began to dominate by
+the late 1950s was quite different from
+that of tlie human brain.
+' Some of the key ideas for this kind of
+computer were first conceived near the
+end of World War II by mathematician
+John van Neumann. The computers
+people use today are descendants of the
+van Neumann rational thinking com
+puter, Rumelhart said.
+These traditional computers have one
+central processing unit (CPU) and, thus,
+can only perform a single operation at
+any one time. In addition to the CPU,
+these computers house many memory lo
+cations, where bits of information are
+stored.
+Although it operates in a radically dif
+ferent manner than the brain, this se
+quential processing computer was de
+signed to carry out its tasks in the same
+manner as a rational human would — in
+logical steps. Today's computer program
+
+is the step-by-step method used to tell a
+computer what to do. A computer reads
+through a program sequentially like a
+person would follow a recipe for eggplant
+Parmesan.
+The parallel processing computer is
+fundamentally different than the com
+puter described above. With more than
+one processing unit, it tackles many
+problems or many parts of a larger prob
+lem at the same time, in parallel fashion.
+It can solve much faster certain types of
+problems that are prohibitively slow on a
+sequential processor.
+This type of computer operates much
+more like the human brain, in which 10
+billion neurons, divided into groups proc
+ess different bits of information in paral
+lel.
+Computer scientists, biologists, psyc
+hologists and people in the computer in
+dustry have all become increasingly in
+terested in parallel, brain-style comput
+ers.
+There are two practical reasons for the
+surge of interest in parallel computers,
+Rumelhart said.
+The first reason is the great success of
+the rational, sequential processing com
+puter in simulating parallel processing.
+Today's very fast, inexpensive computers
+can simulate fast parallel processing, run
+ning software programs that work as if
+many operations were going on at once.
+Twenty years ago, computers were too
+slow to simulate parallel processing.
+Second, the theoretical limit to how
+fast the von Neumann computer can op
+erate is approaching, Rumelhart said.
+Soon, people will not be able to make
+computers any smaller than existing
+ones, whose speed would be limited only
+by the maximum rate of current flow in a
+wire, the speed of light.
+Thus, people are looking for new ways
+to make faster computers and they are
+currently looking primarily at the possi
+bility of making computers with more
+than one processing unit.
+Neural networks are a special type of
+parallel computer. They are character
+ized by simple processing and memory as
+well as simple types of communication
+between their various processing units or
+"nodes."
+One celebrated feature of neural net
+works is their ability to learn from exper
+
+ience after being given examples of the
+types of problems they are to solve. The
+computer "learns" by adjusting the
+weights on the connections between its
+processing units.
+One very general type of problem that
+intelligent systems — whether biological
+or electronic — often must solve is the
+classification problem, which entails
+grouping a large number of examples
+into a smaller number of categories.
+Three scientific advances have in
+creased the interest in neural networks as
+a paradigm of parallel computation. The
+first is due primarily to Rumelhart and
+his colleagues.
+Early attempts to build parallel com
+puters were disappointing because the
+first of these computers was unable to
+learn to solve many classification prob
+lems, including some very simple ones.
+The first neural computer, called a
+"perceptron," developed by Frank
+Rosenblatt in the late 1950s and early
+19605, had only a single layer of process
+
+ing units or model "neurons" in its net
+work.
+As it turns out, multiple layers are ne
+cessary to achieve any kind of power
+from a neural network, but nobody knew
+how to make such a multilayered net
+work learn.
+Rumelhart discovered how to make a
+learning rule for adjusting the weights in
+a multilayered network, and it is the mul
+tilayered network that is currently
+showing promise.
+The second advance was due to John
+Hopfield, a physicist at California Insti
+tute of Technology, who discovered how
+to achieve "global" results with a net
+work by focusing on locally interacting
+electrical units.
+The third advance, or set of advances,
+were in neuroscience. In the 19505,
+neuroscientists developed the ability to
+penetrate individual biological neurons
+with microelectrodes and monitor their
+activity. More recently, neuroscientists
+have begun to be able to monitor the
+
+changes in connectivity between biologi
+cal neural units. These discoveries have
+fostered a desire for knowledge about
+how individual neurons might behave
+when linked together in various ways.
+"As people get closer to understanding
+how single cells work, there is a greater
+and greater need to understand how ag
+gregates (of nerve cells) might work,"
+Rumelhart said. Studying artificial com
+puter neural networks as models of real
+neural networks will be very valuable to
+the neuroscientist, Rumelhart said.
+The fields of neuroscience, computer
+engineering, artificial intelligence (AI)
+and psychology have all made important
+contributions to the development of
+neural computers, according to Rumel
+hart.
+Research on computer neural network
+learning may reveal important insights
+about the way humans learn. Such re
+search also could breed a new generation
+of computers with more human-like
+cognitive qualities and abilities.
+
+The "electronic brains" that have
+dominated in the computer revolution
+are most unlike the brains that have
+dominated in evolution. But brain-style
+computers are back with a new mutation
+that may make them more fit than their
+electronic ancestors.
+Although few have actually been con
+structed, brain-style computers are at the
+forefront of the computer revolution.
+They promise higher speeds, enhanced
+computer learning and ability to process
+Sensory information, and insights into
+how the human brain works.
+, Brain-style computers have gained
+elevated status only recently, but their
+history dates back to the beginning of
+computing, according to David Rumel
+hart, professor of psychology at Stanford.
+"In the early days of computing,
+people didn't know how to use comput
+ing machines," Rumelhart said. People
+had to decide between two fundamental
+design principles for computers — the
+one based on the brain or the current
+one.
+The most obvious model on which to
+base the design of a man-made thinking
+machine is its thinking biological analog,
+the human brain. This structure was con
+sidered by early computer scientists, but
+the structure that began to dominate by
+the late 1950s was quite different from
+that of tlie human brain.
+' Some of the key ideas for this kind of
+computer were first conceived near the
+end of World War II by mathematician
+John van Neumann. The computers
+people use today are descendants of the
+van Neumann rational thinking com
+puter, Rumelhart said.
+These traditional computers have one
+central processing unit (CPU) and, thus,
+can only perform a single operation at
+any one time. In addition to the CPU,
+these computers house many memory lo
+cations, where bits of information are
+stored.
+Although it operates in a radically dif
+ferent manner than the brain, this se
+quential processing computer was de
+signed to carry out its tasks in the same
+manner as a rational human would — in
+logical steps. Today's computer program
+
+is the step-by-step method used to tell a
+computer what to do. A computer reads
+through a program sequentially like a
+person would follow a recipe for eggplant
+Parmesan.
+The parallel processing computer is
+fundamentally different than the com
+puter described above. With more than
+one processing unit, it tackles many
+problems or many parts of a larger prob
+lem at the same time, in parallel fashion.
+It can solve much faster certain types of
+problems that are prohibitively slow on a
+sequential processor.
+This type of computer operates much
+more like the human brain, in which 10
+billion neurons, divided into groups proc
+ess different bits of information in paral
+lel.
+Computer scientists, biologists, psyc
+hologists and people in the computer in
+dustry have all become increasingly in
+terested in parallel, brain-style comput
+ers.
+There are two practical reasons for the
+surge of interest in parallel computers,
+Rumelhart said.
+The first reason is the great success of
+the rational, sequential processing com
+puter in simulating parallel processing.
+Today's very fast, inexpensive computers
+can simulate fast parallel processing, run
+ning software programs that work as if
+many operations were going on at once.
+Twenty years ago, computers were too
+slow to simulate parallel processing.
+Second, the theoretical limit to how
+fast the von Neumann computer can op
+erate is approaching, Rumelhart said.
+Soon, people will not be able to make
+computers any smaller than existing
+ones, whose speed would be limited only
+by the maximum rate of current flow in a
+wire, the speed of light.
+Thus, people are looking for new ways
+to make faster computers and they are
+currently looking primarily at the possi
+bility of making computers with more
+than one processing unit.
+Neural networks are a special type of
+parallel computer. They are character
+ized by simple processing and memory as
+well as simple types of communication
+between their various processing units or
+"nodes."
+One celebrated feature of neural net
+works is their ability to learn from exper
+
+ience after being given examples of the
+types of problems they are to solve. The
+computer "learns" by adjusting the
+weights on the connections between its
+processing units.
+One very general type of problem that
+intelligent systems — whether biological
+or electronic — often must solve is the
+classification problem, which entails
+grouping a large number of examples
+into a smaller number of categories.
+Three scientific advances have in
+creased the interest in neural networks as
+a paradigm of parallel computation. The
+first is due primarily to Rumelhart and
+his colleagues.
+Early attempts to build parallel com
+puters were disappointing because the
+first of these computers was unable to
+learn to solve many classification prob
+lems, including some very simple ones.
+The first neural computer, called a
+"perceptron," developed by Frank
+Rosenblatt in the late 1950s and early
+19605, had only a single layer of process
+
+ing units or model "neurons" in its net
+work.
+As it turns out, multiple layers are ne
+cessary to achieve any kind of power
+from a neural network, but nobody knew
+how to make such a multilayered net
+work learn.
+Rumelhart discovered how to make a
+learning rule for adjusting the weights in
+a multilayered network, and it is the mul
+tilayered network that is currently
+showing promise.
+The second advance was due to John
+Hopfield, a physicist at California Insti
+tute of Technology, who discovered how
+to achieve "global" results with a net
+work by focusing on locally interacting
+electrical units.
+The third advance, or set of advances,
+were in neuroscience. In the 19505,
+neuroscientists developed the ability to
+penetrate individual biological neurons
+with microelectrodes and monitor their
+activity. More recently, neuroscientists
+have begun to be able to monitor the
+
+changes in connectivity between biologi
+cal neural units. These discoveries have
+fostered a desire for knowledge about
+how individual neurons might behave
+when linked together in various ways.
+"As people get closer to understanding
+how single cells work, there is a greater
+and greater need to understand how ag
+gregates (of nerve cells) might work,"
+Rumelhart said. Studying artificial com
+puter neural networks as models of real
+neural networks will be very valuable to
+the neuroscientist, Rumelhart said.
+The fields of neuroscience, computer
+engineering, artificial intelligence (AI)
+and psychology have all made important
+contributions to the development of
+neural computers, according to Rumel
+hart.
+Research on computer neural network
+learning may reveal important insights
+about the way humans learn. Such re
+search also could breed a new generation
+of computers with more human-like
+cognitive qualities and abilities.
+
+The "electronic brains" that have
+dominated in the computer revolution
+are most unlike the brains that have
+dominated in evolution. But brain-style
+computers are back with a new mutation
+that may make them more fit than their
+electronic ancestors.
+Although few have actually been con
+structed, brain-style computers are at the
+forefront of the computer revolution.
+They promise higher speeds, enhanced
+computer learning and ability to process
+Sensory information, and insights into
+how the human brain works.
+, Brain-style computers have gained
+elevated status only recently, but their
+history dates back to the beginning of
+computing, according to David Rumel
+hart, professor of psychology at Stanford.
+"In the early days of computing,
+people didn't know how to use comput
+ing machines," Rumelhart said. People
+had to decide between two fundamental
+design principles for computers — the
+one based on the brain or the current
+one.
+The most obvious model on which to
+base the design of a man-made thinking
+machine is its thinking biological analog,
+the human brain. This structure was con
+sidered by early computer scientists, but
+the structure that began to dominate by
+the late 1950s was quite different from
+that of tlie human brain.
+' Some of the key ideas for this kind of
+computer were first conceived near the
+end of World War II by mathematician
+John van Neumann. The computers
+people use today are descendants of the
+van Neumann rational thinking com
+puter, Rumelhart said.
+These traditional computers have one
+central processing unit (CPU) and, thus,
+can only perform a single operation at
+any one time. In addition to the CPU,
+these computers house many memory lo
+cations, where bits of information are
+stored.
+Although it operates in a radically dif
+ferent manner than the brain, this se
+quential processing computer was de
+signed to carry out its tasks in the same
+manner as a rational human would — in
+logical steps. Today's computer program
+
+is the step-by-step method used to tell a
+computer what to do. A computer reads
+through a program sequentially like a
+person would follow a recipe for eggplant
+Parmesan.
+The parallel processing computer is
+fundamentally different than the com
+puter described above. With more than
+one processing unit, it tackles many
+problems or many parts of a larger prob
+lem at the same time, in parallel fashion.
+It can solve much faster certain types of
+problems that are prohibitively slow on a
+sequential processor.
+This type of computer operates much
+more like the human brain, in which 10
+billion neurons, divided into groups proc
+ess different bits of information in paral
+lel.
+Computer scientists, biologists, psyc
+hologists and people in the computer in
+dustry have all become increasingly in
+terested in parallel, brain-style comput
+ers.
+There are two practical reasons for the
+surge of interest in parallel computers,
+Rumelhart said.
+The first reason is the great success of
+the rational, sequential processing com
+puter in simulating parallel processing.
+Today's very fast, inexpensive computers
+can simulate fast parallel processing, run
+ning software programs that work as if
+many operations were going on at once.
+Twenty years ago, computers were too
+slow to simulate parallel processing.
+Second, the theoretical limit to how
+fast the von Neumann computer can op
+erate is approaching, Rumelhart said.
+Soon, people will not be able to make
+computers any smaller than existing
+ones, whose speed would be limited only
+by the maximum rate of current flow in a
+wire, the speed of light.
+Thus, people are looking for new ways
+to make faster computers and they are
+currently looking primarily at the possi
+bility of making computers with more
+than one processing unit.
+Neural networks are a special type of
+parallel computer. They are character
+ized by simple processing and memory as
+well as simple types of communication
+between their various processing units or
+"nodes."
+One celebrated feature of neural net
+works is their ability to learn from exper
+
+ience after being given examples of the
+types of problems they are to solve. The
+computer "learns" by adjusting the
+weights on the connections between its
+processing units.
+One very general type of problem that
+intelligent systems — whether biological
+or electronic — often must solve is the
+classification problem, which entails
+grouping a large number of examples
+into a smaller number of categories.
+Three scientific advances have in
+creased the interest in neural networks as
+a paradigm of parallel computation. The
+first is due primarily to Rumelhart and
+his colleagues.
+Early attempts to build parallel com
+puters were disappointing because the
+first of these computers was unable to
+learn to solve many classification prob
+lems, including some very simple ones.
+The first neural computer, called a
+"perceptron," developed by Frank
+Rosenblatt in the late 1950s and early
+19605, had only a single layer of process
+
+ing units or model "neurons" in its net
+work.
+As it turns out, multiple layers are ne
+cessary to achieve any kind of power
+from a neural network, but nobody knew
+how to make such a multilayered net
+work learn.
+Rumelhart discovered how to make a
+learning rule for adjusting the weights in
+a multilayered network, and it is the mul
+tilayered network that is currently
+showing promise.
+The second advance was due to John
+Hopfield, a physicist at California Insti
+tute of Technology, who discovered how
+to achieve "global" results with a net
+work by focusing on locally interacting
+electrical units.
+The third advance, or set of advances,
+were in neuroscience. In the 19505,
+neuroscientists developed the ability to
+penetrate individual biological neurons
+with microelectrodes and monitor their
+activity. More recently, neuroscientists
+have begun to be able to monitor the
+
+changes in connectivity between biologi
+cal neural units. These discoveries have
+fostered a desire for knowledge about
+how individual neurons might behave
+when linked together in various ways.
+"As people get closer to understanding
+how single cells work, there is a greater
+and greater need to understand how ag
+gregates (of nerve cells) might work,"
+Rumelhart said. Studying artificial com
+puter neural networks as models of real
+neural networks will be very valuable to
+the neuroscientist, Rumelhart said.
+The fields of neuroscience, computer
+engineering, artificial intelligence (AI)
+and psychology have all made important
+contributions to the development of
+neural computers, according to Rumel
+hart.
+Research on computer neural network
+learning may reveal important insights
+about the way humans learn. Such re
+search also could breed a new generation
+of computers with more human-like
+cognitive qualities and abilities.
+
+The "electronic brains" that have
+dominated in the computer revolution
+are most unlike the brains that have
+dominated in evolution. But brain-style
+computers are back with a new mutation
+that may make them more fit than their
+electronic ancestors.
+Although few have actually been con
+structed, brain-style computers are at the
+forefront of the computer revolution.
+They promise higher speeds, enhanced
+computer learning and ability to process
+Sensory information, and insights into
+how the human brain works.
+, Brain-style computers have gained
+elevated status only recently, but their
+history dates back to the beginning of
+computing, according to David Rumel
+hart, professor of psychology at Stanford.
+"In the early days of computing,
+people didn't know how to use comput
+ing machines," Rumelhart said. People
+had to decide between two fundamental
+design principles for computers — the
+one based on the brain or the current
+one.
+The most obvious model on which to
+base the design of a man-made thinking
+machine is its thinking biological analog,
+the human brain. This structure was con
+sidered by early computer scientists, but
+the structure that began to dominate by
+the late 1950s was quite different from
+that of tlie human brain.
+' Some of the key ideas for this kind of
+computer were first conceived near the
+end of World War II by mathematician
+John van Neumann. The computers
+people use today are descendants of the
+van Neumann rational thinking com
+puter, Rumelhart said.
+These traditional computers have one
+central processing unit (CPU) and, thus,
+can only perform a single operation at
+any one time. In addition to the CPU,
+these computers house many memory lo
+cations, where bits of information are
+stored.
+Although it operates in a radically dif
+ferent manner than the brain, this se
+quential processing computer was de
+signed to carry out its tasks in the same
+manner as a rational human would — in
+logical steps. Today's computer program
+
+is the step-by-step method used to tell a
+computer what to do. A computer reads
+through a program sequentially like a
+person would follow a recipe for eggplant
+Parmesan.
+The parallel processing computer is
+fundamentally different than the com
+puter described above. With more than
+one processing unit, it tackles many
+problems or many parts of a larger prob
+lem at the same time, in parallel fashion.
+It can solve much faster certain types of
+problems that are prohibitively slow on a
+sequential processor.
+This type of computer operates much
+more like the human brain, in which 10
+billion neurons, divided into groups proc
+ess different bits of information in paral
+lel.
+Computer scientists, biologists, psyc
+hologists and people in the computer in
+dustry have all become increasingly in
+terested in parallel, brain-style comput
+ers.
+There are two practical reasons for the
+surge of interest in parallel computers,
+Rumelhart said.
+The first reason is the great success of
+the rational, sequential processing com
+puter in simulating parallel processing.
+Today's very fast, inexpensive computers
+can simulate fast parallel processing, run
+ning software programs that work as if
+many operations were going on at once.
+Twenty years ago, computers were too
+slow to simulate parallel processing.
+Second, the theoretical limit to how
+fast the von Neumann computer can op
+erate is approaching, Rumelhart said.
+Soon, people will not be able to make
+computers any smaller than existing
+ones, whose speed would be limited only
+by the maximum rate of current flow in a
+wire, the speed of light.
+Thus, people are looking for new ways
+to make faster computers and they are
+currently looking primarily at the possi
+bility of making computers with more
+than one processing unit.
+Neural networks are a special type of
+parallel computer. They are character
+ized by simple processing and memory as
+well as simple types of communication
+between their various processing units or
+"nodes."
+One celebrated feature of neural net
+works is their ability to learn from exper
+
+ience after being given examples of the
+types of problems they are to solve. The
+computer "learns" by adjusting the
+weights on the connections between its
+processing units.
+One very general type of problem that
+intelligent systems — whether biological
+or electronic — often must solve is the
+classification problem, which entails
+grouping a large number of examples
+into a smaller number of categories.
+Three scientific advances have in
+creased the interest in neural networks as
+a paradigm of parallel computation. The
+first is due primarily to Rumelhart and
+his colleagues.
+Early attempts to build parallel com
+puters were disappointing because the
+first of these computers was unable to
+learn to solve many classification prob
+lems, including some very simple ones.
+The first neural computer, called a
+"perceptron," developed by Frank
+Rosenblatt in the late 1950s and early
+19605, had only a single layer of process
+
+ing units or model "neurons" in its net
+work.
+As it turns out, multiple layers are ne
+cessary to achieve any kind of power
+from a neural network, but nobody knew
+how to make such a multilayered net
+work learn.
+Rumelhart discovered how to make a
+learning rule for adjusting the weights in
+a multilayered network, and it is the mul
+tilayered network that is currently
+showing promise.
+The second advance was due to John
+Hopfield, a physicist at California Insti
+tute of Technology, who discovered how
+to achieve "global" results with a net
+work by focusing on locally interacting
+electrical units.
+The third advance, or set of advances,
+were in neuroscience. In the 19505,
+neuroscientists developed the ability to
+penetrate individual biological neurons
+with microelectrodes and monitor their
+activity. More recently, neuroscientists
+have begun to be able to monitor the
+
+changes in connectivity between biologi
+cal neural units. These discoveries have
+fostered a desire for knowledge about
+how individual neurons might behave
+when linked together in various ways.
+"As people get closer to understanding
+how single cells work, there is a greater
+and greater need to understand how ag
+gregates (of nerve cells) might work,"
+Rumelhart said. Studying artificial com
+puter neural networks as models of real
+neural networks will be very valuable to
+the neuroscientist, Rumelhart said.
+The fields of neuroscience, computer
+engineering, artificial intelligence (AI)
+and psychology have all made important
+contributions to the development of
+neural computers, according to Rumel
+hart.
+Research on computer neural network
+learning may reveal important insights
+about the way humans learn. Such re
+search also could breed a new generation
+of computers with more human-like
+cognitive qualities and abilities.
+
+The "electronic brains" that have
+dominated in the computer revolution
+are most unlike the brains that have
+dominated in evolution. But brain-style
+computers are back with a new mutation
+that may make them more fit than their
+electronic ancestors.
+Although few have actually been con
+structed, brain-style computers are at the
+forefront of the computer revolution.
+They promise higher speeds, enhanced
+computer learning and ability to process
+Sensory information, and insights into
+how the human brain works.
+, Brain-style computers have gained
+elevated status only recently, but their
+history dates back to the beginning of
+computing, according to David Rumel
+hart, professor of psychology at Stanford.
+"In the early days of computing,
+people didn't know how to use comput
+ing machines," Rumelhart said. People
+had to decide between two fundamental
+design principles for computers — the
+one based on the brain or the current
+one.
+The most obvious model on which to
+base the design of a man-made thinking
+machine is its thinking biological analog,
+the human brain. This structure was con
+sidered by early computer scientists, but
+the structure that began to dominate by
+the late 1950s was quite different from
+that of tlie human brain.
+' Some of the key ideas for this kind of
+computer were first conceived near the
+end of World War II by mathematician
+John van Neumann. The computers
+people use today are descendants of the
+van Neumann rational thinking com
+puter, Rumelhart said.
+These traditional computers have one
+central processing unit (CPU) and, thus,
+can only perform a single operation at
+any one time. In addition to the CPU,
+these computers house many memory lo
+cations, where bits of information are
+stored.
+Although it operates in a radically dif
+ferent manner than the brain, this se
+quential processing computer was de
+signed to carry out its tasks in the same
+manner as a rational human would — in
+logical steps. Today's computer program
+
+is the step-by-step method used to tell a
+computer what to do. A computer reads
+through a program sequentially like a
+person would follow a recipe for eggplant
+Parmesan.
+The parallel processing computer is
+fundamentally different than the com
+puter described above. With more than
+one processing unit, it tackles many
+problems or many parts of a larger prob
+lem at the same time, in parallel fashion.
+It can solve much faster certain types of
+problems that are prohibitively slow on a
+sequential processor.
+This type of computer operates much
+more like the human brain, in which 10
+billion neurons, divided into groups proc
+ess different bits of information in paral
+lel.
+Computer scientists, biologists, psyc
+hologists and people in the computer in
+dustry have all become increasingly in
+terested in parallel, brain-style comput
+ers.
+There are two practical reasons for the
+surge of interest in parallel computers,
+Rumelhart said.
+The first reason is the great success of
+the rational, sequential processing com
+puter in simulating parallel processing.
+Today's very fast, inexpensive computers
+can simulate fast parallel processing, run
+ning software programs that work as if
+many operations were going on at once.
+Twenty years ago, computers were too
+slow to simulate parallel processing.
+Second, the theoretical limit to how
+fast the von Neumann computer can op
+erate is approaching, Rumelhart said.
+Soon, people will not be able to make
+computers any smaller than existing
+ones, whose speed would be limited only
+by the maximum rate of current flow in a
+wire, the speed of light.
+Thus, people are looking for new ways
+to make faster computers and they are
+currently looking primarily at the possi
+bility of making computers with more
+than one processing unit.
+Neural networks are a special type of
+parallel computer. They are character
+ized by simple processing and memory as
+well as simple types of communication
+between their various processing units or
+"nodes."
+One celebrated feature of neural net
+works is their ability to learn from exper
+
+ience after being given examples of the
+types of problems they are to solve. The
+computer "learns" by adjusting the
+weights on the connections between its
+processing units.
+One very general type of problem that
+intelligent systems — whether biological
+or electronic — often must solve is the
+classification problem, which entails
+grouping a large number of examples
+into a smaller number of categories.
+Three scientific advances have in
+creased the interest in neural networks as
+a paradigm of parallel computation. The
+first is due primarily to Rumelhart and
+his colleagues.
+Early attempts to build parallel com
+puters were disappointing because the
+first of these computers was unable to
+learn to solve many classification prob
+lems, including some very simple ones.
+The first neural computer, called a
+"perceptron," developed by Frank
+Rosenblatt in the late 1950s and early
+19605, had only a single layer of process
+
+ing units or model "neurons" in its net
+work.
+As it turns out, multiple layers are ne
+cessary to achieve any kind of power
+from a neural network, but nobody knew
+how to make such a multilayered net
+work learn.
+Rumelhart discovered how to make a
+learning rule for adjusting the weights in
+a multilayered network, and it is the mul
+tilayered network that is currently
+showing promise.
+The second advance was due to John
+Hopfield, a physicist at California Insti
+tute of Technology, who discovered how
+to achieve "global" results with a net
+work by focusing on locally interacting
+electrical units.
+The third advance, or set of advances,
+were in neuroscience. In the 19505,
+neuroscientists developed the ability to
+penetrate individual biological neurons
+with microelectrodes and monitor their
+activity. More recently, neuroscientists
+have begun to be able to monitor the
+
+changes in connectivity between biologi
+cal neural units. These discoveries have
+fostered a desire for knowledge about
+how individual neurons might behave
+when linked together in various ways.
+"As people get closer to understanding
+how single cells work, there is a greater
+and greater need to understand how ag
+gregates (of nerve cells) might work,"
+Rumelhart said. Studying artificial com
+puter neural networks as models of real
+neural networks will be very valuable to
+the neuroscientist, Rumelhart said.
+The fields of neuroscience, computer
+engineering, artificial intelligence (AI)
+and psychology have all made important
+contributions to the development of
+neural computers, according to Rumel
+hart.
+Research on computer neural network
+learning may reveal important insights
+about the way humans learn. Such re
+search also could breed a new generation
+of computers with more human-like
+cognitive qualities and abilities.
+
+The "electronic brains" that have
+dominated in the computer revolution
+are most unlike the brains that have
+dominated in evolution. But brain-style
+computers are back with a new mutation
+that may make them more fit than their
+electronic ancestors.
+Although few have actually been con
+structed, brain-style computers are at the
+forefront of the computer revolution.
+They promise higher speeds, enhanced
+computer learning and ability to process
+Sensory information, and insights into
+how the human brain works.
+, Brain-style computers have gained
+elevated status only recently, but their
+history dates back to the beginning of
+computing, according to David Rumel
+hart, professor of psychology at Stanford.
+"In the early days of computing,
+people didn't know how to use comput
+ing machines," Rumelhart said. People
+had to decide between two fundamental
+design principles for computers — the
+one based on the brain or the current
+one.
+The most obvious model on which to
+base the design of a man-made thinking
+machine is its thinking biological analog,
+the human brain. This structure was con
+sidered by early computer scientists, but
+the structure that began to dominate by
+the late 1950s was quite different from
+that of tlie human brain.
+' Some of the key ideas for this kind of
+computer were first conceived near the
+end of World War II by mathematician
+John van Neumann. The computers
+people use today are descendants of the
+van Neumann rational thinking com
+puter, Rumelhart said.
+These traditional computers have one
+central processing unit (CPU) and, thus,
+can only perform a single operation at
+any one time. In addition to the CPU,
+these computers house many memory lo
+cations, where bits of information are
+stored.
+Although it operates in a radically dif
+ferent manner than the brain, this se
+quential processing computer was de
+signed to carry out its tasks in the same
+manner as a rational human would — in
+logical steps. Today's computer program
+
+is the step-by-step method used to tell a
+computer what to do. A computer reads
+through a program sequentially like a
+person would follow a recipe for eggplant
+Parmesan.
+The parallel processing computer is
+fundamentally different than the com
+puter described above. With more than
+one processing unit, it tackles many
+problems or many parts of a larger prob
+lem at the same time, in parallel fashion.
+It can solve much faster certain types of
+problems that are prohibitively slow on a
+sequential processor.
+This type of computer operates much
+more like the human brain, in which 10
+billion neurons, divided into groups proc
+ess different bits of information in paral
+lel.
+Computer scientists, biologists, psyc
+hologists and people in the computer in
+dustry have all become increasingly in
+terested in parallel, brain-style comput
+ers.
+There are two practical reasons for the
+surge of interest in parallel computers,
+Rumelhart said.
+The first reason is the great success of
+the rational, sequential processing com
+puter in simulating parallel processing.
+Today's very fast, inexpensive computers
+can simulate fast parallel processing, run
+ning software programs that work as if
+many operations were going on at once.
+Twenty years ago, computers were too
+slow to simulate parallel processing.
+Second, the theoretical limit to how
+fast the von Neumann computer can op
+erate is approaching, Rumelhart said.
+Soon, people will not be able to make
+computers any smaller than existing
+ones, whose speed would be limited only
+by the maximum rate of current flow in a
+wire, the speed of light.
+Thus, people are looking for new ways
+to make faster computers and they are
+currently looking primarily at the possi
+bility of making computers with more
+than one processing unit.
+Neural networks are a special type of
+parallel computer. They are character
+ized by simple processing and memory as
+well as simple types of communication
+between their various processing units or
+"nodes."
+One celebrated feature of neural net
+works is their ability to learn from exper
+
+ience after being given examples of the
+types of problems they are to solve. The
+computer "learns" by adjusting the
+weights on the connections between its
+processing units.
+One very general type of problem that
+intelligent systems — whether biological
+or electronic — often must solve is the
+classification problem, which entails
+grouping a large number of examples
+into a smaller number of categories.
+Three scientific advances have in
+creased the interest in neural networks as
+a paradigm of parallel computation. The
+first is due primarily to Rumelhart and
+his colleagues.
+Early attempts to build parallel com
+puters were disappointing because the
+first of these computers was unable to
+learn to solve many classification prob
+lems, including some very simple ones.
+The first neural computer, called a
+"perceptron," developed by Frank
+Rosenblatt in the late 1950s and early
+19605, had only a single layer of process
+
+ing units or model "neurons" in its net
+work.
+As it turns out, multiple layers are ne
+cessary to achieve any kind of power
+from a neural network, but nobody knew
+how to make such a multilayered net
+work learn.
+Rumelhart discovered how to make a
+learning rule for adjusting the weights in
+a multilayered network, and it is the mul
+tilayered network that is currently
+showing promise.
+The second advance was due to John
+Hopfield, a physicist at California Insti
+tute of Technology, who discovered how
+to achieve "global" results with a net
+work by focusing on locally interacting
+electrical units.
+The third advance, or set of advances,
+were in neuroscience. In the 19505,
+neuroscientists developed the ability to
+penetrate individual biological neurons
+with microelectrodes and monitor their
+activity. More recently, neuroscientists
+have begun to be able to monitor the
+
+changes in connectivity between biologi
+cal neural units. These discoveries have
+fostered a desire for knowledge about
+how individual neurons might behave
+when linked together in various ways.
+"As people get closer to understanding
+how single cells work, there is a greater
+and greater need to understand how ag
+gregates (of nerve cells) might work,"
+Rumelhart said. Studying artificial com
+puter neural networks as models of real
+neural networks will be very valuable to
+the neuroscientist, Rumelhart said.
+The fields of neuroscience, computer
+engineering, artificial intelligence (AI)
+and psychology have all made important
+contributions to the development of
+neural computers, according to Rumel
+hart.
+Research on computer neural network
+learning may reveal important insights
+about the way humans learn. Such re
+search also could breed a new generation
+of computers with more human-like
+cognitive qualities and abilities.
+
+The "electronic brains" that have
+dominated in the computer revolution
+are most unlike the brains that have
+dominated in evolution. But brain-style
+computers are back with a new mutation
+that may make them more fit than their
+electronic ancestors.
+Although few have actually been con
+structed, brain-style computers are at the
+forefront of the computer revolution.
+They promise higher speeds, enhanced
+computer learning and ability to process
+Sensory information, and insights into
+how the human brain works.
+, Brain-style computers have gained
+elevated status only recently, but their
+history dates back to the beginning of
+computing, according to David Rumel
+hart, professor of psychology at Stanford.
+"In the early days of computing,
+people didn't know how to use comput
+ing machines," Rumelhart said. People
+had to decide between two fundamental
+design principles for computers — the
+one based on the brain or the current
+one.
+The most obvious model on which to
+base the design of a man-made thinking
+machine is its thinking biological analog,
+the human brain. This structure was con
+sidered by early computer scientists, but
+the structure that began to dominate by
+the late 1950s was quite different from
+that of tlie human brain.
+' Some of the key ideas for this kind of
+computer were first conceived near the
+end of World War II by mathematician
+John van Neumann. The computers
+people use today are descendants of the
+van Neumann rational thinking com
+puter, Rumelhart said.
+These traditional computers have one
+central processing unit (CPU) and, thus,
+can only perform a single operation at
+any one time. In addition to the CPU,
+these computers house many memory lo
+cations, where bits of information are
+stored.
+Although it operates in a radically dif
+ferent manner than the brain, this se
+quential processing computer was de
+signed to carry out its tasks in the same
+manner as a rational human would — in
+logical steps. Today's computer program
+
+is the step-by-step method used to tell a
+computer what to do. A computer reads
+through a program sequentially like a
+person would follow a recipe for eggplant
+Parmesan.
+The parallel processing computer is
+fundamentally different than the com
+puter described above. With more than
+one processing unit, it tackles many
+problems or many parts of a larger prob
+lem at the same time, in parallel fashion.
+It can solve much faster certain types of
+problems that are prohibitively slow on a
+sequential processor.
+This type of computer operates much
+more like the human brain, in which 10
+billion neurons, divided into groups proc
+ess different bits of information in paral
+lel.
+Computer scientists, biologists, psyc
+hologists and people in the computer in
+dustry have all become increasingly in
+terested in parallel, brain-style comput
+ers.
+There are two practical reasons for the
+surge of interest in parallel computers,
+Rumelhart said.
+The first reason is the great success of
+the rational, sequential processing com
+puter in simulating parallel processing.
+Today's very fast, inexpensive computers
+can simulate fast parallel processing, run
+ning software programs that work as if
+many operations were going on at once.
+Twenty years ago, computers were too
+slow to simulate parallel processing.
+Second, the theoretical limit to how
+fast the von Neumann computer can op
+erate is approaching, Rumelhart said.
+Soon, people will not be able to make
+computers any smaller than existing
+ones, whose speed would be limited only
+by the maximum rate of current flow in a
+wire, the speed of light.
+Thus, people are looking for new ways
+to make faster computers and they are
+currently looking primarily at the possi
+bility of making computers with more
+than one processing unit.
+Neural networks are a special type of
+parallel computer. They are character
+ized by simple processing and memory as
+well as simple types of communication
+between their various processing units or
+"nodes."
+One celebrated feature of neural net
+works is their ability to learn from exper
+
+ience after being given examples of the
+types of problems they are to solve. The
+computer "learns" by adjusting the
+weights on the connections between its
+processing units.
+One very general type of problem that
+intelligent systems — whether biological
+or electronic — often must solve is the
+classification problem, which entails
+grouping a large number of examples
+into a smaller number of categories.
+Three scientific advances have in
+creased the interest in neural networks as
+a paradigm of parallel computation. The
+first is due primarily to Rumelhart and
+his colleagues.
+Early attempts to build parallel com
+puters were disappointing because the
+first of these computers was unable to
+learn to solve many classification prob
+lems, including some very simple ones.
+The first neural computer, called a
+"perceptron," developed by Frank
+Rosenblatt in the late 1950s and early
+19605, had only a single layer of process
+
+ing units or model "neurons" in its net
+work.
+As it turns out, multiple layers are ne
+cessary to achieve any kind of power
+from a neural network, but nobody knew
+how to make such a multilayered net
+work learn.
+Rumelhart discovered how to make a
+learning rule for adjusting the weights in
+a multilayered network, and it is the mul
+tilayered network that is currently
+showing promise.
+The second advance was due to John
+Hopfield, a physicist at California Insti
+tute of Technology, who discovered how
+to achieve "global" results with a net
+work by focusing on locally interacting
+electrical units.
+The third advance, or set of advances,
+were in neuroscience. In the 19505,
+neuroscientists developed the ability to
+penetrate individual biological neurons
+with microelectrodes and monitor their
+activity. More recently, neuroscientists
+have begun to be able to monitor the
+
+changes in connectivity between biologi
+cal neural units. These discoveries have
+fostered a desire for knowledge about
+how individual neurons might behave
+when linked together in various ways.
+"As people get closer to understanding
+how single cells work, there is a greater
+and greater need to understand how ag
+gregates (of nerve cells) might work,"
+Rumelhart said. Studying artificial com
+puter neural networks as models of real
+neural networks will be very valuable to
+the neuroscientist, Rumelhart said.
+The fields of neuroscience, computer
+engineering, artificial intelligence (AI)
+and psychology have all made important
+contributions to the development of
+neural computers, according to Rumel
+hart.
+Research on computer neural network
+learning may reveal important insights
+about the way humans learn. Such re
+search also could breed a new generation
+of computers with more human-like
+cognitive qualities and abilities.
+
+The "electronic brains" that have
+dominated in the computer revolution
+are most unlike the brains that have
+dominated in evolution. But brain-style
+computers are back with a new mutation
+that may make them more fit than their
+electronic ancestors.
+Although few have actually been con
+structed, brain-style computers are at the
+forefront of the computer revolution.
+They promise higher speeds, enhanced
+computer learning and ability to process
+Sensory information, and insights into
+how the human brain works.
+, Brain-style computers have gained
+elevated status only recently, but their
+history dates back to the beginning of
+computing, according to David Rumel
+hart, professor of psychology at Stanford.
+"In the early days of computing,
+people didn't know how to use comput
+ing machines," Rumelhart said. People
+had to decide between two fundamental
+design principles for computers — the
+one based on the brain or the current
+one.
+The most obvious model on which to
+base the design of a man-made thinking
+machine is its thinking biological analog,
+the human brain. This structure was con
+sidered by early computer scientists, but
+the structure that began to dominate by
+the late 1950s was quite different from
+that of tlie human brain.
+' Some of the key ideas for this kind of
+computer were first conceived near the
+end of World War II by mathematician
+John van Neumann. The computers
+people use today are descendants of the
+van Neumann rational thinking com
+puter, Rumelhart said.
+These traditional computers have one
+central processing unit (CPU) and, thus,
+can only perform a single operation at
+any one time. In addition to the CPU,
+these computers house many memory lo
+cations, where bits of information are
+stored.
+Although it operates in a radically dif
+ferent manner than the brain, this se
+quential processing computer was de
+signed to carry out its tasks in the same
+manner as a rational human would — in
+logical steps. Today's computer program
+
+is the step-by-step method used to tell a
+computer what to do. A computer reads
+through a program sequentially like a
+person would follow a recipe for eggplant
+Parmesan.
+The parallel processing computer is
+fundamentally different than the com
+puter described above. With more than
+one processing unit, it tackles many
+problems or many parts of a larger prob
+lem at the same time, in parallel fashion.
+It can solve much faster certain types of
+problems that are prohibitively slow on a
+sequential processor.
+This type of computer operates much
+more like the human brain, in which 10
+billion neurons, divided into groups proc
+ess different bits of information in paral
+lel.
+Computer scientists, biologists, psyc
+hologists and people in the computer in
+dustry have all become increasingly in
+terested in parallel, brain-style comput
+ers.
+There are two practical reasons for the
+surge of interest in parallel computers,
+Rumelhart said.
+The first reason is the great success of
+the rational, sequential processing com
+puter in simulating parallel processing.
+Today's very fast, inexpensive computers
+can simulate fast parallel processing, run
+ning software programs that work as if
+many operations were going on at once.
+Twenty years ago, computers were too
+slow to simulate parallel processing.
+Second, the theoretical limit to how
+fast the von Neumann computer can op
+erate is approaching, Rumelhart said.
+Soon, people will not be able to make
+computers any smaller than existing
+ones, whose speed would be limited only
+by the maximum rate of current flow in a
+wire, the speed of light.
+Thus, people are looking for new ways
+to make faster computers and they are
+currently looking primarily at the possi
+bility of making computers with more
+than one processing unit.
+Neural networks are a special type of
+parallel computer. They are character
+ized by simple processing and memory as
+well as simple types of communication
+between their various processing units or
+"nodes."
+One celebrated feature of neural net
+works is their ability to learn from exper
+
+ience after being given examples of the
+types of problems they are to solve. The
+computer "learns" by adjusting the
+weights on the connections between its
+processing units.
+One very general type of problem that
+intelligent systems — whether biological
+or electronic — often must solve is the
+classification problem, which entails
+grouping a large number of examples
+into a smaller number of categories.
+Three scientific advances have in
+creased the interest in neural networks as
+a paradigm of parallel computation. The
+first is due primarily to Rumelhart and
+his colleagues.
+Early attempts to build parallel com
+puters were disappointing because the
+first of these computers was unable to
+learn to solve many classification prob
+lems, including some very simple ones.
+The first neural computer, called a
+"perceptron," developed by Frank
+Rosenblatt in the late 1950s and early
+19605, had only a single layer of process
+
+ing units or model "neurons" in its net
+work.
+As it turns out, multiple layers are ne
+cessary to achieve any kind of power
+from a neural network, but nobody knew
+how to make such a multilayered net
+work learn.
+Rumelhart discovered how to make a
+learning rule for adjusting the weights in
+a multilayered network, and it is the mul
+tilayered network that is currently
+showing promise.
+The second advance was due to John
+Hopfield, a physicist at California Insti
+tute of Technology, who discovered how
+to achieve "global" results with a net
+work by focusing on locally interacting
+electrical units.
+The third advance, or set of advances,
+were in neuroscience. In the 19505,
+neuroscientists developed the ability to
+penetrate individual biological neurons
+with microelectrodes and monitor their
+activity. More recently, neuroscientists
+have begun to be able to monitor the
+
+changes in connectivity between biologi
+cal neural units. These discoveries have
+fostered a desire for knowledge about
+how individual neurons might behave
+when linked together in various ways.
+"As people get closer to understanding
+how single cells work, there is a greater
+and greater need to understand how ag
+gregates (of nerve cells) might work,"
+Rumelhart said. Studying artificial com
+puter neural networks as models of real
+neural networks will be very valuable to
+the neuroscientist, Rumelhart said.
+The fields of neuroscience, computer
+engineering, artificial intelligence (AI)
+and psychology have all made important
+contributions to the development of
+neural computers, according to Rumel
+hart.
+Research on computer neural network
+learning may reveal important insights
+about the way humans learn. Such re
+search also could breed a new generation
+of computers with more human-like
+cognitive qualities and abilities.
+

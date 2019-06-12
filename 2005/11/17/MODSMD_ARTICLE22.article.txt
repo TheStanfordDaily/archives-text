@@ -1,0 +1,966 @@
+# POINT OF VIEW
+## Math latest weapon in war on terror 
+### KATHERINE HARVEY 
+Lattice theory — a branch of abstract mathe
+matics that studies order and hierarchy — could
+be used to break up terrorist cells and give law
+enforcement and intelligence agencies more ac
+curate assessments of U.S. vulnerability to future
+terrorist attacks, according to Prof. Jonathon Far
+ley, a Center for International Security and Co
+operation (CISAC) science fellow at Stanford.
+A crowd of approximately 20 gathered Tues
+day afternoon to hear what the science fellow,
+Summa Cum Laude Harvard graduate and Ful
+bright distinguished scholar recipient had to say
+about countering terrorism in a talk entitled
+"Beauty and Terror: Does Mathematics Have a
+Role to Play in Winning the Shadow War?"
+Farley began his talk with a short clip from the
+movie "A Beautiful Mind", the Oscar-winning
+film that portrayed the life of mathematician
+John Nash. Nash's work in game theory, which
+was later applied to military strategy during the
+Cold War, was Farley's inspiration, he said.
+"That is where it all started," he said, refer
+encing the film's opening line: "Mathematicians
+won the war." Farley said he wondered whether
+lattice theory — his mathematical field of ex
+pertise — could similarly be applied to help fight
+the war on terrorism.
+Intrigued, Farley set out to create a program
+based on lattice theoretical models that would
+calculate the probability that a terrorist cell has
+been disrupted. In Farley's program, terrorists
+are represented as dots on a graph. The program
+sifts through current intelligence data on indi
+vidual terrorists and terrorist activity, searching
+for patterns between individuals, locations and
+events that would link one terrorist to another. If
+enough patterns are discerned, the program
+would literally "connect the dots," and establish
+members of a terrorist cell.
+While databases drawing on similar mathe
+matical concepts and calculations are used by in
+telligence agencies today, Farley said these exist
+ing databases "ignore the fact that terrorist cells
+have hierarchy," something that his lattice model
+takes into account.
+"Ideally, we want to capture
+everyone in the terrorist cell," Farley
+said. "But that's not realistic. But
+let's say we capture four of the 15
+terrorists in the cell. We want to
+know the probability that the cell has
+been disabled."
+Existing databases, Farley ex
+plained, would interpret these re
+sults without taking into account the
+captured terrorists' rank in the hier
+archy. If all four of the captured ter
+rorists were in the lowest rank of the
+hierarchy, the terrorist cell would not
+necessarily have been broken, but
+the old model might lead intelli
+
+gence officials to believe it had.
+With the old model, Farley said,
+"We would feel safer than we would
+have a right to."
+Farley's model, on the other
+hand, would take hierarchy into ac
+count, calculating the probability
+that a terrorist cell had been disabled
+based on the number of terrorists
+captured in a given cell and their hi
+erarchal ranking in the cell. Farley
+said the model would also help intel
+ligence officers identify the most ef
+ficient way to disable a cell by identi
+fying which terrorists had to be re
+moved from the cell in order to
+break the chain of command.
+Many attendees asked questions
+about the model, which Farley field
+ed after his presentation. US Army
+Col. Bill Hix, a national security af
+fairs fellow at Hoover Institution,
+
+asked Farley about the model's abil
+ity to adapt to the new global terror
+ist threat.
+Hix pointed out that terrorist net
+works and communications systems
+have become quite complex, adding,
+"It is not something imminently ap
+parent on how you can approach it."
+"The model just deals with actual
+cells or groups," Farley responded,
+"not some kind of spiritual realm."
+He said he didn't know the precise
+structure of terrorist cells, adding
+"the model has to be applied by peo
+ple whose expertise is in that field."
+For Farley, the program repre
+sented a jumping-off point, a basic
+model that could be later refined.
+"I have presented a stripped
+down version of the program, and it
+is important to ask where we can go
+from here," he said.
+Lattice theory — a branch of abstract mathe
+matics that studies order and hierarchy — could
+be used to break up terrorist cells and give law
+enforcement and intelligence agencies more ac
+curate assessments of U.S. vulnerability to future
+terrorist attacks, according to Prof. Jonathon Far
+ley, a Center for International Security and Co
+operation (CISAC) science fellow at Stanford.
+A crowd of approximately 20 gathered Tues
+day afternoon to hear what the science fellow,
+Summa Cum Laude Harvard graduate and Ful
+bright distinguished scholar recipient had to say
+about countering terrorism in a talk entitled
+"Beauty and Terror: Does Mathematics Have a
+Role to Play in Winning the Shadow War?"
+Farley began his talk with a short clip from the
+movie "A Beautiful Mind", the Oscar-winning
+film that portrayed the life of mathematician
+John Nash. Nash's work in game theory, which
+was later applied to military strategy during the
+Cold War, was Farley's inspiration, he said.
+"That is where it all started," he said, refer
+encing the film's opening line: "Mathematicians
+won the war." Farley said he wondered whether
+lattice theory — his mathematical field of ex
+pertise — could similarly be applied to help fight
+the war on terrorism.
+Intrigued, Farley set out to create a program
+based on lattice theoretical models that would
+calculate the probability that a terrorist cell has
+been disrupted. In Farley's program, terrorists
+are represented as dots on a graph. The program
+sifts through current intelligence data on indi
+vidual terrorists and terrorist activity, searching
+for patterns between individuals, locations and
+events that would link one terrorist to another. If
+enough patterns are discerned, the program
+would literally "connect the dots," and establish
+members of a terrorist cell.
+While databases drawing on similar mathe
+matical concepts and calculations are used by in
+telligence agencies today, Farley said these exist
+ing databases "ignore the fact that terrorist cells
+have hierarchy," something that his lattice model
+takes into account.
+"Ideally, we want to capture
+everyone in the terrorist cell," Farley
+said. "But that's not realistic. But
+let's say we capture four of the 15
+terrorists in the cell. We want to
+know the probability that the cell has
+been disabled."
+Existing databases, Farley ex
+plained, would interpret these re
+sults without taking into account the
+captured terrorists' rank in the hier
+archy. If all four of the captured ter
+rorists were in the lowest rank of the
+hierarchy, the terrorist cell would not
+necessarily have been broken, but
+the old model might lead intelli
+
+gence officials to believe it had.
+With the old model, Farley said,
+"We would feel safer than we would
+have a right to."
+Farley's model, on the other
+hand, would take hierarchy into ac
+count, calculating the probability
+that a terrorist cell had been disabled
+based on the number of terrorists
+captured in a given cell and their hi
+erarchal ranking in the cell. Farley
+said the model would also help intel
+ligence officers identify the most ef
+ficient way to disable a cell by identi
+fying which terrorists had to be re
+moved from the cell in order to
+break the chain of command.
+Many attendees asked questions
+about the model, which Farley field
+ed after his presentation. US Army
+Col. Bill Hix, a national security af
+fairs fellow at Hoover Institution,
+
+asked Farley about the model's abil
+ity to adapt to the new global terror
+ist threat.
+Hix pointed out that terrorist net
+works and communications systems
+have become quite complex, adding,
+"It is not something imminently ap
+parent on how you can approach it."
+"The model just deals with actual
+cells or groups," Farley responded,
+"not some kind of spiritual realm."
+He said he didn't know the precise
+structure of terrorist cells, adding
+"the model has to be applied by peo
+ple whose expertise is in that field."
+For Farley, the program repre
+sented a jumping-off point, a basic
+model that could be later refined.
+"I have presented a stripped
+down version of the program, and it
+is important to ask where we can go
+from here," he said.
+Lattice theory — a branch of abstract mathe
+matics that studies order and hierarchy — could
+be used to break up terrorist cells and give law
+enforcement and intelligence agencies more ac
+curate assessments of U.S. vulnerability to future
+terrorist attacks, according to Prof. Jonathon Far
+ley, a Center for International Security and Co
+operation (CISAC) science fellow at Stanford.
+A crowd of approximately 20 gathered Tues
+day afternoon to hear what the science fellow,
+Summa Cum Laude Harvard graduate and Ful
+bright distinguished scholar recipient had to say
+about countering terrorism in a talk entitled
+"Beauty and Terror: Does Mathematics Have a
+Role to Play in Winning the Shadow War?"
+Farley began his talk with a short clip from the
+movie "A Beautiful Mind", the Oscar-winning
+film that portrayed the life of mathematician
+John Nash. Nash's work in game theory, which
+was later applied to military strategy during the
+Cold War, was Farley's inspiration, he said.
+"That is where it all started," he said, refer
+encing the film's opening line: "Mathematicians
+won the war." Farley said he wondered whether
+lattice theory — his mathematical field of ex
+pertise — could similarly be applied to help fight
+the war on terrorism.
+Intrigued, Farley set out to create a program
+based on lattice theoretical models that would
+calculate the probability that a terrorist cell has
+been disrupted. In Farley's program, terrorists
+are represented as dots on a graph. The program
+sifts through current intelligence data on indi
+vidual terrorists and terrorist activity, searching
+for patterns between individuals, locations and
+events that would link one terrorist to another. If
+enough patterns are discerned, the program
+would literally "connect the dots," and establish
+members of a terrorist cell.
+While databases drawing on similar mathe
+matical concepts and calculations are used by in
+telligence agencies today, Farley said these exist
+ing databases "ignore the fact that terrorist cells
+have hierarchy," something that his lattice model
+takes into account.
+"Ideally, we want to capture
+everyone in the terrorist cell," Farley
+said. "But that's not realistic. But
+let's say we capture four of the 15
+terrorists in the cell. We want to
+know the probability that the cell has
+been disabled."
+Existing databases, Farley ex
+plained, would interpret these re
+sults without taking into account the
+captured terrorists' rank in the hier
+archy. If all four of the captured ter
+rorists were in the lowest rank of the
+hierarchy, the terrorist cell would not
+necessarily have been broken, but
+the old model might lead intelli
+
+gence officials to believe it had.
+With the old model, Farley said,
+"We would feel safer than we would
+have a right to."
+Farley's model, on the other
+hand, would take hierarchy into ac
+count, calculating the probability
+that a terrorist cell had been disabled
+based on the number of terrorists
+captured in a given cell and their hi
+erarchal ranking in the cell. Farley
+said the model would also help intel
+ligence officers identify the most ef
+ficient way to disable a cell by identi
+fying which terrorists had to be re
+moved from the cell in order to
+break the chain of command.
+Many attendees asked questions
+about the model, which Farley field
+ed after his presentation. US Army
+Col. Bill Hix, a national security af
+fairs fellow at Hoover Institution,
+
+asked Farley about the model's abil
+ity to adapt to the new global terror
+ist threat.
+Hix pointed out that terrorist net
+works and communications systems
+have become quite complex, adding,
+"It is not something imminently ap
+parent on how you can approach it."
+"The model just deals with actual
+cells or groups," Farley responded,
+"not some kind of spiritual realm."
+He said he didn't know the precise
+structure of terrorist cells, adding
+"the model has to be applied by peo
+ple whose expertise is in that field."
+For Farley, the program repre
+sented a jumping-off point, a basic
+model that could be later refined.
+"I have presented a stripped
+down version of the program, and it
+is important to ask where we can go
+from here," he said.
+Lattice theory — a branch of abstract mathe
+matics that studies order and hierarchy — could
+be used to break up terrorist cells and give law
+enforcement and intelligence agencies more ac
+curate assessments of U.S. vulnerability to future
+terrorist attacks, according to Prof. Jonathon Far
+ley, a Center for International Security and Co
+operation (CISAC) science fellow at Stanford.
+A crowd of approximately 20 gathered Tues
+day afternoon to hear what the science fellow,
+Summa Cum Laude Harvard graduate and Ful
+bright distinguished scholar recipient had to say
+about countering terrorism in a talk entitled
+"Beauty and Terror: Does Mathematics Have a
+Role to Play in Winning the Shadow War?"
+Farley began his talk with a short clip from the
+movie "A Beautiful Mind", the Oscar-winning
+film that portrayed the life of mathematician
+John Nash. Nash's work in game theory, which
+was later applied to military strategy during the
+Cold War, was Farley's inspiration, he said.
+"That is where it all started," he said, refer
+encing the film's opening line: "Mathematicians
+won the war." Farley said he wondered whether
+lattice theory — his mathematical field of ex
+pertise — could similarly be applied to help fight
+the war on terrorism.
+Intrigued, Farley set out to create a program
+based on lattice theoretical models that would
+calculate the probability that a terrorist cell has
+been disrupted. In Farley's program, terrorists
+are represented as dots on a graph. The program
+sifts through current intelligence data on indi
+vidual terrorists and terrorist activity, searching
+for patterns between individuals, locations and
+events that would link one terrorist to another. If
+enough patterns are discerned, the program
+would literally "connect the dots," and establish
+members of a terrorist cell.
+While databases drawing on similar mathe
+matical concepts and calculations are used by in
+telligence agencies today, Farley said these exist
+ing databases "ignore the fact that terrorist cells
+have hierarchy," something that his lattice model
+takes into account.
+"Ideally, we want to capture
+everyone in the terrorist cell," Farley
+said. "But that's not realistic. But
+let's say we capture four of the 15
+terrorists in the cell. We want to
+know the probability that the cell has
+been disabled."
+Existing databases, Farley ex
+plained, would interpret these re
+sults without taking into account the
+captured terrorists' rank in the hier
+archy. If all four of the captured ter
+rorists were in the lowest rank of the
+hierarchy, the terrorist cell would not
+necessarily have been broken, but
+the old model might lead intelli
+
+gence officials to believe it had.
+With the old model, Farley said,
+"We would feel safer than we would
+have a right to."
+Farley's model, on the other
+hand, would take hierarchy into ac
+count, calculating the probability
+that a terrorist cell had been disabled
+based on the number of terrorists
+captured in a given cell and their hi
+erarchal ranking in the cell. Farley
+said the model would also help intel
+ligence officers identify the most ef
+ficient way to disable a cell by identi
+fying which terrorists had to be re
+moved from the cell in order to
+break the chain of command.
+Many attendees asked questions
+about the model, which Farley field
+ed after his presentation. US Army
+Col. Bill Hix, a national security af
+fairs fellow at Hoover Institution,
+
+asked Farley about the model's abil
+ity to adapt to the new global terror
+ist threat.
+Hix pointed out that terrorist net
+works and communications systems
+have become quite complex, adding,
+"It is not something imminently ap
+parent on how you can approach it."
+"The model just deals with actual
+cells or groups," Farley responded,
+"not some kind of spiritual realm."
+He said he didn't know the precise
+structure of terrorist cells, adding
+"the model has to be applied by peo
+ple whose expertise is in that field."
+For Farley, the program repre
+sented a jumping-off point, a basic
+model that could be later refined.
+"I have presented a stripped
+down version of the program, and it
+is important to ask where we can go
+from here," he said.
+Lattice theory — a branch of abstract mathe
+matics that studies order and hierarchy — could
+be used to break up terrorist cells and give law
+enforcement and intelligence agencies more ac
+curate assessments of U.S. vulnerability to future
+terrorist attacks, according to Prof. Jonathon Far
+ley, a Center for International Security and Co
+operation (CISAC) science fellow at Stanford.
+A crowd of approximately 20 gathered Tues
+day afternoon to hear what the science fellow,
+Summa Cum Laude Harvard graduate and Ful
+bright distinguished scholar recipient had to say
+about countering terrorism in a talk entitled
+"Beauty and Terror: Does Mathematics Have a
+Role to Play in Winning the Shadow War?"
+Farley began his talk with a short clip from the
+movie "A Beautiful Mind", the Oscar-winning
+film that portrayed the life of mathematician
+John Nash. Nash's work in game theory, which
+was later applied to military strategy during the
+Cold War, was Farley's inspiration, he said.
+"That is where it all started," he said, refer
+encing the film's opening line: "Mathematicians
+won the war." Farley said he wondered whether
+lattice theory — his mathematical field of ex
+pertise — could similarly be applied to help fight
+the war on terrorism.
+Intrigued, Farley set out to create a program
+based on lattice theoretical models that would
+calculate the probability that a terrorist cell has
+been disrupted. In Farley's program, terrorists
+are represented as dots on a graph. The program
+sifts through current intelligence data on indi
+vidual terrorists and terrorist activity, searching
+for patterns between individuals, locations and
+events that would link one terrorist to another. If
+enough patterns are discerned, the program
+would literally "connect the dots," and establish
+members of a terrorist cell.
+While databases drawing on similar mathe
+matical concepts and calculations are used by in
+telligence agencies today, Farley said these exist
+ing databases "ignore the fact that terrorist cells
+have hierarchy," something that his lattice model
+takes into account.
+"Ideally, we want to capture
+everyone in the terrorist cell," Farley
+said. "But that's not realistic. But
+let's say we capture four of the 15
+terrorists in the cell. We want to
+know the probability that the cell has
+been disabled."
+Existing databases, Farley ex
+plained, would interpret these re
+sults without taking into account the
+captured terrorists' rank in the hier
+archy. If all four of the captured ter
+rorists were in the lowest rank of the
+hierarchy, the terrorist cell would not
+necessarily have been broken, but
+the old model might lead intelli
+
+gence officials to believe it had.
+With the old model, Farley said,
+"We would feel safer than we would
+have a right to."
+Farley's model, on the other
+hand, would take hierarchy into ac
+count, calculating the probability
+that a terrorist cell had been disabled
+based on the number of terrorists
+captured in a given cell and their hi
+erarchal ranking in the cell. Farley
+said the model would also help intel
+ligence officers identify the most ef
+ficient way to disable a cell by identi
+fying which terrorists had to be re
+moved from the cell in order to
+break the chain of command.
+Many attendees asked questions
+about the model, which Farley field
+ed after his presentation. US Army
+Col. Bill Hix, a national security af
+fairs fellow at Hoover Institution,
+
+asked Farley about the model's abil
+ity to adapt to the new global terror
+ist threat.
+Hix pointed out that terrorist net
+works and communications systems
+have become quite complex, adding,
+"It is not something imminently ap
+parent on how you can approach it."
+"The model just deals with actual
+cells or groups," Farley responded,
+"not some kind of spiritual realm."
+He said he didn't know the precise
+structure of terrorist cells, adding
+"the model has to be applied by peo
+ple whose expertise is in that field."
+For Farley, the program repre
+sented a jumping-off point, a basic
+model that could be later refined.
+"I have presented a stripped
+down version of the program, and it
+is important to ask where we can go
+from here," he said.
+Lattice theory — a branch of abstract mathe
+matics that studies order and hierarchy — could
+be used to break up terrorist cells and give law
+enforcement and intelligence agencies more ac
+curate assessments of U.S. vulnerability to future
+terrorist attacks, according to Prof. Jonathon Far
+ley, a Center for International Security and Co
+operation (CISAC) science fellow at Stanford.
+A crowd of approximately 20 gathered Tues
+day afternoon to hear what the science fellow,
+Summa Cum Laude Harvard graduate and Ful
+bright distinguished scholar recipient had to say
+about countering terrorism in a talk entitled
+"Beauty and Terror: Does Mathematics Have a
+Role to Play in Winning the Shadow War?"
+Farley began his talk with a short clip from the
+movie "A Beautiful Mind", the Oscar-winning
+film that portrayed the life of mathematician
+John Nash. Nash's work in game theory, which
+was later applied to military strategy during the
+Cold War, was Farley's inspiration, he said.
+"That is where it all started," he said, refer
+encing the film's opening line: "Mathematicians
+won the war." Farley said he wondered whether
+lattice theory — his mathematical field of ex
+pertise — could similarly be applied to help fight
+the war on terrorism.
+Intrigued, Farley set out to create a program
+based on lattice theoretical models that would
+calculate the probability that a terrorist cell has
+been disrupted. In Farley's program, terrorists
+are represented as dots on a graph. The program
+sifts through current intelligence data on indi
+vidual terrorists and terrorist activity, searching
+for patterns between individuals, locations and
+events that would link one terrorist to another. If
+enough patterns are discerned, the program
+would literally "connect the dots," and establish
+members of a terrorist cell.
+While databases drawing on similar mathe
+matical concepts and calculations are used by in
+telligence agencies today, Farley said these exist
+ing databases "ignore the fact that terrorist cells
+have hierarchy," something that his lattice model
+takes into account.
+"Ideally, we want to capture
+everyone in the terrorist cell," Farley
+said. "But that's not realistic. But
+let's say we capture four of the 15
+terrorists in the cell. We want to
+know the probability that the cell has
+been disabled."
+Existing databases, Farley ex
+plained, would interpret these re
+sults without taking into account the
+captured terrorists' rank in the hier
+archy. If all four of the captured ter
+rorists were in the lowest rank of the
+hierarchy, the terrorist cell would not
+necessarily have been broken, but
+the old model might lead intelli
+
+gence officials to believe it had.
+With the old model, Farley said,
+"We would feel safer than we would
+have a right to."
+Farley's model, on the other
+hand, would take hierarchy into ac
+count, calculating the probability
+that a terrorist cell had been disabled
+based on the number of terrorists
+captured in a given cell and their hi
+erarchal ranking in the cell. Farley
+said the model would also help intel
+ligence officers identify the most ef
+ficient way to disable a cell by identi
+fying which terrorists had to be re
+moved from the cell in order to
+break the chain of command.
+Many attendees asked questions
+about the model, which Farley field
+ed after his presentation. US Army
+Col. Bill Hix, a national security af
+fairs fellow at Hoover Institution,
+
+asked Farley about the model's abil
+ity to adapt to the new global terror
+ist threat.
+Hix pointed out that terrorist net
+works and communications systems
+have become quite complex, adding,
+"It is not something imminently ap
+parent on how you can approach it."
+"The model just deals with actual
+cells or groups," Farley responded,
+"not some kind of spiritual realm."
+He said he didn't know the precise
+structure of terrorist cells, adding
+"the model has to be applied by peo
+ple whose expertise is in that field."
+For Farley, the program repre
+sented a jumping-off point, a basic
+model that could be later refined.
+"I have presented a stripped
+down version of the program, and it
+is important to ask where we can go
+from here," he said.
+Lattice theory — a branch of abstract mathe
+matics that studies order and hierarchy — could
+be used to break up terrorist cells and give law
+enforcement and intelligence agencies more ac
+curate assessments of U.S. vulnerability to future
+terrorist attacks, according to Prof. Jonathon Far
+ley, a Center for International Security and Co
+operation (CISAC) science fellow at Stanford.
+A crowd of approximately 20 gathered Tues
+day afternoon to hear what the science fellow,
+Summa Cum Laude Harvard graduate and Ful
+bright distinguished scholar recipient had to say
+about countering terrorism in a talk entitled
+"Beauty and Terror: Does Mathematics Have a
+Role to Play in Winning the Shadow War?"
+Farley began his talk with a short clip from the
+movie "A Beautiful Mind", the Oscar-winning
+film that portrayed the life of mathematician
+John Nash. Nash's work in game theory, which
+was later applied to military strategy during the
+Cold War, was Farley's inspiration, he said.
+"That is where it all started," he said, refer
+encing the film's opening line: "Mathematicians
+won the war." Farley said he wondered whether
+lattice theory — his mathematical field of ex
+pertise — could similarly be applied to help fight
+the war on terrorism.
+Intrigued, Farley set out to create a program
+based on lattice theoretical models that would
+calculate the probability that a terrorist cell has
+been disrupted. In Farley's program, terrorists
+are represented as dots on a graph. The program
+sifts through current intelligence data on indi
+vidual terrorists and terrorist activity, searching
+for patterns between individuals, locations and
+events that would link one terrorist to another. If
+enough patterns are discerned, the program
+would literally "connect the dots," and establish
+members of a terrorist cell.
+While databases drawing on similar mathe
+matical concepts and calculations are used by in
+telligence agencies today, Farley said these exist
+ing databases "ignore the fact that terrorist cells
+have hierarchy," something that his lattice model
+takes into account.
+"Ideally, we want to capture
+everyone in the terrorist cell," Farley
+said. "But that's not realistic. But
+let's say we capture four of the 15
+terrorists in the cell. We want to
+know the probability that the cell has
+been disabled."
+Existing databases, Farley ex
+plained, would interpret these re
+sults without taking into account the
+captured terrorists' rank in the hier
+archy. If all four of the captured ter
+rorists were in the lowest rank of the
+hierarchy, the terrorist cell would not
+necessarily have been broken, but
+the old model might lead intelli
+
+gence officials to believe it had.
+With the old model, Farley said,
+"We would feel safer than we would
+have a right to."
+Farley's model, on the other
+hand, would take hierarchy into ac
+count, calculating the probability
+that a terrorist cell had been disabled
+based on the number of terrorists
+captured in a given cell and their hi
+erarchal ranking in the cell. Farley
+said the model would also help intel
+ligence officers identify the most ef
+ficient way to disable a cell by identi
+fying which terrorists had to be re
+moved from the cell in order to
+break the chain of command.
+Many attendees asked questions
+about the model, which Farley field
+ed after his presentation. US Army
+Col. Bill Hix, a national security af
+fairs fellow at Hoover Institution,
+
+asked Farley about the model's abil
+ity to adapt to the new global terror
+ist threat.
+Hix pointed out that terrorist net
+works and communications systems
+have become quite complex, adding,
+"It is not something imminently ap
+parent on how you can approach it."
+"The model just deals with actual
+cells or groups," Farley responded,
+"not some kind of spiritual realm."
+He said he didn't know the precise
+structure of terrorist cells, adding
+"the model has to be applied by peo
+ple whose expertise is in that field."
+For Farley, the program repre
+sented a jumping-off point, a basic
+model that could be later refined.
+"I have presented a stripped
+down version of the program, and it
+is important to ask where we can go
+from here," he said.
+Lattice theory — a branch of abstract mathe
+matics that studies order and hierarchy — could
+be used to break up terrorist cells and give law
+enforcement and intelligence agencies more ac
+curate assessments of U.S. vulnerability to future
+terrorist attacks, according to Prof. Jonathon Far
+ley, a Center for International Security and Co
+operation (CISAC) science fellow at Stanford.
+A crowd of approximately 20 gathered Tues
+day afternoon to hear what the science fellow,
+Summa Cum Laude Harvard graduate and Ful
+bright distinguished scholar recipient had to say
+about countering terrorism in a talk entitled
+"Beauty and Terror: Does Mathematics Have a
+Role to Play in Winning the Shadow War?"
+Farley began his talk with a short clip from the
+movie "A Beautiful Mind", the Oscar-winning
+film that portrayed the life of mathematician
+John Nash. Nash's work in game theory, which
+was later applied to military strategy during the
+Cold War, was Farley's inspiration, he said.
+"That is where it all started," he said, refer
+encing the film's opening line: "Mathematicians
+won the war." Farley said he wondered whether
+lattice theory — his mathematical field of ex
+pertise — could similarly be applied to help fight
+the war on terrorism.
+Intrigued, Farley set out to create a program
+based on lattice theoretical models that would
+calculate the probability that a terrorist cell has
+been disrupted. In Farley's program, terrorists
+are represented as dots on a graph. The program
+sifts through current intelligence data on indi
+vidual terrorists and terrorist activity, searching
+for patterns between individuals, locations and
+events that would link one terrorist to another. If
+enough patterns are discerned, the program
+would literally "connect the dots," and establish
+members of a terrorist cell.
+While databases drawing on similar mathe
+matical concepts and calculations are used by in
+telligence agencies today, Farley said these exist
+ing databases "ignore the fact that terrorist cells
+have hierarchy," something that his lattice model
+takes into account.
+"Ideally, we want to capture
+everyone in the terrorist cell," Farley
+said. "But that's not realistic. But
+let's say we capture four of the 15
+terrorists in the cell. We want to
+know the probability that the cell has
+been disabled."
+Existing databases, Farley ex
+plained, would interpret these re
+sults without taking into account the
+captured terrorists' rank in the hier
+archy. If all four of the captured ter
+rorists were in the lowest rank of the
+hierarchy, the terrorist cell would not
+necessarily have been broken, but
+the old model might lead intelli
+
+gence officials to believe it had.
+With the old model, Farley said,
+"We would feel safer than we would
+have a right to."
+Farley's model, on the other
+hand, would take hierarchy into ac
+count, calculating the probability
+that a terrorist cell had been disabled
+based on the number of terrorists
+captured in a given cell and their hi
+erarchal ranking in the cell. Farley
+said the model would also help intel
+ligence officers identify the most ef
+ficient way to disable a cell by identi
+fying which terrorists had to be re
+moved from the cell in order to
+break the chain of command.
+Many attendees asked questions
+about the model, which Farley field
+ed after his presentation. US Army
+Col. Bill Hix, a national security af
+fairs fellow at Hoover Institution,
+
+asked Farley about the model's abil
+ity to adapt to the new global terror
+ist threat.
+Hix pointed out that terrorist net
+works and communications systems
+have become quite complex, adding,
+"It is not something imminently ap
+parent on how you can approach it."
+"The model just deals with actual
+cells or groups," Farley responded,
+"not some kind of spiritual realm."
+He said he didn't know the precise
+structure of terrorist cells, adding
+"the model has to be applied by peo
+ple whose expertise is in that field."
+For Farley, the program repre
+sented a jumping-off point, a basic
+model that could be later refined.
+"I have presented a stripped
+down version of the program, and it
+is important to ask where we can go
+from here," he said.
+Lattice theory — a branch of abstract mathe
+matics that studies order and hierarchy — could
+be used to break up terrorist cells and give law
+enforcement and intelligence agencies more ac
+curate assessments of U.S. vulnerability to future
+terrorist attacks, according to Prof. Jonathon Far
+ley, a Center for International Security and Co
+operation (CISAC) science fellow at Stanford.
+A crowd of approximately 20 gathered Tues
+day afternoon to hear what the science fellow,
+Summa Cum Laude Harvard graduate and Ful
+bright distinguished scholar recipient had to say
+about countering terrorism in a talk entitled
+"Beauty and Terror: Does Mathematics Have a
+Role to Play in Winning the Shadow War?"
+Farley began his talk with a short clip from the
+movie "A Beautiful Mind", the Oscar-winning
+film that portrayed the life of mathematician
+John Nash. Nash's work in game theory, which
+was later applied to military strategy during the
+Cold War, was Farley's inspiration, he said.
+"That is where it all started," he said, refer
+encing the film's opening line: "Mathematicians
+won the war." Farley said he wondered whether
+lattice theory — his mathematical field of ex
+pertise — could similarly be applied to help fight
+the war on terrorism.
+Intrigued, Farley set out to create a program
+based on lattice theoretical models that would
+calculate the probability that a terrorist cell has
+been disrupted. In Farley's program, terrorists
+are represented as dots on a graph. The program
+sifts through current intelligence data on indi
+vidual terrorists and terrorist activity, searching
+for patterns between individuals, locations and
+events that would link one terrorist to another. If
+enough patterns are discerned, the program
+would literally "connect the dots," and establish
+members of a terrorist cell.
+While databases drawing on similar mathe
+matical concepts and calculations are used by in
+telligence agencies today, Farley said these exist
+ing databases "ignore the fact that terrorist cells
+have hierarchy," something that his lattice model
+takes into account.
+"Ideally, we want to capture
+everyone in the terrorist cell," Farley
+said. "But that's not realistic. But
+let's say we capture four of the 15
+terrorists in the cell. We want to
+know the probability that the cell has
+been disabled."
+Existing databases, Farley ex
+plained, would interpret these re
+sults without taking into account the
+captured terrorists' rank in the hier
+archy. If all four of the captured ter
+rorists were in the lowest rank of the
+hierarchy, the terrorist cell would not
+necessarily have been broken, but
+the old model might lead intelli
+
+gence officials to believe it had.
+With the old model, Farley said,
+"We would feel safer than we would
+have a right to."
+Farley's model, on the other
+hand, would take hierarchy into ac
+count, calculating the probability
+that a terrorist cell had been disabled
+based on the number of terrorists
+captured in a given cell and their hi
+erarchal ranking in the cell. Farley
+said the model would also help intel
+ligence officers identify the most ef
+ficient way to disable a cell by identi
+fying which terrorists had to be re
+moved from the cell in order to
+break the chain of command.
+Many attendees asked questions
+about the model, which Farley field
+ed after his presentation. US Army
+Col. Bill Hix, a national security af
+fairs fellow at Hoover Institution,
+
+asked Farley about the model's abil
+ity to adapt to the new global terror
+ist threat.
+Hix pointed out that terrorist net
+works and communications systems
+have become quite complex, adding,
+"It is not something imminently ap
+parent on how you can approach it."
+"The model just deals with actual
+cells or groups," Farley responded,
+"not some kind of spiritual realm."
+He said he didn't know the precise
+structure of terrorist cells, adding
+"the model has to be applied by peo
+ple whose expertise is in that field."
+For Farley, the program repre
+sented a jumping-off point, a basic
+model that could be later refined.
+"I have presented a stripped
+down version of the program, and it
+is important to ask where we can go
+from here," he said.

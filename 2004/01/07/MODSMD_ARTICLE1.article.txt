@@ -1,0 +1,859 @@
+# Grad student wins $10,000 game theory competition
+## 
+### HELEN CHENG 
+Computer science graduate stu
+dent Luke Biewald has snapped up
+the top $lO,OOO prize in the Califor
+nia Institute of Technology Turing
+Tournament, a contest based on
+mathematician Alan Turing's origi
+nal theories on artificial intelligence
+and held by a group of Caltech
+economists. Biewald won by writing
+a program that detects the differ
+ence between human and non
+human responses in game theory
+type games.
+"I thought I had a good entry,
+but I thought that there would prob
+ably be better ones," Biewald said.
+Biewald started the project after
+taking a game theory class with
+Economics Prof. Jon Levin and fin
+ished writing the program last
+spring.
+Levin, who advised Biewald on
+the project, explained, "Turing pro
+posed the following sort of experi
+ment. A questioner would ask ques
+tions of two subjects, one a human
+and one a computer, without know
+ing which was which. The question
+er would then have to identify the
+computer. If the computer could
+trick the questioner into guessing
+wrong, that would show that the
+computer could 'think.' "
+Competitors in the Caltech
+contest were asked to submit "em
+ulators," programs that played the
+games, or "detectors," which
+looked at game data to figure out
+whether players were human or
+computer. The emulators, along
+with human participants, then
+played simple matrix games such
+as the Prisoner's Dilemma, in
+which two individuals, or "prison
+ers," receive a certain sentence if
+they both confess to a crime, a
+lessened individual sentence for
+confessing while the other re
+mains silent, or receiving a joint
+lessened sentence if they collude
+by both remaining silent. Howev
+er, they cannot communicate be
+
+forehand to choose a strategy.
+Biewald noticed that when two
+humans play this game, if one ap
+pears to get a much higher payoff,
+the other adjusts his behavior to
+equal the score. This results in simi
+lar total payoffs.
+"On the other hand," explained
+Levin, "sometimes when computers
+play against each other, one of the
+programs really beats the other pro
+gram thoroughly."
+Biewald's program looked at
+how close the total payoffs were.
+When the program found unequal
+looking payoffs, it tagged them as
+computers.
+"What was particularly neat
+about his idea was that he only
+looked at the total of each player's
+score rather than looking at what
+they did in every play of the game.
+So his program applied easily
+without regard to exactly what
+game was being played," said
+Levin. "The other neat thing, of
+course, is that he used such a sim
+ple observation about people's
+motivations that people don't
+like to end up on the short end of
+the stick, so to speak to pick out
+human behavior relative to simu
+lated human behavior."
+Biewald believes that better ver
+sions of his program could help peo
+ple to understand how individuals
+make decisions. He gives an exam
+ple in which two people are trying to
+split $l. Logically, either person
+should accept any amount greater
+than zero. He questions why being
+offered a 90-10 split makes the sec
+ond person perceive the event as
+more unfair than something like a
+50-50 split.
+For now, Biewald is satisfied
+with his win.
+"I was happy to enter the contest
+because it was so closely related to
+my interests at the time," said
+Biewald. "I think it is pretty inter
+esting that we still don't really know
+how to model the way people play
+incredibly simple games."
+Computer science graduate stu
+dent Luke Biewald has snapped up
+the top $lO,OOO prize in the Califor
+nia Institute of Technology Turing
+Tournament, a contest based on
+mathematician Alan Turing's origi
+nal theories on artificial intelligence
+and held by a group of Caltech
+economists. Biewald won by writing
+a program that detects the differ
+ence between human and non
+human responses in game theory
+type games.
+"I thought I had a good entry,
+but I thought that there would prob
+ably be better ones," Biewald said.
+Biewald started the project after
+taking a game theory class with
+Economics Prof. Jon Levin and fin
+ished writing the program last
+spring.
+Levin, who advised Biewald on
+the project, explained, "Turing pro
+posed the following sort of experi
+ment. A questioner would ask ques
+tions of two subjects, one a human
+and one a computer, without know
+ing which was which. The question
+er would then have to identify the
+computer. If the computer could
+trick the questioner into guessing
+wrong, that would show that the
+computer could 'think.' "
+Competitors in the Caltech
+contest were asked to submit "em
+ulators," programs that played the
+games, or "detectors," which
+looked at game data to figure out
+whether players were human or
+computer. The emulators, along
+with human participants, then
+played simple matrix games such
+as the Prisoner's Dilemma, in
+which two individuals, or "prison
+ers," receive a certain sentence if
+they both confess to a crime, a
+lessened individual sentence for
+confessing while the other re
+mains silent, or receiving a joint
+lessened sentence if they collude
+by both remaining silent. Howev
+er, they cannot communicate be
+
+forehand to choose a strategy.
+Biewald noticed that when two
+humans play this game, if one ap
+pears to get a much higher payoff,
+the other adjusts his behavior to
+equal the score. This results in simi
+lar total payoffs.
+"On the other hand," explained
+Levin, "sometimes when computers
+play against each other, one of the
+programs really beats the other pro
+gram thoroughly."
+Biewald's program looked at
+how close the total payoffs were.
+When the program found unequal
+looking payoffs, it tagged them as
+computers.
+"What was particularly neat
+about his idea was that he only
+looked at the total of each player's
+score rather than looking at what
+they did in every play of the game.
+So his program applied easily
+without regard to exactly what
+game was being played," said
+Levin. "The other neat thing, of
+course, is that he used such a sim
+ple observation about people's
+motivations that people don't
+like to end up on the short end of
+the stick, so to speak to pick out
+human behavior relative to simu
+lated human behavior."
+Biewald believes that better ver
+sions of his program could help peo
+ple to understand how individuals
+make decisions. He gives an exam
+ple in which two people are trying to
+split $l. Logically, either person
+should accept any amount greater
+than zero. He questions why being
+offered a 90-10 split makes the sec
+ond person perceive the event as
+more unfair than something like a
+50-50 split.
+For now, Biewald is satisfied
+with his win.
+"I was happy to enter the contest
+because it was so closely related to
+my interests at the time," said
+Biewald. "I think it is pretty inter
+esting that we still don't really know
+how to model the way people play
+incredibly simple games."
+Computer science graduate stu
+dent Luke Biewald has snapped up
+the top $lO,OOO prize in the Califor
+nia Institute of Technology Turing
+Tournament, a contest based on
+mathematician Alan Turing's origi
+nal theories on artificial intelligence
+and held by a group of Caltech
+economists. Biewald won by writing
+a program that detects the differ
+ence between human and non
+human responses in game theory
+type games.
+"I thought I had a good entry,
+but I thought that there would prob
+ably be better ones," Biewald said.
+Biewald started the project after
+taking a game theory class with
+Economics Prof. Jon Levin and fin
+ished writing the program last
+spring.
+Levin, who advised Biewald on
+the project, explained, "Turing pro
+posed the following sort of experi
+ment. A questioner would ask ques
+tions of two subjects, one a human
+and one a computer, without know
+ing which was which. The question
+er would then have to identify the
+computer. If the computer could
+trick the questioner into guessing
+wrong, that would show that the
+computer could 'think.' "
+Competitors in the Caltech
+contest were asked to submit "em
+ulators," programs that played the
+games, or "detectors," which
+looked at game data to figure out
+whether players were human or
+computer. The emulators, along
+with human participants, then
+played simple matrix games such
+as the Prisoner's Dilemma, in
+which two individuals, or "prison
+ers," receive a certain sentence if
+they both confess to a crime, a
+lessened individual sentence for
+confessing while the other re
+mains silent, or receiving a joint
+lessened sentence if they collude
+by both remaining silent. Howev
+er, they cannot communicate be
+
+forehand to choose a strategy.
+Biewald noticed that when two
+humans play this game, if one ap
+pears to get a much higher payoff,
+the other adjusts his behavior to
+equal the score. This results in simi
+lar total payoffs.
+"On the other hand," explained
+Levin, "sometimes when computers
+play against each other, one of the
+programs really beats the other pro
+gram thoroughly."
+Biewald's program looked at
+how close the total payoffs were.
+When the program found unequal
+looking payoffs, it tagged them as
+computers.
+"What was particularly neat
+about his idea was that he only
+looked at the total of each player's
+score rather than looking at what
+they did in every play of the game.
+So his program applied easily
+without regard to exactly what
+game was being played," said
+Levin. "The other neat thing, of
+course, is that he used such a sim
+ple observation about people's
+motivations that people don't
+like to end up on the short end of
+the stick, so to speak to pick out
+human behavior relative to simu
+lated human behavior."
+Biewald believes that better ver
+sions of his program could help peo
+ple to understand how individuals
+make decisions. He gives an exam
+ple in which two people are trying to
+split $l. Logically, either person
+should accept any amount greater
+than zero. He questions why being
+offered a 90-10 split makes the sec
+ond person perceive the event as
+more unfair than something like a
+50-50 split.
+For now, Biewald is satisfied
+with his win.
+"I was happy to enter the contest
+because it was so closely related to
+my interests at the time," said
+Biewald. "I think it is pretty inter
+esting that we still don't really know
+how to model the way people play
+incredibly simple games."
+Computer science graduate stu
+dent Luke Biewald has snapped up
+the top $lO,OOO prize in the Califor
+nia Institute of Technology Turing
+Tournament, a contest based on
+mathematician Alan Turing's origi
+nal theories on artificial intelligence
+and held by a group of Caltech
+economists. Biewald won by writing
+a program that detects the differ
+ence between human and non
+human responses in game theory
+type games.
+"I thought I had a good entry,
+but I thought that there would prob
+ably be better ones," Biewald said.
+Biewald started the project after
+taking a game theory class with
+Economics Prof. Jon Levin and fin
+ished writing the program last
+spring.
+Levin, who advised Biewald on
+the project, explained, "Turing pro
+posed the following sort of experi
+ment. A questioner would ask ques
+tions of two subjects, one a human
+and one a computer, without know
+ing which was which. The question
+er would then have to identify the
+computer. If the computer could
+trick the questioner into guessing
+wrong, that would show that the
+computer could 'think.' "
+Competitors in the Caltech
+contest were asked to submit "em
+ulators," programs that played the
+games, or "detectors," which
+looked at game data to figure out
+whether players were human or
+computer. The emulators, along
+with human participants, then
+played simple matrix games such
+as the Prisoner's Dilemma, in
+which two individuals, or "prison
+ers," receive a certain sentence if
+they both confess to a crime, a
+lessened individual sentence for
+confessing while the other re
+mains silent, or receiving a joint
+lessened sentence if they collude
+by both remaining silent. Howev
+er, they cannot communicate be
+
+forehand to choose a strategy.
+Biewald noticed that when two
+humans play this game, if one ap
+pears to get a much higher payoff,
+the other adjusts his behavior to
+equal the score. This results in simi
+lar total payoffs.
+"On the other hand," explained
+Levin, "sometimes when computers
+play against each other, one of the
+programs really beats the other pro
+gram thoroughly."
+Biewald's program looked at
+how close the total payoffs were.
+When the program found unequal
+looking payoffs, it tagged them as
+computers.
+"What was particularly neat
+about his idea was that he only
+looked at the total of each player's
+score rather than looking at what
+they did in every play of the game.
+So his program applied easily
+without regard to exactly what
+game was being played," said
+Levin. "The other neat thing, of
+course, is that he used such a sim
+ple observation about people's
+motivations that people don't
+like to end up on the short end of
+the stick, so to speak to pick out
+human behavior relative to simu
+lated human behavior."
+Biewald believes that better ver
+sions of his program could help peo
+ple to understand how individuals
+make decisions. He gives an exam
+ple in which two people are trying to
+split $l. Logically, either person
+should accept any amount greater
+than zero. He questions why being
+offered a 90-10 split makes the sec
+ond person perceive the event as
+more unfair than something like a
+50-50 split.
+For now, Biewald is satisfied
+with his win.
+"I was happy to enter the contest
+because it was so closely related to
+my interests at the time," said
+Biewald. "I think it is pretty inter
+esting that we still don't really know
+how to model the way people play
+incredibly simple games."
+Computer science graduate stu
+dent Luke Biewald has snapped up
+the top $lO,OOO prize in the Califor
+nia Institute of Technology Turing
+Tournament, a contest based on
+mathematician Alan Turing's origi
+nal theories on artificial intelligence
+and held by a group of Caltech
+economists. Biewald won by writing
+a program that detects the differ
+ence between human and non
+human responses in game theory
+type games.
+"I thought I had a good entry,
+but I thought that there would prob
+ably be better ones," Biewald said.
+Biewald started the project after
+taking a game theory class with
+Economics Prof. Jon Levin and fin
+ished writing the program last
+spring.
+Levin, who advised Biewald on
+the project, explained, "Turing pro
+posed the following sort of experi
+ment. A questioner would ask ques
+tions of two subjects, one a human
+and one a computer, without know
+ing which was which. The question
+er would then have to identify the
+computer. If the computer could
+trick the questioner into guessing
+wrong, that would show that the
+computer could 'think.' "
+Competitors in the Caltech
+contest were asked to submit "em
+ulators," programs that played the
+games, or "detectors," which
+looked at game data to figure out
+whether players were human or
+computer. The emulators, along
+with human participants, then
+played simple matrix games such
+as the Prisoner's Dilemma, in
+which two individuals, or "prison
+ers," receive a certain sentence if
+they both confess to a crime, a
+lessened individual sentence for
+confessing while the other re
+mains silent, or receiving a joint
+lessened sentence if they collude
+by both remaining silent. Howev
+er, they cannot communicate be
+
+forehand to choose a strategy.
+Biewald noticed that when two
+humans play this game, if one ap
+pears to get a much higher payoff,
+the other adjusts his behavior to
+equal the score. This results in simi
+lar total payoffs.
+"On the other hand," explained
+Levin, "sometimes when computers
+play against each other, one of the
+programs really beats the other pro
+gram thoroughly."
+Biewald's program looked at
+how close the total payoffs were.
+When the program found unequal
+looking payoffs, it tagged them as
+computers.
+"What was particularly neat
+about his idea was that he only
+looked at the total of each player's
+score rather than looking at what
+they did in every play of the game.
+So his program applied easily
+without regard to exactly what
+game was being played," said
+Levin. "The other neat thing, of
+course, is that he used such a sim
+ple observation about people's
+motivations that people don't
+like to end up on the short end of
+the stick, so to speak to pick out
+human behavior relative to simu
+lated human behavior."
+Biewald believes that better ver
+sions of his program could help peo
+ple to understand how individuals
+make decisions. He gives an exam
+ple in which two people are trying to
+split $l. Logically, either person
+should accept any amount greater
+than zero. He questions why being
+offered a 90-10 split makes the sec
+ond person perceive the event as
+more unfair than something like a
+50-50 split.
+For now, Biewald is satisfied
+with his win.
+"I was happy to enter the contest
+because it was so closely related to
+my interests at the time," said
+Biewald. "I think it is pretty inter
+esting that we still don't really know
+how to model the way people play
+incredibly simple games."
+Computer science graduate stu
+dent Luke Biewald has snapped up
+the top $lO,OOO prize in the Califor
+nia Institute of Technology Turing
+Tournament, a contest based on
+mathematician Alan Turing's origi
+nal theories on artificial intelligence
+and held by a group of Caltech
+economists. Biewald won by writing
+a program that detects the differ
+ence between human and non
+human responses in game theory
+type games.
+"I thought I had a good entry,
+but I thought that there would prob
+ably be better ones," Biewald said.
+Biewald started the project after
+taking a game theory class with
+Economics Prof. Jon Levin and fin
+ished writing the program last
+spring.
+Levin, who advised Biewald on
+the project, explained, "Turing pro
+posed the following sort of experi
+ment. A questioner would ask ques
+tions of two subjects, one a human
+and one a computer, without know
+ing which was which. The question
+er would then have to identify the
+computer. If the computer could
+trick the questioner into guessing
+wrong, that would show that the
+computer could 'think.' "
+Competitors in the Caltech
+contest were asked to submit "em
+ulators," programs that played the
+games, or "detectors," which
+looked at game data to figure out
+whether players were human or
+computer. The emulators, along
+with human participants, then
+played simple matrix games such
+as the Prisoner's Dilemma, in
+which two individuals, or "prison
+ers," receive a certain sentence if
+they both confess to a crime, a
+lessened individual sentence for
+confessing while the other re
+mains silent, or receiving a joint
+lessened sentence if they collude
+by both remaining silent. Howev
+er, they cannot communicate be
+
+forehand to choose a strategy.
+Biewald noticed that when two
+humans play this game, if one ap
+pears to get a much higher payoff,
+the other adjusts his behavior to
+equal the score. This results in simi
+lar total payoffs.
+"On the other hand," explained
+Levin, "sometimes when computers
+play against each other, one of the
+programs really beats the other pro
+gram thoroughly."
+Biewald's program looked at
+how close the total payoffs were.
+When the program found unequal
+looking payoffs, it tagged them as
+computers.
+"What was particularly neat
+about his idea was that he only
+looked at the total of each player's
+score rather than looking at what
+they did in every play of the game.
+So his program applied easily
+without regard to exactly what
+game was being played," said
+Levin. "The other neat thing, of
+course, is that he used such a sim
+ple observation about people's
+motivations that people don't
+like to end up on the short end of
+the stick, so to speak to pick out
+human behavior relative to simu
+lated human behavior."
+Biewald believes that better ver
+sions of his program could help peo
+ple to understand how individuals
+make decisions. He gives an exam
+ple in which two people are trying to
+split $l. Logically, either person
+should accept any amount greater
+than zero. He questions why being
+offered a 90-10 split makes the sec
+ond person perceive the event as
+more unfair than something like a
+50-50 split.
+For now, Biewald is satisfied
+with his win.
+"I was happy to enter the contest
+because it was so closely related to
+my interests at the time," said
+Biewald. "I think it is pretty inter
+esting that we still don't really know
+how to model the way people play
+incredibly simple games."
+Computer science graduate stu
+dent Luke Biewald has snapped up
+the top $lO,OOO prize in the Califor
+nia Institute of Technology Turing
+Tournament, a contest based on
+mathematician Alan Turing's origi
+nal theories on artificial intelligence
+and held by a group of Caltech
+economists. Biewald won by writing
+a program that detects the differ
+ence between human and non
+human responses in game theory
+type games.
+"I thought I had a good entry,
+but I thought that there would prob
+ably be better ones," Biewald said.
+Biewald started the project after
+taking a game theory class with
+Economics Prof. Jon Levin and fin
+ished writing the program last
+spring.
+Levin, who advised Biewald on
+the project, explained, "Turing pro
+posed the following sort of experi
+ment. A questioner would ask ques
+tions of two subjects, one a human
+and one a computer, without know
+ing which was which. The question
+er would then have to identify the
+computer. If the computer could
+trick the questioner into guessing
+wrong, that would show that the
+computer could 'think.' "
+Competitors in the Caltech
+contest were asked to submit "em
+ulators," programs that played the
+games, or "detectors," which
+looked at game data to figure out
+whether players were human or
+computer. The emulators, along
+with human participants, then
+played simple matrix games such
+as the Prisoner's Dilemma, in
+which two individuals, or "prison
+ers," receive a certain sentence if
+they both confess to a crime, a
+lessened individual sentence for
+confessing while the other re
+mains silent, or receiving a joint
+lessened sentence if they collude
+by both remaining silent. Howev
+er, they cannot communicate be
+
+forehand to choose a strategy.
+Biewald noticed that when two
+humans play this game, if one ap
+pears to get a much higher payoff,
+the other adjusts his behavior to
+equal the score. This results in simi
+lar total payoffs.
+"On the other hand," explained
+Levin, "sometimes when computers
+play against each other, one of the
+programs really beats the other pro
+gram thoroughly."
+Biewald's program looked at
+how close the total payoffs were.
+When the program found unequal
+looking payoffs, it tagged them as
+computers.
+"What was particularly neat
+about his idea was that he only
+looked at the total of each player's
+score rather than looking at what
+they did in every play of the game.
+So his program applied easily
+without regard to exactly what
+game was being played," said
+Levin. "The other neat thing, of
+course, is that he used such a sim
+ple observation about people's
+motivations that people don't
+like to end up on the short end of
+the stick, so to speak to pick out
+human behavior relative to simu
+lated human behavior."
+Biewald believes that better ver
+sions of his program could help peo
+ple to understand how individuals
+make decisions. He gives an exam
+ple in which two people are trying to
+split $l. Logically, either person
+should accept any amount greater
+than zero. He questions why being
+offered a 90-10 split makes the sec
+ond person perceive the event as
+more unfair than something like a
+50-50 split.
+For now, Biewald is satisfied
+with his win.
+"I was happy to enter the contest
+because it was so closely related to
+my interests at the time," said
+Biewald. "I think it is pretty inter
+esting that we still don't really know
+how to model the way people play
+incredibly simple games."
+Computer science graduate stu
+dent Luke Biewald has snapped up
+the top $lO,OOO prize in the Califor
+nia Institute of Technology Turing
+Tournament, a contest based on
+mathematician Alan Turing's origi
+nal theories on artificial intelligence
+and held by a group of Caltech
+economists. Biewald won by writing
+a program that detects the differ
+ence between human and non
+human responses in game theory
+type games.
+"I thought I had a good entry,
+but I thought that there would prob
+ably be better ones," Biewald said.
+Biewald started the project after
+taking a game theory class with
+Economics Prof. Jon Levin and fin
+ished writing the program last
+spring.
+Levin, who advised Biewald on
+the project, explained, "Turing pro
+posed the following sort of experi
+ment. A questioner would ask ques
+tions of two subjects, one a human
+and one a computer, without know
+ing which was which. The question
+er would then have to identify the
+computer. If the computer could
+trick the questioner into guessing
+wrong, that would show that the
+computer could 'think.' "
+Competitors in the Caltech
+contest were asked to submit "em
+ulators," programs that played the
+games, or "detectors," which
+looked at game data to figure out
+whether players were human or
+computer. The emulators, along
+with human participants, then
+played simple matrix games such
+as the Prisoner's Dilemma, in
+which two individuals, or "prison
+ers," receive a certain sentence if
+they both confess to a crime, a
+lessened individual sentence for
+confessing while the other re
+mains silent, or receiving a joint
+lessened sentence if they collude
+by both remaining silent. Howev
+er, they cannot communicate be
+
+forehand to choose a strategy.
+Biewald noticed that when two
+humans play this game, if one ap
+pears to get a much higher payoff,
+the other adjusts his behavior to
+equal the score. This results in simi
+lar total payoffs.
+"On the other hand," explained
+Levin, "sometimes when computers
+play against each other, one of the
+programs really beats the other pro
+gram thoroughly."
+Biewald's program looked at
+how close the total payoffs were.
+When the program found unequal
+looking payoffs, it tagged them as
+computers.
+"What was particularly neat
+about his idea was that he only
+looked at the total of each player's
+score rather than looking at what
+they did in every play of the game.
+So his program applied easily
+without regard to exactly what
+game was being played," said
+Levin. "The other neat thing, of
+course, is that he used such a sim
+ple observation about people's
+motivations that people don't
+like to end up on the short end of
+the stick, so to speak to pick out
+human behavior relative to simu
+lated human behavior."
+Biewald believes that better ver
+sions of his program could help peo
+ple to understand how individuals
+make decisions. He gives an exam
+ple in which two people are trying to
+split $l. Logically, either person
+should accept any amount greater
+than zero. He questions why being
+offered a 90-10 split makes the sec
+ond person perceive the event as
+more unfair than something like a
+50-50 split.
+For now, Biewald is satisfied
+with his win.
+"I was happy to enter the contest
+because it was so closely related to
+my interests at the time," said
+Biewald. "I think it is pretty inter
+esting that we still don't really know
+how to model the way people play
+incredibly simple games."

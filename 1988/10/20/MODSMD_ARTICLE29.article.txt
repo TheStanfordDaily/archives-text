@@ -1,0 +1,1939 @@
+# Features
+## Computer viruses imperil the health of American industry 
+### Jock Friedly Staff writer 
+A computer panic sweeping the country in
+recent months hit the Stanford campus last
+week, and students and administrators alike
+are worried.
+Computer viruses, small programs that act
+much like human viruses, have infected many
+thousands of computers around the country,
+in companies, laboratories, universities and
+homes.
+The viruses that have been discovered vary
+in design and consequence, but according to
+one lecturer in computer science, Steve Fisher,
+"a virus can do almost anything." And he
+adds, viruses potentially pose a "very serious"
+problem to the nation.
+"To imagine that there's some sanctity to
+the distribution of software is . .. ridiculous,"
+said Chuck Cole, deputy computer security
+manager of nearby Lawrence Livermore Na
+tional Laboratory
+Dozens of viruses have been made, some
+harmless such as the strain contaminating
+computers around the Stanford campus.
+Others can sit like time bombs in the com
+puter, waiting for the right moment to erase
+important files.
+The virus that infiltrated Stanford was first
+found last week in the Tresidder Union Mac
+intosh II cluster, which is used mostly by
+students in the lower division computer sci
+ence classes.
+The virus, named nVIR, has three known
+strains. One of these randomly deletes files
+
+from infected disks. The particular strain
+found in over a dozen computers at Tresidder,
+however, is not thought to be harmful, ac
+cording to campus computer specialist Lance
+Nakata.
+Nakata, who discovered the problem last
+week after he received a tip via electronic
+mail, detroyed nVIR by using an anti-virus
+program called a "vaccine," an analogue to
+protection against human viruses.
+Before he cured Tresidder of the virus, it
+had already infected an untold number of
+students' disks and had subsequently spread
+through some of Meyer's new Macintosh II
+computers. An unsuspecting student probably
+carried a contaminated disk from Tresidder
+to Meyer, extending the contagion, Nakata
+
+said.
+Stanford is not the only university feeling
+the wrath of viruses. George Washington Uni
+versity was hit by an epidemic of the IBM
+virus called "Brain."
+According to a computer specialist at George
+Washington University, the particular Brain
+strain that hit the campus was not written
+to cause harm. Nonetheless, any virus poses
+danger by its very nature as a contagious
+disease, he addei.
+Self-replication is the primary function of
+any virus, and translated into effect, this
+means a virus can write over some pre-existing
+data in order to make room for itself. Often
+the virus erases crucial information, regard
+less of its benign intentions.
+The Brain virus spread like wildfire, infect
+ing an estimated 100,000 disks across the
+country, according to Time magazine.
+The Brain virus was created by two Pakis
+tani brothers who own a computer software
+business that sells pirated software. Ironically,
+they decided to to punish their own customers
+— many of whom were Americans — for
+buying illegal software they themselves sold.
+In an eerie reminder of the dangers of
+viruses, they had hidden the words "WEL
+COME TO THE DUNGEON" in the code of
+the virus. The address and names of the au
+thors also appear in the message so that people
+who have uncovered the infectious program
+can send away for the antidote.
+Although the particular nVIR strain that
+
+struck Stanford was relatively in
+nocuous by computer virus stand
+ards, the incident draws attention
+to a national crisis in the world
+of computers. And since comput
+ers now occupy the heart of Amer
+ican industry, the stakes in this
+crisis are high.
+To say the least, people are
+worried. The ease with which
+computers can be infiltrated by
+these disastrous lines of code is
+unnerving. And although an
+tidotes can be developed for each
+virus created, there is no guaran
+tee the antidote can be created in
+time to halt the virus before it
+destrovs huee amounts of data.
+In May of this year, on Friday
+the 13th, the country of Israel
+was to celebrate its 40th anniver
+
+sary. As the country celebrated,
+a nation-wide computer program
+was designed by an unknown
+"hacker" to erase itself simulta
+neously.
+In a lucky break, computer
+users at Jerusalem's Hebrew Uni
+versity noticed the slow operation
+of their computers and discovered
+the system was clogged with a
+computer virus mercilessly
+replicating.
+An antidote was written and no
+data was lost. Nevertheless, the
+implications of the event are
+frightening. A similar virus in the
+United States, permeating indus
+try and government computers,
+could paralyze the country.
+The irony is that the trend in
+computing, the linking of vast
+numbers of computers in net
+works, is making computers ever
+more vulnerable to computer
+"hackers" who are often respon
+sible for creating and spreading
+
+viruses.
+Each new link in the system
+adds another target for an invader
+such as a virus. And each new
+link adds one more hole for med
+dlers to tamper with the entire
+network.
+"On a large scale, the critical
+question is how hard a virus is
+to propagate," said Jonathon
+Shapiro, a computer enthusiast
+who works as technical staff at
+AT&T's Bell Laboratories. There
+are a certain number of computer
+links, "below which it is hard for
+a virus to propagate, above which
+it is very easy," he said.
+Shapiro is all too aware of the
+vulnerability of large networks.
+He said the phone network is the
+most susceptible of all. The vul
+nerability of the phone system was
+evidenced in the early 1970s with
+the advent of the "blue box," a
+device that generates tones to fool
+the phone company that money
+
+has been entered into the phone.
+It is through giant computer
+networks that these viruses breed
+most abundantly. At Stanford,
+"clusters" of computers are linked
+to a common file server that stu
+dents can access to load programs
+into the computer.
+Fisher called these clusters
+"breeding grounds for viruses."
+Vaccines are now protecting
+Stanford computers against the
+nVIR virus, but the clusters are
+vulnerable to other viruses not
+stopped by this particular an
+tidote.
+Viruses have sprung up all over
+the world, raising critical ques
+tions about the severity of the
+problem. The possibility that
+viruses could invade computers
+used for a country's banking in
+dustry or for national security
+frightens many.
+"I would say it is unbelievably
+unlikely that (viruses could infect)
+
+national security computers," said
+Fisher.
+For very important security
+matters, computers are only
+accessed by a few users and they
+are not allowed to bring commer
+cial software from outside sources
+onto the computers, Fisher said.
+In this way, only a disgruntled
+employee would be able to in
+filtrate the system.
+Some centers responsible for
+national security, however, are
+susceptible to virus attack. The
+problem of computer security
+hangs over Lawrence Livermore
+Laboratory, where scientists
+create technology for nuclear
+weapons and extensively research
+the Strategic Defense Initiative.
+"We have had two instances
+right here of imported viruses,"
+said Livermore's Cole. The out
+breaks were limited to erasing
+files from some of the disks and
+"were hand-carried to the corn
+
+puters," Cole said.
+Already, 48 states around the
+country have passed legislation
+concerning computer viruses. On
+the first of the year, California
+enacted legislation stating that
+anyone who "knowingly accesses
+and without permission adds, al
+ters, damages, or destroys any
+data, computer software, or com
+puter programs" in computers
+and networks is guilty of an of
+fense.
+The harsh penalties include be
+fines as high as $10,000, loss of
+computer equipment and three
+years in prison.
+As awareness grows in the com
+puter profession, the problem of
+viruses is not going away. Liver
+more's Cole only predicts that it
+will get worse in the short-run,
+"spiralling" in an ever-increasing
+battle between virus engineers
+and antidote makers.
+A computer panic sweeping the country in
+recent months hit the Stanford campus last
+week, and students and administrators alike
+are worried.
+Computer viruses, small programs that act
+much like human viruses, have infected many
+thousands of computers around the country,
+in companies, laboratories, universities and
+homes.
+The viruses that have been discovered vary
+in design and consequence, but according to
+one lecturer in computer science, Steve Fisher,
+"a virus can do almost anything." And he
+adds, viruses potentially pose a "very serious"
+problem to the nation.
+"To imagine that there's some sanctity to
+the distribution of software is . .. ridiculous,"
+said Chuck Cole, deputy computer security
+manager of nearby Lawrence Livermore Na
+tional Laboratory
+Dozens of viruses have been made, some
+harmless such as the strain contaminating
+computers around the Stanford campus.
+Others can sit like time bombs in the com
+puter, waiting for the right moment to erase
+important files.
+The virus that infiltrated Stanford was first
+found last week in the Tresidder Union Mac
+intosh II cluster, which is used mostly by
+students in the lower division computer sci
+ence classes.
+The virus, named nVIR, has three known
+strains. One of these randomly deletes files
+
+from infected disks. The particular strain
+found in over a dozen computers at Tresidder,
+however, is not thought to be harmful, ac
+cording to campus computer specialist Lance
+Nakata.
+Nakata, who discovered the problem last
+week after he received a tip via electronic
+mail, detroyed nVIR by using an anti-virus
+program called a "vaccine," an analogue to
+protection against human viruses.
+Before he cured Tresidder of the virus, it
+had already infected an untold number of
+students' disks and had subsequently spread
+through some of Meyer's new Macintosh II
+computers. An unsuspecting student probably
+carried a contaminated disk from Tresidder
+to Meyer, extending the contagion, Nakata
+
+said.
+Stanford is not the only university feeling
+the wrath of viruses. George Washington Uni
+versity was hit by an epidemic of the IBM
+virus called "Brain."
+According to a computer specialist at George
+Washington University, the particular Brain
+strain that hit the campus was not written
+to cause harm. Nonetheless, any virus poses
+danger by its very nature as a contagious
+disease, he addei.
+Self-replication is the primary function of
+any virus, and translated into effect, this
+means a virus can write over some pre-existing
+data in order to make room for itself. Often
+the virus erases crucial information, regard
+less of its benign intentions.
+The Brain virus spread like wildfire, infect
+ing an estimated 100,000 disks across the
+country, according to Time magazine.
+The Brain virus was created by two Pakis
+tani brothers who own a computer software
+business that sells pirated software. Ironically,
+they decided to to punish their own customers
+— many of whom were Americans — for
+buying illegal software they themselves sold.
+In an eerie reminder of the dangers of
+viruses, they had hidden the words "WEL
+COME TO THE DUNGEON" in the code of
+the virus. The address and names of the au
+thors also appear in the message so that people
+who have uncovered the infectious program
+can send away for the antidote.
+Although the particular nVIR strain that
+
+struck Stanford was relatively in
+nocuous by computer virus stand
+ards, the incident draws attention
+to a national crisis in the world
+of computers. And since comput
+ers now occupy the heart of Amer
+ican industry, the stakes in this
+crisis are high.
+To say the least, people are
+worried. The ease with which
+computers can be infiltrated by
+these disastrous lines of code is
+unnerving. And although an
+tidotes can be developed for each
+virus created, there is no guaran
+tee the antidote can be created in
+time to halt the virus before it
+destrovs huee amounts of data.
+In May of this year, on Friday
+the 13th, the country of Israel
+was to celebrate its 40th anniver
+
+sary. As the country celebrated,
+a nation-wide computer program
+was designed by an unknown
+"hacker" to erase itself simulta
+neously.
+In a lucky break, computer
+users at Jerusalem's Hebrew Uni
+versity noticed the slow operation
+of their computers and discovered
+the system was clogged with a
+computer virus mercilessly
+replicating.
+An antidote was written and no
+data was lost. Nevertheless, the
+implications of the event are
+frightening. A similar virus in the
+United States, permeating indus
+try and government computers,
+could paralyze the country.
+The irony is that the trend in
+computing, the linking of vast
+numbers of computers in net
+works, is making computers ever
+more vulnerable to computer
+"hackers" who are often respon
+sible for creating and spreading
+
+viruses.
+Each new link in the system
+adds another target for an invader
+such as a virus. And each new
+link adds one more hole for med
+dlers to tamper with the entire
+network.
+"On a large scale, the critical
+question is how hard a virus is
+to propagate," said Jonathon
+Shapiro, a computer enthusiast
+who works as technical staff at
+AT&T's Bell Laboratories. There
+are a certain number of computer
+links, "below which it is hard for
+a virus to propagate, above which
+it is very easy," he said.
+Shapiro is all too aware of the
+vulnerability of large networks.
+He said the phone network is the
+most susceptible of all. The vul
+nerability of the phone system was
+evidenced in the early 1970s with
+the advent of the "blue box," a
+device that generates tones to fool
+the phone company that money
+
+has been entered into the phone.
+It is through giant computer
+networks that these viruses breed
+most abundantly. At Stanford,
+"clusters" of computers are linked
+to a common file server that stu
+dents can access to load programs
+into the computer.
+Fisher called these clusters
+"breeding grounds for viruses."
+Vaccines are now protecting
+Stanford computers against the
+nVIR virus, but the clusters are
+vulnerable to other viruses not
+stopped by this particular an
+tidote.
+Viruses have sprung up all over
+the world, raising critical ques
+tions about the severity of the
+problem. The possibility that
+viruses could invade computers
+used for a country's banking in
+dustry or for national security
+frightens many.
+"I would say it is unbelievably
+unlikely that (viruses could infect)
+
+national security computers," said
+Fisher.
+For very important security
+matters, computers are only
+accessed by a few users and they
+are not allowed to bring commer
+cial software from outside sources
+onto the computers, Fisher said.
+In this way, only a disgruntled
+employee would be able to in
+filtrate the system.
+Some centers responsible for
+national security, however, are
+susceptible to virus attack. The
+problem of computer security
+hangs over Lawrence Livermore
+Laboratory, where scientists
+create technology for nuclear
+weapons and extensively research
+the Strategic Defense Initiative.
+"We have had two instances
+right here of imported viruses,"
+said Livermore's Cole. The out
+breaks were limited to erasing
+files from some of the disks and
+"were hand-carried to the corn
+
+puters," Cole said.
+Already, 48 states around the
+country have passed legislation
+concerning computer viruses. On
+the first of the year, California
+enacted legislation stating that
+anyone who "knowingly accesses
+and without permission adds, al
+ters, damages, or destroys any
+data, computer software, or com
+puter programs" in computers
+and networks is guilty of an of
+fense.
+The harsh penalties include be
+fines as high as $10,000, loss of
+computer equipment and three
+years in prison.
+As awareness grows in the com
+puter profession, the problem of
+viruses is not going away. Liver
+more's Cole only predicts that it
+will get worse in the short-run,
+"spiralling" in an ever-increasing
+battle between virus engineers
+and antidote makers.
+A computer panic sweeping the country in
+recent months hit the Stanford campus last
+week, and students and administrators alike
+are worried.
+Computer viruses, small programs that act
+much like human viruses, have infected many
+thousands of computers around the country,
+in companies, laboratories, universities and
+homes.
+The viruses that have been discovered vary
+in design and consequence, but according to
+one lecturer in computer science, Steve Fisher,
+"a virus can do almost anything." And he
+adds, viruses potentially pose a "very serious"
+problem to the nation.
+"To imagine that there's some sanctity to
+the distribution of software is . .. ridiculous,"
+said Chuck Cole, deputy computer security
+manager of nearby Lawrence Livermore Na
+tional Laboratory
+Dozens of viruses have been made, some
+harmless such as the strain contaminating
+computers around the Stanford campus.
+Others can sit like time bombs in the com
+puter, waiting for the right moment to erase
+important files.
+The virus that infiltrated Stanford was first
+found last week in the Tresidder Union Mac
+intosh II cluster, which is used mostly by
+students in the lower division computer sci
+ence classes.
+The virus, named nVIR, has three known
+strains. One of these randomly deletes files
+
+from infected disks. The particular strain
+found in over a dozen computers at Tresidder,
+however, is not thought to be harmful, ac
+cording to campus computer specialist Lance
+Nakata.
+Nakata, who discovered the problem last
+week after he received a tip via electronic
+mail, detroyed nVIR by using an anti-virus
+program called a "vaccine," an analogue to
+protection against human viruses.
+Before he cured Tresidder of the virus, it
+had already infected an untold number of
+students' disks and had subsequently spread
+through some of Meyer's new Macintosh II
+computers. An unsuspecting student probably
+carried a contaminated disk from Tresidder
+to Meyer, extending the contagion, Nakata
+
+said.
+Stanford is not the only university feeling
+the wrath of viruses. George Washington Uni
+versity was hit by an epidemic of the IBM
+virus called "Brain."
+According to a computer specialist at George
+Washington University, the particular Brain
+strain that hit the campus was not written
+to cause harm. Nonetheless, any virus poses
+danger by its very nature as a contagious
+disease, he addei.
+Self-replication is the primary function of
+any virus, and translated into effect, this
+means a virus can write over some pre-existing
+data in order to make room for itself. Often
+the virus erases crucial information, regard
+less of its benign intentions.
+The Brain virus spread like wildfire, infect
+ing an estimated 100,000 disks across the
+country, according to Time magazine.
+The Brain virus was created by two Pakis
+tani brothers who own a computer software
+business that sells pirated software. Ironically,
+they decided to to punish their own customers
+— many of whom were Americans — for
+buying illegal software they themselves sold.
+In an eerie reminder of the dangers of
+viruses, they had hidden the words "WEL
+COME TO THE DUNGEON" in the code of
+the virus. The address and names of the au
+thors also appear in the message so that people
+who have uncovered the infectious program
+can send away for the antidote.
+Although the particular nVIR strain that
+
+struck Stanford was relatively in
+nocuous by computer virus stand
+ards, the incident draws attention
+to a national crisis in the world
+of computers. And since comput
+ers now occupy the heart of Amer
+ican industry, the stakes in this
+crisis are high.
+To say the least, people are
+worried. The ease with which
+computers can be infiltrated by
+these disastrous lines of code is
+unnerving. And although an
+tidotes can be developed for each
+virus created, there is no guaran
+tee the antidote can be created in
+time to halt the virus before it
+destrovs huee amounts of data.
+In May of this year, on Friday
+the 13th, the country of Israel
+was to celebrate its 40th anniver
+
+sary. As the country celebrated,
+a nation-wide computer program
+was designed by an unknown
+"hacker" to erase itself simulta
+neously.
+In a lucky break, computer
+users at Jerusalem's Hebrew Uni
+versity noticed the slow operation
+of their computers and discovered
+the system was clogged with a
+computer virus mercilessly
+replicating.
+An antidote was written and no
+data was lost. Nevertheless, the
+implications of the event are
+frightening. A similar virus in the
+United States, permeating indus
+try and government computers,
+could paralyze the country.
+The irony is that the trend in
+computing, the linking of vast
+numbers of computers in net
+works, is making computers ever
+more vulnerable to computer
+"hackers" who are often respon
+sible for creating and spreading
+
+viruses.
+Each new link in the system
+adds another target for an invader
+such as a virus. And each new
+link adds one more hole for med
+dlers to tamper with the entire
+network.
+"On a large scale, the critical
+question is how hard a virus is
+to propagate," said Jonathon
+Shapiro, a computer enthusiast
+who works as technical staff at
+AT&T's Bell Laboratories. There
+are a certain number of computer
+links, "below which it is hard for
+a virus to propagate, above which
+it is very easy," he said.
+Shapiro is all too aware of the
+vulnerability of large networks.
+He said the phone network is the
+most susceptible of all. The vul
+nerability of the phone system was
+evidenced in the early 1970s with
+the advent of the "blue box," a
+device that generates tones to fool
+the phone company that money
+
+has been entered into the phone.
+It is through giant computer
+networks that these viruses breed
+most abundantly. At Stanford,
+"clusters" of computers are linked
+to a common file server that stu
+dents can access to load programs
+into the computer.
+Fisher called these clusters
+"breeding grounds for viruses."
+Vaccines are now protecting
+Stanford computers against the
+nVIR virus, but the clusters are
+vulnerable to other viruses not
+stopped by this particular an
+tidote.
+Viruses have sprung up all over
+the world, raising critical ques
+tions about the severity of the
+problem. The possibility that
+viruses could invade computers
+used for a country's banking in
+dustry or for national security
+frightens many.
+"I would say it is unbelievably
+unlikely that (viruses could infect)
+
+national security computers," said
+Fisher.
+For very important security
+matters, computers are only
+accessed by a few users and they
+are not allowed to bring commer
+cial software from outside sources
+onto the computers, Fisher said.
+In this way, only a disgruntled
+employee would be able to in
+filtrate the system.
+Some centers responsible for
+national security, however, are
+susceptible to virus attack. The
+problem of computer security
+hangs over Lawrence Livermore
+Laboratory, where scientists
+create technology for nuclear
+weapons and extensively research
+the Strategic Defense Initiative.
+"We have had two instances
+right here of imported viruses,"
+said Livermore's Cole. The out
+breaks were limited to erasing
+files from some of the disks and
+"were hand-carried to the corn
+
+puters," Cole said.
+Already, 48 states around the
+country have passed legislation
+concerning computer viruses. On
+the first of the year, California
+enacted legislation stating that
+anyone who "knowingly accesses
+and without permission adds, al
+ters, damages, or destroys any
+data, computer software, or com
+puter programs" in computers
+and networks is guilty of an of
+fense.
+The harsh penalties include be
+fines as high as $10,000, loss of
+computer equipment and three
+years in prison.
+As awareness grows in the com
+puter profession, the problem of
+viruses is not going away. Liver
+more's Cole only predicts that it
+will get worse in the short-run,
+"spiralling" in an ever-increasing
+battle between virus engineers
+and antidote makers.
+A computer panic sweeping the country in
+recent months hit the Stanford campus last
+week, and students and administrators alike
+are worried.
+Computer viruses, small programs that act
+much like human viruses, have infected many
+thousands of computers around the country,
+in companies, laboratories, universities and
+homes.
+The viruses that have been discovered vary
+in design and consequence, but according to
+one lecturer in computer science, Steve Fisher,
+"a virus can do almost anything." And he
+adds, viruses potentially pose a "very serious"
+problem to the nation.
+"To imagine that there's some sanctity to
+the distribution of software is . .. ridiculous,"
+said Chuck Cole, deputy computer security
+manager of nearby Lawrence Livermore Na
+tional Laboratory
+Dozens of viruses have been made, some
+harmless such as the strain contaminating
+computers around the Stanford campus.
+Others can sit like time bombs in the com
+puter, waiting for the right moment to erase
+important files.
+The virus that infiltrated Stanford was first
+found last week in the Tresidder Union Mac
+intosh II cluster, which is used mostly by
+students in the lower division computer sci
+ence classes.
+The virus, named nVIR, has three known
+strains. One of these randomly deletes files
+
+from infected disks. The particular strain
+found in over a dozen computers at Tresidder,
+however, is not thought to be harmful, ac
+cording to campus computer specialist Lance
+Nakata.
+Nakata, who discovered the problem last
+week after he received a tip via electronic
+mail, detroyed nVIR by using an anti-virus
+program called a "vaccine," an analogue to
+protection against human viruses.
+Before he cured Tresidder of the virus, it
+had already infected an untold number of
+students' disks and had subsequently spread
+through some of Meyer's new Macintosh II
+computers. An unsuspecting student probably
+carried a contaminated disk from Tresidder
+to Meyer, extending the contagion, Nakata
+
+said.
+Stanford is not the only university feeling
+the wrath of viruses. George Washington Uni
+versity was hit by an epidemic of the IBM
+virus called "Brain."
+According to a computer specialist at George
+Washington University, the particular Brain
+strain that hit the campus was not written
+to cause harm. Nonetheless, any virus poses
+danger by its very nature as a contagious
+disease, he addei.
+Self-replication is the primary function of
+any virus, and translated into effect, this
+means a virus can write over some pre-existing
+data in order to make room for itself. Often
+the virus erases crucial information, regard
+less of its benign intentions.
+The Brain virus spread like wildfire, infect
+ing an estimated 100,000 disks across the
+country, according to Time magazine.
+The Brain virus was created by two Pakis
+tani brothers who own a computer software
+business that sells pirated software. Ironically,
+they decided to to punish their own customers
+— many of whom were Americans — for
+buying illegal software they themselves sold.
+In an eerie reminder of the dangers of
+viruses, they had hidden the words "WEL
+COME TO THE DUNGEON" in the code of
+the virus. The address and names of the au
+thors also appear in the message so that people
+who have uncovered the infectious program
+can send away for the antidote.
+Although the particular nVIR strain that
+
+struck Stanford was relatively in
+nocuous by computer virus stand
+ards, the incident draws attention
+to a national crisis in the world
+of computers. And since comput
+ers now occupy the heart of Amer
+ican industry, the stakes in this
+crisis are high.
+To say the least, people are
+worried. The ease with which
+computers can be infiltrated by
+these disastrous lines of code is
+unnerving. And although an
+tidotes can be developed for each
+virus created, there is no guaran
+tee the antidote can be created in
+time to halt the virus before it
+destrovs huee amounts of data.
+In May of this year, on Friday
+the 13th, the country of Israel
+was to celebrate its 40th anniver
+
+sary. As the country celebrated,
+a nation-wide computer program
+was designed by an unknown
+"hacker" to erase itself simulta
+neously.
+In a lucky break, computer
+users at Jerusalem's Hebrew Uni
+versity noticed the slow operation
+of their computers and discovered
+the system was clogged with a
+computer virus mercilessly
+replicating.
+An antidote was written and no
+data was lost. Nevertheless, the
+implications of the event are
+frightening. A similar virus in the
+United States, permeating indus
+try and government computers,
+could paralyze the country.
+The irony is that the trend in
+computing, the linking of vast
+numbers of computers in net
+works, is making computers ever
+more vulnerable to computer
+"hackers" who are often respon
+sible for creating and spreading
+
+viruses.
+Each new link in the system
+adds another target for an invader
+such as a virus. And each new
+link adds one more hole for med
+dlers to tamper with the entire
+network.
+"On a large scale, the critical
+question is how hard a virus is
+to propagate," said Jonathon
+Shapiro, a computer enthusiast
+who works as technical staff at
+AT&T's Bell Laboratories. There
+are a certain number of computer
+links, "below which it is hard for
+a virus to propagate, above which
+it is very easy," he said.
+Shapiro is all too aware of the
+vulnerability of large networks.
+He said the phone network is the
+most susceptible of all. The vul
+nerability of the phone system was
+evidenced in the early 1970s with
+the advent of the "blue box," a
+device that generates tones to fool
+the phone company that money
+
+has been entered into the phone.
+It is through giant computer
+networks that these viruses breed
+most abundantly. At Stanford,
+"clusters" of computers are linked
+to a common file server that stu
+dents can access to load programs
+into the computer.
+Fisher called these clusters
+"breeding grounds for viruses."
+Vaccines are now protecting
+Stanford computers against the
+nVIR virus, but the clusters are
+vulnerable to other viruses not
+stopped by this particular an
+tidote.
+Viruses have sprung up all over
+the world, raising critical ques
+tions about the severity of the
+problem. The possibility that
+viruses could invade computers
+used for a country's banking in
+dustry or for national security
+frightens many.
+"I would say it is unbelievably
+unlikely that (viruses could infect)
+
+national security computers," said
+Fisher.
+For very important security
+matters, computers are only
+accessed by a few users and they
+are not allowed to bring commer
+cial software from outside sources
+onto the computers, Fisher said.
+In this way, only a disgruntled
+employee would be able to in
+filtrate the system.
+Some centers responsible for
+national security, however, are
+susceptible to virus attack. The
+problem of computer security
+hangs over Lawrence Livermore
+Laboratory, where scientists
+create technology for nuclear
+weapons and extensively research
+the Strategic Defense Initiative.
+"We have had two instances
+right here of imported viruses,"
+said Livermore's Cole. The out
+breaks were limited to erasing
+files from some of the disks and
+"were hand-carried to the corn
+
+puters," Cole said.
+Already, 48 states around the
+country have passed legislation
+concerning computer viruses. On
+the first of the year, California
+enacted legislation stating that
+anyone who "knowingly accesses
+and without permission adds, al
+ters, damages, or destroys any
+data, computer software, or com
+puter programs" in computers
+and networks is guilty of an of
+fense.
+The harsh penalties include be
+fines as high as $10,000, loss of
+computer equipment and three
+years in prison.
+As awareness grows in the com
+puter profession, the problem of
+viruses is not going away. Liver
+more's Cole only predicts that it
+will get worse in the short-run,
+"spiralling" in an ever-increasing
+battle between virus engineers
+and antidote makers.
+A computer panic sweeping the country in
+recent months hit the Stanford campus last
+week, and students and administrators alike
+are worried.
+Computer viruses, small programs that act
+much like human viruses, have infected many
+thousands of computers around the country,
+in companies, laboratories, universities and
+homes.
+The viruses that have been discovered vary
+in design and consequence, but according to
+one lecturer in computer science, Steve Fisher,
+"a virus can do almost anything." And he
+adds, viruses potentially pose a "very serious"
+problem to the nation.
+"To imagine that there's some sanctity to
+the distribution of software is . .. ridiculous,"
+said Chuck Cole, deputy computer security
+manager of nearby Lawrence Livermore Na
+tional Laboratory
+Dozens of viruses have been made, some
+harmless such as the strain contaminating
+computers around the Stanford campus.
+Others can sit like time bombs in the com
+puter, waiting for the right moment to erase
+important files.
+The virus that infiltrated Stanford was first
+found last week in the Tresidder Union Mac
+intosh II cluster, which is used mostly by
+students in the lower division computer sci
+ence classes.
+The virus, named nVIR, has three known
+strains. One of these randomly deletes files
+
+from infected disks. The particular strain
+found in over a dozen computers at Tresidder,
+however, is not thought to be harmful, ac
+cording to campus computer specialist Lance
+Nakata.
+Nakata, who discovered the problem last
+week after he received a tip via electronic
+mail, detroyed nVIR by using an anti-virus
+program called a "vaccine," an analogue to
+protection against human viruses.
+Before he cured Tresidder of the virus, it
+had already infected an untold number of
+students' disks and had subsequently spread
+through some of Meyer's new Macintosh II
+computers. An unsuspecting student probably
+carried a contaminated disk from Tresidder
+to Meyer, extending the contagion, Nakata
+
+said.
+Stanford is not the only university feeling
+the wrath of viruses. George Washington Uni
+versity was hit by an epidemic of the IBM
+virus called "Brain."
+According to a computer specialist at George
+Washington University, the particular Brain
+strain that hit the campus was not written
+to cause harm. Nonetheless, any virus poses
+danger by its very nature as a contagious
+disease, he addei.
+Self-replication is the primary function of
+any virus, and translated into effect, this
+means a virus can write over some pre-existing
+data in order to make room for itself. Often
+the virus erases crucial information, regard
+less of its benign intentions.
+The Brain virus spread like wildfire, infect
+ing an estimated 100,000 disks across the
+country, according to Time magazine.
+The Brain virus was created by two Pakis
+tani brothers who own a computer software
+business that sells pirated software. Ironically,
+they decided to to punish their own customers
+— many of whom were Americans — for
+buying illegal software they themselves sold.
+In an eerie reminder of the dangers of
+viruses, they had hidden the words "WEL
+COME TO THE DUNGEON" in the code of
+the virus. The address and names of the au
+thors also appear in the message so that people
+who have uncovered the infectious program
+can send away for the antidote.
+Although the particular nVIR strain that
+
+struck Stanford was relatively in
+nocuous by computer virus stand
+ards, the incident draws attention
+to a national crisis in the world
+of computers. And since comput
+ers now occupy the heart of Amer
+ican industry, the stakes in this
+crisis are high.
+To say the least, people are
+worried. The ease with which
+computers can be infiltrated by
+these disastrous lines of code is
+unnerving. And although an
+tidotes can be developed for each
+virus created, there is no guaran
+tee the antidote can be created in
+time to halt the virus before it
+destrovs huee amounts of data.
+In May of this year, on Friday
+the 13th, the country of Israel
+was to celebrate its 40th anniver
+
+sary. As the country celebrated,
+a nation-wide computer program
+was designed by an unknown
+"hacker" to erase itself simulta
+neously.
+In a lucky break, computer
+users at Jerusalem's Hebrew Uni
+versity noticed the slow operation
+of their computers and discovered
+the system was clogged with a
+computer virus mercilessly
+replicating.
+An antidote was written and no
+data was lost. Nevertheless, the
+implications of the event are
+frightening. A similar virus in the
+United States, permeating indus
+try and government computers,
+could paralyze the country.
+The irony is that the trend in
+computing, the linking of vast
+numbers of computers in net
+works, is making computers ever
+more vulnerable to computer
+"hackers" who are often respon
+sible for creating and spreading
+
+viruses.
+Each new link in the system
+adds another target for an invader
+such as a virus. And each new
+link adds one more hole for med
+dlers to tamper with the entire
+network.
+"On a large scale, the critical
+question is how hard a virus is
+to propagate," said Jonathon
+Shapiro, a computer enthusiast
+who works as technical staff at
+AT&T's Bell Laboratories. There
+are a certain number of computer
+links, "below which it is hard for
+a virus to propagate, above which
+it is very easy," he said.
+Shapiro is all too aware of the
+vulnerability of large networks.
+He said the phone network is the
+most susceptible of all. The vul
+nerability of the phone system was
+evidenced in the early 1970s with
+the advent of the "blue box," a
+device that generates tones to fool
+the phone company that money
+
+has been entered into the phone.
+It is through giant computer
+networks that these viruses breed
+most abundantly. At Stanford,
+"clusters" of computers are linked
+to a common file server that stu
+dents can access to load programs
+into the computer.
+Fisher called these clusters
+"breeding grounds for viruses."
+Vaccines are now protecting
+Stanford computers against the
+nVIR virus, but the clusters are
+vulnerable to other viruses not
+stopped by this particular an
+tidote.
+Viruses have sprung up all over
+the world, raising critical ques
+tions about the severity of the
+problem. The possibility that
+viruses could invade computers
+used for a country's banking in
+dustry or for national security
+frightens many.
+"I would say it is unbelievably
+unlikely that (viruses could infect)
+
+national security computers," said
+Fisher.
+For very important security
+matters, computers are only
+accessed by a few users and they
+are not allowed to bring commer
+cial software from outside sources
+onto the computers, Fisher said.
+In this way, only a disgruntled
+employee would be able to in
+filtrate the system.
+Some centers responsible for
+national security, however, are
+susceptible to virus attack. The
+problem of computer security
+hangs over Lawrence Livermore
+Laboratory, where scientists
+create technology for nuclear
+weapons and extensively research
+the Strategic Defense Initiative.
+"We have had two instances
+right here of imported viruses,"
+said Livermore's Cole. The out
+breaks were limited to erasing
+files from some of the disks and
+"were hand-carried to the corn
+
+puters," Cole said.
+Already, 48 states around the
+country have passed legislation
+concerning computer viruses. On
+the first of the year, California
+enacted legislation stating that
+anyone who "knowingly accesses
+and without permission adds, al
+ters, damages, or destroys any
+data, computer software, or com
+puter programs" in computers
+and networks is guilty of an of
+fense.
+The harsh penalties include be
+fines as high as $10,000, loss of
+computer equipment and three
+years in prison.
+As awareness grows in the com
+puter profession, the problem of
+viruses is not going away. Liver
+more's Cole only predicts that it
+will get worse in the short-run,
+"spiralling" in an ever-increasing
+battle between virus engineers
+and antidote makers.
+A computer panic sweeping the country in
+recent months hit the Stanford campus last
+week, and students and administrators alike
+are worried.
+Computer viruses, small programs that act
+much like human viruses, have infected many
+thousands of computers around the country,
+in companies, laboratories, universities and
+homes.
+The viruses that have been discovered vary
+in design and consequence, but according to
+one lecturer in computer science, Steve Fisher,
+"a virus can do almost anything." And he
+adds, viruses potentially pose a "very serious"
+problem to the nation.
+"To imagine that there's some sanctity to
+the distribution of software is . .. ridiculous,"
+said Chuck Cole, deputy computer security
+manager of nearby Lawrence Livermore Na
+tional Laboratory
+Dozens of viruses have been made, some
+harmless such as the strain contaminating
+computers around the Stanford campus.
+Others can sit like time bombs in the com
+puter, waiting for the right moment to erase
+important files.
+The virus that infiltrated Stanford was first
+found last week in the Tresidder Union Mac
+intosh II cluster, which is used mostly by
+students in the lower division computer sci
+ence classes.
+The virus, named nVIR, has three known
+strains. One of these randomly deletes files
+
+from infected disks. The particular strain
+found in over a dozen computers at Tresidder,
+however, is not thought to be harmful, ac
+cording to campus computer specialist Lance
+Nakata.
+Nakata, who discovered the problem last
+week after he received a tip via electronic
+mail, detroyed nVIR by using an anti-virus
+program called a "vaccine," an analogue to
+protection against human viruses.
+Before he cured Tresidder of the virus, it
+had already infected an untold number of
+students' disks and had subsequently spread
+through some of Meyer's new Macintosh II
+computers. An unsuspecting student probably
+carried a contaminated disk from Tresidder
+to Meyer, extending the contagion, Nakata
+
+said.
+Stanford is not the only university feeling
+the wrath of viruses. George Washington Uni
+versity was hit by an epidemic of the IBM
+virus called "Brain."
+According to a computer specialist at George
+Washington University, the particular Brain
+strain that hit the campus was not written
+to cause harm. Nonetheless, any virus poses
+danger by its very nature as a contagious
+disease, he addei.
+Self-replication is the primary function of
+any virus, and translated into effect, this
+means a virus can write over some pre-existing
+data in order to make room for itself. Often
+the virus erases crucial information, regard
+less of its benign intentions.
+The Brain virus spread like wildfire, infect
+ing an estimated 100,000 disks across the
+country, according to Time magazine.
+The Brain virus was created by two Pakis
+tani brothers who own a computer software
+business that sells pirated software. Ironically,
+they decided to to punish their own customers
+— many of whom were Americans — for
+buying illegal software they themselves sold.
+In an eerie reminder of the dangers of
+viruses, they had hidden the words "WEL
+COME TO THE DUNGEON" in the code of
+the virus. The address and names of the au
+thors also appear in the message so that people
+who have uncovered the infectious program
+can send away for the antidote.
+Although the particular nVIR strain that
+
+struck Stanford was relatively in
+nocuous by computer virus stand
+ards, the incident draws attention
+to a national crisis in the world
+of computers. And since comput
+ers now occupy the heart of Amer
+ican industry, the stakes in this
+crisis are high.
+To say the least, people are
+worried. The ease with which
+computers can be infiltrated by
+these disastrous lines of code is
+unnerving. And although an
+tidotes can be developed for each
+virus created, there is no guaran
+tee the antidote can be created in
+time to halt the virus before it
+destrovs huee amounts of data.
+In May of this year, on Friday
+the 13th, the country of Israel
+was to celebrate its 40th anniver
+
+sary. As the country celebrated,
+a nation-wide computer program
+was designed by an unknown
+"hacker" to erase itself simulta
+neously.
+In a lucky break, computer
+users at Jerusalem's Hebrew Uni
+versity noticed the slow operation
+of their computers and discovered
+the system was clogged with a
+computer virus mercilessly
+replicating.
+An antidote was written and no
+data was lost. Nevertheless, the
+implications of the event are
+frightening. A similar virus in the
+United States, permeating indus
+try and government computers,
+could paralyze the country.
+The irony is that the trend in
+computing, the linking of vast
+numbers of computers in net
+works, is making computers ever
+more vulnerable to computer
+"hackers" who are often respon
+sible for creating and spreading
+
+viruses.
+Each new link in the system
+adds another target for an invader
+such as a virus. And each new
+link adds one more hole for med
+dlers to tamper with the entire
+network.
+"On a large scale, the critical
+question is how hard a virus is
+to propagate," said Jonathon
+Shapiro, a computer enthusiast
+who works as technical staff at
+AT&T's Bell Laboratories. There
+are a certain number of computer
+links, "below which it is hard for
+a virus to propagate, above which
+it is very easy," he said.
+Shapiro is all too aware of the
+vulnerability of large networks.
+He said the phone network is the
+most susceptible of all. The vul
+nerability of the phone system was
+evidenced in the early 1970s with
+the advent of the "blue box," a
+device that generates tones to fool
+the phone company that money
+
+has been entered into the phone.
+It is through giant computer
+networks that these viruses breed
+most abundantly. At Stanford,
+"clusters" of computers are linked
+to a common file server that stu
+dents can access to load programs
+into the computer.
+Fisher called these clusters
+"breeding grounds for viruses."
+Vaccines are now protecting
+Stanford computers against the
+nVIR virus, but the clusters are
+vulnerable to other viruses not
+stopped by this particular an
+tidote.
+Viruses have sprung up all over
+the world, raising critical ques
+tions about the severity of the
+problem. The possibility that
+viruses could invade computers
+used for a country's banking in
+dustry or for national security
+frightens many.
+"I would say it is unbelievably
+unlikely that (viruses could infect)
+
+national security computers," said
+Fisher.
+For very important security
+matters, computers are only
+accessed by a few users and they
+are not allowed to bring commer
+cial software from outside sources
+onto the computers, Fisher said.
+In this way, only a disgruntled
+employee would be able to in
+filtrate the system.
+Some centers responsible for
+national security, however, are
+susceptible to virus attack. The
+problem of computer security
+hangs over Lawrence Livermore
+Laboratory, where scientists
+create technology for nuclear
+weapons and extensively research
+the Strategic Defense Initiative.
+"We have had two instances
+right here of imported viruses,"
+said Livermore's Cole. The out
+breaks were limited to erasing
+files from some of the disks and
+"were hand-carried to the corn
+
+puters," Cole said.
+Already, 48 states around the
+country have passed legislation
+concerning computer viruses. On
+the first of the year, California
+enacted legislation stating that
+anyone who "knowingly accesses
+and without permission adds, al
+ters, damages, or destroys any
+data, computer software, or com
+puter programs" in computers
+and networks is guilty of an of
+fense.
+The harsh penalties include be
+fines as high as $10,000, loss of
+computer equipment and three
+years in prison.
+As awareness grows in the com
+puter profession, the problem of
+viruses is not going away. Liver
+more's Cole only predicts that it
+will get worse in the short-run,
+"spiralling" in an ever-increasing
+battle between virus engineers
+and antidote makers.
+A computer panic sweeping the country in
+recent months hit the Stanford campus last
+week, and students and administrators alike
+are worried.
+Computer viruses, small programs that act
+much like human viruses, have infected many
+thousands of computers around the country,
+in companies, laboratories, universities and
+homes.
+The viruses that have been discovered vary
+in design and consequence, but according to
+one lecturer in computer science, Steve Fisher,
+"a virus can do almost anything." And he
+adds, viruses potentially pose a "very serious"
+problem to the nation.
+"To imagine that there's some sanctity to
+the distribution of software is . .. ridiculous,"
+said Chuck Cole, deputy computer security
+manager of nearby Lawrence Livermore Na
+tional Laboratory
+Dozens of viruses have been made, some
+harmless such as the strain contaminating
+computers around the Stanford campus.
+Others can sit like time bombs in the com
+puter, waiting for the right moment to erase
+important files.
+The virus that infiltrated Stanford was first
+found last week in the Tresidder Union Mac
+intosh II cluster, which is used mostly by
+students in the lower division computer sci
+ence classes.
+The virus, named nVIR, has three known
+strains. One of these randomly deletes files
+
+from infected disks. The particular strain
+found in over a dozen computers at Tresidder,
+however, is not thought to be harmful, ac
+cording to campus computer specialist Lance
+Nakata.
+Nakata, who discovered the problem last
+week after he received a tip via electronic
+mail, detroyed nVIR by using an anti-virus
+program called a "vaccine," an analogue to
+protection against human viruses.
+Before he cured Tresidder of the virus, it
+had already infected an untold number of
+students' disks and had subsequently spread
+through some of Meyer's new Macintosh II
+computers. An unsuspecting student probably
+carried a contaminated disk from Tresidder
+to Meyer, extending the contagion, Nakata
+
+said.
+Stanford is not the only university feeling
+the wrath of viruses. George Washington Uni
+versity was hit by an epidemic of the IBM
+virus called "Brain."
+According to a computer specialist at George
+Washington University, the particular Brain
+strain that hit the campus was not written
+to cause harm. Nonetheless, any virus poses
+danger by its very nature as a contagious
+disease, he addei.
+Self-replication is the primary function of
+any virus, and translated into effect, this
+means a virus can write over some pre-existing
+data in order to make room for itself. Often
+the virus erases crucial information, regard
+less of its benign intentions.
+The Brain virus spread like wildfire, infect
+ing an estimated 100,000 disks across the
+country, according to Time magazine.
+The Brain virus was created by two Pakis
+tani brothers who own a computer software
+business that sells pirated software. Ironically,
+they decided to to punish their own customers
+— many of whom were Americans — for
+buying illegal software they themselves sold.
+In an eerie reminder of the dangers of
+viruses, they had hidden the words "WEL
+COME TO THE DUNGEON" in the code of
+the virus. The address and names of the au
+thors also appear in the message so that people
+who have uncovered the infectious program
+can send away for the antidote.
+Although the particular nVIR strain that
+
+struck Stanford was relatively in
+nocuous by computer virus stand
+ards, the incident draws attention
+to a national crisis in the world
+of computers. And since comput
+ers now occupy the heart of Amer
+ican industry, the stakes in this
+crisis are high.
+To say the least, people are
+worried. The ease with which
+computers can be infiltrated by
+these disastrous lines of code is
+unnerving. And although an
+tidotes can be developed for each
+virus created, there is no guaran
+tee the antidote can be created in
+time to halt the virus before it
+destrovs huee amounts of data.
+In May of this year, on Friday
+the 13th, the country of Israel
+was to celebrate its 40th anniver
+
+sary. As the country celebrated,
+a nation-wide computer program
+was designed by an unknown
+"hacker" to erase itself simulta
+neously.
+In a lucky break, computer
+users at Jerusalem's Hebrew Uni
+versity noticed the slow operation
+of their computers and discovered
+the system was clogged with a
+computer virus mercilessly
+replicating.
+An antidote was written and no
+data was lost. Nevertheless, the
+implications of the event are
+frightening. A similar virus in the
+United States, permeating indus
+try and government computers,
+could paralyze the country.
+The irony is that the trend in
+computing, the linking of vast
+numbers of computers in net
+works, is making computers ever
+more vulnerable to computer
+"hackers" who are often respon
+sible for creating and spreading
+
+viruses.
+Each new link in the system
+adds another target for an invader
+such as a virus. And each new
+link adds one more hole for med
+dlers to tamper with the entire
+network.
+"On a large scale, the critical
+question is how hard a virus is
+to propagate," said Jonathon
+Shapiro, a computer enthusiast
+who works as technical staff at
+AT&T's Bell Laboratories. There
+are a certain number of computer
+links, "below which it is hard for
+a virus to propagate, above which
+it is very easy," he said.
+Shapiro is all too aware of the
+vulnerability of large networks.
+He said the phone network is the
+most susceptible of all. The vul
+nerability of the phone system was
+evidenced in the early 1970s with
+the advent of the "blue box," a
+device that generates tones to fool
+the phone company that money
+
+has been entered into the phone.
+It is through giant computer
+networks that these viruses breed
+most abundantly. At Stanford,
+"clusters" of computers are linked
+to a common file server that stu
+dents can access to load programs
+into the computer.
+Fisher called these clusters
+"breeding grounds for viruses."
+Vaccines are now protecting
+Stanford computers against the
+nVIR virus, but the clusters are
+vulnerable to other viruses not
+stopped by this particular an
+tidote.
+Viruses have sprung up all over
+the world, raising critical ques
+tions about the severity of the
+problem. The possibility that
+viruses could invade computers
+used for a country's banking in
+dustry or for national security
+frightens many.
+"I would say it is unbelievably
+unlikely that (viruses could infect)
+
+national security computers," said
+Fisher.
+For very important security
+matters, computers are only
+accessed by a few users and they
+are not allowed to bring commer
+cial software from outside sources
+onto the computers, Fisher said.
+In this way, only a disgruntled
+employee would be able to in
+filtrate the system.
+Some centers responsible for
+national security, however, are
+susceptible to virus attack. The
+problem of computer security
+hangs over Lawrence Livermore
+Laboratory, where scientists
+create technology for nuclear
+weapons and extensively research
+the Strategic Defense Initiative.
+"We have had two instances
+right here of imported viruses,"
+said Livermore's Cole. The out
+breaks were limited to erasing
+files from some of the disks and
+"were hand-carried to the corn
+
+puters," Cole said.
+Already, 48 states around the
+country have passed legislation
+concerning computer viruses. On
+the first of the year, California
+enacted legislation stating that
+anyone who "knowingly accesses
+and without permission adds, al
+ters, damages, or destroys any
+data, computer software, or com
+puter programs" in computers
+and networks is guilty of an of
+fense.
+The harsh penalties include be
+fines as high as $10,000, loss of
+computer equipment and three
+years in prison.
+As awareness grows in the com
+puter profession, the problem of
+viruses is not going away. Liver
+more's Cole only predicts that it
+will get worse in the short-run,
+"spiralling" in an ever-increasing
+battle between virus engineers
+and antidote makers.
+A computer panic sweeping the country in
+recent months hit the Stanford campus last
+week, and students and administrators alike
+are worried.
+Computer viruses, small programs that act
+much like human viruses, have infected many
+thousands of computers around the country,
+in companies, laboratories, universities and
+homes.
+The viruses that have been discovered vary
+in design and consequence, but according to
+one lecturer in computer science, Steve Fisher,
+"a virus can do almost anything." And he
+adds, viruses potentially pose a "very serious"
+problem to the nation.
+"To imagine that there's some sanctity to
+the distribution of software is . .. ridiculous,"
+said Chuck Cole, deputy computer security
+manager of nearby Lawrence Livermore Na
+tional Laboratory
+Dozens of viruses have been made, some
+harmless such as the strain contaminating
+computers around the Stanford campus.
+Others can sit like time bombs in the com
+puter, waiting for the right moment to erase
+important files.
+The virus that infiltrated Stanford was first
+found last week in the Tresidder Union Mac
+intosh II cluster, which is used mostly by
+students in the lower division computer sci
+ence classes.
+The virus, named nVIR, has three known
+strains. One of these randomly deletes files
+
+from infected disks. The particular strain
+found in over a dozen computers at Tresidder,
+however, is not thought to be harmful, ac
+cording to campus computer specialist Lance
+Nakata.
+Nakata, who discovered the problem last
+week after he received a tip via electronic
+mail, detroyed nVIR by using an anti-virus
+program called a "vaccine," an analogue to
+protection against human viruses.
+Before he cured Tresidder of the virus, it
+had already infected an untold number of
+students' disks and had subsequently spread
+through some of Meyer's new Macintosh II
+computers. An unsuspecting student probably
+carried a contaminated disk from Tresidder
+to Meyer, extending the contagion, Nakata
+
+said.
+Stanford is not the only university feeling
+the wrath of viruses. George Washington Uni
+versity was hit by an epidemic of the IBM
+virus called "Brain."
+According to a computer specialist at George
+Washington University, the particular Brain
+strain that hit the campus was not written
+to cause harm. Nonetheless, any virus poses
+danger by its very nature as a contagious
+disease, he addei.
+Self-replication is the primary function of
+any virus, and translated into effect, this
+means a virus can write over some pre-existing
+data in order to make room for itself. Often
+the virus erases crucial information, regard
+less of its benign intentions.
+The Brain virus spread like wildfire, infect
+ing an estimated 100,000 disks across the
+country, according to Time magazine.
+The Brain virus was created by two Pakis
+tani brothers who own a computer software
+business that sells pirated software. Ironically,
+they decided to to punish their own customers
+— many of whom were Americans — for
+buying illegal software they themselves sold.
+In an eerie reminder of the dangers of
+viruses, they had hidden the words "WEL
+COME TO THE DUNGEON" in the code of
+the virus. The address and names of the au
+thors also appear in the message so that people
+who have uncovered the infectious program
+can send away for the antidote.
+Although the particular nVIR strain that
+
+struck Stanford was relatively in
+nocuous by computer virus stand
+ards, the incident draws attention
+to a national crisis in the world
+of computers. And since comput
+ers now occupy the heart of Amer
+ican industry, the stakes in this
+crisis are high.
+To say the least, people are
+worried. The ease with which
+computers can be infiltrated by
+these disastrous lines of code is
+unnerving. And although an
+tidotes can be developed for each
+virus created, there is no guaran
+tee the antidote can be created in
+time to halt the virus before it
+destrovs huee amounts of data.
+In May of this year, on Friday
+the 13th, the country of Israel
+was to celebrate its 40th anniver
+
+sary. As the country celebrated,
+a nation-wide computer program
+was designed by an unknown
+"hacker" to erase itself simulta
+neously.
+In a lucky break, computer
+users at Jerusalem's Hebrew Uni
+versity noticed the slow operation
+of their computers and discovered
+the system was clogged with a
+computer virus mercilessly
+replicating.
+An antidote was written and no
+data was lost. Nevertheless, the
+implications of the event are
+frightening. A similar virus in the
+United States, permeating indus
+try and government computers,
+could paralyze the country.
+The irony is that the trend in
+computing, the linking of vast
+numbers of computers in net
+works, is making computers ever
+more vulnerable to computer
+"hackers" who are often respon
+sible for creating and spreading
+
+viruses.
+Each new link in the system
+adds another target for an invader
+such as a virus. And each new
+link adds one more hole for med
+dlers to tamper with the entire
+network.
+"On a large scale, the critical
+question is how hard a virus is
+to propagate," said Jonathon
+Shapiro, a computer enthusiast
+who works as technical staff at
+AT&T's Bell Laboratories. There
+are a certain number of computer
+links, "below which it is hard for
+a virus to propagate, above which
+it is very easy," he said.
+Shapiro is all too aware of the
+vulnerability of large networks.
+He said the phone network is the
+most susceptible of all. The vul
+nerability of the phone system was
+evidenced in the early 1970s with
+the advent of the "blue box," a
+device that generates tones to fool
+the phone company that money
+
+has been entered into the phone.
+It is through giant computer
+networks that these viruses breed
+most abundantly. At Stanford,
+"clusters" of computers are linked
+to a common file server that stu
+dents can access to load programs
+into the computer.
+Fisher called these clusters
+"breeding grounds for viruses."
+Vaccines are now protecting
+Stanford computers against the
+nVIR virus, but the clusters are
+vulnerable to other viruses not
+stopped by this particular an
+tidote.
+Viruses have sprung up all over
+the world, raising critical ques
+tions about the severity of the
+problem. The possibility that
+viruses could invade computers
+used for a country's banking in
+dustry or for national security
+frightens many.
+"I would say it is unbelievably
+unlikely that (viruses could infect)
+
+national security computers," said
+Fisher.
+For very important security
+matters, computers are only
+accessed by a few users and they
+are not allowed to bring commer
+cial software from outside sources
+onto the computers, Fisher said.
+In this way, only a disgruntled
+employee would be able to in
+filtrate the system.
+Some centers responsible for
+national security, however, are
+susceptible to virus attack. The
+problem of computer security
+hangs over Lawrence Livermore
+Laboratory, where scientists
+create technology for nuclear
+weapons and extensively research
+the Strategic Defense Initiative.
+"We have had two instances
+right here of imported viruses,"
+said Livermore's Cole. The out
+breaks were limited to erasing
+files from some of the disks and
+"were hand-carried to the corn
+
+puters," Cole said.
+Already, 48 states around the
+country have passed legislation
+concerning computer viruses. On
+the first of the year, California
+enacted legislation stating that
+anyone who "knowingly accesses
+and without permission adds, al
+ters, damages, or destroys any
+data, computer software, or com
+puter programs" in computers
+and networks is guilty of an of
+fense.
+The harsh penalties include be
+fines as high as $10,000, loss of
+computer equipment and three
+years in prison.
+As awareness grows in the com
+puter profession, the problem of
+viruses is not going away. Liver
+more's Cole only predicts that it
+will get worse in the short-run,
+"spiralling" in an ever-increasing
+battle between virus engineers
+and antidote makers.

@@ -1,0 +1,815 @@
+# Computer agents to speed information access
+## Technique promises smarter programs The 						Agent Paradigm 
+### Kevin Armstrong 
+In the near future, computers
+may possess their own mental
+states and may have decision-mak
+ing capabilities, giving them more
+human characteristics than ever
+before.
+Programmed entities, known as
+"agents," will make this possible by
+carrying out tasks and functions
+ranging from handling electronic
+mail to searching databases and
+traversing the envisioned "infor
+mation superhighway."
+For example, an e-mail agent
+running from one of Stanford's
+mainframe computers could make a
+request over the network for infor
+mation on the ancestry of the horse,
+while another agent specializing in
+database retrieval at the Museum of
+Natural History in Washington,
+D.C. could receive the request and
+forward relevant information.
+Additional agents at libraries,
+other museums or even on person
+al computers could receive the mes
+sage and respond — all contribut
+ing to a process which would cut
+down on the man-hours spent sift
+ing through large numbers of files
+for pertinent information.
+According to Yoav Shoam, an
+associate professor of computer sci
+ence at Stanford who is conducting
+new research on the creation and
+development of these agents, the
+framework can be defined as "fix
+ing the [mental statel of the
+(agents) to consist of components
+such as beliefs, capabilities and
+
+decisions."
+In other words, agents commu
+nicate with each other using cer
+tain action messages. They can
+inform each other, request assis
+tance and decline to act towards
+other agents all without human
+interference.
+Under these guidelines, the
+presence of a mental state within
+the agent becomes a necessity.
+Current research into agent-ori
+ented programming revolves
+around the definition of such a
+mental state, which is generally
+defined by the agent's beliefs, pre
+vious decisions, commitments and
+abilities.
+Created in the late 1980s, agent
+oriented programming stems from
+earlier research into artificial intel
+ligence and object-oriented pro
+gramming, which revolves around
+the use of program modules that
+interact within the computational
+system to perform a series of tasks.
+Though not a direct offshoot of
+such techniques, agent-oriented
+programming can be viewed as a
+specialized form of object orienta
+tion, geared towards navigating the
+"global information village" that
+the international community is
+building, Shoam explained.
+Current research, from Stan
+ford to Silicon Valley computer
+firms, can be divided into two sepa
+rate areas — the interpretation of
+the abstract notions involved in
+creating agents and the application
+of agents to various tasks.
+The research into abstraction
+
+seeks to further answer the ques
+tions of mental states and interac
+tions between agents by defining
+knowledge, commitment and
+intention for an agent.
+Application research focuses
+more closely on programming
+agents to accomplish tasks and ful
+fill requirements.
+In addition, the rules for inter
+agent work must be coded, much as
+the rules of the road are defined for
+automobiles, to insure smooth but
+not overly restricted operation.
+
+Agents already in use, called
+"knowbots," are used to search
+networks for reference citations to
+aid research efforts. Researchers
+are also studying impacts on indus
+try, where robots and clerk termi
+nals are used as the physical imple
+mentations of software agents.
+These software agents, quickly
+coming to the forefront of software
+technology, are likely to rise in
+importance as the fundamental
+hurdles of agent interaction are
+overcome.
+
+
+Jeff Sorrentino Daily
+In the near future, computers
+may possess their own mental
+states and may have decision-mak
+ing capabilities, giving them more
+human characteristics than ever
+before.
+Programmed entities, known as
+"agents," will make this possible by
+carrying out tasks and functions
+ranging from handling electronic
+mail to searching databases and
+traversing the envisioned "infor
+mation superhighway."
+For example, an e-mail agent
+running from one of Stanford's
+mainframe computers could make a
+request over the network for infor
+mation on the ancestry of the horse,
+while another agent specializing in
+database retrieval at the Museum of
+Natural History in Washington,
+D.C. could receive the request and
+forward relevant information.
+Additional agents at libraries,
+other museums or even on person
+al computers could receive the mes
+sage and respond — all contribut
+ing to a process which would cut
+down on the man-hours spent sift
+ing through large numbers of files
+for pertinent information.
+According to Yoav Shoam, an
+associate professor of computer sci
+ence at Stanford who is conducting
+new research on the creation and
+development of these agents, the
+framework can be defined as "fix
+ing the [mental statel of the
+(agents) to consist of components
+such as beliefs, capabilities and
+
+decisions."
+In other words, agents commu
+nicate with each other using cer
+tain action messages. They can
+inform each other, request assis
+tance and decline to act towards
+other agents all without human
+interference.
+Under these guidelines, the
+presence of a mental state within
+the agent becomes a necessity.
+Current research into agent-ori
+ented programming revolves
+around the definition of such a
+mental state, which is generally
+defined by the agent's beliefs, pre
+vious decisions, commitments and
+abilities.
+Created in the late 1980s, agent
+oriented programming stems from
+earlier research into artificial intel
+ligence and object-oriented pro
+gramming, which revolves around
+the use of program modules that
+interact within the computational
+system to perform a series of tasks.
+Though not a direct offshoot of
+such techniques, agent-oriented
+programming can be viewed as a
+specialized form of object orienta
+tion, geared towards navigating the
+"global information village" that
+the international community is
+building, Shoam explained.
+Current research, from Stan
+ford to Silicon Valley computer
+firms, can be divided into two sepa
+rate areas — the interpretation of
+the abstract notions involved in
+creating agents and the application
+of agents to various tasks.
+The research into abstraction
+
+seeks to further answer the ques
+tions of mental states and interac
+tions between agents by defining
+knowledge, commitment and
+intention for an agent.
+Application research focuses
+more closely on programming
+agents to accomplish tasks and ful
+fill requirements.
+In addition, the rules for inter
+agent work must be coded, much as
+the rules of the road are defined for
+automobiles, to insure smooth but
+not overly restricted operation.
+
+Agents already in use, called
+"knowbots," are used to search
+networks for reference citations to
+aid research efforts. Researchers
+are also studying impacts on indus
+try, where robots and clerk termi
+nals are used as the physical imple
+mentations of software agents.
+These software agents, quickly
+coming to the forefront of software
+technology, are likely to rise in
+importance as the fundamental
+hurdles of agent interaction are
+overcome.
+
+
+Jeff Sorrentino Daily
+In the near future, computers
+may possess their own mental
+states and may have decision-mak
+ing capabilities, giving them more
+human characteristics than ever
+before.
+Programmed entities, known as
+"agents," will make this possible by
+carrying out tasks and functions
+ranging from handling electronic
+mail to searching databases and
+traversing the envisioned "infor
+mation superhighway."
+For example, an e-mail agent
+running from one of Stanford's
+mainframe computers could make a
+request over the network for infor
+mation on the ancestry of the horse,
+while another agent specializing in
+database retrieval at the Museum of
+Natural History in Washington,
+D.C. could receive the request and
+forward relevant information.
+Additional agents at libraries,
+other museums or even on person
+al computers could receive the mes
+sage and respond — all contribut
+ing to a process which would cut
+down on the man-hours spent sift
+ing through large numbers of files
+for pertinent information.
+According to Yoav Shoam, an
+associate professor of computer sci
+ence at Stanford who is conducting
+new research on the creation and
+development of these agents, the
+framework can be defined as "fix
+ing the [mental statel of the
+(agents) to consist of components
+such as beliefs, capabilities and
+
+decisions."
+In other words, agents commu
+nicate with each other using cer
+tain action messages. They can
+inform each other, request assis
+tance and decline to act towards
+other agents all without human
+interference.
+Under these guidelines, the
+presence of a mental state within
+the agent becomes a necessity.
+Current research into agent-ori
+ented programming revolves
+around the definition of such a
+mental state, which is generally
+defined by the agent's beliefs, pre
+vious decisions, commitments and
+abilities.
+Created in the late 1980s, agent
+oriented programming stems from
+earlier research into artificial intel
+ligence and object-oriented pro
+gramming, which revolves around
+the use of program modules that
+interact within the computational
+system to perform a series of tasks.
+Though not a direct offshoot of
+such techniques, agent-oriented
+programming can be viewed as a
+specialized form of object orienta
+tion, geared towards navigating the
+"global information village" that
+the international community is
+building, Shoam explained.
+Current research, from Stan
+ford to Silicon Valley computer
+firms, can be divided into two sepa
+rate areas — the interpretation of
+the abstract notions involved in
+creating agents and the application
+of agents to various tasks.
+The research into abstraction
+
+seeks to further answer the ques
+tions of mental states and interac
+tions between agents by defining
+knowledge, commitment and
+intention for an agent.
+Application research focuses
+more closely on programming
+agents to accomplish tasks and ful
+fill requirements.
+In addition, the rules for inter
+agent work must be coded, much as
+the rules of the road are defined for
+automobiles, to insure smooth but
+not overly restricted operation.
+
+Agents already in use, called
+"knowbots," are used to search
+networks for reference citations to
+aid research efforts. Researchers
+are also studying impacts on indus
+try, where robots and clerk termi
+nals are used as the physical imple
+mentations of software agents.
+These software agents, quickly
+coming to the forefront of software
+technology, are likely to rise in
+importance as the fundamental
+hurdles of agent interaction are
+overcome.
+
+
+Jeff Sorrentino Daily
+In the near future, computers
+may possess their own mental
+states and may have decision-mak
+ing capabilities, giving them more
+human characteristics than ever
+before.
+Programmed entities, known as
+"agents," will make this possible by
+carrying out tasks and functions
+ranging from handling electronic
+mail to searching databases and
+traversing the envisioned "infor
+mation superhighway."
+For example, an e-mail agent
+running from one of Stanford's
+mainframe computers could make a
+request over the network for infor
+mation on the ancestry of the horse,
+while another agent specializing in
+database retrieval at the Museum of
+Natural History in Washington,
+D.C. could receive the request and
+forward relevant information.
+Additional agents at libraries,
+other museums or even on person
+al computers could receive the mes
+sage and respond — all contribut
+ing to a process which would cut
+down on the man-hours spent sift
+ing through large numbers of files
+for pertinent information.
+According to Yoav Shoam, an
+associate professor of computer sci
+ence at Stanford who is conducting
+new research on the creation and
+development of these agents, the
+framework can be defined as "fix
+ing the [mental statel of the
+(agents) to consist of components
+such as beliefs, capabilities and
+
+decisions."
+In other words, agents commu
+nicate with each other using cer
+tain action messages. They can
+inform each other, request assis
+tance and decline to act towards
+other agents all without human
+interference.
+Under these guidelines, the
+presence of a mental state within
+the agent becomes a necessity.
+Current research into agent-ori
+ented programming revolves
+around the definition of such a
+mental state, which is generally
+defined by the agent's beliefs, pre
+vious decisions, commitments and
+abilities.
+Created in the late 1980s, agent
+oriented programming stems from
+earlier research into artificial intel
+ligence and object-oriented pro
+gramming, which revolves around
+the use of program modules that
+interact within the computational
+system to perform a series of tasks.
+Though not a direct offshoot of
+such techniques, agent-oriented
+programming can be viewed as a
+specialized form of object orienta
+tion, geared towards navigating the
+"global information village" that
+the international community is
+building, Shoam explained.
+Current research, from Stan
+ford to Silicon Valley computer
+firms, can be divided into two sepa
+rate areas — the interpretation of
+the abstract notions involved in
+creating agents and the application
+of agents to various tasks.
+The research into abstraction
+
+seeks to further answer the ques
+tions of mental states and interac
+tions between agents by defining
+knowledge, commitment and
+intention for an agent.
+Application research focuses
+more closely on programming
+agents to accomplish tasks and ful
+fill requirements.
+In addition, the rules for inter
+agent work must be coded, much as
+the rules of the road are defined for
+automobiles, to insure smooth but
+not overly restricted operation.
+
+Agents already in use, called
+"knowbots," are used to search
+networks for reference citations to
+aid research efforts. Researchers
+are also studying impacts on indus
+try, where robots and clerk termi
+nals are used as the physical imple
+mentations of software agents.
+These software agents, quickly
+coming to the forefront of software
+technology, are likely to rise in
+importance as the fundamental
+hurdles of agent interaction are
+overcome.
+
+
+Jeff Sorrentino Daily
+In the near future, computers
+may possess their own mental
+states and may have decision-mak
+ing capabilities, giving them more
+human characteristics than ever
+before.
+Programmed entities, known as
+"agents," will make this possible by
+carrying out tasks and functions
+ranging from handling electronic
+mail to searching databases and
+traversing the envisioned "infor
+mation superhighway."
+For example, an e-mail agent
+running from one of Stanford's
+mainframe computers could make a
+request over the network for infor
+mation on the ancestry of the horse,
+while another agent specializing in
+database retrieval at the Museum of
+Natural History in Washington,
+D.C. could receive the request and
+forward relevant information.
+Additional agents at libraries,
+other museums or even on person
+al computers could receive the mes
+sage and respond — all contribut
+ing to a process which would cut
+down on the man-hours spent sift
+ing through large numbers of files
+for pertinent information.
+According to Yoav Shoam, an
+associate professor of computer sci
+ence at Stanford who is conducting
+new research on the creation and
+development of these agents, the
+framework can be defined as "fix
+ing the [mental statel of the
+(agents) to consist of components
+such as beliefs, capabilities and
+
+decisions."
+In other words, agents commu
+nicate with each other using cer
+tain action messages. They can
+inform each other, request assis
+tance and decline to act towards
+other agents all without human
+interference.
+Under these guidelines, the
+presence of a mental state within
+the agent becomes a necessity.
+Current research into agent-ori
+ented programming revolves
+around the definition of such a
+mental state, which is generally
+defined by the agent's beliefs, pre
+vious decisions, commitments and
+abilities.
+Created in the late 1980s, agent
+oriented programming stems from
+earlier research into artificial intel
+ligence and object-oriented pro
+gramming, which revolves around
+the use of program modules that
+interact within the computational
+system to perform a series of tasks.
+Though not a direct offshoot of
+such techniques, agent-oriented
+programming can be viewed as a
+specialized form of object orienta
+tion, geared towards navigating the
+"global information village" that
+the international community is
+building, Shoam explained.
+Current research, from Stan
+ford to Silicon Valley computer
+firms, can be divided into two sepa
+rate areas — the interpretation of
+the abstract notions involved in
+creating agents and the application
+of agents to various tasks.
+The research into abstraction
+
+seeks to further answer the ques
+tions of mental states and interac
+tions between agents by defining
+knowledge, commitment and
+intention for an agent.
+Application research focuses
+more closely on programming
+agents to accomplish tasks and ful
+fill requirements.
+In addition, the rules for inter
+agent work must be coded, much as
+the rules of the road are defined for
+automobiles, to insure smooth but
+not overly restricted operation.
+
+Agents already in use, called
+"knowbots," are used to search
+networks for reference citations to
+aid research efforts. Researchers
+are also studying impacts on indus
+try, where robots and clerk termi
+nals are used as the physical imple
+mentations of software agents.
+These software agents, quickly
+coming to the forefront of software
+technology, are likely to rise in
+importance as the fundamental
+hurdles of agent interaction are
+overcome.
+
+
+Jeff Sorrentino Daily
+In the near future, computers
+may possess their own mental
+states and may have decision-mak
+ing capabilities, giving them more
+human characteristics than ever
+before.
+Programmed entities, known as
+"agents," will make this possible by
+carrying out tasks and functions
+ranging from handling electronic
+mail to searching databases and
+traversing the envisioned "infor
+mation superhighway."
+For example, an e-mail agent
+running from one of Stanford's
+mainframe computers could make a
+request over the network for infor
+mation on the ancestry of the horse,
+while another agent specializing in
+database retrieval at the Museum of
+Natural History in Washington,
+D.C. could receive the request and
+forward relevant information.
+Additional agents at libraries,
+other museums or even on person
+al computers could receive the mes
+sage and respond — all contribut
+ing to a process which would cut
+down on the man-hours spent sift
+ing through large numbers of files
+for pertinent information.
+According to Yoav Shoam, an
+associate professor of computer sci
+ence at Stanford who is conducting
+new research on the creation and
+development of these agents, the
+framework can be defined as "fix
+ing the [mental statel of the
+(agents) to consist of components
+such as beliefs, capabilities and
+
+decisions."
+In other words, agents commu
+nicate with each other using cer
+tain action messages. They can
+inform each other, request assis
+tance and decline to act towards
+other agents all without human
+interference.
+Under these guidelines, the
+presence of a mental state within
+the agent becomes a necessity.
+Current research into agent-ori
+ented programming revolves
+around the definition of such a
+mental state, which is generally
+defined by the agent's beliefs, pre
+vious decisions, commitments and
+abilities.
+Created in the late 1980s, agent
+oriented programming stems from
+earlier research into artificial intel
+ligence and object-oriented pro
+gramming, which revolves around
+the use of program modules that
+interact within the computational
+system to perform a series of tasks.
+Though not a direct offshoot of
+such techniques, agent-oriented
+programming can be viewed as a
+specialized form of object orienta
+tion, geared towards navigating the
+"global information village" that
+the international community is
+building, Shoam explained.
+Current research, from Stan
+ford to Silicon Valley computer
+firms, can be divided into two sepa
+rate areas — the interpretation of
+the abstract notions involved in
+creating agents and the application
+of agents to various tasks.
+The research into abstraction
+
+seeks to further answer the ques
+tions of mental states and interac
+tions between agents by defining
+knowledge, commitment and
+intention for an agent.
+Application research focuses
+more closely on programming
+agents to accomplish tasks and ful
+fill requirements.
+In addition, the rules for inter
+agent work must be coded, much as
+the rules of the road are defined for
+automobiles, to insure smooth but
+not overly restricted operation.
+
+Agents already in use, called
+"knowbots," are used to search
+networks for reference citations to
+aid research efforts. Researchers
+are also studying impacts on indus
+try, where robots and clerk termi
+nals are used as the physical imple
+mentations of software agents.
+These software agents, quickly
+coming to the forefront of software
+technology, are likely to rise in
+importance as the fundamental
+hurdles of agent interaction are
+overcome.
+
+
+Jeff Sorrentino Daily
+In the near future, computers
+may possess their own mental
+states and may have decision-mak
+ing capabilities, giving them more
+human characteristics than ever
+before.
+Programmed entities, known as
+"agents," will make this possible by
+carrying out tasks and functions
+ranging from handling electronic
+mail to searching databases and
+traversing the envisioned "infor
+mation superhighway."
+For example, an e-mail agent
+running from one of Stanford's
+mainframe computers could make a
+request over the network for infor
+mation on the ancestry of the horse,
+while another agent specializing in
+database retrieval at the Museum of
+Natural History in Washington,
+D.C. could receive the request and
+forward relevant information.
+Additional agents at libraries,
+other museums or even on person
+al computers could receive the mes
+sage and respond — all contribut
+ing to a process which would cut
+down on the man-hours spent sift
+ing through large numbers of files
+for pertinent information.
+According to Yoav Shoam, an
+associate professor of computer sci
+ence at Stanford who is conducting
+new research on the creation and
+development of these agents, the
+framework can be defined as "fix
+ing the [mental statel of the
+(agents) to consist of components
+such as beliefs, capabilities and
+
+decisions."
+In other words, agents commu
+nicate with each other using cer
+tain action messages. They can
+inform each other, request assis
+tance and decline to act towards
+other agents all without human
+interference.
+Under these guidelines, the
+presence of a mental state within
+the agent becomes a necessity.
+Current research into agent-ori
+ented programming revolves
+around the definition of such a
+mental state, which is generally
+defined by the agent's beliefs, pre
+vious decisions, commitments and
+abilities.
+Created in the late 1980s, agent
+oriented programming stems from
+earlier research into artificial intel
+ligence and object-oriented pro
+gramming, which revolves around
+the use of program modules that
+interact within the computational
+system to perform a series of tasks.
+Though not a direct offshoot of
+such techniques, agent-oriented
+programming can be viewed as a
+specialized form of object orienta
+tion, geared towards navigating the
+"global information village" that
+the international community is
+building, Shoam explained.
+Current research, from Stan
+ford to Silicon Valley computer
+firms, can be divided into two sepa
+rate areas — the interpretation of
+the abstract notions involved in
+creating agents and the application
+of agents to various tasks.
+The research into abstraction
+
+seeks to further answer the ques
+tions of mental states and interac
+tions between agents by defining
+knowledge, commitment and
+intention for an agent.
+Application research focuses
+more closely on programming
+agents to accomplish tasks and ful
+fill requirements.
+In addition, the rules for inter
+agent work must be coded, much as
+the rules of the road are defined for
+automobiles, to insure smooth but
+not overly restricted operation.
+
+Agents already in use, called
+"knowbots," are used to search
+networks for reference citations to
+aid research efforts. Researchers
+are also studying impacts on indus
+try, where robots and clerk termi
+nals are used as the physical imple
+mentations of software agents.
+These software agents, quickly
+coming to the forefront of software
+technology, are likely to rise in
+importance as the fundamental
+hurdles of agent interaction are
+overcome.
+
+
+Jeff Sorrentino Daily

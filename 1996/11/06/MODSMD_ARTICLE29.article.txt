@@ -1,0 +1,687 @@
+# Stanford group improving testing
+## Cellular phones, televisions and computers depend on defect-free chips 
+### Akash Garg 
+With the explosive growth of the
+Internet and computer technolo
+gies in the last few years, computer
+chips are becoming faster and
+more complicated.
+Thus, it is becoming increasing
+ly difficult for manufacturers to
+locate defective chips in their prod
+ucts.
+That's why Stanford's Center
+for Reliable Computing and LSI
+Logic Corp. of Milpitas have joined
+forces on a three-year effort to
+design and build a chip with only
+one purpose: to be tested in order
+to improve methods of testing
+chips.
+Technology such as cellular
+phones, televisions and personal
+computers rely on semiconductors
+to produce chips for power. Ten
+years ago, chips relied on thou
+sands of transistors, which operat
+ed at a few million cycles per sec
+ond.
+Today's technology has given
+rise to chips that contain tens of
+millions of transistors and operate
+at hundreds of millions of cycles
+per second.
+These numbers will undoubted
+ly continue to climb in the future,
+which poses a serious problem for
+companies that want to weed out
+defective chips. In the past, the
+solution was to build bigger and
+faster testing devices. However,
+this has become extremely difficult
+and expensive.
+"When you manufacture chips
+... a lot of them are not good, and
+you have to identify the bad ones.
+There are different ways to do that,
+and they are all inadequate or too
+expensive," said center director
+and Electrical Engineering Prof.
+Edward McCluskey.
+McCluskey and electrical engi
+neering doctoral students Tsung-
+Yung Chang, Yi-Chin Chu and
+Sanjay Wattal have designed a chip
+whose sole purpose is to be tested
+in many different ways.
+The improved testing tech
+niques that the study finds should
+make it much easier for companies
+to spot defective chips in their
+products and reduce the strain on
+companies to build bigger and
+faster testers.
+
+According to McCluskey, sever
+al companies have already
+embraced the technology that
+resulted from a previous study of
+the same nature. Researchers can
+also use the center's experimental
+data to validate theoretical data.
+The circuits on the test chip are
+representative of what one would
+find on commercial circuits in
+order to make the tests more real
+istic and accurate. "We wanted to
+make the chip real," explained
+Chang. , „ - i »>
+One of the newer methods that
+computer chip manufacturers
+
+have designed to make chips oper
+ate faster is called deep submicron
+technology. It has presented a chal
+lenge for electronic testing tech
+niques.
+"People want to have faster
+chips, and the way to have a faster
+chip is to shrink the device," Chang
+said. "The other advantage is that
+there are more device [compo
+nents] on the chip so it's faster and
+denser."
+Another unique aspect of this
+research is the time response of
+chips.
+In the past, chips could contain
+
+defects as long as they weren't
+operated at very high speeds.
+McCluskey and his colleagues are
+incorporating time response as one
+of their testing methods. Other
+methods that they are examining
+include logic, memory, other mixed
+signal circuits and very low-voltage
+testing.
+The partnership between LSI
+Logic and Stanford is a unique
+relationship between industry
+and academia. After Chang and
+his team design the model, LSI
+Logic will manufacture the actual
+chip.
+
+
+Johnny Zannis — Daily
+With the explosive growth of the
+Internet and computer technolo
+gies in the last few years, computer
+chips are becoming faster and
+more complicated.
+Thus, it is becoming increasing
+ly difficult for manufacturers to
+locate defective chips in their prod
+ucts.
+That's why Stanford's Center
+for Reliable Computing and LSI
+Logic Corp. of Milpitas have joined
+forces on a three-year effort to
+design and build a chip with only
+one purpose: to be tested in order
+to improve methods of testing
+chips.
+Technology such as cellular
+phones, televisions and personal
+computers rely on semiconductors
+to produce chips for power. Ten
+years ago, chips relied on thou
+sands of transistors, which operat
+ed at a few million cycles per sec
+ond.
+Today's technology has given
+rise to chips that contain tens of
+millions of transistors and operate
+at hundreds of millions of cycles
+per second.
+These numbers will undoubted
+ly continue to climb in the future,
+which poses a serious problem for
+companies that want to weed out
+defective chips. In the past, the
+solution was to build bigger and
+faster testing devices. However,
+this has become extremely difficult
+and expensive.
+"When you manufacture chips
+... a lot of them are not good, and
+you have to identify the bad ones.
+There are different ways to do that,
+and they are all inadequate or too
+expensive," said center director
+and Electrical Engineering Prof.
+Edward McCluskey.
+McCluskey and electrical engi
+neering doctoral students Tsung-
+Yung Chang, Yi-Chin Chu and
+Sanjay Wattal have designed a chip
+whose sole purpose is to be tested
+in many different ways.
+The improved testing tech
+niques that the study finds should
+make it much easier for companies
+to spot defective chips in their
+products and reduce the strain on
+companies to build bigger and
+faster testers.
+
+According to McCluskey, sever
+al companies have already
+embraced the technology that
+resulted from a previous study of
+the same nature. Researchers can
+also use the center's experimental
+data to validate theoretical data.
+The circuits on the test chip are
+representative of what one would
+find on commercial circuits in
+order to make the tests more real
+istic and accurate. "We wanted to
+make the chip real," explained
+Chang. , „ - i »>
+One of the newer methods that
+computer chip manufacturers
+
+have designed to make chips oper
+ate faster is called deep submicron
+technology. It has presented a chal
+lenge for electronic testing tech
+niques.
+"People want to have faster
+chips, and the way to have a faster
+chip is to shrink the device," Chang
+said. "The other advantage is that
+there are more device [compo
+nents] on the chip so it's faster and
+denser."
+Another unique aspect of this
+research is the time response of
+chips.
+In the past, chips could contain
+
+defects as long as they weren't
+operated at very high speeds.
+McCluskey and his colleagues are
+incorporating time response as one
+of their testing methods. Other
+methods that they are examining
+include logic, memory, other mixed
+signal circuits and very low-voltage
+testing.
+The partnership between LSI
+Logic and Stanford is a unique
+relationship between industry
+and academia. After Chang and
+his team design the model, LSI
+Logic will manufacture the actual
+chip.
+
+
+Johnny Zannis — Daily
+With the explosive growth of the
+Internet and computer technolo
+gies in the last few years, computer
+chips are becoming faster and
+more complicated.
+Thus, it is becoming increasing
+ly difficult for manufacturers to
+locate defective chips in their prod
+ucts.
+That's why Stanford's Center
+for Reliable Computing and LSI
+Logic Corp. of Milpitas have joined
+forces on a three-year effort to
+design and build a chip with only
+one purpose: to be tested in order
+to improve methods of testing
+chips.
+Technology such as cellular
+phones, televisions and personal
+computers rely on semiconductors
+to produce chips for power. Ten
+years ago, chips relied on thou
+sands of transistors, which operat
+ed at a few million cycles per sec
+ond.
+Today's technology has given
+rise to chips that contain tens of
+millions of transistors and operate
+at hundreds of millions of cycles
+per second.
+These numbers will undoubted
+ly continue to climb in the future,
+which poses a serious problem for
+companies that want to weed out
+defective chips. In the past, the
+solution was to build bigger and
+faster testing devices. However,
+this has become extremely difficult
+and expensive.
+"When you manufacture chips
+... a lot of them are not good, and
+you have to identify the bad ones.
+There are different ways to do that,
+and they are all inadequate or too
+expensive," said center director
+and Electrical Engineering Prof.
+Edward McCluskey.
+McCluskey and electrical engi
+neering doctoral students Tsung-
+Yung Chang, Yi-Chin Chu and
+Sanjay Wattal have designed a chip
+whose sole purpose is to be tested
+in many different ways.
+The improved testing tech
+niques that the study finds should
+make it much easier for companies
+to spot defective chips in their
+products and reduce the strain on
+companies to build bigger and
+faster testers.
+
+According to McCluskey, sever
+al companies have already
+embraced the technology that
+resulted from a previous study of
+the same nature. Researchers can
+also use the center's experimental
+data to validate theoretical data.
+The circuits on the test chip are
+representative of what one would
+find on commercial circuits in
+order to make the tests more real
+istic and accurate. "We wanted to
+make the chip real," explained
+Chang. , „ - i »>
+One of the newer methods that
+computer chip manufacturers
+
+have designed to make chips oper
+ate faster is called deep submicron
+technology. It has presented a chal
+lenge for electronic testing tech
+niques.
+"People want to have faster
+chips, and the way to have a faster
+chip is to shrink the device," Chang
+said. "The other advantage is that
+there are more device [compo
+nents] on the chip so it's faster and
+denser."
+Another unique aspect of this
+research is the time response of
+chips.
+In the past, chips could contain
+
+defects as long as they weren't
+operated at very high speeds.
+McCluskey and his colleagues are
+incorporating time response as one
+of their testing methods. Other
+methods that they are examining
+include logic, memory, other mixed
+signal circuits and very low-voltage
+testing.
+The partnership between LSI
+Logic and Stanford is a unique
+relationship between industry
+and academia. After Chang and
+his team design the model, LSI
+Logic will manufacture the actual
+chip.
+
+
+Johnny Zannis — Daily
+With the explosive growth of the
+Internet and computer technolo
+gies in the last few years, computer
+chips are becoming faster and
+more complicated.
+Thus, it is becoming increasing
+ly difficult for manufacturers to
+locate defective chips in their prod
+ucts.
+That's why Stanford's Center
+for Reliable Computing and LSI
+Logic Corp. of Milpitas have joined
+forces on a three-year effort to
+design and build a chip with only
+one purpose: to be tested in order
+to improve methods of testing
+chips.
+Technology such as cellular
+phones, televisions and personal
+computers rely on semiconductors
+to produce chips for power. Ten
+years ago, chips relied on thou
+sands of transistors, which operat
+ed at a few million cycles per sec
+ond.
+Today's technology has given
+rise to chips that contain tens of
+millions of transistors and operate
+at hundreds of millions of cycles
+per second.
+These numbers will undoubted
+ly continue to climb in the future,
+which poses a serious problem for
+companies that want to weed out
+defective chips. In the past, the
+solution was to build bigger and
+faster testing devices. However,
+this has become extremely difficult
+and expensive.
+"When you manufacture chips
+... a lot of them are not good, and
+you have to identify the bad ones.
+There are different ways to do that,
+and they are all inadequate or too
+expensive," said center director
+and Electrical Engineering Prof.
+Edward McCluskey.
+McCluskey and electrical engi
+neering doctoral students Tsung-
+Yung Chang, Yi-Chin Chu and
+Sanjay Wattal have designed a chip
+whose sole purpose is to be tested
+in many different ways.
+The improved testing tech
+niques that the study finds should
+make it much easier for companies
+to spot defective chips in their
+products and reduce the strain on
+companies to build bigger and
+faster testers.
+
+According to McCluskey, sever
+al companies have already
+embraced the technology that
+resulted from a previous study of
+the same nature. Researchers can
+also use the center's experimental
+data to validate theoretical data.
+The circuits on the test chip are
+representative of what one would
+find on commercial circuits in
+order to make the tests more real
+istic and accurate. "We wanted to
+make the chip real," explained
+Chang. , „ - i »>
+One of the newer methods that
+computer chip manufacturers
+
+have designed to make chips oper
+ate faster is called deep submicron
+technology. It has presented a chal
+lenge for electronic testing tech
+niques.
+"People want to have faster
+chips, and the way to have a faster
+chip is to shrink the device," Chang
+said. "The other advantage is that
+there are more device [compo
+nents] on the chip so it's faster and
+denser."
+Another unique aspect of this
+research is the time response of
+chips.
+In the past, chips could contain
+
+defects as long as they weren't
+operated at very high speeds.
+McCluskey and his colleagues are
+incorporating time response as one
+of their testing methods. Other
+methods that they are examining
+include logic, memory, other mixed
+signal circuits and very low-voltage
+testing.
+The partnership between LSI
+Logic and Stanford is a unique
+relationship between industry
+and academia. After Chang and
+his team design the model, LSI
+Logic will manufacture the actual
+chip.
+
+
+Johnny Zannis — Daily
+With the explosive growth of the
+Internet and computer technolo
+gies in the last few years, computer
+chips are becoming faster and
+more complicated.
+Thus, it is becoming increasing
+ly difficult for manufacturers to
+locate defective chips in their prod
+ucts.
+That's why Stanford's Center
+for Reliable Computing and LSI
+Logic Corp. of Milpitas have joined
+forces on a three-year effort to
+design and build a chip with only
+one purpose: to be tested in order
+to improve methods of testing
+chips.
+Technology such as cellular
+phones, televisions and personal
+computers rely on semiconductors
+to produce chips for power. Ten
+years ago, chips relied on thou
+sands of transistors, which operat
+ed at a few million cycles per sec
+ond.
+Today's technology has given
+rise to chips that contain tens of
+millions of transistors and operate
+at hundreds of millions of cycles
+per second.
+These numbers will undoubted
+ly continue to climb in the future,
+which poses a serious problem for
+companies that want to weed out
+defective chips. In the past, the
+solution was to build bigger and
+faster testing devices. However,
+this has become extremely difficult
+and expensive.
+"When you manufacture chips
+... a lot of them are not good, and
+you have to identify the bad ones.
+There are different ways to do that,
+and they are all inadequate or too
+expensive," said center director
+and Electrical Engineering Prof.
+Edward McCluskey.
+McCluskey and electrical engi
+neering doctoral students Tsung-
+Yung Chang, Yi-Chin Chu and
+Sanjay Wattal have designed a chip
+whose sole purpose is to be tested
+in many different ways.
+The improved testing tech
+niques that the study finds should
+make it much easier for companies
+to spot defective chips in their
+products and reduce the strain on
+companies to build bigger and
+faster testers.
+
+According to McCluskey, sever
+al companies have already
+embraced the technology that
+resulted from a previous study of
+the same nature. Researchers can
+also use the center's experimental
+data to validate theoretical data.
+The circuits on the test chip are
+representative of what one would
+find on commercial circuits in
+order to make the tests more real
+istic and accurate. "We wanted to
+make the chip real," explained
+Chang. , „ - i »>
+One of the newer methods that
+computer chip manufacturers
+
+have designed to make chips oper
+ate faster is called deep submicron
+technology. It has presented a chal
+lenge for electronic testing tech
+niques.
+"People want to have faster
+chips, and the way to have a faster
+chip is to shrink the device," Chang
+said. "The other advantage is that
+there are more device [compo
+nents] on the chip so it's faster and
+denser."
+Another unique aspect of this
+research is the time response of
+chips.
+In the past, chips could contain
+
+defects as long as they weren't
+operated at very high speeds.
+McCluskey and his colleagues are
+incorporating time response as one
+of their testing methods. Other
+methods that they are examining
+include logic, memory, other mixed
+signal circuits and very low-voltage
+testing.
+The partnership between LSI
+Logic and Stanford is a unique
+relationship between industry
+and academia. After Chang and
+his team design the model, LSI
+Logic will manufacture the actual
+chip.
+
+
+Johnny Zannis — Daily
+With the explosive growth of the
+Internet and computer technolo
+gies in the last few years, computer
+chips are becoming faster and
+more complicated.
+Thus, it is becoming increasing
+ly difficult for manufacturers to
+locate defective chips in their prod
+ucts.
+That's why Stanford's Center
+for Reliable Computing and LSI
+Logic Corp. of Milpitas have joined
+forces on a three-year effort to
+design and build a chip with only
+one purpose: to be tested in order
+to improve methods of testing
+chips.
+Technology such as cellular
+phones, televisions and personal
+computers rely on semiconductors
+to produce chips for power. Ten
+years ago, chips relied on thou
+sands of transistors, which operat
+ed at a few million cycles per sec
+ond.
+Today's technology has given
+rise to chips that contain tens of
+millions of transistors and operate
+at hundreds of millions of cycles
+per second.
+These numbers will undoubted
+ly continue to climb in the future,
+which poses a serious problem for
+companies that want to weed out
+defective chips. In the past, the
+solution was to build bigger and
+faster testing devices. However,
+this has become extremely difficult
+and expensive.
+"When you manufacture chips
+... a lot of them are not good, and
+you have to identify the bad ones.
+There are different ways to do that,
+and they are all inadequate or too
+expensive," said center director
+and Electrical Engineering Prof.
+Edward McCluskey.
+McCluskey and electrical engi
+neering doctoral students Tsung-
+Yung Chang, Yi-Chin Chu and
+Sanjay Wattal have designed a chip
+whose sole purpose is to be tested
+in many different ways.
+The improved testing tech
+niques that the study finds should
+make it much easier for companies
+to spot defective chips in their
+products and reduce the strain on
+companies to build bigger and
+faster testers.
+
+According to McCluskey, sever
+al companies have already
+embraced the technology that
+resulted from a previous study of
+the same nature. Researchers can
+also use the center's experimental
+data to validate theoretical data.
+The circuits on the test chip are
+representative of what one would
+find on commercial circuits in
+order to make the tests more real
+istic and accurate. "We wanted to
+make the chip real," explained
+Chang. , „ - i »>
+One of the newer methods that
+computer chip manufacturers
+
+have designed to make chips oper
+ate faster is called deep submicron
+technology. It has presented a chal
+lenge for electronic testing tech
+niques.
+"People want to have faster
+chips, and the way to have a faster
+chip is to shrink the device," Chang
+said. "The other advantage is that
+there are more device [compo
+nents] on the chip so it's faster and
+denser."
+Another unique aspect of this
+research is the time response of
+chips.
+In the past, chips could contain
+
+defects as long as they weren't
+operated at very high speeds.
+McCluskey and his colleagues are
+incorporating time response as one
+of their testing methods. Other
+methods that they are examining
+include logic, memory, other mixed
+signal circuits and very low-voltage
+testing.
+The partnership between LSI
+Logic and Stanford is a unique
+relationship between industry
+and academia. After Chang and
+his team design the model, LSI
+Logic will manufacture the actual
+chip.
+
+
+Johnny Zannis — Daily

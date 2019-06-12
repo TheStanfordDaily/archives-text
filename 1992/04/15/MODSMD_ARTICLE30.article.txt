@@ -1,0 +1,1435 @@
+# Researchers find new way to check proofs
+## Conversion of proof into equation and graph makes small, hard-to-find errors obvious 
+### Ken Norman 
+A single misplaced equals sign can sabotage
+a 15,000 page mathematical proof, making the
+verification process very tedious — but in the
+last three years computer scientists have been
+investigating better ways to check theorems.
+The verification process involves checking
+that every statement in the proof follows logi
+cally from the statements before it.
+Stanford Computer Science Prof. Rajeev
+Motwani and postdoctoral student Shmuel
+Safra, along with colleagues at Berkeley,
+AT&T Bell Labs and other institutions, have
+helped to develop a method of recoding proofs
+which amplifies small, hard-to-find errors.
+After applying this method, if there is an
+error anywhere in the proof a sample of infor
+mation taken at random from the recoded
+proof will contain, with high probability, a
+noticeable error.
+Aside from the obvious practical benefits
+related to more efficient proof verification,
+this technique has already led to one of the
+most important findings in theoretical com
+puter science since 1971 — that for a certain
+set of very difficult problems, finding an
+approximate solution is just as hard as finding
+an exact solution.
+The initial success
+gives researchers hope
+that the techniques
+they developed will
+continue to yield both
+practical and theo
+retical benefits for
+decades
+
+The core of the
+recoding technique
+used to amplify small
+errors is the fact that
+any logical statement can be translated into a
+mathematical equation, and any mathemati
+cal equation can be graphed. For example, the
+logical statement "A is true or B is true" can
+be recoded into the mathematical equation,
+"(l-x)(l-y)=0", where x=l if A is true, and 0
+otherwise, and the same relationship holds
+between y and B.
+In a similar fashion, the entire logical
+structure of a proof can be recoded into a sin
+gle mathematical equation, and the equation
+can be graphed.
+Because all parts of the proof contribute to
+the mathematical equation, and all parts of the
+mathematical equation interact to determine
+the properties of the graph, an error anywhere
+in the proof will lead to inconsistencies in most
+of the mathematical properties of the graph.
+
+This technique has already
+led to one of the most
+important findings in theo
+retical computer science
+since 1971.
+
+These recoding techniques make it possible
+to ascertain the correctness of a proof by tak
+ing a random sample of information from the
+graph, rather than having to go through the
+proof line-by-line. In effect, the verification
+process is reduced to a game like twenty ques
+tions, whereby a verifier "asks questions"
+about the proof (by sampling data at random
+from the graph), and, on the basis of the
+answers to these questions, decides whether
+or not the proof is correct.
+This verification paradigm is called "inter
+active proving", as it can be seen as a dialogue
+between a verifier and an authority on the
+proof — the graph. The verifier's goal is to
+expose errors in proofs by getting the proof
+authority to "trip up" and give contradictory
+responses to the verifier's questions.
+Most recently, computer scientists have
+been experimenting with various specific tech
+niques of recoding and questioning in order to
+increase the efficiency with which they can
+unmask flawed proofs.
+The first major breakthrough in this area
+came in an as yet unpublished paper by Berke
+ley graduate student Sanjeev Arora and
+Shafra, which showed that a proof can be ver
+ified by only looking at a tiny proportion of the
+pieces of information it contains. For example,
+a proof 10 10 lines long
+can be verified with
+high accuracy by
+looking at a single
+line's worth of infor
+mation.
+Further progress
+came when a group of
+researchers, including
+Motwani, Arora, Berk-
+
+eley graduate student
+Madhu Sudan, and
+Drs. Carsten Lund and Mario Szegedy,
+researchers at AT&T Bell Labs, decided to
+focus on a set of very difficult mathematical
+problems called NP-complete problems.
+NP-complete problems are characterized by
+the fact that mathematicians have been unable
+to find a way of efficiently solving the problems,
+let alone proving that the solutions are correct.
+Perhaps the most infamous NP-complete prob
+lem is the travelling salesman problem, where
+a salesman has to find the most efficient way of
+visiting a large number of cities.
+If the number of cities is small, it is possible
+to simply consider all of the possible routes
+the salesman might take. But for a sufficient
+ly large number of cities, the number of routes
+is too large for even the most powerful com
+puter to exhaustively check.
+
+In 1971, it was proven that a tremendous
+range of mathematical problems are NP-com
+plete, and that a solution for one NP-complete
+problem would work for all NP-complete
+problems.
+
+In effect, the verification
+process is reduced to a game
+like twenty questions,
+whereby a verifier 'asks
+questions' about the proof.
+
+Motwani and his colleagues decided to see
+how efficient a proof verification technique they
+could get if they only considered proofs of solu
+tions to NP-complete problems. The results
+were startling: only a constant number of bits of
+information are needed to verify the correctness
+of a proof of a solution to an NP-complete prob
+lem, regardless of the length of the proof.
+This means that, once a proof is recoded
+properly, it is no harder to verify a 10,000-
+page proof than it is to verify a five-page proof.
+No one is quite sure what the lasting rami
+fications of these results will be. One unex
+pected result which has already come out of
+this research deals with the feasibility of find
+ing approximate solutions to certain NP-com
+plete problems.
+While efficient methods of finding approxi
+mate solutions have been found for some NP
+complete problems, like the travelling salesman
+problem, Motwani and his colleagues have
+shown that there are some NP-complete prob
+lems for which finding an approximate solution
+is just as hard as finding an exact solution.
+Specifically, they showed that it is an NP
+complete problem to determine how many of
+all the possible conversations between the ver
+ifier and the proof authority are satisfiable
+(that is, how many conversations don't neces
+sarily lead to a contradiction on the part of the
+proof authority).
+Due to the mathematical properties of the
+system, if it were possible to efficiently find an
+approximate solution to this type of NP-com
+plete problem, it would also be possible to effi
+ciently find exact solutions to the (also NP
+complete) problems whose solutions are being
+proved, so finding an approximate solution to
+this type of NP-complete problem is just as
+hard as finding an exact solution to any NP
+complete problem.
+A single misplaced equals sign can sabotage
+a 15,000 page mathematical proof, making the
+verification process very tedious — but in the
+last three years computer scientists have been
+investigating better ways to check theorems.
+The verification process involves checking
+that every statement in the proof follows logi
+cally from the statements before it.
+Stanford Computer Science Prof. Rajeev
+Motwani and postdoctoral student Shmuel
+Safra, along with colleagues at Berkeley,
+AT&T Bell Labs and other institutions, have
+helped to develop a method of recoding proofs
+which amplifies small, hard-to-find errors.
+After applying this method, if there is an
+error anywhere in the proof a sample of infor
+mation taken at random from the recoded
+proof will contain, with high probability, a
+noticeable error.
+Aside from the obvious practical benefits
+related to more efficient proof verification,
+this technique has already led to one of the
+most important findings in theoretical com
+puter science since 1971 — that for a certain
+set of very difficult problems, finding an
+approximate solution is just as hard as finding
+an exact solution.
+The initial success
+gives researchers hope
+that the techniques
+they developed will
+continue to yield both
+practical and theo
+retical benefits for
+decades
+
+The core of the
+recoding technique
+used to amplify small
+errors is the fact that
+any logical statement can be translated into a
+mathematical equation, and any mathemati
+cal equation can be graphed. For example, the
+logical statement "A is true or B is true" can
+be recoded into the mathematical equation,
+"(l-x)(l-y)=0", where x=l if A is true, and 0
+otherwise, and the same relationship holds
+between y and B.
+In a similar fashion, the entire logical
+structure of a proof can be recoded into a sin
+gle mathematical equation, and the equation
+can be graphed.
+Because all parts of the proof contribute to
+the mathematical equation, and all parts of the
+mathematical equation interact to determine
+the properties of the graph, an error anywhere
+in the proof will lead to inconsistencies in most
+of the mathematical properties of the graph.
+
+This technique has already
+led to one of the most
+important findings in theo
+retical computer science
+since 1971.
+
+These recoding techniques make it possible
+to ascertain the correctness of a proof by tak
+ing a random sample of information from the
+graph, rather than having to go through the
+proof line-by-line. In effect, the verification
+process is reduced to a game like twenty ques
+tions, whereby a verifier "asks questions"
+about the proof (by sampling data at random
+from the graph), and, on the basis of the
+answers to these questions, decides whether
+or not the proof is correct.
+This verification paradigm is called "inter
+active proving", as it can be seen as a dialogue
+between a verifier and an authority on the
+proof — the graph. The verifier's goal is to
+expose errors in proofs by getting the proof
+authority to "trip up" and give contradictory
+responses to the verifier's questions.
+Most recently, computer scientists have
+been experimenting with various specific tech
+niques of recoding and questioning in order to
+increase the efficiency with which they can
+unmask flawed proofs.
+The first major breakthrough in this area
+came in an as yet unpublished paper by Berke
+ley graduate student Sanjeev Arora and
+Shafra, which showed that a proof can be ver
+ified by only looking at a tiny proportion of the
+pieces of information it contains. For example,
+a proof 10 10 lines long
+can be verified with
+high accuracy by
+looking at a single
+line's worth of infor
+mation.
+Further progress
+came when a group of
+researchers, including
+Motwani, Arora, Berk-
+
+eley graduate student
+Madhu Sudan, and
+Drs. Carsten Lund and Mario Szegedy,
+researchers at AT&T Bell Labs, decided to
+focus on a set of very difficult mathematical
+problems called NP-complete problems.
+NP-complete problems are characterized by
+the fact that mathematicians have been unable
+to find a way of efficiently solving the problems,
+let alone proving that the solutions are correct.
+Perhaps the most infamous NP-complete prob
+lem is the travelling salesman problem, where
+a salesman has to find the most efficient way of
+visiting a large number of cities.
+If the number of cities is small, it is possible
+to simply consider all of the possible routes
+the salesman might take. But for a sufficient
+ly large number of cities, the number of routes
+is too large for even the most powerful com
+puter to exhaustively check.
+
+In 1971, it was proven that a tremendous
+range of mathematical problems are NP-com
+plete, and that a solution for one NP-complete
+problem would work for all NP-complete
+problems.
+
+In effect, the verification
+process is reduced to a game
+like twenty questions,
+whereby a verifier 'asks
+questions' about the proof.
+
+Motwani and his colleagues decided to see
+how efficient a proof verification technique they
+could get if they only considered proofs of solu
+tions to NP-complete problems. The results
+were startling: only a constant number of bits of
+information are needed to verify the correctness
+of a proof of a solution to an NP-complete prob
+lem, regardless of the length of the proof.
+This means that, once a proof is recoded
+properly, it is no harder to verify a 10,000-
+page proof than it is to verify a five-page proof.
+No one is quite sure what the lasting rami
+fications of these results will be. One unex
+pected result which has already come out of
+this research deals with the feasibility of find
+ing approximate solutions to certain NP-com
+plete problems.
+While efficient methods of finding approxi
+mate solutions have been found for some NP
+complete problems, like the travelling salesman
+problem, Motwani and his colleagues have
+shown that there are some NP-complete prob
+lems for which finding an approximate solution
+is just as hard as finding an exact solution.
+Specifically, they showed that it is an NP
+complete problem to determine how many of
+all the possible conversations between the ver
+ifier and the proof authority are satisfiable
+(that is, how many conversations don't neces
+sarily lead to a contradiction on the part of the
+proof authority).
+Due to the mathematical properties of the
+system, if it were possible to efficiently find an
+approximate solution to this type of NP-com
+plete problem, it would also be possible to effi
+ciently find exact solutions to the (also NP
+complete) problems whose solutions are being
+proved, so finding an approximate solution to
+this type of NP-complete problem is just as
+hard as finding an exact solution to any NP
+complete problem.
+A single misplaced equals sign can sabotage
+a 15,000 page mathematical proof, making the
+verification process very tedious — but in the
+last three years computer scientists have been
+investigating better ways to check theorems.
+The verification process involves checking
+that every statement in the proof follows logi
+cally from the statements before it.
+Stanford Computer Science Prof. Rajeev
+Motwani and postdoctoral student Shmuel
+Safra, along with colleagues at Berkeley,
+AT&T Bell Labs and other institutions, have
+helped to develop a method of recoding proofs
+which amplifies small, hard-to-find errors.
+After applying this method, if there is an
+error anywhere in the proof a sample of infor
+mation taken at random from the recoded
+proof will contain, with high probability, a
+noticeable error.
+Aside from the obvious practical benefits
+related to more efficient proof verification,
+this technique has already led to one of the
+most important findings in theoretical com
+puter science since 1971 — that for a certain
+set of very difficult problems, finding an
+approximate solution is just as hard as finding
+an exact solution.
+The initial success
+gives researchers hope
+that the techniques
+they developed will
+continue to yield both
+practical and theo
+retical benefits for
+decades
+
+The core of the
+recoding technique
+used to amplify small
+errors is the fact that
+any logical statement can be translated into a
+mathematical equation, and any mathemati
+cal equation can be graphed. For example, the
+logical statement "A is true or B is true" can
+be recoded into the mathematical equation,
+"(l-x)(l-y)=0", where x=l if A is true, and 0
+otherwise, and the same relationship holds
+between y and B.
+In a similar fashion, the entire logical
+structure of a proof can be recoded into a sin
+gle mathematical equation, and the equation
+can be graphed.
+Because all parts of the proof contribute to
+the mathematical equation, and all parts of the
+mathematical equation interact to determine
+the properties of the graph, an error anywhere
+in the proof will lead to inconsistencies in most
+of the mathematical properties of the graph.
+
+This technique has already
+led to one of the most
+important findings in theo
+retical computer science
+since 1971.
+
+These recoding techniques make it possible
+to ascertain the correctness of a proof by tak
+ing a random sample of information from the
+graph, rather than having to go through the
+proof line-by-line. In effect, the verification
+process is reduced to a game like twenty ques
+tions, whereby a verifier "asks questions"
+about the proof (by sampling data at random
+from the graph), and, on the basis of the
+answers to these questions, decides whether
+or not the proof is correct.
+This verification paradigm is called "inter
+active proving", as it can be seen as a dialogue
+between a verifier and an authority on the
+proof — the graph. The verifier's goal is to
+expose errors in proofs by getting the proof
+authority to "trip up" and give contradictory
+responses to the verifier's questions.
+Most recently, computer scientists have
+been experimenting with various specific tech
+niques of recoding and questioning in order to
+increase the efficiency with which they can
+unmask flawed proofs.
+The first major breakthrough in this area
+came in an as yet unpublished paper by Berke
+ley graduate student Sanjeev Arora and
+Shafra, which showed that a proof can be ver
+ified by only looking at a tiny proportion of the
+pieces of information it contains. For example,
+a proof 10 10 lines long
+can be verified with
+high accuracy by
+looking at a single
+line's worth of infor
+mation.
+Further progress
+came when a group of
+researchers, including
+Motwani, Arora, Berk-
+
+eley graduate student
+Madhu Sudan, and
+Drs. Carsten Lund and Mario Szegedy,
+researchers at AT&T Bell Labs, decided to
+focus on a set of very difficult mathematical
+problems called NP-complete problems.
+NP-complete problems are characterized by
+the fact that mathematicians have been unable
+to find a way of efficiently solving the problems,
+let alone proving that the solutions are correct.
+Perhaps the most infamous NP-complete prob
+lem is the travelling salesman problem, where
+a salesman has to find the most efficient way of
+visiting a large number of cities.
+If the number of cities is small, it is possible
+to simply consider all of the possible routes
+the salesman might take. But for a sufficient
+ly large number of cities, the number of routes
+is too large for even the most powerful com
+puter to exhaustively check.
+
+In 1971, it was proven that a tremendous
+range of mathematical problems are NP-com
+plete, and that a solution for one NP-complete
+problem would work for all NP-complete
+problems.
+
+In effect, the verification
+process is reduced to a game
+like twenty questions,
+whereby a verifier 'asks
+questions' about the proof.
+
+Motwani and his colleagues decided to see
+how efficient a proof verification technique they
+could get if they only considered proofs of solu
+tions to NP-complete problems. The results
+were startling: only a constant number of bits of
+information are needed to verify the correctness
+of a proof of a solution to an NP-complete prob
+lem, regardless of the length of the proof.
+This means that, once a proof is recoded
+properly, it is no harder to verify a 10,000-
+page proof than it is to verify a five-page proof.
+No one is quite sure what the lasting rami
+fications of these results will be. One unex
+pected result which has already come out of
+this research deals with the feasibility of find
+ing approximate solutions to certain NP-com
+plete problems.
+While efficient methods of finding approxi
+mate solutions have been found for some NP
+complete problems, like the travelling salesman
+problem, Motwani and his colleagues have
+shown that there are some NP-complete prob
+lems for which finding an approximate solution
+is just as hard as finding an exact solution.
+Specifically, they showed that it is an NP
+complete problem to determine how many of
+all the possible conversations between the ver
+ifier and the proof authority are satisfiable
+(that is, how many conversations don't neces
+sarily lead to a contradiction on the part of the
+proof authority).
+Due to the mathematical properties of the
+system, if it were possible to efficiently find an
+approximate solution to this type of NP-com
+plete problem, it would also be possible to effi
+ciently find exact solutions to the (also NP
+complete) problems whose solutions are being
+proved, so finding an approximate solution to
+this type of NP-complete problem is just as
+hard as finding an exact solution to any NP
+complete problem.
+A single misplaced equals sign can sabotage
+a 15,000 page mathematical proof, making the
+verification process very tedious — but in the
+last three years computer scientists have been
+investigating better ways to check theorems.
+The verification process involves checking
+that every statement in the proof follows logi
+cally from the statements before it.
+Stanford Computer Science Prof. Rajeev
+Motwani and postdoctoral student Shmuel
+Safra, along with colleagues at Berkeley,
+AT&T Bell Labs and other institutions, have
+helped to develop a method of recoding proofs
+which amplifies small, hard-to-find errors.
+After applying this method, if there is an
+error anywhere in the proof a sample of infor
+mation taken at random from the recoded
+proof will contain, with high probability, a
+noticeable error.
+Aside from the obvious practical benefits
+related to more efficient proof verification,
+this technique has already led to one of the
+most important findings in theoretical com
+puter science since 1971 — that for a certain
+set of very difficult problems, finding an
+approximate solution is just as hard as finding
+an exact solution.
+The initial success
+gives researchers hope
+that the techniques
+they developed will
+continue to yield both
+practical and theo
+retical benefits for
+decades
+
+The core of the
+recoding technique
+used to amplify small
+errors is the fact that
+any logical statement can be translated into a
+mathematical equation, and any mathemati
+cal equation can be graphed. For example, the
+logical statement "A is true or B is true" can
+be recoded into the mathematical equation,
+"(l-x)(l-y)=0", where x=l if A is true, and 0
+otherwise, and the same relationship holds
+between y and B.
+In a similar fashion, the entire logical
+structure of a proof can be recoded into a sin
+gle mathematical equation, and the equation
+can be graphed.
+Because all parts of the proof contribute to
+the mathematical equation, and all parts of the
+mathematical equation interact to determine
+the properties of the graph, an error anywhere
+in the proof will lead to inconsistencies in most
+of the mathematical properties of the graph.
+
+This technique has already
+led to one of the most
+important findings in theo
+retical computer science
+since 1971.
+
+These recoding techniques make it possible
+to ascertain the correctness of a proof by tak
+ing a random sample of information from the
+graph, rather than having to go through the
+proof line-by-line. In effect, the verification
+process is reduced to a game like twenty ques
+tions, whereby a verifier "asks questions"
+about the proof (by sampling data at random
+from the graph), and, on the basis of the
+answers to these questions, decides whether
+or not the proof is correct.
+This verification paradigm is called "inter
+active proving", as it can be seen as a dialogue
+between a verifier and an authority on the
+proof — the graph. The verifier's goal is to
+expose errors in proofs by getting the proof
+authority to "trip up" and give contradictory
+responses to the verifier's questions.
+Most recently, computer scientists have
+been experimenting with various specific tech
+niques of recoding and questioning in order to
+increase the efficiency with which they can
+unmask flawed proofs.
+The first major breakthrough in this area
+came in an as yet unpublished paper by Berke
+ley graduate student Sanjeev Arora and
+Shafra, which showed that a proof can be ver
+ified by only looking at a tiny proportion of the
+pieces of information it contains. For example,
+a proof 10 10 lines long
+can be verified with
+high accuracy by
+looking at a single
+line's worth of infor
+mation.
+Further progress
+came when a group of
+researchers, including
+Motwani, Arora, Berk-
+
+eley graduate student
+Madhu Sudan, and
+Drs. Carsten Lund and Mario Szegedy,
+researchers at AT&T Bell Labs, decided to
+focus on a set of very difficult mathematical
+problems called NP-complete problems.
+NP-complete problems are characterized by
+the fact that mathematicians have been unable
+to find a way of efficiently solving the problems,
+let alone proving that the solutions are correct.
+Perhaps the most infamous NP-complete prob
+lem is the travelling salesman problem, where
+a salesman has to find the most efficient way of
+visiting a large number of cities.
+If the number of cities is small, it is possible
+to simply consider all of the possible routes
+the salesman might take. But for a sufficient
+ly large number of cities, the number of routes
+is too large for even the most powerful com
+puter to exhaustively check.
+
+In 1971, it was proven that a tremendous
+range of mathematical problems are NP-com
+plete, and that a solution for one NP-complete
+problem would work for all NP-complete
+problems.
+
+In effect, the verification
+process is reduced to a game
+like twenty questions,
+whereby a verifier 'asks
+questions' about the proof.
+
+Motwani and his colleagues decided to see
+how efficient a proof verification technique they
+could get if they only considered proofs of solu
+tions to NP-complete problems. The results
+were startling: only a constant number of bits of
+information are needed to verify the correctness
+of a proof of a solution to an NP-complete prob
+lem, regardless of the length of the proof.
+This means that, once a proof is recoded
+properly, it is no harder to verify a 10,000-
+page proof than it is to verify a five-page proof.
+No one is quite sure what the lasting rami
+fications of these results will be. One unex
+pected result which has already come out of
+this research deals with the feasibility of find
+ing approximate solutions to certain NP-com
+plete problems.
+While efficient methods of finding approxi
+mate solutions have been found for some NP
+complete problems, like the travelling salesman
+problem, Motwani and his colleagues have
+shown that there are some NP-complete prob
+lems for which finding an approximate solution
+is just as hard as finding an exact solution.
+Specifically, they showed that it is an NP
+complete problem to determine how many of
+all the possible conversations between the ver
+ifier and the proof authority are satisfiable
+(that is, how many conversations don't neces
+sarily lead to a contradiction on the part of the
+proof authority).
+Due to the mathematical properties of the
+system, if it were possible to efficiently find an
+approximate solution to this type of NP-com
+plete problem, it would also be possible to effi
+ciently find exact solutions to the (also NP
+complete) problems whose solutions are being
+proved, so finding an approximate solution to
+this type of NP-complete problem is just as
+hard as finding an exact solution to any NP
+complete problem.
+A single misplaced equals sign can sabotage
+a 15,000 page mathematical proof, making the
+verification process very tedious — but in the
+last three years computer scientists have been
+investigating better ways to check theorems.
+The verification process involves checking
+that every statement in the proof follows logi
+cally from the statements before it.
+Stanford Computer Science Prof. Rajeev
+Motwani and postdoctoral student Shmuel
+Safra, along with colleagues at Berkeley,
+AT&T Bell Labs and other institutions, have
+helped to develop a method of recoding proofs
+which amplifies small, hard-to-find errors.
+After applying this method, if there is an
+error anywhere in the proof a sample of infor
+mation taken at random from the recoded
+proof will contain, with high probability, a
+noticeable error.
+Aside from the obvious practical benefits
+related to more efficient proof verification,
+this technique has already led to one of the
+most important findings in theoretical com
+puter science since 1971 — that for a certain
+set of very difficult problems, finding an
+approximate solution is just as hard as finding
+an exact solution.
+The initial success
+gives researchers hope
+that the techniques
+they developed will
+continue to yield both
+practical and theo
+retical benefits for
+decades
+
+The core of the
+recoding technique
+used to amplify small
+errors is the fact that
+any logical statement can be translated into a
+mathematical equation, and any mathemati
+cal equation can be graphed. For example, the
+logical statement "A is true or B is true" can
+be recoded into the mathematical equation,
+"(l-x)(l-y)=0", where x=l if A is true, and 0
+otherwise, and the same relationship holds
+between y and B.
+In a similar fashion, the entire logical
+structure of a proof can be recoded into a sin
+gle mathematical equation, and the equation
+can be graphed.
+Because all parts of the proof contribute to
+the mathematical equation, and all parts of the
+mathematical equation interact to determine
+the properties of the graph, an error anywhere
+in the proof will lead to inconsistencies in most
+of the mathematical properties of the graph.
+
+This technique has already
+led to one of the most
+important findings in theo
+retical computer science
+since 1971.
+
+These recoding techniques make it possible
+to ascertain the correctness of a proof by tak
+ing a random sample of information from the
+graph, rather than having to go through the
+proof line-by-line. In effect, the verification
+process is reduced to a game like twenty ques
+tions, whereby a verifier "asks questions"
+about the proof (by sampling data at random
+from the graph), and, on the basis of the
+answers to these questions, decides whether
+or not the proof is correct.
+This verification paradigm is called "inter
+active proving", as it can be seen as a dialogue
+between a verifier and an authority on the
+proof — the graph. The verifier's goal is to
+expose errors in proofs by getting the proof
+authority to "trip up" and give contradictory
+responses to the verifier's questions.
+Most recently, computer scientists have
+been experimenting with various specific tech
+niques of recoding and questioning in order to
+increase the efficiency with which they can
+unmask flawed proofs.
+The first major breakthrough in this area
+came in an as yet unpublished paper by Berke
+ley graduate student Sanjeev Arora and
+Shafra, which showed that a proof can be ver
+ified by only looking at a tiny proportion of the
+pieces of information it contains. For example,
+a proof 10 10 lines long
+can be verified with
+high accuracy by
+looking at a single
+line's worth of infor
+mation.
+Further progress
+came when a group of
+researchers, including
+Motwani, Arora, Berk-
+
+eley graduate student
+Madhu Sudan, and
+Drs. Carsten Lund and Mario Szegedy,
+researchers at AT&T Bell Labs, decided to
+focus on a set of very difficult mathematical
+problems called NP-complete problems.
+NP-complete problems are characterized by
+the fact that mathematicians have been unable
+to find a way of efficiently solving the problems,
+let alone proving that the solutions are correct.
+Perhaps the most infamous NP-complete prob
+lem is the travelling salesman problem, where
+a salesman has to find the most efficient way of
+visiting a large number of cities.
+If the number of cities is small, it is possible
+to simply consider all of the possible routes
+the salesman might take. But for a sufficient
+ly large number of cities, the number of routes
+is too large for even the most powerful com
+puter to exhaustively check.
+
+In 1971, it was proven that a tremendous
+range of mathematical problems are NP-com
+plete, and that a solution for one NP-complete
+problem would work for all NP-complete
+problems.
+
+In effect, the verification
+process is reduced to a game
+like twenty questions,
+whereby a verifier 'asks
+questions' about the proof.
+
+Motwani and his colleagues decided to see
+how efficient a proof verification technique they
+could get if they only considered proofs of solu
+tions to NP-complete problems. The results
+were startling: only a constant number of bits of
+information are needed to verify the correctness
+of a proof of a solution to an NP-complete prob
+lem, regardless of the length of the proof.
+This means that, once a proof is recoded
+properly, it is no harder to verify a 10,000-
+page proof than it is to verify a five-page proof.
+No one is quite sure what the lasting rami
+fications of these results will be. One unex
+pected result which has already come out of
+this research deals with the feasibility of find
+ing approximate solutions to certain NP-com
+plete problems.
+While efficient methods of finding approxi
+mate solutions have been found for some NP
+complete problems, like the travelling salesman
+problem, Motwani and his colleagues have
+shown that there are some NP-complete prob
+lems for which finding an approximate solution
+is just as hard as finding an exact solution.
+Specifically, they showed that it is an NP
+complete problem to determine how many of
+all the possible conversations between the ver
+ifier and the proof authority are satisfiable
+(that is, how many conversations don't neces
+sarily lead to a contradiction on the part of the
+proof authority).
+Due to the mathematical properties of the
+system, if it were possible to efficiently find an
+approximate solution to this type of NP-com
+plete problem, it would also be possible to effi
+ciently find exact solutions to the (also NP
+complete) problems whose solutions are being
+proved, so finding an approximate solution to
+this type of NP-complete problem is just as
+hard as finding an exact solution to any NP
+complete problem.
+A single misplaced equals sign can sabotage
+a 15,000 page mathematical proof, making the
+verification process very tedious — but in the
+last three years computer scientists have been
+investigating better ways to check theorems.
+The verification process involves checking
+that every statement in the proof follows logi
+cally from the statements before it.
+Stanford Computer Science Prof. Rajeev
+Motwani and postdoctoral student Shmuel
+Safra, along with colleagues at Berkeley,
+AT&T Bell Labs and other institutions, have
+helped to develop a method of recoding proofs
+which amplifies small, hard-to-find errors.
+After applying this method, if there is an
+error anywhere in the proof a sample of infor
+mation taken at random from the recoded
+proof will contain, with high probability, a
+noticeable error.
+Aside from the obvious practical benefits
+related to more efficient proof verification,
+this technique has already led to one of the
+most important findings in theoretical com
+puter science since 1971 — that for a certain
+set of very difficult problems, finding an
+approximate solution is just as hard as finding
+an exact solution.
+The initial success
+gives researchers hope
+that the techniques
+they developed will
+continue to yield both
+practical and theo
+retical benefits for
+decades
+
+The core of the
+recoding technique
+used to amplify small
+errors is the fact that
+any logical statement can be translated into a
+mathematical equation, and any mathemati
+cal equation can be graphed. For example, the
+logical statement "A is true or B is true" can
+be recoded into the mathematical equation,
+"(l-x)(l-y)=0", where x=l if A is true, and 0
+otherwise, and the same relationship holds
+between y and B.
+In a similar fashion, the entire logical
+structure of a proof can be recoded into a sin
+gle mathematical equation, and the equation
+can be graphed.
+Because all parts of the proof contribute to
+the mathematical equation, and all parts of the
+mathematical equation interact to determine
+the properties of the graph, an error anywhere
+in the proof will lead to inconsistencies in most
+of the mathematical properties of the graph.
+
+This technique has already
+led to one of the most
+important findings in theo
+retical computer science
+since 1971.
+
+These recoding techniques make it possible
+to ascertain the correctness of a proof by tak
+ing a random sample of information from the
+graph, rather than having to go through the
+proof line-by-line. In effect, the verification
+process is reduced to a game like twenty ques
+tions, whereby a verifier "asks questions"
+about the proof (by sampling data at random
+from the graph), and, on the basis of the
+answers to these questions, decides whether
+or not the proof is correct.
+This verification paradigm is called "inter
+active proving", as it can be seen as a dialogue
+between a verifier and an authority on the
+proof — the graph. The verifier's goal is to
+expose errors in proofs by getting the proof
+authority to "trip up" and give contradictory
+responses to the verifier's questions.
+Most recently, computer scientists have
+been experimenting with various specific tech
+niques of recoding and questioning in order to
+increase the efficiency with which they can
+unmask flawed proofs.
+The first major breakthrough in this area
+came in an as yet unpublished paper by Berke
+ley graduate student Sanjeev Arora and
+Shafra, which showed that a proof can be ver
+ified by only looking at a tiny proportion of the
+pieces of information it contains. For example,
+a proof 10 10 lines long
+can be verified with
+high accuracy by
+looking at a single
+line's worth of infor
+mation.
+Further progress
+came when a group of
+researchers, including
+Motwani, Arora, Berk-
+
+eley graduate student
+Madhu Sudan, and
+Drs. Carsten Lund and Mario Szegedy,
+researchers at AT&T Bell Labs, decided to
+focus on a set of very difficult mathematical
+problems called NP-complete problems.
+NP-complete problems are characterized by
+the fact that mathematicians have been unable
+to find a way of efficiently solving the problems,
+let alone proving that the solutions are correct.
+Perhaps the most infamous NP-complete prob
+lem is the travelling salesman problem, where
+a salesman has to find the most efficient way of
+visiting a large number of cities.
+If the number of cities is small, it is possible
+to simply consider all of the possible routes
+the salesman might take. But for a sufficient
+ly large number of cities, the number of routes
+is too large for even the most powerful com
+puter to exhaustively check.
+
+In 1971, it was proven that a tremendous
+range of mathematical problems are NP-com
+plete, and that a solution for one NP-complete
+problem would work for all NP-complete
+problems.
+
+In effect, the verification
+process is reduced to a game
+like twenty questions,
+whereby a verifier 'asks
+questions' about the proof.
+
+Motwani and his colleagues decided to see
+how efficient a proof verification technique they
+could get if they only considered proofs of solu
+tions to NP-complete problems. The results
+were startling: only a constant number of bits of
+information are needed to verify the correctness
+of a proof of a solution to an NP-complete prob
+lem, regardless of the length of the proof.
+This means that, once a proof is recoded
+properly, it is no harder to verify a 10,000-
+page proof than it is to verify a five-page proof.
+No one is quite sure what the lasting rami
+fications of these results will be. One unex
+pected result which has already come out of
+this research deals with the feasibility of find
+ing approximate solutions to certain NP-com
+plete problems.
+While efficient methods of finding approxi
+mate solutions have been found for some NP
+complete problems, like the travelling salesman
+problem, Motwani and his colleagues have
+shown that there are some NP-complete prob
+lems for which finding an approximate solution
+is just as hard as finding an exact solution.
+Specifically, they showed that it is an NP
+complete problem to determine how many of
+all the possible conversations between the ver
+ifier and the proof authority are satisfiable
+(that is, how many conversations don't neces
+sarily lead to a contradiction on the part of the
+proof authority).
+Due to the mathematical properties of the
+system, if it were possible to efficiently find an
+approximate solution to this type of NP-com
+plete problem, it would also be possible to effi
+ciently find exact solutions to the (also NP
+complete) problems whose solutions are being
+proved, so finding an approximate solution to
+this type of NP-complete problem is just as
+hard as finding an exact solution to any NP
+complete problem.
+A single misplaced equals sign can sabotage
+a 15,000 page mathematical proof, making the
+verification process very tedious — but in the
+last three years computer scientists have been
+investigating better ways to check theorems.
+The verification process involves checking
+that every statement in the proof follows logi
+cally from the statements before it.
+Stanford Computer Science Prof. Rajeev
+Motwani and postdoctoral student Shmuel
+Safra, along with colleagues at Berkeley,
+AT&T Bell Labs and other institutions, have
+helped to develop a method of recoding proofs
+which amplifies small, hard-to-find errors.
+After applying this method, if there is an
+error anywhere in the proof a sample of infor
+mation taken at random from the recoded
+proof will contain, with high probability, a
+noticeable error.
+Aside from the obvious practical benefits
+related to more efficient proof verification,
+this technique has already led to one of the
+most important findings in theoretical com
+puter science since 1971 — that for a certain
+set of very difficult problems, finding an
+approximate solution is just as hard as finding
+an exact solution.
+The initial success
+gives researchers hope
+that the techniques
+they developed will
+continue to yield both
+practical and theo
+retical benefits for
+decades
+
+The core of the
+recoding technique
+used to amplify small
+errors is the fact that
+any logical statement can be translated into a
+mathematical equation, and any mathemati
+cal equation can be graphed. For example, the
+logical statement "A is true or B is true" can
+be recoded into the mathematical equation,
+"(l-x)(l-y)=0", where x=l if A is true, and 0
+otherwise, and the same relationship holds
+between y and B.
+In a similar fashion, the entire logical
+structure of a proof can be recoded into a sin
+gle mathematical equation, and the equation
+can be graphed.
+Because all parts of the proof contribute to
+the mathematical equation, and all parts of the
+mathematical equation interact to determine
+the properties of the graph, an error anywhere
+in the proof will lead to inconsistencies in most
+of the mathematical properties of the graph.
+
+This technique has already
+led to one of the most
+important findings in theo
+retical computer science
+since 1971.
+
+These recoding techniques make it possible
+to ascertain the correctness of a proof by tak
+ing a random sample of information from the
+graph, rather than having to go through the
+proof line-by-line. In effect, the verification
+process is reduced to a game like twenty ques
+tions, whereby a verifier "asks questions"
+about the proof (by sampling data at random
+from the graph), and, on the basis of the
+answers to these questions, decides whether
+or not the proof is correct.
+This verification paradigm is called "inter
+active proving", as it can be seen as a dialogue
+between a verifier and an authority on the
+proof — the graph. The verifier's goal is to
+expose errors in proofs by getting the proof
+authority to "trip up" and give contradictory
+responses to the verifier's questions.
+Most recently, computer scientists have
+been experimenting with various specific tech
+niques of recoding and questioning in order to
+increase the efficiency with which they can
+unmask flawed proofs.
+The first major breakthrough in this area
+came in an as yet unpublished paper by Berke
+ley graduate student Sanjeev Arora and
+Shafra, which showed that a proof can be ver
+ified by only looking at a tiny proportion of the
+pieces of information it contains. For example,
+a proof 10 10 lines long
+can be verified with
+high accuracy by
+looking at a single
+line's worth of infor
+mation.
+Further progress
+came when a group of
+researchers, including
+Motwani, Arora, Berk-
+
+eley graduate student
+Madhu Sudan, and
+Drs. Carsten Lund and Mario Szegedy,
+researchers at AT&T Bell Labs, decided to
+focus on a set of very difficult mathematical
+problems called NP-complete problems.
+NP-complete problems are characterized by
+the fact that mathematicians have been unable
+to find a way of efficiently solving the problems,
+let alone proving that the solutions are correct.
+Perhaps the most infamous NP-complete prob
+lem is the travelling salesman problem, where
+a salesman has to find the most efficient way of
+visiting a large number of cities.
+If the number of cities is small, it is possible
+to simply consider all of the possible routes
+the salesman might take. But for a sufficient
+ly large number of cities, the number of routes
+is too large for even the most powerful com
+puter to exhaustively check.
+
+In 1971, it was proven that a tremendous
+range of mathematical problems are NP-com
+plete, and that a solution for one NP-complete
+problem would work for all NP-complete
+problems.
+
+In effect, the verification
+process is reduced to a game
+like twenty questions,
+whereby a verifier 'asks
+questions' about the proof.
+
+Motwani and his colleagues decided to see
+how efficient a proof verification technique they
+could get if they only considered proofs of solu
+tions to NP-complete problems. The results
+were startling: only a constant number of bits of
+information are needed to verify the correctness
+of a proof of a solution to an NP-complete prob
+lem, regardless of the length of the proof.
+This means that, once a proof is recoded
+properly, it is no harder to verify a 10,000-
+page proof than it is to verify a five-page proof.
+No one is quite sure what the lasting rami
+fications of these results will be. One unex
+pected result which has already come out of
+this research deals with the feasibility of find
+ing approximate solutions to certain NP-com
+plete problems.
+While efficient methods of finding approxi
+mate solutions have been found for some NP
+complete problems, like the travelling salesman
+problem, Motwani and his colleagues have
+shown that there are some NP-complete prob
+lems for which finding an approximate solution
+is just as hard as finding an exact solution.
+Specifically, they showed that it is an NP
+complete problem to determine how many of
+all the possible conversations between the ver
+ifier and the proof authority are satisfiable
+(that is, how many conversations don't neces
+sarily lead to a contradiction on the part of the
+proof authority).
+Due to the mathematical properties of the
+system, if it were possible to efficiently find an
+approximate solution to this type of NP-com
+plete problem, it would also be possible to effi
+ciently find exact solutions to the (also NP
+complete) problems whose solutions are being
+proved, so finding an approximate solution to
+this type of NP-complete problem is just as
+hard as finding an exact solution to any NP
+complete problem.
+A single misplaced equals sign can sabotage
+a 15,000 page mathematical proof, making the
+verification process very tedious — but in the
+last three years computer scientists have been
+investigating better ways to check theorems.
+The verification process involves checking
+that every statement in the proof follows logi
+cally from the statements before it.
+Stanford Computer Science Prof. Rajeev
+Motwani and postdoctoral student Shmuel
+Safra, along with colleagues at Berkeley,
+AT&T Bell Labs and other institutions, have
+helped to develop a method of recoding proofs
+which amplifies small, hard-to-find errors.
+After applying this method, if there is an
+error anywhere in the proof a sample of infor
+mation taken at random from the recoded
+proof will contain, with high probability, a
+noticeable error.
+Aside from the obvious practical benefits
+related to more efficient proof verification,
+this technique has already led to one of the
+most important findings in theoretical com
+puter science since 1971 — that for a certain
+set of very difficult problems, finding an
+approximate solution is just as hard as finding
+an exact solution.
+The initial success
+gives researchers hope
+that the techniques
+they developed will
+continue to yield both
+practical and theo
+retical benefits for
+decades
+
+The core of the
+recoding technique
+used to amplify small
+errors is the fact that
+any logical statement can be translated into a
+mathematical equation, and any mathemati
+cal equation can be graphed. For example, the
+logical statement "A is true or B is true" can
+be recoded into the mathematical equation,
+"(l-x)(l-y)=0", where x=l if A is true, and 0
+otherwise, and the same relationship holds
+between y and B.
+In a similar fashion, the entire logical
+structure of a proof can be recoded into a sin
+gle mathematical equation, and the equation
+can be graphed.
+Because all parts of the proof contribute to
+the mathematical equation, and all parts of the
+mathematical equation interact to determine
+the properties of the graph, an error anywhere
+in the proof will lead to inconsistencies in most
+of the mathematical properties of the graph.
+
+This technique has already
+led to one of the most
+important findings in theo
+retical computer science
+since 1971.
+
+These recoding techniques make it possible
+to ascertain the correctness of a proof by tak
+ing a random sample of information from the
+graph, rather than having to go through the
+proof line-by-line. In effect, the verification
+process is reduced to a game like twenty ques
+tions, whereby a verifier "asks questions"
+about the proof (by sampling data at random
+from the graph), and, on the basis of the
+answers to these questions, decides whether
+or not the proof is correct.
+This verification paradigm is called "inter
+active proving", as it can be seen as a dialogue
+between a verifier and an authority on the
+proof — the graph. The verifier's goal is to
+expose errors in proofs by getting the proof
+authority to "trip up" and give contradictory
+responses to the verifier's questions.
+Most recently, computer scientists have
+been experimenting with various specific tech
+niques of recoding and questioning in order to
+increase the efficiency with which they can
+unmask flawed proofs.
+The first major breakthrough in this area
+came in an as yet unpublished paper by Berke
+ley graduate student Sanjeev Arora and
+Shafra, which showed that a proof can be ver
+ified by only looking at a tiny proportion of the
+pieces of information it contains. For example,
+a proof 10 10 lines long
+can be verified with
+high accuracy by
+looking at a single
+line's worth of infor
+mation.
+Further progress
+came when a group of
+researchers, including
+Motwani, Arora, Berk-
+
+eley graduate student
+Madhu Sudan, and
+Drs. Carsten Lund and Mario Szegedy,
+researchers at AT&T Bell Labs, decided to
+focus on a set of very difficult mathematical
+problems called NP-complete problems.
+NP-complete problems are characterized by
+the fact that mathematicians have been unable
+to find a way of efficiently solving the problems,
+let alone proving that the solutions are correct.
+Perhaps the most infamous NP-complete prob
+lem is the travelling salesman problem, where
+a salesman has to find the most efficient way of
+visiting a large number of cities.
+If the number of cities is small, it is possible
+to simply consider all of the possible routes
+the salesman might take. But for a sufficient
+ly large number of cities, the number of routes
+is too large for even the most powerful com
+puter to exhaustively check.
+
+In 1971, it was proven that a tremendous
+range of mathematical problems are NP-com
+plete, and that a solution for one NP-complete
+problem would work for all NP-complete
+problems.
+
+In effect, the verification
+process is reduced to a game
+like twenty questions,
+whereby a verifier 'asks
+questions' about the proof.
+
+Motwani and his colleagues decided to see
+how efficient a proof verification technique they
+could get if they only considered proofs of solu
+tions to NP-complete problems. The results
+were startling: only a constant number of bits of
+information are needed to verify the correctness
+of a proof of a solution to an NP-complete prob
+lem, regardless of the length of the proof.
+This means that, once a proof is recoded
+properly, it is no harder to verify a 10,000-
+page proof than it is to verify a five-page proof.
+No one is quite sure what the lasting rami
+fications of these results will be. One unex
+pected result which has already come out of
+this research deals with the feasibility of find
+ing approximate solutions to certain NP-com
+plete problems.
+While efficient methods of finding approxi
+mate solutions have been found for some NP
+complete problems, like the travelling salesman
+problem, Motwani and his colleagues have
+shown that there are some NP-complete prob
+lems for which finding an approximate solution
+is just as hard as finding an exact solution.
+Specifically, they showed that it is an NP
+complete problem to determine how many of
+all the possible conversations between the ver
+ifier and the proof authority are satisfiable
+(that is, how many conversations don't neces
+sarily lead to a contradiction on the part of the
+proof authority).
+Due to the mathematical properties of the
+system, if it were possible to efficiently find an
+approximate solution to this type of NP-com
+plete problem, it would also be possible to effi
+ciently find exact solutions to the (also NP
+complete) problems whose solutions are being
+proved, so finding an approximate solution to
+this type of NP-complete problem is just as
+hard as finding an exact solution to any NP
+complete problem.

@@ -1,0 +1,934 @@
+# Artificial intelligence put to practical use
+## Computer science class applies robots to everyday tasks 
+### Carrie Chang 
+No, they aren't walking gar
+bage cans.
+But these 3-foot cylindrical
+creatures might someday be the
+ones to take out your trash. Or
+lug your groceries to the front
+door. Or maybe even fry up a
+tasty omelette and deliver it to
+your bed in the morning.
+Meet Karel the Robot in 3-D.
+Unlike its on-screen counterpart,
+however, these machines can do a
+lot more than pick up beepers and
+run through mazes. These
+"agents," the subjects of a com
+puter science course being offered
+this quarter, come equipped with
+sensors that allow them to assess
+their environments and alter
+their operations accordingly.
+"Artificial intelligence for the
+past few decades has been con
+cerned primarily with very brainy
+
+
+Mimi Kuo — Daily
+Robotics entrepreneur David Zhu, left, and Computer Science Prof. Mike Genesereth pose with Nomad
+and Vagabond, two robots to be used in an innovative class offered this fall.
+things, like how to make
+machines play chess or prove
+mathematical theorems. There's
+been very little connection
+between very high-level reasoning
+and work that has been going on
+in controlling machinery,"
+explained Prof. Mike Genesereth,
+who teaches the Computer Sci
+ence 222.
+In its second year of being
+offered, CS 222 studies an emerg
+ing field of research which marries
+the "brainy" aspect of artificial
+intelligence to the area of robotics,
+which has been traditionally more
+concerned with separate issues,
+such as modeling the geometry of
+the world. The merging of these
+polar aspects of artificial intelli
+gence and robotics research stems
+from a mutual need between the
+two fields.
+"Two or three years ago, a
+number of people in the robotics
+world were finding that they could
+not program the robots as effi
+ciently as they would like to. Sim
+ilarly, in the (artificial intelli
+gence) world there has been the
+need for realistic applications,"
+
+said Genesereth.
+As a result of integrating the two
+disciplines, new perspectives on
+problems are emerging.
+"We find that many problems
+become easier when you look at
+the use of the brain to control the
+physical machine. By actually hav
+ing physical sensors, you can sim
+ply (solve) some of the problems
+that arise in high-level cognition,
+and solve problems that we
+couldn't solve before," he added.
+Various problems with issues
+such as cooperation, competition,
+planning and decision-making are
+tackled in the class both on a the
+oretical basis as well as in actual
+application in the optional lab sec
+tion.
+Students program robots to do
+various tasks such as building box
+assemblies and mapping out the
+floors of a room using agents built
+by Nomadic, a Palo Alto robotics
+company founded by former Stan
+ford students David Zhu and Jim
+Slater.
+One student in last year's class
+went so far as to choreograph a
+dance to Beethoven's Minuet in G
+for his robot to perform.
+As a final project for this quar
+ter, the class will culminate in a
+robot race that will span the path
+ways of Memorial Court.
+
+How does the robot know
+where it's going?
+"Each Nomad comes equipped
+with a set of sensors which can
+detect how far away an object is,"
+said Zhu. "Some sensors rely on
+sonar to measure distance while
+others use infrared light." Stu
+dents can simulate how the robot
+will behave in its environment on
+a Macintosh computer.
+"This class is the only one that
+makes robots directly available to
+students with almost no prerequi
+sites," said Genesereth, who rec
+ommends CSIO6 plus a basic
+understanding of Lisp as prepara
+tion for the course.
+One of the opportunities being
+explored for further artificial
+intelligence research is a project
+called Design World, in which
+robots assemble electronic equip
+ment like compact disc players
+when given instructions on a
+workstation. Also underway are
+plans to have robots construct a
+building on campus in five years.
+According to Genesereth, "In
+the future, you can imagine there
+will be autonomous vehicles, pilot
+less airplanes and ships, and robot
+couriers which run to the book
+store and back."
+Better warn the robot couriers
+about the monster lines, though.
+No, they aren't walking gar
+bage cans.
+But these 3-foot cylindrical
+creatures might someday be the
+ones to take out your trash. Or
+lug your groceries to the front
+door. Or maybe even fry up a
+tasty omelette and deliver it to
+your bed in the morning.
+Meet Karel the Robot in 3-D.
+Unlike its on-screen counterpart,
+however, these machines can do a
+lot more than pick up beepers and
+run through mazes. These
+"agents," the subjects of a com
+puter science course being offered
+this quarter, come equipped with
+sensors that allow them to assess
+their environments and alter
+their operations accordingly.
+"Artificial intelligence for the
+past few decades has been con
+cerned primarily with very brainy
+
+
+Mimi Kuo — Daily
+Robotics entrepreneur David Zhu, left, and Computer Science Prof. Mike Genesereth pose with Nomad
+and Vagabond, two robots to be used in an innovative class offered this fall.
+things, like how to make
+machines play chess or prove
+mathematical theorems. There's
+been very little connection
+between very high-level reasoning
+and work that has been going on
+in controlling machinery,"
+explained Prof. Mike Genesereth,
+who teaches the Computer Sci
+ence 222.
+In its second year of being
+offered, CS 222 studies an emerg
+ing field of research which marries
+the "brainy" aspect of artificial
+intelligence to the area of robotics,
+which has been traditionally more
+concerned with separate issues,
+such as modeling the geometry of
+the world. The merging of these
+polar aspects of artificial intelli
+gence and robotics research stems
+from a mutual need between the
+two fields.
+"Two or three years ago, a
+number of people in the robotics
+world were finding that they could
+not program the robots as effi
+ciently as they would like to. Sim
+ilarly, in the (artificial intelli
+gence) world there has been the
+need for realistic applications,"
+
+said Genesereth.
+As a result of integrating the two
+disciplines, new perspectives on
+problems are emerging.
+"We find that many problems
+become easier when you look at
+the use of the brain to control the
+physical machine. By actually hav
+ing physical sensors, you can sim
+ply (solve) some of the problems
+that arise in high-level cognition,
+and solve problems that we
+couldn't solve before," he added.
+Various problems with issues
+such as cooperation, competition,
+planning and decision-making are
+tackled in the class both on a the
+oretical basis as well as in actual
+application in the optional lab sec
+tion.
+Students program robots to do
+various tasks such as building box
+assemblies and mapping out the
+floors of a room using agents built
+by Nomadic, a Palo Alto robotics
+company founded by former Stan
+ford students David Zhu and Jim
+Slater.
+One student in last year's class
+went so far as to choreograph a
+dance to Beethoven's Minuet in G
+for his robot to perform.
+As a final project for this quar
+ter, the class will culminate in a
+robot race that will span the path
+ways of Memorial Court.
+
+How does the robot know
+where it's going?
+"Each Nomad comes equipped
+with a set of sensors which can
+detect how far away an object is,"
+said Zhu. "Some sensors rely on
+sonar to measure distance while
+others use infrared light." Stu
+dents can simulate how the robot
+will behave in its environment on
+a Macintosh computer.
+"This class is the only one that
+makes robots directly available to
+students with almost no prerequi
+sites," said Genesereth, who rec
+ommends CSIO6 plus a basic
+understanding of Lisp as prepara
+tion for the course.
+One of the opportunities being
+explored for further artificial
+intelligence research is a project
+called Design World, in which
+robots assemble electronic equip
+ment like compact disc players
+when given instructions on a
+workstation. Also underway are
+plans to have robots construct a
+building on campus in five years.
+According to Genesereth, "In
+the future, you can imagine there
+will be autonomous vehicles, pilot
+less airplanes and ships, and robot
+couriers which run to the book
+store and back."
+Better warn the robot couriers
+about the monster lines, though.
+No, they aren't walking gar
+bage cans.
+But these 3-foot cylindrical
+creatures might someday be the
+ones to take out your trash. Or
+lug your groceries to the front
+door. Or maybe even fry up a
+tasty omelette and deliver it to
+your bed in the morning.
+Meet Karel the Robot in 3-D.
+Unlike its on-screen counterpart,
+however, these machines can do a
+lot more than pick up beepers and
+run through mazes. These
+"agents," the subjects of a com
+puter science course being offered
+this quarter, come equipped with
+sensors that allow them to assess
+their environments and alter
+their operations accordingly.
+"Artificial intelligence for the
+past few decades has been con
+cerned primarily with very brainy
+
+
+Mimi Kuo — Daily
+Robotics entrepreneur David Zhu, left, and Computer Science Prof. Mike Genesereth pose with Nomad
+and Vagabond, two robots to be used in an innovative class offered this fall.
+things, like how to make
+machines play chess or prove
+mathematical theorems. There's
+been very little connection
+between very high-level reasoning
+and work that has been going on
+in controlling machinery,"
+explained Prof. Mike Genesereth,
+who teaches the Computer Sci
+ence 222.
+In its second year of being
+offered, CS 222 studies an emerg
+ing field of research which marries
+the "brainy" aspect of artificial
+intelligence to the area of robotics,
+which has been traditionally more
+concerned with separate issues,
+such as modeling the geometry of
+the world. The merging of these
+polar aspects of artificial intelli
+gence and robotics research stems
+from a mutual need between the
+two fields.
+"Two or three years ago, a
+number of people in the robotics
+world were finding that they could
+not program the robots as effi
+ciently as they would like to. Sim
+ilarly, in the (artificial intelli
+gence) world there has been the
+need for realistic applications,"
+
+said Genesereth.
+As a result of integrating the two
+disciplines, new perspectives on
+problems are emerging.
+"We find that many problems
+become easier when you look at
+the use of the brain to control the
+physical machine. By actually hav
+ing physical sensors, you can sim
+ply (solve) some of the problems
+that arise in high-level cognition,
+and solve problems that we
+couldn't solve before," he added.
+Various problems with issues
+such as cooperation, competition,
+planning and decision-making are
+tackled in the class both on a the
+oretical basis as well as in actual
+application in the optional lab sec
+tion.
+Students program robots to do
+various tasks such as building box
+assemblies and mapping out the
+floors of a room using agents built
+by Nomadic, a Palo Alto robotics
+company founded by former Stan
+ford students David Zhu and Jim
+Slater.
+One student in last year's class
+went so far as to choreograph a
+dance to Beethoven's Minuet in G
+for his robot to perform.
+As a final project for this quar
+ter, the class will culminate in a
+robot race that will span the path
+ways of Memorial Court.
+
+How does the robot know
+where it's going?
+"Each Nomad comes equipped
+with a set of sensors which can
+detect how far away an object is,"
+said Zhu. "Some sensors rely on
+sonar to measure distance while
+others use infrared light." Stu
+dents can simulate how the robot
+will behave in its environment on
+a Macintosh computer.
+"This class is the only one that
+makes robots directly available to
+students with almost no prerequi
+sites," said Genesereth, who rec
+ommends CSIO6 plus a basic
+understanding of Lisp as prepara
+tion for the course.
+One of the opportunities being
+explored for further artificial
+intelligence research is a project
+called Design World, in which
+robots assemble electronic equip
+ment like compact disc players
+when given instructions on a
+workstation. Also underway are
+plans to have robots construct a
+building on campus in five years.
+According to Genesereth, "In
+the future, you can imagine there
+will be autonomous vehicles, pilot
+less airplanes and ships, and robot
+couriers which run to the book
+store and back."
+Better warn the robot couriers
+about the monster lines, though.
+No, they aren't walking gar
+bage cans.
+But these 3-foot cylindrical
+creatures might someday be the
+ones to take out your trash. Or
+lug your groceries to the front
+door. Or maybe even fry up a
+tasty omelette and deliver it to
+your bed in the morning.
+Meet Karel the Robot in 3-D.
+Unlike its on-screen counterpart,
+however, these machines can do a
+lot more than pick up beepers and
+run through mazes. These
+"agents," the subjects of a com
+puter science course being offered
+this quarter, come equipped with
+sensors that allow them to assess
+their environments and alter
+their operations accordingly.
+"Artificial intelligence for the
+past few decades has been con
+cerned primarily with very brainy
+
+
+Mimi Kuo — Daily
+Robotics entrepreneur David Zhu, left, and Computer Science Prof. Mike Genesereth pose with Nomad
+and Vagabond, two robots to be used in an innovative class offered this fall.
+things, like how to make
+machines play chess or prove
+mathematical theorems. There's
+been very little connection
+between very high-level reasoning
+and work that has been going on
+in controlling machinery,"
+explained Prof. Mike Genesereth,
+who teaches the Computer Sci
+ence 222.
+In its second year of being
+offered, CS 222 studies an emerg
+ing field of research which marries
+the "brainy" aspect of artificial
+intelligence to the area of robotics,
+which has been traditionally more
+concerned with separate issues,
+such as modeling the geometry of
+the world. The merging of these
+polar aspects of artificial intelli
+gence and robotics research stems
+from a mutual need between the
+two fields.
+"Two or three years ago, a
+number of people in the robotics
+world were finding that they could
+not program the robots as effi
+ciently as they would like to. Sim
+ilarly, in the (artificial intelli
+gence) world there has been the
+need for realistic applications,"
+
+said Genesereth.
+As a result of integrating the two
+disciplines, new perspectives on
+problems are emerging.
+"We find that many problems
+become easier when you look at
+the use of the brain to control the
+physical machine. By actually hav
+ing physical sensors, you can sim
+ply (solve) some of the problems
+that arise in high-level cognition,
+and solve problems that we
+couldn't solve before," he added.
+Various problems with issues
+such as cooperation, competition,
+planning and decision-making are
+tackled in the class both on a the
+oretical basis as well as in actual
+application in the optional lab sec
+tion.
+Students program robots to do
+various tasks such as building box
+assemblies and mapping out the
+floors of a room using agents built
+by Nomadic, a Palo Alto robotics
+company founded by former Stan
+ford students David Zhu and Jim
+Slater.
+One student in last year's class
+went so far as to choreograph a
+dance to Beethoven's Minuet in G
+for his robot to perform.
+As a final project for this quar
+ter, the class will culminate in a
+robot race that will span the path
+ways of Memorial Court.
+
+How does the robot know
+where it's going?
+"Each Nomad comes equipped
+with a set of sensors which can
+detect how far away an object is,"
+said Zhu. "Some sensors rely on
+sonar to measure distance while
+others use infrared light." Stu
+dents can simulate how the robot
+will behave in its environment on
+a Macintosh computer.
+"This class is the only one that
+makes robots directly available to
+students with almost no prerequi
+sites," said Genesereth, who rec
+ommends CSIO6 plus a basic
+understanding of Lisp as prepara
+tion for the course.
+One of the opportunities being
+explored for further artificial
+intelligence research is a project
+called Design World, in which
+robots assemble electronic equip
+ment like compact disc players
+when given instructions on a
+workstation. Also underway are
+plans to have robots construct a
+building on campus in five years.
+According to Genesereth, "In
+the future, you can imagine there
+will be autonomous vehicles, pilot
+less airplanes and ships, and robot
+couriers which run to the book
+store and back."
+Better warn the robot couriers
+about the monster lines, though.
+No, they aren't walking gar
+bage cans.
+But these 3-foot cylindrical
+creatures might someday be the
+ones to take out your trash. Or
+lug your groceries to the front
+door. Or maybe even fry up a
+tasty omelette and deliver it to
+your bed in the morning.
+Meet Karel the Robot in 3-D.
+Unlike its on-screen counterpart,
+however, these machines can do a
+lot more than pick up beepers and
+run through mazes. These
+"agents," the subjects of a com
+puter science course being offered
+this quarter, come equipped with
+sensors that allow them to assess
+their environments and alter
+their operations accordingly.
+"Artificial intelligence for the
+past few decades has been con
+cerned primarily with very brainy
+
+
+Mimi Kuo — Daily
+Robotics entrepreneur David Zhu, left, and Computer Science Prof. Mike Genesereth pose with Nomad
+and Vagabond, two robots to be used in an innovative class offered this fall.
+things, like how to make
+machines play chess or prove
+mathematical theorems. There's
+been very little connection
+between very high-level reasoning
+and work that has been going on
+in controlling machinery,"
+explained Prof. Mike Genesereth,
+who teaches the Computer Sci
+ence 222.
+In its second year of being
+offered, CS 222 studies an emerg
+ing field of research which marries
+the "brainy" aspect of artificial
+intelligence to the area of robotics,
+which has been traditionally more
+concerned with separate issues,
+such as modeling the geometry of
+the world. The merging of these
+polar aspects of artificial intelli
+gence and robotics research stems
+from a mutual need between the
+two fields.
+"Two or three years ago, a
+number of people in the robotics
+world were finding that they could
+not program the robots as effi
+ciently as they would like to. Sim
+ilarly, in the (artificial intelli
+gence) world there has been the
+need for realistic applications,"
+
+said Genesereth.
+As a result of integrating the two
+disciplines, new perspectives on
+problems are emerging.
+"We find that many problems
+become easier when you look at
+the use of the brain to control the
+physical machine. By actually hav
+ing physical sensors, you can sim
+ply (solve) some of the problems
+that arise in high-level cognition,
+and solve problems that we
+couldn't solve before," he added.
+Various problems with issues
+such as cooperation, competition,
+planning and decision-making are
+tackled in the class both on a the
+oretical basis as well as in actual
+application in the optional lab sec
+tion.
+Students program robots to do
+various tasks such as building box
+assemblies and mapping out the
+floors of a room using agents built
+by Nomadic, a Palo Alto robotics
+company founded by former Stan
+ford students David Zhu and Jim
+Slater.
+One student in last year's class
+went so far as to choreograph a
+dance to Beethoven's Minuet in G
+for his robot to perform.
+As a final project for this quar
+ter, the class will culminate in a
+robot race that will span the path
+ways of Memorial Court.
+
+How does the robot know
+where it's going?
+"Each Nomad comes equipped
+with a set of sensors which can
+detect how far away an object is,"
+said Zhu. "Some sensors rely on
+sonar to measure distance while
+others use infrared light." Stu
+dents can simulate how the robot
+will behave in its environment on
+a Macintosh computer.
+"This class is the only one that
+makes robots directly available to
+students with almost no prerequi
+sites," said Genesereth, who rec
+ommends CSIO6 plus a basic
+understanding of Lisp as prepara
+tion for the course.
+One of the opportunities being
+explored for further artificial
+intelligence research is a project
+called Design World, in which
+robots assemble electronic equip
+ment like compact disc players
+when given instructions on a
+workstation. Also underway are
+plans to have robots construct a
+building on campus in five years.
+According to Genesereth, "In
+the future, you can imagine there
+will be autonomous vehicles, pilot
+less airplanes and ships, and robot
+couriers which run to the book
+store and back."
+Better warn the robot couriers
+about the monster lines, though.
+No, they aren't walking gar
+bage cans.
+But these 3-foot cylindrical
+creatures might someday be the
+ones to take out your trash. Or
+lug your groceries to the front
+door. Or maybe even fry up a
+tasty omelette and deliver it to
+your bed in the morning.
+Meet Karel the Robot in 3-D.
+Unlike its on-screen counterpart,
+however, these machines can do a
+lot more than pick up beepers and
+run through mazes. These
+"agents," the subjects of a com
+puter science course being offered
+this quarter, come equipped with
+sensors that allow them to assess
+their environments and alter
+their operations accordingly.
+"Artificial intelligence for the
+past few decades has been con
+cerned primarily with very brainy
+
+
+Mimi Kuo — Daily
+Robotics entrepreneur David Zhu, left, and Computer Science Prof. Mike Genesereth pose with Nomad
+and Vagabond, two robots to be used in an innovative class offered this fall.
+things, like how to make
+machines play chess or prove
+mathematical theorems. There's
+been very little connection
+between very high-level reasoning
+and work that has been going on
+in controlling machinery,"
+explained Prof. Mike Genesereth,
+who teaches the Computer Sci
+ence 222.
+In its second year of being
+offered, CS 222 studies an emerg
+ing field of research which marries
+the "brainy" aspect of artificial
+intelligence to the area of robotics,
+which has been traditionally more
+concerned with separate issues,
+such as modeling the geometry of
+the world. The merging of these
+polar aspects of artificial intelli
+gence and robotics research stems
+from a mutual need between the
+two fields.
+"Two or three years ago, a
+number of people in the robotics
+world were finding that they could
+not program the robots as effi
+ciently as they would like to. Sim
+ilarly, in the (artificial intelli
+gence) world there has been the
+need for realistic applications,"
+
+said Genesereth.
+As a result of integrating the two
+disciplines, new perspectives on
+problems are emerging.
+"We find that many problems
+become easier when you look at
+the use of the brain to control the
+physical machine. By actually hav
+ing physical sensors, you can sim
+ply (solve) some of the problems
+that arise in high-level cognition,
+and solve problems that we
+couldn't solve before," he added.
+Various problems with issues
+such as cooperation, competition,
+planning and decision-making are
+tackled in the class both on a the
+oretical basis as well as in actual
+application in the optional lab sec
+tion.
+Students program robots to do
+various tasks such as building box
+assemblies and mapping out the
+floors of a room using agents built
+by Nomadic, a Palo Alto robotics
+company founded by former Stan
+ford students David Zhu and Jim
+Slater.
+One student in last year's class
+went so far as to choreograph a
+dance to Beethoven's Minuet in G
+for his robot to perform.
+As a final project for this quar
+ter, the class will culminate in a
+robot race that will span the path
+ways of Memorial Court.
+
+How does the robot know
+where it's going?
+"Each Nomad comes equipped
+with a set of sensors which can
+detect how far away an object is,"
+said Zhu. "Some sensors rely on
+sonar to measure distance while
+others use infrared light." Stu
+dents can simulate how the robot
+will behave in its environment on
+a Macintosh computer.
+"This class is the only one that
+makes robots directly available to
+students with almost no prerequi
+sites," said Genesereth, who rec
+ommends CSIO6 plus a basic
+understanding of Lisp as prepara
+tion for the course.
+One of the opportunities being
+explored for further artificial
+intelligence research is a project
+called Design World, in which
+robots assemble electronic equip
+ment like compact disc players
+when given instructions on a
+workstation. Also underway are
+plans to have robots construct a
+building on campus in five years.
+According to Genesereth, "In
+the future, you can imagine there
+will be autonomous vehicles, pilot
+less airplanes and ships, and robot
+couriers which run to the book
+store and back."
+Better warn the robot couriers
+about the monster lines, though.
+No, they aren't walking gar
+bage cans.
+But these 3-foot cylindrical
+creatures might someday be the
+ones to take out your trash. Or
+lug your groceries to the front
+door. Or maybe even fry up a
+tasty omelette and deliver it to
+your bed in the morning.
+Meet Karel the Robot in 3-D.
+Unlike its on-screen counterpart,
+however, these machines can do a
+lot more than pick up beepers and
+run through mazes. These
+"agents," the subjects of a com
+puter science course being offered
+this quarter, come equipped with
+sensors that allow them to assess
+their environments and alter
+their operations accordingly.
+"Artificial intelligence for the
+past few decades has been con
+cerned primarily with very brainy
+
+
+Mimi Kuo — Daily
+Robotics entrepreneur David Zhu, left, and Computer Science Prof. Mike Genesereth pose with Nomad
+and Vagabond, two robots to be used in an innovative class offered this fall.
+things, like how to make
+machines play chess or prove
+mathematical theorems. There's
+been very little connection
+between very high-level reasoning
+and work that has been going on
+in controlling machinery,"
+explained Prof. Mike Genesereth,
+who teaches the Computer Sci
+ence 222.
+In its second year of being
+offered, CS 222 studies an emerg
+ing field of research which marries
+the "brainy" aspect of artificial
+intelligence to the area of robotics,
+which has been traditionally more
+concerned with separate issues,
+such as modeling the geometry of
+the world. The merging of these
+polar aspects of artificial intelli
+gence and robotics research stems
+from a mutual need between the
+two fields.
+"Two or three years ago, a
+number of people in the robotics
+world were finding that they could
+not program the robots as effi
+ciently as they would like to. Sim
+ilarly, in the (artificial intelli
+gence) world there has been the
+need for realistic applications,"
+
+said Genesereth.
+As a result of integrating the two
+disciplines, new perspectives on
+problems are emerging.
+"We find that many problems
+become easier when you look at
+the use of the brain to control the
+physical machine. By actually hav
+ing physical sensors, you can sim
+ply (solve) some of the problems
+that arise in high-level cognition,
+and solve problems that we
+couldn't solve before," he added.
+Various problems with issues
+such as cooperation, competition,
+planning and decision-making are
+tackled in the class both on a the
+oretical basis as well as in actual
+application in the optional lab sec
+tion.
+Students program robots to do
+various tasks such as building box
+assemblies and mapping out the
+floors of a room using agents built
+by Nomadic, a Palo Alto robotics
+company founded by former Stan
+ford students David Zhu and Jim
+Slater.
+One student in last year's class
+went so far as to choreograph a
+dance to Beethoven's Minuet in G
+for his robot to perform.
+As a final project for this quar
+ter, the class will culminate in a
+robot race that will span the path
+ways of Memorial Court.
+
+How does the robot know
+where it's going?
+"Each Nomad comes equipped
+with a set of sensors which can
+detect how far away an object is,"
+said Zhu. "Some sensors rely on
+sonar to measure distance while
+others use infrared light." Stu
+dents can simulate how the robot
+will behave in its environment on
+a Macintosh computer.
+"This class is the only one that
+makes robots directly available to
+students with almost no prerequi
+sites," said Genesereth, who rec
+ommends CSIO6 plus a basic
+understanding of Lisp as prepara
+tion for the course.
+One of the opportunities being
+explored for further artificial
+intelligence research is a project
+called Design World, in which
+robots assemble electronic equip
+ment like compact disc players
+when given instructions on a
+workstation. Also underway are
+plans to have robots construct a
+building on campus in five years.
+According to Genesereth, "In
+the future, you can imagine there
+will be autonomous vehicles, pilot
+less airplanes and ships, and robot
+couriers which run to the book
+store and back."
+Better warn the robot couriers
+about the monster lines, though.

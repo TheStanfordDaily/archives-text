@@ -1,0 +1,1155 @@
+# Finding inner peace, one server at a time
+## 
+### 
+Placing documents on the Web isn't just
+for computer geeks.
+Here at Stanford, each student has his or
+her own plot of cyberspace, so everyone can
+back up work, transfer large files or set up a
+Web site. This week's column shows you
+how to take advantage of this Stanford serv
+er space.
+You Got Served
+When you surf the Web. you are actually
+connecting to hundreds of different com
+puters across the world. Each time you visit
+a Web site, a computer on the other end
+grumbles, spins its hard drive and coughs up
+the Web page you requested .These comput
+ers are called servers and their job is to host
+files, both public and private.
+Servers provide a home for your data
+that is more reliable and more accessible
+than a finicky desktop. Everyone would be
+using servers if it weren't for their cost.
+While companies like godaddy.com sell
+server space — called "hosting" — starting
+at about $10a month. Stanford students can
+use University servers for free.
+Stanford's servers lie deep within the re
+cesses of Sweet Hall's second floor. They
+stay on day and night, amidst bleary-eyed
+computer science majors and leftover cans
+of Mountain Dew. These servers have
+names like "elaine," "cardinal" and "fire
+bird" and they share the load of Stanford's
+
+distributed file system, known as Andrew
+File System (AFS).
+Hook Me Up
+All students have 200 megabytes of free
+space waiting for them on AFS.and they can
+access their space by downloading a free file
+transfer client.
+For Windows, download either Secure-
+FX (go to http://ess.stanford.edu) or Win-
+SCP (visit http://winscp.net).
+Mac users should get either Fetch (free
+— visit http://ess.stanford.edu) or Fugu
+from the University of Michigan. Fugu is
+available at http://rsug.itd.umich.ed/soft
+woare/fugu/.
+All four programs are similar and allow
+you to drag files back and forth between
+your local computer and your server space.
+SecureFX and Fetch are nice because they
+are preconfigured to work on Stanford's
+servers. Although WinSCP and Fugu must
+be manually configured, I recommend them
+
+because they come with more bells and
+whistles.
+When using any of these programs, look
+for the "Host:" prompt and enter "cardi
+nal.stanford.edu." At the "User:" prompt
+enter your SUNet ID. Be sure to select ei
+ther the "SCP", "SFTP" or "SSH" option.
+This guarantees that you will use a secure
+protocol to transfer your files instead of the
+obsolete and insecure "FTP" protocol.
+See http://ess.stanford.edu for more spe
+cific instructions.
+Dude, Where's My Data?
+Once you have connected, you will see a
+window with the files in your remote folder.
+You can make new folders, drag items over
+or delete items. Everyone starts with a
+WWW folder. Anything placed in this fold
+er will automatically show up online at
+http://www.stanford.edu/~YourSUNetID/,
+where it can be downloaded from any Web
+browser.
+Stanford also provides Mac-Leland and
+PC-Leland. which are designed to mount
+your server space locally. I recommend
+sticking to a file-transfer client, as they are
+less buggy and more versatile.
+A word of caution: Stanford servers are a
+bad place for private documents. Don't up
+load sensitive data, or, at the very least,
+place it in the "Private" folder.
+Lastly, while you're on campus, your
+server space follows you. Any computer
+
+cluster on campus will give you direct access
+to your server space, even without a client.
+Live the Good Life
+Now it is time to put that server space to
+good use. Back up important essays or proj
+ects to the Web as you compose them. This
+way, should your computer spontaneously
+hurst into flames, at least your grades won't
+suffer.
+Instead of e-mailing massive photos to
+your friends, put them on your Weh space.
+Adobe Photoshop will even generate a photo
+gallery that you can place in your "WWW"
+folder, as junior Adam Sadovsky demon
+strates at http://stanford.edu/~sadovsky/pho
+tography.
+Next time you're giving a PowerPoint
+presentation in class, play it safe and back it
+up online. Now. if something goes wrong in
+class, you can download another copy from
+the Web.
+And if you're working from a computer
+cluster, always save your work online so you
+can continue where you left off.
+200 megabytes is ample space to suit
+your needs. Take advantage of the comput
+er resources that Stanford has to offer and
+never be without your data again.
+
+Andrew Leifer is a junior studying physics
+and is founder of Boulder Computing.com. a
+small computer consulting firm. E-mail him
+at andrew. leifer@Stanford. Edu
+
+
+Andrew
+Leifer
+Tech Talk
+Placing documents on the Web isn't just
+for computer geeks.
+Here at Stanford, each student has his or
+her own plot of cyberspace, so everyone can
+back up work, transfer large files or set up a
+Web site. This week's column shows you
+how to take advantage of this Stanford serv
+er space.
+You Got Served
+When you surf the Web. you are actually
+connecting to hundreds of different com
+puters across the world. Each time you visit
+a Web site, a computer on the other end
+grumbles, spins its hard drive and coughs up
+the Web page you requested .These comput
+ers are called servers and their job is to host
+files, both public and private.
+Servers provide a home for your data
+that is more reliable and more accessible
+than a finicky desktop. Everyone would be
+using servers if it weren't for their cost.
+While companies like godaddy.com sell
+server space — called "hosting" — starting
+at about $10a month. Stanford students can
+use University servers for free.
+Stanford's servers lie deep within the re
+cesses of Sweet Hall's second floor. They
+stay on day and night, amidst bleary-eyed
+computer science majors and leftover cans
+of Mountain Dew. These servers have
+names like "elaine," "cardinal" and "fire
+bird" and they share the load of Stanford's
+
+distributed file system, known as Andrew
+File System (AFS).
+Hook Me Up
+All students have 200 megabytes of free
+space waiting for them on AFS.and they can
+access their space by downloading a free file
+transfer client.
+For Windows, download either Secure-
+FX (go to http://ess.stanford.edu) or Win-
+SCP (visit http://winscp.net).
+Mac users should get either Fetch (free
+— visit http://ess.stanford.edu) or Fugu
+from the University of Michigan. Fugu is
+available at http://rsug.itd.umich.ed/soft
+woare/fugu/.
+All four programs are similar and allow
+you to drag files back and forth between
+your local computer and your server space.
+SecureFX and Fetch are nice because they
+are preconfigured to work on Stanford's
+servers. Although WinSCP and Fugu must
+be manually configured, I recommend them
+
+because they come with more bells and
+whistles.
+When using any of these programs, look
+for the "Host:" prompt and enter "cardi
+nal.stanford.edu." At the "User:" prompt
+enter your SUNet ID. Be sure to select ei
+ther the "SCP", "SFTP" or "SSH" option.
+This guarantees that you will use a secure
+protocol to transfer your files instead of the
+obsolete and insecure "FTP" protocol.
+See http://ess.stanford.edu for more spe
+cific instructions.
+Dude, Where's My Data?
+Once you have connected, you will see a
+window with the files in your remote folder.
+You can make new folders, drag items over
+or delete items. Everyone starts with a
+WWW folder. Anything placed in this fold
+er will automatically show up online at
+http://www.stanford.edu/~YourSUNetID/,
+where it can be downloaded from any Web
+browser.
+Stanford also provides Mac-Leland and
+PC-Leland. which are designed to mount
+your server space locally. I recommend
+sticking to a file-transfer client, as they are
+less buggy and more versatile.
+A word of caution: Stanford servers are a
+bad place for private documents. Don't up
+load sensitive data, or, at the very least,
+place it in the "Private" folder.
+Lastly, while you're on campus, your
+server space follows you. Any computer
+
+cluster on campus will give you direct access
+to your server space, even without a client.
+Live the Good Life
+Now it is time to put that server space to
+good use. Back up important essays or proj
+ects to the Web as you compose them. This
+way, should your computer spontaneously
+hurst into flames, at least your grades won't
+suffer.
+Instead of e-mailing massive photos to
+your friends, put them on your Weh space.
+Adobe Photoshop will even generate a photo
+gallery that you can place in your "WWW"
+folder, as junior Adam Sadovsky demon
+strates at http://stanford.edu/~sadovsky/pho
+tography.
+Next time you're giving a PowerPoint
+presentation in class, play it safe and back it
+up online. Now. if something goes wrong in
+class, you can download another copy from
+the Web.
+And if you're working from a computer
+cluster, always save your work online so you
+can continue where you left off.
+200 megabytes is ample space to suit
+your needs. Take advantage of the comput
+er resources that Stanford has to offer and
+never be without your data again.
+
+Andrew Leifer is a junior studying physics
+and is founder of Boulder Computing.com. a
+small computer consulting firm. E-mail him
+at andrew. leifer@Stanford. Edu
+
+
+Andrew
+Leifer
+Tech Talk
+Placing documents on the Web isn't just
+for computer geeks.
+Here at Stanford, each student has his or
+her own plot of cyberspace, so everyone can
+back up work, transfer large files or set up a
+Web site. This week's column shows you
+how to take advantage of this Stanford serv
+er space.
+You Got Served
+When you surf the Web. you are actually
+connecting to hundreds of different com
+puters across the world. Each time you visit
+a Web site, a computer on the other end
+grumbles, spins its hard drive and coughs up
+the Web page you requested .These comput
+ers are called servers and their job is to host
+files, both public and private.
+Servers provide a home for your data
+that is more reliable and more accessible
+than a finicky desktop. Everyone would be
+using servers if it weren't for their cost.
+While companies like godaddy.com sell
+server space — called "hosting" — starting
+at about $10a month. Stanford students can
+use University servers for free.
+Stanford's servers lie deep within the re
+cesses of Sweet Hall's second floor. They
+stay on day and night, amidst bleary-eyed
+computer science majors and leftover cans
+of Mountain Dew. These servers have
+names like "elaine," "cardinal" and "fire
+bird" and they share the load of Stanford's
+
+distributed file system, known as Andrew
+File System (AFS).
+Hook Me Up
+All students have 200 megabytes of free
+space waiting for them on AFS.and they can
+access their space by downloading a free file
+transfer client.
+For Windows, download either Secure-
+FX (go to http://ess.stanford.edu) or Win-
+SCP (visit http://winscp.net).
+Mac users should get either Fetch (free
+— visit http://ess.stanford.edu) or Fugu
+from the University of Michigan. Fugu is
+available at http://rsug.itd.umich.ed/soft
+woare/fugu/.
+All four programs are similar and allow
+you to drag files back and forth between
+your local computer and your server space.
+SecureFX and Fetch are nice because they
+are preconfigured to work on Stanford's
+servers. Although WinSCP and Fugu must
+be manually configured, I recommend them
+
+because they come with more bells and
+whistles.
+When using any of these programs, look
+for the "Host:" prompt and enter "cardi
+nal.stanford.edu." At the "User:" prompt
+enter your SUNet ID. Be sure to select ei
+ther the "SCP", "SFTP" or "SSH" option.
+This guarantees that you will use a secure
+protocol to transfer your files instead of the
+obsolete and insecure "FTP" protocol.
+See http://ess.stanford.edu for more spe
+cific instructions.
+Dude, Where's My Data?
+Once you have connected, you will see a
+window with the files in your remote folder.
+You can make new folders, drag items over
+or delete items. Everyone starts with a
+WWW folder. Anything placed in this fold
+er will automatically show up online at
+http://www.stanford.edu/~YourSUNetID/,
+where it can be downloaded from any Web
+browser.
+Stanford also provides Mac-Leland and
+PC-Leland. which are designed to mount
+your server space locally. I recommend
+sticking to a file-transfer client, as they are
+less buggy and more versatile.
+A word of caution: Stanford servers are a
+bad place for private documents. Don't up
+load sensitive data, or, at the very least,
+place it in the "Private" folder.
+Lastly, while you're on campus, your
+server space follows you. Any computer
+
+cluster on campus will give you direct access
+to your server space, even without a client.
+Live the Good Life
+Now it is time to put that server space to
+good use. Back up important essays or proj
+ects to the Web as you compose them. This
+way, should your computer spontaneously
+hurst into flames, at least your grades won't
+suffer.
+Instead of e-mailing massive photos to
+your friends, put them on your Weh space.
+Adobe Photoshop will even generate a photo
+gallery that you can place in your "WWW"
+folder, as junior Adam Sadovsky demon
+strates at http://stanford.edu/~sadovsky/pho
+tography.
+Next time you're giving a PowerPoint
+presentation in class, play it safe and back it
+up online. Now. if something goes wrong in
+class, you can download another copy from
+the Web.
+And if you're working from a computer
+cluster, always save your work online so you
+can continue where you left off.
+200 megabytes is ample space to suit
+your needs. Take advantage of the comput
+er resources that Stanford has to offer and
+never be without your data again.
+
+Andrew Leifer is a junior studying physics
+and is founder of Boulder Computing.com. a
+small computer consulting firm. E-mail him
+at andrew. leifer@Stanford. Edu
+
+
+Andrew
+Leifer
+Tech Talk
+Placing documents on the Web isn't just
+for computer geeks.
+Here at Stanford, each student has his or
+her own plot of cyberspace, so everyone can
+back up work, transfer large files or set up a
+Web site. This week's column shows you
+how to take advantage of this Stanford serv
+er space.
+You Got Served
+When you surf the Web. you are actually
+connecting to hundreds of different com
+puters across the world. Each time you visit
+a Web site, a computer on the other end
+grumbles, spins its hard drive and coughs up
+the Web page you requested .These comput
+ers are called servers and their job is to host
+files, both public and private.
+Servers provide a home for your data
+that is more reliable and more accessible
+than a finicky desktop. Everyone would be
+using servers if it weren't for their cost.
+While companies like godaddy.com sell
+server space — called "hosting" — starting
+at about $10a month. Stanford students can
+use University servers for free.
+Stanford's servers lie deep within the re
+cesses of Sweet Hall's second floor. They
+stay on day and night, amidst bleary-eyed
+computer science majors and leftover cans
+of Mountain Dew. These servers have
+names like "elaine," "cardinal" and "fire
+bird" and they share the load of Stanford's
+
+distributed file system, known as Andrew
+File System (AFS).
+Hook Me Up
+All students have 200 megabytes of free
+space waiting for them on AFS.and they can
+access their space by downloading a free file
+transfer client.
+For Windows, download either Secure-
+FX (go to http://ess.stanford.edu) or Win-
+SCP (visit http://winscp.net).
+Mac users should get either Fetch (free
+— visit http://ess.stanford.edu) or Fugu
+from the University of Michigan. Fugu is
+available at http://rsug.itd.umich.ed/soft
+woare/fugu/.
+All four programs are similar and allow
+you to drag files back and forth between
+your local computer and your server space.
+SecureFX and Fetch are nice because they
+are preconfigured to work on Stanford's
+servers. Although WinSCP and Fugu must
+be manually configured, I recommend them
+
+because they come with more bells and
+whistles.
+When using any of these programs, look
+for the "Host:" prompt and enter "cardi
+nal.stanford.edu." At the "User:" prompt
+enter your SUNet ID. Be sure to select ei
+ther the "SCP", "SFTP" or "SSH" option.
+This guarantees that you will use a secure
+protocol to transfer your files instead of the
+obsolete and insecure "FTP" protocol.
+See http://ess.stanford.edu for more spe
+cific instructions.
+Dude, Where's My Data?
+Once you have connected, you will see a
+window with the files in your remote folder.
+You can make new folders, drag items over
+or delete items. Everyone starts with a
+WWW folder. Anything placed in this fold
+er will automatically show up online at
+http://www.stanford.edu/~YourSUNetID/,
+where it can be downloaded from any Web
+browser.
+Stanford also provides Mac-Leland and
+PC-Leland. which are designed to mount
+your server space locally. I recommend
+sticking to a file-transfer client, as they are
+less buggy and more versatile.
+A word of caution: Stanford servers are a
+bad place for private documents. Don't up
+load sensitive data, or, at the very least,
+place it in the "Private" folder.
+Lastly, while you're on campus, your
+server space follows you. Any computer
+
+cluster on campus will give you direct access
+to your server space, even without a client.
+Live the Good Life
+Now it is time to put that server space to
+good use. Back up important essays or proj
+ects to the Web as you compose them. This
+way, should your computer spontaneously
+hurst into flames, at least your grades won't
+suffer.
+Instead of e-mailing massive photos to
+your friends, put them on your Weh space.
+Adobe Photoshop will even generate a photo
+gallery that you can place in your "WWW"
+folder, as junior Adam Sadovsky demon
+strates at http://stanford.edu/~sadovsky/pho
+tography.
+Next time you're giving a PowerPoint
+presentation in class, play it safe and back it
+up online. Now. if something goes wrong in
+class, you can download another copy from
+the Web.
+And if you're working from a computer
+cluster, always save your work online so you
+can continue where you left off.
+200 megabytes is ample space to suit
+your needs. Take advantage of the comput
+er resources that Stanford has to offer and
+never be without your data again.
+
+Andrew Leifer is a junior studying physics
+and is founder of Boulder Computing.com. a
+small computer consulting firm. E-mail him
+at andrew. leifer@Stanford. Edu
+
+
+Andrew
+Leifer
+Tech Talk
+Placing documents on the Web isn't just
+for computer geeks.
+Here at Stanford, each student has his or
+her own plot of cyberspace, so everyone can
+back up work, transfer large files or set up a
+Web site. This week's column shows you
+how to take advantage of this Stanford serv
+er space.
+You Got Served
+When you surf the Web. you are actually
+connecting to hundreds of different com
+puters across the world. Each time you visit
+a Web site, a computer on the other end
+grumbles, spins its hard drive and coughs up
+the Web page you requested .These comput
+ers are called servers and their job is to host
+files, both public and private.
+Servers provide a home for your data
+that is more reliable and more accessible
+than a finicky desktop. Everyone would be
+using servers if it weren't for their cost.
+While companies like godaddy.com sell
+server space — called "hosting" — starting
+at about $10a month. Stanford students can
+use University servers for free.
+Stanford's servers lie deep within the re
+cesses of Sweet Hall's second floor. They
+stay on day and night, amidst bleary-eyed
+computer science majors and leftover cans
+of Mountain Dew. These servers have
+names like "elaine," "cardinal" and "fire
+bird" and they share the load of Stanford's
+
+distributed file system, known as Andrew
+File System (AFS).
+Hook Me Up
+All students have 200 megabytes of free
+space waiting for them on AFS.and they can
+access their space by downloading a free file
+transfer client.
+For Windows, download either Secure-
+FX (go to http://ess.stanford.edu) or Win-
+SCP (visit http://winscp.net).
+Mac users should get either Fetch (free
+— visit http://ess.stanford.edu) or Fugu
+from the University of Michigan. Fugu is
+available at http://rsug.itd.umich.ed/soft
+woare/fugu/.
+All four programs are similar and allow
+you to drag files back and forth between
+your local computer and your server space.
+SecureFX and Fetch are nice because they
+are preconfigured to work on Stanford's
+servers. Although WinSCP and Fugu must
+be manually configured, I recommend them
+
+because they come with more bells and
+whistles.
+When using any of these programs, look
+for the "Host:" prompt and enter "cardi
+nal.stanford.edu." At the "User:" prompt
+enter your SUNet ID. Be sure to select ei
+ther the "SCP", "SFTP" or "SSH" option.
+This guarantees that you will use a secure
+protocol to transfer your files instead of the
+obsolete and insecure "FTP" protocol.
+See http://ess.stanford.edu for more spe
+cific instructions.
+Dude, Where's My Data?
+Once you have connected, you will see a
+window with the files in your remote folder.
+You can make new folders, drag items over
+or delete items. Everyone starts with a
+WWW folder. Anything placed in this fold
+er will automatically show up online at
+http://www.stanford.edu/~YourSUNetID/,
+where it can be downloaded from any Web
+browser.
+Stanford also provides Mac-Leland and
+PC-Leland. which are designed to mount
+your server space locally. I recommend
+sticking to a file-transfer client, as they are
+less buggy and more versatile.
+A word of caution: Stanford servers are a
+bad place for private documents. Don't up
+load sensitive data, or, at the very least,
+place it in the "Private" folder.
+Lastly, while you're on campus, your
+server space follows you. Any computer
+
+cluster on campus will give you direct access
+to your server space, even without a client.
+Live the Good Life
+Now it is time to put that server space to
+good use. Back up important essays or proj
+ects to the Web as you compose them. This
+way, should your computer spontaneously
+hurst into flames, at least your grades won't
+suffer.
+Instead of e-mailing massive photos to
+your friends, put them on your Weh space.
+Adobe Photoshop will even generate a photo
+gallery that you can place in your "WWW"
+folder, as junior Adam Sadovsky demon
+strates at http://stanford.edu/~sadovsky/pho
+tography.
+Next time you're giving a PowerPoint
+presentation in class, play it safe and back it
+up online. Now. if something goes wrong in
+class, you can download another copy from
+the Web.
+And if you're working from a computer
+cluster, always save your work online so you
+can continue where you left off.
+200 megabytes is ample space to suit
+your needs. Take advantage of the comput
+er resources that Stanford has to offer and
+never be without your data again.
+
+Andrew Leifer is a junior studying physics
+and is founder of Boulder Computing.com. a
+small computer consulting firm. E-mail him
+at andrew. leifer@Stanford. Edu
+
+
+Andrew
+Leifer
+Tech Talk
+Placing documents on the Web isn't just
+for computer geeks.
+Here at Stanford, each student has his or
+her own plot of cyberspace, so everyone can
+back up work, transfer large files or set up a
+Web site. This week's column shows you
+how to take advantage of this Stanford serv
+er space.
+You Got Served
+When you surf the Web. you are actually
+connecting to hundreds of different com
+puters across the world. Each time you visit
+a Web site, a computer on the other end
+grumbles, spins its hard drive and coughs up
+the Web page you requested .These comput
+ers are called servers and their job is to host
+files, both public and private.
+Servers provide a home for your data
+that is more reliable and more accessible
+than a finicky desktop. Everyone would be
+using servers if it weren't for their cost.
+While companies like godaddy.com sell
+server space — called "hosting" — starting
+at about $10a month. Stanford students can
+use University servers for free.
+Stanford's servers lie deep within the re
+cesses of Sweet Hall's second floor. They
+stay on day and night, amidst bleary-eyed
+computer science majors and leftover cans
+of Mountain Dew. These servers have
+names like "elaine," "cardinal" and "fire
+bird" and they share the load of Stanford's
+
+distributed file system, known as Andrew
+File System (AFS).
+Hook Me Up
+All students have 200 megabytes of free
+space waiting for them on AFS.and they can
+access their space by downloading a free file
+transfer client.
+For Windows, download either Secure-
+FX (go to http://ess.stanford.edu) or Win-
+SCP (visit http://winscp.net).
+Mac users should get either Fetch (free
+— visit http://ess.stanford.edu) or Fugu
+from the University of Michigan. Fugu is
+available at http://rsug.itd.umich.ed/soft
+woare/fugu/.
+All four programs are similar and allow
+you to drag files back and forth between
+your local computer and your server space.
+SecureFX and Fetch are nice because they
+are preconfigured to work on Stanford's
+servers. Although WinSCP and Fugu must
+be manually configured, I recommend them
+
+because they come with more bells and
+whistles.
+When using any of these programs, look
+for the "Host:" prompt and enter "cardi
+nal.stanford.edu." At the "User:" prompt
+enter your SUNet ID. Be sure to select ei
+ther the "SCP", "SFTP" or "SSH" option.
+This guarantees that you will use a secure
+protocol to transfer your files instead of the
+obsolete and insecure "FTP" protocol.
+See http://ess.stanford.edu for more spe
+cific instructions.
+Dude, Where's My Data?
+Once you have connected, you will see a
+window with the files in your remote folder.
+You can make new folders, drag items over
+or delete items. Everyone starts with a
+WWW folder. Anything placed in this fold
+er will automatically show up online at
+http://www.stanford.edu/~YourSUNetID/,
+where it can be downloaded from any Web
+browser.
+Stanford also provides Mac-Leland and
+PC-Leland. which are designed to mount
+your server space locally. I recommend
+sticking to a file-transfer client, as they are
+less buggy and more versatile.
+A word of caution: Stanford servers are a
+bad place for private documents. Don't up
+load sensitive data, or, at the very least,
+place it in the "Private" folder.
+Lastly, while you're on campus, your
+server space follows you. Any computer
+
+cluster on campus will give you direct access
+to your server space, even without a client.
+Live the Good Life
+Now it is time to put that server space to
+good use. Back up important essays or proj
+ects to the Web as you compose them. This
+way, should your computer spontaneously
+hurst into flames, at least your grades won't
+suffer.
+Instead of e-mailing massive photos to
+your friends, put them on your Weh space.
+Adobe Photoshop will even generate a photo
+gallery that you can place in your "WWW"
+folder, as junior Adam Sadovsky demon
+strates at http://stanford.edu/~sadovsky/pho
+tography.
+Next time you're giving a PowerPoint
+presentation in class, play it safe and back it
+up online. Now. if something goes wrong in
+class, you can download another copy from
+the Web.
+And if you're working from a computer
+cluster, always save your work online so you
+can continue where you left off.
+200 megabytes is ample space to suit
+your needs. Take advantage of the comput
+er resources that Stanford has to offer and
+never be without your data again.
+
+Andrew Leifer is a junior studying physics
+and is founder of Boulder Computing.com. a
+small computer consulting firm. E-mail him
+at andrew. leifer@Stanford. Edu
+
+
+Andrew
+Leifer
+Tech Talk
+Placing documents on the Web isn't just
+for computer geeks.
+Here at Stanford, each student has his or
+her own plot of cyberspace, so everyone can
+back up work, transfer large files or set up a
+Web site. This week's column shows you
+how to take advantage of this Stanford serv
+er space.
+You Got Served
+When you surf the Web. you are actually
+connecting to hundreds of different com
+puters across the world. Each time you visit
+a Web site, a computer on the other end
+grumbles, spins its hard drive and coughs up
+the Web page you requested .These comput
+ers are called servers and their job is to host
+files, both public and private.
+Servers provide a home for your data
+that is more reliable and more accessible
+than a finicky desktop. Everyone would be
+using servers if it weren't for their cost.
+While companies like godaddy.com sell
+server space — called "hosting" — starting
+at about $10a month. Stanford students can
+use University servers for free.
+Stanford's servers lie deep within the re
+cesses of Sweet Hall's second floor. They
+stay on day and night, amidst bleary-eyed
+computer science majors and leftover cans
+of Mountain Dew. These servers have
+names like "elaine," "cardinal" and "fire
+bird" and they share the load of Stanford's
+
+distributed file system, known as Andrew
+File System (AFS).
+Hook Me Up
+All students have 200 megabytes of free
+space waiting for them on AFS.and they can
+access their space by downloading a free file
+transfer client.
+For Windows, download either Secure-
+FX (go to http://ess.stanford.edu) or Win-
+SCP (visit http://winscp.net).
+Mac users should get either Fetch (free
+— visit http://ess.stanford.edu) or Fugu
+from the University of Michigan. Fugu is
+available at http://rsug.itd.umich.ed/soft
+woare/fugu/.
+All four programs are similar and allow
+you to drag files back and forth between
+your local computer and your server space.
+SecureFX and Fetch are nice because they
+are preconfigured to work on Stanford's
+servers. Although WinSCP and Fugu must
+be manually configured, I recommend them
+
+because they come with more bells and
+whistles.
+When using any of these programs, look
+for the "Host:" prompt and enter "cardi
+nal.stanford.edu." At the "User:" prompt
+enter your SUNet ID. Be sure to select ei
+ther the "SCP", "SFTP" or "SSH" option.
+This guarantees that you will use a secure
+protocol to transfer your files instead of the
+obsolete and insecure "FTP" protocol.
+See http://ess.stanford.edu for more spe
+cific instructions.
+Dude, Where's My Data?
+Once you have connected, you will see a
+window with the files in your remote folder.
+You can make new folders, drag items over
+or delete items. Everyone starts with a
+WWW folder. Anything placed in this fold
+er will automatically show up online at
+http://www.stanford.edu/~YourSUNetID/,
+where it can be downloaded from any Web
+browser.
+Stanford also provides Mac-Leland and
+PC-Leland. which are designed to mount
+your server space locally. I recommend
+sticking to a file-transfer client, as they are
+less buggy and more versatile.
+A word of caution: Stanford servers are a
+bad place for private documents. Don't up
+load sensitive data, or, at the very least,
+place it in the "Private" folder.
+Lastly, while you're on campus, your
+server space follows you. Any computer
+
+cluster on campus will give you direct access
+to your server space, even without a client.
+Live the Good Life
+Now it is time to put that server space to
+good use. Back up important essays or proj
+ects to the Web as you compose them. This
+way, should your computer spontaneously
+hurst into flames, at least your grades won't
+suffer.
+Instead of e-mailing massive photos to
+your friends, put them on your Weh space.
+Adobe Photoshop will even generate a photo
+gallery that you can place in your "WWW"
+folder, as junior Adam Sadovsky demon
+strates at http://stanford.edu/~sadovsky/pho
+tography.
+Next time you're giving a PowerPoint
+presentation in class, play it safe and back it
+up online. Now. if something goes wrong in
+class, you can download another copy from
+the Web.
+And if you're working from a computer
+cluster, always save your work online so you
+can continue where you left off.
+200 megabytes is ample space to suit
+your needs. Take advantage of the comput
+er resources that Stanford has to offer and
+never be without your data again.
+
+Andrew Leifer is a junior studying physics
+and is founder of Boulder Computing.com. a
+small computer consulting firm. E-mail him
+at andrew. leifer@Stanford. Edu
+
+
+Andrew
+Leifer
+Tech Talk
+Placing documents on the Web isn't just
+for computer geeks.
+Here at Stanford, each student has his or
+her own plot of cyberspace, so everyone can
+back up work, transfer large files or set up a
+Web site. This week's column shows you
+how to take advantage of this Stanford serv
+er space.
+You Got Served
+When you surf the Web. you are actually
+connecting to hundreds of different com
+puters across the world. Each time you visit
+a Web site, a computer on the other end
+grumbles, spins its hard drive and coughs up
+the Web page you requested .These comput
+ers are called servers and their job is to host
+files, both public and private.
+Servers provide a home for your data
+that is more reliable and more accessible
+than a finicky desktop. Everyone would be
+using servers if it weren't for their cost.
+While companies like godaddy.com sell
+server space — called "hosting" — starting
+at about $10a month. Stanford students can
+use University servers for free.
+Stanford's servers lie deep within the re
+cesses of Sweet Hall's second floor. They
+stay on day and night, amidst bleary-eyed
+computer science majors and leftover cans
+of Mountain Dew. These servers have
+names like "elaine," "cardinal" and "fire
+bird" and they share the load of Stanford's
+
+distributed file system, known as Andrew
+File System (AFS).
+Hook Me Up
+All students have 200 megabytes of free
+space waiting for them on AFS.and they can
+access their space by downloading a free file
+transfer client.
+For Windows, download either Secure-
+FX (go to http://ess.stanford.edu) or Win-
+SCP (visit http://winscp.net).
+Mac users should get either Fetch (free
+— visit http://ess.stanford.edu) or Fugu
+from the University of Michigan. Fugu is
+available at http://rsug.itd.umich.ed/soft
+woare/fugu/.
+All four programs are similar and allow
+you to drag files back and forth between
+your local computer and your server space.
+SecureFX and Fetch are nice because they
+are preconfigured to work on Stanford's
+servers. Although WinSCP and Fugu must
+be manually configured, I recommend them
+
+because they come with more bells and
+whistles.
+When using any of these programs, look
+for the "Host:" prompt and enter "cardi
+nal.stanford.edu." At the "User:" prompt
+enter your SUNet ID. Be sure to select ei
+ther the "SCP", "SFTP" or "SSH" option.
+This guarantees that you will use a secure
+protocol to transfer your files instead of the
+obsolete and insecure "FTP" protocol.
+See http://ess.stanford.edu for more spe
+cific instructions.
+Dude, Where's My Data?
+Once you have connected, you will see a
+window with the files in your remote folder.
+You can make new folders, drag items over
+or delete items. Everyone starts with a
+WWW folder. Anything placed in this fold
+er will automatically show up online at
+http://www.stanford.edu/~YourSUNetID/,
+where it can be downloaded from any Web
+browser.
+Stanford also provides Mac-Leland and
+PC-Leland. which are designed to mount
+your server space locally. I recommend
+sticking to a file-transfer client, as they are
+less buggy and more versatile.
+A word of caution: Stanford servers are a
+bad place for private documents. Don't up
+load sensitive data, or, at the very least,
+place it in the "Private" folder.
+Lastly, while you're on campus, your
+server space follows you. Any computer
+
+cluster on campus will give you direct access
+to your server space, even without a client.
+Live the Good Life
+Now it is time to put that server space to
+good use. Back up important essays or proj
+ects to the Web as you compose them. This
+way, should your computer spontaneously
+hurst into flames, at least your grades won't
+suffer.
+Instead of e-mailing massive photos to
+your friends, put them on your Weh space.
+Adobe Photoshop will even generate a photo
+gallery that you can place in your "WWW"
+folder, as junior Adam Sadovsky demon
+strates at http://stanford.edu/~sadovsky/pho
+tography.
+Next time you're giving a PowerPoint
+presentation in class, play it safe and back it
+up online. Now. if something goes wrong in
+class, you can download another copy from
+the Web.
+And if you're working from a computer
+cluster, always save your work online so you
+can continue where you left off.
+200 megabytes is ample space to suit
+your needs. Take advantage of the comput
+er resources that Stanford has to offer and
+never be without your data again.
+
+Andrew Leifer is a junior studying physics
+and is founder of Boulder Computing.com. a
+small computer consulting firm. E-mail him
+at andrew. leifer@Stanford. Edu
+
+
+Andrew
+Leifer
+Tech Talk
+Placing documents on the Web isn't just
+for computer geeks.
+Here at Stanford, each student has his or
+her own plot of cyberspace, so everyone can
+back up work, transfer large files or set up a
+Web site. This week's column shows you
+how to take advantage of this Stanford serv
+er space.
+You Got Served
+When you surf the Web. you are actually
+connecting to hundreds of different com
+puters across the world. Each time you visit
+a Web site, a computer on the other end
+grumbles, spins its hard drive and coughs up
+the Web page you requested .These comput
+ers are called servers and their job is to host
+files, both public and private.
+Servers provide a home for your data
+that is more reliable and more accessible
+than a finicky desktop. Everyone would be
+using servers if it weren't for their cost.
+While companies like godaddy.com sell
+server space — called "hosting" — starting
+at about $10a month. Stanford students can
+use University servers for free.
+Stanford's servers lie deep within the re
+cesses of Sweet Hall's second floor. They
+stay on day and night, amidst bleary-eyed
+computer science majors and leftover cans
+of Mountain Dew. These servers have
+names like "elaine," "cardinal" and "fire
+bird" and they share the load of Stanford's
+
+distributed file system, known as Andrew
+File System (AFS).
+Hook Me Up
+All students have 200 megabytes of free
+space waiting for them on AFS.and they can
+access their space by downloading a free file
+transfer client.
+For Windows, download either Secure-
+FX (go to http://ess.stanford.edu) or Win-
+SCP (visit http://winscp.net).
+Mac users should get either Fetch (free
+— visit http://ess.stanford.edu) or Fugu
+from the University of Michigan. Fugu is
+available at http://rsug.itd.umich.ed/soft
+woare/fugu/.
+All four programs are similar and allow
+you to drag files back and forth between
+your local computer and your server space.
+SecureFX and Fetch are nice because they
+are preconfigured to work on Stanford's
+servers. Although WinSCP and Fugu must
+be manually configured, I recommend them
+
+because they come with more bells and
+whistles.
+When using any of these programs, look
+for the "Host:" prompt and enter "cardi
+nal.stanford.edu." At the "User:" prompt
+enter your SUNet ID. Be sure to select ei
+ther the "SCP", "SFTP" or "SSH" option.
+This guarantees that you will use a secure
+protocol to transfer your files instead of the
+obsolete and insecure "FTP" protocol.
+See http://ess.stanford.edu for more spe
+cific instructions.
+Dude, Where's My Data?
+Once you have connected, you will see a
+window with the files in your remote folder.
+You can make new folders, drag items over
+or delete items. Everyone starts with a
+WWW folder. Anything placed in this fold
+er will automatically show up online at
+http://www.stanford.edu/~YourSUNetID/,
+where it can be downloaded from any Web
+browser.
+Stanford also provides Mac-Leland and
+PC-Leland. which are designed to mount
+your server space locally. I recommend
+sticking to a file-transfer client, as they are
+less buggy and more versatile.
+A word of caution: Stanford servers are a
+bad place for private documents. Don't up
+load sensitive data, or, at the very least,
+place it in the "Private" folder.
+Lastly, while you're on campus, your
+server space follows you. Any computer
+
+cluster on campus will give you direct access
+to your server space, even without a client.
+Live the Good Life
+Now it is time to put that server space to
+good use. Back up important essays or proj
+ects to the Web as you compose them. This
+way, should your computer spontaneously
+hurst into flames, at least your grades won't
+suffer.
+Instead of e-mailing massive photos to
+your friends, put them on your Weh space.
+Adobe Photoshop will even generate a photo
+gallery that you can place in your "WWW"
+folder, as junior Adam Sadovsky demon
+strates at http://stanford.edu/~sadovsky/pho
+tography.
+Next time you're giving a PowerPoint
+presentation in class, play it safe and back it
+up online. Now. if something goes wrong in
+class, you can download another copy from
+the Web.
+And if you're working from a computer
+cluster, always save your work online so you
+can continue where you left off.
+200 megabytes is ample space to suit
+your needs. Take advantage of the comput
+er resources that Stanford has to offer and
+never be without your data again.
+
+Andrew Leifer is a junior studying physics
+and is founder of Boulder Computing.com. a
+small computer consulting firm. E-mail him
+at andrew. leifer@Stanford. Edu
+
+
+Andrew
+Leifer
+Tech Talk

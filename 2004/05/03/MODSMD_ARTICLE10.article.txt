@@ -1,0 +1,939 @@
+# Teacher Talk
+## My journey to and at Stanford 
+### JOHN HENNESSY UNIVERSITY PRESIDENT 
+A few years back, during the "gold rush" years of the dot
+com boom, quite a few students watched as fortunes
+were made in Silicon Valley and wondered whether they
+were squandering a great opportunity to "make it rich."
+Of course, in hindsight, we know that many of those fortunes were
+illusory, lost in the subsequent "dot-bomb" years.
+But without the benefit of that 20 / 20 hindsight, I know many
+students considered whether they should leave Stanford and
+make a go of it elsewhere.
+
+During that time period, I was fond of saying
+that the second best thing I did in my career was
+to start a company in Silicon Valley. I would then
+make the point that the best thing I ever did was
+to become a professor — and more specifically,
+come to Stanford. I felt this observation was an
+especially important one to make during a time
+when many students were tempted to leave their
+studies for the "greener pastures" of the Valley.
+When I discuss my experience in a start-up with
+groups of students, the next question invariably
+asked is why I came back to Stanford, rather than
+
+choosing to continue a promising career in industry. To under
+stand that decision, it is important to understand how I decided to
+pursue a doctorate and how I "decided" to come to Stanford.
+Like most "big decisions" many factors played a part. But per
+haps the most critical points in making the decision that led to
+pursuing a doctorate came in my sophomore and junior years.
+As a sophomore, 1 received my first real exposure to my major
+— electrical engineering. I found it an intriguing subject and a
+welcome switch from courses that were more preparatory in na
+ture. It was also in that year that my love of teaching was Ignited
+by the opportunity to work with other undergraduates, assisting
+them in their first programming courses. As 1 began to take more
+advanced courses, especially in computing, my interests in com
+puter science grew.
+During my junior year, I had the opportunity to get involved
+in an undergraduate research project, working on the ideas that
+preceded the modern microprocessor. It has a fascinating project
+that further stimulated by interest in pursuing a doctorate in com
+puter science. My own experience with undergraduate research
+has convinced me of the importance of providing such opportuni
+ties for Stanford undergraduates.
+From the moment I entered graduate school, I knew that I
+wanted to pursue a career as a professor, but where I would end
+up was uncertain. I had the good fortune of settling on a thesis
+topic early and of choosing a topic that increased in importance as
+I neared completion of my thesis.
+Stanford was the last of more than a dozen universities that I
+interviewed at. I had many choices, but as you can guess, when I
+received an offer from Stanford's Department of Electrical Engi
+neering, I eagerly accepted!
+Most of my 27 years at Stanford has been spent on teaching
+and research. I have taught a range of undergraduate and gradu
+ate courses, acted as advisor for more than 25 doctorate students
+as well as a large number of master's and undergraduate students,
+and co-authored both a graduate textbook and an undergraduate
+textbook in computer architecture.
+Today, those books are my primary connection to my disci
+pline. Updating the material for new editions forces me to keep
+up with the field and stay in touch with my colleagues across the
+country, and I still enjoy seeing the texts, which are available in
+more than eight languages, being used around the world.
+When the time came to return to Stanford after my brief leave
+in Silicon Valley from 1984 until 1985, it was not a difficult deci
+sion. I enjoyed spending time in industry, working with talented
+engineers on exciting products, but I did not want to spend my ca
+reer there.
+I would miss the interaction with students — in the classroom
+and in the laboratory — too much. I would miss the freedom to
+pursue new ideas that were revolutionary and far from ready for
+commercialization. I would miss the free and wide ranging intel
+lectual debate, which is the lifeblood of our campus.
+So I returned to pursue my teaching and research during the
+next eight or nine years with a new focus on parallel computing.
+Starting almost ten years ago, I began serving in a series of pro
+gressively more demanding administrative roles beginning with
+chairman of Computer Science, moving on to dean of Engineer
+ing and then to provost, and as president for the past three and
+one-half years.
+Why — you might ask — would someone who absolutely
+loved teaching and research, who came back to campus to pur
+sue those joys, accept a major administrative post? The answer
+is complex.
+It invariably includes dedication to Stanford and gratitude for
+the opportunities that Stanford provided, as well as an interest in
+serving the University. I have found the jobs of dean, provost and
+president to be both challenging and immensely rewarding. The
+exposure to Stanford's intellectual breadth and excellence is ex
+citing. The complexity of the challenges is engaging. And the
+range and capability of the members of the Stanford community
+with whom you work is astonishing.
+The job of president is by far the most challenging and most
+exciting job I could imagine.
+When I visit informally \Vith students, they often ask what ad
+vice I might give them as they plan their time at Stanford, select a
+major or contemplate a career. I share the advice that I followed:
+Find something you love to do — something which engages you
+deeply and passionately. Stanford offers so many opportunities.
+Choose a few that you are truly committed to and build a founda
+tion on which you can make an important positive contribution to
+the world.
+
+John L. Hennessy is currently serving as the 10th University
+president, lie is also a professor of computer science and electri
+cal engineering. He earned his bachelor's degree in electrical en
+gineering from Villanova University and his master's and doc
+toral degrees in computer science from Stony Brook University.
+He has been at Stanford since 1977. He has taught a Sophomore
+College course on the"The Intellectual Excitement of Computer
+Science "for the last three years, but will unable to do so this year
+due to travelling commitments. He can be reached at hen
+n essy @stan fo rd. edu.
+
+
+John Hennessy
+A few years back, during the "gold rush" years of the dot
+com boom, quite a few students watched as fortunes
+were made in Silicon Valley and wondered whether they
+were squandering a great opportunity to "make it rich."
+Of course, in hindsight, we know that many of those fortunes were
+illusory, lost in the subsequent "dot-bomb" years.
+But without the benefit of that 20 / 20 hindsight, I know many
+students considered whether they should leave Stanford and
+make a go of it elsewhere.
+
+During that time period, I was fond of saying
+that the second best thing I did in my career was
+to start a company in Silicon Valley. I would then
+make the point that the best thing I ever did was
+to become a professor — and more specifically,
+come to Stanford. I felt this observation was an
+especially important one to make during a time
+when many students were tempted to leave their
+studies for the "greener pastures" of the Valley.
+When I discuss my experience in a start-up with
+groups of students, the next question invariably
+asked is why I came back to Stanford, rather than
+
+choosing to continue a promising career in industry. To under
+stand that decision, it is important to understand how I decided to
+pursue a doctorate and how I "decided" to come to Stanford.
+Like most "big decisions" many factors played a part. But per
+haps the most critical points in making the decision that led to
+pursuing a doctorate came in my sophomore and junior years.
+As a sophomore, 1 received my first real exposure to my major
+— electrical engineering. I found it an intriguing subject and a
+welcome switch from courses that were more preparatory in na
+ture. It was also in that year that my love of teaching was Ignited
+by the opportunity to work with other undergraduates, assisting
+them in their first programming courses. As 1 began to take more
+advanced courses, especially in computing, my interests in com
+puter science grew.
+During my junior year, I had the opportunity to get involved
+in an undergraduate research project, working on the ideas that
+preceded the modern microprocessor. It has a fascinating project
+that further stimulated by interest in pursuing a doctorate in com
+puter science. My own experience with undergraduate research
+has convinced me of the importance of providing such opportuni
+ties for Stanford undergraduates.
+From the moment I entered graduate school, I knew that I
+wanted to pursue a career as a professor, but where I would end
+up was uncertain. I had the good fortune of settling on a thesis
+topic early and of choosing a topic that increased in importance as
+I neared completion of my thesis.
+Stanford was the last of more than a dozen universities that I
+interviewed at. I had many choices, but as you can guess, when I
+received an offer from Stanford's Department of Electrical Engi
+neering, I eagerly accepted!
+Most of my 27 years at Stanford has been spent on teaching
+and research. I have taught a range of undergraduate and gradu
+ate courses, acted as advisor for more than 25 doctorate students
+as well as a large number of master's and undergraduate students,
+and co-authored both a graduate textbook and an undergraduate
+textbook in computer architecture.
+Today, those books are my primary connection to my disci
+pline. Updating the material for new editions forces me to keep
+up with the field and stay in touch with my colleagues across the
+country, and I still enjoy seeing the texts, which are available in
+more than eight languages, being used around the world.
+When the time came to return to Stanford after my brief leave
+in Silicon Valley from 1984 until 1985, it was not a difficult deci
+sion. I enjoyed spending time in industry, working with talented
+engineers on exciting products, but I did not want to spend my ca
+reer there.
+I would miss the interaction with students — in the classroom
+and in the laboratory — too much. I would miss the freedom to
+pursue new ideas that were revolutionary and far from ready for
+commercialization. I would miss the free and wide ranging intel
+lectual debate, which is the lifeblood of our campus.
+So I returned to pursue my teaching and research during the
+next eight or nine years with a new focus on parallel computing.
+Starting almost ten years ago, I began serving in a series of pro
+gressively more demanding administrative roles beginning with
+chairman of Computer Science, moving on to dean of Engineer
+ing and then to provost, and as president for the past three and
+one-half years.
+Why — you might ask — would someone who absolutely
+loved teaching and research, who came back to campus to pur
+sue those joys, accept a major administrative post? The answer
+is complex.
+It invariably includes dedication to Stanford and gratitude for
+the opportunities that Stanford provided, as well as an interest in
+serving the University. I have found the jobs of dean, provost and
+president to be both challenging and immensely rewarding. The
+exposure to Stanford's intellectual breadth and excellence is ex
+citing. The complexity of the challenges is engaging. And the
+range and capability of the members of the Stanford community
+with whom you work is astonishing.
+The job of president is by far the most challenging and most
+exciting job I could imagine.
+When I visit informally \Vith students, they often ask what ad
+vice I might give them as they plan their time at Stanford, select a
+major or contemplate a career. I share the advice that I followed:
+Find something you love to do — something which engages you
+deeply and passionately. Stanford offers so many opportunities.
+Choose a few that you are truly committed to and build a founda
+tion on which you can make an important positive contribution to
+the world.
+
+John L. Hennessy is currently serving as the 10th University
+president, lie is also a professor of computer science and electri
+cal engineering. He earned his bachelor's degree in electrical en
+gineering from Villanova University and his master's and doc
+toral degrees in computer science from Stony Brook University.
+He has been at Stanford since 1977. He has taught a Sophomore
+College course on the"The Intellectual Excitement of Computer
+Science "for the last three years, but will unable to do so this year
+due to travelling commitments. He can be reached at hen
+n essy @stan fo rd. edu.
+
+
+John Hennessy
+A few years back, during the "gold rush" years of the dot
+com boom, quite a few students watched as fortunes
+were made in Silicon Valley and wondered whether they
+were squandering a great opportunity to "make it rich."
+Of course, in hindsight, we know that many of those fortunes were
+illusory, lost in the subsequent "dot-bomb" years.
+But without the benefit of that 20 / 20 hindsight, I know many
+students considered whether they should leave Stanford and
+make a go of it elsewhere.
+
+During that time period, I was fond of saying
+that the second best thing I did in my career was
+to start a company in Silicon Valley. I would then
+make the point that the best thing I ever did was
+to become a professor — and more specifically,
+come to Stanford. I felt this observation was an
+especially important one to make during a time
+when many students were tempted to leave their
+studies for the "greener pastures" of the Valley.
+When I discuss my experience in a start-up with
+groups of students, the next question invariably
+asked is why I came back to Stanford, rather than
+
+choosing to continue a promising career in industry. To under
+stand that decision, it is important to understand how I decided to
+pursue a doctorate and how I "decided" to come to Stanford.
+Like most "big decisions" many factors played a part. But per
+haps the most critical points in making the decision that led to
+pursuing a doctorate came in my sophomore and junior years.
+As a sophomore, 1 received my first real exposure to my major
+— electrical engineering. I found it an intriguing subject and a
+welcome switch from courses that were more preparatory in na
+ture. It was also in that year that my love of teaching was Ignited
+by the opportunity to work with other undergraduates, assisting
+them in their first programming courses. As 1 began to take more
+advanced courses, especially in computing, my interests in com
+puter science grew.
+During my junior year, I had the opportunity to get involved
+in an undergraduate research project, working on the ideas that
+preceded the modern microprocessor. It has a fascinating project
+that further stimulated by interest in pursuing a doctorate in com
+puter science. My own experience with undergraduate research
+has convinced me of the importance of providing such opportuni
+ties for Stanford undergraduates.
+From the moment I entered graduate school, I knew that I
+wanted to pursue a career as a professor, but where I would end
+up was uncertain. I had the good fortune of settling on a thesis
+topic early and of choosing a topic that increased in importance as
+I neared completion of my thesis.
+Stanford was the last of more than a dozen universities that I
+interviewed at. I had many choices, but as you can guess, when I
+received an offer from Stanford's Department of Electrical Engi
+neering, I eagerly accepted!
+Most of my 27 years at Stanford has been spent on teaching
+and research. I have taught a range of undergraduate and gradu
+ate courses, acted as advisor for more than 25 doctorate students
+as well as a large number of master's and undergraduate students,
+and co-authored both a graduate textbook and an undergraduate
+textbook in computer architecture.
+Today, those books are my primary connection to my disci
+pline. Updating the material for new editions forces me to keep
+up with the field and stay in touch with my colleagues across the
+country, and I still enjoy seeing the texts, which are available in
+more than eight languages, being used around the world.
+When the time came to return to Stanford after my brief leave
+in Silicon Valley from 1984 until 1985, it was not a difficult deci
+sion. I enjoyed spending time in industry, working with talented
+engineers on exciting products, but I did not want to spend my ca
+reer there.
+I would miss the interaction with students — in the classroom
+and in the laboratory — too much. I would miss the freedom to
+pursue new ideas that were revolutionary and far from ready for
+commercialization. I would miss the free and wide ranging intel
+lectual debate, which is the lifeblood of our campus.
+So I returned to pursue my teaching and research during the
+next eight or nine years with a new focus on parallel computing.
+Starting almost ten years ago, I began serving in a series of pro
+gressively more demanding administrative roles beginning with
+chairman of Computer Science, moving on to dean of Engineer
+ing and then to provost, and as president for the past three and
+one-half years.
+Why — you might ask — would someone who absolutely
+loved teaching and research, who came back to campus to pur
+sue those joys, accept a major administrative post? The answer
+is complex.
+It invariably includes dedication to Stanford and gratitude for
+the opportunities that Stanford provided, as well as an interest in
+serving the University. I have found the jobs of dean, provost and
+president to be both challenging and immensely rewarding. The
+exposure to Stanford's intellectual breadth and excellence is ex
+citing. The complexity of the challenges is engaging. And the
+range and capability of the members of the Stanford community
+with whom you work is astonishing.
+The job of president is by far the most challenging and most
+exciting job I could imagine.
+When I visit informally \Vith students, they often ask what ad
+vice I might give them as they plan their time at Stanford, select a
+major or contemplate a career. I share the advice that I followed:
+Find something you love to do — something which engages you
+deeply and passionately. Stanford offers so many opportunities.
+Choose a few that you are truly committed to and build a founda
+tion on which you can make an important positive contribution to
+the world.
+
+John L. Hennessy is currently serving as the 10th University
+president, lie is also a professor of computer science and electri
+cal engineering. He earned his bachelor's degree in electrical en
+gineering from Villanova University and his master's and doc
+toral degrees in computer science from Stony Brook University.
+He has been at Stanford since 1977. He has taught a Sophomore
+College course on the"The Intellectual Excitement of Computer
+Science "for the last three years, but will unable to do so this year
+due to travelling commitments. He can be reached at hen
+n essy @stan fo rd. edu.
+
+
+John Hennessy
+A few years back, during the "gold rush" years of the dot
+com boom, quite a few students watched as fortunes
+were made in Silicon Valley and wondered whether they
+were squandering a great opportunity to "make it rich."
+Of course, in hindsight, we know that many of those fortunes were
+illusory, lost in the subsequent "dot-bomb" years.
+But without the benefit of that 20 / 20 hindsight, I know many
+students considered whether they should leave Stanford and
+make a go of it elsewhere.
+
+During that time period, I was fond of saying
+that the second best thing I did in my career was
+to start a company in Silicon Valley. I would then
+make the point that the best thing I ever did was
+to become a professor — and more specifically,
+come to Stanford. I felt this observation was an
+especially important one to make during a time
+when many students were tempted to leave their
+studies for the "greener pastures" of the Valley.
+When I discuss my experience in a start-up with
+groups of students, the next question invariably
+asked is why I came back to Stanford, rather than
+
+choosing to continue a promising career in industry. To under
+stand that decision, it is important to understand how I decided to
+pursue a doctorate and how I "decided" to come to Stanford.
+Like most "big decisions" many factors played a part. But per
+haps the most critical points in making the decision that led to
+pursuing a doctorate came in my sophomore and junior years.
+As a sophomore, 1 received my first real exposure to my major
+— electrical engineering. I found it an intriguing subject and a
+welcome switch from courses that were more preparatory in na
+ture. It was also in that year that my love of teaching was Ignited
+by the opportunity to work with other undergraduates, assisting
+them in their first programming courses. As 1 began to take more
+advanced courses, especially in computing, my interests in com
+puter science grew.
+During my junior year, I had the opportunity to get involved
+in an undergraduate research project, working on the ideas that
+preceded the modern microprocessor. It has a fascinating project
+that further stimulated by interest in pursuing a doctorate in com
+puter science. My own experience with undergraduate research
+has convinced me of the importance of providing such opportuni
+ties for Stanford undergraduates.
+From the moment I entered graduate school, I knew that I
+wanted to pursue a career as a professor, but where I would end
+up was uncertain. I had the good fortune of settling on a thesis
+topic early and of choosing a topic that increased in importance as
+I neared completion of my thesis.
+Stanford was the last of more than a dozen universities that I
+interviewed at. I had many choices, but as you can guess, when I
+received an offer from Stanford's Department of Electrical Engi
+neering, I eagerly accepted!
+Most of my 27 years at Stanford has been spent on teaching
+and research. I have taught a range of undergraduate and gradu
+ate courses, acted as advisor for more than 25 doctorate students
+as well as a large number of master's and undergraduate students,
+and co-authored both a graduate textbook and an undergraduate
+textbook in computer architecture.
+Today, those books are my primary connection to my disci
+pline. Updating the material for new editions forces me to keep
+up with the field and stay in touch with my colleagues across the
+country, and I still enjoy seeing the texts, which are available in
+more than eight languages, being used around the world.
+When the time came to return to Stanford after my brief leave
+in Silicon Valley from 1984 until 1985, it was not a difficult deci
+sion. I enjoyed spending time in industry, working with talented
+engineers on exciting products, but I did not want to spend my ca
+reer there.
+I would miss the interaction with students — in the classroom
+and in the laboratory — too much. I would miss the freedom to
+pursue new ideas that were revolutionary and far from ready for
+commercialization. I would miss the free and wide ranging intel
+lectual debate, which is the lifeblood of our campus.
+So I returned to pursue my teaching and research during the
+next eight or nine years with a new focus on parallel computing.
+Starting almost ten years ago, I began serving in a series of pro
+gressively more demanding administrative roles beginning with
+chairman of Computer Science, moving on to dean of Engineer
+ing and then to provost, and as president for the past three and
+one-half years.
+Why — you might ask — would someone who absolutely
+loved teaching and research, who came back to campus to pur
+sue those joys, accept a major administrative post? The answer
+is complex.
+It invariably includes dedication to Stanford and gratitude for
+the opportunities that Stanford provided, as well as an interest in
+serving the University. I have found the jobs of dean, provost and
+president to be both challenging and immensely rewarding. The
+exposure to Stanford's intellectual breadth and excellence is ex
+citing. The complexity of the challenges is engaging. And the
+range and capability of the members of the Stanford community
+with whom you work is astonishing.
+The job of president is by far the most challenging and most
+exciting job I could imagine.
+When I visit informally \Vith students, they often ask what ad
+vice I might give them as they plan their time at Stanford, select a
+major or contemplate a career. I share the advice that I followed:
+Find something you love to do — something which engages you
+deeply and passionately. Stanford offers so many opportunities.
+Choose a few that you are truly committed to and build a founda
+tion on which you can make an important positive contribution to
+the world.
+
+John L. Hennessy is currently serving as the 10th University
+president, lie is also a professor of computer science and electri
+cal engineering. He earned his bachelor's degree in electrical en
+gineering from Villanova University and his master's and doc
+toral degrees in computer science from Stony Brook University.
+He has been at Stanford since 1977. He has taught a Sophomore
+College course on the"The Intellectual Excitement of Computer
+Science "for the last three years, but will unable to do so this year
+due to travelling commitments. He can be reached at hen
+n essy @stan fo rd. edu.
+
+
+John Hennessy
+A few years back, during the "gold rush" years of the dot
+com boom, quite a few students watched as fortunes
+were made in Silicon Valley and wondered whether they
+were squandering a great opportunity to "make it rich."
+Of course, in hindsight, we know that many of those fortunes were
+illusory, lost in the subsequent "dot-bomb" years.
+But without the benefit of that 20 / 20 hindsight, I know many
+students considered whether they should leave Stanford and
+make a go of it elsewhere.
+
+During that time period, I was fond of saying
+that the second best thing I did in my career was
+to start a company in Silicon Valley. I would then
+make the point that the best thing I ever did was
+to become a professor — and more specifically,
+come to Stanford. I felt this observation was an
+especially important one to make during a time
+when many students were tempted to leave their
+studies for the "greener pastures" of the Valley.
+When I discuss my experience in a start-up with
+groups of students, the next question invariably
+asked is why I came back to Stanford, rather than
+
+choosing to continue a promising career in industry. To under
+stand that decision, it is important to understand how I decided to
+pursue a doctorate and how I "decided" to come to Stanford.
+Like most "big decisions" many factors played a part. But per
+haps the most critical points in making the decision that led to
+pursuing a doctorate came in my sophomore and junior years.
+As a sophomore, 1 received my first real exposure to my major
+— electrical engineering. I found it an intriguing subject and a
+welcome switch from courses that were more preparatory in na
+ture. It was also in that year that my love of teaching was Ignited
+by the opportunity to work with other undergraduates, assisting
+them in their first programming courses. As 1 began to take more
+advanced courses, especially in computing, my interests in com
+puter science grew.
+During my junior year, I had the opportunity to get involved
+in an undergraduate research project, working on the ideas that
+preceded the modern microprocessor. It has a fascinating project
+that further stimulated by interest in pursuing a doctorate in com
+puter science. My own experience with undergraduate research
+has convinced me of the importance of providing such opportuni
+ties for Stanford undergraduates.
+From the moment I entered graduate school, I knew that I
+wanted to pursue a career as a professor, but where I would end
+up was uncertain. I had the good fortune of settling on a thesis
+topic early and of choosing a topic that increased in importance as
+I neared completion of my thesis.
+Stanford was the last of more than a dozen universities that I
+interviewed at. I had many choices, but as you can guess, when I
+received an offer from Stanford's Department of Electrical Engi
+neering, I eagerly accepted!
+Most of my 27 years at Stanford has been spent on teaching
+and research. I have taught a range of undergraduate and gradu
+ate courses, acted as advisor for more than 25 doctorate students
+as well as a large number of master's and undergraduate students,
+and co-authored both a graduate textbook and an undergraduate
+textbook in computer architecture.
+Today, those books are my primary connection to my disci
+pline. Updating the material for new editions forces me to keep
+up with the field and stay in touch with my colleagues across the
+country, and I still enjoy seeing the texts, which are available in
+more than eight languages, being used around the world.
+When the time came to return to Stanford after my brief leave
+in Silicon Valley from 1984 until 1985, it was not a difficult deci
+sion. I enjoyed spending time in industry, working with talented
+engineers on exciting products, but I did not want to spend my ca
+reer there.
+I would miss the interaction with students — in the classroom
+and in the laboratory — too much. I would miss the freedom to
+pursue new ideas that were revolutionary and far from ready for
+commercialization. I would miss the free and wide ranging intel
+lectual debate, which is the lifeblood of our campus.
+So I returned to pursue my teaching and research during the
+next eight or nine years with a new focus on parallel computing.
+Starting almost ten years ago, I began serving in a series of pro
+gressively more demanding administrative roles beginning with
+chairman of Computer Science, moving on to dean of Engineer
+ing and then to provost, and as president for the past three and
+one-half years.
+Why — you might ask — would someone who absolutely
+loved teaching and research, who came back to campus to pur
+sue those joys, accept a major administrative post? The answer
+is complex.
+It invariably includes dedication to Stanford and gratitude for
+the opportunities that Stanford provided, as well as an interest in
+serving the University. I have found the jobs of dean, provost and
+president to be both challenging and immensely rewarding. The
+exposure to Stanford's intellectual breadth and excellence is ex
+citing. The complexity of the challenges is engaging. And the
+range and capability of the members of the Stanford community
+with whom you work is astonishing.
+The job of president is by far the most challenging and most
+exciting job I could imagine.
+When I visit informally \Vith students, they often ask what ad
+vice I might give them as they plan their time at Stanford, select a
+major or contemplate a career. I share the advice that I followed:
+Find something you love to do — something which engages you
+deeply and passionately. Stanford offers so many opportunities.
+Choose a few that you are truly committed to and build a founda
+tion on which you can make an important positive contribution to
+the world.
+
+John L. Hennessy is currently serving as the 10th University
+president, lie is also a professor of computer science and electri
+cal engineering. He earned his bachelor's degree in electrical en
+gineering from Villanova University and his master's and doc
+toral degrees in computer science from Stony Brook University.
+He has been at Stanford since 1977. He has taught a Sophomore
+College course on the"The Intellectual Excitement of Computer
+Science "for the last three years, but will unable to do so this year
+due to travelling commitments. He can be reached at hen
+n essy @stan fo rd. edu.
+
+
+John Hennessy
+A few years back, during the "gold rush" years of the dot
+com boom, quite a few students watched as fortunes
+were made in Silicon Valley and wondered whether they
+were squandering a great opportunity to "make it rich."
+Of course, in hindsight, we know that many of those fortunes were
+illusory, lost in the subsequent "dot-bomb" years.
+But without the benefit of that 20 / 20 hindsight, I know many
+students considered whether they should leave Stanford and
+make a go of it elsewhere.
+
+During that time period, I was fond of saying
+that the second best thing I did in my career was
+to start a company in Silicon Valley. I would then
+make the point that the best thing I ever did was
+to become a professor — and more specifically,
+come to Stanford. I felt this observation was an
+especially important one to make during a time
+when many students were tempted to leave their
+studies for the "greener pastures" of the Valley.
+When I discuss my experience in a start-up with
+groups of students, the next question invariably
+asked is why I came back to Stanford, rather than
+
+choosing to continue a promising career in industry. To under
+stand that decision, it is important to understand how I decided to
+pursue a doctorate and how I "decided" to come to Stanford.
+Like most "big decisions" many factors played a part. But per
+haps the most critical points in making the decision that led to
+pursuing a doctorate came in my sophomore and junior years.
+As a sophomore, 1 received my first real exposure to my major
+— electrical engineering. I found it an intriguing subject and a
+welcome switch from courses that were more preparatory in na
+ture. It was also in that year that my love of teaching was Ignited
+by the opportunity to work with other undergraduates, assisting
+them in their first programming courses. As 1 began to take more
+advanced courses, especially in computing, my interests in com
+puter science grew.
+During my junior year, I had the opportunity to get involved
+in an undergraduate research project, working on the ideas that
+preceded the modern microprocessor. It has a fascinating project
+that further stimulated by interest in pursuing a doctorate in com
+puter science. My own experience with undergraduate research
+has convinced me of the importance of providing such opportuni
+ties for Stanford undergraduates.
+From the moment I entered graduate school, I knew that I
+wanted to pursue a career as a professor, but where I would end
+up was uncertain. I had the good fortune of settling on a thesis
+topic early and of choosing a topic that increased in importance as
+I neared completion of my thesis.
+Stanford was the last of more than a dozen universities that I
+interviewed at. I had many choices, but as you can guess, when I
+received an offer from Stanford's Department of Electrical Engi
+neering, I eagerly accepted!
+Most of my 27 years at Stanford has been spent on teaching
+and research. I have taught a range of undergraduate and gradu
+ate courses, acted as advisor for more than 25 doctorate students
+as well as a large number of master's and undergraduate students,
+and co-authored both a graduate textbook and an undergraduate
+textbook in computer architecture.
+Today, those books are my primary connection to my disci
+pline. Updating the material for new editions forces me to keep
+up with the field and stay in touch with my colleagues across the
+country, and I still enjoy seeing the texts, which are available in
+more than eight languages, being used around the world.
+When the time came to return to Stanford after my brief leave
+in Silicon Valley from 1984 until 1985, it was not a difficult deci
+sion. I enjoyed spending time in industry, working with talented
+engineers on exciting products, but I did not want to spend my ca
+reer there.
+I would miss the interaction with students — in the classroom
+and in the laboratory — too much. I would miss the freedom to
+pursue new ideas that were revolutionary and far from ready for
+commercialization. I would miss the free and wide ranging intel
+lectual debate, which is the lifeblood of our campus.
+So I returned to pursue my teaching and research during the
+next eight or nine years with a new focus on parallel computing.
+Starting almost ten years ago, I began serving in a series of pro
+gressively more demanding administrative roles beginning with
+chairman of Computer Science, moving on to dean of Engineer
+ing and then to provost, and as president for the past three and
+one-half years.
+Why — you might ask — would someone who absolutely
+loved teaching and research, who came back to campus to pur
+sue those joys, accept a major administrative post? The answer
+is complex.
+It invariably includes dedication to Stanford and gratitude for
+the opportunities that Stanford provided, as well as an interest in
+serving the University. I have found the jobs of dean, provost and
+president to be both challenging and immensely rewarding. The
+exposure to Stanford's intellectual breadth and excellence is ex
+citing. The complexity of the challenges is engaging. And the
+range and capability of the members of the Stanford community
+with whom you work is astonishing.
+The job of president is by far the most challenging and most
+exciting job I could imagine.
+When I visit informally \Vith students, they often ask what ad
+vice I might give them as they plan their time at Stanford, select a
+major or contemplate a career. I share the advice that I followed:
+Find something you love to do — something which engages you
+deeply and passionately. Stanford offers so many opportunities.
+Choose a few that you are truly committed to and build a founda
+tion on which you can make an important positive contribution to
+the world.
+
+John L. Hennessy is currently serving as the 10th University
+president, lie is also a professor of computer science and electri
+cal engineering. He earned his bachelor's degree in electrical en
+gineering from Villanova University and his master's and doc
+toral degrees in computer science from Stony Brook University.
+He has been at Stanford since 1977. He has taught a Sophomore
+College course on the"The Intellectual Excitement of Computer
+Science "for the last three years, but will unable to do so this year
+due to travelling commitments. He can be reached at hen
+n essy @stan fo rd. edu.
+
+
+John Hennessy
+A few years back, during the "gold rush" years of the dot
+com boom, quite a few students watched as fortunes
+were made in Silicon Valley and wondered whether they
+were squandering a great opportunity to "make it rich."
+Of course, in hindsight, we know that many of those fortunes were
+illusory, lost in the subsequent "dot-bomb" years.
+But without the benefit of that 20 / 20 hindsight, I know many
+students considered whether they should leave Stanford and
+make a go of it elsewhere.
+
+During that time period, I was fond of saying
+that the second best thing I did in my career was
+to start a company in Silicon Valley. I would then
+make the point that the best thing I ever did was
+to become a professor — and more specifically,
+come to Stanford. I felt this observation was an
+especially important one to make during a time
+when many students were tempted to leave their
+studies for the "greener pastures" of the Valley.
+When I discuss my experience in a start-up with
+groups of students, the next question invariably
+asked is why I came back to Stanford, rather than
+
+choosing to continue a promising career in industry. To under
+stand that decision, it is important to understand how I decided to
+pursue a doctorate and how I "decided" to come to Stanford.
+Like most "big decisions" many factors played a part. But per
+haps the most critical points in making the decision that led to
+pursuing a doctorate came in my sophomore and junior years.
+As a sophomore, 1 received my first real exposure to my major
+— electrical engineering. I found it an intriguing subject and a
+welcome switch from courses that were more preparatory in na
+ture. It was also in that year that my love of teaching was Ignited
+by the opportunity to work with other undergraduates, assisting
+them in their first programming courses. As 1 began to take more
+advanced courses, especially in computing, my interests in com
+puter science grew.
+During my junior year, I had the opportunity to get involved
+in an undergraduate research project, working on the ideas that
+preceded the modern microprocessor. It has a fascinating project
+that further stimulated by interest in pursuing a doctorate in com
+puter science. My own experience with undergraduate research
+has convinced me of the importance of providing such opportuni
+ties for Stanford undergraduates.
+From the moment I entered graduate school, I knew that I
+wanted to pursue a career as a professor, but where I would end
+up was uncertain. I had the good fortune of settling on a thesis
+topic early and of choosing a topic that increased in importance as
+I neared completion of my thesis.
+Stanford was the last of more than a dozen universities that I
+interviewed at. I had many choices, but as you can guess, when I
+received an offer from Stanford's Department of Electrical Engi
+neering, I eagerly accepted!
+Most of my 27 years at Stanford has been spent on teaching
+and research. I have taught a range of undergraduate and gradu
+ate courses, acted as advisor for more than 25 doctorate students
+as well as a large number of master's and undergraduate students,
+and co-authored both a graduate textbook and an undergraduate
+textbook in computer architecture.
+Today, those books are my primary connection to my disci
+pline. Updating the material for new editions forces me to keep
+up with the field and stay in touch with my colleagues across the
+country, and I still enjoy seeing the texts, which are available in
+more than eight languages, being used around the world.
+When the time came to return to Stanford after my brief leave
+in Silicon Valley from 1984 until 1985, it was not a difficult deci
+sion. I enjoyed spending time in industry, working with talented
+engineers on exciting products, but I did not want to spend my ca
+reer there.
+I would miss the interaction with students — in the classroom
+and in the laboratory — too much. I would miss the freedom to
+pursue new ideas that were revolutionary and far from ready for
+commercialization. I would miss the free and wide ranging intel
+lectual debate, which is the lifeblood of our campus.
+So I returned to pursue my teaching and research during the
+next eight or nine years with a new focus on parallel computing.
+Starting almost ten years ago, I began serving in a series of pro
+gressively more demanding administrative roles beginning with
+chairman of Computer Science, moving on to dean of Engineer
+ing and then to provost, and as president for the past three and
+one-half years.
+Why — you might ask — would someone who absolutely
+loved teaching and research, who came back to campus to pur
+sue those joys, accept a major administrative post? The answer
+is complex.
+It invariably includes dedication to Stanford and gratitude for
+the opportunities that Stanford provided, as well as an interest in
+serving the University. I have found the jobs of dean, provost and
+president to be both challenging and immensely rewarding. The
+exposure to Stanford's intellectual breadth and excellence is ex
+citing. The complexity of the challenges is engaging. And the
+range and capability of the members of the Stanford community
+with whom you work is astonishing.
+The job of president is by far the most challenging and most
+exciting job I could imagine.
+When I visit informally \Vith students, they often ask what ad
+vice I might give them as they plan their time at Stanford, select a
+major or contemplate a career. I share the advice that I followed:
+Find something you love to do — something which engages you
+deeply and passionately. Stanford offers so many opportunities.
+Choose a few that you are truly committed to and build a founda
+tion on which you can make an important positive contribution to
+the world.
+
+John L. Hennessy is currently serving as the 10th University
+president, lie is also a professor of computer science and electri
+cal engineering. He earned his bachelor's degree in electrical en
+gineering from Villanova University and his master's and doc
+toral degrees in computer science from Stony Brook University.
+He has been at Stanford since 1977. He has taught a Sophomore
+College course on the"The Intellectual Excitement of Computer
+Science "for the last three years, but will unable to do so this year
+due to travelling commitments. He can be reached at hen
+n essy @stan fo rd. edu.
+
+
+John Hennessy
+A few years back, during the "gold rush" years of the dot
+com boom, quite a few students watched as fortunes
+were made in Silicon Valley and wondered whether they
+were squandering a great opportunity to "make it rich."
+Of course, in hindsight, we know that many of those fortunes were
+illusory, lost in the subsequent "dot-bomb" years.
+But without the benefit of that 20 / 20 hindsight, I know many
+students considered whether they should leave Stanford and
+make a go of it elsewhere.
+
+During that time period, I was fond of saying
+that the second best thing I did in my career was
+to start a company in Silicon Valley. I would then
+make the point that the best thing I ever did was
+to become a professor — and more specifically,
+come to Stanford. I felt this observation was an
+especially important one to make during a time
+when many students were tempted to leave their
+studies for the "greener pastures" of the Valley.
+When I discuss my experience in a start-up with
+groups of students, the next question invariably
+asked is why I came back to Stanford, rather than
+
+choosing to continue a promising career in industry. To under
+stand that decision, it is important to understand how I decided to
+pursue a doctorate and how I "decided" to come to Stanford.
+Like most "big decisions" many factors played a part. But per
+haps the most critical points in making the decision that led to
+pursuing a doctorate came in my sophomore and junior years.
+As a sophomore, 1 received my first real exposure to my major
+— electrical engineering. I found it an intriguing subject and a
+welcome switch from courses that were more preparatory in na
+ture. It was also in that year that my love of teaching was Ignited
+by the opportunity to work with other undergraduates, assisting
+them in their first programming courses. As 1 began to take more
+advanced courses, especially in computing, my interests in com
+puter science grew.
+During my junior year, I had the opportunity to get involved
+in an undergraduate research project, working on the ideas that
+preceded the modern microprocessor. It has a fascinating project
+that further stimulated by interest in pursuing a doctorate in com
+puter science. My own experience with undergraduate research
+has convinced me of the importance of providing such opportuni
+ties for Stanford undergraduates.
+From the moment I entered graduate school, I knew that I
+wanted to pursue a career as a professor, but where I would end
+up was uncertain. I had the good fortune of settling on a thesis
+topic early and of choosing a topic that increased in importance as
+I neared completion of my thesis.
+Stanford was the last of more than a dozen universities that I
+interviewed at. I had many choices, but as you can guess, when I
+received an offer from Stanford's Department of Electrical Engi
+neering, I eagerly accepted!
+Most of my 27 years at Stanford has been spent on teaching
+and research. I have taught a range of undergraduate and gradu
+ate courses, acted as advisor for more than 25 doctorate students
+as well as a large number of master's and undergraduate students,
+and co-authored both a graduate textbook and an undergraduate
+textbook in computer architecture.
+Today, those books are my primary connection to my disci
+pline. Updating the material for new editions forces me to keep
+up with the field and stay in touch with my colleagues across the
+country, and I still enjoy seeing the texts, which are available in
+more than eight languages, being used around the world.
+When the time came to return to Stanford after my brief leave
+in Silicon Valley from 1984 until 1985, it was not a difficult deci
+sion. I enjoyed spending time in industry, working with talented
+engineers on exciting products, but I did not want to spend my ca
+reer there.
+I would miss the interaction with students — in the classroom
+and in the laboratory — too much. I would miss the freedom to
+pursue new ideas that were revolutionary and far from ready for
+commercialization. I would miss the free and wide ranging intel
+lectual debate, which is the lifeblood of our campus.
+So I returned to pursue my teaching and research during the
+next eight or nine years with a new focus on parallel computing.
+Starting almost ten years ago, I began serving in a series of pro
+gressively more demanding administrative roles beginning with
+chairman of Computer Science, moving on to dean of Engineer
+ing and then to provost, and as president for the past three and
+one-half years.
+Why — you might ask — would someone who absolutely
+loved teaching and research, who came back to campus to pur
+sue those joys, accept a major administrative post? The answer
+is complex.
+It invariably includes dedication to Stanford and gratitude for
+the opportunities that Stanford provided, as well as an interest in
+serving the University. I have found the jobs of dean, provost and
+president to be both challenging and immensely rewarding. The
+exposure to Stanford's intellectual breadth and excellence is ex
+citing. The complexity of the challenges is engaging. And the
+range and capability of the members of the Stanford community
+with whom you work is astonishing.
+The job of president is by far the most challenging and most
+exciting job I could imagine.
+When I visit informally \Vith students, they often ask what ad
+vice I might give them as they plan their time at Stanford, select a
+major or contemplate a career. I share the advice that I followed:
+Find something you love to do — something which engages you
+deeply and passionately. Stanford offers so many opportunities.
+Choose a few that you are truly committed to and build a founda
+tion on which you can make an important positive contribution to
+the world.
+
+John L. Hennessy is currently serving as the 10th University
+president, lie is also a professor of computer science and electri
+cal engineering. He earned his bachelor's degree in electrical en
+gineering from Villanova University and his master's and doc
+toral degrees in computer science from Stony Brook University.
+He has been at Stanford since 1977. He has taught a Sophomore
+College course on the"The Intellectual Excitement of Computer
+Science "for the last three years, but will unable to do so this year
+due to travelling commitments. He can be reached at hen
+n essy @stan fo rd. edu.
+
+
+John Hennessy

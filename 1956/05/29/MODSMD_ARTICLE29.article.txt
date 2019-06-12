@@ -1,0 +1,528 @@
+# Varsity Baseball Statistics
+## 
+### 
+AB R II BA 2b nil HR SB RBI
+Jones, Ron 5 1 2 . 400 0 0 0 0 0
+Evans, Bob 128 35 47 .307 0 5 2 3 31
+Fletcher, Bob 63 13 23 .365 4 0 0 2 10
+Holzman, Mickey .... 118 30 38 .322 4 1 1 20 14
+Stewart, Steve 108 22 34 .315 7 0 0 4 21
+Payne, Walt 38 7 12 .316 1 2 0 0 6
+Messner, Hal 100 20 31 -.310 3 2 3 1 23
+Shaw, A 1 134 24 38 .284 5 4 1 12 12
+Young. Ray 92 20 26 .283 2 3 0 5 IS
+Holfing, Ralph 74 13 20 .273 3 2 2 0 12
+Morgan, Jerry 30 4 8 .267 1 0 0 0 2
+Figueroa, Rudy 124 29 33 . 266 3 2 0 8 23
+Spurgeon, A 1 50 4 13 .260 2 1 0 1 8
+Avery, George 4 0 1 .250 0 1 0 0 1
+Flanders, Bob IS 3 4 .222 0 0 0 0 1
+West, Wayne 5 2 1 .200 0 0 0 2 2
+Camilli, Doug 61 5 12 .197 0 0 0 3 8
+Murray, Tom 7 0 1 .143 0 0 0 1 0
+Verdurman, Ed 16 1 2 .125 0 0 0 2 1
+Jones. Dick 9 0 1 .111 0 0 0 0 0
+Dwight, Bob 1 0 0 .000 0 () 0 0 0
+Lauderdale, Merle ..: 2 1 0 .000 0 0 0 0 0
+Looney, Ray 2 0 0 .000 0 0 0 0 ()
+Dito, John 1 0 0 .000 0 0 0 0 0
+Met calf. Dale 1 0 0 .000 0 0 0 0 0
+TOTALS 1194 234 347 .290 41 23 9 64 197
+Pitchers IP I: II SO BB W L ERA
+Verdurmen, Ed 4S\ ( 12 21 33 23 4 1 1.29
+I Avery, George 4 J A 2 4 3 3 0 0 1.93
+| Young, Ray 46 100 58 24 8 5 2.48
+Payne, Walt 95; ( 45 99 70 61 8 3 3.11
+Looney, Ray 14 5 10 5 5 2 0 3.21
+Jones, Dick 28v., 17 24 11 10 2 1 4.43
+TOTALS 310 , 127 258 180 132 24 10 2.69
+AB R II BA 2b nil HR SB RBI
+Jones, Ron 5 1 2 . 400 0 0 0 0 0
+Evans, Bob 128 35 47 .307 0 5 2 3 31
+Fletcher, Bob 63 13 23 .365 4 0 0 2 10
+Holzman, Mickey .... 118 30 38 .322 4 1 1 20 14
+Stewart, Steve 108 22 34 .315 7 0 0 4 21
+Payne, Walt 38 7 12 .316 1 2 0 0 6
+Messner, Hal 100 20 31 -.310 3 2 3 1 23
+Shaw, A 1 134 24 38 .284 5 4 1 12 12
+Young. Ray 92 20 26 .283 2 3 0 5 IS
+Holfing, Ralph 74 13 20 .273 3 2 2 0 12
+Morgan, Jerry 30 4 8 .267 1 0 0 0 2
+Figueroa, Rudy 124 29 33 . 266 3 2 0 8 23
+Spurgeon, A 1 50 4 13 .260 2 1 0 1 8
+Avery, George 4 0 1 .250 0 1 0 0 1
+Flanders, Bob IS 3 4 .222 0 0 0 0 1
+West, Wayne 5 2 1 .200 0 0 0 2 2
+Camilli, Doug 61 5 12 .197 0 0 0 3 8
+Murray, Tom 7 0 1 .143 0 0 0 1 0
+Verdurman, Ed 16 1 2 .125 0 0 0 2 1
+Jones. Dick 9 0 1 .111 0 0 0 0 0
+Dwight, Bob 1 0 0 .000 0 () 0 0 0
+Lauderdale, Merle ..: 2 1 0 .000 0 0 0 0 0
+Looney, Ray 2 0 0 .000 0 0 0 0 ()
+Dito, John 1 0 0 .000 0 0 0 0 0
+Met calf. Dale 1 0 0 .000 0 0 0 0 0
+TOTALS 1194 234 347 .290 41 23 9 64 197
+Pitchers IP I: II SO BB W L ERA
+Verdurmen, Ed 4S\ ( 12 21 33 23 4 1 1.29
+I Avery, George 4 J A 2 4 3 3 0 0 1.93
+| Young, Ray 46 100 58 24 8 5 2.48
+Payne, Walt 95; ( 45 99 70 61 8 3 3.11
+Looney, Ray 14 5 10 5 5 2 0 3.21
+Jones, Dick 28v., 17 24 11 10 2 1 4.43
+TOTALS 310 , 127 258 180 132 24 10 2.69
+AB R II BA 2b nil HR SB RBI
+Jones, Ron 5 1 2 . 400 0 0 0 0 0
+Evans, Bob 128 35 47 .307 0 5 2 3 31
+Fletcher, Bob 63 13 23 .365 4 0 0 2 10
+Holzman, Mickey .... 118 30 38 .322 4 1 1 20 14
+Stewart, Steve 108 22 34 .315 7 0 0 4 21
+Payne, Walt 38 7 12 .316 1 2 0 0 6
+Messner, Hal 100 20 31 -.310 3 2 3 1 23
+Shaw, A 1 134 24 38 .284 5 4 1 12 12
+Young. Ray 92 20 26 .283 2 3 0 5 IS
+Holfing, Ralph 74 13 20 .273 3 2 2 0 12
+Morgan, Jerry 30 4 8 .267 1 0 0 0 2
+Figueroa, Rudy 124 29 33 . 266 3 2 0 8 23
+Spurgeon, A 1 50 4 13 .260 2 1 0 1 8
+Avery, George 4 0 1 .250 0 1 0 0 1
+Flanders, Bob IS 3 4 .222 0 0 0 0 1
+West, Wayne 5 2 1 .200 0 0 0 2 2
+Camilli, Doug 61 5 12 .197 0 0 0 3 8
+Murray, Tom 7 0 1 .143 0 0 0 1 0
+Verdurman, Ed 16 1 2 .125 0 0 0 2 1
+Jones. Dick 9 0 1 .111 0 0 0 0 0
+Dwight, Bob 1 0 0 .000 0 () 0 0 0
+Lauderdale, Merle ..: 2 1 0 .000 0 0 0 0 0
+Looney, Ray 2 0 0 .000 0 0 0 0 ()
+Dito, John 1 0 0 .000 0 0 0 0 0
+Met calf. Dale 1 0 0 .000 0 0 0 0 0
+TOTALS 1194 234 347 .290 41 23 9 64 197
+Pitchers IP I: II SO BB W L ERA
+Verdurmen, Ed 4S\ ( 12 21 33 23 4 1 1.29
+I Avery, George 4 J A 2 4 3 3 0 0 1.93
+| Young, Ray 46 100 58 24 8 5 2.48
+Payne, Walt 95; ( 45 99 70 61 8 3 3.11
+Looney, Ray 14 5 10 5 5 2 0 3.21
+Jones, Dick 28v., 17 24 11 10 2 1 4.43
+TOTALS 310 , 127 258 180 132 24 10 2.69
+AB R II BA 2b nil HR SB RBI
+Jones, Ron 5 1 2 . 400 0 0 0 0 0
+Evans, Bob 128 35 47 .307 0 5 2 3 31
+Fletcher, Bob 63 13 23 .365 4 0 0 2 10
+Holzman, Mickey .... 118 30 38 .322 4 1 1 20 14
+Stewart, Steve 108 22 34 .315 7 0 0 4 21
+Payne, Walt 38 7 12 .316 1 2 0 0 6
+Messner, Hal 100 20 31 -.310 3 2 3 1 23
+Shaw, A 1 134 24 38 .284 5 4 1 12 12
+Young. Ray 92 20 26 .283 2 3 0 5 IS
+Holfing, Ralph 74 13 20 .273 3 2 2 0 12
+Morgan, Jerry 30 4 8 .267 1 0 0 0 2
+Figueroa, Rudy 124 29 33 . 266 3 2 0 8 23
+Spurgeon, A 1 50 4 13 .260 2 1 0 1 8
+Avery, George 4 0 1 .250 0 1 0 0 1
+Flanders, Bob IS 3 4 .222 0 0 0 0 1
+West, Wayne 5 2 1 .200 0 0 0 2 2
+Camilli, Doug 61 5 12 .197 0 0 0 3 8
+Murray, Tom 7 0 1 .143 0 0 0 1 0
+Verdurman, Ed 16 1 2 .125 0 0 0 2 1
+Jones. Dick 9 0 1 .111 0 0 0 0 0
+Dwight, Bob 1 0 0 .000 0 () 0 0 0
+Lauderdale, Merle ..: 2 1 0 .000 0 0 0 0 0
+Looney, Ray 2 0 0 .000 0 0 0 0 ()
+Dito, John 1 0 0 .000 0 0 0 0 0
+Met calf. Dale 1 0 0 .000 0 0 0 0 0
+TOTALS 1194 234 347 .290 41 23 9 64 197
+Pitchers IP I: II SO BB W L ERA
+Verdurmen, Ed 4S\ ( 12 21 33 23 4 1 1.29
+I Avery, George 4 J A 2 4 3 3 0 0 1.93
+| Young, Ray 46 100 58 24 8 5 2.48
+Payne, Walt 95; ( 45 99 70 61 8 3 3.11
+Looney, Ray 14 5 10 5 5 2 0 3.21
+Jones, Dick 28v., 17 24 11 10 2 1 4.43
+TOTALS 310 , 127 258 180 132 24 10 2.69
+AB R II BA 2b nil HR SB RBI
+Jones, Ron 5 1 2 . 400 0 0 0 0 0
+Evans, Bob 128 35 47 .307 0 5 2 3 31
+Fletcher, Bob 63 13 23 .365 4 0 0 2 10
+Holzman, Mickey .... 118 30 38 .322 4 1 1 20 14
+Stewart, Steve 108 22 34 .315 7 0 0 4 21
+Payne, Walt 38 7 12 .316 1 2 0 0 6
+Messner, Hal 100 20 31 -.310 3 2 3 1 23
+Shaw, A 1 134 24 38 .284 5 4 1 12 12
+Young. Ray 92 20 26 .283 2 3 0 5 IS
+Holfing, Ralph 74 13 20 .273 3 2 2 0 12
+Morgan, Jerry 30 4 8 .267 1 0 0 0 2
+Figueroa, Rudy 124 29 33 . 266 3 2 0 8 23
+Spurgeon, A 1 50 4 13 .260 2 1 0 1 8
+Avery, George 4 0 1 .250 0 1 0 0 1
+Flanders, Bob IS 3 4 .222 0 0 0 0 1
+West, Wayne 5 2 1 .200 0 0 0 2 2
+Camilli, Doug 61 5 12 .197 0 0 0 3 8
+Murray, Tom 7 0 1 .143 0 0 0 1 0
+Verdurman, Ed 16 1 2 .125 0 0 0 2 1
+Jones. Dick 9 0 1 .111 0 0 0 0 0
+Dwight, Bob 1 0 0 .000 0 () 0 0 0
+Lauderdale, Merle ..: 2 1 0 .000 0 0 0 0 0
+Looney, Ray 2 0 0 .000 0 0 0 0 ()
+Dito, John 1 0 0 .000 0 0 0 0 0
+Met calf. Dale 1 0 0 .000 0 0 0 0 0
+TOTALS 1194 234 347 .290 41 23 9 64 197
+Pitchers IP I: II SO BB W L ERA
+Verdurmen, Ed 4S\ ( 12 21 33 23 4 1 1.29
+I Avery, George 4 J A 2 4 3 3 0 0 1.93
+| Young, Ray 46 100 58 24 8 5 2.48
+Payne, Walt 95; ( 45 99 70 61 8 3 3.11
+Looney, Ray 14 5 10 5 5 2 0 3.21
+Jones, Dick 28v., 17 24 11 10 2 1 4.43
+TOTALS 310 , 127 258 180 132 24 10 2.69
+AB R II BA 2b nil HR SB RBI
+Jones, Ron 5 1 2 . 400 0 0 0 0 0
+Evans, Bob 128 35 47 .307 0 5 2 3 31
+Fletcher, Bob 63 13 23 .365 4 0 0 2 10
+Holzman, Mickey .... 118 30 38 .322 4 1 1 20 14
+Stewart, Steve 108 22 34 .315 7 0 0 4 21
+Payne, Walt 38 7 12 .316 1 2 0 0 6
+Messner, Hal 100 20 31 -.310 3 2 3 1 23
+Shaw, A 1 134 24 38 .284 5 4 1 12 12
+Young. Ray 92 20 26 .283 2 3 0 5 IS
+Holfing, Ralph 74 13 20 .273 3 2 2 0 12
+Morgan, Jerry 30 4 8 .267 1 0 0 0 2
+Figueroa, Rudy 124 29 33 . 266 3 2 0 8 23
+Spurgeon, A 1 50 4 13 .260 2 1 0 1 8
+Avery, George 4 0 1 .250 0 1 0 0 1
+Flanders, Bob IS 3 4 .222 0 0 0 0 1
+West, Wayne 5 2 1 .200 0 0 0 2 2
+Camilli, Doug 61 5 12 .197 0 0 0 3 8
+Murray, Tom 7 0 1 .143 0 0 0 1 0
+Verdurman, Ed 16 1 2 .125 0 0 0 2 1
+Jones. Dick 9 0 1 .111 0 0 0 0 0
+Dwight, Bob 1 0 0 .000 0 () 0 0 0
+Lauderdale, Merle ..: 2 1 0 .000 0 0 0 0 0
+Looney, Ray 2 0 0 .000 0 0 0 0 ()
+Dito, John 1 0 0 .000 0 0 0 0 0
+Met calf. Dale 1 0 0 .000 0 0 0 0 0
+TOTALS 1194 234 347 .290 41 23 9 64 197
+Pitchers IP I: II SO BB W L ERA
+Verdurmen, Ed 4S\ ( 12 21 33 23 4 1 1.29
+I Avery, George 4 J A 2 4 3 3 0 0 1.93
+| Young, Ray 46 100 58 24 8 5 2.48
+Payne, Walt 95; ( 45 99 70 61 8 3 3.11
+Looney, Ray 14 5 10 5 5 2 0 3.21
+Jones, Dick 28v., 17 24 11 10 2 1 4.43
+TOTALS 310 , 127 258 180 132 24 10 2.69
+AB R II BA 2b nil HR SB RBI
+Jones, Ron 5 1 2 . 400 0 0 0 0 0
+Evans, Bob 128 35 47 .307 0 5 2 3 31
+Fletcher, Bob 63 13 23 .365 4 0 0 2 10
+Holzman, Mickey .... 118 30 38 .322 4 1 1 20 14
+Stewart, Steve 108 22 34 .315 7 0 0 4 21
+Payne, Walt 38 7 12 .316 1 2 0 0 6
+Messner, Hal 100 20 31 -.310 3 2 3 1 23
+Shaw, A 1 134 24 38 .284 5 4 1 12 12
+Young. Ray 92 20 26 .283 2 3 0 5 IS
+Holfing, Ralph 74 13 20 .273 3 2 2 0 12
+Morgan, Jerry 30 4 8 .267 1 0 0 0 2
+Figueroa, Rudy 124 29 33 . 266 3 2 0 8 23
+Spurgeon, A 1 50 4 13 .260 2 1 0 1 8
+Avery, George 4 0 1 .250 0 1 0 0 1
+Flanders, Bob IS 3 4 .222 0 0 0 0 1
+West, Wayne 5 2 1 .200 0 0 0 2 2
+Camilli, Doug 61 5 12 .197 0 0 0 3 8
+Murray, Tom 7 0 1 .143 0 0 0 1 0
+Verdurman, Ed 16 1 2 .125 0 0 0 2 1
+Jones. Dick 9 0 1 .111 0 0 0 0 0
+Dwight, Bob 1 0 0 .000 0 () 0 0 0
+Lauderdale, Merle ..: 2 1 0 .000 0 0 0 0 0
+Looney, Ray 2 0 0 .000 0 0 0 0 ()
+Dito, John 1 0 0 .000 0 0 0 0 0
+Met calf. Dale 1 0 0 .000 0 0 0 0 0
+TOTALS 1194 234 347 .290 41 23 9 64 197
+Pitchers IP I: II SO BB W L ERA
+Verdurmen, Ed 4S\ ( 12 21 33 23 4 1 1.29
+I Avery, George 4 J A 2 4 3 3 0 0 1.93
+| Young, Ray 46 100 58 24 8 5 2.48
+Payne, Walt 95; ( 45 99 70 61 8 3 3.11
+Looney, Ray 14 5 10 5 5 2 0 3.21
+Jones, Dick 28v., 17 24 11 10 2 1 4.43
+TOTALS 310 , 127 258 180 132 24 10 2.69
+AB R II BA 2b nil HR SB RBI
+Jones, Ron 5 1 2 . 400 0 0 0 0 0
+Evans, Bob 128 35 47 .307 0 5 2 3 31
+Fletcher, Bob 63 13 23 .365 4 0 0 2 10
+Holzman, Mickey .... 118 30 38 .322 4 1 1 20 14
+Stewart, Steve 108 22 34 .315 7 0 0 4 21
+Payne, Walt 38 7 12 .316 1 2 0 0 6
+Messner, Hal 100 20 31 -.310 3 2 3 1 23
+Shaw, A 1 134 24 38 .284 5 4 1 12 12
+Young. Ray 92 20 26 .283 2 3 0 5 IS
+Holfing, Ralph 74 13 20 .273 3 2 2 0 12
+Morgan, Jerry 30 4 8 .267 1 0 0 0 2
+Figueroa, Rudy 124 29 33 . 266 3 2 0 8 23
+Spurgeon, A 1 50 4 13 .260 2 1 0 1 8
+Avery, George 4 0 1 .250 0 1 0 0 1
+Flanders, Bob IS 3 4 .222 0 0 0 0 1
+West, Wayne 5 2 1 .200 0 0 0 2 2
+Camilli, Doug 61 5 12 .197 0 0 0 3 8
+Murray, Tom 7 0 1 .143 0 0 0 1 0
+Verdurman, Ed 16 1 2 .125 0 0 0 2 1
+Jones. Dick 9 0 1 .111 0 0 0 0 0
+Dwight, Bob 1 0 0 .000 0 () 0 0 0
+Lauderdale, Merle ..: 2 1 0 .000 0 0 0 0 0
+Looney, Ray 2 0 0 .000 0 0 0 0 ()
+Dito, John 1 0 0 .000 0 0 0 0 0
+Met calf. Dale 1 0 0 .000 0 0 0 0 0
+TOTALS 1194 234 347 .290 41 23 9 64 197
+Pitchers IP I: II SO BB W L ERA
+Verdurmen, Ed 4S\ ( 12 21 33 23 4 1 1.29
+I Avery, George 4 J A 2 4 3 3 0 0 1.93
+| Young, Ray 46 100 58 24 8 5 2.48
+Payne, Walt 95; ( 45 99 70 61 8 3 3.11
+Looney, Ray 14 5 10 5 5 2 0 3.21
+Jones, Dick 28v., 17 24 11 10 2 1 4.43
+TOTALS 310 , 127 258 180 132 24 10 2.69
+AB R II BA 2b nil HR SB RBI
+Jones, Ron 5 1 2 . 400 0 0 0 0 0
+Evans, Bob 128 35 47 .307 0 5 2 3 31
+Fletcher, Bob 63 13 23 .365 4 0 0 2 10
+Holzman, Mickey .... 118 30 38 .322 4 1 1 20 14
+Stewart, Steve 108 22 34 .315 7 0 0 4 21
+Payne, Walt 38 7 12 .316 1 2 0 0 6
+Messner, Hal 100 20 31 -.310 3 2 3 1 23
+Shaw, A 1 134 24 38 .284 5 4 1 12 12
+Young. Ray 92 20 26 .283 2 3 0 5 IS
+Holfing, Ralph 74 13 20 .273 3 2 2 0 12
+Morgan, Jerry 30 4 8 .267 1 0 0 0 2
+Figueroa, Rudy 124 29 33 . 266 3 2 0 8 23
+Spurgeon, A 1 50 4 13 .260 2 1 0 1 8
+Avery, George 4 0 1 .250 0 1 0 0 1
+Flanders, Bob IS 3 4 .222 0 0 0 0 1
+West, Wayne 5 2 1 .200 0 0 0 2 2
+Camilli, Doug 61 5 12 .197 0 0 0 3 8
+Murray, Tom 7 0 1 .143 0 0 0 1 0
+Verdurman, Ed 16 1 2 .125 0 0 0 2 1
+Jones. Dick 9 0 1 .111 0 0 0 0 0
+Dwight, Bob 1 0 0 .000 0 () 0 0 0
+Lauderdale, Merle ..: 2 1 0 .000 0 0 0 0 0
+Looney, Ray 2 0 0 .000 0 0 0 0 ()
+Dito, John 1 0 0 .000 0 0 0 0 0
+Met calf. Dale 1 0 0 .000 0 0 0 0 0
+TOTALS 1194 234 347 .290 41 23 9 64 197
+Pitchers IP I: II SO BB W L ERA
+Verdurmen, Ed 4S\ ( 12 21 33 23 4 1 1.29
+I Avery, George 4 J A 2 4 3 3 0 0 1.93
+| Young, Ray 46 100 58 24 8 5 2.48
+Payne, Walt 95; ( 45 99 70 61 8 3 3.11
+Looney, Ray 14 5 10 5 5 2 0 3.21
+Jones, Dick 28v., 17 24 11 10 2 1 4.43
+TOTALS 310 , 127 258 180 132 24 10 2.69
+AB R II BA 2b nil HR SB RBI
+Jones, Ron 5 1 2 . 400 0 0 0 0 0
+Evans, Bob 128 35 47 .307 0 5 2 3 31
+Fletcher, Bob 63 13 23 .365 4 0 0 2 10
+Holzman, Mickey .... 118 30 38 .322 4 1 1 20 14
+Stewart, Steve 108 22 34 .315 7 0 0 4 21
+Payne, Walt 38 7 12 .316 1 2 0 0 6
+Messner, Hal 100 20 31 -.310 3 2 3 1 23
+Shaw, A 1 134 24 38 .284 5 4 1 12 12
+Young. Ray 92 20 26 .283 2 3 0 5 IS
+Holfing, Ralph 74 13 20 .273 3 2 2 0 12
+Morgan, Jerry 30 4 8 .267 1 0 0 0 2
+Figueroa, Rudy 124 29 33 . 266 3 2 0 8 23
+Spurgeon, A 1 50 4 13 .260 2 1 0 1 8
+Avery, George 4 0 1 .250 0 1 0 0 1
+Flanders, Bob IS 3 4 .222 0 0 0 0 1
+West, Wayne 5 2 1 .200 0 0 0 2 2
+Camilli, Doug 61 5 12 .197 0 0 0 3 8
+Murray, Tom 7 0 1 .143 0 0 0 1 0
+Verdurman, Ed 16 1 2 .125 0 0 0 2 1
+Jones. Dick 9 0 1 .111 0 0 0 0 0
+Dwight, Bob 1 0 0 .000 0 () 0 0 0
+Lauderdale, Merle ..: 2 1 0 .000 0 0 0 0 0
+Looney, Ray 2 0 0 .000 0 0 0 0 ()
+Dito, John 1 0 0 .000 0 0 0 0 0
+Met calf. Dale 1 0 0 .000 0 0 0 0 0
+TOTALS 1194 234 347 .290 41 23 9 64 197
+Pitchers IP I: II SO BB W L ERA
+Verdurmen, Ed 4S\ ( 12 21 33 23 4 1 1.29
+I Avery, George 4 J A 2 4 3 3 0 0 1.93
+| Young, Ray 46 100 58 24 8 5 2.48
+Payne, Walt 95; ( 45 99 70 61 8 3 3.11
+Looney, Ray 14 5 10 5 5 2 0 3.21
+Jones, Dick 28v., 17 24 11 10 2 1 4.43
+TOTALS 310 , 127 258 180 132 24 10 2.69
+AB R II BA 2b nil HR SB RBI
+Jones, Ron 5 1 2 . 400 0 0 0 0 0
+Evans, Bob 128 35 47 .307 0 5 2 3 31
+Fletcher, Bob 63 13 23 .365 4 0 0 2 10
+Holzman, Mickey .... 118 30 38 .322 4 1 1 20 14
+Stewart, Steve 108 22 34 .315 7 0 0 4 21
+Payne, Walt 38 7 12 .316 1 2 0 0 6
+Messner, Hal 100 20 31 -.310 3 2 3 1 23
+Shaw, A 1 134 24 38 .284 5 4 1 12 12
+Young. Ray 92 20 26 .283 2 3 0 5 IS
+Holfing, Ralph 74 13 20 .273 3 2 2 0 12
+Morgan, Jerry 30 4 8 .267 1 0 0 0 2
+Figueroa, Rudy 124 29 33 . 266 3 2 0 8 23
+Spurgeon, A 1 50 4 13 .260 2 1 0 1 8
+Avery, George 4 0 1 .250 0 1 0 0 1
+Flanders, Bob IS 3 4 .222 0 0 0 0 1
+West, Wayne 5 2 1 .200 0 0 0 2 2
+Camilli, Doug 61 5 12 .197 0 0 0 3 8
+Murray, Tom 7 0 1 .143 0 0 0 1 0
+Verdurman, Ed 16 1 2 .125 0 0 0 2 1
+Jones. Dick 9 0 1 .111 0 0 0 0 0
+Dwight, Bob 1 0 0 .000 0 () 0 0 0
+Lauderdale, Merle ..: 2 1 0 .000 0 0 0 0 0
+Looney, Ray 2 0 0 .000 0 0 0 0 ()
+Dito, John 1 0 0 .000 0 0 0 0 0
+Met calf. Dale 1 0 0 .000 0 0 0 0 0
+TOTALS 1194 234 347 .290 41 23 9 64 197
+Pitchers IP I: II SO BB W L ERA
+Verdurmen, Ed 4S\ ( 12 21 33 23 4 1 1.29
+I Avery, George 4 J A 2 4 3 3 0 0 1.93
+| Young, Ray 46 100 58 24 8 5 2.48
+Payne, Walt 95; ( 45 99 70 61 8 3 3.11
+Looney, Ray 14 5 10 5 5 2 0 3.21
+Jones, Dick 28v., 17 24 11 10 2 1 4.43
+TOTALS 310 , 127 258 180 132 24 10 2.69
+AB R II BA 2b nil HR SB RBI
+Jones, Ron 5 1 2 . 400 0 0 0 0 0
+Evans, Bob 128 35 47 .307 0 5 2 3 31
+Fletcher, Bob 63 13 23 .365 4 0 0 2 10
+Holzman, Mickey .... 118 30 38 .322 4 1 1 20 14
+Stewart, Steve 108 22 34 .315 7 0 0 4 21
+Payne, Walt 38 7 12 .316 1 2 0 0 6
+Messner, Hal 100 20 31 -.310 3 2 3 1 23
+Shaw, A 1 134 24 38 .284 5 4 1 12 12
+Young. Ray 92 20 26 .283 2 3 0 5 IS
+Holfing, Ralph 74 13 20 .273 3 2 2 0 12
+Morgan, Jerry 30 4 8 .267 1 0 0 0 2
+Figueroa, Rudy 124 29 33 . 266 3 2 0 8 23
+Spurgeon, A 1 50 4 13 .260 2 1 0 1 8
+Avery, George 4 0 1 .250 0 1 0 0 1
+Flanders, Bob IS 3 4 .222 0 0 0 0 1
+West, Wayne 5 2 1 .200 0 0 0 2 2
+Camilli, Doug 61 5 12 .197 0 0 0 3 8
+Murray, Tom 7 0 1 .143 0 0 0 1 0
+Verdurman, Ed 16 1 2 .125 0 0 0 2 1
+Jones. Dick 9 0 1 .111 0 0 0 0 0
+Dwight, Bob 1 0 0 .000 0 () 0 0 0
+Lauderdale, Merle ..: 2 1 0 .000 0 0 0 0 0
+Looney, Ray 2 0 0 .000 0 0 0 0 ()
+Dito, John 1 0 0 .000 0 0 0 0 0
+Met calf. Dale 1 0 0 .000 0 0 0 0 0
+TOTALS 1194 234 347 .290 41 23 9 64 197
+Pitchers IP I: II SO BB W L ERA
+Verdurmen, Ed 4S\ ( 12 21 33 23 4 1 1.29
+I Avery, George 4 J A 2 4 3 3 0 0 1.93
+| Young, Ray 46 100 58 24 8 5 2.48
+Payne, Walt 95; ( 45 99 70 61 8 3 3.11
+Looney, Ray 14 5 10 5 5 2 0 3.21
+Jones, Dick 28v., 17 24 11 10 2 1 4.43
+TOTALS 310 , 127 258 180 132 24 10 2.69
+AB R II BA 2b nil HR SB RBI
+Jones, Ron 5 1 2 . 400 0 0 0 0 0
+Evans, Bob 128 35 47 .307 0 5 2 3 31
+Fletcher, Bob 63 13 23 .365 4 0 0 2 10
+Holzman, Mickey .... 118 30 38 .322 4 1 1 20 14
+Stewart, Steve 108 22 34 .315 7 0 0 4 21
+Payne, Walt 38 7 12 .316 1 2 0 0 6
+Messner, Hal 100 20 31 -.310 3 2 3 1 23
+Shaw, A 1 134 24 38 .284 5 4 1 12 12
+Young. Ray 92 20 26 .283 2 3 0 5 IS
+Holfing, Ralph 74 13 20 .273 3 2 2 0 12
+Morgan, Jerry 30 4 8 .267 1 0 0 0 2
+Figueroa, Rudy 124 29 33 . 266 3 2 0 8 23
+Spurgeon, A 1 50 4 13 .260 2 1 0 1 8
+Avery, George 4 0 1 .250 0 1 0 0 1
+Flanders, Bob IS 3 4 .222 0 0 0 0 1
+West, Wayne 5 2 1 .200 0 0 0 2 2
+Camilli, Doug 61 5 12 .197 0 0 0 3 8
+Murray, Tom 7 0 1 .143 0 0 0 1 0
+Verdurman, Ed 16 1 2 .125 0 0 0 2 1
+Jones. Dick 9 0 1 .111 0 0 0 0 0
+Dwight, Bob 1 0 0 .000 0 () 0 0 0
+Lauderdale, Merle ..: 2 1 0 .000 0 0 0 0 0
+Looney, Ray 2 0 0 .000 0 0 0 0 ()
+Dito, John 1 0 0 .000 0 0 0 0 0
+Met calf. Dale 1 0 0 .000 0 0 0 0 0
+TOTALS 1194 234 347 .290 41 23 9 64 197
+Pitchers IP I: II SO BB W L ERA
+Verdurmen, Ed 4S\ ( 12 21 33 23 4 1 1.29
+I Avery, George 4 J A 2 4 3 3 0 0 1.93
+| Young, Ray 46 100 58 24 8 5 2.48
+Payne, Walt 95; ( 45 99 70 61 8 3 3.11
+Looney, Ray 14 5 10 5 5 2 0 3.21
+Jones, Dick 28v., 17 24 11 10 2 1 4.43
+TOTALS 310 , 127 258 180 132 24 10 2.69
+AB R II BA 2b nil HR SB RBI
+Jones, Ron 5 1 2 . 400 0 0 0 0 0
+Evans, Bob 128 35 47 .307 0 5 2 3 31
+Fletcher, Bob 63 13 23 .365 4 0 0 2 10
+Holzman, Mickey .... 118 30 38 .322 4 1 1 20 14
+Stewart, Steve 108 22 34 .315 7 0 0 4 21
+Payne, Walt 38 7 12 .316 1 2 0 0 6
+Messner, Hal 100 20 31 -.310 3 2 3 1 23
+Shaw, A 1 134 24 38 .284 5 4 1 12 12
+Young. Ray 92 20 26 .283 2 3 0 5 IS
+Holfing, Ralph 74 13 20 .273 3 2 2 0 12
+Morgan, Jerry 30 4 8 .267 1 0 0 0 2
+Figueroa, Rudy 124 29 33 . 266 3 2 0 8 23
+Spurgeon, A 1 50 4 13 .260 2 1 0 1 8
+Avery, George 4 0 1 .250 0 1 0 0 1
+Flanders, Bob IS 3 4 .222 0 0 0 0 1
+West, Wayne 5 2 1 .200 0 0 0 2 2
+Camilli, Doug 61 5 12 .197 0 0 0 3 8
+Murray, Tom 7 0 1 .143 0 0 0 1 0
+Verdurman, Ed 16 1 2 .125 0 0 0 2 1
+Jones. Dick 9 0 1 .111 0 0 0 0 0
+Dwight, Bob 1 0 0 .000 0 () 0 0 0
+Lauderdale, Merle ..: 2 1 0 .000 0 0 0 0 0
+Looney, Ray 2 0 0 .000 0 0 0 0 ()
+Dito, John 1 0 0 .000 0 0 0 0 0
+Met calf. Dale 1 0 0 .000 0 0 0 0 0
+TOTALS 1194 234 347 .290 41 23 9 64 197
+Pitchers IP I: II SO BB W L ERA
+Verdurmen, Ed 4S\ ( 12 21 33 23 4 1 1.29
+I Avery, George 4 J A 2 4 3 3 0 0 1.93
+| Young, Ray 46 100 58 24 8 5 2.48
+Payne, Walt 95; ( 45 99 70 61 8 3 3.11
+Looney, Ray 14 5 10 5 5 2 0 3.21
+Jones, Dick 28v., 17 24 11 10 2 1 4.43
+TOTALS 310 , 127 258 180 132 24 10 2.69
+AB R II BA 2b nil HR SB RBI
+Jones, Ron 5 1 2 . 400 0 0 0 0 0
+Evans, Bob 128 35 47 .307 0 5 2 3 31
+Fletcher, Bob 63 13 23 .365 4 0 0 2 10
+Holzman, Mickey .... 118 30 38 .322 4 1 1 20 14
+Stewart, Steve 108 22 34 .315 7 0 0 4 21
+Payne, Walt 38 7 12 .316 1 2 0 0 6
+Messner, Hal 100 20 31 -.310 3 2 3 1 23
+Shaw, A 1 134 24 38 .284 5 4 1 12 12
+Young. Ray 92 20 26 .283 2 3 0 5 IS
+Holfing, Ralph 74 13 20 .273 3 2 2 0 12
+Morgan, Jerry 30 4 8 .267 1 0 0 0 2
+Figueroa, Rudy 124 29 33 . 266 3 2 0 8 23
+Spurgeon, A 1 50 4 13 .260 2 1 0 1 8
+Avery, George 4 0 1 .250 0 1 0 0 1
+Flanders, Bob IS 3 4 .222 0 0 0 0 1
+West, Wayne 5 2 1 .200 0 0 0 2 2
+Camilli, Doug 61 5 12 .197 0 0 0 3 8
+Murray, Tom 7 0 1 .143 0 0 0 1 0
+Verdurman, Ed 16 1 2 .125 0 0 0 2 1
+Jones. Dick 9 0 1 .111 0 0 0 0 0
+Dwight, Bob 1 0 0 .000 0 () 0 0 0
+Lauderdale, Merle ..: 2 1 0 .000 0 0 0 0 0
+Looney, Ray 2 0 0 .000 0 0 0 0 ()
+Dito, John 1 0 0 .000 0 0 0 0 0
+Met calf. Dale 1 0 0 .000 0 0 0 0 0
+TOTALS 1194 234 347 .290 41 23 9 64 197
+Pitchers IP I: II SO BB W L ERA
+Verdurmen, Ed 4S\ ( 12 21 33 23 4 1 1.29
+I Avery, George 4 J A 2 4 3 3 0 0 1.93
+| Young, Ray 46 100 58 24 8 5 2.48
+Payne, Walt 95; ( 45 99 70 61 8 3 3.11
+Looney, Ray 14 5 10 5 5 2 0 3.21
+Jones, Dick 28v., 17 24 11 10 2 1 4.43
+TOTALS 310 , 127 258 180 132 24 10 2.69

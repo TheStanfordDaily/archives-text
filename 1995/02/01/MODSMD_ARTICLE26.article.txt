@@ -1,0 +1,699 @@
+# Tiny chip to transmit multiple data
+## Telemetry may help monitor surgery, environment 
+### Julie Sauer Editorial staff 
+A small transmitting chip, measuring 2 mil
+limeters on each side, may provide researchers
+with the ability to gather data from laboratory
+animals, record the toxicity of water, and aid in
+fetal operations.
+Rafael Betancourt-Zamora, a graduate stu
+dent in electrical engineering, is currently work
+ing on a chip that would be used for radio teleme
+try — measuring signals or data and sending the
+information to remote locations.
+Betancourt-Zamora, who works in the lab of
+Gregory Kovacs, an assistant professor of Elec
+trical Engineering, described the purpose of the
+telemetry experiments. "In a general sense, any
+time you have sensors, you have a need for
+telemetry," he said. "You don't want to deal with
+the materials themselves — you just want the
+measurements," he explained.
+Researchers in Kovacs' lab are trying to make
+a chip that may be implanted in a nerve to mea
+sure and transmit nerve signals. Betancourt-
+Zamora and fellow graduate student Todd
+Whitehurst are both developing technology that
+will be useful to the neural interface project.
+Whitehurst has developed a chip perforated
+with an 8 hole by 8 hole matrix and containing 64
+different electrodes. These microelectrodes will
+measure 64 different nerve signals from a
+peripheral nerve; however, the nerve signals are
+small microvolts that must be amplified before
+they are transmitted.
+As a result, Whitehurst's chip contains a 'mul
+tiplexer' — a switch that selects the signals one at
+a time and rapidly alternates between them at a
+rate of 20,000 times per second each.
+After the amplification process, an analog dig
+ital converter measures the signal and converts it
+to a binary number which can then be sent by a
+radiotransmitter to an outside receiver.
+While Whitehurst's chip can measure the
+nerve signals, it needs wires to transmit them
+outside the animal's body. Betancourt-Zamora's
+experimental chip will transmit the signals over
+radio waves to an external receiver.
+"The problem is to get the nerve signals out
+[of the animal]," he said. "Now we do it with
+wires, but the rat must be opened to hook up the
+
+wires and get the signals out... this is not prac
+tical," he admitted.
+As an alternative to the current methods,
+Betancourt-Zamora's radiotransmitter can take
+eight channels of nerve signals and transmit
+them as radio signals.
+Although Whitehurst's chip can measure 64
+signals, it is possible to transmit only eight of those
+signals. Betancourt-Zamora is not ready to trans
+mit all 64 signals. "Eight is reasonable," he said.
+The technologies developed by Whitehurst
+and Betancourt-Zamora are both necessary for
+the successful functioning of the neuron-chip
+interface, because one chip measures the signals
+and one chip transmits them.
+Telemetry emerged as a serious research field
+ten to 20 years ago, in the late 1970s and early
+1980s. Stanford scientists participated in the
+efforts. Now the focus is on reducing the size of
+the transmitting chip.
+"The idea is to make the whole transmitter
+the size of a single chip [2mm x 2mm]," Betan
+court-Zamora said. The battery forms a substan
+tial portion of the current chips; even the small
+est batteries are large relative to the transmitting
+section of the chip.
+The telemetry project in Kovacs' lab is cur
+rently supported by Stanford. Researchers at
+NASA Ames and the University of California,
+San Francisco are also collaborating on a similar
+
+project, but their work is not associated with
+Stanford.
+NASA and UCSF are building chips using
+commercially available parts like amplifiers and
+microprocessors; these 'hybrid' models will be
+assembled from separate components. In con
+trast, Betancourt-Zamora's chip will be a single,
+'custom' chip.
+The potential applications for telemetry cover
+a wide range, from projects with laboratory ani
+mals to operations on humans.
+For example, Betancourt-Zamora described
+NASA's idea for experiments that would use
+telemetry to record measurements from rats in
+space. Researchers in these kinds of projects
+often need measurements recorded continuous
+ly. 'Implantable telemetry' — placing measuring
+instruments inside an animal — would make this
+feasible.
+Environmental problems also offer opportuni
+ties for implementing telemetry; sensors could
+record amounts of chemicals or other toxic sub
+stances in water. This information could be
+transmitted to a receiver located away from the
+source, thereby eliminating the need for contact
+with hazardous material.
+Scientists at UCSF also hope to use telemetry
+for fetal surgery; after prenatal surgery, the
+baby's condition inside the womb could be moni
+tored by a minute transmitter.
+
+
+Andrew Martinez-Fonts—Daily
+—Courtesy of Rafael Betancourt-Zamora
+
+
+—Courtesy of Rafael Betancourt-Zamora Andrew Martinez-Fonts —Daily
+A small transmitting chip, measuring 2 mil
+limeters on each side, may provide researchers
+with the ability to gather data from laboratory
+animals, record the toxicity of water, and aid in
+fetal operations.
+Rafael Betancourt-Zamora, a graduate stu
+dent in electrical engineering, is currently work
+ing on a chip that would be used for radio teleme
+try — measuring signals or data and sending the
+information to remote locations.
+Betancourt-Zamora, who works in the lab of
+Gregory Kovacs, an assistant professor of Elec
+trical Engineering, described the purpose of the
+telemetry experiments. "In a general sense, any
+time you have sensors, you have a need for
+telemetry," he said. "You don't want to deal with
+the materials themselves — you just want the
+measurements," he explained.
+Researchers in Kovacs' lab are trying to make
+a chip that may be implanted in a nerve to mea
+sure and transmit nerve signals. Betancourt-
+Zamora and fellow graduate student Todd
+Whitehurst are both developing technology that
+will be useful to the neural interface project.
+Whitehurst has developed a chip perforated
+with an 8 hole by 8 hole matrix and containing 64
+different electrodes. These microelectrodes will
+measure 64 different nerve signals from a
+peripheral nerve; however, the nerve signals are
+small microvolts that must be amplified before
+they are transmitted.
+As a result, Whitehurst's chip contains a 'mul
+tiplexer' — a switch that selects the signals one at
+a time and rapidly alternates between them at a
+rate of 20,000 times per second each.
+After the amplification process, an analog dig
+ital converter measures the signal and converts it
+to a binary number which can then be sent by a
+radiotransmitter to an outside receiver.
+While Whitehurst's chip can measure the
+nerve signals, it needs wires to transmit them
+outside the animal's body. Betancourt-Zamora's
+experimental chip will transmit the signals over
+radio waves to an external receiver.
+"The problem is to get the nerve signals out
+[of the animal]," he said. "Now we do it with
+wires, but the rat must be opened to hook up the
+
+wires and get the signals out... this is not prac
+tical," he admitted.
+As an alternative to the current methods,
+Betancourt-Zamora's radiotransmitter can take
+eight channels of nerve signals and transmit
+them as radio signals.
+Although Whitehurst's chip can measure 64
+signals, it is possible to transmit only eight of those
+signals. Betancourt-Zamora is not ready to trans
+mit all 64 signals. "Eight is reasonable," he said.
+The technologies developed by Whitehurst
+and Betancourt-Zamora are both necessary for
+the successful functioning of the neuron-chip
+interface, because one chip measures the signals
+and one chip transmits them.
+Telemetry emerged as a serious research field
+ten to 20 years ago, in the late 1970s and early
+1980s. Stanford scientists participated in the
+efforts. Now the focus is on reducing the size of
+the transmitting chip.
+"The idea is to make the whole transmitter
+the size of a single chip [2mm x 2mm]," Betan
+court-Zamora said. The battery forms a substan
+tial portion of the current chips; even the small
+est batteries are large relative to the transmitting
+section of the chip.
+The telemetry project in Kovacs' lab is cur
+rently supported by Stanford. Researchers at
+NASA Ames and the University of California,
+San Francisco are also collaborating on a similar
+
+project, but their work is not associated with
+Stanford.
+NASA and UCSF are building chips using
+commercially available parts like amplifiers and
+microprocessors; these 'hybrid' models will be
+assembled from separate components. In con
+trast, Betancourt-Zamora's chip will be a single,
+'custom' chip.
+The potential applications for telemetry cover
+a wide range, from projects with laboratory ani
+mals to operations on humans.
+For example, Betancourt-Zamora described
+NASA's idea for experiments that would use
+telemetry to record measurements from rats in
+space. Researchers in these kinds of projects
+often need measurements recorded continuous
+ly. 'Implantable telemetry' — placing measuring
+instruments inside an animal — would make this
+feasible.
+Environmental problems also offer opportuni
+ties for implementing telemetry; sensors could
+record amounts of chemicals or other toxic sub
+stances in water. This information could be
+transmitted to a receiver located away from the
+source, thereby eliminating the need for contact
+with hazardous material.
+Scientists at UCSF also hope to use telemetry
+for fetal surgery; after prenatal surgery, the
+baby's condition inside the womb could be moni
+tored by a minute transmitter.
+
+
+Andrew Martinez-Fonts—Daily
+—Courtesy of Rafael Betancourt-Zamora
+
+
+—Courtesy of Rafael Betancourt-Zamora Andrew Martinez-Fonts —Daily
+A small transmitting chip, measuring 2 mil
+limeters on each side, may provide researchers
+with the ability to gather data from laboratory
+animals, record the toxicity of water, and aid in
+fetal operations.
+Rafael Betancourt-Zamora, a graduate stu
+dent in electrical engineering, is currently work
+ing on a chip that would be used for radio teleme
+try — measuring signals or data and sending the
+information to remote locations.
+Betancourt-Zamora, who works in the lab of
+Gregory Kovacs, an assistant professor of Elec
+trical Engineering, described the purpose of the
+telemetry experiments. "In a general sense, any
+time you have sensors, you have a need for
+telemetry," he said. "You don't want to deal with
+the materials themselves — you just want the
+measurements," he explained.
+Researchers in Kovacs' lab are trying to make
+a chip that may be implanted in a nerve to mea
+sure and transmit nerve signals. Betancourt-
+Zamora and fellow graduate student Todd
+Whitehurst are both developing technology that
+will be useful to the neural interface project.
+Whitehurst has developed a chip perforated
+with an 8 hole by 8 hole matrix and containing 64
+different electrodes. These microelectrodes will
+measure 64 different nerve signals from a
+peripheral nerve; however, the nerve signals are
+small microvolts that must be amplified before
+they are transmitted.
+As a result, Whitehurst's chip contains a 'mul
+tiplexer' — a switch that selects the signals one at
+a time and rapidly alternates between them at a
+rate of 20,000 times per second each.
+After the amplification process, an analog dig
+ital converter measures the signal and converts it
+to a binary number which can then be sent by a
+radiotransmitter to an outside receiver.
+While Whitehurst's chip can measure the
+nerve signals, it needs wires to transmit them
+outside the animal's body. Betancourt-Zamora's
+experimental chip will transmit the signals over
+radio waves to an external receiver.
+"The problem is to get the nerve signals out
+[of the animal]," he said. "Now we do it with
+wires, but the rat must be opened to hook up the
+
+wires and get the signals out... this is not prac
+tical," he admitted.
+As an alternative to the current methods,
+Betancourt-Zamora's radiotransmitter can take
+eight channels of nerve signals and transmit
+them as radio signals.
+Although Whitehurst's chip can measure 64
+signals, it is possible to transmit only eight of those
+signals. Betancourt-Zamora is not ready to trans
+mit all 64 signals. "Eight is reasonable," he said.
+The technologies developed by Whitehurst
+and Betancourt-Zamora are both necessary for
+the successful functioning of the neuron-chip
+interface, because one chip measures the signals
+and one chip transmits them.
+Telemetry emerged as a serious research field
+ten to 20 years ago, in the late 1970s and early
+1980s. Stanford scientists participated in the
+efforts. Now the focus is on reducing the size of
+the transmitting chip.
+"The idea is to make the whole transmitter
+the size of a single chip [2mm x 2mm]," Betan
+court-Zamora said. The battery forms a substan
+tial portion of the current chips; even the small
+est batteries are large relative to the transmitting
+section of the chip.
+The telemetry project in Kovacs' lab is cur
+rently supported by Stanford. Researchers at
+NASA Ames and the University of California,
+San Francisco are also collaborating on a similar
+
+project, but their work is not associated with
+Stanford.
+NASA and UCSF are building chips using
+commercially available parts like amplifiers and
+microprocessors; these 'hybrid' models will be
+assembled from separate components. In con
+trast, Betancourt-Zamora's chip will be a single,
+'custom' chip.
+The potential applications for telemetry cover
+a wide range, from projects with laboratory ani
+mals to operations on humans.
+For example, Betancourt-Zamora described
+NASA's idea for experiments that would use
+telemetry to record measurements from rats in
+space. Researchers in these kinds of projects
+often need measurements recorded continuous
+ly. 'Implantable telemetry' — placing measuring
+instruments inside an animal — would make this
+feasible.
+Environmental problems also offer opportuni
+ties for implementing telemetry; sensors could
+record amounts of chemicals or other toxic sub
+stances in water. This information could be
+transmitted to a receiver located away from the
+source, thereby eliminating the need for contact
+with hazardous material.
+Scientists at UCSF also hope to use telemetry
+for fetal surgery; after prenatal surgery, the
+baby's condition inside the womb could be moni
+tored by a minute transmitter.
+
+
+Andrew Martinez-Fonts—Daily
+—Courtesy of Rafael Betancourt-Zamora
+
+
+—Courtesy of Rafael Betancourt-Zamora Andrew Martinez-Fonts —Daily
+A small transmitting chip, measuring 2 mil
+limeters on each side, may provide researchers
+with the ability to gather data from laboratory
+animals, record the toxicity of water, and aid in
+fetal operations.
+Rafael Betancourt-Zamora, a graduate stu
+dent in electrical engineering, is currently work
+ing on a chip that would be used for radio teleme
+try — measuring signals or data and sending the
+information to remote locations.
+Betancourt-Zamora, who works in the lab of
+Gregory Kovacs, an assistant professor of Elec
+trical Engineering, described the purpose of the
+telemetry experiments. "In a general sense, any
+time you have sensors, you have a need for
+telemetry," he said. "You don't want to deal with
+the materials themselves — you just want the
+measurements," he explained.
+Researchers in Kovacs' lab are trying to make
+a chip that may be implanted in a nerve to mea
+sure and transmit nerve signals. Betancourt-
+Zamora and fellow graduate student Todd
+Whitehurst are both developing technology that
+will be useful to the neural interface project.
+Whitehurst has developed a chip perforated
+with an 8 hole by 8 hole matrix and containing 64
+different electrodes. These microelectrodes will
+measure 64 different nerve signals from a
+peripheral nerve; however, the nerve signals are
+small microvolts that must be amplified before
+they are transmitted.
+As a result, Whitehurst's chip contains a 'mul
+tiplexer' — a switch that selects the signals one at
+a time and rapidly alternates between them at a
+rate of 20,000 times per second each.
+After the amplification process, an analog dig
+ital converter measures the signal and converts it
+to a binary number which can then be sent by a
+radiotransmitter to an outside receiver.
+While Whitehurst's chip can measure the
+nerve signals, it needs wires to transmit them
+outside the animal's body. Betancourt-Zamora's
+experimental chip will transmit the signals over
+radio waves to an external receiver.
+"The problem is to get the nerve signals out
+[of the animal]," he said. "Now we do it with
+wires, but the rat must be opened to hook up the
+
+wires and get the signals out... this is not prac
+tical," he admitted.
+As an alternative to the current methods,
+Betancourt-Zamora's radiotransmitter can take
+eight channels of nerve signals and transmit
+them as radio signals.
+Although Whitehurst's chip can measure 64
+signals, it is possible to transmit only eight of those
+signals. Betancourt-Zamora is not ready to trans
+mit all 64 signals. "Eight is reasonable," he said.
+The technologies developed by Whitehurst
+and Betancourt-Zamora are both necessary for
+the successful functioning of the neuron-chip
+interface, because one chip measures the signals
+and one chip transmits them.
+Telemetry emerged as a serious research field
+ten to 20 years ago, in the late 1970s and early
+1980s. Stanford scientists participated in the
+efforts. Now the focus is on reducing the size of
+the transmitting chip.
+"The idea is to make the whole transmitter
+the size of a single chip [2mm x 2mm]," Betan
+court-Zamora said. The battery forms a substan
+tial portion of the current chips; even the small
+est batteries are large relative to the transmitting
+section of the chip.
+The telemetry project in Kovacs' lab is cur
+rently supported by Stanford. Researchers at
+NASA Ames and the University of California,
+San Francisco are also collaborating on a similar
+
+project, but their work is not associated with
+Stanford.
+NASA and UCSF are building chips using
+commercially available parts like amplifiers and
+microprocessors; these 'hybrid' models will be
+assembled from separate components. In con
+trast, Betancourt-Zamora's chip will be a single,
+'custom' chip.
+The potential applications for telemetry cover
+a wide range, from projects with laboratory ani
+mals to operations on humans.
+For example, Betancourt-Zamora described
+NASA's idea for experiments that would use
+telemetry to record measurements from rats in
+space. Researchers in these kinds of projects
+often need measurements recorded continuous
+ly. 'Implantable telemetry' — placing measuring
+instruments inside an animal — would make this
+feasible.
+Environmental problems also offer opportuni
+ties for implementing telemetry; sensors could
+record amounts of chemicals or other toxic sub
+stances in water. This information could be
+transmitted to a receiver located away from the
+source, thereby eliminating the need for contact
+with hazardous material.
+Scientists at UCSF also hope to use telemetry
+for fetal surgery; after prenatal surgery, the
+baby's condition inside the womb could be moni
+tored by a minute transmitter.
+
+
+Andrew Martinez-Fonts—Daily
+—Courtesy of Rafael Betancourt-Zamora
+
+
+—Courtesy of Rafael Betancourt-Zamora Andrew Martinez-Fonts —Daily
+A small transmitting chip, measuring 2 mil
+limeters on each side, may provide researchers
+with the ability to gather data from laboratory
+animals, record the toxicity of water, and aid in
+fetal operations.
+Rafael Betancourt-Zamora, a graduate stu
+dent in electrical engineering, is currently work
+ing on a chip that would be used for radio teleme
+try — measuring signals or data and sending the
+information to remote locations.
+Betancourt-Zamora, who works in the lab of
+Gregory Kovacs, an assistant professor of Elec
+trical Engineering, described the purpose of the
+telemetry experiments. "In a general sense, any
+time you have sensors, you have a need for
+telemetry," he said. "You don't want to deal with
+the materials themselves — you just want the
+measurements," he explained.
+Researchers in Kovacs' lab are trying to make
+a chip that may be implanted in a nerve to mea
+sure and transmit nerve signals. Betancourt-
+Zamora and fellow graduate student Todd
+Whitehurst are both developing technology that
+will be useful to the neural interface project.
+Whitehurst has developed a chip perforated
+with an 8 hole by 8 hole matrix and containing 64
+different electrodes. These microelectrodes will
+measure 64 different nerve signals from a
+peripheral nerve; however, the nerve signals are
+small microvolts that must be amplified before
+they are transmitted.
+As a result, Whitehurst's chip contains a 'mul
+tiplexer' — a switch that selects the signals one at
+a time and rapidly alternates between them at a
+rate of 20,000 times per second each.
+After the amplification process, an analog dig
+ital converter measures the signal and converts it
+to a binary number which can then be sent by a
+radiotransmitter to an outside receiver.
+While Whitehurst's chip can measure the
+nerve signals, it needs wires to transmit them
+outside the animal's body. Betancourt-Zamora's
+experimental chip will transmit the signals over
+radio waves to an external receiver.
+"The problem is to get the nerve signals out
+[of the animal]," he said. "Now we do it with
+wires, but the rat must be opened to hook up the
+
+wires and get the signals out... this is not prac
+tical," he admitted.
+As an alternative to the current methods,
+Betancourt-Zamora's radiotransmitter can take
+eight channels of nerve signals and transmit
+them as radio signals.
+Although Whitehurst's chip can measure 64
+signals, it is possible to transmit only eight of those
+signals. Betancourt-Zamora is not ready to trans
+mit all 64 signals. "Eight is reasonable," he said.
+The technologies developed by Whitehurst
+and Betancourt-Zamora are both necessary for
+the successful functioning of the neuron-chip
+interface, because one chip measures the signals
+and one chip transmits them.
+Telemetry emerged as a serious research field
+ten to 20 years ago, in the late 1970s and early
+1980s. Stanford scientists participated in the
+efforts. Now the focus is on reducing the size of
+the transmitting chip.
+"The idea is to make the whole transmitter
+the size of a single chip [2mm x 2mm]," Betan
+court-Zamora said. The battery forms a substan
+tial portion of the current chips; even the small
+est batteries are large relative to the transmitting
+section of the chip.
+The telemetry project in Kovacs' lab is cur
+rently supported by Stanford. Researchers at
+NASA Ames and the University of California,
+San Francisco are also collaborating on a similar
+
+project, but their work is not associated with
+Stanford.
+NASA and UCSF are building chips using
+commercially available parts like amplifiers and
+microprocessors; these 'hybrid' models will be
+assembled from separate components. In con
+trast, Betancourt-Zamora's chip will be a single,
+'custom' chip.
+The potential applications for telemetry cover
+a wide range, from projects with laboratory ani
+mals to operations on humans.
+For example, Betancourt-Zamora described
+NASA's idea for experiments that would use
+telemetry to record measurements from rats in
+space. Researchers in these kinds of projects
+often need measurements recorded continuous
+ly. 'Implantable telemetry' — placing measuring
+instruments inside an animal — would make this
+feasible.
+Environmental problems also offer opportuni
+ties for implementing telemetry; sensors could
+record amounts of chemicals or other toxic sub
+stances in water. This information could be
+transmitted to a receiver located away from the
+source, thereby eliminating the need for contact
+with hazardous material.
+Scientists at UCSF also hope to use telemetry
+for fetal surgery; after prenatal surgery, the
+baby's condition inside the womb could be moni
+tored by a minute transmitter.
+
+
+Andrew Martinez-Fonts—Daily
+—Courtesy of Rafael Betancourt-Zamora
+
+
+—Courtesy of Rafael Betancourt-Zamora Andrew Martinez-Fonts —Daily
+A small transmitting chip, measuring 2 mil
+limeters on each side, may provide researchers
+with the ability to gather data from laboratory
+animals, record the toxicity of water, and aid in
+fetal operations.
+Rafael Betancourt-Zamora, a graduate stu
+dent in electrical engineering, is currently work
+ing on a chip that would be used for radio teleme
+try — measuring signals or data and sending the
+information to remote locations.
+Betancourt-Zamora, who works in the lab of
+Gregory Kovacs, an assistant professor of Elec
+trical Engineering, described the purpose of the
+telemetry experiments. "In a general sense, any
+time you have sensors, you have a need for
+telemetry," he said. "You don't want to deal with
+the materials themselves — you just want the
+measurements," he explained.
+Researchers in Kovacs' lab are trying to make
+a chip that may be implanted in a nerve to mea
+sure and transmit nerve signals. Betancourt-
+Zamora and fellow graduate student Todd
+Whitehurst are both developing technology that
+will be useful to the neural interface project.
+Whitehurst has developed a chip perforated
+with an 8 hole by 8 hole matrix and containing 64
+different electrodes. These microelectrodes will
+measure 64 different nerve signals from a
+peripheral nerve; however, the nerve signals are
+small microvolts that must be amplified before
+they are transmitted.
+As a result, Whitehurst's chip contains a 'mul
+tiplexer' — a switch that selects the signals one at
+a time and rapidly alternates between them at a
+rate of 20,000 times per second each.
+After the amplification process, an analog dig
+ital converter measures the signal and converts it
+to a binary number which can then be sent by a
+radiotransmitter to an outside receiver.
+While Whitehurst's chip can measure the
+nerve signals, it needs wires to transmit them
+outside the animal's body. Betancourt-Zamora's
+experimental chip will transmit the signals over
+radio waves to an external receiver.
+"The problem is to get the nerve signals out
+[of the animal]," he said. "Now we do it with
+wires, but the rat must be opened to hook up the
+
+wires and get the signals out... this is not prac
+tical," he admitted.
+As an alternative to the current methods,
+Betancourt-Zamora's radiotransmitter can take
+eight channels of nerve signals and transmit
+them as radio signals.
+Although Whitehurst's chip can measure 64
+signals, it is possible to transmit only eight of those
+signals. Betancourt-Zamora is not ready to trans
+mit all 64 signals. "Eight is reasonable," he said.
+The technologies developed by Whitehurst
+and Betancourt-Zamora are both necessary for
+the successful functioning of the neuron-chip
+interface, because one chip measures the signals
+and one chip transmits them.
+Telemetry emerged as a serious research field
+ten to 20 years ago, in the late 1970s and early
+1980s. Stanford scientists participated in the
+efforts. Now the focus is on reducing the size of
+the transmitting chip.
+"The idea is to make the whole transmitter
+the size of a single chip [2mm x 2mm]," Betan
+court-Zamora said. The battery forms a substan
+tial portion of the current chips; even the small
+est batteries are large relative to the transmitting
+section of the chip.
+The telemetry project in Kovacs' lab is cur
+rently supported by Stanford. Researchers at
+NASA Ames and the University of California,
+San Francisco are also collaborating on a similar
+
+project, but their work is not associated with
+Stanford.
+NASA and UCSF are building chips using
+commercially available parts like amplifiers and
+microprocessors; these 'hybrid' models will be
+assembled from separate components. In con
+trast, Betancourt-Zamora's chip will be a single,
+'custom' chip.
+The potential applications for telemetry cover
+a wide range, from projects with laboratory ani
+mals to operations on humans.
+For example, Betancourt-Zamora described
+NASA's idea for experiments that would use
+telemetry to record measurements from rats in
+space. Researchers in these kinds of projects
+often need measurements recorded continuous
+ly. 'Implantable telemetry' — placing measuring
+instruments inside an animal — would make this
+feasible.
+Environmental problems also offer opportuni
+ties for implementing telemetry; sensors could
+record amounts of chemicals or other toxic sub
+stances in water. This information could be
+transmitted to a receiver located away from the
+source, thereby eliminating the need for contact
+with hazardous material.
+Scientists at UCSF also hope to use telemetry
+for fetal surgery; after prenatal surgery, the
+baby's condition inside the womb could be moni
+tored by a minute transmitter.
+
+
+Andrew Martinez-Fonts—Daily
+—Courtesy of Rafael Betancourt-Zamora
+
+
+—Courtesy of Rafael Betancourt-Zamora Andrew Martinez-Fonts —Daily

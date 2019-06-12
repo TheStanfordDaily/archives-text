@@ -1,0 +1,668 @@
+# Robots built for space repairs
+## 
+### Pat Stanley 
+Space robots have come to Stanford.
+Five doctoral students in the Aerospace
+Robotics Laboratory have pioneered a
+new design which could revolutionize
+satellite repair.
+The students, directed by Aeronautics
+and Astronautics Prof. Robert Cannon,
+have been working in this lab for three
+years. The purpose of their research,
+funded entirely by a five-year contract
+with NASA, is "to improve technology
+for space robots and to make robots
+more effective in the orbital environ
+ment," said Ross Koningstein, one of
+the researchers.
+Marc Ullman, the student responsible
+for most of the design of the robots,
+used a layer-cake model. The bottom
+layer is the gas supply system, which
+powers the thrusters located in the next
+layer. The third layer contains the
+electronic system and battery packs,
+while the robot's computer is housed in
+the top layer.
+The layer-cake design makes the
+robots easier to service. "We've had
+pieces break and had the robot back
+together and functioning within a half
+hour," Koningstein said. He added that
+experts from aerospace companies who
+
+have looked at their research are very
+impressed with the design and think
+the industry could learn something
+from the project.
+"The thrust of the research is to make
+space-based manipulation simpler,"
+Koningstein said. "People don't have a
+very clear model or understanding of
+exactly what the problems are or how
+to solve them."
+To study the problems presented by
+trying to manipulate objerts in space,
+the researchers began with one-armed
+robots. They soon found that moving
+objects in space with two arms is easier
+than with only one.
+Besides using two arms, the robots
+have several other special features to
+make them both easier to use and com
+pletely autonomous in space. An on
+board power system and thrusters
+enable the robot to move around on its
+own. Special sensing equipment linked
+to the on-board computer allows the
+robot to position itself exactly.
+Another problem they encountered is
+that in space, there is nothing to use
+as a support. When a robot pushes on
+a satellite, for example, the robot moves
+in the opposite direction from the satel
+lite. The purpose of the research is to
+figure out how to program the robot to
+
+compensate for such motion. With cur
+rent systems, the robots use so much
+time, energy and power simply trying
+to maintain their position that the proj
+ect becomes worthless.
+To simulate the space environment,
+the robots are floated over a granite
+table on an air cushion less than one
+thousandth of an inch thick. While the
+robots float, the researchers try differ
+ent ways of manipulating them to find
+the most efficient mode of operation.
+Each student focuses on a specific
+part of the total problem. For example,
+Koningstein described his work as
+trying "to figure out how to write con
+trol schemes that will allow the robot
+arm endpoints to go where you want
+them to even though the base is mov
+ing." The culmination of the five proj
+ects will be a robot capable of servicing
+objects in space efficiently and able to
+withstand environmental conditions
+such as solar radiation.
+The entire project is scheduled to con
+tinue for the next few years.
+Koningstein hopes to finish his part in
+six months, while Ullman and the other
+researchers — Vincent Chen, Bill Dick
+son and Warren Jasper — will complete
+their projects later.
+Space robots have come to Stanford.
+Five doctoral students in the Aerospace
+Robotics Laboratory have pioneered a
+new design which could revolutionize
+satellite repair.
+The students, directed by Aeronautics
+and Astronautics Prof. Robert Cannon,
+have been working in this lab for three
+years. The purpose of their research,
+funded entirely by a five-year contract
+with NASA, is "to improve technology
+for space robots and to make robots
+more effective in the orbital environ
+ment," said Ross Koningstein, one of
+the researchers.
+Marc Ullman, the student responsible
+for most of the design of the robots,
+used a layer-cake model. The bottom
+layer is the gas supply system, which
+powers the thrusters located in the next
+layer. The third layer contains the
+electronic system and battery packs,
+while the robot's computer is housed in
+the top layer.
+The layer-cake design makes the
+robots easier to service. "We've had
+pieces break and had the robot back
+together and functioning within a half
+hour," Koningstein said. He added that
+experts from aerospace companies who
+
+have looked at their research are very
+impressed with the design and think
+the industry could learn something
+from the project.
+"The thrust of the research is to make
+space-based manipulation simpler,"
+Koningstein said. "People don't have a
+very clear model or understanding of
+exactly what the problems are or how
+to solve them."
+To study the problems presented by
+trying to manipulate objerts in space,
+the researchers began with one-armed
+robots. They soon found that moving
+objects in space with two arms is easier
+than with only one.
+Besides using two arms, the robots
+have several other special features to
+make them both easier to use and com
+pletely autonomous in space. An on
+board power system and thrusters
+enable the robot to move around on its
+own. Special sensing equipment linked
+to the on-board computer allows the
+robot to position itself exactly.
+Another problem they encountered is
+that in space, there is nothing to use
+as a support. When a robot pushes on
+a satellite, for example, the robot moves
+in the opposite direction from the satel
+lite. The purpose of the research is to
+figure out how to program the robot to
+
+compensate for such motion. With cur
+rent systems, the robots use so much
+time, energy and power simply trying
+to maintain their position that the proj
+ect becomes worthless.
+To simulate the space environment,
+the robots are floated over a granite
+table on an air cushion less than one
+thousandth of an inch thick. While the
+robots float, the researchers try differ
+ent ways of manipulating them to find
+the most efficient mode of operation.
+Each student focuses on a specific
+part of the total problem. For example,
+Koningstein described his work as
+trying "to figure out how to write con
+trol schemes that will allow the robot
+arm endpoints to go where you want
+them to even though the base is mov
+ing." The culmination of the five proj
+ects will be a robot capable of servicing
+objects in space efficiently and able to
+withstand environmental conditions
+such as solar radiation.
+The entire project is scheduled to con
+tinue for the next few years.
+Koningstein hopes to finish his part in
+six months, while Ullman and the other
+researchers — Vincent Chen, Bill Dick
+son and Warren Jasper — will complete
+their projects later.
+Space robots have come to Stanford.
+Five doctoral students in the Aerospace
+Robotics Laboratory have pioneered a
+new design which could revolutionize
+satellite repair.
+The students, directed by Aeronautics
+and Astronautics Prof. Robert Cannon,
+have been working in this lab for three
+years. The purpose of their research,
+funded entirely by a five-year contract
+with NASA, is "to improve technology
+for space robots and to make robots
+more effective in the orbital environ
+ment," said Ross Koningstein, one of
+the researchers.
+Marc Ullman, the student responsible
+for most of the design of the robots,
+used a layer-cake model. The bottom
+layer is the gas supply system, which
+powers the thrusters located in the next
+layer. The third layer contains the
+electronic system and battery packs,
+while the robot's computer is housed in
+the top layer.
+The layer-cake design makes the
+robots easier to service. "We've had
+pieces break and had the robot back
+together and functioning within a half
+hour," Koningstein said. He added that
+experts from aerospace companies who
+
+have looked at their research are very
+impressed with the design and think
+the industry could learn something
+from the project.
+"The thrust of the research is to make
+space-based manipulation simpler,"
+Koningstein said. "People don't have a
+very clear model or understanding of
+exactly what the problems are or how
+to solve them."
+To study the problems presented by
+trying to manipulate objerts in space,
+the researchers began with one-armed
+robots. They soon found that moving
+objects in space with two arms is easier
+than with only one.
+Besides using two arms, the robots
+have several other special features to
+make them both easier to use and com
+pletely autonomous in space. An on
+board power system and thrusters
+enable the robot to move around on its
+own. Special sensing equipment linked
+to the on-board computer allows the
+robot to position itself exactly.
+Another problem they encountered is
+that in space, there is nothing to use
+as a support. When a robot pushes on
+a satellite, for example, the robot moves
+in the opposite direction from the satel
+lite. The purpose of the research is to
+figure out how to program the robot to
+
+compensate for such motion. With cur
+rent systems, the robots use so much
+time, energy and power simply trying
+to maintain their position that the proj
+ect becomes worthless.
+To simulate the space environment,
+the robots are floated over a granite
+table on an air cushion less than one
+thousandth of an inch thick. While the
+robots float, the researchers try differ
+ent ways of manipulating them to find
+the most efficient mode of operation.
+Each student focuses on a specific
+part of the total problem. For example,
+Koningstein described his work as
+trying "to figure out how to write con
+trol schemes that will allow the robot
+arm endpoints to go where you want
+them to even though the base is mov
+ing." The culmination of the five proj
+ects will be a robot capable of servicing
+objects in space efficiently and able to
+withstand environmental conditions
+such as solar radiation.
+The entire project is scheduled to con
+tinue for the next few years.
+Koningstein hopes to finish his part in
+six months, while Ullman and the other
+researchers — Vincent Chen, Bill Dick
+son and Warren Jasper — will complete
+their projects later.
+Space robots have come to Stanford.
+Five doctoral students in the Aerospace
+Robotics Laboratory have pioneered a
+new design which could revolutionize
+satellite repair.
+The students, directed by Aeronautics
+and Astronautics Prof. Robert Cannon,
+have been working in this lab for three
+years. The purpose of their research,
+funded entirely by a five-year contract
+with NASA, is "to improve technology
+for space robots and to make robots
+more effective in the orbital environ
+ment," said Ross Koningstein, one of
+the researchers.
+Marc Ullman, the student responsible
+for most of the design of the robots,
+used a layer-cake model. The bottom
+layer is the gas supply system, which
+powers the thrusters located in the next
+layer. The third layer contains the
+electronic system and battery packs,
+while the robot's computer is housed in
+the top layer.
+The layer-cake design makes the
+robots easier to service. "We've had
+pieces break and had the robot back
+together and functioning within a half
+hour," Koningstein said. He added that
+experts from aerospace companies who
+
+have looked at their research are very
+impressed with the design and think
+the industry could learn something
+from the project.
+"The thrust of the research is to make
+space-based manipulation simpler,"
+Koningstein said. "People don't have a
+very clear model or understanding of
+exactly what the problems are or how
+to solve them."
+To study the problems presented by
+trying to manipulate objerts in space,
+the researchers began with one-armed
+robots. They soon found that moving
+objects in space with two arms is easier
+than with only one.
+Besides using two arms, the robots
+have several other special features to
+make them both easier to use and com
+pletely autonomous in space. An on
+board power system and thrusters
+enable the robot to move around on its
+own. Special sensing equipment linked
+to the on-board computer allows the
+robot to position itself exactly.
+Another problem they encountered is
+that in space, there is nothing to use
+as a support. When a robot pushes on
+a satellite, for example, the robot moves
+in the opposite direction from the satel
+lite. The purpose of the research is to
+figure out how to program the robot to
+
+compensate for such motion. With cur
+rent systems, the robots use so much
+time, energy and power simply trying
+to maintain their position that the proj
+ect becomes worthless.
+To simulate the space environment,
+the robots are floated over a granite
+table on an air cushion less than one
+thousandth of an inch thick. While the
+robots float, the researchers try differ
+ent ways of manipulating them to find
+the most efficient mode of operation.
+Each student focuses on a specific
+part of the total problem. For example,
+Koningstein described his work as
+trying "to figure out how to write con
+trol schemes that will allow the robot
+arm endpoints to go where you want
+them to even though the base is mov
+ing." The culmination of the five proj
+ects will be a robot capable of servicing
+objects in space efficiently and able to
+withstand environmental conditions
+such as solar radiation.
+The entire project is scheduled to con
+tinue for the next few years.
+Koningstein hopes to finish his part in
+six months, while Ullman and the other
+researchers — Vincent Chen, Bill Dick
+son and Warren Jasper — will complete
+their projects later.
+Space robots have come to Stanford.
+Five doctoral students in the Aerospace
+Robotics Laboratory have pioneered a
+new design which could revolutionize
+satellite repair.
+The students, directed by Aeronautics
+and Astronautics Prof. Robert Cannon,
+have been working in this lab for three
+years. The purpose of their research,
+funded entirely by a five-year contract
+with NASA, is "to improve technology
+for space robots and to make robots
+more effective in the orbital environ
+ment," said Ross Koningstein, one of
+the researchers.
+Marc Ullman, the student responsible
+for most of the design of the robots,
+used a layer-cake model. The bottom
+layer is the gas supply system, which
+powers the thrusters located in the next
+layer. The third layer contains the
+electronic system and battery packs,
+while the robot's computer is housed in
+the top layer.
+The layer-cake design makes the
+robots easier to service. "We've had
+pieces break and had the robot back
+together and functioning within a half
+hour," Koningstein said. He added that
+experts from aerospace companies who
+
+have looked at their research are very
+impressed with the design and think
+the industry could learn something
+from the project.
+"The thrust of the research is to make
+space-based manipulation simpler,"
+Koningstein said. "People don't have a
+very clear model or understanding of
+exactly what the problems are or how
+to solve them."
+To study the problems presented by
+trying to manipulate objerts in space,
+the researchers began with one-armed
+robots. They soon found that moving
+objects in space with two arms is easier
+than with only one.
+Besides using two arms, the robots
+have several other special features to
+make them both easier to use and com
+pletely autonomous in space. An on
+board power system and thrusters
+enable the robot to move around on its
+own. Special sensing equipment linked
+to the on-board computer allows the
+robot to position itself exactly.
+Another problem they encountered is
+that in space, there is nothing to use
+as a support. When a robot pushes on
+a satellite, for example, the robot moves
+in the opposite direction from the satel
+lite. The purpose of the research is to
+figure out how to program the robot to
+
+compensate for such motion. With cur
+rent systems, the robots use so much
+time, energy and power simply trying
+to maintain their position that the proj
+ect becomes worthless.
+To simulate the space environment,
+the robots are floated over a granite
+table on an air cushion less than one
+thousandth of an inch thick. While the
+robots float, the researchers try differ
+ent ways of manipulating them to find
+the most efficient mode of operation.
+Each student focuses on a specific
+part of the total problem. For example,
+Koningstein described his work as
+trying "to figure out how to write con
+trol schemes that will allow the robot
+arm endpoints to go where you want
+them to even though the base is mov
+ing." The culmination of the five proj
+ects will be a robot capable of servicing
+objects in space efficiently and able to
+withstand environmental conditions
+such as solar radiation.
+The entire project is scheduled to con
+tinue for the next few years.
+Koningstein hopes to finish his part in
+six months, while Ullman and the other
+researchers — Vincent Chen, Bill Dick
+son and Warren Jasper — will complete
+their projects later.
+Space robots have come to Stanford.
+Five doctoral students in the Aerospace
+Robotics Laboratory have pioneered a
+new design which could revolutionize
+satellite repair.
+The students, directed by Aeronautics
+and Astronautics Prof. Robert Cannon,
+have been working in this lab for three
+years. The purpose of their research,
+funded entirely by a five-year contract
+with NASA, is "to improve technology
+for space robots and to make robots
+more effective in the orbital environ
+ment," said Ross Koningstein, one of
+the researchers.
+Marc Ullman, the student responsible
+for most of the design of the robots,
+used a layer-cake model. The bottom
+layer is the gas supply system, which
+powers the thrusters located in the next
+layer. The third layer contains the
+electronic system and battery packs,
+while the robot's computer is housed in
+the top layer.
+The layer-cake design makes the
+robots easier to service. "We've had
+pieces break and had the robot back
+together and functioning within a half
+hour," Koningstein said. He added that
+experts from aerospace companies who
+
+have looked at their research are very
+impressed with the design and think
+the industry could learn something
+from the project.
+"The thrust of the research is to make
+space-based manipulation simpler,"
+Koningstein said. "People don't have a
+very clear model or understanding of
+exactly what the problems are or how
+to solve them."
+To study the problems presented by
+trying to manipulate objerts in space,
+the researchers began with one-armed
+robots. They soon found that moving
+objects in space with two arms is easier
+than with only one.
+Besides using two arms, the robots
+have several other special features to
+make them both easier to use and com
+pletely autonomous in space. An on
+board power system and thrusters
+enable the robot to move around on its
+own. Special sensing equipment linked
+to the on-board computer allows the
+robot to position itself exactly.
+Another problem they encountered is
+that in space, there is nothing to use
+as a support. When a robot pushes on
+a satellite, for example, the robot moves
+in the opposite direction from the satel
+lite. The purpose of the research is to
+figure out how to program the robot to
+
+compensate for such motion. With cur
+rent systems, the robots use so much
+time, energy and power simply trying
+to maintain their position that the proj
+ect becomes worthless.
+To simulate the space environment,
+the robots are floated over a granite
+table on an air cushion less than one
+thousandth of an inch thick. While the
+robots float, the researchers try differ
+ent ways of manipulating them to find
+the most efficient mode of operation.
+Each student focuses on a specific
+part of the total problem. For example,
+Koningstein described his work as
+trying "to figure out how to write con
+trol schemes that will allow the robot
+arm endpoints to go where you want
+them to even though the base is mov
+ing." The culmination of the five proj
+ects will be a robot capable of servicing
+objects in space efficiently and able to
+withstand environmental conditions
+such as solar radiation.
+The entire project is scheduled to con
+tinue for the next few years.
+Koningstein hopes to finish his part in
+six months, while Ullman and the other
+researchers — Vincent Chen, Bill Dick
+son and Warren Jasper — will complete
+their projects later.
+Space robots have come to Stanford.
+Five doctoral students in the Aerospace
+Robotics Laboratory have pioneered a
+new design which could revolutionize
+satellite repair.
+The students, directed by Aeronautics
+and Astronautics Prof. Robert Cannon,
+have been working in this lab for three
+years. The purpose of their research,
+funded entirely by a five-year contract
+with NASA, is "to improve technology
+for space robots and to make robots
+more effective in the orbital environ
+ment," said Ross Koningstein, one of
+the researchers.
+Marc Ullman, the student responsible
+for most of the design of the robots,
+used a layer-cake model. The bottom
+layer is the gas supply system, which
+powers the thrusters located in the next
+layer. The third layer contains the
+electronic system and battery packs,
+while the robot's computer is housed in
+the top layer.
+The layer-cake design makes the
+robots easier to service. "We've had
+pieces break and had the robot back
+together and functioning within a half
+hour," Koningstein said. He added that
+experts from aerospace companies who
+
+have looked at their research are very
+impressed with the design and think
+the industry could learn something
+from the project.
+"The thrust of the research is to make
+space-based manipulation simpler,"
+Koningstein said. "People don't have a
+very clear model or understanding of
+exactly what the problems are or how
+to solve them."
+To study the problems presented by
+trying to manipulate objerts in space,
+the researchers began with one-armed
+robots. They soon found that moving
+objects in space with two arms is easier
+than with only one.
+Besides using two arms, the robots
+have several other special features to
+make them both easier to use and com
+pletely autonomous in space. An on
+board power system and thrusters
+enable the robot to move around on its
+own. Special sensing equipment linked
+to the on-board computer allows the
+robot to position itself exactly.
+Another problem they encountered is
+that in space, there is nothing to use
+as a support. When a robot pushes on
+a satellite, for example, the robot moves
+in the opposite direction from the satel
+lite. The purpose of the research is to
+figure out how to program the robot to
+
+compensate for such motion. With cur
+rent systems, the robots use so much
+time, energy and power simply trying
+to maintain their position that the proj
+ect becomes worthless.
+To simulate the space environment,
+the robots are floated over a granite
+table on an air cushion less than one
+thousandth of an inch thick. While the
+robots float, the researchers try differ
+ent ways of manipulating them to find
+the most efficient mode of operation.
+Each student focuses on a specific
+part of the total problem. For example,
+Koningstein described his work as
+trying "to figure out how to write con
+trol schemes that will allow the robot
+arm endpoints to go where you want
+them to even though the base is mov
+ing." The culmination of the five proj
+ects will be a robot capable of servicing
+objects in space efficiently and able to
+withstand environmental conditions
+such as solar radiation.
+The entire project is scheduled to con
+tinue for the next few years.
+Koningstein hopes to finish his part in
+six months, while Ullman and the other
+researchers — Vincent Chen, Bill Dick
+son and Warren Jasper — will complete
+their projects later.

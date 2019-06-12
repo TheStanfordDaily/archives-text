@@ -1,0 +1,1019 @@
+# RESEARCH
+## Researchers use DNA as digital data storage 
+### MATT BETTONVILLE DESK EDITOR 
+Stanford researchers have developed a
+way to use DNA as rewritable digital data
+storage. Keeping data in cells could have
+widespread applications in future studies,
+according to the team, which was led by
+post-doctoral researcher Jerome Bonnet
+and Drew Endy, an assistant professor of
+bioengineering.
+"It's a tool to study processes where
+you need to track history of cells," Bonnet
+said.
+"Most of the questions in biology are
+
+questions about history," said Ton Sub
+soontorn, a graduate student who worked
+on the research team. "You ask, 'Why does
+this cell become a cancer cell?' and 'Why
+does this cell stay a normal cell?'"
+Just as a computer chip stores data by
+flipping an electrical bit or magnetic field
+on or off, the DNA system flips the orien
+tation of a section of DNA to indicate an
+on-or-off bit.
+The team's research involved establish
+ing precise control over two enzymes
+integrase and excisionase that work in
+opposition to manipulate proteins within
+bacterial cells. The team built on previous
+
+research that showed how to irreversibly
+flip a stretch of DNA about 500 base pairs
+in length.
+"We needed to reliably flip the se
+quence back and forth, over and over, in
+order to create a fully reusable binary data
+register," Bonnet said. "So we needed
+something different."
+The team had lots of early success flip
+ping the sequence in either direction inde
+pendently, but struggled to make both sys
+tems work within the same cell to create
+re-writable data. Endy said that the chal-
+lenge took 750 trials over three
+years before the team succeeded.
+"We now have enzymes which
+can bind to the sequence, cut it,
+flip it and paste it in the new ori
+entation," Bonnet said.
+The enzyme system that Bon
+net's team produced was adapted
+from the behavior of a virus, ac
+cording to Subsoontorn. Certain
+viruses attack bacteria by splicing
+their own DNA into the genome
+of the bacteria. The research
+team's work used enzymes from
+those viruses for its manipula
+tions.
+According to Subsoontorn,
+the DNA region being flipped is a
+promoter, meaning it signals for
+the expression of another genetic
+region. In one example, Subsoon
+torn said the team placed a gene
+that makes the bacteria glow pink
+and another that make the bacte
+ria glow blue on either side of the
+promoter. Flipping the promoter
+then allowed the team to change
+the bacteria's color.
+Long-term applications for the
+idea are far more practical than
+just color change, the team said.
+
+For example, if the system is ex
+panded to have more bits, a cell
+could record data about its own
+life cycle, which would be crucial
+for research on aging and cancer
+ous cells.
+"[A cell] can detect arsenic,
+heavy metals and stuff like that,"
+Bonnet said. "So you can make
+basically sensors with memory."
+Subsoontorn likened cells to
+computing systems. Fie said that
+inputs such as light, sugars and
+other factors determine a cell's
+behavior in predictable ways.
+"You can think of a cell as an
+information processing unit,"
+Subsoontorn said. "You take
+some input, and it does some kind
+of logical computation, and it spits
+out some output."
+He said that keeping data
+could help bioengineers in partic
+ular because they could use the
+data to learn the behaviors of cells
+in a system.
+The DNA system also repre
+sents an advance because silicon
+computer chips are not yet small
+enough to fit within cells to take
+data. However, Bonnet said the
+DNA system still has advantages
+in the long term.
+"This idea is not trying to com
+pete with silicon memory," Sub
+soontorn said. "This is data stor
+age that can operate inside a liv
+
+ing cell."
+He said that some cells grow
+and divide so rapidly that silicon
+chips would not function, anyway.
+DNA, however, can grow and
+multiply along with its cell.
+The team said it next hopes to
+expand the capability of the data
+storage to a multi-bit system, pro
+gressing toward a scale where it
+can store practical amounts of
+data for real use.
+
+Contact Matt Bettonville at mbet
+tonville@stanford. edu.
+Stanford researchers have developed a
+way to use DNA as rewritable digital data
+storage. Keeping data in cells could have
+widespread applications in future studies,
+according to the team, which was led by
+post-doctoral researcher Jerome Bonnet
+and Drew Endy, an assistant professor of
+bioengineering.
+"It's a tool to study processes where
+you need to track history of cells," Bonnet
+said.
+"Most of the questions in biology are
+
+questions about history," said Ton Sub
+soontorn, a graduate student who worked
+on the research team. "You ask, 'Why does
+this cell become a cancer cell?' and 'Why
+does this cell stay a normal cell?'"
+Just as a computer chip stores data by
+flipping an electrical bit or magnetic field
+on or off, the DNA system flips the orien
+tation of a section of DNA to indicate an
+on-or-off bit.
+The team's research involved establish
+ing precise control over two enzymes
+integrase and excisionase that work in
+opposition to manipulate proteins within
+bacterial cells. The team built on previous
+
+research that showed how to irreversibly
+flip a stretch of DNA about 500 base pairs
+in length.
+"We needed to reliably flip the se
+quence back and forth, over and over, in
+order to create a fully reusable binary data
+register," Bonnet said. "So we needed
+something different."
+The team had lots of early success flip
+ping the sequence in either direction inde
+pendently, but struggled to make both sys
+tems work within the same cell to create
+re-writable data. Endy said that the chal-
+lenge took 750 trials over three
+years before the team succeeded.
+"We now have enzymes which
+can bind to the sequence, cut it,
+flip it and paste it in the new ori
+entation," Bonnet said.
+The enzyme system that Bon
+net's team produced was adapted
+from the behavior of a virus, ac
+cording to Subsoontorn. Certain
+viruses attack bacteria by splicing
+their own DNA into the genome
+of the bacteria. The research
+team's work used enzymes from
+those viruses for its manipula
+tions.
+According to Subsoontorn,
+the DNA region being flipped is a
+promoter, meaning it signals for
+the expression of another genetic
+region. In one example, Subsoon
+torn said the team placed a gene
+that makes the bacteria glow pink
+and another that make the bacte
+ria glow blue on either side of the
+promoter. Flipping the promoter
+then allowed the team to change
+the bacteria's color.
+Long-term applications for the
+idea are far more practical than
+just color change, the team said.
+
+For example, if the system is ex
+panded to have more bits, a cell
+could record data about its own
+life cycle, which would be crucial
+for research on aging and cancer
+ous cells.
+"[A cell] can detect arsenic,
+heavy metals and stuff like that,"
+Bonnet said. "So you can make
+basically sensors with memory."
+Subsoontorn likened cells to
+computing systems. Fie said that
+inputs such as light, sugars and
+other factors determine a cell's
+behavior in predictable ways.
+"You can think of a cell as an
+information processing unit,"
+Subsoontorn said. "You take
+some input, and it does some kind
+of logical computation, and it spits
+out some output."
+He said that keeping data
+could help bioengineers in partic
+ular because they could use the
+data to learn the behaviors of cells
+in a system.
+The DNA system also repre
+sents an advance because silicon
+computer chips are not yet small
+enough to fit within cells to take
+data. However, Bonnet said the
+DNA system still has advantages
+in the long term.
+"This idea is not trying to com
+pete with silicon memory," Sub
+soontorn said. "This is data stor
+age that can operate inside a liv
+
+ing cell."
+He said that some cells grow
+and divide so rapidly that silicon
+chips would not function, anyway.
+DNA, however, can grow and
+multiply along with its cell.
+The team said it next hopes to
+expand the capability of the data
+storage to a multi-bit system, pro
+gressing toward a scale where it
+can store practical amounts of
+data for real use.
+
+Contact Matt Bettonville at mbet
+tonville@stanford. edu.
+Stanford researchers have developed a
+way to use DNA as rewritable digital data
+storage. Keeping data in cells could have
+widespread applications in future studies,
+according to the team, which was led by
+post-doctoral researcher Jerome Bonnet
+and Drew Endy, an assistant professor of
+bioengineering.
+"It's a tool to study processes where
+you need to track history of cells," Bonnet
+said.
+"Most of the questions in biology are
+
+questions about history," said Ton Sub
+soontorn, a graduate student who worked
+on the research team. "You ask, 'Why does
+this cell become a cancer cell?' and 'Why
+does this cell stay a normal cell?'"
+Just as a computer chip stores data by
+flipping an electrical bit or magnetic field
+on or off, the DNA system flips the orien
+tation of a section of DNA to indicate an
+on-or-off bit.
+The team's research involved establish
+ing precise control over two enzymes
+integrase and excisionase that work in
+opposition to manipulate proteins within
+bacterial cells. The team built on previous
+
+research that showed how to irreversibly
+flip a stretch of DNA about 500 base pairs
+in length.
+"We needed to reliably flip the se
+quence back and forth, over and over, in
+order to create a fully reusable binary data
+register," Bonnet said. "So we needed
+something different."
+The team had lots of early success flip
+ping the sequence in either direction inde
+pendently, but struggled to make both sys
+tems work within the same cell to create
+re-writable data. Endy said that the chal-
+lenge took 750 trials over three
+years before the team succeeded.
+"We now have enzymes which
+can bind to the sequence, cut it,
+flip it and paste it in the new ori
+entation," Bonnet said.
+The enzyme system that Bon
+net's team produced was adapted
+from the behavior of a virus, ac
+cording to Subsoontorn. Certain
+viruses attack bacteria by splicing
+their own DNA into the genome
+of the bacteria. The research
+team's work used enzymes from
+those viruses for its manipula
+tions.
+According to Subsoontorn,
+the DNA region being flipped is a
+promoter, meaning it signals for
+the expression of another genetic
+region. In one example, Subsoon
+torn said the team placed a gene
+that makes the bacteria glow pink
+and another that make the bacte
+ria glow blue on either side of the
+promoter. Flipping the promoter
+then allowed the team to change
+the bacteria's color.
+Long-term applications for the
+idea are far more practical than
+just color change, the team said.
+
+For example, if the system is ex
+panded to have more bits, a cell
+could record data about its own
+life cycle, which would be crucial
+for research on aging and cancer
+ous cells.
+"[A cell] can detect arsenic,
+heavy metals and stuff like that,"
+Bonnet said. "So you can make
+basically sensors with memory."
+Subsoontorn likened cells to
+computing systems. Fie said that
+inputs such as light, sugars and
+other factors determine a cell's
+behavior in predictable ways.
+"You can think of a cell as an
+information processing unit,"
+Subsoontorn said. "You take
+some input, and it does some kind
+of logical computation, and it spits
+out some output."
+He said that keeping data
+could help bioengineers in partic
+ular because they could use the
+data to learn the behaviors of cells
+in a system.
+The DNA system also repre
+sents an advance because silicon
+computer chips are not yet small
+enough to fit within cells to take
+data. However, Bonnet said the
+DNA system still has advantages
+in the long term.
+"This idea is not trying to com
+pete with silicon memory," Sub
+soontorn said. "This is data stor
+age that can operate inside a liv
+
+ing cell."
+He said that some cells grow
+and divide so rapidly that silicon
+chips would not function, anyway.
+DNA, however, can grow and
+multiply along with its cell.
+The team said it next hopes to
+expand the capability of the data
+storage to a multi-bit system, pro
+gressing toward a scale where it
+can store practical amounts of
+data for real use.
+
+Contact Matt Bettonville at mbet
+tonville@stanford. edu.
+Stanford researchers have developed a
+way to use DNA as rewritable digital data
+storage. Keeping data in cells could have
+widespread applications in future studies,
+according to the team, which was led by
+post-doctoral researcher Jerome Bonnet
+and Drew Endy, an assistant professor of
+bioengineering.
+"It's a tool to study processes where
+you need to track history of cells," Bonnet
+said.
+"Most of the questions in biology are
+
+questions about history," said Ton Sub
+soontorn, a graduate student who worked
+on the research team. "You ask, 'Why does
+this cell become a cancer cell?' and 'Why
+does this cell stay a normal cell?'"
+Just as a computer chip stores data by
+flipping an electrical bit or magnetic field
+on or off, the DNA system flips the orien
+tation of a section of DNA to indicate an
+on-or-off bit.
+The team's research involved establish
+ing precise control over two enzymes
+integrase and excisionase that work in
+opposition to manipulate proteins within
+bacterial cells. The team built on previous
+
+research that showed how to irreversibly
+flip a stretch of DNA about 500 base pairs
+in length.
+"We needed to reliably flip the se
+quence back and forth, over and over, in
+order to create a fully reusable binary data
+register," Bonnet said. "So we needed
+something different."
+The team had lots of early success flip
+ping the sequence in either direction inde
+pendently, but struggled to make both sys
+tems work within the same cell to create
+re-writable data. Endy said that the chal-
+lenge took 750 trials over three
+years before the team succeeded.
+"We now have enzymes which
+can bind to the sequence, cut it,
+flip it and paste it in the new ori
+entation," Bonnet said.
+The enzyme system that Bon
+net's team produced was adapted
+from the behavior of a virus, ac
+cording to Subsoontorn. Certain
+viruses attack bacteria by splicing
+their own DNA into the genome
+of the bacteria. The research
+team's work used enzymes from
+those viruses for its manipula
+tions.
+According to Subsoontorn,
+the DNA region being flipped is a
+promoter, meaning it signals for
+the expression of another genetic
+region. In one example, Subsoon
+torn said the team placed a gene
+that makes the bacteria glow pink
+and another that make the bacte
+ria glow blue on either side of the
+promoter. Flipping the promoter
+then allowed the team to change
+the bacteria's color.
+Long-term applications for the
+idea are far more practical than
+just color change, the team said.
+
+For example, if the system is ex
+panded to have more bits, a cell
+could record data about its own
+life cycle, which would be crucial
+for research on aging and cancer
+ous cells.
+"[A cell] can detect arsenic,
+heavy metals and stuff like that,"
+Bonnet said. "So you can make
+basically sensors with memory."
+Subsoontorn likened cells to
+computing systems. Fie said that
+inputs such as light, sugars and
+other factors determine a cell's
+behavior in predictable ways.
+"You can think of a cell as an
+information processing unit,"
+Subsoontorn said. "You take
+some input, and it does some kind
+of logical computation, and it spits
+out some output."
+He said that keeping data
+could help bioengineers in partic
+ular because they could use the
+data to learn the behaviors of cells
+in a system.
+The DNA system also repre
+sents an advance because silicon
+computer chips are not yet small
+enough to fit within cells to take
+data. However, Bonnet said the
+DNA system still has advantages
+in the long term.
+"This idea is not trying to com
+pete with silicon memory," Sub
+soontorn said. "This is data stor
+age that can operate inside a liv
+
+ing cell."
+He said that some cells grow
+and divide so rapidly that silicon
+chips would not function, anyway.
+DNA, however, can grow and
+multiply along with its cell.
+The team said it next hopes to
+expand the capability of the data
+storage to a multi-bit system, pro
+gressing toward a scale where it
+can store practical amounts of
+data for real use.
+
+Contact Matt Bettonville at mbet
+tonville@stanford. edu.
+Stanford researchers have developed a
+way to use DNA as rewritable digital data
+storage. Keeping data in cells could have
+widespread applications in future studies,
+according to the team, which was led by
+post-doctoral researcher Jerome Bonnet
+and Drew Endy, an assistant professor of
+bioengineering.
+"It's a tool to study processes where
+you need to track history of cells," Bonnet
+said.
+"Most of the questions in biology are
+
+questions about history," said Ton Sub
+soontorn, a graduate student who worked
+on the research team. "You ask, 'Why does
+this cell become a cancer cell?' and 'Why
+does this cell stay a normal cell?'"
+Just as a computer chip stores data by
+flipping an electrical bit or magnetic field
+on or off, the DNA system flips the orien
+tation of a section of DNA to indicate an
+on-or-off bit.
+The team's research involved establish
+ing precise control over two enzymes
+integrase and excisionase that work in
+opposition to manipulate proteins within
+bacterial cells. The team built on previous
+
+research that showed how to irreversibly
+flip a stretch of DNA about 500 base pairs
+in length.
+"We needed to reliably flip the se
+quence back and forth, over and over, in
+order to create a fully reusable binary data
+register," Bonnet said. "So we needed
+something different."
+The team had lots of early success flip
+ping the sequence in either direction inde
+pendently, but struggled to make both sys
+tems work within the same cell to create
+re-writable data. Endy said that the chal-
+lenge took 750 trials over three
+years before the team succeeded.
+"We now have enzymes which
+can bind to the sequence, cut it,
+flip it and paste it in the new ori
+entation," Bonnet said.
+The enzyme system that Bon
+net's team produced was adapted
+from the behavior of a virus, ac
+cording to Subsoontorn. Certain
+viruses attack bacteria by splicing
+their own DNA into the genome
+of the bacteria. The research
+team's work used enzymes from
+those viruses for its manipula
+tions.
+According to Subsoontorn,
+the DNA region being flipped is a
+promoter, meaning it signals for
+the expression of another genetic
+region. In one example, Subsoon
+torn said the team placed a gene
+that makes the bacteria glow pink
+and another that make the bacte
+ria glow blue on either side of the
+promoter. Flipping the promoter
+then allowed the team to change
+the bacteria's color.
+Long-term applications for the
+idea are far more practical than
+just color change, the team said.
+
+For example, if the system is ex
+panded to have more bits, a cell
+could record data about its own
+life cycle, which would be crucial
+for research on aging and cancer
+ous cells.
+"[A cell] can detect arsenic,
+heavy metals and stuff like that,"
+Bonnet said. "So you can make
+basically sensors with memory."
+Subsoontorn likened cells to
+computing systems. Fie said that
+inputs such as light, sugars and
+other factors determine a cell's
+behavior in predictable ways.
+"You can think of a cell as an
+information processing unit,"
+Subsoontorn said. "You take
+some input, and it does some kind
+of logical computation, and it spits
+out some output."
+He said that keeping data
+could help bioengineers in partic
+ular because they could use the
+data to learn the behaviors of cells
+in a system.
+The DNA system also repre
+sents an advance because silicon
+computer chips are not yet small
+enough to fit within cells to take
+data. However, Bonnet said the
+DNA system still has advantages
+in the long term.
+"This idea is not trying to com
+pete with silicon memory," Sub
+soontorn said. "This is data stor
+age that can operate inside a liv
+
+ing cell."
+He said that some cells grow
+and divide so rapidly that silicon
+chips would not function, anyway.
+DNA, however, can grow and
+multiply along with its cell.
+The team said it next hopes to
+expand the capability of the data
+storage to a multi-bit system, pro
+gressing toward a scale where it
+can store practical amounts of
+data for real use.
+
+Contact Matt Bettonville at mbet
+tonville@stanford. edu.
+Stanford researchers have developed a
+way to use DNA as rewritable digital data
+storage. Keeping data in cells could have
+widespread applications in future studies,
+according to the team, which was led by
+post-doctoral researcher Jerome Bonnet
+and Drew Endy, an assistant professor of
+bioengineering.
+"It's a tool to study processes where
+you need to track history of cells," Bonnet
+said.
+"Most of the questions in biology are
+
+questions about history," said Ton Sub
+soontorn, a graduate student who worked
+on the research team. "You ask, 'Why does
+this cell become a cancer cell?' and 'Why
+does this cell stay a normal cell?'"
+Just as a computer chip stores data by
+flipping an electrical bit or magnetic field
+on or off, the DNA system flips the orien
+tation of a section of DNA to indicate an
+on-or-off bit.
+The team's research involved establish
+ing precise control over two enzymes
+integrase and excisionase that work in
+opposition to manipulate proteins within
+bacterial cells. The team built on previous
+
+research that showed how to irreversibly
+flip a stretch of DNA about 500 base pairs
+in length.
+"We needed to reliably flip the se
+quence back and forth, over and over, in
+order to create a fully reusable binary data
+register," Bonnet said. "So we needed
+something different."
+The team had lots of early success flip
+ping the sequence in either direction inde
+pendently, but struggled to make both sys
+tems work within the same cell to create
+re-writable data. Endy said that the chal-
+lenge took 750 trials over three
+years before the team succeeded.
+"We now have enzymes which
+can bind to the sequence, cut it,
+flip it and paste it in the new ori
+entation," Bonnet said.
+The enzyme system that Bon
+net's team produced was adapted
+from the behavior of a virus, ac
+cording to Subsoontorn. Certain
+viruses attack bacteria by splicing
+their own DNA into the genome
+of the bacteria. The research
+team's work used enzymes from
+those viruses for its manipula
+tions.
+According to Subsoontorn,
+the DNA region being flipped is a
+promoter, meaning it signals for
+the expression of another genetic
+region. In one example, Subsoon
+torn said the team placed a gene
+that makes the bacteria glow pink
+and another that make the bacte
+ria glow blue on either side of the
+promoter. Flipping the promoter
+then allowed the team to change
+the bacteria's color.
+Long-term applications for the
+idea are far more practical than
+just color change, the team said.
+
+For example, if the system is ex
+panded to have more bits, a cell
+could record data about its own
+life cycle, which would be crucial
+for research on aging and cancer
+ous cells.
+"[A cell] can detect arsenic,
+heavy metals and stuff like that,"
+Bonnet said. "So you can make
+basically sensors with memory."
+Subsoontorn likened cells to
+computing systems. Fie said that
+inputs such as light, sugars and
+other factors determine a cell's
+behavior in predictable ways.
+"You can think of a cell as an
+information processing unit,"
+Subsoontorn said. "You take
+some input, and it does some kind
+of logical computation, and it spits
+out some output."
+He said that keeping data
+could help bioengineers in partic
+ular because they could use the
+data to learn the behaviors of cells
+in a system.
+The DNA system also repre
+sents an advance because silicon
+computer chips are not yet small
+enough to fit within cells to take
+data. However, Bonnet said the
+DNA system still has advantages
+in the long term.
+"This idea is not trying to com
+pete with silicon memory," Sub
+soontorn said. "This is data stor
+age that can operate inside a liv
+
+ing cell."
+He said that some cells grow
+and divide so rapidly that silicon
+chips would not function, anyway.
+DNA, however, can grow and
+multiply along with its cell.
+The team said it next hopes to
+expand the capability of the data
+storage to a multi-bit system, pro
+gressing toward a scale where it
+can store practical amounts of
+data for real use.
+
+Contact Matt Bettonville at mbet
+tonville@stanford. edu.
+Stanford researchers have developed a
+way to use DNA as rewritable digital data
+storage. Keeping data in cells could have
+widespread applications in future studies,
+according to the team, which was led by
+post-doctoral researcher Jerome Bonnet
+and Drew Endy, an assistant professor of
+bioengineering.
+"It's a tool to study processes where
+you need to track history of cells," Bonnet
+said.
+"Most of the questions in biology are
+
+questions about history," said Ton Sub
+soontorn, a graduate student who worked
+on the research team. "You ask, 'Why does
+this cell become a cancer cell?' and 'Why
+does this cell stay a normal cell?'"
+Just as a computer chip stores data by
+flipping an electrical bit or magnetic field
+on or off, the DNA system flips the orien
+tation of a section of DNA to indicate an
+on-or-off bit.
+The team's research involved establish
+ing precise control over two enzymes
+integrase and excisionase that work in
+opposition to manipulate proteins within
+bacterial cells. The team built on previous
+
+research that showed how to irreversibly
+flip a stretch of DNA about 500 base pairs
+in length.
+"We needed to reliably flip the se
+quence back and forth, over and over, in
+order to create a fully reusable binary data
+register," Bonnet said. "So we needed
+something different."
+The team had lots of early success flip
+ping the sequence in either direction inde
+pendently, but struggled to make both sys
+tems work within the same cell to create
+re-writable data. Endy said that the chal-
+lenge took 750 trials over three
+years before the team succeeded.
+"We now have enzymes which
+can bind to the sequence, cut it,
+flip it and paste it in the new ori
+entation," Bonnet said.
+The enzyme system that Bon
+net's team produced was adapted
+from the behavior of a virus, ac
+cording to Subsoontorn. Certain
+viruses attack bacteria by splicing
+their own DNA into the genome
+of the bacteria. The research
+team's work used enzymes from
+those viruses for its manipula
+tions.
+According to Subsoontorn,
+the DNA region being flipped is a
+promoter, meaning it signals for
+the expression of another genetic
+region. In one example, Subsoon
+torn said the team placed a gene
+that makes the bacteria glow pink
+and another that make the bacte
+ria glow blue on either side of the
+promoter. Flipping the promoter
+then allowed the team to change
+the bacteria's color.
+Long-term applications for the
+idea are far more practical than
+just color change, the team said.
+
+For example, if the system is ex
+panded to have more bits, a cell
+could record data about its own
+life cycle, which would be crucial
+for research on aging and cancer
+ous cells.
+"[A cell] can detect arsenic,
+heavy metals and stuff like that,"
+Bonnet said. "So you can make
+basically sensors with memory."
+Subsoontorn likened cells to
+computing systems. Fie said that
+inputs such as light, sugars and
+other factors determine a cell's
+behavior in predictable ways.
+"You can think of a cell as an
+information processing unit,"
+Subsoontorn said. "You take
+some input, and it does some kind
+of logical computation, and it spits
+out some output."
+He said that keeping data
+could help bioengineers in partic
+ular because they could use the
+data to learn the behaviors of cells
+in a system.
+The DNA system also repre
+sents an advance because silicon
+computer chips are not yet small
+enough to fit within cells to take
+data. However, Bonnet said the
+DNA system still has advantages
+in the long term.
+"This idea is not trying to com
+pete with silicon memory," Sub
+soontorn said. "This is data stor
+age that can operate inside a liv
+
+ing cell."
+He said that some cells grow
+and divide so rapidly that silicon
+chips would not function, anyway.
+DNA, however, can grow and
+multiply along with its cell.
+The team said it next hopes to
+expand the capability of the data
+storage to a multi-bit system, pro
+gressing toward a scale where it
+can store practical amounts of
+data for real use.
+
+Contact Matt Bettonville at mbet
+tonville@stanford. edu.
+Stanford researchers have developed a
+way to use DNA as rewritable digital data
+storage. Keeping data in cells could have
+widespread applications in future studies,
+according to the team, which was led by
+post-doctoral researcher Jerome Bonnet
+and Drew Endy, an assistant professor of
+bioengineering.
+"It's a tool to study processes where
+you need to track history of cells," Bonnet
+said.
+"Most of the questions in biology are
+
+questions about history," said Ton Sub
+soontorn, a graduate student who worked
+on the research team. "You ask, 'Why does
+this cell become a cancer cell?' and 'Why
+does this cell stay a normal cell?'"
+Just as a computer chip stores data by
+flipping an electrical bit or magnetic field
+on or off, the DNA system flips the orien
+tation of a section of DNA to indicate an
+on-or-off bit.
+The team's research involved establish
+ing precise control over two enzymes
+integrase and excisionase that work in
+opposition to manipulate proteins within
+bacterial cells. The team built on previous
+
+research that showed how to irreversibly
+flip a stretch of DNA about 500 base pairs
+in length.
+"We needed to reliably flip the se
+quence back and forth, over and over, in
+order to create a fully reusable binary data
+register," Bonnet said. "So we needed
+something different."
+The team had lots of early success flip
+ping the sequence in either direction inde
+pendently, but struggled to make both sys
+tems work within the same cell to create
+re-writable data. Endy said that the chal-
+lenge took 750 trials over three
+years before the team succeeded.
+"We now have enzymes which
+can bind to the sequence, cut it,
+flip it and paste it in the new ori
+entation," Bonnet said.
+The enzyme system that Bon
+net's team produced was adapted
+from the behavior of a virus, ac
+cording to Subsoontorn. Certain
+viruses attack bacteria by splicing
+their own DNA into the genome
+of the bacteria. The research
+team's work used enzymes from
+those viruses for its manipula
+tions.
+According to Subsoontorn,
+the DNA region being flipped is a
+promoter, meaning it signals for
+the expression of another genetic
+region. In one example, Subsoon
+torn said the team placed a gene
+that makes the bacteria glow pink
+and another that make the bacte
+ria glow blue on either side of the
+promoter. Flipping the promoter
+then allowed the team to change
+the bacteria's color.
+Long-term applications for the
+idea are far more practical than
+just color change, the team said.
+
+For example, if the system is ex
+panded to have more bits, a cell
+could record data about its own
+life cycle, which would be crucial
+for research on aging and cancer
+ous cells.
+"[A cell] can detect arsenic,
+heavy metals and stuff like that,"
+Bonnet said. "So you can make
+basically sensors with memory."
+Subsoontorn likened cells to
+computing systems. Fie said that
+inputs such as light, sugars and
+other factors determine a cell's
+behavior in predictable ways.
+"You can think of a cell as an
+information processing unit,"
+Subsoontorn said. "You take
+some input, and it does some kind
+of logical computation, and it spits
+out some output."
+He said that keeping data
+could help bioengineers in partic
+ular because they could use the
+data to learn the behaviors of cells
+in a system.
+The DNA system also repre
+sents an advance because silicon
+computer chips are not yet small
+enough to fit within cells to take
+data. However, Bonnet said the
+DNA system still has advantages
+in the long term.
+"This idea is not trying to com
+pete with silicon memory," Sub
+soontorn said. "This is data stor
+age that can operate inside a liv
+
+ing cell."
+He said that some cells grow
+and divide so rapidly that silicon
+chips would not function, anyway.
+DNA, however, can grow and
+multiply along with its cell.
+The team said it next hopes to
+expand the capability of the data
+storage to a multi-bit system, pro
+gressing toward a scale where it
+can store practical amounts of
+data for real use.
+
+Contact Matt Bettonville at mbet
+tonville@stanford. edu.

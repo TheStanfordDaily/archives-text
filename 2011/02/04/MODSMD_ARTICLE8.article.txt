@@ -1,0 +1,878 @@
+# RESEARCH
+## Lab taps new smart phone technology 
+### NARDOS GIRMA 
+A team of researchers at the
+Stanford Mobile and Social Com
+puting Research Group is studying
+applications of a groundbreaking
+technology that could change the
+way people use their phones. This
+technology, called Near Field Com
+munication (NFC), allows devices to
+interact in a new way and is expected
+to become standard in smart phones
+within the next five years.
+NFC works by transmitting
+shortwave radio signals. Its potential
+uses include the transfer of files, ap
+plications and information, all
+through the simple touch of a cell
+phone to another device,
+Nokia and pay Wave credit cards
+also implemented similar technolo
+gy. Ben Dodson, a graduate student
+in computer science and a member
+of the research team, believes that
+the implementation of NFC will be
+driven by the payment option it of
+
+fers.
+"We expect it to be as standard of
+a feature as Bluetooth became,"
+Dodson said. "People will want to
+use phones to make payments, so it
+could become a new revenue stream
+for Google and Verizon to start mak
+ing transaction fees for every time
+you go to make a payment with your
+phone."
+The NFC research currently con
+ducted at the Stanford MobiSocial
+Research Laboratory focuses on
+how applications can take advantage
+of NFC as opposed to studying the
+payment method.
+"What really excites us is that you
+get two objects really close together,
+and that in itself is enough to make
+them interact," said Dodson. "You
+don't have to press buttons. You
+don't have to launch an app even.
+You just get them close together and
+something happens."
+Of course, NFC isn't foolproof
+yet. Such an increase in mobility and
+openness comes with an expected
+amount of concern about privacy
+and security. Although the maxi
+mum transmission distance for most
+devices is about eight centimeters,
+the addition of a sufficiently strong
+antenna could enable interference, a
+type of eavesdropping on informa
+tion transmissions.
+
+Flowever, users would also have
+the option of disabling NFC in their
+phones, just as Bluetooth can be
+turned off. Scott Klemmer, assistant
+professor of computer science, who
+researches barcodes and interface
+design, voiced a possible concern
+with the accelerated movement to
+wards digital technology.
+"When we start to put informa
+tion digitally, it raises the question of
+how long that information is going
+to be accessible by the outside
+world," Klemmer said. "So for tran
+sient information, these technolo
+gies are really valuable. But when
+you're banking on that information
+being there centuries from now, it's a
+more challenging proposition."
+Research in NFC technology is
+only a portion of a much larger proj
+ect that MobiSocial is pursuing. The
+lab, in fact, received a $lO million
+grant from the National Science
+Foundation to be used over five
+years.
+Monica Lam, professor of com
+puter science and a faculty director
+
+for the project, remarked on the im
+portance universities play in creat
+ing a programmable and accessible
+Internet.
+"A lot of companies are focusing
+on proprietary software," Lam said.
+"They like to lock people in on their
+own proprietary systems. And that's
+the reason why our project is fo
+cused on breaking down the barriers
+to openness."
+However, companies sometimes
+collaborate with researchers in the
+MobiSocial laboratory. This collabo
+ration aims to increase the efficiency
+with which the NFC technology will
+be incorporated into products.
+The effect NFC technology may
+have on the smart phone market is
+still unclear. The only phone with
+NFC technology currently on the
+market is the Google Nexus S. Al
+though there is some speculation
+that NFC will be standard in the
+next iPhone, it is unconfirmed.
+"We know that NFC is going to
+be very new," Lam said. "And we
+want to be there and help create
+open methods."
+
+Contact Nardos Girma at ngirma@
+stanford.edu.
+
+
+ERIC KOFMAN/The Stanford Daily
+A team of researchers at the
+Stanford Mobile and Social Com
+puting Research Group is studying
+applications of a groundbreaking
+technology that could change the
+way people use their phones. This
+technology, called Near Field Com
+munication (NFC), allows devices to
+interact in a new way and is expected
+to become standard in smart phones
+within the next five years.
+NFC works by transmitting
+shortwave radio signals. Its potential
+uses include the transfer of files, ap
+plications and information, all
+through the simple touch of a cell
+phone to another device,
+Nokia and pay Wave credit cards
+also implemented similar technolo
+gy. Ben Dodson, a graduate student
+in computer science and a member
+of the research team, believes that
+the implementation of NFC will be
+driven by the payment option it of
+
+fers.
+"We expect it to be as standard of
+a feature as Bluetooth became,"
+Dodson said. "People will want to
+use phones to make payments, so it
+could become a new revenue stream
+for Google and Verizon to start mak
+ing transaction fees for every time
+you go to make a payment with your
+phone."
+The NFC research currently con
+ducted at the Stanford MobiSocial
+Research Laboratory focuses on
+how applications can take advantage
+of NFC as opposed to studying the
+payment method.
+"What really excites us is that you
+get two objects really close together,
+and that in itself is enough to make
+them interact," said Dodson. "You
+don't have to press buttons. You
+don't have to launch an app even.
+You just get them close together and
+something happens."
+Of course, NFC isn't foolproof
+yet. Such an increase in mobility and
+openness comes with an expected
+amount of concern about privacy
+and security. Although the maxi
+mum transmission distance for most
+devices is about eight centimeters,
+the addition of a sufficiently strong
+antenna could enable interference, a
+type of eavesdropping on informa
+tion transmissions.
+
+Flowever, users would also have
+the option of disabling NFC in their
+phones, just as Bluetooth can be
+turned off. Scott Klemmer, assistant
+professor of computer science, who
+researches barcodes and interface
+design, voiced a possible concern
+with the accelerated movement to
+wards digital technology.
+"When we start to put informa
+tion digitally, it raises the question of
+how long that information is going
+to be accessible by the outside
+world," Klemmer said. "So for tran
+sient information, these technolo
+gies are really valuable. But when
+you're banking on that information
+being there centuries from now, it's a
+more challenging proposition."
+Research in NFC technology is
+only a portion of a much larger proj
+ect that MobiSocial is pursuing. The
+lab, in fact, received a $lO million
+grant from the National Science
+Foundation to be used over five
+years.
+Monica Lam, professor of com
+puter science and a faculty director
+
+for the project, remarked on the im
+portance universities play in creat
+ing a programmable and accessible
+Internet.
+"A lot of companies are focusing
+on proprietary software," Lam said.
+"They like to lock people in on their
+own proprietary systems. And that's
+the reason why our project is fo
+cused on breaking down the barriers
+to openness."
+However, companies sometimes
+collaborate with researchers in the
+MobiSocial laboratory. This collabo
+ration aims to increase the efficiency
+with which the NFC technology will
+be incorporated into products.
+The effect NFC technology may
+have on the smart phone market is
+still unclear. The only phone with
+NFC technology currently on the
+market is the Google Nexus S. Al
+though there is some speculation
+that NFC will be standard in the
+next iPhone, it is unconfirmed.
+"We know that NFC is going to
+be very new," Lam said. "And we
+want to be there and help create
+open methods."
+
+Contact Nardos Girma at ngirma@
+stanford.edu.
+
+
+ERIC KOFMAN/The Stanford Daily
+A team of researchers at the
+Stanford Mobile and Social Com
+puting Research Group is studying
+applications of a groundbreaking
+technology that could change the
+way people use their phones. This
+technology, called Near Field Com
+munication (NFC), allows devices to
+interact in a new way and is expected
+to become standard in smart phones
+within the next five years.
+NFC works by transmitting
+shortwave radio signals. Its potential
+uses include the transfer of files, ap
+plications and information, all
+through the simple touch of a cell
+phone to another device,
+Nokia and pay Wave credit cards
+also implemented similar technolo
+gy. Ben Dodson, a graduate student
+in computer science and a member
+of the research team, believes that
+the implementation of NFC will be
+driven by the payment option it of
+
+fers.
+"We expect it to be as standard of
+a feature as Bluetooth became,"
+Dodson said. "People will want to
+use phones to make payments, so it
+could become a new revenue stream
+for Google and Verizon to start mak
+ing transaction fees for every time
+you go to make a payment with your
+phone."
+The NFC research currently con
+ducted at the Stanford MobiSocial
+Research Laboratory focuses on
+how applications can take advantage
+of NFC as opposed to studying the
+payment method.
+"What really excites us is that you
+get two objects really close together,
+and that in itself is enough to make
+them interact," said Dodson. "You
+don't have to press buttons. You
+don't have to launch an app even.
+You just get them close together and
+something happens."
+Of course, NFC isn't foolproof
+yet. Such an increase in mobility and
+openness comes with an expected
+amount of concern about privacy
+and security. Although the maxi
+mum transmission distance for most
+devices is about eight centimeters,
+the addition of a sufficiently strong
+antenna could enable interference, a
+type of eavesdropping on informa
+tion transmissions.
+
+Flowever, users would also have
+the option of disabling NFC in their
+phones, just as Bluetooth can be
+turned off. Scott Klemmer, assistant
+professor of computer science, who
+researches barcodes and interface
+design, voiced a possible concern
+with the accelerated movement to
+wards digital technology.
+"When we start to put informa
+tion digitally, it raises the question of
+how long that information is going
+to be accessible by the outside
+world," Klemmer said. "So for tran
+sient information, these technolo
+gies are really valuable. But when
+you're banking on that information
+being there centuries from now, it's a
+more challenging proposition."
+Research in NFC technology is
+only a portion of a much larger proj
+ect that MobiSocial is pursuing. The
+lab, in fact, received a $lO million
+grant from the National Science
+Foundation to be used over five
+years.
+Monica Lam, professor of com
+puter science and a faculty director
+
+for the project, remarked on the im
+portance universities play in creat
+ing a programmable and accessible
+Internet.
+"A lot of companies are focusing
+on proprietary software," Lam said.
+"They like to lock people in on their
+own proprietary systems. And that's
+the reason why our project is fo
+cused on breaking down the barriers
+to openness."
+However, companies sometimes
+collaborate with researchers in the
+MobiSocial laboratory. This collabo
+ration aims to increase the efficiency
+with which the NFC technology will
+be incorporated into products.
+The effect NFC technology may
+have on the smart phone market is
+still unclear. The only phone with
+NFC technology currently on the
+market is the Google Nexus S. Al
+though there is some speculation
+that NFC will be standard in the
+next iPhone, it is unconfirmed.
+"We know that NFC is going to
+be very new," Lam said. "And we
+want to be there and help create
+open methods."
+
+Contact Nardos Girma at ngirma@
+stanford.edu.
+
+
+ERIC KOFMAN/The Stanford Daily
+A team of researchers at the
+Stanford Mobile and Social Com
+puting Research Group is studying
+applications of a groundbreaking
+technology that could change the
+way people use their phones. This
+technology, called Near Field Com
+munication (NFC), allows devices to
+interact in a new way and is expected
+to become standard in smart phones
+within the next five years.
+NFC works by transmitting
+shortwave radio signals. Its potential
+uses include the transfer of files, ap
+plications and information, all
+through the simple touch of a cell
+phone to another device,
+Nokia and pay Wave credit cards
+also implemented similar technolo
+gy. Ben Dodson, a graduate student
+in computer science and a member
+of the research team, believes that
+the implementation of NFC will be
+driven by the payment option it of
+
+fers.
+"We expect it to be as standard of
+a feature as Bluetooth became,"
+Dodson said. "People will want to
+use phones to make payments, so it
+could become a new revenue stream
+for Google and Verizon to start mak
+ing transaction fees for every time
+you go to make a payment with your
+phone."
+The NFC research currently con
+ducted at the Stanford MobiSocial
+Research Laboratory focuses on
+how applications can take advantage
+of NFC as opposed to studying the
+payment method.
+"What really excites us is that you
+get two objects really close together,
+and that in itself is enough to make
+them interact," said Dodson. "You
+don't have to press buttons. You
+don't have to launch an app even.
+You just get them close together and
+something happens."
+Of course, NFC isn't foolproof
+yet. Such an increase in mobility and
+openness comes with an expected
+amount of concern about privacy
+and security. Although the maxi
+mum transmission distance for most
+devices is about eight centimeters,
+the addition of a sufficiently strong
+antenna could enable interference, a
+type of eavesdropping on informa
+tion transmissions.
+
+Flowever, users would also have
+the option of disabling NFC in their
+phones, just as Bluetooth can be
+turned off. Scott Klemmer, assistant
+professor of computer science, who
+researches barcodes and interface
+design, voiced a possible concern
+with the accelerated movement to
+wards digital technology.
+"When we start to put informa
+tion digitally, it raises the question of
+how long that information is going
+to be accessible by the outside
+world," Klemmer said. "So for tran
+sient information, these technolo
+gies are really valuable. But when
+you're banking on that information
+being there centuries from now, it's a
+more challenging proposition."
+Research in NFC technology is
+only a portion of a much larger proj
+ect that MobiSocial is pursuing. The
+lab, in fact, received a $lO million
+grant from the National Science
+Foundation to be used over five
+years.
+Monica Lam, professor of com
+puter science and a faculty director
+
+for the project, remarked on the im
+portance universities play in creat
+ing a programmable and accessible
+Internet.
+"A lot of companies are focusing
+on proprietary software," Lam said.
+"They like to lock people in on their
+own proprietary systems. And that's
+the reason why our project is fo
+cused on breaking down the barriers
+to openness."
+However, companies sometimes
+collaborate with researchers in the
+MobiSocial laboratory. This collabo
+ration aims to increase the efficiency
+with which the NFC technology will
+be incorporated into products.
+The effect NFC technology may
+have on the smart phone market is
+still unclear. The only phone with
+NFC technology currently on the
+market is the Google Nexus S. Al
+though there is some speculation
+that NFC will be standard in the
+next iPhone, it is unconfirmed.
+"We know that NFC is going to
+be very new," Lam said. "And we
+want to be there and help create
+open methods."
+
+Contact Nardos Girma at ngirma@
+stanford.edu.
+
+
+ERIC KOFMAN/The Stanford Daily
+A team of researchers at the
+Stanford Mobile and Social Com
+puting Research Group is studying
+applications of a groundbreaking
+technology that could change the
+way people use their phones. This
+technology, called Near Field Com
+munication (NFC), allows devices to
+interact in a new way and is expected
+to become standard in smart phones
+within the next five years.
+NFC works by transmitting
+shortwave radio signals. Its potential
+uses include the transfer of files, ap
+plications and information, all
+through the simple touch of a cell
+phone to another device,
+Nokia and pay Wave credit cards
+also implemented similar technolo
+gy. Ben Dodson, a graduate student
+in computer science and a member
+of the research team, believes that
+the implementation of NFC will be
+driven by the payment option it of
+
+fers.
+"We expect it to be as standard of
+a feature as Bluetooth became,"
+Dodson said. "People will want to
+use phones to make payments, so it
+could become a new revenue stream
+for Google and Verizon to start mak
+ing transaction fees for every time
+you go to make a payment with your
+phone."
+The NFC research currently con
+ducted at the Stanford MobiSocial
+Research Laboratory focuses on
+how applications can take advantage
+of NFC as opposed to studying the
+payment method.
+"What really excites us is that you
+get two objects really close together,
+and that in itself is enough to make
+them interact," said Dodson. "You
+don't have to press buttons. You
+don't have to launch an app even.
+You just get them close together and
+something happens."
+Of course, NFC isn't foolproof
+yet. Such an increase in mobility and
+openness comes with an expected
+amount of concern about privacy
+and security. Although the maxi
+mum transmission distance for most
+devices is about eight centimeters,
+the addition of a sufficiently strong
+antenna could enable interference, a
+type of eavesdropping on informa
+tion transmissions.
+
+Flowever, users would also have
+the option of disabling NFC in their
+phones, just as Bluetooth can be
+turned off. Scott Klemmer, assistant
+professor of computer science, who
+researches barcodes and interface
+design, voiced a possible concern
+with the accelerated movement to
+wards digital technology.
+"When we start to put informa
+tion digitally, it raises the question of
+how long that information is going
+to be accessible by the outside
+world," Klemmer said. "So for tran
+sient information, these technolo
+gies are really valuable. But when
+you're banking on that information
+being there centuries from now, it's a
+more challenging proposition."
+Research in NFC technology is
+only a portion of a much larger proj
+ect that MobiSocial is pursuing. The
+lab, in fact, received a $lO million
+grant from the National Science
+Foundation to be used over five
+years.
+Monica Lam, professor of com
+puter science and a faculty director
+
+for the project, remarked on the im
+portance universities play in creat
+ing a programmable and accessible
+Internet.
+"A lot of companies are focusing
+on proprietary software," Lam said.
+"They like to lock people in on their
+own proprietary systems. And that's
+the reason why our project is fo
+cused on breaking down the barriers
+to openness."
+However, companies sometimes
+collaborate with researchers in the
+MobiSocial laboratory. This collabo
+ration aims to increase the efficiency
+with which the NFC technology will
+be incorporated into products.
+The effect NFC technology may
+have on the smart phone market is
+still unclear. The only phone with
+NFC technology currently on the
+market is the Google Nexus S. Al
+though there is some speculation
+that NFC will be standard in the
+next iPhone, it is unconfirmed.
+"We know that NFC is going to
+be very new," Lam said. "And we
+want to be there and help create
+open methods."
+
+Contact Nardos Girma at ngirma@
+stanford.edu.
+
+
+ERIC KOFMAN/The Stanford Daily
+A team of researchers at the
+Stanford Mobile and Social Com
+puting Research Group is studying
+applications of a groundbreaking
+technology that could change the
+way people use their phones. This
+technology, called Near Field Com
+munication (NFC), allows devices to
+interact in a new way and is expected
+to become standard in smart phones
+within the next five years.
+NFC works by transmitting
+shortwave radio signals. Its potential
+uses include the transfer of files, ap
+plications and information, all
+through the simple touch of a cell
+phone to another device,
+Nokia and pay Wave credit cards
+also implemented similar technolo
+gy. Ben Dodson, a graduate student
+in computer science and a member
+of the research team, believes that
+the implementation of NFC will be
+driven by the payment option it of
+
+fers.
+"We expect it to be as standard of
+a feature as Bluetooth became,"
+Dodson said. "People will want to
+use phones to make payments, so it
+could become a new revenue stream
+for Google and Verizon to start mak
+ing transaction fees for every time
+you go to make a payment with your
+phone."
+The NFC research currently con
+ducted at the Stanford MobiSocial
+Research Laboratory focuses on
+how applications can take advantage
+of NFC as opposed to studying the
+payment method.
+"What really excites us is that you
+get two objects really close together,
+and that in itself is enough to make
+them interact," said Dodson. "You
+don't have to press buttons. You
+don't have to launch an app even.
+You just get them close together and
+something happens."
+Of course, NFC isn't foolproof
+yet. Such an increase in mobility and
+openness comes with an expected
+amount of concern about privacy
+and security. Although the maxi
+mum transmission distance for most
+devices is about eight centimeters,
+the addition of a sufficiently strong
+antenna could enable interference, a
+type of eavesdropping on informa
+tion transmissions.
+
+Flowever, users would also have
+the option of disabling NFC in their
+phones, just as Bluetooth can be
+turned off. Scott Klemmer, assistant
+professor of computer science, who
+researches barcodes and interface
+design, voiced a possible concern
+with the accelerated movement to
+wards digital technology.
+"When we start to put informa
+tion digitally, it raises the question of
+how long that information is going
+to be accessible by the outside
+world," Klemmer said. "So for tran
+sient information, these technolo
+gies are really valuable. But when
+you're banking on that information
+being there centuries from now, it's a
+more challenging proposition."
+Research in NFC technology is
+only a portion of a much larger proj
+ect that MobiSocial is pursuing. The
+lab, in fact, received a $lO million
+grant from the National Science
+Foundation to be used over five
+years.
+Monica Lam, professor of com
+puter science and a faculty director
+
+for the project, remarked on the im
+portance universities play in creat
+ing a programmable and accessible
+Internet.
+"A lot of companies are focusing
+on proprietary software," Lam said.
+"They like to lock people in on their
+own proprietary systems. And that's
+the reason why our project is fo
+cused on breaking down the barriers
+to openness."
+However, companies sometimes
+collaborate with researchers in the
+MobiSocial laboratory. This collabo
+ration aims to increase the efficiency
+with which the NFC technology will
+be incorporated into products.
+The effect NFC technology may
+have on the smart phone market is
+still unclear. The only phone with
+NFC technology currently on the
+market is the Google Nexus S. Al
+though there is some speculation
+that NFC will be standard in the
+next iPhone, it is unconfirmed.
+"We know that NFC is going to
+be very new," Lam said. "And we
+want to be there and help create
+open methods."
+
+Contact Nardos Girma at ngirma@
+stanford.edu.
+
+
+ERIC KOFMAN/The Stanford Daily
+A team of researchers at the
+Stanford Mobile and Social Com
+puting Research Group is studying
+applications of a groundbreaking
+technology that could change the
+way people use their phones. This
+technology, called Near Field Com
+munication (NFC), allows devices to
+interact in a new way and is expected
+to become standard in smart phones
+within the next five years.
+NFC works by transmitting
+shortwave radio signals. Its potential
+uses include the transfer of files, ap
+plications and information, all
+through the simple touch of a cell
+phone to another device,
+Nokia and pay Wave credit cards
+also implemented similar technolo
+gy. Ben Dodson, a graduate student
+in computer science and a member
+of the research team, believes that
+the implementation of NFC will be
+driven by the payment option it of
+
+fers.
+"We expect it to be as standard of
+a feature as Bluetooth became,"
+Dodson said. "People will want to
+use phones to make payments, so it
+could become a new revenue stream
+for Google and Verizon to start mak
+ing transaction fees for every time
+you go to make a payment with your
+phone."
+The NFC research currently con
+ducted at the Stanford MobiSocial
+Research Laboratory focuses on
+how applications can take advantage
+of NFC as opposed to studying the
+payment method.
+"What really excites us is that you
+get two objects really close together,
+and that in itself is enough to make
+them interact," said Dodson. "You
+don't have to press buttons. You
+don't have to launch an app even.
+You just get them close together and
+something happens."
+Of course, NFC isn't foolproof
+yet. Such an increase in mobility and
+openness comes with an expected
+amount of concern about privacy
+and security. Although the maxi
+mum transmission distance for most
+devices is about eight centimeters,
+the addition of a sufficiently strong
+antenna could enable interference, a
+type of eavesdropping on informa
+tion transmissions.
+
+Flowever, users would also have
+the option of disabling NFC in their
+phones, just as Bluetooth can be
+turned off. Scott Klemmer, assistant
+professor of computer science, who
+researches barcodes and interface
+design, voiced a possible concern
+with the accelerated movement to
+wards digital technology.
+"When we start to put informa
+tion digitally, it raises the question of
+how long that information is going
+to be accessible by the outside
+world," Klemmer said. "So for tran
+sient information, these technolo
+gies are really valuable. But when
+you're banking on that information
+being there centuries from now, it's a
+more challenging proposition."
+Research in NFC technology is
+only a portion of a much larger proj
+ect that MobiSocial is pursuing. The
+lab, in fact, received a $lO million
+grant from the National Science
+Foundation to be used over five
+years.
+Monica Lam, professor of com
+puter science and a faculty director
+
+for the project, remarked on the im
+portance universities play in creat
+ing a programmable and accessible
+Internet.
+"A lot of companies are focusing
+on proprietary software," Lam said.
+"They like to lock people in on their
+own proprietary systems. And that's
+the reason why our project is fo
+cused on breaking down the barriers
+to openness."
+However, companies sometimes
+collaborate with researchers in the
+MobiSocial laboratory. This collabo
+ration aims to increase the efficiency
+with which the NFC technology will
+be incorporated into products.
+The effect NFC technology may
+have on the smart phone market is
+still unclear. The only phone with
+NFC technology currently on the
+market is the Google Nexus S. Al
+though there is some speculation
+that NFC will be standard in the
+next iPhone, it is unconfirmed.
+"We know that NFC is going to
+be very new," Lam said. "And we
+want to be there and help create
+open methods."
+
+Contact Nardos Girma at ngirma@
+stanford.edu.
+
+
+ERIC KOFMAN/The Stanford Daily

@@ -1,0 +1,2187 @@
+# SCIENCE
+## SUNSTAR System Simulates Shuttle Flights 
+### PAT LIN Editorial staff 
+Engineers at Stanford's
+SUNSTAR facility are attempting
+to develop a powerful computer
+animation and graphics system
+which may have broad impact on
+future space missions as well as
+many fields in engineering, science
+and medicine.
+SUNSTAR stands for Stanford
+University Network for Space
+Telescience Applications Research.
+Located in Durand Building, it is
+Stanford's version of NASA's
+Johnson Space Center and Marshall
+Space Flight Center.
+In July 1985 SUNSTAR made
+history by becoming the first non-
+NASA facility to monitor a space
+shuttle mission. This was made
+possible by computer links between
+Marshall, Johnson and SUNSTAR.
+Mike Wiskerchen, director of
+SUNSTAR, said that a principle
+goal of the facility is to develop the
+technology for "telescience," or the
+ability to conduct scientific opera
+tions from remote areas. For an in
+stitution like Stanford, which is in
+volved in numerous space shuttle
+experiments, the capability to con
+trol space missions from the
+campus rather than Houston would
+
+be very beneficial to the scientists
+involved.
+To Wiskerchen and his as
+sociates, the concept of tele science
+means more than just developing
+the engineering know-how for
+operating a facility like SUNSTAR.
+Tele science also means being able
+to simulate events in space.
+SUNSTAR personnel are cur
+rently involved in putting together
+an ambitious computer animation
+and graphics system that will do
+just that. If successful, it would one
+day permit scientists to use anima
+tion to recreate the maneuvers and
+experiments of the space shuttle. It
+would enable ground crew to
+visualize those activities from any
+perspective. And, most amazingly,
+it would allow people to see events
+as they actually happen in space.
+In effect, the animation system is
+aimed at putting people on the
+ground into space with the
+astronauts.
+The hardware for the animation
+system at SUNSTAR is composed
+of three state-of-the-art pieces of
+equipment: an Evans and Suther
+land PS3OO, a Silicon Graphics IRIS
+system and a Bosch FTS 4000.
+Wiskerchen and his co-workers are
+attempting to merge the functions
+of these machines and thus greatly
+expand their ability to produce
+animated films.
+
+The Evans and Sutherland is
+widely used in industry for
+computer-aided design and
+manufacture (CAD/CAM). Accord
+ing to Wiskerchen, the Evans and
+Sutherland is what Rockwell uses
+to design space shuttles, what
+Lockheed uses to build aircraft and
+what General Motors uses to make
+cars. The Evans and Sutherland
+makes it possible for engineers to
+visualize what they are creating as
+they design it. In addition, they can
+use the Evans and Sutherland to
+store in computer memory a com
+plete model of an aircraft or auto
+mobile, down to every last nut and
+bolt.
+The IRIS system is a "simulation
+tool useful for developing robotic al
+gorithms," said Wiskerchen. En
+gineers can enter the specifications
+for a robot into the IRIS and then
+drive the computer model of the
+robot with various programs. The
+system makes it possible to operate
+a robot model, test different artifi
+cial intelligence and robotic pro
+grams and visualize the perfor
+mance on a video screen, all with
+out having to build an actual robot.
+The Bosch FTS 4000 is designed
+specifically for computer animation,
+and it will be the heart of Wisker
+chen's animation scheme. The
+
+
+A hypothetical landing of the lunar module is simulated by the SUNSTAR animation system
+SUNSTAR uses state-of-the-art computers to create animated films.
+Bosch enables artists to draw
+various figures and to animate
+them. Objects can be rotated in
+three dimensions, moved around
+the screen and magnified or made
+small. In addition, the device
+computes how much a figure must
+be moved in each frame of animated
+film so that movements seem
+smooth and natural.
+Driven by a Motorola 68,000
+computer, the Bosch system is
+"one of the most sophisticated
+graphics engines in existence
+today," said Wiskerchen. The prob
+lem with the Bosch, for Wisker
+chen's purposes, is that it was "in
+no way ever developed to be used
+in engineering," he said.
+Designed for commercial televi
+sion, the Bosch relies on artists'
+renditions of objects, which appear
+very realistic, but are nevertheless
+as flawed as any crude sketch from
+an engineering standpoint.
+SUNSTAR engineers are at
+tempting to use the exact computer
+models contained in the Evans and
+Sutherland and the IRIS systems as
+input to the Bosch animation sys
+tem.
+The task of connecting the Bosch
+to the other two devices is a chal
+lenging one, for the Bosch was built
+to accept analog data — artists'
+drawings — as opposed to the digi
+tal electronic information in which
+
+the Evans and Sutherland and the
+IRIS store all their data.
+According to Wiskerchen, en
+gineers at SUNSTAR now have a
+"basic understanding" of how to
+transfer files from the Evans and
+Sutherland and IRIS to the Bosch.
+Moreover, said Wiskerchen, a
+"bread board," or a working model
+of the hardware needed to connect
+the instruments, has been designed
+and built. Thus, it is now possible to
+animate an engineer's exact model
+of a space shuttle on the Bosch sys
+tem.
+With a working animation system
+at hand, what might engineers at
+SUNSTAR be able to create with
+it?
+Imagine the following. On a TV
+screen, against a backdrop of stars
+and galaxies, is a familiar shot of the
+earth, blue with swirling white
+clouds and patchy brown land
+masses. The space shuttle then
+flies into view. It is an exact replica,
+reproduced in every fine detail. The
+shot zooms in on the shuttle, and a
+view of the payload area is ex
+panded to fill the screen.
+Here an experiment is being con
+ducted with an electron gun. Paral
+lel lines suddenly appear on the
+screen to depict the earth's mag
+netic field. The gun discharges and
+a volley of circles, representing
+electrons, are seen spiraling away
+along the lines of the magnetic field.
+Imagine further that all of the
+events are depicted in "real time."
+That is, all of the maneuvers of the
+
+shuttle are displayed at the moment
+they occur, exactly as they occur.
+Far from being an artist's interpre
+tation of what might be happening in
+space, the animated film is driven
+by a constant stream of information
+on the shuttle's position, speed, at
+titude and activities.
+At present, the ability to create
+such animation is half reality and
+half science-fiction. Some aspects
+of the above scenario actually have
+been achieved, but other aspects
+await further technical innovations.
+Indeed, it is possible to generate
+images that look about as realistic
+as photographs. The Bosch system
+contains a number of features that
+make this feasible.
+For example, an "anti-aliasing"
+function produces very sharp
+images and takes the jaggedness
+out of lines one is accustomed
+to seeing on computer terminals.
+Also, "smooth-shading" enables
+one to create very detailed back
+grounds, such as of the earth, by
+mixing in information from
+photographs and artists' drawings.
+Electrons and lines of the earth's
+magnetic field, which normally are
+invisible, can be displayed on
+screen along with visible objects.
+The electron gun experiment des
+cribed above actually was per
+formed in July, and it has been sim
+ulated by the animation system.
+However, there are limitations to
+the animation capabilities at pres
+ent. Most notably, it is not yet pos
+sible to produce very detailed
+
+animated films in real time. Accord
+ing to Wes Jenkins, assistant art
+director of ITS, highly detailed
+animation involving backgrounds of
+galaxies and a life-like earth, may
+require five minutes to generate a
+single frame of film. Though faster
+than "cell" or manual animation, it is
+very slow considering the fact that
+30 frames are needed for a single
+second of animation.
+The reason that so much time is
+used in making each frame is that as
+more details are put into each
+picture, more information must be
+stored and handled by the com
+puters, explained Wiskerchen. By
+eliminating a lot of artistic details
+which are not strictly required for
+scientific purposes, the whole
+process could be speeded up
+greatly.
+According to Wiskerchen, a key
+goal of the animation scheme is to
+have a "dynamic system that can be
+changed." For example, one ex
+periment may require the robot
+arm to be displayed in great detail
+while everything else — the earth,
+moon, stars — can be depicted in
+very simplified ways, perhaps as
+circles. Another experiment,
+however, may require the earth to
+be shown in great detail, and here
+the shuttle could be represented in
+mere outline.
+Because many possible applica
+tions exist for the SUNSTAR
+animation package, it may well find
+its most productive uses not in
+space but right here on earth.
+Engineers at Stanford's
+SUNSTAR facility are attempting
+to develop a powerful computer
+animation and graphics system
+which may have broad impact on
+future space missions as well as
+many fields in engineering, science
+and medicine.
+SUNSTAR stands for Stanford
+University Network for Space
+Telescience Applications Research.
+Located in Durand Building, it is
+Stanford's version of NASA's
+Johnson Space Center and Marshall
+Space Flight Center.
+In July 1985 SUNSTAR made
+history by becoming the first non-
+NASA facility to monitor a space
+shuttle mission. This was made
+possible by computer links between
+Marshall, Johnson and SUNSTAR.
+Mike Wiskerchen, director of
+SUNSTAR, said that a principle
+goal of the facility is to develop the
+technology for "telescience," or the
+ability to conduct scientific opera
+tions from remote areas. For an in
+stitution like Stanford, which is in
+volved in numerous space shuttle
+experiments, the capability to con
+trol space missions from the
+campus rather than Houston would
+
+be very beneficial to the scientists
+involved.
+To Wiskerchen and his as
+sociates, the concept of tele science
+means more than just developing
+the engineering know-how for
+operating a facility like SUNSTAR.
+Tele science also means being able
+to simulate events in space.
+SUNSTAR personnel are cur
+rently involved in putting together
+an ambitious computer animation
+and graphics system that will do
+just that. If successful, it would one
+day permit scientists to use anima
+tion to recreate the maneuvers and
+experiments of the space shuttle. It
+would enable ground crew to
+visualize those activities from any
+perspective. And, most amazingly,
+it would allow people to see events
+as they actually happen in space.
+In effect, the animation system is
+aimed at putting people on the
+ground into space with the
+astronauts.
+The hardware for the animation
+system at SUNSTAR is composed
+of three state-of-the-art pieces of
+equipment: an Evans and Suther
+land PS3OO, a Silicon Graphics IRIS
+system and a Bosch FTS 4000.
+Wiskerchen and his co-workers are
+attempting to merge the functions
+of these machines and thus greatly
+expand their ability to produce
+animated films.
+
+The Evans and Sutherland is
+widely used in industry for
+computer-aided design and
+manufacture (CAD/CAM). Accord
+ing to Wiskerchen, the Evans and
+Sutherland is what Rockwell uses
+to design space shuttles, what
+Lockheed uses to build aircraft and
+what General Motors uses to make
+cars. The Evans and Sutherland
+makes it possible for engineers to
+visualize what they are creating as
+they design it. In addition, they can
+use the Evans and Sutherland to
+store in computer memory a com
+plete model of an aircraft or auto
+mobile, down to every last nut and
+bolt.
+The IRIS system is a "simulation
+tool useful for developing robotic al
+gorithms," said Wiskerchen. En
+gineers can enter the specifications
+for a robot into the IRIS and then
+drive the computer model of the
+robot with various programs. The
+system makes it possible to operate
+a robot model, test different artifi
+cial intelligence and robotic pro
+grams and visualize the perfor
+mance on a video screen, all with
+out having to build an actual robot.
+The Bosch FTS 4000 is designed
+specifically for computer animation,
+and it will be the heart of Wisker
+chen's animation scheme. The
+
+
+A hypothetical landing of the lunar module is simulated by the SUNSTAR animation system
+SUNSTAR uses state-of-the-art computers to create animated films.
+Bosch enables artists to draw
+various figures and to animate
+them. Objects can be rotated in
+three dimensions, moved around
+the screen and magnified or made
+small. In addition, the device
+computes how much a figure must
+be moved in each frame of animated
+film so that movements seem
+smooth and natural.
+Driven by a Motorola 68,000
+computer, the Bosch system is
+"one of the most sophisticated
+graphics engines in existence
+today," said Wiskerchen. The prob
+lem with the Bosch, for Wisker
+chen's purposes, is that it was "in
+no way ever developed to be used
+in engineering," he said.
+Designed for commercial televi
+sion, the Bosch relies on artists'
+renditions of objects, which appear
+very realistic, but are nevertheless
+as flawed as any crude sketch from
+an engineering standpoint.
+SUNSTAR engineers are at
+tempting to use the exact computer
+models contained in the Evans and
+Sutherland and the IRIS systems as
+input to the Bosch animation sys
+tem.
+The task of connecting the Bosch
+to the other two devices is a chal
+lenging one, for the Bosch was built
+to accept analog data — artists'
+drawings — as opposed to the digi
+tal electronic information in which
+
+the Evans and Sutherland and the
+IRIS store all their data.
+According to Wiskerchen, en
+gineers at SUNSTAR now have a
+"basic understanding" of how to
+transfer files from the Evans and
+Sutherland and IRIS to the Bosch.
+Moreover, said Wiskerchen, a
+"bread board," or a working model
+of the hardware needed to connect
+the instruments, has been designed
+and built. Thus, it is now possible to
+animate an engineer's exact model
+of a space shuttle on the Bosch sys
+tem.
+With a working animation system
+at hand, what might engineers at
+SUNSTAR be able to create with
+it?
+Imagine the following. On a TV
+screen, against a backdrop of stars
+and galaxies, is a familiar shot of the
+earth, blue with swirling white
+clouds and patchy brown land
+masses. The space shuttle then
+flies into view. It is an exact replica,
+reproduced in every fine detail. The
+shot zooms in on the shuttle, and a
+view of the payload area is ex
+panded to fill the screen.
+Here an experiment is being con
+ducted with an electron gun. Paral
+lel lines suddenly appear on the
+screen to depict the earth's mag
+netic field. The gun discharges and
+a volley of circles, representing
+electrons, are seen spiraling away
+along the lines of the magnetic field.
+Imagine further that all of the
+events are depicted in "real time."
+That is, all of the maneuvers of the
+
+shuttle are displayed at the moment
+they occur, exactly as they occur.
+Far from being an artist's interpre
+tation of what might be happening in
+space, the animated film is driven
+by a constant stream of information
+on the shuttle's position, speed, at
+titude and activities.
+At present, the ability to create
+such animation is half reality and
+half science-fiction. Some aspects
+of the above scenario actually have
+been achieved, but other aspects
+await further technical innovations.
+Indeed, it is possible to generate
+images that look about as realistic
+as photographs. The Bosch system
+contains a number of features that
+make this feasible.
+For example, an "anti-aliasing"
+function produces very sharp
+images and takes the jaggedness
+out of lines one is accustomed
+to seeing on computer terminals.
+Also, "smooth-shading" enables
+one to create very detailed back
+grounds, such as of the earth, by
+mixing in information from
+photographs and artists' drawings.
+Electrons and lines of the earth's
+magnetic field, which normally are
+invisible, can be displayed on
+screen along with visible objects.
+The electron gun experiment des
+cribed above actually was per
+formed in July, and it has been sim
+ulated by the animation system.
+However, there are limitations to
+the animation capabilities at pres
+ent. Most notably, it is not yet pos
+sible to produce very detailed
+
+animated films in real time. Accord
+ing to Wes Jenkins, assistant art
+director of ITS, highly detailed
+animation involving backgrounds of
+galaxies and a life-like earth, may
+require five minutes to generate a
+single frame of film. Though faster
+than "cell" or manual animation, it is
+very slow considering the fact that
+30 frames are needed for a single
+second of animation.
+The reason that so much time is
+used in making each frame is that as
+more details are put into each
+picture, more information must be
+stored and handled by the com
+puters, explained Wiskerchen. By
+eliminating a lot of artistic details
+which are not strictly required for
+scientific purposes, the whole
+process could be speeded up
+greatly.
+According to Wiskerchen, a key
+goal of the animation scheme is to
+have a "dynamic system that can be
+changed." For example, one ex
+periment may require the robot
+arm to be displayed in great detail
+while everything else — the earth,
+moon, stars — can be depicted in
+very simplified ways, perhaps as
+circles. Another experiment,
+however, may require the earth to
+be shown in great detail, and here
+the shuttle could be represented in
+mere outline.
+Because many possible applica
+tions exist for the SUNSTAR
+animation package, it may well find
+its most productive uses not in
+space but right here on earth.
+Engineers at Stanford's
+SUNSTAR facility are attempting
+to develop a powerful computer
+animation and graphics system
+which may have broad impact on
+future space missions as well as
+many fields in engineering, science
+and medicine.
+SUNSTAR stands for Stanford
+University Network for Space
+Telescience Applications Research.
+Located in Durand Building, it is
+Stanford's version of NASA's
+Johnson Space Center and Marshall
+Space Flight Center.
+In July 1985 SUNSTAR made
+history by becoming the first non-
+NASA facility to monitor a space
+shuttle mission. This was made
+possible by computer links between
+Marshall, Johnson and SUNSTAR.
+Mike Wiskerchen, director of
+SUNSTAR, said that a principle
+goal of the facility is to develop the
+technology for "telescience," or the
+ability to conduct scientific opera
+tions from remote areas. For an in
+stitution like Stanford, which is in
+volved in numerous space shuttle
+experiments, the capability to con
+trol space missions from the
+campus rather than Houston would
+
+be very beneficial to the scientists
+involved.
+To Wiskerchen and his as
+sociates, the concept of tele science
+means more than just developing
+the engineering know-how for
+operating a facility like SUNSTAR.
+Tele science also means being able
+to simulate events in space.
+SUNSTAR personnel are cur
+rently involved in putting together
+an ambitious computer animation
+and graphics system that will do
+just that. If successful, it would one
+day permit scientists to use anima
+tion to recreate the maneuvers and
+experiments of the space shuttle. It
+would enable ground crew to
+visualize those activities from any
+perspective. And, most amazingly,
+it would allow people to see events
+as they actually happen in space.
+In effect, the animation system is
+aimed at putting people on the
+ground into space with the
+astronauts.
+The hardware for the animation
+system at SUNSTAR is composed
+of three state-of-the-art pieces of
+equipment: an Evans and Suther
+land PS3OO, a Silicon Graphics IRIS
+system and a Bosch FTS 4000.
+Wiskerchen and his co-workers are
+attempting to merge the functions
+of these machines and thus greatly
+expand their ability to produce
+animated films.
+
+The Evans and Sutherland is
+widely used in industry for
+computer-aided design and
+manufacture (CAD/CAM). Accord
+ing to Wiskerchen, the Evans and
+Sutherland is what Rockwell uses
+to design space shuttles, what
+Lockheed uses to build aircraft and
+what General Motors uses to make
+cars. The Evans and Sutherland
+makes it possible for engineers to
+visualize what they are creating as
+they design it. In addition, they can
+use the Evans and Sutherland to
+store in computer memory a com
+plete model of an aircraft or auto
+mobile, down to every last nut and
+bolt.
+The IRIS system is a "simulation
+tool useful for developing robotic al
+gorithms," said Wiskerchen. En
+gineers can enter the specifications
+for a robot into the IRIS and then
+drive the computer model of the
+robot with various programs. The
+system makes it possible to operate
+a robot model, test different artifi
+cial intelligence and robotic pro
+grams and visualize the perfor
+mance on a video screen, all with
+out having to build an actual robot.
+The Bosch FTS 4000 is designed
+specifically for computer animation,
+and it will be the heart of Wisker
+chen's animation scheme. The
+
+
+A hypothetical landing of the lunar module is simulated by the SUNSTAR animation system
+SUNSTAR uses state-of-the-art computers to create animated films.
+Bosch enables artists to draw
+various figures and to animate
+them. Objects can be rotated in
+three dimensions, moved around
+the screen and magnified or made
+small. In addition, the device
+computes how much a figure must
+be moved in each frame of animated
+film so that movements seem
+smooth and natural.
+Driven by a Motorola 68,000
+computer, the Bosch system is
+"one of the most sophisticated
+graphics engines in existence
+today," said Wiskerchen. The prob
+lem with the Bosch, for Wisker
+chen's purposes, is that it was "in
+no way ever developed to be used
+in engineering," he said.
+Designed for commercial televi
+sion, the Bosch relies on artists'
+renditions of objects, which appear
+very realistic, but are nevertheless
+as flawed as any crude sketch from
+an engineering standpoint.
+SUNSTAR engineers are at
+tempting to use the exact computer
+models contained in the Evans and
+Sutherland and the IRIS systems as
+input to the Bosch animation sys
+tem.
+The task of connecting the Bosch
+to the other two devices is a chal
+lenging one, for the Bosch was built
+to accept analog data — artists'
+drawings — as opposed to the digi
+tal electronic information in which
+
+the Evans and Sutherland and the
+IRIS store all their data.
+According to Wiskerchen, en
+gineers at SUNSTAR now have a
+"basic understanding" of how to
+transfer files from the Evans and
+Sutherland and IRIS to the Bosch.
+Moreover, said Wiskerchen, a
+"bread board," or a working model
+of the hardware needed to connect
+the instruments, has been designed
+and built. Thus, it is now possible to
+animate an engineer's exact model
+of a space shuttle on the Bosch sys
+tem.
+With a working animation system
+at hand, what might engineers at
+SUNSTAR be able to create with
+it?
+Imagine the following. On a TV
+screen, against a backdrop of stars
+and galaxies, is a familiar shot of the
+earth, blue with swirling white
+clouds and patchy brown land
+masses. The space shuttle then
+flies into view. It is an exact replica,
+reproduced in every fine detail. The
+shot zooms in on the shuttle, and a
+view of the payload area is ex
+panded to fill the screen.
+Here an experiment is being con
+ducted with an electron gun. Paral
+lel lines suddenly appear on the
+screen to depict the earth's mag
+netic field. The gun discharges and
+a volley of circles, representing
+electrons, are seen spiraling away
+along the lines of the magnetic field.
+Imagine further that all of the
+events are depicted in "real time."
+That is, all of the maneuvers of the
+
+shuttle are displayed at the moment
+they occur, exactly as they occur.
+Far from being an artist's interpre
+tation of what might be happening in
+space, the animated film is driven
+by a constant stream of information
+on the shuttle's position, speed, at
+titude and activities.
+At present, the ability to create
+such animation is half reality and
+half science-fiction. Some aspects
+of the above scenario actually have
+been achieved, but other aspects
+await further technical innovations.
+Indeed, it is possible to generate
+images that look about as realistic
+as photographs. The Bosch system
+contains a number of features that
+make this feasible.
+For example, an "anti-aliasing"
+function produces very sharp
+images and takes the jaggedness
+out of lines one is accustomed
+to seeing on computer terminals.
+Also, "smooth-shading" enables
+one to create very detailed back
+grounds, such as of the earth, by
+mixing in information from
+photographs and artists' drawings.
+Electrons and lines of the earth's
+magnetic field, which normally are
+invisible, can be displayed on
+screen along with visible objects.
+The electron gun experiment des
+cribed above actually was per
+formed in July, and it has been sim
+ulated by the animation system.
+However, there are limitations to
+the animation capabilities at pres
+ent. Most notably, it is not yet pos
+sible to produce very detailed
+
+animated films in real time. Accord
+ing to Wes Jenkins, assistant art
+director of ITS, highly detailed
+animation involving backgrounds of
+galaxies and a life-like earth, may
+require five minutes to generate a
+single frame of film. Though faster
+than "cell" or manual animation, it is
+very slow considering the fact that
+30 frames are needed for a single
+second of animation.
+The reason that so much time is
+used in making each frame is that as
+more details are put into each
+picture, more information must be
+stored and handled by the com
+puters, explained Wiskerchen. By
+eliminating a lot of artistic details
+which are not strictly required for
+scientific purposes, the whole
+process could be speeded up
+greatly.
+According to Wiskerchen, a key
+goal of the animation scheme is to
+have a "dynamic system that can be
+changed." For example, one ex
+periment may require the robot
+arm to be displayed in great detail
+while everything else — the earth,
+moon, stars — can be depicted in
+very simplified ways, perhaps as
+circles. Another experiment,
+however, may require the earth to
+be shown in great detail, and here
+the shuttle could be represented in
+mere outline.
+Because many possible applica
+tions exist for the SUNSTAR
+animation package, it may well find
+its most productive uses not in
+space but right here on earth.
+Engineers at Stanford's
+SUNSTAR facility are attempting
+to develop a powerful computer
+animation and graphics system
+which may have broad impact on
+future space missions as well as
+many fields in engineering, science
+and medicine.
+SUNSTAR stands for Stanford
+University Network for Space
+Telescience Applications Research.
+Located in Durand Building, it is
+Stanford's version of NASA's
+Johnson Space Center and Marshall
+Space Flight Center.
+In July 1985 SUNSTAR made
+history by becoming the first non-
+NASA facility to monitor a space
+shuttle mission. This was made
+possible by computer links between
+Marshall, Johnson and SUNSTAR.
+Mike Wiskerchen, director of
+SUNSTAR, said that a principle
+goal of the facility is to develop the
+technology for "telescience," or the
+ability to conduct scientific opera
+tions from remote areas. For an in
+stitution like Stanford, which is in
+volved in numerous space shuttle
+experiments, the capability to con
+trol space missions from the
+campus rather than Houston would
+
+be very beneficial to the scientists
+involved.
+To Wiskerchen and his as
+sociates, the concept of tele science
+means more than just developing
+the engineering know-how for
+operating a facility like SUNSTAR.
+Tele science also means being able
+to simulate events in space.
+SUNSTAR personnel are cur
+rently involved in putting together
+an ambitious computer animation
+and graphics system that will do
+just that. If successful, it would one
+day permit scientists to use anima
+tion to recreate the maneuvers and
+experiments of the space shuttle. It
+would enable ground crew to
+visualize those activities from any
+perspective. And, most amazingly,
+it would allow people to see events
+as they actually happen in space.
+In effect, the animation system is
+aimed at putting people on the
+ground into space with the
+astronauts.
+The hardware for the animation
+system at SUNSTAR is composed
+of three state-of-the-art pieces of
+equipment: an Evans and Suther
+land PS3OO, a Silicon Graphics IRIS
+system and a Bosch FTS 4000.
+Wiskerchen and his co-workers are
+attempting to merge the functions
+of these machines and thus greatly
+expand their ability to produce
+animated films.
+
+The Evans and Sutherland is
+widely used in industry for
+computer-aided design and
+manufacture (CAD/CAM). Accord
+ing to Wiskerchen, the Evans and
+Sutherland is what Rockwell uses
+to design space shuttles, what
+Lockheed uses to build aircraft and
+what General Motors uses to make
+cars. The Evans and Sutherland
+makes it possible for engineers to
+visualize what they are creating as
+they design it. In addition, they can
+use the Evans and Sutherland to
+store in computer memory a com
+plete model of an aircraft or auto
+mobile, down to every last nut and
+bolt.
+The IRIS system is a "simulation
+tool useful for developing robotic al
+gorithms," said Wiskerchen. En
+gineers can enter the specifications
+for a robot into the IRIS and then
+drive the computer model of the
+robot with various programs. The
+system makes it possible to operate
+a robot model, test different artifi
+cial intelligence and robotic pro
+grams and visualize the perfor
+mance on a video screen, all with
+out having to build an actual robot.
+The Bosch FTS 4000 is designed
+specifically for computer animation,
+and it will be the heart of Wisker
+chen's animation scheme. The
+
+
+A hypothetical landing of the lunar module is simulated by the SUNSTAR animation system
+SUNSTAR uses state-of-the-art computers to create animated films.
+Bosch enables artists to draw
+various figures and to animate
+them. Objects can be rotated in
+three dimensions, moved around
+the screen and magnified or made
+small. In addition, the device
+computes how much a figure must
+be moved in each frame of animated
+film so that movements seem
+smooth and natural.
+Driven by a Motorola 68,000
+computer, the Bosch system is
+"one of the most sophisticated
+graphics engines in existence
+today," said Wiskerchen. The prob
+lem with the Bosch, for Wisker
+chen's purposes, is that it was "in
+no way ever developed to be used
+in engineering," he said.
+Designed for commercial televi
+sion, the Bosch relies on artists'
+renditions of objects, which appear
+very realistic, but are nevertheless
+as flawed as any crude sketch from
+an engineering standpoint.
+SUNSTAR engineers are at
+tempting to use the exact computer
+models contained in the Evans and
+Sutherland and the IRIS systems as
+input to the Bosch animation sys
+tem.
+The task of connecting the Bosch
+to the other two devices is a chal
+lenging one, for the Bosch was built
+to accept analog data — artists'
+drawings — as opposed to the digi
+tal electronic information in which
+
+the Evans and Sutherland and the
+IRIS store all their data.
+According to Wiskerchen, en
+gineers at SUNSTAR now have a
+"basic understanding" of how to
+transfer files from the Evans and
+Sutherland and IRIS to the Bosch.
+Moreover, said Wiskerchen, a
+"bread board," or a working model
+of the hardware needed to connect
+the instruments, has been designed
+and built. Thus, it is now possible to
+animate an engineer's exact model
+of a space shuttle on the Bosch sys
+tem.
+With a working animation system
+at hand, what might engineers at
+SUNSTAR be able to create with
+it?
+Imagine the following. On a TV
+screen, against a backdrop of stars
+and galaxies, is a familiar shot of the
+earth, blue with swirling white
+clouds and patchy brown land
+masses. The space shuttle then
+flies into view. It is an exact replica,
+reproduced in every fine detail. The
+shot zooms in on the shuttle, and a
+view of the payload area is ex
+panded to fill the screen.
+Here an experiment is being con
+ducted with an electron gun. Paral
+lel lines suddenly appear on the
+screen to depict the earth's mag
+netic field. The gun discharges and
+a volley of circles, representing
+electrons, are seen spiraling away
+along the lines of the magnetic field.
+Imagine further that all of the
+events are depicted in "real time."
+That is, all of the maneuvers of the
+
+shuttle are displayed at the moment
+they occur, exactly as they occur.
+Far from being an artist's interpre
+tation of what might be happening in
+space, the animated film is driven
+by a constant stream of information
+on the shuttle's position, speed, at
+titude and activities.
+At present, the ability to create
+such animation is half reality and
+half science-fiction. Some aspects
+of the above scenario actually have
+been achieved, but other aspects
+await further technical innovations.
+Indeed, it is possible to generate
+images that look about as realistic
+as photographs. The Bosch system
+contains a number of features that
+make this feasible.
+For example, an "anti-aliasing"
+function produces very sharp
+images and takes the jaggedness
+out of lines one is accustomed
+to seeing on computer terminals.
+Also, "smooth-shading" enables
+one to create very detailed back
+grounds, such as of the earth, by
+mixing in information from
+photographs and artists' drawings.
+Electrons and lines of the earth's
+magnetic field, which normally are
+invisible, can be displayed on
+screen along with visible objects.
+The electron gun experiment des
+cribed above actually was per
+formed in July, and it has been sim
+ulated by the animation system.
+However, there are limitations to
+the animation capabilities at pres
+ent. Most notably, it is not yet pos
+sible to produce very detailed
+
+animated films in real time. Accord
+ing to Wes Jenkins, assistant art
+director of ITS, highly detailed
+animation involving backgrounds of
+galaxies and a life-like earth, may
+require five minutes to generate a
+single frame of film. Though faster
+than "cell" or manual animation, it is
+very slow considering the fact that
+30 frames are needed for a single
+second of animation.
+The reason that so much time is
+used in making each frame is that as
+more details are put into each
+picture, more information must be
+stored and handled by the com
+puters, explained Wiskerchen. By
+eliminating a lot of artistic details
+which are not strictly required for
+scientific purposes, the whole
+process could be speeded up
+greatly.
+According to Wiskerchen, a key
+goal of the animation scheme is to
+have a "dynamic system that can be
+changed." For example, one ex
+periment may require the robot
+arm to be displayed in great detail
+while everything else — the earth,
+moon, stars — can be depicted in
+very simplified ways, perhaps as
+circles. Another experiment,
+however, may require the earth to
+be shown in great detail, and here
+the shuttle could be represented in
+mere outline.
+Because many possible applica
+tions exist for the SUNSTAR
+animation package, it may well find
+its most productive uses not in
+space but right here on earth.
+Engineers at Stanford's
+SUNSTAR facility are attempting
+to develop a powerful computer
+animation and graphics system
+which may have broad impact on
+future space missions as well as
+many fields in engineering, science
+and medicine.
+SUNSTAR stands for Stanford
+University Network for Space
+Telescience Applications Research.
+Located in Durand Building, it is
+Stanford's version of NASA's
+Johnson Space Center and Marshall
+Space Flight Center.
+In July 1985 SUNSTAR made
+history by becoming the first non-
+NASA facility to monitor a space
+shuttle mission. This was made
+possible by computer links between
+Marshall, Johnson and SUNSTAR.
+Mike Wiskerchen, director of
+SUNSTAR, said that a principle
+goal of the facility is to develop the
+technology for "telescience," or the
+ability to conduct scientific opera
+tions from remote areas. For an in
+stitution like Stanford, which is in
+volved in numerous space shuttle
+experiments, the capability to con
+trol space missions from the
+campus rather than Houston would
+
+be very beneficial to the scientists
+involved.
+To Wiskerchen and his as
+sociates, the concept of tele science
+means more than just developing
+the engineering know-how for
+operating a facility like SUNSTAR.
+Tele science also means being able
+to simulate events in space.
+SUNSTAR personnel are cur
+rently involved in putting together
+an ambitious computer animation
+and graphics system that will do
+just that. If successful, it would one
+day permit scientists to use anima
+tion to recreate the maneuvers and
+experiments of the space shuttle. It
+would enable ground crew to
+visualize those activities from any
+perspective. And, most amazingly,
+it would allow people to see events
+as they actually happen in space.
+In effect, the animation system is
+aimed at putting people on the
+ground into space with the
+astronauts.
+The hardware for the animation
+system at SUNSTAR is composed
+of three state-of-the-art pieces of
+equipment: an Evans and Suther
+land PS3OO, a Silicon Graphics IRIS
+system and a Bosch FTS 4000.
+Wiskerchen and his co-workers are
+attempting to merge the functions
+of these machines and thus greatly
+expand their ability to produce
+animated films.
+
+The Evans and Sutherland is
+widely used in industry for
+computer-aided design and
+manufacture (CAD/CAM). Accord
+ing to Wiskerchen, the Evans and
+Sutherland is what Rockwell uses
+to design space shuttles, what
+Lockheed uses to build aircraft and
+what General Motors uses to make
+cars. The Evans and Sutherland
+makes it possible for engineers to
+visualize what they are creating as
+they design it. In addition, they can
+use the Evans and Sutherland to
+store in computer memory a com
+plete model of an aircraft or auto
+mobile, down to every last nut and
+bolt.
+The IRIS system is a "simulation
+tool useful for developing robotic al
+gorithms," said Wiskerchen. En
+gineers can enter the specifications
+for a robot into the IRIS and then
+drive the computer model of the
+robot with various programs. The
+system makes it possible to operate
+a robot model, test different artifi
+cial intelligence and robotic pro
+grams and visualize the perfor
+mance on a video screen, all with
+out having to build an actual robot.
+The Bosch FTS 4000 is designed
+specifically for computer animation,
+and it will be the heart of Wisker
+chen's animation scheme. The
+
+
+A hypothetical landing of the lunar module is simulated by the SUNSTAR animation system
+SUNSTAR uses state-of-the-art computers to create animated films.
+Bosch enables artists to draw
+various figures and to animate
+them. Objects can be rotated in
+three dimensions, moved around
+the screen and magnified or made
+small. In addition, the device
+computes how much a figure must
+be moved in each frame of animated
+film so that movements seem
+smooth and natural.
+Driven by a Motorola 68,000
+computer, the Bosch system is
+"one of the most sophisticated
+graphics engines in existence
+today," said Wiskerchen. The prob
+lem with the Bosch, for Wisker
+chen's purposes, is that it was "in
+no way ever developed to be used
+in engineering," he said.
+Designed for commercial televi
+sion, the Bosch relies on artists'
+renditions of objects, which appear
+very realistic, but are nevertheless
+as flawed as any crude sketch from
+an engineering standpoint.
+SUNSTAR engineers are at
+tempting to use the exact computer
+models contained in the Evans and
+Sutherland and the IRIS systems as
+input to the Bosch animation sys
+tem.
+The task of connecting the Bosch
+to the other two devices is a chal
+lenging one, for the Bosch was built
+to accept analog data — artists'
+drawings — as opposed to the digi
+tal electronic information in which
+
+the Evans and Sutherland and the
+IRIS store all their data.
+According to Wiskerchen, en
+gineers at SUNSTAR now have a
+"basic understanding" of how to
+transfer files from the Evans and
+Sutherland and IRIS to the Bosch.
+Moreover, said Wiskerchen, a
+"bread board," or a working model
+of the hardware needed to connect
+the instruments, has been designed
+and built. Thus, it is now possible to
+animate an engineer's exact model
+of a space shuttle on the Bosch sys
+tem.
+With a working animation system
+at hand, what might engineers at
+SUNSTAR be able to create with
+it?
+Imagine the following. On a TV
+screen, against a backdrop of stars
+and galaxies, is a familiar shot of the
+earth, blue with swirling white
+clouds and patchy brown land
+masses. The space shuttle then
+flies into view. It is an exact replica,
+reproduced in every fine detail. The
+shot zooms in on the shuttle, and a
+view of the payload area is ex
+panded to fill the screen.
+Here an experiment is being con
+ducted with an electron gun. Paral
+lel lines suddenly appear on the
+screen to depict the earth's mag
+netic field. The gun discharges and
+a volley of circles, representing
+electrons, are seen spiraling away
+along the lines of the magnetic field.
+Imagine further that all of the
+events are depicted in "real time."
+That is, all of the maneuvers of the
+
+shuttle are displayed at the moment
+they occur, exactly as they occur.
+Far from being an artist's interpre
+tation of what might be happening in
+space, the animated film is driven
+by a constant stream of information
+on the shuttle's position, speed, at
+titude and activities.
+At present, the ability to create
+such animation is half reality and
+half science-fiction. Some aspects
+of the above scenario actually have
+been achieved, but other aspects
+await further technical innovations.
+Indeed, it is possible to generate
+images that look about as realistic
+as photographs. The Bosch system
+contains a number of features that
+make this feasible.
+For example, an "anti-aliasing"
+function produces very sharp
+images and takes the jaggedness
+out of lines one is accustomed
+to seeing on computer terminals.
+Also, "smooth-shading" enables
+one to create very detailed back
+grounds, such as of the earth, by
+mixing in information from
+photographs and artists' drawings.
+Electrons and lines of the earth's
+magnetic field, which normally are
+invisible, can be displayed on
+screen along with visible objects.
+The electron gun experiment des
+cribed above actually was per
+formed in July, and it has been sim
+ulated by the animation system.
+However, there are limitations to
+the animation capabilities at pres
+ent. Most notably, it is not yet pos
+sible to produce very detailed
+
+animated films in real time. Accord
+ing to Wes Jenkins, assistant art
+director of ITS, highly detailed
+animation involving backgrounds of
+galaxies and a life-like earth, may
+require five minutes to generate a
+single frame of film. Though faster
+than "cell" or manual animation, it is
+very slow considering the fact that
+30 frames are needed for a single
+second of animation.
+The reason that so much time is
+used in making each frame is that as
+more details are put into each
+picture, more information must be
+stored and handled by the com
+puters, explained Wiskerchen. By
+eliminating a lot of artistic details
+which are not strictly required for
+scientific purposes, the whole
+process could be speeded up
+greatly.
+According to Wiskerchen, a key
+goal of the animation scheme is to
+have a "dynamic system that can be
+changed." For example, one ex
+periment may require the robot
+arm to be displayed in great detail
+while everything else — the earth,
+moon, stars — can be depicted in
+very simplified ways, perhaps as
+circles. Another experiment,
+however, may require the earth to
+be shown in great detail, and here
+the shuttle could be represented in
+mere outline.
+Because many possible applica
+tions exist for the SUNSTAR
+animation package, it may well find
+its most productive uses not in
+space but right here on earth.
+Engineers at Stanford's
+SUNSTAR facility are attempting
+to develop a powerful computer
+animation and graphics system
+which may have broad impact on
+future space missions as well as
+many fields in engineering, science
+and medicine.
+SUNSTAR stands for Stanford
+University Network for Space
+Telescience Applications Research.
+Located in Durand Building, it is
+Stanford's version of NASA's
+Johnson Space Center and Marshall
+Space Flight Center.
+In July 1985 SUNSTAR made
+history by becoming the first non-
+NASA facility to monitor a space
+shuttle mission. This was made
+possible by computer links between
+Marshall, Johnson and SUNSTAR.
+Mike Wiskerchen, director of
+SUNSTAR, said that a principle
+goal of the facility is to develop the
+technology for "telescience," or the
+ability to conduct scientific opera
+tions from remote areas. For an in
+stitution like Stanford, which is in
+volved in numerous space shuttle
+experiments, the capability to con
+trol space missions from the
+campus rather than Houston would
+
+be very beneficial to the scientists
+involved.
+To Wiskerchen and his as
+sociates, the concept of tele science
+means more than just developing
+the engineering know-how for
+operating a facility like SUNSTAR.
+Tele science also means being able
+to simulate events in space.
+SUNSTAR personnel are cur
+rently involved in putting together
+an ambitious computer animation
+and graphics system that will do
+just that. If successful, it would one
+day permit scientists to use anima
+tion to recreate the maneuvers and
+experiments of the space shuttle. It
+would enable ground crew to
+visualize those activities from any
+perspective. And, most amazingly,
+it would allow people to see events
+as they actually happen in space.
+In effect, the animation system is
+aimed at putting people on the
+ground into space with the
+astronauts.
+The hardware for the animation
+system at SUNSTAR is composed
+of three state-of-the-art pieces of
+equipment: an Evans and Suther
+land PS3OO, a Silicon Graphics IRIS
+system and a Bosch FTS 4000.
+Wiskerchen and his co-workers are
+attempting to merge the functions
+of these machines and thus greatly
+expand their ability to produce
+animated films.
+
+The Evans and Sutherland is
+widely used in industry for
+computer-aided design and
+manufacture (CAD/CAM). Accord
+ing to Wiskerchen, the Evans and
+Sutherland is what Rockwell uses
+to design space shuttles, what
+Lockheed uses to build aircraft and
+what General Motors uses to make
+cars. The Evans and Sutherland
+makes it possible for engineers to
+visualize what they are creating as
+they design it. In addition, they can
+use the Evans and Sutherland to
+store in computer memory a com
+plete model of an aircraft or auto
+mobile, down to every last nut and
+bolt.
+The IRIS system is a "simulation
+tool useful for developing robotic al
+gorithms," said Wiskerchen. En
+gineers can enter the specifications
+for a robot into the IRIS and then
+drive the computer model of the
+robot with various programs. The
+system makes it possible to operate
+a robot model, test different artifi
+cial intelligence and robotic pro
+grams and visualize the perfor
+mance on a video screen, all with
+out having to build an actual robot.
+The Bosch FTS 4000 is designed
+specifically for computer animation,
+and it will be the heart of Wisker
+chen's animation scheme. The
+
+
+A hypothetical landing of the lunar module is simulated by the SUNSTAR animation system
+SUNSTAR uses state-of-the-art computers to create animated films.
+Bosch enables artists to draw
+various figures and to animate
+them. Objects can be rotated in
+three dimensions, moved around
+the screen and magnified or made
+small. In addition, the device
+computes how much a figure must
+be moved in each frame of animated
+film so that movements seem
+smooth and natural.
+Driven by a Motorola 68,000
+computer, the Bosch system is
+"one of the most sophisticated
+graphics engines in existence
+today," said Wiskerchen. The prob
+lem with the Bosch, for Wisker
+chen's purposes, is that it was "in
+no way ever developed to be used
+in engineering," he said.
+Designed for commercial televi
+sion, the Bosch relies on artists'
+renditions of objects, which appear
+very realistic, but are nevertheless
+as flawed as any crude sketch from
+an engineering standpoint.
+SUNSTAR engineers are at
+tempting to use the exact computer
+models contained in the Evans and
+Sutherland and the IRIS systems as
+input to the Bosch animation sys
+tem.
+The task of connecting the Bosch
+to the other two devices is a chal
+lenging one, for the Bosch was built
+to accept analog data — artists'
+drawings — as opposed to the digi
+tal electronic information in which
+
+the Evans and Sutherland and the
+IRIS store all their data.
+According to Wiskerchen, en
+gineers at SUNSTAR now have a
+"basic understanding" of how to
+transfer files from the Evans and
+Sutherland and IRIS to the Bosch.
+Moreover, said Wiskerchen, a
+"bread board," or a working model
+of the hardware needed to connect
+the instruments, has been designed
+and built. Thus, it is now possible to
+animate an engineer's exact model
+of a space shuttle on the Bosch sys
+tem.
+With a working animation system
+at hand, what might engineers at
+SUNSTAR be able to create with
+it?
+Imagine the following. On a TV
+screen, against a backdrop of stars
+and galaxies, is a familiar shot of the
+earth, blue with swirling white
+clouds and patchy brown land
+masses. The space shuttle then
+flies into view. It is an exact replica,
+reproduced in every fine detail. The
+shot zooms in on the shuttle, and a
+view of the payload area is ex
+panded to fill the screen.
+Here an experiment is being con
+ducted with an electron gun. Paral
+lel lines suddenly appear on the
+screen to depict the earth's mag
+netic field. The gun discharges and
+a volley of circles, representing
+electrons, are seen spiraling away
+along the lines of the magnetic field.
+Imagine further that all of the
+events are depicted in "real time."
+That is, all of the maneuvers of the
+
+shuttle are displayed at the moment
+they occur, exactly as they occur.
+Far from being an artist's interpre
+tation of what might be happening in
+space, the animated film is driven
+by a constant stream of information
+on the shuttle's position, speed, at
+titude and activities.
+At present, the ability to create
+such animation is half reality and
+half science-fiction. Some aspects
+of the above scenario actually have
+been achieved, but other aspects
+await further technical innovations.
+Indeed, it is possible to generate
+images that look about as realistic
+as photographs. The Bosch system
+contains a number of features that
+make this feasible.
+For example, an "anti-aliasing"
+function produces very sharp
+images and takes the jaggedness
+out of lines one is accustomed
+to seeing on computer terminals.
+Also, "smooth-shading" enables
+one to create very detailed back
+grounds, such as of the earth, by
+mixing in information from
+photographs and artists' drawings.
+Electrons and lines of the earth's
+magnetic field, which normally are
+invisible, can be displayed on
+screen along with visible objects.
+The electron gun experiment des
+cribed above actually was per
+formed in July, and it has been sim
+ulated by the animation system.
+However, there are limitations to
+the animation capabilities at pres
+ent. Most notably, it is not yet pos
+sible to produce very detailed
+
+animated films in real time. Accord
+ing to Wes Jenkins, assistant art
+director of ITS, highly detailed
+animation involving backgrounds of
+galaxies and a life-like earth, may
+require five minutes to generate a
+single frame of film. Though faster
+than "cell" or manual animation, it is
+very slow considering the fact that
+30 frames are needed for a single
+second of animation.
+The reason that so much time is
+used in making each frame is that as
+more details are put into each
+picture, more information must be
+stored and handled by the com
+puters, explained Wiskerchen. By
+eliminating a lot of artistic details
+which are not strictly required for
+scientific purposes, the whole
+process could be speeded up
+greatly.
+According to Wiskerchen, a key
+goal of the animation scheme is to
+have a "dynamic system that can be
+changed." For example, one ex
+periment may require the robot
+arm to be displayed in great detail
+while everything else — the earth,
+moon, stars — can be depicted in
+very simplified ways, perhaps as
+circles. Another experiment,
+however, may require the earth to
+be shown in great detail, and here
+the shuttle could be represented in
+mere outline.
+Because many possible applica
+tions exist for the SUNSTAR
+animation package, it may well find
+its most productive uses not in
+space but right here on earth.
+Engineers at Stanford's
+SUNSTAR facility are attempting
+to develop a powerful computer
+animation and graphics system
+which may have broad impact on
+future space missions as well as
+many fields in engineering, science
+and medicine.
+SUNSTAR stands for Stanford
+University Network for Space
+Telescience Applications Research.
+Located in Durand Building, it is
+Stanford's version of NASA's
+Johnson Space Center and Marshall
+Space Flight Center.
+In July 1985 SUNSTAR made
+history by becoming the first non-
+NASA facility to monitor a space
+shuttle mission. This was made
+possible by computer links between
+Marshall, Johnson and SUNSTAR.
+Mike Wiskerchen, director of
+SUNSTAR, said that a principle
+goal of the facility is to develop the
+technology for "telescience," or the
+ability to conduct scientific opera
+tions from remote areas. For an in
+stitution like Stanford, which is in
+volved in numerous space shuttle
+experiments, the capability to con
+trol space missions from the
+campus rather than Houston would
+
+be very beneficial to the scientists
+involved.
+To Wiskerchen and his as
+sociates, the concept of tele science
+means more than just developing
+the engineering know-how for
+operating a facility like SUNSTAR.
+Tele science also means being able
+to simulate events in space.
+SUNSTAR personnel are cur
+rently involved in putting together
+an ambitious computer animation
+and graphics system that will do
+just that. If successful, it would one
+day permit scientists to use anima
+tion to recreate the maneuvers and
+experiments of the space shuttle. It
+would enable ground crew to
+visualize those activities from any
+perspective. And, most amazingly,
+it would allow people to see events
+as they actually happen in space.
+In effect, the animation system is
+aimed at putting people on the
+ground into space with the
+astronauts.
+The hardware for the animation
+system at SUNSTAR is composed
+of three state-of-the-art pieces of
+equipment: an Evans and Suther
+land PS3OO, a Silicon Graphics IRIS
+system and a Bosch FTS 4000.
+Wiskerchen and his co-workers are
+attempting to merge the functions
+of these machines and thus greatly
+expand their ability to produce
+animated films.
+
+The Evans and Sutherland is
+widely used in industry for
+computer-aided design and
+manufacture (CAD/CAM). Accord
+ing to Wiskerchen, the Evans and
+Sutherland is what Rockwell uses
+to design space shuttles, what
+Lockheed uses to build aircraft and
+what General Motors uses to make
+cars. The Evans and Sutherland
+makes it possible for engineers to
+visualize what they are creating as
+they design it. In addition, they can
+use the Evans and Sutherland to
+store in computer memory a com
+plete model of an aircraft or auto
+mobile, down to every last nut and
+bolt.
+The IRIS system is a "simulation
+tool useful for developing robotic al
+gorithms," said Wiskerchen. En
+gineers can enter the specifications
+for a robot into the IRIS and then
+drive the computer model of the
+robot with various programs. The
+system makes it possible to operate
+a robot model, test different artifi
+cial intelligence and robotic pro
+grams and visualize the perfor
+mance on a video screen, all with
+out having to build an actual robot.
+The Bosch FTS 4000 is designed
+specifically for computer animation,
+and it will be the heart of Wisker
+chen's animation scheme. The
+
+
+A hypothetical landing of the lunar module is simulated by the SUNSTAR animation system
+SUNSTAR uses state-of-the-art computers to create animated films.
+Bosch enables artists to draw
+various figures and to animate
+them. Objects can be rotated in
+three dimensions, moved around
+the screen and magnified or made
+small. In addition, the device
+computes how much a figure must
+be moved in each frame of animated
+film so that movements seem
+smooth and natural.
+Driven by a Motorola 68,000
+computer, the Bosch system is
+"one of the most sophisticated
+graphics engines in existence
+today," said Wiskerchen. The prob
+lem with the Bosch, for Wisker
+chen's purposes, is that it was "in
+no way ever developed to be used
+in engineering," he said.
+Designed for commercial televi
+sion, the Bosch relies on artists'
+renditions of objects, which appear
+very realistic, but are nevertheless
+as flawed as any crude sketch from
+an engineering standpoint.
+SUNSTAR engineers are at
+tempting to use the exact computer
+models contained in the Evans and
+Sutherland and the IRIS systems as
+input to the Bosch animation sys
+tem.
+The task of connecting the Bosch
+to the other two devices is a chal
+lenging one, for the Bosch was built
+to accept analog data — artists'
+drawings — as opposed to the digi
+tal electronic information in which
+
+the Evans and Sutherland and the
+IRIS store all their data.
+According to Wiskerchen, en
+gineers at SUNSTAR now have a
+"basic understanding" of how to
+transfer files from the Evans and
+Sutherland and IRIS to the Bosch.
+Moreover, said Wiskerchen, a
+"bread board," or a working model
+of the hardware needed to connect
+the instruments, has been designed
+and built. Thus, it is now possible to
+animate an engineer's exact model
+of a space shuttle on the Bosch sys
+tem.
+With a working animation system
+at hand, what might engineers at
+SUNSTAR be able to create with
+it?
+Imagine the following. On a TV
+screen, against a backdrop of stars
+and galaxies, is a familiar shot of the
+earth, blue with swirling white
+clouds and patchy brown land
+masses. The space shuttle then
+flies into view. It is an exact replica,
+reproduced in every fine detail. The
+shot zooms in on the shuttle, and a
+view of the payload area is ex
+panded to fill the screen.
+Here an experiment is being con
+ducted with an electron gun. Paral
+lel lines suddenly appear on the
+screen to depict the earth's mag
+netic field. The gun discharges and
+a volley of circles, representing
+electrons, are seen spiraling away
+along the lines of the magnetic field.
+Imagine further that all of the
+events are depicted in "real time."
+That is, all of the maneuvers of the
+
+shuttle are displayed at the moment
+they occur, exactly as they occur.
+Far from being an artist's interpre
+tation of what might be happening in
+space, the animated film is driven
+by a constant stream of information
+on the shuttle's position, speed, at
+titude and activities.
+At present, the ability to create
+such animation is half reality and
+half science-fiction. Some aspects
+of the above scenario actually have
+been achieved, but other aspects
+await further technical innovations.
+Indeed, it is possible to generate
+images that look about as realistic
+as photographs. The Bosch system
+contains a number of features that
+make this feasible.
+For example, an "anti-aliasing"
+function produces very sharp
+images and takes the jaggedness
+out of lines one is accustomed
+to seeing on computer terminals.
+Also, "smooth-shading" enables
+one to create very detailed back
+grounds, such as of the earth, by
+mixing in information from
+photographs and artists' drawings.
+Electrons and lines of the earth's
+magnetic field, which normally are
+invisible, can be displayed on
+screen along with visible objects.
+The electron gun experiment des
+cribed above actually was per
+formed in July, and it has been sim
+ulated by the animation system.
+However, there are limitations to
+the animation capabilities at pres
+ent. Most notably, it is not yet pos
+sible to produce very detailed
+
+animated films in real time. Accord
+ing to Wes Jenkins, assistant art
+director of ITS, highly detailed
+animation involving backgrounds of
+galaxies and a life-like earth, may
+require five minutes to generate a
+single frame of film. Though faster
+than "cell" or manual animation, it is
+very slow considering the fact that
+30 frames are needed for a single
+second of animation.
+The reason that so much time is
+used in making each frame is that as
+more details are put into each
+picture, more information must be
+stored and handled by the com
+puters, explained Wiskerchen. By
+eliminating a lot of artistic details
+which are not strictly required for
+scientific purposes, the whole
+process could be speeded up
+greatly.
+According to Wiskerchen, a key
+goal of the animation scheme is to
+have a "dynamic system that can be
+changed." For example, one ex
+periment may require the robot
+arm to be displayed in great detail
+while everything else — the earth,
+moon, stars — can be depicted in
+very simplified ways, perhaps as
+circles. Another experiment,
+however, may require the earth to
+be shown in great detail, and here
+the shuttle could be represented in
+mere outline.
+Because many possible applica
+tions exist for the SUNSTAR
+animation package, it may well find
+its most productive uses not in
+space but right here on earth.
+Engineers at Stanford's
+SUNSTAR facility are attempting
+to develop a powerful computer
+animation and graphics system
+which may have broad impact on
+future space missions as well as
+many fields in engineering, science
+and medicine.
+SUNSTAR stands for Stanford
+University Network for Space
+Telescience Applications Research.
+Located in Durand Building, it is
+Stanford's version of NASA's
+Johnson Space Center and Marshall
+Space Flight Center.
+In July 1985 SUNSTAR made
+history by becoming the first non-
+NASA facility to monitor a space
+shuttle mission. This was made
+possible by computer links between
+Marshall, Johnson and SUNSTAR.
+Mike Wiskerchen, director of
+SUNSTAR, said that a principle
+goal of the facility is to develop the
+technology for "telescience," or the
+ability to conduct scientific opera
+tions from remote areas. For an in
+stitution like Stanford, which is in
+volved in numerous space shuttle
+experiments, the capability to con
+trol space missions from the
+campus rather than Houston would
+
+be very beneficial to the scientists
+involved.
+To Wiskerchen and his as
+sociates, the concept of tele science
+means more than just developing
+the engineering know-how for
+operating a facility like SUNSTAR.
+Tele science also means being able
+to simulate events in space.
+SUNSTAR personnel are cur
+rently involved in putting together
+an ambitious computer animation
+and graphics system that will do
+just that. If successful, it would one
+day permit scientists to use anima
+tion to recreate the maneuvers and
+experiments of the space shuttle. It
+would enable ground crew to
+visualize those activities from any
+perspective. And, most amazingly,
+it would allow people to see events
+as they actually happen in space.
+In effect, the animation system is
+aimed at putting people on the
+ground into space with the
+astronauts.
+The hardware for the animation
+system at SUNSTAR is composed
+of three state-of-the-art pieces of
+equipment: an Evans and Suther
+land PS3OO, a Silicon Graphics IRIS
+system and a Bosch FTS 4000.
+Wiskerchen and his co-workers are
+attempting to merge the functions
+of these machines and thus greatly
+expand their ability to produce
+animated films.
+
+The Evans and Sutherland is
+widely used in industry for
+computer-aided design and
+manufacture (CAD/CAM). Accord
+ing to Wiskerchen, the Evans and
+Sutherland is what Rockwell uses
+to design space shuttles, what
+Lockheed uses to build aircraft and
+what General Motors uses to make
+cars. The Evans and Sutherland
+makes it possible for engineers to
+visualize what they are creating as
+they design it. In addition, they can
+use the Evans and Sutherland to
+store in computer memory a com
+plete model of an aircraft or auto
+mobile, down to every last nut and
+bolt.
+The IRIS system is a "simulation
+tool useful for developing robotic al
+gorithms," said Wiskerchen. En
+gineers can enter the specifications
+for a robot into the IRIS and then
+drive the computer model of the
+robot with various programs. The
+system makes it possible to operate
+a robot model, test different artifi
+cial intelligence and robotic pro
+grams and visualize the perfor
+mance on a video screen, all with
+out having to build an actual robot.
+The Bosch FTS 4000 is designed
+specifically for computer animation,
+and it will be the heart of Wisker
+chen's animation scheme. The
+
+
+A hypothetical landing of the lunar module is simulated by the SUNSTAR animation system
+SUNSTAR uses state-of-the-art computers to create animated films.
+Bosch enables artists to draw
+various figures and to animate
+them. Objects can be rotated in
+three dimensions, moved around
+the screen and magnified or made
+small. In addition, the device
+computes how much a figure must
+be moved in each frame of animated
+film so that movements seem
+smooth and natural.
+Driven by a Motorola 68,000
+computer, the Bosch system is
+"one of the most sophisticated
+graphics engines in existence
+today," said Wiskerchen. The prob
+lem with the Bosch, for Wisker
+chen's purposes, is that it was "in
+no way ever developed to be used
+in engineering," he said.
+Designed for commercial televi
+sion, the Bosch relies on artists'
+renditions of objects, which appear
+very realistic, but are nevertheless
+as flawed as any crude sketch from
+an engineering standpoint.
+SUNSTAR engineers are at
+tempting to use the exact computer
+models contained in the Evans and
+Sutherland and the IRIS systems as
+input to the Bosch animation sys
+tem.
+The task of connecting the Bosch
+to the other two devices is a chal
+lenging one, for the Bosch was built
+to accept analog data — artists'
+drawings — as opposed to the digi
+tal electronic information in which
+
+the Evans and Sutherland and the
+IRIS store all their data.
+According to Wiskerchen, en
+gineers at SUNSTAR now have a
+"basic understanding" of how to
+transfer files from the Evans and
+Sutherland and IRIS to the Bosch.
+Moreover, said Wiskerchen, a
+"bread board," or a working model
+of the hardware needed to connect
+the instruments, has been designed
+and built. Thus, it is now possible to
+animate an engineer's exact model
+of a space shuttle on the Bosch sys
+tem.
+With a working animation system
+at hand, what might engineers at
+SUNSTAR be able to create with
+it?
+Imagine the following. On a TV
+screen, against a backdrop of stars
+and galaxies, is a familiar shot of the
+earth, blue with swirling white
+clouds and patchy brown land
+masses. The space shuttle then
+flies into view. It is an exact replica,
+reproduced in every fine detail. The
+shot zooms in on the shuttle, and a
+view of the payload area is ex
+panded to fill the screen.
+Here an experiment is being con
+ducted with an electron gun. Paral
+lel lines suddenly appear on the
+screen to depict the earth's mag
+netic field. The gun discharges and
+a volley of circles, representing
+electrons, are seen spiraling away
+along the lines of the magnetic field.
+Imagine further that all of the
+events are depicted in "real time."
+That is, all of the maneuvers of the
+
+shuttle are displayed at the moment
+they occur, exactly as they occur.
+Far from being an artist's interpre
+tation of what might be happening in
+space, the animated film is driven
+by a constant stream of information
+on the shuttle's position, speed, at
+titude and activities.
+At present, the ability to create
+such animation is half reality and
+half science-fiction. Some aspects
+of the above scenario actually have
+been achieved, but other aspects
+await further technical innovations.
+Indeed, it is possible to generate
+images that look about as realistic
+as photographs. The Bosch system
+contains a number of features that
+make this feasible.
+For example, an "anti-aliasing"
+function produces very sharp
+images and takes the jaggedness
+out of lines one is accustomed
+to seeing on computer terminals.
+Also, "smooth-shading" enables
+one to create very detailed back
+grounds, such as of the earth, by
+mixing in information from
+photographs and artists' drawings.
+Electrons and lines of the earth's
+magnetic field, which normally are
+invisible, can be displayed on
+screen along with visible objects.
+The electron gun experiment des
+cribed above actually was per
+formed in July, and it has been sim
+ulated by the animation system.
+However, there are limitations to
+the animation capabilities at pres
+ent. Most notably, it is not yet pos
+sible to produce very detailed
+
+animated films in real time. Accord
+ing to Wes Jenkins, assistant art
+director of ITS, highly detailed
+animation involving backgrounds of
+galaxies and a life-like earth, may
+require five minutes to generate a
+single frame of film. Though faster
+than "cell" or manual animation, it is
+very slow considering the fact that
+30 frames are needed for a single
+second of animation.
+The reason that so much time is
+used in making each frame is that as
+more details are put into each
+picture, more information must be
+stored and handled by the com
+puters, explained Wiskerchen. By
+eliminating a lot of artistic details
+which are not strictly required for
+scientific purposes, the whole
+process could be speeded up
+greatly.
+According to Wiskerchen, a key
+goal of the animation scheme is to
+have a "dynamic system that can be
+changed." For example, one ex
+periment may require the robot
+arm to be displayed in great detail
+while everything else — the earth,
+moon, stars — can be depicted in
+very simplified ways, perhaps as
+circles. Another experiment,
+however, may require the earth to
+be shown in great detail, and here
+the shuttle could be represented in
+mere outline.
+Because many possible applica
+tions exist for the SUNSTAR
+animation package, it may well find
+its most productive uses not in
+space but right here on earth.

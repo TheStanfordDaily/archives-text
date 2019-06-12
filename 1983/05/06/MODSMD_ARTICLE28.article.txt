@@ -1,0 +1,707 @@
+# Public key cryptography systems: a revolution in secret-telling
+## 
+### ALEX TARG 
+Cryptography, the science of encoding
+-and concealing the meaning of messages,
+has been practiced for a least 3000 years. In
+the past 200 years, as improved technology
+has increased information flow regarding
+military affairs, diplomacy, and international
+commerce, cryptography has become an in
+dispensible tool to help guard against mes
+sage interception. As the users' demands
+have become increasingly sophisticated,
+cryptography systems have changed and
+grown to meet them. Now, new devel
+opments in information theory and com
+puter calculating power are on the brink of
+revolutionizing cryptography. One of the
+most promising of the new systems is public
+
+key cryptography.
+The "public key concept" was developed
+by Electrical Engineering Prof. Martin
+Hellman, and Whitfield Diffie in 1976, but at
+the time no computer system existed which
+could apply their ideas, explained electrical
+engineering graduate student Taher El-
+Gamal who currently works with Hellman in
+cryptography.
+El-Gamal described an industry-wide need
+for systems such as the public key cryptosys
+tems in communications: "An encryption
+system would be especially valuable for pay
+T.V. stations. The codes now used are easy
+to break and electrical engineers can easily
+make their own decoders. Applications also
+will be found in banking and other mass data
+
+storage operations. With the increasing
+number of personal computers in this coun
+try we will see more concern with security
+and more security provisions built into
+computing and communications systems."
+A conventional crtyptography system re
+lies upon a single encoding and decoding
+scheme, in cryptography lingo called a
+"key." Someone sending a message would
+use the key to change a message into an
+unrecognizable coded form," much like
+putting it in a box a locking it shut," said
+El-Gamal. The receiver, uses the same key to
+change the encoded message back to read
+able form, as one might open the box
+the problem with a single \ey system is
+that both the encoding and decoding keys
+
+are the same: if someone finds out what a
+coding key is, no messages are sec ure. This
+problem is intensified because noth sender
+and receiver must obtain their identical keys
+by some safe distribution system.
+Hellman's revolutionary concept is to use
+two keys instead of just one. The first key is
+used only for encoding and the set ond only
+for decoding. It is not feasible to compute
+the decoding key trom knowledge of the
+encoding key — one kind of key opens the
+box and entirely different variety closes it.
+Using this system, communication in code
+is set up securelv without an initial visit be
+cause an encoding key can be sent through
+public c hannels.
+lo initiate the two-way encoded corn
+
+munication each sending station creates a
+spy station would create an encoding and a
+decoding key, then send the encoding key
+to another station.
+According to El-Gamal, the encoding key
+is the product of two secret prime numbers
+each having 100 digits, selected by the per
+son creating the keys, and the encoding key
+is derived from the same pair of prime num
+bers using a non-secret formula. It is difficult
+to calculate the prime numbers from the en
+coding key because it would require factor
+ing a 200 digit number. Using the fastest
+computers in the existence shortest likely
+time required to factor a number of this
+magnitude and break the system would be
+about 4 billion years.
+Cryptography, the science of encoding
+-and concealing the meaning of messages,
+has been practiced for a least 3000 years. In
+the past 200 years, as improved technology
+has increased information flow regarding
+military affairs, diplomacy, and international
+commerce, cryptography has become an in
+dispensible tool to help guard against mes
+sage interception. As the users' demands
+have become increasingly sophisticated,
+cryptography systems have changed and
+grown to meet them. Now, new devel
+opments in information theory and com
+puter calculating power are on the brink of
+revolutionizing cryptography. One of the
+most promising of the new systems is public
+
+key cryptography.
+The "public key concept" was developed
+by Electrical Engineering Prof. Martin
+Hellman, and Whitfield Diffie in 1976, but at
+the time no computer system existed which
+could apply their ideas, explained electrical
+engineering graduate student Taher El-
+Gamal who currently works with Hellman in
+cryptography.
+El-Gamal described an industry-wide need
+for systems such as the public key cryptosys
+tems in communications: "An encryption
+system would be especially valuable for pay
+T.V. stations. The codes now used are easy
+to break and electrical engineers can easily
+make their own decoders. Applications also
+will be found in banking and other mass data
+
+storage operations. With the increasing
+number of personal computers in this coun
+try we will see more concern with security
+and more security provisions built into
+computing and communications systems."
+A conventional crtyptography system re
+lies upon a single encoding and decoding
+scheme, in cryptography lingo called a
+"key." Someone sending a message would
+use the key to change a message into an
+unrecognizable coded form," much like
+putting it in a box a locking it shut," said
+El-Gamal. The receiver, uses the same key to
+change the encoded message back to read
+able form, as one might open the box
+the problem with a single \ey system is
+that both the encoding and decoding keys
+
+are the same: if someone finds out what a
+coding key is, no messages are sec ure. This
+problem is intensified because noth sender
+and receiver must obtain their identical keys
+by some safe distribution system.
+Hellman's revolutionary concept is to use
+two keys instead of just one. The first key is
+used only for encoding and the set ond only
+for decoding. It is not feasible to compute
+the decoding key trom knowledge of the
+encoding key — one kind of key opens the
+box and entirely different variety closes it.
+Using this system, communication in code
+is set up securelv without an initial visit be
+cause an encoding key can be sent through
+public c hannels.
+lo initiate the two-way encoded corn
+
+munication each sending station creates a
+spy station would create an encoding and a
+decoding key, then send the encoding key
+to another station.
+According to El-Gamal, the encoding key
+is the product of two secret prime numbers
+each having 100 digits, selected by the per
+son creating the keys, and the encoding key
+is derived from the same pair of prime num
+bers using a non-secret formula. It is difficult
+to calculate the prime numbers from the en
+coding key because it would require factor
+ing a 200 digit number. Using the fastest
+computers in the existence shortest likely
+time required to factor a number of this
+magnitude and break the system would be
+about 4 billion years.
+Cryptography, the science of encoding
+-and concealing the meaning of messages,
+has been practiced for a least 3000 years. In
+the past 200 years, as improved technology
+has increased information flow regarding
+military affairs, diplomacy, and international
+commerce, cryptography has become an in
+dispensible tool to help guard against mes
+sage interception. As the users' demands
+have become increasingly sophisticated,
+cryptography systems have changed and
+grown to meet them. Now, new devel
+opments in information theory and com
+puter calculating power are on the brink of
+revolutionizing cryptography. One of the
+most promising of the new systems is public
+
+key cryptography.
+The "public key concept" was developed
+by Electrical Engineering Prof. Martin
+Hellman, and Whitfield Diffie in 1976, but at
+the time no computer system existed which
+could apply their ideas, explained electrical
+engineering graduate student Taher El-
+Gamal who currently works with Hellman in
+cryptography.
+El-Gamal described an industry-wide need
+for systems such as the public key cryptosys
+tems in communications: "An encryption
+system would be especially valuable for pay
+T.V. stations. The codes now used are easy
+to break and electrical engineers can easily
+make their own decoders. Applications also
+will be found in banking and other mass data
+
+storage operations. With the increasing
+number of personal computers in this coun
+try we will see more concern with security
+and more security provisions built into
+computing and communications systems."
+A conventional crtyptography system re
+lies upon a single encoding and decoding
+scheme, in cryptography lingo called a
+"key." Someone sending a message would
+use the key to change a message into an
+unrecognizable coded form," much like
+putting it in a box a locking it shut," said
+El-Gamal. The receiver, uses the same key to
+change the encoded message back to read
+able form, as one might open the box
+the problem with a single \ey system is
+that both the encoding and decoding keys
+
+are the same: if someone finds out what a
+coding key is, no messages are sec ure. This
+problem is intensified because noth sender
+and receiver must obtain their identical keys
+by some safe distribution system.
+Hellman's revolutionary concept is to use
+two keys instead of just one. The first key is
+used only for encoding and the set ond only
+for decoding. It is not feasible to compute
+the decoding key trom knowledge of the
+encoding key — one kind of key opens the
+box and entirely different variety closes it.
+Using this system, communication in code
+is set up securelv without an initial visit be
+cause an encoding key can be sent through
+public c hannels.
+lo initiate the two-way encoded corn
+
+munication each sending station creates a
+spy station would create an encoding and a
+decoding key, then send the encoding key
+to another station.
+According to El-Gamal, the encoding key
+is the product of two secret prime numbers
+each having 100 digits, selected by the per
+son creating the keys, and the encoding key
+is derived from the same pair of prime num
+bers using a non-secret formula. It is difficult
+to calculate the prime numbers from the en
+coding key because it would require factor
+ing a 200 digit number. Using the fastest
+computers in the existence shortest likely
+time required to factor a number of this
+magnitude and break the system would be
+about 4 billion years.
+Cryptography, the science of encoding
+-and concealing the meaning of messages,
+has been practiced for a least 3000 years. In
+the past 200 years, as improved technology
+has increased information flow regarding
+military affairs, diplomacy, and international
+commerce, cryptography has become an in
+dispensible tool to help guard against mes
+sage interception. As the users' demands
+have become increasingly sophisticated,
+cryptography systems have changed and
+grown to meet them. Now, new devel
+opments in information theory and com
+puter calculating power are on the brink of
+revolutionizing cryptography. One of the
+most promising of the new systems is public
+
+key cryptography.
+The "public key concept" was developed
+by Electrical Engineering Prof. Martin
+Hellman, and Whitfield Diffie in 1976, but at
+the time no computer system existed which
+could apply their ideas, explained electrical
+engineering graduate student Taher El-
+Gamal who currently works with Hellman in
+cryptography.
+El-Gamal described an industry-wide need
+for systems such as the public key cryptosys
+tems in communications: "An encryption
+system would be especially valuable for pay
+T.V. stations. The codes now used are easy
+to break and electrical engineers can easily
+make their own decoders. Applications also
+will be found in banking and other mass data
+
+storage operations. With the increasing
+number of personal computers in this coun
+try we will see more concern with security
+and more security provisions built into
+computing and communications systems."
+A conventional crtyptography system re
+lies upon a single encoding and decoding
+scheme, in cryptography lingo called a
+"key." Someone sending a message would
+use the key to change a message into an
+unrecognizable coded form," much like
+putting it in a box a locking it shut," said
+El-Gamal. The receiver, uses the same key to
+change the encoded message back to read
+able form, as one might open the box
+the problem with a single \ey system is
+that both the encoding and decoding keys
+
+are the same: if someone finds out what a
+coding key is, no messages are sec ure. This
+problem is intensified because noth sender
+and receiver must obtain their identical keys
+by some safe distribution system.
+Hellman's revolutionary concept is to use
+two keys instead of just one. The first key is
+used only for encoding and the set ond only
+for decoding. It is not feasible to compute
+the decoding key trom knowledge of the
+encoding key — one kind of key opens the
+box and entirely different variety closes it.
+Using this system, communication in code
+is set up securelv without an initial visit be
+cause an encoding key can be sent through
+public c hannels.
+lo initiate the two-way encoded corn
+
+munication each sending station creates a
+spy station would create an encoding and a
+decoding key, then send the encoding key
+to another station.
+According to El-Gamal, the encoding key
+is the product of two secret prime numbers
+each having 100 digits, selected by the per
+son creating the keys, and the encoding key
+is derived from the same pair of prime num
+bers using a non-secret formula. It is difficult
+to calculate the prime numbers from the en
+coding key because it would require factor
+ing a 200 digit number. Using the fastest
+computers in the existence shortest likely
+time required to factor a number of this
+magnitude and break the system would be
+about 4 billion years.
+Cryptography, the science of encoding
+-and concealing the meaning of messages,
+has been practiced for a least 3000 years. In
+the past 200 years, as improved technology
+has increased information flow regarding
+military affairs, diplomacy, and international
+commerce, cryptography has become an in
+dispensible tool to help guard against mes
+sage interception. As the users' demands
+have become increasingly sophisticated,
+cryptography systems have changed and
+grown to meet them. Now, new devel
+opments in information theory and com
+puter calculating power are on the brink of
+revolutionizing cryptography. One of the
+most promising of the new systems is public
+
+key cryptography.
+The "public key concept" was developed
+by Electrical Engineering Prof. Martin
+Hellman, and Whitfield Diffie in 1976, but at
+the time no computer system existed which
+could apply their ideas, explained electrical
+engineering graduate student Taher El-
+Gamal who currently works with Hellman in
+cryptography.
+El-Gamal described an industry-wide need
+for systems such as the public key cryptosys
+tems in communications: "An encryption
+system would be especially valuable for pay
+T.V. stations. The codes now used are easy
+to break and electrical engineers can easily
+make their own decoders. Applications also
+will be found in banking and other mass data
+
+storage operations. With the increasing
+number of personal computers in this coun
+try we will see more concern with security
+and more security provisions built into
+computing and communications systems."
+A conventional crtyptography system re
+lies upon a single encoding and decoding
+scheme, in cryptography lingo called a
+"key." Someone sending a message would
+use the key to change a message into an
+unrecognizable coded form," much like
+putting it in a box a locking it shut," said
+El-Gamal. The receiver, uses the same key to
+change the encoded message back to read
+able form, as one might open the box
+the problem with a single \ey system is
+that both the encoding and decoding keys
+
+are the same: if someone finds out what a
+coding key is, no messages are sec ure. This
+problem is intensified because noth sender
+and receiver must obtain their identical keys
+by some safe distribution system.
+Hellman's revolutionary concept is to use
+two keys instead of just one. The first key is
+used only for encoding and the set ond only
+for decoding. It is not feasible to compute
+the decoding key trom knowledge of the
+encoding key — one kind of key opens the
+box and entirely different variety closes it.
+Using this system, communication in code
+is set up securelv without an initial visit be
+cause an encoding key can be sent through
+public c hannels.
+lo initiate the two-way encoded corn
+
+munication each sending station creates a
+spy station would create an encoding and a
+decoding key, then send the encoding key
+to another station.
+According to El-Gamal, the encoding key
+is the product of two secret prime numbers
+each having 100 digits, selected by the per
+son creating the keys, and the encoding key
+is derived from the same pair of prime num
+bers using a non-secret formula. It is difficult
+to calculate the prime numbers from the en
+coding key because it would require factor
+ing a 200 digit number. Using the fastest
+computers in the existence shortest likely
+time required to factor a number of this
+magnitude and break the system would be
+about 4 billion years.
+Cryptography, the science of encoding
+-and concealing the meaning of messages,
+has been practiced for a least 3000 years. In
+the past 200 years, as improved technology
+has increased information flow regarding
+military affairs, diplomacy, and international
+commerce, cryptography has become an in
+dispensible tool to help guard against mes
+sage interception. As the users' demands
+have become increasingly sophisticated,
+cryptography systems have changed and
+grown to meet them. Now, new devel
+opments in information theory and com
+puter calculating power are on the brink of
+revolutionizing cryptography. One of the
+most promising of the new systems is public
+
+key cryptography.
+The "public key concept" was developed
+by Electrical Engineering Prof. Martin
+Hellman, and Whitfield Diffie in 1976, but at
+the time no computer system existed which
+could apply their ideas, explained electrical
+engineering graduate student Taher El-
+Gamal who currently works with Hellman in
+cryptography.
+El-Gamal described an industry-wide need
+for systems such as the public key cryptosys
+tems in communications: "An encryption
+system would be especially valuable for pay
+T.V. stations. The codes now used are easy
+to break and electrical engineers can easily
+make their own decoders. Applications also
+will be found in banking and other mass data
+
+storage operations. With the increasing
+number of personal computers in this coun
+try we will see more concern with security
+and more security provisions built into
+computing and communications systems."
+A conventional crtyptography system re
+lies upon a single encoding and decoding
+scheme, in cryptography lingo called a
+"key." Someone sending a message would
+use the key to change a message into an
+unrecognizable coded form," much like
+putting it in a box a locking it shut," said
+El-Gamal. The receiver, uses the same key to
+change the encoded message back to read
+able form, as one might open the box
+the problem with a single \ey system is
+that both the encoding and decoding keys
+
+are the same: if someone finds out what a
+coding key is, no messages are sec ure. This
+problem is intensified because noth sender
+and receiver must obtain their identical keys
+by some safe distribution system.
+Hellman's revolutionary concept is to use
+two keys instead of just one. The first key is
+used only for encoding and the set ond only
+for decoding. It is not feasible to compute
+the decoding key trom knowledge of the
+encoding key — one kind of key opens the
+box and entirely different variety closes it.
+Using this system, communication in code
+is set up securelv without an initial visit be
+cause an encoding key can be sent through
+public c hannels.
+lo initiate the two-way encoded corn
+
+munication each sending station creates a
+spy station would create an encoding and a
+decoding key, then send the encoding key
+to another station.
+According to El-Gamal, the encoding key
+is the product of two secret prime numbers
+each having 100 digits, selected by the per
+son creating the keys, and the encoding key
+is derived from the same pair of prime num
+bers using a non-secret formula. It is difficult
+to calculate the prime numbers from the en
+coding key because it would require factor
+ing a 200 digit number. Using the fastest
+computers in the existence shortest likely
+time required to factor a number of this
+magnitude and break the system would be
+about 4 billion years.
+Cryptography, the science of encoding
+-and concealing the meaning of messages,
+has been practiced for a least 3000 years. In
+the past 200 years, as improved technology
+has increased information flow regarding
+military affairs, diplomacy, and international
+commerce, cryptography has become an in
+dispensible tool to help guard against mes
+sage interception. As the users' demands
+have become increasingly sophisticated,
+cryptography systems have changed and
+grown to meet them. Now, new devel
+opments in information theory and com
+puter calculating power are on the brink of
+revolutionizing cryptography. One of the
+most promising of the new systems is public
+
+key cryptography.
+The "public key concept" was developed
+by Electrical Engineering Prof. Martin
+Hellman, and Whitfield Diffie in 1976, but at
+the time no computer system existed which
+could apply their ideas, explained electrical
+engineering graduate student Taher El-
+Gamal who currently works with Hellman in
+cryptography.
+El-Gamal described an industry-wide need
+for systems such as the public key cryptosys
+tems in communications: "An encryption
+system would be especially valuable for pay
+T.V. stations. The codes now used are easy
+to break and electrical engineers can easily
+make their own decoders. Applications also
+will be found in banking and other mass data
+
+storage operations. With the increasing
+number of personal computers in this coun
+try we will see more concern with security
+and more security provisions built into
+computing and communications systems."
+A conventional crtyptography system re
+lies upon a single encoding and decoding
+scheme, in cryptography lingo called a
+"key." Someone sending a message would
+use the key to change a message into an
+unrecognizable coded form," much like
+putting it in a box a locking it shut," said
+El-Gamal. The receiver, uses the same key to
+change the encoded message back to read
+able form, as one might open the box
+the problem with a single \ey system is
+that both the encoding and decoding keys
+
+are the same: if someone finds out what a
+coding key is, no messages are sec ure. This
+problem is intensified because noth sender
+and receiver must obtain their identical keys
+by some safe distribution system.
+Hellman's revolutionary concept is to use
+two keys instead of just one. The first key is
+used only for encoding and the set ond only
+for decoding. It is not feasible to compute
+the decoding key trom knowledge of the
+encoding key — one kind of key opens the
+box and entirely different variety closes it.
+Using this system, communication in code
+is set up securelv without an initial visit be
+cause an encoding key can be sent through
+public c hannels.
+lo initiate the two-way encoded corn
+
+munication each sending station creates a
+spy station would create an encoding and a
+decoding key, then send the encoding key
+to another station.
+According to El-Gamal, the encoding key
+is the product of two secret prime numbers
+each having 100 digits, selected by the per
+son creating the keys, and the encoding key
+is derived from the same pair of prime num
+bers using a non-secret formula. It is difficult
+to calculate the prime numbers from the en
+coding key because it would require factor
+ing a 200 digit number. Using the fastest
+computers in the existence shortest likely
+time required to factor a number of this
+magnitude and break the system would be
+about 4 billion years.
+Cryptography, the science of encoding
+-and concealing the meaning of messages,
+has been practiced for a least 3000 years. In
+the past 200 years, as improved technology
+has increased information flow regarding
+military affairs, diplomacy, and international
+commerce, cryptography has become an in
+dispensible tool to help guard against mes
+sage interception. As the users' demands
+have become increasingly sophisticated,
+cryptography systems have changed and
+grown to meet them. Now, new devel
+opments in information theory and com
+puter calculating power are on the brink of
+revolutionizing cryptography. One of the
+most promising of the new systems is public
+
+key cryptography.
+The "public key concept" was developed
+by Electrical Engineering Prof. Martin
+Hellman, and Whitfield Diffie in 1976, but at
+the time no computer system existed which
+could apply their ideas, explained electrical
+engineering graduate student Taher El-
+Gamal who currently works with Hellman in
+cryptography.
+El-Gamal described an industry-wide need
+for systems such as the public key cryptosys
+tems in communications: "An encryption
+system would be especially valuable for pay
+T.V. stations. The codes now used are easy
+to break and electrical engineers can easily
+make their own decoders. Applications also
+will be found in banking and other mass data
+
+storage operations. With the increasing
+number of personal computers in this coun
+try we will see more concern with security
+and more security provisions built into
+computing and communications systems."
+A conventional crtyptography system re
+lies upon a single encoding and decoding
+scheme, in cryptography lingo called a
+"key." Someone sending a message would
+use the key to change a message into an
+unrecognizable coded form," much like
+putting it in a box a locking it shut," said
+El-Gamal. The receiver, uses the same key to
+change the encoded message back to read
+able form, as one might open the box
+the problem with a single \ey system is
+that both the encoding and decoding keys
+
+are the same: if someone finds out what a
+coding key is, no messages are sec ure. This
+problem is intensified because noth sender
+and receiver must obtain their identical keys
+by some safe distribution system.
+Hellman's revolutionary concept is to use
+two keys instead of just one. The first key is
+used only for encoding and the set ond only
+for decoding. It is not feasible to compute
+the decoding key trom knowledge of the
+encoding key — one kind of key opens the
+box and entirely different variety closes it.
+Using this system, communication in code
+is set up securelv without an initial visit be
+cause an encoding key can be sent through
+public c hannels.
+lo initiate the two-way encoded corn
+
+munication each sending station creates a
+spy station would create an encoding and a
+decoding key, then send the encoding key
+to another station.
+According to El-Gamal, the encoding key
+is the product of two secret prime numbers
+each having 100 digits, selected by the per
+son creating the keys, and the encoding key
+is derived from the same pair of prime num
+bers using a non-secret formula. It is difficult
+to calculate the prime numbers from the en
+coding key because it would require factor
+ing a 200 digit number. Using the fastest
+computers in the existence shortest likely
+time required to factor a number of this
+magnitude and break the system would be
+about 4 billion years.

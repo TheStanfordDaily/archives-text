@@ -1,0 +1,899 @@
+# TECH NEWS
+## Alumni plan new Google alternative 
+### STEPHANIE FAGLIANO STAFF WRITER 
+Stanford alumni Anand Raj ar am an and
+Venky Harinarayan are working to develop
+and launch "Kosmix "a new search engine they
+hope will compete with Google. The co
+founders claim that their product, which ap
+plies a new kind of technology that allows users
+to define categories for their search to narrow
+down results, is an improvement upon Google,
+which presents results based on the popularity
+of Web sites.
+Computer Science Prof. Gio Wiederhold
+said that the creation of a categorically-based
+search engine is no easy task.
+"Categorization narrows the search indeed."
+he said. "But since the Web is not pre-catego
+rized, much processing is needed to determine
+the context of a Web page and then categorize it
+as well as possible."
+Wiederhold added that the logistics of select
+ing a search category may lead to variations in
+search results.
+"People use very different categorizations"
+he said. "And one person's category — say or
+ganizing cars by their maximum speed — does
+little for another person, who goes by style. And
+within style there'd be many different views. The
+search engine must avoid imposing its catego
+rization on the users-if it does it will look like a
+bureaucracy."
+Computer Science Prof. Bill Dally said that
+the new search engine would be easy to get on
+line, but its popularity is, in some respects, out of
+the co-founders' hands.
+"Launching a new search engine can be done
+very quickly" he said. "If they have access to a
+server and very high-bandwidth Internet access,
+they should be able to offer the service in a few
+weeks — assuming that their development is al
+ready done. Whether it catches on and how long
+it takes if it does is anyone's guess. It's hard to
+predict how users will react to a new offering."
+Students interested in working on their own
+search engines can find plenty of classes at Stan
+ford to prepare them for the task.
+" There are many CS classes that deal with as
+pects of search, databases and Internet tech
+nologies" Dally said. "Our algorithms classes
+cover the fundamentals on which all search en
+gines are based, and our database classes cover
+more detailed techniques for indexing and
+searching data."
+Wiederhold reminded ambitious students
+that attending these classes does not guarantee
+the creation of a successful search engine.
+"The classes can only give the background."
+he said. "It is up to inventors to try to apply the
+theory to the messy real world."
+Wiederhold also warned that it is impractical
+to imagine courses specifically designed to im
+prove Internet searches.
+"Before you'd have the curriculum organ
+ized it would be obsolete." he said. "None of the
+references I collected in earlier years for my
+CS73 seminar are relevant anymore. There
+might be a place for a book, if it doesn't exist yet:
+'Web Searching for Dummies,' but that should
+not be a Stanford product."
+Even if Kosmix makes it on to In
+ternet, whether or not it catches on is
+a wholly different story.
+"If Kosmix can find a niche, like
+finding the best Valentine's Day
+present, for which there is both a
+consumer and an advertiser market,
+they should be able to make it,"
+Wiederhold said. *"lTiey will have to
+find many niches, though, to become
+visible every day of the year."
+Students were mixed about
+whether a categorical search engine
+like Kosmix could compete with
+Google's dominance.
+
+"[A categorical search engine]
+would probably be helpful," said Dak
+Steiert,a junior. "It would be nice if it
+returned fewer random results be
+cause of the categories. Google's
+thing is that they have really good
+processes to search the information
+by, and quickly, but it still returns a lot
+of stuff you don't want. So if you have
+a two-part search where you put in a
+category as well, if they designed it
+right I think it would give you a lot
+more usable results."
+While some students agreed with
+Steiert that a categorical search en
+gine would be worth the shot, the ma
+jority of those interviewed said they
+would remain true to Google.
+"There's no need to type in the
+category because if you're a good
+enough searcher you type in the key
+words you need and get the results
+
+you want," said Michael Bateman, a
+sophomore. "I wouldn't switch from
+Google."
+Similarly, Internet users who are
+comfortable with Google may not see
+a need to switch.
+"[Kosmix] won't be big because
+everyone just uses Google," said
+Daniel Zavala, a sophomore.
+"Google has it covered. We don't
+need a new search engine."
+Not only does Google have it cov
+ered, some students said that it goes
+above and beyond their expectations
+for a basic search engine.
+Sophomore Arie Salih pointed to
+the site's other features such as
+Google maps and Google news.
+While Kosmix could theoretically
+enhance the depth of a given search, it
+may never have the chance to prove it
+self if it can't escape Google's shadow.
+Stanford alumni Anand Raj ar am an and
+Venky Harinarayan are working to develop
+and launch "Kosmix "a new search engine they
+hope will compete with Google. The co
+founders claim that their product, which ap
+plies a new kind of technology that allows users
+to define categories for their search to narrow
+down results, is an improvement upon Google,
+which presents results based on the popularity
+of Web sites.
+Computer Science Prof. Gio Wiederhold
+said that the creation of a categorically-based
+search engine is no easy task.
+"Categorization narrows the search indeed."
+he said. "But since the Web is not pre-catego
+rized, much processing is needed to determine
+the context of a Web page and then categorize it
+as well as possible."
+Wiederhold added that the logistics of select
+ing a search category may lead to variations in
+search results.
+"People use very different categorizations"
+he said. "And one person's category — say or
+ganizing cars by their maximum speed — does
+little for another person, who goes by style. And
+within style there'd be many different views. The
+search engine must avoid imposing its catego
+rization on the users-if it does it will look like a
+bureaucracy."
+Computer Science Prof. Bill Dally said that
+the new search engine would be easy to get on
+line, but its popularity is, in some respects, out of
+the co-founders' hands.
+"Launching a new search engine can be done
+very quickly" he said. "If they have access to a
+server and very high-bandwidth Internet access,
+they should be able to offer the service in a few
+weeks — assuming that their development is al
+ready done. Whether it catches on and how long
+it takes if it does is anyone's guess. It's hard to
+predict how users will react to a new offering."
+Students interested in working on their own
+search engines can find plenty of classes at Stan
+ford to prepare them for the task.
+" There are many CS classes that deal with as
+pects of search, databases and Internet tech
+nologies" Dally said. "Our algorithms classes
+cover the fundamentals on which all search en
+gines are based, and our database classes cover
+more detailed techniques for indexing and
+searching data."
+Wiederhold reminded ambitious students
+that attending these classes does not guarantee
+the creation of a successful search engine.
+"The classes can only give the background."
+he said. "It is up to inventors to try to apply the
+theory to the messy real world."
+Wiederhold also warned that it is impractical
+to imagine courses specifically designed to im
+prove Internet searches.
+"Before you'd have the curriculum organ
+ized it would be obsolete." he said. "None of the
+references I collected in earlier years for my
+CS73 seminar are relevant anymore. There
+might be a place for a book, if it doesn't exist yet:
+'Web Searching for Dummies,' but that should
+not be a Stanford product."
+Even if Kosmix makes it on to In
+ternet, whether or not it catches on is
+a wholly different story.
+"If Kosmix can find a niche, like
+finding the best Valentine's Day
+present, for which there is both a
+consumer and an advertiser market,
+they should be able to make it,"
+Wiederhold said. *"lTiey will have to
+find many niches, though, to become
+visible every day of the year."
+Students were mixed about
+whether a categorical search engine
+like Kosmix could compete with
+Google's dominance.
+
+"[A categorical search engine]
+would probably be helpful," said Dak
+Steiert,a junior. "It would be nice if it
+returned fewer random results be
+cause of the categories. Google's
+thing is that they have really good
+processes to search the information
+by, and quickly, but it still returns a lot
+of stuff you don't want. So if you have
+a two-part search where you put in a
+category as well, if they designed it
+right I think it would give you a lot
+more usable results."
+While some students agreed with
+Steiert that a categorical search en
+gine would be worth the shot, the ma
+jority of those interviewed said they
+would remain true to Google.
+"There's no need to type in the
+category because if you're a good
+enough searcher you type in the key
+words you need and get the results
+
+you want," said Michael Bateman, a
+sophomore. "I wouldn't switch from
+Google."
+Similarly, Internet users who are
+comfortable with Google may not see
+a need to switch.
+"[Kosmix] won't be big because
+everyone just uses Google," said
+Daniel Zavala, a sophomore.
+"Google has it covered. We don't
+need a new search engine."
+Not only does Google have it cov
+ered, some students said that it goes
+above and beyond their expectations
+for a basic search engine.
+Sophomore Arie Salih pointed to
+the site's other features such as
+Google maps and Google news.
+While Kosmix could theoretically
+enhance the depth of a given search, it
+may never have the chance to prove it
+self if it can't escape Google's shadow.
+Stanford alumni Anand Raj ar am an and
+Venky Harinarayan are working to develop
+and launch "Kosmix "a new search engine they
+hope will compete with Google. The co
+founders claim that their product, which ap
+plies a new kind of technology that allows users
+to define categories for their search to narrow
+down results, is an improvement upon Google,
+which presents results based on the popularity
+of Web sites.
+Computer Science Prof. Gio Wiederhold
+said that the creation of a categorically-based
+search engine is no easy task.
+"Categorization narrows the search indeed."
+he said. "But since the Web is not pre-catego
+rized, much processing is needed to determine
+the context of a Web page and then categorize it
+as well as possible."
+Wiederhold added that the logistics of select
+ing a search category may lead to variations in
+search results.
+"People use very different categorizations"
+he said. "And one person's category — say or
+ganizing cars by their maximum speed — does
+little for another person, who goes by style. And
+within style there'd be many different views. The
+search engine must avoid imposing its catego
+rization on the users-if it does it will look like a
+bureaucracy."
+Computer Science Prof. Bill Dally said that
+the new search engine would be easy to get on
+line, but its popularity is, in some respects, out of
+the co-founders' hands.
+"Launching a new search engine can be done
+very quickly" he said. "If they have access to a
+server and very high-bandwidth Internet access,
+they should be able to offer the service in a few
+weeks — assuming that their development is al
+ready done. Whether it catches on and how long
+it takes if it does is anyone's guess. It's hard to
+predict how users will react to a new offering."
+Students interested in working on their own
+search engines can find plenty of classes at Stan
+ford to prepare them for the task.
+" There are many CS classes that deal with as
+pects of search, databases and Internet tech
+nologies" Dally said. "Our algorithms classes
+cover the fundamentals on which all search en
+gines are based, and our database classes cover
+more detailed techniques for indexing and
+searching data."
+Wiederhold reminded ambitious students
+that attending these classes does not guarantee
+the creation of a successful search engine.
+"The classes can only give the background."
+he said. "It is up to inventors to try to apply the
+theory to the messy real world."
+Wiederhold also warned that it is impractical
+to imagine courses specifically designed to im
+prove Internet searches.
+"Before you'd have the curriculum organ
+ized it would be obsolete." he said. "None of the
+references I collected in earlier years for my
+CS73 seminar are relevant anymore. There
+might be a place for a book, if it doesn't exist yet:
+'Web Searching for Dummies,' but that should
+not be a Stanford product."
+Even if Kosmix makes it on to In
+ternet, whether or not it catches on is
+a wholly different story.
+"If Kosmix can find a niche, like
+finding the best Valentine's Day
+present, for which there is both a
+consumer and an advertiser market,
+they should be able to make it,"
+Wiederhold said. *"lTiey will have to
+find many niches, though, to become
+visible every day of the year."
+Students were mixed about
+whether a categorical search engine
+like Kosmix could compete with
+Google's dominance.
+
+"[A categorical search engine]
+would probably be helpful," said Dak
+Steiert,a junior. "It would be nice if it
+returned fewer random results be
+cause of the categories. Google's
+thing is that they have really good
+processes to search the information
+by, and quickly, but it still returns a lot
+of stuff you don't want. So if you have
+a two-part search where you put in a
+category as well, if they designed it
+right I think it would give you a lot
+more usable results."
+While some students agreed with
+Steiert that a categorical search en
+gine would be worth the shot, the ma
+jority of those interviewed said they
+would remain true to Google.
+"There's no need to type in the
+category because if you're a good
+enough searcher you type in the key
+words you need and get the results
+
+you want," said Michael Bateman, a
+sophomore. "I wouldn't switch from
+Google."
+Similarly, Internet users who are
+comfortable with Google may not see
+a need to switch.
+"[Kosmix] won't be big because
+everyone just uses Google," said
+Daniel Zavala, a sophomore.
+"Google has it covered. We don't
+need a new search engine."
+Not only does Google have it cov
+ered, some students said that it goes
+above and beyond their expectations
+for a basic search engine.
+Sophomore Arie Salih pointed to
+the site's other features such as
+Google maps and Google news.
+While Kosmix could theoretically
+enhance the depth of a given search, it
+may never have the chance to prove it
+self if it can't escape Google's shadow.
+Stanford alumni Anand Raj ar am an and
+Venky Harinarayan are working to develop
+and launch "Kosmix "a new search engine they
+hope will compete with Google. The co
+founders claim that their product, which ap
+plies a new kind of technology that allows users
+to define categories for their search to narrow
+down results, is an improvement upon Google,
+which presents results based on the popularity
+of Web sites.
+Computer Science Prof. Gio Wiederhold
+said that the creation of a categorically-based
+search engine is no easy task.
+"Categorization narrows the search indeed."
+he said. "But since the Web is not pre-catego
+rized, much processing is needed to determine
+the context of a Web page and then categorize it
+as well as possible."
+Wiederhold added that the logistics of select
+ing a search category may lead to variations in
+search results.
+"People use very different categorizations"
+he said. "And one person's category — say or
+ganizing cars by their maximum speed — does
+little for another person, who goes by style. And
+within style there'd be many different views. The
+search engine must avoid imposing its catego
+rization on the users-if it does it will look like a
+bureaucracy."
+Computer Science Prof. Bill Dally said that
+the new search engine would be easy to get on
+line, but its popularity is, in some respects, out of
+the co-founders' hands.
+"Launching a new search engine can be done
+very quickly" he said. "If they have access to a
+server and very high-bandwidth Internet access,
+they should be able to offer the service in a few
+weeks — assuming that their development is al
+ready done. Whether it catches on and how long
+it takes if it does is anyone's guess. It's hard to
+predict how users will react to a new offering."
+Students interested in working on their own
+search engines can find plenty of classes at Stan
+ford to prepare them for the task.
+" There are many CS classes that deal with as
+pects of search, databases and Internet tech
+nologies" Dally said. "Our algorithms classes
+cover the fundamentals on which all search en
+gines are based, and our database classes cover
+more detailed techniques for indexing and
+searching data."
+Wiederhold reminded ambitious students
+that attending these classes does not guarantee
+the creation of a successful search engine.
+"The classes can only give the background."
+he said. "It is up to inventors to try to apply the
+theory to the messy real world."
+Wiederhold also warned that it is impractical
+to imagine courses specifically designed to im
+prove Internet searches.
+"Before you'd have the curriculum organ
+ized it would be obsolete." he said. "None of the
+references I collected in earlier years for my
+CS73 seminar are relevant anymore. There
+might be a place for a book, if it doesn't exist yet:
+'Web Searching for Dummies,' but that should
+not be a Stanford product."
+Even if Kosmix makes it on to In
+ternet, whether or not it catches on is
+a wholly different story.
+"If Kosmix can find a niche, like
+finding the best Valentine's Day
+present, for which there is both a
+consumer and an advertiser market,
+they should be able to make it,"
+Wiederhold said. *"lTiey will have to
+find many niches, though, to become
+visible every day of the year."
+Students were mixed about
+whether a categorical search engine
+like Kosmix could compete with
+Google's dominance.
+
+"[A categorical search engine]
+would probably be helpful," said Dak
+Steiert,a junior. "It would be nice if it
+returned fewer random results be
+cause of the categories. Google's
+thing is that they have really good
+processes to search the information
+by, and quickly, but it still returns a lot
+of stuff you don't want. So if you have
+a two-part search where you put in a
+category as well, if they designed it
+right I think it would give you a lot
+more usable results."
+While some students agreed with
+Steiert that a categorical search en
+gine would be worth the shot, the ma
+jority of those interviewed said they
+would remain true to Google.
+"There's no need to type in the
+category because if you're a good
+enough searcher you type in the key
+words you need and get the results
+
+you want," said Michael Bateman, a
+sophomore. "I wouldn't switch from
+Google."
+Similarly, Internet users who are
+comfortable with Google may not see
+a need to switch.
+"[Kosmix] won't be big because
+everyone just uses Google," said
+Daniel Zavala, a sophomore.
+"Google has it covered. We don't
+need a new search engine."
+Not only does Google have it cov
+ered, some students said that it goes
+above and beyond their expectations
+for a basic search engine.
+Sophomore Arie Salih pointed to
+the site's other features such as
+Google maps and Google news.
+While Kosmix could theoretically
+enhance the depth of a given search, it
+may never have the chance to prove it
+self if it can't escape Google's shadow.
+Stanford alumni Anand Raj ar am an and
+Venky Harinarayan are working to develop
+and launch "Kosmix "a new search engine they
+hope will compete with Google. The co
+founders claim that their product, which ap
+plies a new kind of technology that allows users
+to define categories for their search to narrow
+down results, is an improvement upon Google,
+which presents results based on the popularity
+of Web sites.
+Computer Science Prof. Gio Wiederhold
+said that the creation of a categorically-based
+search engine is no easy task.
+"Categorization narrows the search indeed."
+he said. "But since the Web is not pre-catego
+rized, much processing is needed to determine
+the context of a Web page and then categorize it
+as well as possible."
+Wiederhold added that the logistics of select
+ing a search category may lead to variations in
+search results.
+"People use very different categorizations"
+he said. "And one person's category — say or
+ganizing cars by their maximum speed — does
+little for another person, who goes by style. And
+within style there'd be many different views. The
+search engine must avoid imposing its catego
+rization on the users-if it does it will look like a
+bureaucracy."
+Computer Science Prof. Bill Dally said that
+the new search engine would be easy to get on
+line, but its popularity is, in some respects, out of
+the co-founders' hands.
+"Launching a new search engine can be done
+very quickly" he said. "If they have access to a
+server and very high-bandwidth Internet access,
+they should be able to offer the service in a few
+weeks — assuming that their development is al
+ready done. Whether it catches on and how long
+it takes if it does is anyone's guess. It's hard to
+predict how users will react to a new offering."
+Students interested in working on their own
+search engines can find plenty of classes at Stan
+ford to prepare them for the task.
+" There are many CS classes that deal with as
+pects of search, databases and Internet tech
+nologies" Dally said. "Our algorithms classes
+cover the fundamentals on which all search en
+gines are based, and our database classes cover
+more detailed techniques for indexing and
+searching data."
+Wiederhold reminded ambitious students
+that attending these classes does not guarantee
+the creation of a successful search engine.
+"The classes can only give the background."
+he said. "It is up to inventors to try to apply the
+theory to the messy real world."
+Wiederhold also warned that it is impractical
+to imagine courses specifically designed to im
+prove Internet searches.
+"Before you'd have the curriculum organ
+ized it would be obsolete." he said. "None of the
+references I collected in earlier years for my
+CS73 seminar are relevant anymore. There
+might be a place for a book, if it doesn't exist yet:
+'Web Searching for Dummies,' but that should
+not be a Stanford product."
+Even if Kosmix makes it on to In
+ternet, whether or not it catches on is
+a wholly different story.
+"If Kosmix can find a niche, like
+finding the best Valentine's Day
+present, for which there is both a
+consumer and an advertiser market,
+they should be able to make it,"
+Wiederhold said. *"lTiey will have to
+find many niches, though, to become
+visible every day of the year."
+Students were mixed about
+whether a categorical search engine
+like Kosmix could compete with
+Google's dominance.
+
+"[A categorical search engine]
+would probably be helpful," said Dak
+Steiert,a junior. "It would be nice if it
+returned fewer random results be
+cause of the categories. Google's
+thing is that they have really good
+processes to search the information
+by, and quickly, but it still returns a lot
+of stuff you don't want. So if you have
+a two-part search where you put in a
+category as well, if they designed it
+right I think it would give you a lot
+more usable results."
+While some students agreed with
+Steiert that a categorical search en
+gine would be worth the shot, the ma
+jority of those interviewed said they
+would remain true to Google.
+"There's no need to type in the
+category because if you're a good
+enough searcher you type in the key
+words you need and get the results
+
+you want," said Michael Bateman, a
+sophomore. "I wouldn't switch from
+Google."
+Similarly, Internet users who are
+comfortable with Google may not see
+a need to switch.
+"[Kosmix] won't be big because
+everyone just uses Google," said
+Daniel Zavala, a sophomore.
+"Google has it covered. We don't
+need a new search engine."
+Not only does Google have it cov
+ered, some students said that it goes
+above and beyond their expectations
+for a basic search engine.
+Sophomore Arie Salih pointed to
+the site's other features such as
+Google maps and Google news.
+While Kosmix could theoretically
+enhance the depth of a given search, it
+may never have the chance to prove it
+self if it can't escape Google's shadow.
+Stanford alumni Anand Raj ar am an and
+Venky Harinarayan are working to develop
+and launch "Kosmix "a new search engine they
+hope will compete with Google. The co
+founders claim that their product, which ap
+plies a new kind of technology that allows users
+to define categories for their search to narrow
+down results, is an improvement upon Google,
+which presents results based on the popularity
+of Web sites.
+Computer Science Prof. Gio Wiederhold
+said that the creation of a categorically-based
+search engine is no easy task.
+"Categorization narrows the search indeed."
+he said. "But since the Web is not pre-catego
+rized, much processing is needed to determine
+the context of a Web page and then categorize it
+as well as possible."
+Wiederhold added that the logistics of select
+ing a search category may lead to variations in
+search results.
+"People use very different categorizations"
+he said. "And one person's category — say or
+ganizing cars by their maximum speed — does
+little for another person, who goes by style. And
+within style there'd be many different views. The
+search engine must avoid imposing its catego
+rization on the users-if it does it will look like a
+bureaucracy."
+Computer Science Prof. Bill Dally said that
+the new search engine would be easy to get on
+line, but its popularity is, in some respects, out of
+the co-founders' hands.
+"Launching a new search engine can be done
+very quickly" he said. "If they have access to a
+server and very high-bandwidth Internet access,
+they should be able to offer the service in a few
+weeks — assuming that their development is al
+ready done. Whether it catches on and how long
+it takes if it does is anyone's guess. It's hard to
+predict how users will react to a new offering."
+Students interested in working on their own
+search engines can find plenty of classes at Stan
+ford to prepare them for the task.
+" There are many CS classes that deal with as
+pects of search, databases and Internet tech
+nologies" Dally said. "Our algorithms classes
+cover the fundamentals on which all search en
+gines are based, and our database classes cover
+more detailed techniques for indexing and
+searching data."
+Wiederhold reminded ambitious students
+that attending these classes does not guarantee
+the creation of a successful search engine.
+"The classes can only give the background."
+he said. "It is up to inventors to try to apply the
+theory to the messy real world."
+Wiederhold also warned that it is impractical
+to imagine courses specifically designed to im
+prove Internet searches.
+"Before you'd have the curriculum organ
+ized it would be obsolete." he said. "None of the
+references I collected in earlier years for my
+CS73 seminar are relevant anymore. There
+might be a place for a book, if it doesn't exist yet:
+'Web Searching for Dummies,' but that should
+not be a Stanford product."
+Even if Kosmix makes it on to In
+ternet, whether or not it catches on is
+a wholly different story.
+"If Kosmix can find a niche, like
+finding the best Valentine's Day
+present, for which there is both a
+consumer and an advertiser market,
+they should be able to make it,"
+Wiederhold said. *"lTiey will have to
+find many niches, though, to become
+visible every day of the year."
+Students were mixed about
+whether a categorical search engine
+like Kosmix could compete with
+Google's dominance.
+
+"[A categorical search engine]
+would probably be helpful," said Dak
+Steiert,a junior. "It would be nice if it
+returned fewer random results be
+cause of the categories. Google's
+thing is that they have really good
+processes to search the information
+by, and quickly, but it still returns a lot
+of stuff you don't want. So if you have
+a two-part search where you put in a
+category as well, if they designed it
+right I think it would give you a lot
+more usable results."
+While some students agreed with
+Steiert that a categorical search en
+gine would be worth the shot, the ma
+jority of those interviewed said they
+would remain true to Google.
+"There's no need to type in the
+category because if you're a good
+enough searcher you type in the key
+words you need and get the results
+
+you want," said Michael Bateman, a
+sophomore. "I wouldn't switch from
+Google."
+Similarly, Internet users who are
+comfortable with Google may not see
+a need to switch.
+"[Kosmix] won't be big because
+everyone just uses Google," said
+Daniel Zavala, a sophomore.
+"Google has it covered. We don't
+need a new search engine."
+Not only does Google have it cov
+ered, some students said that it goes
+above and beyond their expectations
+for a basic search engine.
+Sophomore Arie Salih pointed to
+the site's other features such as
+Google maps and Google news.
+While Kosmix could theoretically
+enhance the depth of a given search, it
+may never have the chance to prove it
+self if it can't escape Google's shadow.
+Stanford alumni Anand Raj ar am an and
+Venky Harinarayan are working to develop
+and launch "Kosmix "a new search engine they
+hope will compete with Google. The co
+founders claim that their product, which ap
+plies a new kind of technology that allows users
+to define categories for their search to narrow
+down results, is an improvement upon Google,
+which presents results based on the popularity
+of Web sites.
+Computer Science Prof. Gio Wiederhold
+said that the creation of a categorically-based
+search engine is no easy task.
+"Categorization narrows the search indeed."
+he said. "But since the Web is not pre-catego
+rized, much processing is needed to determine
+the context of a Web page and then categorize it
+as well as possible."
+Wiederhold added that the logistics of select
+ing a search category may lead to variations in
+search results.
+"People use very different categorizations"
+he said. "And one person's category — say or
+ganizing cars by their maximum speed — does
+little for another person, who goes by style. And
+within style there'd be many different views. The
+search engine must avoid imposing its catego
+rization on the users-if it does it will look like a
+bureaucracy."
+Computer Science Prof. Bill Dally said that
+the new search engine would be easy to get on
+line, but its popularity is, in some respects, out of
+the co-founders' hands.
+"Launching a new search engine can be done
+very quickly" he said. "If they have access to a
+server and very high-bandwidth Internet access,
+they should be able to offer the service in a few
+weeks — assuming that their development is al
+ready done. Whether it catches on and how long
+it takes if it does is anyone's guess. It's hard to
+predict how users will react to a new offering."
+Students interested in working on their own
+search engines can find plenty of classes at Stan
+ford to prepare them for the task.
+" There are many CS classes that deal with as
+pects of search, databases and Internet tech
+nologies" Dally said. "Our algorithms classes
+cover the fundamentals on which all search en
+gines are based, and our database classes cover
+more detailed techniques for indexing and
+searching data."
+Wiederhold reminded ambitious students
+that attending these classes does not guarantee
+the creation of a successful search engine.
+"The classes can only give the background."
+he said. "It is up to inventors to try to apply the
+theory to the messy real world."
+Wiederhold also warned that it is impractical
+to imagine courses specifically designed to im
+prove Internet searches.
+"Before you'd have the curriculum organ
+ized it would be obsolete." he said. "None of the
+references I collected in earlier years for my
+CS73 seminar are relevant anymore. There
+might be a place for a book, if it doesn't exist yet:
+'Web Searching for Dummies,' but that should
+not be a Stanford product."
+Even if Kosmix makes it on to In
+ternet, whether or not it catches on is
+a wholly different story.
+"If Kosmix can find a niche, like
+finding the best Valentine's Day
+present, for which there is both a
+consumer and an advertiser market,
+they should be able to make it,"
+Wiederhold said. *"lTiey will have to
+find many niches, though, to become
+visible every day of the year."
+Students were mixed about
+whether a categorical search engine
+like Kosmix could compete with
+Google's dominance.
+
+"[A categorical search engine]
+would probably be helpful," said Dak
+Steiert,a junior. "It would be nice if it
+returned fewer random results be
+cause of the categories. Google's
+thing is that they have really good
+processes to search the information
+by, and quickly, but it still returns a lot
+of stuff you don't want. So if you have
+a two-part search where you put in a
+category as well, if they designed it
+right I think it would give you a lot
+more usable results."
+While some students agreed with
+Steiert that a categorical search en
+gine would be worth the shot, the ma
+jority of those interviewed said they
+would remain true to Google.
+"There's no need to type in the
+category because if you're a good
+enough searcher you type in the key
+words you need and get the results
+
+you want," said Michael Bateman, a
+sophomore. "I wouldn't switch from
+Google."
+Similarly, Internet users who are
+comfortable with Google may not see
+a need to switch.
+"[Kosmix] won't be big because
+everyone just uses Google," said
+Daniel Zavala, a sophomore.
+"Google has it covered. We don't
+need a new search engine."
+Not only does Google have it cov
+ered, some students said that it goes
+above and beyond their expectations
+for a basic search engine.
+Sophomore Arie Salih pointed to
+the site's other features such as
+Google maps and Google news.
+While Kosmix could theoretically
+enhance the depth of a given search, it
+may never have the chance to prove it
+self if it can't escape Google's shadow.

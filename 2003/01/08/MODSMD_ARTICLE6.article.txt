@@ -1,0 +1,927 @@
+# New software counters growing campus spam
+## 
+### SHIRIN SHARIF CONTRIBUTING WRITER 
+Faced with rapidly increasing
+amounts of'unsolicited elect ronic: ad
+vertising, the University's Informa
+tion and lechnology Systems and
+Services department recently imple
+mented a filtering system for all Stan
+ford e-mail ac counts. The software is
+designed to detect "spam," unsolicit
+ed e-mail that urges users to invest in
+various items such as rape repellents
+and Viagra.
+The anti-spam filter was imple
+mented on Dec. 19. It scans all of'the
+approximately 35,000 Stanford e
+mail accounts but does not look at
+messages forwarded to non-Stan
+ford accounts such as Yahoo or I lot
+
+mail, which make up about one
+third of the e-mail passing through
+the University's server.
+Ihe software — called I'lire Mes
+sage and produced by the vendor
+ActiveState — scans all incoming
+messages and compares their con
+tents with common words and
+phrases used by spammers. If a
+match is made, the mail is delivered
+with a |SPAM:#I tag added to its
+subject line. The number of"#"
+signs indicate how certain the sys
+tem is that your email qualifies as
+spam, lb get one "#" the system
+must bess percent <ertain that it has
+found spam. Kacli "#" after that is
+another 5 to 10 percent of certainty.
+
+
+GINA HSIEH/The Stanford Daily
+Staff members at 1 I SS reported
+that the program has been successful
+both in its pilot stage and in its cur
+rent, fully implemented incarnation.
+Roughly half a million e-mails were
+tagged as spam between Dec. l'> 1 and
+Jan. 6. From these e-mails, I FSS re
+ceived only 500 reports of false posi
+tives — incorrectly tagged spam.
+"It seems like a worthwhile in
+vestment," said freshman Chris
+Couvelier. "Anything that saves me
+from silting through useless spam
+seems like a positive thing."
+Other students expressed sur
+prise at the need for the software.
+"1 never really noticed that many
+weird e-mails — only one or two,"
+said freshman Elizabeth Gibbons. "1
+never knew that there was any need
+lot* a filter."
+ITSS staff said that the program
+has received a great deal of positive
+feedback, including a message from
+a doctoral student claiming, "It
+makes me feel that even though 1 get
+
+a lot of junk mail, I'm not going to
+end up drowning in it. Keep up the
+good work!"
+There have also been some com
+plaints, most of them fcxusingon im
+portant e-mails that the program la
+beled as spam.
+Until Feb. 2002, spam was dealt
+with on an e-mail-by-e-mail basis:
+users could forward spam to a spe
+cial campus "junk mail" address,
+where ITSS would attempt to stop
+spam by contacting the Internet ser
+vice providers who transmitted the
+messages to Stanford servers.
+According to Xueshan Feng,
+technical manager for ITSS, some
+ISPs paid little attention to the Uni
+versity's concerns.
+"The spam was becoming un
+manageable," Feng said. "There
+were over 800 complaints per day."
+ITSS decided that a filtration soft
+ware was worth the cost because, ac
+cording to Feng, the substantial
+amount of spam created "a loss of
+productivity, wasting computing re
+sources and time, and also a loss in
+reputation:'('.an't a reputable univer
+sity like Stanford do something?' "
+She noted that percent of e
+
+mail passing through the Universi
+ty's servei between Dec . .'*l and Jan.
+(> of this year was labeled spam and
+that the amount of "junk mail" sent
+to Stanford accounts has doubled in
+the last 12 months.
+Many have asked why the server
+doesn't just block out spam automat
+ically, but dec I lie Bennett, II SS di
+rector of information security ser
+vices, told the Stanford Report that
+blocking spam might infringe 011
+users' academic freedom or privacy.
+"What's spam to me might not be
+spam to everybody else," Bennett
+said.
+Other universities face similar
+spam problems. Using an approach
+similar to Stanford's, universities like
+Princeton, Purdue and the Universi
+ty of lowa have been blocking
+known and rampant spammers and
+warning users about activities that
+increase spam, such as giving away
+personal information on insecure
+Web sites.
+"I heard more and more people
+[say] they love the system," Feng
+said. "It saves people a lot of time. It's
+obviously a win implementation, ac -
+cording to most users' feedback."
+
+
+GINA HSIEH/The Stanford Daily
+Faced with rapidly increasing
+amounts of'unsolicited elect ronic: ad
+vertising, the University's Informa
+tion and lechnology Systems and
+Services department recently imple
+mented a filtering system for all Stan
+ford e-mail ac counts. The software is
+designed to detect "spam," unsolicit
+ed e-mail that urges users to invest in
+various items such as rape repellents
+and Viagra.
+The anti-spam filter was imple
+mented on Dec. 19. It scans all of'the
+approximately 35,000 Stanford e
+mail accounts but does not look at
+messages forwarded to non-Stan
+ford accounts such as Yahoo or I lot
+
+mail, which make up about one
+third of the e-mail passing through
+the University's server.
+Ihe software — called I'lire Mes
+sage and produced by the vendor
+ActiveState — scans all incoming
+messages and compares their con
+tents with common words and
+phrases used by spammers. If a
+match is made, the mail is delivered
+with a |SPAM:#I tag added to its
+subject line. The number of"#"
+signs indicate how certain the sys
+tem is that your email qualifies as
+spam, lb get one "#" the system
+must bess percent <ertain that it has
+found spam. Kacli "#" after that is
+another 5 to 10 percent of certainty.
+
+
+GINA HSIEH/The Stanford Daily
+Staff members at 1 I SS reported
+that the program has been successful
+both in its pilot stage and in its cur
+rent, fully implemented incarnation.
+Roughly half a million e-mails were
+tagged as spam between Dec. l'> 1 and
+Jan. 6. From these e-mails, I FSS re
+ceived only 500 reports of false posi
+tives — incorrectly tagged spam.
+"It seems like a worthwhile in
+vestment," said freshman Chris
+Couvelier. "Anything that saves me
+from silting through useless spam
+seems like a positive thing."
+Other students expressed sur
+prise at the need for the software.
+"1 never really noticed that many
+weird e-mails — only one or two,"
+said freshman Elizabeth Gibbons. "1
+never knew that there was any need
+lot* a filter."
+ITSS staff said that the program
+has received a great deal of positive
+feedback, including a message from
+a doctoral student claiming, "It
+makes me feel that even though 1 get
+
+a lot of junk mail, I'm not going to
+end up drowning in it. Keep up the
+good work!"
+There have also been some com
+plaints, most of them fcxusingon im
+portant e-mails that the program la
+beled as spam.
+Until Feb. 2002, spam was dealt
+with on an e-mail-by-e-mail basis:
+users could forward spam to a spe
+cial campus "junk mail" address,
+where ITSS would attempt to stop
+spam by contacting the Internet ser
+vice providers who transmitted the
+messages to Stanford servers.
+According to Xueshan Feng,
+technical manager for ITSS, some
+ISPs paid little attention to the Uni
+versity's concerns.
+"The spam was becoming un
+manageable," Feng said. "There
+were over 800 complaints per day."
+ITSS decided that a filtration soft
+ware was worth the cost because, ac
+cording to Feng, the substantial
+amount of spam created "a loss of
+productivity, wasting computing re
+sources and time, and also a loss in
+reputation:'('.an't a reputable univer
+sity like Stanford do something?' "
+She noted that percent of e
+
+mail passing through the Universi
+ty's servei between Dec . .'*l and Jan.
+(> of this year was labeled spam and
+that the amount of "junk mail" sent
+to Stanford accounts has doubled in
+the last 12 months.
+Many have asked why the server
+doesn't just block out spam automat
+ically, but dec I lie Bennett, II SS di
+rector of information security ser
+vices, told the Stanford Report that
+blocking spam might infringe 011
+users' academic freedom or privacy.
+"What's spam to me might not be
+spam to everybody else," Bennett
+said.
+Other universities face similar
+spam problems. Using an approach
+similar to Stanford's, universities like
+Princeton, Purdue and the Universi
+ty of lowa have been blocking
+known and rampant spammers and
+warning users about activities that
+increase spam, such as giving away
+personal information on insecure
+Web sites.
+"I heard more and more people
+[say] they love the system," Feng
+said. "It saves people a lot of time. It's
+obviously a win implementation, ac -
+cording to most users' feedback."
+
+
+GINA HSIEH/The Stanford Daily
+Faced with rapidly increasing
+amounts of'unsolicited elect ronic: ad
+vertising, the University's Informa
+tion and lechnology Systems and
+Services department recently imple
+mented a filtering system for all Stan
+ford e-mail ac counts. The software is
+designed to detect "spam," unsolicit
+ed e-mail that urges users to invest in
+various items such as rape repellents
+and Viagra.
+The anti-spam filter was imple
+mented on Dec. 19. It scans all of'the
+approximately 35,000 Stanford e
+mail accounts but does not look at
+messages forwarded to non-Stan
+ford accounts such as Yahoo or I lot
+
+mail, which make up about one
+third of the e-mail passing through
+the University's server.
+Ihe software — called I'lire Mes
+sage and produced by the vendor
+ActiveState — scans all incoming
+messages and compares their con
+tents with common words and
+phrases used by spammers. If a
+match is made, the mail is delivered
+with a |SPAM:#I tag added to its
+subject line. The number of"#"
+signs indicate how certain the sys
+tem is that your email qualifies as
+spam, lb get one "#" the system
+must bess percent <ertain that it has
+found spam. Kacli "#" after that is
+another 5 to 10 percent of certainty.
+
+
+GINA HSIEH/The Stanford Daily
+Staff members at 1 I SS reported
+that the program has been successful
+both in its pilot stage and in its cur
+rent, fully implemented incarnation.
+Roughly half a million e-mails were
+tagged as spam between Dec. l'> 1 and
+Jan. 6. From these e-mails, I FSS re
+ceived only 500 reports of false posi
+tives — incorrectly tagged spam.
+"It seems like a worthwhile in
+vestment," said freshman Chris
+Couvelier. "Anything that saves me
+from silting through useless spam
+seems like a positive thing."
+Other students expressed sur
+prise at the need for the software.
+"1 never really noticed that many
+weird e-mails — only one or two,"
+said freshman Elizabeth Gibbons. "1
+never knew that there was any need
+lot* a filter."
+ITSS staff said that the program
+has received a great deal of positive
+feedback, including a message from
+a doctoral student claiming, "It
+makes me feel that even though 1 get
+
+a lot of junk mail, I'm not going to
+end up drowning in it. Keep up the
+good work!"
+There have also been some com
+plaints, most of them fcxusingon im
+portant e-mails that the program la
+beled as spam.
+Until Feb. 2002, spam was dealt
+with on an e-mail-by-e-mail basis:
+users could forward spam to a spe
+cial campus "junk mail" address,
+where ITSS would attempt to stop
+spam by contacting the Internet ser
+vice providers who transmitted the
+messages to Stanford servers.
+According to Xueshan Feng,
+technical manager for ITSS, some
+ISPs paid little attention to the Uni
+versity's concerns.
+"The spam was becoming un
+manageable," Feng said. "There
+were over 800 complaints per day."
+ITSS decided that a filtration soft
+ware was worth the cost because, ac
+cording to Feng, the substantial
+amount of spam created "a loss of
+productivity, wasting computing re
+sources and time, and also a loss in
+reputation:'('.an't a reputable univer
+sity like Stanford do something?' "
+She noted that percent of e
+
+mail passing through the Universi
+ty's servei between Dec . .'*l and Jan.
+(> of this year was labeled spam and
+that the amount of "junk mail" sent
+to Stanford accounts has doubled in
+the last 12 months.
+Many have asked why the server
+doesn't just block out spam automat
+ically, but dec I lie Bennett, II SS di
+rector of information security ser
+vices, told the Stanford Report that
+blocking spam might infringe 011
+users' academic freedom or privacy.
+"What's spam to me might not be
+spam to everybody else," Bennett
+said.
+Other universities face similar
+spam problems. Using an approach
+similar to Stanford's, universities like
+Princeton, Purdue and the Universi
+ty of lowa have been blocking
+known and rampant spammers and
+warning users about activities that
+increase spam, such as giving away
+personal information on insecure
+Web sites.
+"I heard more and more people
+[say] they love the system," Feng
+said. "It saves people a lot of time. It's
+obviously a win implementation, ac -
+cording to most users' feedback."
+
+
+GINA HSIEH/The Stanford Daily
+Faced with rapidly increasing
+amounts of'unsolicited elect ronic: ad
+vertising, the University's Informa
+tion and lechnology Systems and
+Services department recently imple
+mented a filtering system for all Stan
+ford e-mail ac counts. The software is
+designed to detect "spam," unsolicit
+ed e-mail that urges users to invest in
+various items such as rape repellents
+and Viagra.
+The anti-spam filter was imple
+mented on Dec. 19. It scans all of'the
+approximately 35,000 Stanford e
+mail accounts but does not look at
+messages forwarded to non-Stan
+ford accounts such as Yahoo or I lot
+
+mail, which make up about one
+third of the e-mail passing through
+the University's server.
+Ihe software — called I'lire Mes
+sage and produced by the vendor
+ActiveState — scans all incoming
+messages and compares their con
+tents with common words and
+phrases used by spammers. If a
+match is made, the mail is delivered
+with a |SPAM:#I tag added to its
+subject line. The number of"#"
+signs indicate how certain the sys
+tem is that your email qualifies as
+spam, lb get one "#" the system
+must bess percent <ertain that it has
+found spam. Kacli "#" after that is
+another 5 to 10 percent of certainty.
+
+
+GINA HSIEH/The Stanford Daily
+Staff members at 1 I SS reported
+that the program has been successful
+both in its pilot stage and in its cur
+rent, fully implemented incarnation.
+Roughly half a million e-mails were
+tagged as spam between Dec. l'> 1 and
+Jan. 6. From these e-mails, I FSS re
+ceived only 500 reports of false posi
+tives — incorrectly tagged spam.
+"It seems like a worthwhile in
+vestment," said freshman Chris
+Couvelier. "Anything that saves me
+from silting through useless spam
+seems like a positive thing."
+Other students expressed sur
+prise at the need for the software.
+"1 never really noticed that many
+weird e-mails — only one or two,"
+said freshman Elizabeth Gibbons. "1
+never knew that there was any need
+lot* a filter."
+ITSS staff said that the program
+has received a great deal of positive
+feedback, including a message from
+a doctoral student claiming, "It
+makes me feel that even though 1 get
+
+a lot of junk mail, I'm not going to
+end up drowning in it. Keep up the
+good work!"
+There have also been some com
+plaints, most of them fcxusingon im
+portant e-mails that the program la
+beled as spam.
+Until Feb. 2002, spam was dealt
+with on an e-mail-by-e-mail basis:
+users could forward spam to a spe
+cial campus "junk mail" address,
+where ITSS would attempt to stop
+spam by contacting the Internet ser
+vice providers who transmitted the
+messages to Stanford servers.
+According to Xueshan Feng,
+technical manager for ITSS, some
+ISPs paid little attention to the Uni
+versity's concerns.
+"The spam was becoming un
+manageable," Feng said. "There
+were over 800 complaints per day."
+ITSS decided that a filtration soft
+ware was worth the cost because, ac
+cording to Feng, the substantial
+amount of spam created "a loss of
+productivity, wasting computing re
+sources and time, and also a loss in
+reputation:'('.an't a reputable univer
+sity like Stanford do something?' "
+She noted that percent of e
+
+mail passing through the Universi
+ty's servei between Dec . .'*l and Jan.
+(> of this year was labeled spam and
+that the amount of "junk mail" sent
+to Stanford accounts has doubled in
+the last 12 months.
+Many have asked why the server
+doesn't just block out spam automat
+ically, but dec I lie Bennett, II SS di
+rector of information security ser
+vices, told the Stanford Report that
+blocking spam might infringe 011
+users' academic freedom or privacy.
+"What's spam to me might not be
+spam to everybody else," Bennett
+said.
+Other universities face similar
+spam problems. Using an approach
+similar to Stanford's, universities like
+Princeton, Purdue and the Universi
+ty of lowa have been blocking
+known and rampant spammers and
+warning users about activities that
+increase spam, such as giving away
+personal information on insecure
+Web sites.
+"I heard more and more people
+[say] they love the system," Feng
+said. "It saves people a lot of time. It's
+obviously a win implementation, ac -
+cording to most users' feedback."
+
+
+GINA HSIEH/The Stanford Daily
+Faced with rapidly increasing
+amounts of'unsolicited elect ronic: ad
+vertising, the University's Informa
+tion and lechnology Systems and
+Services department recently imple
+mented a filtering system for all Stan
+ford e-mail ac counts. The software is
+designed to detect "spam," unsolicit
+ed e-mail that urges users to invest in
+various items such as rape repellents
+and Viagra.
+The anti-spam filter was imple
+mented on Dec. 19. It scans all of'the
+approximately 35,000 Stanford e
+mail accounts but does not look at
+messages forwarded to non-Stan
+ford accounts such as Yahoo or I lot
+
+mail, which make up about one
+third of the e-mail passing through
+the University's server.
+Ihe software — called I'lire Mes
+sage and produced by the vendor
+ActiveState — scans all incoming
+messages and compares their con
+tents with common words and
+phrases used by spammers. If a
+match is made, the mail is delivered
+with a |SPAM:#I tag added to its
+subject line. The number of"#"
+signs indicate how certain the sys
+tem is that your email qualifies as
+spam, lb get one "#" the system
+must bess percent <ertain that it has
+found spam. Kacli "#" after that is
+another 5 to 10 percent of certainty.
+
+
+GINA HSIEH/The Stanford Daily
+Staff members at 1 I SS reported
+that the program has been successful
+both in its pilot stage and in its cur
+rent, fully implemented incarnation.
+Roughly half a million e-mails were
+tagged as spam between Dec. l'> 1 and
+Jan. 6. From these e-mails, I FSS re
+ceived only 500 reports of false posi
+tives — incorrectly tagged spam.
+"It seems like a worthwhile in
+vestment," said freshman Chris
+Couvelier. "Anything that saves me
+from silting through useless spam
+seems like a positive thing."
+Other students expressed sur
+prise at the need for the software.
+"1 never really noticed that many
+weird e-mails — only one or two,"
+said freshman Elizabeth Gibbons. "1
+never knew that there was any need
+lot* a filter."
+ITSS staff said that the program
+has received a great deal of positive
+feedback, including a message from
+a doctoral student claiming, "It
+makes me feel that even though 1 get
+
+a lot of junk mail, I'm not going to
+end up drowning in it. Keep up the
+good work!"
+There have also been some com
+plaints, most of them fcxusingon im
+portant e-mails that the program la
+beled as spam.
+Until Feb. 2002, spam was dealt
+with on an e-mail-by-e-mail basis:
+users could forward spam to a spe
+cial campus "junk mail" address,
+where ITSS would attempt to stop
+spam by contacting the Internet ser
+vice providers who transmitted the
+messages to Stanford servers.
+According to Xueshan Feng,
+technical manager for ITSS, some
+ISPs paid little attention to the Uni
+versity's concerns.
+"The spam was becoming un
+manageable," Feng said. "There
+were over 800 complaints per day."
+ITSS decided that a filtration soft
+ware was worth the cost because, ac
+cording to Feng, the substantial
+amount of spam created "a loss of
+productivity, wasting computing re
+sources and time, and also a loss in
+reputation:'('.an't a reputable univer
+sity like Stanford do something?' "
+She noted that percent of e
+
+mail passing through the Universi
+ty's servei between Dec . .'*l and Jan.
+(> of this year was labeled spam and
+that the amount of "junk mail" sent
+to Stanford accounts has doubled in
+the last 12 months.
+Many have asked why the server
+doesn't just block out spam automat
+ically, but dec I lie Bennett, II SS di
+rector of information security ser
+vices, told the Stanford Report that
+blocking spam might infringe 011
+users' academic freedom or privacy.
+"What's spam to me might not be
+spam to everybody else," Bennett
+said.
+Other universities face similar
+spam problems. Using an approach
+similar to Stanford's, universities like
+Princeton, Purdue and the Universi
+ty of lowa have been blocking
+known and rampant spammers and
+warning users about activities that
+increase spam, such as giving away
+personal information on insecure
+Web sites.
+"I heard more and more people
+[say] they love the system," Feng
+said. "It saves people a lot of time. It's
+obviously a win implementation, ac -
+cording to most users' feedback."
+
+
+GINA HSIEH/The Stanford Daily
+Faced with rapidly increasing
+amounts of'unsolicited elect ronic: ad
+vertising, the University's Informa
+tion and lechnology Systems and
+Services department recently imple
+mented a filtering system for all Stan
+ford e-mail ac counts. The software is
+designed to detect "spam," unsolicit
+ed e-mail that urges users to invest in
+various items such as rape repellents
+and Viagra.
+The anti-spam filter was imple
+mented on Dec. 19. It scans all of'the
+approximately 35,000 Stanford e
+mail accounts but does not look at
+messages forwarded to non-Stan
+ford accounts such as Yahoo or I lot
+
+mail, which make up about one
+third of the e-mail passing through
+the University's server.
+Ihe software — called I'lire Mes
+sage and produced by the vendor
+ActiveState — scans all incoming
+messages and compares their con
+tents with common words and
+phrases used by spammers. If a
+match is made, the mail is delivered
+with a |SPAM:#I tag added to its
+subject line. The number of"#"
+signs indicate how certain the sys
+tem is that your email qualifies as
+spam, lb get one "#" the system
+must bess percent <ertain that it has
+found spam. Kacli "#" after that is
+another 5 to 10 percent of certainty.
+
+
+GINA HSIEH/The Stanford Daily
+Staff members at 1 I SS reported
+that the program has been successful
+both in its pilot stage and in its cur
+rent, fully implemented incarnation.
+Roughly half a million e-mails were
+tagged as spam between Dec. l'> 1 and
+Jan. 6. From these e-mails, I FSS re
+ceived only 500 reports of false posi
+tives — incorrectly tagged spam.
+"It seems like a worthwhile in
+vestment," said freshman Chris
+Couvelier. "Anything that saves me
+from silting through useless spam
+seems like a positive thing."
+Other students expressed sur
+prise at the need for the software.
+"1 never really noticed that many
+weird e-mails — only one or two,"
+said freshman Elizabeth Gibbons. "1
+never knew that there was any need
+lot* a filter."
+ITSS staff said that the program
+has received a great deal of positive
+feedback, including a message from
+a doctoral student claiming, "It
+makes me feel that even though 1 get
+
+a lot of junk mail, I'm not going to
+end up drowning in it. Keep up the
+good work!"
+There have also been some com
+plaints, most of them fcxusingon im
+portant e-mails that the program la
+beled as spam.
+Until Feb. 2002, spam was dealt
+with on an e-mail-by-e-mail basis:
+users could forward spam to a spe
+cial campus "junk mail" address,
+where ITSS would attempt to stop
+spam by contacting the Internet ser
+vice providers who transmitted the
+messages to Stanford servers.
+According to Xueshan Feng,
+technical manager for ITSS, some
+ISPs paid little attention to the Uni
+versity's concerns.
+"The spam was becoming un
+manageable," Feng said. "There
+were over 800 complaints per day."
+ITSS decided that a filtration soft
+ware was worth the cost because, ac
+cording to Feng, the substantial
+amount of spam created "a loss of
+productivity, wasting computing re
+sources and time, and also a loss in
+reputation:'('.an't a reputable univer
+sity like Stanford do something?' "
+She noted that percent of e
+
+mail passing through the Universi
+ty's servei between Dec . .'*l and Jan.
+(> of this year was labeled spam and
+that the amount of "junk mail" sent
+to Stanford accounts has doubled in
+the last 12 months.
+Many have asked why the server
+doesn't just block out spam automat
+ically, but dec I lie Bennett, II SS di
+rector of information security ser
+vices, told the Stanford Report that
+blocking spam might infringe 011
+users' academic freedom or privacy.
+"What's spam to me might not be
+spam to everybody else," Bennett
+said.
+Other universities face similar
+spam problems. Using an approach
+similar to Stanford's, universities like
+Princeton, Purdue and the Universi
+ty of lowa have been blocking
+known and rampant spammers and
+warning users about activities that
+increase spam, such as giving away
+personal information on insecure
+Web sites.
+"I heard more and more people
+[say] they love the system," Feng
+said. "It saves people a lot of time. It's
+obviously a win implementation, ac -
+cording to most users' feedback."
+
+
+GINA HSIEH/The Stanford Daily
+Faced with rapidly increasing
+amounts of'unsolicited elect ronic: ad
+vertising, the University's Informa
+tion and lechnology Systems and
+Services department recently imple
+mented a filtering system for all Stan
+ford e-mail ac counts. The software is
+designed to detect "spam," unsolicit
+ed e-mail that urges users to invest in
+various items such as rape repellents
+and Viagra.
+The anti-spam filter was imple
+mented on Dec. 19. It scans all of'the
+approximately 35,000 Stanford e
+mail accounts but does not look at
+messages forwarded to non-Stan
+ford accounts such as Yahoo or I lot
+
+mail, which make up about one
+third of the e-mail passing through
+the University's server.
+Ihe software — called I'lire Mes
+sage and produced by the vendor
+ActiveState — scans all incoming
+messages and compares their con
+tents with common words and
+phrases used by spammers. If a
+match is made, the mail is delivered
+with a |SPAM:#I tag added to its
+subject line. The number of"#"
+signs indicate how certain the sys
+tem is that your email qualifies as
+spam, lb get one "#" the system
+must bess percent <ertain that it has
+found spam. Kacli "#" after that is
+another 5 to 10 percent of certainty.
+
+
+GINA HSIEH/The Stanford Daily
+Staff members at 1 I SS reported
+that the program has been successful
+both in its pilot stage and in its cur
+rent, fully implemented incarnation.
+Roughly half a million e-mails were
+tagged as spam between Dec. l'> 1 and
+Jan. 6. From these e-mails, I FSS re
+ceived only 500 reports of false posi
+tives — incorrectly tagged spam.
+"It seems like a worthwhile in
+vestment," said freshman Chris
+Couvelier. "Anything that saves me
+from silting through useless spam
+seems like a positive thing."
+Other students expressed sur
+prise at the need for the software.
+"1 never really noticed that many
+weird e-mails — only one or two,"
+said freshman Elizabeth Gibbons. "1
+never knew that there was any need
+lot* a filter."
+ITSS staff said that the program
+has received a great deal of positive
+feedback, including a message from
+a doctoral student claiming, "It
+makes me feel that even though 1 get
+
+a lot of junk mail, I'm not going to
+end up drowning in it. Keep up the
+good work!"
+There have also been some com
+plaints, most of them fcxusingon im
+portant e-mails that the program la
+beled as spam.
+Until Feb. 2002, spam was dealt
+with on an e-mail-by-e-mail basis:
+users could forward spam to a spe
+cial campus "junk mail" address,
+where ITSS would attempt to stop
+spam by contacting the Internet ser
+vice providers who transmitted the
+messages to Stanford servers.
+According to Xueshan Feng,
+technical manager for ITSS, some
+ISPs paid little attention to the Uni
+versity's concerns.
+"The spam was becoming un
+manageable," Feng said. "There
+were over 800 complaints per day."
+ITSS decided that a filtration soft
+ware was worth the cost because, ac
+cording to Feng, the substantial
+amount of spam created "a loss of
+productivity, wasting computing re
+sources and time, and also a loss in
+reputation:'('.an't a reputable univer
+sity like Stanford do something?' "
+She noted that percent of e
+
+mail passing through the Universi
+ty's servei between Dec . .'*l and Jan.
+(> of this year was labeled spam and
+that the amount of "junk mail" sent
+to Stanford accounts has doubled in
+the last 12 months.
+Many have asked why the server
+doesn't just block out spam automat
+ically, but dec I lie Bennett, II SS di
+rector of information security ser
+vices, told the Stanford Report that
+blocking spam might infringe 011
+users' academic freedom or privacy.
+"What's spam to me might not be
+spam to everybody else," Bennett
+said.
+Other universities face similar
+spam problems. Using an approach
+similar to Stanford's, universities like
+Princeton, Purdue and the Universi
+ty of lowa have been blocking
+known and rampant spammers and
+warning users about activities that
+increase spam, such as giving away
+personal information on insecure
+Web sites.
+"I heard more and more people
+[say] they love the system," Feng
+said. "It saves people a lot of time. It's
+obviously a win implementation, ac -
+cording to most users' feedback."
+
+
+GINA HSIEH/The Stanford Daily

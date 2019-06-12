@@ -1,0 +1,3069 @@
+# Science
+## Computer helps doctors treat cancer patients 
+### ERIC ENDO 
+Researchers at the Stanford Medi
+cal Center have developed an artifi
+cial intelligence computer program,
+called ONCOCIN, to assist
+physicians in treating cancer patients.
+Although ONCOCIN is still exper
+imental, physicians can consult it re
+garding therapies for Hodgkin's
+disease, non-Hodgkin's lymphomas,
+breast cancer and one type of lung
+cancer.
+ONCOCIN operates like a human
+consultant. First, it requests patient
+information from the physician. The
+physician answers by typing on a spe
+cialized key pad.
+When it has enough information,
+ONCOCIN uses artificial intelligence
+techniques to understand the pa
+tient's situation. By weighing facts
+and applying its information about
+medicine, ONCOCIN makes recom
+mendations on the patient's chemo
+therapy plan.
+Physicians use many drugs — most
+of which are toxic — to kill the can
+cerous cells that have multiplied in a
+patient's body. Patients usually
+receive these drugs in cycles over the
+course of months. Radiation therapy
+may also be part of the treatment
+jegimen.
+"The ideal therapy for most can
+cers is not yet known," says Edward
+Shortliffe, associate professor of
+medicine and computer science and a
+principle investigator of the ON
+COCIN project. "To improve
+therapy strategies, formal experi
+ments, call protocols, are conducted
+to compare therapeutic benefits and
+side effects of accepted treatments
+with»those of alternate therapies
+believed to be of equal or greater
+value."
+Cancer therapy planning is compli
+cated. Oncologists describe each
+protocol in a lengthy written docu
+ment that is usually from 50 to 60
+pages. These documents contain
+details on drug dosages, treatment
+schedules, therapy adjustments and
+laboratory tests needed to evaluate
+drug effectiveness and toxicity.
+Each documents includes many
+treatment guidelines. At the medical
+center, an oncologist may have to re
+member the finer points of more than
+50 different protocols.
+ONCOCIN is designed to help on
+cologists with these details. It
+monitors the course of a patient's
+treatment, specifies required labora-
+
+'The ideal therapy of most can
+cers is not yet known. To im
+prove therapy strategies, formal
+experiments, called protocols,
+are conducted to compare
+therapeutic benefits and side
+effects of accepted treatments
+with those of alternate therapies
+believed to be of equal or greater
+value. .. .We have looked at the
+quality of advice offered by the
+computer relative to the opinions
+of experts who care for lym
+phoma patients. That study
+shows excellent performance of
+the computer relative to the
+experts.'
+— Assoc. Prof. Edward Shortliffe
+
+tory tests and recommends therapy
+changes when appropriate.
+For example, certain drugs used in
+chemotherapy will kill white blood
+cells, which play an important role in
+combating infection. If a patient's
+white blood cell count drops con
+siderably, the patient's oncologist
+must modify the chemotherapy plan.
+The oncologist may decide to
+decrease the dosage of certain drugs,
+remove one or more drugs from the
+therapy or postpone therapy altoget
+her.
+The protocol document spells out
+guidelines for these revisions. ON
+COCIN knows these guidelines and
+can make recommendations to the
+oncologist. At that point, the on
+cologist can follow the recommenda
+
+tion or override ONCOCIN's advice.
+Like a human consultant, ON
+COCIN explains its recommen
+dations. "Explanation is a key ele
+ment of this project," says Christop
+her Lane, the project's systems
+programmer., "ONCOCIN is de
+signed to build up explanations as it
+goes along. So when a doctor wants to
+know how it came up with a certain
+conclusion, the computer can explain
+the details."
+Shortliffe and Charlotte Jacobs, as
+sistant professor of medicine and an
+other principle investigator of ON
+COCIN, started the project by gath
+ering information from treatment
+protocols used in Hodgkin's disease
+and non-Hodgkin's lymphomas. This
+information was translated into "if
+
+then" rules, employing a logic that
+computers readily understand.
+ONCOCIN's knowledge and
+reasoning capacity is represented in
+the program by a series of these if
+then rules. The "if' part of the rule
+considers the patient's situation; the
+"then" part dictates a specific course
+of action.
+An example of an if-then rule is the
+following: If a patient's white blood
+cell count drops below a given value,
+then reduce the dosage of drug A by
+30 percent.
+"There can be several hundred of
+these if-then rules in one protocol
+document," says David Combs, an
+applications programmer on the proj
+ect. "When ONCOCIN has enough
+information, it tries to fiqure out
+
+which rules apply, then it carries out
+those rules in the form of a therapy
+recommendation."
+When only a few rules apply, treat
+ing a patient is straightforward.
+Treatment becomes complicated,
+however, when many of these if-then
+rules apply to a particular situation.
+"ONCOCIN may appear to be
+very literal," says Larry Fagan, the
+project director. "However, it is im
+portant to remember that we don't
+tell the computer what to recommend
+for every conceivable situation.
+"Instead, we supply it with infor
+mation and instructions on how to put
+bits of information together. The
+computer then integrates incoming
+information on its own," Fagan con
+tinues.
+
+"ONCOCIN is literal in the sense
+that we supply the facts, hut we never
+quite know how they will fit together.
+When these programs get large, the
+information sometimes fits together
+in ways we never expected," Fagan
+says.
+How is ONCOCIN performing?
+Physicians in the oncology clinic have
+supported ONCOCIN since they
+began using it in May 1981.
+Also, formal studies have been per
+formed to compare ONCOCIN's
+decisions with those of real on
+cologists. "We have looked at the
+quality of advice offered by the com
+puter relative to the opinions of ex
+perts who care for lymphoma
+patients," says She: tliffe. "That study
+shows excellent performance of the
+computer relative to the experts."
+ONCOCIN is doing well, but mem
+bers on the project continue to in
+crease its sophistication.
+The first version of ONCOCIN run
+on a large timesharing computer sys
+tem. Timesharing means that many
+people use the computer system at
+the same time. As a result, computer
+response was slow, and oncologists
+using ONCOCIN sometimes had to
+wait for answers. In a busy clinic, this
+presented a problem.
+The ONCOCIN group is now
+transferring programs from the old
+system to newer and smaller com
+puters that offer quick responses and
+high resolution graphics. Because the
+new system is not based on timeshar
+ing, it will operate through indepen
+dent work stations that are more ac
+cessible and flexible.
+Also, the new system can be moved
+to other locations, unlike the old ver
+sion. Ultimately, the ONCOCIN
+group wants to implement the system
+outside of Stanford, allowing more
+clinics to participate in cancer
+protocol therapy.
+One of the problems facing the
+ONCOCIN project, and all artificial
+intelligence research, is improving the
+process of entering data into the com
+puter. Ideally, ONCOCIN would
+work most efficiently if physicians
+could enter knowledge directly into
+the computer. Today, however,
+programmers are required to
+translate the physician's knowledge
+into a language the computer under
+stands.
+To improve knowledge acquisition,
+
+
+(Curtesy News and Publications
+the ONCOCIN group is working on a
+program called OPAL. It allows
+physicians, by completing forms dis
+played on the computer screen, to en
+ter new protocol knowledge directly
+into the computer. These forms put
+knowledge in a format that is under
+standable by both the physician and
+the computer.
+The ONCOCIN group is also
+working to improve ONCOCIN's
+ability to deal with uncertainty.
+Today, ONCOCIN can only deal with
+patient situations that are described
+in a protocol document. These docu
+ments, however, do not address every
+circumstance that may arise in a pa
+tient's therapy program. Otherwise,
+the document would be many pages
+more than 50.
+When ONCOCIN runs into an un
+usual situation, one that is not ad
+dressed in the protocol document, it
+cannot make a recommendation. Its
+response is "I don't know. I don't
+have enough information."
+These special cases are referred to
+an oncologist who is experienced in
+designing protocol therapy, usually
+the one who wrote the particular
+document.
+"ONCOCIN has problems with
+patients that have been off protocol
+treatment for three to four weeks,"
+says Fagan. "At that point, the
+clinician tries to straighten out the sit
+uation.
+"If a patient is off therapy, he
+knows that the tumor has probably
+grown. He may order an X-ray, to
+check. If a patient's white blood cell
+count is down, he knows the patient
+is probably reacting poorly to the
+chemotherapy. He might omit one of
+the drugs from the treatment
+regimen."
+ONCOCIN currently cannot rea
+son at this level. Its knowledge of
+medicine is still superficial. ON
+COCIN does not know the
+physiologic effect of chemother
+apeutic drugs on white blood cells.
+It does not know that a decrease in
+white blood cells will compromise a
+patient's ability to fight off infection.
+All it knows is to recommend an ac
+tion when the white blood cell count
+drops below a certain level.
+"Much of medicine," says
+Shortliffe, "is based on the ability to
+deal with exceptions, to be creative in
+understanding how underlying mech
+anisms of biochemistry and patho
+physiology account for the nuances of
+
+patient problems."
+The ONCOCIN group is working
+to increase the system's reasoning
+ability in a program called ONYX.
+ONYX is still in its early stages of de
+velopment, but its goals are clear.
+The ONCOCIN group is trying to
+model the way physicians appear to
+reason in clinical settings. They are
+providing the computer with knowl
+edge on the human body, cancer and
+the drugs used in treating cancer.
+They hope the computer will make
+sense of this knowledge and use it to
+make reasonable recommendations
+on cancer patients Who are off
+protocol therapy.
+"ONYX's strategy is based on the
+way oncologists appear to think,"
+says Fagan. "In addition to making
+suggestions about drug therapy, we
+would also like ONYX to predict
+what is going to happen to a patient in
+the future, based on what ONYX
+knows."
+Both ONCOCIN and ONYX use
+heuristics — problem-solving meth
+ods commonly called "rules of
+thumb." There is no guarantee that
+an heuristic is correct, but it is a good
+guess.
+Chess players, for example, do not
+know the best sequence of moves, be
+cause they don't consider every possi
+ble sequence. There are simply too
+many permutations to analyze.
+Instead, they use rules of thumb for
+guidance. For example, they may try
+to control the center of the board, or
+they may check their opponent's
+king, whenever possible.
+A player using these rules does not
+always make the best possible move.
+But heuristics help players to make
+decisions and cope with uncertainty.
+In some ways, playing chess is like
+making medical decisions. Some deci
+sions are clouded with uncertainty,
+and physicians must rely on an appro
+priate method of reasoning. They of
+ten turn to heuristics.
+Medical heuristics are represented
+in ONCOCIN and ONYX as if-then
+statements. The computer can under
+stand them in this form.
+"ONCOCIN uses heuristics," says
+Fagan, "but because ONCOCIN fol
+lows a specific protocol, most of its
+knowledge consists of specific facts.
+There is little uncertainty.
+"In ONYX, we are using more
+rules of thumb, because there are no
+protocol guidelines to follow. There
+are no guaranteed strategies. There
+are no right answers necessarily, since
+ONYX deals with patients when
+protocol rules no longer apply.
+"Using heuristics is a kind of ball
+park approach. Computer programs
+
+weigh these guesses to come up with
+an answer. That's what ONYX does.
+ONCOCIN, on the other hand,
+doesn't try to guess. It integrates
+mostly factual information to come
+up with answers," says Fagan.
+What is the ultimate goal of this re
+search? Someday, Fagan would like
+to see the invention of an "intelligent
+textbook."
+Today, physicians must skim
+through the pages of an entire medi
+cal textbook, even when they want
+only specific information on a pa
+tient's condition. Someday, a
+physican may simply describe a pa
+tient's situation to a computer, and
+
+the computer will supply specific and
+thorough information regarding the
+patient's case.
+"To achieve this goal, researchers
+in artificial intelligence are trying to
+develop better ways of entering and
+representing knowledge in the com
+puter," says Fagan. "For example,
+how does one represent common
+sense knowledge in the computer?
+Programs like ONCOCIN need com
+mon sense. Ideally, the computer
+should know if a calculated answer is
+reasonable.
+"Artificial intelligence is getting
+better and better at knowledge entry
+
+and representation, but there is still a
+lot of work ahead of us. Computer
+programs are nowhere near the point
+where they can read a book, scan the
+text and pick out relevant informa
+tion. Also, researchers continue to
+work on ways of representing knowl
+edge in the computer so that it is
+more accessible and usable to
+people," Fagan says.
+The development of an intelligent
+textbook is years away. Nevertheless,
+projects like ONCOCIN help people
+make decisions today.
+This research also helps experts,
+like physicians, in a way that few an
+ticipated. In order for programs like
+
+ONCOCIN to be developed, experts
+must supply their knowledge for inte
+gration into the program; this forces
+people to articulate their understand
+ing of the field.
+"Computers are not flexible
+enough to work like people's minds
+seem to work," says Fagan.
+"Consequently, it forces people to or
+ganize their thinking.
+"Experts that go through this
+debriefing process often tell us that
+they are never the same, because they
+were forced to write down how they
+reason, step by step. In the process,
+some of them made important dis
+coveries in their fields of study."
+
+Researchers at the Stanford Medi
+cal Center have developed an artifi
+cial intelligence computer program,
+called ONCOCIN, to assist
+physicians in treating cancer patients.
+Although ONCOCIN is still exper
+imental, physicians can consult it re
+garding therapies for Hodgkin's
+disease, non-Hodgkin's lymphomas,
+breast cancer and one type of lung
+cancer.
+ONCOCIN operates like a human
+consultant. First, it requests patient
+information from the physician. The
+physician answers by typing on a spe
+cialized key pad.
+When it has enough information,
+ONCOCIN uses artificial intelligence
+techniques to understand the pa
+tient's situation. By weighing facts
+and applying its information about
+medicine, ONCOCIN makes recom
+mendations on the patient's chemo
+therapy plan.
+Physicians use many drugs — most
+of which are toxic — to kill the can
+cerous cells that have multiplied in a
+patient's body. Patients usually
+receive these drugs in cycles over the
+course of months. Radiation therapy
+may also be part of the treatment
+jegimen.
+"The ideal therapy for most can
+cers is not yet known," says Edward
+Shortliffe, associate professor of
+medicine and computer science and a
+principle investigator of the ON
+COCIN project. "To improve
+therapy strategies, formal experi
+ments, call protocols, are conducted
+to compare therapeutic benefits and
+side effects of accepted treatments
+with»those of alternate therapies
+believed to be of equal or greater
+value."
+Cancer therapy planning is compli
+cated. Oncologists describe each
+protocol in a lengthy written docu
+ment that is usually from 50 to 60
+pages. These documents contain
+details on drug dosages, treatment
+schedules, therapy adjustments and
+laboratory tests needed to evaluate
+drug effectiveness and toxicity.
+Each documents includes many
+treatment guidelines. At the medical
+center, an oncologist may have to re
+member the finer points of more than
+50 different protocols.
+ONCOCIN is designed to help on
+cologists with these details. It
+monitors the course of a patient's
+treatment, specifies required labora-
+
+'The ideal therapy of most can
+cers is not yet known. To im
+prove therapy strategies, formal
+experiments, called protocols,
+are conducted to compare
+therapeutic benefits and side
+effects of accepted treatments
+with those of alternate therapies
+believed to be of equal or greater
+value. .. .We have looked at the
+quality of advice offered by the
+computer relative to the opinions
+of experts who care for lym
+phoma patients. That study
+shows excellent performance of
+the computer relative to the
+experts.'
+— Assoc. Prof. Edward Shortliffe
+
+tory tests and recommends therapy
+changes when appropriate.
+For example, certain drugs used in
+chemotherapy will kill white blood
+cells, which play an important role in
+combating infection. If a patient's
+white blood cell count drops con
+siderably, the patient's oncologist
+must modify the chemotherapy plan.
+The oncologist may decide to
+decrease the dosage of certain drugs,
+remove one or more drugs from the
+therapy or postpone therapy altoget
+her.
+The protocol document spells out
+guidelines for these revisions. ON
+COCIN knows these guidelines and
+can make recommendations to the
+oncologist. At that point, the on
+cologist can follow the recommenda
+
+tion or override ONCOCIN's advice.
+Like a human consultant, ON
+COCIN explains its recommen
+dations. "Explanation is a key ele
+ment of this project," says Christop
+her Lane, the project's systems
+programmer., "ONCOCIN is de
+signed to build up explanations as it
+goes along. So when a doctor wants to
+know how it came up with a certain
+conclusion, the computer can explain
+the details."
+Shortliffe and Charlotte Jacobs, as
+sistant professor of medicine and an
+other principle investigator of ON
+COCIN, started the project by gath
+ering information from treatment
+protocols used in Hodgkin's disease
+and non-Hodgkin's lymphomas. This
+information was translated into "if
+
+then" rules, employing a logic that
+computers readily understand.
+ONCOCIN's knowledge and
+reasoning capacity is represented in
+the program by a series of these if
+then rules. The "if' part of the rule
+considers the patient's situation; the
+"then" part dictates a specific course
+of action.
+An example of an if-then rule is the
+following: If a patient's white blood
+cell count drops below a given value,
+then reduce the dosage of drug A by
+30 percent.
+"There can be several hundred of
+these if-then rules in one protocol
+document," says David Combs, an
+applications programmer on the proj
+ect. "When ONCOCIN has enough
+information, it tries to fiqure out
+
+which rules apply, then it carries out
+those rules in the form of a therapy
+recommendation."
+When only a few rules apply, treat
+ing a patient is straightforward.
+Treatment becomes complicated,
+however, when many of these if-then
+rules apply to a particular situation.
+"ONCOCIN may appear to be
+very literal," says Larry Fagan, the
+project director. "However, it is im
+portant to remember that we don't
+tell the computer what to recommend
+for every conceivable situation.
+"Instead, we supply it with infor
+mation and instructions on how to put
+bits of information together. The
+computer then integrates incoming
+information on its own," Fagan con
+tinues.
+
+"ONCOCIN is literal in the sense
+that we supply the facts, hut we never
+quite know how they will fit together.
+When these programs get large, the
+information sometimes fits together
+in ways we never expected," Fagan
+says.
+How is ONCOCIN performing?
+Physicians in the oncology clinic have
+supported ONCOCIN since they
+began using it in May 1981.
+Also, formal studies have been per
+formed to compare ONCOCIN's
+decisions with those of real on
+cologists. "We have looked at the
+quality of advice offered by the com
+puter relative to the opinions of ex
+perts who care for lymphoma
+patients," says She: tliffe. "That study
+shows excellent performance of the
+computer relative to the experts."
+ONCOCIN is doing well, but mem
+bers on the project continue to in
+crease its sophistication.
+The first version of ONCOCIN run
+on a large timesharing computer sys
+tem. Timesharing means that many
+people use the computer system at
+the same time. As a result, computer
+response was slow, and oncologists
+using ONCOCIN sometimes had to
+wait for answers. In a busy clinic, this
+presented a problem.
+The ONCOCIN group is now
+transferring programs from the old
+system to newer and smaller com
+puters that offer quick responses and
+high resolution graphics. Because the
+new system is not based on timeshar
+ing, it will operate through indepen
+dent work stations that are more ac
+cessible and flexible.
+Also, the new system can be moved
+to other locations, unlike the old ver
+sion. Ultimately, the ONCOCIN
+group wants to implement the system
+outside of Stanford, allowing more
+clinics to participate in cancer
+protocol therapy.
+One of the problems facing the
+ONCOCIN project, and all artificial
+intelligence research, is improving the
+process of entering data into the com
+puter. Ideally, ONCOCIN would
+work most efficiently if physicians
+could enter knowledge directly into
+the computer. Today, however,
+programmers are required to
+translate the physician's knowledge
+into a language the computer under
+stands.
+To improve knowledge acquisition,
+
+
+(Curtesy News and Publications
+the ONCOCIN group is working on a
+program called OPAL. It allows
+physicians, by completing forms dis
+played on the computer screen, to en
+ter new protocol knowledge directly
+into the computer. These forms put
+knowledge in a format that is under
+standable by both the physician and
+the computer.
+The ONCOCIN group is also
+working to improve ONCOCIN's
+ability to deal with uncertainty.
+Today, ONCOCIN can only deal with
+patient situations that are described
+in a protocol document. These docu
+ments, however, do not address every
+circumstance that may arise in a pa
+tient's therapy program. Otherwise,
+the document would be many pages
+more than 50.
+When ONCOCIN runs into an un
+usual situation, one that is not ad
+dressed in the protocol document, it
+cannot make a recommendation. Its
+response is "I don't know. I don't
+have enough information."
+These special cases are referred to
+an oncologist who is experienced in
+designing protocol therapy, usually
+the one who wrote the particular
+document.
+"ONCOCIN has problems with
+patients that have been off protocol
+treatment for three to four weeks,"
+says Fagan. "At that point, the
+clinician tries to straighten out the sit
+uation.
+"If a patient is off therapy, he
+knows that the tumor has probably
+grown. He may order an X-ray, to
+check. If a patient's white blood cell
+count is down, he knows the patient
+is probably reacting poorly to the
+chemotherapy. He might omit one of
+the drugs from the treatment
+regimen."
+ONCOCIN currently cannot rea
+son at this level. Its knowledge of
+medicine is still superficial. ON
+COCIN does not know the
+physiologic effect of chemother
+apeutic drugs on white blood cells.
+It does not know that a decrease in
+white blood cells will compromise a
+patient's ability to fight off infection.
+All it knows is to recommend an ac
+tion when the white blood cell count
+drops below a certain level.
+"Much of medicine," says
+Shortliffe, "is based on the ability to
+deal with exceptions, to be creative in
+understanding how underlying mech
+anisms of biochemistry and patho
+physiology account for the nuances of
+
+patient problems."
+The ONCOCIN group is working
+to increase the system's reasoning
+ability in a program called ONYX.
+ONYX is still in its early stages of de
+velopment, but its goals are clear.
+The ONCOCIN group is trying to
+model the way physicians appear to
+reason in clinical settings. They are
+providing the computer with knowl
+edge on the human body, cancer and
+the drugs used in treating cancer.
+They hope the computer will make
+sense of this knowledge and use it to
+make reasonable recommendations
+on cancer patients Who are off
+protocol therapy.
+"ONYX's strategy is based on the
+way oncologists appear to think,"
+says Fagan. "In addition to making
+suggestions about drug therapy, we
+would also like ONYX to predict
+what is going to happen to a patient in
+the future, based on what ONYX
+knows."
+Both ONCOCIN and ONYX use
+heuristics — problem-solving meth
+ods commonly called "rules of
+thumb." There is no guarantee that
+an heuristic is correct, but it is a good
+guess.
+Chess players, for example, do not
+know the best sequence of moves, be
+cause they don't consider every possi
+ble sequence. There are simply too
+many permutations to analyze.
+Instead, they use rules of thumb for
+guidance. For example, they may try
+to control the center of the board, or
+they may check their opponent's
+king, whenever possible.
+A player using these rules does not
+always make the best possible move.
+But heuristics help players to make
+decisions and cope with uncertainty.
+In some ways, playing chess is like
+making medical decisions. Some deci
+sions are clouded with uncertainty,
+and physicians must rely on an appro
+priate method of reasoning. They of
+ten turn to heuristics.
+Medical heuristics are represented
+in ONCOCIN and ONYX as if-then
+statements. The computer can under
+stand them in this form.
+"ONCOCIN uses heuristics," says
+Fagan, "but because ONCOCIN fol
+lows a specific protocol, most of its
+knowledge consists of specific facts.
+There is little uncertainty.
+"In ONYX, we are using more
+rules of thumb, because there are no
+protocol guidelines to follow. There
+are no guaranteed strategies. There
+are no right answers necessarily, since
+ONYX deals with patients when
+protocol rules no longer apply.
+"Using heuristics is a kind of ball
+park approach. Computer programs
+
+weigh these guesses to come up with
+an answer. That's what ONYX does.
+ONCOCIN, on the other hand,
+doesn't try to guess. It integrates
+mostly factual information to come
+up with answers," says Fagan.
+What is the ultimate goal of this re
+search? Someday, Fagan would like
+to see the invention of an "intelligent
+textbook."
+Today, physicians must skim
+through the pages of an entire medi
+cal textbook, even when they want
+only specific information on a pa
+tient's condition. Someday, a
+physican may simply describe a pa
+tient's situation to a computer, and
+
+the computer will supply specific and
+thorough information regarding the
+patient's case.
+"To achieve this goal, researchers
+in artificial intelligence are trying to
+develop better ways of entering and
+representing knowledge in the com
+puter," says Fagan. "For example,
+how does one represent common
+sense knowledge in the computer?
+Programs like ONCOCIN need com
+mon sense. Ideally, the computer
+should know if a calculated answer is
+reasonable.
+"Artificial intelligence is getting
+better and better at knowledge entry
+
+and representation, but there is still a
+lot of work ahead of us. Computer
+programs are nowhere near the point
+where they can read a book, scan the
+text and pick out relevant informa
+tion. Also, researchers continue to
+work on ways of representing knowl
+edge in the computer so that it is
+more accessible and usable to
+people," Fagan says.
+The development of an intelligent
+textbook is years away. Nevertheless,
+projects like ONCOCIN help people
+make decisions today.
+This research also helps experts,
+like physicians, in a way that few an
+ticipated. In order for programs like
+
+ONCOCIN to be developed, experts
+must supply their knowledge for inte
+gration into the program; this forces
+people to articulate their understand
+ing of the field.
+"Computers are not flexible
+enough to work like people's minds
+seem to work," says Fagan.
+"Consequently, it forces people to or
+ganize their thinking.
+"Experts that go through this
+debriefing process often tell us that
+they are never the same, because they
+were forced to write down how they
+reason, step by step. In the process,
+some of them made important dis
+coveries in their fields of study."
+
+Researchers at the Stanford Medi
+cal Center have developed an artifi
+cial intelligence computer program,
+called ONCOCIN, to assist
+physicians in treating cancer patients.
+Although ONCOCIN is still exper
+imental, physicians can consult it re
+garding therapies for Hodgkin's
+disease, non-Hodgkin's lymphomas,
+breast cancer and one type of lung
+cancer.
+ONCOCIN operates like a human
+consultant. First, it requests patient
+information from the physician. The
+physician answers by typing on a spe
+cialized key pad.
+When it has enough information,
+ONCOCIN uses artificial intelligence
+techniques to understand the pa
+tient's situation. By weighing facts
+and applying its information about
+medicine, ONCOCIN makes recom
+mendations on the patient's chemo
+therapy plan.
+Physicians use many drugs — most
+of which are toxic — to kill the can
+cerous cells that have multiplied in a
+patient's body. Patients usually
+receive these drugs in cycles over the
+course of months. Radiation therapy
+may also be part of the treatment
+jegimen.
+"The ideal therapy for most can
+cers is not yet known," says Edward
+Shortliffe, associate professor of
+medicine and computer science and a
+principle investigator of the ON
+COCIN project. "To improve
+therapy strategies, formal experi
+ments, call protocols, are conducted
+to compare therapeutic benefits and
+side effects of accepted treatments
+with»those of alternate therapies
+believed to be of equal or greater
+value."
+Cancer therapy planning is compli
+cated. Oncologists describe each
+protocol in a lengthy written docu
+ment that is usually from 50 to 60
+pages. These documents contain
+details on drug dosages, treatment
+schedules, therapy adjustments and
+laboratory tests needed to evaluate
+drug effectiveness and toxicity.
+Each documents includes many
+treatment guidelines. At the medical
+center, an oncologist may have to re
+member the finer points of more than
+50 different protocols.
+ONCOCIN is designed to help on
+cologists with these details. It
+monitors the course of a patient's
+treatment, specifies required labora-
+
+'The ideal therapy of most can
+cers is not yet known. To im
+prove therapy strategies, formal
+experiments, called protocols,
+are conducted to compare
+therapeutic benefits and side
+effects of accepted treatments
+with those of alternate therapies
+believed to be of equal or greater
+value. .. .We have looked at the
+quality of advice offered by the
+computer relative to the opinions
+of experts who care for lym
+phoma patients. That study
+shows excellent performance of
+the computer relative to the
+experts.'
+— Assoc. Prof. Edward Shortliffe
+
+tory tests and recommends therapy
+changes when appropriate.
+For example, certain drugs used in
+chemotherapy will kill white blood
+cells, which play an important role in
+combating infection. If a patient's
+white blood cell count drops con
+siderably, the patient's oncologist
+must modify the chemotherapy plan.
+The oncologist may decide to
+decrease the dosage of certain drugs,
+remove one or more drugs from the
+therapy or postpone therapy altoget
+her.
+The protocol document spells out
+guidelines for these revisions. ON
+COCIN knows these guidelines and
+can make recommendations to the
+oncologist. At that point, the on
+cologist can follow the recommenda
+
+tion or override ONCOCIN's advice.
+Like a human consultant, ON
+COCIN explains its recommen
+dations. "Explanation is a key ele
+ment of this project," says Christop
+her Lane, the project's systems
+programmer., "ONCOCIN is de
+signed to build up explanations as it
+goes along. So when a doctor wants to
+know how it came up with a certain
+conclusion, the computer can explain
+the details."
+Shortliffe and Charlotte Jacobs, as
+sistant professor of medicine and an
+other principle investigator of ON
+COCIN, started the project by gath
+ering information from treatment
+protocols used in Hodgkin's disease
+and non-Hodgkin's lymphomas. This
+information was translated into "if
+
+then" rules, employing a logic that
+computers readily understand.
+ONCOCIN's knowledge and
+reasoning capacity is represented in
+the program by a series of these if
+then rules. The "if' part of the rule
+considers the patient's situation; the
+"then" part dictates a specific course
+of action.
+An example of an if-then rule is the
+following: If a patient's white blood
+cell count drops below a given value,
+then reduce the dosage of drug A by
+30 percent.
+"There can be several hundred of
+these if-then rules in one protocol
+document," says David Combs, an
+applications programmer on the proj
+ect. "When ONCOCIN has enough
+information, it tries to fiqure out
+
+which rules apply, then it carries out
+those rules in the form of a therapy
+recommendation."
+When only a few rules apply, treat
+ing a patient is straightforward.
+Treatment becomes complicated,
+however, when many of these if-then
+rules apply to a particular situation.
+"ONCOCIN may appear to be
+very literal," says Larry Fagan, the
+project director. "However, it is im
+portant to remember that we don't
+tell the computer what to recommend
+for every conceivable situation.
+"Instead, we supply it with infor
+mation and instructions on how to put
+bits of information together. The
+computer then integrates incoming
+information on its own," Fagan con
+tinues.
+
+"ONCOCIN is literal in the sense
+that we supply the facts, hut we never
+quite know how they will fit together.
+When these programs get large, the
+information sometimes fits together
+in ways we never expected," Fagan
+says.
+How is ONCOCIN performing?
+Physicians in the oncology clinic have
+supported ONCOCIN since they
+began using it in May 1981.
+Also, formal studies have been per
+formed to compare ONCOCIN's
+decisions with those of real on
+cologists. "We have looked at the
+quality of advice offered by the com
+puter relative to the opinions of ex
+perts who care for lymphoma
+patients," says She: tliffe. "That study
+shows excellent performance of the
+computer relative to the experts."
+ONCOCIN is doing well, but mem
+bers on the project continue to in
+crease its sophistication.
+The first version of ONCOCIN run
+on a large timesharing computer sys
+tem. Timesharing means that many
+people use the computer system at
+the same time. As a result, computer
+response was slow, and oncologists
+using ONCOCIN sometimes had to
+wait for answers. In a busy clinic, this
+presented a problem.
+The ONCOCIN group is now
+transferring programs from the old
+system to newer and smaller com
+puters that offer quick responses and
+high resolution graphics. Because the
+new system is not based on timeshar
+ing, it will operate through indepen
+dent work stations that are more ac
+cessible and flexible.
+Also, the new system can be moved
+to other locations, unlike the old ver
+sion. Ultimately, the ONCOCIN
+group wants to implement the system
+outside of Stanford, allowing more
+clinics to participate in cancer
+protocol therapy.
+One of the problems facing the
+ONCOCIN project, and all artificial
+intelligence research, is improving the
+process of entering data into the com
+puter. Ideally, ONCOCIN would
+work most efficiently if physicians
+could enter knowledge directly into
+the computer. Today, however,
+programmers are required to
+translate the physician's knowledge
+into a language the computer under
+stands.
+To improve knowledge acquisition,
+
+
+(Curtesy News and Publications
+the ONCOCIN group is working on a
+program called OPAL. It allows
+physicians, by completing forms dis
+played on the computer screen, to en
+ter new protocol knowledge directly
+into the computer. These forms put
+knowledge in a format that is under
+standable by both the physician and
+the computer.
+The ONCOCIN group is also
+working to improve ONCOCIN's
+ability to deal with uncertainty.
+Today, ONCOCIN can only deal with
+patient situations that are described
+in a protocol document. These docu
+ments, however, do not address every
+circumstance that may arise in a pa
+tient's therapy program. Otherwise,
+the document would be many pages
+more than 50.
+When ONCOCIN runs into an un
+usual situation, one that is not ad
+dressed in the protocol document, it
+cannot make a recommendation. Its
+response is "I don't know. I don't
+have enough information."
+These special cases are referred to
+an oncologist who is experienced in
+designing protocol therapy, usually
+the one who wrote the particular
+document.
+"ONCOCIN has problems with
+patients that have been off protocol
+treatment for three to four weeks,"
+says Fagan. "At that point, the
+clinician tries to straighten out the sit
+uation.
+"If a patient is off therapy, he
+knows that the tumor has probably
+grown. He may order an X-ray, to
+check. If a patient's white blood cell
+count is down, he knows the patient
+is probably reacting poorly to the
+chemotherapy. He might omit one of
+the drugs from the treatment
+regimen."
+ONCOCIN currently cannot rea
+son at this level. Its knowledge of
+medicine is still superficial. ON
+COCIN does not know the
+physiologic effect of chemother
+apeutic drugs on white blood cells.
+It does not know that a decrease in
+white blood cells will compromise a
+patient's ability to fight off infection.
+All it knows is to recommend an ac
+tion when the white blood cell count
+drops below a certain level.
+"Much of medicine," says
+Shortliffe, "is based on the ability to
+deal with exceptions, to be creative in
+understanding how underlying mech
+anisms of biochemistry and patho
+physiology account for the nuances of
+
+patient problems."
+The ONCOCIN group is working
+to increase the system's reasoning
+ability in a program called ONYX.
+ONYX is still in its early stages of de
+velopment, but its goals are clear.
+The ONCOCIN group is trying to
+model the way physicians appear to
+reason in clinical settings. They are
+providing the computer with knowl
+edge on the human body, cancer and
+the drugs used in treating cancer.
+They hope the computer will make
+sense of this knowledge and use it to
+make reasonable recommendations
+on cancer patients Who are off
+protocol therapy.
+"ONYX's strategy is based on the
+way oncologists appear to think,"
+says Fagan. "In addition to making
+suggestions about drug therapy, we
+would also like ONYX to predict
+what is going to happen to a patient in
+the future, based on what ONYX
+knows."
+Both ONCOCIN and ONYX use
+heuristics — problem-solving meth
+ods commonly called "rules of
+thumb." There is no guarantee that
+an heuristic is correct, but it is a good
+guess.
+Chess players, for example, do not
+know the best sequence of moves, be
+cause they don't consider every possi
+ble sequence. There are simply too
+many permutations to analyze.
+Instead, they use rules of thumb for
+guidance. For example, they may try
+to control the center of the board, or
+they may check their opponent's
+king, whenever possible.
+A player using these rules does not
+always make the best possible move.
+But heuristics help players to make
+decisions and cope with uncertainty.
+In some ways, playing chess is like
+making medical decisions. Some deci
+sions are clouded with uncertainty,
+and physicians must rely on an appro
+priate method of reasoning. They of
+ten turn to heuristics.
+Medical heuristics are represented
+in ONCOCIN and ONYX as if-then
+statements. The computer can under
+stand them in this form.
+"ONCOCIN uses heuristics," says
+Fagan, "but because ONCOCIN fol
+lows a specific protocol, most of its
+knowledge consists of specific facts.
+There is little uncertainty.
+"In ONYX, we are using more
+rules of thumb, because there are no
+protocol guidelines to follow. There
+are no guaranteed strategies. There
+are no right answers necessarily, since
+ONYX deals with patients when
+protocol rules no longer apply.
+"Using heuristics is a kind of ball
+park approach. Computer programs
+
+weigh these guesses to come up with
+an answer. That's what ONYX does.
+ONCOCIN, on the other hand,
+doesn't try to guess. It integrates
+mostly factual information to come
+up with answers," says Fagan.
+What is the ultimate goal of this re
+search? Someday, Fagan would like
+to see the invention of an "intelligent
+textbook."
+Today, physicians must skim
+through the pages of an entire medi
+cal textbook, even when they want
+only specific information on a pa
+tient's condition. Someday, a
+physican may simply describe a pa
+tient's situation to a computer, and
+
+the computer will supply specific and
+thorough information regarding the
+patient's case.
+"To achieve this goal, researchers
+in artificial intelligence are trying to
+develop better ways of entering and
+representing knowledge in the com
+puter," says Fagan. "For example,
+how does one represent common
+sense knowledge in the computer?
+Programs like ONCOCIN need com
+mon sense. Ideally, the computer
+should know if a calculated answer is
+reasonable.
+"Artificial intelligence is getting
+better and better at knowledge entry
+
+and representation, but there is still a
+lot of work ahead of us. Computer
+programs are nowhere near the point
+where they can read a book, scan the
+text and pick out relevant informa
+tion. Also, researchers continue to
+work on ways of representing knowl
+edge in the computer so that it is
+more accessible and usable to
+people," Fagan says.
+The development of an intelligent
+textbook is years away. Nevertheless,
+projects like ONCOCIN help people
+make decisions today.
+This research also helps experts,
+like physicians, in a way that few an
+ticipated. In order for programs like
+
+ONCOCIN to be developed, experts
+must supply their knowledge for inte
+gration into the program; this forces
+people to articulate their understand
+ing of the field.
+"Computers are not flexible
+enough to work like people's minds
+seem to work," says Fagan.
+"Consequently, it forces people to or
+ganize their thinking.
+"Experts that go through this
+debriefing process often tell us that
+they are never the same, because they
+were forced to write down how they
+reason, step by step. In the process,
+some of them made important dis
+coveries in their fields of study."
+
+Researchers at the Stanford Medi
+cal Center have developed an artifi
+cial intelligence computer program,
+called ONCOCIN, to assist
+physicians in treating cancer patients.
+Although ONCOCIN is still exper
+imental, physicians can consult it re
+garding therapies for Hodgkin's
+disease, non-Hodgkin's lymphomas,
+breast cancer and one type of lung
+cancer.
+ONCOCIN operates like a human
+consultant. First, it requests patient
+information from the physician. The
+physician answers by typing on a spe
+cialized key pad.
+When it has enough information,
+ONCOCIN uses artificial intelligence
+techniques to understand the pa
+tient's situation. By weighing facts
+and applying its information about
+medicine, ONCOCIN makes recom
+mendations on the patient's chemo
+therapy plan.
+Physicians use many drugs — most
+of which are toxic — to kill the can
+cerous cells that have multiplied in a
+patient's body. Patients usually
+receive these drugs in cycles over the
+course of months. Radiation therapy
+may also be part of the treatment
+jegimen.
+"The ideal therapy for most can
+cers is not yet known," says Edward
+Shortliffe, associate professor of
+medicine and computer science and a
+principle investigator of the ON
+COCIN project. "To improve
+therapy strategies, formal experi
+ments, call protocols, are conducted
+to compare therapeutic benefits and
+side effects of accepted treatments
+with»those of alternate therapies
+believed to be of equal or greater
+value."
+Cancer therapy planning is compli
+cated. Oncologists describe each
+protocol in a lengthy written docu
+ment that is usually from 50 to 60
+pages. These documents contain
+details on drug dosages, treatment
+schedules, therapy adjustments and
+laboratory tests needed to evaluate
+drug effectiveness and toxicity.
+Each documents includes many
+treatment guidelines. At the medical
+center, an oncologist may have to re
+member the finer points of more than
+50 different protocols.
+ONCOCIN is designed to help on
+cologists with these details. It
+monitors the course of a patient's
+treatment, specifies required labora-
+
+'The ideal therapy of most can
+cers is not yet known. To im
+prove therapy strategies, formal
+experiments, called protocols,
+are conducted to compare
+therapeutic benefits and side
+effects of accepted treatments
+with those of alternate therapies
+believed to be of equal or greater
+value. .. .We have looked at the
+quality of advice offered by the
+computer relative to the opinions
+of experts who care for lym
+phoma patients. That study
+shows excellent performance of
+the computer relative to the
+experts.'
+— Assoc. Prof. Edward Shortliffe
+
+tory tests and recommends therapy
+changes when appropriate.
+For example, certain drugs used in
+chemotherapy will kill white blood
+cells, which play an important role in
+combating infection. If a patient's
+white blood cell count drops con
+siderably, the patient's oncologist
+must modify the chemotherapy plan.
+The oncologist may decide to
+decrease the dosage of certain drugs,
+remove one or more drugs from the
+therapy or postpone therapy altoget
+her.
+The protocol document spells out
+guidelines for these revisions. ON
+COCIN knows these guidelines and
+can make recommendations to the
+oncologist. At that point, the on
+cologist can follow the recommenda
+
+tion or override ONCOCIN's advice.
+Like a human consultant, ON
+COCIN explains its recommen
+dations. "Explanation is a key ele
+ment of this project," says Christop
+her Lane, the project's systems
+programmer., "ONCOCIN is de
+signed to build up explanations as it
+goes along. So when a doctor wants to
+know how it came up with a certain
+conclusion, the computer can explain
+the details."
+Shortliffe and Charlotte Jacobs, as
+sistant professor of medicine and an
+other principle investigator of ON
+COCIN, started the project by gath
+ering information from treatment
+protocols used in Hodgkin's disease
+and non-Hodgkin's lymphomas. This
+information was translated into "if
+
+then" rules, employing a logic that
+computers readily understand.
+ONCOCIN's knowledge and
+reasoning capacity is represented in
+the program by a series of these if
+then rules. The "if' part of the rule
+considers the patient's situation; the
+"then" part dictates a specific course
+of action.
+An example of an if-then rule is the
+following: If a patient's white blood
+cell count drops below a given value,
+then reduce the dosage of drug A by
+30 percent.
+"There can be several hundred of
+these if-then rules in one protocol
+document," says David Combs, an
+applications programmer on the proj
+ect. "When ONCOCIN has enough
+information, it tries to fiqure out
+
+which rules apply, then it carries out
+those rules in the form of a therapy
+recommendation."
+When only a few rules apply, treat
+ing a patient is straightforward.
+Treatment becomes complicated,
+however, when many of these if-then
+rules apply to a particular situation.
+"ONCOCIN may appear to be
+very literal," says Larry Fagan, the
+project director. "However, it is im
+portant to remember that we don't
+tell the computer what to recommend
+for every conceivable situation.
+"Instead, we supply it with infor
+mation and instructions on how to put
+bits of information together. The
+computer then integrates incoming
+information on its own," Fagan con
+tinues.
+
+"ONCOCIN is literal in the sense
+that we supply the facts, hut we never
+quite know how they will fit together.
+When these programs get large, the
+information sometimes fits together
+in ways we never expected," Fagan
+says.
+How is ONCOCIN performing?
+Physicians in the oncology clinic have
+supported ONCOCIN since they
+began using it in May 1981.
+Also, formal studies have been per
+formed to compare ONCOCIN's
+decisions with those of real on
+cologists. "We have looked at the
+quality of advice offered by the com
+puter relative to the opinions of ex
+perts who care for lymphoma
+patients," says She: tliffe. "That study
+shows excellent performance of the
+computer relative to the experts."
+ONCOCIN is doing well, but mem
+bers on the project continue to in
+crease its sophistication.
+The first version of ONCOCIN run
+on a large timesharing computer sys
+tem. Timesharing means that many
+people use the computer system at
+the same time. As a result, computer
+response was slow, and oncologists
+using ONCOCIN sometimes had to
+wait for answers. In a busy clinic, this
+presented a problem.
+The ONCOCIN group is now
+transferring programs from the old
+system to newer and smaller com
+puters that offer quick responses and
+high resolution graphics. Because the
+new system is not based on timeshar
+ing, it will operate through indepen
+dent work stations that are more ac
+cessible and flexible.
+Also, the new system can be moved
+to other locations, unlike the old ver
+sion. Ultimately, the ONCOCIN
+group wants to implement the system
+outside of Stanford, allowing more
+clinics to participate in cancer
+protocol therapy.
+One of the problems facing the
+ONCOCIN project, and all artificial
+intelligence research, is improving the
+process of entering data into the com
+puter. Ideally, ONCOCIN would
+work most efficiently if physicians
+could enter knowledge directly into
+the computer. Today, however,
+programmers are required to
+translate the physician's knowledge
+into a language the computer under
+stands.
+To improve knowledge acquisition,
+
+
+(Curtesy News and Publications
+the ONCOCIN group is working on a
+program called OPAL. It allows
+physicians, by completing forms dis
+played on the computer screen, to en
+ter new protocol knowledge directly
+into the computer. These forms put
+knowledge in a format that is under
+standable by both the physician and
+the computer.
+The ONCOCIN group is also
+working to improve ONCOCIN's
+ability to deal with uncertainty.
+Today, ONCOCIN can only deal with
+patient situations that are described
+in a protocol document. These docu
+ments, however, do not address every
+circumstance that may arise in a pa
+tient's therapy program. Otherwise,
+the document would be many pages
+more than 50.
+When ONCOCIN runs into an un
+usual situation, one that is not ad
+dressed in the protocol document, it
+cannot make a recommendation. Its
+response is "I don't know. I don't
+have enough information."
+These special cases are referred to
+an oncologist who is experienced in
+designing protocol therapy, usually
+the one who wrote the particular
+document.
+"ONCOCIN has problems with
+patients that have been off protocol
+treatment for three to four weeks,"
+says Fagan. "At that point, the
+clinician tries to straighten out the sit
+uation.
+"If a patient is off therapy, he
+knows that the tumor has probably
+grown. He may order an X-ray, to
+check. If a patient's white blood cell
+count is down, he knows the patient
+is probably reacting poorly to the
+chemotherapy. He might omit one of
+the drugs from the treatment
+regimen."
+ONCOCIN currently cannot rea
+son at this level. Its knowledge of
+medicine is still superficial. ON
+COCIN does not know the
+physiologic effect of chemother
+apeutic drugs on white blood cells.
+It does not know that a decrease in
+white blood cells will compromise a
+patient's ability to fight off infection.
+All it knows is to recommend an ac
+tion when the white blood cell count
+drops below a certain level.
+"Much of medicine," says
+Shortliffe, "is based on the ability to
+deal with exceptions, to be creative in
+understanding how underlying mech
+anisms of biochemistry and patho
+physiology account for the nuances of
+
+patient problems."
+The ONCOCIN group is working
+to increase the system's reasoning
+ability in a program called ONYX.
+ONYX is still in its early stages of de
+velopment, but its goals are clear.
+The ONCOCIN group is trying to
+model the way physicians appear to
+reason in clinical settings. They are
+providing the computer with knowl
+edge on the human body, cancer and
+the drugs used in treating cancer.
+They hope the computer will make
+sense of this knowledge and use it to
+make reasonable recommendations
+on cancer patients Who are off
+protocol therapy.
+"ONYX's strategy is based on the
+way oncologists appear to think,"
+says Fagan. "In addition to making
+suggestions about drug therapy, we
+would also like ONYX to predict
+what is going to happen to a patient in
+the future, based on what ONYX
+knows."
+Both ONCOCIN and ONYX use
+heuristics — problem-solving meth
+ods commonly called "rules of
+thumb." There is no guarantee that
+an heuristic is correct, but it is a good
+guess.
+Chess players, for example, do not
+know the best sequence of moves, be
+cause they don't consider every possi
+ble sequence. There are simply too
+many permutations to analyze.
+Instead, they use rules of thumb for
+guidance. For example, they may try
+to control the center of the board, or
+they may check their opponent's
+king, whenever possible.
+A player using these rules does not
+always make the best possible move.
+But heuristics help players to make
+decisions and cope with uncertainty.
+In some ways, playing chess is like
+making medical decisions. Some deci
+sions are clouded with uncertainty,
+and physicians must rely on an appro
+priate method of reasoning. They of
+ten turn to heuristics.
+Medical heuristics are represented
+in ONCOCIN and ONYX as if-then
+statements. The computer can under
+stand them in this form.
+"ONCOCIN uses heuristics," says
+Fagan, "but because ONCOCIN fol
+lows a specific protocol, most of its
+knowledge consists of specific facts.
+There is little uncertainty.
+"In ONYX, we are using more
+rules of thumb, because there are no
+protocol guidelines to follow. There
+are no guaranteed strategies. There
+are no right answers necessarily, since
+ONYX deals with patients when
+protocol rules no longer apply.
+"Using heuristics is a kind of ball
+park approach. Computer programs
+
+weigh these guesses to come up with
+an answer. That's what ONYX does.
+ONCOCIN, on the other hand,
+doesn't try to guess. It integrates
+mostly factual information to come
+up with answers," says Fagan.
+What is the ultimate goal of this re
+search? Someday, Fagan would like
+to see the invention of an "intelligent
+textbook."
+Today, physicians must skim
+through the pages of an entire medi
+cal textbook, even when they want
+only specific information on a pa
+tient's condition. Someday, a
+physican may simply describe a pa
+tient's situation to a computer, and
+
+the computer will supply specific and
+thorough information regarding the
+patient's case.
+"To achieve this goal, researchers
+in artificial intelligence are trying to
+develop better ways of entering and
+representing knowledge in the com
+puter," says Fagan. "For example,
+how does one represent common
+sense knowledge in the computer?
+Programs like ONCOCIN need com
+mon sense. Ideally, the computer
+should know if a calculated answer is
+reasonable.
+"Artificial intelligence is getting
+better and better at knowledge entry
+
+and representation, but there is still a
+lot of work ahead of us. Computer
+programs are nowhere near the point
+where they can read a book, scan the
+text and pick out relevant informa
+tion. Also, researchers continue to
+work on ways of representing knowl
+edge in the computer so that it is
+more accessible and usable to
+people," Fagan says.
+The development of an intelligent
+textbook is years away. Nevertheless,
+projects like ONCOCIN help people
+make decisions today.
+This research also helps experts,
+like physicians, in a way that few an
+ticipated. In order for programs like
+
+ONCOCIN to be developed, experts
+must supply their knowledge for inte
+gration into the program; this forces
+people to articulate their understand
+ing of the field.
+"Computers are not flexible
+enough to work like people's minds
+seem to work," says Fagan.
+"Consequently, it forces people to or
+ganize their thinking.
+"Experts that go through this
+debriefing process often tell us that
+they are never the same, because they
+were forced to write down how they
+reason, step by step. In the process,
+some of them made important dis
+coveries in their fields of study."
+
+Researchers at the Stanford Medi
+cal Center have developed an artifi
+cial intelligence computer program,
+called ONCOCIN, to assist
+physicians in treating cancer patients.
+Although ONCOCIN is still exper
+imental, physicians can consult it re
+garding therapies for Hodgkin's
+disease, non-Hodgkin's lymphomas,
+breast cancer and one type of lung
+cancer.
+ONCOCIN operates like a human
+consultant. First, it requests patient
+information from the physician. The
+physician answers by typing on a spe
+cialized key pad.
+When it has enough information,
+ONCOCIN uses artificial intelligence
+techniques to understand the pa
+tient's situation. By weighing facts
+and applying its information about
+medicine, ONCOCIN makes recom
+mendations on the patient's chemo
+therapy plan.
+Physicians use many drugs — most
+of which are toxic — to kill the can
+cerous cells that have multiplied in a
+patient's body. Patients usually
+receive these drugs in cycles over the
+course of months. Radiation therapy
+may also be part of the treatment
+jegimen.
+"The ideal therapy for most can
+cers is not yet known," says Edward
+Shortliffe, associate professor of
+medicine and computer science and a
+principle investigator of the ON
+COCIN project. "To improve
+therapy strategies, formal experi
+ments, call protocols, are conducted
+to compare therapeutic benefits and
+side effects of accepted treatments
+with»those of alternate therapies
+believed to be of equal or greater
+value."
+Cancer therapy planning is compli
+cated. Oncologists describe each
+protocol in a lengthy written docu
+ment that is usually from 50 to 60
+pages. These documents contain
+details on drug dosages, treatment
+schedules, therapy adjustments and
+laboratory tests needed to evaluate
+drug effectiveness and toxicity.
+Each documents includes many
+treatment guidelines. At the medical
+center, an oncologist may have to re
+member the finer points of more than
+50 different protocols.
+ONCOCIN is designed to help on
+cologists with these details. It
+monitors the course of a patient's
+treatment, specifies required labora-
+
+'The ideal therapy of most can
+cers is not yet known. To im
+prove therapy strategies, formal
+experiments, called protocols,
+are conducted to compare
+therapeutic benefits and side
+effects of accepted treatments
+with those of alternate therapies
+believed to be of equal or greater
+value. .. .We have looked at the
+quality of advice offered by the
+computer relative to the opinions
+of experts who care for lym
+phoma patients. That study
+shows excellent performance of
+the computer relative to the
+experts.'
+— Assoc. Prof. Edward Shortliffe
+
+tory tests and recommends therapy
+changes when appropriate.
+For example, certain drugs used in
+chemotherapy will kill white blood
+cells, which play an important role in
+combating infection. If a patient's
+white blood cell count drops con
+siderably, the patient's oncologist
+must modify the chemotherapy plan.
+The oncologist may decide to
+decrease the dosage of certain drugs,
+remove one or more drugs from the
+therapy or postpone therapy altoget
+her.
+The protocol document spells out
+guidelines for these revisions. ON
+COCIN knows these guidelines and
+can make recommendations to the
+oncologist. At that point, the on
+cologist can follow the recommenda
+
+tion or override ONCOCIN's advice.
+Like a human consultant, ON
+COCIN explains its recommen
+dations. "Explanation is a key ele
+ment of this project," says Christop
+her Lane, the project's systems
+programmer., "ONCOCIN is de
+signed to build up explanations as it
+goes along. So when a doctor wants to
+know how it came up with a certain
+conclusion, the computer can explain
+the details."
+Shortliffe and Charlotte Jacobs, as
+sistant professor of medicine and an
+other principle investigator of ON
+COCIN, started the project by gath
+ering information from treatment
+protocols used in Hodgkin's disease
+and non-Hodgkin's lymphomas. This
+information was translated into "if
+
+then" rules, employing a logic that
+computers readily understand.
+ONCOCIN's knowledge and
+reasoning capacity is represented in
+the program by a series of these if
+then rules. The "if' part of the rule
+considers the patient's situation; the
+"then" part dictates a specific course
+of action.
+An example of an if-then rule is the
+following: If a patient's white blood
+cell count drops below a given value,
+then reduce the dosage of drug A by
+30 percent.
+"There can be several hundred of
+these if-then rules in one protocol
+document," says David Combs, an
+applications programmer on the proj
+ect. "When ONCOCIN has enough
+information, it tries to fiqure out
+
+which rules apply, then it carries out
+those rules in the form of a therapy
+recommendation."
+When only a few rules apply, treat
+ing a patient is straightforward.
+Treatment becomes complicated,
+however, when many of these if-then
+rules apply to a particular situation.
+"ONCOCIN may appear to be
+very literal," says Larry Fagan, the
+project director. "However, it is im
+portant to remember that we don't
+tell the computer what to recommend
+for every conceivable situation.
+"Instead, we supply it with infor
+mation and instructions on how to put
+bits of information together. The
+computer then integrates incoming
+information on its own," Fagan con
+tinues.
+
+"ONCOCIN is literal in the sense
+that we supply the facts, hut we never
+quite know how they will fit together.
+When these programs get large, the
+information sometimes fits together
+in ways we never expected," Fagan
+says.
+How is ONCOCIN performing?
+Physicians in the oncology clinic have
+supported ONCOCIN since they
+began using it in May 1981.
+Also, formal studies have been per
+formed to compare ONCOCIN's
+decisions with those of real on
+cologists. "We have looked at the
+quality of advice offered by the com
+puter relative to the opinions of ex
+perts who care for lymphoma
+patients," says She: tliffe. "That study
+shows excellent performance of the
+computer relative to the experts."
+ONCOCIN is doing well, but mem
+bers on the project continue to in
+crease its sophistication.
+The first version of ONCOCIN run
+on a large timesharing computer sys
+tem. Timesharing means that many
+people use the computer system at
+the same time. As a result, computer
+response was slow, and oncologists
+using ONCOCIN sometimes had to
+wait for answers. In a busy clinic, this
+presented a problem.
+The ONCOCIN group is now
+transferring programs from the old
+system to newer and smaller com
+puters that offer quick responses and
+high resolution graphics. Because the
+new system is not based on timeshar
+ing, it will operate through indepen
+dent work stations that are more ac
+cessible and flexible.
+Also, the new system can be moved
+to other locations, unlike the old ver
+sion. Ultimately, the ONCOCIN
+group wants to implement the system
+outside of Stanford, allowing more
+clinics to participate in cancer
+protocol therapy.
+One of the problems facing the
+ONCOCIN project, and all artificial
+intelligence research, is improving the
+process of entering data into the com
+puter. Ideally, ONCOCIN would
+work most efficiently if physicians
+could enter knowledge directly into
+the computer. Today, however,
+programmers are required to
+translate the physician's knowledge
+into a language the computer under
+stands.
+To improve knowledge acquisition,
+
+
+(Curtesy News and Publications
+the ONCOCIN group is working on a
+program called OPAL. It allows
+physicians, by completing forms dis
+played on the computer screen, to en
+ter new protocol knowledge directly
+into the computer. These forms put
+knowledge in a format that is under
+standable by both the physician and
+the computer.
+The ONCOCIN group is also
+working to improve ONCOCIN's
+ability to deal with uncertainty.
+Today, ONCOCIN can only deal with
+patient situations that are described
+in a protocol document. These docu
+ments, however, do not address every
+circumstance that may arise in a pa
+tient's therapy program. Otherwise,
+the document would be many pages
+more than 50.
+When ONCOCIN runs into an un
+usual situation, one that is not ad
+dressed in the protocol document, it
+cannot make a recommendation. Its
+response is "I don't know. I don't
+have enough information."
+These special cases are referred to
+an oncologist who is experienced in
+designing protocol therapy, usually
+the one who wrote the particular
+document.
+"ONCOCIN has problems with
+patients that have been off protocol
+treatment for three to four weeks,"
+says Fagan. "At that point, the
+clinician tries to straighten out the sit
+uation.
+"If a patient is off therapy, he
+knows that the tumor has probably
+grown. He may order an X-ray, to
+check. If a patient's white blood cell
+count is down, he knows the patient
+is probably reacting poorly to the
+chemotherapy. He might omit one of
+the drugs from the treatment
+regimen."
+ONCOCIN currently cannot rea
+son at this level. Its knowledge of
+medicine is still superficial. ON
+COCIN does not know the
+physiologic effect of chemother
+apeutic drugs on white blood cells.
+It does not know that a decrease in
+white blood cells will compromise a
+patient's ability to fight off infection.
+All it knows is to recommend an ac
+tion when the white blood cell count
+drops below a certain level.
+"Much of medicine," says
+Shortliffe, "is based on the ability to
+deal with exceptions, to be creative in
+understanding how underlying mech
+anisms of biochemistry and patho
+physiology account for the nuances of
+
+patient problems."
+The ONCOCIN group is working
+to increase the system's reasoning
+ability in a program called ONYX.
+ONYX is still in its early stages of de
+velopment, but its goals are clear.
+The ONCOCIN group is trying to
+model the way physicians appear to
+reason in clinical settings. They are
+providing the computer with knowl
+edge on the human body, cancer and
+the drugs used in treating cancer.
+They hope the computer will make
+sense of this knowledge and use it to
+make reasonable recommendations
+on cancer patients Who are off
+protocol therapy.
+"ONYX's strategy is based on the
+way oncologists appear to think,"
+says Fagan. "In addition to making
+suggestions about drug therapy, we
+would also like ONYX to predict
+what is going to happen to a patient in
+the future, based on what ONYX
+knows."
+Both ONCOCIN and ONYX use
+heuristics — problem-solving meth
+ods commonly called "rules of
+thumb." There is no guarantee that
+an heuristic is correct, but it is a good
+guess.
+Chess players, for example, do not
+know the best sequence of moves, be
+cause they don't consider every possi
+ble sequence. There are simply too
+many permutations to analyze.
+Instead, they use rules of thumb for
+guidance. For example, they may try
+to control the center of the board, or
+they may check their opponent's
+king, whenever possible.
+A player using these rules does not
+always make the best possible move.
+But heuristics help players to make
+decisions and cope with uncertainty.
+In some ways, playing chess is like
+making medical decisions. Some deci
+sions are clouded with uncertainty,
+and physicians must rely on an appro
+priate method of reasoning. They of
+ten turn to heuristics.
+Medical heuristics are represented
+in ONCOCIN and ONYX as if-then
+statements. The computer can under
+stand them in this form.
+"ONCOCIN uses heuristics," says
+Fagan, "but because ONCOCIN fol
+lows a specific protocol, most of its
+knowledge consists of specific facts.
+There is little uncertainty.
+"In ONYX, we are using more
+rules of thumb, because there are no
+protocol guidelines to follow. There
+are no guaranteed strategies. There
+are no right answers necessarily, since
+ONYX deals with patients when
+protocol rules no longer apply.
+"Using heuristics is a kind of ball
+park approach. Computer programs
+
+weigh these guesses to come up with
+an answer. That's what ONYX does.
+ONCOCIN, on the other hand,
+doesn't try to guess. It integrates
+mostly factual information to come
+up with answers," says Fagan.
+What is the ultimate goal of this re
+search? Someday, Fagan would like
+to see the invention of an "intelligent
+textbook."
+Today, physicians must skim
+through the pages of an entire medi
+cal textbook, even when they want
+only specific information on a pa
+tient's condition. Someday, a
+physican may simply describe a pa
+tient's situation to a computer, and
+
+the computer will supply specific and
+thorough information regarding the
+patient's case.
+"To achieve this goal, researchers
+in artificial intelligence are trying to
+develop better ways of entering and
+representing knowledge in the com
+puter," says Fagan. "For example,
+how does one represent common
+sense knowledge in the computer?
+Programs like ONCOCIN need com
+mon sense. Ideally, the computer
+should know if a calculated answer is
+reasonable.
+"Artificial intelligence is getting
+better and better at knowledge entry
+
+and representation, but there is still a
+lot of work ahead of us. Computer
+programs are nowhere near the point
+where they can read a book, scan the
+text and pick out relevant informa
+tion. Also, researchers continue to
+work on ways of representing knowl
+edge in the computer so that it is
+more accessible and usable to
+people," Fagan says.
+The development of an intelligent
+textbook is years away. Nevertheless,
+projects like ONCOCIN help people
+make decisions today.
+This research also helps experts,
+like physicians, in a way that few an
+ticipated. In order for programs like
+
+ONCOCIN to be developed, experts
+must supply their knowledge for inte
+gration into the program; this forces
+people to articulate their understand
+ing of the field.
+"Computers are not flexible
+enough to work like people's minds
+seem to work," says Fagan.
+"Consequently, it forces people to or
+ganize their thinking.
+"Experts that go through this
+debriefing process often tell us that
+they are never the same, because they
+were forced to write down how they
+reason, step by step. In the process,
+some of them made important dis
+coveries in their fields of study."
+
+Researchers at the Stanford Medi
+cal Center have developed an artifi
+cial intelligence computer program,
+called ONCOCIN, to assist
+physicians in treating cancer patients.
+Although ONCOCIN is still exper
+imental, physicians can consult it re
+garding therapies for Hodgkin's
+disease, non-Hodgkin's lymphomas,
+breast cancer and one type of lung
+cancer.
+ONCOCIN operates like a human
+consultant. First, it requests patient
+information from the physician. The
+physician answers by typing on a spe
+cialized key pad.
+When it has enough information,
+ONCOCIN uses artificial intelligence
+techniques to understand the pa
+tient's situation. By weighing facts
+and applying its information about
+medicine, ONCOCIN makes recom
+mendations on the patient's chemo
+therapy plan.
+Physicians use many drugs — most
+of which are toxic — to kill the can
+cerous cells that have multiplied in a
+patient's body. Patients usually
+receive these drugs in cycles over the
+course of months. Radiation therapy
+may also be part of the treatment
+jegimen.
+"The ideal therapy for most can
+cers is not yet known," says Edward
+Shortliffe, associate professor of
+medicine and computer science and a
+principle investigator of the ON
+COCIN project. "To improve
+therapy strategies, formal experi
+ments, call protocols, are conducted
+to compare therapeutic benefits and
+side effects of accepted treatments
+with»those of alternate therapies
+believed to be of equal or greater
+value."
+Cancer therapy planning is compli
+cated. Oncologists describe each
+protocol in a lengthy written docu
+ment that is usually from 50 to 60
+pages. These documents contain
+details on drug dosages, treatment
+schedules, therapy adjustments and
+laboratory tests needed to evaluate
+drug effectiveness and toxicity.
+Each documents includes many
+treatment guidelines. At the medical
+center, an oncologist may have to re
+member the finer points of more than
+50 different protocols.
+ONCOCIN is designed to help on
+cologists with these details. It
+monitors the course of a patient's
+treatment, specifies required labora-
+
+'The ideal therapy of most can
+cers is not yet known. To im
+prove therapy strategies, formal
+experiments, called protocols,
+are conducted to compare
+therapeutic benefits and side
+effects of accepted treatments
+with those of alternate therapies
+believed to be of equal or greater
+value. .. .We have looked at the
+quality of advice offered by the
+computer relative to the opinions
+of experts who care for lym
+phoma patients. That study
+shows excellent performance of
+the computer relative to the
+experts.'
+— Assoc. Prof. Edward Shortliffe
+
+tory tests and recommends therapy
+changes when appropriate.
+For example, certain drugs used in
+chemotherapy will kill white blood
+cells, which play an important role in
+combating infection. If a patient's
+white blood cell count drops con
+siderably, the patient's oncologist
+must modify the chemotherapy plan.
+The oncologist may decide to
+decrease the dosage of certain drugs,
+remove one or more drugs from the
+therapy or postpone therapy altoget
+her.
+The protocol document spells out
+guidelines for these revisions. ON
+COCIN knows these guidelines and
+can make recommendations to the
+oncologist. At that point, the on
+cologist can follow the recommenda
+
+tion or override ONCOCIN's advice.
+Like a human consultant, ON
+COCIN explains its recommen
+dations. "Explanation is a key ele
+ment of this project," says Christop
+her Lane, the project's systems
+programmer., "ONCOCIN is de
+signed to build up explanations as it
+goes along. So when a doctor wants to
+know how it came up with a certain
+conclusion, the computer can explain
+the details."
+Shortliffe and Charlotte Jacobs, as
+sistant professor of medicine and an
+other principle investigator of ON
+COCIN, started the project by gath
+ering information from treatment
+protocols used in Hodgkin's disease
+and non-Hodgkin's lymphomas. This
+information was translated into "if
+
+then" rules, employing a logic that
+computers readily understand.
+ONCOCIN's knowledge and
+reasoning capacity is represented in
+the program by a series of these if
+then rules. The "if' part of the rule
+considers the patient's situation; the
+"then" part dictates a specific course
+of action.
+An example of an if-then rule is the
+following: If a patient's white blood
+cell count drops below a given value,
+then reduce the dosage of drug A by
+30 percent.
+"There can be several hundred of
+these if-then rules in one protocol
+document," says David Combs, an
+applications programmer on the proj
+ect. "When ONCOCIN has enough
+information, it tries to fiqure out
+
+which rules apply, then it carries out
+those rules in the form of a therapy
+recommendation."
+When only a few rules apply, treat
+ing a patient is straightforward.
+Treatment becomes complicated,
+however, when many of these if-then
+rules apply to a particular situation.
+"ONCOCIN may appear to be
+very literal," says Larry Fagan, the
+project director. "However, it is im
+portant to remember that we don't
+tell the computer what to recommend
+for every conceivable situation.
+"Instead, we supply it with infor
+mation and instructions on how to put
+bits of information together. The
+computer then integrates incoming
+information on its own," Fagan con
+tinues.
+
+"ONCOCIN is literal in the sense
+that we supply the facts, hut we never
+quite know how they will fit together.
+When these programs get large, the
+information sometimes fits together
+in ways we never expected," Fagan
+says.
+How is ONCOCIN performing?
+Physicians in the oncology clinic have
+supported ONCOCIN since they
+began using it in May 1981.
+Also, formal studies have been per
+formed to compare ONCOCIN's
+decisions with those of real on
+cologists. "We have looked at the
+quality of advice offered by the com
+puter relative to the opinions of ex
+perts who care for lymphoma
+patients," says She: tliffe. "That study
+shows excellent performance of the
+computer relative to the experts."
+ONCOCIN is doing well, but mem
+bers on the project continue to in
+crease its sophistication.
+The first version of ONCOCIN run
+on a large timesharing computer sys
+tem. Timesharing means that many
+people use the computer system at
+the same time. As a result, computer
+response was slow, and oncologists
+using ONCOCIN sometimes had to
+wait for answers. In a busy clinic, this
+presented a problem.
+The ONCOCIN group is now
+transferring programs from the old
+system to newer and smaller com
+puters that offer quick responses and
+high resolution graphics. Because the
+new system is not based on timeshar
+ing, it will operate through indepen
+dent work stations that are more ac
+cessible and flexible.
+Also, the new system can be moved
+to other locations, unlike the old ver
+sion. Ultimately, the ONCOCIN
+group wants to implement the system
+outside of Stanford, allowing more
+clinics to participate in cancer
+protocol therapy.
+One of the problems facing the
+ONCOCIN project, and all artificial
+intelligence research, is improving the
+process of entering data into the com
+puter. Ideally, ONCOCIN would
+work most efficiently if physicians
+could enter knowledge directly into
+the computer. Today, however,
+programmers are required to
+translate the physician's knowledge
+into a language the computer under
+stands.
+To improve knowledge acquisition,
+
+
+(Curtesy News and Publications
+the ONCOCIN group is working on a
+program called OPAL. It allows
+physicians, by completing forms dis
+played on the computer screen, to en
+ter new protocol knowledge directly
+into the computer. These forms put
+knowledge in a format that is under
+standable by both the physician and
+the computer.
+The ONCOCIN group is also
+working to improve ONCOCIN's
+ability to deal with uncertainty.
+Today, ONCOCIN can only deal with
+patient situations that are described
+in a protocol document. These docu
+ments, however, do not address every
+circumstance that may arise in a pa
+tient's therapy program. Otherwise,
+the document would be many pages
+more than 50.
+When ONCOCIN runs into an un
+usual situation, one that is not ad
+dressed in the protocol document, it
+cannot make a recommendation. Its
+response is "I don't know. I don't
+have enough information."
+These special cases are referred to
+an oncologist who is experienced in
+designing protocol therapy, usually
+the one who wrote the particular
+document.
+"ONCOCIN has problems with
+patients that have been off protocol
+treatment for three to four weeks,"
+says Fagan. "At that point, the
+clinician tries to straighten out the sit
+uation.
+"If a patient is off therapy, he
+knows that the tumor has probably
+grown. He may order an X-ray, to
+check. If a patient's white blood cell
+count is down, he knows the patient
+is probably reacting poorly to the
+chemotherapy. He might omit one of
+the drugs from the treatment
+regimen."
+ONCOCIN currently cannot rea
+son at this level. Its knowledge of
+medicine is still superficial. ON
+COCIN does not know the
+physiologic effect of chemother
+apeutic drugs on white blood cells.
+It does not know that a decrease in
+white blood cells will compromise a
+patient's ability to fight off infection.
+All it knows is to recommend an ac
+tion when the white blood cell count
+drops below a certain level.
+"Much of medicine," says
+Shortliffe, "is based on the ability to
+deal with exceptions, to be creative in
+understanding how underlying mech
+anisms of biochemistry and patho
+physiology account for the nuances of
+
+patient problems."
+The ONCOCIN group is working
+to increase the system's reasoning
+ability in a program called ONYX.
+ONYX is still in its early stages of de
+velopment, but its goals are clear.
+The ONCOCIN group is trying to
+model the way physicians appear to
+reason in clinical settings. They are
+providing the computer with knowl
+edge on the human body, cancer and
+the drugs used in treating cancer.
+They hope the computer will make
+sense of this knowledge and use it to
+make reasonable recommendations
+on cancer patients Who are off
+protocol therapy.
+"ONYX's strategy is based on the
+way oncologists appear to think,"
+says Fagan. "In addition to making
+suggestions about drug therapy, we
+would also like ONYX to predict
+what is going to happen to a patient in
+the future, based on what ONYX
+knows."
+Both ONCOCIN and ONYX use
+heuristics — problem-solving meth
+ods commonly called "rules of
+thumb." There is no guarantee that
+an heuristic is correct, but it is a good
+guess.
+Chess players, for example, do not
+know the best sequence of moves, be
+cause they don't consider every possi
+ble sequence. There are simply too
+many permutations to analyze.
+Instead, they use rules of thumb for
+guidance. For example, they may try
+to control the center of the board, or
+they may check their opponent's
+king, whenever possible.
+A player using these rules does not
+always make the best possible move.
+But heuristics help players to make
+decisions and cope with uncertainty.
+In some ways, playing chess is like
+making medical decisions. Some deci
+sions are clouded with uncertainty,
+and physicians must rely on an appro
+priate method of reasoning. They of
+ten turn to heuristics.
+Medical heuristics are represented
+in ONCOCIN and ONYX as if-then
+statements. The computer can under
+stand them in this form.
+"ONCOCIN uses heuristics," says
+Fagan, "but because ONCOCIN fol
+lows a specific protocol, most of its
+knowledge consists of specific facts.
+There is little uncertainty.
+"In ONYX, we are using more
+rules of thumb, because there are no
+protocol guidelines to follow. There
+are no guaranteed strategies. There
+are no right answers necessarily, since
+ONYX deals with patients when
+protocol rules no longer apply.
+"Using heuristics is a kind of ball
+park approach. Computer programs
+
+weigh these guesses to come up with
+an answer. That's what ONYX does.
+ONCOCIN, on the other hand,
+doesn't try to guess. It integrates
+mostly factual information to come
+up with answers," says Fagan.
+What is the ultimate goal of this re
+search? Someday, Fagan would like
+to see the invention of an "intelligent
+textbook."
+Today, physicians must skim
+through the pages of an entire medi
+cal textbook, even when they want
+only specific information on a pa
+tient's condition. Someday, a
+physican may simply describe a pa
+tient's situation to a computer, and
+
+the computer will supply specific and
+thorough information regarding the
+patient's case.
+"To achieve this goal, researchers
+in artificial intelligence are trying to
+develop better ways of entering and
+representing knowledge in the com
+puter," says Fagan. "For example,
+how does one represent common
+sense knowledge in the computer?
+Programs like ONCOCIN need com
+mon sense. Ideally, the computer
+should know if a calculated answer is
+reasonable.
+"Artificial intelligence is getting
+better and better at knowledge entry
+
+and representation, but there is still a
+lot of work ahead of us. Computer
+programs are nowhere near the point
+where they can read a book, scan the
+text and pick out relevant informa
+tion. Also, researchers continue to
+work on ways of representing knowl
+edge in the computer so that it is
+more accessible and usable to
+people," Fagan says.
+The development of an intelligent
+textbook is years away. Nevertheless,
+projects like ONCOCIN help people
+make decisions today.
+This research also helps experts,
+like physicians, in a way that few an
+ticipated. In order for programs like
+
+ONCOCIN to be developed, experts
+must supply their knowledge for inte
+gration into the program; this forces
+people to articulate their understand
+ing of the field.
+"Computers are not flexible
+enough to work like people's minds
+seem to work," says Fagan.
+"Consequently, it forces people to or
+ganize their thinking.
+"Experts that go through this
+debriefing process often tell us that
+they are never the same, because they
+were forced to write down how they
+reason, step by step. In the process,
+some of them made important dis
+coveries in their fields of study."
+
+Researchers at the Stanford Medi
+cal Center have developed an artifi
+cial intelligence computer program,
+called ONCOCIN, to assist
+physicians in treating cancer patients.
+Although ONCOCIN is still exper
+imental, physicians can consult it re
+garding therapies for Hodgkin's
+disease, non-Hodgkin's lymphomas,
+breast cancer and one type of lung
+cancer.
+ONCOCIN operates like a human
+consultant. First, it requests patient
+information from the physician. The
+physician answers by typing on a spe
+cialized key pad.
+When it has enough information,
+ONCOCIN uses artificial intelligence
+techniques to understand the pa
+tient's situation. By weighing facts
+and applying its information about
+medicine, ONCOCIN makes recom
+mendations on the patient's chemo
+therapy plan.
+Physicians use many drugs — most
+of which are toxic — to kill the can
+cerous cells that have multiplied in a
+patient's body. Patients usually
+receive these drugs in cycles over the
+course of months. Radiation therapy
+may also be part of the treatment
+jegimen.
+"The ideal therapy for most can
+cers is not yet known," says Edward
+Shortliffe, associate professor of
+medicine and computer science and a
+principle investigator of the ON
+COCIN project. "To improve
+therapy strategies, formal experi
+ments, call protocols, are conducted
+to compare therapeutic benefits and
+side effects of accepted treatments
+with»those of alternate therapies
+believed to be of equal or greater
+value."
+Cancer therapy planning is compli
+cated. Oncologists describe each
+protocol in a lengthy written docu
+ment that is usually from 50 to 60
+pages. These documents contain
+details on drug dosages, treatment
+schedules, therapy adjustments and
+laboratory tests needed to evaluate
+drug effectiveness and toxicity.
+Each documents includes many
+treatment guidelines. At the medical
+center, an oncologist may have to re
+member the finer points of more than
+50 different protocols.
+ONCOCIN is designed to help on
+cologists with these details. It
+monitors the course of a patient's
+treatment, specifies required labora-
+
+'The ideal therapy of most can
+cers is not yet known. To im
+prove therapy strategies, formal
+experiments, called protocols,
+are conducted to compare
+therapeutic benefits and side
+effects of accepted treatments
+with those of alternate therapies
+believed to be of equal or greater
+value. .. .We have looked at the
+quality of advice offered by the
+computer relative to the opinions
+of experts who care for lym
+phoma patients. That study
+shows excellent performance of
+the computer relative to the
+experts.'
+— Assoc. Prof. Edward Shortliffe
+
+tory tests and recommends therapy
+changes when appropriate.
+For example, certain drugs used in
+chemotherapy will kill white blood
+cells, which play an important role in
+combating infection. If a patient's
+white blood cell count drops con
+siderably, the patient's oncologist
+must modify the chemotherapy plan.
+The oncologist may decide to
+decrease the dosage of certain drugs,
+remove one or more drugs from the
+therapy or postpone therapy altoget
+her.
+The protocol document spells out
+guidelines for these revisions. ON
+COCIN knows these guidelines and
+can make recommendations to the
+oncologist. At that point, the on
+cologist can follow the recommenda
+
+tion or override ONCOCIN's advice.
+Like a human consultant, ON
+COCIN explains its recommen
+dations. "Explanation is a key ele
+ment of this project," says Christop
+her Lane, the project's systems
+programmer., "ONCOCIN is de
+signed to build up explanations as it
+goes along. So when a doctor wants to
+know how it came up with a certain
+conclusion, the computer can explain
+the details."
+Shortliffe and Charlotte Jacobs, as
+sistant professor of medicine and an
+other principle investigator of ON
+COCIN, started the project by gath
+ering information from treatment
+protocols used in Hodgkin's disease
+and non-Hodgkin's lymphomas. This
+information was translated into "if
+
+then" rules, employing a logic that
+computers readily understand.
+ONCOCIN's knowledge and
+reasoning capacity is represented in
+the program by a series of these if
+then rules. The "if' part of the rule
+considers the patient's situation; the
+"then" part dictates a specific course
+of action.
+An example of an if-then rule is the
+following: If a patient's white blood
+cell count drops below a given value,
+then reduce the dosage of drug A by
+30 percent.
+"There can be several hundred of
+these if-then rules in one protocol
+document," says David Combs, an
+applications programmer on the proj
+ect. "When ONCOCIN has enough
+information, it tries to fiqure out
+
+which rules apply, then it carries out
+those rules in the form of a therapy
+recommendation."
+When only a few rules apply, treat
+ing a patient is straightforward.
+Treatment becomes complicated,
+however, when many of these if-then
+rules apply to a particular situation.
+"ONCOCIN may appear to be
+very literal," says Larry Fagan, the
+project director. "However, it is im
+portant to remember that we don't
+tell the computer what to recommend
+for every conceivable situation.
+"Instead, we supply it with infor
+mation and instructions on how to put
+bits of information together. The
+computer then integrates incoming
+information on its own," Fagan con
+tinues.
+
+"ONCOCIN is literal in the sense
+that we supply the facts, hut we never
+quite know how they will fit together.
+When these programs get large, the
+information sometimes fits together
+in ways we never expected," Fagan
+says.
+How is ONCOCIN performing?
+Physicians in the oncology clinic have
+supported ONCOCIN since they
+began using it in May 1981.
+Also, formal studies have been per
+formed to compare ONCOCIN's
+decisions with those of real on
+cologists. "We have looked at the
+quality of advice offered by the com
+puter relative to the opinions of ex
+perts who care for lymphoma
+patients," says She: tliffe. "That study
+shows excellent performance of the
+computer relative to the experts."
+ONCOCIN is doing well, but mem
+bers on the project continue to in
+crease its sophistication.
+The first version of ONCOCIN run
+on a large timesharing computer sys
+tem. Timesharing means that many
+people use the computer system at
+the same time. As a result, computer
+response was slow, and oncologists
+using ONCOCIN sometimes had to
+wait for answers. In a busy clinic, this
+presented a problem.
+The ONCOCIN group is now
+transferring programs from the old
+system to newer and smaller com
+puters that offer quick responses and
+high resolution graphics. Because the
+new system is not based on timeshar
+ing, it will operate through indepen
+dent work stations that are more ac
+cessible and flexible.
+Also, the new system can be moved
+to other locations, unlike the old ver
+sion. Ultimately, the ONCOCIN
+group wants to implement the system
+outside of Stanford, allowing more
+clinics to participate in cancer
+protocol therapy.
+One of the problems facing the
+ONCOCIN project, and all artificial
+intelligence research, is improving the
+process of entering data into the com
+puter. Ideally, ONCOCIN would
+work most efficiently if physicians
+could enter knowledge directly into
+the computer. Today, however,
+programmers are required to
+translate the physician's knowledge
+into a language the computer under
+stands.
+To improve knowledge acquisition,
+
+
+(Curtesy News and Publications
+the ONCOCIN group is working on a
+program called OPAL. It allows
+physicians, by completing forms dis
+played on the computer screen, to en
+ter new protocol knowledge directly
+into the computer. These forms put
+knowledge in a format that is under
+standable by both the physician and
+the computer.
+The ONCOCIN group is also
+working to improve ONCOCIN's
+ability to deal with uncertainty.
+Today, ONCOCIN can only deal with
+patient situations that are described
+in a protocol document. These docu
+ments, however, do not address every
+circumstance that may arise in a pa
+tient's therapy program. Otherwise,
+the document would be many pages
+more than 50.
+When ONCOCIN runs into an un
+usual situation, one that is not ad
+dressed in the protocol document, it
+cannot make a recommendation. Its
+response is "I don't know. I don't
+have enough information."
+These special cases are referred to
+an oncologist who is experienced in
+designing protocol therapy, usually
+the one who wrote the particular
+document.
+"ONCOCIN has problems with
+patients that have been off protocol
+treatment for three to four weeks,"
+says Fagan. "At that point, the
+clinician tries to straighten out the sit
+uation.
+"If a patient is off therapy, he
+knows that the tumor has probably
+grown. He may order an X-ray, to
+check. If a patient's white blood cell
+count is down, he knows the patient
+is probably reacting poorly to the
+chemotherapy. He might omit one of
+the drugs from the treatment
+regimen."
+ONCOCIN currently cannot rea
+son at this level. Its knowledge of
+medicine is still superficial. ON
+COCIN does not know the
+physiologic effect of chemother
+apeutic drugs on white blood cells.
+It does not know that a decrease in
+white blood cells will compromise a
+patient's ability to fight off infection.
+All it knows is to recommend an ac
+tion when the white blood cell count
+drops below a certain level.
+"Much of medicine," says
+Shortliffe, "is based on the ability to
+deal with exceptions, to be creative in
+understanding how underlying mech
+anisms of biochemistry and patho
+physiology account for the nuances of
+
+patient problems."
+The ONCOCIN group is working
+to increase the system's reasoning
+ability in a program called ONYX.
+ONYX is still in its early stages of de
+velopment, but its goals are clear.
+The ONCOCIN group is trying to
+model the way physicians appear to
+reason in clinical settings. They are
+providing the computer with knowl
+edge on the human body, cancer and
+the drugs used in treating cancer.
+They hope the computer will make
+sense of this knowledge and use it to
+make reasonable recommendations
+on cancer patients Who are off
+protocol therapy.
+"ONYX's strategy is based on the
+way oncologists appear to think,"
+says Fagan. "In addition to making
+suggestions about drug therapy, we
+would also like ONYX to predict
+what is going to happen to a patient in
+the future, based on what ONYX
+knows."
+Both ONCOCIN and ONYX use
+heuristics — problem-solving meth
+ods commonly called "rules of
+thumb." There is no guarantee that
+an heuristic is correct, but it is a good
+guess.
+Chess players, for example, do not
+know the best sequence of moves, be
+cause they don't consider every possi
+ble sequence. There are simply too
+many permutations to analyze.
+Instead, they use rules of thumb for
+guidance. For example, they may try
+to control the center of the board, or
+they may check their opponent's
+king, whenever possible.
+A player using these rules does not
+always make the best possible move.
+But heuristics help players to make
+decisions and cope with uncertainty.
+In some ways, playing chess is like
+making medical decisions. Some deci
+sions are clouded with uncertainty,
+and physicians must rely on an appro
+priate method of reasoning. They of
+ten turn to heuristics.
+Medical heuristics are represented
+in ONCOCIN and ONYX as if-then
+statements. The computer can under
+stand them in this form.
+"ONCOCIN uses heuristics," says
+Fagan, "but because ONCOCIN fol
+lows a specific protocol, most of its
+knowledge consists of specific facts.
+There is little uncertainty.
+"In ONYX, we are using more
+rules of thumb, because there are no
+protocol guidelines to follow. There
+are no guaranteed strategies. There
+are no right answers necessarily, since
+ONYX deals with patients when
+protocol rules no longer apply.
+"Using heuristics is a kind of ball
+park approach. Computer programs
+
+weigh these guesses to come up with
+an answer. That's what ONYX does.
+ONCOCIN, on the other hand,
+doesn't try to guess. It integrates
+mostly factual information to come
+up with answers," says Fagan.
+What is the ultimate goal of this re
+search? Someday, Fagan would like
+to see the invention of an "intelligent
+textbook."
+Today, physicians must skim
+through the pages of an entire medi
+cal textbook, even when they want
+only specific information on a pa
+tient's condition. Someday, a
+physican may simply describe a pa
+tient's situation to a computer, and
+
+the computer will supply specific and
+thorough information regarding the
+patient's case.
+"To achieve this goal, researchers
+in artificial intelligence are trying to
+develop better ways of entering and
+representing knowledge in the com
+puter," says Fagan. "For example,
+how does one represent common
+sense knowledge in the computer?
+Programs like ONCOCIN need com
+mon sense. Ideally, the computer
+should know if a calculated answer is
+reasonable.
+"Artificial intelligence is getting
+better and better at knowledge entry
+
+and representation, but there is still a
+lot of work ahead of us. Computer
+programs are nowhere near the point
+where they can read a book, scan the
+text and pick out relevant informa
+tion. Also, researchers continue to
+work on ways of representing knowl
+edge in the computer so that it is
+more accessible and usable to
+people," Fagan says.
+The development of an intelligent
+textbook is years away. Nevertheless,
+projects like ONCOCIN help people
+make decisions today.
+This research also helps experts,
+like physicians, in a way that few an
+ticipated. In order for programs like
+
+ONCOCIN to be developed, experts
+must supply their knowledge for inte
+gration into the program; this forces
+people to articulate their understand
+ing of the field.
+"Computers are not flexible
+enough to work like people's minds
+seem to work," says Fagan.
+"Consequently, it forces people to or
+ganize their thinking.
+"Experts that go through this
+debriefing process often tell us that
+they are never the same, because they
+were forced to write down how they
+reason, step by step. In the process,
+some of them made important dis
+coveries in their fields of study."
+

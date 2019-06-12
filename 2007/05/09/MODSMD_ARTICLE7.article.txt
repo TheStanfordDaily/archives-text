@@ -1,0 +1,1221 @@
+# PAGE TWO PRESENTS:
+## Draw-ing the short straw The 						Daily discusses fairness with Philosophy Prof. Marc Pauly 
+### KELLEY FONG PAGE TWO EDITOR 
+At 5 p.m. today, students will crowd around
+residence offices and stand on their toes to get a
+peek at their assigned Draw numbers. Those
+who see low numbers will celebrate next year's
+housing prospects; some who have repeatedly
+received high numbers will resign themselves to
+an unfavorable residence. Others will raise the
+issue of fairness.
+Once students have submitted their housing
+preferences, what is the fairest way to decide who
+should live where? And how does the current
+Draw mechanism meet or fail to meet various
+criteria for fairness ?
+Philosophy Prof. Marc Pauly sat down with
+The Daily in an attempt to answer these ques
+tions. He called for a University-wide discussion
+about what students, alumni and administrators
+value regarding their residential experiences.
+The Stanford Daily: Given what the current
+Draw situation considers — preferences of res
+idences. Draw group size, priorities, and gender
+— what makes a fair or optimal assignment?
+Mart- Pauly: 1 actually don't know what a fair or opti
+mal assignment is. That's the question that we as a Uni
+versity should be discussing 'ITie Draw is something
+that's already decades old. and I think from the very be
+ginning when it was implemented it was never really put
+to the University community, you know: what do we
+think actually is a fair assignment? What are the things
+that we care about? I think that's the kind of value-ori
+ented discussion that we still need to have, and then
+based on that we should just go with what we think are
+criteria of fairness.
+It's clear that there are a couple of things that immedi
+ately come to mind that one would consider desirable.
+One is that you would want an assignment sueh that there
+are no two people who would like to exchange residences.
+Say you're assigned to Terra and I'm assigned to Kairos,
+and 1 actually prefer your residence and you prefer mine.
+'ITien we would really like to switch assignments, and ide
+ally that shouldn't be possible.
+Another thing that 1 think students worry a lot about
+is strategizing — so you want a mechanism where it's not
+advantageous to just lie about what your preferences
+are. So a mechanism that induces honesty from the stu
+dents is certainly something that's desirable. And the
+current mechanism does that to some extent, but there
+are other issues. Like, since you can only list eight pref
+erences, what preferences are you going to list? Well,
+that will depend on what Draw number you get, what
+houses drew in the previous years — so there are other
+elements of strategizing that haven't been discussed in
+the formal literature yet.
+So the strategizing issue, this kind of optimality in
+which everyone is happiest with their current assignment,
+those are some of the things that, in a discussion about
+
+"The problem with the lottery system is that it is, of course, fair in
+the long run, but since you're only here for three years,
+there isn't much of a long run."
+MARC PAULY,philosophy professor
+
+what one would like, would certainly come up, and then
+it's a question of, can we get everything that we want si
+multaneously or not?
+If you get rid of Draw groups and some other extra
+hells and whistles, then the current system is based on
+the Gale-Shapley algorithm. That algorithm has been
+studied quite a lot in the literature because it's also been
+used for assigning residents to hospitals — an intern
+matching program. There's a national program where if
+I want to be a doctor in residence at a hospital. I can list
+my preferences, and the hospitals also list their prefer
+ences for doctors. 'ITien the question is, how do you
+match those two groups who both have preferences?
+There's a national program that does that, and the way
+that is done is also with this Gale-Shapley algorithm. So
+what we do here,at the very basis, is something very sim
+ilar.
+TSI): Do you think it's possible to have a system that
+would give us all of the things that we want?
+MP: No — from the formal literature in social choice
+we know that already very basic,simple requirements end
+up being in conflict. So my expectation is that this will hap
+pen here as well.
+Hut 1 would still hope that we would have a discussion
+as to how important we see each of these criteria to be. Be
+cause some of the choices that are maybe made for this
+
+hospital/doctor residence matching program — maybe
+they're appropriate for that situation hut not for us, and
+we should maybe make different choices.
+TSD: What are some benefits and drawbacks to the
+current system?
+!\IP: It's certainly positive on the strategizing side, at
+least in the sense that 1 don't think it's beneficial for stu
+dents to lie about what their preferences are. On this opti
+mally side, the current system is not what we call Pareto
+optimal. There are algorithms that we know of that are
+both strategy-proof and Pareto-optimal, but they have
+other drawbacks, and then the discussion is, well, is it okay
+to accept those other drawbacks?
+TSI): What would these other drawbacks be?
+MP: A drawback of another system would be a lack of
+stability — let me explain it with the doctors and the resi
+dences. What happened there was that a couple of
+decades back, the people found out — before the system
+was redone — that doctors and hospitals would enter into
+side agreements.They didn't trust the assignment mecha
+nism. and they would say. well, we don't know what the
+mechanism does, but if you're a hospital and I'm a doctor,
+well. I 'd like to work with you and you'd like to have me,
+so let's just forget the mechanism and have an arrange
+ment on the side. And the mechanism was designed to
+prevent this because they wanted a system in which there
+would never be a situation where if I'm assigned to a hos
+pital. I would actually prefer another hospital and that
+hospital would also prefer me because then I would rather
+make a side arrangement.
+Sd this kind of a stability property was deemed to be
+very important for this kind of mechanism, and the cur
+rent housing Draw has that kind of a property.That means
+that it will never happen that I'm assigned to a particular
+residence, but there's another residence for which I actu
+ally would have the right to get into and would prefer, but
+I'm not assigned there.
+Of course, the Stanford housing Draw's also not
+mandatory participation, but there is no danger for stu
+dents to enter side arrangements with dorms because the
+dorms are only allowed to accept students via this process,
+whereas the hospitals can do whatever they like. So that's
+a case where I think the situation with this hospital match
+ing program and the Stanford Draw — they're just differ
+ent situations, and we need to see whether the important
+considerations with the hospitals are also issues with the
+housing Draw.
+TSD: What specific things could the University be
+thinking about changing, depending 011 discussions?
+MP: One of the things that was already mentioned in
+the article that got me interested in this was the question
+of the importance of seniority in housing assignment. We
+might say maybe we just make it probabilistically more
+likely that seniors will get better Draw numbers than
+sophomores or something like that.
+A related idea would be to somehow compensate peo
+ple for bad Draw numbers. You might say. if I got a bad
+Draw number for my sophomore year, then I'm going to
+
+he more likely to get a good Draw number my junior year.
+TSl):That would make it much less transparent, I feel.
+MP: Yeah, right.so then you're going to have a trade
+off. The problem with the lottery system is that it is, of
+course, fair in the long run, but since you're only here
+three years, there isn't much of a long run. So somehow
+weighing the lottery in a different way would be an op
+tion.
+And another thing I think really needs to be consid
+ered is this issue of allowing students to list more than just
+eight choices, so that's another element of what I call
+strategizing. If you're limited to eight choices, you really
+need to think, what's my Draw number? And given your
+Draw number you will only select a particular window of
+your overall preferences.
+And a very important issue 1 think is. what do we give
+people to choose from? 1 still think that students really
+care not so much about the residences but whether they
+have a single or a double. But that's not what we let them
+choose among. At the moment we let them choose resi
+dences, so then what often happens is, they're thinking,
+what residences will make it likely for me to get a single?
+All that depends on what the in-house draw is, so there's
+a lot of thinking ahead that goes on on the side of the stu
+dents. which you might forego if you said, well, let's just
+have students choose rooms immediately. That's a system
+that Princeton, for example, has.
+But here again there's a value discussion — do we
+want that as a University? Maybe if you talk to alumni
+they look back they think, well you know at the time I re
+ally liked that single, but what really mattered afterwards
+was the fact that I lived in Casa Zapata or something. So if
+that's what it is, then maybe we should hammer that into
+the heads of the students and say, you know, yes we under
+stand you care about singles, but it's not what should mat
+ter to you.
+TSI): Do you have any advice for students currently
+going through the Draw?
+MP: Well, I was an undergraduate here as well, so 1 was
+in FloMo my freshman year,and then I was in Castano my
+sophomore year and Kairos my junior and senior years.
+And the best year 1 had was when 1 lived in a double in
+Kairos, so certainly the single or not single in the end did
+n't matter. Living in a co-op was really nice, with the com
+munity atmosphere, and 1 really liked this idea of a small
+dorm. And back then. I drew into Kairos unpreferred. So
+Draw numbers can change, and when giving the eight
+preferences, one shouldn't be guided too much by what
+the Draw numbers were last year because they may
+change.
+
+Contact Kelley Fong at ktfong@stanford.edu.
+
+
+BECKY WRIGHT/The Stanford Daily
+At 5 p.m. today, students will crowd around
+residence offices and stand on their toes to get a
+peek at their assigned Draw numbers. Those
+who see low numbers will celebrate next year's
+housing prospects; some who have repeatedly
+received high numbers will resign themselves to
+an unfavorable residence. Others will raise the
+issue of fairness.
+Once students have submitted their housing
+preferences, what is the fairest way to decide who
+should live where? And how does the current
+Draw mechanism meet or fail to meet various
+criteria for fairness ?
+Philosophy Prof. Marc Pauly sat down with
+The Daily in an attempt to answer these ques
+tions. He called for a University-wide discussion
+about what students, alumni and administrators
+value regarding their residential experiences.
+The Stanford Daily: Given what the current
+Draw situation considers — preferences of res
+idences. Draw group size, priorities, and gender
+— what makes a fair or optimal assignment?
+Mart- Pauly: 1 actually don't know what a fair or opti
+mal assignment is. That's the question that we as a Uni
+versity should be discussing 'ITie Draw is something
+that's already decades old. and I think from the very be
+ginning when it was implemented it was never really put
+to the University community, you know: what do we
+think actually is a fair assignment? What are the things
+that we care about? I think that's the kind of value-ori
+ented discussion that we still need to have, and then
+based on that we should just go with what we think are
+criteria of fairness.
+It's clear that there are a couple of things that immedi
+ately come to mind that one would consider desirable.
+One is that you would want an assignment sueh that there
+are no two people who would like to exchange residences.
+Say you're assigned to Terra and I'm assigned to Kairos,
+and 1 actually prefer your residence and you prefer mine.
+'ITien we would really like to switch assignments, and ide
+ally that shouldn't be possible.
+Another thing that 1 think students worry a lot about
+is strategizing — so you want a mechanism where it's not
+advantageous to just lie about what your preferences
+are. So a mechanism that induces honesty from the stu
+dents is certainly something that's desirable. And the
+current mechanism does that to some extent, but there
+are other issues. Like, since you can only list eight pref
+erences, what preferences are you going to list? Well,
+that will depend on what Draw number you get, what
+houses drew in the previous years — so there are other
+elements of strategizing that haven't been discussed in
+the formal literature yet.
+So the strategizing issue, this kind of optimality in
+which everyone is happiest with their current assignment,
+those are some of the things that, in a discussion about
+
+"The problem with the lottery system is that it is, of course, fair in
+the long run, but since you're only here for three years,
+there isn't much of a long run."
+MARC PAULY,philosophy professor
+
+what one would like, would certainly come up, and then
+it's a question of, can we get everything that we want si
+multaneously or not?
+If you get rid of Draw groups and some other extra
+hells and whistles, then the current system is based on
+the Gale-Shapley algorithm. That algorithm has been
+studied quite a lot in the literature because it's also been
+used for assigning residents to hospitals — an intern
+matching program. There's a national program where if
+I want to be a doctor in residence at a hospital. I can list
+my preferences, and the hospitals also list their prefer
+ences for doctors. 'ITien the question is, how do you
+match those two groups who both have preferences?
+There's a national program that does that, and the way
+that is done is also with this Gale-Shapley algorithm. So
+what we do here,at the very basis, is something very sim
+ilar.
+TSI): Do you think it's possible to have a system that
+would give us all of the things that we want?
+MP: No — from the formal literature in social choice
+we know that already very basic,simple requirements end
+up being in conflict. So my expectation is that this will hap
+pen here as well.
+Hut 1 would still hope that we would have a discussion
+as to how important we see each of these criteria to be. Be
+cause some of the choices that are maybe made for this
+
+hospital/doctor residence matching program — maybe
+they're appropriate for that situation hut not for us, and
+we should maybe make different choices.
+TSD: What are some benefits and drawbacks to the
+current system?
+!\IP: It's certainly positive on the strategizing side, at
+least in the sense that 1 don't think it's beneficial for stu
+dents to lie about what their preferences are. On this opti
+mally side, the current system is not what we call Pareto
+optimal. There are algorithms that we know of that are
+both strategy-proof and Pareto-optimal, but they have
+other drawbacks, and then the discussion is, well, is it okay
+to accept those other drawbacks?
+TSI): What would these other drawbacks be?
+MP: A drawback of another system would be a lack of
+stability — let me explain it with the doctors and the resi
+dences. What happened there was that a couple of
+decades back, the people found out — before the system
+was redone — that doctors and hospitals would enter into
+side agreements.They didn't trust the assignment mecha
+nism. and they would say. well, we don't know what the
+mechanism does, but if you're a hospital and I'm a doctor,
+well. I 'd like to work with you and you'd like to have me,
+so let's just forget the mechanism and have an arrange
+ment on the side. And the mechanism was designed to
+prevent this because they wanted a system in which there
+would never be a situation where if I'm assigned to a hos
+pital. I would actually prefer another hospital and that
+hospital would also prefer me because then I would rather
+make a side arrangement.
+Sd this kind of a stability property was deemed to be
+very important for this kind of mechanism, and the cur
+rent housing Draw has that kind of a property.That means
+that it will never happen that I'm assigned to a particular
+residence, but there's another residence for which I actu
+ally would have the right to get into and would prefer, but
+I'm not assigned there.
+Of course, the Stanford housing Draw's also not
+mandatory participation, but there is no danger for stu
+dents to enter side arrangements with dorms because the
+dorms are only allowed to accept students via this process,
+whereas the hospitals can do whatever they like. So that's
+a case where I think the situation with this hospital match
+ing program and the Stanford Draw — they're just differ
+ent situations, and we need to see whether the important
+considerations with the hospitals are also issues with the
+housing Draw.
+TSD: What specific things could the University be
+thinking about changing, depending 011 discussions?
+MP: One of the things that was already mentioned in
+the article that got me interested in this was the question
+of the importance of seniority in housing assignment. We
+might say maybe we just make it probabilistically more
+likely that seniors will get better Draw numbers than
+sophomores or something like that.
+A related idea would be to somehow compensate peo
+ple for bad Draw numbers. You might say. if I got a bad
+Draw number for my sophomore year, then I'm going to
+
+he more likely to get a good Draw number my junior year.
+TSl):That would make it much less transparent, I feel.
+MP: Yeah, right.so then you're going to have a trade
+off. The problem with the lottery system is that it is, of
+course, fair in the long run, but since you're only here
+three years, there isn't much of a long run. So somehow
+weighing the lottery in a different way would be an op
+tion.
+And another thing I think really needs to be consid
+ered is this issue of allowing students to list more than just
+eight choices, so that's another element of what I call
+strategizing. If you're limited to eight choices, you really
+need to think, what's my Draw number? And given your
+Draw number you will only select a particular window of
+your overall preferences.
+And a very important issue 1 think is. what do we give
+people to choose from? 1 still think that students really
+care not so much about the residences but whether they
+have a single or a double. But that's not what we let them
+choose among. At the moment we let them choose resi
+dences, so then what often happens is, they're thinking,
+what residences will make it likely for me to get a single?
+All that depends on what the in-house draw is, so there's
+a lot of thinking ahead that goes on on the side of the stu
+dents. which you might forego if you said, well, let's just
+have students choose rooms immediately. That's a system
+that Princeton, for example, has.
+But here again there's a value discussion — do we
+want that as a University? Maybe if you talk to alumni
+they look back they think, well you know at the time I re
+ally liked that single, but what really mattered afterwards
+was the fact that I lived in Casa Zapata or something. So if
+that's what it is, then maybe we should hammer that into
+the heads of the students and say, you know, yes we under
+stand you care about singles, but it's not what should mat
+ter to you.
+TSI): Do you have any advice for students currently
+going through the Draw?
+MP: Well, I was an undergraduate here as well, so 1 was
+in FloMo my freshman year,and then I was in Castano my
+sophomore year and Kairos my junior and senior years.
+And the best year 1 had was when 1 lived in a double in
+Kairos, so certainly the single or not single in the end did
+n't matter. Living in a co-op was really nice, with the com
+munity atmosphere, and 1 really liked this idea of a small
+dorm. And back then. I drew into Kairos unpreferred. So
+Draw numbers can change, and when giving the eight
+preferences, one shouldn't be guided too much by what
+the Draw numbers were last year because they may
+change.
+
+Contact Kelley Fong at ktfong@stanford.edu.
+
+
+BECKY WRIGHT/The Stanford Daily
+At 5 p.m. today, students will crowd around
+residence offices and stand on their toes to get a
+peek at their assigned Draw numbers. Those
+who see low numbers will celebrate next year's
+housing prospects; some who have repeatedly
+received high numbers will resign themselves to
+an unfavorable residence. Others will raise the
+issue of fairness.
+Once students have submitted their housing
+preferences, what is the fairest way to decide who
+should live where? And how does the current
+Draw mechanism meet or fail to meet various
+criteria for fairness ?
+Philosophy Prof. Marc Pauly sat down with
+The Daily in an attempt to answer these ques
+tions. He called for a University-wide discussion
+about what students, alumni and administrators
+value regarding their residential experiences.
+The Stanford Daily: Given what the current
+Draw situation considers — preferences of res
+idences. Draw group size, priorities, and gender
+— what makes a fair or optimal assignment?
+Mart- Pauly: 1 actually don't know what a fair or opti
+mal assignment is. That's the question that we as a Uni
+versity should be discussing 'ITie Draw is something
+that's already decades old. and I think from the very be
+ginning when it was implemented it was never really put
+to the University community, you know: what do we
+think actually is a fair assignment? What are the things
+that we care about? I think that's the kind of value-ori
+ented discussion that we still need to have, and then
+based on that we should just go with what we think are
+criteria of fairness.
+It's clear that there are a couple of things that immedi
+ately come to mind that one would consider desirable.
+One is that you would want an assignment sueh that there
+are no two people who would like to exchange residences.
+Say you're assigned to Terra and I'm assigned to Kairos,
+and 1 actually prefer your residence and you prefer mine.
+'ITien we would really like to switch assignments, and ide
+ally that shouldn't be possible.
+Another thing that 1 think students worry a lot about
+is strategizing — so you want a mechanism where it's not
+advantageous to just lie about what your preferences
+are. So a mechanism that induces honesty from the stu
+dents is certainly something that's desirable. And the
+current mechanism does that to some extent, but there
+are other issues. Like, since you can only list eight pref
+erences, what preferences are you going to list? Well,
+that will depend on what Draw number you get, what
+houses drew in the previous years — so there are other
+elements of strategizing that haven't been discussed in
+the formal literature yet.
+So the strategizing issue, this kind of optimality in
+which everyone is happiest with their current assignment,
+those are some of the things that, in a discussion about
+
+"The problem with the lottery system is that it is, of course, fair in
+the long run, but since you're only here for three years,
+there isn't much of a long run."
+MARC PAULY,philosophy professor
+
+what one would like, would certainly come up, and then
+it's a question of, can we get everything that we want si
+multaneously or not?
+If you get rid of Draw groups and some other extra
+hells and whistles, then the current system is based on
+the Gale-Shapley algorithm. That algorithm has been
+studied quite a lot in the literature because it's also been
+used for assigning residents to hospitals — an intern
+matching program. There's a national program where if
+I want to be a doctor in residence at a hospital. I can list
+my preferences, and the hospitals also list their prefer
+ences for doctors. 'ITien the question is, how do you
+match those two groups who both have preferences?
+There's a national program that does that, and the way
+that is done is also with this Gale-Shapley algorithm. So
+what we do here,at the very basis, is something very sim
+ilar.
+TSI): Do you think it's possible to have a system that
+would give us all of the things that we want?
+MP: No — from the formal literature in social choice
+we know that already very basic,simple requirements end
+up being in conflict. So my expectation is that this will hap
+pen here as well.
+Hut 1 would still hope that we would have a discussion
+as to how important we see each of these criteria to be. Be
+cause some of the choices that are maybe made for this
+
+hospital/doctor residence matching program — maybe
+they're appropriate for that situation hut not for us, and
+we should maybe make different choices.
+TSD: What are some benefits and drawbacks to the
+current system?
+!\IP: It's certainly positive on the strategizing side, at
+least in the sense that 1 don't think it's beneficial for stu
+dents to lie about what their preferences are. On this opti
+mally side, the current system is not what we call Pareto
+optimal. There are algorithms that we know of that are
+both strategy-proof and Pareto-optimal, but they have
+other drawbacks, and then the discussion is, well, is it okay
+to accept those other drawbacks?
+TSI): What would these other drawbacks be?
+MP: A drawback of another system would be a lack of
+stability — let me explain it with the doctors and the resi
+dences. What happened there was that a couple of
+decades back, the people found out — before the system
+was redone — that doctors and hospitals would enter into
+side agreements.They didn't trust the assignment mecha
+nism. and they would say. well, we don't know what the
+mechanism does, but if you're a hospital and I'm a doctor,
+well. I 'd like to work with you and you'd like to have me,
+so let's just forget the mechanism and have an arrange
+ment on the side. And the mechanism was designed to
+prevent this because they wanted a system in which there
+would never be a situation where if I'm assigned to a hos
+pital. I would actually prefer another hospital and that
+hospital would also prefer me because then I would rather
+make a side arrangement.
+Sd this kind of a stability property was deemed to be
+very important for this kind of mechanism, and the cur
+rent housing Draw has that kind of a property.That means
+that it will never happen that I'm assigned to a particular
+residence, but there's another residence for which I actu
+ally would have the right to get into and would prefer, but
+I'm not assigned there.
+Of course, the Stanford housing Draw's also not
+mandatory participation, but there is no danger for stu
+dents to enter side arrangements with dorms because the
+dorms are only allowed to accept students via this process,
+whereas the hospitals can do whatever they like. So that's
+a case where I think the situation with this hospital match
+ing program and the Stanford Draw — they're just differ
+ent situations, and we need to see whether the important
+considerations with the hospitals are also issues with the
+housing Draw.
+TSD: What specific things could the University be
+thinking about changing, depending 011 discussions?
+MP: One of the things that was already mentioned in
+the article that got me interested in this was the question
+of the importance of seniority in housing assignment. We
+might say maybe we just make it probabilistically more
+likely that seniors will get better Draw numbers than
+sophomores or something like that.
+A related idea would be to somehow compensate peo
+ple for bad Draw numbers. You might say. if I got a bad
+Draw number for my sophomore year, then I'm going to
+
+he more likely to get a good Draw number my junior year.
+TSl):That would make it much less transparent, I feel.
+MP: Yeah, right.so then you're going to have a trade
+off. The problem with the lottery system is that it is, of
+course, fair in the long run, but since you're only here
+three years, there isn't much of a long run. So somehow
+weighing the lottery in a different way would be an op
+tion.
+And another thing I think really needs to be consid
+ered is this issue of allowing students to list more than just
+eight choices, so that's another element of what I call
+strategizing. If you're limited to eight choices, you really
+need to think, what's my Draw number? And given your
+Draw number you will only select a particular window of
+your overall preferences.
+And a very important issue 1 think is. what do we give
+people to choose from? 1 still think that students really
+care not so much about the residences but whether they
+have a single or a double. But that's not what we let them
+choose among. At the moment we let them choose resi
+dences, so then what often happens is, they're thinking,
+what residences will make it likely for me to get a single?
+All that depends on what the in-house draw is, so there's
+a lot of thinking ahead that goes on on the side of the stu
+dents. which you might forego if you said, well, let's just
+have students choose rooms immediately. That's a system
+that Princeton, for example, has.
+But here again there's a value discussion — do we
+want that as a University? Maybe if you talk to alumni
+they look back they think, well you know at the time I re
+ally liked that single, but what really mattered afterwards
+was the fact that I lived in Casa Zapata or something. So if
+that's what it is, then maybe we should hammer that into
+the heads of the students and say, you know, yes we under
+stand you care about singles, but it's not what should mat
+ter to you.
+TSI): Do you have any advice for students currently
+going through the Draw?
+MP: Well, I was an undergraduate here as well, so 1 was
+in FloMo my freshman year,and then I was in Castano my
+sophomore year and Kairos my junior and senior years.
+And the best year 1 had was when 1 lived in a double in
+Kairos, so certainly the single or not single in the end did
+n't matter. Living in a co-op was really nice, with the com
+munity atmosphere, and 1 really liked this idea of a small
+dorm. And back then. I drew into Kairos unpreferred. So
+Draw numbers can change, and when giving the eight
+preferences, one shouldn't be guided too much by what
+the Draw numbers were last year because they may
+change.
+
+Contact Kelley Fong at ktfong@stanford.edu.
+
+
+BECKY WRIGHT/The Stanford Daily
+At 5 p.m. today, students will crowd around
+residence offices and stand on their toes to get a
+peek at their assigned Draw numbers. Those
+who see low numbers will celebrate next year's
+housing prospects; some who have repeatedly
+received high numbers will resign themselves to
+an unfavorable residence. Others will raise the
+issue of fairness.
+Once students have submitted their housing
+preferences, what is the fairest way to decide who
+should live where? And how does the current
+Draw mechanism meet or fail to meet various
+criteria for fairness ?
+Philosophy Prof. Marc Pauly sat down with
+The Daily in an attempt to answer these ques
+tions. He called for a University-wide discussion
+about what students, alumni and administrators
+value regarding their residential experiences.
+The Stanford Daily: Given what the current
+Draw situation considers — preferences of res
+idences. Draw group size, priorities, and gender
+— what makes a fair or optimal assignment?
+Mart- Pauly: 1 actually don't know what a fair or opti
+mal assignment is. That's the question that we as a Uni
+versity should be discussing 'ITie Draw is something
+that's already decades old. and I think from the very be
+ginning when it was implemented it was never really put
+to the University community, you know: what do we
+think actually is a fair assignment? What are the things
+that we care about? I think that's the kind of value-ori
+ented discussion that we still need to have, and then
+based on that we should just go with what we think are
+criteria of fairness.
+It's clear that there are a couple of things that immedi
+ately come to mind that one would consider desirable.
+One is that you would want an assignment sueh that there
+are no two people who would like to exchange residences.
+Say you're assigned to Terra and I'm assigned to Kairos,
+and 1 actually prefer your residence and you prefer mine.
+'ITien we would really like to switch assignments, and ide
+ally that shouldn't be possible.
+Another thing that 1 think students worry a lot about
+is strategizing — so you want a mechanism where it's not
+advantageous to just lie about what your preferences
+are. So a mechanism that induces honesty from the stu
+dents is certainly something that's desirable. And the
+current mechanism does that to some extent, but there
+are other issues. Like, since you can only list eight pref
+erences, what preferences are you going to list? Well,
+that will depend on what Draw number you get, what
+houses drew in the previous years — so there are other
+elements of strategizing that haven't been discussed in
+the formal literature yet.
+So the strategizing issue, this kind of optimality in
+which everyone is happiest with their current assignment,
+those are some of the things that, in a discussion about
+
+"The problem with the lottery system is that it is, of course, fair in
+the long run, but since you're only here for three years,
+there isn't much of a long run."
+MARC PAULY,philosophy professor
+
+what one would like, would certainly come up, and then
+it's a question of, can we get everything that we want si
+multaneously or not?
+If you get rid of Draw groups and some other extra
+hells and whistles, then the current system is based on
+the Gale-Shapley algorithm. That algorithm has been
+studied quite a lot in the literature because it's also been
+used for assigning residents to hospitals — an intern
+matching program. There's a national program where if
+I want to be a doctor in residence at a hospital. I can list
+my preferences, and the hospitals also list their prefer
+ences for doctors. 'ITien the question is, how do you
+match those two groups who both have preferences?
+There's a national program that does that, and the way
+that is done is also with this Gale-Shapley algorithm. So
+what we do here,at the very basis, is something very sim
+ilar.
+TSI): Do you think it's possible to have a system that
+would give us all of the things that we want?
+MP: No — from the formal literature in social choice
+we know that already very basic,simple requirements end
+up being in conflict. So my expectation is that this will hap
+pen here as well.
+Hut 1 would still hope that we would have a discussion
+as to how important we see each of these criteria to be. Be
+cause some of the choices that are maybe made for this
+
+hospital/doctor residence matching program — maybe
+they're appropriate for that situation hut not for us, and
+we should maybe make different choices.
+TSD: What are some benefits and drawbacks to the
+current system?
+!\IP: It's certainly positive on the strategizing side, at
+least in the sense that 1 don't think it's beneficial for stu
+dents to lie about what their preferences are. On this opti
+mally side, the current system is not what we call Pareto
+optimal. There are algorithms that we know of that are
+both strategy-proof and Pareto-optimal, but they have
+other drawbacks, and then the discussion is, well, is it okay
+to accept those other drawbacks?
+TSI): What would these other drawbacks be?
+MP: A drawback of another system would be a lack of
+stability — let me explain it with the doctors and the resi
+dences. What happened there was that a couple of
+decades back, the people found out — before the system
+was redone — that doctors and hospitals would enter into
+side agreements.They didn't trust the assignment mecha
+nism. and they would say. well, we don't know what the
+mechanism does, but if you're a hospital and I'm a doctor,
+well. I 'd like to work with you and you'd like to have me,
+so let's just forget the mechanism and have an arrange
+ment on the side. And the mechanism was designed to
+prevent this because they wanted a system in which there
+would never be a situation where if I'm assigned to a hos
+pital. I would actually prefer another hospital and that
+hospital would also prefer me because then I would rather
+make a side arrangement.
+Sd this kind of a stability property was deemed to be
+very important for this kind of mechanism, and the cur
+rent housing Draw has that kind of a property.That means
+that it will never happen that I'm assigned to a particular
+residence, but there's another residence for which I actu
+ally would have the right to get into and would prefer, but
+I'm not assigned there.
+Of course, the Stanford housing Draw's also not
+mandatory participation, but there is no danger for stu
+dents to enter side arrangements with dorms because the
+dorms are only allowed to accept students via this process,
+whereas the hospitals can do whatever they like. So that's
+a case where I think the situation with this hospital match
+ing program and the Stanford Draw — they're just differ
+ent situations, and we need to see whether the important
+considerations with the hospitals are also issues with the
+housing Draw.
+TSD: What specific things could the University be
+thinking about changing, depending 011 discussions?
+MP: One of the things that was already mentioned in
+the article that got me interested in this was the question
+of the importance of seniority in housing assignment. We
+might say maybe we just make it probabilistically more
+likely that seniors will get better Draw numbers than
+sophomores or something like that.
+A related idea would be to somehow compensate peo
+ple for bad Draw numbers. You might say. if I got a bad
+Draw number for my sophomore year, then I'm going to
+
+he more likely to get a good Draw number my junior year.
+TSl):That would make it much less transparent, I feel.
+MP: Yeah, right.so then you're going to have a trade
+off. The problem with the lottery system is that it is, of
+course, fair in the long run, but since you're only here
+three years, there isn't much of a long run. So somehow
+weighing the lottery in a different way would be an op
+tion.
+And another thing I think really needs to be consid
+ered is this issue of allowing students to list more than just
+eight choices, so that's another element of what I call
+strategizing. If you're limited to eight choices, you really
+need to think, what's my Draw number? And given your
+Draw number you will only select a particular window of
+your overall preferences.
+And a very important issue 1 think is. what do we give
+people to choose from? 1 still think that students really
+care not so much about the residences but whether they
+have a single or a double. But that's not what we let them
+choose among. At the moment we let them choose resi
+dences, so then what often happens is, they're thinking,
+what residences will make it likely for me to get a single?
+All that depends on what the in-house draw is, so there's
+a lot of thinking ahead that goes on on the side of the stu
+dents. which you might forego if you said, well, let's just
+have students choose rooms immediately. That's a system
+that Princeton, for example, has.
+But here again there's a value discussion — do we
+want that as a University? Maybe if you talk to alumni
+they look back they think, well you know at the time I re
+ally liked that single, but what really mattered afterwards
+was the fact that I lived in Casa Zapata or something. So if
+that's what it is, then maybe we should hammer that into
+the heads of the students and say, you know, yes we under
+stand you care about singles, but it's not what should mat
+ter to you.
+TSI): Do you have any advice for students currently
+going through the Draw?
+MP: Well, I was an undergraduate here as well, so 1 was
+in FloMo my freshman year,and then I was in Castano my
+sophomore year and Kairos my junior and senior years.
+And the best year 1 had was when 1 lived in a double in
+Kairos, so certainly the single or not single in the end did
+n't matter. Living in a co-op was really nice, with the com
+munity atmosphere, and 1 really liked this idea of a small
+dorm. And back then. I drew into Kairos unpreferred. So
+Draw numbers can change, and when giving the eight
+preferences, one shouldn't be guided too much by what
+the Draw numbers were last year because they may
+change.
+
+Contact Kelley Fong at ktfong@stanford.edu.
+
+
+BECKY WRIGHT/The Stanford Daily
+At 5 p.m. today, students will crowd around
+residence offices and stand on their toes to get a
+peek at their assigned Draw numbers. Those
+who see low numbers will celebrate next year's
+housing prospects; some who have repeatedly
+received high numbers will resign themselves to
+an unfavorable residence. Others will raise the
+issue of fairness.
+Once students have submitted their housing
+preferences, what is the fairest way to decide who
+should live where? And how does the current
+Draw mechanism meet or fail to meet various
+criteria for fairness ?
+Philosophy Prof. Marc Pauly sat down with
+The Daily in an attempt to answer these ques
+tions. He called for a University-wide discussion
+about what students, alumni and administrators
+value regarding their residential experiences.
+The Stanford Daily: Given what the current
+Draw situation considers — preferences of res
+idences. Draw group size, priorities, and gender
+— what makes a fair or optimal assignment?
+Mart- Pauly: 1 actually don't know what a fair or opti
+mal assignment is. That's the question that we as a Uni
+versity should be discussing 'ITie Draw is something
+that's already decades old. and I think from the very be
+ginning when it was implemented it was never really put
+to the University community, you know: what do we
+think actually is a fair assignment? What are the things
+that we care about? I think that's the kind of value-ori
+ented discussion that we still need to have, and then
+based on that we should just go with what we think are
+criteria of fairness.
+It's clear that there are a couple of things that immedi
+ately come to mind that one would consider desirable.
+One is that you would want an assignment sueh that there
+are no two people who would like to exchange residences.
+Say you're assigned to Terra and I'm assigned to Kairos,
+and 1 actually prefer your residence and you prefer mine.
+'ITien we would really like to switch assignments, and ide
+ally that shouldn't be possible.
+Another thing that 1 think students worry a lot about
+is strategizing — so you want a mechanism where it's not
+advantageous to just lie about what your preferences
+are. So a mechanism that induces honesty from the stu
+dents is certainly something that's desirable. And the
+current mechanism does that to some extent, but there
+are other issues. Like, since you can only list eight pref
+erences, what preferences are you going to list? Well,
+that will depend on what Draw number you get, what
+houses drew in the previous years — so there are other
+elements of strategizing that haven't been discussed in
+the formal literature yet.
+So the strategizing issue, this kind of optimality in
+which everyone is happiest with their current assignment,
+those are some of the things that, in a discussion about
+
+"The problem with the lottery system is that it is, of course, fair in
+the long run, but since you're only here for three years,
+there isn't much of a long run."
+MARC PAULY,philosophy professor
+
+what one would like, would certainly come up, and then
+it's a question of, can we get everything that we want si
+multaneously or not?
+If you get rid of Draw groups and some other extra
+hells and whistles, then the current system is based on
+the Gale-Shapley algorithm. That algorithm has been
+studied quite a lot in the literature because it's also been
+used for assigning residents to hospitals — an intern
+matching program. There's a national program where if
+I want to be a doctor in residence at a hospital. I can list
+my preferences, and the hospitals also list their prefer
+ences for doctors. 'ITien the question is, how do you
+match those two groups who both have preferences?
+There's a national program that does that, and the way
+that is done is also with this Gale-Shapley algorithm. So
+what we do here,at the very basis, is something very sim
+ilar.
+TSI): Do you think it's possible to have a system that
+would give us all of the things that we want?
+MP: No — from the formal literature in social choice
+we know that already very basic,simple requirements end
+up being in conflict. So my expectation is that this will hap
+pen here as well.
+Hut 1 would still hope that we would have a discussion
+as to how important we see each of these criteria to be. Be
+cause some of the choices that are maybe made for this
+
+hospital/doctor residence matching program — maybe
+they're appropriate for that situation hut not for us, and
+we should maybe make different choices.
+TSD: What are some benefits and drawbacks to the
+current system?
+!\IP: It's certainly positive on the strategizing side, at
+least in the sense that 1 don't think it's beneficial for stu
+dents to lie about what their preferences are. On this opti
+mally side, the current system is not what we call Pareto
+optimal. There are algorithms that we know of that are
+both strategy-proof and Pareto-optimal, but they have
+other drawbacks, and then the discussion is, well, is it okay
+to accept those other drawbacks?
+TSI): What would these other drawbacks be?
+MP: A drawback of another system would be a lack of
+stability — let me explain it with the doctors and the resi
+dences. What happened there was that a couple of
+decades back, the people found out — before the system
+was redone — that doctors and hospitals would enter into
+side agreements.They didn't trust the assignment mecha
+nism. and they would say. well, we don't know what the
+mechanism does, but if you're a hospital and I'm a doctor,
+well. I 'd like to work with you and you'd like to have me,
+so let's just forget the mechanism and have an arrange
+ment on the side. And the mechanism was designed to
+prevent this because they wanted a system in which there
+would never be a situation where if I'm assigned to a hos
+pital. I would actually prefer another hospital and that
+hospital would also prefer me because then I would rather
+make a side arrangement.
+Sd this kind of a stability property was deemed to be
+very important for this kind of mechanism, and the cur
+rent housing Draw has that kind of a property.That means
+that it will never happen that I'm assigned to a particular
+residence, but there's another residence for which I actu
+ally would have the right to get into and would prefer, but
+I'm not assigned there.
+Of course, the Stanford housing Draw's also not
+mandatory participation, but there is no danger for stu
+dents to enter side arrangements with dorms because the
+dorms are only allowed to accept students via this process,
+whereas the hospitals can do whatever they like. So that's
+a case where I think the situation with this hospital match
+ing program and the Stanford Draw — they're just differ
+ent situations, and we need to see whether the important
+considerations with the hospitals are also issues with the
+housing Draw.
+TSD: What specific things could the University be
+thinking about changing, depending 011 discussions?
+MP: One of the things that was already mentioned in
+the article that got me interested in this was the question
+of the importance of seniority in housing assignment. We
+might say maybe we just make it probabilistically more
+likely that seniors will get better Draw numbers than
+sophomores or something like that.
+A related idea would be to somehow compensate peo
+ple for bad Draw numbers. You might say. if I got a bad
+Draw number for my sophomore year, then I'm going to
+
+he more likely to get a good Draw number my junior year.
+TSl):That would make it much less transparent, I feel.
+MP: Yeah, right.so then you're going to have a trade
+off. The problem with the lottery system is that it is, of
+course, fair in the long run, but since you're only here
+three years, there isn't much of a long run. So somehow
+weighing the lottery in a different way would be an op
+tion.
+And another thing I think really needs to be consid
+ered is this issue of allowing students to list more than just
+eight choices, so that's another element of what I call
+strategizing. If you're limited to eight choices, you really
+need to think, what's my Draw number? And given your
+Draw number you will only select a particular window of
+your overall preferences.
+And a very important issue 1 think is. what do we give
+people to choose from? 1 still think that students really
+care not so much about the residences but whether they
+have a single or a double. But that's not what we let them
+choose among. At the moment we let them choose resi
+dences, so then what often happens is, they're thinking,
+what residences will make it likely for me to get a single?
+All that depends on what the in-house draw is, so there's
+a lot of thinking ahead that goes on on the side of the stu
+dents. which you might forego if you said, well, let's just
+have students choose rooms immediately. That's a system
+that Princeton, for example, has.
+But here again there's a value discussion — do we
+want that as a University? Maybe if you talk to alumni
+they look back they think, well you know at the time I re
+ally liked that single, but what really mattered afterwards
+was the fact that I lived in Casa Zapata or something. So if
+that's what it is, then maybe we should hammer that into
+the heads of the students and say, you know, yes we under
+stand you care about singles, but it's not what should mat
+ter to you.
+TSI): Do you have any advice for students currently
+going through the Draw?
+MP: Well, I was an undergraduate here as well, so 1 was
+in FloMo my freshman year,and then I was in Castano my
+sophomore year and Kairos my junior and senior years.
+And the best year 1 had was when 1 lived in a double in
+Kairos, so certainly the single or not single in the end did
+n't matter. Living in a co-op was really nice, with the com
+munity atmosphere, and 1 really liked this idea of a small
+dorm. And back then. I drew into Kairos unpreferred. So
+Draw numbers can change, and when giving the eight
+preferences, one shouldn't be guided too much by what
+the Draw numbers were last year because they may
+change.
+
+Contact Kelley Fong at ktfong@stanford.edu.
+
+
+BECKY WRIGHT/The Stanford Daily
+At 5 p.m. today, students will crowd around
+residence offices and stand on their toes to get a
+peek at their assigned Draw numbers. Those
+who see low numbers will celebrate next year's
+housing prospects; some who have repeatedly
+received high numbers will resign themselves to
+an unfavorable residence. Others will raise the
+issue of fairness.
+Once students have submitted their housing
+preferences, what is the fairest way to decide who
+should live where? And how does the current
+Draw mechanism meet or fail to meet various
+criteria for fairness ?
+Philosophy Prof. Marc Pauly sat down with
+The Daily in an attempt to answer these ques
+tions. He called for a University-wide discussion
+about what students, alumni and administrators
+value regarding their residential experiences.
+The Stanford Daily: Given what the current
+Draw situation considers — preferences of res
+idences. Draw group size, priorities, and gender
+— what makes a fair or optimal assignment?
+Mart- Pauly: 1 actually don't know what a fair or opti
+mal assignment is. That's the question that we as a Uni
+versity should be discussing 'ITie Draw is something
+that's already decades old. and I think from the very be
+ginning when it was implemented it was never really put
+to the University community, you know: what do we
+think actually is a fair assignment? What are the things
+that we care about? I think that's the kind of value-ori
+ented discussion that we still need to have, and then
+based on that we should just go with what we think are
+criteria of fairness.
+It's clear that there are a couple of things that immedi
+ately come to mind that one would consider desirable.
+One is that you would want an assignment sueh that there
+are no two people who would like to exchange residences.
+Say you're assigned to Terra and I'm assigned to Kairos,
+and 1 actually prefer your residence and you prefer mine.
+'ITien we would really like to switch assignments, and ide
+ally that shouldn't be possible.
+Another thing that 1 think students worry a lot about
+is strategizing — so you want a mechanism where it's not
+advantageous to just lie about what your preferences
+are. So a mechanism that induces honesty from the stu
+dents is certainly something that's desirable. And the
+current mechanism does that to some extent, but there
+are other issues. Like, since you can only list eight pref
+erences, what preferences are you going to list? Well,
+that will depend on what Draw number you get, what
+houses drew in the previous years — so there are other
+elements of strategizing that haven't been discussed in
+the formal literature yet.
+So the strategizing issue, this kind of optimality in
+which everyone is happiest with their current assignment,
+those are some of the things that, in a discussion about
+
+"The problem with the lottery system is that it is, of course, fair in
+the long run, but since you're only here for three years,
+there isn't much of a long run."
+MARC PAULY,philosophy professor
+
+what one would like, would certainly come up, and then
+it's a question of, can we get everything that we want si
+multaneously or not?
+If you get rid of Draw groups and some other extra
+hells and whistles, then the current system is based on
+the Gale-Shapley algorithm. That algorithm has been
+studied quite a lot in the literature because it's also been
+used for assigning residents to hospitals — an intern
+matching program. There's a national program where if
+I want to be a doctor in residence at a hospital. I can list
+my preferences, and the hospitals also list their prefer
+ences for doctors. 'ITien the question is, how do you
+match those two groups who both have preferences?
+There's a national program that does that, and the way
+that is done is also with this Gale-Shapley algorithm. So
+what we do here,at the very basis, is something very sim
+ilar.
+TSI): Do you think it's possible to have a system that
+would give us all of the things that we want?
+MP: No — from the formal literature in social choice
+we know that already very basic,simple requirements end
+up being in conflict. So my expectation is that this will hap
+pen here as well.
+Hut 1 would still hope that we would have a discussion
+as to how important we see each of these criteria to be. Be
+cause some of the choices that are maybe made for this
+
+hospital/doctor residence matching program — maybe
+they're appropriate for that situation hut not for us, and
+we should maybe make different choices.
+TSD: What are some benefits and drawbacks to the
+current system?
+!\IP: It's certainly positive on the strategizing side, at
+least in the sense that 1 don't think it's beneficial for stu
+dents to lie about what their preferences are. On this opti
+mally side, the current system is not what we call Pareto
+optimal. There are algorithms that we know of that are
+both strategy-proof and Pareto-optimal, but they have
+other drawbacks, and then the discussion is, well, is it okay
+to accept those other drawbacks?
+TSI): What would these other drawbacks be?
+MP: A drawback of another system would be a lack of
+stability — let me explain it with the doctors and the resi
+dences. What happened there was that a couple of
+decades back, the people found out — before the system
+was redone — that doctors and hospitals would enter into
+side agreements.They didn't trust the assignment mecha
+nism. and they would say. well, we don't know what the
+mechanism does, but if you're a hospital and I'm a doctor,
+well. I 'd like to work with you and you'd like to have me,
+so let's just forget the mechanism and have an arrange
+ment on the side. And the mechanism was designed to
+prevent this because they wanted a system in which there
+would never be a situation where if I'm assigned to a hos
+pital. I would actually prefer another hospital and that
+hospital would also prefer me because then I would rather
+make a side arrangement.
+Sd this kind of a stability property was deemed to be
+very important for this kind of mechanism, and the cur
+rent housing Draw has that kind of a property.That means
+that it will never happen that I'm assigned to a particular
+residence, but there's another residence for which I actu
+ally would have the right to get into and would prefer, but
+I'm not assigned there.
+Of course, the Stanford housing Draw's also not
+mandatory participation, but there is no danger for stu
+dents to enter side arrangements with dorms because the
+dorms are only allowed to accept students via this process,
+whereas the hospitals can do whatever they like. So that's
+a case where I think the situation with this hospital match
+ing program and the Stanford Draw — they're just differ
+ent situations, and we need to see whether the important
+considerations with the hospitals are also issues with the
+housing Draw.
+TSD: What specific things could the University be
+thinking about changing, depending 011 discussions?
+MP: One of the things that was already mentioned in
+the article that got me interested in this was the question
+of the importance of seniority in housing assignment. We
+might say maybe we just make it probabilistically more
+likely that seniors will get better Draw numbers than
+sophomores or something like that.
+A related idea would be to somehow compensate peo
+ple for bad Draw numbers. You might say. if I got a bad
+Draw number for my sophomore year, then I'm going to
+
+he more likely to get a good Draw number my junior year.
+TSl):That would make it much less transparent, I feel.
+MP: Yeah, right.so then you're going to have a trade
+off. The problem with the lottery system is that it is, of
+course, fair in the long run, but since you're only here
+three years, there isn't much of a long run. So somehow
+weighing the lottery in a different way would be an op
+tion.
+And another thing I think really needs to be consid
+ered is this issue of allowing students to list more than just
+eight choices, so that's another element of what I call
+strategizing. If you're limited to eight choices, you really
+need to think, what's my Draw number? And given your
+Draw number you will only select a particular window of
+your overall preferences.
+And a very important issue 1 think is. what do we give
+people to choose from? 1 still think that students really
+care not so much about the residences but whether they
+have a single or a double. But that's not what we let them
+choose among. At the moment we let them choose resi
+dences, so then what often happens is, they're thinking,
+what residences will make it likely for me to get a single?
+All that depends on what the in-house draw is, so there's
+a lot of thinking ahead that goes on on the side of the stu
+dents. which you might forego if you said, well, let's just
+have students choose rooms immediately. That's a system
+that Princeton, for example, has.
+But here again there's a value discussion — do we
+want that as a University? Maybe if you talk to alumni
+they look back they think, well you know at the time I re
+ally liked that single, but what really mattered afterwards
+was the fact that I lived in Casa Zapata or something. So if
+that's what it is, then maybe we should hammer that into
+the heads of the students and say, you know, yes we under
+stand you care about singles, but it's not what should mat
+ter to you.
+TSI): Do you have any advice for students currently
+going through the Draw?
+MP: Well, I was an undergraduate here as well, so 1 was
+in FloMo my freshman year,and then I was in Castano my
+sophomore year and Kairos my junior and senior years.
+And the best year 1 had was when 1 lived in a double in
+Kairos, so certainly the single or not single in the end did
+n't matter. Living in a co-op was really nice, with the com
+munity atmosphere, and 1 really liked this idea of a small
+dorm. And back then. I drew into Kairos unpreferred. So
+Draw numbers can change, and when giving the eight
+preferences, one shouldn't be guided too much by what
+the Draw numbers were last year because they may
+change.
+
+Contact Kelley Fong at ktfong@stanford.edu.
+
+
+BECKY WRIGHT/The Stanford Daily

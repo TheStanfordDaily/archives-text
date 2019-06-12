@@ -1,0 +1,1123 @@
+# Not your normal cup of joe: Java innovator speaks
+## 
+### JEFFREY TAM EDITORIAL STAFF 
+Only in technology-saturated
+areas like Silicon Valley is Java not a
+kind ol coffee, and static factories
+not manufacturing plants. At a
+guest lecture titled "Fflective Java
+Programming" on Aug. S. Joshua
+bl<>< h, a senior stall programmer at
+Sun Microsvstetns, talked about
+some of the technical subtleties of
+the |ava programming language
+that he helped create.
+I"he lecture was a part of the
+Computer Science MWJ course,
+"Programming in Java." Bloch dis
+(nssed lesser-known but very useful
+programming strategies to stu
+dents. going over examples of "sta
+tic factories," "singletons." "private
+constructors" and other fairly tech
+nical subjects.
+Bloch gave the same talk at the
+|ava( )ne conference in San Francis
+co this June, but instead of having
+to pay hundreds of dollars to get
+into the conference, Stanford stu
+dents were able to attend Wednes
+day's talk for free.
+bloch is heavily involved in the
+development of the Collections li
+braries in Java, which contain such
+hand\ tools as infinitely-expand
+
+able data arrays t ailed vec tors and
+ofl-the-shelf classes used to store
+data, like trees and maps.
+Neil I )aswani, a doctoral student
+in computer science and the in
+structor for Computer Science
+HWJ, invited bloch to speak at this
+guest lecture.
+"I brought in Joshua to talk
+about how to nsc Java eflectiveh
+to expose |students] to some of the
+concerns tli.it they would need to
+think about when they venture
+out to write code in the 'real
+world. " Daswani said. "Joshua's
+talk gave students a window into
+how to think about the advantages
+and disadvantages of different ap
+proaches to solving .i given pro
+gramming problem."
+In object-oriented languages
+like Java, there is the notion of an
+"object," which Computer Science
+Prof . Fric Roberts describes as "a set
+of data values and operations that
+acts as a single conceptual entity" in
+his book "Programming Abstrac
+tions in ((treating computer pro
+grams in an object-oriented lan
+guage relies on these objects.
+In Java, objects are in the form
+of "classes," through which data
+fora program is inputted and op
+erated upon. Classes are basic ally
+
+the blueprints of an object. ( lass
+es are created through a "con
+strue tor," whit h builds the c lasses,
+instantiating the object that
+makes up this class, bloch de
+scribed a way to get around creat
+ing a construc tor fora class, called
+.i "static factory."
+"A static factory is simply a static
+method that creates an instance of
+your c lass," bloch said.
+Fssentially, a static factory hides
+the constructor of a particular ob
+ject by using a non-particular
+method that will do the instantia
+tion for you. Bloch cited several
+powerful advantages to using stat
+ic factories. For one, instead of
+having to keep track of particular
+instances of your class, you can let
+
+the static factory do it for vou. In
+ternally, through the reuse of ob
+jects and (lie < ac liing of values that
+the class uses often, there is a per
+il mnancc gain.
+Another advantage of statu lac
+tones is that vou can build multi
+ple- static factories that all use the
+same class but return different
+types of values.
+For example, suppose there is a
+class that inputs two values and
+outputs one value based on a for
+mula. In one factory tailed "value-
+Of", vou input a real and imagi
+nary component. In another facto
+ry named "valueOfPolar," you
+input a radius and an angle. In
+stead of needing two separate class
+es to find the values ol these two dif
+ferent types of inputs, each of these
+static methods will generate a dif
+ferent instance of the same class,
+and output the appropriate answer
+using this one class.
+Daswani said lie believes that
+Bloch's tips are useful, c iting his ex
+amples on how to create a reliable
+random number generator.
+"Most programmers that at
+tempt to generate random num
+bers get it wrong, and this could
+cause a program to crash or have
+security flaws — random numbers
+
+an* used vcr\ often in cryptograph
+i( code thai needs to establish se
+cure communication with oilier
+computers 011.1 network," Daswani
+said. "B\ taking advantage ol
+Joshua's tips on how to use the
+built-in lulit tions that Sun provides
+programmers with, the\ can en
+sure correctness and securit\ in
+their applications."
+Daswani continued b\ saving
+that while he didn't expect his stu
+dents to remember all the technical
+aspects ol liloch's talk, he hopes
+the\ will realize that, when attack
+ing a programming problem, it is
+likelv that there are people who
+have thought alxnit it and have
+solved the problem already.
+Daswani said that students should
+try to leverage oft of this base of
+knowledge.
+"I do believe that it is very im
+portant to bring in experts from in
+dustry from time to time as part of
+our regular classes here .it Stan
+ford," Daswani said. "As 1 am
+someone who has spent some time
+in industry myself, it is valuable to
+hear about the sorts ol problems
+that industry is thinking about, |so]
+that we can ensure that research
+that students do will have real
+world applications."
+
+
+EREZ YOELI/The Stanford Daily
+Only in technology-saturated
+areas like Silicon Valley is Java not a
+kind ol coffee, and static factories
+not manufacturing plants. At a
+guest lecture titled "Fflective Java
+Programming" on Aug. S. Joshua
+bl<>< h, a senior stall programmer at
+Sun Microsvstetns, talked about
+some of the technical subtleties of
+the |ava programming language
+that he helped create.
+I"he lecture was a part of the
+Computer Science MWJ course,
+"Programming in Java." Bloch dis
+(nssed lesser-known but very useful
+programming strategies to stu
+dents. going over examples of "sta
+tic factories," "singletons." "private
+constructors" and other fairly tech
+nical subjects.
+Bloch gave the same talk at the
+|ava( )ne conference in San Francis
+co this June, but instead of having
+to pay hundreds of dollars to get
+into the conference, Stanford stu
+dents were able to attend Wednes
+day's talk for free.
+bloch is heavily involved in the
+development of the Collections li
+braries in Java, which contain such
+hand\ tools as infinitely-expand
+
+able data arrays t ailed vec tors and
+ofl-the-shelf classes used to store
+data, like trees and maps.
+Neil I )aswani, a doctoral student
+in computer science and the in
+structor for Computer Science
+HWJ, invited bloch to speak at this
+guest lecture.
+"I brought in Joshua to talk
+about how to nsc Java eflectiveh
+to expose |students] to some of the
+concerns tli.it they would need to
+think about when they venture
+out to write code in the 'real
+world. " Daswani said. "Joshua's
+talk gave students a window into
+how to think about the advantages
+and disadvantages of different ap
+proaches to solving .i given pro
+gramming problem."
+In object-oriented languages
+like Java, there is the notion of an
+"object," which Computer Science
+Prof . Fric Roberts describes as "a set
+of data values and operations that
+acts as a single conceptual entity" in
+his book "Programming Abstrac
+tions in ((treating computer pro
+grams in an object-oriented lan
+guage relies on these objects.
+In Java, objects are in the form
+of "classes," through which data
+fora program is inputted and op
+erated upon. Classes are basic ally
+
+the blueprints of an object. ( lass
+es are created through a "con
+strue tor," whit h builds the c lasses,
+instantiating the object that
+makes up this class, bloch de
+scribed a way to get around creat
+ing a construc tor fora class, called
+.i "static factory."
+"A static factory is simply a static
+method that creates an instance of
+your c lass," bloch said.
+Fssentially, a static factory hides
+the constructor of a particular ob
+ject by using a non-particular
+method that will do the instantia
+tion for you. Bloch cited several
+powerful advantages to using stat
+ic factories. For one, instead of
+having to keep track of particular
+instances of your class, you can let
+
+the static factory do it for vou. In
+ternally, through the reuse of ob
+jects and (lie < ac liing of values that
+the class uses often, there is a per
+il mnancc gain.
+Another advantage of statu lac
+tones is that vou can build multi
+ple- static factories that all use the
+same class but return different
+types of values.
+For example, suppose there is a
+class that inputs two values and
+outputs one value based on a for
+mula. In one factory tailed "value-
+Of", vou input a real and imagi
+nary component. In another facto
+ry named "valueOfPolar," you
+input a radius and an angle. In
+stead of needing two separate class
+es to find the values ol these two dif
+ferent types of inputs, each of these
+static methods will generate a dif
+ferent instance of the same class,
+and output the appropriate answer
+using this one class.
+Daswani said lie believes that
+Bloch's tips are useful, c iting his ex
+amples on how to create a reliable
+random number generator.
+"Most programmers that at
+tempt to generate random num
+bers get it wrong, and this could
+cause a program to crash or have
+security flaws — random numbers
+
+an* used vcr\ often in cryptograph
+i( code thai needs to establish se
+cure communication with oilier
+computers 011.1 network," Daswani
+said. "B\ taking advantage ol
+Joshua's tips on how to use the
+built-in lulit tions that Sun provides
+programmers with, the\ can en
+sure correctness and securit\ in
+their applications."
+Daswani continued b\ saving
+that while he didn't expect his stu
+dents to remember all the technical
+aspects ol liloch's talk, he hopes
+the\ will realize that, when attack
+ing a programming problem, it is
+likelv that there are people who
+have thought alxnit it and have
+solved the problem already.
+Daswani said that students should
+try to leverage oft of this base of
+knowledge.
+"I do believe that it is very im
+portant to bring in experts from in
+dustry from time to time as part of
+our regular classes here .it Stan
+ford," Daswani said. "As 1 am
+someone who has spent some time
+in industry myself, it is valuable to
+hear about the sorts ol problems
+that industry is thinking about, |so]
+that we can ensure that research
+that students do will have real
+world applications."
+
+
+EREZ YOELI/The Stanford Daily
+Only in technology-saturated
+areas like Silicon Valley is Java not a
+kind ol coffee, and static factories
+not manufacturing plants. At a
+guest lecture titled "Fflective Java
+Programming" on Aug. S. Joshua
+bl<>< h, a senior stall programmer at
+Sun Microsvstetns, talked about
+some of the technical subtleties of
+the |ava programming language
+that he helped create.
+I"he lecture was a part of the
+Computer Science MWJ course,
+"Programming in Java." Bloch dis
+(nssed lesser-known but very useful
+programming strategies to stu
+dents. going over examples of "sta
+tic factories," "singletons." "private
+constructors" and other fairly tech
+nical subjects.
+Bloch gave the same talk at the
+|ava( )ne conference in San Francis
+co this June, but instead of having
+to pay hundreds of dollars to get
+into the conference, Stanford stu
+dents were able to attend Wednes
+day's talk for free.
+bloch is heavily involved in the
+development of the Collections li
+braries in Java, which contain such
+hand\ tools as infinitely-expand
+
+able data arrays t ailed vec tors and
+ofl-the-shelf classes used to store
+data, like trees and maps.
+Neil I )aswani, a doctoral student
+in computer science and the in
+structor for Computer Science
+HWJ, invited bloch to speak at this
+guest lecture.
+"I brought in Joshua to talk
+about how to nsc Java eflectiveh
+to expose |students] to some of the
+concerns tli.it they would need to
+think about when they venture
+out to write code in the 'real
+world. " Daswani said. "Joshua's
+talk gave students a window into
+how to think about the advantages
+and disadvantages of different ap
+proaches to solving .i given pro
+gramming problem."
+In object-oriented languages
+like Java, there is the notion of an
+"object," which Computer Science
+Prof . Fric Roberts describes as "a set
+of data values and operations that
+acts as a single conceptual entity" in
+his book "Programming Abstrac
+tions in ((treating computer pro
+grams in an object-oriented lan
+guage relies on these objects.
+In Java, objects are in the form
+of "classes," through which data
+fora program is inputted and op
+erated upon. Classes are basic ally
+
+the blueprints of an object. ( lass
+es are created through a "con
+strue tor," whit h builds the c lasses,
+instantiating the object that
+makes up this class, bloch de
+scribed a way to get around creat
+ing a construc tor fora class, called
+.i "static factory."
+"A static factory is simply a static
+method that creates an instance of
+your c lass," bloch said.
+Fssentially, a static factory hides
+the constructor of a particular ob
+ject by using a non-particular
+method that will do the instantia
+tion for you. Bloch cited several
+powerful advantages to using stat
+ic factories. For one, instead of
+having to keep track of particular
+instances of your class, you can let
+
+the static factory do it for vou. In
+ternally, through the reuse of ob
+jects and (lie < ac liing of values that
+the class uses often, there is a per
+il mnancc gain.
+Another advantage of statu lac
+tones is that vou can build multi
+ple- static factories that all use the
+same class but return different
+types of values.
+For example, suppose there is a
+class that inputs two values and
+outputs one value based on a for
+mula. In one factory tailed "value-
+Of", vou input a real and imagi
+nary component. In another facto
+ry named "valueOfPolar," you
+input a radius and an angle. In
+stead of needing two separate class
+es to find the values ol these two dif
+ferent types of inputs, each of these
+static methods will generate a dif
+ferent instance of the same class,
+and output the appropriate answer
+using this one class.
+Daswani said lie believes that
+Bloch's tips are useful, c iting his ex
+amples on how to create a reliable
+random number generator.
+"Most programmers that at
+tempt to generate random num
+bers get it wrong, and this could
+cause a program to crash or have
+security flaws — random numbers
+
+an* used vcr\ often in cryptograph
+i( code thai needs to establish se
+cure communication with oilier
+computers 011.1 network," Daswani
+said. "B\ taking advantage ol
+Joshua's tips on how to use the
+built-in lulit tions that Sun provides
+programmers with, the\ can en
+sure correctness and securit\ in
+their applications."
+Daswani continued b\ saving
+that while he didn't expect his stu
+dents to remember all the technical
+aspects ol liloch's talk, he hopes
+the\ will realize that, when attack
+ing a programming problem, it is
+likelv that there are people who
+have thought alxnit it and have
+solved the problem already.
+Daswani said that students should
+try to leverage oft of this base of
+knowledge.
+"I do believe that it is very im
+portant to bring in experts from in
+dustry from time to time as part of
+our regular classes here .it Stan
+ford," Daswani said. "As 1 am
+someone who has spent some time
+in industry myself, it is valuable to
+hear about the sorts ol problems
+that industry is thinking about, |so]
+that we can ensure that research
+that students do will have real
+world applications."
+
+
+EREZ YOELI/The Stanford Daily
+Only in technology-saturated
+areas like Silicon Valley is Java not a
+kind ol coffee, and static factories
+not manufacturing plants. At a
+guest lecture titled "Fflective Java
+Programming" on Aug. S. Joshua
+bl<>< h, a senior stall programmer at
+Sun Microsvstetns, talked about
+some of the technical subtleties of
+the |ava programming language
+that he helped create.
+I"he lecture was a part of the
+Computer Science MWJ course,
+"Programming in Java." Bloch dis
+(nssed lesser-known but very useful
+programming strategies to stu
+dents. going over examples of "sta
+tic factories," "singletons." "private
+constructors" and other fairly tech
+nical subjects.
+Bloch gave the same talk at the
+|ava( )ne conference in San Francis
+co this June, but instead of having
+to pay hundreds of dollars to get
+into the conference, Stanford stu
+dents were able to attend Wednes
+day's talk for free.
+bloch is heavily involved in the
+development of the Collections li
+braries in Java, which contain such
+hand\ tools as infinitely-expand
+
+able data arrays t ailed vec tors and
+ofl-the-shelf classes used to store
+data, like trees and maps.
+Neil I )aswani, a doctoral student
+in computer science and the in
+structor for Computer Science
+HWJ, invited bloch to speak at this
+guest lecture.
+"I brought in Joshua to talk
+about how to nsc Java eflectiveh
+to expose |students] to some of the
+concerns tli.it they would need to
+think about when they venture
+out to write code in the 'real
+world. " Daswani said. "Joshua's
+talk gave students a window into
+how to think about the advantages
+and disadvantages of different ap
+proaches to solving .i given pro
+gramming problem."
+In object-oriented languages
+like Java, there is the notion of an
+"object," which Computer Science
+Prof . Fric Roberts describes as "a set
+of data values and operations that
+acts as a single conceptual entity" in
+his book "Programming Abstrac
+tions in ((treating computer pro
+grams in an object-oriented lan
+guage relies on these objects.
+In Java, objects are in the form
+of "classes," through which data
+fora program is inputted and op
+erated upon. Classes are basic ally
+
+the blueprints of an object. ( lass
+es are created through a "con
+strue tor," whit h builds the c lasses,
+instantiating the object that
+makes up this class, bloch de
+scribed a way to get around creat
+ing a construc tor fora class, called
+.i "static factory."
+"A static factory is simply a static
+method that creates an instance of
+your c lass," bloch said.
+Fssentially, a static factory hides
+the constructor of a particular ob
+ject by using a non-particular
+method that will do the instantia
+tion for you. Bloch cited several
+powerful advantages to using stat
+ic factories. For one, instead of
+having to keep track of particular
+instances of your class, you can let
+
+the static factory do it for vou. In
+ternally, through the reuse of ob
+jects and (lie < ac liing of values that
+the class uses often, there is a per
+il mnancc gain.
+Another advantage of statu lac
+tones is that vou can build multi
+ple- static factories that all use the
+same class but return different
+types of values.
+For example, suppose there is a
+class that inputs two values and
+outputs one value based on a for
+mula. In one factory tailed "value-
+Of", vou input a real and imagi
+nary component. In another facto
+ry named "valueOfPolar," you
+input a radius and an angle. In
+stead of needing two separate class
+es to find the values ol these two dif
+ferent types of inputs, each of these
+static methods will generate a dif
+ferent instance of the same class,
+and output the appropriate answer
+using this one class.
+Daswani said lie believes that
+Bloch's tips are useful, c iting his ex
+amples on how to create a reliable
+random number generator.
+"Most programmers that at
+tempt to generate random num
+bers get it wrong, and this could
+cause a program to crash or have
+security flaws — random numbers
+
+an* used vcr\ often in cryptograph
+i( code thai needs to establish se
+cure communication with oilier
+computers 011.1 network," Daswani
+said. "B\ taking advantage ol
+Joshua's tips on how to use the
+built-in lulit tions that Sun provides
+programmers with, the\ can en
+sure correctness and securit\ in
+their applications."
+Daswani continued b\ saving
+that while he didn't expect his stu
+dents to remember all the technical
+aspects ol liloch's talk, he hopes
+the\ will realize that, when attack
+ing a programming problem, it is
+likelv that there are people who
+have thought alxnit it and have
+solved the problem already.
+Daswani said that students should
+try to leverage oft of this base of
+knowledge.
+"I do believe that it is very im
+portant to bring in experts from in
+dustry from time to time as part of
+our regular classes here .it Stan
+ford," Daswani said. "As 1 am
+someone who has spent some time
+in industry myself, it is valuable to
+hear about the sorts ol problems
+that industry is thinking about, |so]
+that we can ensure that research
+that students do will have real
+world applications."
+
+
+EREZ YOELI/The Stanford Daily
+Only in technology-saturated
+areas like Silicon Valley is Java not a
+kind ol coffee, and static factories
+not manufacturing plants. At a
+guest lecture titled "Fflective Java
+Programming" on Aug. S. Joshua
+bl<>< h, a senior stall programmer at
+Sun Microsvstetns, talked about
+some of the technical subtleties of
+the |ava programming language
+that he helped create.
+I"he lecture was a part of the
+Computer Science MWJ course,
+"Programming in Java." Bloch dis
+(nssed lesser-known but very useful
+programming strategies to stu
+dents. going over examples of "sta
+tic factories," "singletons." "private
+constructors" and other fairly tech
+nical subjects.
+Bloch gave the same talk at the
+|ava( )ne conference in San Francis
+co this June, but instead of having
+to pay hundreds of dollars to get
+into the conference, Stanford stu
+dents were able to attend Wednes
+day's talk for free.
+bloch is heavily involved in the
+development of the Collections li
+braries in Java, which contain such
+hand\ tools as infinitely-expand
+
+able data arrays t ailed vec tors and
+ofl-the-shelf classes used to store
+data, like trees and maps.
+Neil I )aswani, a doctoral student
+in computer science and the in
+structor for Computer Science
+HWJ, invited bloch to speak at this
+guest lecture.
+"I brought in Joshua to talk
+about how to nsc Java eflectiveh
+to expose |students] to some of the
+concerns tli.it they would need to
+think about when they venture
+out to write code in the 'real
+world. " Daswani said. "Joshua's
+talk gave students a window into
+how to think about the advantages
+and disadvantages of different ap
+proaches to solving .i given pro
+gramming problem."
+In object-oriented languages
+like Java, there is the notion of an
+"object," which Computer Science
+Prof . Fric Roberts describes as "a set
+of data values and operations that
+acts as a single conceptual entity" in
+his book "Programming Abstrac
+tions in ((treating computer pro
+grams in an object-oriented lan
+guage relies on these objects.
+In Java, objects are in the form
+of "classes," through which data
+fora program is inputted and op
+erated upon. Classes are basic ally
+
+the blueprints of an object. ( lass
+es are created through a "con
+strue tor," whit h builds the c lasses,
+instantiating the object that
+makes up this class, bloch de
+scribed a way to get around creat
+ing a construc tor fora class, called
+.i "static factory."
+"A static factory is simply a static
+method that creates an instance of
+your c lass," bloch said.
+Fssentially, a static factory hides
+the constructor of a particular ob
+ject by using a non-particular
+method that will do the instantia
+tion for you. Bloch cited several
+powerful advantages to using stat
+ic factories. For one, instead of
+having to keep track of particular
+instances of your class, you can let
+
+the static factory do it for vou. In
+ternally, through the reuse of ob
+jects and (lie < ac liing of values that
+the class uses often, there is a per
+il mnancc gain.
+Another advantage of statu lac
+tones is that vou can build multi
+ple- static factories that all use the
+same class but return different
+types of values.
+For example, suppose there is a
+class that inputs two values and
+outputs one value based on a for
+mula. In one factory tailed "value-
+Of", vou input a real and imagi
+nary component. In another facto
+ry named "valueOfPolar," you
+input a radius and an angle. In
+stead of needing two separate class
+es to find the values ol these two dif
+ferent types of inputs, each of these
+static methods will generate a dif
+ferent instance of the same class,
+and output the appropriate answer
+using this one class.
+Daswani said lie believes that
+Bloch's tips are useful, c iting his ex
+amples on how to create a reliable
+random number generator.
+"Most programmers that at
+tempt to generate random num
+bers get it wrong, and this could
+cause a program to crash or have
+security flaws — random numbers
+
+an* used vcr\ often in cryptograph
+i( code thai needs to establish se
+cure communication with oilier
+computers 011.1 network," Daswani
+said. "B\ taking advantage ol
+Joshua's tips on how to use the
+built-in lulit tions that Sun provides
+programmers with, the\ can en
+sure correctness and securit\ in
+their applications."
+Daswani continued b\ saving
+that while he didn't expect his stu
+dents to remember all the technical
+aspects ol liloch's talk, he hopes
+the\ will realize that, when attack
+ing a programming problem, it is
+likelv that there are people who
+have thought alxnit it and have
+solved the problem already.
+Daswani said that students should
+try to leverage oft of this base of
+knowledge.
+"I do believe that it is very im
+portant to bring in experts from in
+dustry from time to time as part of
+our regular classes here .it Stan
+ford," Daswani said. "As 1 am
+someone who has spent some time
+in industry myself, it is valuable to
+hear about the sorts ol problems
+that industry is thinking about, |so]
+that we can ensure that research
+that students do will have real
+world applications."
+
+
+EREZ YOELI/The Stanford Daily
+Only in technology-saturated
+areas like Silicon Valley is Java not a
+kind ol coffee, and static factories
+not manufacturing plants. At a
+guest lecture titled "Fflective Java
+Programming" on Aug. S. Joshua
+bl<>< h, a senior stall programmer at
+Sun Microsvstetns, talked about
+some of the technical subtleties of
+the |ava programming language
+that he helped create.
+I"he lecture was a part of the
+Computer Science MWJ course,
+"Programming in Java." Bloch dis
+(nssed lesser-known but very useful
+programming strategies to stu
+dents. going over examples of "sta
+tic factories," "singletons." "private
+constructors" and other fairly tech
+nical subjects.
+Bloch gave the same talk at the
+|ava( )ne conference in San Francis
+co this June, but instead of having
+to pay hundreds of dollars to get
+into the conference, Stanford stu
+dents were able to attend Wednes
+day's talk for free.
+bloch is heavily involved in the
+development of the Collections li
+braries in Java, which contain such
+hand\ tools as infinitely-expand
+
+able data arrays t ailed vec tors and
+ofl-the-shelf classes used to store
+data, like trees and maps.
+Neil I )aswani, a doctoral student
+in computer science and the in
+structor for Computer Science
+HWJ, invited bloch to speak at this
+guest lecture.
+"I brought in Joshua to talk
+about how to nsc Java eflectiveh
+to expose |students] to some of the
+concerns tli.it they would need to
+think about when they venture
+out to write code in the 'real
+world. " Daswani said. "Joshua's
+talk gave students a window into
+how to think about the advantages
+and disadvantages of different ap
+proaches to solving .i given pro
+gramming problem."
+In object-oriented languages
+like Java, there is the notion of an
+"object," which Computer Science
+Prof . Fric Roberts describes as "a set
+of data values and operations that
+acts as a single conceptual entity" in
+his book "Programming Abstrac
+tions in ((treating computer pro
+grams in an object-oriented lan
+guage relies on these objects.
+In Java, objects are in the form
+of "classes," through which data
+fora program is inputted and op
+erated upon. Classes are basic ally
+
+the blueprints of an object. ( lass
+es are created through a "con
+strue tor," whit h builds the c lasses,
+instantiating the object that
+makes up this class, bloch de
+scribed a way to get around creat
+ing a construc tor fora class, called
+.i "static factory."
+"A static factory is simply a static
+method that creates an instance of
+your c lass," bloch said.
+Fssentially, a static factory hides
+the constructor of a particular ob
+ject by using a non-particular
+method that will do the instantia
+tion for you. Bloch cited several
+powerful advantages to using stat
+ic factories. For one, instead of
+having to keep track of particular
+instances of your class, you can let
+
+the static factory do it for vou. In
+ternally, through the reuse of ob
+jects and (lie < ac liing of values that
+the class uses often, there is a per
+il mnancc gain.
+Another advantage of statu lac
+tones is that vou can build multi
+ple- static factories that all use the
+same class but return different
+types of values.
+For example, suppose there is a
+class that inputs two values and
+outputs one value based on a for
+mula. In one factory tailed "value-
+Of", vou input a real and imagi
+nary component. In another facto
+ry named "valueOfPolar," you
+input a radius and an angle. In
+stead of needing two separate class
+es to find the values ol these two dif
+ferent types of inputs, each of these
+static methods will generate a dif
+ferent instance of the same class,
+and output the appropriate answer
+using this one class.
+Daswani said lie believes that
+Bloch's tips are useful, c iting his ex
+amples on how to create a reliable
+random number generator.
+"Most programmers that at
+tempt to generate random num
+bers get it wrong, and this could
+cause a program to crash or have
+security flaws — random numbers
+
+an* used vcr\ often in cryptograph
+i( code thai needs to establish se
+cure communication with oilier
+computers 011.1 network," Daswani
+said. "B\ taking advantage ol
+Joshua's tips on how to use the
+built-in lulit tions that Sun provides
+programmers with, the\ can en
+sure correctness and securit\ in
+their applications."
+Daswani continued b\ saving
+that while he didn't expect his stu
+dents to remember all the technical
+aspects ol liloch's talk, he hopes
+the\ will realize that, when attack
+ing a programming problem, it is
+likelv that there are people who
+have thought alxnit it and have
+solved the problem already.
+Daswani said that students should
+try to leverage oft of this base of
+knowledge.
+"I do believe that it is very im
+portant to bring in experts from in
+dustry from time to time as part of
+our regular classes here .it Stan
+ford," Daswani said. "As 1 am
+someone who has spent some time
+in industry myself, it is valuable to
+hear about the sorts ol problems
+that industry is thinking about, |so]
+that we can ensure that research
+that students do will have real
+world applications."
+
+
+EREZ YOELI/The Stanford Daily
+Only in technology-saturated
+areas like Silicon Valley is Java not a
+kind ol coffee, and static factories
+not manufacturing plants. At a
+guest lecture titled "Fflective Java
+Programming" on Aug. S. Joshua
+bl<>< h, a senior stall programmer at
+Sun Microsvstetns, talked about
+some of the technical subtleties of
+the |ava programming language
+that he helped create.
+I"he lecture was a part of the
+Computer Science MWJ course,
+"Programming in Java." Bloch dis
+(nssed lesser-known but very useful
+programming strategies to stu
+dents. going over examples of "sta
+tic factories," "singletons." "private
+constructors" and other fairly tech
+nical subjects.
+Bloch gave the same talk at the
+|ava( )ne conference in San Francis
+co this June, but instead of having
+to pay hundreds of dollars to get
+into the conference, Stanford stu
+dents were able to attend Wednes
+day's talk for free.
+bloch is heavily involved in the
+development of the Collections li
+braries in Java, which contain such
+hand\ tools as infinitely-expand
+
+able data arrays t ailed vec tors and
+ofl-the-shelf classes used to store
+data, like trees and maps.
+Neil I )aswani, a doctoral student
+in computer science and the in
+structor for Computer Science
+HWJ, invited bloch to speak at this
+guest lecture.
+"I brought in Joshua to talk
+about how to nsc Java eflectiveh
+to expose |students] to some of the
+concerns tli.it they would need to
+think about when they venture
+out to write code in the 'real
+world. " Daswani said. "Joshua's
+talk gave students a window into
+how to think about the advantages
+and disadvantages of different ap
+proaches to solving .i given pro
+gramming problem."
+In object-oriented languages
+like Java, there is the notion of an
+"object," which Computer Science
+Prof . Fric Roberts describes as "a set
+of data values and operations that
+acts as a single conceptual entity" in
+his book "Programming Abstrac
+tions in ((treating computer pro
+grams in an object-oriented lan
+guage relies on these objects.
+In Java, objects are in the form
+of "classes," through which data
+fora program is inputted and op
+erated upon. Classes are basic ally
+
+the blueprints of an object. ( lass
+es are created through a "con
+strue tor," whit h builds the c lasses,
+instantiating the object that
+makes up this class, bloch de
+scribed a way to get around creat
+ing a construc tor fora class, called
+.i "static factory."
+"A static factory is simply a static
+method that creates an instance of
+your c lass," bloch said.
+Fssentially, a static factory hides
+the constructor of a particular ob
+ject by using a non-particular
+method that will do the instantia
+tion for you. Bloch cited several
+powerful advantages to using stat
+ic factories. For one, instead of
+having to keep track of particular
+instances of your class, you can let
+
+the static factory do it for vou. In
+ternally, through the reuse of ob
+jects and (lie < ac liing of values that
+the class uses often, there is a per
+il mnancc gain.
+Another advantage of statu lac
+tones is that vou can build multi
+ple- static factories that all use the
+same class but return different
+types of values.
+For example, suppose there is a
+class that inputs two values and
+outputs one value based on a for
+mula. In one factory tailed "value-
+Of", vou input a real and imagi
+nary component. In another facto
+ry named "valueOfPolar," you
+input a radius and an angle. In
+stead of needing two separate class
+es to find the values ol these two dif
+ferent types of inputs, each of these
+static methods will generate a dif
+ferent instance of the same class,
+and output the appropriate answer
+using this one class.
+Daswani said lie believes that
+Bloch's tips are useful, c iting his ex
+amples on how to create a reliable
+random number generator.
+"Most programmers that at
+tempt to generate random num
+bers get it wrong, and this could
+cause a program to crash or have
+security flaws — random numbers
+
+an* used vcr\ often in cryptograph
+i( code thai needs to establish se
+cure communication with oilier
+computers 011.1 network," Daswani
+said. "B\ taking advantage ol
+Joshua's tips on how to use the
+built-in lulit tions that Sun provides
+programmers with, the\ can en
+sure correctness and securit\ in
+their applications."
+Daswani continued b\ saving
+that while he didn't expect his stu
+dents to remember all the technical
+aspects ol liloch's talk, he hopes
+the\ will realize that, when attack
+ing a programming problem, it is
+likelv that there are people who
+have thought alxnit it and have
+solved the problem already.
+Daswani said that students should
+try to leverage oft of this base of
+knowledge.
+"I do believe that it is very im
+portant to bring in experts from in
+dustry from time to time as part of
+our regular classes here .it Stan
+ford," Daswani said. "As 1 am
+someone who has spent some time
+in industry myself, it is valuable to
+hear about the sorts ol problems
+that industry is thinking about, |so]
+that we can ensure that research
+that students do will have real
+world applications."
+
+
+EREZ YOELI/The Stanford Daily

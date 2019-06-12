@@ -1,0 +1,947 @@
+# RESEARCH
+## Project solves Wi-Fi congestion BeHop trial finds success, offers potential for broader applications 
+### ALEX ZIVKOVIC DESK EDITOR 
+BeHop, a Stanford research proj
+ect that aims to better manage dense
+Wi-Fi networks, has proven success
+ful in trials in Studio 5 of Escondido
+Village.
+BeHop seeks to optimize network
+success in high-density areas like
+Stanford's campus —by allowing
+sharing of Internet access points in
+homes, colloquially called "hops." In
+stead of encountering locked ac
+counts, users can fluidly move be
+tween access points whether they
+be their own or others'.
+The name of the project, accord
+ing to lead researcher Yiannis Yiak
+oumis M.S.'O9 Ph.D 'l4, is a combina
+tion of the jazz style bebop and the
+last "hop" of the network in the
+home.
+
+"If I am in my home and I'm far
+away from my access point, I can use
+my neighbor's access point," Yiak
+oumis explained. "We're trying to re
+search how we can put this together
+where on one hand we can have a net
+work that is very easy for the user to
+set up and another that we can opti
+mize infrastructure so that it is fast,
+reliable, not slow and etc."
+The concept for the project arose
+from the challenges present in large
+cities of crowded, dense networks.
+"To give you some sense about
+density, we did some experiments in
+San Francisco and on average you get
+to see around 30 home networks from
+your own home," Yiakoumis said.
+Yiakoumis explained that the Be-
+Hop project would install an access
+point in the user's apartment or stu
+dio, allowing them to access the user
+intuitive network as they normally
+would. Those access points for the
+BeHop project support higher rates
+of connection than the existing equip
+ment in Studio 5. In addition, the cov
+erage is better for most students
+since the access point is directly in
+the students' room.
+"I have lived in Studio 5 for four
+years now and I remember that there
+were periods when I had to connect
+with the hardwire to get decent
+streaming speed," said Alexandras
+Manolakos M.S. 'l2 Ph.D. 'l7, a Be-
+Hop user. "As far as I am con
+cerned, I never had to do this af
+ter I installed the new router."
+"Also, they offer a free month
+ly subscription to Netflix,"
+Manolakos added.
+In exchange for these services,
+the research team receives writ
+ten feedback from participating
+students via a complaints form,
+but more importantly collects in
+formation on the network service
+and data transmission.
+"We are seeing up to four
+times improvement in some basic
+networking metrics," he added.
+Yiakoumis stressed that there
+is no added privacy or security
+risk of BeHop given that the net
+work is Stanford's and all data in
+formation is anonymous.
+"We do not collect any person
+al information we just keep it
+low-level networking metrics and
+for this we're anonymizing any
+sensitive information."
+In addition to providing the
+
+underlying network, IT Services
+have explored the potential for a
+broader rollout of the technology.
+"IT Services believes this
+emerging technology holds a lot of
+promise for enabling innovative
+solutions to current network chal
+lenges and simplifying the deliv
+ery and operation of the overall
+network structure," wrote Nancy
+Ware, director of strategic plan
+ning and communication in IT
+Services, in a statement. "We are
+actively exploring possible uses of
+this base technology and we will
+continue to assess its role in the
+future of Stanford's production
+network."
+Yiakoumis said that he has
+similar goals, expressing hope
+that the technology would find
+broader use on campus and poten
+tially in cities around the world.
+"For the short term we want to
+increase our user base: we want to
+put more access points," Yiak
+oumis said. "In the long term,
+some of the ideas can be applied to
+the way we set up home networks
+or networks in these dense areas."
+
+Contact Alex Zivkovic at
+aleksa@ Stanford, edu.
+BeHop, a Stanford research proj
+ect that aims to better manage dense
+Wi-Fi networks, has proven success
+ful in trials in Studio 5 of Escondido
+Village.
+BeHop seeks to optimize network
+success in high-density areas like
+Stanford's campus —by allowing
+sharing of Internet access points in
+homes, colloquially called "hops." In
+stead of encountering locked ac
+counts, users can fluidly move be
+tween access points whether they
+be their own or others'.
+The name of the project, accord
+ing to lead researcher Yiannis Yiak
+oumis M.S.'O9 Ph.D 'l4, is a combina
+tion of the jazz style bebop and the
+last "hop" of the network in the
+home.
+
+"If I am in my home and I'm far
+away from my access point, I can use
+my neighbor's access point," Yiak
+oumis explained. "We're trying to re
+search how we can put this together
+where on one hand we can have a net
+work that is very easy for the user to
+set up and another that we can opti
+mize infrastructure so that it is fast,
+reliable, not slow and etc."
+The concept for the project arose
+from the challenges present in large
+cities of crowded, dense networks.
+"To give you some sense about
+density, we did some experiments in
+San Francisco and on average you get
+to see around 30 home networks from
+your own home," Yiakoumis said.
+Yiakoumis explained that the Be-
+Hop project would install an access
+point in the user's apartment or stu
+dio, allowing them to access the user
+intuitive network as they normally
+would. Those access points for the
+BeHop project support higher rates
+of connection than the existing equip
+ment in Studio 5. In addition, the cov
+erage is better for most students
+since the access point is directly in
+the students' room.
+"I have lived in Studio 5 for four
+years now and I remember that there
+were periods when I had to connect
+with the hardwire to get decent
+streaming speed," said Alexandras
+Manolakos M.S. 'l2 Ph.D. 'l7, a Be-
+Hop user. "As far as I am con
+cerned, I never had to do this af
+ter I installed the new router."
+"Also, they offer a free month
+ly subscription to Netflix,"
+Manolakos added.
+In exchange for these services,
+the research team receives writ
+ten feedback from participating
+students via a complaints form,
+but more importantly collects in
+formation on the network service
+and data transmission.
+"We are seeing up to four
+times improvement in some basic
+networking metrics," he added.
+Yiakoumis stressed that there
+is no added privacy or security
+risk of BeHop given that the net
+work is Stanford's and all data in
+formation is anonymous.
+"We do not collect any person
+al information we just keep it
+low-level networking metrics and
+for this we're anonymizing any
+sensitive information."
+In addition to providing the
+
+underlying network, IT Services
+have explored the potential for a
+broader rollout of the technology.
+"IT Services believes this
+emerging technology holds a lot of
+promise for enabling innovative
+solutions to current network chal
+lenges and simplifying the deliv
+ery and operation of the overall
+network structure," wrote Nancy
+Ware, director of strategic plan
+ning and communication in IT
+Services, in a statement. "We are
+actively exploring possible uses of
+this base technology and we will
+continue to assess its role in the
+future of Stanford's production
+network."
+Yiakoumis said that he has
+similar goals, expressing hope
+that the technology would find
+broader use on campus and poten
+tially in cities around the world.
+"For the short term we want to
+increase our user base: we want to
+put more access points," Yiak
+oumis said. "In the long term,
+some of the ideas can be applied to
+the way we set up home networks
+or networks in these dense areas."
+
+Contact Alex Zivkovic at
+aleksa@ Stanford, edu.
+BeHop, a Stanford research proj
+ect that aims to better manage dense
+Wi-Fi networks, has proven success
+ful in trials in Studio 5 of Escondido
+Village.
+BeHop seeks to optimize network
+success in high-density areas like
+Stanford's campus —by allowing
+sharing of Internet access points in
+homes, colloquially called "hops." In
+stead of encountering locked ac
+counts, users can fluidly move be
+tween access points whether they
+be their own or others'.
+The name of the project, accord
+ing to lead researcher Yiannis Yiak
+oumis M.S.'O9 Ph.D 'l4, is a combina
+tion of the jazz style bebop and the
+last "hop" of the network in the
+home.
+
+"If I am in my home and I'm far
+away from my access point, I can use
+my neighbor's access point," Yiak
+oumis explained. "We're trying to re
+search how we can put this together
+where on one hand we can have a net
+work that is very easy for the user to
+set up and another that we can opti
+mize infrastructure so that it is fast,
+reliable, not slow and etc."
+The concept for the project arose
+from the challenges present in large
+cities of crowded, dense networks.
+"To give you some sense about
+density, we did some experiments in
+San Francisco and on average you get
+to see around 30 home networks from
+your own home," Yiakoumis said.
+Yiakoumis explained that the Be-
+Hop project would install an access
+point in the user's apartment or stu
+dio, allowing them to access the user
+intuitive network as they normally
+would. Those access points for the
+BeHop project support higher rates
+of connection than the existing equip
+ment in Studio 5. In addition, the cov
+erage is better for most students
+since the access point is directly in
+the students' room.
+"I have lived in Studio 5 for four
+years now and I remember that there
+were periods when I had to connect
+with the hardwire to get decent
+streaming speed," said Alexandras
+Manolakos M.S. 'l2 Ph.D. 'l7, a Be-
+Hop user. "As far as I am con
+cerned, I never had to do this af
+ter I installed the new router."
+"Also, they offer a free month
+ly subscription to Netflix,"
+Manolakos added.
+In exchange for these services,
+the research team receives writ
+ten feedback from participating
+students via a complaints form,
+but more importantly collects in
+formation on the network service
+and data transmission.
+"We are seeing up to four
+times improvement in some basic
+networking metrics," he added.
+Yiakoumis stressed that there
+is no added privacy or security
+risk of BeHop given that the net
+work is Stanford's and all data in
+formation is anonymous.
+"We do not collect any person
+al information we just keep it
+low-level networking metrics and
+for this we're anonymizing any
+sensitive information."
+In addition to providing the
+
+underlying network, IT Services
+have explored the potential for a
+broader rollout of the technology.
+"IT Services believes this
+emerging technology holds a lot of
+promise for enabling innovative
+solutions to current network chal
+lenges and simplifying the deliv
+ery and operation of the overall
+network structure," wrote Nancy
+Ware, director of strategic plan
+ning and communication in IT
+Services, in a statement. "We are
+actively exploring possible uses of
+this base technology and we will
+continue to assess its role in the
+future of Stanford's production
+network."
+Yiakoumis said that he has
+similar goals, expressing hope
+that the technology would find
+broader use on campus and poten
+tially in cities around the world.
+"For the short term we want to
+increase our user base: we want to
+put more access points," Yiak
+oumis said. "In the long term,
+some of the ideas can be applied to
+the way we set up home networks
+or networks in these dense areas."
+
+Contact Alex Zivkovic at
+aleksa@ Stanford, edu.
+BeHop, a Stanford research proj
+ect that aims to better manage dense
+Wi-Fi networks, has proven success
+ful in trials in Studio 5 of Escondido
+Village.
+BeHop seeks to optimize network
+success in high-density areas like
+Stanford's campus —by allowing
+sharing of Internet access points in
+homes, colloquially called "hops." In
+stead of encountering locked ac
+counts, users can fluidly move be
+tween access points whether they
+be their own or others'.
+The name of the project, accord
+ing to lead researcher Yiannis Yiak
+oumis M.S.'O9 Ph.D 'l4, is a combina
+tion of the jazz style bebop and the
+last "hop" of the network in the
+home.
+
+"If I am in my home and I'm far
+away from my access point, I can use
+my neighbor's access point," Yiak
+oumis explained. "We're trying to re
+search how we can put this together
+where on one hand we can have a net
+work that is very easy for the user to
+set up and another that we can opti
+mize infrastructure so that it is fast,
+reliable, not slow and etc."
+The concept for the project arose
+from the challenges present in large
+cities of crowded, dense networks.
+"To give you some sense about
+density, we did some experiments in
+San Francisco and on average you get
+to see around 30 home networks from
+your own home," Yiakoumis said.
+Yiakoumis explained that the Be-
+Hop project would install an access
+point in the user's apartment or stu
+dio, allowing them to access the user
+intuitive network as they normally
+would. Those access points for the
+BeHop project support higher rates
+of connection than the existing equip
+ment in Studio 5. In addition, the cov
+erage is better for most students
+since the access point is directly in
+the students' room.
+"I have lived in Studio 5 for four
+years now and I remember that there
+were periods when I had to connect
+with the hardwire to get decent
+streaming speed," said Alexandras
+Manolakos M.S. 'l2 Ph.D. 'l7, a Be-
+Hop user. "As far as I am con
+cerned, I never had to do this af
+ter I installed the new router."
+"Also, they offer a free month
+ly subscription to Netflix,"
+Manolakos added.
+In exchange for these services,
+the research team receives writ
+ten feedback from participating
+students via a complaints form,
+but more importantly collects in
+formation on the network service
+and data transmission.
+"We are seeing up to four
+times improvement in some basic
+networking metrics," he added.
+Yiakoumis stressed that there
+is no added privacy or security
+risk of BeHop given that the net
+work is Stanford's and all data in
+formation is anonymous.
+"We do not collect any person
+al information we just keep it
+low-level networking metrics and
+for this we're anonymizing any
+sensitive information."
+In addition to providing the
+
+underlying network, IT Services
+have explored the potential for a
+broader rollout of the technology.
+"IT Services believes this
+emerging technology holds a lot of
+promise for enabling innovative
+solutions to current network chal
+lenges and simplifying the deliv
+ery and operation of the overall
+network structure," wrote Nancy
+Ware, director of strategic plan
+ning and communication in IT
+Services, in a statement. "We are
+actively exploring possible uses of
+this base technology and we will
+continue to assess its role in the
+future of Stanford's production
+network."
+Yiakoumis said that he has
+similar goals, expressing hope
+that the technology would find
+broader use on campus and poten
+tially in cities around the world.
+"For the short term we want to
+increase our user base: we want to
+put more access points," Yiak
+oumis said. "In the long term,
+some of the ideas can be applied to
+the way we set up home networks
+or networks in these dense areas."
+
+Contact Alex Zivkovic at
+aleksa@ Stanford, edu.
+BeHop, a Stanford research proj
+ect that aims to better manage dense
+Wi-Fi networks, has proven success
+ful in trials in Studio 5 of Escondido
+Village.
+BeHop seeks to optimize network
+success in high-density areas like
+Stanford's campus —by allowing
+sharing of Internet access points in
+homes, colloquially called "hops." In
+stead of encountering locked ac
+counts, users can fluidly move be
+tween access points whether they
+be their own or others'.
+The name of the project, accord
+ing to lead researcher Yiannis Yiak
+oumis M.S.'O9 Ph.D 'l4, is a combina
+tion of the jazz style bebop and the
+last "hop" of the network in the
+home.
+
+"If I am in my home and I'm far
+away from my access point, I can use
+my neighbor's access point," Yiak
+oumis explained. "We're trying to re
+search how we can put this together
+where on one hand we can have a net
+work that is very easy for the user to
+set up and another that we can opti
+mize infrastructure so that it is fast,
+reliable, not slow and etc."
+The concept for the project arose
+from the challenges present in large
+cities of crowded, dense networks.
+"To give you some sense about
+density, we did some experiments in
+San Francisco and on average you get
+to see around 30 home networks from
+your own home," Yiakoumis said.
+Yiakoumis explained that the Be-
+Hop project would install an access
+point in the user's apartment or stu
+dio, allowing them to access the user
+intuitive network as they normally
+would. Those access points for the
+BeHop project support higher rates
+of connection than the existing equip
+ment in Studio 5. In addition, the cov
+erage is better for most students
+since the access point is directly in
+the students' room.
+"I have lived in Studio 5 for four
+years now and I remember that there
+were periods when I had to connect
+with the hardwire to get decent
+streaming speed," said Alexandras
+Manolakos M.S. 'l2 Ph.D. 'l7, a Be-
+Hop user. "As far as I am con
+cerned, I never had to do this af
+ter I installed the new router."
+"Also, they offer a free month
+ly subscription to Netflix,"
+Manolakos added.
+In exchange for these services,
+the research team receives writ
+ten feedback from participating
+students via a complaints form,
+but more importantly collects in
+formation on the network service
+and data transmission.
+"We are seeing up to four
+times improvement in some basic
+networking metrics," he added.
+Yiakoumis stressed that there
+is no added privacy or security
+risk of BeHop given that the net
+work is Stanford's and all data in
+formation is anonymous.
+"We do not collect any person
+al information we just keep it
+low-level networking metrics and
+for this we're anonymizing any
+sensitive information."
+In addition to providing the
+
+underlying network, IT Services
+have explored the potential for a
+broader rollout of the technology.
+"IT Services believes this
+emerging technology holds a lot of
+promise for enabling innovative
+solutions to current network chal
+lenges and simplifying the deliv
+ery and operation of the overall
+network structure," wrote Nancy
+Ware, director of strategic plan
+ning and communication in IT
+Services, in a statement. "We are
+actively exploring possible uses of
+this base technology and we will
+continue to assess its role in the
+future of Stanford's production
+network."
+Yiakoumis said that he has
+similar goals, expressing hope
+that the technology would find
+broader use on campus and poten
+tially in cities around the world.
+"For the short term we want to
+increase our user base: we want to
+put more access points," Yiak
+oumis said. "In the long term,
+some of the ideas can be applied to
+the way we set up home networks
+or networks in these dense areas."
+
+Contact Alex Zivkovic at
+aleksa@ Stanford, edu.
+BeHop, a Stanford research proj
+ect that aims to better manage dense
+Wi-Fi networks, has proven success
+ful in trials in Studio 5 of Escondido
+Village.
+BeHop seeks to optimize network
+success in high-density areas like
+Stanford's campus —by allowing
+sharing of Internet access points in
+homes, colloquially called "hops." In
+stead of encountering locked ac
+counts, users can fluidly move be
+tween access points whether they
+be their own or others'.
+The name of the project, accord
+ing to lead researcher Yiannis Yiak
+oumis M.S.'O9 Ph.D 'l4, is a combina
+tion of the jazz style bebop and the
+last "hop" of the network in the
+home.
+
+"If I am in my home and I'm far
+away from my access point, I can use
+my neighbor's access point," Yiak
+oumis explained. "We're trying to re
+search how we can put this together
+where on one hand we can have a net
+work that is very easy for the user to
+set up and another that we can opti
+mize infrastructure so that it is fast,
+reliable, not slow and etc."
+The concept for the project arose
+from the challenges present in large
+cities of crowded, dense networks.
+"To give you some sense about
+density, we did some experiments in
+San Francisco and on average you get
+to see around 30 home networks from
+your own home," Yiakoumis said.
+Yiakoumis explained that the Be-
+Hop project would install an access
+point in the user's apartment or stu
+dio, allowing them to access the user
+intuitive network as they normally
+would. Those access points for the
+BeHop project support higher rates
+of connection than the existing equip
+ment in Studio 5. In addition, the cov
+erage is better for most students
+since the access point is directly in
+the students' room.
+"I have lived in Studio 5 for four
+years now and I remember that there
+were periods when I had to connect
+with the hardwire to get decent
+streaming speed," said Alexandras
+Manolakos M.S. 'l2 Ph.D. 'l7, a Be-
+Hop user. "As far as I am con
+cerned, I never had to do this af
+ter I installed the new router."
+"Also, they offer a free month
+ly subscription to Netflix,"
+Manolakos added.
+In exchange for these services,
+the research team receives writ
+ten feedback from participating
+students via a complaints form,
+but more importantly collects in
+formation on the network service
+and data transmission.
+"We are seeing up to four
+times improvement in some basic
+networking metrics," he added.
+Yiakoumis stressed that there
+is no added privacy or security
+risk of BeHop given that the net
+work is Stanford's and all data in
+formation is anonymous.
+"We do not collect any person
+al information we just keep it
+low-level networking metrics and
+for this we're anonymizing any
+sensitive information."
+In addition to providing the
+
+underlying network, IT Services
+have explored the potential for a
+broader rollout of the technology.
+"IT Services believes this
+emerging technology holds a lot of
+promise for enabling innovative
+solutions to current network chal
+lenges and simplifying the deliv
+ery and operation of the overall
+network structure," wrote Nancy
+Ware, director of strategic plan
+ning and communication in IT
+Services, in a statement. "We are
+actively exploring possible uses of
+this base technology and we will
+continue to assess its role in the
+future of Stanford's production
+network."
+Yiakoumis said that he has
+similar goals, expressing hope
+that the technology would find
+broader use on campus and poten
+tially in cities around the world.
+"For the short term we want to
+increase our user base: we want to
+put more access points," Yiak
+oumis said. "In the long term,
+some of the ideas can be applied to
+the way we set up home networks
+or networks in these dense areas."
+
+Contact Alex Zivkovic at
+aleksa@ Stanford, edu.
+BeHop, a Stanford research proj
+ect that aims to better manage dense
+Wi-Fi networks, has proven success
+ful in trials in Studio 5 of Escondido
+Village.
+BeHop seeks to optimize network
+success in high-density areas like
+Stanford's campus —by allowing
+sharing of Internet access points in
+homes, colloquially called "hops." In
+stead of encountering locked ac
+counts, users can fluidly move be
+tween access points whether they
+be their own or others'.
+The name of the project, accord
+ing to lead researcher Yiannis Yiak
+oumis M.S.'O9 Ph.D 'l4, is a combina
+tion of the jazz style bebop and the
+last "hop" of the network in the
+home.
+
+"If I am in my home and I'm far
+away from my access point, I can use
+my neighbor's access point," Yiak
+oumis explained. "We're trying to re
+search how we can put this together
+where on one hand we can have a net
+work that is very easy for the user to
+set up and another that we can opti
+mize infrastructure so that it is fast,
+reliable, not slow and etc."
+The concept for the project arose
+from the challenges present in large
+cities of crowded, dense networks.
+"To give you some sense about
+density, we did some experiments in
+San Francisco and on average you get
+to see around 30 home networks from
+your own home," Yiakoumis said.
+Yiakoumis explained that the Be-
+Hop project would install an access
+point in the user's apartment or stu
+dio, allowing them to access the user
+intuitive network as they normally
+would. Those access points for the
+BeHop project support higher rates
+of connection than the existing equip
+ment in Studio 5. In addition, the cov
+erage is better for most students
+since the access point is directly in
+the students' room.
+"I have lived in Studio 5 for four
+years now and I remember that there
+were periods when I had to connect
+with the hardwire to get decent
+streaming speed," said Alexandras
+Manolakos M.S. 'l2 Ph.D. 'l7, a Be-
+Hop user. "As far as I am con
+cerned, I never had to do this af
+ter I installed the new router."
+"Also, they offer a free month
+ly subscription to Netflix,"
+Manolakos added.
+In exchange for these services,
+the research team receives writ
+ten feedback from participating
+students via a complaints form,
+but more importantly collects in
+formation on the network service
+and data transmission.
+"We are seeing up to four
+times improvement in some basic
+networking metrics," he added.
+Yiakoumis stressed that there
+is no added privacy or security
+risk of BeHop given that the net
+work is Stanford's and all data in
+formation is anonymous.
+"We do not collect any person
+al information we just keep it
+low-level networking metrics and
+for this we're anonymizing any
+sensitive information."
+In addition to providing the
+
+underlying network, IT Services
+have explored the potential for a
+broader rollout of the technology.
+"IT Services believes this
+emerging technology holds a lot of
+promise for enabling innovative
+solutions to current network chal
+lenges and simplifying the deliv
+ery and operation of the overall
+network structure," wrote Nancy
+Ware, director of strategic plan
+ning and communication in IT
+Services, in a statement. "We are
+actively exploring possible uses of
+this base technology and we will
+continue to assess its role in the
+future of Stanford's production
+network."
+Yiakoumis said that he has
+similar goals, expressing hope
+that the technology would find
+broader use on campus and poten
+tially in cities around the world.
+"For the short term we want to
+increase our user base: we want to
+put more access points," Yiak
+oumis said. "In the long term,
+some of the ideas can be applied to
+the way we set up home networks
+or networks in these dense areas."
+
+Contact Alex Zivkovic at
+aleksa@ Stanford, edu.
+BeHop, a Stanford research proj
+ect that aims to better manage dense
+Wi-Fi networks, has proven success
+ful in trials in Studio 5 of Escondido
+Village.
+BeHop seeks to optimize network
+success in high-density areas like
+Stanford's campus —by allowing
+sharing of Internet access points in
+homes, colloquially called "hops." In
+stead of encountering locked ac
+counts, users can fluidly move be
+tween access points whether they
+be their own or others'.
+The name of the project, accord
+ing to lead researcher Yiannis Yiak
+oumis M.S.'O9 Ph.D 'l4, is a combina
+tion of the jazz style bebop and the
+last "hop" of the network in the
+home.
+
+"If I am in my home and I'm far
+away from my access point, I can use
+my neighbor's access point," Yiak
+oumis explained. "We're trying to re
+search how we can put this together
+where on one hand we can have a net
+work that is very easy for the user to
+set up and another that we can opti
+mize infrastructure so that it is fast,
+reliable, not slow and etc."
+The concept for the project arose
+from the challenges present in large
+cities of crowded, dense networks.
+"To give you some sense about
+density, we did some experiments in
+San Francisco and on average you get
+to see around 30 home networks from
+your own home," Yiakoumis said.
+Yiakoumis explained that the Be-
+Hop project would install an access
+point in the user's apartment or stu
+dio, allowing them to access the user
+intuitive network as they normally
+would. Those access points for the
+BeHop project support higher rates
+of connection than the existing equip
+ment in Studio 5. In addition, the cov
+erage is better for most students
+since the access point is directly in
+the students' room.
+"I have lived in Studio 5 for four
+years now and I remember that there
+were periods when I had to connect
+with the hardwire to get decent
+streaming speed," said Alexandras
+Manolakos M.S. 'l2 Ph.D. 'l7, a Be-
+Hop user. "As far as I am con
+cerned, I never had to do this af
+ter I installed the new router."
+"Also, they offer a free month
+ly subscription to Netflix,"
+Manolakos added.
+In exchange for these services,
+the research team receives writ
+ten feedback from participating
+students via a complaints form,
+but more importantly collects in
+formation on the network service
+and data transmission.
+"We are seeing up to four
+times improvement in some basic
+networking metrics," he added.
+Yiakoumis stressed that there
+is no added privacy or security
+risk of BeHop given that the net
+work is Stanford's and all data in
+formation is anonymous.
+"We do not collect any person
+al information we just keep it
+low-level networking metrics and
+for this we're anonymizing any
+sensitive information."
+In addition to providing the
+
+underlying network, IT Services
+have explored the potential for a
+broader rollout of the technology.
+"IT Services believes this
+emerging technology holds a lot of
+promise for enabling innovative
+solutions to current network chal
+lenges and simplifying the deliv
+ery and operation of the overall
+network structure," wrote Nancy
+Ware, director of strategic plan
+ning and communication in IT
+Services, in a statement. "We are
+actively exploring possible uses of
+this base technology and we will
+continue to assess its role in the
+future of Stanford's production
+network."
+Yiakoumis said that he has
+similar goals, expressing hope
+that the technology would find
+broader use on campus and poten
+tially in cities around the world.
+"For the short term we want to
+increase our user base: we want to
+put more access points," Yiak
+oumis said. "In the long term,
+some of the ideas can be applied to
+the way we set up home networks
+or networks in these dense areas."
+
+Contact Alex Zivkovic at
+aleksa@ Stanford, edu.

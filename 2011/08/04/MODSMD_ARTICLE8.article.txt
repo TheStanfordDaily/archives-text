@@ -1,0 +1,1109 @@
+# RESEARCH
+## Online tracking report prompts scrutiny of online advertising industry's promises 
+### KRISTIAN DAVIS BAILEY 
+Two recent reports from Stanford Security Lab
+(SSL) researchers have fueled an ongoing debate over
+privacy issues in the largely self-regulated online adver
+tising industry.
+
+The findings, released June 12 and June 19, respec
+tively stated that some online advertising companies
+contradict their privacy policies after consumers choose
+to "opt-out" of tracking and that Epic Marketplace, an
+other online advertising firm, was "history stealing"
+from users. All the agencies involved participate in the
+Network Advertising Initiative, a cooperative of online
+advertisers that has self-regulated the industry since
+1999.
+
+"[One] reason I think self-regulation is falling apart
+is that we identified eight companies with privacy poli
+cies that might be interpreted to be in conflict with their
+current business practices," said Jonathan Mayer, a sec
+ond-year graduate student in computer science and law,
+who is on the SSL research team and authored the two
+reports. "It's important to note that these are privacy
+
+representations that the companies chose to make
+themselves beyond what NAI requires."
+Epic Marketplace did not respond to requests for
+comment but decried the bias of the term "history steal
+ing" in a blog post, writing, "this type of data collection
+occurs in virtually every web transaction."
+According to Mayer's report, Epic Marketplace uses
+a number of quick and complex algorithms that deter
+mine whether users have visited specific sites, like
+Groupon and Starbucks. It even searches for specific
+history, like viewing pages about pregnancy and fertili
+ty at the Mayo Clinic or bad credit and debt relief at the
+Federal Trade Commission (FTC).
+NIA, which also did not respond to requests for com
+ment, requires its members to stop delivering ads target
+ed to the consumer based on his browsing patterns when
+he opts out; it does not require them to cease "third
+party tracking," which involves collecting information
+like the quantitative effectiveness of the ad or whether
+agencies delivered the number of ads their clients
+
+agreed upon. There is no clear con
+sensus between ad agencies, privacy
+watchdogs or regulators about what
+tracking means or what opting out
+entails.
+
+"Tracking refers to recording in
+formation so that somebody can
+link together activities by the same
+user over time," said Edward Fel
+ten, chief technologist at the FTC.
+Peter Eckersley, senior staff
+technologist at the Electronic Fron
+tier Foundation, a watchdog group
+that campaigns for public rights in
+the digital arena, explained the ad
+industry's conflict about opting out.
+"The industry has two radically
+different notions of what 'opt out'
+means," Eckersley said. "One no
+tion is that it means, 'We'll stop col
+lecting records about you that we
+can use to track you' the other
+definition is 'We'll just stop target
+ing ads based on the tracking we've
+done.'"
+
+"It would be a mistake to write a
+piece of legislation that defines
+third-party tracking," Eckersley
+added. "The better way would be to
+have an ongoing process for revis
+ing the definition. We know tech
+nology will evolve,"
+As for current legislation, "there
+is no existing law at the federal level
+that relates to online advertising or
+third-party tracking," Felton said.
+Legislation has been introduced
+in California and at the federal level
+that would respectively give the
+state Attorney General's office and
+FTC rule-making responsibilities,
+but nothing has been enacted.
+"If the federal government were
+going to play a constructive role, [it
+should] create incentives for re
+specting consumer choice and for
+developing and respecting privacy
+enhancing technologies," Eckersley
+said.
+
+Omar Tawakol, CEO of
+BlueKai, an online advertising com
+pany and NAI member that took
+
+overt steps to honor consumer opt
+out requests, illustrated the dilem
+ma the industry faces.
+"If you asked the consumer,
+'Do you want to get rid of advertis
+ing in your content?' They'd say
+yes. If you asked them, 'Do you
+want to pay for the content?'
+They'd say no. Eighty percent [of
+content] is funded by some use of
+third-party cookie."
+Felten, Mayer, Tawakol and oth
+ers representing online advertising
+and privacy interests attended
+WiTap, "Workshop on Internet
+Tracking, Advertising and Priva
+cy," hosted at Stanford by SSL on
+July 22.
+Both Felten and Mayer spoke at
+the event, which was planned eight
+months before Mayer's reports and
+addressed technical challenges in
+the industry and promoted research
+in the field. About 150 hundred
+people attended.
+"The main consensus [reached
+was] that privacy on the web ...
+
+needs more research on both the
+technical and policy fronts," wrote
+Dan Boneh, professor of computer
+science and electrical engineering
+and one of the workshop's organiz
+ers, in an email to The Daily.
+With regard to action resulting
+from the two reports, Felten said the
+FTC never reveals whether it is per
+forming investigations but did ad
+dress the technical ambiguities sur
+rounding Mayer's charge of "history
+stealing" by Epic Marketplace.
+"[Epic] has objected to the term
+'history stealing,' but the question is
+whether there's a dispute about the
+technical details of what's happen
+ing or not," Felten said.
+Eckersley thought the issue was
+clear regardless of technicalities.
+"People are interested in
+whether these companies they've
+never heard of are sucking up all
+their reading habits like a giant vac
+uum cleaner or a creepy guy in the li
+brary looking over your shoulder at
+everything you're reading," he said.
+
+Contact Kristian Davis Bailey at
+kbailey@stanford. edu.
+Two recent reports from Stanford Security Lab
+(SSL) researchers have fueled an ongoing debate over
+privacy issues in the largely self-regulated online adver
+tising industry.
+
+The findings, released June 12 and June 19, respec
+tively stated that some online advertising companies
+contradict their privacy policies after consumers choose
+to "opt-out" of tracking and that Epic Marketplace, an
+other online advertising firm, was "history stealing"
+from users. All the agencies involved participate in the
+Network Advertising Initiative, a cooperative of online
+advertisers that has self-regulated the industry since
+1999.
+
+"[One] reason I think self-regulation is falling apart
+is that we identified eight companies with privacy poli
+cies that might be interpreted to be in conflict with their
+current business practices," said Jonathan Mayer, a sec
+ond-year graduate student in computer science and law,
+who is on the SSL research team and authored the two
+reports. "It's important to note that these are privacy
+
+representations that the companies chose to make
+themselves beyond what NAI requires."
+Epic Marketplace did not respond to requests for
+comment but decried the bias of the term "history steal
+ing" in a blog post, writing, "this type of data collection
+occurs in virtually every web transaction."
+According to Mayer's report, Epic Marketplace uses
+a number of quick and complex algorithms that deter
+mine whether users have visited specific sites, like
+Groupon and Starbucks. It even searches for specific
+history, like viewing pages about pregnancy and fertili
+ty at the Mayo Clinic or bad credit and debt relief at the
+Federal Trade Commission (FTC).
+NIA, which also did not respond to requests for com
+ment, requires its members to stop delivering ads target
+ed to the consumer based on his browsing patterns when
+he opts out; it does not require them to cease "third
+party tracking," which involves collecting information
+like the quantitative effectiveness of the ad or whether
+agencies delivered the number of ads their clients
+
+agreed upon. There is no clear con
+sensus between ad agencies, privacy
+watchdogs or regulators about what
+tracking means or what opting out
+entails.
+
+"Tracking refers to recording in
+formation so that somebody can
+link together activities by the same
+user over time," said Edward Fel
+ten, chief technologist at the FTC.
+Peter Eckersley, senior staff
+technologist at the Electronic Fron
+tier Foundation, a watchdog group
+that campaigns for public rights in
+the digital arena, explained the ad
+industry's conflict about opting out.
+"The industry has two radically
+different notions of what 'opt out'
+means," Eckersley said. "One no
+tion is that it means, 'We'll stop col
+lecting records about you that we
+can use to track you' the other
+definition is 'We'll just stop target
+ing ads based on the tracking we've
+done.'"
+
+"It would be a mistake to write a
+piece of legislation that defines
+third-party tracking," Eckersley
+added. "The better way would be to
+have an ongoing process for revis
+ing the definition. We know tech
+nology will evolve,"
+As for current legislation, "there
+is no existing law at the federal level
+that relates to online advertising or
+third-party tracking," Felton said.
+Legislation has been introduced
+in California and at the federal level
+that would respectively give the
+state Attorney General's office and
+FTC rule-making responsibilities,
+but nothing has been enacted.
+"If the federal government were
+going to play a constructive role, [it
+should] create incentives for re
+specting consumer choice and for
+developing and respecting privacy
+enhancing technologies," Eckersley
+said.
+
+Omar Tawakol, CEO of
+BlueKai, an online advertising com
+pany and NAI member that took
+
+overt steps to honor consumer opt
+out requests, illustrated the dilem
+ma the industry faces.
+"If you asked the consumer,
+'Do you want to get rid of advertis
+ing in your content?' They'd say
+yes. If you asked them, 'Do you
+want to pay for the content?'
+They'd say no. Eighty percent [of
+content] is funded by some use of
+third-party cookie."
+Felten, Mayer, Tawakol and oth
+ers representing online advertising
+and privacy interests attended
+WiTap, "Workshop on Internet
+Tracking, Advertising and Priva
+cy," hosted at Stanford by SSL on
+July 22.
+Both Felten and Mayer spoke at
+the event, which was planned eight
+months before Mayer's reports and
+addressed technical challenges in
+the industry and promoted research
+in the field. About 150 hundred
+people attended.
+"The main consensus [reached
+was] that privacy on the web ...
+
+needs more research on both the
+technical and policy fronts," wrote
+Dan Boneh, professor of computer
+science and electrical engineering
+and one of the workshop's organiz
+ers, in an email to The Daily.
+With regard to action resulting
+from the two reports, Felten said the
+FTC never reveals whether it is per
+forming investigations but did ad
+dress the technical ambiguities sur
+rounding Mayer's charge of "history
+stealing" by Epic Marketplace.
+"[Epic] has objected to the term
+'history stealing,' but the question is
+whether there's a dispute about the
+technical details of what's happen
+ing or not," Felten said.
+Eckersley thought the issue was
+clear regardless of technicalities.
+"People are interested in
+whether these companies they've
+never heard of are sucking up all
+their reading habits like a giant vac
+uum cleaner or a creepy guy in the li
+brary looking over your shoulder at
+everything you're reading," he said.
+
+Contact Kristian Davis Bailey at
+kbailey@stanford. edu.
+Two recent reports from Stanford Security Lab
+(SSL) researchers have fueled an ongoing debate over
+privacy issues in the largely self-regulated online adver
+tising industry.
+
+The findings, released June 12 and June 19, respec
+tively stated that some online advertising companies
+contradict their privacy policies after consumers choose
+to "opt-out" of tracking and that Epic Marketplace, an
+other online advertising firm, was "history stealing"
+from users. All the agencies involved participate in the
+Network Advertising Initiative, a cooperative of online
+advertisers that has self-regulated the industry since
+1999.
+
+"[One] reason I think self-regulation is falling apart
+is that we identified eight companies with privacy poli
+cies that might be interpreted to be in conflict with their
+current business practices," said Jonathan Mayer, a sec
+ond-year graduate student in computer science and law,
+who is on the SSL research team and authored the two
+reports. "It's important to note that these are privacy
+
+representations that the companies chose to make
+themselves beyond what NAI requires."
+Epic Marketplace did not respond to requests for
+comment but decried the bias of the term "history steal
+ing" in a blog post, writing, "this type of data collection
+occurs in virtually every web transaction."
+According to Mayer's report, Epic Marketplace uses
+a number of quick and complex algorithms that deter
+mine whether users have visited specific sites, like
+Groupon and Starbucks. It even searches for specific
+history, like viewing pages about pregnancy and fertili
+ty at the Mayo Clinic or bad credit and debt relief at the
+Federal Trade Commission (FTC).
+NIA, which also did not respond to requests for com
+ment, requires its members to stop delivering ads target
+ed to the consumer based on his browsing patterns when
+he opts out; it does not require them to cease "third
+party tracking," which involves collecting information
+like the quantitative effectiveness of the ad or whether
+agencies delivered the number of ads their clients
+
+agreed upon. There is no clear con
+sensus between ad agencies, privacy
+watchdogs or regulators about what
+tracking means or what opting out
+entails.
+
+"Tracking refers to recording in
+formation so that somebody can
+link together activities by the same
+user over time," said Edward Fel
+ten, chief technologist at the FTC.
+Peter Eckersley, senior staff
+technologist at the Electronic Fron
+tier Foundation, a watchdog group
+that campaigns for public rights in
+the digital arena, explained the ad
+industry's conflict about opting out.
+"The industry has two radically
+different notions of what 'opt out'
+means," Eckersley said. "One no
+tion is that it means, 'We'll stop col
+lecting records about you that we
+can use to track you' the other
+definition is 'We'll just stop target
+ing ads based on the tracking we've
+done.'"
+
+"It would be a mistake to write a
+piece of legislation that defines
+third-party tracking," Eckersley
+added. "The better way would be to
+have an ongoing process for revis
+ing the definition. We know tech
+nology will evolve,"
+As for current legislation, "there
+is no existing law at the federal level
+that relates to online advertising or
+third-party tracking," Felton said.
+Legislation has been introduced
+in California and at the federal level
+that would respectively give the
+state Attorney General's office and
+FTC rule-making responsibilities,
+but nothing has been enacted.
+"If the federal government were
+going to play a constructive role, [it
+should] create incentives for re
+specting consumer choice and for
+developing and respecting privacy
+enhancing technologies," Eckersley
+said.
+
+Omar Tawakol, CEO of
+BlueKai, an online advertising com
+pany and NAI member that took
+
+overt steps to honor consumer opt
+out requests, illustrated the dilem
+ma the industry faces.
+"If you asked the consumer,
+'Do you want to get rid of advertis
+ing in your content?' They'd say
+yes. If you asked them, 'Do you
+want to pay for the content?'
+They'd say no. Eighty percent [of
+content] is funded by some use of
+third-party cookie."
+Felten, Mayer, Tawakol and oth
+ers representing online advertising
+and privacy interests attended
+WiTap, "Workshop on Internet
+Tracking, Advertising and Priva
+cy," hosted at Stanford by SSL on
+July 22.
+Both Felten and Mayer spoke at
+the event, which was planned eight
+months before Mayer's reports and
+addressed technical challenges in
+the industry and promoted research
+in the field. About 150 hundred
+people attended.
+"The main consensus [reached
+was] that privacy on the web ...
+
+needs more research on both the
+technical and policy fronts," wrote
+Dan Boneh, professor of computer
+science and electrical engineering
+and one of the workshop's organiz
+ers, in an email to The Daily.
+With regard to action resulting
+from the two reports, Felten said the
+FTC never reveals whether it is per
+forming investigations but did ad
+dress the technical ambiguities sur
+rounding Mayer's charge of "history
+stealing" by Epic Marketplace.
+"[Epic] has objected to the term
+'history stealing,' but the question is
+whether there's a dispute about the
+technical details of what's happen
+ing or not," Felten said.
+Eckersley thought the issue was
+clear regardless of technicalities.
+"People are interested in
+whether these companies they've
+never heard of are sucking up all
+their reading habits like a giant vac
+uum cleaner or a creepy guy in the li
+brary looking over your shoulder at
+everything you're reading," he said.
+
+Contact Kristian Davis Bailey at
+kbailey@stanford. edu.
+Two recent reports from Stanford Security Lab
+(SSL) researchers have fueled an ongoing debate over
+privacy issues in the largely self-regulated online adver
+tising industry.
+
+The findings, released June 12 and June 19, respec
+tively stated that some online advertising companies
+contradict their privacy policies after consumers choose
+to "opt-out" of tracking and that Epic Marketplace, an
+other online advertising firm, was "history stealing"
+from users. All the agencies involved participate in the
+Network Advertising Initiative, a cooperative of online
+advertisers that has self-regulated the industry since
+1999.
+
+"[One] reason I think self-regulation is falling apart
+is that we identified eight companies with privacy poli
+cies that might be interpreted to be in conflict with their
+current business practices," said Jonathan Mayer, a sec
+ond-year graduate student in computer science and law,
+who is on the SSL research team and authored the two
+reports. "It's important to note that these are privacy
+
+representations that the companies chose to make
+themselves beyond what NAI requires."
+Epic Marketplace did not respond to requests for
+comment but decried the bias of the term "history steal
+ing" in a blog post, writing, "this type of data collection
+occurs in virtually every web transaction."
+According to Mayer's report, Epic Marketplace uses
+a number of quick and complex algorithms that deter
+mine whether users have visited specific sites, like
+Groupon and Starbucks. It even searches for specific
+history, like viewing pages about pregnancy and fertili
+ty at the Mayo Clinic or bad credit and debt relief at the
+Federal Trade Commission (FTC).
+NIA, which also did not respond to requests for com
+ment, requires its members to stop delivering ads target
+ed to the consumer based on his browsing patterns when
+he opts out; it does not require them to cease "third
+party tracking," which involves collecting information
+like the quantitative effectiveness of the ad or whether
+agencies delivered the number of ads their clients
+
+agreed upon. There is no clear con
+sensus between ad agencies, privacy
+watchdogs or regulators about what
+tracking means or what opting out
+entails.
+
+"Tracking refers to recording in
+formation so that somebody can
+link together activities by the same
+user over time," said Edward Fel
+ten, chief technologist at the FTC.
+Peter Eckersley, senior staff
+technologist at the Electronic Fron
+tier Foundation, a watchdog group
+that campaigns for public rights in
+the digital arena, explained the ad
+industry's conflict about opting out.
+"The industry has two radically
+different notions of what 'opt out'
+means," Eckersley said. "One no
+tion is that it means, 'We'll stop col
+lecting records about you that we
+can use to track you' the other
+definition is 'We'll just stop target
+ing ads based on the tracking we've
+done.'"
+
+"It would be a mistake to write a
+piece of legislation that defines
+third-party tracking," Eckersley
+added. "The better way would be to
+have an ongoing process for revis
+ing the definition. We know tech
+nology will evolve,"
+As for current legislation, "there
+is no existing law at the federal level
+that relates to online advertising or
+third-party tracking," Felton said.
+Legislation has been introduced
+in California and at the federal level
+that would respectively give the
+state Attorney General's office and
+FTC rule-making responsibilities,
+but nothing has been enacted.
+"If the federal government were
+going to play a constructive role, [it
+should] create incentives for re
+specting consumer choice and for
+developing and respecting privacy
+enhancing technologies," Eckersley
+said.
+
+Omar Tawakol, CEO of
+BlueKai, an online advertising com
+pany and NAI member that took
+
+overt steps to honor consumer opt
+out requests, illustrated the dilem
+ma the industry faces.
+"If you asked the consumer,
+'Do you want to get rid of advertis
+ing in your content?' They'd say
+yes. If you asked them, 'Do you
+want to pay for the content?'
+They'd say no. Eighty percent [of
+content] is funded by some use of
+third-party cookie."
+Felten, Mayer, Tawakol and oth
+ers representing online advertising
+and privacy interests attended
+WiTap, "Workshop on Internet
+Tracking, Advertising and Priva
+cy," hosted at Stanford by SSL on
+July 22.
+Both Felten and Mayer spoke at
+the event, which was planned eight
+months before Mayer's reports and
+addressed technical challenges in
+the industry and promoted research
+in the field. About 150 hundred
+people attended.
+"The main consensus [reached
+was] that privacy on the web ...
+
+needs more research on both the
+technical and policy fronts," wrote
+Dan Boneh, professor of computer
+science and electrical engineering
+and one of the workshop's organiz
+ers, in an email to The Daily.
+With regard to action resulting
+from the two reports, Felten said the
+FTC never reveals whether it is per
+forming investigations but did ad
+dress the technical ambiguities sur
+rounding Mayer's charge of "history
+stealing" by Epic Marketplace.
+"[Epic] has objected to the term
+'history stealing,' but the question is
+whether there's a dispute about the
+technical details of what's happen
+ing or not," Felten said.
+Eckersley thought the issue was
+clear regardless of technicalities.
+"People are interested in
+whether these companies they've
+never heard of are sucking up all
+their reading habits like a giant vac
+uum cleaner or a creepy guy in the li
+brary looking over your shoulder at
+everything you're reading," he said.
+
+Contact Kristian Davis Bailey at
+kbailey@stanford. edu.
+Two recent reports from Stanford Security Lab
+(SSL) researchers have fueled an ongoing debate over
+privacy issues in the largely self-regulated online adver
+tising industry.
+
+The findings, released June 12 and June 19, respec
+tively stated that some online advertising companies
+contradict their privacy policies after consumers choose
+to "opt-out" of tracking and that Epic Marketplace, an
+other online advertising firm, was "history stealing"
+from users. All the agencies involved participate in the
+Network Advertising Initiative, a cooperative of online
+advertisers that has self-regulated the industry since
+1999.
+
+"[One] reason I think self-regulation is falling apart
+is that we identified eight companies with privacy poli
+cies that might be interpreted to be in conflict with their
+current business practices," said Jonathan Mayer, a sec
+ond-year graduate student in computer science and law,
+who is on the SSL research team and authored the two
+reports. "It's important to note that these are privacy
+
+representations that the companies chose to make
+themselves beyond what NAI requires."
+Epic Marketplace did not respond to requests for
+comment but decried the bias of the term "history steal
+ing" in a blog post, writing, "this type of data collection
+occurs in virtually every web transaction."
+According to Mayer's report, Epic Marketplace uses
+a number of quick and complex algorithms that deter
+mine whether users have visited specific sites, like
+Groupon and Starbucks. It even searches for specific
+history, like viewing pages about pregnancy and fertili
+ty at the Mayo Clinic or bad credit and debt relief at the
+Federal Trade Commission (FTC).
+NIA, which also did not respond to requests for com
+ment, requires its members to stop delivering ads target
+ed to the consumer based on his browsing patterns when
+he opts out; it does not require them to cease "third
+party tracking," which involves collecting information
+like the quantitative effectiveness of the ad or whether
+agencies delivered the number of ads their clients
+
+agreed upon. There is no clear con
+sensus between ad agencies, privacy
+watchdogs or regulators about what
+tracking means or what opting out
+entails.
+
+"Tracking refers to recording in
+formation so that somebody can
+link together activities by the same
+user over time," said Edward Fel
+ten, chief technologist at the FTC.
+Peter Eckersley, senior staff
+technologist at the Electronic Fron
+tier Foundation, a watchdog group
+that campaigns for public rights in
+the digital arena, explained the ad
+industry's conflict about opting out.
+"The industry has two radically
+different notions of what 'opt out'
+means," Eckersley said. "One no
+tion is that it means, 'We'll stop col
+lecting records about you that we
+can use to track you' the other
+definition is 'We'll just stop target
+ing ads based on the tracking we've
+done.'"
+
+"It would be a mistake to write a
+piece of legislation that defines
+third-party tracking," Eckersley
+added. "The better way would be to
+have an ongoing process for revis
+ing the definition. We know tech
+nology will evolve,"
+As for current legislation, "there
+is no existing law at the federal level
+that relates to online advertising or
+third-party tracking," Felton said.
+Legislation has been introduced
+in California and at the federal level
+that would respectively give the
+state Attorney General's office and
+FTC rule-making responsibilities,
+but nothing has been enacted.
+"If the federal government were
+going to play a constructive role, [it
+should] create incentives for re
+specting consumer choice and for
+developing and respecting privacy
+enhancing technologies," Eckersley
+said.
+
+Omar Tawakol, CEO of
+BlueKai, an online advertising com
+pany and NAI member that took
+
+overt steps to honor consumer opt
+out requests, illustrated the dilem
+ma the industry faces.
+"If you asked the consumer,
+'Do you want to get rid of advertis
+ing in your content?' They'd say
+yes. If you asked them, 'Do you
+want to pay for the content?'
+They'd say no. Eighty percent [of
+content] is funded by some use of
+third-party cookie."
+Felten, Mayer, Tawakol and oth
+ers representing online advertising
+and privacy interests attended
+WiTap, "Workshop on Internet
+Tracking, Advertising and Priva
+cy," hosted at Stanford by SSL on
+July 22.
+Both Felten and Mayer spoke at
+the event, which was planned eight
+months before Mayer's reports and
+addressed technical challenges in
+the industry and promoted research
+in the field. About 150 hundred
+people attended.
+"The main consensus [reached
+was] that privacy on the web ...
+
+needs more research on both the
+technical and policy fronts," wrote
+Dan Boneh, professor of computer
+science and electrical engineering
+and one of the workshop's organiz
+ers, in an email to The Daily.
+With regard to action resulting
+from the two reports, Felten said the
+FTC never reveals whether it is per
+forming investigations but did ad
+dress the technical ambiguities sur
+rounding Mayer's charge of "history
+stealing" by Epic Marketplace.
+"[Epic] has objected to the term
+'history stealing,' but the question is
+whether there's a dispute about the
+technical details of what's happen
+ing or not," Felten said.
+Eckersley thought the issue was
+clear regardless of technicalities.
+"People are interested in
+whether these companies they've
+never heard of are sucking up all
+their reading habits like a giant vac
+uum cleaner or a creepy guy in the li
+brary looking over your shoulder at
+everything you're reading," he said.
+
+Contact Kristian Davis Bailey at
+kbailey@stanford. edu.
+Two recent reports from Stanford Security Lab
+(SSL) researchers have fueled an ongoing debate over
+privacy issues in the largely self-regulated online adver
+tising industry.
+
+The findings, released June 12 and June 19, respec
+tively stated that some online advertising companies
+contradict their privacy policies after consumers choose
+to "opt-out" of tracking and that Epic Marketplace, an
+other online advertising firm, was "history stealing"
+from users. All the agencies involved participate in the
+Network Advertising Initiative, a cooperative of online
+advertisers that has self-regulated the industry since
+1999.
+
+"[One] reason I think self-regulation is falling apart
+is that we identified eight companies with privacy poli
+cies that might be interpreted to be in conflict with their
+current business practices," said Jonathan Mayer, a sec
+ond-year graduate student in computer science and law,
+who is on the SSL research team and authored the two
+reports. "It's important to note that these are privacy
+
+representations that the companies chose to make
+themselves beyond what NAI requires."
+Epic Marketplace did not respond to requests for
+comment but decried the bias of the term "history steal
+ing" in a blog post, writing, "this type of data collection
+occurs in virtually every web transaction."
+According to Mayer's report, Epic Marketplace uses
+a number of quick and complex algorithms that deter
+mine whether users have visited specific sites, like
+Groupon and Starbucks. It even searches for specific
+history, like viewing pages about pregnancy and fertili
+ty at the Mayo Clinic or bad credit and debt relief at the
+Federal Trade Commission (FTC).
+NIA, which also did not respond to requests for com
+ment, requires its members to stop delivering ads target
+ed to the consumer based on his browsing patterns when
+he opts out; it does not require them to cease "third
+party tracking," which involves collecting information
+like the quantitative effectiveness of the ad or whether
+agencies delivered the number of ads their clients
+
+agreed upon. There is no clear con
+sensus between ad agencies, privacy
+watchdogs or regulators about what
+tracking means or what opting out
+entails.
+
+"Tracking refers to recording in
+formation so that somebody can
+link together activities by the same
+user over time," said Edward Fel
+ten, chief technologist at the FTC.
+Peter Eckersley, senior staff
+technologist at the Electronic Fron
+tier Foundation, a watchdog group
+that campaigns for public rights in
+the digital arena, explained the ad
+industry's conflict about opting out.
+"The industry has two radically
+different notions of what 'opt out'
+means," Eckersley said. "One no
+tion is that it means, 'We'll stop col
+lecting records about you that we
+can use to track you' the other
+definition is 'We'll just stop target
+ing ads based on the tracking we've
+done.'"
+
+"It would be a mistake to write a
+piece of legislation that defines
+third-party tracking," Eckersley
+added. "The better way would be to
+have an ongoing process for revis
+ing the definition. We know tech
+nology will evolve,"
+As for current legislation, "there
+is no existing law at the federal level
+that relates to online advertising or
+third-party tracking," Felton said.
+Legislation has been introduced
+in California and at the federal level
+that would respectively give the
+state Attorney General's office and
+FTC rule-making responsibilities,
+but nothing has been enacted.
+"If the federal government were
+going to play a constructive role, [it
+should] create incentives for re
+specting consumer choice and for
+developing and respecting privacy
+enhancing technologies," Eckersley
+said.
+
+Omar Tawakol, CEO of
+BlueKai, an online advertising com
+pany and NAI member that took
+
+overt steps to honor consumer opt
+out requests, illustrated the dilem
+ma the industry faces.
+"If you asked the consumer,
+'Do you want to get rid of advertis
+ing in your content?' They'd say
+yes. If you asked them, 'Do you
+want to pay for the content?'
+They'd say no. Eighty percent [of
+content] is funded by some use of
+third-party cookie."
+Felten, Mayer, Tawakol and oth
+ers representing online advertising
+and privacy interests attended
+WiTap, "Workshop on Internet
+Tracking, Advertising and Priva
+cy," hosted at Stanford by SSL on
+July 22.
+Both Felten and Mayer spoke at
+the event, which was planned eight
+months before Mayer's reports and
+addressed technical challenges in
+the industry and promoted research
+in the field. About 150 hundred
+people attended.
+"The main consensus [reached
+was] that privacy on the web ...
+
+needs more research on both the
+technical and policy fronts," wrote
+Dan Boneh, professor of computer
+science and electrical engineering
+and one of the workshop's organiz
+ers, in an email to The Daily.
+With regard to action resulting
+from the two reports, Felten said the
+FTC never reveals whether it is per
+forming investigations but did ad
+dress the technical ambiguities sur
+rounding Mayer's charge of "history
+stealing" by Epic Marketplace.
+"[Epic] has objected to the term
+'history stealing,' but the question is
+whether there's a dispute about the
+technical details of what's happen
+ing or not," Felten said.
+Eckersley thought the issue was
+clear regardless of technicalities.
+"People are interested in
+whether these companies they've
+never heard of are sucking up all
+their reading habits like a giant vac
+uum cleaner or a creepy guy in the li
+brary looking over your shoulder at
+everything you're reading," he said.
+
+Contact Kristian Davis Bailey at
+kbailey@stanford. edu.
+Two recent reports from Stanford Security Lab
+(SSL) researchers have fueled an ongoing debate over
+privacy issues in the largely self-regulated online adver
+tising industry.
+
+The findings, released June 12 and June 19, respec
+tively stated that some online advertising companies
+contradict their privacy policies after consumers choose
+to "opt-out" of tracking and that Epic Marketplace, an
+other online advertising firm, was "history stealing"
+from users. All the agencies involved participate in the
+Network Advertising Initiative, a cooperative of online
+advertisers that has self-regulated the industry since
+1999.
+
+"[One] reason I think self-regulation is falling apart
+is that we identified eight companies with privacy poli
+cies that might be interpreted to be in conflict with their
+current business practices," said Jonathan Mayer, a sec
+ond-year graduate student in computer science and law,
+who is on the SSL research team and authored the two
+reports. "It's important to note that these are privacy
+
+representations that the companies chose to make
+themselves beyond what NAI requires."
+Epic Marketplace did not respond to requests for
+comment but decried the bias of the term "history steal
+ing" in a blog post, writing, "this type of data collection
+occurs in virtually every web transaction."
+According to Mayer's report, Epic Marketplace uses
+a number of quick and complex algorithms that deter
+mine whether users have visited specific sites, like
+Groupon and Starbucks. It even searches for specific
+history, like viewing pages about pregnancy and fertili
+ty at the Mayo Clinic or bad credit and debt relief at the
+Federal Trade Commission (FTC).
+NIA, which also did not respond to requests for com
+ment, requires its members to stop delivering ads target
+ed to the consumer based on his browsing patterns when
+he opts out; it does not require them to cease "third
+party tracking," which involves collecting information
+like the quantitative effectiveness of the ad or whether
+agencies delivered the number of ads their clients
+
+agreed upon. There is no clear con
+sensus between ad agencies, privacy
+watchdogs or regulators about what
+tracking means or what opting out
+entails.
+
+"Tracking refers to recording in
+formation so that somebody can
+link together activities by the same
+user over time," said Edward Fel
+ten, chief technologist at the FTC.
+Peter Eckersley, senior staff
+technologist at the Electronic Fron
+tier Foundation, a watchdog group
+that campaigns for public rights in
+the digital arena, explained the ad
+industry's conflict about opting out.
+"The industry has two radically
+different notions of what 'opt out'
+means," Eckersley said. "One no
+tion is that it means, 'We'll stop col
+lecting records about you that we
+can use to track you' the other
+definition is 'We'll just stop target
+ing ads based on the tracking we've
+done.'"
+
+"It would be a mistake to write a
+piece of legislation that defines
+third-party tracking," Eckersley
+added. "The better way would be to
+have an ongoing process for revis
+ing the definition. We know tech
+nology will evolve,"
+As for current legislation, "there
+is no existing law at the federal level
+that relates to online advertising or
+third-party tracking," Felton said.
+Legislation has been introduced
+in California and at the federal level
+that would respectively give the
+state Attorney General's office and
+FTC rule-making responsibilities,
+but nothing has been enacted.
+"If the federal government were
+going to play a constructive role, [it
+should] create incentives for re
+specting consumer choice and for
+developing and respecting privacy
+enhancing technologies," Eckersley
+said.
+
+Omar Tawakol, CEO of
+BlueKai, an online advertising com
+pany and NAI member that took
+
+overt steps to honor consumer opt
+out requests, illustrated the dilem
+ma the industry faces.
+"If you asked the consumer,
+'Do you want to get rid of advertis
+ing in your content?' They'd say
+yes. If you asked them, 'Do you
+want to pay for the content?'
+They'd say no. Eighty percent [of
+content] is funded by some use of
+third-party cookie."
+Felten, Mayer, Tawakol and oth
+ers representing online advertising
+and privacy interests attended
+WiTap, "Workshop on Internet
+Tracking, Advertising and Priva
+cy," hosted at Stanford by SSL on
+July 22.
+Both Felten and Mayer spoke at
+the event, which was planned eight
+months before Mayer's reports and
+addressed technical challenges in
+the industry and promoted research
+in the field. About 150 hundred
+people attended.
+"The main consensus [reached
+was] that privacy on the web ...
+
+needs more research on both the
+technical and policy fronts," wrote
+Dan Boneh, professor of computer
+science and electrical engineering
+and one of the workshop's organiz
+ers, in an email to The Daily.
+With regard to action resulting
+from the two reports, Felten said the
+FTC never reveals whether it is per
+forming investigations but did ad
+dress the technical ambiguities sur
+rounding Mayer's charge of "history
+stealing" by Epic Marketplace.
+"[Epic] has objected to the term
+'history stealing,' but the question is
+whether there's a dispute about the
+technical details of what's happen
+ing or not," Felten said.
+Eckersley thought the issue was
+clear regardless of technicalities.
+"People are interested in
+whether these companies they've
+never heard of are sucking up all
+their reading habits like a giant vac
+uum cleaner or a creepy guy in the li
+brary looking over your shoulder at
+everything you're reading," he said.
+
+Contact Kristian Davis Bailey at
+kbailey@stanford. edu.

@@ -1,0 +1,878 @@
+# SPEAKERS & EVENTS
+## Internet unregulated, vulnerable to attack, McLaughlin says in lecture 
+### JOSH HOYT STAFF WRITER 
+It can be hard to know what to believe on the Internet.
+
+Andrew McLaughlin, former Deputy Chief Technolo
+gy Officer for the Obama Administration, gave the first
+lecture in a series hosted by the Center on Democracy, De
+velopment and the Rule of Law (CDDRL).
+
+In the talk, he outlined several vulnerabilities of the in
+frastructure of the Internet and the difficulties in over
+coming them.
+
+"There are three particular global infrastructure secu
+rity issues," McLaughlin said. "What they all have in com
+mon is that they present a model of diffuse, decentralized
+responsibility and broad coordination and implementa
+tion where essentially nobody is in charge."
+The first problem he outlined is the issue of the "name
+server," part of the system that tells your browser where to
+go when you type in an Internet address.
+"If someone can get between you and one of the name
+servers and act like one of the name servers, they can send
+back responses that your computer will trust but that are
+false," McLaughlin said. "So they can send you to some
+thing that they've set up that looks like Gmail, and when
+you type your password into [it], they have your pass
+word."
+
+Surprisingly, acting as a name server is remarkably easy
+
+to accomplish. The conversation between you and the
+"name server" is often "in plain text out over the Internet."
+"This protocol was built for the Internet when security
+was just not a big consideration," McLaughlin continued.
+"The Internet was just a network of universities linked to
+gether, trusting each other, basically."
+The trust inherent in the Internet architecture is appar
+ent in the "trust -based" communications between ISPs as
+well. Different ISPs are responsible for different IP ad
+dresses. To locate specific sites, ISPs around the world an
+nounce which IP addresses they have using "route an
+nouncements."
+
+The problem is that these announcements are not ver
+ified by anyone. It is up to the ISPs to do it correctly, which
+can lead to problems. In 2006 a small Pakistani ISP "an
+nounced" You Tube, accidentally shutting down both
+You Tube and the Internet in Pakistan.
+
+In more sinister hands, this weakness can be exploited
+to selectively turn websites off.
+
+"There was an incident in 2009 where China Telecom
+munications Corporation (China Telecom) suddenly start
+ed announcing about 15 percent of the world's routes which
+they were not, in fact, responsible for," McLaughlin said.
+"China Telecom has now been sort of caught red-handed
+both hijacking routes on a temporary basis and also occa-
+
+
+MICHAEL KHEIR/The Stanford Daily
+Former Deputy Chief Technology Officer for the White House Andrew McLaughlin gave a lecture in Wallenberg
+Theater on Thursday about the difficulties associated with gathering international support to secure the Internet.
+sionally spoofing certificate authori
+ties."
+McLaughlin believes this may
+have been a test to see if China was
+capable of quickly turning off por
+tions of the Internet and replacing
+them with fake sites. China would be
+able to spy on people around the
+world with this capability.
+The third weakness in Internet
+authentication has been used to gath
+er information about citizens of Iran.
+The system that browsers use to veri
+fy that websites are authentic that
+the site is who or what it claims to be
+often have built-in authorities des
+ignating acceptable certificates.
+When you go to a website and your
+browser warns you about visiting, it is
+
+relying on this system of authenticat
+ing. However there is little oversight of
+these authorities, and nobody has a
+clear mandate to oversee them.
+
+One such authority, a Dutch com
+pany, was hacked recently. The hack
+er was able to issue a certificate for
+Google, meaning they could imper
+sonate Google and look at people's
+personal information. The target of
+the attack was mainly people in Iran,
+and the attacker left the message, "I
+will sacrifice my soul for my leader"
+in Farsi.
+
+While these issues are widely rec
+ognized, the solutions are complex.
+One problem is the issue of sover
+eignty. A group of concerned experts
+has come up with a solution to the
+issue of "name servers," but nobody
+has the authority to implement it.
+"Imagine you're Kenya and you
+are being told anything that is not
+signed off on, on an operational level,
+by this California organization, is not
+going to exist as far as the Internet is
+concerned," McLaughlin said. "Who
+are these people? How were they
+chosen?"
+For Stanford students in atten
+dance, McLaughlin's talk was both
+sobering and suggested opportuni
+ties for students.
+"I think cyberlaw is going to be
+the most interesting form of law in
+the future," said Marcheta Marshall
+'l4. "How do you put laws around the
+Internet?"
+
+Contact Josh Hoyt at jwghoyt@stan
+ford.edu.
+It can be hard to know what to believe on the Internet.
+
+Andrew McLaughlin, former Deputy Chief Technolo
+gy Officer for the Obama Administration, gave the first
+lecture in a series hosted by the Center on Democracy, De
+velopment and the Rule of Law (CDDRL).
+
+In the talk, he outlined several vulnerabilities of the in
+frastructure of the Internet and the difficulties in over
+coming them.
+
+"There are three particular global infrastructure secu
+rity issues," McLaughlin said. "What they all have in com
+mon is that they present a model of diffuse, decentralized
+responsibility and broad coordination and implementa
+tion where essentially nobody is in charge."
+The first problem he outlined is the issue of the "name
+server," part of the system that tells your browser where to
+go when you type in an Internet address.
+"If someone can get between you and one of the name
+servers and act like one of the name servers, they can send
+back responses that your computer will trust but that are
+false," McLaughlin said. "So they can send you to some
+thing that they've set up that looks like Gmail, and when
+you type your password into [it], they have your pass
+word."
+
+Surprisingly, acting as a name server is remarkably easy
+
+to accomplish. The conversation between you and the
+"name server" is often "in plain text out over the Internet."
+"This protocol was built for the Internet when security
+was just not a big consideration," McLaughlin continued.
+"The Internet was just a network of universities linked to
+gether, trusting each other, basically."
+The trust inherent in the Internet architecture is appar
+ent in the "trust -based" communications between ISPs as
+well. Different ISPs are responsible for different IP ad
+dresses. To locate specific sites, ISPs around the world an
+nounce which IP addresses they have using "route an
+nouncements."
+
+The problem is that these announcements are not ver
+ified by anyone. It is up to the ISPs to do it correctly, which
+can lead to problems. In 2006 a small Pakistani ISP "an
+nounced" You Tube, accidentally shutting down both
+You Tube and the Internet in Pakistan.
+
+In more sinister hands, this weakness can be exploited
+to selectively turn websites off.
+
+"There was an incident in 2009 where China Telecom
+munications Corporation (China Telecom) suddenly start
+ed announcing about 15 percent of the world's routes which
+they were not, in fact, responsible for," McLaughlin said.
+"China Telecom has now been sort of caught red-handed
+both hijacking routes on a temporary basis and also occa-
+
+
+MICHAEL KHEIR/The Stanford Daily
+Former Deputy Chief Technology Officer for the White House Andrew McLaughlin gave a lecture in Wallenberg
+Theater on Thursday about the difficulties associated with gathering international support to secure the Internet.
+sionally spoofing certificate authori
+ties."
+McLaughlin believes this may
+have been a test to see if China was
+capable of quickly turning off por
+tions of the Internet and replacing
+them with fake sites. China would be
+able to spy on people around the
+world with this capability.
+The third weakness in Internet
+authentication has been used to gath
+er information about citizens of Iran.
+The system that browsers use to veri
+fy that websites are authentic that
+the site is who or what it claims to be
+often have built-in authorities des
+ignating acceptable certificates.
+When you go to a website and your
+browser warns you about visiting, it is
+
+relying on this system of authenticat
+ing. However there is little oversight of
+these authorities, and nobody has a
+clear mandate to oversee them.
+
+One such authority, a Dutch com
+pany, was hacked recently. The hack
+er was able to issue a certificate for
+Google, meaning they could imper
+sonate Google and look at people's
+personal information. The target of
+the attack was mainly people in Iran,
+and the attacker left the message, "I
+will sacrifice my soul for my leader"
+in Farsi.
+
+While these issues are widely rec
+ognized, the solutions are complex.
+One problem is the issue of sover
+eignty. A group of concerned experts
+has come up with a solution to the
+issue of "name servers," but nobody
+has the authority to implement it.
+"Imagine you're Kenya and you
+are being told anything that is not
+signed off on, on an operational level,
+by this California organization, is not
+going to exist as far as the Internet is
+concerned," McLaughlin said. "Who
+are these people? How were they
+chosen?"
+For Stanford students in atten
+dance, McLaughlin's talk was both
+sobering and suggested opportuni
+ties for students.
+"I think cyberlaw is going to be
+the most interesting form of law in
+the future," said Marcheta Marshall
+'l4. "How do you put laws around the
+Internet?"
+
+Contact Josh Hoyt at jwghoyt@stan
+ford.edu.
+It can be hard to know what to believe on the Internet.
+
+Andrew McLaughlin, former Deputy Chief Technolo
+gy Officer for the Obama Administration, gave the first
+lecture in a series hosted by the Center on Democracy, De
+velopment and the Rule of Law (CDDRL).
+
+In the talk, he outlined several vulnerabilities of the in
+frastructure of the Internet and the difficulties in over
+coming them.
+
+"There are three particular global infrastructure secu
+rity issues," McLaughlin said. "What they all have in com
+mon is that they present a model of diffuse, decentralized
+responsibility and broad coordination and implementa
+tion where essentially nobody is in charge."
+The first problem he outlined is the issue of the "name
+server," part of the system that tells your browser where to
+go when you type in an Internet address.
+"If someone can get between you and one of the name
+servers and act like one of the name servers, they can send
+back responses that your computer will trust but that are
+false," McLaughlin said. "So they can send you to some
+thing that they've set up that looks like Gmail, and when
+you type your password into [it], they have your pass
+word."
+
+Surprisingly, acting as a name server is remarkably easy
+
+to accomplish. The conversation between you and the
+"name server" is often "in plain text out over the Internet."
+"This protocol was built for the Internet when security
+was just not a big consideration," McLaughlin continued.
+"The Internet was just a network of universities linked to
+gether, trusting each other, basically."
+The trust inherent in the Internet architecture is appar
+ent in the "trust -based" communications between ISPs as
+well. Different ISPs are responsible for different IP ad
+dresses. To locate specific sites, ISPs around the world an
+nounce which IP addresses they have using "route an
+nouncements."
+
+The problem is that these announcements are not ver
+ified by anyone. It is up to the ISPs to do it correctly, which
+can lead to problems. In 2006 a small Pakistani ISP "an
+nounced" You Tube, accidentally shutting down both
+You Tube and the Internet in Pakistan.
+
+In more sinister hands, this weakness can be exploited
+to selectively turn websites off.
+
+"There was an incident in 2009 where China Telecom
+munications Corporation (China Telecom) suddenly start
+ed announcing about 15 percent of the world's routes which
+they were not, in fact, responsible for," McLaughlin said.
+"China Telecom has now been sort of caught red-handed
+both hijacking routes on a temporary basis and also occa-
+
+
+MICHAEL KHEIR/The Stanford Daily
+Former Deputy Chief Technology Officer for the White House Andrew McLaughlin gave a lecture in Wallenberg
+Theater on Thursday about the difficulties associated with gathering international support to secure the Internet.
+sionally spoofing certificate authori
+ties."
+McLaughlin believes this may
+have been a test to see if China was
+capable of quickly turning off por
+tions of the Internet and replacing
+them with fake sites. China would be
+able to spy on people around the
+world with this capability.
+The third weakness in Internet
+authentication has been used to gath
+er information about citizens of Iran.
+The system that browsers use to veri
+fy that websites are authentic that
+the site is who or what it claims to be
+often have built-in authorities des
+ignating acceptable certificates.
+When you go to a website and your
+browser warns you about visiting, it is
+
+relying on this system of authenticat
+ing. However there is little oversight of
+these authorities, and nobody has a
+clear mandate to oversee them.
+
+One such authority, a Dutch com
+pany, was hacked recently. The hack
+er was able to issue a certificate for
+Google, meaning they could imper
+sonate Google and look at people's
+personal information. The target of
+the attack was mainly people in Iran,
+and the attacker left the message, "I
+will sacrifice my soul for my leader"
+in Farsi.
+
+While these issues are widely rec
+ognized, the solutions are complex.
+One problem is the issue of sover
+eignty. A group of concerned experts
+has come up with a solution to the
+issue of "name servers," but nobody
+has the authority to implement it.
+"Imagine you're Kenya and you
+are being told anything that is not
+signed off on, on an operational level,
+by this California organization, is not
+going to exist as far as the Internet is
+concerned," McLaughlin said. "Who
+are these people? How were they
+chosen?"
+For Stanford students in atten
+dance, McLaughlin's talk was both
+sobering and suggested opportuni
+ties for students.
+"I think cyberlaw is going to be
+the most interesting form of law in
+the future," said Marcheta Marshall
+'l4. "How do you put laws around the
+Internet?"
+
+Contact Josh Hoyt at jwghoyt@stan
+ford.edu.
+It can be hard to know what to believe on the Internet.
+
+Andrew McLaughlin, former Deputy Chief Technolo
+gy Officer for the Obama Administration, gave the first
+lecture in a series hosted by the Center on Democracy, De
+velopment and the Rule of Law (CDDRL).
+
+In the talk, he outlined several vulnerabilities of the in
+frastructure of the Internet and the difficulties in over
+coming them.
+
+"There are three particular global infrastructure secu
+rity issues," McLaughlin said. "What they all have in com
+mon is that they present a model of diffuse, decentralized
+responsibility and broad coordination and implementa
+tion where essentially nobody is in charge."
+The first problem he outlined is the issue of the "name
+server," part of the system that tells your browser where to
+go when you type in an Internet address.
+"If someone can get between you and one of the name
+servers and act like one of the name servers, they can send
+back responses that your computer will trust but that are
+false," McLaughlin said. "So they can send you to some
+thing that they've set up that looks like Gmail, and when
+you type your password into [it], they have your pass
+word."
+
+Surprisingly, acting as a name server is remarkably easy
+
+to accomplish. The conversation between you and the
+"name server" is often "in plain text out over the Internet."
+"This protocol was built for the Internet when security
+was just not a big consideration," McLaughlin continued.
+"The Internet was just a network of universities linked to
+gether, trusting each other, basically."
+The trust inherent in the Internet architecture is appar
+ent in the "trust -based" communications between ISPs as
+well. Different ISPs are responsible for different IP ad
+dresses. To locate specific sites, ISPs around the world an
+nounce which IP addresses they have using "route an
+nouncements."
+
+The problem is that these announcements are not ver
+ified by anyone. It is up to the ISPs to do it correctly, which
+can lead to problems. In 2006 a small Pakistani ISP "an
+nounced" You Tube, accidentally shutting down both
+You Tube and the Internet in Pakistan.
+
+In more sinister hands, this weakness can be exploited
+to selectively turn websites off.
+
+"There was an incident in 2009 where China Telecom
+munications Corporation (China Telecom) suddenly start
+ed announcing about 15 percent of the world's routes which
+they were not, in fact, responsible for," McLaughlin said.
+"China Telecom has now been sort of caught red-handed
+both hijacking routes on a temporary basis and also occa-
+
+
+MICHAEL KHEIR/The Stanford Daily
+Former Deputy Chief Technology Officer for the White House Andrew McLaughlin gave a lecture in Wallenberg
+Theater on Thursday about the difficulties associated with gathering international support to secure the Internet.
+sionally spoofing certificate authori
+ties."
+McLaughlin believes this may
+have been a test to see if China was
+capable of quickly turning off por
+tions of the Internet and replacing
+them with fake sites. China would be
+able to spy on people around the
+world with this capability.
+The third weakness in Internet
+authentication has been used to gath
+er information about citizens of Iran.
+The system that browsers use to veri
+fy that websites are authentic that
+the site is who or what it claims to be
+often have built-in authorities des
+ignating acceptable certificates.
+When you go to a website and your
+browser warns you about visiting, it is
+
+relying on this system of authenticat
+ing. However there is little oversight of
+these authorities, and nobody has a
+clear mandate to oversee them.
+
+One such authority, a Dutch com
+pany, was hacked recently. The hack
+er was able to issue a certificate for
+Google, meaning they could imper
+sonate Google and look at people's
+personal information. The target of
+the attack was mainly people in Iran,
+and the attacker left the message, "I
+will sacrifice my soul for my leader"
+in Farsi.
+
+While these issues are widely rec
+ognized, the solutions are complex.
+One problem is the issue of sover
+eignty. A group of concerned experts
+has come up with a solution to the
+issue of "name servers," but nobody
+has the authority to implement it.
+"Imagine you're Kenya and you
+are being told anything that is not
+signed off on, on an operational level,
+by this California organization, is not
+going to exist as far as the Internet is
+concerned," McLaughlin said. "Who
+are these people? How were they
+chosen?"
+For Stanford students in atten
+dance, McLaughlin's talk was both
+sobering and suggested opportuni
+ties for students.
+"I think cyberlaw is going to be
+the most interesting form of law in
+the future," said Marcheta Marshall
+'l4. "How do you put laws around the
+Internet?"
+
+Contact Josh Hoyt at jwghoyt@stan
+ford.edu.
+It can be hard to know what to believe on the Internet.
+
+Andrew McLaughlin, former Deputy Chief Technolo
+gy Officer for the Obama Administration, gave the first
+lecture in a series hosted by the Center on Democracy, De
+velopment and the Rule of Law (CDDRL).
+
+In the talk, he outlined several vulnerabilities of the in
+frastructure of the Internet and the difficulties in over
+coming them.
+
+"There are three particular global infrastructure secu
+rity issues," McLaughlin said. "What they all have in com
+mon is that they present a model of diffuse, decentralized
+responsibility and broad coordination and implementa
+tion where essentially nobody is in charge."
+The first problem he outlined is the issue of the "name
+server," part of the system that tells your browser where to
+go when you type in an Internet address.
+"If someone can get between you and one of the name
+servers and act like one of the name servers, they can send
+back responses that your computer will trust but that are
+false," McLaughlin said. "So they can send you to some
+thing that they've set up that looks like Gmail, and when
+you type your password into [it], they have your pass
+word."
+
+Surprisingly, acting as a name server is remarkably easy
+
+to accomplish. The conversation between you and the
+"name server" is often "in plain text out over the Internet."
+"This protocol was built for the Internet when security
+was just not a big consideration," McLaughlin continued.
+"The Internet was just a network of universities linked to
+gether, trusting each other, basically."
+The trust inherent in the Internet architecture is appar
+ent in the "trust -based" communications between ISPs as
+well. Different ISPs are responsible for different IP ad
+dresses. To locate specific sites, ISPs around the world an
+nounce which IP addresses they have using "route an
+nouncements."
+
+The problem is that these announcements are not ver
+ified by anyone. It is up to the ISPs to do it correctly, which
+can lead to problems. In 2006 a small Pakistani ISP "an
+nounced" You Tube, accidentally shutting down both
+You Tube and the Internet in Pakistan.
+
+In more sinister hands, this weakness can be exploited
+to selectively turn websites off.
+
+"There was an incident in 2009 where China Telecom
+munications Corporation (China Telecom) suddenly start
+ed announcing about 15 percent of the world's routes which
+they were not, in fact, responsible for," McLaughlin said.
+"China Telecom has now been sort of caught red-handed
+both hijacking routes on a temporary basis and also occa-
+
+
+MICHAEL KHEIR/The Stanford Daily
+Former Deputy Chief Technology Officer for the White House Andrew McLaughlin gave a lecture in Wallenberg
+Theater on Thursday about the difficulties associated with gathering international support to secure the Internet.
+sionally spoofing certificate authori
+ties."
+McLaughlin believes this may
+have been a test to see if China was
+capable of quickly turning off por
+tions of the Internet and replacing
+them with fake sites. China would be
+able to spy on people around the
+world with this capability.
+The third weakness in Internet
+authentication has been used to gath
+er information about citizens of Iran.
+The system that browsers use to veri
+fy that websites are authentic that
+the site is who or what it claims to be
+often have built-in authorities des
+ignating acceptable certificates.
+When you go to a website and your
+browser warns you about visiting, it is
+
+relying on this system of authenticat
+ing. However there is little oversight of
+these authorities, and nobody has a
+clear mandate to oversee them.
+
+One such authority, a Dutch com
+pany, was hacked recently. The hack
+er was able to issue a certificate for
+Google, meaning they could imper
+sonate Google and look at people's
+personal information. The target of
+the attack was mainly people in Iran,
+and the attacker left the message, "I
+will sacrifice my soul for my leader"
+in Farsi.
+
+While these issues are widely rec
+ognized, the solutions are complex.
+One problem is the issue of sover
+eignty. A group of concerned experts
+has come up with a solution to the
+issue of "name servers," but nobody
+has the authority to implement it.
+"Imagine you're Kenya and you
+are being told anything that is not
+signed off on, on an operational level,
+by this California organization, is not
+going to exist as far as the Internet is
+concerned," McLaughlin said. "Who
+are these people? How were they
+chosen?"
+For Stanford students in atten
+dance, McLaughlin's talk was both
+sobering and suggested opportuni
+ties for students.
+"I think cyberlaw is going to be
+the most interesting form of law in
+the future," said Marcheta Marshall
+'l4. "How do you put laws around the
+Internet?"
+
+Contact Josh Hoyt at jwghoyt@stan
+ford.edu.
+It can be hard to know what to believe on the Internet.
+
+Andrew McLaughlin, former Deputy Chief Technolo
+gy Officer for the Obama Administration, gave the first
+lecture in a series hosted by the Center on Democracy, De
+velopment and the Rule of Law (CDDRL).
+
+In the talk, he outlined several vulnerabilities of the in
+frastructure of the Internet and the difficulties in over
+coming them.
+
+"There are three particular global infrastructure secu
+rity issues," McLaughlin said. "What they all have in com
+mon is that they present a model of diffuse, decentralized
+responsibility and broad coordination and implementa
+tion where essentially nobody is in charge."
+The first problem he outlined is the issue of the "name
+server," part of the system that tells your browser where to
+go when you type in an Internet address.
+"If someone can get between you and one of the name
+servers and act like one of the name servers, they can send
+back responses that your computer will trust but that are
+false," McLaughlin said. "So they can send you to some
+thing that they've set up that looks like Gmail, and when
+you type your password into [it], they have your pass
+word."
+
+Surprisingly, acting as a name server is remarkably easy
+
+to accomplish. The conversation between you and the
+"name server" is often "in plain text out over the Internet."
+"This protocol was built for the Internet when security
+was just not a big consideration," McLaughlin continued.
+"The Internet was just a network of universities linked to
+gether, trusting each other, basically."
+The trust inherent in the Internet architecture is appar
+ent in the "trust -based" communications between ISPs as
+well. Different ISPs are responsible for different IP ad
+dresses. To locate specific sites, ISPs around the world an
+nounce which IP addresses they have using "route an
+nouncements."
+
+The problem is that these announcements are not ver
+ified by anyone. It is up to the ISPs to do it correctly, which
+can lead to problems. In 2006 a small Pakistani ISP "an
+nounced" You Tube, accidentally shutting down both
+You Tube and the Internet in Pakistan.
+
+In more sinister hands, this weakness can be exploited
+to selectively turn websites off.
+
+"There was an incident in 2009 where China Telecom
+munications Corporation (China Telecom) suddenly start
+ed announcing about 15 percent of the world's routes which
+they were not, in fact, responsible for," McLaughlin said.
+"China Telecom has now been sort of caught red-handed
+both hijacking routes on a temporary basis and also occa-
+
+
+MICHAEL KHEIR/The Stanford Daily
+Former Deputy Chief Technology Officer for the White House Andrew McLaughlin gave a lecture in Wallenberg
+Theater on Thursday about the difficulties associated with gathering international support to secure the Internet.
+sionally spoofing certificate authori
+ties."
+McLaughlin believes this may
+have been a test to see if China was
+capable of quickly turning off por
+tions of the Internet and replacing
+them with fake sites. China would be
+able to spy on people around the
+world with this capability.
+The third weakness in Internet
+authentication has been used to gath
+er information about citizens of Iran.
+The system that browsers use to veri
+fy that websites are authentic that
+the site is who or what it claims to be
+often have built-in authorities des
+ignating acceptable certificates.
+When you go to a website and your
+browser warns you about visiting, it is
+
+relying on this system of authenticat
+ing. However there is little oversight of
+these authorities, and nobody has a
+clear mandate to oversee them.
+
+One such authority, a Dutch com
+pany, was hacked recently. The hack
+er was able to issue a certificate for
+Google, meaning they could imper
+sonate Google and look at people's
+personal information. The target of
+the attack was mainly people in Iran,
+and the attacker left the message, "I
+will sacrifice my soul for my leader"
+in Farsi.
+
+While these issues are widely rec
+ognized, the solutions are complex.
+One problem is the issue of sover
+eignty. A group of concerned experts
+has come up with a solution to the
+issue of "name servers," but nobody
+has the authority to implement it.
+"Imagine you're Kenya and you
+are being told anything that is not
+signed off on, on an operational level,
+by this California organization, is not
+going to exist as far as the Internet is
+concerned," McLaughlin said. "Who
+are these people? How were they
+chosen?"
+For Stanford students in atten
+dance, McLaughlin's talk was both
+sobering and suggested opportuni
+ties for students.
+"I think cyberlaw is going to be
+the most interesting form of law in
+the future," said Marcheta Marshall
+'l4. "How do you put laws around the
+Internet?"
+
+Contact Josh Hoyt at jwghoyt@stan
+ford.edu.
+It can be hard to know what to believe on the Internet.
+
+Andrew McLaughlin, former Deputy Chief Technolo
+gy Officer for the Obama Administration, gave the first
+lecture in a series hosted by the Center on Democracy, De
+velopment and the Rule of Law (CDDRL).
+
+In the talk, he outlined several vulnerabilities of the in
+frastructure of the Internet and the difficulties in over
+coming them.
+
+"There are three particular global infrastructure secu
+rity issues," McLaughlin said. "What they all have in com
+mon is that they present a model of diffuse, decentralized
+responsibility and broad coordination and implementa
+tion where essentially nobody is in charge."
+The first problem he outlined is the issue of the "name
+server," part of the system that tells your browser where to
+go when you type in an Internet address.
+"If someone can get between you and one of the name
+servers and act like one of the name servers, they can send
+back responses that your computer will trust but that are
+false," McLaughlin said. "So they can send you to some
+thing that they've set up that looks like Gmail, and when
+you type your password into [it], they have your pass
+word."
+
+Surprisingly, acting as a name server is remarkably easy
+
+to accomplish. The conversation between you and the
+"name server" is often "in plain text out over the Internet."
+"This protocol was built for the Internet when security
+was just not a big consideration," McLaughlin continued.
+"The Internet was just a network of universities linked to
+gether, trusting each other, basically."
+The trust inherent in the Internet architecture is appar
+ent in the "trust -based" communications between ISPs as
+well. Different ISPs are responsible for different IP ad
+dresses. To locate specific sites, ISPs around the world an
+nounce which IP addresses they have using "route an
+nouncements."
+
+The problem is that these announcements are not ver
+ified by anyone. It is up to the ISPs to do it correctly, which
+can lead to problems. In 2006 a small Pakistani ISP "an
+nounced" You Tube, accidentally shutting down both
+You Tube and the Internet in Pakistan.
+
+In more sinister hands, this weakness can be exploited
+to selectively turn websites off.
+
+"There was an incident in 2009 where China Telecom
+munications Corporation (China Telecom) suddenly start
+ed announcing about 15 percent of the world's routes which
+they were not, in fact, responsible for," McLaughlin said.
+"China Telecom has now been sort of caught red-handed
+both hijacking routes on a temporary basis and also occa-
+
+
+MICHAEL KHEIR/The Stanford Daily
+Former Deputy Chief Technology Officer for the White House Andrew McLaughlin gave a lecture in Wallenberg
+Theater on Thursday about the difficulties associated with gathering international support to secure the Internet.
+sionally spoofing certificate authori
+ties."
+McLaughlin believes this may
+have been a test to see if China was
+capable of quickly turning off por
+tions of the Internet and replacing
+them with fake sites. China would be
+able to spy on people around the
+world with this capability.
+The third weakness in Internet
+authentication has been used to gath
+er information about citizens of Iran.
+The system that browsers use to veri
+fy that websites are authentic that
+the site is who or what it claims to be
+often have built-in authorities des
+ignating acceptable certificates.
+When you go to a website and your
+browser warns you about visiting, it is
+
+relying on this system of authenticat
+ing. However there is little oversight of
+these authorities, and nobody has a
+clear mandate to oversee them.
+
+One such authority, a Dutch com
+pany, was hacked recently. The hack
+er was able to issue a certificate for
+Google, meaning they could imper
+sonate Google and look at people's
+personal information. The target of
+the attack was mainly people in Iran,
+and the attacker left the message, "I
+will sacrifice my soul for my leader"
+in Farsi.
+
+While these issues are widely rec
+ognized, the solutions are complex.
+One problem is the issue of sover
+eignty. A group of concerned experts
+has come up with a solution to the
+issue of "name servers," but nobody
+has the authority to implement it.
+"Imagine you're Kenya and you
+are being told anything that is not
+signed off on, on an operational level,
+by this California organization, is not
+going to exist as far as the Internet is
+concerned," McLaughlin said. "Who
+are these people? How were they
+chosen?"
+For Stanford students in atten
+dance, McLaughlin's talk was both
+sobering and suggested opportuni
+ties for students.
+"I think cyberlaw is going to be
+the most interesting form of law in
+the future," said Marcheta Marshall
+'l4. "How do you put laws around the
+Internet?"
+
+Contact Josh Hoyt at jwghoyt@stan
+ford.edu.

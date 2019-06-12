@@ -1,0 +1,413 @@
+# LAB WATCH
+## 
+### Rollin Hu Editorial staff 
+Traditional supercomputers to dis
+appear within the decade
+
+John Hennessy, professor of computer science and
+dean of the School of Engineering, predicts that with
+in the next five to 10 years, traditional supercomputers
+will become obsolete. In a talk given Nov. l l ) at the
+
+SC'97 conference in San Jose, he claimed that "the last bastion of
+non-microprocessor computing, the vector-based supercomputers,
+will vanish."
+"Vector-based" supercomputers, like the famous Cray machines,
+have been used since the l l )5()s to perform tasks that require extraor
+dinarily fast processing speeds. However, new microprocessor tech
+nology has improved to the extent where desktop machines may soon
+be able to perform the tasks that only supercomputers can complete
+now.
+In fact, improvements in microprocessors have already made the
+large mainframe computers, once the core of industry computing,
+obsolete. According to Hennessy. vector-based supercomputers will
+be the next to go.
+As microprocessor-based computers attain faster and faster pro
+cessing speeds, they are able to do a higher proportion of computing
+jobs. Basically, that means the user can get more computing bang for
+their buck using microprocessor-based computers. Eventually,
+demand for vector-based supercomputers will tall dramatically as
+consumers find that most of their needs can be accommodated by the
+more cost-effective microprocessor computers.
+"Most importantly, the price-performance gap between the two
+types of machines is closing at a compounding rate," Hennessy said.
+Already, microprocessor-based computer users get more than twice
+the processing power per dollar than vector-based supercomputer
+users. Hennessy predicts that soon, the ratio may approach five times
+the processing power per dollar.
+Another problem that traditional supercomputers face is the lack
+of commercial software. Most supercomputers rely on customized
+software, which can often be extremely expensive. In order to maxi
+mize profits, most software companies prefer to create software for
+larger markets, so the relatively small number of supercomputei users
+are often left out of the commercial software market. As ;i result.
+
+microprocessor-based computing,
+which can take advantage of com
+mercial software vendors, is likely
+to take a dominant role in the com
+puter industry.
+In his talk. Hennessy also
+addressed the different strategies
+the computer industry is develop
+ing to replace the traditional vec
+tor-based technology. Currently
+two types of programming
+paradigms seem to dominate the
+supercomputing field. One of these,
+called a distributed shared memory
+architecture, allows an entire net
+work of desktop personal comput
+ers to act like a single large com
+puter when faced with a complex
+
+problem. Several groups are work
+ing on developing the distributed
+shared memory architecture
+including Stanford, MIT, Silicon
+Graphics, HP Convex and the Los
+Alamos National Laboratory.
+UC-Berkeley, along with IBM
+and Sandia National Laboratories
+are working on another approach,
+called cluster-based architecture.
+This approach uses a computer that
+is more like a number of personal
+computers packaged into one box.
+It would allow for faster networking
+among its internal processors than a
+distributed architecture, though
+advances in networking technology
+are likely to close that gap.
+"The big question for the future
+of supercomputing is the trade-off
+between centralized or distributed
+architectures," Hennessy said.
+Traditional supercomputers to dis
+appear within the decade
+
+John Hennessy, professor of computer science and
+dean of the School of Engineering, predicts that with
+in the next five to 10 years, traditional supercomputers
+will become obsolete. In a talk given Nov. l l ) at the
+
+SC'97 conference in San Jose, he claimed that "the last bastion of
+non-microprocessor computing, the vector-based supercomputers,
+will vanish."
+"Vector-based" supercomputers, like the famous Cray machines,
+have been used since the l l )5()s to perform tasks that require extraor
+dinarily fast processing speeds. However, new microprocessor tech
+nology has improved to the extent where desktop machines may soon
+be able to perform the tasks that only supercomputers can complete
+now.
+In fact, improvements in microprocessors have already made the
+large mainframe computers, once the core of industry computing,
+obsolete. According to Hennessy. vector-based supercomputers will
+be the next to go.
+As microprocessor-based computers attain faster and faster pro
+cessing speeds, they are able to do a higher proportion of computing
+jobs. Basically, that means the user can get more computing bang for
+their buck using microprocessor-based computers. Eventually,
+demand for vector-based supercomputers will tall dramatically as
+consumers find that most of their needs can be accommodated by the
+more cost-effective microprocessor computers.
+"Most importantly, the price-performance gap between the two
+types of machines is closing at a compounding rate," Hennessy said.
+Already, microprocessor-based computer users get more than twice
+the processing power per dollar than vector-based supercomputer
+users. Hennessy predicts that soon, the ratio may approach five times
+the processing power per dollar.
+Another problem that traditional supercomputers face is the lack
+of commercial software. Most supercomputers rely on customized
+software, which can often be extremely expensive. In order to maxi
+mize profits, most software companies prefer to create software for
+larger markets, so the relatively small number of supercomputei users
+are often left out of the commercial software market. As ;i result.
+
+microprocessor-based computing,
+which can take advantage of com
+mercial software vendors, is likely
+to take a dominant role in the com
+puter industry.
+In his talk. Hennessy also
+addressed the different strategies
+the computer industry is develop
+ing to replace the traditional vec
+tor-based technology. Currently
+two types of programming
+paradigms seem to dominate the
+supercomputing field. One of these,
+called a distributed shared memory
+architecture, allows an entire net
+work of desktop personal comput
+ers to act like a single large com
+puter when faced with a complex
+
+problem. Several groups are work
+ing on developing the distributed
+shared memory architecture
+including Stanford, MIT, Silicon
+Graphics, HP Convex and the Los
+Alamos National Laboratory.
+UC-Berkeley, along with IBM
+and Sandia National Laboratories
+are working on another approach,
+called cluster-based architecture.
+This approach uses a computer that
+is more like a number of personal
+computers packaged into one box.
+It would allow for faster networking
+among its internal processors than a
+distributed architecture, though
+advances in networking technology
+are likely to close that gap.
+"The big question for the future
+of supercomputing is the trade-off
+between centralized or distributed
+architectures," Hennessy said.
+Traditional supercomputers to dis
+appear within the decade
+
+John Hennessy, professor of computer science and
+dean of the School of Engineering, predicts that with
+in the next five to 10 years, traditional supercomputers
+will become obsolete. In a talk given Nov. l l ) at the
+
+SC'97 conference in San Jose, he claimed that "the last bastion of
+non-microprocessor computing, the vector-based supercomputers,
+will vanish."
+"Vector-based" supercomputers, like the famous Cray machines,
+have been used since the l l )5()s to perform tasks that require extraor
+dinarily fast processing speeds. However, new microprocessor tech
+nology has improved to the extent where desktop machines may soon
+be able to perform the tasks that only supercomputers can complete
+now.
+In fact, improvements in microprocessors have already made the
+large mainframe computers, once the core of industry computing,
+obsolete. According to Hennessy. vector-based supercomputers will
+be the next to go.
+As microprocessor-based computers attain faster and faster pro
+cessing speeds, they are able to do a higher proportion of computing
+jobs. Basically, that means the user can get more computing bang for
+their buck using microprocessor-based computers. Eventually,
+demand for vector-based supercomputers will tall dramatically as
+consumers find that most of their needs can be accommodated by the
+more cost-effective microprocessor computers.
+"Most importantly, the price-performance gap between the two
+types of machines is closing at a compounding rate," Hennessy said.
+Already, microprocessor-based computer users get more than twice
+the processing power per dollar than vector-based supercomputer
+users. Hennessy predicts that soon, the ratio may approach five times
+the processing power per dollar.
+Another problem that traditional supercomputers face is the lack
+of commercial software. Most supercomputers rely on customized
+software, which can often be extremely expensive. In order to maxi
+mize profits, most software companies prefer to create software for
+larger markets, so the relatively small number of supercomputei users
+are often left out of the commercial software market. As ;i result.
+
+microprocessor-based computing,
+which can take advantage of com
+mercial software vendors, is likely
+to take a dominant role in the com
+puter industry.
+In his talk. Hennessy also
+addressed the different strategies
+the computer industry is develop
+ing to replace the traditional vec
+tor-based technology. Currently
+two types of programming
+paradigms seem to dominate the
+supercomputing field. One of these,
+called a distributed shared memory
+architecture, allows an entire net
+work of desktop personal comput
+ers to act like a single large com
+puter when faced with a complex
+
+problem. Several groups are work
+ing on developing the distributed
+shared memory architecture
+including Stanford, MIT, Silicon
+Graphics, HP Convex and the Los
+Alamos National Laboratory.
+UC-Berkeley, along with IBM
+and Sandia National Laboratories
+are working on another approach,
+called cluster-based architecture.
+This approach uses a computer that
+is more like a number of personal
+computers packaged into one box.
+It would allow for faster networking
+among its internal processors than a
+distributed architecture, though
+advances in networking technology
+are likely to close that gap.
+"The big question for the future
+of supercomputing is the trade-off
+between centralized or distributed
+architectures," Hennessy said.
+Traditional supercomputers to dis
+appear within the decade
+
+John Hennessy, professor of computer science and
+dean of the School of Engineering, predicts that with
+in the next five to 10 years, traditional supercomputers
+will become obsolete. In a talk given Nov. l l ) at the
+
+SC'97 conference in San Jose, he claimed that "the last bastion of
+non-microprocessor computing, the vector-based supercomputers,
+will vanish."
+"Vector-based" supercomputers, like the famous Cray machines,
+have been used since the l l )5()s to perform tasks that require extraor
+dinarily fast processing speeds. However, new microprocessor tech
+nology has improved to the extent where desktop machines may soon
+be able to perform the tasks that only supercomputers can complete
+now.
+In fact, improvements in microprocessors have already made the
+large mainframe computers, once the core of industry computing,
+obsolete. According to Hennessy. vector-based supercomputers will
+be the next to go.
+As microprocessor-based computers attain faster and faster pro
+cessing speeds, they are able to do a higher proportion of computing
+jobs. Basically, that means the user can get more computing bang for
+their buck using microprocessor-based computers. Eventually,
+demand for vector-based supercomputers will tall dramatically as
+consumers find that most of their needs can be accommodated by the
+more cost-effective microprocessor computers.
+"Most importantly, the price-performance gap between the two
+types of machines is closing at a compounding rate," Hennessy said.
+Already, microprocessor-based computer users get more than twice
+the processing power per dollar than vector-based supercomputer
+users. Hennessy predicts that soon, the ratio may approach five times
+the processing power per dollar.
+Another problem that traditional supercomputers face is the lack
+of commercial software. Most supercomputers rely on customized
+software, which can often be extremely expensive. In order to maxi
+mize profits, most software companies prefer to create software for
+larger markets, so the relatively small number of supercomputei users
+are often left out of the commercial software market. As ;i result.
+
+microprocessor-based computing,
+which can take advantage of com
+mercial software vendors, is likely
+to take a dominant role in the com
+puter industry.
+In his talk. Hennessy also
+addressed the different strategies
+the computer industry is develop
+ing to replace the traditional vec
+tor-based technology. Currently
+two types of programming
+paradigms seem to dominate the
+supercomputing field. One of these,
+called a distributed shared memory
+architecture, allows an entire net
+work of desktop personal comput
+ers to act like a single large com
+puter when faced with a complex
+
+problem. Several groups are work
+ing on developing the distributed
+shared memory architecture
+including Stanford, MIT, Silicon
+Graphics, HP Convex and the Los
+Alamos National Laboratory.
+UC-Berkeley, along with IBM
+and Sandia National Laboratories
+are working on another approach,
+called cluster-based architecture.
+This approach uses a computer that
+is more like a number of personal
+computers packaged into one box.
+It would allow for faster networking
+among its internal processors than a
+distributed architecture, though
+advances in networking technology
+are likely to close that gap.
+"The big question for the future
+of supercomputing is the trade-off
+between centralized or distributed
+architectures," Hennessy said.
+Traditional supercomputers to dis
+appear within the decade
+
+John Hennessy, professor of computer science and
+dean of the School of Engineering, predicts that with
+in the next five to 10 years, traditional supercomputers
+will become obsolete. In a talk given Nov. l l ) at the
+
+SC'97 conference in San Jose, he claimed that "the last bastion of
+non-microprocessor computing, the vector-based supercomputers,
+will vanish."
+"Vector-based" supercomputers, like the famous Cray machines,
+have been used since the l l )5()s to perform tasks that require extraor
+dinarily fast processing speeds. However, new microprocessor tech
+nology has improved to the extent where desktop machines may soon
+be able to perform the tasks that only supercomputers can complete
+now.
+In fact, improvements in microprocessors have already made the
+large mainframe computers, once the core of industry computing,
+obsolete. According to Hennessy. vector-based supercomputers will
+be the next to go.
+As microprocessor-based computers attain faster and faster pro
+cessing speeds, they are able to do a higher proportion of computing
+jobs. Basically, that means the user can get more computing bang for
+their buck using microprocessor-based computers. Eventually,
+demand for vector-based supercomputers will tall dramatically as
+consumers find that most of their needs can be accommodated by the
+more cost-effective microprocessor computers.
+"Most importantly, the price-performance gap between the two
+types of machines is closing at a compounding rate," Hennessy said.
+Already, microprocessor-based computer users get more than twice
+the processing power per dollar than vector-based supercomputer
+users. Hennessy predicts that soon, the ratio may approach five times
+the processing power per dollar.
+Another problem that traditional supercomputers face is the lack
+of commercial software. Most supercomputers rely on customized
+software, which can often be extremely expensive. In order to maxi
+mize profits, most software companies prefer to create software for
+larger markets, so the relatively small number of supercomputei users
+are often left out of the commercial software market. As ;i result.
+
+microprocessor-based computing,
+which can take advantage of com
+mercial software vendors, is likely
+to take a dominant role in the com
+puter industry.
+In his talk. Hennessy also
+addressed the different strategies
+the computer industry is develop
+ing to replace the traditional vec
+tor-based technology. Currently
+two types of programming
+paradigms seem to dominate the
+supercomputing field. One of these,
+called a distributed shared memory
+architecture, allows an entire net
+work of desktop personal comput
+ers to act like a single large com
+puter when faced with a complex
+
+problem. Several groups are work
+ing on developing the distributed
+shared memory architecture
+including Stanford, MIT, Silicon
+Graphics, HP Convex and the Los
+Alamos National Laboratory.
+UC-Berkeley, along with IBM
+and Sandia National Laboratories
+are working on another approach,
+called cluster-based architecture.
+This approach uses a computer that
+is more like a number of personal
+computers packaged into one box.
+It would allow for faster networking
+among its internal processors than a
+distributed architecture, though
+advances in networking technology
+are likely to close that gap.
+"The big question for the future
+of supercomputing is the trade-off
+between centralized or distributed
+architectures," Hennessy said.

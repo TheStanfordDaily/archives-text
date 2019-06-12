@@ -1,0 +1,1587 @@
+# Neurons: Part Three of a Four-Part Series
+## Scientists work to crack the neural code 
+### ERIC KEISMAN 
+"Your mind has no direct access to the
+visual world" insists I'rol. ot Neurobiology
+Bill Newsome ot the Medical School. Our
+entire visual experience is a sophisticated
+reconstruction. Reconstructed, lie says,
+from electrical signals that stream towards
+the visual cortex in bundles ol neurons,
+en route from the 1 etina.
+Newsome has spent years trying to
+learn how shapes and motion are extract
+ed from that cacophony ol neural input.
+In the process, he and others like him
+have gained insight into how the brain en
+codes information, bridging the gap be
+tween firing neurons and our subjective
+experience of the world.
+In this digital age, the idea of encoding
+is commonplace. Music on a (.1) is stored
+as a string ol ()s and Is. Pop that CD into
+your computer, and you can encode the
+same music in MP3 format. But, what is
+the code that the brain uses to represent
+and store information? How can groups
+of neurons firing together mean some
+thing to your mind.''
+I he emerging answer seems to be that
+there are neurons in the brain that are
+specialized to recognize certain features
+of our experience. When these "feature
+selective" neurons lire at the same time,
+they indicate the presence of some object
+that, consists ol all of those features to
+gether. Essentially, they are letters in a
+neural alphabet that, when put together,
+'spell' our experiences in a neural code.
+Some of the most detailed examples of
+this coding strategy have come from stud
+ies of how the visual system processes
+what you see and presents it to the rest of
+
+brain. This processing happens in the vi
+sual cortex. In the visual cortex, there are
+special groups of neurons whose job it is
+to watch <1 point in space, called their "re
+ceptive field."
+"By virtue of the wiring between the
+retina and these cells in the cortex, they
+seem to be set up to respond to behav
+iorally significant events or objects in the
+
+world," says Newsome. I hey are pro
+grammed to look for the occurrence of
+certain features there, like a line at a par
+ticular orientation. When they see it, they
+report this by firing a burst ol action po
+tentials.
+I o imagine how groups of cells like this
+might begin to reconstruct the visual
+world, consider what happens when you
+
+look at the letter T/ on an eye ( hart, Foi
+each ol the four lines that make up this let
+ter, there is a cell responsible for monitor
+ing that part ol space, and deciding
+whether it sees .1 line in its preferred ori
+entation. I he way the visual cortex 'spells
+K' to the rest ol the brain is b\ the simul
+taneous firing of these four < ells.
+If you continue this strategy, and put
+enough lines together at the right orien
+tation, you can construct <1 rough sketch
+of the contours that outline a desk, <1 <t< >or,
+or even a lac e.
+"Somehow, these cells represent a first
+level of abstraction in the cerebral cortex
+where the neural svstein starts to spec ifi
+cally represent the orientation of local
+edges" says Newsome. "Probably . . . .
+those cells are the fundamental building
+blocks of our ability to see and recognize
+form and pattern."
+The world is made up of more than
+just contours and edges. Frequently,
+these contours are moving. I low the brain
+processes this additional dimension ol the
+visual experience lias been the locus ol
+Newsoine's own research.
+|ust as there are neurons that watch a
+particular region of space fin lines or
+edges, so there are neurons that motiitoi
+that same region ol space for movement.
+Fhese cells are sensitive to a particular di
+rection of motion across that region ol
+space. When they 'see' it, they respond by
+firing action potentials. I hese cells aren 1
+picky, though. If motion across their re
+ceptive field is close to their favorite di
+rection. they will lire action potentials,
+just not as rapidly.
+In order to see all of the possible direc
+tions of motion, one might imagine that
+
+you need mam neurons for each region
+in space. This is the case, but the number
+of neurons can he reduced, because the
+cells cooperate to spec ify intermediate di
+rections of motion. For instance, if one cell
+is sensitive to northward motion and one
+cell is sensitive to westward motion, then
+motion to the northwest can be encoded,
+or 'spelled,' I>\ intermediate activation of
+these two neurons at once.
+It is one tiling to know that these neu
+rons are there and that they fire in re
+sponse to certain kinds of stimuli. But
+how do we know that the activation of
+these neurons is suffh icul to account for
+the subjective experience of this stimulus?
+Newsome asked,"(lan we demonstrate
+that the acti\ it\ of these cells .. . really in
+fluences. in this kind of intuitively mean
+ingful wax , our subjective perception of
+the world?
+Ideally, one would like to show that
+vou can alter that subjective experience in
+a predictable way by fiddling with these
+same neurons.
+As it turns out. you can.
+If motion is represented using combi
+nations ol direction-sensitive neurons,
+then researchers ought to be able to bias
+the motion that is seen by stimulating
+neurons that stand for one direction or
+another. 1 "his is precisely what happens.
+For example, if a subject is shown an ob
+ject going north, while the 'west' neuron is
+artificially stimulated, the subject will ac
+tuallv report seeing motion to the north
+west.
+Why does the brain bother to create
+abstract representations of information
+
+
+Spelling E' in the Neural Alphabet
+A simplified example of how the visual system encodes objects
+as the simultaneous activation of 'feature-selective' cells. For
+each bar that makes up the 'E' at left, there is a group of cells
+[right] responsible for watching that part of space. When these
+cells see a bar at their preferred orientation, they fire a burst of
+action potentials. The 'code' for 'E' is shown on the right as a
+pattern of activated cells [highlighted boxes]. More sophisticated
+shapes can be encoded by elaborating on this strategy.
+from the visual scene? Why not
+just pass the whole picture, pixel
+by pixel, on to the rest of the
+brain? Newsonic sa\s the issue
+here is one of efficient").
+"Kvolulionarily," he explains,
+"there is tremendous drive to use
+vour neural resources conserva
+tive!) and make efficient use ol
+them because there is a limited
+amount of space inside the c rani
+um."
+Sending information through
+out the brain means making con
+nections between the sending and
+receiving cells. I liese < onnec lions
+lake up space and energy. I lie
+lour firing neurons that spelled
+our 'I.' might represent the ac ti\ i
+ty of thousands ol neurons in the
+retina. As sin h, this encoding < re
+ales a compressed message, a mes
+sage that is much easiet to send to
+the higher levels of information
+processing in the beam.
+11 lis strategy of'fteural encod
+ing raises the question ol how
+complex an object can be repre
+sented b\ the tiling ola single
+neuron. Are there cells thai spec il •
+icallv recognize kinds ol objects,
+like cars and houses? I he answei
+here seems to be- no, loi the most
+part. I he eflicicnc) argument
+only applies to features ol the vi
+sual environment thai are com
+mon to oui evervda\ experience,
+like- edges, motion and coloi.
+|list as v<>u can spell am word
+in the Knglish language with a lit>-
+
+letter alphabet, the v isiial s\ siem
+seems content lo encode most vi
+sual experiences using combina
+tions of simple feature-selective
+neui < >ns.
+I here is one fascinating excep
+tion to this rule, called 'fine tells.'
+I hese are neurons in the visual
+cortex that are activated when .1
+primate is presented with the
+image of .1 lace. It appears that
+the\ represent faces in mm h the
+same wa\ tliatothei Icaturc-selec
+live neurons 1 epresent lines and
+motion.
+I here is a lot of controversy
+o\ei the existence of these cells,
+because ihe\ del) the < onvcntion
+al wisdom as to how in lor mat ion is
+emoded in the brain.
+"Some pec >|>lc fear 1 hat il the\
+acknowledge that lacc cells are
+real, then thc\ will be Ibrced to
+this fundamentally unworkable
+idea. I hat loi even complex object
+vou rccogni/e, there's a cell devot
+ed specilicallv to it" sa\s New
+si )ine.
+I 'he problem is. New some con
+tinues. "that there are too many
+things that we tan recogni/e. We
+don't have enough tells to do vi
+sion lb.it \va\ ."
+So win the exception It>l face
+cellsr Again, Newsome irsoits to
+an evolutional v explanation.
+" loi primates in part it ulai,
+laces are impor
+tant behav iorallv" he sav s. because
+we glean so nine h information, in
+0111 social interactions, Irom facial
+expressions. "I can e.isilv imagine
+that li >1 leat 111 es in the env irotl
+inent that are ol pai tic ulai Iv over
+w helming behavioral inipoi lance,
+
+\ou rcallv do evolve dedicated sys
+tems to process those visual lea
+tures."
+Sc ieinisis now have a basic un
+derstanding of the strategies that
+the brain uses to encode visual in
+formation. It remains to be seen
+how this knowledge will parlay
+into an understanding of the com
+plicated information processing
+that underlies our thoughts and
+behaviors, but Newsome believes
+that tliis is what is at stake.
+"Where does mv behavior
+come from at a fundamental
+level?" savs Newsome, "We're li v
+ing to ask 11i;it question. It's very
+simple right now , bow we see mo
+tion m one di red ion versus anoth
+er. lint vou have to crawl before
+vou can walk, and you have to
+walk before vou can run, but we're
+on the path. And this is the path
+iliiii will take us to that under
+standing."
+"Your mind has no direct access to the
+visual world" insists I'rol. ot Neurobiology
+Bill Newsome ot the Medical School. Our
+entire visual experience is a sophisticated
+reconstruction. Reconstructed, lie says,
+from electrical signals that stream towards
+the visual cortex in bundles ol neurons,
+en route from the 1 etina.
+Newsome has spent years trying to
+learn how shapes and motion are extract
+ed from that cacophony ol neural input.
+In the process, he and others like him
+have gained insight into how the brain en
+codes information, bridging the gap be
+tween firing neurons and our subjective
+experience of the world.
+In this digital age, the idea of encoding
+is commonplace. Music on a (.1) is stored
+as a string ol ()s and Is. Pop that CD into
+your computer, and you can encode the
+same music in MP3 format. But, what is
+the code that the brain uses to represent
+and store information? How can groups
+of neurons firing together mean some
+thing to your mind.''
+I he emerging answer seems to be that
+there are neurons in the brain that are
+specialized to recognize certain features
+of our experience. When these "feature
+selective" neurons lire at the same time,
+they indicate the presence of some object
+that, consists ol all of those features to
+gether. Essentially, they are letters in a
+neural alphabet that, when put together,
+'spell' our experiences in a neural code.
+Some of the most detailed examples of
+this coding strategy have come from stud
+ies of how the visual system processes
+what you see and presents it to the rest of
+
+brain. This processing happens in the vi
+sual cortex. In the visual cortex, there are
+special groups of neurons whose job it is
+to watch <1 point in space, called their "re
+ceptive field."
+"By virtue of the wiring between the
+retina and these cells in the cortex, they
+seem to be set up to respond to behav
+iorally significant events or objects in the
+
+world," says Newsome. I hey are pro
+grammed to look for the occurrence of
+certain features there, like a line at a par
+ticular orientation. When they see it, they
+report this by firing a burst ol action po
+tentials.
+I o imagine how groups of cells like this
+might begin to reconstruct the visual
+world, consider what happens when you
+
+look at the letter T/ on an eye ( hart, Foi
+each ol the four lines that make up this let
+ter, there is a cell responsible for monitor
+ing that part ol space, and deciding
+whether it sees .1 line in its preferred ori
+entation. I he way the visual cortex 'spells
+K' to the rest ol the brain is b\ the simul
+taneous firing of these four < ells.
+If you continue this strategy, and put
+enough lines together at the right orien
+tation, you can construct <1 rough sketch
+of the contours that outline a desk, <1 <t< >or,
+or even a lac e.
+"Somehow, these cells represent a first
+level of abstraction in the cerebral cortex
+where the neural svstein starts to spec ifi
+cally represent the orientation of local
+edges" says Newsome. "Probably . . . .
+those cells are the fundamental building
+blocks of our ability to see and recognize
+form and pattern."
+The world is made up of more than
+just contours and edges. Frequently,
+these contours are moving. I low the brain
+processes this additional dimension ol the
+visual experience lias been the locus ol
+Newsoine's own research.
+|ust as there are neurons that watch a
+particular region of space fin lines or
+edges, so there are neurons that motiitoi
+that same region ol space for movement.
+Fhese cells are sensitive to a particular di
+rection of motion across that region ol
+space. When they 'see' it, they respond by
+firing action potentials. I hese cells aren 1
+picky, though. If motion across their re
+ceptive field is close to their favorite di
+rection. they will lire action potentials,
+just not as rapidly.
+In order to see all of the possible direc
+tions of motion, one might imagine that
+
+you need mam neurons for each region
+in space. This is the case, but the number
+of neurons can he reduced, because the
+cells cooperate to spec ify intermediate di
+rections of motion. For instance, if one cell
+is sensitive to northward motion and one
+cell is sensitive to westward motion, then
+motion to the northwest can be encoded,
+or 'spelled,' I>\ intermediate activation of
+these two neurons at once.
+It is one tiling to know that these neu
+rons are there and that they fire in re
+sponse to certain kinds of stimuli. But
+how do we know that the activation of
+these neurons is suffh icul to account for
+the subjective experience of this stimulus?
+Newsome asked,"(lan we demonstrate
+that the acti\ it\ of these cells .. . really in
+fluences. in this kind of intuitively mean
+ingful wax , our subjective perception of
+the world?
+Ideally, one would like to show that
+vou can alter that subjective experience in
+a predictable way by fiddling with these
+same neurons.
+As it turns out. you can.
+If motion is represented using combi
+nations ol direction-sensitive neurons,
+then researchers ought to be able to bias
+the motion that is seen by stimulating
+neurons that stand for one direction or
+another. 1 "his is precisely what happens.
+For example, if a subject is shown an ob
+ject going north, while the 'west' neuron is
+artificially stimulated, the subject will ac
+tuallv report seeing motion to the north
+west.
+Why does the brain bother to create
+abstract representations of information
+
+
+Spelling E' in the Neural Alphabet
+A simplified example of how the visual system encodes objects
+as the simultaneous activation of 'feature-selective' cells. For
+each bar that makes up the 'E' at left, there is a group of cells
+[right] responsible for watching that part of space. When these
+cells see a bar at their preferred orientation, they fire a burst of
+action potentials. The 'code' for 'E' is shown on the right as a
+pattern of activated cells [highlighted boxes]. More sophisticated
+shapes can be encoded by elaborating on this strategy.
+from the visual scene? Why not
+just pass the whole picture, pixel
+by pixel, on to the rest of the
+brain? Newsonic sa\s the issue
+here is one of efficient").
+"Kvolulionarily," he explains,
+"there is tremendous drive to use
+vour neural resources conserva
+tive!) and make efficient use ol
+them because there is a limited
+amount of space inside the c rani
+um."
+Sending information through
+out the brain means making con
+nections between the sending and
+receiving cells. I liese < onnec lions
+lake up space and energy. I lie
+lour firing neurons that spelled
+our 'I.' might represent the ac ti\ i
+ty of thousands ol neurons in the
+retina. As sin h, this encoding < re
+ales a compressed message, a mes
+sage that is much easiet to send to
+the higher levels of information
+processing in the beam.
+11 lis strategy of'fteural encod
+ing raises the question ol how
+complex an object can be repre
+sented b\ the tiling ola single
+neuron. Are there cells thai spec il •
+icallv recognize kinds ol objects,
+like cars and houses? I he answei
+here seems to be- no, loi the most
+part. I he eflicicnc) argument
+only applies to features ol the vi
+sual environment thai are com
+mon to oui evervda\ experience,
+like- edges, motion and coloi.
+|list as v<>u can spell am word
+in the Knglish language with a lit>-
+
+letter alphabet, the v isiial s\ siem
+seems content lo encode most vi
+sual experiences using combina
+tions of simple feature-selective
+neui < >ns.
+I here is one fascinating excep
+tion to this rule, called 'fine tells.'
+I hese are neurons in the visual
+cortex that are activated when .1
+primate is presented with the
+image of .1 lace. It appears that
+the\ represent faces in mm h the
+same wa\ tliatothei Icaturc-selec
+live neurons 1 epresent lines and
+motion.
+I here is a lot of controversy
+o\ei the existence of these cells,
+because ihe\ del) the < onvcntion
+al wisdom as to how in lor mat ion is
+emoded in the brain.
+"Some pec >|>lc fear 1 hat il the\
+acknowledge that lacc cells are
+real, then thc\ will be Ibrced to
+this fundamentally unworkable
+idea. I hat loi even complex object
+vou rccogni/e, there's a cell devot
+ed specilicallv to it" sa\s New
+si )ine.
+I 'he problem is. New some con
+tinues. "that there are too many
+things that we tan recogni/e. We
+don't have enough tells to do vi
+sion lb.it \va\ ."
+So win the exception It>l face
+cellsr Again, Newsome irsoits to
+an evolutional v explanation.
+" loi primates in part it ulai,
+laces are impor
+tant behav iorallv" he sav s. because
+we glean so nine h information, in
+0111 social interactions, Irom facial
+expressions. "I can e.isilv imagine
+that li >1 leat 111 es in the env irotl
+inent that are ol pai tic ulai Iv over
+w helming behavioral inipoi lance,
+
+\ou rcallv do evolve dedicated sys
+tems to process those visual lea
+tures."
+Sc ieinisis now have a basic un
+derstanding of the strategies that
+the brain uses to encode visual in
+formation. It remains to be seen
+how this knowledge will parlay
+into an understanding of the com
+plicated information processing
+that underlies our thoughts and
+behaviors, but Newsome believes
+that tliis is what is at stake.
+"Where does mv behavior
+come from at a fundamental
+level?" savs Newsome, "We're li v
+ing to ask 11i;it question. It's very
+simple right now , bow we see mo
+tion m one di red ion versus anoth
+er. lint vou have to crawl before
+vou can walk, and you have to
+walk before vou can run, but we're
+on the path. And this is the path
+iliiii will take us to that under
+standing."
+"Your mind has no direct access to the
+visual world" insists I'rol. ot Neurobiology
+Bill Newsome ot the Medical School. Our
+entire visual experience is a sophisticated
+reconstruction. Reconstructed, lie says,
+from electrical signals that stream towards
+the visual cortex in bundles ol neurons,
+en route from the 1 etina.
+Newsome has spent years trying to
+learn how shapes and motion are extract
+ed from that cacophony ol neural input.
+In the process, he and others like him
+have gained insight into how the brain en
+codes information, bridging the gap be
+tween firing neurons and our subjective
+experience of the world.
+In this digital age, the idea of encoding
+is commonplace. Music on a (.1) is stored
+as a string ol ()s and Is. Pop that CD into
+your computer, and you can encode the
+same music in MP3 format. But, what is
+the code that the brain uses to represent
+and store information? How can groups
+of neurons firing together mean some
+thing to your mind.''
+I he emerging answer seems to be that
+there are neurons in the brain that are
+specialized to recognize certain features
+of our experience. When these "feature
+selective" neurons lire at the same time,
+they indicate the presence of some object
+that, consists ol all of those features to
+gether. Essentially, they are letters in a
+neural alphabet that, when put together,
+'spell' our experiences in a neural code.
+Some of the most detailed examples of
+this coding strategy have come from stud
+ies of how the visual system processes
+what you see and presents it to the rest of
+
+brain. This processing happens in the vi
+sual cortex. In the visual cortex, there are
+special groups of neurons whose job it is
+to watch <1 point in space, called their "re
+ceptive field."
+"By virtue of the wiring between the
+retina and these cells in the cortex, they
+seem to be set up to respond to behav
+iorally significant events or objects in the
+
+world," says Newsome. I hey are pro
+grammed to look for the occurrence of
+certain features there, like a line at a par
+ticular orientation. When they see it, they
+report this by firing a burst ol action po
+tentials.
+I o imagine how groups of cells like this
+might begin to reconstruct the visual
+world, consider what happens when you
+
+look at the letter T/ on an eye ( hart, Foi
+each ol the four lines that make up this let
+ter, there is a cell responsible for monitor
+ing that part ol space, and deciding
+whether it sees .1 line in its preferred ori
+entation. I he way the visual cortex 'spells
+K' to the rest ol the brain is b\ the simul
+taneous firing of these four < ells.
+If you continue this strategy, and put
+enough lines together at the right orien
+tation, you can construct <1 rough sketch
+of the contours that outline a desk, <1 <t< >or,
+or even a lac e.
+"Somehow, these cells represent a first
+level of abstraction in the cerebral cortex
+where the neural svstein starts to spec ifi
+cally represent the orientation of local
+edges" says Newsome. "Probably . . . .
+those cells are the fundamental building
+blocks of our ability to see and recognize
+form and pattern."
+The world is made up of more than
+just contours and edges. Frequently,
+these contours are moving. I low the brain
+processes this additional dimension ol the
+visual experience lias been the locus ol
+Newsoine's own research.
+|ust as there are neurons that watch a
+particular region of space fin lines or
+edges, so there are neurons that motiitoi
+that same region ol space for movement.
+Fhese cells are sensitive to a particular di
+rection of motion across that region ol
+space. When they 'see' it, they respond by
+firing action potentials. I hese cells aren 1
+picky, though. If motion across their re
+ceptive field is close to their favorite di
+rection. they will lire action potentials,
+just not as rapidly.
+In order to see all of the possible direc
+tions of motion, one might imagine that
+
+you need mam neurons for each region
+in space. This is the case, but the number
+of neurons can he reduced, because the
+cells cooperate to spec ify intermediate di
+rections of motion. For instance, if one cell
+is sensitive to northward motion and one
+cell is sensitive to westward motion, then
+motion to the northwest can be encoded,
+or 'spelled,' I>\ intermediate activation of
+these two neurons at once.
+It is one tiling to know that these neu
+rons are there and that they fire in re
+sponse to certain kinds of stimuli. But
+how do we know that the activation of
+these neurons is suffh icul to account for
+the subjective experience of this stimulus?
+Newsome asked,"(lan we demonstrate
+that the acti\ it\ of these cells .. . really in
+fluences. in this kind of intuitively mean
+ingful wax , our subjective perception of
+the world?
+Ideally, one would like to show that
+vou can alter that subjective experience in
+a predictable way by fiddling with these
+same neurons.
+As it turns out. you can.
+If motion is represented using combi
+nations ol direction-sensitive neurons,
+then researchers ought to be able to bias
+the motion that is seen by stimulating
+neurons that stand for one direction or
+another. 1 "his is precisely what happens.
+For example, if a subject is shown an ob
+ject going north, while the 'west' neuron is
+artificially stimulated, the subject will ac
+tuallv report seeing motion to the north
+west.
+Why does the brain bother to create
+abstract representations of information
+
+
+Spelling E' in the Neural Alphabet
+A simplified example of how the visual system encodes objects
+as the simultaneous activation of 'feature-selective' cells. For
+each bar that makes up the 'E' at left, there is a group of cells
+[right] responsible for watching that part of space. When these
+cells see a bar at their preferred orientation, they fire a burst of
+action potentials. The 'code' for 'E' is shown on the right as a
+pattern of activated cells [highlighted boxes]. More sophisticated
+shapes can be encoded by elaborating on this strategy.
+from the visual scene? Why not
+just pass the whole picture, pixel
+by pixel, on to the rest of the
+brain? Newsonic sa\s the issue
+here is one of efficient").
+"Kvolulionarily," he explains,
+"there is tremendous drive to use
+vour neural resources conserva
+tive!) and make efficient use ol
+them because there is a limited
+amount of space inside the c rani
+um."
+Sending information through
+out the brain means making con
+nections between the sending and
+receiving cells. I liese < onnec lions
+lake up space and energy. I lie
+lour firing neurons that spelled
+our 'I.' might represent the ac ti\ i
+ty of thousands ol neurons in the
+retina. As sin h, this encoding < re
+ales a compressed message, a mes
+sage that is much easiet to send to
+the higher levels of information
+processing in the beam.
+11 lis strategy of'fteural encod
+ing raises the question ol how
+complex an object can be repre
+sented b\ the tiling ola single
+neuron. Are there cells thai spec il •
+icallv recognize kinds ol objects,
+like cars and houses? I he answei
+here seems to be- no, loi the most
+part. I he eflicicnc) argument
+only applies to features ol the vi
+sual environment thai are com
+mon to oui evervda\ experience,
+like- edges, motion and coloi.
+|list as v<>u can spell am word
+in the Knglish language with a lit>-
+
+letter alphabet, the v isiial s\ siem
+seems content lo encode most vi
+sual experiences using combina
+tions of simple feature-selective
+neui < >ns.
+I here is one fascinating excep
+tion to this rule, called 'fine tells.'
+I hese are neurons in the visual
+cortex that are activated when .1
+primate is presented with the
+image of .1 lace. It appears that
+the\ represent faces in mm h the
+same wa\ tliatothei Icaturc-selec
+live neurons 1 epresent lines and
+motion.
+I here is a lot of controversy
+o\ei the existence of these cells,
+because ihe\ del) the < onvcntion
+al wisdom as to how in lor mat ion is
+emoded in the brain.
+"Some pec >|>lc fear 1 hat il the\
+acknowledge that lacc cells are
+real, then thc\ will be Ibrced to
+this fundamentally unworkable
+idea. I hat loi even complex object
+vou rccogni/e, there's a cell devot
+ed specilicallv to it" sa\s New
+si )ine.
+I 'he problem is. New some con
+tinues. "that there are too many
+things that we tan recogni/e. We
+don't have enough tells to do vi
+sion lb.it \va\ ."
+So win the exception It>l face
+cellsr Again, Newsome irsoits to
+an evolutional v explanation.
+" loi primates in part it ulai,
+laces are impor
+tant behav iorallv" he sav s. because
+we glean so nine h information, in
+0111 social interactions, Irom facial
+expressions. "I can e.isilv imagine
+that li >1 leat 111 es in the env irotl
+inent that are ol pai tic ulai Iv over
+w helming behavioral inipoi lance,
+
+\ou rcallv do evolve dedicated sys
+tems to process those visual lea
+tures."
+Sc ieinisis now have a basic un
+derstanding of the strategies that
+the brain uses to encode visual in
+formation. It remains to be seen
+how this knowledge will parlay
+into an understanding of the com
+plicated information processing
+that underlies our thoughts and
+behaviors, but Newsome believes
+that tliis is what is at stake.
+"Where does mv behavior
+come from at a fundamental
+level?" savs Newsome, "We're li v
+ing to ask 11i;it question. It's very
+simple right now , bow we see mo
+tion m one di red ion versus anoth
+er. lint vou have to crawl before
+vou can walk, and you have to
+walk before vou can run, but we're
+on the path. And this is the path
+iliiii will take us to that under
+standing."
+"Your mind has no direct access to the
+visual world" insists I'rol. ot Neurobiology
+Bill Newsome ot the Medical School. Our
+entire visual experience is a sophisticated
+reconstruction. Reconstructed, lie says,
+from electrical signals that stream towards
+the visual cortex in bundles ol neurons,
+en route from the 1 etina.
+Newsome has spent years trying to
+learn how shapes and motion are extract
+ed from that cacophony ol neural input.
+In the process, he and others like him
+have gained insight into how the brain en
+codes information, bridging the gap be
+tween firing neurons and our subjective
+experience of the world.
+In this digital age, the idea of encoding
+is commonplace. Music on a (.1) is stored
+as a string ol ()s and Is. Pop that CD into
+your computer, and you can encode the
+same music in MP3 format. But, what is
+the code that the brain uses to represent
+and store information? How can groups
+of neurons firing together mean some
+thing to your mind.''
+I he emerging answer seems to be that
+there are neurons in the brain that are
+specialized to recognize certain features
+of our experience. When these "feature
+selective" neurons lire at the same time,
+they indicate the presence of some object
+that, consists ol all of those features to
+gether. Essentially, they are letters in a
+neural alphabet that, when put together,
+'spell' our experiences in a neural code.
+Some of the most detailed examples of
+this coding strategy have come from stud
+ies of how the visual system processes
+what you see and presents it to the rest of
+
+brain. This processing happens in the vi
+sual cortex. In the visual cortex, there are
+special groups of neurons whose job it is
+to watch <1 point in space, called their "re
+ceptive field."
+"By virtue of the wiring between the
+retina and these cells in the cortex, they
+seem to be set up to respond to behav
+iorally significant events or objects in the
+
+world," says Newsome. I hey are pro
+grammed to look for the occurrence of
+certain features there, like a line at a par
+ticular orientation. When they see it, they
+report this by firing a burst ol action po
+tentials.
+I o imagine how groups of cells like this
+might begin to reconstruct the visual
+world, consider what happens when you
+
+look at the letter T/ on an eye ( hart, Foi
+each ol the four lines that make up this let
+ter, there is a cell responsible for monitor
+ing that part ol space, and deciding
+whether it sees .1 line in its preferred ori
+entation. I he way the visual cortex 'spells
+K' to the rest ol the brain is b\ the simul
+taneous firing of these four < ells.
+If you continue this strategy, and put
+enough lines together at the right orien
+tation, you can construct <1 rough sketch
+of the contours that outline a desk, <1 <t< >or,
+or even a lac e.
+"Somehow, these cells represent a first
+level of abstraction in the cerebral cortex
+where the neural svstein starts to spec ifi
+cally represent the orientation of local
+edges" says Newsome. "Probably . . . .
+those cells are the fundamental building
+blocks of our ability to see and recognize
+form and pattern."
+The world is made up of more than
+just contours and edges. Frequently,
+these contours are moving. I low the brain
+processes this additional dimension ol the
+visual experience lias been the locus ol
+Newsoine's own research.
+|ust as there are neurons that watch a
+particular region of space fin lines or
+edges, so there are neurons that motiitoi
+that same region ol space for movement.
+Fhese cells are sensitive to a particular di
+rection of motion across that region ol
+space. When they 'see' it, they respond by
+firing action potentials. I hese cells aren 1
+picky, though. If motion across their re
+ceptive field is close to their favorite di
+rection. they will lire action potentials,
+just not as rapidly.
+In order to see all of the possible direc
+tions of motion, one might imagine that
+
+you need mam neurons for each region
+in space. This is the case, but the number
+of neurons can he reduced, because the
+cells cooperate to spec ify intermediate di
+rections of motion. For instance, if one cell
+is sensitive to northward motion and one
+cell is sensitive to westward motion, then
+motion to the northwest can be encoded,
+or 'spelled,' I>\ intermediate activation of
+these two neurons at once.
+It is one tiling to know that these neu
+rons are there and that they fire in re
+sponse to certain kinds of stimuli. But
+how do we know that the activation of
+these neurons is suffh icul to account for
+the subjective experience of this stimulus?
+Newsome asked,"(lan we demonstrate
+that the acti\ it\ of these cells .. . really in
+fluences. in this kind of intuitively mean
+ingful wax , our subjective perception of
+the world?
+Ideally, one would like to show that
+vou can alter that subjective experience in
+a predictable way by fiddling with these
+same neurons.
+As it turns out. you can.
+If motion is represented using combi
+nations ol direction-sensitive neurons,
+then researchers ought to be able to bias
+the motion that is seen by stimulating
+neurons that stand for one direction or
+another. 1 "his is precisely what happens.
+For example, if a subject is shown an ob
+ject going north, while the 'west' neuron is
+artificially stimulated, the subject will ac
+tuallv report seeing motion to the north
+west.
+Why does the brain bother to create
+abstract representations of information
+
+
+Spelling E' in the Neural Alphabet
+A simplified example of how the visual system encodes objects
+as the simultaneous activation of 'feature-selective' cells. For
+each bar that makes up the 'E' at left, there is a group of cells
+[right] responsible for watching that part of space. When these
+cells see a bar at their preferred orientation, they fire a burst of
+action potentials. The 'code' for 'E' is shown on the right as a
+pattern of activated cells [highlighted boxes]. More sophisticated
+shapes can be encoded by elaborating on this strategy.
+from the visual scene? Why not
+just pass the whole picture, pixel
+by pixel, on to the rest of the
+brain? Newsonic sa\s the issue
+here is one of efficient").
+"Kvolulionarily," he explains,
+"there is tremendous drive to use
+vour neural resources conserva
+tive!) and make efficient use ol
+them because there is a limited
+amount of space inside the c rani
+um."
+Sending information through
+out the brain means making con
+nections between the sending and
+receiving cells. I liese < onnec lions
+lake up space and energy. I lie
+lour firing neurons that spelled
+our 'I.' might represent the ac ti\ i
+ty of thousands ol neurons in the
+retina. As sin h, this encoding < re
+ales a compressed message, a mes
+sage that is much easiet to send to
+the higher levels of information
+processing in the beam.
+11 lis strategy of'fteural encod
+ing raises the question ol how
+complex an object can be repre
+sented b\ the tiling ola single
+neuron. Are there cells thai spec il •
+icallv recognize kinds ol objects,
+like cars and houses? I he answei
+here seems to be- no, loi the most
+part. I he eflicicnc) argument
+only applies to features ol the vi
+sual environment thai are com
+mon to oui evervda\ experience,
+like- edges, motion and coloi.
+|list as v<>u can spell am word
+in the Knglish language with a lit>-
+
+letter alphabet, the v isiial s\ siem
+seems content lo encode most vi
+sual experiences using combina
+tions of simple feature-selective
+neui < >ns.
+I here is one fascinating excep
+tion to this rule, called 'fine tells.'
+I hese are neurons in the visual
+cortex that are activated when .1
+primate is presented with the
+image of .1 lace. It appears that
+the\ represent faces in mm h the
+same wa\ tliatothei Icaturc-selec
+live neurons 1 epresent lines and
+motion.
+I here is a lot of controversy
+o\ei the existence of these cells,
+because ihe\ del) the < onvcntion
+al wisdom as to how in lor mat ion is
+emoded in the brain.
+"Some pec >|>lc fear 1 hat il the\
+acknowledge that lacc cells are
+real, then thc\ will be Ibrced to
+this fundamentally unworkable
+idea. I hat loi even complex object
+vou rccogni/e, there's a cell devot
+ed specilicallv to it" sa\s New
+si )ine.
+I 'he problem is. New some con
+tinues. "that there are too many
+things that we tan recogni/e. We
+don't have enough tells to do vi
+sion lb.it \va\ ."
+So win the exception It>l face
+cellsr Again, Newsome irsoits to
+an evolutional v explanation.
+" loi primates in part it ulai,
+laces are impor
+tant behav iorallv" he sav s. because
+we glean so nine h information, in
+0111 social interactions, Irom facial
+expressions. "I can e.isilv imagine
+that li >1 leat 111 es in the env irotl
+inent that are ol pai tic ulai Iv over
+w helming behavioral inipoi lance,
+
+\ou rcallv do evolve dedicated sys
+tems to process those visual lea
+tures."
+Sc ieinisis now have a basic un
+derstanding of the strategies that
+the brain uses to encode visual in
+formation. It remains to be seen
+how this knowledge will parlay
+into an understanding of the com
+plicated information processing
+that underlies our thoughts and
+behaviors, but Newsome believes
+that tliis is what is at stake.
+"Where does mv behavior
+come from at a fundamental
+level?" savs Newsome, "We're li v
+ing to ask 11i;it question. It's very
+simple right now , bow we see mo
+tion m one di red ion versus anoth
+er. lint vou have to crawl before
+vou can walk, and you have to
+walk before vou can run, but we're
+on the path. And this is the path
+iliiii will take us to that under
+standing."
+"Your mind has no direct access to the
+visual world" insists I'rol. ot Neurobiology
+Bill Newsome ot the Medical School. Our
+entire visual experience is a sophisticated
+reconstruction. Reconstructed, lie says,
+from electrical signals that stream towards
+the visual cortex in bundles ol neurons,
+en route from the 1 etina.
+Newsome has spent years trying to
+learn how shapes and motion are extract
+ed from that cacophony ol neural input.
+In the process, he and others like him
+have gained insight into how the brain en
+codes information, bridging the gap be
+tween firing neurons and our subjective
+experience of the world.
+In this digital age, the idea of encoding
+is commonplace. Music on a (.1) is stored
+as a string ol ()s and Is. Pop that CD into
+your computer, and you can encode the
+same music in MP3 format. But, what is
+the code that the brain uses to represent
+and store information? How can groups
+of neurons firing together mean some
+thing to your mind.''
+I he emerging answer seems to be that
+there are neurons in the brain that are
+specialized to recognize certain features
+of our experience. When these "feature
+selective" neurons lire at the same time,
+they indicate the presence of some object
+that, consists ol all of those features to
+gether. Essentially, they are letters in a
+neural alphabet that, when put together,
+'spell' our experiences in a neural code.
+Some of the most detailed examples of
+this coding strategy have come from stud
+ies of how the visual system processes
+what you see and presents it to the rest of
+
+brain. This processing happens in the vi
+sual cortex. In the visual cortex, there are
+special groups of neurons whose job it is
+to watch <1 point in space, called their "re
+ceptive field."
+"By virtue of the wiring between the
+retina and these cells in the cortex, they
+seem to be set up to respond to behav
+iorally significant events or objects in the
+
+world," says Newsome. I hey are pro
+grammed to look for the occurrence of
+certain features there, like a line at a par
+ticular orientation. When they see it, they
+report this by firing a burst ol action po
+tentials.
+I o imagine how groups of cells like this
+might begin to reconstruct the visual
+world, consider what happens when you
+
+look at the letter T/ on an eye ( hart, Foi
+each ol the four lines that make up this let
+ter, there is a cell responsible for monitor
+ing that part ol space, and deciding
+whether it sees .1 line in its preferred ori
+entation. I he way the visual cortex 'spells
+K' to the rest ol the brain is b\ the simul
+taneous firing of these four < ells.
+If you continue this strategy, and put
+enough lines together at the right orien
+tation, you can construct <1 rough sketch
+of the contours that outline a desk, <1 <t< >or,
+or even a lac e.
+"Somehow, these cells represent a first
+level of abstraction in the cerebral cortex
+where the neural svstein starts to spec ifi
+cally represent the orientation of local
+edges" says Newsome. "Probably . . . .
+those cells are the fundamental building
+blocks of our ability to see and recognize
+form and pattern."
+The world is made up of more than
+just contours and edges. Frequently,
+these contours are moving. I low the brain
+processes this additional dimension ol the
+visual experience lias been the locus ol
+Newsoine's own research.
+|ust as there are neurons that watch a
+particular region of space fin lines or
+edges, so there are neurons that motiitoi
+that same region ol space for movement.
+Fhese cells are sensitive to a particular di
+rection of motion across that region ol
+space. When they 'see' it, they respond by
+firing action potentials. I hese cells aren 1
+picky, though. If motion across their re
+ceptive field is close to their favorite di
+rection. they will lire action potentials,
+just not as rapidly.
+In order to see all of the possible direc
+tions of motion, one might imagine that
+
+you need mam neurons for each region
+in space. This is the case, but the number
+of neurons can he reduced, because the
+cells cooperate to spec ify intermediate di
+rections of motion. For instance, if one cell
+is sensitive to northward motion and one
+cell is sensitive to westward motion, then
+motion to the northwest can be encoded,
+or 'spelled,' I>\ intermediate activation of
+these two neurons at once.
+It is one tiling to know that these neu
+rons are there and that they fire in re
+sponse to certain kinds of stimuli. But
+how do we know that the activation of
+these neurons is suffh icul to account for
+the subjective experience of this stimulus?
+Newsome asked,"(lan we demonstrate
+that the acti\ it\ of these cells .. . really in
+fluences. in this kind of intuitively mean
+ingful wax , our subjective perception of
+the world?
+Ideally, one would like to show that
+vou can alter that subjective experience in
+a predictable way by fiddling with these
+same neurons.
+As it turns out. you can.
+If motion is represented using combi
+nations ol direction-sensitive neurons,
+then researchers ought to be able to bias
+the motion that is seen by stimulating
+neurons that stand for one direction or
+another. 1 "his is precisely what happens.
+For example, if a subject is shown an ob
+ject going north, while the 'west' neuron is
+artificially stimulated, the subject will ac
+tuallv report seeing motion to the north
+west.
+Why does the brain bother to create
+abstract representations of information
+
+
+Spelling E' in the Neural Alphabet
+A simplified example of how the visual system encodes objects
+as the simultaneous activation of 'feature-selective' cells. For
+each bar that makes up the 'E' at left, there is a group of cells
+[right] responsible for watching that part of space. When these
+cells see a bar at their preferred orientation, they fire a burst of
+action potentials. The 'code' for 'E' is shown on the right as a
+pattern of activated cells [highlighted boxes]. More sophisticated
+shapes can be encoded by elaborating on this strategy.
+from the visual scene? Why not
+just pass the whole picture, pixel
+by pixel, on to the rest of the
+brain? Newsonic sa\s the issue
+here is one of efficient").
+"Kvolulionarily," he explains,
+"there is tremendous drive to use
+vour neural resources conserva
+tive!) and make efficient use ol
+them because there is a limited
+amount of space inside the c rani
+um."
+Sending information through
+out the brain means making con
+nections between the sending and
+receiving cells. I liese < onnec lions
+lake up space and energy. I lie
+lour firing neurons that spelled
+our 'I.' might represent the ac ti\ i
+ty of thousands ol neurons in the
+retina. As sin h, this encoding < re
+ales a compressed message, a mes
+sage that is much easiet to send to
+the higher levels of information
+processing in the beam.
+11 lis strategy of'fteural encod
+ing raises the question ol how
+complex an object can be repre
+sented b\ the tiling ola single
+neuron. Are there cells thai spec il •
+icallv recognize kinds ol objects,
+like cars and houses? I he answei
+here seems to be- no, loi the most
+part. I he eflicicnc) argument
+only applies to features ol the vi
+sual environment thai are com
+mon to oui evervda\ experience,
+like- edges, motion and coloi.
+|list as v<>u can spell am word
+in the Knglish language with a lit>-
+
+letter alphabet, the v isiial s\ siem
+seems content lo encode most vi
+sual experiences using combina
+tions of simple feature-selective
+neui < >ns.
+I here is one fascinating excep
+tion to this rule, called 'fine tells.'
+I hese are neurons in the visual
+cortex that are activated when .1
+primate is presented with the
+image of .1 lace. It appears that
+the\ represent faces in mm h the
+same wa\ tliatothei Icaturc-selec
+live neurons 1 epresent lines and
+motion.
+I here is a lot of controversy
+o\ei the existence of these cells,
+because ihe\ del) the < onvcntion
+al wisdom as to how in lor mat ion is
+emoded in the brain.
+"Some pec >|>lc fear 1 hat il the\
+acknowledge that lacc cells are
+real, then thc\ will be Ibrced to
+this fundamentally unworkable
+idea. I hat loi even complex object
+vou rccogni/e, there's a cell devot
+ed specilicallv to it" sa\s New
+si )ine.
+I 'he problem is. New some con
+tinues. "that there are too many
+things that we tan recogni/e. We
+don't have enough tells to do vi
+sion lb.it \va\ ."
+So win the exception It>l face
+cellsr Again, Newsome irsoits to
+an evolutional v explanation.
+" loi primates in part it ulai,
+laces are impor
+tant behav iorallv" he sav s. because
+we glean so nine h information, in
+0111 social interactions, Irom facial
+expressions. "I can e.isilv imagine
+that li >1 leat 111 es in the env irotl
+inent that are ol pai tic ulai Iv over
+w helming behavioral inipoi lance,
+
+\ou rcallv do evolve dedicated sys
+tems to process those visual lea
+tures."
+Sc ieinisis now have a basic un
+derstanding of the strategies that
+the brain uses to encode visual in
+formation. It remains to be seen
+how this knowledge will parlay
+into an understanding of the com
+plicated information processing
+that underlies our thoughts and
+behaviors, but Newsome believes
+that tliis is what is at stake.
+"Where does mv behavior
+come from at a fundamental
+level?" savs Newsome, "We're li v
+ing to ask 11i;it question. It's very
+simple right now , bow we see mo
+tion m one di red ion versus anoth
+er. lint vou have to crawl before
+vou can walk, and you have to
+walk before vou can run, but we're
+on the path. And this is the path
+iliiii will take us to that under
+standing."
+"Your mind has no direct access to the
+visual world" insists I'rol. ot Neurobiology
+Bill Newsome ot the Medical School. Our
+entire visual experience is a sophisticated
+reconstruction. Reconstructed, lie says,
+from electrical signals that stream towards
+the visual cortex in bundles ol neurons,
+en route from the 1 etina.
+Newsome has spent years trying to
+learn how shapes and motion are extract
+ed from that cacophony ol neural input.
+In the process, he and others like him
+have gained insight into how the brain en
+codes information, bridging the gap be
+tween firing neurons and our subjective
+experience of the world.
+In this digital age, the idea of encoding
+is commonplace. Music on a (.1) is stored
+as a string ol ()s and Is. Pop that CD into
+your computer, and you can encode the
+same music in MP3 format. But, what is
+the code that the brain uses to represent
+and store information? How can groups
+of neurons firing together mean some
+thing to your mind.''
+I he emerging answer seems to be that
+there are neurons in the brain that are
+specialized to recognize certain features
+of our experience. When these "feature
+selective" neurons lire at the same time,
+they indicate the presence of some object
+that, consists ol all of those features to
+gether. Essentially, they are letters in a
+neural alphabet that, when put together,
+'spell' our experiences in a neural code.
+Some of the most detailed examples of
+this coding strategy have come from stud
+ies of how the visual system processes
+what you see and presents it to the rest of
+
+brain. This processing happens in the vi
+sual cortex. In the visual cortex, there are
+special groups of neurons whose job it is
+to watch <1 point in space, called their "re
+ceptive field."
+"By virtue of the wiring between the
+retina and these cells in the cortex, they
+seem to be set up to respond to behav
+iorally significant events or objects in the
+
+world," says Newsome. I hey are pro
+grammed to look for the occurrence of
+certain features there, like a line at a par
+ticular orientation. When they see it, they
+report this by firing a burst ol action po
+tentials.
+I o imagine how groups of cells like this
+might begin to reconstruct the visual
+world, consider what happens when you
+
+look at the letter T/ on an eye ( hart, Foi
+each ol the four lines that make up this let
+ter, there is a cell responsible for monitor
+ing that part ol space, and deciding
+whether it sees .1 line in its preferred ori
+entation. I he way the visual cortex 'spells
+K' to the rest ol the brain is b\ the simul
+taneous firing of these four < ells.
+If you continue this strategy, and put
+enough lines together at the right orien
+tation, you can construct <1 rough sketch
+of the contours that outline a desk, <1 <t< >or,
+or even a lac e.
+"Somehow, these cells represent a first
+level of abstraction in the cerebral cortex
+where the neural svstein starts to spec ifi
+cally represent the orientation of local
+edges" says Newsome. "Probably . . . .
+those cells are the fundamental building
+blocks of our ability to see and recognize
+form and pattern."
+The world is made up of more than
+just contours and edges. Frequently,
+these contours are moving. I low the brain
+processes this additional dimension ol the
+visual experience lias been the locus ol
+Newsoine's own research.
+|ust as there are neurons that watch a
+particular region of space fin lines or
+edges, so there are neurons that motiitoi
+that same region ol space for movement.
+Fhese cells are sensitive to a particular di
+rection of motion across that region ol
+space. When they 'see' it, they respond by
+firing action potentials. I hese cells aren 1
+picky, though. If motion across their re
+ceptive field is close to their favorite di
+rection. they will lire action potentials,
+just not as rapidly.
+In order to see all of the possible direc
+tions of motion, one might imagine that
+
+you need mam neurons for each region
+in space. This is the case, but the number
+of neurons can he reduced, because the
+cells cooperate to spec ify intermediate di
+rections of motion. For instance, if one cell
+is sensitive to northward motion and one
+cell is sensitive to westward motion, then
+motion to the northwest can be encoded,
+or 'spelled,' I>\ intermediate activation of
+these two neurons at once.
+It is one tiling to know that these neu
+rons are there and that they fire in re
+sponse to certain kinds of stimuli. But
+how do we know that the activation of
+these neurons is suffh icul to account for
+the subjective experience of this stimulus?
+Newsome asked,"(lan we demonstrate
+that the acti\ it\ of these cells .. . really in
+fluences. in this kind of intuitively mean
+ingful wax , our subjective perception of
+the world?
+Ideally, one would like to show that
+vou can alter that subjective experience in
+a predictable way by fiddling with these
+same neurons.
+As it turns out. you can.
+If motion is represented using combi
+nations ol direction-sensitive neurons,
+then researchers ought to be able to bias
+the motion that is seen by stimulating
+neurons that stand for one direction or
+another. 1 "his is precisely what happens.
+For example, if a subject is shown an ob
+ject going north, while the 'west' neuron is
+artificially stimulated, the subject will ac
+tuallv report seeing motion to the north
+west.
+Why does the brain bother to create
+abstract representations of information
+
+
+Spelling E' in the Neural Alphabet
+A simplified example of how the visual system encodes objects
+as the simultaneous activation of 'feature-selective' cells. For
+each bar that makes up the 'E' at left, there is a group of cells
+[right] responsible for watching that part of space. When these
+cells see a bar at their preferred orientation, they fire a burst of
+action potentials. The 'code' for 'E' is shown on the right as a
+pattern of activated cells [highlighted boxes]. More sophisticated
+shapes can be encoded by elaborating on this strategy.
+from the visual scene? Why not
+just pass the whole picture, pixel
+by pixel, on to the rest of the
+brain? Newsonic sa\s the issue
+here is one of efficient").
+"Kvolulionarily," he explains,
+"there is tremendous drive to use
+vour neural resources conserva
+tive!) and make efficient use ol
+them because there is a limited
+amount of space inside the c rani
+um."
+Sending information through
+out the brain means making con
+nections between the sending and
+receiving cells. I liese < onnec lions
+lake up space and energy. I lie
+lour firing neurons that spelled
+our 'I.' might represent the ac ti\ i
+ty of thousands ol neurons in the
+retina. As sin h, this encoding < re
+ales a compressed message, a mes
+sage that is much easiet to send to
+the higher levels of information
+processing in the beam.
+11 lis strategy of'fteural encod
+ing raises the question ol how
+complex an object can be repre
+sented b\ the tiling ola single
+neuron. Are there cells thai spec il •
+icallv recognize kinds ol objects,
+like cars and houses? I he answei
+here seems to be- no, loi the most
+part. I he eflicicnc) argument
+only applies to features ol the vi
+sual environment thai are com
+mon to oui evervda\ experience,
+like- edges, motion and coloi.
+|list as v<>u can spell am word
+in the Knglish language with a lit>-
+
+letter alphabet, the v isiial s\ siem
+seems content lo encode most vi
+sual experiences using combina
+tions of simple feature-selective
+neui < >ns.
+I here is one fascinating excep
+tion to this rule, called 'fine tells.'
+I hese are neurons in the visual
+cortex that are activated when .1
+primate is presented with the
+image of .1 lace. It appears that
+the\ represent faces in mm h the
+same wa\ tliatothei Icaturc-selec
+live neurons 1 epresent lines and
+motion.
+I here is a lot of controversy
+o\ei the existence of these cells,
+because ihe\ del) the < onvcntion
+al wisdom as to how in lor mat ion is
+emoded in the brain.
+"Some pec >|>lc fear 1 hat il the\
+acknowledge that lacc cells are
+real, then thc\ will be Ibrced to
+this fundamentally unworkable
+idea. I hat loi even complex object
+vou rccogni/e, there's a cell devot
+ed specilicallv to it" sa\s New
+si )ine.
+I 'he problem is. New some con
+tinues. "that there are too many
+things that we tan recogni/e. We
+don't have enough tells to do vi
+sion lb.it \va\ ."
+So win the exception It>l face
+cellsr Again, Newsome irsoits to
+an evolutional v explanation.
+" loi primates in part it ulai,
+laces are impor
+tant behav iorallv" he sav s. because
+we glean so nine h information, in
+0111 social interactions, Irom facial
+expressions. "I can e.isilv imagine
+that li >1 leat 111 es in the env irotl
+inent that are ol pai tic ulai Iv over
+w helming behavioral inipoi lance,
+
+\ou rcallv do evolve dedicated sys
+tems to process those visual lea
+tures."
+Sc ieinisis now have a basic un
+derstanding of the strategies that
+the brain uses to encode visual in
+formation. It remains to be seen
+how this knowledge will parlay
+into an understanding of the com
+plicated information processing
+that underlies our thoughts and
+behaviors, but Newsome believes
+that tliis is what is at stake.
+"Where does mv behavior
+come from at a fundamental
+level?" savs Newsome, "We're li v
+ing to ask 11i;it question. It's very
+simple right now , bow we see mo
+tion m one di red ion versus anoth
+er. lint vou have to crawl before
+vou can walk, and you have to
+walk before vou can run, but we're
+on the path. And this is the path
+iliiii will take us to that under
+standing."

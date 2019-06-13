@@ -64,24 +64,24 @@ RECREATION (001)
 PHYSICAL EDUCATION:
 002 1 CHANGE inrtuclor - Igwa
 002 2 CHANGE instructor - Staff
-003 3 CHANGE time - 215
-003 4 CHANGE instructor - Hannasay
-003 5 CHANGE time - 10:00
-003 6 CHANGE Insfructor — Raiman
-003 A 1 CHANGE instructor — Ruff
+003.3 CHANGE: time — 2:15
+003.4 CHANGE: instructor — Hennessy
+003.5 CHANGE: time — 10:00
+003.6 CHANGE: Instructor — Reiman
+003A.1 CHANGE: instructor — Ruff
 015 ADO 015-0-01-01 Gymnastics Begin
-ning. Sacfao and Staff. MW. 1:16 Endna
+ning, Sadao and Staff, MW, 1:15 Encina
 Gym
-016 CHANGE title, days — Gynastics
-' Intermediate/Advanced. TTh
-029 CHANGE instructor — School
-032 1 CHANGE course number. title — 033 5,
-Tennis Inter mediate
-033 5 CHANGE course number, title—o32 1.
-Tennis Beginning
-040 CHANGE time, piece —11 00. deGuerre
-049 CHANGE: days, lime, place - TTh.
-11 00. deGuerre
+016 CHANGE: title, days — Gymnastics
+Intermediate/Advanced, TTh
+029 CHANGE: instructor — School
+032.1 CHANGE: course number, title — 033.5,
+Tennis: Intermediate
+033.5 CHANGE: course number, title — 032.1,
+Tennis: Beginning
+040 CHANGE: time, place — 11:00, deGuerre
+049 CHANGE: days, time, place — TTh,
+11:00, deGuerre
 
 052T CHANGE: place — deGuerre
 115 CHANGE: title — Intermediate/Advanced
@@ -591,24 +591,24 @@ RECREATION (001)
 PHYSICAL EDUCATION:
 002 1 CHANGE inrtuclor - Igwa
 002 2 CHANGE instructor - Staff
-003 3 CHANGE time - 215
-003 4 CHANGE instructor - Hannasay
-003 5 CHANGE time - 10:00
-003 6 CHANGE Insfructor — Raiman
-003 A 1 CHANGE instructor — Ruff
+003.3 CHANGE: time — 2:15
+003.4 CHANGE: instructor — Hennessy
+003.5 CHANGE: time — 10:00
+003.6 CHANGE: Instructor — Reiman
+003A.1 CHANGE: instructor — Ruff
 015 ADO 015-0-01-01 Gymnastics Begin
-ning. Sacfao and Staff. MW. 1:16 Endna
+ning, Sadao and Staff, MW, 1:15 Encina
 Gym
-016 CHANGE title, days — Gynastics
-' Intermediate/Advanced. TTh
-029 CHANGE instructor — School
-032 1 CHANGE course number. title — 033 5,
-Tennis Inter mediate
-033 5 CHANGE course number, title—o32 1.
-Tennis Beginning
-040 CHANGE time, piece —11 00. deGuerre
-049 CHANGE: days, lime, place - TTh.
-11 00. deGuerre
+016 CHANGE: title, days — Gymnastics
+Intermediate/Advanced, TTh
+029 CHANGE: instructor — School
+032.1 CHANGE: course number, title — 033.5,
+Tennis: Intermediate
+033.5 CHANGE: course number, title — 032.1,
+Tennis: Beginning
+040 CHANGE: time, place — 11:00, deGuerre
+049 CHANGE: days, time, place — TTh,
+11:00, deGuerre
 
 052T CHANGE: place — deGuerre
 115 CHANGE: title — Intermediate/Advanced
@@ -1118,24 +1118,24 @@ RECREATION (001)
 PHYSICAL EDUCATION:
 002 1 CHANGE inrtuclor - Igwa
 002 2 CHANGE instructor - Staff
-003 3 CHANGE time - 215
-003 4 CHANGE instructor - Hannasay
-003 5 CHANGE time - 10:00
-003 6 CHANGE Insfructor — Raiman
-003 A 1 CHANGE instructor — Ruff
+003.3 CHANGE: time — 2:15
+003.4 CHANGE: instructor — Hennessy
+003.5 CHANGE: time — 10:00
+003.6 CHANGE: Instructor — Reiman
+003A.1 CHANGE: instructor — Ruff
 015 ADO 015-0-01-01 Gymnastics Begin
-ning. Sacfao and Staff. MW. 1:16 Endna
+ning, Sadao and Staff, MW, 1:15 Encina
 Gym
-016 CHANGE title, days — Gynastics
-' Intermediate/Advanced. TTh
-029 CHANGE instructor — School
-032 1 CHANGE course number. title — 033 5,
-Tennis Inter mediate
-033 5 CHANGE course number, title—o32 1.
-Tennis Beginning
-040 CHANGE time, piece —11 00. deGuerre
-049 CHANGE: days, lime, place - TTh.
-11 00. deGuerre
+016 CHANGE: title, days — Gymnastics
+Intermediate/Advanced, TTh
+029 CHANGE: instructor — School
+032.1 CHANGE: course number, title — 033.5,
+Tennis: Intermediate
+033.5 CHANGE: course number, title — 032.1,
+Tennis: Beginning
+040 CHANGE: time, place — 11:00, deGuerre
+049 CHANGE: days, time, place — TTh,
+11:00, deGuerre
 
 052T CHANGE: place — deGuerre
 115 CHANGE: title — Intermediate/Advanced
@@ -1645,24 +1645,24 @@ RECREATION (001)
 PHYSICAL EDUCATION:
 002 1 CHANGE inrtuclor - Igwa
 002 2 CHANGE instructor - Staff
-003 3 CHANGE time - 215
-003 4 CHANGE instructor - Hannasay
-003 5 CHANGE time - 10:00
-003 6 CHANGE Insfructor — Raiman
-003 A 1 CHANGE instructor — Ruff
+003.3 CHANGE: time — 2:15
+003.4 CHANGE: instructor — Hennessy
+003.5 CHANGE: time — 10:00
+003.6 CHANGE: Instructor — Reiman
+003A.1 CHANGE: instructor — Ruff
 015 ADO 015-0-01-01 Gymnastics Begin
-ning. Sacfao and Staff. MW. 1:16 Endna
+ning, Sadao and Staff, MW, 1:15 Encina
 Gym
-016 CHANGE title, days — Gynastics
-' Intermediate/Advanced. TTh
-029 CHANGE instructor — School
-032 1 CHANGE course number. title — 033 5,
-Tennis Inter mediate
-033 5 CHANGE course number, title—o32 1.
-Tennis Beginning
-040 CHANGE time, piece —11 00. deGuerre
-049 CHANGE: days, lime, place - TTh.
-11 00. deGuerre
+016 CHANGE: title, days — Gymnastics
+Intermediate/Advanced, TTh
+029 CHANGE: instructor — School
+032.1 CHANGE: course number, title — 033.5,
+Tennis: Intermediate
+033.5 CHANGE: course number, title — 032.1,
+Tennis: Beginning
+040 CHANGE: time, place — 11:00, deGuerre
+049 CHANGE: days, time, place — TTh,
+11:00, deGuerre
 
 052T CHANGE: place — deGuerre
 115 CHANGE: title — Intermediate/Advanced
@@ -2172,24 +2172,24 @@ RECREATION (001)
 PHYSICAL EDUCATION:
 002 1 CHANGE inrtuclor - Igwa
 002 2 CHANGE instructor - Staff
-003 3 CHANGE time - 215
-003 4 CHANGE instructor - Hannasay
-003 5 CHANGE time - 10:00
-003 6 CHANGE Insfructor — Raiman
-003 A 1 CHANGE instructor — Ruff
+003.3 CHANGE: time — 2:15
+003.4 CHANGE: instructor — Hennessy
+003.5 CHANGE: time — 10:00
+003.6 CHANGE: Instructor — Reiman
+003A.1 CHANGE: instructor — Ruff
 015 ADO 015-0-01-01 Gymnastics Begin
-ning. Sacfao and Staff. MW. 1:16 Endna
+ning, Sadao and Staff, MW, 1:15 Encina
 Gym
-016 CHANGE title, days — Gynastics
-' Intermediate/Advanced. TTh
-029 CHANGE instructor — School
-032 1 CHANGE course number. title — 033 5,
-Tennis Inter mediate
-033 5 CHANGE course number, title—o32 1.
-Tennis Beginning
-040 CHANGE time, piece —11 00. deGuerre
-049 CHANGE: days, lime, place - TTh.
-11 00. deGuerre
+016 CHANGE: title, days — Gymnastics
+Intermediate/Advanced, TTh
+029 CHANGE: instructor — School
+032.1 CHANGE: course number, title — 033.5,
+Tennis: Intermediate
+033.5 CHANGE: course number, title — 032.1,
+Tennis: Beginning
+040 CHANGE: time, place — 11:00, deGuerre
+049 CHANGE: days, time, place — TTh,
+11:00, deGuerre
 
 052T CHANGE: place — deGuerre
 115 CHANGE: title — Intermediate/Advanced
@@ -2699,24 +2699,24 @@ RECREATION (001)
 PHYSICAL EDUCATION:
 002 1 CHANGE inrtuclor - Igwa
 002 2 CHANGE instructor - Staff
-003 3 CHANGE time - 215
-003 4 CHANGE instructor - Hannasay
-003 5 CHANGE time - 10:00
-003 6 CHANGE Insfructor — Raiman
-003 A 1 CHANGE instructor — Ruff
+003.3 CHANGE: time — 2:15
+003.4 CHANGE: instructor — Hennessy
+003.5 CHANGE: time — 10:00
+003.6 CHANGE: Instructor — Reiman
+003A.1 CHANGE: instructor — Ruff
 015 ADO 015-0-01-01 Gymnastics Begin
-ning. Sacfao and Staff. MW. 1:16 Endna
+ning, Sadao and Staff, MW, 1:15 Encina
 Gym
-016 CHANGE title, days — Gynastics
-' Intermediate/Advanced. TTh
-029 CHANGE instructor — School
-032 1 CHANGE course number. title — 033 5,
-Tennis Inter mediate
-033 5 CHANGE course number, title—o32 1.
-Tennis Beginning
-040 CHANGE time, piece —11 00. deGuerre
-049 CHANGE: days, lime, place - TTh.
-11 00. deGuerre
+016 CHANGE: title, days — Gymnastics
+Intermediate/Advanced, TTh
+029 CHANGE: instructor — School
+032.1 CHANGE: course number, title — 033.5,
+Tennis: Intermediate
+033.5 CHANGE: course number, title — 032.1,
+Tennis: Beginning
+040 CHANGE: time, place — 11:00, deGuerre
+049 CHANGE: days, time, place — TTh,
+11:00, deGuerre
 
 052T CHANGE: place — deGuerre
 115 CHANGE: title — Intermediate/Advanced
@@ -3226,24 +3226,24 @@ RECREATION (001)
 PHYSICAL EDUCATION:
 002 1 CHANGE inrtuclor - Igwa
 002 2 CHANGE instructor - Staff
-003 3 CHANGE time - 215
-003 4 CHANGE instructor - Hannasay
-003 5 CHANGE time - 10:00
-003 6 CHANGE Insfructor — Raiman
-003 A 1 CHANGE instructor — Ruff
+003.3 CHANGE: time — 2:15
+003.4 CHANGE: instructor — Hennessy
+003.5 CHANGE: time — 10:00
+003.6 CHANGE: Instructor — Reiman
+003A.1 CHANGE: instructor — Ruff
 015 ADO 015-0-01-01 Gymnastics Begin
-ning. Sacfao and Staff. MW. 1:16 Endna
+ning, Sadao and Staff, MW, 1:15 Encina
 Gym
-016 CHANGE title, days — Gynastics
-' Intermediate/Advanced. TTh
-029 CHANGE instructor — School
-032 1 CHANGE course number. title — 033 5,
-Tennis Inter mediate
-033 5 CHANGE course number, title—o32 1.
-Tennis Beginning
-040 CHANGE time, piece —11 00. deGuerre
-049 CHANGE: days, lime, place - TTh.
-11 00. deGuerre
+016 CHANGE: title, days — Gymnastics
+Intermediate/Advanced, TTh
+029 CHANGE: instructor — School
+032.1 CHANGE: course number, title — 033.5,
+Tennis: Intermediate
+033.5 CHANGE: course number, title — 032.1,
+Tennis: Beginning
+040 CHANGE: time, place — 11:00, deGuerre
+049 CHANGE: days, time, place — TTh,
+11:00, deGuerre
 
 052T CHANGE: place — deGuerre
 115 CHANGE: title — Intermediate/Advanced
@@ -3753,24 +3753,24 @@ RECREATION (001)
 PHYSICAL EDUCATION:
 002 1 CHANGE inrtuclor - Igwa
 002 2 CHANGE instructor - Staff
-003 3 CHANGE time - 215
-003 4 CHANGE instructor - Hannasay
-003 5 CHANGE time - 10:00
-003 6 CHANGE Insfructor — Raiman
-003 A 1 CHANGE instructor — Ruff
+003.3 CHANGE: time — 2:15
+003.4 CHANGE: instructor — Hennessy
+003.5 CHANGE: time — 10:00
+003.6 CHANGE: Instructor — Reiman
+003A.1 CHANGE: instructor — Ruff
 015 ADO 015-0-01-01 Gymnastics Begin
-ning. Sacfao and Staff. MW. 1:16 Endna
+ning, Sadao and Staff, MW, 1:15 Encina
 Gym
-016 CHANGE title, days — Gynastics
-' Intermediate/Advanced. TTh
-029 CHANGE instructor — School
-032 1 CHANGE course number. title — 033 5,
-Tennis Inter mediate
-033 5 CHANGE course number, title—o32 1.
-Tennis Beginning
-040 CHANGE time, piece —11 00. deGuerre
-049 CHANGE: days, lime, place - TTh.
-11 00. deGuerre
+016 CHANGE: title, days — Gymnastics
+Intermediate/Advanced, TTh
+029 CHANGE: instructor — School
+032.1 CHANGE: course number, title — 033.5,
+Tennis: Intermediate
+033.5 CHANGE: course number, title — 032.1,
+Tennis: Beginning
+040 CHANGE: time, place — 11:00, deGuerre
+049 CHANGE: days, time, place — TTh,
+11:00, deGuerre
 
 052T CHANGE: place — deGuerre
 115 CHANGE: title — Intermediate/Advanced

@@ -70,7 +70,7 @@ Belts 1 .1 .501)
 Village 10S 1 l .500
 Encina 5W 1 2 .333
 Toyon 2S o :! .000
-LEAGUE 111 W. L. Pet.
+LEAGUE III W. L. Pct.
 Deltas :t 0 .1000
 Kappa Sigs 2 I .(i(i7
 KAs I 1 .500
@@ -126,39 +126,39 @@ Village 155 0 2 000
 Tovon IE 0 2 .000
 
 Volleyball
-LEAGUE I YV. L. Pet.
-Phi Delis 3 0 .1000
-Breakers I I .500
+LEAGUE I W. L. Pct.
+Phi Delts 3 0 1.000
+Breakers 1 1 .500
 ATO 1 1 .500
-Sigma Nil 0 1 .000
-Encina 3W 0 l .000
-Alpha Delis o l .000
-LEAGUE II YV L. Pet.
-Phi Kaps 2 II .1000
-Fijis I it .1000
-Village 214 1 I .500
+Sigma Nu 0 1 .000
+Encina 3W 0 1 .000
+Alpha Delts 0 1 .000
+LEAGUE II W. L. Pct.
+Phi Kaps 2 0 1.000
+Fijis 1 0 1.000
+Village 214 1 1 .500
 Encina 2E 0 0 .000
 KAs 0 1 .000
-El Toro o 2 .000
-LEAGUE 111 W. L. Pet.
-Tlieta Dells 2 0 .1000
-Kappa Si}{s 2 II .10(10
+El Toro 0 2 .000
+LEAGUE III W. L. Pct.
+Theta Delts 2 0 1.000
+Kappa Sigs 2 0 1.000
 Encina Basement 0 1 .000
-Tlieta Chis 0 1 .000
-Toyon IE 0 1 .000
-Village 310 0 l .000
-LEAGUE IV YV. L. Pel.
-Biz School 1 0 .1000
-Betas 1 II .1000
-Phi Kaps 1 0 .1000
+Theta Chis 0 1 .000
+Toyon 1E 0 1 .000
+Village 310 0 1 .000
+LEAGUE IV W. L. Pct.
+Biz School 1 0 1.000
+Betas 1 0 1.000
+Phi Kaps 1 0 1.000
 SAE 1 1 .500
-Encina "»YY o i .000
+Encina 5W 0 1 .000
 Encina 3E 0 2 .000
-LEAGUE V YV. L. Pet.
-Belts 2 0 .1000
-AKLs 1 0 .1000
-Delta Chis 1 (I .1000
-Encina 4YY 1 2 .333
+LEAGUE V W. L. Pct.
+Delts 2 0 1.000
+AKLs 1 0 1.000
+Delta Chis 1 0 1.000
+Encina 4W 1 2 .333
 DUs 0 1 .000
 Encina 4E 0 2 .000
 Today is the last da\ for organi
@@ -230,7 +230,7 @@ Belts 1 .1 .501)
 Village 10S 1 l .500
 Encina 5W 1 2 .333
 Toyon 2S o :! .000
-LEAGUE 111 W. L. Pet.
+LEAGUE III W. L. Pct.
 Deltas :t 0 .1000
 Kappa Sigs 2 I .(i(i7
 KAs I 1 .500
@@ -286,39 +286,39 @@ Village 155 0 2 000
 Tovon IE 0 2 .000
 
 Volleyball
-LEAGUE I YV. L. Pet.
-Phi Delis 3 0 .1000
-Breakers I I .500
+LEAGUE I W. L. Pct.
+Phi Delts 3 0 1.000
+Breakers 1 1 .500
 ATO 1 1 .500
-Sigma Nil 0 1 .000
-Encina 3W 0 l .000
-Alpha Delis o l .000
-LEAGUE II YV L. Pet.
-Phi Kaps 2 II .1000
-Fijis I it .1000
-Village 214 1 I .500
+Sigma Nu 0 1 .000
+Encina 3W 0 1 .000
+Alpha Delts 0 1 .000
+LEAGUE II W. L. Pct.
+Phi Kaps 2 0 1.000
+Fijis 1 0 1.000
+Village 214 1 1 .500
 Encina 2E 0 0 .000
 KAs 0 1 .000
-El Toro o 2 .000
-LEAGUE 111 W. L. Pet.
-Tlieta Dells 2 0 .1000
-Kappa Si}{s 2 II .10(10
+El Toro 0 2 .000
+LEAGUE III W. L. Pct.
+Theta Delts 2 0 1.000
+Kappa Sigs 2 0 1.000
 Encina Basement 0 1 .000
-Tlieta Chis 0 1 .000
-Toyon IE 0 1 .000
-Village 310 0 l .000
-LEAGUE IV YV. L. Pel.
-Biz School 1 0 .1000
-Betas 1 II .1000
-Phi Kaps 1 0 .1000
+Theta Chis 0 1 .000
+Toyon 1E 0 1 .000
+Village 310 0 1 .000
+LEAGUE IV W. L. Pct.
+Biz School 1 0 1.000
+Betas 1 0 1.000
+Phi Kaps 1 0 1.000
 SAE 1 1 .500
-Encina "»YY o i .000
+Encina 5W 0 1 .000
 Encina 3E 0 2 .000
-LEAGUE V YV. L. Pet.
-Belts 2 0 .1000
-AKLs 1 0 .1000
-Delta Chis 1 (I .1000
-Encina 4YY 1 2 .333
+LEAGUE V W. L. Pct.
+Delts 2 0 1.000
+AKLs 1 0 1.000
+Delta Chis 1 0 1.000
+Encina 4W 1 2 .333
 DUs 0 1 .000
 Encina 4E 0 2 .000
 Today is the last da\ for organi
@@ -390,7 +390,7 @@ Belts 1 .1 .501)
 Village 10S 1 l .500
 Encina 5W 1 2 .333
 Toyon 2S o :! .000
-LEAGUE 111 W. L. Pet.
+LEAGUE III W. L. Pct.
 Deltas :t 0 .1000
 Kappa Sigs 2 I .(i(i7
 KAs I 1 .500
@@ -446,39 +446,39 @@ Village 155 0 2 000
 Tovon IE 0 2 .000
 
 Volleyball
-LEAGUE I YV. L. Pet.
-Phi Delis 3 0 .1000
-Breakers I I .500
+LEAGUE I W. L. Pct.
+Phi Delts 3 0 1.000
+Breakers 1 1 .500
 ATO 1 1 .500
-Sigma Nil 0 1 .000
-Encina 3W 0 l .000
-Alpha Delis o l .000
-LEAGUE II YV L. Pet.
-Phi Kaps 2 II .1000
-Fijis I it .1000
-Village 214 1 I .500
+Sigma Nu 0 1 .000
+Encina 3W 0 1 .000
+Alpha Delts 0 1 .000
+LEAGUE II W. L. Pct.
+Phi Kaps 2 0 1.000
+Fijis 1 0 1.000
+Village 214 1 1 .500
 Encina 2E 0 0 .000
 KAs 0 1 .000
-El Toro o 2 .000
-LEAGUE 111 W. L. Pet.
-Tlieta Dells 2 0 .1000
-Kappa Si}{s 2 II .10(10
+El Toro 0 2 .000
+LEAGUE III W. L. Pct.
+Theta Delts 2 0 1.000
+Kappa Sigs 2 0 1.000
 Encina Basement 0 1 .000
-Tlieta Chis 0 1 .000
-Toyon IE 0 1 .000
-Village 310 0 l .000
-LEAGUE IV YV. L. Pel.
-Biz School 1 0 .1000
-Betas 1 II .1000
-Phi Kaps 1 0 .1000
+Theta Chis 0 1 .000
+Toyon 1E 0 1 .000
+Village 310 0 1 .000
+LEAGUE IV W. L. Pct.
+Biz School 1 0 1.000
+Betas 1 0 1.000
+Phi Kaps 1 0 1.000
 SAE 1 1 .500
-Encina "»YY o i .000
+Encina 5W 0 1 .000
 Encina 3E 0 2 .000
-LEAGUE V YV. L. Pet.
-Belts 2 0 .1000
-AKLs 1 0 .1000
-Delta Chis 1 (I .1000
-Encina 4YY 1 2 .333
+LEAGUE V W. L. Pct.
+Delts 2 0 1.000
+AKLs 1 0 1.000
+Delta Chis 1 0 1.000
+Encina 4W 1 2 .333
 DUs 0 1 .000
 Encina 4E 0 2 .000
 Today is the last da\ for organi
@@ -550,7 +550,7 @@ Belts 1 .1 .501)
 Village 10S 1 l .500
 Encina 5W 1 2 .333
 Toyon 2S o :! .000
-LEAGUE 111 W. L. Pet.
+LEAGUE III W. L. Pct.
 Deltas :t 0 .1000
 Kappa Sigs 2 I .(i(i7
 KAs I 1 .500
@@ -606,39 +606,39 @@ Village 155 0 2 000
 Tovon IE 0 2 .000
 
 Volleyball
-LEAGUE I YV. L. Pet.
-Phi Delis 3 0 .1000
-Breakers I I .500
+LEAGUE I W. L. Pct.
+Phi Delts 3 0 1.000
+Breakers 1 1 .500
 ATO 1 1 .500
-Sigma Nil 0 1 .000
-Encina 3W 0 l .000
-Alpha Delis o l .000
-LEAGUE II YV L. Pet.
-Phi Kaps 2 II .1000
-Fijis I it .1000
-Village 214 1 I .500
+Sigma Nu 0 1 .000
+Encina 3W 0 1 .000
+Alpha Delts 0 1 .000
+LEAGUE II W. L. Pct.
+Phi Kaps 2 0 1.000
+Fijis 1 0 1.000
+Village 214 1 1 .500
 Encina 2E 0 0 .000
 KAs 0 1 .000
-El Toro o 2 .000
-LEAGUE 111 W. L. Pet.
-Tlieta Dells 2 0 .1000
-Kappa Si}{s 2 II .10(10
+El Toro 0 2 .000
+LEAGUE III W. L. Pct.
+Theta Delts 2 0 1.000
+Kappa Sigs 2 0 1.000
 Encina Basement 0 1 .000
-Tlieta Chis 0 1 .000
-Toyon IE 0 1 .000
-Village 310 0 l .000
-LEAGUE IV YV. L. Pel.
-Biz School 1 0 .1000
-Betas 1 II .1000
-Phi Kaps 1 0 .1000
+Theta Chis 0 1 .000
+Toyon 1E 0 1 .000
+Village 310 0 1 .000
+LEAGUE IV W. L. Pct.
+Biz School 1 0 1.000
+Betas 1 0 1.000
+Phi Kaps 1 0 1.000
 SAE 1 1 .500
-Encina "»YY o i .000
+Encina 5W 0 1 .000
 Encina 3E 0 2 .000
-LEAGUE V YV. L. Pet.
-Belts 2 0 .1000
-AKLs 1 0 .1000
-Delta Chis 1 (I .1000
-Encina 4YY 1 2 .333
+LEAGUE V W. L. Pct.
+Delts 2 0 1.000
+AKLs 1 0 1.000
+Delta Chis 1 0 1.000
+Encina 4W 1 2 .333
 DUs 0 1 .000
 Encina 4E 0 2 .000
 Today is the last da\ for organi
@@ -710,7 +710,7 @@ Belts 1 .1 .501)
 Village 10S 1 l .500
 Encina 5W 1 2 .333
 Toyon 2S o :! .000
-LEAGUE 111 W. L. Pet.
+LEAGUE III W. L. Pct.
 Deltas :t 0 .1000
 Kappa Sigs 2 I .(i(i7
 KAs I 1 .500
@@ -766,39 +766,39 @@ Village 155 0 2 000
 Tovon IE 0 2 .000
 
 Volleyball
-LEAGUE I YV. L. Pet.
-Phi Delis 3 0 .1000
-Breakers I I .500
+LEAGUE I W. L. Pct.
+Phi Delts 3 0 1.000
+Breakers 1 1 .500
 ATO 1 1 .500
-Sigma Nil 0 1 .000
-Encina 3W 0 l .000
-Alpha Delis o l .000
-LEAGUE II YV L. Pet.
-Phi Kaps 2 II .1000
-Fijis I it .1000
-Village 214 1 I .500
+Sigma Nu 0 1 .000
+Encina 3W 0 1 .000
+Alpha Delts 0 1 .000
+LEAGUE II W. L. Pct.
+Phi Kaps 2 0 1.000
+Fijis 1 0 1.000
+Village 214 1 1 .500
 Encina 2E 0 0 .000
 KAs 0 1 .000
-El Toro o 2 .000
-LEAGUE 111 W. L. Pet.
-Tlieta Dells 2 0 .1000
-Kappa Si}{s 2 II .10(10
+El Toro 0 2 .000
+LEAGUE III W. L. Pct.
+Theta Delts 2 0 1.000
+Kappa Sigs 2 0 1.000
 Encina Basement 0 1 .000
-Tlieta Chis 0 1 .000
-Toyon IE 0 1 .000
-Village 310 0 l .000
-LEAGUE IV YV. L. Pel.
-Biz School 1 0 .1000
-Betas 1 II .1000
-Phi Kaps 1 0 .1000
+Theta Chis 0 1 .000
+Toyon 1E 0 1 .000
+Village 310 0 1 .000
+LEAGUE IV W. L. Pct.
+Biz School 1 0 1.000
+Betas 1 0 1.000
+Phi Kaps 1 0 1.000
 SAE 1 1 .500
-Encina "»YY o i .000
+Encina 5W 0 1 .000
 Encina 3E 0 2 .000
-LEAGUE V YV. L. Pet.
-Belts 2 0 .1000
-AKLs 1 0 .1000
-Delta Chis 1 (I .1000
-Encina 4YY 1 2 .333
+LEAGUE V W. L. Pct.
+Delts 2 0 1.000
+AKLs 1 0 1.000
+Delta Chis 1 0 1.000
+Encina 4W 1 2 .333
 DUs 0 1 .000
 Encina 4E 0 2 .000
 Today is the last da\ for organi
@@ -870,7 +870,7 @@ Belts 1 .1 .501)
 Village 10S 1 l .500
 Encina 5W 1 2 .333
 Toyon 2S o :! .000
-LEAGUE 111 W. L. Pet.
+LEAGUE III W. L. Pct.
 Deltas :t 0 .1000
 Kappa Sigs 2 I .(i(i7
 KAs I 1 .500
@@ -926,39 +926,39 @@ Village 155 0 2 000
 Tovon IE 0 2 .000
 
 Volleyball
-LEAGUE I YV. L. Pet.
-Phi Delis 3 0 .1000
-Breakers I I .500
+LEAGUE I W. L. Pct.
+Phi Delts 3 0 1.000
+Breakers 1 1 .500
 ATO 1 1 .500
-Sigma Nil 0 1 .000
-Encina 3W 0 l .000
-Alpha Delis o l .000
-LEAGUE II YV L. Pet.
-Phi Kaps 2 II .1000
-Fijis I it .1000
-Village 214 1 I .500
+Sigma Nu 0 1 .000
+Encina 3W 0 1 .000
+Alpha Delts 0 1 .000
+LEAGUE II W. L. Pct.
+Phi Kaps 2 0 1.000
+Fijis 1 0 1.000
+Village 214 1 1 .500
 Encina 2E 0 0 .000
 KAs 0 1 .000
-El Toro o 2 .000
-LEAGUE 111 W. L. Pet.
-Tlieta Dells 2 0 .1000
-Kappa Si}{s 2 II .10(10
+El Toro 0 2 .000
+LEAGUE III W. L. Pct.
+Theta Delts 2 0 1.000
+Kappa Sigs 2 0 1.000
 Encina Basement 0 1 .000
-Tlieta Chis 0 1 .000
-Toyon IE 0 1 .000
-Village 310 0 l .000
-LEAGUE IV YV. L. Pel.
-Biz School 1 0 .1000
-Betas 1 II .1000
-Phi Kaps 1 0 .1000
+Theta Chis 0 1 .000
+Toyon 1E 0 1 .000
+Village 310 0 1 .000
+LEAGUE IV W. L. Pct.
+Biz School 1 0 1.000
+Betas 1 0 1.000
+Phi Kaps 1 0 1.000
 SAE 1 1 .500
-Encina "»YY o i .000
+Encina 5W 0 1 .000
 Encina 3E 0 2 .000
-LEAGUE V YV. L. Pet.
-Belts 2 0 .1000
-AKLs 1 0 .1000
-Delta Chis 1 (I .1000
-Encina 4YY 1 2 .333
+LEAGUE V W. L. Pct.
+Delts 2 0 1.000
+AKLs 1 0 1.000
+Delta Chis 1 0 1.000
+Encina 4W 1 2 .333
 DUs 0 1 .000
 Encina 4E 0 2 .000
 Today is the last da\ for organi
@@ -1030,7 +1030,7 @@ Belts 1 .1 .501)
 Village 10S 1 l .500
 Encina 5W 1 2 .333
 Toyon 2S o :! .000
-LEAGUE 111 W. L. Pet.
+LEAGUE III W. L. Pct.
 Deltas :t 0 .1000
 Kappa Sigs 2 I .(i(i7
 KAs I 1 .500
@@ -1086,39 +1086,39 @@ Village 155 0 2 000
 Tovon IE 0 2 .000
 
 Volleyball
-LEAGUE I YV. L. Pet.
-Phi Delis 3 0 .1000
-Breakers I I .500
+LEAGUE I W. L. Pct.
+Phi Delts 3 0 1.000
+Breakers 1 1 .500
 ATO 1 1 .500
-Sigma Nil 0 1 .000
-Encina 3W 0 l .000
-Alpha Delis o l .000
-LEAGUE II YV L. Pet.
-Phi Kaps 2 II .1000
-Fijis I it .1000
-Village 214 1 I .500
+Sigma Nu 0 1 .000
+Encina 3W 0 1 .000
+Alpha Delts 0 1 .000
+LEAGUE II W. L. Pct.
+Phi Kaps 2 0 1.000
+Fijis 1 0 1.000
+Village 214 1 1 .500
 Encina 2E 0 0 .000
 KAs 0 1 .000
-El Toro o 2 .000
-LEAGUE 111 W. L. Pet.
-Tlieta Dells 2 0 .1000
-Kappa Si}{s 2 II .10(10
+El Toro 0 2 .000
+LEAGUE III W. L. Pct.
+Theta Delts 2 0 1.000
+Kappa Sigs 2 0 1.000
 Encina Basement 0 1 .000
-Tlieta Chis 0 1 .000
-Toyon IE 0 1 .000
-Village 310 0 l .000
-LEAGUE IV YV. L. Pel.
-Biz School 1 0 .1000
-Betas 1 II .1000
-Phi Kaps 1 0 .1000
+Theta Chis 0 1 .000
+Toyon 1E 0 1 .000
+Village 310 0 1 .000
+LEAGUE IV W. L. Pct.
+Biz School 1 0 1.000
+Betas 1 0 1.000
+Phi Kaps 1 0 1.000
 SAE 1 1 .500
-Encina "»YY o i .000
+Encina 5W 0 1 .000
 Encina 3E 0 2 .000
-LEAGUE V YV. L. Pet.
-Belts 2 0 .1000
-AKLs 1 0 .1000
-Delta Chis 1 (I .1000
-Encina 4YY 1 2 .333
+LEAGUE V W. L. Pct.
+Delts 2 0 1.000
+AKLs 1 0 1.000
+Delta Chis 1 0 1.000
+Encina 4W 1 2 .333
 DUs 0 1 .000
 Encina 4E 0 2 .000
 Today is the last da\ for organi
@@ -1190,7 +1190,7 @@ Belts 1 .1 .501)
 Village 10S 1 l .500
 Encina 5W 1 2 .333
 Toyon 2S o :! .000
-LEAGUE 111 W. L. Pet.
+LEAGUE III W. L. Pct.
 Deltas :t 0 .1000
 Kappa Sigs 2 I .(i(i7
 KAs I 1 .500
@@ -1246,39 +1246,39 @@ Village 155 0 2 000
 Tovon IE 0 2 .000
 
 Volleyball
-LEAGUE I YV. L. Pet.
-Phi Delis 3 0 .1000
-Breakers I I .500
+LEAGUE I W. L. Pct.
+Phi Delts 3 0 1.000
+Breakers 1 1 .500
 ATO 1 1 .500
-Sigma Nil 0 1 .000
-Encina 3W 0 l .000
-Alpha Delis o l .000
-LEAGUE II YV L. Pet.
-Phi Kaps 2 II .1000
-Fijis I it .1000
-Village 214 1 I .500
+Sigma Nu 0 1 .000
+Encina 3W 0 1 .000
+Alpha Delts 0 1 .000
+LEAGUE II W. L. Pct.
+Phi Kaps 2 0 1.000
+Fijis 1 0 1.000
+Village 214 1 1 .500
 Encina 2E 0 0 .000
 KAs 0 1 .000
-El Toro o 2 .000
-LEAGUE 111 W. L. Pet.
-Tlieta Dells 2 0 .1000
-Kappa Si}{s 2 II .10(10
+El Toro 0 2 .000
+LEAGUE III W. L. Pct.
+Theta Delts 2 0 1.000
+Kappa Sigs 2 0 1.000
 Encina Basement 0 1 .000
-Tlieta Chis 0 1 .000
-Toyon IE 0 1 .000
-Village 310 0 l .000
-LEAGUE IV YV. L. Pel.
-Biz School 1 0 .1000
-Betas 1 II .1000
-Phi Kaps 1 0 .1000
+Theta Chis 0 1 .000
+Toyon 1E 0 1 .000
+Village 310 0 1 .000
+LEAGUE IV W. L. Pct.
+Biz School 1 0 1.000
+Betas 1 0 1.000
+Phi Kaps 1 0 1.000
 SAE 1 1 .500
-Encina "»YY o i .000
+Encina 5W 0 1 .000
 Encina 3E 0 2 .000
-LEAGUE V YV. L. Pet.
-Belts 2 0 .1000
-AKLs 1 0 .1000
-Delta Chis 1 (I .1000
-Encina 4YY 1 2 .333
+LEAGUE V W. L. Pct.
+Delts 2 0 1.000
+AKLs 1 0 1.000
+Delta Chis 1 0 1.000
+Encina 4W 1 2 .333
 DUs 0 1 .000
 Encina 4E 0 2 .000
 Today is the last da\ for organi
@@ -1350,7 +1350,7 @@ Belts 1 .1 .501)
 Village 10S 1 l .500
 Encina 5W 1 2 .333
 Toyon 2S o :! .000
-LEAGUE 111 W. L. Pet.
+LEAGUE III W. L. Pct.
 Deltas :t 0 .1000
 Kappa Sigs 2 I .(i(i7
 KAs I 1 .500
@@ -1406,39 +1406,39 @@ Village 155 0 2 000
 Tovon IE 0 2 .000
 
 Volleyball
-LEAGUE I YV. L. Pet.
-Phi Delis 3 0 .1000
-Breakers I I .500
+LEAGUE I W. L. Pct.
+Phi Delts 3 0 1.000
+Breakers 1 1 .500
 ATO 1 1 .500
-Sigma Nil 0 1 .000
-Encina 3W 0 l .000
-Alpha Delis o l .000
-LEAGUE II YV L. Pet.
-Phi Kaps 2 II .1000
-Fijis I it .1000
-Village 214 1 I .500
+Sigma Nu 0 1 .000
+Encina 3W 0 1 .000
+Alpha Delts 0 1 .000
+LEAGUE II W. L. Pct.
+Phi Kaps 2 0 1.000
+Fijis 1 0 1.000
+Village 214 1 1 .500
 Encina 2E 0 0 .000
 KAs 0 1 .000
-El Toro o 2 .000
-LEAGUE 111 W. L. Pet.
-Tlieta Dells 2 0 .1000
-Kappa Si}{s 2 II .10(10
+El Toro 0 2 .000
+LEAGUE III W. L. Pct.
+Theta Delts 2 0 1.000
+Kappa Sigs 2 0 1.000
 Encina Basement 0 1 .000
-Tlieta Chis 0 1 .000
-Toyon IE 0 1 .000
-Village 310 0 l .000
-LEAGUE IV YV. L. Pel.
-Biz School 1 0 .1000
-Betas 1 II .1000
-Phi Kaps 1 0 .1000
+Theta Chis 0 1 .000
+Toyon 1E 0 1 .000
+Village 310 0 1 .000
+LEAGUE IV W. L. Pct.
+Biz School 1 0 1.000
+Betas 1 0 1.000
+Phi Kaps 1 0 1.000
 SAE 1 1 .500
-Encina "»YY o i .000
+Encina 5W 0 1 .000
 Encina 3E 0 2 .000
-LEAGUE V YV. L. Pet.
-Belts 2 0 .1000
-AKLs 1 0 .1000
-Delta Chis 1 (I .1000
-Encina 4YY 1 2 .333
+LEAGUE V W. L. Pct.
+Delts 2 0 1.000
+AKLs 1 0 1.000
+Delta Chis 1 0 1.000
+Encina 4W 1 2 .333
 DUs 0 1 .000
 Encina 4E 0 2 .000
 Today is the last da\ for organi
@@ -1510,7 +1510,7 @@ Belts 1 .1 .501)
 Village 10S 1 l .500
 Encina 5W 1 2 .333
 Toyon 2S o :! .000
-LEAGUE 111 W. L. Pet.
+LEAGUE III W. L. Pct.
 Deltas :t 0 .1000
 Kappa Sigs 2 I .(i(i7
 KAs I 1 .500
@@ -1566,39 +1566,39 @@ Village 155 0 2 000
 Tovon IE 0 2 .000
 
 Volleyball
-LEAGUE I YV. L. Pet.
-Phi Delis 3 0 .1000
-Breakers I I .500
+LEAGUE I W. L. Pct.
+Phi Delts 3 0 1.000
+Breakers 1 1 .500
 ATO 1 1 .500
-Sigma Nil 0 1 .000
-Encina 3W 0 l .000
-Alpha Delis o l .000
-LEAGUE II YV L. Pet.
-Phi Kaps 2 II .1000
-Fijis I it .1000
-Village 214 1 I .500
+Sigma Nu 0 1 .000
+Encina 3W 0 1 .000
+Alpha Delts 0 1 .000
+LEAGUE II W. L. Pct.
+Phi Kaps 2 0 1.000
+Fijis 1 0 1.000
+Village 214 1 1 .500
 Encina 2E 0 0 .000
 KAs 0 1 .000
-El Toro o 2 .000
-LEAGUE 111 W. L. Pet.
-Tlieta Dells 2 0 .1000
-Kappa Si}{s 2 II .10(10
+El Toro 0 2 .000
+LEAGUE III W. L. Pct.
+Theta Delts 2 0 1.000
+Kappa Sigs 2 0 1.000
 Encina Basement 0 1 .000
-Tlieta Chis 0 1 .000
-Toyon IE 0 1 .000
-Village 310 0 l .000
-LEAGUE IV YV. L. Pel.
-Biz School 1 0 .1000
-Betas 1 II .1000
-Phi Kaps 1 0 .1000
+Theta Chis 0 1 .000
+Toyon 1E 0 1 .000
+Village 310 0 1 .000
+LEAGUE IV W. L. Pct.
+Biz School 1 0 1.000
+Betas 1 0 1.000
+Phi Kaps 1 0 1.000
 SAE 1 1 .500
-Encina "»YY o i .000
+Encina 5W 0 1 .000
 Encina 3E 0 2 .000
-LEAGUE V YV. L. Pet.
-Belts 2 0 .1000
-AKLs 1 0 .1000
-Delta Chis 1 (I .1000
-Encina 4YY 1 2 .333
+LEAGUE V W. L. Pct.
+Delts 2 0 1.000
+AKLs 1 0 1.000
+Delta Chis 1 0 1.000
+Encina 4W 1 2 .333
 DUs 0 1 .000
 Encina 4E 0 2 .000
 Today is the last da\ for organi
@@ -1670,7 +1670,7 @@ Belts 1 .1 .501)
 Village 10S 1 l .500
 Encina 5W 1 2 .333
 Toyon 2S o :! .000
-LEAGUE 111 W. L. Pet.
+LEAGUE III W. L. Pct.
 Deltas :t 0 .1000
 Kappa Sigs 2 I .(i(i7
 KAs I 1 .500
@@ -1726,39 +1726,39 @@ Village 155 0 2 000
 Tovon IE 0 2 .000
 
 Volleyball
-LEAGUE I YV. L. Pet.
-Phi Delis 3 0 .1000
-Breakers I I .500
+LEAGUE I W. L. Pct.
+Phi Delts 3 0 1.000
+Breakers 1 1 .500
 ATO 1 1 .500
-Sigma Nil 0 1 .000
-Encina 3W 0 l .000
-Alpha Delis o l .000
-LEAGUE II YV L. Pet.
-Phi Kaps 2 II .1000
-Fijis I it .1000
-Village 214 1 I .500
+Sigma Nu 0 1 .000
+Encina 3W 0 1 .000
+Alpha Delts 0 1 .000
+LEAGUE II W. L. Pct.
+Phi Kaps 2 0 1.000
+Fijis 1 0 1.000
+Village 214 1 1 .500
 Encina 2E 0 0 .000
 KAs 0 1 .000
-El Toro o 2 .000
-LEAGUE 111 W. L. Pet.
-Tlieta Dells 2 0 .1000
-Kappa Si}{s 2 II .10(10
+El Toro 0 2 .000
+LEAGUE III W. L. Pct.
+Theta Delts 2 0 1.000
+Kappa Sigs 2 0 1.000
 Encina Basement 0 1 .000
-Tlieta Chis 0 1 .000
-Toyon IE 0 1 .000
-Village 310 0 l .000
-LEAGUE IV YV. L. Pel.
-Biz School 1 0 .1000
-Betas 1 II .1000
-Phi Kaps 1 0 .1000
+Theta Chis 0 1 .000
+Toyon 1E 0 1 .000
+Village 310 0 1 .000
+LEAGUE IV W. L. Pct.
+Biz School 1 0 1.000
+Betas 1 0 1.000
+Phi Kaps 1 0 1.000
 SAE 1 1 .500
-Encina "»YY o i .000
+Encina 5W 0 1 .000
 Encina 3E 0 2 .000
-LEAGUE V YV. L. Pet.
-Belts 2 0 .1000
-AKLs 1 0 .1000
-Delta Chis 1 (I .1000
-Encina 4YY 1 2 .333
+LEAGUE V W. L. Pct.
+Delts 2 0 1.000
+AKLs 1 0 1.000
+Delta Chis 1 0 1.000
+Encina 4W 1 2 .333
 DUs 0 1 .000
 Encina 4E 0 2 .000
 Today is the last da\ for organi
@@ -1830,7 +1830,7 @@ Belts 1 .1 .501)
 Village 10S 1 l .500
 Encina 5W 1 2 .333
 Toyon 2S o :! .000
-LEAGUE 111 W. L. Pet.
+LEAGUE III W. L. Pct.
 Deltas :t 0 .1000
 Kappa Sigs 2 I .(i(i7
 KAs I 1 .500
@@ -1886,39 +1886,39 @@ Village 155 0 2 000
 Tovon IE 0 2 .000
 
 Volleyball
-LEAGUE I YV. L. Pet.
-Phi Delis 3 0 .1000
-Breakers I I .500
+LEAGUE I W. L. Pct.
+Phi Delts 3 0 1.000
+Breakers 1 1 .500
 ATO 1 1 .500
-Sigma Nil 0 1 .000
-Encina 3W 0 l .000
-Alpha Delis o l .000
-LEAGUE II YV L. Pet.
-Phi Kaps 2 II .1000
-Fijis I it .1000
-Village 214 1 I .500
+Sigma Nu 0 1 .000
+Encina 3W 0 1 .000
+Alpha Delts 0 1 .000
+LEAGUE II W. L. Pct.
+Phi Kaps 2 0 1.000
+Fijis 1 0 1.000
+Village 214 1 1 .500
 Encina 2E 0 0 .000
 KAs 0 1 .000
-El Toro o 2 .000
-LEAGUE 111 W. L. Pet.
-Tlieta Dells 2 0 .1000
-Kappa Si}{s 2 II .10(10
+El Toro 0 2 .000
+LEAGUE III W. L. Pct.
+Theta Delts 2 0 1.000
+Kappa Sigs 2 0 1.000
 Encina Basement 0 1 .000
-Tlieta Chis 0 1 .000
-Toyon IE 0 1 .000
-Village 310 0 l .000
-LEAGUE IV YV. L. Pel.
-Biz School 1 0 .1000
-Betas 1 II .1000
-Phi Kaps 1 0 .1000
+Theta Chis 0 1 .000
+Toyon 1E 0 1 .000
+Village 310 0 1 .000
+LEAGUE IV W. L. Pct.
+Biz School 1 0 1.000
+Betas 1 0 1.000
+Phi Kaps 1 0 1.000
 SAE 1 1 .500
-Encina "»YY o i .000
+Encina 5W 0 1 .000
 Encina 3E 0 2 .000
-LEAGUE V YV. L. Pet.
-Belts 2 0 .1000
-AKLs 1 0 .1000
-Delta Chis 1 (I .1000
-Encina 4YY 1 2 .333
+LEAGUE V W. L. Pct.
+Delts 2 0 1.000
+AKLs 1 0 1.000
+Delta Chis 1 0 1.000
+Encina 4W 1 2 .333
 DUs 0 1 .000
 Encina 4E 0 2 .000
 Today is the last da\ for organi
@@ -1990,7 +1990,7 @@ Belts 1 .1 .501)
 Village 10S 1 l .500
 Encina 5W 1 2 .333
 Toyon 2S o :! .000
-LEAGUE 111 W. L. Pet.
+LEAGUE III W. L. Pct.
 Deltas :t 0 .1000
 Kappa Sigs 2 I .(i(i7
 KAs I 1 .500
@@ -2046,39 +2046,39 @@ Village 155 0 2 000
 Tovon IE 0 2 .000
 
 Volleyball
-LEAGUE I YV. L. Pet.
-Phi Delis 3 0 .1000
-Breakers I I .500
+LEAGUE I W. L. Pct.
+Phi Delts 3 0 1.000
+Breakers 1 1 .500
 ATO 1 1 .500
-Sigma Nil 0 1 .000
-Encina 3W 0 l .000
-Alpha Delis o l .000
-LEAGUE II YV L. Pet.
-Phi Kaps 2 II .1000
-Fijis I it .1000
-Village 214 1 I .500
+Sigma Nu 0 1 .000
+Encina 3W 0 1 .000
+Alpha Delts 0 1 .000
+LEAGUE II W. L. Pct.
+Phi Kaps 2 0 1.000
+Fijis 1 0 1.000
+Village 214 1 1 .500
 Encina 2E 0 0 .000
 KAs 0 1 .000
-El Toro o 2 .000
-LEAGUE 111 W. L. Pet.
-Tlieta Dells 2 0 .1000
-Kappa Si}{s 2 II .10(10
+El Toro 0 2 .000
+LEAGUE III W. L. Pct.
+Theta Delts 2 0 1.000
+Kappa Sigs 2 0 1.000
 Encina Basement 0 1 .000
-Tlieta Chis 0 1 .000
-Toyon IE 0 1 .000
-Village 310 0 l .000
-LEAGUE IV YV. L. Pel.
-Biz School 1 0 .1000
-Betas 1 II .1000
-Phi Kaps 1 0 .1000
+Theta Chis 0 1 .000
+Toyon 1E 0 1 .000
+Village 310 0 1 .000
+LEAGUE IV W. L. Pct.
+Biz School 1 0 1.000
+Betas 1 0 1.000
+Phi Kaps 1 0 1.000
 SAE 1 1 .500
-Encina "»YY o i .000
+Encina 5W 0 1 .000
 Encina 3E 0 2 .000
-LEAGUE V YV. L. Pet.
-Belts 2 0 .1000
-AKLs 1 0 .1000
-Delta Chis 1 (I .1000
-Encina 4YY 1 2 .333
+LEAGUE V W. L. Pct.
+Delts 2 0 1.000
+AKLs 1 0 1.000
+Delta Chis 1 0 1.000
+Encina 4W 1 2 .333
 DUs 0 1 .000
 Encina 4E 0 2 .000
 Today is the last da\ for organi
@@ -2150,7 +2150,7 @@ Belts 1 .1 .501)
 Village 10S 1 l .500
 Encina 5W 1 2 .333
 Toyon 2S o :! .000
-LEAGUE 111 W. L. Pet.
+LEAGUE III W. L. Pct.
 Deltas :t 0 .1000
 Kappa Sigs 2 I .(i(i7
 KAs I 1 .500
@@ -2206,39 +2206,39 @@ Village 155 0 2 000
 Tovon IE 0 2 .000
 
 Volleyball
-LEAGUE I YV. L. Pet.
-Phi Delis 3 0 .1000
-Breakers I I .500
+LEAGUE I W. L. Pct.
+Phi Delts 3 0 1.000
+Breakers 1 1 .500
 ATO 1 1 .500
-Sigma Nil 0 1 .000
-Encina 3W 0 l .000
-Alpha Delis o l .000
-LEAGUE II YV L. Pet.
-Phi Kaps 2 II .1000
-Fijis I it .1000
-Village 214 1 I .500
+Sigma Nu 0 1 .000
+Encina 3W 0 1 .000
+Alpha Delts 0 1 .000
+LEAGUE II W. L. Pct.
+Phi Kaps 2 0 1.000
+Fijis 1 0 1.000
+Village 214 1 1 .500
 Encina 2E 0 0 .000
 KAs 0 1 .000
-El Toro o 2 .000
-LEAGUE 111 W. L. Pet.
-Tlieta Dells 2 0 .1000
-Kappa Si}{s 2 II .10(10
+El Toro 0 2 .000
+LEAGUE III W. L. Pct.
+Theta Delts 2 0 1.000
+Kappa Sigs 2 0 1.000
 Encina Basement 0 1 .000
-Tlieta Chis 0 1 .000
-Toyon IE 0 1 .000
-Village 310 0 l .000
-LEAGUE IV YV. L. Pel.
-Biz School 1 0 .1000
-Betas 1 II .1000
-Phi Kaps 1 0 .1000
+Theta Chis 0 1 .000
+Toyon 1E 0 1 .000
+Village 310 0 1 .000
+LEAGUE IV W. L. Pct.
+Biz School 1 0 1.000
+Betas 1 0 1.000
+Phi Kaps 1 0 1.000
 SAE 1 1 .500
-Encina "»YY o i .000
+Encina 5W 0 1 .000
 Encina 3E 0 2 .000
-LEAGUE V YV. L. Pet.
-Belts 2 0 .1000
-AKLs 1 0 .1000
-Delta Chis 1 (I .1000
-Encina 4YY 1 2 .333
+LEAGUE V W. L. Pct.
+Delts 2 0 1.000
+AKLs 1 0 1.000
+Delta Chis 1 0 1.000
+Encina 4W 1 2 .333
 DUs 0 1 .000
 Encina 4E 0 2 .000
 Today is the last da\ for organi
@@ -2310,7 +2310,7 @@ Belts 1 .1 .501)
 Village 10S 1 l .500
 Encina 5W 1 2 .333
 Toyon 2S o :! .000
-LEAGUE 111 W. L. Pet.
+LEAGUE III W. L. Pct.
 Deltas :t 0 .1000
 Kappa Sigs 2 I .(i(i7
 KAs I 1 .500
@@ -2366,38 +2366,38 @@ Village 155 0 2 000
 Tovon IE 0 2 .000
 
 Volleyball
-LEAGUE I YV. L. Pet.
-Phi Delis 3 0 .1000
-Breakers I I .500
+LEAGUE I W. L. Pct.
+Phi Delts 3 0 1.000
+Breakers 1 1 .500
 ATO 1 1 .500
-Sigma Nil 0 1 .000
-Encina 3W 0 l .000
-Alpha Delis o l .000
-LEAGUE II YV L. Pet.
-Phi Kaps 2 II .1000
-Fijis I it .1000
-Village 214 1 I .500
+Sigma Nu 0 1 .000
+Encina 3W 0 1 .000
+Alpha Delts 0 1 .000
+LEAGUE II W. L. Pct.
+Phi Kaps 2 0 1.000
+Fijis 1 0 1.000
+Village 214 1 1 .500
 Encina 2E 0 0 .000
 KAs 0 1 .000
-El Toro o 2 .000
-LEAGUE 111 W. L. Pet.
-Tlieta Dells 2 0 .1000
-Kappa Si}{s 2 II .10(10
+El Toro 0 2 .000
+LEAGUE III W. L. Pct.
+Theta Delts 2 0 1.000
+Kappa Sigs 2 0 1.000
 Encina Basement 0 1 .000
-Tlieta Chis 0 1 .000
-Toyon IE 0 1 .000
-Village 310 0 l .000
-LEAGUE IV YV. L. Pel.
-Biz School 1 0 .1000
-Betas 1 II .1000
-Phi Kaps 1 0 .1000
+Theta Chis 0 1 .000
+Toyon 1E 0 1 .000
+Village 310 0 1 .000
+LEAGUE IV W. L. Pct.
+Biz School 1 0 1.000
+Betas 1 0 1.000
+Phi Kaps 1 0 1.000
 SAE 1 1 .500
-Encina "»YY o i .000
+Encina 5W 0 1 .000
 Encina 3E 0 2 .000
-LEAGUE V YV. L. Pet.
-Belts 2 0 .1000
-AKLs 1 0 .1000
-Delta Chis 1 (I .1000
-Encina 4YY 1 2 .333
+LEAGUE V W. L. Pct.
+Delts 2 0 1.000
+AKLs 1 0 1.000
+Delta Chis 1 0 1.000
+Encina 4W 1 2 .333
 DUs 0 1 .000
 Encina 4E 0 2 .000

@@ -106,26 +106,26 @@ I Alpha Omicron I'i 24 6 2.63 2.69 2.62 2.59
 HI Pi Beta Phi 27 7 2.59 2.67 2.59 2.56
 -1 Delta Delta Delta 18 8 2.51 2.64 2.44 2.49
 Fraternities
-11 Alpha Tail Omega 23 1 2.64 2.60 2.68 2.63
-I Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
-I Kappa Sigma 39 3 2.57 2.57 2.56 2.57
--1 Sigma Nil 43 4 2.54 2.55 2.48 2.60
++1 Alpha Tau Omega 23 1 2.64 2.60 2.68 2.63
++1 Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
++1 Kappa Sigma 39 3 2.57 2.57 2.56 2.57
+-1 Sigma Nu 43 4 2.54 2.55 2.48 2.60
 -1 Phi Kappa Psi 43 4 2.54 2.65 2.45 2.54
--1 Phi Kappa Sigma . 36 5 2.52 2.52 2.47 2.58
-• 1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
--I Theta Chi 35 7 2.48 2.47 2.60 2.39
+-1 Phi Kappa Sigma 36 5 2.52 2.52 2.47 2.58
+-1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
+-1 Theta Chi 35 7 2.48 2.47 2.60 2.39
 -1 Chi Psi 39 8 2.47 2.44 2.47 2.49
 -1 Alpha Kappa Lambda 19 8 2.47 2.27 2.49 2.63
 -1 Phi Gamma Delta 35 9 2.43 2.39 2.48 2.42
-T 1 Sigma Chi 31 9 2.43 2.43 2756 2.29
-• I Delta Upsilott 35 9 2.43 2.44 2.42 2.42
+-1 Sigma Chi 31 9 2.43 2.43 2.56 2.29
+-1 Delta Upsilon 35 9 2.43 2.44 2.42 2.42
 -1 Phi Delta Theta 50 9 2.43 2.35 2.46 2.45
--1 /eta Psi 44 10 2.42 2.53 2.48 2.26
--I Theta Xi 25 11 2.41 2.29 2.37 2.54
+-1 Zeta Psi 44 10 2.42 2.53 2.48 2.26
+-1 Theta Xi 25 11 2.41 2.29 2.37 2.54
 -1 Delta Chi 30 12 2.40 2.29 2.39 2.48
--2 Delta Tan Delta 37 13 2.39 2.45 2.29 2.45
+-2 Delta Tau Delta 37 13 2.39 2.45 2.29 2.45
 -2 Delta Kappa Epsilon 46 14 2.37 2.52 2.30 2.32
-v-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
+-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
 -2 Sigma Alpha Epsilon 39 16 2.35 2.30 2.35 2.40
 -2 Phi Sigma Kappa 19 17 2.32 2.43 2.29 2.28
 -2 Alpha Sigma Phi 26 18 2.29 2.25 2.34 2.28
@@ -235,26 +235,26 @@ I Alpha Omicron I'i 24 6 2.63 2.69 2.62 2.59
 HI Pi Beta Phi 27 7 2.59 2.67 2.59 2.56
 -1 Delta Delta Delta 18 8 2.51 2.64 2.44 2.49
 Fraternities
-11 Alpha Tail Omega 23 1 2.64 2.60 2.68 2.63
-I Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
-I Kappa Sigma 39 3 2.57 2.57 2.56 2.57
--1 Sigma Nil 43 4 2.54 2.55 2.48 2.60
++1 Alpha Tau Omega 23 1 2.64 2.60 2.68 2.63
++1 Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
++1 Kappa Sigma 39 3 2.57 2.57 2.56 2.57
+-1 Sigma Nu 43 4 2.54 2.55 2.48 2.60
 -1 Phi Kappa Psi 43 4 2.54 2.65 2.45 2.54
--1 Phi Kappa Sigma . 36 5 2.52 2.52 2.47 2.58
-• 1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
--I Theta Chi 35 7 2.48 2.47 2.60 2.39
+-1 Phi Kappa Sigma 36 5 2.52 2.52 2.47 2.58
+-1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
+-1 Theta Chi 35 7 2.48 2.47 2.60 2.39
 -1 Chi Psi 39 8 2.47 2.44 2.47 2.49
 -1 Alpha Kappa Lambda 19 8 2.47 2.27 2.49 2.63
 -1 Phi Gamma Delta 35 9 2.43 2.39 2.48 2.42
-T 1 Sigma Chi 31 9 2.43 2.43 2756 2.29
-• I Delta Upsilott 35 9 2.43 2.44 2.42 2.42
+-1 Sigma Chi 31 9 2.43 2.43 2.56 2.29
+-1 Delta Upsilon 35 9 2.43 2.44 2.42 2.42
 -1 Phi Delta Theta 50 9 2.43 2.35 2.46 2.45
--1 /eta Psi 44 10 2.42 2.53 2.48 2.26
--I Theta Xi 25 11 2.41 2.29 2.37 2.54
+-1 Zeta Psi 44 10 2.42 2.53 2.48 2.26
+-1 Theta Xi 25 11 2.41 2.29 2.37 2.54
 -1 Delta Chi 30 12 2.40 2.29 2.39 2.48
--2 Delta Tan Delta 37 13 2.39 2.45 2.29 2.45
+-2 Delta Tau Delta 37 13 2.39 2.45 2.29 2.45
 -2 Delta Kappa Epsilon 46 14 2.37 2.52 2.30 2.32
-v-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
+-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
 -2 Sigma Alpha Epsilon 39 16 2.35 2.30 2.35 2.40
 -2 Phi Sigma Kappa 19 17 2.32 2.43 2.29 2.28
 -2 Alpha Sigma Phi 26 18 2.29 2.25 2.34 2.28
@@ -364,26 +364,26 @@ I Alpha Omicron I'i 24 6 2.63 2.69 2.62 2.59
 HI Pi Beta Phi 27 7 2.59 2.67 2.59 2.56
 -1 Delta Delta Delta 18 8 2.51 2.64 2.44 2.49
 Fraternities
-11 Alpha Tail Omega 23 1 2.64 2.60 2.68 2.63
-I Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
-I Kappa Sigma 39 3 2.57 2.57 2.56 2.57
--1 Sigma Nil 43 4 2.54 2.55 2.48 2.60
++1 Alpha Tau Omega 23 1 2.64 2.60 2.68 2.63
++1 Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
++1 Kappa Sigma 39 3 2.57 2.57 2.56 2.57
+-1 Sigma Nu 43 4 2.54 2.55 2.48 2.60
 -1 Phi Kappa Psi 43 4 2.54 2.65 2.45 2.54
--1 Phi Kappa Sigma . 36 5 2.52 2.52 2.47 2.58
-• 1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
--I Theta Chi 35 7 2.48 2.47 2.60 2.39
+-1 Phi Kappa Sigma 36 5 2.52 2.52 2.47 2.58
+-1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
+-1 Theta Chi 35 7 2.48 2.47 2.60 2.39
 -1 Chi Psi 39 8 2.47 2.44 2.47 2.49
 -1 Alpha Kappa Lambda 19 8 2.47 2.27 2.49 2.63
 -1 Phi Gamma Delta 35 9 2.43 2.39 2.48 2.42
-T 1 Sigma Chi 31 9 2.43 2.43 2756 2.29
-• I Delta Upsilott 35 9 2.43 2.44 2.42 2.42
+-1 Sigma Chi 31 9 2.43 2.43 2.56 2.29
+-1 Delta Upsilon 35 9 2.43 2.44 2.42 2.42
 -1 Phi Delta Theta 50 9 2.43 2.35 2.46 2.45
--1 /eta Psi 44 10 2.42 2.53 2.48 2.26
--I Theta Xi 25 11 2.41 2.29 2.37 2.54
+-1 Zeta Psi 44 10 2.42 2.53 2.48 2.26
+-1 Theta Xi 25 11 2.41 2.29 2.37 2.54
 -1 Delta Chi 30 12 2.40 2.29 2.39 2.48
--2 Delta Tan Delta 37 13 2.39 2.45 2.29 2.45
+-2 Delta Tau Delta 37 13 2.39 2.45 2.29 2.45
 -2 Delta Kappa Epsilon 46 14 2.37 2.52 2.30 2.32
-v-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
+-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
 -2 Sigma Alpha Epsilon 39 16 2.35 2.30 2.35 2.40
 -2 Phi Sigma Kappa 19 17 2.32 2.43 2.29 2.28
 -2 Alpha Sigma Phi 26 18 2.29 2.25 2.34 2.28
@@ -493,26 +493,26 @@ I Alpha Omicron I'i 24 6 2.63 2.69 2.62 2.59
 HI Pi Beta Phi 27 7 2.59 2.67 2.59 2.56
 -1 Delta Delta Delta 18 8 2.51 2.64 2.44 2.49
 Fraternities
-11 Alpha Tail Omega 23 1 2.64 2.60 2.68 2.63
-I Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
-I Kappa Sigma 39 3 2.57 2.57 2.56 2.57
--1 Sigma Nil 43 4 2.54 2.55 2.48 2.60
++1 Alpha Tau Omega 23 1 2.64 2.60 2.68 2.63
++1 Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
++1 Kappa Sigma 39 3 2.57 2.57 2.56 2.57
+-1 Sigma Nu 43 4 2.54 2.55 2.48 2.60
 -1 Phi Kappa Psi 43 4 2.54 2.65 2.45 2.54
--1 Phi Kappa Sigma . 36 5 2.52 2.52 2.47 2.58
-• 1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
--I Theta Chi 35 7 2.48 2.47 2.60 2.39
+-1 Phi Kappa Sigma 36 5 2.52 2.52 2.47 2.58
+-1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
+-1 Theta Chi 35 7 2.48 2.47 2.60 2.39
 -1 Chi Psi 39 8 2.47 2.44 2.47 2.49
 -1 Alpha Kappa Lambda 19 8 2.47 2.27 2.49 2.63
 -1 Phi Gamma Delta 35 9 2.43 2.39 2.48 2.42
-T 1 Sigma Chi 31 9 2.43 2.43 2756 2.29
-• I Delta Upsilott 35 9 2.43 2.44 2.42 2.42
+-1 Sigma Chi 31 9 2.43 2.43 2.56 2.29
+-1 Delta Upsilon 35 9 2.43 2.44 2.42 2.42
 -1 Phi Delta Theta 50 9 2.43 2.35 2.46 2.45
--1 /eta Psi 44 10 2.42 2.53 2.48 2.26
--I Theta Xi 25 11 2.41 2.29 2.37 2.54
+-1 Zeta Psi 44 10 2.42 2.53 2.48 2.26
+-1 Theta Xi 25 11 2.41 2.29 2.37 2.54
 -1 Delta Chi 30 12 2.40 2.29 2.39 2.48
--2 Delta Tan Delta 37 13 2.39 2.45 2.29 2.45
+-2 Delta Tau Delta 37 13 2.39 2.45 2.29 2.45
 -2 Delta Kappa Epsilon 46 14 2.37 2.52 2.30 2.32
-v-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
+-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
 -2 Sigma Alpha Epsilon 39 16 2.35 2.30 2.35 2.40
 -2 Phi Sigma Kappa 19 17 2.32 2.43 2.29 2.28
 -2 Alpha Sigma Phi 26 18 2.29 2.25 2.34 2.28
@@ -622,26 +622,26 @@ I Alpha Omicron I'i 24 6 2.63 2.69 2.62 2.59
 HI Pi Beta Phi 27 7 2.59 2.67 2.59 2.56
 -1 Delta Delta Delta 18 8 2.51 2.64 2.44 2.49
 Fraternities
-11 Alpha Tail Omega 23 1 2.64 2.60 2.68 2.63
-I Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
-I Kappa Sigma 39 3 2.57 2.57 2.56 2.57
--1 Sigma Nil 43 4 2.54 2.55 2.48 2.60
++1 Alpha Tau Omega 23 1 2.64 2.60 2.68 2.63
++1 Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
++1 Kappa Sigma 39 3 2.57 2.57 2.56 2.57
+-1 Sigma Nu 43 4 2.54 2.55 2.48 2.60
 -1 Phi Kappa Psi 43 4 2.54 2.65 2.45 2.54
--1 Phi Kappa Sigma . 36 5 2.52 2.52 2.47 2.58
-• 1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
--I Theta Chi 35 7 2.48 2.47 2.60 2.39
+-1 Phi Kappa Sigma 36 5 2.52 2.52 2.47 2.58
+-1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
+-1 Theta Chi 35 7 2.48 2.47 2.60 2.39
 -1 Chi Psi 39 8 2.47 2.44 2.47 2.49
 -1 Alpha Kappa Lambda 19 8 2.47 2.27 2.49 2.63
 -1 Phi Gamma Delta 35 9 2.43 2.39 2.48 2.42
-T 1 Sigma Chi 31 9 2.43 2.43 2756 2.29
-• I Delta Upsilott 35 9 2.43 2.44 2.42 2.42
+-1 Sigma Chi 31 9 2.43 2.43 2.56 2.29
+-1 Delta Upsilon 35 9 2.43 2.44 2.42 2.42
 -1 Phi Delta Theta 50 9 2.43 2.35 2.46 2.45
--1 /eta Psi 44 10 2.42 2.53 2.48 2.26
--I Theta Xi 25 11 2.41 2.29 2.37 2.54
+-1 Zeta Psi 44 10 2.42 2.53 2.48 2.26
+-1 Theta Xi 25 11 2.41 2.29 2.37 2.54
 -1 Delta Chi 30 12 2.40 2.29 2.39 2.48
--2 Delta Tan Delta 37 13 2.39 2.45 2.29 2.45
+-2 Delta Tau Delta 37 13 2.39 2.45 2.29 2.45
 -2 Delta Kappa Epsilon 46 14 2.37 2.52 2.30 2.32
-v-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
+-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
 -2 Sigma Alpha Epsilon 39 16 2.35 2.30 2.35 2.40
 -2 Phi Sigma Kappa 19 17 2.32 2.43 2.29 2.28
 -2 Alpha Sigma Phi 26 18 2.29 2.25 2.34 2.28
@@ -751,26 +751,26 @@ I Alpha Omicron I'i 24 6 2.63 2.69 2.62 2.59
 HI Pi Beta Phi 27 7 2.59 2.67 2.59 2.56
 -1 Delta Delta Delta 18 8 2.51 2.64 2.44 2.49
 Fraternities
-11 Alpha Tail Omega 23 1 2.64 2.60 2.68 2.63
-I Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
-I Kappa Sigma 39 3 2.57 2.57 2.56 2.57
--1 Sigma Nil 43 4 2.54 2.55 2.48 2.60
++1 Alpha Tau Omega 23 1 2.64 2.60 2.68 2.63
++1 Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
++1 Kappa Sigma 39 3 2.57 2.57 2.56 2.57
+-1 Sigma Nu 43 4 2.54 2.55 2.48 2.60
 -1 Phi Kappa Psi 43 4 2.54 2.65 2.45 2.54
--1 Phi Kappa Sigma . 36 5 2.52 2.52 2.47 2.58
-• 1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
--I Theta Chi 35 7 2.48 2.47 2.60 2.39
+-1 Phi Kappa Sigma 36 5 2.52 2.52 2.47 2.58
+-1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
+-1 Theta Chi 35 7 2.48 2.47 2.60 2.39
 -1 Chi Psi 39 8 2.47 2.44 2.47 2.49
 -1 Alpha Kappa Lambda 19 8 2.47 2.27 2.49 2.63
 -1 Phi Gamma Delta 35 9 2.43 2.39 2.48 2.42
-T 1 Sigma Chi 31 9 2.43 2.43 2756 2.29
-• I Delta Upsilott 35 9 2.43 2.44 2.42 2.42
+-1 Sigma Chi 31 9 2.43 2.43 2.56 2.29
+-1 Delta Upsilon 35 9 2.43 2.44 2.42 2.42
 -1 Phi Delta Theta 50 9 2.43 2.35 2.46 2.45
--1 /eta Psi 44 10 2.42 2.53 2.48 2.26
--I Theta Xi 25 11 2.41 2.29 2.37 2.54
+-1 Zeta Psi 44 10 2.42 2.53 2.48 2.26
+-1 Theta Xi 25 11 2.41 2.29 2.37 2.54
 -1 Delta Chi 30 12 2.40 2.29 2.39 2.48
--2 Delta Tan Delta 37 13 2.39 2.45 2.29 2.45
+-2 Delta Tau Delta 37 13 2.39 2.45 2.29 2.45
 -2 Delta Kappa Epsilon 46 14 2.37 2.52 2.30 2.32
-v-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
+-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
 -2 Sigma Alpha Epsilon 39 16 2.35 2.30 2.35 2.40
 -2 Phi Sigma Kappa 19 17 2.32 2.43 2.29 2.28
 -2 Alpha Sigma Phi 26 18 2.29 2.25 2.34 2.28
@@ -880,26 +880,26 @@ I Alpha Omicron I'i 24 6 2.63 2.69 2.62 2.59
 HI Pi Beta Phi 27 7 2.59 2.67 2.59 2.56
 -1 Delta Delta Delta 18 8 2.51 2.64 2.44 2.49
 Fraternities
-11 Alpha Tail Omega 23 1 2.64 2.60 2.68 2.63
-I Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
-I Kappa Sigma 39 3 2.57 2.57 2.56 2.57
--1 Sigma Nil 43 4 2.54 2.55 2.48 2.60
++1 Alpha Tau Omega 23 1 2.64 2.60 2.68 2.63
++1 Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
++1 Kappa Sigma 39 3 2.57 2.57 2.56 2.57
+-1 Sigma Nu 43 4 2.54 2.55 2.48 2.60
 -1 Phi Kappa Psi 43 4 2.54 2.65 2.45 2.54
--1 Phi Kappa Sigma . 36 5 2.52 2.52 2.47 2.58
-• 1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
--I Theta Chi 35 7 2.48 2.47 2.60 2.39
+-1 Phi Kappa Sigma 36 5 2.52 2.52 2.47 2.58
+-1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
+-1 Theta Chi 35 7 2.48 2.47 2.60 2.39
 -1 Chi Psi 39 8 2.47 2.44 2.47 2.49
 -1 Alpha Kappa Lambda 19 8 2.47 2.27 2.49 2.63
 -1 Phi Gamma Delta 35 9 2.43 2.39 2.48 2.42
-T 1 Sigma Chi 31 9 2.43 2.43 2756 2.29
-• I Delta Upsilott 35 9 2.43 2.44 2.42 2.42
+-1 Sigma Chi 31 9 2.43 2.43 2.56 2.29
+-1 Delta Upsilon 35 9 2.43 2.44 2.42 2.42
 -1 Phi Delta Theta 50 9 2.43 2.35 2.46 2.45
--1 /eta Psi 44 10 2.42 2.53 2.48 2.26
--I Theta Xi 25 11 2.41 2.29 2.37 2.54
+-1 Zeta Psi 44 10 2.42 2.53 2.48 2.26
+-1 Theta Xi 25 11 2.41 2.29 2.37 2.54
 -1 Delta Chi 30 12 2.40 2.29 2.39 2.48
--2 Delta Tan Delta 37 13 2.39 2.45 2.29 2.45
+-2 Delta Tau Delta 37 13 2.39 2.45 2.29 2.45
 -2 Delta Kappa Epsilon 46 14 2.37 2.52 2.30 2.32
-v-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
+-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
 -2 Sigma Alpha Epsilon 39 16 2.35 2.30 2.35 2.40
 -2 Phi Sigma Kappa 19 17 2.32 2.43 2.29 2.28
 -2 Alpha Sigma Phi 26 18 2.29 2.25 2.34 2.28
@@ -1009,26 +1009,26 @@ I Alpha Omicron I'i 24 6 2.63 2.69 2.62 2.59
 HI Pi Beta Phi 27 7 2.59 2.67 2.59 2.56
 -1 Delta Delta Delta 18 8 2.51 2.64 2.44 2.49
 Fraternities
-11 Alpha Tail Omega 23 1 2.64 2.60 2.68 2.63
-I Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
-I Kappa Sigma 39 3 2.57 2.57 2.56 2.57
--1 Sigma Nil 43 4 2.54 2.55 2.48 2.60
++1 Alpha Tau Omega 23 1 2.64 2.60 2.68 2.63
++1 Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
++1 Kappa Sigma 39 3 2.57 2.57 2.56 2.57
+-1 Sigma Nu 43 4 2.54 2.55 2.48 2.60
 -1 Phi Kappa Psi 43 4 2.54 2.65 2.45 2.54
--1 Phi Kappa Sigma . 36 5 2.52 2.52 2.47 2.58
-• 1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
--I Theta Chi 35 7 2.48 2.47 2.60 2.39
+-1 Phi Kappa Sigma 36 5 2.52 2.52 2.47 2.58
+-1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
+-1 Theta Chi 35 7 2.48 2.47 2.60 2.39
 -1 Chi Psi 39 8 2.47 2.44 2.47 2.49
 -1 Alpha Kappa Lambda 19 8 2.47 2.27 2.49 2.63
 -1 Phi Gamma Delta 35 9 2.43 2.39 2.48 2.42
-T 1 Sigma Chi 31 9 2.43 2.43 2756 2.29
-• I Delta Upsilott 35 9 2.43 2.44 2.42 2.42
+-1 Sigma Chi 31 9 2.43 2.43 2.56 2.29
+-1 Delta Upsilon 35 9 2.43 2.44 2.42 2.42
 -1 Phi Delta Theta 50 9 2.43 2.35 2.46 2.45
--1 /eta Psi 44 10 2.42 2.53 2.48 2.26
--I Theta Xi 25 11 2.41 2.29 2.37 2.54
+-1 Zeta Psi 44 10 2.42 2.53 2.48 2.26
+-1 Theta Xi 25 11 2.41 2.29 2.37 2.54
 -1 Delta Chi 30 12 2.40 2.29 2.39 2.48
--2 Delta Tan Delta 37 13 2.39 2.45 2.29 2.45
+-2 Delta Tau Delta 37 13 2.39 2.45 2.29 2.45
 -2 Delta Kappa Epsilon 46 14 2.37 2.52 2.30 2.32
-v-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
+-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
 -2 Sigma Alpha Epsilon 39 16 2.35 2.30 2.35 2.40
 -2 Phi Sigma Kappa 19 17 2.32 2.43 2.29 2.28
 -2 Alpha Sigma Phi 26 18 2.29 2.25 2.34 2.28
@@ -1138,26 +1138,26 @@ I Alpha Omicron I'i 24 6 2.63 2.69 2.62 2.59
 HI Pi Beta Phi 27 7 2.59 2.67 2.59 2.56
 -1 Delta Delta Delta 18 8 2.51 2.64 2.44 2.49
 Fraternities
-11 Alpha Tail Omega 23 1 2.64 2.60 2.68 2.63
-I Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
-I Kappa Sigma 39 3 2.57 2.57 2.56 2.57
--1 Sigma Nil 43 4 2.54 2.55 2.48 2.60
++1 Alpha Tau Omega 23 1 2.64 2.60 2.68 2.63
++1 Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
++1 Kappa Sigma 39 3 2.57 2.57 2.56 2.57
+-1 Sigma Nu 43 4 2.54 2.55 2.48 2.60
 -1 Phi Kappa Psi 43 4 2.54 2.65 2.45 2.54
--1 Phi Kappa Sigma . 36 5 2.52 2.52 2.47 2.58
-• 1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
--I Theta Chi 35 7 2.48 2.47 2.60 2.39
+-1 Phi Kappa Sigma 36 5 2.52 2.52 2.47 2.58
+-1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
+-1 Theta Chi 35 7 2.48 2.47 2.60 2.39
 -1 Chi Psi 39 8 2.47 2.44 2.47 2.49
 -1 Alpha Kappa Lambda 19 8 2.47 2.27 2.49 2.63
 -1 Phi Gamma Delta 35 9 2.43 2.39 2.48 2.42
-T 1 Sigma Chi 31 9 2.43 2.43 2756 2.29
-• I Delta Upsilott 35 9 2.43 2.44 2.42 2.42
+-1 Sigma Chi 31 9 2.43 2.43 2.56 2.29
+-1 Delta Upsilon 35 9 2.43 2.44 2.42 2.42
 -1 Phi Delta Theta 50 9 2.43 2.35 2.46 2.45
--1 /eta Psi 44 10 2.42 2.53 2.48 2.26
--I Theta Xi 25 11 2.41 2.29 2.37 2.54
+-1 Zeta Psi 44 10 2.42 2.53 2.48 2.26
+-1 Theta Xi 25 11 2.41 2.29 2.37 2.54
 -1 Delta Chi 30 12 2.40 2.29 2.39 2.48
--2 Delta Tan Delta 37 13 2.39 2.45 2.29 2.45
+-2 Delta Tau Delta 37 13 2.39 2.45 2.29 2.45
 -2 Delta Kappa Epsilon 46 14 2.37 2.52 2.30 2.32
-v-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
+-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
 -2 Sigma Alpha Epsilon 39 16 2.35 2.30 2.35 2.40
 -2 Phi Sigma Kappa 19 17 2.32 2.43 2.29 2.28
 -2 Alpha Sigma Phi 26 18 2.29 2.25 2.34 2.28
@@ -1267,26 +1267,26 @@ I Alpha Omicron I'i 24 6 2.63 2.69 2.62 2.59
 HI Pi Beta Phi 27 7 2.59 2.67 2.59 2.56
 -1 Delta Delta Delta 18 8 2.51 2.64 2.44 2.49
 Fraternities
-11 Alpha Tail Omega 23 1 2.64 2.60 2.68 2.63
-I Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
-I Kappa Sigma 39 3 2.57 2.57 2.56 2.57
--1 Sigma Nil 43 4 2.54 2.55 2.48 2.60
++1 Alpha Tau Omega 23 1 2.64 2.60 2.68 2.63
++1 Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
++1 Kappa Sigma 39 3 2.57 2.57 2.56 2.57
+-1 Sigma Nu 43 4 2.54 2.55 2.48 2.60
 -1 Phi Kappa Psi 43 4 2.54 2.65 2.45 2.54
--1 Phi Kappa Sigma . 36 5 2.52 2.52 2.47 2.58
-• 1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
--I Theta Chi 35 7 2.48 2.47 2.60 2.39
+-1 Phi Kappa Sigma 36 5 2.52 2.52 2.47 2.58
+-1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
+-1 Theta Chi 35 7 2.48 2.47 2.60 2.39
 -1 Chi Psi 39 8 2.47 2.44 2.47 2.49
 -1 Alpha Kappa Lambda 19 8 2.47 2.27 2.49 2.63
 -1 Phi Gamma Delta 35 9 2.43 2.39 2.48 2.42
-T 1 Sigma Chi 31 9 2.43 2.43 2756 2.29
-• I Delta Upsilott 35 9 2.43 2.44 2.42 2.42
+-1 Sigma Chi 31 9 2.43 2.43 2.56 2.29
+-1 Delta Upsilon 35 9 2.43 2.44 2.42 2.42
 -1 Phi Delta Theta 50 9 2.43 2.35 2.46 2.45
--1 /eta Psi 44 10 2.42 2.53 2.48 2.26
--I Theta Xi 25 11 2.41 2.29 2.37 2.54
+-1 Zeta Psi 44 10 2.42 2.53 2.48 2.26
+-1 Theta Xi 25 11 2.41 2.29 2.37 2.54
 -1 Delta Chi 30 12 2.40 2.29 2.39 2.48
--2 Delta Tan Delta 37 13 2.39 2.45 2.29 2.45
+-2 Delta Tau Delta 37 13 2.39 2.45 2.29 2.45
 -2 Delta Kappa Epsilon 46 14 2.37 2.52 2.30 2.32
-v-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
+-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
 -2 Sigma Alpha Epsilon 39 16 2.35 2.30 2.35 2.40
 -2 Phi Sigma Kappa 19 17 2.32 2.43 2.29 2.28
 -2 Alpha Sigma Phi 26 18 2.29 2.25 2.34 2.28
@@ -1396,26 +1396,26 @@ I Alpha Omicron I'i 24 6 2.63 2.69 2.62 2.59
 HI Pi Beta Phi 27 7 2.59 2.67 2.59 2.56
 -1 Delta Delta Delta 18 8 2.51 2.64 2.44 2.49
 Fraternities
-11 Alpha Tail Omega 23 1 2.64 2.60 2.68 2.63
-I Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
-I Kappa Sigma 39 3 2.57 2.57 2.56 2.57
--1 Sigma Nil 43 4 2.54 2.55 2.48 2.60
++1 Alpha Tau Omega 23 1 2.64 2.60 2.68 2.63
++1 Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
++1 Kappa Sigma 39 3 2.57 2.57 2.56 2.57
+-1 Sigma Nu 43 4 2.54 2.55 2.48 2.60
 -1 Phi Kappa Psi 43 4 2.54 2.65 2.45 2.54
--1 Phi Kappa Sigma . 36 5 2.52 2.52 2.47 2.58
-• 1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
--I Theta Chi 35 7 2.48 2.47 2.60 2.39
+-1 Phi Kappa Sigma 36 5 2.52 2.52 2.47 2.58
+-1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
+-1 Theta Chi 35 7 2.48 2.47 2.60 2.39
 -1 Chi Psi 39 8 2.47 2.44 2.47 2.49
 -1 Alpha Kappa Lambda 19 8 2.47 2.27 2.49 2.63
 -1 Phi Gamma Delta 35 9 2.43 2.39 2.48 2.42
-T 1 Sigma Chi 31 9 2.43 2.43 2756 2.29
-• I Delta Upsilott 35 9 2.43 2.44 2.42 2.42
+-1 Sigma Chi 31 9 2.43 2.43 2.56 2.29
+-1 Delta Upsilon 35 9 2.43 2.44 2.42 2.42
 -1 Phi Delta Theta 50 9 2.43 2.35 2.46 2.45
--1 /eta Psi 44 10 2.42 2.53 2.48 2.26
--I Theta Xi 25 11 2.41 2.29 2.37 2.54
+-1 Zeta Psi 44 10 2.42 2.53 2.48 2.26
+-1 Theta Xi 25 11 2.41 2.29 2.37 2.54
 -1 Delta Chi 30 12 2.40 2.29 2.39 2.48
--2 Delta Tan Delta 37 13 2.39 2.45 2.29 2.45
+-2 Delta Tau Delta 37 13 2.39 2.45 2.29 2.45
 -2 Delta Kappa Epsilon 46 14 2.37 2.52 2.30 2.32
-v-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
+-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
 -2 Sigma Alpha Epsilon 39 16 2.35 2.30 2.35 2.40
 -2 Phi Sigma Kappa 19 17 2.32 2.43 2.29 2.28
 -2 Alpha Sigma Phi 26 18 2.29 2.25 2.34 2.28
@@ -1525,26 +1525,26 @@ I Alpha Omicron I'i 24 6 2.63 2.69 2.62 2.59
 HI Pi Beta Phi 27 7 2.59 2.67 2.59 2.56
 -1 Delta Delta Delta 18 8 2.51 2.64 2.44 2.49
 Fraternities
-11 Alpha Tail Omega 23 1 2.64 2.60 2.68 2.63
-I Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
-I Kappa Sigma 39 3 2.57 2.57 2.56 2.57
--1 Sigma Nil 43 4 2.54 2.55 2.48 2.60
++1 Alpha Tau Omega 23 1 2.64 2.60 2.68 2.63
++1 Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
++1 Kappa Sigma 39 3 2.57 2.57 2.56 2.57
+-1 Sigma Nu 43 4 2.54 2.55 2.48 2.60
 -1 Phi Kappa Psi 43 4 2.54 2.65 2.45 2.54
--1 Phi Kappa Sigma . 36 5 2.52 2.52 2.47 2.58
-• 1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
--I Theta Chi 35 7 2.48 2.47 2.60 2.39
+-1 Phi Kappa Sigma 36 5 2.52 2.52 2.47 2.58
+-1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
+-1 Theta Chi 35 7 2.48 2.47 2.60 2.39
 -1 Chi Psi 39 8 2.47 2.44 2.47 2.49
 -1 Alpha Kappa Lambda 19 8 2.47 2.27 2.49 2.63
 -1 Phi Gamma Delta 35 9 2.43 2.39 2.48 2.42
-T 1 Sigma Chi 31 9 2.43 2.43 2756 2.29
-• I Delta Upsilott 35 9 2.43 2.44 2.42 2.42
+-1 Sigma Chi 31 9 2.43 2.43 2.56 2.29
+-1 Delta Upsilon 35 9 2.43 2.44 2.42 2.42
 -1 Phi Delta Theta 50 9 2.43 2.35 2.46 2.45
--1 /eta Psi 44 10 2.42 2.53 2.48 2.26
--I Theta Xi 25 11 2.41 2.29 2.37 2.54
+-1 Zeta Psi 44 10 2.42 2.53 2.48 2.26
+-1 Theta Xi 25 11 2.41 2.29 2.37 2.54
 -1 Delta Chi 30 12 2.40 2.29 2.39 2.48
--2 Delta Tan Delta 37 13 2.39 2.45 2.29 2.45
+-2 Delta Tau Delta 37 13 2.39 2.45 2.29 2.45
 -2 Delta Kappa Epsilon 46 14 2.37 2.52 2.30 2.32
-v-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
+-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
 -2 Sigma Alpha Epsilon 39 16 2.35 2.30 2.35 2.40
 -2 Phi Sigma Kappa 19 17 2.32 2.43 2.29 2.28
 -2 Alpha Sigma Phi 26 18 2.29 2.25 2.34 2.28
@@ -1654,26 +1654,26 @@ I Alpha Omicron I'i 24 6 2.63 2.69 2.62 2.59
 HI Pi Beta Phi 27 7 2.59 2.67 2.59 2.56
 -1 Delta Delta Delta 18 8 2.51 2.64 2.44 2.49
 Fraternities
-11 Alpha Tail Omega 23 1 2.64 2.60 2.68 2.63
-I Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
-I Kappa Sigma 39 3 2.57 2.57 2.56 2.57
--1 Sigma Nil 43 4 2.54 2.55 2.48 2.60
++1 Alpha Tau Omega 23 1 2.64 2.60 2.68 2.63
++1 Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
++1 Kappa Sigma 39 3 2.57 2.57 2.56 2.57
+-1 Sigma Nu 43 4 2.54 2.55 2.48 2.60
 -1 Phi Kappa Psi 43 4 2.54 2.65 2.45 2.54
--1 Phi Kappa Sigma . 36 5 2.52 2.52 2.47 2.58
-• 1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
--I Theta Chi 35 7 2.48 2.47 2.60 2.39
+-1 Phi Kappa Sigma 36 5 2.52 2.52 2.47 2.58
+-1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
+-1 Theta Chi 35 7 2.48 2.47 2.60 2.39
 -1 Chi Psi 39 8 2.47 2.44 2.47 2.49
 -1 Alpha Kappa Lambda 19 8 2.47 2.27 2.49 2.63
 -1 Phi Gamma Delta 35 9 2.43 2.39 2.48 2.42
-T 1 Sigma Chi 31 9 2.43 2.43 2756 2.29
-• I Delta Upsilott 35 9 2.43 2.44 2.42 2.42
+-1 Sigma Chi 31 9 2.43 2.43 2.56 2.29
+-1 Delta Upsilon 35 9 2.43 2.44 2.42 2.42
 -1 Phi Delta Theta 50 9 2.43 2.35 2.46 2.45
--1 /eta Psi 44 10 2.42 2.53 2.48 2.26
--I Theta Xi 25 11 2.41 2.29 2.37 2.54
+-1 Zeta Psi 44 10 2.42 2.53 2.48 2.26
+-1 Theta Xi 25 11 2.41 2.29 2.37 2.54
 -1 Delta Chi 30 12 2.40 2.29 2.39 2.48
--2 Delta Tan Delta 37 13 2.39 2.45 2.29 2.45
+-2 Delta Tau Delta 37 13 2.39 2.45 2.29 2.45
 -2 Delta Kappa Epsilon 46 14 2.37 2.52 2.30 2.32
-v-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
+-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
 -2 Sigma Alpha Epsilon 39 16 2.35 2.30 2.35 2.40
 -2 Phi Sigma Kappa 19 17 2.32 2.43 2.29 2.28
 -2 Alpha Sigma Phi 26 18 2.29 2.25 2.34 2.28
@@ -1783,26 +1783,26 @@ I Alpha Omicron I'i 24 6 2.63 2.69 2.62 2.59
 HI Pi Beta Phi 27 7 2.59 2.67 2.59 2.56
 -1 Delta Delta Delta 18 8 2.51 2.64 2.44 2.49
 Fraternities
-11 Alpha Tail Omega 23 1 2.64 2.60 2.68 2.63
-I Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
-I Kappa Sigma 39 3 2.57 2.57 2.56 2.57
--1 Sigma Nil 43 4 2.54 2.55 2.48 2.60
++1 Alpha Tau Omega 23 1 2.64 2.60 2.68 2.63
++1 Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
++1 Kappa Sigma 39 3 2.57 2.57 2.56 2.57
+-1 Sigma Nu 43 4 2.54 2.55 2.48 2.60
 -1 Phi Kappa Psi 43 4 2.54 2.65 2.45 2.54
--1 Phi Kappa Sigma . 36 5 2.52 2.52 2.47 2.58
-• 1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
--I Theta Chi 35 7 2.48 2.47 2.60 2.39
+-1 Phi Kappa Sigma 36 5 2.52 2.52 2.47 2.58
+-1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
+-1 Theta Chi 35 7 2.48 2.47 2.60 2.39
 -1 Chi Psi 39 8 2.47 2.44 2.47 2.49
 -1 Alpha Kappa Lambda 19 8 2.47 2.27 2.49 2.63
 -1 Phi Gamma Delta 35 9 2.43 2.39 2.48 2.42
-T 1 Sigma Chi 31 9 2.43 2.43 2756 2.29
-• I Delta Upsilott 35 9 2.43 2.44 2.42 2.42
+-1 Sigma Chi 31 9 2.43 2.43 2.56 2.29
+-1 Delta Upsilon 35 9 2.43 2.44 2.42 2.42
 -1 Phi Delta Theta 50 9 2.43 2.35 2.46 2.45
--1 /eta Psi 44 10 2.42 2.53 2.48 2.26
--I Theta Xi 25 11 2.41 2.29 2.37 2.54
+-1 Zeta Psi 44 10 2.42 2.53 2.48 2.26
+-1 Theta Xi 25 11 2.41 2.29 2.37 2.54
 -1 Delta Chi 30 12 2.40 2.29 2.39 2.48
--2 Delta Tan Delta 37 13 2.39 2.45 2.29 2.45
+-2 Delta Tau Delta 37 13 2.39 2.45 2.29 2.45
 -2 Delta Kappa Epsilon 46 14 2.37 2.52 2.30 2.32
-v-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
+-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
 -2 Sigma Alpha Epsilon 39 16 2.35 2.30 2.35 2.40
 -2 Phi Sigma Kappa 19 17 2.32 2.43 2.29 2.28
 -2 Alpha Sigma Phi 26 18 2.29 2.25 2.34 2.28
@@ -1912,26 +1912,26 @@ I Alpha Omicron I'i 24 6 2.63 2.69 2.62 2.59
 HI Pi Beta Phi 27 7 2.59 2.67 2.59 2.56
 -1 Delta Delta Delta 18 8 2.51 2.64 2.44 2.49
 Fraternities
-11 Alpha Tail Omega 23 1 2.64 2.60 2.68 2.63
-I Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
-I Kappa Sigma 39 3 2.57 2.57 2.56 2.57
--1 Sigma Nil 43 4 2.54 2.55 2.48 2.60
++1 Alpha Tau Omega 23 1 2.64 2.60 2.68 2.63
++1 Theta Delta Chi 38 2 2.61 2.58 2.65 2.60
++1 Kappa Sigma 39 3 2.57 2.57 2.56 2.57
+-1 Sigma Nu 43 4 2.54 2.55 2.48 2.60
 -1 Phi Kappa Psi 43 4 2.54 2.65 2.45 2.54
--1 Phi Kappa Sigma . 36 5 2.52 2.52 2.47 2.58
-• 1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
--I Theta Chi 35 7 2.48 2.47 2.60 2.39
+-1 Phi Kappa Sigma 36 5 2.52 2.52 2.47 2.58
+-1 Kappa Alpha 23 6 2.50 2.52 2.42 2.57
+-1 Theta Chi 35 7 2.48 2.47 2.60 2.39
 -1 Chi Psi 39 8 2.47 2.44 2.47 2.49
 -1 Alpha Kappa Lambda 19 8 2.47 2.27 2.49 2.63
 -1 Phi Gamma Delta 35 9 2.43 2.39 2.48 2.42
-T 1 Sigma Chi 31 9 2.43 2.43 2756 2.29
-• I Delta Upsilott 35 9 2.43 2.44 2.42 2.42
+-1 Sigma Chi 31 9 2.43 2.43 2.56 2.29
+-1 Delta Upsilon 35 9 2.43 2.44 2.42 2.42
 -1 Phi Delta Theta 50 9 2.43 2.35 2.46 2.45
--1 /eta Psi 44 10 2.42 2.53 2.48 2.26
--I Theta Xi 25 11 2.41 2.29 2.37 2.54
+-1 Zeta Psi 44 10 2.42 2.53 2.48 2.26
+-1 Theta Xi 25 11 2.41 2.29 2.37 2.54
 -1 Delta Chi 30 12 2.40 2.29 2.39 2.48
--2 Delta Tan Delta 37 13 2.39 2.45 2.29 2.45
+-2 Delta Tau Delta 37 13 2.39 2.45 2.29 2.45
 -2 Delta Kappa Epsilon 46 14 2.37 2.52 2.30 2.32
-v-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
+-2 Beta Theta Pi 31 15 2.36 2.46 2.33 2.32
 -2 Sigma Alpha Epsilon 39 16 2.35 2.30 2.35 2.40
 -2 Phi Sigma Kappa 19 17 2.32 2.43 2.29 2.28
 -2 Alpha Sigma Phi 26 18 2.29 2.25 2.34 2.28

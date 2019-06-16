@@ -1,0 +1,146 @@
+# Starter pipeline
+# Start with a minimal pipeline that you can customize to build and deploy your code.
+# Add steps that build, run tests, deploy, and more:
+# https://aka.ms/yaml
+
+trigger:
+- master
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+
+- task: UsePythonVersion@0
+  inputs:
+    versionSpec: '3.7'
+    addToPath: true
+    architecture: 'x64'
+
+- task: PythonScript@0
+  inputs:
+    scriptSource: 'filePath'
+    scriptPath: 'process.py'
+
+- task: InstallSSHKey@0
+  inputs:
+    knownHostsEntry: 'bitbucket.org,104.192.143.1 ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAubiN81eDcafrgMeLzaFPsw2kNvEcqTKl/VqLat/MaB33pZy0y3rJZtnqwR2qOOvbwKZYKiEO1O6VqNEBxKvJJelCq0dTXWT5pbO2gDXC6h6QDXCaHo6pOHGPUy+YBaGQRGuSusMEASYiWunYN0vCAI8QaXnWMXNMdFP3jHAJH0eDsoiGnLPBlBp4TNm6rYI74nMzgz3B9IikW4WVK+dc8KZJZWYjAuORU3jc1c/NPskD2ASinf8v3xnfXeukU0sJ5N6m5E8VLjObPEO+mN2t/FZTMZLiFqPWc/ALSqnMnnhwrNi2rbfg/rd/IpL8Le3pSBne8+seeFVBoGqzHM9yXw=='
+    sshPublicKey: 'ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDLdZTXcK+KGQFa9TgVSVlLpPOlzCOsfFfKKSDxG3PoWIVRHUKiugIK8oCPMUGYS2E4Vh8pzSK49nldKDS3LGl4Hk563BVXqiEoh/eBxFe0mCSJcKRTW7fvBhED1/2IqHCXSxjM3Ij8F04voN1rSqACnIsnjSsCbyV1tobV2WCOeb4G6UdwLno/tZq3jHaUO8MxyVV+HgNOgZyHnJsBPsb+k4JOcwps8WoNOYpXPXbtw9BNiZmGXdGj34Ge+3aLzKdpK69osLVo3yTEcXV6DYfNHI5YuRVQjmpK9u5UEc0pEbfpkrBkS771ctispzCRiS/nN6ryCD6IcdzSD9ptGr3d'
+    sshKeySecureFile: 'id_rsa'
+
+- task: Bash@3
+  timeoutInMinutes: 0
+  inputs:
+    targetType: 'filePath'
+    filePath: 'upload.sh'
+  env:
+      century: 18xx
+      decade: 189x
+
+- task: Bash@3
+  timeoutInMinutes: 0
+  inputs:
+    targetType: 'filePath'
+    filePath: 'upload.sh'
+  env:
+      century: 19xx
+      decade: 190x
+
+- task: Bash@3
+  timeoutInMinutes: 0
+  inputs:
+    targetType: 'filePath'
+    filePath: 'upload.sh'
+  env:
+      century: 19xx
+      decade: 191x
+
+- task: Bash@3
+  timeoutInMinutes: 0
+  inputs:
+    targetType: 'filePath'
+    filePath: 'upload.sh'
+  env:
+      century: 19xx
+      decade: 192x
+      
+- task: Bash@3
+  timeoutInMinutes: 0
+  inputs:
+    targetType: 'filePath'
+    filePath: 'upload.sh'
+  env:
+      century: 19xx
+      decade: 193x
+
+- task: Bash@3
+  timeoutInMinutes: 0
+  inputs:
+    targetType: 'filePath'
+    filePath: 'upload.sh'
+  env:
+      century: 19xx
+      decade: 194x
+      
+- task: Bash@3
+  timeoutInMinutes: 0
+  inputs:
+    targetType: 'filePath'
+    filePath: 'upload.sh'
+  env:
+      century: 19xx
+      decade: 195x
+
+- task: Bash@3
+  timeoutInMinutes: 0
+  inputs:
+    targetType: 'filePath'
+    filePath: 'upload.sh'
+  env:
+      century: 19xx
+      decade: 196x
+
+- task: Bash@3
+  timeoutInMinutes: 0
+  inputs:
+    targetType: 'filePath'
+    filePath: 'upload.sh'
+  env:
+      century: 19xx
+      decade: 197x
+
+- task: Bash@3
+  timeoutInMinutes: 0
+  inputs:
+    targetType: 'filePath'
+    filePath: 'upload.sh'
+  env:
+      century: 19xx
+      decade: 198x
+      
+- task: Bash@3
+  timeoutInMinutes: 0
+  inputs:
+    targetType: 'filePath'
+    filePath: 'upload.sh'
+  env:
+      century: 19xx
+      decade: 199x
+
+- task: Bash@3
+  timeoutInMinutes: 0
+  inputs:
+    targetType: 'filePath'
+    filePath: 'upload.sh'
+  env:
+      century: 20xx
+      decade: 200x
+ 
+- task: Bash@3
+  timeoutInMinutes: 0
+  inputs:
+    targetType: 'filePath'
+    filePath: 'upload.sh'
+  env:
+      century: 20xx
+      decade: 201x

@@ -19,8 +19,13 @@ for year in filter(os.path.isdir, years):
             for filename in os.listdir(os.path.join(year, month, day)):
                 file_path = os.path.join(year, month, day, filename)
                 with open(file_path, "r") as file:
-                    _, title = file.readline().split("# ", 1)
-                    title = title.strip()[:MAX_TITLE_LENGTH]
+                    first_line = file.readline()
+                    try:
+                        _, title = first_line.split("# ", 1)
+                        title = title.strip()[:MAX_TITLE_LENGTH]
+                    except ValueError:
+                        print("Error parsing first line: {}".format(first_line))
+                        title = "Untitled article"
                 encoded_title = base64.urlsafe_b64encode(title.encode("utf-8")).decode("utf-8")
                 new_path = os.path.join(year, month, day, filename)
                 new_filename = filename

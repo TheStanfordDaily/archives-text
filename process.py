@@ -18,7 +18,7 @@ for year in filter(os.path.isdir, years):
             os.makedirs(new_dir, exist_ok=True)
             for filename in os.listdir(os.path.join(year, month, day)):
                 file_path = os.path.join(year, month, day, filename)
-                with open(file_path, "r") as file:
+                with open(file_path, "r", errors='ignore') as file:
                     first_line = file.readline()
                     try:
                         _, title = first_line.split("# ", 1)

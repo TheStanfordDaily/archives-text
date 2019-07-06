@@ -163,7 +163,7 @@ stages:
         filePath: 'upload.sh'
       env:
           century: 20xx
-        decade: 200x
+          decade: 200x
   
   - job: 201x
     steps:

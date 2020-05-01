@@ -13,11 +13,14 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
+    - run: git init
     - uses: fregante/setup-git-token@v1
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
       
-    - run: git clone https://github.com/TheStanfordDaily/archives-text.git
+    - run: |
+        git remote add origin https://github.com/TheStanfordDaily/archives-text.git
+        git pull origin master
     
     - name: process files - TODO
       run: |

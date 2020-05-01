@@ -1,0 +1,33 @@
+name: run corrections
+
+# todo: make so that it runs on something other than push, because that sounds annoying.
+
+on:
+  push:
+    branches:
+      - fix-repeats-and-whitespace
+      
+jobs:
+  fix_repeats_and_whitespace:
+    name: job runs python script to fix repeats/whitespace
+    runs-on: ubuntu-latest
+    
+    - uses: fregante/setup-git-token@v1
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+      
+    - run: git clone https://github.com/TheStanfordDaily/archives-text.git
+    
+    - name: process files - TODO
+      run: |
+        ls
+        git status
+        echo "new file contents" > newfile.txt
+        git add newfile.txt
+      working-directory: archives-text
+        
+    - name: Commit and push files
+      run: |
+        git commit -m "Add changes" -a
+        git push origin master:fixed-whitespace
+      working-directory: archives-text
